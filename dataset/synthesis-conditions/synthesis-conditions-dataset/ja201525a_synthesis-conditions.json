@@ -1,0 +1,62 @@
+{
+  "materials": [
+    {
+      "name": "Cu8O(tta)12(ClO4)2·2H2O",
+      "synthesis_conditions": {
+        "temperature": "180 °C",
+        "solvents": [
+          {
+            "name": "distilled water",
+            "amount": "7 mL"
+          },
+          {
+            "name": "HClO4 solution (ca. 70%)",
+            "amount": "adjusted to pH = 2"
+          }
+        ],
+        "equipment": "15 mL Teflon-lined autoclave",
+        "chemicals_used": [
+          {
+            "name": "CuCl2",
+            "amount": "0.068 g (0.4 mmol)"
+          },
+          {
+            "name": "tetrazole",
+            "amount": "0.028 g (0.4 mmol)"
+          }
+        ],
+        "time": "74 h",
+        "yield": "45%",
+        "washing_method": "filtered",
+        "drying_method": "room temperature",
+        "analytical_data": {
+          "calculated": {
+            "C": "9.01",
+            "H": "1.76",
+            "N": "42.04"
+          },
+          "found": {
+            "C": "8.79",
+            "H": "1.90",
+            "N": "39.85"
+          }
+        },
+        "IR_data": "3149 m, 3127, 1633w, 1399s, 1163w, 1094s, 1054w, 622w"
+      }
+    }
+  ],
+  "general_remarks": {
+    "FT-IR_spectra": "recorded from KBr pellets in range 400-4000 cm-1 on a Nicolet 5DX spectrometer",
+    "elemental_analyses": "performed on a Vario III elemental analyzer",
+    "magnetic_measurements": "performed with Quantum Design SQUID MPMS XL-5 instruments",
+    "ESR_spectrum": "performed on a JES-FA200 Electron Spin Resonance Spectrometer at room temperature",
+    "XPS_experiment": "performed on a Thermo-VG Scientific ESCALAB 250 XPS system equipped with an Al Ka monochromator X-ray source"
+  },
+  "computational_details": {
+    "calculations_performed_at": "DFT level with DMol3 program in the Materials studio of Accelrys Inc.",
+    "exchange_and_correlation_energies": "calculated using the Perdew and Wang functional (PW91) within the generalized gradient corrected (GGA) approximation",
+    "basis_set": "double numerical basis set augmented with d-polarization function (DNP)",
+    "numerical_integration": "fine quality mesh size",
+    "calculation_type": "all-electronic spin-unrestricted calculation"
+  }
+}

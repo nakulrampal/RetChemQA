@@ -1,0 +1,117 @@
+{
+  "materials": [
+    {
+      "name": "UNLPF-1",
+      "synthesis_conditions": {
+        "temperature": "80°C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformaldehyde (DMF)",
+            "amount": "6 mL"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "0.2 mL"
+          }
+        ],
+        "equipment": "solvothermal reaction",
+        "chemicals_used": [
+          {
+            "name": "H10TBCPPP",
+            "amount": "8 mg"
+          },
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "11 mg"
+          }
+        ],
+        "time": "72 hrs",
+        "washing_method": "washed with pure ethanol",
+        "drying_method": "vacuum filtration",
+        "yield": "72% based on OCP-3"
+      }
+    },
+    {
+      "name": "3,5-bis[(4-methoxycarbonyl)phenyl]benzaldehyde (1)",
+      "synthesis_conditions": {
+        "temperature": "80°C",
+        "solvents": "MeOH",
+        "equipment": "refluxed under Ar",
+        "chemicals_used": [
+          {
+            "name": "3,5-dibromobenzaldehyde",
+            "amount": "2.95 g"
+          },
+          {
+            "name": "4-methoxycarbonyl-benzene boronic acid",
+            "amount": "5.05 g"
+          },
+          {
+            "name": "sodium carbonate",
+            "amount": "11.890 g"
+          },
+          {
+            "name": "Pd(PPh3)4",
+            "amount": "0.4863 g"
+          }
+        ],
+        "time": "18 hrs",
+        "washing_method": "washed with MeOH",
+        "drying_method": "dried in vacuo",
+        "yield": "88%"
+      }
+    },
+    {
+      "name": "tetrakis 3,5-bis[(4-methoxycarbonyl)phenyl]phenyl porphine (2)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": "dichloromethane",
+        "equipment": "stirred under Ar",
+        "chemicals_used": [
+          {
+            "name": "3,5-bis[(4-methoxycarbonyl)phenyl]benzaldehyde",
+            "amount": "1.8611 g"
+          },
+          {
+            "name": "pyrrole",
+            "amount": "342 μL"
+          },
+          {
+            "name": "BF3·∙Et2O",
+            "amount": "62.8 μL"
+          },
+          {
+            "name": "2,3-Dichloro-5,6-dicyano-1,4-benzoquinone",
+            "amount": "0.8526g"
+          }
+        ],
+        "time": "20 hrs",
+        "washing_method": "washed with methanol",
+        "drying_method": "dried in vacuo",
+        "yield": "34.3%"
+      }
+    },
+    {
+      "name": "tetrakis 3,5-bis[(4-carboxy)phenyl]phenyl porphine (OCP-3) (3)",
+      "synthesis_conditions": {
+        "temperature": "80°C",
+        "solvents": "THF/H2O (v/v 1:1)",
+        "equipment": "refluxed",
+        "chemicals_used": [
+          {
+            "name": "tetrakis 3,5-bis[(4-methoxycarbonyl)phenyl]phenyl porphine",
+            "amount": "0.72 g"
+          },
+          {
+            "name": "potassium hydroxide",
+            "amount": "0.577 g"
+          }
+        ],
+        "time": "3 days",
+        "washing_method": "acidified to pH of 1 with hydrochloric acid and collected by vacuum filtration",
+        "drying_method": "vacuum filtration",
+        "yield": "96%"
+      }
+    }
+  ]
+}

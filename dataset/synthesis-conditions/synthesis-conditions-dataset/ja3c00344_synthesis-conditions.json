@@ -1,0 +1,128 @@
+{
+  "materials": [
+    {
+      "name": "2-methyl-5,6-difluorobenzimidazole",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "4,5-difluorobenzene-1,2-diamine",
+            "amount": "3.000 g",
+            "mmol": "20.86 mmol"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "2.500 mL",
+            "mmol": "43.74 mmol"
+          }
+        ],
+        "solvents": [],
+        "temperature": "120 °C",
+        "time": "6 h",
+        "yield": "89%",
+        "characterization": [
+          {
+            "technique": "1H NMR",
+            "solvent": "DMSO-d6",
+            "frequency": "500 MHz",
+            "data": "δ = 12.36 (s, 1H), 7.46 (t, J = 10.2 Hz, 2H), 2.43 (s, 3H)"
+          },
+          {
+            "technique": "1H NMR",
+            "solvent": "Trifluoroacetic acid-d1",
+            "frequency": "500 MHz",
+            "data": "δ = 7.6 (t, J = 7.6 Hz, 2H), 2.97 (s, 3H)"
+          },
+          {
+            "technique": "19F NMR",
+            "solvent": "DMSO-d6",
+            "frequency": "471 MHz",
+            "data": "δ = –146.05 (d, J = 582.3 Hz)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CdIF-13",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "Cd(ClO4)2∙xH2O",
+            "amount": "310 mg"
+          },
+          {
+            "name": "benzimidazole",
+            "amount": "118 mg",
+            "mmol": "1.00 mmol"
+          },
+          {
+            "name": "DMF",
+            "amount": "2 mL"
+          }
+        ],
+        "temperature": "130 °C",
+        "time": "24 h",
+        "yield": "55%",
+        "characterization": [
+          {
+            "technique": "PXRD",
+            "data": "Confirmed structural integrity and phase transition"
+          },
+          {
+            "technique": "1H NMR",
+            "solvent": "DMSO-d6",
+            "data": "Confirmed complete removal of DMF"
+          },
+          {
+            "technique": "Nitrogen adsorption",
+            "temperature": "77 K",
+            "data": "Confirmed phase purity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cd(bim)1.87(2M56DFbim)0.13",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "Cd(ClO4)2∙xH2O",
+            "amount": "300 mg"
+          },
+          {
+            "name": "benzimidazole",
+            "amount": "106 mg",
+            "mmol": "0.900 mmol"
+          },
+          {
+            "name": "2-methyl-5,6-difluorobenzimidazole (2M56DFbim)",
+            "amount": "17 mg",
+            "mmol": "0.10 mmol"
+          },
+          {
+            "name": "DMF",
+            "amount": "2 mL"
+          }
+        ],
+        "temperature": "130 °C",
+        "time": "72 h",
+        "yield": "49%",
+        "characterization": [
+          {
+            "technique": "PXRD",
+            "data": "Confirmed structural integrity and phase transition"
+          },
+          {
+            "technique": "1H NMR",
+            "solvent": "DMSO-d6",
+            "data": "Confirmed complete removal of DMF"
+          },
+          {
+            "technique": "Nitrogen adsorption",
+            "temperature": "77 K",
+            "data": "Confirmed phase purity"
+          }
+        ]
+      }
+    }
+  ]
+}

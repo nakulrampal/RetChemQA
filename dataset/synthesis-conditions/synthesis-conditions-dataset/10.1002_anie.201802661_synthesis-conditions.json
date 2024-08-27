@@ -1,0 +1,97 @@
+{
+  "materials": [
+    {
+      "name": "PCN-900(Eu)",
+      "synthesis_conditions": {
+        "temperature": "120 88C",
+        "solvents": [
+          {
+            "name": "N,N'-dimethylformamide (DMF)",
+            "amount": null
+          }
+        ],
+        "equipment": "solvothermal reaction",
+        "chemicals_used": [
+          {
+            "name": "TCPP",
+            "amount": null
+          },
+          {
+            "name": "DCDPS",
+            "amount": null
+          },
+          {
+            "name": "Eu(NO3)3.6H2O",
+            "amount": null
+          },
+          {
+            "name": "2-fluorobenzoic acid (2-FBA)",
+            "amount": null
+          }
+        ],
+        "time": null,
+        "washing_method": "rinsed thoroughly using DMF and fresh acetone for three days",
+        "drying_method": "thermal activation at 100 88C under vacuum",
+        "yield": null,
+        "additional_notes": "The molar ratio between DCDPS and TCPP reaches 25:1 for pure PCN-900(Eu) phase."
+      }
+    },
+    {
+      "name": "PCN-900(Eu)-MTCPP",
+      "synthesis_conditions": {
+        "temperature": null,
+        "solvents": null,
+        "equipment": null,
+        "chemicals_used": [
+          {
+            "name": "MCl2 (M = Zn, Fe, Co, Ni)",
+            "amount": null
+          }
+        ],
+        "time": null,
+        "washing_method": null,
+        "drying_method": null,
+        "yield": null,
+        "additional_notes": "Metalation of the porphyrin center of PCN-900(Eu) by incubating the single-crystals in a solution of MCl2."
+      }
+    },
+    {
+      "name": "PCN-900(Eu)-TCPP-BPYDC",
+      "synthesis_conditions": {
+        "temperature": null,
+        "solvents": null,
+        "equipment": null,
+        "chemicals_used": [
+          {
+            "name": "BPDC and its derivatives",
+            "amount": null
+          }
+        ],
+        "time": null,
+        "washing_method": null,
+        "drying_method": null,
+        "yield": null,
+        "additional_notes": "Functional groups including @CHO, @NO2, and @bipyridyl were incorporated inside PCN-900(Eu) by exchanging the auxiliary linker."
+      }
+    },
+    {
+      "name": "PCN-900(Eu)-CoTCPP-CoBPYDC",
+      "synthesis_conditions": {
+        "temperature": null,
+        "solvents": null,
+        "equipment": null,
+        "chemicals_used": [
+          {
+            "name": "Co2+",
+            "amount": null
+          }
+        ],
+        "time": null,
+        "washing_method": null,
+        "drying_method": null,
+        "yield": null,
+        "additional_notes": "Assembled by the metalation of PCN-900(Eu)-TCPP-BPYDC with Co2+."
+      }
+    }
+  ]
+}

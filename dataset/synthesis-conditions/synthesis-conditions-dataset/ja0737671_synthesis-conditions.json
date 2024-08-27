@@ -1,0 +1,64 @@
+{
+  "materials": [
+    {
+      "material_id": 1,
+      "synthesis_conditions": {
+        "solvent": "EMIm-Br",
+        "temperature": "150 °C",
+        "equipment": "23 mL Teflon-lined stainless steel autoclave",
+        "chemicals_used": {
+          "Co(OAc)2·4H2O": "380 mg, 1.5 mmol",
+          "Trimesic acid (TMA-H3)": "210 mg, 1 mmol",
+          "EMIm-Br": "~10 mmol"
+        },
+        "time": "3 days",
+        "yield": "75%"
+      }
+    },
+    {
+      "material_id": 2,
+      "synthesis_conditions": {
+        "solvent": "EMIm-Br and EMIm-Tf2N (1:1 molar ratio)",
+        "temperature": "150 °C",
+        "chemicals_used": {
+          "Co(OAc)2·4H2O": "1.5 mmol",
+          "Trimesic acid (TMA-H3)": "1 mmol",
+          "EMIm-Br": "~5 mmol",
+          "EMIm-Tf2N": "~5 mmol"
+        },
+        "time": "3 days",
+        "yield": "65%",
+        "impurities": "Li+ impurity present in the EMIM-Tf2N starting material"
+      }
+    },
+    {
+      "material_id": 3,
+      "synthesis_conditions": {
+        "solvent": "EMIm-Tf2N",
+        "temperature": "110 °C",
+        "chemicals_used": {
+          "Co(OAc)2·4H2O": "1.5 mmol",
+          "Trimesic acid (TMA-H3)": "1 mmol",
+          "EMIm-Tf2N": "~10 mmol"
+        },
+        "time": "5 days",
+        "yield": "50%"
+      }
+    },
+    {
+      "material_id": 4,
+      "synthesis_conditions": {
+        "solvent": "EMIm-Tf2N",
+        "temperature": "150 °C",
+        "chemicals_used": {
+          "Co(OAc)2·4H2O": "1.5 mmol",
+          "Trimesic acid (TMA-H3)": "1 mmol",
+          "22bpy": "2 mmol",
+          "EMIm-Tf2N": "~10 mmol"
+        },
+        "time": "3 days",
+        "yield": "60%"
+      }
+    }
+  ]
+}

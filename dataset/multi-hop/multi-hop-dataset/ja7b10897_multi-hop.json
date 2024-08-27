@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the effect of substituting the -CH3 group with either -CHO or -NO2 groups on the imidazole linker in ZIF frameworks?",
+      "answer": "Substituting the -CH3 group with either -CHO or -NO2 groups on the imidazole linker in ZIF frameworks leads to isostructural and isosymmetric ZIF-90 and ZIF-65, respectively. This chemical functionalization results in different linker orientations and therefore different values for the angle θ and the 4MR and 6MR diameters. These functionalities allow for tuning the host–guest interactions, demonstrated by enhanced H2 selectivity over CO2 for ZIF-90 and increased affinity for CO2 in ZIF-65 compared to ZIF-8.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the inclusion of solvent stabilize ZIF-65 to external pressure?",
+      "answer": "The inclusion of solvent stabilizes ZIF-65 to external pressure, as observed in the high-pressure X-ray diffraction experiments. This stabilization effect has also been seen in other Metal-Organic Frameworks (MOFs) such as CuBTC and MOF-5, suggesting that the presence of solvent in the pores can help maintain the structural integrity of the framework under pressure.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What role does the chemical functionality of the imidazole linker play in directing the swing effect in ZIF frameworks?",
+      "answer": "The chemical functionality of the imidazole linker is essential for directing the swing effect in ZIF frameworks. The study shows that the interplay between guest molecules and the chemical function of the imidazole linker is crucial for controlling the degree of rotation of the substituted imidazolate rings, thus affecting the critical window diameter and the adsorption performance.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the high-pressure phase transition to a 'gate open' structure observed in both ZIF-90 and ZIF-65?",
+      "answer": "False. The high-pressure phase transition to a 'gate open' structure is observed in ZIF-90, but not in ZIF-65. Instead, ZIF-65 undergoes a transition to a more 'gate closed' structure upon application of high pressure.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the study demonstrate that the direction of ligand swing in SOD topology ZIFs is dictated by guest–framework interactions?",
+      "answer": "True. The study demonstrates that the direction of the ligand swing in SOD topology ZIFs is indeed dictated by guest–framework interactions. This is shown through the use of grand canonical Monte Carlo simulations and density functional theory calculations, which deconvolute the guest–host interactions and framework rotation interactions.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental techniques were used to study the effect of chemical functionalization on ZIF frameworks?",
+      "answer": "The study utilized high-pressure single-crystal X-ray diffraction, density functional theory, and grand canonical Monte Carlo simulations to systematically investigate the effect of chemical functionalization of the imidazole linker on the framework dynamics of ZIF-8, ZIF-90, and ZIF-65.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the swing effect influence the adsorption performance of ZIF frameworks?",
+      "answer": "The swing effect influences the adsorption performance of ZIF frameworks by causing an enlargement of the windows, which can be detrimental or beneficial depending on the application. The study shows that controlling the swing effect through chemical functionalization of the imidazole linker allows for tuning the adsorption properties, such as enhancing H2 selectivity over CO2 in ZIF-90 and increasing CO2 affinity in ZIF-65.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the changes in the 4MR and 6MR window diameters under pressure consistent across ZIF-8, ZIF-90, and ZIF-65?",
+      "answer": "False. The changes in the 4MR and 6MR window diameters under pressure are not consistent across ZIF-8, ZIF-90, and ZIF-65. Each ZIF framework exhibits different behavior under pressure, with ZIF-90 and ZIF-8 showing a 'gate open' phase transition, while ZIF-65 transitions to a more 'gate closed' structure.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the angle θ in the study of ZIF frameworks?",
+      "answer": "The angle θ is significant in the study of ZIF frameworks as it represents the angle that the imidazole linker makes with the (100) plane. Changes in this angle under pressure or due to chemical functionalization are indicative of the swing effect, which directly impacts the framework's pore volume, window diameters, and ultimately its adsorption performance and stability.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the swing effect in ZIF frameworks be controlled to create bespoke molecular sieves for specific applications?",
+      "answer": "True. The study demonstrates that by controlling the swing effect through chemical functionalization of the imidazole linker and understanding the guest–framework interactions, it is possible to create bespoke molecular sieves. These tailored ZIF frameworks can be optimized for specific applications, such as gas separation, by tuning their adsorption properties.",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

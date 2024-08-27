@@ -1,0 +1,88 @@
+{
+  "materials": [
+    {
+      "name": "NKU-FlexMOF-1",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "CuCl2·2H2O",
+            "amount": "6.8 mg",
+            "molar_amount": "0.04 mmol"
+          },
+          {
+            "name": "H2FPBDC",
+            "amount": "10.4 mg",
+            "molar_amount": "0.04 mmol"
+          },
+          {
+            "name": "DMF/MeOH",
+            "amount": "2 mL",
+            "ratio": "3/1, v/v"
+          },
+          {
+            "name": "concentrated HNO3",
+            "amount": "0.01 mL"
+          }
+        ],
+        "temperature": "80 °C",
+        "time": "48 h",
+        "equipment": "10 mL screw-capped vial",
+        "yield": "70%",
+        "washing_method": "washed with DMF several times",
+        "drying_method": "stored in fresh DMF"
+      },
+      "activation": {
+        "method": "heating",
+        "temperature": "140 °C",
+        "vacuum": "dynamic vacuum",
+        "time": "not specified"
+      },
+      "gas_adsorption": {
+        "gases_tested": [
+          "N2",
+          "CO2",
+          "CH4",
+          "C2H4",
+          "C2H6",
+          "C3H6",
+          "C3H8",
+          "C4H10"
+        ],
+        "temperatures": [
+          "77 K",
+          "195 K",
+          "248 K",
+          "273 K",
+          "298 K",
+          "328 K",
+          "348 K",
+          "358 K"
+        ],
+        "pressure_range": "0–1.1 bar",
+        "equipment": "Micrometrics ASAP 2020M volumetric gas adsorption analyzer"
+      },
+      "breakthrough_experiment": {
+        "temperature": [
+          "273 K",
+          "298 K"
+        ],
+        "pressure": "1 bar",
+        "gas_mixture": "C3H6/C3H8 (50/50, v/v)",
+        "equipment": "two fixed-bed stainless steel reactors",
+        "regeneration_method": "flushing with helium gas (20 ml/min) for 30 min"
+      },
+      "computational_analysis": {
+        "methods": [
+          "First-principles density functional theory",
+          "Dispersion-corrected DFT optimizations",
+          "Transient breakthrough simulations"
+        ],
+        "details": [
+          "Quantum ESPRESSO package used for DFT calculations",
+          "CP2K used for DFT-D optimizations",
+          "UFF force field for partial charges calculation"
+        ]
+      }
+    }
+  ]
+}

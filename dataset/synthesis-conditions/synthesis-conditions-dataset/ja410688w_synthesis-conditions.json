@@ -1,0 +1,399 @@
+{
+  "materials": [
+    {
+      "material_name": "1",
+      "synthesis_conditions": {
+        "temperature": "RT",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "4 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "DMEDA",
+            "amount": "0.100 mL",
+            "equivalents": "3.3 equiv"
+          }
+        ],
+        "time": "overnight",
+        "yield": "99%",
+        "characterization": {
+          "1H_NMR": "500 MHz, THF–d8",
+          "7Li{1H}_NMR": "194 MHz, THF–d8",
+          "13C{1H}_NMR": "126 MHz, THF–d8",
+          "IR": "Nujol, cm-1"
+        }
+      }
+    },
+    {
+      "material_name": "1–DMEDA",
+      "synthesis_conditions": {
+        "temperature": "RT",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "4 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "DMEDA",
+            "amount": "0.100 mL",
+            "equivalents": "3.3 equiv"
+          }
+        ],
+        "time": "overnight",
+        "yield": "99%",
+        "characterization": {
+          "1H_NMR": "500 MHz, THF–d8",
+          "7Li{1H}_NMR": "194 MHz, THF–d8",
+          "13C{1H}_NMR": "126 MHz, THF–d8",
+          "IR": "Nujol, cm-1"
+        }
+      }
+    },
+    {
+      "material_name": "1–TPPO",
+      "synthesis_conditions": {
+        "temperature": "RT",
+        "solvents": [
+          {
+            "name": "DME",
+            "amount": "7 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "TPPO",
+            "amount": "48.1 mg",
+            "equivalents": "1 equiv"
+          }
+        ],
+        "time": "overnight",
+        "yield": "82%",
+        "characterization": {
+          "1H_NMR": "400 MHz, THF–d8",
+          "7Li{1H}_NMR": "155 MHz, THF–d8",
+          "13C{1H}_NMR": "126 MHz, THF–d8",
+          "31P{1H}_NMR": "162 MHz, THF–d8",
+          "IR": "Nujol, cm-1"
+        }
+      }
+    },
+    {
+      "material_name": "1–(TPPO)2",
+      "synthesis_conditions": {
+        "temperature": "RT",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "TPPO",
+            "amount": "96.2 mg",
+            "equivalents": "2 equiv"
+          }
+        ],
+        "time": "overnight",
+        "yield": "83%",
+        "characterization": {
+          "1H_NMR": [
+            "500 MHz, Tol–d8, 325 K",
+            "500 MHz, THF–d8"
+          ],
+          "7Li{1H}_NMR": [
+            "155 MHz, THF–d8, 325 K",
+            "155 MHz, THF–d8"
+          ],
+          "13C{1H}_NMR": "126 MHz, THF–d8",
+          "31P{1H}_NMR": [
+            "162 MHz, THF–d8, 325 K",
+            "162 MHz, THF–d8"
+          ],
+          "IR": "Nujol, cm-1"
+        }
+      }
+    },
+    {
+      "material_name": "2–Cl(DMEDA)",
+      "synthesis_conditions": {
+        "temperature": "RT",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Trityl chloride",
+            "amount": "0.190 g",
+            "equivalents": "1 equiv"
+          },
+          {
+            "name": "DMEDA",
+            "amount": "61 μL",
+            "equivalents": "3.3 equiv"
+          }
+        ],
+        "time": "2 h",
+        "yield": "80%",
+        "characterization": {
+          "1H_NMR": "500 MHz, THF–d8",
+          "7Li{1H}_NMR": "194 MHz, THF–d8",
+          "13C{1H}_NMR": "125 MHz, THF–d8",
+          "IR": "Nujol, cm-1"
+        }
+      }
+    },
+    {
+      "material_name": "2–Br(DMEDA)",
+      "synthesis_conditions": {
+        "temperature": "RT",
+        "solvents": [
+          {
+            "name": "Et2O",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "N-bromosuccinimide (NBS)",
+            "amount": "0.031 g",
+            "equivalents": "1 equiv"
+          },
+          {
+            "name": "DMEDA",
+            "amount": "61 μL",
+            "equivalents": "3.3 equiv"
+          }
+        ],
+        "time": "2 h",
+        "yield": "58%",
+        "characterization": {
+          "1H_NMR": "500 MHz, THF–d8",
+          "7Li{1H}_NMR": "194 MHz, THF–d8",
+          "13C{1H}_NMR": "125 MHz, THF–d8",
+          "IR": "Nujol, cm-1"
+        }
+      }
+    },
+    {
+      "material_name": "2–I(DMEDA)",
+      "synthesis_conditions": {
+        "temperature": "RT",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Iodine",
+            "amount": "0.035 g",
+            "equivalents": "1 equiv"
+          },
+          {
+            "name": "DMEDA",
+            "amount": "61 μL",
+            "equivalents": "3.3 equiv"
+          }
+        ],
+        "time": "2 h",
+        "yield": "93%",
+        "characterization": {
+          "1H_NMR": "500 MHz, THF–d8",
+          "7Li{1H}_NMR": "194 MHz, THF–d8",
+          "13C{1H}_NMR": "125 MHz, THF–d8",
+          "IR": "Nujol, cm-1"
+        }
+      }
+    },
+    {
+      "material_name": "2–NCS",
+      "synthesis_conditions": {
+        "temperature": "RT",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "7 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Sodium thiocyanate",
+            "amount": "27.4 mg",
+            "equivalents": "2 equiv"
+          }
+        ],
+        "time": "2 h",
+        "yield": "90%",
+        "characterization": {
+          "1H_NMR": "500 MHz, THF–d8",
+          "7Li{1H}_NMR": "155 MHz, THF–d8",
+          "13C{1H}_NMR": "126 MHz, THF–d8",
+          "IR": "KBr, cm-1"
+        }
+      }
+    },
+    {
+      "material_name": "2–N3",
+      "synthesis_conditions": {
+        "temperature": "RT",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "7 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Sodium azide",
+            "amount": "22 mg",
+            "equivalents": "2 equiv"
+          }
+        ],
+        "time": "2 h",
+        "yield": "83%",
+        "characterization": {
+          "1H_NMR": "500 MHz, THF–d8",
+          "7Li{1H}_NMR": "126 MHz, THF–d8",
+          "13C{1H}_NMR": "126 MHz, THF–d8",
+          "IR": "KBr, cm-1"
+        }
+      }
+    },
+    {
+      "material_name": "2–OAr",
+      "synthesis_conditions": {
+        "temperature": "RT",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "7 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Sodium 4-phenyl-phenolate",
+            "amount": "31.1 mg",
+            "equivalents": "1.2 equiv"
+          }
+        ],
+        "time": "2 h",
+        "yield": "61%",
+        "characterization": {
+          "1H_NMR": "400 MHz, THF–d8",
+          "7Li{1H}_NMR": "155 MHz, THF–d8",
+          "13C{1H}_NMR": "126 MHz, THF–d8",
+          "IR": "KBr, cm-1"
+        }
+      }
+    },
+    {
+      "material_name": "6–BINOL",
+      "synthesis_conditions": {
+        "temperature": "RT",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(S)–BINOL",
+            "amount": "45.8 mg",
+            "equivalents": "1 equiv"
+          },
+          {
+            "name": "Trityl chloride",
+            "amount": "44.6 mg",
+            "equivalents": "1 equiv"
+          }
+        ],
+        "time": "18 h",
+        "yield": "76%",
+        "characterization": {
+          "1H_NMR": [
+            "400 MHz, THF–d8, 300 K",
+            "400 MHz, THF–d8, 230 K"
+          ],
+          "13C{1H}_NMR": [
+            "101 MHz, THF–d8, 300 K",
+            "101 MHz, THF–d8, 230 K"
+          ],
+          "IR": "Nujol, cm-1"
+        }
+      }
+    },
+    {
+      "material_name": "7",
+      "synthesis_conditions": {
+        "temperature": "RT",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Ce[N(SiMe3)2]3",
+            "amount": "0.300 g",
+            "equivalents": "1 equiv"
+          },
+          {
+            "name": "(S)–BINOL",
+            "amount": "0.415 g",
+            "equivalents": "3 equiv"
+          },
+          {
+            "name": "CsN(SiMe3)2",
+            "amount": "0.425 g",
+            "equivalents": "3 equiv"
+          }
+        ],
+        "time": "2 h",
+        "yield": "95%",
+        "characterization": {
+          "1H_NMR": "500 MHz, THF–d8",
+          "13C{1H}_NMR": "126 MHz, THF–d8",
+          "IR": "Nujol, cm-1"
+        }
+      }
+    },
+    {
+      "material_name": "8",
+      "synthesis_conditions": {
+        "temperature": "RT",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "6 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Trityl chloride",
+            "amount": "95.1 mg",
+            "equivalents": "2 equiv"
+          }
+        ],
+        "time": "36 h",
+        "yield": "79%",
+        "characterization": {
+          "1H_NMR": "500 MHz, THF–d8",
+          "13C{1H}_NMR": "126 MHz, THF–d8",
+          "IR": "Nujol, cm-1"
+        }
+      }
+    }
+  ]
+}

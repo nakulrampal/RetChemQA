@@ -1,0 +1,135 @@
+{
+  "materials": [
+    {
+      "material": "[Cu3(2-(3(5)-pz)py)3]2*2py (2)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "solvent": "methanol",
+            "amount": "30 mL"
+          },
+          {
+            "solvent": "acetonitrile",
+            "amount": "20 mL"
+          },
+          {
+            "solvent": "pyridine",
+            "amount": "20 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "chemical": "Sodium ethoxide",
+            "amount": "47.0 mg, 0.69 mmol"
+          },
+          {
+            "chemical": "2-(3(5)-pzH)py (1)",
+            "amount": "100 mg, 0.69 mmol"
+          },
+          {
+            "chemical": "[Cu(CH3CN)4][PF6]",
+            "amount": "230 mg, 0.62 mmol"
+          }
+        ],
+        "time": "1 h",
+        "yield": "37%",
+        "drying_method": "cooling to -20 oC"
+      }
+    },
+    {
+      "material": "[Ag3(2-(3(5)-pz)py)3]2*2py (3)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "solvent": "methanol",
+            "amount": "40 mL"
+          },
+          {
+            "solvent": "acetonitrile",
+            "amount": "20 mL"
+          },
+          {
+            "solvent": "pyridine",
+            "amount": "30 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "chemical": "Sodium ethoxide",
+            "amount": "35.0 mg, 0.52 mmol"
+          },
+          {
+            "chemical": "2-(3(5)-pzH)py (1)",
+            "amount": "75.0 mg, 0.52 mmol"
+          },
+          {
+            "chemical": "Ag(O3SCF3)",
+            "amount": "130 mg, 0.50 mmol"
+          }
+        ],
+        "time": "1 h",
+        "yield": "43%",
+        "drying_method": "cooling to -20 oC"
+      }
+    },
+    {
+      "material": "[Tl(2-(3(5)-pz)py)]n (4)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "solvent": "ethanol",
+            "amount": "30 mL"
+          },
+          {
+            "solvent": "pyridine",
+            "amount": "50 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "chemical": "Tl(OEt)",
+            "amount": "340 mg, 1.36 mmol"
+          },
+          {
+            "chemical": "2-(3(5)-pzH)py (1)",
+            "amount": "200 mg, 1.38 mmol"
+          }
+        ],
+        "time": "1 h",
+        "yield": "65%",
+        "drying_method": "standing at room temperature"
+      }
+    },
+    {
+      "material": "[Li(2-(3(5)-pz)py)(DMF)]n (5)",
+      "synthesis_conditions": {
+        "temperature": "-78 oC to room temperature overnight",
+        "solvents": [
+          {
+            "solvent": "tetrahydrofuran",
+            "amount": "30 mL"
+          },
+          {
+            "solvent": "dimethylformamide",
+            "amount": "50 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "chemical": "n-BuLi",
+            "amount": "44.0 mg, 0.69 mmol"
+          },
+          {
+            "chemical": "2-(3(5)-pzH)py (1)",
+            "amount": "100 mg, 0.69 mmol"
+          }
+        ],
+        "yield": "88%",
+        "drying_method": "cooling to 10 oC"
+      }
+    }
+  ]
+}

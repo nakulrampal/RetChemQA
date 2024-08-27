@@ -1,0 +1,50 @@
+{
+  "materials": [
+    {
+      "name": "NbOFFIVE-1-Ni",
+      "synthesis_conditions": [
+        {
+          "step": "Solvothermal reaction",
+          "temperature": "130 °C",
+          "solvents": [
+            {
+              "name": "hydrofluoric acid aqueous solution",
+              "amount": "0.26 mL, 7.15 mmol"
+            },
+            {
+              "name": "deionized water",
+              "amount": "3 mL"
+            }
+          ],
+          "equipment": "20 mL Teflon liner",
+          "chemicals_used": [
+            {
+              "name": "Ni(NO3)2·6H2O",
+              "amount": "174.50 mg, 0.60 mmol"
+            },
+            {
+              "name": "Nb2O5",
+              "amount": "79.70 mg, 0.30 mmol"
+            },
+            {
+              "name": "pyrazine",
+              "amount": "384.40 mg, 4.80 mmol"
+            }
+          ],
+          "time": "24 h",
+          "washing_method": "washed with ethanol",
+          "drying_method": "dried in air",
+          "yield": "not specified",
+          "additional_information": "Resultant violet square-shaped crystals were collected by filtration."
+        },
+        {
+          "step": "Activation",
+          "temperature": "105 °C",
+          "time": "12 h",
+          "equipment": "under high vacuum (3 mTorr)",
+          "additional_information": "Before each adsorption experiment."
+        }
+      ]
+    }
+  ]
+}

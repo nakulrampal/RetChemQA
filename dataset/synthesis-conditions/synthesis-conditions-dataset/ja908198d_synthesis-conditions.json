@@ -1,0 +1,68 @@
+{
+  "materials": [
+    {
+      "material": "phenylzinc reagent 1a",
+      "synthesis_conditions": {
+        "temperature": "-20 °C",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "3.0 mL"
+          },
+          {
+            "name": "THF-d8",
+            "amount_for_NMR": "not specified"
+          }
+        ],
+        "equipment": "ice-water bath",
+        "chemicals_used": [
+          {
+            "name": "Phenylmagnesium chloride",
+            "amount": "1.0 ml, 1 M in THF solution, 1.0 mmol"
+          },
+          {
+            "name": "zinc chloride",
+            "amount": "204.4mg, 1.5 mmol"
+          }
+        ],
+        "time": "1 to 2 h",
+        "additional_steps": "allowed to stand to allow the precipitate to settle before the clear solution was decanted",
+        "drying_method": "most of the THF solvent was removed in vacuo"
+      }
+    },
+    {
+      "material": "phenylzinc reagent 1b",
+      "synthesis_conditions": {
+        "temperature": "acetone-dry ice bath temperature",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "3.5 mL"
+          },
+          {
+            "name": "THF-d8",
+            "amount_for_NMR": "not specified"
+          }
+        ],
+        "equipment": "acetone-dry ice bath",
+        "chemicals_used": [
+          {
+            "name": "n-BuLi",
+            "amount": "1.0 mL, 1.6 M in hexane solution, 1.6 mmol"
+          },
+          {
+            "name": "bromobenzene",
+            "amount": "238.6 mg, 1.5 mmol"
+          },
+          {
+            "name": "ZnCl2",
+            "amount": "310.8 g, 2.3 mmol"
+          }
+        ],
+        "time": "1 to 2 h",
+        "additional_steps": "allowed to warm to room temperature over an additional 1 to 2 h",
+        "drying_method": "most of the solvent was removed in vacuo"
+      }
+    }
+  ]
+}

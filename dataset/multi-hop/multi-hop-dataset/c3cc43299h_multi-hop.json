@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of compound 1 synthesized in the study?",
+      "answer": "CdC14H8SO7.44",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What temperature range was used for the Thermogravimetric (TGA) analysis of compound 1?",
+      "answer": "Room temperature to 750 °C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the yield percentage of the colorless needle shaped crystals obtained from the synthesis of compound 1?",
+      "answer": "Approximately 60%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of ethanol in the synthesis of compound 1?",
+      "answer": "Ethanol was used as a solvent in the synthesis process.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does the gas adsorption selectivity of compound 1 for CO2 over N2 compare to its calcium analog?",
+      "answer": "Compound 1 possesses similar gas adsorption properties to its calcium analog, but with a different Cd-SDB connectivity.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the initial outgassing process temperature for compound 1 before gas sorption measurements?",
+      "answer": "473 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Based on the synthesis conditions, what is the significance of heating the solution at 180°C for 4 days?",
+      "answer": "Heating the solution at 180°C for 4 days under solvothermal conditions was crucial for the formation of compound 1, leading to the recovery of colorless needle shaped crystals.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the statement 'Compound 1 exhibits a moderate H2 uptake of 0.3 wt% at 77 K and 1 atm' true or false?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesis of compound 1 involve the use of a Teflon lined stainless steel Parr autoclave?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is it true that the water occupying the pores of compound 1 comes solely from the Cd(NO3)2 reactant?",
+      "answer": "False, the water occupying the pores comes from both the 95% ethanol solvent and from the Cd(NO3)2 reactant.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The crystal structure of compound 1 was solved using the Apex II software suite.",
+      "answer": "False, the raw intensity data were collected, integrated, and corrected for absorption effect with the Apex II software suite, but the crystal structure was solved using direct methods (SHELXS).",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the statement 'The synthesis of compound 1 does not require any purification of starting materials' true or false?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The gas adsorption experiments for compound 1 were performed at room temperature.",
+      "answer": "False, the gas adsorption experiments were performed at cryogenic temperature (77K) using liquid nitrogen as coolant.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the Dual site Langmuir-Freundlich (DSLF) model in the context of this study?",
+      "answer": "The DSLF model was used to fit the single-component CO2 and N2 adsorption isotherms of compound 1, enabling the application of IAST in simulating the performance of compound 1 under a mixed component gas.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the Ideal adsorbed solution theory (IAST) selectivity of CO2/N2 for compound 1 compare to traditional adsorbents?",
+      "answer": "The IAST selectivity of CO2/N2 for compound 1 is comparable or higher than several traditional adsorbents, indicating its efficiency in selective gas adsorption.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the differential scanning calorimetry with powder XRD (XRD-DSC) reveal about compound 1's structural changes upon gas adsorption?",
+      "answer": "The XRD-DSC technique reveals that there are no major structural changes in compound 1 when CO2 is introduced, but subtle changes in low angle peaks suggest that CO2 occupies the channels.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can compound 1 perform an atmosphere swing at 80% relative humidity?",
+      "answer": "No, the DSC data shows that compound 1 can no longer perform an atmosphere swing at 80% RH.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the synthesis of compound 1 under solvothermal conditions critical for its structure and properties?",
+      "answer": "Yes, the solvothermal synthesis conditions are critical for achieving the desired structure and properties of compound 1, including its microporous nature and gas adsorption capabilities.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role does the V-shaped linker play in the selective gas adsorption properties of compound 1?",
+      "answer": "The V-shaped linker in compound 1 creates a 'pi-pocket' that facilitates selective CO2 adsorption over N2 by allowing CO2 to interact with two phenyl rings, contributing to its high selectivity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of water molecules in the pores of compound 1 affect its gas adsorption performance?",
+      "answer": "Yes, the presence of water molecules in the pores of compound 1 can affect its gas adsorption performance, as indicated by the reduced capacity for CO2 sorption under high relative humidity conditions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

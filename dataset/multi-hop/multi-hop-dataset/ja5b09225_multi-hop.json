@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the primary focus of the research article with DOI 10.1021/jacs.5b09225?",
+      "answer": "The research article focuses on the design of BINAP-based metal–organic frameworks and their postsynthetic metalation with Rh complexes to create highly active and enantioselective single-site solid catalysts for asymmetric cyclization reactions of 1,6-enynes.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How do BINAP-MOF and BINAP-dMOF differ in their synthesis and application in catalysis?",
+      "answer": "BINAP-MOF is synthesized using purely BINAP-derived dicarboxylate linkers, while BINAP-dMOF is prepared by mixing BINAP-derived linkers with unfunctionalized dicarboxylate linkers. BINAP-MOF·Rh catalysts are highly active in asymmetric reductive cyclization and Alder-ene cycloisomerization but inactive in Pauson–Khand reactions due to steric constraints. In contrast, BINAP-dMOF·Rh, with a more open structure, effectively catalyzes Pauson–Khand cyclization reactions, demonstrating the mixed linker strategy's effectiveness in enlarging the open space around the catalytic active site to accommodate sterically demanding transition states.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the key findings regarding the catalytic activity and selectivity of BINAP-MOF·Rh and BINAP-dMOF·Rh catalysts?",
+      "answer": "The key findings include that BINAP-MOF·Rh catalysts exhibit high catalytic activity and enantioselectivity (up to 99% ee) in asymmetric reductive cyclization and Alder-ene cycloisomerization of 1,6-enynes. However, they are inactive in Pauson–Khand reactions due to steric constraints. On the other hand, BINAP-dMOF·Rh catalysts, with a more open structure, effectively catalyze Pauson–Khand cyclization reactions with significantly enhanced activity over the homogeneous control and can be reused without loss of yield or ee, demonstrating the advantage of the mixed linker strategy in accommodating sterically demanding transition states.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the mixed linker strategy employed in the synthesis of BINAP-dMOF·Rh influence its catalytic performance in Pauson–Khand reactions?",
+      "answer": "The mixed linker strategy employed in the synthesis of BINAP-dMOF·Rh enlarges the open space around the catalytic active sites, allowing the generation of sterically demanding bicyclic rhodacycle intermediates. This structural modification results in BINAP-dMOF·Rh being about 10 times more active than the homogeneous control in catalyzing asymmetric Pauson–Khand-type reactions, highlighting the strategy's effectiveness in enhancing catalytic activity by accommodating larger transition states.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental techniques were used to characterize the BINAP-based MOFs and their metalated forms?",
+      "answer": "The characterization of BINAP-based MOFs and their metalated forms involved several experimental techniques, including 1H NMR and 13C NMR spectroscopy for structural analysis, mass spectrometry (ESI-MS) for molecular weight determination, thermogravimetric analysis (TGA) for assessing thermal stability and solvent content, powder X-ray diffraction (PXRD) for phase purity and crystallinity, inductively coupled plasma mass spectrometry (ICP-MS) for metal loading quantification, and X-ray absorption spectroscopy (XAS) for investigating the local coordination environment of Rh in the metalated MOFs.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What role does the solvent play in the synthesis and post-synthetic metalation of BINAP-based MOFs?",
+      "answer": "In the synthesis and post-synthetic metalation of BINAP-based MOFs, the solvent plays a crucial role in facilitating the reactions and ensuring the solubility of reactants. Dimethylformamide (DMF) is commonly used as a solvent for the solvothermal synthesis of the MOFs due to its ability to dissolve a wide range of organic and inorganic compounds. THF (tetrahydrofuran) is used in the post-synthetic metalation process for its ability to solubilize both the MOF and the metal precursor, allowing for efficient incorporation of Rh complexes into the MOF structure. The choice of solvent affects the reaction conditions, the quality of the MOF crystals, and the efficiency of metalation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The BINAP-MOF·Rh catalysts can be reused multiple times in Pauson–Khand reactions without significant loss of catalytic activity or selectivity.",
+      "answer": "False. While BINAP-dMOF·Rh catalysts demonstrated the ability to be reused in Pauson–Khand reactions without significant loss of yield or ee, the text specifically mentions that BINAP-MOF·Rh catalysts are inactive in Pauson–Khand reactions due to steric constraints. Therefore, the statement does not apply to BINAP-MOF·Rh catalysts.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What challenges are associated with the application of MOFs in asymmetric catalysis, and how does the research address these challenges?",
+      "answer": "Challenges associated with the application of MOFs in asymmetric catalysis include the need for large open channels and pores to accommodate transition states while maintaining the chiral environment around the catalytically active site. The research addresses these challenges by employing a mixed linker strategy in the synthesis of BINAP-dMOF, which enlarges the open space around the catalytic active sites, allowing for the accommodation of sterically demanding transition states. This approach enhances the MOF's catalytic activity and selectivity in complex and sterically demanding asymmetric cyclization reactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The research demonstrates that BINAP-dMOF·Rh catalysts are less active than their homogeneous counterparts in catalyzing asymmetric Pauson–Khand-type reactions.",
+      "answer": "False. The research actually demonstrates that BINAP-dMOF·Rh catalysts are about 10 times more active than the homogeneous control in catalyzing asymmetric Pauson–Khand-type reactions. This indicates that BINAP-dMOF·Rh catalysts are more active than their homogeneous counterparts in these reactions.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the research contribute to the field of MOF-catalyzed asymmetric reactions?",
+      "answer": "The research significantly contributes to the field of MOF-catalyzed asymmetric reactions by demonstrating the utility of MOFs in complex and sterically demanding asymmetric cyclization reactions, which expands the scope of MOF-catalyzed asymmetric reactions. By employing a mixed linker strategy to create BINAP-dMOF with enlarged open spaces around the catalytic sites, the study showcases how structural modifications in MOFs can enhance catalytic activity and selectivity. Additionally, the research provides insights into the mechanistic aspects of MOF-catalyzed reactions, offering a new generation of single-site solid catalysts based on 'privileged ligands' for broad-scope asymmetric reactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

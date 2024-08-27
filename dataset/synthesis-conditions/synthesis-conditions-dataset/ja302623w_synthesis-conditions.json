@@ -1,0 +1,145 @@
+{
+  "materials": [
+    {
+      "name": "NU-111",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis of precursors 1-6, and hexacarboxylic acid 7",
+          "chemicals_used": [
+            {
+              "name": "Bis(trimethylsilyl)butadiyne",
+              "amount": "25 g"
+            },
+            {
+              "name": "MeLi·LiBr",
+              "amount": "200 ml, 1.5 M in Et2O"
+            },
+            {
+              "name": "Et2O",
+              "amount": "800 ml"
+            },
+            {
+              "name": "MeOH"
+            },
+            {
+              "name": "CsF",
+              "amount": "6 g"
+            },
+            {
+              "name": "THF",
+              "amount": "150 ml"
+            },
+            {
+              "name": "diisopropylamine",
+              "amount": "75 ml"
+            },
+            {
+              "name": "Pd(PPh3)4",
+              "amount": "1.8 g"
+            },
+            {
+              "name": "CuI",
+              "amount": "600 mg"
+            },
+            {
+              "name": "KOH",
+              "amount": "80 ml, 1 M aqueous solution"
+            },
+            {
+              "name": "EDTA·2Na",
+              "amount": "1.0 g"
+            },
+            {
+              "name": "concentrated HCl",
+              "amount": "10 mL, 37% aqueous solution"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "Et2O"
+            },
+            {
+              "name": "CH2Cl2"
+            },
+            {
+              "name": "CHCl3"
+            },
+            {
+              "name": "THF"
+            }
+          ],
+          "temperature": [
+            {
+              "step_detail": "Initial reaction temperature",
+              "value": "25 °C"
+            },
+            {
+              "step_detail": "Cooling temperature for reaction",
+              "value": "0 °C"
+            },
+            {
+              "step_detail": "Saponification reaction temperature",
+              "value": "60 °C"
+            }
+          ],
+          "time": [
+            {
+              "step_detail": "Stirring time for initial reaction",
+              "value": "3 h"
+            },
+            {
+              "step_detail": "Stirring time for saponification",
+              "value": "68 h"
+            }
+          ],
+          "yield": "75 % based on LH6(3)"
+        },
+        {
+          "step": "Synthesis of NU-111",
+          "chemicals_used": [
+            {
+              "name": "Cu(NO3)2.2.5H2O",
+              "amount": "900 mg"
+            },
+            {
+              "name": "LH6(3)",
+              "amount": "300 mg"
+            },
+            {
+              "name": "DMF",
+              "amount": "75 ml"
+            },
+            {
+              "name": "EtOH",
+              "amount": "75 ml"
+            },
+            {
+              "name": "HCl",
+              "amount": "1.4 ml"
+            }
+          ],
+          "temperature": "80 °C",
+          "time": "48 h",
+          "equipment": "oven",
+          "yield": "75 % based on LH6(3)"
+        },
+        {
+          "step": "Activation of NU-111",
+          "method": "Supercritical CO2 drying",
+          "temperature": [
+            {
+              "step_detail": "Initial temperature",
+              "value": "0 °C"
+            },
+            {
+              "step_detail": "Heating temperature",
+              "value": "40 °C"
+            }
+          ],
+          "time": "Approximately 12 hrs",
+          "equipment": "Tousimis Samdri-PVT-3D super-critical CO2 dryer"
+        }
+      ]
+    }
+  ]
+}

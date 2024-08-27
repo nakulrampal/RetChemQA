@@ -1,0 +1,267 @@
+{
+  "materials": [
+    {
+      "name": "4,4′-ethynylenedibenzoic acid (edb-H2)",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "details": "Synthesized according to a literature procedure."
+        }
+      ]
+    },
+    {
+      "name": "[Zr6O4(OH)4(edb)6]n (1)",
+      "synthesis_conditions": [
+        {
+          "step": "Bulk Material",
+          "temperature": "100 °C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "10 ml"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "L-proline",
+              "amount": "0.259 g, 2.25 mmol, 5 eq"
+            },
+            {
+              "name": "4,4′-ethynylenedibenzoic acid",
+              "amount": "0.120 g, 0.45 mmol, 1 eq"
+            },
+            {
+              "name": "zirconium tetrachloride",
+              "amount": "0.105 g, 0.45 mmol, 1 eq"
+            },
+            {
+              "name": "hydrochloric acid",
+              "amount": "0.04 ml"
+            }
+          ],
+          "time": "4 hours",
+          "yield": "91 %",
+          "washing_method": "rinsed once with fresh DMF and three times with acetone",
+          "drying_method": "placed in a desiccator under vacuum"
+        },
+        {
+          "step": "Single Crystals",
+          "temperature": "100 °C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "10 ml"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "L-proline",
+              "amount": "0.104 g, 0.90 mmol, 4 eq"
+            },
+            {
+              "name": "4,4′-ethynylenedibenzoic acid",
+              "amount": "0.060 g, 0.23 mmol, 1 eq"
+            },
+            {
+              "name": "zirconium tetrachloride",
+              "amount": "0.052 g, 0.23 mmol, 1 eq"
+            },
+            {
+              "name": "hydrochloric acid",
+              "amount": "0.02 ml"
+            }
+          ],
+          "time": "48 hours",
+          "crystal_system": "Cubic",
+          "space_group": "Fm-3m",
+          "a": "30.2386 (4) Å",
+          "V": "27649.3 (11) Å3",
+          "Z": "4",
+          "solvent_accessible_void_space": "21365 Å3"
+        }
+      ]
+    },
+    {
+      "name": "[Hf6O4(OH)4(edb)6]n (2)",
+      "synthesis_conditions": [
+        {
+          "step": "Bulk Material",
+          "temperature": "120 °C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "10 ml"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "L-proline",
+              "amount": "0.259 g, 2.25 mmol, 5 eq"
+            },
+            {
+              "name": "4,4′-ethynylenedibenzoic acid",
+              "amount": "0.120 g, 0.45 mmol, 1 eq"
+            },
+            {
+              "name": "hafnium tetrachloride",
+              "amount": "0.144 g, 0.45 mmol, 1 eq"
+            },
+            {
+              "name": "hydrochloric acid",
+              "amount": "0.04 ml"
+            }
+          ],
+          "time": "24 hours",
+          "yield": "95 %",
+          "washing_method": "rinsed once with fresh DMF and twice with acetone",
+          "drying_method": "placed in a desiccator under vacuum"
+        },
+        {
+          "step": "Single Crystals",
+          "temperature": "100 °C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "10 ml"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "L-proline",
+              "amount": "0.104 g, 0.90 mmol, 4 eq"
+            },
+            {
+              "name": "4,4′-ethynylenedibenzoic acid",
+              "amount": "0.060 g, 0.23 mmol, 1 eq"
+            },
+            {
+              "name": "hafnium tetrachloride",
+              "amount": "0.072 g, 0.23 mmol, 1 eq"
+            },
+            {
+              "name": "hydrochloric acid",
+              "amount": "0.02 ml"
+            }
+          ],
+          "time": "48 hours",
+          "crystal_system": "Cubic",
+          "space_group": "Fm-3m",
+          "a": "30.1107 (12) Å",
+          "V": "27300 (3) Å3",
+          "Z": "4",
+          "solvent_accessible_void_space": "20364 Å3"
+        }
+      ]
+    },
+    {
+      "name": "Bulk Bromination of (1) and (2)",
+      "synthesis_conditions": [
+        {
+          "step": "Bulk Bromination of (1)",
+          "solvents": [
+            {
+              "name": "CHCl3",
+              "amount": "15 ml"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "bromine",
+              "amount": "611 µl, 11.92 mmol, 30 eq"
+            }
+          ],
+          "time": "48 hours",
+          "washing_method": "washed multiple times with fresh CHCl3",
+          "drying_method": "placed in a desiccator under vacuum",
+          "analysis": "Br content: expected, 29.8%; found, 26.2%"
+        },
+        {
+          "step": "Bulk Bromination of (2)",
+          "solvents": [
+            {
+              "name": "CHCl3",
+              "amount": "20 ml"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "bromine",
+              "amount": "660 µl, 12.90 mmol, 30 eq"
+            }
+          ],
+          "time": "72 hours",
+          "washing_method": "washed multiple times with fresh CHCl3",
+          "drying_method": "placed in a desiccator under vacuum",
+          "analysis": "Br content: expected, 25.6%; found, 23.2%"
+        }
+      ]
+    },
+    {
+      "name": "Single-Crystal to Single-Crystal Bromination of (1) and (2)",
+      "synthesis_conditions": [
+        {
+          "step": "Single Crystal Bromination of (1)",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "3 ml"
+            },
+            {
+              "name": "CHCl3",
+              "amount": "3 ml"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "bromine",
+              "amount": "50 µl, 0.98 mmol"
+            }
+          ],
+          "time": "96 hours",
+          "washing_method": "replaced CHCl3 multiple times with fresh CHCl3",
+          "resolvation": "resolvated in DMF"
+        },
+        {
+          "step": "Single Crystal Bromination of (2)",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "3 ml"
+            },
+            {
+              "name": "CHCl3",
+              "amount": "3 ml"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "bromine",
+              "amount": "50 µl, 0.98 mmol"
+            }
+          ],
+          "time": "96 hours",
+          "washing_method": "replaced CHCl3 multiple times with fresh CHCl3",
+          "resolvation": "resolvated in DMF"
+        }
+      ]
+    },
+    {
+      "name": "Iodination of (1)",
+      "synthesis_conditions": [
+        {
+          "step": "Iodination",
+          "chemicals_used": [
+            {
+              "name": "I2",
+              "amount": "51 mg, 15 eq per triple bond"
+            }
+          ],
+          "time": "7 days",
+          "washing_method": "washed with 10 ml aliquots of CHCl3 until no purple colour observed",
+          "drying_method": "dried under vacuum",
+          "analysis": "61% conversion to diiodoalkene units, corresponding to 41% w/w irreversible chemisorption of I2"
+        }
+      ]
+    }
+  ]
+}

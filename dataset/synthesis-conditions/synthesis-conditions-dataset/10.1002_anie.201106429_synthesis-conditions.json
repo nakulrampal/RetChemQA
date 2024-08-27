@@ -1,0 +1,134 @@
+{
+  "materials": [
+    {
+      "name": "bifunctional amino-halo BDC ligands",
+      "synthesis_conditions": [
+        {
+          "temperature": "reflux",
+          "solvents": [
+            {
+              "name": "isopropyl alcohol",
+              "amount": "100 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "dimethyl-2-amino terephthalate",
+              "amount": "5 mmol"
+            },
+            {
+              "name": "N-chlorosuccinimide (NCS)",
+              "amount": "5.5 mmol"
+            }
+          ],
+          "yield": "ortho-halogenation: 34%, para-halogenation: 44%"
+        },
+        {
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "chloroform",
+              "amount": "150 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "dimethyl-2-amino terephthalate",
+              "amount": "10 mmol"
+            },
+            {
+              "name": "N-bromosuccinimide (NBS)",
+              "amount": "11 mmol"
+            }
+          ],
+          "yield": "ortho-halogenation: 16%, para-halogenation: 57%"
+        },
+        {
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "acetic acid",
+              "amount": "20 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "dimethyl-2-amino terephthalate",
+              "amount": "1 mmol"
+            },
+            {
+              "name": "N-iodosuccinimide (NIS)",
+              "amount": "1.1 mmol"
+            }
+          ],
+          "yield": "para-halogenation: 47%"
+        }
+      ]
+    },
+    {
+      "name": "UiO-66-2,3-NH2X and UiO-66-2,5-NH2X",
+      "synthesis_conditions": [
+        {
+          "temperature": "120 8C",
+          "time": "24 h",
+          "solvents": [
+            {
+              "name": "N,N-dimethylformamide (DMF)",
+              "amount": "not specified"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "appropriate bifunctional BDC ligand",
+              "amount": "not specified"
+            },
+            {
+              "name": "ZrCl4",
+              "amount": "not specified"
+            }
+          ],
+          "modifications": [
+            {
+              "temperature": "80 8C",
+              "solvents": [
+                {
+                  "name": "acetic acid",
+                  "role": "modulator"
+                }
+              ],
+              "notes": "Used for UiO-66-2,5-NH2I to reduce impurities."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "DMOF-2,3-NH2X and DMOF-2,5-NH2X",
+      "synthesis_conditions": [
+        {
+          "solvents": [
+            {
+              "name": "DMF or DEF (N,N-diethylformamide)",
+              "amount": "not specified"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "2,3-NH2X-BDC or 2,5-NH2X-BDC",
+              "amount": "not specified"
+            },
+            {
+              "name": "Zn(NO3)2",
+              "amount": "not specified"
+            },
+            {
+              "name": "1,4-diazabicyclo[2,2,2]octane (dabco)",
+              "amount": "not specified"
+            }
+          ],
+          "conditions": "solvothermal"
+        }
+      ]
+    }
+  ]
+}

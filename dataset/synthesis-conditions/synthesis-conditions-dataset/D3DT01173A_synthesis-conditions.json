@@ -1,0 +1,111 @@
+{
+  "materials": [
+    {
+      "name": "Eu(m-pbc)",
+      "synthesis_conditions": {
+        "temperature": "140 °C",
+        "solvents": [
+          {
+            "name": "distilled water",
+            "amount": "3 mL"
+          }
+        ],
+        "equipment": "Teflon-lined stainless autoclave (15 mL)",
+        "chemicals_used": [
+          {
+            "name": "Eu(NO3)3·6H2O",
+            "amount": "44.7 mg, 0.1 mmol"
+          },
+          {
+            "name": "m-H3pbc",
+            "amount": "20.3 mg, 0.1 mmol"
+          }
+        ],
+        "time": "48 hours",
+        "washing_method": "water (5 mL × 3) and ethanol (5 mL × 3)",
+        "drying_method": "filtration",
+        "yield": "65% based on Eu(III)"
+      }
+    },
+    {
+      "name": "Tb(m-pbc)",
+      "synthesis_conditions": {
+        "temperature": "Similar to Eu(m-pbc)",
+        "solvents": "Similar to Eu(m-pbc)",
+        "equipment": "Similar to Eu(m-pbc)",
+        "chemicals_used": [
+          {
+            "name": "Tb(NO3)3·6H2O",
+            "note": "Replacing Eu(NO3)3·6H2O in Eu(m-pbc) synthesis"
+          }
+        ],
+        "time": "Similar to Eu(m-pbc)",
+        "washing_method": "Similar to Eu(m-pbc)",
+        "drying_method": "Similar to Eu(m-pbc)",
+        "yield": "61% based on Tb(III)"
+      }
+    },
+    {
+      "name": "Gd(m-pbc)",
+      "synthesis_conditions": {
+        "temperature": "Similar to Eu(m-pbc)",
+        "solvents": "Similar to Eu(m-pbc)",
+        "equipment": "Similar to Eu(m-pbc)",
+        "chemicals_used": [
+          {
+            "name": "Gd(NO3)3·6H2O",
+            "note": "Replacing Eu(NO3)3·6H2O in Eu(m-pbc) synthesis"
+          }
+        ],
+        "time": "Similar to Eu(m-pbc)",
+        "washing_method": "Similar to Eu(m-pbc)",
+        "drying_method": "Similar to Eu(m-pbc)",
+        "yield": "54% based on Gd(III)"
+      }
+    },
+    {
+      "name": "YxEu1−x(m-pbc) and YxTb1−x(m-pbc)",
+      "synthesis_conditions": {
+        "temperature": "Similar to Eu(m-pbc)",
+        "solvents": "Similar to Eu(m-pbc)",
+        "equipment": "Similar to Eu(m-pbc)",
+        "chemicals_used": [
+          {
+            "name": "Partial Eu(NO3)3·6H2O/Tb(NO3)3·6H2O",
+            "note": "x percentage of 0.1 mmol replaced with an equimolar amount of Y(NO3)3·6H2O"
+          }
+        ],
+        "time": "Similar to Eu(m-pbc)",
+        "washing_method": "Similar to Eu(m-pbc)",
+        "drying_method": "Similar to Eu(m-pbc)",
+        "note": "x varies from 10% to 90% with an increment of 20%"
+      }
+    },
+    {
+      "name": "Ln(m-pbc)-NSs",
+      "synthesis_conditions": {
+        "method": "Sonication-assisted exfoliation",
+        "solvents": [
+          {
+            "name": "acetone",
+            "note": "Different solvents such as acetone, ethanol, 1-octanol, and isopropyl alcohol were tested"
+          },
+          {
+            "name": "ethanol"
+          },
+          {
+            "name": "1-octanol"
+          },
+          {
+            "name": "isopropyl alcohol"
+          }
+        ],
+        "time": "At least 220 minutes",
+        "equipment": "Sonication",
+        "washing_method": "water followed by centrifugation",
+        "drying_method": "dried at 60 °C under vacuum conditions",
+        "note": "The dried powder samples were sonicated in solvents"
+      }
+    }
+  ]
+}

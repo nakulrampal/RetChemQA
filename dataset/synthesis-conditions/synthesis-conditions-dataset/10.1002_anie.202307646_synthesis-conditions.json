@@ -1,0 +1,199 @@
+{
+  "materials": [
+    {
+      "name": "(MEMOR)2KBiBr6",
+      "synthesis_conditions": {
+        "temperature": "boiled",
+        "solvents": "aqueous HBr",
+        "chemicals_used": ["MEPRD", "RbNO3", "KBr", "Bi2O3"],
+        "time": "slow cooling at room temperature",
+        "dimensionality": "1D",
+        "space_group": "P212121",
+        "connectivity_modes": "edge-and face-sharing",
+        "optical_band_gap_eV": 2.82
+      }
+    },
+    {
+      "name": "(MEMOR)2RbBiBr6",
+      "synthesis_conditions": {
+        "temperature": "boiled",
+        "solvents": "aqueous HBr",
+        "chemicals_used": ["MEPRD", "RbNO3", "KBr", "Bi2O3"],
+        "time": "slow cooling at room temperature",
+        "dimensionality": "1D",
+        "space_group": "P212121",
+        "connectivity_modes": "edge-and face-sharing",
+        "optical_band_gap_eV": 2.83
+      }
+    },
+    {
+      "name": "(MEMOR)2RbBiI6",
+      "synthesis_conditions": {
+        "temperature": "boiled",
+        "solvents": "aqueous HI",
+        "chemicals_used": ["MEPRD", "RbNO3", "KBr", "Bi2O3"],
+        "time": "slow cooling at room temperature",
+        "dimensionality": "1D",
+        "space_group": "P212121",
+        "connectivity_modes": "edge-and face-sharing",
+        "optical_band_gap_eV": 2.17
+      }
+    },
+    {
+      "name": "(MOR)2KBiBr6",
+      "synthesis_conditions": {
+        "temperature": "boiled",
+        "solvents": "aqueous HBr",
+        "chemicals_used": ["MOR", "RbNO3", "KBr", "Bi2O3"],
+        "time": "slow cooling at room temperature",
+        "dimensionality": "1D",
+        "space_group": "C2/c",
+        "connectivity_modes": "edge-sharing",
+        "optical_band_gap_eV": 2.78
+      }
+    },
+    {
+      "name": "(MOR)2KBiI6",
+      "synthesis_conditions": {
+        "temperature": "boiled",
+        "solvents": "aqueous HI",
+        "chemicals_used": ["MOR", "RbNO3", "KBr", "Bi2O3"],
+        "time": "slow cooling at room temperature",
+        "dimensionality": "1D",
+        "space_group": "C2",
+        "connectivity_modes": "edge-sharing",
+        "optical_band_gap_eV": 2.22
+      }
+    },
+    {
+      "name": "(MOR)2RbBiBr6·H2O",
+      "synthesis_conditions": {
+        "temperature": "boiled",
+        "solvents": "aqueous HBr",
+        "chemicals_used": ["MOR", "RbNO3", "KBr", "Bi2O3"],
+        "time": "slow cooling at room temperature",
+        "dimensionality": "2D",
+        "space_group": "Pmmn",
+        "connectivity_modes": "corner-sharing",
+        "optical_band_gap_eV": 2.77
+      }
+    },
+    {
+      "name": "(MOR)2RbBiI6",
+      "synthesis_conditions": {
+        "temperature": "boiled",
+        "solvents": "aqueous HI",
+        "chemicals_used": ["MOR", "RbNO3", "KBr", "Bi2O3"],
+        "time": "slow cooling at room temperature",
+        "dimensionality": "3D",
+        "space_group": "C2/c",
+        "connectivity_modes": "corner-and edge-sharing",
+        "optical_band_gap_eV": 2.03
+      }
+    },
+    {
+      "name": "(EA)2KBiBr6",
+      "synthesis_conditions": {
+        "temperature": "boiled",
+        "solvents": "aqueous HBr",
+        "chemicals_used": ["EA", "RbNO3", "KBr", "Bi2O3"],
+        "time": "slow cooling at room temperature",
+        "dimensionality": "1D",
+        "space_group": "C2/c",
+        "connectivity_modes": "face-sharing",
+        "optical_band_gap_eV": 2.89
+      }
+    },
+    {
+      "name": "(EA)2RbBiBr6",
+      "synthesis_conditions": {
+        "temperature": "boiled",
+        "solvents": "aqueous HBr",
+        "chemicals_used": ["EA", "RbNO3", "KBr", "Bi2O3"],
+        "time": "slow cooling at room temperature",
+        "dimensionality": "1D",
+        "space_group": "C2/c",
+        "connectivity_modes": "face-sharing",
+        "optical_band_gap_eV": 2.82
+      }
+    },
+    {
+      "name": "(MEA)2RbBiBr6",
+      "synthesis_conditions": {
+        "temperature": "boiled",
+        "solvents": "aqueous HBr",
+        "chemicals_used": ["MEA", "RbNO3", "KBr", "Bi2O3"],
+        "time": "slow cooling at room temperature",
+        "dimensionality": "1D",
+        "space_group": "Pna21",
+        "connectivity_modes": "face-sharing",
+        "optical_band_gap_eV": 2.85
+      }
+    },
+    {
+      "name": "(MEA)2RbBiI6",
+      "synthesis_conditions": {
+        "temperature": "boiled",
+        "solvents": "aqueous HI",
+        "chemicals_used": ["MEA", "RbNO3", "KBr", "Bi2O3"],
+        "time": "slow cooling at room temperature",
+        "dimensionality": "1D",
+        "space_group": "Pna21",
+        "connectivity_modes": "face-sharing",
+        "optical_band_gap_eV": 2.17
+      }
+    },
+    {
+      "name": "(MEPRD)2KBiBr6",
+      "synthesis_conditions": {
+        "temperature": "boiled",
+        "solvents": "aqueous HBr",
+        "chemicals_used": ["MEPRD", "RbNO3", "KBr", "Bi2O3"],
+        "time": "slow cooling at room temperature",
+        "dimensionality": "3D",
+        "space_group": "P21",
+        "connectivity_modes": "corner-and face-sharing",
+        "optical_band_gap_eV": 2.86
+      }
+    },
+    {
+      "name": "(MEPRD)2RbBiI6",
+      "synthesis_conditions": {
+        "temperature": "boiled",
+        "solvents": "aqueous HI",
+        "chemicals_used": ["MEPRD", "RbNO3", "KBr", "Bi2O3"],
+        "time": "slow cooling at room temperature",
+        "dimensionality": "3D",
+        "space_group": "P21",
+        "connectivity_modes": "corner-and face-sharing",
+        "optical_band_gap_eV": 2.17
+      }
+    },
+    {
+      "name": "(MEPRD)2RbBiBr6",
+      "synthesis_conditions": {
+        "temperature": "boiled",
+        "solvents": "aqueous HBr",
+        "chemicals_used": ["MEPRD", "RbNO3", "KBr", "Bi2O3"],
+        "time": "slow cooling at room temperature",
+        "dimensionality": "3D",
+        "space_group": "P21",
+        "connectivity_modes": "corner-and face-sharing",
+        "optical_band_gap_eV": 2.88
+      }
+    },
+    {
+      "name": "(MEPRD)2KBiI6",
+      "synthesis_conditions": {
+        "temperature": "boiled",
+        "solvents": "aqueous HI",
+        "chemicals_used": ["MEPRD", "RbNO3", "KBr", "Bi2O3"],
+        "time": "slow cooling at room temperature",
+        "dimensionality": "3D",
+        "space_group": "P21",
+        "connectivity_modes": "corner-and face-sharing",
+        "optical_band_gap_eV": 2.17
+      }
+    }
+  ]
+}

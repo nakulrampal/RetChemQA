@@ -1,0 +1,41 @@
+{
+  "materials": [
+    {
+      "name": "Ag-Amidn (1)",
+      "synthesis_conditions": {
+        "temperature": "90°C",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "sealed glassed plate",
+        "chemicals_used": [
+          {
+            "name": "AgNO3",
+            "amount": "not specified"
+          },
+          {
+            "name": "HAMIDN",
+            "amount": "not specified"
+          }
+        ],
+        "time": "3 days heating and 1 day cooling to room temperature",
+        "yield": "55% (based on AgNO3)",
+        "analytical_data": {
+          "calculated": {
+            "C": "25.03",
+            "H": "0.84",
+            "N": "29.18"
+          },
+          "found": {
+            "C": "25.37",
+            "H": "0.89",
+            "N": "29.76"
+          }
+        }
+      }
+    }
+  ]
+}

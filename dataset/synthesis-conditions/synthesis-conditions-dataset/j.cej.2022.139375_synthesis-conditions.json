@@ -1,0 +1,115 @@
+{
+  "materials": [
+    {
+      "material": "1-(Nitromethyl)-5H-tetrazole (2a)",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "below 5°C, then allowed to warm to room temperature",
+          "solvents": [
+            {
+              "name": "H2SO4 (96%)",
+              "amount": "12 mL"
+            },
+            {
+              "name": "H2O",
+              "amount": "4.5 mL"
+            },
+            {
+              "name": "HNO3 (100%)",
+              "amount": "5.0 mL"
+            },
+            {
+              "name": "NaHCO3 solution",
+              "amount": "57.5 g in 100 mL H2O"
+            },
+            {
+              "name": "EtOAc",
+              "amount": "800 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "1-(tetrazol-1-yl)propan-2-on (1a)",
+              "amount": "2.00 g, 15.5 mmol, 1.0 eq."
+            }
+          ],
+          "time": "55 min",
+          "yield": "27%",
+          "purification": "column chromatography (silica gel, EtOAc:n-hexane = 60:40 to 100:0)"
+        }
+      ]
+    },
+    {
+      "material": "2-(Nitromethyl)-5H-tetrazole (2b)",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "below 5°C, then allowed to warm to room temperature",
+          "solvents": [
+            {
+              "name": "H2SO4 (96%)",
+              "amount": "12 mL"
+            },
+            {
+              "name": "H2O",
+              "amount": "6 mL"
+            },
+            {
+              "name": "HNO3 (100%)",
+              "amount": "5.0 mL"
+            },
+            {
+              "name": "NaHCO3 solution",
+              "amount": "57.5 g in 100 mL H2O"
+            },
+            {
+              "name": "EtOAc",
+              "amount": "500 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "1-(tetrazol-2-yl)propan-2-on (1b)",
+              "amount": "2.00 g, 15.5 mmol, 1.0 eq."
+            }
+          ],
+          "time": "58 min",
+          "yield": "12%",
+          "purification": "column chromatography (silica gel, EtOAc:n-hexane = 50:50 to 100:0)"
+        }
+      ]
+    },
+    {
+      "material": "ECCs 3-8",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "room temperature, then stirred at 80°C for 5 min",
+          "solvents": [
+            {
+              "name": "ethanol",
+              "amount": "2 mL for dissolving copper(II) salt"
+            },
+            {
+              "name": "n-hexane",
+              "amount": "for washing and precipitation"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "copper(II) salt",
+              "details": "various amounts and types for different ECCs"
+            },
+            {
+              "name": "1-(Nitromethyl)-5H-tetrazole (2a)",
+              "amount": "218 mg, 1.50 mmol, 6.0 equiv."
+            }
+          ],
+          "time": "1-2 days for crystallization",
+          "purification": "filtered off, washed with cold n-hexane"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "Material": "[FeII(prentrz)2PdII(CN)4]",
+  "Synthesis_Conditions": {
+    "Temperature": "Room temperature (293 K) for SC-XRD data collection, 433 K for heating 1·9/2H2O to obtain 1·4/3H2O",
+    "Solvents": {
+      "First_layer": "Aqueous solution containing FeSO4·7H2O and ascorbic acid",
+      "Second_layer": "Buffer solution of H2O and CH3OH (1:1, v/v)",
+      "Third_layer": "CH3OH solution containing prentrz ligand and K2[Pd(CN)4]"
+    },
+    "Activation_Methods": {
+      "1·9/2H2O": "Stabilized in air for 3 h after synthesis",
+      "1·4/3H2O": "Heated 1·9/2H2O at 433 K under vacuum for 48 h and cooled in air to rehydration",
+      "Anhydrous_1": "Heated 1·9/2H2O at 433 K under vacuum for 48 h"
+    },
+    "Equipment": {
+      "SC-XRD": "Rigaku Oxford XtaLAB PRO diffractometer with Mo Kα radiation",
+      "PXRD": "PANalytical diffractometer with Cu Kα radiation",
+      "Synchrotron_PXRD": "BL02B2 beamline (Spring-8, Japan, λ = 0.4500 Å)",
+      "Raman_Spectroscopy": "Renishaw InVia confocal Raman spectrometer with humidity control part"
+    },
+    "Yield": "15.42 mg, ~ 68.9% based on K2[Pd(CN)4] for 1·9/2H2O",
+    "Characterization_Techniques": {
+      "SC-XRD": "Single-crystal X-ray diffraction",
+      "PXRD": "Powder X-ray diffraction",
+      "Raman_Spectroscopy": "Micro-Raman spectroscopy",
+      "Magnetic_Measurement": "Quantum Design MPMS XL-7 magnetometer"
+    }
+  }
+}

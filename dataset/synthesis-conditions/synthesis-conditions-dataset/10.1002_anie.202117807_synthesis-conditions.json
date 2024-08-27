@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "name": "ATC-Cu",
+      "synthesis_conditions": {
+        "literature_source": "according to the literature with minor modifications",
+        "solvents": "not specified",
+        "chemicals_used": "Cu paddle-wheel, ATC ligand",
+        "temperature": "298 K for gas adsorption studies",
+        "pressure": "0.1 bar and 1 bar for gas adsorption studies",
+        "time": "12 h for exposing into N2 or O2 atmosphere",
+        "yield": "not specified",
+        "drying_method": "not specified",
+        "washing_method": "not specified",
+        "equipment": "single-crystal X-ray diffraction (SCXRD) for framework analysis",
+        "additional_information": {
+          "BET_surface_area": "600 m2 g-1",
+          "Langmuir_surface_area": "667 m2 g-1",
+          "thermal_stability": "stable till 270 °C",
+          "Xe_uptake_capacity": "2.65 mmol g-1 at 0.1 bar and 298 K",
+          "Kr_uptake_capacity": "0.52 mmol g-1 at 0.1 bar and 298 K",
+          "cycle_performance": "no decrease in Xe uptake after ten cycles"
+        }
+      }
+    }
+  ]
+}

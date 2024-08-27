@@ -1,0 +1,224 @@
+{
+  "FDM-4": {
+    "synthesis_conditions": {
+      "chemicals_used": [
+        {
+          "name": "4-pyrazolecarboxylic acid (H2PyC)",
+          "amount": "0.044 g",
+          "molarity": "0.39 mmol"
+        },
+        {
+          "name": "Cu(NO3)2·3H2O",
+          "amount": "0.044 g",
+          "molarity": "0.18 mmol"
+        },
+        {
+          "name": "Zn(NO3)2·6H2O",
+          "amount": "1.30 g",
+          "molarity": "4.38 mmol"
+        }
+      ],
+      "solvents": [
+        {
+          "name": "N,N-dimethylformamide (DMF)",
+          "amount": "15 mL"
+        },
+        {
+          "name": "N-methyl-2-pyrrolidone (NMP)",
+          "amount": "5 mL"
+        }
+      ],
+      "temperature": "85 °C",
+      "time": "72 hours",
+      "yield": "88% based on Cu(NO3)2·3H2O",
+      "activation": {
+        "method": "solvent exchange with CH2Cl2 for nine times over three days, followed by heating at 200 °C under vacuum"
+      },
+      "elemental_analysis": {
+        "calculated": {
+          "C": "19.26%",
+          "H": "1.41%",
+          "N": "11.23%",
+          "Zn": "28.40%",
+          "Cu": "19.11%"
+        },
+        "found": {
+          "C": "18.57%",
+          "H": "2.51%",
+          "N": "10.50%",
+          "Zn": "29.55%",
+          "Cu": "19.62%"
+        }
+      },
+      "FT-IR": "3407(w), 3123(w), 2362(w), 1545(vs), 1440(s), 1386(s), 1344(w), 1290(vs), 1200(w), 1178(w), 1053(w), 1006(w), 887(w), 791(s), 619(w), 583(w)"
+    }
+  },
+  "FDM-5": {
+    "synthesis_conditions": {
+      "chemicals_used": [
+        {
+          "name": "4-pyrazolecarboxylic acid (H2PyC)",
+          "amount": "0.050 g",
+          "molarity": "0.45 mmol"
+        },
+        {
+          "name": "Cu(NO3)2·3H2O",
+          "amount": "0.077 g",
+          "molarity": "0.32 mmol"
+        },
+        {
+          "name": "Zn(NO3)2·6H2O",
+          "amount": "1.30 g",
+          "molarity": "4.38 mmol"
+        }
+      ],
+      "solvents": [
+        {
+          "name": "N,N-dimethylformamide (DMF)",
+          "amount": "10 mL"
+        },
+        {
+          "name": "N,N-dimethylacetamide (DMA)",
+          "amount": "10 mL"
+        }
+      ],
+      "temperature": "85 °C",
+      "time": "72 hours",
+      "yield": "82% based on Cu(NO3)2·3H2O",
+      "activation": {
+        "method": "solvent exchange with CH2Cl2 for nine times over three days, followed by heating at 200 °C under vacuum"
+      },
+      "elemental_analysis": {
+        "calculated": {
+          "C": "19.55%",
+          "H": "2.16%",
+          "N": "11.40%",
+          "Zn": "18.63%",
+          "Cu": "23.27%"
+        },
+        "found": {
+          "C": "18.62%",
+          "H": "2.55%",
+          "N": "11.12%",
+          "Zn": "18.69%",
+          "Cu": "23.97%"
+        }
+      },
+      "FT-IR": "3395(w), 3119(w), 2376(w), 1656(w), 1544(vs), 1437(vs), 1384(w), 1342(w), 1288(vs), 1197(w), 1050(s), 1006(s), 880(w), 786(vs), 734(w), 670(w), 619(w), 583(w)"
+    }
+  },
+  "FDM-6": {
+    "synthesis_conditions": {
+      "chemicals_used": [
+        {
+          "name": "4-pyrazolecarboxylic acid (H2PyC)",
+          "amount": "0.020 g",
+          "molarity": "0.18 mmol"
+        },
+        {
+          "name": "1,4-benzenedicarboxylic acid (H2BDC)",
+          "amount": "0.016 g",
+          "molarity": "0.09 mmol"
+        },
+        {
+          "name": "Cu(NO3)2·3H2O",
+          "amount": "0.022 g",
+          "molarity": "0.09 mmol"
+        },
+        {
+          "name": "Zn(NO3)2·6H2O",
+          "amount": "1.30 g",
+          "molarity": "4.38 mmol"
+        }
+      ],
+      "solvents": [
+        {
+          "name": "N,N-dimethylformamide (DMF)",
+          "amount": "15 mL"
+        },
+        {
+          "name": "N-methyl-2-pyrrolidone (NMP)",
+          "amount": "5 mL"
+        }
+      ],
+      "temperature": "100 °C",
+      "time": "16 hours",
+      "yield": "90% based on Cu(NO3)2·3H2O",
+      "activation": {
+        "method": "solvent exchange with CH2Cl2 for nine times over three days, followed by heating at 200 °C under vacuum"
+      },
+      "elemental_analysis": {
+        "calculated": {
+          "C": "23.50%",
+          "H": "1.31%",
+          "N": "9.14%",
+          "Zn": "24.88%",
+          "Cu": "20.73%"
+        },
+        "found": {
+          "C": "23.77%",
+          "H": "1.86%",
+          "N": "8.86%",
+          "Zn": "25.50%",
+          "Cu": "21.80%"
+        }
+      },
+      "FT-IR": "3403(w), 3124(w), 2370(w), 1656(w), 1564(w), 1544(vs), 1441(s), 1384(vs), 1290(vs), 1199(w), 1177(w), 1151(w), 1107(w), 1054(s), 1003(s), 883(w), 811(w), 789(s), 749(s), 702(w), 670(w), 620(w), 585(w), 528(w)"
+    }
+  },
+  "FDM-7": {
+    "synthesis_conditions": {
+      "chemicals_used": [
+        {
+          "name": "4-pyrazolecarboxylic acid (H2PyC)",
+          "amount": "0.020 g",
+          "molarity": "0.18 mmol"
+        },
+        {
+          "name": "2,6-naphthalenedicarboxylic acid (H2NDC)",
+          "amount": "0.020 g",
+          "molarity": "0.09 mmol"
+        },
+        {
+          "name": "Cu(NO3)2·3H2O",
+          "amount": "0.022 g",
+          "molarity": "0.09 mmol"
+        },
+        {
+          "name": "Zn(NO3)2·6H2O",
+          "amount": "1.30 g",
+          "molarity": "4.38 mmol"
+        }
+      ],
+      "solvents": [
+        {
+          "name": "N,N-dimethylformamide (DMF)",
+          "amount": "20 mL"
+        }
+      ],
+      "temperature": "100 °C",
+      "time": "16 hours",
+      "yield": "83% based on Cu(NO3)2·3H2O",
+      "activation": {
+        "method": "solvent exchange with CH2Cl2 for nine times over three days, followed by heating at 200 °C under vacuum"
+      },
+      "elemental_analysis": {
+        "calculated": {
+          "C": "22.84%",
+          "H": "1.56%",
+          "N": "9.11%",
+          "Zn": "26.18%",
+          "Cu": "19.08%"
+        },
+        "found": {
+          "C": "21.93%",
+          "H": "2.58%",
+          "N": "8.75%",
+          "Zn": "26.43%",
+          "Cu": "19.80%"
+        }
+      },
+      "FT-IR": "3401(w), 3124(w), 2373(w), 1656(w), 1606(w), 1562(w), 1544(vs), 1441(w), 1409(w), 1382(w), 1355(w), 1290(vs), 1199(w), 1174(w), 1141(w), 1103(w), 1053(s), 1006(s), 922(w), 880(w), 790(s), 734(w), 700(w), 670(w), 618(w), 585(w), 480(w)"
+    }
+  }
+}

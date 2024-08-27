@@ -1,0 +1,99 @@
+{
+  "materials": [
+    {
+      "name": "TOF-16",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "90 °C",
+          "solvents": [
+            {
+              "name": "N,N′-dimethylformamide (DMF)",
+              "amount": "500 μL of a 10mg/mL Th(NO3)4 (5.0 mg) solution and 250 μL of 2.5g/L ligand solution (0.625 mg)"
+            },
+            {
+              "name": "3 M HCl",
+              "amount": "300 μL"
+            },
+            {
+              "name": "q-H2O",
+              "amount": "200 μL"
+            }
+          ],
+          "chemicals_used": [
+            "thorium nitrate tetrahydrate",
+            "2,2′-dihydroxy-[1,1′-binaphthalene]-5,5′-dicarboxylic acid (binaphthol) linker"
+          ],
+          "time": "72 h",
+          "yield": "ca. 74% (based on linker)",
+          "other_conditions": "Vials were sealed and heated statically in an oven."
+        }
+      ]
+    },
+    {
+      "name": "Binaphthol Ligand",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "description": "Synthesized according to previously published procedures. In summary, 6-hydroxy-1-naphthoic acid was esterified using concentrated sulfuric acid in methanol, coupled using stoichiometric FeCl3.6H2O in water, and de-esterified with sodium hydroxide in water. The crude product was recrystallized in methanol and obtained with an overall yield of 60% by mass."
+        }
+      ]
+    }
+  ],
+  "irradiation_conditions": [
+    {
+      "material": "TOF-16",
+      "type": "γ-irradiation",
+      "source": "Shepherd 60Co source at the University of Notre Dame Radiation Laboratory",
+      "dose_rate": "88.4 Gy/min",
+      "doses": [
+        "1 MGy",
+        "2 MGy",
+        "3 MGy",
+        "3.5 MGy",
+        "4 MGy"
+      ],
+      "sample_preparation": "Crystals of TOF-16 were degassed by a freeze-thaw technique and flame sealed in Pyrex tubes."
+    },
+    {
+      "material": "TOF-16",
+      "type": "He2+ ion irradiation",
+      "source": "9S Accelerator at the University of Notre Dame Nuclear Science Laboratory",
+      "doses": [
+        "2.5 MGy",
+        "7.6 MGy",
+        "15.3 MGy",
+        "20.4 MGy",
+        "25.5 MGy",
+        "63.7 MGy"
+      ],
+      "sample_preparation": "Samples were prepared by grinding TOF-16 crystals in DMF to a polycrystalline material and depositing a suspension of the polycrystalline sample in MeOH on a glass slide."
+    }
+  ],
+  "characterization_methods": [
+    {
+      "method": "Powder X-Ray Diffraction (PXRD)",
+      "details": "Used to confirm the bulk purity and structural integrity of TOF-16 before and after irradiation."
+    },
+    {
+      "method": "Raman Spectroscopy",
+      "details": "Collected on single crystals of TOF-16 to probe the impact of irradiation on the structure."
+    },
+    {
+      "method": "FT-IR Spectroscopy",
+      "details": "Infrared spectra of crystals of TOF-16 were obtained to study the chemical stability post-irradiation."
+    },
+    {
+      "method": "UV-Vis-NIR Spectroscopy",
+      "details": "Electronic spectra were obtained for crystalline samples of TOF-16 at room temperature to observe changes due to irradiation."
+    },
+    {
+      "method": "Thermogravimetric Analysis (TGA)",
+      "details": "Conducted on TOF-16 to study thermal stability and decomposition."
+    },
+    {
+      "method": "BET Surface Area Analysis",
+      "details": "Performed on supercritical CO2 activated TOF-16 to determine surface area and pore volume."
+    }
+  ]
+}

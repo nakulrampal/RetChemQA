@@ -1,0 +1,81 @@
+{
+  "materials": [
+    {
+      "material": "[FeIII(TAML)(O2)]2– (1)",
+      "synthesis_conditions": {
+        "temperature": "5 °C",
+        "solvents": "CH3CN",
+        "chemicals_used": [
+          {
+            "chemical": "Na[FeIII(TAML)]",
+            "amount": "not specified"
+          },
+          {
+            "chemical": "potassium superoxide (KO2)",
+            "amount": "solid, not specified"
+          },
+          {
+            "chemical": "2.2.2-cryptand",
+            "amount": "6 equivalents"
+          }
+        ],
+        "yield": "not specified",
+        "drying_method": "not specified",
+        "washing_method": "not specified",
+        "time": "not specified",
+        "equipment": "not specified"
+      },
+      "characterization": {
+        "UV-vis": "490 nm",
+        "ESI-MS": "m/z 873.1 for [K(2.2.2-cryptand)Fe(TAML)(16O2)]–",
+        "EPR": "No signal observed",
+        "1H NMR Evans method": "Magnetic moment of 3.26 μB at -20 °C",
+        "Infrared": "1260 cm-1 (16O2), shifts to 1183 cm-1 (18O2)",
+        "Mössbauer": {
+          "delta": "0.10 mm s-1",
+          "Delta_EQ": "2.66 mm s-1"
+        },
+        "X-ray crystallography": {
+          "O-O bond length": "1.323(3) Å and 1.306(7) Å",
+          "Fe-O bond length": "Average 1.927 Å"
+        }
+      }
+    },
+    {
+      "material": "[MnIV(TAML)(O2)]2– (2)",
+      "synthesis_conditions": {
+        "temperature": "25 °C",
+        "solvents": "CH3CN",
+        "chemicals_used": [
+          {
+            "chemical": "Li[MnIII(TAML)]",
+            "amount": "not specified"
+          },
+          {
+            "chemical": "potassium superoxide (KO2)",
+            "amount": "solid, not specified"
+          },
+          {
+            "chemical": "2.2.2-cryptand",
+            "amount": "6 equivalents"
+          }
+        ],
+        "yield": "not specified",
+        "drying_method": "not specified",
+        "washing_method": "not specified",
+        "time": "not specified",
+        "equipment": "not specified"
+      },
+      "characterization": {
+        "UV-vis": "600 nm",
+        "ESI-MS": "m/z 872.1 for [K(2.2.2-cryptand)Mn(TAML)(16O2)]–",
+        "EPR": "Six-line hyperfine pattern centered at g = 5.6 with splitting of a = 55 G",
+        "Infrared": "905 cm-1 (16O2), shifts to 860 cm-1 (18O2)",
+        "X-ray crystallography": {
+          "O-O bond length": "1.415(2) Å, 1.412(3) Å, and 1.403(13) Å",
+          "Mn-O bond length": "Average 1.876 Å"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "materials": [
+    {
+      "name": "MOF-950",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "H3BTAC",
+              "amount": "0.033 g",
+              "molarity": "0.11 mmol"
+            },
+            {
+              "name": "Zn(NO3)2·6H2O",
+              "amount": "0.25 g",
+              "molarity": "0.84 mmol"
+            },
+            {
+              "name": "DMF",
+              "amount": "20 mL"
+            }
+          ],
+          "temperature": "85 °C",
+          "time": "3 d",
+          "equipment": "20 mL screw-capped scintillation vial",
+          "washing_method": "washed three times with 5 mL of fresh DMF",
+          "solvent_exchange": {
+            "solvent": "DMF",
+            "duration": "3 d",
+            "frequency": "3 times per day",
+            "volume": "4 mL"
+          },
+          "immersion_solvent": "chloroform",
+          "immersion_duration": "3 d",
+          "immersion_frequency": "3 times per day",
+          "immersion_volume": "4 mL",
+          "drying_method": {
+            "initial_temperature": "room temperature",
+            "final_temperature": "80 °C",
+            "duration_initial": "12 h",
+            "duration_final": "4 h"
+          },
+          "yield": "0.029 g",
+          "yield_percentage": "62%"
+        }
+      ]
+    },
+    {
+      "name": "MOF-905",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "H3BTAC",
+              "amount": "0.045 g",
+              "molarity": "0.16 mmol"
+            },
+            {
+              "name": "H2BDC",
+              "amount": "0.048 g",
+              "molarity": "0.29 mmol"
+            },
+            {
+              "name": "Zn(NO3)2·6H2O",
+              "amount": "0.26 g",
+              "molarity": "0.87 mmol"
+            },
+            {
+              "name": "DMF",
+              "amount": "18 mL"
+            },
+            {
+              "name": "ethanol",
+              "amount": "1.8 mL"
+            }
+          ],
+          "temperature": "85 °C",
+          "time": "1 d",
+          "equipment": "20 mL screw-capped scintillation vial",
+          "washing_method": "washed and dried in the same way as MOF-950",
+          "yield": "0.048 g",
+          "yield_percentage": "49%"
+        }
+      ]
+    },
+    {
+      "name": "MOF-905-Me2",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "H3BTAC",
+              "amount": "0.045 g",
+              "molarity": "0.16 mmol"
+            },
+            {
+              "name": "H2BDC-Me2",
+              "amount": "0.067 g",
+              "molarity": "0.34 mmol"
+            },
+            {
+              "name": "Zn(NO3)2·6H2O",
+              "amount": "0.26 g",
+              "molarity": "0.87 mmol"
+            },
+            {
+              "name": "DMF",
+              "amount": "18 mL"
+            },
+            {
+              "name": "ethanol",
+              "amount": "1.8 mL"
+            }
+          ],
+          "temperature": "85 °C",
+          "time": "1 d",
+          "equipment": "20 mL screw-capped scintillation vial",
+          "washing_method": "washed and dried in the same way as MOF-905",
+          "yield": "0.044 g",
+          "yield_percentage": "43%"
+        }
+      ]
+    },
+    {
+      "name": "MOF-905-Naph",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "H3BTAC",
+              "amount": "0.045 g",
+              "molarity": "0.16 mmol"
+            },
+            {
+              "name": "H2NDC",
+              "amount": "0.074 g",
+              "molarity": "0.34 mmol"
+            },
+            {
+              "name": "Zn(NO3)2·6H2O",
+              "amount": "0.26 g",
+              "molarity": "0.87 mmol"
+            },
+            {
+              "name": "DMF",
+              "amount": "18 mL"
+            },
+            {
+              "name": "ethanol",
+              "amount": "1.8 mL"
+            }
+          ],
+          "temperature": "85 °C",
+          "time": "1 d",
+          "equipment": "20 mL screw-capped scintillation vial",
+          "washing_method": "washed and dried in the same way as MOF-905",
+          "yield": "0.047 g",
+          "yield_percentage": "45%"
+        }
+      ]
+    },
+    {
+      "name": "MOF-905-NO2",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "H3BTAC",
+              "amount": "0.045 g",
+              "molarity": "0.16 mmol"
+            },
+            {
+              "name": "H2BDC-NO2",
+              "amount": "0.062 g",
+              "molarity": "0.29 mmol"
+            },
+            {
+              "name": "Zn(NO3)2·6H2O",
+              "amount": "0.26 g",
+              "molarity": "0.87 mmol"
+            },
+            {
+              "name": "DMF",
+              "amount": "18 mL"
+            },
+            {
+              "name": "ethanol",
+              "amount": "1.8 mL"
+            }
+          ],
+          "temperature": "85 °C",
+          "time": "36 h",
+          "equipment": "20 mL screw-capped scintillation vial",
+          "washing_method": "washed and dried in the same way as MOF-905",
+          "yield": "0.043 g",
+          "yield_percentage": "41%"
+        }
+      ]
+    }
+  ]
+}

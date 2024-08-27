@@ -1,0 +1,84 @@
+{
+  "materials": [
+    {
+      "name": "Acyl hydrazone 1 - KSCN complex",
+      "synthesis_conditions": [
+        {
+          "temperature": "25 8C",
+          "solvents": [
+            {
+              "name": "acetonitrile",
+              "amount": "not specified"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Acyl hydrazone 1",
+              "amount": "70 mm"
+            },
+            {
+              "name": "KSCN",
+              "amount": "35 mm"
+            }
+          ],
+          "time": "not specified",
+          "equipment": "thermostatic bath",
+          "yield": "not specified",
+          "additional_information": "Crystals suitable for X-ray diffraction analysis were obtained by the slow diffusion of diethyl ether into a solution of 1–KSCN in acetonitrile."
+        },
+        {
+          "temperature": "25 8C and (cid:3)10 8C",
+          "solvents": [
+            {
+              "name": "acetonitrile",
+              "amount": "not specified"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "ligand 1",
+              "amount": "100 mm"
+            },
+            {
+              "name": "KSCN",
+              "amount": "50 mm"
+            }
+          ],
+          "yield": "64 % at 25 8C and 85 % at (cid:3)10 8C",
+          "additional_information": "36 and 15 % of the ligand remained in solution, respectively."
+        }
+      ]
+    },
+    {
+      "name": "Acyl hydrazone 5 - KSCN complex",
+      "synthesis_conditions": [
+        {
+          "temperature": "25 8C",
+          "solvents": [
+            {
+              "name": "methanol",
+              "amount": "not specified"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Acyl hydrazone 5",
+              "amount": "300 mm"
+            },
+            {
+              "name": "benzhydrazide",
+              "amount": "1 equiv"
+            },
+            {
+              "name": "KSCN",
+              "amount": "1 equiv"
+            }
+          ],
+          "time": "10 days",
+          "yield": "not specified",
+          "additional_information": "After 10 days, fiberlike assemblies appeared in solution, at the same rate as the exchange."
+        }
+      ]
+    }
+  ]
+}

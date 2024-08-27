@@ -1,0 +1,128 @@
+{
+  "materials": [
+    {
+      "material_name": "1a",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "reflux",
+          "solvents": [
+            {
+              "solvent_name": "ethanol",
+              "amount": "2-3 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "chemical_name": "Pyridine-2,6-dicarboxaldehyde",
+              "amount": "20 mg",
+              "equivalent": "1 equiv."
+            },
+            {
+              "chemical_name": "methylhydrazine",
+              "amount": "3 equiv."
+            }
+          ],
+          "time": "36 h",
+          "atmosphere": "nitrogen",
+          "yield": "42%",
+          "drying_method": "vacuum",
+          "washing_method": "ethanol"
+        }
+      ],
+      "characterization": {
+        "1H_NMR": {
+          "solvent": "CDCl3",
+          "frequency": "400 MHz",
+          "chemical_shifts": [
+            "10.08 (s, 1H)",
+            "8.29-8.21 (m, 2H)",
+            "7.92-7.80 (m, 3H)",
+            "7.74 (dt, J = 8.5, 0.9 Hz, 1H)",
+            "7.68-7.60 (m, 1H)",
+            "6.90-6.83 (m, 1H)",
+            "3.73 (s, 3H)"
+          ]
+        },
+        "13C_NMR": {
+          "solvent": "CDCl3",
+          "frequency": "101 MHz",
+          "chemical_shifts": [
+            "193.3",
+            "157.3",
+            "156.3",
+            "152.4",
+            "147.2",
+            "137.8",
+            "137.2",
+            "133.4",
+            "123.5",
+            "120.8",
+            "116.7",
+            "110.2",
+            "30.0"
+          ]
+        },
+        "ESI-MS": {
+          "m/z_found": "241.11",
+          "m/z_calculated": "241.11 ([M+H]+)"
+        }
+      }
+    },
+    {
+      "material_name": "1a-Pb2",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "solvents": [
+            {
+              "solvent_name": "CD3CN",
+              "amount": "0.6 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "chemical_name": "Ligand 1a",
+              "amount": "1 mg",
+              "equivalent": "1 equiv."
+            },
+            {
+              "chemical_name": "Pb(CF3SO3)2",
+              "amount": "2.6 equiv."
+            }
+          ],
+          "time": "1-2 min",
+          "temperature": "room temperature",
+          "method": "sonication"
+        }
+      ],
+      "characterization": {
+        "1H_NMR": {
+          "solvent": "CD3CN",
+          "frequency": "400 MHz",
+          "chemical_shifts": [
+            "8.95 (d, J = 4.5 Hz, 1H)",
+            "8.92 (s, 1H)",
+            "8.73 (s, 1H)",
+            "8.61 (d, J = 4.0 Hz, 1H)",
+            "8.53 (s, 1H)",
+            "8.44 (s, 1H)",
+            "8.34 (t, J = 7.8 Hz, 1H)",
+            "8.24 (td, J = 7.8, 1.5 Hz, 1H)",
+            "8.07 – 7.94 (m, 4H)",
+            "7.82 (dd, J = 6.7, 5.2 Hz, 1H)",
+            "7.41 (d, J = 8.6 Hz, 1H)",
+            "7.32 (dd, J = 7.1, 5.2 Hz, 1H)",
+            "6.80 (s, 1H)",
+            "3.77 (s, 6H)",
+            "3.70 (s, 3H)"
+          ]
+        },
+        "ESI-MS": {
+          "m/z_found": "596.56",
+          "m/z_calculated": "596.54 ([Pb21a(CF3SO3)2]2+)"
+        }
+      }
+    }
+  ]
+}

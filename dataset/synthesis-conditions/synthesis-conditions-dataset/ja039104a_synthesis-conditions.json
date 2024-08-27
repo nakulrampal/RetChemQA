@@ -1,0 +1,122 @@
+{
+  "materials": [
+    {
+      "material_id": "1",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "2 mL"
+            },
+            {
+              "name": "methanol",
+              "amount": "10 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "manganese(II) perchlorate hexahydrate",
+              "amount": "0.15 g, 0.4 mmol"
+            },
+            {
+              "name": "sodium azide",
+              "amount": "0.052 g, 0.8 mmol"
+            },
+            {
+              "name": "L1",
+              "amount": "0.045 g, 0.2 mmol"
+            }
+          ],
+          "time": "15 min",
+          "yield": "43.5%",
+          "washing_method": "slow evaporation",
+          "drying_method": "room temperature",
+          "yield_percentage": "43.5"
+        }
+      ]
+    },
+    {
+      "material_id": "2",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "not specified"
+            },
+            {
+              "name": "methanol",
+              "amount": "not specified"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "manganese(II) perchlorate hexahydrate",
+              "amount": "not specified"
+            },
+            {
+              "name": "sodium azide",
+              "amount": "not specified"
+            },
+            {
+              "name": "L2",
+              "amount": "not specified"
+            }
+          ],
+          "time": "not specified",
+          "yield": "37.0%",
+          "washing_method": "slow evaporation",
+          "drying_method": "room temperature",
+          "yield_percentage": "37.0"
+        }
+      ]
+    },
+    {
+      "material_id": "4",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "not specified",
+          "solvents": [
+            {
+              "name": "methanol",
+              "amount": "5 mL"
+            },
+            {
+              "name": "methanol",
+              "amount": "2 mL"
+            },
+            {
+              "name": "methanol",
+              "amount": "20 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "L4",
+              "amount": "0.042 g, 0.2 mmol"
+            },
+            {
+              "name": "sodium azide",
+              "amount": "0.052 g, 0.8 mmol"
+            },
+            {
+              "name": "manganese(II) perchlorate hexahydrate",
+              "amount": "0.145 g, 0.4 mmol"
+            }
+          ],
+          "time": "2 weeks",
+          "yield": "78.8%",
+          "washing_method": "slow diffusion",
+          "drying_method": "not specified",
+          "yield_percentage": "78.8"
+        }
+      ]
+    }
+  ]
+}

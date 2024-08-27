@@ -1,0 +1,76 @@
+{
+  "materials": [
+    {
+      "name": "2,5-bis[(2-nitrobenzyl)oxy]-1,4-benzenedicarboxylic acid (H2bdc-NO2)",
+      "synthesis_conditions": {
+        "solvents": "Not explicitly mentioned",
+        "chemicals_used": [
+          "Zn(NO3)2·6 H2O",
+          "4,4’-bipyridine (bpy)",
+          "aromatic substituent bearing 1,4-benzenedicarboxylic acid"
+        ],
+        "equipment": "Not explicitly mentioned",
+        "temperature": "Solvothermal conditions",
+        "time": "Not explicitly mentioned",
+        "yield": "Not explicitly mentioned",
+        "washing_method": "Solvent molecules exchanged with acetonitrile",
+        "drying_method": "80°C thermal activation in a vacuum",
+        "activation_conditions": "Thermal or supercritical drying"
+      }
+    },
+    {
+      "name": "2,5-bis(benzyloxy)-1,4-benzenedicarboxylic acid (H2bdc-H)",
+      "synthesis_conditions": {
+        "solvents": "Not explicitly mentioned",
+        "chemicals_used": [
+          "Zn(NO3)2·6 H2O",
+          "4,4’-bipyridine (bpy)",
+          "aromatic substituent bearing 1,4-benzenedicarboxylic acid"
+        ],
+        "equipment": "Not explicitly mentioned",
+        "temperature": "Solvothermal conditions",
+        "time": "Not explicitly mentioned",
+        "yield": "Not explicitly mentioned",
+        "washing_method": "Solvent molecules exchanged with acetonitrile",
+        "drying_method": "80°C thermal activation in a vacuum",
+        "activation_conditions": "Thermal or supercritical drying"
+      }
+    },
+    {
+      "name": "1-NO2-vac",
+      "synthesis_conditions": {
+        "activation_method": "Thermal activation",
+        "temperature": "80°C in a vacuum",
+        "time": "Not explicitly mentioned",
+        "solvents": "Acetonitrile for solvent exchange before activation"
+      }
+    },
+    {
+      "name": "1-H-vac",
+      "synthesis_conditions": {
+        "activation_method": "Thermal activation",
+        "temperature": "80°C in a vacuum",
+        "time": "Not explicitly mentioned",
+        "solvents": "Acetonitrile for solvent exchange before activation"
+      }
+    },
+    {
+      "name": "1-NO2-SCO2",
+      "synthesis_conditions": {
+        "activation_method": "Supercritical CO2 activation",
+        "temperature": "80°C",
+        "time": "12 hours",
+        "pressure": "High pressure to liquefy CO2"
+      }
+    },
+    {
+      "name": "1-H-SCO2",
+      "synthesis_conditions": {
+        "activation_method": "Supercritical CO2 activation",
+        "temperature": "Not explicitly mentioned",
+        "time": "Not explicitly mentioned",
+        "pressure": "High pressure to liquefy CO2"
+      }
+    }
+  ]
+}

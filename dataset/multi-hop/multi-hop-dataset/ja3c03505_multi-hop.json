@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What are the synthesis conditions for sql-NbOFFIVE-bpe-Cu-AA and sql-NbOFFIVE-bpe-Cu-AB?",
+      "answer": "For sql-NbOFFIVE-bpe-Cu-AA, CuNbOF5·4H2O (0.0345 g, 0.13 mmol) and bpe (0.0276 g, 0.15 mmol) were added to 11.0 mL of H2O/CH3OH (v/v = 9:2), sealed in a 14.5 mL vial, and settled for 1 h. For sql-NbOFFIVE-bpe-Cu-AB, CuNbOF5·4H2O (7 mg, 0.026 mmol) in 1 mL of water was layered onto bpe (6.3 mg, 0.035 mmol) in 4 mL of 1,2-dichlorobenzene.",
+      "difficulty": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "What transformation occurs to sql-NbOFFIVE-bpe-Cu-AA upon heating at 333 K?",
+      "answer": "Upon heating at 333 K, sql-NbOFFIVE-bpe-Cu-AA transforms from the AA-α phase to the AA-β phase.",
+      "difficulty": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "What is the significance of the ABAB packing in sql-NbOFFIVE-bpe-Cu-AB?",
+      "answer": "The ABAB packing in sql-NbOFFIVE-bpe-Cu-AB results in a distinct pore structure with both intrinsic and extrinsic channels, which contributes to its exceptional C3H4/C3H6 separation performance.",
+      "difficulty": "Hard",
+      "type": "Reasoning"
+    },
+    {
+      "question": "How does the sql-NbOFFIVE-bpe-Cu-AB material capture C3H4 from a C3H4/C3H6 mixture?",
+      "answer": "The sql-NbOFFIVE-bpe-Cu-AB material captures C3H4 from a C3H4/C3H6 mixture through a binding 'sweet spot' in the extrinsic pores, which is responsible for its benchmark separation performance.",
+      "difficulty": "Hard",
+      "type": "Reasoning"
+    },
+    {
+      "question": "What are the key findings from the DFT and CMC simulations regarding the adsorption of C3H4 and C3H6 in sql-NbOFFIVE-bpe-Cu-AA and sql-NbOFFIVE-bpe-Cu-AB?",
+      "answer": "The DFT and CMC simulations revealed that sql-NbOFFIVE-bpe-Cu-AA and sql-NbOFFIVE-bpe-Cu-AB have distinct adsorption sites for C3H4 and C3H6, with sql-NbOFFIVE-bpe-Cu-AB showing enhanced binding for C3H4 and weaker binding for C3H6 compared to sql-NbOFFIVE-bpe-Cu-AA, aligning with their experimental separation performances.",
+      "difficulty": "Hard",
+      "type": "Reasoning"
+    },
+    {
+      "question": "What is the role of the FOXY and M'FFIVE pillars in the structure of HUMs?",
+      "answer": "The FOXY (e.g., NbOF52-) and M'FFIVE (e.g., AlF52-, FeF52-) pillars in HUMs contribute to strong and selective binding interactions with small gas molecules like CO2 and hydrocarbons, which is crucial for their gas separation capabilities.",
+      "difficulty": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "What experimental techniques were used to characterize the sql-NbOFFIVE-bpe-Cu-AA and sql-NbOFFIVE-bpe-Cu-AB materials?",
+      "answer": "Characterization techniques included powder X-ray diffraction (PXRD), variable temperature PXRD (VT-PXRD), thermogravimetric analysis (TGA), dynamic vapor sorption (DVS), gas sorption measurements, and single crystal X-ray diffraction.",
+      "difficulty": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "True or False: The sql-NbOFFIVE-bpe-Cu-AB material exhibits a higher C3H4/C3H6 separation selectivity than sql-NbOFFIVE-bpe-Cu-AA.",
+      "answer": "True",
+      "difficulty": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of the AAAA and ABAB layer arrangements on the gas separation performance of sql-NbOFFIVE-bpe-Cu materials?",
+      "answer": "The AAAA layer arrangement in sql-NbOFFIVE-bpe-Cu-AA leads to intrinsic 1D channels, while the ABAB layer arrangement in sql-NbOFFIVE-bpe-Cu-AB creates both intrinsic and extrinsic channels, impacting their gas separation performance by providing different pore structures and adsorption sites.",
+      "difficulty": "Hard",
+      "type": "Reasoning"
+    },
+    {
+      "question": "True or False: The sql-NbOFFIVE-bpe-Cu materials are capable of undergoing phase transformations induced by temperature and pressure changes.",
+      "answer": "True",
+      "difficulty": "Easy",
+      "type": "True or False"
+    }
+  ]
+}

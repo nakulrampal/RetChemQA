@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula and formula weight of compound 1?",
+      "answer": "C15H6AgAuF10O, 697.03",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the space group and cell volume (V) for the crystal structure of compound 1?",
+      "answer": "C2/c, 3546.5(13) Å^3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the absorption and emission wavelengths of compound 1 in acetone solution at a concentration of 5 x 10^-4 M?",
+      "answer": "332 nm (absorption), 405 nm (emission)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What changes occur in the excitation and emission wavelengths of compound 1 when the concentration increases from 5 x 10^-4 M to 1.7 x 10^-2 M?",
+      "answer": "The excitation and emission bands shift to 444 and 506 nm, respectively.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the relationship between the emission wavelength and the concentration of compound 1 in solution?",
+      "answer": "The emission wavelength shows a linear relationship with the inverse of the concentration, indicating aggregation of [Au2Ag2(C6F5)4(OCMe2)2] units through gold-gold interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What type of excited states are responsible for the luminescence of compound 1 in dilute acetone solution?",
+      "answer": "Pentafluorophenyl localized ππ* excited states or from π-MMCT transitions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What excited states are responsible for the luminescence of compound 1 in the solid state?",
+      "answer": "Metal-centered (dσ*)1(pσ)1 or (dδ*)1(pσ)1 excited states.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the emission of compound 1 in solution at low concentration due to transitions arising from the ligands to π* orbitals of the ligands or metal-based bonding orbitals?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the introduction of one gold-gold interaction in the dimer model of compound 1 accurately represent the solid-state situation?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the HOMO-LUMO transition in the dimer model of compound 1 dipole-allowed?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the experimental excitation spectrum of compound 1 in the solid state match perfectly with the predicted excitations from TD-DFT calculations?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the emission of compound 1 in the solid state due to 5d(z^2)σ*−6pσ transitions?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the emission of compound 1 in dilute acetone solution arise from gold-gold interactions?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of gold-gold interactions in the luminescence properties of compound 1?",
+      "answer": "Gold-gold interactions are critical to the optical properties when the gold atoms are in a linear environment, influencing the emission spectra.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How do the optical properties of compound 1 change with different concentrations in acetone solution?",
+      "answer": "The optical properties change with concentration, indicating molecular aggregation through gold-gold interactions, which affects the emission wavelength.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental technique was used to determine the crystal structure of compound 1?",
+      "answer": "X-ray diffraction",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the deviation from Lambert-Beer's law observed for compound 1 in acetone solution?",
+      "answer": "The deviation indicates molecular aggregation in solution through gold-gold interactions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the gold(I) and silver(I) precursor complexes of compound 1 luminescent at similar energies?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the emission of compound 1 in solution at high concentration arise from the interactions among the metals?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to assign the molecular orbitals involved in the behavior observed for compound 1 in solution and in the solid state?",
+      "answer": "TD-DFT calculations",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

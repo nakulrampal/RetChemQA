@@ -1,0 +1,52 @@
+{
+  "materials": [
+    {
+      "name": "Zn(GS)2",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": "methanol",
+        "amount_of_solvent": "11.4 mL",
+        "equipment": "12 mL rubber-lined capped scintillation vial",
+        "chemicals_used": "Gly-Ser (0.1 mmol, 48.6mg), Zn(NO3)•6H2O (0.15 mmol), NaOH(aq) (1M, 360 µL)",
+        "time": "2 minutes",
+        "heating_rate": "2 °C.min-1",
+        "cooling_rate": "0.5 °C.min-1",
+        "yield": "80 %",
+        "washing_method": "filtered, washed with CH3OH",
+        "drying_method": "stored in the fridge",
+        "analysis": {
+          "calc": "C, 31.91; N, 12.40; H, 5.80",
+          "found": "C, 31.47; N, 12.28; H, 5.62"
+        }
+      }
+    },
+    {
+      "name": "Zn(GA)2",
+      "synthesis_conditions": {
+        "reference": "Previously reported methods"
+      }
+    },
+    {
+      "name": "Zn(GT)2",
+      "synthesis_conditions": {
+        "reference": "Previously reported methods"
+      }
+    },
+    {
+      "name": "Multiple peptide MOFs",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": "methanol",
+        "amount_of_solvent": "1.8mL of Zn(NO3)•6H2O 0.028M, 1mL of CH3OH",
+        "equipment": "4mL rubber-lined capped scintillation vial",
+        "chemicals_used": "GA, GS, GT (0.047M solutions), NaOH(aq) (1M, 600 µL)",
+        "time": "2 minutes",
+        "heating_rate": "2 °C.min-1",
+        "cooling_rate": "0.5 °C.min-1",
+        "yield": "65-80%",
+        "washing_method": "isolated by filtration, washed with abundant CH3OH",
+        "drying_method": "stored at low temperature in the fridge"
+      }
+    }
+  ]
+}

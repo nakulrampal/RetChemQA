@@ -1,0 +1,88 @@
+{
+  "materials": [
+    {
+      "name": "[Zn(5-NO2-ip)(dpe)] (1)",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "N,N’-dimethylformamide (DMF)",
+            "amount": "100 mL"
+          }
+        ],
+        "equipment": "300 mL round flask",
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "1.49 g, 5 mmol"
+          },
+          {
+            "name": "5-nitroisophthalic acid (H2-5NO2-ip)",
+            "amount": "1.06 g, 5 mmol"
+          },
+          {
+            "name": "1,2-di(4-pyridyl)ethylene (dpe)",
+            "amount": "0.91 mg, 5 mmol"
+          }
+        ],
+        "time": "16 hours",
+        "atmosphere": "N2",
+        "washing_method": "washed with DMF and methanol several times",
+        "elemental_analysis": {
+          "calculated": {
+            "C": "52.6%",
+            "H": "2.9%",
+            "N": "9.2%"
+          },
+          "experimental": {
+            "C": "52.6%",
+            "H": "2.8%",
+            "N": "9.3%"
+          }
+        }
+      }
+    },
+    {
+      "name": "[Zn(5-NO2-ip)(dpe-d4)]",
+      "synthesis_conditions": {
+        "temperature": "170 °C",
+        "solvents": [
+          {
+            "name": "D2O",
+            "amount": "45 mL"
+          }
+        ],
+        "equipment": "100 mL Teflon vessel",
+        "chemicals_used": [
+          {
+            "name": "dpe (1,2-di(4-pyridyl)ethylene)",
+            "amount": "6 mmol, 109.2 mg"
+          },
+          {
+            "name": "PtO2",
+            "amount": "0.3 mmol, 68.1 mg"
+          }
+        ],
+        "time": "18 hours",
+        "extraction_solvent": "CHCl3",
+        "drying_method": "dried by Na2SO4",
+        "characterization": [
+          "1H-NMR",
+          "mass spectroscopy"
+        ]
+      }
+    },
+    {
+      "name": "[Zn(isophthalate)(1,2-bis(4-pyridyl)ethane)]",
+      "synthesis_conditions": {
+        "reference": "Zaworotko, et al. Chem. Commun., 2001, 861–862"
+      }
+    },
+    {
+      "name": "[Zn(5-methylisophthalate)(1,2-bis(4-pyridyl)ethane)]",
+      "synthesis_conditions": {
+        "reference": "Wang, et al. Cryst. Growth & Des. 2009, 5334–5342"
+      }
+    }
+  ]
+}

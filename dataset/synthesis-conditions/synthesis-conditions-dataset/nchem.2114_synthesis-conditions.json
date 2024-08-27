@@ -1,0 +1,101 @@
+{
+  "materials": [
+    {
+      "label": "NOTT-300",
+      "conditions": {
+        "temperature": "273-303 K",
+        "solvents": "N/A",
+        "equipment": "IGA-003 system",
+        "chemicals_used": "CH4, C2H2, C2H4, C2H6",
+        "time": "N/A",
+        "washing_method": "N/A",
+        "drying_method": "N/A",
+        "yield": "N/A",
+        "other_conditions": [
+          "Desolvated NOTT-300 was loaded with pure C2H4 to generate NOTT-300·1C2H4 at room temperature before the sample cell was isolated, sealed and cooled down to below 10 K.",
+          "Desolvated NOTT-300 was loaded with an equimolar mixture of C2H2 and C2H4 at room temperature before the sample cell was isolated, sealed and cooled down to below 10 K."
+        ]
+      }
+    },
+    {
+      "label": "NOTT-300·4C2H2",
+      "conditions": {
+        "temperature": "273 K",
+        "solvents": "N/A",
+        "equipment": "Beamline I11 of Diamond Light Source",
+        "chemicals_used": "C2H2",
+        "time": "30-60 minutes to equilibrate before collection of the PXRD pattern",
+        "washing_method": "N/A",
+        "drying_method": "N/A",
+        "yield": "N/A",
+        "other_conditions": [
+          "The final PXRD pattern was collected after a final degassing at 373 K and under vacuum for ~40 minute to remove adsorbed C2H2."
+        ]
+      }
+    },
+    {
+      "label": "NOTT-300·2.5C2H4",
+      "conditions": {
+        "temperature": "273 K",
+        "solvents": "N/A",
+        "equipment": "Beamline I11 of Diamond Light Source",
+        "chemicals_used": "C2H4",
+        "time": "30-60 minutes to equilibrate before collection of the PXRD pattern",
+        "washing_method": "N/A",
+        "drying_method": "N/A",
+        "yield": "N/A",
+        "other_conditions": [
+          "The final PXRD pattern was collected after a final degassing at 373 K and under vacuum for ~40 minute to remove adsorbed C2H4."
+        ]
+      }
+    },
+    {
+      "label": "NOTT-300·2.7C2D2",
+      "conditions": {
+        "temperature": "10 K",
+        "solvents": "N/A",
+        "equipment": "WISH diffractometer at the ISIS Facility",
+        "chemicals_used": "C2D2",
+        "time": "N/A",
+        "washing_method": "N/A",
+        "drying_method": "N/A",
+        "yield": "N/A",
+        "other_conditions": [
+          "The loadings of C2D2 were performed by volumetric method at room temperature."
+        ]
+      }
+    },
+    {
+      "label": "NOTT-300·1.8C2D4",
+      "conditions": {
+        "temperature": "10 K",
+        "solvents": "N/A",
+        "equipment": "WISH diffractometer at the ISIS Facility",
+        "chemicals_used": "C2D4",
+        "time": "N/A",
+        "washing_method": "N/A",
+        "drying_method": "N/A",
+        "yield": "N/A",
+        "other_conditions": [
+          "The loadings of C2D4 were performed by volumetric method at room temperature."
+        ]
+      }
+    },
+    {
+      "label": "NOTT-300·1.3C2D6",
+      "conditions": {
+        "temperature": "10 K",
+        "solvents": "N/A",
+        "equipment": "WISH diffractometer at the ISIS Facility",
+        "chemicals_used": "C2D6",
+        "time": "N/A",
+        "washing_method": "N/A",
+        "drying_method": "N/A",
+        "yield": "N/A",
+        "other_conditions": [
+          "The loadings of C2D6 were performed by volumetric method at room temperature."
+        ]
+      }
+    }
+  ]
+}

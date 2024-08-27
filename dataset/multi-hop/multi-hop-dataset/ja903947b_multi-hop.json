@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the direct white-light-emitting metal-organic framework discussed in the text?",
+      "answer": "[AgL]n·nH2O, where L = 4-cyanobenzoate",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the photoluminescence of the metal-organic framework change with the variation of excitation light?",
+      "answer": "The photoluminescence of the metal-organic framework changes from yellow to white with the variation of excitation light.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to calculate the density of states (DOS) for the metal-organic framework?",
+      "answer": "The density of states (DOS) was calculated using density functional theory (DFT) with the CASTEP code in the Materials Studio V4.0 software package.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of 300–370 nm UV light on the metal-organic framework?",
+      "answer": "Exposure to 300–370 nm UV light causes a change in appearance from white to pale yellow and decreases the photoluminescence intensity of the metal-organic framework.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What are the CIE-1931 chromaticity coordinates of the white-light emissions excited by 350- and 349-nm light?",
+      "answer": "The CIE-1931 chromaticity coordinates of the white-light emissions excited by 350- and 349-nm light are approximately (0.31, 0.33) and (0.33, 0.34), respectively.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What synthesis method was used to create the metal-organic framework [AgL]n·nH2O?",
+      "answer": "The metal-organic framework [AgL]n·nH2O was synthesized by reacting deprotonated 4-cyanobenzoic acid (HL) with AgNO3 in water, followed by filtration and allowing the filtrate to stand in the dark for 2-3 weeks.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the synthesis of [AgL]n·nH2O vary with the use of Et3N compared to NaOH?",
+      "answer": "The replacement of Et3N with NaOH in the synthesis of [AgL]n·nH2O gave a similar result, indicating that both can be used as a base in the reaction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the crystal structure of [AgL]n·nH2O maintained after exposure to UV light?",
+      "answer": "Yes, the crystal structure of [AgL]n·nH2O and the configuration of the ligand are kept during the illumination of UV light, as indicated by unchanged IR and PXRD analyses.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the lattice water molecules in the structure of [AgL]n·nH2O?",
+      "answer": "The lattice water molecules contribute to the formation of the crystal structure of [AgL]n·nH2O, but they were not included in the calculation of the density of states (DOS).",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the photoluminescence intensity of [AgL]n·nH2O be restored after saturation due to UV light exposure?",
+      "answer": "The text does not provide information on whether the photoluminescence intensity of [AgL]n·nH2O can be restored after saturation due to UV light exposure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The emission peaks at 427 and 566 nm are responsible for the direct white light emission of [AgL]n·nH2O.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The external quantum yield of [AgL]n·nH2O is less than 5% when excited by 349-nm light.",
+      "answer": "False, the external quantum yield is 10.86% when excited by 349-nm light.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis of [AgL]n·nH2O requires the use of organic solvents.",
+      "answer": "False, the synthesis is carried out in water.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The photoluminescence of [AgL]n·nH2O is not affected by the variation of excitation light.",
+      "answer": "False, the photoluminescence is tunable from yellow to white based on the variation of excitation light.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The crystal structure of [AgL]n·nH2O is 1-Dimensional.",
+      "answer": "False, the crystal structure consists of wave-like 2-D MOFs.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The absorption peak of [AgL]n·nH2O is only found in the UV region.",
+      "answer": "False, it presents a gentle absorption peak from ∼460 nm to the near-IR region.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis of [AgL]n·nH2O does not involve any heating process.",
+      "answer": "False, the reaction mixture is heated to about 80 °C.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

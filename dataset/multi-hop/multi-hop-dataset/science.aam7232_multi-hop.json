@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "question": "What is the primary purpose of using a hydrophilic metal-organic framework in the purification of 1,3-butadiene?",
+      "answer": "The primary purpose is to induce conformational changes in the flexible guest molecules, weakening 1,3-butadiene adsorption through a large bending energy penalty, allowing for efficient purification of 1,3-butadiene at ambient temperature and pressure.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the adsorptive separation mechanism described in the text differ from conventional adsorbents for purifying C4H6?",
+      "answer": "The described adsorptive separation mechanism exploits the flexibility of guest molecules leading to an optimum adsorption-separation sequence for C4H6 purification, unlike conventional adsorbents that preferentially adsorb C4H6 but have low selectivity due to similar molecular sizes, shapes, and properties of C4 hydrocarbons.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The hydrophilic MOFs exhibited diversified separation sequences closely related to their pore sizes, shapes, and dimensionalities.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does the quasi-discrete pore structure of the metal-organic framework play in the separation of C4 hydrocarbons?",
+      "answer": "The quasi-discrete pore structure combines conformation controllability and diffusion ability, making it optimal for restricting the flexible guest in the metastable cis conformation, thus utilizing the difference in guest flexibility to lower the adsorption enthalpy for C4H6 compared with other C4 hydrocarbons.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why is Zn-BTM particularly effective in purifying 1,3-butadiene from a mixture of C4 hydrocarbons?",
+      "answer": "Zn-BTM is particularly effective because it shows a distinctive elution sequence with different breakthrough times, beneficial for directly producing highly pure C4H6 and efficiently separating the four components due to its ability to control guest conformation and exploit differences in guest flexibility.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Zn-BTA showed significant adsorption of the four C4 hydrocarbons.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental method was used to measure single-component adsorption isotherms for C4 hydrocarbons in Zn-BTM?",
+      "answer": "Single-component adsorption isotherms for C4 hydrocarbons in Zn-BTM were measured using an automatic volumetric adsorption apparatus.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the flexibility of C4 hydrocarbons influence their adsorption in Zn-BTM?",
+      "answer": "The flexibility of C4 hydrocarbons, particularly C4H6, influences their adsorption in Zn-BTM by incurring a large energy penalty to adopt the metastable cis conformation, breaking the planar conjugation of adjacent p bonds, which is utilized by Zn-BTM to lower the adsorption enthalpy for C4H6 compared to other C4 hydrocarbons.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption selectivity of Zn-BTM for C4 hydrocarbons is primarily based on the molecular sizes and shapes.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational simulation was used to show that Zn-BTM and Zn-BTA have different cavity and aperture sizes, influencing their adsorption behavior?",
+      "answer": "Grand canonical Monte Carlo (GCMC) simulation was used to show the differences in cavity and aperture sizes between Zn-BTM and Zn-BTA, influencing their adsorption behavior by representing large channel, small channel, discrete pore, and quasi-discrete pore situations.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why does Zn-BTM exhibit a special adsorption mechanism for flexible guests compared to other adsorbents?",
+      "answer": "Zn-BTM exhibits a special adsorption mechanism for flexible guests because it can control the guest conformation, utilizing the difference in guest flexibility to lower the adsorption enthalpy for C4H6 compared with other C4 hydrocarbons, unlike other adsorbents that do not exploit guest flexibility in the same way.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption of C4 hydrocarbons in Zn-BTM does not consider the flexibilities of both the host and the guest molecules.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the breakthrough operation using a 5:2:2:1 C4H6/n-C4H8/i-C4H8/C4H10 mixture in the context of Zn-BTM's performance?",
+      "answer": "The significance of the breakthrough operation using a 5:2:2:1 mixture is to demonstrate Zn-BTM's improved separation performance and its ability to purify C4H6 with a high purity of 99.9% by exploiting the differences in breakthrough times of the gases, showcasing its efficiency in separating C4 hydrocarbons.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of open metal sites (OMSs) in adsorbents affect the recovery of adsorbed C4H6?",
+      "answer": "The presence of open metal sites (OMSs) in adsorbents may selectively extract C4H6 due to its strongest coordination ability, but recovery of the adsorbent and product is difficult as heating is necessary, which induces polymerization of C4H6, making the process challenging.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The purification performance of Zn-BTM for C4H6 is unaffected by the composition of the C4 hydrocarbon mixture.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role do the discrete or quasi-discrete cavities of Zn-BTA and Zn-BTM play in their adsorption and separation capabilities?",
+      "answer": "The discrete or quasi-discrete cavities of Zn-BTA and Zn-BTM play a crucial role in their adsorption and separation capabilities by affecting the shapes and sizes of their cavities and apertures, which in turn influences their ability to control guest conformation and thereby their adsorption selectivity and efficiency.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why is Zn-BTA unable to adsorb any of the four C4 hydrocarbons effectively?",
+      "answer": "Zn-BTA is unable to adsorb any of the four C4 hydrocarbons effectively because its aperture size is too small to accommodate the molecules, hindering their diffusion into the framework and thus preventing adsorption.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption selectivity of Zn-BTM for unsaturated n-C4H8 and i-C4H8 molecules can improve the C4H6 purification performance.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental technique was used to visualize the structural origins of abnormal C4 hydrocarbon adsorption in Zn-BTM?",
+      "answer": "Single-crystal x-ray diffraction (SCXRD) analyses were used to visualize the structural origins of abnormal C4 hydrocarbon adsorption in Zn-BTM by observing the adsorbed C4 hydrocarbon molecules inside the cavities with distinguishable molecular conformations.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the flexibility of the Zn-BTM framework contribute to its adsorption mechanism for flexible guests?",
+      "answer": "The flexibility of the Zn-BTM framework contributes to its adsorption mechanism for flexible guests by allowing both the host framework and guest molecules to undergo small distortions, which indicates a non-negligible role of framework and guest flexibility in optimizing the adsorption process and selectivity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption mechanism of Zn-BTM for flexible guests is similar to that of hydrophobic adsorbents.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "materials": [
+    {
+      "name": "[Cu(dm-bim)]n",
+      "synthesis_conditions": {
+        "temperature": "100 1C",
+        "time": "72 h",
+        "solvents": [
+          {
+            "name": "benzene",
+            "amount": "2 mL"
+          },
+          {
+            "name": "(+/(cid:3))-2-amino-1-butanol",
+            "amount": "2 mL"
+          },
+          {
+            "name": "acetonitrile",
+            "amount": "2 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "5,6-dimethylbenzimidazole",
+            "amount": "0.146 g (1 mmol)"
+          },
+          {
+            "name": "KBH4",
+            "amount": "0.053 g (1 mmol)"
+          },
+          {
+            "name": "CuI",
+            "amount": "0.019 g (0.1 mmol)"
+          }
+        ],
+        "equipment": "20 mL vial",
+        "yield": "68%",
+        "additional_steps": [
+          {
+            "step_description": "A mixture of 5,6-dimethylbenzimidazole and KBH4 was heated at 280 1C for 30 min to get a solid product, then CuI and a mixed solvent were added together and stirred for 15 min."
+          }
+        ]
+      }
+    }
+  ]
+}

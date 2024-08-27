@@ -1,0 +1,76 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "[Ni(cyclam)](ClO4)2",
+          "Na2bpydc"
+        ],
+        "amounts": [
+          "0.314 g, 0.69 mmol",
+          "0.199 g, 0.69 mmol"
+        ],
+        "solvents": [
+          "water"
+        ],
+        "solvent_amounts": [
+          "7 mL",
+          "2 mL"
+        ],
+        "temperature": "room temperature",
+        "equipment": "not specified",
+        "time": "until pale yellow crystals formed",
+        "washing_method": "washed with water",
+        "drying_method": "dried in air",
+        "yield": "0.306 g, 75%"
+      }
+    },
+    {
+      "name": "1'",
+      "synthesis_conditions": {
+        "initial_state": "single crystal 1 in mother liquor",
+        "equipment": "0.5 mm glass capillary, 9 mm cell of a gas sorption apparatus",
+        "temperature": "150 8C",
+        "pressure": "10-5 torr",
+        "time": "2 h",
+        "drying_method": "cooled to room temperature under the same vacuum",
+        "additional_steps": "removal of all solvent guest molecules checked by monitoring out-gases, cell filled with He gas (1.0 atm)"
+      }
+    },
+    {
+      "name": "1''",
+      "synthesis_conditions": {
+        "initial_state": "dehydrated crystal 1'",
+        "exposure": "exposed to air or water vapor",
+        "color_change": "from pink to yellow",
+        "time": "over a few minutes",
+        "retention": "retention of the single-crystallinity"
+      }
+    },
+    {
+      "name": "Guest-binding study",
+      "synthesis_conditions": {
+        "solvent": "isooctane",
+        "temperature": "20 8C",
+        "time": "16-20 h",
+        "organic_guests": [
+          "ethanol",
+          "phenol",
+          "pyridine",
+          "benzene"
+        ],
+        "initial_concentrations_ranges": [
+          "(0.206–2.57) x 10-1m",
+          "(0.222–1.27) x 10-1m",
+          "(0.198–2.37) x 10-1m",
+          "(0.337–2.81) x 10-1m"
+        ],
+        "measurement_method": "GC with dodecane as internal standard",
+        "equipment": "GC system with 30 m x 0.32 mm x 0.25 mm cross-linked polydimethylsiloxane capillary column",
+        "column_temperature_program": "from 80 8C (3 min) to 140 8C (2 min) at a rate of 30 8C min-1",
+        "detector": "flame-ionization detector"
+      }
+    }
+  ]
+}

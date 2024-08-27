@@ -1,0 +1,30 @@
+{
+  "materials": [
+    {
+      "name": "Fe2(dobdc)",
+      "synthesis_conditions": {
+        "temperature": "Not explicitly mentioned",
+        "solvents": "Not explicitly mentioned",
+        "amount_of_each_solvent": "Not explicitly mentioned",
+        "equipment": "Not explicitly mentioned",
+        "chemicals_used": "Not explicitly mentioned",
+        "time": "Not explicitly mentioned",
+        "washing_method": "Not explicitly mentioned",
+        "drying_method": "Not explicitly mentioned",
+        "yield": "Not explicitly mentioned",
+        "additional_steps": [
+          {
+            "step_description": "Dosing with deuterated gas at 300 K and cooled to 4 K for neutron powder diffraction data collection",
+            "temperature": "300 K for dosing, cooled to 4 K for data collection",
+            "chemicals_used": "Deuterated gas"
+          },
+          {
+            "step_description": "Variable-temperature magnetic susceptibility measurements",
+            "temperature": "Variable, down to 28 K",
+            "equipment": "Applied field of 1 kOe"
+          }
+        ]
+      }
+    }
+  ]
+}

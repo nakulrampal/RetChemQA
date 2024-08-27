@@ -1,0 +1,78 @@
+{
+  "materials": [
+    {
+      "name": "PCMOF10",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "3 mL"
+          },
+          {
+            "name": "water",
+            "amount": "3 mL"
+          }
+        ],
+        "equipment": "Teflon-lined autoclave",
+        "chemicals_used": [
+          {
+            "name": "Mg(NO3)2·6H2O",
+            "amount": "0.41 mmol"
+          },
+          {
+            "name": "2,5-dicarboxy-1,4-benzenediphosphonic acid (H6L)",
+            "amount": "0.48 mmol"
+          }
+        ],
+        "time": "72 h",
+        "yield": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Vacuum filtered",
+        "additional_steps": [
+          {
+            "step": "Heating",
+            "details": "Heated over a period of 2 hours from room temperature to 150 degrees Celsius"
+          },
+          {
+            "step": "Cooling",
+            "details": "Cooled over 18 hours to room temperature"
+          }
+        ]
+      }
+    },
+    {
+      "name": "2,5-dicarboxy-1,4-benzene diphosphonic acid (2,5-H6L)",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "3M HCl",
+            "amount": "80 mL"
+          },
+          {
+            "name": "THF",
+            "amount": "25 mL"
+          }
+        ],
+        "equipment": "Not specified",
+        "chemicals_used": [
+          {
+            "name": "dimethyl-2,5-bis(dimethylphosphono)terephthalate",
+            "amount": "2.00 g"
+          }
+        ],
+        "time": "24 h",
+        "yield": "1.7 g, 85%",
+        "washing_method": "Vacuum filtered",
+        "drying_method": "Not specified",
+        "additional_steps": [
+          {
+            "step": "Concentration",
+            "details": "The resulting solution was concentrated before adding THF"
+          }
+        ]
+      }
+    }
+  ]
+}

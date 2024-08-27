@@ -1,0 +1,32 @@
+{
+  "materials": [
+    {
+      "name": "Zn-MOF",
+      "synthesis_conditions": {
+        "activation": {
+          "solvent": "ethanol",
+          "immersion_time": "overnight",
+          "drying_temperature": "80 oC",
+          "drying_time": "24 h"
+        }
+      }
+    },
+    {
+      "name": "Zn-MOF photocatalyst for Cr(VI) reduction",
+      "synthesis_conditions": {
+        "reactants": {
+          "Cr(VI) solution": "0.25 mM",
+          "volume": "30 mL",
+          "Zn-MOF amount": "15 mg"
+        },
+        "pH_adjustment": "0.2 M H2SO4",
+        "hole_scavenger": "ethanol",
+        "pre_irradiation_stirring_time": "15 min",
+        "irradiation": "UV light",
+        "sampling_interval": "every 30 min",
+        "sampling_volume": "0.5 mL",
+        "separation_method": "centrifuge"
+      }
+    }
+  ]
+}

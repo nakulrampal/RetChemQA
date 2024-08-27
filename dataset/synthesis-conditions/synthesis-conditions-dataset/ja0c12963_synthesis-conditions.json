@@ -1,0 +1,200 @@
+{
+  "materials": [
+    {
+      "name": "NU-1200 Powder",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "24 h",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2 mL"
+          },
+          {
+            "name": "TFA",
+            "amount": "150 μL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zirconium­(IV) dichloride oxide octahydrate",
+            "amount": "17 mg, 0.07 mmol"
+          },
+          {
+            "name": "TMTB ligand",
+            "amount": "10 mg, 0.02 mmol"
+          }
+        ],
+        "washing_method": [
+          "washed with DMF (10 mL × 3)",
+          "soaked in a mixed solution of DMF (12 mL) and 4 M HCl (500 μL) and then heated at 100 °C for 24 h",
+          "washed three times with DMF followed by soaking in acetone overnight, followed by three additional acetone washes"
+        ],
+        "drying_method": "thermally activated at 120 °C overnight under a dynamic vacuum"
+      }
+    },
+    {
+      "name": "NU-1200 Single Crystal",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "3 days",
+        "solvents": [
+          {
+            "name": "DEF",
+            "amount": "2 mL"
+          },
+          {
+            "name": "TFA",
+            "amount": "400 μL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zirconium chloride",
+            "amount": "16 mg, 0.07 mmol"
+          },
+          {
+            "name": "TMTB ligand",
+            "amount": "10 mg, 0.02 mmol"
+          }
+        ],
+        "washing_method": "identical acid wash as described for NU-1200 Powder",
+        "drying_method": "washed with DMF three times, soaked in DMF"
+      }
+    },
+    {
+      "name": "Mo-NU-1200 Powder",
+      "synthesis_conditions": {
+        "temperature": "60 °C",
+        "time": "24 h",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "2 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "NU-1200",
+            "amount": "20.77 mg, 0.01 mmol"
+          },
+          {
+            "name": "MoO2(acac)2",
+            "amount": "13.05 mg, 0.04 mmol"
+          }
+        ],
+        "washing_method": "washed with methanol three times followed by acetone several times",
+        "drying_method": "thermally activated at 100 °C for 8 h under dynamic vacuum"
+      }
+    },
+    {
+      "name": "Mo-NU-1200 Single Crystal",
+      "synthesis_conditions": {
+        "temperature": "60 °C",
+        "time": "2 days",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "2 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "MoO2(acac)2",
+            "amount": "13.05 mg"
+          }
+        ],
+        "washing_method": "washed with DMF three times, subsequently washed with methanol three times",
+        "drying_method": "transferred to a solution containing MoO2(acac)2 and methanol"
+      }
+    },
+    {
+      "name": "Alcohol Oxidation Reaction with Mo-NU-1200 Powder",
+      "synthesis_conditions": {
+        "temperature": "105 °C",
+        "time": "6 h",
+        "solvents": [
+          {
+            "name": "anhydrous toluene",
+            "amount": "750 μL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "4-methoxybenzyl alcohol",
+            "amount": "38 μL, 0.3 mmol"
+          },
+          {
+            "name": "TEA",
+            "amount": "5 μL"
+          },
+          {
+            "name": "1,2-dichlorobenzene (internal standard)",
+            "amount": "28 μL, 0.25 mmol"
+          },
+          {
+            "name": "catalyst (Mo-NU-1200)",
+            "amount": "2.2 × 10−5 mol of Mo"
+          }
+        ],
+        "atmosphere": "O2 balloon",
+        "additional_information": "The reaction was performed with and without TEA according to the previous protocol."
+      }
+    },
+    {
+      "name": "Alcohol Oxidation Reaction with Mo-NU-1200 Single Crystals",
+      "synthesis_conditions": [
+        {
+          "condition": "without TEA",
+          "temperature": "105 °C",
+          "time": "6 h",
+          "solvents": [
+            {
+              "name": "anhydrous toluene",
+              "amount": "750 μL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "4-methoxybenzyl alcohol",
+              "amount": "38 μL, 0.3 mmol"
+            },
+            {
+              "name": "1,2-dichlorobenzene (internal standard)",
+              "amount": "28 μL, 0.25 mmol"
+            }
+          ],
+          "atmosphere": "O2 balloon",
+          "additional_information": "The reaction was performed without stirring to avoid destroying the crystallinity of the Mo-NU-1200 crystals."
+        },
+        {
+          "condition": "with TEA",
+          "temperature": "105 °C",
+          "time": "6 h",
+          "solvents": [
+            {
+              "name": "anhydrous toluene",
+              "amount": "750 μL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "4-methoxybenzyl alcohol",
+              "amount": "38 μL, 0.3 mmol"
+            },
+            {
+              "name": "TEA",
+              "amount": "5 μL"
+            },
+            {
+              "name": "1,2-dichlorobenzene (internal standard)",
+              "amount": "28 μL, 0.25 mmol"
+            }
+          ],
+          "atmosphere": "O2 balloon",
+          "additional_information": "The reaction was performed without stirring to avoid the destruction of the crystalline persistence of Mo-NU-1200 crystals."
+        }
+      ]
+    }
+  ]
+}

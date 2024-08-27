@@ -1,0 +1,115 @@
+{
+  "materials": [
+    {
+      "name": "dcphOH-NDI",
+      "synthesis_conditions": {
+        "temperature": "145°C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "20 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "1,4,5,8-Naphthalenetetracarboxylic dianhydride",
+            "amount": "0.804 g, 3.0 mmol"
+          },
+          {
+            "name": "4-amino-3-hydroxy benzoic acid",
+            "amount": "1.01 g, 6.6 mmol"
+          }
+        ],
+        "time": "overnight",
+        "additional_steps": [
+          {
+            "step": "Acidification",
+            "details": "5 mL of 1M HCl added to the solution"
+          },
+          {
+            "step": "Precipitation",
+            "details": "Mixture added to ice cold H2O (250 mL)"
+          },
+          {
+            "step": "Washing",
+            "details": "Sequentially with EtOH (50 mL), H2O (50 mL), and Et2O (50 mL)"
+          }
+        ],
+        "yield": "1.367 g (84%)",
+        "characterization": {
+          "1H NMR": "400 MHz, DMSO-d6"
+        }
+      }
+    },
+    {
+      "name": "Zr(dcphOH-NDI)@FTO",
+      "synthesis_conditions": {
+        "temperature": "120°C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "8 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "23.3 mg, 0.10 mmol"
+          },
+          {
+            "name": "dcphOH-NDI",
+            "amount": "53.8 mg, 0.10 mmol"
+          },
+          {
+            "name": "glacial acetic acid",
+            "amount": "286 μL, 5 mmol"
+          }
+        ],
+        "time": "72 hours",
+        "equipment": "FTO substrates",
+        "additional_steps": [
+          {
+            "step": "Cleaning FTO",
+            "details": "Sequential sonication in 1% Alconox in deionized H2O, absolute EtOH, and acetone"
+          },
+          {
+            "step": "Formation of SAM",
+            "details": "FTO immersed in 1 mM solution of dcphOH-NDI in DMF overnight"
+          }
+        ]
+      }
+    }
+  ],
+  "characterization_methods": [
+    {
+      "method": "1H NMR",
+      "details": "Measured on a JEOL 400 MHz spectrometer at 293K"
+    },
+    {
+      "method": "SEM",
+      "details": "Zeiss LEO 1550 Schottky FEG scanning electron microscope at 3 kV"
+    },
+    {
+      "method": "Surface area and film thickness",
+      "details": "Determined using ImageJ"
+    },
+    {
+      "method": "CV and Chronoamperometry",
+      "details": "Autolab PGSTAT100 potentiostat with GPES 4.9 software"
+    },
+    {
+      "method": "3DED",
+      "details": "JEOL JEM-2100 TEM at 98 K, equipped with a Timepix detector"
+    }
+  ],
+  "computational_methods": [
+    {
+      "method": "Molecular Dynamics",
+      "details": "AMBER16 and AmberTools packages, GAFF2 force field, B3LYP/6-31G* level for RESP charges"
+    },
+    {
+      "method": "DFT Calculations",
+      "details": "Jaguar 11.0 software package, B3LYP-D3 functional with LACVP** basis set"
+    }
+  ]
+}

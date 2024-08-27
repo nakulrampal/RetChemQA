@@ -1,0 +1,106 @@
+{
+  "materials": [
+    {
+      "name": "CPM-519-RHO",
+      "synthesis_conditions": {
+        "template": "acetylcholine chloride (ACh)",
+        "solvents": [
+          {
+            "name": "1-cyclohexyl-2-pyrrolidone (CHP)",
+            "amount": null
+          },
+          {
+            "name": "ethanol",
+            "amount": null
+          },
+          {
+            "name": "H2O",
+            "amount": null
+          }
+        ],
+        "additional_information": "Mixed solvents of CHP, ethanol, and H2O were adopted. With other solvents, such as N,N’-diethylformamide (DEF), tetramethylurea (T-murea), and N,N’-dimethylpropionamide (DMP), dia and qtz topologies can be easily synthesized, but not zeolite-type RHO, GIS, and ABW."
+      }
+    },
+    {
+      "name": "CPM-520-GIS",
+      "synthesis_conditions": {
+        "template": "1-ethyl-3-methyl-imidazolium ethylsulfate (EMIM-es)",
+        "solvents": [
+          {
+            "name": "1-cyclohexyl-2-pyrrolidone (CHP)",
+            "amount": null
+          },
+          {
+            "name": "ethanol",
+            "amount": null
+          },
+          {
+            "name": "H2O",
+            "amount": null
+          }
+        ],
+        "additional_information": "A very small amount of an ionic liquid, EMIM-es, was added into the mixed solvent as a cationic template."
+      }
+    },
+    {
+      "name": "CPM-521-ABW",
+      "synthesis_conditions": {
+        "template": "tris-(2-hydroxyethyl)-methyl-ammonium methylsulfate (TEMA-ms)",
+        "solvents": [
+          {
+            "name": "1-cyclohexyl-2-pyrrolidone (CHP)",
+            "amount": null
+          },
+          {
+            "name": "ethanol",
+            "amount": null
+          },
+          {
+            "name": "H2O",
+            "amount": null
+          }
+        ],
+        "additional_information": "When TEMA-ms was used as the solvent, CPM-521-ABW was assembled."
+      }
+    },
+    {
+      "name": "CPM-522-DIA-1",
+      "synthesis_conditions": {
+        "template": "diethylamine (DEA)",
+        "solvents": [
+          {
+            "name": "N,N’-dimethylpropionamide (DMP)",
+            "amount": null
+          }
+        ],
+        "additional_information": "With solvents such as DMP, dia and qtz topologies can be easily synthesized."
+      }
+    },
+    {
+      "name": "CPM-522-DIA-2",
+      "synthesis_conditions": {
+        "template": "diethylamine (DEA)",
+        "solvents": [
+          {
+            "name": "N,N’-dimethylpropionamide (DMP)",
+            "amount": null
+          }
+        ],
+        "additional_information": "With solvents such as DMP, dia and qtz topologies can be easily synthesized."
+      }
+    },
+    {
+      "name": "CPM-523-QTZ",
+      "synthesis_conditions": {
+        "template": "ammonium chloride (NH4Cl)",
+        "solvents": [
+          {
+            "name": "N,N’-dimethylpropionamide (DMP)",
+            "amount": null
+          }
+        ],
+        "additional_information": "With solvents such as DMP, dia and qtz topologies can be easily synthesized."
+      }
+    }
+  ]
+}

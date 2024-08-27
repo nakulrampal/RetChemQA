@@ -1,0 +1,145 @@
+{
+  "materials": [
+    {
+      "name": "DPIO",
+      "synthesis_steps": [
+        {
+          "step_description": "Synthesis from 3,6-dibromophthalic anhydride",
+          "chemicals_used": [
+            {
+              "name": "3,6-dibromophthalic anhydride",
+              "amount": "20.0 g",
+              "mol": "65.4 mmol"
+            },
+            {
+              "name": "benzylamine",
+              "amount": "8.41 g",
+              "mol": "78.5 mmol"
+            },
+            {
+              "solvent": "AcOH",
+              "amount": "120 mL"
+            }
+          ],
+          "conditions": {
+            "temperature": "reflux",
+            "time": "20 h"
+          },
+          "yield": "97%"
+        },
+        {
+          "step_description": "Reaction with MeMgBr in Et2O",
+          "chemicals_used": [
+            {
+              "name": "MeMgBr",
+              "amount": "103 mL",
+              "mol": "310 mmol"
+            },
+            {
+              "solvent": "anhydrous toluene",
+              "amount": "250 mL"
+            }
+          ],
+          "conditions": {
+            "temperature": "reflux",
+            "time": "15 h"
+          },
+          "yield": "12%"
+        },
+        {
+          "step_description": "Oxidation and Suzuki–Miyaura coupling",
+          "chemicals_used": [
+            {
+              "name": "Br2 in AcOH",
+              "amount": "1 M, 4.73 mL"
+            },
+            {
+              "name": "NaHCO3",
+              "amount": "298 mg",
+              "mol": "3.55 mmol"
+            },
+            {
+              "name": "H2O2",
+              "amount": "30%, 236 µl",
+              "mol": "2.36 mmol"
+            },
+            {
+              "name": "4-pyridineboronic acid",
+              "amount": "309 mg",
+              "mol": "2.51 mmol"
+            },
+            {
+              "name": "potassium phosphate",
+              "amount": "643 mg",
+              "mol": "3.03 mmol"
+            }
+          ],
+          "conditions": {
+            "temperature": "130 oC",
+            "time": "12 h",
+            "equipment": "microwave irradiation"
+          },
+          "yield": "83%"
+        }
+      ],
+      "characterization": {
+        "EPR": {
+          "solvent": "dichloromethane",
+          "temperature": "ambient",
+          "g_value": "2.006"
+        }
+      }
+    },
+    {
+      "name": "FRPCP",
+      "synthesis_steps": [
+        {
+          "step_description": "Assembly with CuSiF6·4H2O",
+          "chemicals_used": [
+            {
+              "name": "CuSiF6·4H2O",
+              "amount": "40.3 mg",
+              "mol": "0.145 mmol"
+            },
+            {
+              "name": "DPIO",
+              "amount": "100 mg",
+              "mol": "0.290 mmol"
+            },
+            {
+              "solvent": "EtOH/H2O",
+              "amount": "20 mL/20 mL"
+            }
+          ],
+          "conditions": {
+            "temperature": "room temperature",
+            "time": "2 weeks"
+          },
+          "yield": "64%"
+        }
+      ],
+      "characterization": {
+        "EPR": {
+          "state": "solid",
+          "temperature": "ambient",
+          "g_value": "2.028"
+        },
+        "PXRD": {
+          "conditions": {
+            "temperature": "60 oC",
+            "time": "24 h",
+            "atmosphere": "vacuum"
+          },
+          "notes": "Good agreement with simulated pattern, indicating high purity and thermal stability."
+        },
+        "TGA": {
+          "conditions": {
+            "atmosphere": "nitrogen",
+            "heating_rate": "5 K/min"
+          },
+          "notes": "Stable up to 200 oC"
+        }
+      }
+    }
+  ]
+}

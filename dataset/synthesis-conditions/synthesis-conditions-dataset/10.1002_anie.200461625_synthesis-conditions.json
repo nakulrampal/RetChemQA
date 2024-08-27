@@ -1,0 +1,61 @@
+{
+  "materials": [
+    {
+      "name": "Compound 1",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": ["ethanol", "dichloromethane"],
+        "amount_of_solvents": ["10 mL of ethanol for Zn(ClO4)2·6 H2O", "10 mL of dichloromethane for tpb"],
+        "equipment": "vial",
+        "chemicals_used": ["Zn(ClO4)2·6 H2O", "tpb"],
+        "amount_of_chemicals_used": ["0.0341 g, 0.0915 mmol of Zn(ClO4)2·6 H2O", "0.05 g, 0.0915 mmol of tpb"],
+        "time": "2 days",
+        "yield": "> 60 %",
+        "crystal_structure": "colorless cubic crystals"
+      }
+    },
+    {
+      "name": "Compound 2",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": ["ethanol", "dichloroethane"],
+        "amount_of_solvents": ["10 mL of ethanol for Cd(ClO4)2·6 H2O", "10 mL of dichloroethane for tpb"],
+        "equipment": "vial",
+        "chemicals_used": ["Cd(ClO4)2·6 H2O", "tpb"],
+        "amount_of_chemicals_used": ["0.0341 g, 0.0915 mmol of Cd(ClO4)2·6 H2O", "0.05 g, 0.0915 mmol of tpb"],
+        "time": "2 days",
+        "yield": "> 60 %",
+        "crystal_structure": "colorless hexagonal crystals"
+      }
+    },
+    {
+      "name": "Compound 3",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": ["methanol"],
+        "amount_of_solvents": ["10 mL of methanol for AgNO3", "10 mL of methanol for tpb"],
+        "equipment": "container",
+        "chemicals_used": ["AgNO3", "tpb"],
+        "amount_of_chemicals_used": ["0.031 g, 0.183 mmol of AgNO3", "0.05 g, 0.0915 mmol of tpb"],
+        "time": "2–3 days",
+        "yield": "about 55 %",
+        "crystal_structure": "colorless crystals",
+        "additional_information": "crystals decay upon removal from mother liquor"
+      }
+    },
+    {
+      "name": "Compound 4",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": ["methanol", "CH2Cl2"],
+        "amount_of_solvents": ["15 mL of methanol for MnCl2·4 H2O", "10 mL of CH2Cl2 for tpb"],
+        "equipment": "container",
+        "chemicals_used": ["MnCl2·4 H2O", "tpb"],
+        "amount_of_chemicals_used": ["0.0217 g, 0.0109 mmol of MnCl2·4 H2O", "0.03 g, 0.0549 mmol of tpb"],
+        "time": "10 days",
+        "yield": "55 %",
+        "crystal_structure": "colorless crystals"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "materials": [
+    {
+      "name": "NTHU-2",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "ZnCl2",
+          "C13N2H14 (tmdp)",
+          "p-C6H4(COOH)2 (terephthalic acid or BDC)",
+          "H3PO4",
+          "ethylene glycol",
+          "H2O"
+        ],
+        "molar_ratio": "1:6.4:1.2:6:107:333",
+        "solvents": [
+          "ethylene glycol",
+          "H2O"
+        ],
+        "amount_of_each_solvent": {
+          "ethylene_glycol": "unknown",
+          "H2O": "unknown"
+        },
+        "temperature": "160 °C",
+        "equipment": "Teflon-lined Parr bomb",
+        "time": "5 days",
+        "yield": "∼70% (based on Zn)",
+        "additional_information": "The reaction mixture was placed in a Teflon-lined Parr bomb (60% filling) and heated at 160 °C for 5 days. The resulting product contained brown crystals of NTHU-2 with an optimum yield up to ∼70% (based on Zn) and a small quantity of unknown phase. EPMA data confirmed the Zn:P ratio to be 1:1 for the brown crystals and the results of EA confirm the organic content. Found/calcd. (%):  C, 36.86/36.71; N, 4.20/4.08; H, 3.40/3.23."
+      }
+    }
+  ]
+}

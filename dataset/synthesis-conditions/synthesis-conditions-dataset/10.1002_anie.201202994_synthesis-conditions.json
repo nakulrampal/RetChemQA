@@ -1,0 +1,40 @@
+{
+  "materials": [
+    {
+      "name": "Porous POM-based 3D structures",
+      "synthesis_conditions": {
+        "solvent": "1-ethyl-3-methylimidazolium bromide ([Emim]Br)",
+        "additional_agents": "tetrabutylammonium bromide",
+        "method": "Ionothermal synthesis",
+        "notes": "By slightly varying the experimental conditions, three porous POM-based 3D structures were obtained."
+      }
+    },
+    {
+      "name": "Compound 3",
+      "synthesis_conditions": {
+        "thermal_stability_test_temperature_range": "240 to 340 8C",
+        "thermal_stability_test_result": "Weight loss of 21.90 %, corresponding to the removal of TBA organic cations.",
+        "hydrolytic_stability_test_conditions": "Stirred in common organic solvents (methanol, ethanol, acetonitrile, acetone, chloroform, and DMF) for 10 h at 80 8C",
+        "hydrolytic_stability_test_result": "No compound dissolution, framework decomposition, or POM leaching observed.",
+        "cation_exchange_experiment_conditions": {
+          "solvent": "Acetone containing Co2+ ions",
+          "time": "16 h",
+          "temperature_for_activation": "150 8C",
+          "activation_time": "8 h in a vacuum",
+          "result": "Color change from light blue to light purple, CoII uptake of 1 mol per mol of 3."
+        },
+        "porosity_test_conditions": {
+          "N2_adsorption_measurement": "Fully activated sample",
+          "Langmuir_surface_area": "1024 m2 g-1",
+          "BET_surface_area": "772 m2 g-1",
+          "maximum_N2_uptake": "276 cm3 g-1 at 1 atm"
+        },
+        "gas_sorption_isotherms": {
+          "CO2_uptake_capacity_at_195K": "231.6 L L-1 (7.4 mmol g-1)",
+          "CO2_uptake_capacity_at_273K": "87.7 cm3 g-1 (3.9 mmol g-1, 122.5 L L-1)",
+          "H2_adsorption_amount_at_saturation_77K": "about 176 cm3 g-1 (1.55 wt %)"
+        }
+      }
+    }
+  ]
+}

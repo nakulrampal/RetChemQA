@@ -1,0 +1,32 @@
+{
+  "materials": [
+    {
+      "name": "MOF-5",
+      "synthesis_conditions": {
+        "temperature": "Room temperature for synthesis, heated up to 300°C for stability testing",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "Not specified"
+          },
+          {
+            "name": "chlorobenzene",
+            "amount": "Not specified"
+          }
+        ],
+        "equipment": "Not specified",
+        "chemicals_used": [
+          "zinc (II) nitrate",
+          "H2BDC (1,4-benzenedicarboxylate)",
+          "triethylamine",
+          "hydrogen peroxide"
+        ],
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Evacuated from the pores within 3 h at room temperature and 5 x 10^-5 torr",
+        "yield": "Not specified",
+        "additional_information": "The synthesis involves the diffusion of triethylamine into a solution of zinc (II) nitrate and H2BDC in DMF/chlorobenzene with a small amount of hydrogen peroxide added. The resulting material, MOF-5, remains crystalline and stable when fully desolvated and when heated up to 300°C."
+      }
+    }
+  ]
+}

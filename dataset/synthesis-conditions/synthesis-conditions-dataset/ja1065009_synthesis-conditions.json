@@ -1,0 +1,78 @@
+{
+  "materials": [
+    {
+      "name": "UMCM-3",
+      "synthesis_conditions": {
+        "chemicals_used": {
+          "H2TDC": "52.5 mg, 0.305 mmol",
+          "H3BTB": "33.0 mg, 0.0753 mmol",
+          "Zn(NO3)2·6H2O": "0.320 g, 1.07 mmol",
+          "N,N-diethylformamide": "15 mL"
+        },
+        "temperature": "85 °C",
+        "time": "3 days",
+        "washing_method": {
+          "first": "DMF (3 × 15 mL)",
+          "second": "CH2Cl2 (15 mL, replaced three times over 2 days)"
+        },
+        "drying_method": "Decanting the mother liquor",
+        "yield": "32.1% based on H3BTB",
+        "solvent_free_material_weight": "48.5 mg"
+      }
+    },
+    {
+      "name": "UMCM-4",
+      "synthesis_conditions": {
+        "chemicals_used": {
+          "H2BDC": "19.1 mg, 0.115 mmol",
+          "H3TPA": "28.8 g, 0.0763 mmol",
+          "Zn(NO3)2·6H2O": "0.150 g, 0.504 mmol",
+          "N,N-diethylformamide": "30 mL"
+        },
+        "temperature": "85 °C",
+        "time": "3 days",
+        "washing_method": {
+          "first": "DMF (3 × 15 mL)",
+          "second": "CH2Cl2 (15 mL, replaced three times over 2 days)"
+        },
+        "drying_method": "Decanting the mother liquor",
+        "yield": "33.2% based on H3TPA",
+        "solvent_free_material_weight": "22.8 mg"
+      }
+    },
+    {
+      "name": "UMCM-5",
+      "synthesis_conditions": {
+        "chemicals_used": {
+          "H2NDC": "57.3 g, 0.265 mmol",
+          "H3BTB": "29.0 g, 0.0661 mmol",
+          "Zn(NO3)2·6H2O": "0.250 g, 0.841 mmol",
+          "N,N-diethylformamide": "30 mL"
+        },
+        "temperature": "85 °C",
+        "time": "3 days",
+        "washing_method": {
+          "first": "DMF (3 × 15 mL)",
+          "second": "CH2Cl2 (15 mL, replaced three times over 2 days)"
+        },
+        "drying_method": "Decanting the mother liquor",
+        "yield": "31.3% based on H3BTB",
+        "solvent_free_material_weight": "22.2 mg"
+      }
+    },
+    {
+      "name": "PHT Incorporation into UMCM-1",
+      "synthesis_conditions": {
+        "chemicals_used": {
+          "regioregular PHT": "1 wt % in chlorobenzene",
+          "UMCM-1": "5 mg",
+          "chlorobenzene": "2 mL"
+        },
+        "temperature": "100 °C",
+        "time": "5 h",
+        "washing_method": "chlorobenzene (5 × 10 mL)",
+        "additional_information": "Solvent volume kept constant by adding 0.5 mL of chlorobenzene during the process."
+      }
+    }
+  ]
+}

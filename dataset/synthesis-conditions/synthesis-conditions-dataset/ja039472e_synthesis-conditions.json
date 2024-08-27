@@ -1,0 +1,60 @@
+{
+  "materials": [
+    {
+      "name": "[Cu(2-pymo)2]·nH2O (1R)",
+      "synthesis_conditions": {
+        "preparation_method": "Previously reported",
+        "reference": "1 Tabares, L. C.; Navarro, J. A. R.; Salas, J. M. J. Am. Chem. Soc. 2001, 123, 383."
+      }
+    },
+    {
+      "name": "[Cu(2-pymo)2]·(M(NO3)m)1/3 (M(NO3)m@1C)",
+      "synthesis_conditions": {
+        "solvent": "water:methanol (1:4)",
+        "solvent_amount": "0.05 M",
+        "temperature": "room temperature",
+        "time": {
+          "NH4+, Li+": "1 week",
+          "Na+, K+, Rb+, Tl+": "6-72 hours",
+          "La3+": "6 hours"
+        },
+        "yield": {
+          "NH4NO3@1C": "85%",
+          "LiNO3@1C": "87%",
+          "NaNO3@1C": "100%",
+          "KNO3@1C": "100%",
+          "RbNO3@1C": "100%",
+          "TlNO3@1C": "100%",
+          "La(NO3)3@1C": "100%"
+        }
+      }
+    },
+    {
+      "name": "[Cu(2-pymo)2]·(M(NO3)m)1/2·(MeOH)1/2 (M(NO3)m@1O)",
+      "synthesis_conditions": {
+        "solvent": "water:methanol (1:4)",
+        "solvent_amount": "0.05 M, 25 mL",
+        "temperature": "room temperature",
+        "time": "24 hours to 7 days",
+        "yield": {
+          "NaNO3@1O": "100%",
+          "KNO3@1O": "100%",
+          "RbNO3@1O": "100%",
+          "TlNO3@1O": "100%",
+          "Ba(NO3)2@1O": "100%",
+          "La(NO3)3@1O": "100%"
+        }
+      }
+    },
+    {
+      "name": "orthorhombic [Cu(2-pymo)2]n (1O)",
+      "synthesis_conditions": {
+        "solvent": "MeOH",
+        "reagents": "18-crown-6-ether",
+        "temperature": "reflux",
+        "time": "6 days",
+        "yield": "95%"
+      }
+    }
+  ]
+}

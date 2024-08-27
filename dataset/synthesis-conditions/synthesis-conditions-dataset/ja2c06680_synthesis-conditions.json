@@ -1,0 +1,118 @@
+{
+  "materials": [
+    {
+      "name": "H2CDDBA",
+      "synthesis": {
+        "steps": [
+          {
+            "step_description": "Synthesis of 4,4’-(9H-carbazole-3,6-diyl)di-benzoic acid dimethyl eater (2)",
+            "chemicals_used": [
+              {
+                "name": "3,6-dibromocarbazole",
+                "amount": "2 g",
+                "molarity": "6.15 mmol"
+              },
+              {
+                "name": "4-methoxycarbonylphenlyboronic acid",
+                "amount": "3.5 g",
+                "molarity": "16 mmol"
+              },
+              {
+                "name": "CsF",
+                "amount": "5.5 g",
+                "molarity": "28 mmol"
+              },
+              {
+                "name": "1,2-dimethoxyethane",
+                "amount": "150 mL"
+              },
+              {
+                "name": "Pd(PPh3)4"
+              }
+            ],
+            "solvents": [
+              {
+                "name": "CH2Cl2"
+              },
+              {
+                "name": "ethyl acetate"
+              }
+            ],
+            "conditions": {
+              "temperature": "reflux",
+              "atmosphere": "N2",
+              "time": "72 h"
+            },
+            "purification": "flash chromatography (petroleum ether/ethyl acetate = 7:1)",
+            "yield": "not specified"
+          },
+          {
+            "step_description": "Synthesis of 4,4’-(9H-carbazole-3,6-diyl)di-benzoic acid (3)",
+            "chemicals_used": [
+              {
+                "name": "4,4’-(9H-carbazole-3,6-diyl)di-benzoic acid dimethyl eater (2)",
+                "amount": "2 g",
+                "molarity": "4.3 mmol"
+              },
+              {
+                "name": "KOH",
+                "amount": "12 g"
+              },
+              {
+                "name": "MeOH",
+                "amount": "100 mL"
+              }
+            ],
+            "conditions": {
+              "temperature": "65oC",
+              "time": "overnight"
+            },
+            "purification": "neutralized with 1 M HCl, washed with water",
+            "yield": "not specified"
+          }
+        ]
+      }
+    },
+    {
+      "name": "JLU-MOF111",
+      "synthesis": {
+        "steps": [
+          {
+            "step_description": "Synthesis of JLU-MOF111",
+            "chemicals_used": [
+              {
+                "name": "Y(NO3)3.6H2O",
+                "amount": "11 mg",
+                "molarity": "0.03 mmol"
+              },
+              {
+                "name": "2-FBA",
+                "amount": "30 mg",
+                "molarity": "0.21 mmol"
+              },
+              {
+                "name": "N,N-dimethylformamide (DMF)",
+                "amount": "1 mL"
+              },
+              {
+                "name": "H2O",
+                "amount": "0.5 mL"
+              },
+              {
+                "name": "H2CDDBA",
+                "amount": "4 mg",
+                "molarity": "0.01 mmol"
+              }
+            ],
+            "conditions": {
+              "temperature": "115 °C",
+              "time": "48 h"
+            },
+            "purification": "washed with DMF",
+            "yield": "52% based on H2CDDBA"
+          }
+        ]
+      }
+    }
+  ]
+}

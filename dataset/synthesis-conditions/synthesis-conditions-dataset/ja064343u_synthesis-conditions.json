@@ -1,0 +1,42 @@
+{
+  "materials": [
+    {
+      "name": "MIL-102",
+      "synthesis": {
+        "method": "hydrothermal",
+        "temperature": "200 °C",
+        "time": "15 h",
+        "chemicals": [
+          {
+            "name": "chromium(III) nitrate",
+            "formula": "Cr(NO3)3·9H2O",
+            "amount": "400 mg",
+            "molarity": "1 mmol",
+            "purity": "99%"
+          },
+          {
+            "name": "naphthalene-1,4,5,8-tetracarboxylic acid",
+            "formula": "C10H4(CO2H)4",
+            "amount": "203 mg",
+            "molarity": "0.66 mmol",
+            "purity": "97%"
+          },
+          {
+            "name": "hydrofluoric acid",
+            "amount": "2 mmol"
+          },
+          {
+            "name": "water",
+            "molarity": "255 mmol"
+          }
+        ],
+        "solvent": "water",
+        "autoclave_material": "Teflon-lined steel",
+        "pH": "~1",
+        "washing_method": "scrubbed in N,N-dimethylformamide at room temperature",
+        "yield": "not specified",
+        "additional_information": "The green solid product was contaminated with a small amount of unreacted naphthalene-1,4,5,8-tetracarboxylic acid."
+      }
+    }
+  ]
+}

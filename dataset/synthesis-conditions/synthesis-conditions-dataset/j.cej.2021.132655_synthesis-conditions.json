@@ -1,0 +1,63 @@
+{
+  "materials": [
+    {
+      "material_id": "1",
+      "synthesis_conditions": [
+        {
+          "label": "stability_investigations",
+          "temperature": "up to 255 °C",
+          "solvents": [
+            "water (H2O)",
+            "acetonitrile (CH3CN)",
+            "mixture solvent (H2O:CH3CN = 1:4)",
+            "ethanol (EtOH)",
+            "methanol (CH3OH)",
+            "N,N-dimethylacetamide (DMA)",
+            "N,N-dimethylformamide (DMF)",
+            "dichloromethane (CH2Cl2)",
+            "1,4-dioxane",
+            "N-methyl pyrrolidone (NMP)"
+          ],
+          "time": "12 hours",
+          "washing_method": "soaking",
+          "drying_method": "not specified",
+          "yield": "not specified"
+        },
+        {
+          "label": "β_irradiation_resistance_measurements",
+          "equipment": "electron accelerator",
+          "energy": "1.2 MeV",
+          "dose_rate": "20 kGy/h",
+          "doses": [
+            "200 kGy",
+            "400 kGy"
+          ]
+        },
+        {
+          "label": "CrO42-_adsorption",
+          "temperature": "room temperature",
+          "solvents": [
+            "mixture solution (H2O : CH3CN = 1 : 4)"
+          ],
+          "chemicals_used": "CrO42-",
+          "amount_of_solvent": "20 mL",
+          "amount_of_sorbent": "5 mg",
+          "contact_time": "desired contact time",
+          "method": "batch sorption method"
+        },
+        {
+          "label": "sorption_kinetics",
+          "amount_of_sorbent": "10 mg",
+          "amount_of_solvent": "40 mL",
+          "initial_CrO42-_concentration": "500 ppm",
+          "contact_time": "certain contact time",
+          "method": "static"
+        },
+        {
+          "label": "sorption_isotherm",
+          "initial_CrO42-_concentration_range": "50 to 750 ppm"
+        }
+      ]
+    }
+  ]
+}

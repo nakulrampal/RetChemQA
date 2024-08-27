@@ -1,0 +1,236 @@
+{
+  "materials": [
+    {
+      "name": "H2TTA",
+      "synthesis": {
+        "temperature": "70 °C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylacetamide (DMA)",
+            "amount": "20.0 mL",
+            "purging": "N2 for 5 minutes"
+          }
+        ],
+        "equipment": "100-mL two-neck, round-bottom flask",
+        "chemicals_used": [
+          {
+            "name": "S1",
+            "amount": "2.0 g, 9.71 mmol"
+          },
+          {
+            "name": "diisopropylethylamine",
+            "amount": "6.5 g, 50.29 mmol"
+          },
+          {
+            "name": "ethylene dithiol",
+            "amount": "2.0 mg, 21.23 mmol"
+          }
+        ],
+        "time": "12 hours",
+        "washing_method": "distilled water (3 × 200 mL)",
+        "drying_method": "suction-dried",
+        "yield": "2.15 g, 70.4% based on S1"
+      }
+    },
+    {
+      "name": "H2BEDBD",
+      "synthesis": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "distilled water",
+            "amount": "30.0 mL"
+          }
+        ],
+        "equipment": "100-mL round-bottom flask",
+        "chemicals_used": [
+          {
+            "name": "silver nitrate",
+            "amount": "543 mg, 3.20 mmol"
+          },
+          {
+            "name": "S2",
+            "amount": "200 mg, 0.64 mmol"
+          },
+          {
+            "name": "aqueous potassium hydroxide",
+            "amount": "180 mg, 3.21 mmol"
+          }
+        ],
+        "time": "5 hours",
+        "washing_method": "distilled water (3 × 100 mL)",
+        "drying_method": "suction-dried",
+        "yield": "176 mg, 80% based on S2"
+      }
+    },
+    {
+      "name": "S3",
+      "synthesis": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "N,N-Dimethylforamide (DMF)",
+            "amount": "5.0 mL"
+          }
+        ],
+        "equipment": "7.5-mL clear glass vial",
+        "chemicals_used": [
+          {
+            "name": "H2BEDBD",
+            "amount": "176 mg, 0.51 mmol"
+          },
+          {
+            "name": "potassium carbonate",
+            "amount": "123 mg, 0.89 mmol"
+          },
+          {
+            "name": "methyl iodide",
+            "amount": "690 mg, 4.86 mmol"
+          }
+        ],
+        "time": "24 hours",
+        "washing_method": "distilled water (3 × 10 mL)",
+        "drying_method": "suction-dried",
+        "yield": "191 mg, 100% based on H2BEDBD"
+      }
+    },
+    {
+      "name": "S4",
+      "synthesis": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "chloroform",
+            "amount": "5.0 mL"
+          }
+        ],
+        "equipment": "glass vial",
+        "chemicals_used": [
+          {
+            "name": "S3",
+            "amount": "113 mg, 0.30 mmol"
+          },
+          {
+            "name": "3-Chloroperbenzoic acid (m-CPBA)",
+            "amount": "114 mg, 0.66 mmol"
+          }
+        ],
+        "time": "15 minutes",
+        "drying_method": "rotary evaporation",
+        "yield": "Not specified, product is a white solid S4"
+      }
+    },
+    {
+      "name": "S5",
+      "synthesis": {
+        "temperature": "160 °C",
+        "solvents": [
+          {
+            "name": "acetic anhydride",
+            "amount": "3.0 mL"
+          }
+        ],
+        "equipment": "glass vial",
+        "chemicals_used": [
+          {
+            "name": "S4",
+            "amount": "158.4 mg, 0.39 mmol"
+          },
+          {
+            "name": "methanesulfonic acid (CH3SO3H)",
+            "amount": "a drop"
+          }
+        ],
+        "time": "15 minutes",
+        "washing_method": "shaken with aqueous NaHCO3 solution (3 × 10 mL)",
+        "drying_method": "rotary evaporation",
+        "yield": "73 mg, 50% based on S4"
+      }
+    },
+    {
+      "name": "H2TTA (1, 4, 5, 8-tetrathiaanthracene-9,10-dicarboxylic acid)",
+      "synthesis": {
+        "temperature": "110 °C",
+        "solvents": [
+          {
+            "name": "NaOH in EtOH/H2O, v/v = 1:1",
+            "amount": "30 mL"
+          }
+        ],
+        "equipment": "100-mL round-bottom flask",
+        "chemicals_used": [
+          {
+            "name": "S5",
+            "amount": "158 mg, 0.43 mmol"
+          }
+        ],
+        "time": "2 days",
+        "washing_method": "distilled water (3 × 100 mL)",
+        "drying_method": "dried in an oven at 50 °C for 2 hours",
+        "yield": "125 mg (85% based on S5)"
+      }
+    },
+    {
+      "name": "8-Hydroxymethylbenzo[1,2-b:4,5-b']dithiophene-4-carboxaldehyde (2)",
+      "synthesis": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "dry DMSO",
+            "amount": "8 mL"
+          }
+        ],
+        "equipment": "Not specified",
+        "chemicals_used": [
+          {
+            "name": "trimethylsulfonium iodide",
+            "amount": "1.06 g, 5.2 mmol"
+          },
+          {
+            "name": "sodium hydride",
+            "amount": "223 mg of 60% in oil"
+          },
+          {
+            "name": "benzo[1,2-b:4,5-b']dithiophene-4,8-dione",
+            "amount": "500 mg, 2.27 mmol"
+          }
+        ],
+        "time": "12 hours",
+        "washing_method": "washed with water",
+        "drying_method": "dried",
+        "yield": "168 g, 29.8% based on 1"
+      }
+    },
+    {
+      "name": "Benzo[1,2-b:4,5-b']dithiophene-4,8-dicarboxylic acid (anti-BDT)",
+      "synthesis": {
+        "temperature": "110 °C",
+        "solvents": [
+          {
+            "name": "distilled water/ethanol",
+            "amount": "8 mL, v/v = 1:1"
+          }
+        ],
+        "equipment": "25-mL round-bottom flask",
+        "chemicals_used": [
+          {
+            "name": "silver nitrate",
+            "amount": "1.1 g, 6.5 mmol"
+          },
+          {
+            "name": "2",
+            "amount": "200 mg, 0.81 mmol"
+          },
+          {
+            "name": "aqueous solution of potassium hydroxide",
+            "amount": "903 mg, 16 mmol"
+          }
+        ],
+        "time": "12 hours",
+        "washing_method": "distilled water (3 × 100 mL)",
+        "drying_method": "suction-dried",
+        "yield": "198 mg, 88.4% based on 2"
+      }
+    }
+  ]
+}

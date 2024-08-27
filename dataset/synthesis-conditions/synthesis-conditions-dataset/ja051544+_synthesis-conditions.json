@@ -1,0 +1,138 @@
+{
+  "materials": [
+    {
+      "material": "2Li2·(DME)2",
+      "synthesis_conditions": {
+        "temperature": "-78 °C to room temperature",
+        "solvents": [
+          {
+            "name": "Et2O",
+            "amount": "15 mL"
+          },
+          {
+            "name": "DME",
+            "amount": "for recrystallization"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Lipz",
+            "amount": "0.34 g, 4.60 mmol"
+          },
+          {
+            "name": "1",
+            "amount": "0.61 g, 2.30 mmol"
+          }
+        ],
+        "time": "overnight for second crop",
+        "yield": "1.52 g (93%)",
+        "washing_method": "filtration",
+        "drying_method": "evaporation to dryness in vacuo"
+      }
+    },
+    {
+      "material": "2Na2·(THF)4",
+      "synthesis_conditions": {
+        "temperature": "-78 °C to room temperature",
+        "solvents": [
+          {
+            "name": "Et2O",
+            "amount": "20 mL for initial reaction, THF for recrystallization"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Napz",
+            "amount": "0.24 g, 2.70 mmol"
+          },
+          {
+            "name": "1",
+            "amount": "0.36 g, 1.35 mmol"
+          }
+        ],
+        "time": "24 h stirring for THF substitution",
+        "yield": "0.94 g (95%)",
+        "washing_method": "filtration",
+        "drying_method": "evaporation to dryness in vacuo"
+      }
+    },
+    {
+      "material": "2K2·(THF)4",
+      "synthesis_conditions": {
+        "temperature": "-78 °C to room temperature",
+        "solvents": [
+          {
+            "name": "Et2O",
+            "amount": "60 mL for initial reaction, THF for recrystallization"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Kpz",
+            "amount": "0.80 g, 7.54 mmol"
+          },
+          {
+            "name": "1",
+            "amount": "1.00 g, 3.76 mmol"
+          }
+        ],
+        "time": "overnight for THF recrystallization",
+        "yield": "2.65 g (92%)",
+        "washing_method": "filtration",
+        "drying_method": "evaporation to dryness in vacuo"
+      }
+    },
+    {
+      "material": "2Rb2·(THF)4",
+      "synthesis_conditions": {
+        "temperature": "-78 °C to room temperature",
+        "solvents": [
+          {
+            "name": "Et2O",
+            "amount": "50 mL for initial reaction, THF for recrystallization"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Rbpz",
+            "amount": "1.00 g, 6.56 mmol"
+          },
+          {
+            "name": "1",
+            "amount": "0.87 g, 3.28 mmol"
+          }
+        ],
+        "time": "overnight for THF recrystallization",
+        "yield": "2.64 g (94%)",
+        "washing_method": "filtration",
+        "drying_method": "evaporation to dryness in vacuo"
+      }
+    },
+    {
+      "material": "2Cs2·(DME)3",
+      "synthesis_conditions": {
+        "temperature": "-78 °C to room temperature",
+        "solvents": [
+          {
+            "name": "Et2O",
+            "amount": "45 mL for initial reaction, DME for recrystallization"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cspz",
+            "amount": "0.78 g, 3.90 mmol"
+          },
+          {
+            "name": "1",
+            "amount": "0.52 g, 1.95 mmol"
+          }
+        ],
+        "time": "at 40 °C in an ultrasonic bath for DME recrystallization",
+        "yield": "1.75 g (96%)",
+        "washing_method": "filtration",
+        "drying_method": "evaporation to dryness in vacuo"
+      }
+    }
+  ]
+}

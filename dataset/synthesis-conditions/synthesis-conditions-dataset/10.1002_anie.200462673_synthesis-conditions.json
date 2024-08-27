@@ -1,0 +1,106 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": ["methanol", "THF"],
+        "amount_of_solvents": ["2 mL methanol", "2 mL THF", "8 mL methanol as buffer"],
+        "equipment": null,
+        "chemicals_used": ["Zn(O2CCH3)2·2 H2O", "bpe"],
+        "amount_of_chemicals": ["0.110 g, 0.5 mmol Zn(O2CCH3)2·2 H2O", "0.090 g, 0.5 mmol bpe"],
+        "time": "2 days",
+        "washing_method": null,
+        "drying_method": null,
+        "yield": "0.07 g, 26 %"
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "temperature": "slow evaporation after boiling",
+        "solvents": ["DMF", "water", "ether"],
+        "amount_of_solvents": ["2 mL DMF", "4 mL DMF", "ether for washing"],
+        "equipment": null,
+        "chemicals_used": ["Zn(O2CCH3)2·2H2O", "bpe"],
+        "amount_of_chemicals": ["0.220 g, 1 mmol Zn(O2CCH3)2·2H2O", "0.182 g, 1 mmol bpe"],
+        "time": "1 week",
+        "washing_method": "washed with ether",
+        "drying_method": "dried under vacuum",
+        "yield": "0.140 g, 36 %"
+      }
+    },
+    {
+      "name": "3",
+      "synthesis_conditions": [
+        {
+          "temperature": "room temperature",
+          "solvents": ["methanol", "THF", "CH3CN"],
+          "amount_of_solvents": ["2 mL methanol", "2 mL THF", "4 mL CH3CN as buffer"],
+          "equipment": null,
+          "chemicals_used": ["Zn(O2CCH3)2·2 H2O", "bpe"],
+          "amount_of_chemicals": ["0.11 g, 0.5 mmol Zn(O2CCH3)2·2 H2O", "0.09 g, 0.5 mmol bpe"],
+          "time": "1 day",
+          "washing_method": "washed with ether",
+          "drying_method": "dried under vacuum",
+          "yield": "0.12 g, 38 %"
+        },
+        {
+          "temperature": "room temperature",
+          "solvents": ["methanol"],
+          "amount_of_solvents": ["4 mL methanol", "2 mL methanol"],
+          "equipment": null,
+          "chemicals_used": ["Zn(CH3COO)2·2 H2O", "bpe"],
+          "amount_of_chemicals": ["0.22 g Zn(CH3COO)2·2 H2O", "0.18 g bpe"],
+          "time": "2 days",
+          "washing_method": "washed with ether",
+          "drying_method": "dried under vacuum",
+          "yield": "75 %"
+        }
+      ]
+    },
+    {
+      "name": "UV Irradiation of 3",
+      "synthesis_conditions": {
+        "temperature": null,
+        "solvents": null,
+        "equipment": "Xe lamp (60 W)",
+        "chemicals_used": ["powdered sample of 3"],
+        "amount_of_chemicals": ["30 mg"],
+        "time": "approximately 18 h",
+        "washing_method": null,
+        "drying_method": null,
+        "yield": null
+      }
+    },
+    {
+      "name": "4",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": ["DMF"],
+        "amount_of_solvents": ["2 mL DMF", "4 mL DMF"],
+        "equipment": null,
+        "chemicals_used": ["Zn(O2CCH3)2·2 H2O", "bpe", "Trifluoroacetic acid"],
+        "amount_of_chemicals": ["0.220 g, 1 mmol Zn(O2CCH3)2·2 H2O", "0.186 g, 1 mmol bpe", "0.1 mL, 1.2 mmol Trifluoroacetic acid"],
+        "time": "2 days",
+        "washing_method": "washed with ether",
+        "drying_method": "dried under vacuum",
+        "yield": "0.21 g, 53 %"
+      }
+    },
+    {
+      "name": "5",
+      "synthesis_conditions": {
+        "temperature": null,
+        "solvents": null,
+        "equipment": "Xe lamp",
+        "chemicals_used": ["powdered sample of 4"],
+        "amount_of_chemicals": ["10 mg"],
+        "time": "approximately 12 h",
+        "washing_method": null,
+        "drying_method": null,
+        "yield": null
+      }
+    }
+  ]
+}

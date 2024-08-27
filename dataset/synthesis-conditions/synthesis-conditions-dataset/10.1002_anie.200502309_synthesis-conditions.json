@@ -1,0 +1,50 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "temperature": "160 8C",
+        "time": "48 h",
+        "solvents": "aqueous solution",
+        "amount_of_solvent": "12 mL",
+        "equipment": "45-mL teflon-lined autoclave",
+        "chemicals_used": {
+          "Hppca": "0.2 mmol",
+          "Co(NO3)2·6 H2O": "0.2 mmol",
+          "NH4VO3": "0.2 mmol"
+        },
+        "washing_method": "washed with water",
+        "drying_method": "dried in air",
+        "yield": "9.4 mg, 12 %"
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "temperature": "150 8C",
+        "time": "1 day",
+        "description": "Heating the single crystals of 1 to 150 8C for 1 day yielded 2."
+      }
+    },
+    {
+      "name": "1 (reconstituted from 2)",
+      "synthesis_conditions": {
+        "method": "Immersion of crystals of 2 in water or exposure to air for less than 1 week."
+      }
+    },
+    {
+      "name": "3",
+      "synthesis_conditions": {
+        "temperature": "300 8C",
+        "time": "2 h",
+        "description": "Heating the single crystals of 1 to 300 8C for 2 h yielded 3."
+      }
+    },
+    {
+      "name": "1 (reconstituted from 3)",
+      "synthesis_conditions": {
+        "method": "Brief immersion of 3 into water or exposure to air for several days."
+      }
+    }
+  ]
+}

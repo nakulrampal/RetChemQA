@@ -1,0 +1,37 @@
+{
+  "materials": [
+    {
+      "name": "[hydrotris(1,2,4-triazolyl)borato]silver(I)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "chemical": "AgNO3",
+              "amount": "0.17 g (1.0 mmol)"
+            },
+            {
+              "chemical": "K[HB(C2H2N3)3]",
+              "amount": "0.26 g (1.0 mmol)"
+            }
+          ],
+          "solvents": [
+            {
+              "solvent": "water",
+              "amount": "10 mL for AgNO3 solution",
+              "amount_2": "20 mL for K[HB(C2H2N3)3] solution"
+            },
+            {
+              "solvent": "aqueous ammonia (25%)",
+              "purpose": "recrystallization"
+            }
+          ],
+          "temperature": "Room temperature for reaction, unspecified for recrystallization",
+          "time": "Unspecified",
+          "yield": "320 mg, 60%",
+          "other_conditions": "Slow diffusion of the solutions"
+        }
+      ]
+    }
+  ]
+}

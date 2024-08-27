@@ -1,0 +1,69 @@
+{
+  "materials": [
+    {
+      "name": "[Cu(pyz)2(pyO)2](PF6)2",
+      "synthesis_conditions": {
+        "temperature": "Room temperature for mixing, slow evaporation for crystal formation",
+        "solvents": [
+          {
+            "name": "Water",
+            "amount": "Minimum amount"
+          },
+          {
+            "name": "Ethanol",
+            "amount": "Equal volume to water for pyrazine and pyridine-N-oxide solution"
+          }
+        ],
+        "equipment": "Vacuum filtration for solid removal",
+        "chemicals_used": [
+          {
+            "name": "CuCl2·2H2O",
+            "amount": "0.502 g, 2.95 mmol"
+          },
+          {
+            "name": "AgPF6",
+            "amount": "1.489 g, 5.89 mmol"
+          },
+          {
+            "name": "Pyrazine",
+            "ratio": "3:1 with pyridine-N-oxide"
+          },
+          {
+            "name": "Pyridine-N-oxide",
+            "ratio": "1:3 with pyrazine"
+          }
+        ],
+        "time": "Several weeks for crystal growth",
+        "washing_method": "Vacuum filtration",
+        "drying_method": "Slow evaporation",
+        "yield": "Not specified",
+        "additional_notes": "The synthesis involves mixing CuCl2·2H2O and AgPF6 in water to form a pale blue solution, which is then mixed with a solution of pyrazine and pyridine-N-oxide in water and ethanol. The mixture is left to slowly evaporate to form crystals."
+      }
+    },
+    {
+      "name": "[Cu(pyz)(pyO)2(H2O)2](PF6)2",
+      "synthesis_conditions": {
+        "temperature": "Room temperature for mixing, slow evaporation for crystal formation",
+        "solvents": [
+          {
+            "name": "Not explicitly mentioned",
+            "amount": "Assumed similar to [Cu(pyz)2(pyO)2](PF6)2 synthesis"
+          }
+        ],
+        "equipment": "Vacuum filtration for solid removal, perforated Al-foil for covering",
+        "chemicals_used": [
+          {
+            "name": "Chemicals similar to [Cu(pyz)2(pyO)2](PF6)2",
+            "amount": "Not specified",
+            "ratio": "Pyrazine to pyridine-N-oxide ratio adjusted to 2:1"
+          }
+        ],
+        "time": "Several weeks for crystal growth",
+        "washing_method": "Vacuum filtration",
+        "drying_method": "Slow evaporation",
+        "yield": "Not specified",
+        "additional_notes": "The synthesis procedure is similar to that of [Cu(pyz)2(pyO)2](PF6)2 but with the ratio of pyrazine to pyridine-N-oxide adjusted to 2:1. The solution is covered with perforated Al-foil to allow slow solvent evaporation."
+      }
+    }
+  ]
+}

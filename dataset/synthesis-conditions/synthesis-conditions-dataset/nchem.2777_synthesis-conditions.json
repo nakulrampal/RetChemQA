@@ -1,0 +1,105 @@
+{
+  "materials": [
+    {
+      "name": "Pu3(DPA)5(H2O)2 (PuIII,IV-3)",
+      "synthesis_conditions": {
+        "temperature": "180 °C",
+        "solvents": [
+          {
+            "name": "ethanol",
+            "amount": "100 μl"
+          },
+          {
+            "name": "deionized water",
+            "amount": "100 μl"
+          }
+        ],
+        "equipment": "PTFE-lined Parr 4749 autoclaves with a 10 ml internal volume",
+        "chemicals_used": [
+          {
+            "name": "PuCl3",
+            "amount": "9.4 mg"
+          },
+          {
+            "name": "HBr (8 M)",
+            "amount": "100 μl"
+          },
+          {
+            "name": "2,6-Pyridinedicarboxylic acid (DPA)",
+            "amount": "4.6 mg"
+          }
+        ],
+        "time": "2 days",
+        "washing_method": "Not specified",
+        "drying_method": "Slow cooling at a rate of 5 °C per hour",
+        "yield": "Not specified",
+        "additional_information": "The reaction was conducted under anaerobic conditions to exclude oxygen."
+      }
+    },
+    {
+      "name": "PuIV(DPA)2(H2O)3·3H2O (PuIV-2)",
+      "synthesis_conditions": {
+        "temperature": "180 °C",
+        "solvents": [
+          {
+            "name": "ethanol",
+            "amount": "100 μl"
+          },
+          {
+            "name": "water",
+            "amount": "100 μl"
+          }
+        ],
+        "equipment": "PTFE-lined Parr 4749 autoclaves with a 10 ml internal volume",
+        "chemicals_used": [
+          {
+            "name": "PuCl3",
+            "amount": "9.8 mg"
+          },
+          {
+            "name": "HBr (8 M)",
+            "amount": "100 μl"
+          },
+          {
+            "name": "2,6-Pyridinedicarboxylic acid (DPA)",
+            "amount": "5.2 mg"
+          }
+        ],
+        "time": "3 days",
+        "washing_method": "Not specified",
+        "drying_method": "Slow cooling at a rate of 5 °C per hour",
+        "yield": "High yield",
+        "additional_information": "The reaction was conducted aerobically, with no attempts to keep air out of the reaction."
+      }
+    },
+    {
+      "name": "PuIII[PuIV(DPA)3H0.5]2 (PuIV,III-4)",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "solvents": [
+          {
+            "name": "ethanol and water mixture",
+            "amount": "200 μl",
+            "ratio": "1:1"
+          }
+        ],
+        "equipment": "PTFE-lined Parr 4749 autoclaves with a 10 ml internal volume",
+        "chemicals_used": [
+          {
+            "name": "PuCl3",
+            "amount": "10.0 mg"
+          },
+          {
+            "name": "2,6-Pyridinedicarboxylic acid (DPA)",
+            "amount": "24.2 mg"
+          }
+        ],
+        "time": "4 hours",
+        "washing_method": "Washed 3 times with 1 ml of ethanol",
+        "drying_method": "Slowly cooled to 25 °C over a 12-hour period",
+        "yield": "Not specified",
+        "additional_information": "The reaction mixture turned from dark blue to dark green upon addition of DPA."
+      }
+    }
+  ]
+}

@@ -1,0 +1,418 @@
+{
+  "materials": [
+    {
+      "material_name": "[Co(salophen)K](THF)",
+      "material_id": "1",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "Room temperature",
+          "solvents": [
+            {
+              "name": "THF",
+              "amount": "18 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "[CoCl2(THF)]",
+              "amount": "551.0 mg",
+              "molar_amount": "2.7 mmol"
+            },
+            {
+              "name": "K2salophen",
+              "amount": "1.071 g",
+              "molar_amount": "2.7 mmol"
+            },
+            {
+              "name": "Potassium chunks",
+              "amount": "106.7 mg",
+              "molar_amount": "2.7 mmol"
+            }
+          ],
+          "time": "24 h",
+          "yield": "80%",
+          "drying_method": "Vacuum",
+          "crystallization_method": "Slow diffusion of diisopropylether into a THF solution",
+          "washing_method": "Not specified",
+          "characterization": [
+            {
+              "technique": "1H NMR",
+              "details": "400 MHz, THF-d8, 298 K",
+              "peaks": [
+                "10.4 (s, 2H)",
+                "7.9 (d, 2H)",
+                "7.4 (t, 2H)",
+                "7.2 (m, 2H)",
+                "6.5 (m, 2H)",
+                "6.1 (s, 2H)",
+                "5.9 (s, 2H)"
+              ]
+            },
+            {
+              "technique": "ES-MS",
+              "details": "m/z = 373.2 [M - K+]-"
+            },
+            {
+              "technique": "Elemental Analysis",
+              "details": "Calcd for C20H14N2O2CoK1.33Cl0.33: C, 54.97; H, 3.23; N, 6.41, Cl, 2.68. Found: C, 55.14; H, 3.55; N, 6.61; Cl, 4.33."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "material_name": "[Co(OMeSalophen)K](THF)",
+      "material_id": "2",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "Room temperature",
+          "solvents": [
+            {
+              "name": "THF",
+              "amount": "4 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "[Co(OMeSalophen)(THF)0.5](KCl)0.2",
+              "amount": "80.4 mg",
+              "molar_amount": "0.2 mmol"
+            },
+            {
+              "name": "Potassium chunks",
+              "amount": "6.5 mg",
+              "molar_amount": "0.2 mmol"
+            }
+          ],
+          "time": "6 days",
+          "yield": "Not specified",
+          "drying_method": "Vacuum",
+          "crystallization_method": "Slow diffusion of diisopropylether into a THF solution",
+          "washing_method": "Not specified",
+          "characterization": [
+            {
+              "technique": "1H NMR",
+              "details": "200 MHz, THF-d8, 298 K",
+              "peaks": [
+                "10.3 (s, 2H)",
+                "7.5 (d, 2H)",
+                "7.2 (s, 2H)",
+                "7.0 (s, 2H)",
+                "6.6 (s, 2H)",
+                "6.0 (s, 2H)",
+                "3.6 (s, 6H)"
+              ]
+            },
+            {
+              "technique": "Elemental Analysis",
+              "details": "Calcd for C24H22N2O4.5CoK1.02Cl0.02: C, 56.28; H, 4.33; N, 5.47. Found: C, 55.94; H, 3.96; N, 5.11."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "material_name": "[Co2(bis-salophen)Na2(THF)6]",
+      "material_id": "3",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "Room temperature",
+          "solvents": [
+            {
+              "name": "THF",
+              "amount": "18 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "[CoCl2(THF)]",
+              "amount": "415.4 mg",
+              "molar_amount": "2.0 mmol"
+            },
+            {
+              "name": "Na2salophen",
+              "amount": "741.3 mg",
+              "molar_amount": "2.0 mmol"
+            },
+            {
+              "name": "Sodium chunks",
+              "amount": "46.0 mg",
+              "molar_amount": "2.0 mmol"
+            }
+          ],
+          "time": "24 h",
+          "yield": "87%",
+          "drying_method": "Vacuum",
+          "crystallization_method": "Slow layering with diisopropylether",
+          "washing_method": "Filtration to remove NaCl",
+          "characterization": [
+            {
+              "technique": "1H NMR",
+              "details": "400 MHz, THF-d8, 298 K",
+              "peaks": [
+                "10.6 (s, 2H)",
+                "7.9 (d, 2H)",
+                "7.4 (t, 2H)",
+                "7.2 (dd, 2H)",
+                "6.6 (dd, 2H)",
+                "6.1 (t, 2H)",
+                "6.0 (d, 2H)"
+              ]
+            },
+            {
+              "technique": "ES-MS",
+              "details": "m/z = 373.2 [Co(salophen)]-, 769.5 [Co2(bis-salophen)Na]-"
+            },
+            {
+              "technique": "Elemental Analysis",
+              "details": "Calcd for C40H28N4O4Co2Na2.60Cl0.60: C, 58.05; H, 3.41; N, 6.77. Found: C, 58.11; H, 3.82; N, 6.29."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "material_name": "[Co2(bis-salophen)Li2(Py)4]",
+      "material_id": "5",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "Room temperature",
+          "solvents": [
+            {
+              "name": "THF",
+              "amount": "6 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Lithium chunks",
+              "amount": "2.7 mg",
+              "molar_amount": "0.4 mmol"
+            },
+            {
+              "name": "[Co(salophen)]",
+              "amount": "145.8 mg",
+              "molar_amount": "0.4 mmol"
+            }
+          ],
+          "time": "24 h",
+          "yield": "70%",
+          "drying_method": "Vacuum",
+          "crystallization_method": "Slow diffusion of hexane into a pyridine solution",
+          "washing_method": "Not specified",
+          "characterization": [
+            {
+              "technique": "1H NMR",
+              "details": "400 MHz, THF-d8, 298 K",
+              "peaks": [
+                "10.4 (s, 2H)",
+                "7.9 (d, 2H)",
+                "7.3 (m, 4H)",
+                "6.7 (s, 2H)",
+                "6.1 (m, 4H)"
+              ]
+            },
+            {
+              "technique": "Elemental Analysis",
+              "details": "Calcd for C28.25H22.25N3.65O2CoLi: C, 66.46; H, 4.39; N, 10.01. Found: C, 66.07; H, 4.44; N, 10.40."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "material_name": "[Co3(tris-OMeSalophen)Na6(THF)6]",
+      "material_id": "6",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "Room temperature",
+          "solvents": [
+            {
+              "name": "THF",
+              "amount": "30 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "[CoCl2(THF)]",
+              "amount": "633.1 mg",
+              "molar_amount": "2.9 mmol"
+            },
+            {
+              "name": "Na2OMeSalophen",
+              "amount": "1.2 g",
+              "molar_amount": "2.9 mmol"
+            },
+            {
+              "name": "Sodium chunks",
+              "amount": "137.0 mg",
+              "molar_amount": "5.8 mmol"
+            }
+          ],
+          "time": "5 days",
+          "yield": "68%",
+          "drying_method": "Vacuum",
+          "crystallization_method": "Slow diffusion of hexane into a THF solution",
+          "washing_method": "Filtration",
+          "characterization": [
+            {
+              "technique": "1H NMR",
+              "details": "400 MHz, THF-d8, 298 K",
+              "peaks": [
+                "12.8 (s, 2H)",
+                "12.5 (br s, 1H)",
+                "9.5 (br s, 1H)",
+                "9.2 (br s, 1H)",
+                "8.6 (d, 2H)",
+                "8.5 (br s, 1H)",
+                "8.3 (d, 2H)",
+                "7.9 (d, 2H)",
+                "7.8 (d, 2H)",
+                "7.4 (br s, 1H)",
+                "7.2 (br s, 1H)",
+                "7.0 (s, 2H)",
+                "6.7-6.6 (m, 4H)",
+                "6.5 (br s, 1H)",
+                "6.4 (d, 2H)",
+                "6.2 (d, 2H)",
+                "6.1 (br s, 1H)",
+                "5.9 (t, 2H)",
+                "5.3 (t, 2H)",
+                "4.9 (br s, 1H)",
+                "4.7 (br s, 2H)",
+                "4.5 (br s, 1H)",
+                "3.4 (s, 6H, CH3)",
+                "3.1 (s, 6H, CH3)",
+                "2.4 (br s, 3H, CH3)",
+                "2.2 (br s, 3H, CH3)"
+              ]
+            },
+            {
+              "technique": "Elemental Analysis",
+              "details": "Calcd for C76H74N6O14.5Co3Na6.3Cl0.3: C, 55.81; H, 4.56; N, 5.14. Found: C, 55.55; H, 4.78; N, 4.76."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "material_name": "[(Co(OMeSalophen))2Na][Na(cryptand)]3",
+      "material_id": "7",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "Room temperature",
+          "solvents": [
+            {
+              "name": "THF",
+              "amount": "20 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Cryptand",
+              "amount": "95.1 mg",
+              "molar_amount": "0.2 mmol"
+            },
+            {
+              "name": "[Co3(tris-OMeSalophen)Na6(THF)2.5](NaCl)0.3",
+              "amount": "60.5 mg",
+              "molar_amount": "0.04 mmol"
+            }
+          ],
+          "yield": "68%",
+          "drying_method": "Not specified",
+          "crystallization_method": "Slow diffusion of a THF solution of cryptand into a THF solution of [Co3(tris-OMeSalophen)Na6(THF)2.5](NaCl)0.3",
+          "washing_method": "Not specified",
+          "characterization": [
+            {
+              "technique": "Elemental Analysis",
+              "details": "Calcd for C98H144Co2N10Na4O26: C, 56.37; H, 6.95; N, 6.71. Found: C, 56.44; H, 6.98; N, 6.46."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "material_name": "[Co2(bis-OMeSalophen)Na2Py4][Na(cryptand)]2.Py6",
+      "material_id": "8",
+      "synthesis_conditions": [
+        {
+          "step": "Isolation",
+          "temperature": "Room temperature",
+          "solvents": [
+            {
+              "name": "Pyridine",
+              "amount": "Not specified"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "[(Co(OMeSalophen))2Na][Na(cryptand)]3",
+              "amount": "Not specified",
+              "molar_amount": "Not specified"
+            }
+          ],
+          "yield": "Not specified",
+          "drying_method": "Not specified",
+          "crystallization_method": "Slow diffusion of hexane into a pyridine solution",
+          "washing_method": "Not specified",
+          "characterization": [
+            {
+              "technique": "ORTEP",
+              "details": "Ellipsoids at 50%. Hydrogen atoms and lattice solvent molecules omitted for clarity."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "material_name": "[Co(OMeSalophen-CO2)Na]2[Na(cryptand)]2",
+      "material_id": "9",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "Room temperature",
+          "solvents": [
+            {
+              "name": "THF-d8",
+              "amount": "0.5 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "[Co3(tris-OMeSalophen)Na6(THF)2.5](NaCl)0.3",
+              "amount": "6.3 mg",
+              "molar_amount": "0.004 mmol"
+            },
+            {
+              "name": "13CO2",
+              "amount": "Approximately 74 equiv"
+            }
+          ],
+          "yield": "Not specified",
+          "drying_method": "Dynamic vacuum",
+          "crystallization_method": "Slow diffusion of DIPE into a THF solution after reaction with CO2 and addition of cryptand",
+          "washing_method": "Not specified",
+          "characterization": [
+            {
+              "technique": "1H NMR",
+              "details": "400 MHz, THF-d8, 298 K",
+              "peaks": "NMR silent after reaction"
+            },
+            {
+              "technique": "13C NMR",
+              "details": "400 MHz, D2O, 298 K",
+              "peaks": "167.5 ppm (CO32-)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

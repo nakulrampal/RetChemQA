@@ -1,0 +1,166 @@
+{
+  "materials": [
+    {
+      "name": "TPB-1",
+      "synthesis_conditions": {
+        "temperature": "180 °C",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "hydrothermal",
+        "chemicals_used": [
+          {
+            "name": "Fe(NO3)3·9H2O",
+            "amount": "0.161 g, 0.4 mmol"
+          },
+          {
+            "name": "H3PO4",
+            "amount": "0.6 mL, 9 mmol"
+          },
+          {
+            "name": "tmdp",
+            "amount": "1.268 g, 6.4 mmol"
+          },
+          {
+            "name": "oxalic acid dihydrate",
+            "amount": "0.151 g, 1.2 mmol"
+          }
+        ],
+        "time": "48 h",
+        "yield": "minor phase"
+      }
+    },
+    {
+      "name": "TPB-2",
+      "synthesis_conditions": {
+        "temperature": "180 °C",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "hydrothermal",
+        "chemicals_used": [
+          {
+            "name": "Fe(NO3)3·9H2O",
+            "amount": "0.161 g, 0.4 mmol"
+          },
+          {
+            "name": "H3PO4",
+            "amount": "0.6 mL, 9 mmol"
+          },
+          {
+            "name": "tmdp",
+            "amount": "1.268 g, 6.4 mmol"
+          },
+          {
+            "name": "oxalic acid dihydrate",
+            "amount": "0.151 g, 1.2 mmol"
+          }
+        ],
+        "time": "48 h",
+        "yield": "major phase, up to 35% based on tmdp"
+      }
+    },
+    {
+      "name": "TPB-3",
+      "synthesis_conditions": {
+        "temperature": "180 °C",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "10 mL"
+          }
+        ],
+        "equipment": "hydrothermal",
+        "chemicals_used": [
+          {
+            "name": "Fe(NO3)3·9H2O",
+            "amount": "0.161 g, 0.4 mmol"
+          },
+          {
+            "name": "H3PO4",
+            "amount": "0.6 mL, 9 mmol"
+          },
+          {
+            "name": "tmdp",
+            "amount": "1.268 g, 6.4 mmol"
+          },
+          {
+            "name": "oxalic acid dihydrate",
+            "amount": "0.151 g, 1.2 mmol"
+          }
+        ],
+        "time": "48 h",
+        "yield": "approximately 30%"
+      }
+    },
+    {
+      "name": "TPCH",
+      "synthesis_conditions": {
+        "temperature": "180 °C",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "10 mL"
+          }
+        ],
+        "equipment": "hydrothermal",
+        "chemicals_used": [
+          {
+            "name": "Fe(NO3)3·9H2O",
+            "amount": "0.161 g, 0.4 mmol"
+          },
+          {
+            "name": "tmdp",
+            "amount": "1.268 g, 6.4 mmol"
+          },
+          {
+            "name": "oxalic acid dihydrate",
+            "amount": "0.151 g, 1.2 mmol"
+          }
+        ],
+        "time": "48 h",
+        "yield": "approximately 30%",
+        "note": "H3PO4 not included in this synthesis"
+      }
+    },
+    {
+      "name": "NTHU-12",
+      "synthesis_conditions": {
+        "temperature": "140 °C",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "molar ratio of 555"
+          }
+        ],
+        "equipment": "hydrothermal",
+        "chemicals_used": [
+          {
+            "name": "Zn(acetate)2·2H2O",
+            "amount": "molar ratio of 1"
+          },
+          {
+            "name": "H3PO4",
+            "amount": "molar ratio of 4"
+          },
+          {
+            "name": "benzene-1,2,4,5-tetracarboxylic acid (H4btec)",
+            "amount": "molar ratio of 0.4"
+          },
+          {
+            "name": "TPB (from TPB-1, TPB-2 or TPB-3)",
+            "amount": "molar ratio of 0.4"
+          }
+        ],
+        "time": "48 h",
+        "yield": "approximately 45%"
+      }
+    }
+  ]
+}

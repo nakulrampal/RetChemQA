@@ -1,0 +1,36 @@
+{
+  "materials": [
+    {
+      "name": "[Cu3(btc)2]",
+      "synthesis_conditions": {
+        "method": "hydrothermal",
+        "temperature": "95 8C",
+        "time": "15 h",
+        "cooling": "immediately to room temperature",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "12 mL"
+          },
+          {
+            "name": "ethanol",
+            "amount": "12 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cu(NO3)2 solution",
+            "amount": "3.37 g"
+          },
+          {
+            "name": "H3btc suspension",
+            "amount": "1.47 g"
+          }
+        ],
+        "washing_method": "repeatedly washed with methanol at 50 8C and decanted",
+        "equipment": "teflon-lined bombs",
+        "additional_information": "PXRD data were collected at the Advanced Photon Source (APS) on beam line 12BM (l = 0.61992 G). SC-XRD data were collected on a Bruker-Nonius FR591 Kappa APEX II equipped with Oxford Cryosystems nitrogen cryostreams and graphite monochromated MoKa radiation (l = 0.71073 G) from a rotating anode."
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "materials": [
+    {
+      "name": "1 [Cu(PCA64)(PCA642-)]•13H2O",
+      "synthesis_conditions": {
+        "temperature": "170°C",
+        "time": "72 h",
+        "cooling_rate": "10°C h-1",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "6 ml"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "[PCN642+]•2[NO3]-",
+            "amount": "0.168 g, 0.1 mmol"
+          },
+          {
+            "name": "Cu(NO3)2·3H2O",
+            "amount": "45 mg, 0.19 mmol"
+          },
+          {
+            "name": "triethylamine",
+            "amount": "3 drops"
+          }
+        ],
+        "equipment": "stainless-steel bomb",
+        "yield": "92 mg, 60%",
+        "washing_method": "water",
+        "drying_method": "air"
+      }
+    },
+    {
+      "name": "2 [Zn(PCA64)(PCA642-)]•13H2O",
+      "synthesis_conditions": {
+        "temperature": "170°C",
+        "time": "72 h",
+        "cooling_rate": "10°C h-1",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "6 ml"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "[PCN642+]•2[NO3]-",
+            "amount": "0.168 g, 0.1 mmol"
+          },
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "similar to Cu(NO3)2·3H2O amount for 1"
+          },
+          {
+            "name": "triethylamine",
+            "amount": "3 drops"
+          }
+        ],
+        "equipment": "stainless-steel bomb",
+        "yield": "Similar conditions to 1 suggest similar yield",
+        "washing_method": "water",
+        "drying_method": "air"
+      }
+    },
+    {
+      "name": "3 [Cd(PCA64)(PCA642-)]•13H2O",
+      "synthesis_conditions": {
+        "temperature": "170°C",
+        "time": "72 h",
+        "cooling_rate": "10°C h-1",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "6 ml"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "[PCN642+]•2[NO3]-",
+            "amount": "0.168 g, 0.1 mmol"
+          },
+          {
+            "name": "Cd(NO3)2·6H2O",
+            "amount": "similar to Cu(NO3)2·3H2O amount for 1"
+          },
+          {
+            "name": "triethylamine",
+            "amount": "3 drops"
+          }
+        ],
+        "equipment": "stainless-steel bomb",
+        "yield": "Similar conditions to 1 suggest similar yield",
+        "washing_method": "water",
+        "drying_method": "air"
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "materials": [
+    {
+      "name": "PCN-602(Ni)",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "2 mL"
+          },
+          {
+            "name": "deionized (DI) water",
+            "amount": "1.2 mL"
+          }
+        ],
+        "equipment": "5 mL high-pressure vessel",
+        "chemicals_used": [
+          {
+            "name": "Ni(AcO)2·4H2O",
+            "amount": "8 mg, 32.3 mmol"
+          },
+          {
+            "name": "H4TPPP",
+            "amount": "10 mg, 17.4 mmol"
+          }
+        ],
+        "time": "24 h",
+        "yield": "8 mg",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified"
+      }
+    },
+    {
+      "name": "PCN-602(Mn)",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "1.5 mL"
+          },
+          {
+            "name": "deionized (DI) water",
+            "amount": "2.5 mL"
+          }
+        ],
+        "equipment": "5 mL high-pressure vessel",
+        "chemicals_used": [
+          {
+            "name": "Ni(AcO)2·4H2O",
+            "amount": "6 mg, 24.2 mmol"
+          },
+          {
+            "name": "Mn(H4TPPP)Cl",
+            "amount": "10 mg, 15.0 mmol"
+          }
+        ],
+        "time": "24 h",
+        "yield": "8 mg",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified"
+      }
+    },
+    {
+      "name": "PCN-601(Mn)",
+      "synthesis_conditions": {
+        "temperature": "130 °C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "10 mL"
+          }
+        ],
+        "equipment": "25 mL high pressure vessel",
+        "chemicals_used": [
+          {
+            "name": "Ni(AcO)2·4H2O",
+            "amount": "80 mg, 32.1 mmol"
+          },
+          {
+            "name": "Mn(H4TPP)Cl",
+            "amount": "45 mg"
+          }
+        ],
+        "time": "1 day",
+        "yield": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Described in Section 8 for N2 adsorption"
+      }
+    }
+  ]
+}

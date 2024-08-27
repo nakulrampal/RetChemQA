@@ -1,0 +1,131 @@
+{
+  "materials": [
+    {
+      "material": "KAu(CN)2⊂α-cyclodextrin",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": "Water",
+        "amount_of_solvent": "300 µL",
+        "chemicals_used": [
+          {
+            "name": "KAu(CN)2",
+            "amount": "8.9 mg"
+          },
+          {
+            "name": "α-cyclodextrin",
+            "amount": "30 mg"
+          }
+        ],
+        "time": "30 days",
+        "equipment": "XtaLAB Synergy, Single source at home/near, HyPix diffractometer",
+        "crystal_parameters": {
+          "empirical_formula": "C38H74AuKN2O37",
+          "formula_weight": "1387.05",
+          "crystal_system": "Orthorhombic",
+          "space_group": "P212121",
+          "a": "13.99063(13) Å",
+          "b": "23.4405(2) Å",
+          "c": "51.2967(4) Å",
+          "volume": "16822.6(3) Å3",
+          "Z": "12",
+          "Dcalc": "1.643 g/mm3"
+        },
+        "refinement_details": "RIGU applied globally",
+        "solvent_treatment_details": "Solvent masking procedure implemented in Olex2"
+      }
+    },
+    {
+      "material": "KAu(CN)2⊂(α-CD)2",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": "Water and EtOH",
+        "amount_of_solvent": "300 µL",
+        "chemicals_used": [
+          {
+            "name": "KAu(CN)2",
+            "amount": "8.9 mg"
+          },
+          {
+            "name": "α-cyclodextrin",
+            "amount": "30 mg"
+          }
+        ],
+        "time": "14 days",
+        "equipment": "XtaLAB Synergy, Single source at offset/far, HyPix diffractometer",
+        "crystal_parameters": {
+          "empirical_formula": "C39H74Au0.5K0.5NO35",
+          "formula_weight": "1235.02",
+          "crystal_system": "Triclinic",
+          "space_group": "P1",
+          "a": "13.7130(5) Å",
+          "b": "13.7765(4) Å",
+          "c": "15.6190(4) Å",
+          "alpha": "86.125(2)°",
+          "beta": "86.183(3)°",
+          "gamma": "60.219(3)°",
+          "volume": "2553.29(15) Å3",
+          "Z": "2",
+          "Dcalc": "1.606 g/mm3"
+        },
+        "refinement_details": "RIGU applied on disordered gold cyanide"
+      }
+    },
+    {
+      "material": "KAg(CN)2⊂(α-CD)2",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": "Water and EtOH",
+        "amount_of_solvent": "300 µL",
+        "chemicals_used": [
+          {
+            "name": "KAg(CN)2",
+            "amount": "6.2 mg"
+          },
+          {
+            "name": "α-cyclodextrin",
+            "amount": "30 mg"
+          }
+        ],
+        "time": "14 days",
+        "equipment": "XtaLAB Synergy, Single source at offset/far, HyPix diffractometer",
+        "crystal_parameters": {
+          "empirical_formula": "C78H148AgKN2O70",
+          "formula_weight": "2380.95",
+          "crystal_system": "Triclinic",
+          "space_group": "P1",
+          "a": "13.7332(5) Å",
+          "b": "13.7848(5) Å",
+          "c": "15.6408(7) Å",
+          "alpha": "86.135(4)°",
+          "beta": "86.215(3)°",
+          "gamma": "60.269(4)°",
+          "volume": "2563.54(19) Å3",
+          "Z": "1",
+          "Dcalc": "1.542 g/mm3"
+        },
+        "refinement_details": "RIGU applied on disordered silver cyanide"
+      }
+    },
+    {
+      "material": "Gold and Silver Adsorption on Activated Carbon",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": "Water",
+        "amount_of_solvent": "50 mL",
+        "chemicals_used": [
+          {
+            "name": "KAu(CN)2",
+            "amount": "150 mg"
+          },
+          {
+            "name": "KAg(CN)2",
+            "amount": "150 mg"
+          }
+        ],
+        "time": "3 days",
+        "equipment": "Oven at 110 ˚C",
+        "additional_information": "Activated carbon had a weight loss of 15% after drying, indicating 102 mg Au and 88 mg Ag were adsorbed on 8.5 g activated carbon."
+      }
+    }
+  ]
+}

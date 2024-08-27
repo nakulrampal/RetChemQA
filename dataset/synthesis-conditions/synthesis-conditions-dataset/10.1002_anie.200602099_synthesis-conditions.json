@@ -1,0 +1,73 @@
+{
+  "materials": [
+    {
+      "name": "[Cd3L4(NO3)6]·7 MeOH·5 H2O (1)",
+      "synthesis_conditions": {
+        "temperature": "Room Temperature",
+        "solvents": [
+          {"name": "DMF", "amount": "2 mL"},
+          {"name": "CHCl3", "amount": "3 mL"},
+          {"name": "MeOH", "amount": "2 mL"}
+        ],
+        "method": "Slow diffusion of diethyl ether into a mixture",
+        "chemicals_used": [
+          {"name": "Cd(NO3)2·4 H2O", "amount": "15.4 mg, 0.05 mmol"},
+          {"name": "(R)-6,6’-dichloro-2,2’-dihydroxy-1,1’-binaphthyl-4,4’-bipyridine", "amount": "25.5 mg, 0.05 mmol"}
+        ],
+        "time": "One week",
+        "washing_method": "Washed with MeOH and then Et2O",
+        "drying_method": "Dried at room temperature",
+        "yield": "30 mg (79 % based on L)"
+      }
+    },
+    {
+      "name": "[CdL2(H2O)2]-[ClO4]2·DMF·4 MeOH·3 H2O (2)",
+      "synthesis_conditions": {
+        "temperature": "Room Temperature",
+        "solvents": [
+          {"name": "DMF", "amount": "1 mL"},
+          {"name": "MeOH", "amount": "3 mL"}
+        ],
+        "method": "Slow diffusion of diethyl ether into a mixture",
+        "chemicals_used": [
+          {"name": "Cd(ClO4)2·6 H2O", "amount": "4.2 mg, 0.01 mmol"},
+          {"name": "L", "amount": "5.1 mg, 0.01 mmol"}
+        ],
+        "time": "One week",
+        "washing_method": "Washed with MeOH and then Et2O",
+        "drying_method": "Dried at room temperature",
+        "yield": "5 mg (67 %)"
+      }
+    },
+    {
+      "name": "1·Ti",
+      "synthesis_conditions": {
+        "temperature": "Room Temperature",
+        "solvents": [
+          {"name": "Toluene", "amount": "1 mL"}
+        ],
+        "method": "Treatment of 1 with excess Ti(OiPr)4 in toluene",
+        "chemicals_used": [
+          {"name": "Ti(OiPr)4", "amount": "48 mL, 0.14 mmol"},
+          {"name": "1-naphthaldehyde", "amount": "7 mL, 50 mmol"},
+          {"name": "diethylzinc", "amount": "0.154 mmol"}
+        ],
+        "time": "15 h",
+        "additional_steps": [
+          {
+            "step": "Drying of solid 1",
+            "details": "Dried under vacuum at 70 8C for 4 h"
+          },
+          {
+            "step": "Quenching",
+            "details": "Quenched with dilute hydrochloric acid"
+          },
+          {
+            "step": "Separation",
+            "details": "Organic phase separated and passed through a short column of silica gel"
+          }
+        ]
+      }
+    }
+  ]
+}

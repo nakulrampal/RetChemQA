@@ -1,0 +1,76 @@
+{
+  "materials": [
+    {
+      "name": "SMOF-1",
+      "synthesis_conditions": {
+        "temperature": "115°C",
+        "time": "4 days",
+        "solvents": [
+          {
+            "name": "N,N'-diethylformamide (DEF)",
+            "amount": "2mL"
+          },
+          {
+            "name": "EtOH",
+            "amount": "3.25 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "In(NO3)3·5H2O",
+            "amount": "0.0435mmol, 0.017g"
+          },
+          {
+            "name": "1,3,5-Tris(4-carboxyphenyl)benzene (BTB)",
+            "amount": "0.0435mmol, 0.019g"
+          },
+          {
+            "name": "oxalic acid (OA)",
+            "amount": "0.065mmol, 0.00585g"
+          }
+        ],
+        "equipment": "20 mL scintillation vial",
+        "heating_rate": "1.5°C/minute",
+        "cooling_rate": "1°C/minute"
+      }
+    },
+    {
+      "name": "10% Eu-SMOF-1",
+      "synthesis_conditions": {
+        "temperature": "115°C",
+        "time": "4 days",
+        "solvents": [
+          {
+            "name": "N,N'-diethylformamide (DEF)",
+            "amount": "2mL"
+          },
+          {
+            "name": "EtOH",
+            "amount": "3.25 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "In(NO3)3·H2O",
+            "amount": "0.0435mmol, 0.0017g"
+          },
+          {
+            "name": "EuCl3·6H2O",
+            "amount": "0.00435 mmol, 0.0016 g"
+          },
+          {
+            "name": "1,3,5-Tris(4-carboxyphenyl)benzene (BTB)",
+            "amount": "0.0435mmol, 0.0019g"
+          },
+          {
+            "name": "oxalic acid (OA)",
+            "amount": "0.065mmol, 0.00585g"
+          }
+        ],
+        "equipment": "20 mL scintillation vial",
+        "heating_rate": "1.5°C/minute",
+        "cooling_rate": "1°C/minute"
+      }
+    }
+  ]
+}

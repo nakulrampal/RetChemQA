@@ -1,0 +1,73 @@
+{
+  "materials": [
+    {
+      "material": "trans-octenoate 17",
+      "synthesis_conditions": {
+        "temperature": "0°C",
+        "solvents": ["tBuOH", "H2O", "tBuOMe"],
+        "amount_of_each_solvent": {
+          "tBuOH": "50 mL",
+          "H2O": "50 mL",
+          "tBuOMe": "3 x 100 mL"
+        },
+        "equipment": null,
+        "chemicals_used": ["AD-mix /3", "methanesulfonyl amide", "saturated Na2S03 solution"],
+        "amount_of_chemicals_used": {
+          "AD-mix /3": "21.0 g",
+          "methanesulfonyl amide": "1.43 g, 15.0 mmol, 1.0 equiv",
+          "saturated Na2S03 solution": "2 mL"
+        },
+        "time": "36 h",
+        "washing_method": "extracted with tBuOMe",
+        "drying_method": "dried over Na2S04, and the solvent was removed",
+        "yield": "2.20g, 92%",
+        "additional_information": "Flash-chromatography on silica gel yielded 19 as a colorless liquid."
+      }
+    },
+    {
+      "material": "hexakis(imidazo1-1-ylmethy1)benzene (hkimb; 1)",
+      "synthesis_conditions": {
+        "temperature": "60°C",
+        "solvents": ["THF", "water"],
+        "amount_of_each_solvent": {
+          "THF": "500 mL",
+          "water": "30 mL"
+        },
+        "equipment": null,
+        "chemicals_used": ["NaH", "imidazole", "hexakis(bromomethy1)benzene", "aqueous HBr"],
+        "amount_of_chemicals_used": {
+          "NaH": "3.159 g of a 60% dispersion in oil, 78.9mmol",
+          "imidazole": "4,241 g, 62.3 mmol",
+          "hexakis(bromomethy1)benzene": "5.815 g, 9.1 mmol",
+          "aqueous HBr": "until pH decreased to 6.5"
+        },
+        "time": "overnight",
+        "washing_method": "washed with THF",
+        "drying_method": "evaporated to dryness under reduced pressure",
+        "yield": "2.168g, 36%",
+        "additional_information": "Recrystallized from water to give hkimb.6H20."
+      }
+    },
+    {
+      "material": "Cd(hkimb)F2. 14 H,O",
+      "synthesis_conditions": {
+        "temperature": "80°C",
+        "solvents": ["water"],
+        "amount_of_each_solvent": {
+          "water": "100 mL"
+        },
+        "equipment": "enclosed vessel",
+        "chemicals_used": ["CdF2", "hkimb.6H20"],
+        "amount_of_chemicals_used": {
+          "CdF2": "22.1 mg, 0.147 mmol",
+          "hkimb.6H20": "82.8 mg, 0.124 mmol"
+        },
+        "time": "four days",
+        "washing_method": null,
+        "drying_method": null,
+        "yield": "26.0 mg, 22%",
+        "additional_information": "Colorless rhombohedral crystals separated."
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "materials": [
+    {
+      "name": "2-(CH3)2N-6-Si(CH3)3-phosphinine (3)",
+      "synthesis_conditions": {
+        "precursors": [
+          "3-(CH3)2N-2-pyrone (2)",
+          "(CH3)3Si-C≡P"
+        ],
+        "solvents": [],
+        "temperature": [],
+        "equipment": [],
+        "time": [],
+        "yield": [],
+        "washing_method": [],
+        "drying_method": [],
+        "comments": [
+          "Undergoes a [4+2] cycloaddition reaction.",
+          "Selective formation over possible regioisomer due to electronic and steric effects.",
+          "31P{1H} NMR spectrum resonance at δ(ppm) = 145.4."
+        ]
+      }
+    },
+    {
+      "name": "2-(CH3)2N-C5H4P (1)",
+      "synthesis_conditions": {
+        "precursors": [
+          "3-(CH3)2N-6-Si(CH3)3-phosphinine (3)"
+        ],
+        "solvents": [],
+        "temperature": [],
+        "equipment": [],
+        "time": [],
+        "yield": [],
+        "washing_method": [],
+        "drying_method": [],
+        "comments": [
+          "Converted from compound 3 in the presence of HCl·Et2O and subsequent treatment with triethylamine.",
+          "First phosphorus-containing N,N-dimethylaniline derivative.",
+          "31P{1H} NMR spectrum resonance at δ = 126.5 ppm."
+        ]
+      }
+    },
+    {
+      "name": "CuI complexes of 1 and 3",
+      "synthesis_conditions": {
+        "precursors": [
+          "2-(CH3)2N-6-Si(CH3)3-phosphinine (3)",
+          "2-(CH3)2N-C5H4P (1)",
+          "CuBr·S(CH3)2"
+        ],
+        "solvents": [
+          "dichloromethane",
+          "acetonitrile"
+        ],
+        "temperature": [],
+        "equipment": [],
+        "time": [],
+        "yield": [],
+        "washing_method": [],
+        "drying_method": [],
+        "comments": [
+          "Affords single species 4 and [CuBr(1)] (yields 5 in MeCN).",
+          "31P{1H} NMR spectrum resonance at δ = 120.6 ppm for 4, and δ = 87.1 ppm for [CuBr(1)].",
+          "Crystals of 4 obtained by slow crystallization from dichloromethane; crystals of 5 by diffusion of n-pentane into a saturated solution of [CuBr(1)] in acetonitrile."
+        ]
+      }
+    }
+  ]
+}

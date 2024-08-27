@@ -1,0 +1,40 @@
+{
+  "questions": [
+    {
+      "question": "What is the relationship between the solvent used in the synthesis of the 2D oxalate-based ferromagnet and the photoinduced spin-crossover temperatures?",
+      "answer": "The substitution of CH2Cl2 for other halogenated solvents in the synthesis of the 2D oxalate-based ferromagnet affects the photoinduced spin-crossover temperatures. The bulkiest CHBr3 solvent increases the interlayer separation and favors the high-spin state, leading to the lowest thermal and highest photoinduced spin-crossover temperatures. Conversely, the smallest volume solvent, CH2Cl2, results in the highest thermal and lowest photoinduced spin-crossover temperatures.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the structure of [Fe(sal2-trien)]+ complexes change with temperature, and what effect does this have on their magnetic properties?",
+      "answer": "The structure of [Fe(sal2-trien)]+ complexes changes with temperature, showing a distortion of the octahedral geometry. At higher temperatures, the complexes exhibit a Bailar twist with a higher distortion in the high-spin state. This structural change follows the same trend as the increase in the high-spin fraction, affecting the magnetic properties by transitioning from low-spin to high-spin states with temperature.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What factors may explain the observation of the LIESST effect in Fe(III) complexes?",
+      "answer": "Several factors may explain the LIESST effect in Fe(III) complexes, including the distortion of the octahedral geometry in their high-spin state, the presence of a rigid tridentate ligand, strong π–π interactions between complexes, and interactions with a bimetallic oxalate extended network. These factors contribute to the stabilization of the metastable high-spin state, preventing fast relaxation to the low-spin ground state.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the trigonal prismacity in [Fe(sal2-trien)]+ complexes, and how does it relate to the LIESST effect?",
+      "answer": "The trigonal prismacity in [Fe(sal2-trien)]+ complexes indicates the degree of distortion from a perfect octahedral geometry. A higher prismacity in the high-spin state suggests a significant structural change upon spin transition. While a large distortion is observed in complexes exhibiting the LIESST effect, it is not the sole factor, as similar distortions are found in complexes without the LIESST effect. The interactions with the oxalate network and possibly other structural factors also play crucial roles in stabilizing the photoinduced high-spin state.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the dilution of [Fe(sal2-trien)]+ complexes with diamagnetic Ga(III) complexes affect their spectroscopic characterization?",
+      "answer": "The dilution of [Fe(sal2-trien)]+ complexes with diamagnetic Ga(III) complexes reduces the optical density of the crystals, allowing for better penetration and propagation of light through the crystal. This enables a quantitative population of the high-spin state upon photoexcitation and facilitates spectroscopic characterization of the spin-crossover behavior on single crystals, which is not possible with pure Fe complexes due to their strong absorption in the visible region.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the relationship between the T(LIESST) and T(1/2) temperatures in Fe(III) complexes, and how does it vary across different complexes?",
+      "answer": "The relationship between T(LIESST) and T(1/2) temperatures in Fe(III) complexes is described by a linear relationship, T(LIESST) = T0 - 0.4T(1/2), where T0 is a constant specific to the ligand type. However, this relationship varies across different complexes, with [Fe(pap)2]+ complexes lying close to the line for tridentate ligands, while [Fe(sal2-trien)]+ complexes exhibit lower T(LIESST) values than expected. The variation suggests that factors such as ligand flexibility, distortion of octahedral geometry, and interactions with extended networks influence the T(LIESST) values.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

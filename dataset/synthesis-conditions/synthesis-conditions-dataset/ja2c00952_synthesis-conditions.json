@@ -1,0 +1,89 @@
+{
+  "UiO-66-defect": {
+    "synthesis": {
+      "chemicals_used": [
+        {
+          "name": "Terephthalic acid",
+          "amount": "125 mg"
+        },
+        {
+          "name": "Zirconium tetrachloride",
+          "amount": "167 mg"
+        },
+        {
+          "name": "N,N-dimethylformamide (DMF)",
+          "amount": "50 mL"
+        },
+        {
+          "name": "Formic acid",
+          "amount": "3.5 mL"
+        }
+      ],
+      "equipment": "Teflon lined bomb",
+      "temperature": "120 °C",
+      "time": "24 h",
+      "washing_method": "DMF and acetone",
+      "drying_method": "Dynamic vacuum"
+    }
+  },
+  "UiO-66-CuII": {
+    "synthesis": {
+      "chemicals_used": [
+        {
+          "name": "UiO-66-defect",
+          "amount": "500 mg"
+        },
+        {
+          "name": "CuCl2",
+          "amount": "500 mg"
+        },
+        {
+          "name": "DMF",
+          "amount": "10 mL"
+        }
+      ],
+      "equipment": "Sonication and heating",
+      "sonication_time": "1 min",
+      "temperature": "85 °C",
+      "time": "24 h",
+      "washing_method": "DMF and acetone",
+      "drying_method": "Dynamic vacuum",
+      "additional_steps": "Reduction in tube furnace with 5% H2 flow at 250 °C for 2 h to obtain UiO-66-CuI",
+      "yield": {
+        "Cu_in_UiO-66-CuII": "2.62%",
+        "Cu_in_UiO-66-CuI": "2.71%"
+      }
+    }
+  },
+  "characterization": {
+    "PXRD": "Philips X’pert X-ray diffractometer",
+    "N2_adsorption_isotherms": "Tristar II PLUS instrument at 77 K",
+    "DRIFTS": "Shimadzu IRAffinity-1S IR Spectrometer with Praying Mantis attachment",
+    "UV-vis_spectroscopy": "Shimadzu UV 2600 spectrophotometer",
+    "ICP-OES": "Thermo Scientific iCAP 6300 Duo",
+    "XAS": {
+      "equipment": "B18 beamline at the Diamond Light Source",
+      "details": "Measurements in transmission mode using QEXAFS setup with Si(111) double crystal monochromators for Cu edge"
+    },
+    "in_situ_gas_loaded_synchrotron_FTIR_micro-spectroscopy": {
+      "equipment": "Bruker Hyperion 3000 microscope and Bruker Vertex 80V Fourier Transform IR interferometer",
+      "details": "Measurements at MIRIAM beamline, Diamond Light Source"
+    },
+    "DFT_simulations": "CP2K software",
+    "EPR_studies": "J. Young X-band EPR tube, measurements at different temperatures"
+  },
+  "gas_adsorption_isotherms_and_breakthrough_experiments": {
+    "Qst_calculation": "Van’t Hoff isochore method",
+    "breakthrough_experiments": {
+      "equipment": "Fixed-bed reactors",
+      "temperature": "298 K",
+      "gas_mixture": "630 ppm NH3 diluted in He",
+      "flow_rate": "100 mL min-1"
+    },
+    "NH3-TPD": {
+      "procedure": "Stream of NH3 diluted in He passed through activated sample, followed by pure He flush",
+      "temperature_range": "30 °C to 300 °C",
+      "heating_rate": "5 °C min-1"
+    }
+  }
+}

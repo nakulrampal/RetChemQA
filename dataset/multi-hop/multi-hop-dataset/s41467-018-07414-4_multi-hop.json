@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the synthesis method used for MIP-202(Zr) and how does it compare to other MOFs in terms of environmental friendliness?",
+      "answer": "MIP-202(Zr) was synthesized by heating a mixture of ZrCl4 and L-aspartic acid in water for several hours under reflux with ambient pressure, followed by activation with green solvents like water and ethanol. This method is environmentally friendly, cost-effective, and scalable, contrasting with most other highly proton conductive MOFs that involve toxic chemicals, inconvenient ligand preparation, and are not scalable.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the proton conductivity of MIP-202(Zr) under humid conditions compare to the commercial benchmark Nafion?",
+      "answer": "MIP-202(Zr) demonstrates excellent proton conductivity up to 0.011 S cm−1 at 363 K and under 95% relative humidity, making it one of the best proton conductive MOF materials reported and a practical alternative to the commercial benchmark Nafion for ion-exchange membrane applications.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What role do the NH3+ groups and Cl- ions play in the proton conduction mechanism of MIP-202(Zr)?",
+      "answer": "The NH3+ groups act as proton sources, and along with Cl- ions, they are involved in forming a well-ordered hydrogen-bonded network with water molecules within the pores of MIP-202(Zr). This network is critical for the proton propagation, supporting a Grotthus-like mechanism for proton transport.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of MIP-202(Zr) requires high temperatures and pressures similar to other Zr-MOFs.",
+      "answer": "False. MIP-202(Zr) is synthesized under reflux in water at ambient pressure, which is a milder and more environmentally friendly condition compared to the high temperatures and pressures often required for other Zr-MOFs.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental techniques were used to characterize the proton conductivity of MIP-202(Zr)?",
+      "answer": "AC impedance spectroscopy was employed to assess the proton conductivity of MIP-202(Zr), with measurements carried out on both the anhydrous solid and the solid equilibrated under 95% relative humidity.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of water affect the proton conductivity of MIP-202(Zr)?",
+      "answer": "The presence of water drastically increases the proton conductivity of MIP-202(Zr) by nine orders of magnitude compared to its anhydrous state, indicating that water plays a crucial role in facilitating proton transport within the framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: MIP-202(Zr) demonstrates a decrease in proton conductivity over a period of one week under testing conditions.",
+      "answer": "False. MIP-202(Zr) maintains its conductive performances well over one week of experiments performed at 363 K and 95% RH, proving the robustness of its structure under operating conditions.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the NH3+/Cl- presence in the pore to the proton conduction behavior of MIP-202(Zr)?",
+      "answer": "The presence of NH3+/Cl- in the pores is critical for the proton conduction behavior of MIP-202(Zr), as it supports the formation of a hydrogen-bonded network that facilitates proton transport, demonstrating the importance of these functional groups in the material's high proton conductivity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of MIP-202(Zr) does not involve any green chemistry principles.",
+      "answer": "False. The synthesis of MIP-202(Zr) involves green chemistry principles, using water as the solvent and employing a simple heating method under reflux, making it environmentally friendly and sustainable.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental evidence supports the Grotthus-like mechanism for proton transport in MIP-202(Zr)?",
+      "answer": "The Grotthus-like proton conduction mechanism in MIP-202(Zr) is supported by molecular simulations showing a well-ordered hydrogen-bonded network involving NH3+ groups, Cl- ions, and water molecules, as well as the low activation energy of 0.22 eV estimated from conductivity experiments.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "materials": [
+    {
+      "material_name": "[Co2(bipy)3(SO4)2(H2O)2](bipy)(CH3OH)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "ambient",
+          "solvents": [
+            {
+              "name": "methanol",
+              "amount": "4 ml total (2 ml for Co(SO4)∙7H2O solution and 2 ml for 4,4′-bipyridine solution)"
+            }
+          ],
+          "equipment": "sample vial with a screw cap",
+          "chemicals_used": [
+            {
+              "name": "Co(SO4)∙7H2O",
+              "amount": "0.5 ml of a 0.250 M solution"
+            },
+            {
+              "name": "4,4′-bipyridine",
+              "amount": "0.5 ml of a 2.5 M solution"
+            }
+          ],
+          "time": "several weeks",
+          "yield": "0.22g, 45% based on Co2+",
+          "other_conditions": "metal/ligand ratio of 1/10"
+        }
+      ]
+    },
+    {
+      "material_name": "1′",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "368 K for 1 hour",
+          "equipment": "single crystal x-ray diffraction",
+          "description": "Heating a single crystal of 1 to 368 K for 1 hour resulted in the crystal changing color from pink to purple, without the loss of crystallinity or diffracting power, to afford the desolvated material 1′."
+        }
+      ]
+    },
+    {
+      "material_name": "1″",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "298 K",
+          "description": "After the crystal of 1′ was cooled back to 298 K and exposed to the laboratory atmosphere, water was taken up to give a rehydrated phase, 1″; the water displaces the substituted ligands at the chain sites in 1′ to return the structure to that of 1."
+        }
+      ]
+    }
+  ]
+}

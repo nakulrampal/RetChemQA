@@ -1,0 +1,42 @@
+{
+  "materials": [
+    {
+      "material_id": "1",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "140 °C",
+          "time": "72 h",
+          "chemicals_used": [
+            "4-pyridylbenzoate (0.224 g, 1 mmol)",
+            "Cu(NO3)2·3H2O (0.162 g, 0.67 mmol)",
+            "iodine (0.160 g, 0.63 mmol)",
+            "H2O (15.0 mL)"
+          ],
+          "equipment": "23 mL Teflon-lined autoclave",
+          "yield": "32% (based on Cu)",
+          "washing_method": "water",
+          "drying_method": "ambient temperature"
+        },
+        {
+          "step": 2,
+          "solvent": "dry methanol",
+          "time": "30 days",
+          "method": "immersion of black crystals of 1 in dry methanol in a 25 mL glass bottle with three times renewal of the methanol repeatedly every day",
+          "product": "[Cu6(pybz)8(OH)2](I-)2·3.5CH3OH (1′)"
+        }
+      ]
+    },
+    {
+      "material_id": "1''",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "method": "removing methanol guest of 1′ by heating and then soaking the nonsolvated phase in a saturated cyclohexane solution of iodine",
+          "product": "[Cu6(pybz)8(OH)2](I-)2·xI2 (1″)",
+          "notes": "The maximum value of x was in the range of 2.2–2.6 depending on individual experiments"
+        }
+      ]
+    }
+  ]
+}

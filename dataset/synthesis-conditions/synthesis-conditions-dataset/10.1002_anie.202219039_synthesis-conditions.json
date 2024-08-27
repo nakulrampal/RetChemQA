@@ -1,0 +1,44 @@
+{
+  "materials": [
+    {
+      "name": "LMA-1 [Cd(BTCP)(DPT)2]",
+      "synthesis_conditions": {
+        "solvents": ["ethanol", "N,N-dimethylformamide (DMF)"],
+        "chemicals_used": ["Cd(NO3)2·4H2O", "BTCP", "H2DPT"],
+        "method": "solvothermal reaction",
+        "post_synthesis_treatments": [
+          {
+            "treatment": "soaking in dichloromethane (DCM)",
+            "resulting_phase": "LMA-1-β",
+            "observations": ["rapid striation", "formation of a new phase"]
+          },
+          {
+            "treatment": "application of heat or vacuum",
+            "resulting_phase": "LMA-1-γ1",
+            "observations": ["additional structural transformation to non-porous form"]
+          },
+          {
+            "treatment": "irradiation with UV light",
+            "resulting_phase": "LMA-1-γ1-UV",
+            "observations": ["color change to dark blue", "formation of a C=C bond between two reactive carbon atoms in the BTCP linker"]
+          }
+        ]
+      }
+    },
+    {
+      "name": "LMA-2 [Cd(BTCP)(FDPT)2]",
+      "synthesis_conditions": {
+        "solvents": ["ethanol", "N,N-dimethylformamide (DMF)"],
+        "chemicals_used": ["Cd(NO3)2·4H2O", "BTCP", "H2FDPT"],
+        "method": "solvothermal reaction",
+        "post_synthesis_treatments": [
+          {
+            "treatment": "application of heat or vacuum",
+            "resulting_phase": "LMA-2-γ1",
+            "observations": ["structural transformation to non-porous form"]
+          }
+        ]
+      }
+    }
+  ]
+}

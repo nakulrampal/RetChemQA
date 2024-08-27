@@ -1,0 +1,88 @@
+{
+  "SBMOF-2:H2O": {
+    "synthesis_method": {
+      "solvents": "ethanol (95%)",
+      "solvent_amounts": "12 gram",
+      "chemicals_used": [
+        {
+          "name": "calcium chloride (CaCl2)",
+          "amount": "0.25 mmoles (0.027g)",
+          "purity": "96%"
+        },
+        {
+          "name": "1,2,4,5-Tetrakis(4-carboxyphenyl)benzene (TCPB)",
+          "amount": "0.05 mmoles (0.03g)",
+          "purity": "98%"
+        }
+      ],
+      "equipment": "Teflon-lined 23-mL Parr stainless steel autoclaves",
+      "temperature": "373 K",
+      "time": "3 days",
+      "washing_method": "washed with ethanol",
+      "yield": "50% based on the linker, 0.02g"
+    },
+    "structure": {
+      "crystal_system": "triclinic",
+      "space_group": "P-1",
+      "calcium_coordination": "isolated CaO6 octahedra",
+      "linker_coordination": "monodentate mode",
+      "uncoordinated_groups": "-OH groups on carboxylates in type-II channels"
+    },
+    "thermogravimetry_analysis": {
+      "equipment": "STA 449 C Jupiter Netzsch Instrument",
+      "sample_preparation": "powder samples placed in alumina crucible",
+      "temperature_range": "298 K to 1023 K",
+      "heating_rate": "10 K/min",
+      "atmosphere": "N2"
+    },
+    "gas_loading_and_adsorption_analysis": {
+      "activation_temperature": "513 K",
+      "activation_time": "5 hours",
+      "vacuum": "dynamic vacuum (10-5 bar)",
+      "gas_flow": "Xe/Kr flowing into the flask",
+      "crystal_coating": "Paratone oil",
+      "adsorption_analyzer": "Micromeritics ASAP 2020 volumetric adsorption analyzer"
+    },
+    "single_crystal_and_powder_x-ray_crystallography": {
+      "equipment": "four-circle kappa Oxford Gemini diffractometer",
+      "detector": "Atlas detector",
+      "wavelength": "0.71073/1.54184Å",
+      "temperature": "100 K (SBMOF-2:H2O at room temperature)",
+      "data_collection": "1°ω-scans",
+      "analysis_software": "CrysAlisPRO software",
+      "absorption_correction": "multi-scan method",
+      "hydrogen_atoms": "added using geometrical constraints (HFIX command)",
+      "electron_density_maps": "indicate strong ordering of Xe and Kr inside the pores"
+    },
+    "breakthrough_experiments": {
+      "sample_amount": "130 mg",
+      "column_activation": "513 K in flowing He overnight",
+      "gas_mixture": "5% Kr, 5% Xe, and 90% N2 by volume",
+      "breakthrough_times": "Kr after ∼20 min, followed by Xe after ∼40 min"
+    }
+  },
+  "calculations": {
+    "langmuir_freundlich_fitting": {
+      "temperatures": "278 K, 288 K, and 298 K",
+      "fit_parameters": "provided in Table S2"
+    },
+    "isosteric_heat_of_adsorption": {
+      "calculation_method": "Clausius-Clapeyron equation",
+      "figure_reference": "Figure 2B"
+    },
+    "iast_calculation": {
+      "theory_used": "Ideal Adsorbed Solution Theory (IAST) of Myers and Prausnitz",
+      "selectivity_definition": "Equation (4)"
+    },
+    "transient_breakthroughs_in_fixed_bed_adsorbers": {
+      "factors_affecting_separation": [
+        "adsorption selectivity",
+        "uptake capacity",
+        "intra-crystalline diffusivities"
+      ],
+      "simulation_methodology": "described in earlier publications",
+      "dimensionless_time": "τ",
+      "productivity_comparison": "Figure S13"
+    }
+  }
+}

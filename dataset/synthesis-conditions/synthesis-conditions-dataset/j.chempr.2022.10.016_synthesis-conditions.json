@@ -1,0 +1,119 @@
+{
+  "materials": [
+    {
+      "name": "BTB-MOF-24",
+      "synthesis_conditions": {
+        "temperature": "185°C",
+        "solvents": "DMF containing 2 μL formic acid",
+        "equipment": "Pyrex tube, flame-sealed under argon atmosphere",
+        "chemicals_used": [
+          {
+            "chemical": "Iron(II) chloride anhydrous (FeCl2)",
+            "amount": "5 mg",
+            "purity": "99%"
+          },
+          {
+            "chemical": "Benzene-1,3,5-tricarboxylic acid (H3BTB)",
+            "amount": "3 mg",
+            "purity": "95%"
+          }
+        ],
+        "yield": "50%",
+        "washing_method": [
+          "DMF (5 × 2 mL)",
+          "methanol (5 × 2 mL)",
+          "dichloromethane (5 × 2 mL)"
+        ],
+        "drying_method": "Dynamic vacuum at room temperature"
+      },
+      "characterization_methods": [
+        {
+          "method": "Single Crystal X-ray Diffraction",
+          "details": {
+            "temperature": "100 K",
+            "wavelength": "1.54178 Å",
+            "crystal_system": "Monoclinic",
+            "space_group": "P21/c",
+            "unit_cell_dimensions": {
+              "a": "16.2231(2) Å",
+              "b": "30.0612(4) Å",
+              "c": "16.2615(3) Å",
+              "beta": "101.182(2)"
+            },
+            "volume": "7780.0(2) Å3",
+            "z": "4",
+            "density": "1.115 g cm-3",
+            "absorption_coefficient": "4.901 mm-1",
+            "f(000)": "2698",
+            "crystal_size": "0.1 × 0.05 × 0.045 mm",
+            "theta_range": "2.9320 to 73.2430°",
+            "index_ranges": "-19 ≤ h ≤ 20, -27 ≤ k ≤ 37, -19 ≤ l ≤ 19",
+            "reflections_collected": "54418",
+            "independent_reflections": "14899 [Rint= 0.0527]",
+            "completeness": "0.986",
+            "data_restraints_parameters": "14899 / 31 / 850",
+            "s_gof": "1.049",
+            "r1_wR2": {
+              "i_greater_than_2sigma_i": "0.0796, 0.2293",
+              "all_data": "0.1077, 0.2455"
+            },
+            "largest_diff_peak_and_hole": "0.879 and –0.784",
+            "ccdc_number": "2160411"
+          }
+        },
+        {
+          "method": "Powder X-ray Diffraction",
+          "details": "STOE diffractometer"
+        },
+        {
+          "method": "Thermal Gravimetric Analysis",
+          "details": "Gas mixture of O2 (20%) and N2 (80%) with temperature ramp of 5 °C min-1"
+        },
+        {
+          "method": "Fourier Transform Infrared Spectroscopy",
+          "details": "Thermo Scientific Nicolet IS5 spectrometer using ATR protocol"
+        }
+      ],
+      "guest_immobilization": [
+        {
+          "guest_compounds": [
+            "n-heptane (1)",
+            "Cyclohexane (2)",
+            "Decaline (3)",
+            "3-methyl-2-cyclohexenone (4)",
+            "Benzophenone (5)",
+            "methyl-o-anisate (6)",
+            "dibenzyl ether (7)",
+            "1,2,3-trimethoxybenzene (8)",
+            "2-napthol (9)",
+            "Dibenzothiophene (10)",
+            "2-methylquinoline (11)",
+            "6-chloro-2-methylquinoline (12)",
+            "2-oxindole (13)",
+            "6-chloro-2-oxindole (14)",
+            "1-phenyloxindole (15)",
+            "N-methylmaleimide (16)",
+            "O-acetyl oxime (17)",
+            "Tegafur (18)",
+            "1,12-dibromododecane (19)",
+            "Tetraglyme (20)",
+            "Trans,trans-farnesol (21)",
+            "Squalene (22)",
+            "Methyl oleate (23)",
+            "Methyl linoleate (24)",
+            "Methyl α-linolenate (25)",
+            "Docosahexaenoic acid (DHA) ethyl ester (26)",
+            "Oleic acid (27)",
+            "(–)-citronellal (28)",
+            "(±)-citronellal",
+            "Methyl ricinolate (29)"
+          ],
+          "soaking_solvent": "DMF, MeOH, or EtOH",
+          "soaking_time": "1 to 9 hours",
+          "sample_amounts": "Varies per compound",
+          "exchanging_solvent": "DMF/MeOH, DMF, DMF/EtOH"
+        }
+      ]
+    }
+  ]
+}

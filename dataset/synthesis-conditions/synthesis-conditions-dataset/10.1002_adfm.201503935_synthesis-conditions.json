@@ -1,0 +1,79 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "temperature": "35°C",
+        "solvents": [
+          {
+            "name": "N, N-dimethylformamide (DMF)",
+            "amount": null
+          },
+          {
+            "name": "H2O",
+            "amount": null
+          }
+        ],
+        "equipment": null,
+        "chemicals_used": [
+          {
+            "name": "(2E,2'E)-3,3'-(anthracene-9,10-diyl)diacrylic acid (H2L)"
+          },
+          {
+            "name": "Cd(NO3)2·4H2O"
+          }
+        ],
+        "time": null,
+        "washing_method": null,
+        "drying_method": null,
+        "yield": null,
+        "additional_information": "The solvothermal reaction yielded yellow sheet-like crystals of [Cd2L2(DMF)2]·3H2O."
+      }
+    },
+    {
+      "name": "1 (Chemiluminescence study)",
+      "synthesis_conditions": {
+        "temperature": [
+          "35°C",
+          "15°C",
+          "65°C",
+          "80°C"
+        ],
+        "solvents": null,
+        "equipment": null,
+        "chemicals_used": [
+          {
+            "name": "bis[3,4,6-trichloro-2-(pentyloxycarbonyl)phenyl] oxalate (CPPO)",
+            "amount": [
+              "8 mg/mL",
+              "14 mg/mL",
+              "20 mg/mL"
+            ]
+          },
+          {
+            "name": "tert-BuOH",
+            "amount": [
+              "4%",
+              "2%",
+              "8%"
+            ]
+          },
+          {
+            "name": "oxidants",
+            "details": [
+              "H2O2",
+              "TBHP (tert-Butyl hydroperoxide, 70% aqueous solution)",
+              "mCPBA (m-Chloroperoxybenzoic acid, 85% in purity)",
+              "PhIO"
+            ]
+          }
+        ],
+        "time": null,
+        "washing_method": null,
+        "drying_method": null,
+        "yield": null,
+        "additional_information": "Different POCL conditions were tested, showing variations in intensity and lifetime of chemiluminescence."
+      }
+    }
+  ]
+}

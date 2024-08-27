@@ -1,0 +1,195 @@
+{
+  "materials": [
+    {
+      "material_id": "1",
+      "chemical_formula": "C42 H22 Cu4 O24",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis of octacarboxylate ligand (H8L1)",
+          "temperature": "100°C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "250mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "dimethyl 5-hydroxyisophthalate",
+              "amount": "12.7g, 0.06mol"
+            },
+            {
+              "name": "KI",
+              "amount": "74.0mg, 4.40mol"
+            },
+            {
+              "name": "K2CO3",
+              "amount": "26.0g, 0.260mol"
+            },
+            {
+              "name": "1,2,4,5-tetrakis(bromomethyl)benzene",
+              "amount": "2.88g, 0.008mol"
+            }
+          ],
+          "time": "1 hour",
+          "yield": "6.0g, 96.9%"
+        },
+        {
+          "step": "Hydrolysis to form H8L1",
+          "temperature": "50°C",
+          "solvents": [
+            {
+              "name": "methanol",
+              "amount": "250mL"
+            },
+            {
+              "name": "NaOH solution",
+              "amount": "6g in 60mL H2O"
+            }
+          ],
+          "time": "12 hours",
+          "yield": "5.0g, 91.4%"
+        },
+        {
+          "step": "Solvothermal reaction",
+          "temperature": "115°C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "3mL"
+            },
+            {
+              "name": "water",
+              "amount": "2mL"
+            },
+            {
+              "name": "pyridine",
+              "amount": "0.5mL"
+            },
+            {
+              "name": "HNO3 (3.5M in DMF)",
+              "amount": "1mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "H8L1",
+              "amount": "0.034mmol, 29mg"
+            },
+            {
+              "name": "Cu(NO3)2.2.5H2O",
+              "amount": "0.07mmol, 16mg"
+            }
+          ],
+          "time": "3 days",
+          "drying_method": "N2 flow",
+          "washing_method": "Decanting using a syringe"
+        }
+      ]
+    },
+    {
+      "material_id": "2",
+      "chemical_formula": "C60 H30 Cu4 O38",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis of hexacarboxylate ligand (H12L2)",
+          "temperature": "Similar to H8L1 synthesis",
+          "chemicals_used": [
+            {
+              "name": "1,2,3,4,5,6-hexakis(bromomethyl)benzene",
+              "note": "Replace 1,2,4,5-tetrakis(bromomethyl)benzene with this"
+            },
+            {
+              "name": "dimethyl 5-hydroxyisophthalate",
+              "note": "Use excess"
+            }
+          ],
+          "yield": "5.0g, 88.8%"
+        },
+        {
+          "step": "Solvothermal reaction",
+          "temperature": "115°C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "3mL"
+            },
+            {
+              "name": "water",
+              "amount": "1mL"
+            },
+            {
+              "name": "pyridine",
+              "amount": "0.5mL"
+            },
+            {
+              "name": "HNO3 (3.5M in DMF)",
+              "amount": "1mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "H12L2",
+              "amount": "0.034mmol, 42mg"
+            },
+            {
+              "name": "Cu(NO3)2.2.5H2O",
+              "amount": "0.07mmol, 16mg"
+            }
+          ],
+          "time": "3 days",
+          "drying_method": "N2 flow",
+          "washing_method": "Decanting using a syringe"
+        }
+      ]
+    },
+    {
+      "material_id": "3",
+      "chemical_formula": "C69 H45 Cu4 N9 O24",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis of azo-linked ligand (H8L3)",
+          "temperature": "Similar to H8L1 synthesis",
+          "chemicals_used": [
+            {
+              "name": "dimethyl 5-(4-hydroxyphenylazo)isophthalate",
+              "note": "Replace dimethyl 5-hydroxyisophthalate with this"
+            }
+          ],
+          "yield": "4.0g, 49.2%"
+        },
+        {
+          "step": "Solvothermal reaction",
+          "temperature": "115°C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "1mL"
+            },
+            {
+              "name": "pyridine",
+              "amount": "0.5mL"
+            },
+            {
+              "name": "HNO3 (3.5M in DMF)",
+              "amount": "1mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "H8L3",
+              "amount": "0.034mmol, 40mg"
+            },
+            {
+              "name": "Cu(NO3)2.2.5H2O",
+              "amount": "0.07mmol, 16mg"
+            }
+          ],
+          "time": "3 days",
+          "drying_method": "N2 flow",
+          "washing_method": "Decanting using a syringe"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "materials": [
+    {
+      "name": "A1",
+      "synthesis_conditions": {
+        "temperature": "130 °C",
+        "time": "3 days",
+        "solvents": "H2O",
+        "amount_of_solvent": "12 mL",
+        "equipment": "Teflon-lined stainless steel vessel",
+        "chemicals_used": [
+          {
+            "name": "5-nitro-1,2,3-benzenetricarboxylic acid (H3nbta)",
+            "amount": "0.1 mmol, 25.5 mg"
+          },
+          {
+            "name": "1,3-bis(1,2,4-triazol-1-yl)propane (1,3-btp)",
+            "amount": "0.1 mmol, 17.8 mg"
+          },
+          {
+            "name": "Cu(OAc)2·H2O",
+            "amount": "0.1 mmol, 19.8 mg"
+          }
+        ],
+        "yield": "18.5 mg, 51% (based on Cu)",
+        "drying_method": "room temperature over 24 h",
+        "washing_method": "Not specified",
+        "additional_information": "Elemental analysis (%): calcd for C16H17CuN7O10 C 36.20, H 3.23, N 18.47; found C 36.29, H 3.15, N 18.40. IR (cm-1): 3118 m, 1723 s, 1574 s, 1537 s, 1432 m, 1338 s, 1132 m, 995 m, 734 s, 665 m."
+      }
+    }
+  ]
+}

@@ -1,0 +1,454 @@
+{
+  "materials": [
+    {
+      "name": "lithium diethyl(2,2,6,6-tetramethylpiperidido)zincate",
+      "label": "6",
+      "synthesis_conditions": {
+        "temperature": "-78 ºC to room temperature",
+        "solvents": [
+          {
+            "name": "hexane",
+            "amount": "1.25 mL"
+          },
+          {
+            "name": "toluene",
+            "amount": "0.91 mL, 1.1 M"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "2,2,6,6-tetramethylpiperidine (HTMP)",
+            "amount": "0.16 mL, 1.0 mmol"
+          },
+          {
+            "name": "n-BuLi",
+            "amount": "0.63 mL, 1.6 M in hexanes, 1.0 mmol"
+          },
+          {
+            "name": "Et2Zn",
+            "amount": "0.91 mL, 1.1 M in toluene, 1.0 mmol"
+          }
+        ],
+        "yield": "37 %, 40 %, 92 %",
+        "melting_point": "142-144 ºC",
+        "NMR_data": {
+          "1H_NMR": [
+            {
+              "chemical_shift": "1.79",
+              "multiplicity": "br.",
+              "protons_count": 2,
+              "description": "CH2"
+            },
+            {
+              "chemical_shift": "1.67",
+              "multiplicity": "br., t",
+              "protons_count": 6,
+              "description": "CH2Me"
+            },
+            {
+              "chemical_shift": "1.34",
+              "multiplicity": "br.",
+              "protons_count": 4,
+              "description": "CCH2"
+            },
+            {
+              "chemical_shift": "1.21",
+              "multiplicity": "s",
+              "protons_count": 12,
+              "description": "CMe"
+            },
+            {
+              "chemical_shift": "0.25",
+              "multiplicity": "q",
+              "protons_count": 4,
+              "description": "MeCH2"
+            }
+          ],
+          "13C_NMR": [
+            {
+              "chemical_shift": "52.5, 52.2",
+              "description": "CMe"
+            },
+            {
+              "chemical_shift": "42.6, 40.2, 38.0",
+              "description": "CH2"
+            },
+            {
+              "chemical_shift": "36.8",
+              "description": "CMe"
+            },
+            {
+              "chemical_shift": "19.6, 17.4",
+              "description": "CH2"
+            },
+            {
+              "chemical_shift": "12.3",
+              "description": "ZnCH2Me"
+            },
+            {
+              "chemical_shift": "5.5",
+              "description": "ZnCH2Me"
+            }
+          ]
+        },
+        "crystallographic_data": {
+          "formula": "C13H28LiNZn",
+          "molecular_weight": "270.67",
+          "space_group": "P2(1)/n",
+          "unit_cell_dimensions": {
+            "a": "6.7690(1) Å",
+            "b": "15.6651(3) Å",
+            "c": "14.3623(3) Å",
+            "beta": "97.6867(8)°"
+          },
+          "volume": "1509.25(5) Å3",
+          "Z": 4,
+          "density_calculated": "1.191 g cm–3",
+          "absorption_coefficient": "1.603 mm–1",
+          "temperature": "180(2)K",
+          "R": "0.0267",
+          "wR2": "0.0709",
+          "goodness_of_fit": "1.032"
+        }
+      }
+    },
+    {
+      "name": "lithium ethylbis(N,N-diisopropylnaphthamido-2)zincate-bis(THF) complex",
+      "label": "7",
+      "synthesis_conditions": {
+        "temperature": "-78 ºC to room temperature",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "2 mL"
+          },
+          {
+            "name": "toluene",
+            "amount": "0.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "N,N-diisopropylnaphthamide",
+            "amount": "0.128 g, 0.5 mmol"
+          },
+          {
+            "name": "lithium zincate 6",
+            "amount": "0.136 g, 0.5 mmol"
+          }
+        ],
+        "yield": "47 %",
+        "melting_point": "152-153 ºC",
+        "NMR_data": {
+          "1H_NMR": [
+            {
+              "chemical_shift": "8.44",
+              "multiplicity": "d",
+              "protons_count": 0.2,
+              "description": "C10H6#C"
+            },
+            {
+              "chemical_shift": "8.42",
+              "multiplicity": "d",
+              "protons_count": 1,
+              "description": "C10H6#A"
+            },
+            {
+              "chemical_shift": "8.37",
+              "multiplicity": "d",
+              "protons_count": 0.8,
+              "description": "C10H6#B"
+            },
+            {
+              "chemical_shift": "7.82-7.62",
+              "multiplicity": "m",
+              "protons_count": 6,
+              "description": "C10H6#A-C"
+            },
+            {
+              "chemical_shift": "7.30-7.19",
+              "multiplicity": "m",
+              "protons_count": 4,
+              "description": "C10H6#A-C"
+            },
+            {
+              "chemical_shift": "3.97",
+              "multiplicity": "sept.",
+              "protons_count": 0.8,
+              "description": "CHMe#B"
+            },
+            {
+              "chemical_shift": "3.86",
+              "multiplicity": "sept.",
+              "protons_count": 0.2,
+              "description": "CHMe#C"
+            },
+            {
+              "chemical_shift": "3.54",
+              "multiplicity": "sept.",
+              "protons_count": 1,
+              "description": "CHMe#A"
+            },
+            {
+              "chemical_shift": "3.45",
+              "multiplicity": "m",
+              "protons_count": 8,
+              "description": "THF"
+            },
+            {
+              "chemical_shift": "3.38",
+              "multiplicity": "sept.",
+              "protons_count": 0.2,
+              "description": "CHMe#C"
+            },
+            {
+              "chemical_shift": "3.20",
+              "multiplicity": "sept.",
+              "protons_count": 0.8,
+              "description": "CHMe#B"
+            },
+            {
+              "chemical_shift": "2.78",
+              "multiplicity": "sept.",
+              "protons_count": 1,
+              "description": "CHMe#A"
+            },
+            {
+              "chemical_shift": "1.87",
+              "multiplicity": "d",
+              "protons_count": 0.6,
+              "description": "CHMe#C"
+            },
+            {
+              "chemical_shift": "1.66",
+              "multiplicity": "d",
+              "protons_count": 0.6,
+              "description": "CHMe#C"
+            },
+            {
+              "chemical_shift": "1.55",
+              "multiplicity": "br.",
+              "protons_count": 3,
+              "description": "MeCH2Zn"
+            },
+            {
+              "chemical_shift": "1.44",
+              "multiplicity": "d",
+              "protons_count": 3,
+              "description": "CHMe#A"
+            },
+            {
+              "chemical_shift": "1.40",
+              "multiplicity": "d",
+              "protons_count": 2.4,
+              "description": "CHMe#B"
+            },
+            {
+              "chemical_shift": "1.38",
+              "multiplicity": "m",
+              "protons_count": 8,
+              "description": "THF"
+            },
+            {
+              "chemical_shift": "1.22",
+              "multiplicity": "d",
+              "protons_count": 2.4,
+              "description": "CHMe#B"
+            },
+            {
+              "chemical_shift": "1.10",
+              "multiplicity": "d",
+              "protons_count": 2.4,
+              "description": "CHMe#B"
+            },
+            {
+              "chemical_shift": "1.03",
+              "multiplicity": "d",
+              "protons_count": 0.6,
+              "description": "CHMe#C"
+            },
+            {
+              "chemical_shift": "0.82",
+              "multiplicity": "d",
+              "protons_count": 0.6,
+              "description": "CHMe#C"
+            },
+            {
+              "chemical_shift": "0.66",
+              "multiplicity": "d",
+              "protons_count": 3,
+              "description": "CHMe#A"
+            },
+            {
+              "chemical_shift": "0.64",
+              "multiplicity": "d",
+              "protons_count": 2.4,
+              "description": "CHMe#B"
+            },
+            {
+              "chemical_shift": "0.56",
+              "multiplicity": "br.",
+              "protons_count": 2,
+              "description": "MeCH2Zn"
+            },
+            {
+              "chemical_shift": "0.45",
+              "multiplicity": "d",
+              "protons_count": 3,
+              "description": "CHMe#A"
+            },
+            {
+              "chemical_shift": "0.31",
+              "multiplicity": "d",
+              "protons_count": 3,
+              "description": "CHMe#A"
+            }
+          ]
+        },
+        "crystallographic_data": {
+          "formula": "C44H61LiN2O4Zn",
+          "molecular_weight": "754.26",
+          "space_group": "P2(1)/n",
+          "unit_cell_dimensions": {
+            "a": "12.8642(2) Å",
+            "b": "18.0785(3) Å",
+            "c": "18.0714(3) Å",
+            "beta": "92.010(1)°"
+          },
+          "volume": "4200.20(12) Å3",
+          "Z": 4,
+          "density_calculated": "1.193 g cm–3",
+          "absorption_coefficient": "0.626 mm–1",
+          "temperature": "180(2)K",
+          "R": "0.0496",
+          "wR2": "0.1324",
+          "goodness_of_fit": "1.030"
+        }
+      }
+    },
+    {
+      "name": "lithium tris(N,N-diisopropylbenzamido-2)zincate-THF complex",
+      "label": "8",
+      "synthesis_conditions": {
+        "temperature": "-78 ºC to room temperature",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "3 mL"
+          },
+          {
+            "name": "hexane",
+            "amount": "0.3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "N,N-diisopropylbenzamide",
+            "amount": "0.103 g, 0.5 mmol"
+          },
+          {
+            "name": "lithium zincate 6",
+            "amount": "0.136 g, 0.5 mmol"
+          }
+        ],
+        "yield": "36 %",
+        "melting_point": "170-172 ºC",
+        "NMR_data": {
+          "1H_NMR": [
+            {
+              "chemical_shift": "8.27",
+              "multiplicity": "d",
+              "protons_count": 3,
+              "description": "C6H4"
+            },
+            {
+              "chemical_shift": "7.36",
+              "multiplicity": "td",
+              "protons_count": 3,
+              "description": "C6H4"
+            },
+            {
+              "chemical_shift": "7.25",
+              "multiplicity": "d",
+              "protons_count": 3,
+              "description": "C6H4"
+            },
+            {
+              "chemical_shift": "7.20",
+              "multiplicity": "td",
+              "protons_count": 3,
+              "description": "C6H4"
+            },
+            {
+              "chemical_shift": "4.30",
+              "multiplicity": "sept",
+              "protons_count": 3,
+              "description": "CH"
+            },
+            {
+              "chemical_shift": "3.75",
+              "multiplicity": "m",
+              "protons_count": 4,
+              "description": "THF"
+            },
+            {
+              "chemical_shift": "2.98",
+              "multiplicity": "sept",
+              "protons_count": 3,
+              "description": "CH"
+            },
+            {
+              "chemical_shift": "1.53",
+              "multiplicity": "m",
+              "protons_count": 4,
+              "description": "THF"
+            },
+            {
+              "chemical_shift": "1.41",
+              "multiplicity": "d",
+              "protons_count": 9,
+              "description": "Me"
+            },
+            {
+              "chemical_shift": "0.94",
+              "multiplicity": "d",
+              "protons_count": 9,
+              "description": "Me"
+            },
+            {
+              "chemical_shift": "0.90",
+              "multiplicity": "d",
+              "protons_count": 9,
+              "description": "Me"
+            },
+            {
+              "chemical_shift": "0.73",
+              "multiplicity": "d",
+              "protons_count": 9,
+              "description": "Me"
+            }
+          ]
+        },
+        "crystallographic_data": {
+          "formula": "C43H62LiN3O4Zn",
+          "molecular_weight": "757.27",
+          "space_group": "P2(1)/n",
+          "unit_cell_dimensions": {
+            "a": "14.0803(2) Å",
+            "b": "11.6398(2) Å",
+            "c": "26.2134(5) Å",
+            "beta": "97.485(1)°"
+          },
+          "volume": "4259.56(12) Å3",
+          "Z": 4,
+          "density_calculated": "1.181 g cm–3",
+          "absorption_coefficient": "0.618 mm–1",
+          "temperature": "180(2)K",
+          "R": "0.0539",
+          "wR2": "0.1224",
+          "goodness_of_fit": "1.042"
+        }
+      }
+    }
+  ]
+}

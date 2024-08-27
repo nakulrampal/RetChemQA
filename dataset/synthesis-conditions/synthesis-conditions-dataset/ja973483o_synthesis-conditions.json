@@ -1,0 +1,34 @@
+{
+  "materials": [
+    {
+      "name": "Cu2(O2CCH=CHCO2)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "chemical": "Cu(CH3CO2)2·H2O",
+              "source": "Aldrich"
+            },
+            {
+              "chemical": "fumaric acid (trans-HO2CCH=CHCO2H)",
+              "source": "Aldrich"
+            }
+          ],
+          "ratio": "1:2",
+          "solvent": "distilled water",
+          "solvent_amount": "7 mL",
+          "equipment": "23 mL Teflon-lined autoclave (Parr bomb)",
+          "temperature": "155 °C",
+          "time": "1.5 days",
+          "product_description": "Orange needlelike crystals up to 1 mm in length",
+          "washing_method": "washed with distilled water",
+          "drying_method": "air-dried",
+          "yield": "60% based on Cu(CH3CO2)2",
+          "reproducibility": "highly reproducible",
+          "additional_notes": "EPR measurements confirmed only Cu(I) was present. The orange color is consistent with Cu(I) compounds. Melting point analysis showed color darkening at 300 °C with no decomposition or melting up to 360 °C."
+        }
+      ]
+    }
+  ]
+}

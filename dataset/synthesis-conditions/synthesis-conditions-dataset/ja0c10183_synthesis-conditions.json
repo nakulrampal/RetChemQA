@@ -1,0 +1,80 @@
+{
+  "materials": [
+    {
+      "material_name": "[Zn(OAc)2(bipy)]n (1)",
+      "synthesis_conditions": {
+        "temperature": "153(2) K",
+        "solvents": "Water",
+        "chemicals_used": [
+          {
+            "name": "Isobutyric acid (HIBA)",
+            "amount": "2.0 mmol, 0.15 mL"
+          },
+          {
+            "name": "Zn2(OH)2CO3·H2O",
+            "amount": "0.5 mmol, 180 mg"
+          }
+        ],
+        "equipment": "Ultrasonic machine",
+        "time": "30 min",
+        "washing_method": "Water washing",
+        "yield": "> 70%",
+        "characterization": [
+          "PXRD patterns (Figure S11)",
+          "Elemental analysis"
+        ]
+      }
+    },
+    {
+      "material_name": "[Zn(IBA)2(bipy)]n (2)",
+      "synthesis_conditions": {
+        "temperature": "293(2) K",
+        "solvents": "Water, Methanol",
+        "chemicals_used": [
+          {
+            "name": "Isobutyric acid (HIBA)",
+            "amount": "2.0 mmol, 0.15 mL"
+          },
+          {
+            "name": "Zn2(OH)2CO3·H2O",
+            "amount": "0.5 mmol, 180 mg"
+          }
+        ],
+        "equipment": "Ultrasonic machine",
+        "time": "30 min",
+        "washing_method": "Water washing",
+        "yield": "> 80%",
+        "characterization": [
+          "PXRD patterns (Figure S10)",
+          "Elemental analysis",
+          "FT-IR (Figure S13)"
+        ]
+      }
+    },
+    {
+      "material_name": "Zn−IBA",
+      "synthesis_conditions": {
+        "temperature": "Not specified",
+        "solvents": "Water",
+        "chemicals_used": [
+          {
+            "name": "Isobutyric acid (HIBA)",
+            "amount": "2.0 mmol, 0.15 mL"
+          },
+          {
+            "name": "Zn2(OH)2CO3·H2O",
+            "amount": "0.5 mmol, 180 mg"
+          }
+        ],
+        "equipment": "Ultrasonic machine",
+        "time": "30 min",
+        "washing_method": "Not specified",
+        "yield": "Not specified",
+        "characterization": [
+          "FT-IR spectra (Figure S14)",
+          "1HNMR spectra (Figure S15)"
+        ]
+      }
+    }
+  ]
+}

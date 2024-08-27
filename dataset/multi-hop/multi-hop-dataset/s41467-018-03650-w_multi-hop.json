@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "DOI": "10.1038/s41467-018-03650-w",
+      "QAs": [
+        {
+          "question": "What is the main objective of the study described in the paper?",
+          "answer": "The main objective of the study is to design a series of metal-organic frameworks (MOFs) with progressively tuned pore sizes to precisely include single-stranded DNA (ssDNA) for effective transfection in immune cells.",
+          "difficulty": "medium",
+          "type": "factual"
+        },
+        {
+          "question": "How do the designed MOFs interact with ssDNA for transfection purposes?",
+          "answer": "The designed MOFs interact with ssDNA by selectively binding and including ssDNA of different lengths into their pores, offering optimal binding strength to allow precise release of ssDNA into a wide range of cell types, including primary mouse and human immune cells.",
+          "difficulty": "medium",
+          "type": "factual"
+        },
+        {
+          "question": "What are the key features of the MOFs that contribute to their effectiveness in ssDNA transfection?",
+          "answer": "The key features of the MOFs that contribute to their effectiveness in ssDNA transfection include precisely controlled pore sizes that match the geometry of ssDNA, moderate interaction strength between ssDNA and MOF pores for reversible uptake and release, and the ability to protect ssDNA from degradation until it reaches the cell.",
+          "difficulty": "hard",
+          "type": "reasoning"
+        },
+        {
+          "question": "What methods were used to assess the uptake, protection, and release of ssDNA by the MOFs?",
+          "answer": "Methods used to assess the uptake, protection, and release of ssDNA by the MOFs include fluorescence quenching to quantify ssDNA uptake, immersion in fetal bovine serum (FBS) solution to test protection against degradation, and immersion in complementary DNA (cDNA) solution to evaluate ssDNA release.",
+          "difficulty": "hard",
+          "type": "factual"
+        },
+        {
+          "question": "What types of cells were used to test the transfection efficiency of the MOFs?",
+          "answer": "The types of cells used to test the transfection efficiency of the MOFs include mammalian immune cells (RAW264.7 and THP-1 macrophages, CD4+ T cells, and B cells) and MCF-7 human breast cancer cells.",
+          "difficulty": "medium",
+          "type": "factual"
+        },
+        {
+          "question": "How do the MOFs compare to commercial transfection agents in terms of transfection efficiency and cytotoxicity?",
+          "answer": "The MOFs, particularly Ni-IRMOF-74-II and -III, demonstrated superior transfection efficiency and lower cytotoxicity compared to commercial transfection agents such as Neofect and Lipo, making them more effective for intracellular delivery of ssDNA.",
+          "difficulty": "medium",
+          "type": "reasoning"
+        },
+        {
+          "question": "True or False: The study successfully demonstrated gene silencing in MCF-7 cells using DNAzyme delivered by the MOFs.",
+          "answer": "True",
+          "difficulty": "easy",
+          "type": "True or False"
+        },
+        {
+          "question": "What potential applications are suggested for the MOFs based on their performance in the study?",
+          "answer": "The potential applications suggested for the MOFs based on their performance in the study include gene therapy, gene editing, and intracellular delivery of genetic materials, especially in cell types that are difficult to transfect with conventional non-viral methods.",
+          "difficulty": "medium",
+          "type": "reasoning"
+        },
+        {
+          "question": "True or False: The MOFs' effectiveness in ssDNA transfection is attributed to their large pore sizes alone.",
+          "answer": "False",
+          "difficulty": "easy",
+          "type": "True or False"
+        },
+        {
+          "question": "What challenges in gene therapy and gene editing does the development of these MOFs aim to address?",
+          "answer": "The development of these MOFs aims to address challenges in gene therapy and gene editing such as the need for safe, efficient, and low-cost delivery methods, especially for stem cells and immune cells which are difficult to transfect with existing viral and non-viral vectors.",
+          "difficulty": "hard",
+          "type": "reasoning"
+        }
+      ]
+    }
+  ]
+}

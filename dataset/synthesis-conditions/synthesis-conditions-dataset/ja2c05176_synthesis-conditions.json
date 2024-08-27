@@ -1,0 +1,133 @@
+{
+  "materials": [
+    {
+      "name": "ZZU-282",
+      "synthesis_conditions": [
+        {
+          "temperature": "60 °C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "1 mL"
+            },
+            {
+              "name": "EtOH",
+              "amount": "1 mL"
+            }
+          ],
+          "equipment": "10 mL screw-threaded vial",
+          "chemicals_used": [
+            {
+              "name": "H4TTPE",
+              "amount": "10 mg"
+            },
+            {
+              "name": "Cu(NO3)2·3H2O",
+              "amount": "24 mg"
+            },
+            {
+              "name": "hydrochloric acid",
+              "amount": "30 μL"
+            }
+          ],
+          "time": "24 h",
+          "yield": "83%",
+          "washing_method": "washed with DMF and methanol",
+          "drying_method": "dried at 60 °C"
+        }
+      ]
+    },
+    {
+      "name": "ZZU-282-M (M = Co, Ni, Zn)",
+      "synthesis_conditions": [
+        {
+          "temperature": "80 °C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "5 mL"
+            }
+          ],
+          "equipment": "10 mL screw-threaded vial",
+          "chemicals_used": [
+            {
+              "name": "ZZU-282",
+              "amount": "10 mg"
+            },
+            {
+              "name": "CoCl2",
+              "amount": "0.5 g"
+            },
+            {
+              "name": "NiCl2",
+              "amount": "0.25 g"
+            },
+            {
+              "name": "ZnCl2",
+              "amount": "0.5 g"
+            }
+          ],
+          "time": "5 days",
+          "washing_method": "washed with DMF and methanol",
+          "drying_method": "dried at 60 °C"
+        }
+      ]
+    },
+    {
+      "name": "MOF-199",
+      "synthesis_conditions": [
+        {
+          "temperature": "85 °C",
+          "solvents": [
+            {
+              "name": "distilled water, DMF, and ethanol",
+              "amount": "250 mL total, in a 1:1:1 volumetric ratio"
+            }
+          ],
+          "equipment": "glass bottle",
+          "chemicals_used": [
+            {
+              "name": "H3BTC",
+              "amount": "5 g"
+            },
+            {
+              "name": "Cu(NO3)2",
+              "amount": "10 g"
+            }
+          ],
+          "time": "20 h"
+        }
+      ]
+    },
+    {
+      "name": "UiO-66",
+      "synthesis_conditions": [
+        {
+          "temperature": "80 °C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "1000 mL"
+            }
+          ],
+          "equipment": "Teflon-lined bomb",
+          "chemicals_used": [
+            {
+              "name": "ZrCl4",
+              "amount": "8.39 g"
+            },
+            {
+              "name": "terephthalic acid",
+              "amount": "8.31 g"
+            },
+            {
+              "name": "37% aqueous HCl solution",
+              "amount": "added until mixture became clear"
+            }
+          ],
+          "time": "18 h"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "Complex 1": {
+    "chemicals_used": [
+      "cis-1,2-bis(diphenylphosphino)ethylene",
+      "silver trifluoroacetate",
+      "THF",
+      "pentane",
+      "CH2Cl2"
+    ],
+    "solvents": [
+      "THF",
+      "pentane",
+      "CH2Cl2"
+    ],
+    "yield": "73%",
+    "NMR_conditions": [
+      {
+        "solvent": "CD2Cl2",
+        "delta_1H": [
+          "7.56 [m, 10H, Ph]",
+          "7.44 [m, 10H, Ph]",
+          "7.06 [t, Jobs(PH) = 18 Hz, 2H, CH=CH]"
+        ],
+        "delta_31P": "1.9 (broad)"
+      }
+    ]
+  },
+  "Complex 2": {
+    "chemicals_used": [
+      "trans-1,2-bis(diphenylphosphino)ethylene",
+      "silver trifluoroacetate",
+      "THF",
+      "pentane",
+      "CH2Cl2/CD3OD"
+    ],
+    "solvents": [
+      "THF",
+      "pentane",
+      "CH2Cl2/CD3OD"
+    ],
+    "yield": "79%",
+    "NMR_conditions": [
+      {
+        "solvent": "CD2Cl2/CD3OD",
+        "delta_1H": [
+          "7.40 [m, 20H, Ph]",
+          "7.02 [t, Jobs(PH) = 18 Hz, 2H, CH=CH]"
+        ],
+        "delta_31P": "8.5 [broad] (CP-MAS solid state)"
+      }
+    ]
+  },
+  "Complex 3": {
+    "chemicals_used": [
+      "bis(diphenylphosphino)acetylene",
+      "silver nitrate",
+      "THF",
+      "pentane",
+      "CH2Cl2/CD3OD"
+    ],
+    "solvents": [
+      "THF",
+      "pentane",
+      "CH2Cl2/CD3OD"
+    ],
+    "yield": "86%",
+    "NMR_conditions": [
+      {
+        "solvent": "CD2Cl2/CD3OD",
+        "delta_1H": "7.39 [m, broad, 40H, Ph]",
+        "delta_31P": "-21.5 (broad) (CP-MAS solid state)"
+      }
+    ]
+  },
+  "Complex 4": {
+    "chemicals_used": [
+      "1,6-Bis(diphenylphosphino)hexane",
+      "silver trifluoroacetate",
+      "THF",
+      "ether",
+      "pentane",
+      "CH2Cl2"
+    ],
+    "solvents": [
+      "THF",
+      "ether",
+      "pentane",
+      "CH2Cl2"
+    ],
+    "yield": "70%",
+    "NMR_conditions": [
+      {
+        "solvent": "CD2Cl2/CD3OD",
+        "delta_1H": [
+          "7.34 [m, 12H, o-H Ph]",
+          "7.18 [m, 18H, m,p-H Ph]",
+          "2.16 [m, 6H, CH2-P]",
+          "1.33 [m, 12H, CH2CH2-P]"
+        ],
+        "delta_31P": "-1.5 (broad) (CP-MAS solid state)"
+      }
+    ]
+  }
+}

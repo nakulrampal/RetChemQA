@@ -1,0 +1,47 @@
+{
+  "materials": [
+    {
+      "name": "[{Cu(succinate)(4,4’-bipyridine)}n]·(4 H2O)n (1)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Cu2+",
+          "succinate",
+          "4,4’-bipyridine",
+          "ammonia (as a competing reagent)"
+        ],
+        "equations": [
+          "Cu2+ + LS + Lb -> [{Cu(LS)(Lb)}n]",
+          "Cu2+ + 4 NH3 -> [Cu(NH3)4]2+",
+          "LS = succinate, Lb = 4,4’-bipyridine"
+        ],
+        "rate_law_absence_ammonia": "rf = k [Cu2+] [Ls][Lb]",
+        "rate_law_presence_ammonia": "rf = k [[Cu(NH3)4]2+][Ls][Lb]/K [NH3]^4",
+        "rate_constant": "k",
+        "equilibrium_constant": "K = [[Cu(NH3)4]2+]/[Cu2+][NH3]^4",
+        "initial_concentration_Cu2+": "[Cu2+]0",
+        "expressed_rate_law": "rf = k [Cu2+]0[Ls][Lb]/K [NH3]^4",
+        "pH_value_initial_reaction_mixture": "8.3, 9.2, 8.7",
+        "ammonia_evaporation_rate": "varied",
+        "crystallization_behavior": "high initial pH value and slow evaporation of ammonia favor products of high enantiomeric excess values"
+      }
+    },
+    {
+      "name": "[{Cu(nitrilotriacetate)Na(H2O)}n] (2)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "CuII",
+          "nitrilotriacetate ligand",
+          "ammonia (in competition for CuII)"
+        ],
+        "pH_value_reaction": "6.0",
+        "note": "The key difference in synthesis is the use of ammonia in competition for CuII with the nitrilotriacetate ligand."
+      }
+    },
+    {
+      "name": "[{Cu(glycolate)}n] (3)",
+      "synthesis_conditions": {
+        "note": "This is a new compound. Synthetic details and crystallographic information on both the left- and right-handed helices of 3 can be found in the Supporting Information."
+      }
+    }
+  ]
+}

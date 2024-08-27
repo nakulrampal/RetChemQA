@@ -1,0 +1,71 @@
+{
+  "materials": [
+    {
+      "name": "SCU-UEu-2",
+      "synthesis_conditions": {
+        "chemicals_used": {
+          "UO2(NO3)2·6H2O": {
+            "amount": "0.1 mmol",
+            "details": "50.2 mg"
+          },
+          "Ln(NO3)3·6H2O": {
+            "amount": "0.1 mmol",
+            "details": "44.6 mg",
+            "note": "Ln=Gd, Eu"
+          },
+          "1,2,4,5-benzenetetracarboxylic acid": {
+            "amount": "0.2 mmol",
+            "details": "50.8 mg"
+          },
+          "1,10-phenanthroline": {
+            "amount": "0.06 mmol",
+            "details": "12 mg"
+          },
+          "NaNO3": {
+            "amount": "0.1 mmol",
+            "details": "8.5 mg"
+          },
+          "H2O": {
+            "amount": "3 mL"
+          }
+        },
+        "equipment": "PTEF-lined Parr 4749 autoclave with a 25 mL internal volume",
+        "temperature": "180 °C",
+        "time": "72 hours",
+        "cooling_rate": "6.25 °C/h",
+        "washing_method": "washed with water and ethanol three times",
+        "drying_method": "dried at 60 °C"
+      },
+      "x-ray_crystallography_data": {
+        "crystal_system": "Monoclinic",
+        "space_group": "P21/c",
+        "a": "18.2020 Å",
+        "b": "12.0510 Å",
+        "c": "15.0180 Å",
+        "alpha": "90°",
+        "beta": "90°",
+        "gamma": "90°",
+        "volume": "3294.2(12) Å3",
+        "Z": "2",
+        "density_calculated": "2.743 g cm-3",
+        "mu": "11.785 mm-1",
+        "F_000": "2452",
+        "temperature": "298(2) K",
+        "GOF_on_F2": "1.190",
+        "R1_all_data": "0.3369, 0.3502",
+        "R1_I_greater_than_2sigma_I": "0.1384, 0.1884"
+      },
+      "powder_x-ray_diffraction_analysis": true,
+      "photoluminescence_quantum_yield_measurement": {
+        "internal_quantum_efficiency_values": "calculated using equation: IQE = ∫ L_emission / (∫ E_blank−∫E_sample)"
+      },
+      "efficiency_of_energy_transfer": {
+        "EET_calculation": "EET=1-IDA/ID where ID and IDA are the emission intensities (519 nm) of SCU-UGd-2 in the absence and presence of the acceptor (SCU-UEu-2), respectively."
+      },
+      "DFT_calculation_details": true,
+      "intramolecular_energy_transfer_rates_calculation": true,
+      "x-ray_emission_luminescence_analysis": true,
+      "radiation_and_hygroscopy_hardness_experiments": true
+    }
+  ]
+}

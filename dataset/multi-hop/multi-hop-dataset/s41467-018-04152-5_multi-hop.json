@@ -1,0 +1,134 @@
+{
+  "data": [
+    {
+      "title": "Topologically Guided Tuning of Zr-MOF Pore Structures for Highly Selective Separation of C6 Alkane Isomers",
+      "paragraphs": [
+        {
+          "context": "The synthesis conditions and structural analysis of a series of Zr-based metal-organic frameworks (MOFs) with optimized pore structure for efficient separation of C6 alkane isomers are described. The MOFs, namely Zr-bptc, Zr-abtc, and Zr-tptc-(Me)2, exhibit different topologies (ftw, scu, and lvt, respectively) due to the varying aspect ratios of the organic linkers used in their synthesis. The ftw topology of Zr-bptc, with its cubic cage-like pores and small window aperture, selectively adsorbs n-hexane over its branched isomers. Zr-abtc, with a scu topology and 1D channels, discriminates all three C6 isomers and shows a high separation factor for 3-methylpentane over 2,3-dimethylbutane. The stability and porosity of these MOFs are also discussed, with Zr-bptc showing exceptional thermal and water stability.",
+          "qas": [
+            {
+              "question": "What are the synthesis conditions for Zr-bptc and how do they affect its structure?",
+              "id": "0001",
+              "answers": [
+                {
+                  "text": "Zr-bptc is synthesized by solvothermal reactions with varying amounts of acid modulator, leading to its ftw topology characterized by cubic cage-like pores and small window aperture.",
+                  "answer_start": 0
+                }
+              ],
+              "difficulty": "medium",
+              "type": "factual"
+            },
+            {
+              "question": "How does the aspect ratio of organic linkers influence the topology of Zr-MOFs?",
+              "id": "0002",
+              "answers": [
+                {
+                  "text": "The aspect ratio of the organic linkers determines the connectivity and topology of Zr-MOFs, with higher aspect ratios leading to different topologies such as ftw for Zr-bptc, scu for Zr-abtc, and lvt for Zr-tptc-(Me)2.",
+                  "answer_start": 0
+                }
+              ],
+              "difficulty": "hard",
+              "type": "reasoning"
+            },
+            {
+              "question": "Is the separation process in Zr-abtc thermodynamically or kinetically controlled?",
+              "id": "0003",
+              "answers": [
+                {
+                  "text": "The separation process in Zr-abtc is thermodynamically controlled, as indicated by its ability to discriminate all three C6 isomers based on differences in adsorption affinity.",
+                  "answer_start": 0
+                }
+              ],
+              "difficulty": "medium",
+              "type": "factual"
+            },
+            {
+              "question": "True or False: Zr-bptc exhibits higher thermal stability compared to UiO-67.",
+              "id": "0004",
+              "answers": [
+                {
+                  "text": "True",
+                  "answer_start": 0
+                }
+              ],
+              "difficulty": "easy",
+              "type": "True or False"
+            },
+            {
+              "question": "What role does the pore aperture play in the selective adsorption observed in Zr-bptc?",
+              "id": "0005",
+              "answers": [
+                {
+                  "text": "The small window aperture of Zr-bptc's cubic cage-like pores serves as a gate to control the diffusion of molecules, selectively adsorbing n-hexane over its branched isomers.",
+                  "answer_start": 0
+                }
+              ],
+              "difficulty": "medium",
+              "type": "factual"
+            },
+            {
+              "question": "True or False: Zr-abtc can separate mono-branched and di-branched C6 alkane isomers.",
+              "id": "0006",
+              "answers": [
+                {
+                  "text": "True",
+                  "answer_start": 0
+                }
+              ],
+              "difficulty": "easy",
+              "type": "True or False"
+            },
+            {
+              "question": "How does the stability of Zr-MOFs correlate with the connectivity of their SBUs?",
+              "id": "0007",
+              "answers": [
+                {
+                  "text": "The stability of Zr-MOFs correlates with the connectivity of their SBUs, with higher connectivity leading to more robust frameworks.",
+                  "answer_start": 0
+                }
+              ],
+              "difficulty": "hard",
+              "type": "reasoning"
+            },
+            {
+              "question": "True or False: The separation factor achieved by Zr-abtc for 3-methylpentane over 2,3-dimethylbutane is higher than that of Fe2(BDP)3.",
+              "id": "0008",
+              "answers": [
+                {
+                  "text": "True",
+                  "answer_start": 0
+                }
+              ],
+              "difficulty": "easy",
+              "type": "True or False"
+            },
+            {
+              "question": "What computational methods were used to model the kinetic diffusion barrier in Zr-bptc?",
+              "id": "0009",
+              "answers": [
+                {
+                  "text": "Ab initio molecular dynamics (AIMD) calculations were used to model the kinetic diffusion barrier in Zr-bptc, taking into account temperature effects and the MOF's breathing motion.",
+                  "answer_start": 0
+                }
+              ],
+              "difficulty": "hard",
+              "type": "factual"
+            },
+            {
+              "question": "True or False: The porosity of Zr-bptc remains intact after immersion in water for one week.",
+              "id": "0010",
+              "answers": [
+                {
+                  "text": "True",
+                  "answer_start": 0
+                }
+              ],
+              "difficulty": "easy",
+              "type": "True or False"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

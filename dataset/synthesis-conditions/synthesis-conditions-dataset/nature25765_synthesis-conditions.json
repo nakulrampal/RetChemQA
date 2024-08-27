@@ -1,0 +1,69 @@
+{
+  "materials": [
+    {
+      "name": "Cu-S-M9",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "toluene",
+            "amount": "20 mM"
+          },
+          {
+            "name": "ethylene glycol",
+            "amount": "20 mM"
+          }
+        ],
+        "chemicals_used": [
+          "m-carborane-9-thiol",
+          "copper sulfate"
+        ],
+        "temperature": "70 °C",
+        "time": "1 week",
+        "washing_method": "ethanol",
+        "drying_method": "vacuum",
+        "equipment": "argon-filled glove box",
+        "additional_information": "The mixture was heated at 70 °C for a week. Upon cooling to room temperature, colourless crystals appear at the toluene/ethylene glycol interface."
+      }
+    },
+    {
+      "name": "Cu-S-Ada, Ag-S-Ada, Ag-S-mDia",
+      "synthesis_conditions": {
+        "reference": "Previously described in reference 16."
+      }
+    },
+    {
+      "name": "Cu-S-M9 under hydrostatic pressure",
+      "synthesis_conditions": {
+        "pressure": "12 GPa",
+        "equipment": "diamond anvil cell",
+        "additional_information": "Transmission electron microscopy (TEM) images of a sample after compression to 12 GPa reveals crystalline nanoclusters with lattice spacing of 2.08 Å, consistent with the [111] spacing of face-centred cubic copper."
+      }
+    },
+    {
+      "name": "Cu-S-M9 pyrolysis product",
+      "synthesis_conditions": {
+        "temperature": "400 °C",
+        "atmosphere": "vacuum",
+        "equipment": "sealed quartz tubes",
+        "additional_information": "Heating Cu-S-M9 to 400 °C under vacuum yields cuprous sulfide instead of elemental copper."
+      }
+    },
+    {
+      "name": "Cu-S-Ada pyrolysis product",
+      "synthesis_conditions": {
+        "temperature": "400 °C",
+        "atmosphere": "vacuum",
+        "equipment": "sealed quartz tubes",
+        "additional_information": "Pyrolysis of Cu-S-Ada under the same conditions as Cu-S-M9 also yields cuprous sulfide."
+      }
+    },
+    {
+      "name": "Ag-S-mDia under hydrostatic pressure",
+      "synthesis_conditions": {
+        "pressure": "20 GPa",
+        "equipment": "diamond anvil cell",
+        "additional_information": "TEM of a Ag-S-mDia sample after compression to 20 GPa reveals crystalline nanoclusters with lattice spacing of 2.4 Å, consistent with the [111] spacing of silver."
+      }
+    }
+  ]
+}

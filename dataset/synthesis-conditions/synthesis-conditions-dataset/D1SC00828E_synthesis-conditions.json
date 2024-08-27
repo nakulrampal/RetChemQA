@@ -1,0 +1,60 @@
+{
+  "materials": [
+    {
+      "name": "Cd-MIX",
+      "synthesis_conditions": {
+        "temperature": "110 °C",
+        "solvents": "DMF, acetonitrile, H2O",
+        "equipment": "autoclave",
+        "chemicals_used": "H3TCA (19.0 mg, 0.05 mmol), NPy3 (24.0 mg, 0.05 mmol), Cd(NO3)2·4H2O (77.0 mg, 0.25 mmol)",
+        "time": "72 h",
+        "yield": "approximately 50%",
+        "washing_method": "methanol solution (48 h) for small molecules exchange, then dried in a vacuum oven (100 °C, 10 h)",
+        "drying_method": "vacuum oven (100 °C, 10 h)"
+      }
+    },
+    {
+      "name": "Cd-TCA",
+      "synthesis_conditions": {
+        "reference": "Synthesized according to published procedures"
+      }
+    },
+    {
+      "name": "Cd-NPy3",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": "DMF, acetonitrile, H2O",
+        "equipment": "autoclave",
+        "chemicals_used": "NPy3 (12.0 mg, 0.025 mmol), CdCl2·2.5H2O (29.0 mg, 0.13 mmol)",
+        "time": "72 h",
+        "yield": "56%"
+      }
+    },
+    {
+      "name": "1a@Cd-MIX and 1c@Cd-MIX",
+      "synthesis_conditions": {
+        "preparation_method": "Soaking activated Cd-MIX in a methanol solution containing 1a or 1c (10.0 mmol) for 48 h, then washed with fresh methanol and dried"
+      }
+    },
+    {
+      "name": "N-((phenyl-D5)methyl-D2)pyrrolidine (1cD)",
+      "synthesis_conditions": {
+        "steps": [
+          {
+            "description": "Synthesis of [D7]benzyl bromide from [D8]toluene using NBS and benzoyl peroxide in CCl4 at 90 °C",
+            "solvents": "CCl4",
+            "temperature": "90 °C",
+            "chemicals_used": "[D8]toluene, NBS, benzoyl peroxide",
+            "equipment": "reaction vessel under nitrogen atmosphere"
+          },
+          {
+            "description": "Reaction of [D7]benzyl bromide with pyrrolidine and triethylamine in dichloromethane, followed by NaOH solution addition, extraction, and purification",
+            "solvents": "dichloromethane, NaOH solution",
+            "chemicals_used": "[D7]benzyl bromide, pyrrolidine, triethylamine",
+            "purification_method": "column chromatography"
+          }
+        ]
+      }
+    }
+  ]
+}

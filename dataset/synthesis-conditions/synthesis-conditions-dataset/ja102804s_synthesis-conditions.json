@@ -1,0 +1,92 @@
+{
+  "materials": [
+    {
+      "name": "LRuZn MOF",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "0.3 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.1 mL"
+          }
+        ],
+        "time": "3 days",
+        "yield": "30%",
+        "chemicals_used": [
+          {
+            "name": "[Ru(4,4’-CO2H-bpy)2bpy](PF6)2",
+            "amount": "1.0 mg (0.97 µmol)"
+          },
+          {
+            "name": "Zn(NO3)2",
+            "amount": "1.0 mg (3.4 µmol)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Os-doped LRuZn MOFs",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "0.3 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.1 mL"
+          }
+        ],
+        "time": "3 days",
+        "yield": "Similar to LRuZn MOF",
+        "chemicals_used": [
+          {
+            "name": "[Ru(4,4’-CO2H-bpy)2bpy](PF6)2",
+            "amount": "1.0 mg (0.97 µmol)"
+          },
+          {
+            "name": "Zn(NO3)2",
+            "amount": "1.0 mg (3.4 µmol)"
+          },
+          {
+            "name": "[Os(4,4’-CO2H-bpy)2bpy](PF6)2",
+            "amount": "Variable (0.002 to 0.020 mg)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LOsZn MOF",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "0.3 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.1 mL"
+          }
+        ],
+        "time": "overnight",
+        "yield": "40%",
+        "chemicals_used": [
+          {
+            "name": "[Os(4,4’-CO2H-bpy)2bpy](PF6)2",
+            "amount": "1.0 mg (0.89 µmol)"
+          },
+          {
+            "name": "Zn(NO3)2",
+            "amount": "1.0 mg (3.4 µmol)"
+          }
+        ]
+      }
+    }
+  ]
+}

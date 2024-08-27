@@ -1,0 +1,133 @@
+{
+  "materials": [
+    {
+      "name": "Subcomponent A",
+      "synthesis_conditions": {
+        "temperature": "reflux",
+        "solvents": [
+          {
+            "name": "xylene",
+            "amount": "50 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "4,4''-(1,2-ethynediyl)bis[3'-amino]-biphenyl",
+            "amount": "0.36 g",
+            "molar_amount": "1.0 mmol"
+          },
+          {
+            "name": "CpCo(CO)2",
+            "amount": "0.18 g",
+            "molar_amount": "1.0 mmol"
+          }
+        ],
+        "yield": "80%",
+        "time": "24 h",
+        "drying_method": "evaporation",
+        "washing_method": "flash chromatography",
+        "solvent_for_washing": "MeOH/CH2Cl2 (2:98 to 15:85)"
+      }
+    },
+    {
+      "name": "Receptor 1•(NTf2)8",
+      "synthesis_conditions": {
+        "temperature": "50 °C",
+        "solvents": [
+          {
+            "name": "deuterated CD3CN",
+            "amount": "0.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Subcomponent A",
+            "amount": "2.1 mg",
+            "molar_amount": "2.5 µmol"
+          },
+          {
+            "name": "2-pyridinecarboxaldehyde",
+            "amount": "0.95 µL",
+            "molar_amount": "10 µmol"
+          },
+          {
+            "name": "Cd(NTf2)2",
+            "molar_amount": "4 equiv."
+          }
+        ],
+        "yield": "92%",
+        "time": "12 h",
+        "drying_method": "crystallization",
+        "washing_method": "filtration",
+        "solvent_for_washing": "diethyl ether"
+      }
+    },
+    {
+      "name": "Receptor 1•(OTf)8",
+      "synthesis_conditions": {
+        "temperature": "50 °C",
+        "solvents": [
+          {
+            "name": "deuterated CD3CN",
+            "amount": "0.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Subcomponent A",
+            "amount": "2.1 mg",
+            "molar_amount": "2.5 µmol"
+          },
+          {
+            "name": "2-pyridinecarboxaldehyde",
+            "amount": "0.95 µL",
+            "molar_amount": "10 µmol"
+          },
+          {
+            "name": "Cd(OTf)2",
+            "molar_amount": "4 equiv."
+          }
+        ],
+        "yield": "86%",
+        "time": "12 h",
+        "drying_method": "crystallization",
+        "washing_method": "filtration",
+        "solvent_for_washing": "diethyl ether"
+      }
+    },
+    {
+      "name": "Complex 5",
+      "synthesis_conditions": {
+        "temperature": "50 °C",
+        "solvents": [
+          {
+            "name": "deuterated CD3CN",
+            "amount": "0.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Subcomponent A",
+            "amount": "2.1 mg",
+            "molar_amount": "2.5 µmol"
+          },
+          {
+            "name": "2-pyridinecarboxaldehyde",
+            "amount": "0.95 µL",
+            "molar_amount": "10 µmol"
+          },
+          {
+            "name": "Cu(CH3CN)4BF4",
+            "amount": "1.6 mg",
+            "molar_amount": "5 µmol"
+          }
+        ],
+        "yield": "85%",
+        "time": "24 h",
+        "drying_method": "crystallization",
+        "washing_method": "filtration",
+        "solvent_for_washing": "diethyl ether"
+      }
+    }
+  ]
+}

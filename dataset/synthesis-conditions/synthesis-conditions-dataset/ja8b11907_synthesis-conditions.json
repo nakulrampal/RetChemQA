@@ -1,0 +1,120 @@
+{
+  "materials": [
+    {
+      "name": "1,4-dibromo-2,3,5,6-tetramethylbenzene",
+      "synthesis_conditions": {
+        "temperature": "refluxing temperature",
+        "solvents": [
+          {
+            "name": "DCM",
+            "amount": "70 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "2,3,5,6-tetramethylbenzene",
+            "amount": "12.50 g (90 mmol)"
+          },
+          {
+            "name": "I2",
+            "amount": "0.5 g (2.0 mmol)"
+          },
+          {
+            "name": "Br2",
+            "amount": "37.3 g (12 mL, 233 mmol)"
+          }
+        ],
+        "time": "1.5 hours",
+        "washing_method": "washed with 1 L of water",
+        "drying_method": "dried under vacuum overnight",
+        "yield": "23.23 g (88%)"
+      }
+    },
+    {
+      "name": "Tris(bromoduryl)borane",
+      "synthesis_conditions": {
+        "temperature": "-78 °C to room temperature",
+        "solvents": [
+          {
+            "name": "dry Et2O",
+            "amount": "200 mL"
+          },
+          {
+            "name": "hexane solution of n-BuLi",
+            "amount": "1.6 M, 15 mL, 24.0 mmol"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "1,4-dibromo-2,3,5,6-tetramethylbenzene",
+            "amount": "7.0 g (24.0 mmol)"
+          },
+          {
+            "name": "BF3·OEt2",
+            "amount": "1.0 mL (7.9 mmol)"
+          }
+        ],
+        "time": "overnight",
+        "washing_method": "washed with brine",
+        "drying_method": "dried over anhydrous MgSO4 and concentrated under vacuum",
+        "yield": "4.35 g (85%)"
+      }
+    },
+    {
+      "name": "Tris(p-carboxylic acid)tridurylborane",
+      "synthesis_conditions": {
+        "temperature": "-78 °C to room temperature",
+        "solvents": [
+          {
+            "name": "dry tetrahydrofuran (THF)",
+            "amount": "150 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "tris(bromoduryl)borane",
+            "amount": "2.58 g (4.0 mmol)"
+          },
+          {
+            "name": "t-BuLi",
+            "amount": "1.7M, 14.3 mL, 24.3 mmol"
+          }
+        ],
+        "time": "overnight",
+        "washing_method": "washed with hexane",
+        "yield": "1.8837 g (87%)"
+      }
+    },
+    {
+      "name": "SION-105",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "DMF:H2O",
+            "ratio": "4:2"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H3tctb",
+            "amount": "19 mg"
+          },
+          {
+            "name": "Eu(NO3)3.6H2O",
+            "amount": "22 mg"
+          }
+        ],
+        "time": "72 hours",
+        "washing_method": "washed with DMF",
+        "drying_method": "filtered"
+      }
+    },
+    {
+      "name": "Gd-SION-105",
+      "synthesis_conditions": {
+        "note": "Synthesis carried out by replacing Eu(NO3)3 with Gd(NO3)3 in the standard synthetic procedure for SION-105."
+      }
+    }
+  ]
+}

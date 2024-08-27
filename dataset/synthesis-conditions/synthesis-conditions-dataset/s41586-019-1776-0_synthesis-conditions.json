@@ -1,0 +1,90 @@
+{
+  "materials": [
+    {
+      "name": "Zr6O4(OH)4(bpydc)6 (1)",
+      "synthesis_conditions": [
+        {
+          "temperature": "120 °C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "1.00 l"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "H2bpydc",
+              "amount": "6.11 g, 25.0 mmol"
+            },
+            {
+              "name": "benzoic acid",
+              "amount": "224 g, 2.00 mol"
+            },
+            {
+              "name": "ZrCl4",
+              "amount": "5.83 g, 25.0 mmol"
+            },
+            {
+              "name": "Deionized water",
+              "amount": "820 µl, 45.5 mmol"
+            }
+          ],
+          "time": "5 days",
+          "washing_method": "soaked three times in 1 l aliquots of fresh DMF for 24 h at 120 °C, followed by solvent exchange with THF via Soxhlet extraction for 3 days",
+          "drying_method": "heating at 120 °C under dynamic vacuum for 24 h",
+          "yield": "not specified",
+          "additional_notes": "The powder X-ray diffraction pattern and Langmuir surface area (2,700 m2/g; N2, 77 K) of the material were found to be consistent with those reported in the literature."
+        }
+      ]
+    },
+    {
+      "name": "1(NiBr2)9.9, 1(NiCl2)13, 1(CoCl2)14, 1(FeCl2)17",
+      "synthesis_conditions": [
+        {
+          "temperature": "120 °C",
+          "solvents": [
+            {
+              "name": "diglyme",
+              "amount": "3 ml"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Ni(DME)Br2, Ni(DME)Cl2, or NiBr2",
+              "amount": "5–10 mg, >50 equiv"
+            }
+          ],
+          "time": "1 month",
+          "washing_method": "soaked three times in 3 ml of fresh DME at room temperature (~32 °C) for 24 h",
+          "drying_method": "solvent was removed under reduced pressure at 80 °C",
+          "yield": "not specified",
+          "additional_notes": "Stoichiometric reactions were performed on microcrystalline powder samples of 1 in the presence of single crystals that were later characterized by crystallography."
+        },
+        {
+          "temperature": "120 °C",
+          "solvents": [
+            {
+              "name": "DME",
+              "amount": "0.30 ml"
+            },
+            {
+              "name": "DFB",
+              "amount": "2.70 ml"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "FeCl2, CoCl2 or Ni(DME)Br2",
+              "amount": "5–10 mg, >50 equiv"
+            }
+          ],
+          "time": "1 month",
+          "washing_method": "soaked three times in 3 ml of fresh DME at room temperature (~32 °C) for 24 h",
+          "drying_method": "solvent was removed under reduced pressure at 80 °C",
+          "yield": "not specified",
+          "additional_notes": "Stoichiometric reactions were performed on microcrystalline powder samples of 1 in the presence of single crystals that were later characterized by crystallography."
+        }
+      ]
+    }
+  ]
+}

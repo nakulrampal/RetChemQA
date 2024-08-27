@@ -1,0 +1,71 @@
+{
+  "materials": [
+    {
+      "name": "H4salphdc",
+      "synthesis_conditions": {
+        "temperature": "333 K",
+        "solvents": ["EtOH"],
+        "amount_of_solvents": ["100 mL for H2fhba solution", "100 mL for o-phenylenediamine solution"],
+        "equipment": "N/A",
+        "chemicals_used": ["3-Formyl-4-hydroxybenzoic acid (H2fhba)", "o-phenylenediamine"],
+        "amount_of_chemicals": ["1.08 g, 6.50 mmol of H2fhba", "0.352 g, 3.25 mmol of o-phenylenediamine"],
+        "time": "N/A",
+        "washing_method": "washed with EtOH and THF",
+        "drying_method": "dried under reduced pressure",
+        "yield": "1.11 g, 77 %"
+      }
+    },
+    {
+      "name": "[Cu(H2salphdc)]·H2O",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": ["DMF", "H2O", "MeOH"],
+        "amount_of_solvents": ["2.5 mL of DMF/H2O (4:1)", "2.5 mL of DMF/MeOH (1:1)", "50 mL of DMF for bulk product addition"],
+        "equipment": "N/A",
+        "chemicals_used": ["H4salphdc", "Cu(OAc)·H2O"],
+        "amount_of_chemicals": ["5 mm of H4salphdc", "5 mm of Cu(OAc)·H2O", "0.20 g, 1.2 mmol of H4salphdc for bulk", "0.099 g, 1.2 mmol of Cu(OAc)·H2O for bulk"],
+        "time": "a few weeks for crystal formation",
+        "washing_method": "washed with MeOH",
+        "drying_method": "dried under vacuum for 2 h"
+      }
+    },
+    {
+      "name": "1·2 DMF ([Zn3(OH)2(LCu)2]·2 DMF)",
+      "synthesis_conditions": {
+        "temperature": "N/A",
+        "solvents": ["DMF", "CHCl3"],
+        "amount_of_solvents": ["2.5 ml of DMF", "2.5 ml of DMF/CHCl3 (2 mL/0.5 mL)"],
+        "equipment": "N/A",
+        "chemicals_used": ["[Cu(H2salphdc)]·H2O", "Zn(NO3)2·6 H2O"],
+        "amount_of_chemicals": ["2.3 mg of [Cu(H2salphdc)]·H2O", "2.2 mg of Zn(NO3)2·6 H2O", "0.098 g of H4salphdc", "0.089 g of Zn(NO3)2·6 H2O for bulk"],
+        "time": "a few weeks for crystal formation",
+        "washing_method": "washed with DMF",
+        "drying_method": "dried under vacuum for 5 h"
+      }
+    },
+    {
+      "name": "2 ([Zn3(OH)2(LCo)2]n)",
+      "synthesis_conditions": {
+        "temperature": "similar procedure as 1",
+        "solvents": "N/A",
+        "equipment": "N/A",
+        "chemicals_used": ["Co(OAc)2·4 H2O"],
+        "time": "N/A",
+        "washing_method": "N/A",
+        "drying_method": "N/A"
+      }
+    },
+    {
+      "name": "3 ([Zn3(OH)2(LNi)2]n)",
+      "synthesis_conditions": {
+        "temperature": "similar procedure as 1",
+        "solvents": "N/A",
+        "equipment": "N/A",
+        "chemicals_used": ["Ni(OAc)2·4 H2O"],
+        "time": "N/A",
+        "washing_method": "N/A",
+        "drying_method": "N/A"
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What is the main feature of DUT-8(Ni) structure that leads to its complex diffraction patterns?",
+      "answer": "The main feature of DUT-8(Ni) structure that leads to its complex diffraction patterns is the nonlinearity of the 2,6-ndc linker, which results in a systematic stepwise relocation of pillars in the crystal structure with a constant value of 1.2 Å, dictated by the quasilinear 2,6-naphthalene core.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the two types of loops that can form in the DUT-8(Ni) structure, and what symmetries do they correspond to?",
+      "answer": "The two types of loops that can form in the DUT-8(Ni) structure are C2h loops and D2d loops. C2h loops correspond to a local symmetry of 2/m, while D2d loops correspond to a local symmetry of D2d.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of specific guests influence the disorder configurations in DUT-8(Ni)?",
+      "answer": "The presence of specific guests influences the disorder configurations in DUT-8(Ni) by locking the framework in a specific disordered superstructure configuration in the ϕ,η landscape. Each guest species encodes a complex microdomain structure in the framework crystal, recording the exposure history and molecular information in the material.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental technique was used to analyze the domain structure of DUT-8(Ni) nanocrystals?",
+      "answer": "High-resolution transmission electron microscopy (HRTEM) and electron diffraction studies were used to analyze the domain structure of DUT-8(Ni) nanocrystals.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The 2,6-ndc linkers in DUT-8(Ni) perform thermally activated fast 180° flips irrespective of the solvent.",
+      "answer": "False. The 2H NMR measurements indicate that the majority of the 2,6-ndc linkers are interlocked after solvation and do not perform thermally activated fast 180° flips irrespective of the solvent.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the configurational landscape characterized by ϕ and η parameters in DUT-8(Ni)?",
+      "answer": "The configurational landscape characterized by ϕ and η parameters in DUT-8(Ni) is significant because it represents a vast array of disordered configurations that the framework can adopt. This landscape is navigable by suitable guest exchange chemistry, allowing for reversible switching between distinct disordered states and encoding complex information through the crystalline framework architecture.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role does the adsorption enthalpy and dipole moment of dichloromethane (DCM) play in the disorder–disorder transitions of DUT-8(Ni)?",
+      "answer": "The adsorption enthalpy and dipole moment of dichloromethane (DCM) play a crucial role in the disorder–disorder transitions of DUT-8(Ni) by favoring the formation of D2d loops, which is energetically slightly favored. DCM's high adsorption enthalpy and dipole moment stimulate the framework to adopt a configuration high in D2d loops, demonstrating the importance of solvent-framework interactions in directing the framework into a new disordered configuration.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the disorder–disorder switchability in DUT-8(Ni) potentially impact its applications in gas separation, storage, and sensing?",
+      "answer": "The disorder–disorder switchability in DUT-8(Ni) potentially impacts its applications in gas separation, storage, and sensing by allowing for reversible switching between distinct disordered states. This adaptability can lead to highly selective separation, ideal deliverable storage capacity, and novel sensing capabilities. The history-dependent transformation rates and activation energies of adaptive pore structure transformations could offer strategies to tune the performance of switchable MOFs in these applications.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental evidence supports the conclusion that 2,6-ndc linkers in DUT-8(Ni) are not freely rotating after solvation?",
+      "answer": "The experimental evidence supporting the conclusion that 2,6-ndc linkers in DUT-8(Ni) are not freely rotating after solvation comes from 2H solid-state NMR spectroscopy. The spectra showed a peak separation typical for immobile C–D groups and no significant change over a temperature range of 243–343 K, indicating that the linkers are interlocked and do not perform thermally activated rotations.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The initial as-made disorder configuration of DUT-8(Ni) can be restored by exchanging the solvent in the pores with a DMF/MeOH mixture.",
+      "answer": "False. The initial as-made disorder configuration of DUT-8(Ni) cannot be restored by exchanging the solvent in the pores with a DMF/MeOH mixture, even at elevated temperatures. This highlights the importance of switching history on the structure of metal–organic frameworks.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

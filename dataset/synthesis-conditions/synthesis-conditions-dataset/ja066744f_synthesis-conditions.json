@@ -1,0 +1,35 @@
+{
+  "materials": [
+    {
+      "material_name": "[Fe(TCNE)(NCMe)2][FeCl4]",
+      "synthesis_conditions": {
+        "chemicals_used": {
+          "TCNE": "34.0 mg, 266 mmol",
+          "FeCl2(NCMe)2": "107.7 mg, 515 mmol",
+          "CH2Cl2": "minimum amount for TCNE dissolution + 10 mL for slurry"
+        },
+        "reaction_conditions": {
+          "temperature": "ambient, in a dry box (<1 ppm O2)",
+          "time": "21 h"
+        },
+        "work_up": {
+          "washing_method": "washed with CH2Cl2",
+          "drying_method": "dried in vacuo"
+        },
+        "yield": "114 mg, 95%",
+        "characterization": {
+          "IR": {
+            "ν(C≡N)": [
+              "2321 cm-1 (m)",
+              "2310 cm-1 (m)",
+              "2294 cm-1 (m)",
+              "2283 cm-1 (m)",
+              "2222 cm-1 (s)",
+              "2178 cm-1 (s)"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

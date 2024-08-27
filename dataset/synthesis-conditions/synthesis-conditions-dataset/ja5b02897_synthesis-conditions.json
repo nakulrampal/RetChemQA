@@ -1,0 +1,104 @@
+{
+  "materials": [
+    {
+      "name": "Fe2(DSBDC)(DMF)2·x(DMF)",
+      "synthesis_conditions": {
+        "temperature": "140 °C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "20 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Anhydrous FeCl2",
+            "amount": "330 mg, 2.60 mmol"
+          },
+          {
+            "name": "H4DSBDC",
+            "amount": "120 mg, 0.52 mmol"
+          }
+        ],
+        "atmosphere": "N2",
+        "time": "18 h",
+        "washing_method": "extracted with 10 mL of dry and degassed DMF for approximately 12 h, refreshed two times",
+        "drying_method": "vacuum at 24 °C for 0.5 h",
+        "yield": "not specified",
+        "additional_information": "dark red-purple crystals suitable for single-crystal X-ray diffraction"
+      }
+    },
+    {
+      "name": "Fe2(DSBDC)(DMF)2",
+      "synthesis_conditions": {
+        "preparation_step": "Soaking Fe2(DSBDC)(DMF)2·x(DMF) in DCM",
+        "solvents": [
+          {
+            "name": "dichloromethane (DCM)",
+            "amount": "15 mL"
+          }
+        ],
+        "drying_method": "vacuum at 100 °C for 2 h",
+        "yield": "31%",
+        "additional_information": "dark red-purple solid"
+      }
+    },
+    {
+      "name": "Mn2(DSBDC)(DMF)2",
+      "synthesis_conditions": {
+        "preparation_step": "Soaking Mn2(DSBDC) in DMF and DCM",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "10 mL for DMF soaking, 15 mL for DCM soaking"
+          },
+          {
+            "name": "dichloromethane (DCM)",
+            "amount": "15 mL"
+          }
+        ],
+        "drying_method": "vacuum at 24 °C for 0.5 h for DMF soaked, vacuum at 100 °C for 2 h for DCM soaked",
+        "yield": "not specified",
+        "additional_information": "yellow solid"
+      }
+    },
+    {
+      "name": "Fe2(DOBDC)(DMF)2",
+      "synthesis_conditions": {
+        "preparation_step": "Soaking Fe2(DOBDC) in DMF and DCM",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "10 mL for DMF soaking, 15 mL for DCM soaking"
+          },
+          {
+            "name": "dichloromethane (DCM)",
+            "amount": "15 mL"
+          }
+        ],
+        "drying_method": "vacuum at 24 °C for 0.5 h for DMF soaked, vacuum at 100 °C for 2 h for DCM soaked",
+        "yield": "not specified",
+        "additional_information": "yellow solid"
+      }
+    },
+    {
+      "name": "Mn2(DOBDC)(DMF)2",
+      "synthesis_conditions": {
+        "preparation_step": "Soaking Mn2(DOBDC) in DMF and DCM",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "10 mL for DMF soaking, 15 mL for DCM soaking"
+          },
+          {
+            "name": "dichloromethane (DCM)",
+            "amount": "15 mL"
+          }
+        ],
+        "drying_method": "vacuum at 24 °C for 0.5 h for DMF soaked, vacuum at 100 °C for 2 h for DCM soaked",
+        "yield": "not specified",
+        "additional_information": "yellow solid"
+      }
+    }
+  ]
+}

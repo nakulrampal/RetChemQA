@@ -1,0 +1,58 @@
+{
+  "materials": [
+    {
+      "name": "Ni2(dobdc)",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": "DMF/EtOH/H2O mixture (120 mL)",
+        "solvent_amounts": "1:1:1 ratio",
+        "equipment": "250 mL Schlenk flask with reflux condenser",
+        "chemicals_used": [
+          {
+            "chemical": "H4(dobdc)",
+            "amount": "0.30 g, 1.5 mmol"
+          },
+          {
+            "chemical": "Ni(NO3)2•6 H2O",
+            "amount": "1.34 g, 4.60 mmol, 3.0 equiv"
+          }
+        ],
+        "time": "3 days",
+        "washing_method": "Soaked four times in MeOH at 60 °C, each for 12 h",
+        "drying_method": "Heated in vacuo on a Schlenk line at 80 °C for 1 day",
+        "yield": "0.12 g, 0.38 mmol, 25 %",
+        "additional_steps": [
+          {
+            "step": "Activation",
+            "details": "Fully activated by heating in vacuo (< 4 µbar) on a Micromeritics 2420 gas sorption analyzer at 180 °C for 1 day"
+          }
+        ]
+      }
+    },
+    {
+      "name": "M2(dobdc) and M2(m-dobdc)",
+      "synthesis_conditions": {
+        "references": [
+          "Caskey, S. R.; Wong-Foy, A. G.; Matzger, A. J. J. Am. Chem. Soc. 2008, 130, 10870–10871.",
+          "Bloch, E. D.; Murray, L. J.; Queen, W. L.; Chavan, S.; Maximoff, S. N.; Bigi, J. P.; Krishna, R.; Peterson, V. K.; Grandjean, F.; Long, G. J.; Smit, B.; Bordiga, S.; Brown, C. M.; Long, J. R. J. Am. Chem. Soc. 2011, 133, 14814–14822.",
+          "Geier, S. J.; Mason, J. A.; Bloch, E. D.; Queen, W. L.; Hudson, M. R.; Brown, C. M.; Long, J. R. Chem. Sci. 2013, 4, 2054–2061.",
+          "Kapelewski, M. T.; Geier, S. J.; Hudson, M. R.; Stück, D.; Mason, J. A.; Nelson, J. N.; Xiao, D. J.; Hulvey, Z.; Gilmour, E.; FitzGerald, S. A.; Head-Gordon, M.; Brown, C. M.; Long, J. R. J. Am. Chem. Soc. 2014, 136, 12119–12129.",
+          "Kapelewski, M. T.; Runčevski, T.; Tarver, J. D.; Jiang, H. Z. H.; Hurst, K. E.; Parilla, P. A.; Ayala, A.; Gennett, T.; FitzGerald, S. A.; Brown, C. M.; Long, J. R. Chem. Mater. 2018, 30, 8179–8189."
+        ]
+      }
+    },
+    {
+      "name": "Co2(m-dobdc)•(1-butene)1.64 and Co2(m-dobdc)•(cis-butene)2.88",
+      "synthesis_conditions": {
+        "powder_x-ray_diffraction_measurements": [
+          {
+            "details": "High-resolution synchrotron X-ray powder diffraction data collected at beamline 17-BM at the Advanced Photon Source at Argonne National Laboratory.",
+            "temperature": "250 K for 1-butene and 125 K for cis-2-butene",
+            "wavelength": "0.45415 Å for 1-butene and 0.45411 Å for cis-2-butene",
+            "refinement": "Rietveld refinement performed with TOPAS-Academic v4.1."
+          }
+        ]
+      }
+    }
+  ]
+}

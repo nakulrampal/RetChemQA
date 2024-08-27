@@ -1,0 +1,63 @@
+{
+  "materials": [
+    {
+      "name": "Cu-TCA",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": ["DMF", "methanol"],
+        "solvent_amounts": {
+          "DMF": "part of 15 mL mixed solvents",
+          "methanol": "part of 15 mL mixed solvents"
+        },
+        "equipment": "screw-capped vial",
+        "chemicals_used": ["H3TCA", "Cu(NO3)2 · 6H2O"],
+        "chemical_amounts": {
+          "H3TCA": "94 mg, 0.25 mmol",
+          "Cu(NO3)2 · 6H2O": "242 mg, 1 mmol"
+        },
+        "time": "3 days",
+        "yield": "70%",
+        "drying_method": "filtration"
+      }
+    },
+    {
+      "name": "Eu-TCA",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": ["DMF", "ethanol"],
+        "solvent_amounts": {
+          "DMF": "part of 15 mL mixed solvents",
+          "ethanol": "part of 15 mL mixed solvents"
+        },
+        "equipment": "screw-capped vial",
+        "chemicals_used": ["H3TCA", "Eu(NO3)3 · 6H2O"],
+        "chemical_amounts": {
+          "H3TCA": "94 mg, 0.25 mmol",
+          "Eu(NO3)3 · 6H2O": "446 mg, 1 mmol"
+        },
+        "time": "3 days",
+        "yield": "75%",
+        "drying_method": "filtration"
+      }
+    },
+    {
+      "name": "NCu-TCA",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": ["DMF", "CH3OH"],
+        "solvent_amounts": {
+          "DMF": "not specified",
+          "CH3OH": "not specified"
+        },
+        "equipment": "microwave heating",
+        "chemicals_used": ["H3TCA", "Cu(NO3)2"],
+        "chemical_amounts": {
+          "H3TCA": "not specified",
+          "Cu(NO3)2": "not specified"
+        },
+        "time": "5 min",
+        "yield": "30%"
+      }
+    }
+  ]
+}

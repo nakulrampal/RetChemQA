@@ -1,0 +1,554 @@
+{
+  "materials": [
+    {
+      "material_name": "4-Cyano-β-phenylethyl bromide S1",
+      "synthesis_conditions": {
+        "temperature": "reflux",
+        "solvent": "butanone",
+        "amount_of_solvent": "400 mL",
+        "chemicals_used": [
+          {
+            "chemical": "4-cyanophenol",
+            "amount": "5.95 g, 50.0 mmol"
+          },
+          {
+            "chemical": "1,2-dibromoethane",
+            "amount": "37.6 g, 200 mmol"
+          },
+          {
+            "chemical": "K2CO3",
+            "amount": "69.0 g, 500 mmol"
+          },
+          {
+            "chemical": "NaI",
+            "amount": "0.112 g, 5.00 mmol"
+          }
+        ],
+        "time": "18 h",
+        "yield": "96%",
+        "purification_method": "column chromatography",
+        "solvents_for_purification": "5:25 EtOAc:CH2Cl2",
+        "recrystallization_solvent": "hexane",
+        "melting_point": "53 °C",
+        "characterization": [
+          {
+            "technique": "1H NMR",
+            "solvent": "CDCl3",
+            "frequency": "400 MHz",
+            "temperature": "300 K"
+          },
+          {
+            "technique": "13C NMR",
+            "solvent": "CDCl3",
+            "frequency": "100 MHz",
+            "temperature": "300 K"
+          },
+          {
+            "technique": "LRFAB-MS",
+            "matrix": "3-NOBA",
+            "m/z": "226 [MH]+"
+          },
+          {
+            "technique": "HRFAB-MS",
+            "matrix": "3-NOBA",
+            "m/z": "225.9865 [MH]+",
+            "calculated_m/z": "225.9867"
+          }
+        ]
+      }
+    },
+    {
+      "material_name": "H2L8",
+      "synthesis_conditions": {
+        "steps": [
+          {
+            "step": "Synthesis from 4-cyanophenol",
+            "temperature": "reflux",
+            "solvents": [
+              {
+                "solvent": "butanone",
+                "amount": "50 mL"
+              },
+              {
+                "solvent": "THF",
+                "amount": "60 mL"
+              }
+            ],
+            "chemicals_used": [
+              {
+                "chemical": "4-tris(4-tert-butylphenyl)phenol",
+                "amount": "4.561 g, 9.05 mmol"
+              },
+              {
+                "chemical": "S1",
+                "amount": "6.135 g, 27.17 mmol"
+              },
+              {
+                "chemical": "K2CO3",
+                "amount": "12.49 g, 90.5 mmol"
+              },
+              {
+                "chemical": "LiAlH4",
+                "amount": "1.0 M in THF, 37 mL"
+              },
+              {
+                "chemical": "pyridine-2,6-dicarbonyl dichloride",
+                "amount": "0.783 g, 3.84 mmol"
+              }
+            ],
+            "time": [
+              "18 h",
+              "2 h"
+            ],
+            "yield": [
+              "87%",
+              "98%",
+              "88%"
+            ],
+            "purification_method": "column chromatography",
+            "solvents_for_purification": [
+              "CH2Cl2",
+              "MeCN"
+            ],
+            "melting_point": "181 °C",
+            "characterization": [
+              {
+                "technique": "1H NMR",
+                "solvent": "CDCl3",
+                "frequency": "400 MHz",
+                "temperature": "300 K"
+              },
+              {
+                "technique": "13C NMR",
+                "solvent": "CDCl3",
+                "frequency": "100 MHz",
+                "temperature": "300 K"
+              },
+              {
+                "technique": "LRFAB-MS",
+                "matrix": "3-NOBA",
+                "m/z": "1439 [MH]+"
+              },
+              {
+                "technique": "HRFAB-MS",
+                "matrix": "3-NOBA",
+                "m/z": "1438.851 [MH]+",
+                "calculated_m/z": "1438.851"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "material_name": "[CoL4]Et3NCH2Cl",
+      "synthesis_conditions": {
+        "steps": [
+          {
+            "step": "Synthesis from pre-catenate [CoL12]Et3NCH2Cl",
+            "temperature": "reflux",
+            "solvent": "CH2Cl2",
+            "amount_of_solvent": "500 mL",
+            "chemicals_used": [
+              {
+                "chemical": "Grubbs’ first generation olefin metathesis catalyst",
+                "amount": "0.056 g, 0.068 mmol"
+              }
+            ],
+            "time": "2 d",
+            "yield": "42%",
+            "purification_method": "column chromatography",
+            "solvents_for_purification": "40:1:59 Me2CO:Et3N:CH2Cl2",
+            "melting_point": "172 °C",
+            "characterization": [
+              {
+                "technique": "1H NMR",
+                "solvent": "(CD3)2CO",
+                "frequency": "400 MHz",
+                "temperature": "300 K"
+              },
+              {
+                "technique": "13C NMR",
+                "solvent": "(CD3)2CO",
+                "frequency": "100 MHz",
+                "temperature": "300 K"
+              },
+              {
+                "technique": "LRFAB-MS",
+                "matrix": "3-NOBA",
+                "m/z": "1082 [MH2]+"
+              }
+            ]
+          },
+          {
+            "step": "Hydrogenation",
+            "temperature": "room temperature",
+            "solvent": "methanol",
+            "amount_of_solvent": "30 mL",
+            "chemicals_used": [
+              {
+                "chemical": "Pd/C",
+                "amount": "0.020 g"
+              }
+            ],
+            "time": "18 h",
+            "yield": "85%",
+            "purification_method": "column chromatography",
+            "solvents_for_purification": "40:1:59 Me2CO:Et3N:CH2Cl2",
+            "melting_point": "168 °C",
+            "characterization": [
+              {
+                "technique": "1H NMR",
+                "solvent": "(CD3)2CO",
+                "frequency": "400 MHz",
+                "temperature": "300 K"
+              },
+              {
+                "technique": "13C NMR",
+                "solvent": "(CD3)2CO",
+                "frequency": "100 MHz",
+                "temperature": "300 K"
+              },
+              {
+                "technique": "LRFAB-MS",
+                "matrix": "3-NOBA",
+                "m/z": "1087 [MH2]+"
+              },
+              {
+                "technique": "HRFAB-MS",
+                "matrix": "3-NOBA",
+                "m/z": "1087.474 [MH2]+",
+                "calculated_m/z": "1087.474"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "material_name": "H4L7",
+      "synthesis_conditions": {
+        "steps": [
+          {
+            "step": "Synthesis from pre-catenate [L1CoL5]Et3NCH2Cl",
+            "temperature": "reflux",
+            "solvent": "CH2Cl2",
+            "amount_of_solvent": "900 mL",
+            "chemicals_used": [
+              {
+                "chemical": "Grubbs’ first generation olefin metathesis catalyst",
+                "amount": "0.100 g, 0.121 mmol"
+              }
+            ],
+            "time": "2 d",
+            "yield": "69%",
+            "purification_method": "column chromatography",
+            "solvents_for_purification": "40:1:59 Me2CO:Et3N:CH2Cl2",
+            "characterization": [
+              {
+                "technique": "1H NMR",
+                "solvent": "(CD3)2CO",
+                "frequency": "400 MHz",
+                "temperature": "300 K"
+              }
+            ]
+          },
+          {
+            "step": "Hydrogenation and demetalation",
+            "temperature": "room temperature",
+            "solvents": [
+              {
+                "solvent": "MeOH",
+                "amount": "10 mL"
+              },
+              {
+                "solvent": "AcOH",
+                "amount": "5 mL"
+              }
+            ],
+            "chemicals_used": [
+              {
+                "chemical": "Pd/C",
+                "amount": "0.060 g"
+              },
+              {
+                "chemical": "activated Zn dust",
+                "amount": "0.050 g"
+              }
+            ],
+            "time": [
+              "18 h",
+              "30 min"
+            ],
+            "yield": "65%",
+            "purification_method": "column chromatography",
+            "solvents_for_purification": "3:7 EtOAc:CH2Cl2",
+            "melting_point": "231 °C",
+            "characterization": [
+              {
+                "technique": "1H NMR",
+                "solvent": "CDCl3",
+                "frequency": "400 MHz",
+                "temperature": "300 K"
+              },
+              {
+                "technique": "13C NMR",
+                "solvent": "CDCl3",
+                "frequency": "100 MHz",
+                "temperature": "300 K"
+              },
+              {
+                "technique": "LREI-MS",
+                "m/z": "1031 [M]+"
+              },
+              {
+                "technique": "HREI-MS",
+                "m/z": "1030.556 [M]+",
+                "calculated_m/z": "1030.555"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "material_name": "[CoL7]Et3NCH2Cl",
+      "synthesis_conditions": {
+        "steps": [
+          {
+            "step": "Remetallation of catenand H4L7",
+            "temperature": "reflux",
+            "solvents": [
+              {
+                "solvent": "EtOH",
+                "amount": "5 mL"
+              },
+              {
+                "solvent": "THF",
+                "amount": "5 mL"
+              }
+            ],
+            "chemicals_used": [
+              {
+                "chemical": "Co(OAc)2·(H2O)4",
+                "amount": "0.072 g, 0.029 mmol"
+              },
+              {
+                "chemical": "Et4N(OAc)",
+                "amount": "0.076 g, 0.29 mmol"
+              },
+              {
+                "chemical": "NaOMe",
+                "amount": "0.069 g, 1.28 mmol"
+              }
+            ],
+            "time": "30 min",
+            "yield": "75%",
+            "purification_method": "column chromatography",
+            "solvents_for_purification": [
+              "1:39:60 Et3N:Me2CO:CH2Cl2",
+              "1:99 Et3N:Me2CO"
+            ],
+            "melting_point": "162 °C",
+            "characterization": [
+              {
+                "technique": "1H NMR",
+                "solvent": "CD2Cl2",
+                "frequency": "400 MHz",
+                "temperature": "300 K"
+              },
+              {
+                "technique": "13C NMR",
+                "solvent": "CD2Cl2",
+                "frequency": "100 MHz",
+                "temperature": "300 K"
+              },
+              {
+                "technique": "LRESI-MS",
+                "solvent": "CH2Cl2",
+                "m/z": "1085 [M]-"
+              },
+              {
+                "technique": "HRESI-MS",
+                "m/z": "1087.472 [MH2]+",
+                "calculated_m/z": "1087.473"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "material_name": "H4L10",
+      "synthesis_conditions": {
+        "steps": [
+          {
+            "step": "Synthesis from [L1CoL8]NEt3CH2Cl",
+            "temperature": "reflux",
+            "solvent": "CH2Cl2",
+            "amount_of_solvent": "100 mL",
+            "chemicals_used": [
+              {
+                "chemical": "Grubbs’ first generation olefin metathesis catalyst",
+                "amount": "0.020 g, 0.024 mmol"
+              }
+            ],
+            "time": "3 d",
+            "yield": "61%",
+            "purification_method": "column chromatography",
+            "solvents_for_purification": "1:39:60 Et3N:Me2CO:CH2Cl2",
+            "characterization": [
+              {
+                "technique": "1H NMR",
+                "solvent": "CD2Cl2",
+                "frequency": "400 MHz",
+                "temperature": "300 K"
+              },
+              {
+                "technique": "13C NMR",
+                "solvent": "CD2Cl2",
+                "frequency": "100 MHz",
+                "temperature": "300 K"
+              },
+              {
+                "technique": "LRESI-MS",
+                "solvent": "CH2Cl2",
+                "m/z": "2007 [M]-"
+              },
+              {
+                "technique": "HRFAB-MS",
+                "matrix": "3-NOBA",
+                "m/z": "2008.023 [MH2]+",
+                "calculated_m/z": "2008.026"
+              }
+            ]
+          },
+          {
+            "step": "Demetalation and hydrogenation",
+            "temperature": "room temperature",
+            "solvents": [
+              {
+                "solvent": "CH2Cl2",
+                "amount": "5 mL"
+              },
+              {
+                "solvent": "AcOH",
+                "amount": "5 mL"
+              },
+              {
+                "solvent": "THF",
+                "amount": "5 mL"
+              }
+            ],
+            "chemicals_used": [
+              {
+                "chemical": "activated zinc dust",
+                "amount": "0.146 g"
+              },
+              {
+                "chemical": "Pd/C",
+                "amount": "0.030 g"
+              }
+            ],
+            "time": [
+              "30 min",
+              "2 d"
+            ],
+            "yield": "83%",
+            "purification_method": "column chromatography",
+            "solvents_for_purification": "1:9 EtOAc:CH2Cl2",
+            "melting_point": "137 °C",
+            "characterization": [
+              {
+                "technique": "1H NMR",
+                "solvent": "CD2Cl2",
+                "frequency": "400 MHz",
+                "temperature": "300 K"
+              },
+              {
+                "technique": "13C NMR",
+                "solvent": "CD2Cl2",
+                "frequency": "100 MHz",
+                "temperature": "300 K"
+              },
+              {
+                "technique": "LREI-MS",
+                "m/z": "1954 [MH]+"
+              },
+              {
+                "technique": "HRFAB-MS",
+                "matrix": "3-NOBA",
+                "m/z": "1954.134 [MH]+",
+                "calculated_m/z": "1954.133"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "material_name": "[CoL10]Et3NCH2Cl",
+      "synthesis_conditions": {
+        "steps": [
+          {
+            "step": "Remetallation of rotaxane H4L10",
+            "temperature": "reflux",
+            "solvents": [
+              {
+                "solvent": "EtOH",
+                "amount": "5 mL"
+              },
+              {
+                "solvent": "THF",
+                "amount": "5 mL"
+              }
+            ],
+            "chemicals_used": [
+              {
+                "chemical": "Co(OAc)2·(H2O)4",
+                "amount": "0.017 g, 0.067 mmol"
+              },
+              {
+                "chemical": "Et4N(OAc)",
+                "amount": "0.015 g, 0.056 mmol"
+              },
+              {
+                "chemical": "NaOMe",
+                "amount": "0.013 g, 0.246 mmol"
+              }
+            ],
+            "time": "30 min",
+            "yield": "16%",
+            "purification_method": "column chromatography",
+            "solvents_for_purification": "1:39:60 Et3N:Me2CO:CH2Cl2",
+            "characterization": [
+              {
+                "technique": "1H NMR",
+                "solvent": "CD2Cl2",
+                "frequency": "400 MHz",
+                "temperature": "300 K"
+              },
+              {
+                "technique": "13C NMR",
+                "solvent": "CD2Cl2",
+                "frequency": "100 MHz",
+                "temperature": "300 K"
+              },
+              {
+                "technique": "LRESI-MS",
+                "solvent": "CH2Cl2",
+                "m/z": "2008 [M]-"
+              },
+              {
+                "technique": "HRFAB-MS",
+                "matrix": "3-NOBA",
+                "m/z": "2011.047 [MH2]+",
+                "calculated_m/z": "2011.047"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

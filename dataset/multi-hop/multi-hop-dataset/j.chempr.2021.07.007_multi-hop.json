@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of using a virial-type expression in the adsorption energy calculations for the six HUMs?",
+      "answer": "The virial-type expression is used to fit the combined 273 and 298 K isotherm data of C2H2 and CO2 for all six HUMs, allowing for the calculation of the coverage-dependent enthalpy of adsorption (Qst). This helps in understanding the adsorption behavior of the HUMs towards these gases.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why were accelerated stability tests conducted at 313 K and 75% RH for the HUMs?",
+      "answer": "Accelerated stability tests were conducted at these conditions to simulate a harsh environment that mimics longer shelf-life periods in a short amount of time. This helps in assessing the hydrolytic stability of the HUMs and their potential degradation under conditions that are relevant to practical applications.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the use of BEEF-vdW functional in DFT calculations benefit the study of C2H2 and CO2 adsorption in SIFSIX-21-Ni?",
+      "answer": "The BEEF-vdW functional is specifically designed to accurately account for van der Waals interactions as well as hydrogen bonds, making it an excellent choice for studying adsorption phenomena. Its use allows for a more accurate description of the interactions between the HUM and the adsorbates, leading to more reliable calculations of adsorption enthalpies and better understanding of the adsorption sites.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of conducting single-gas sorption cycling tests under pure C2H2 gas for the HUMs?",
+      "answer": "Single-gas sorption cycling tests under pure C2H2 gas are significant because they help in evaluating the adsorption capacity, kinetics, and recyclability of the HUMs specifically for C2H2. These tests provide insights into the efficiency and stability of the HUMs in selectively adsorbing C2H2 from mixtures, which is crucial for applications like gas separation and purification.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the Ideal Adsorbed Solution Theory (IAST) used for calculating adsorption selectivities from single-component adsorption isotherms?",
+      "answer": "IAST is used for calculating adsorption selectivities because it allows for the prediction of multicomponent adsorption behavior based on single-component adsorption isotherms. This theory provides a way to estimate how different gases will be adsorbed in a mixture, which is essential for designing materials for selective gas separation applications.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role does the calculation of separation factor or selectivity play in the evaluation of HUMs for gas separation?",
+      "answer": "The calculation of separation factor or selectivity plays a crucial role in evaluating HUMs for gas separation as it quantifies the material's ability to preferentially adsorb one gas over another from a mixture. High selectivity values indicate that the HUM is effective in separating specific gas pairs, making it a valuable property for assessing the performance of materials in gas separation applications.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the use of solid-state NMR spectroscopy contribute to the understanding of gas adsorption in HUMs?",
+      "answer": "Solid-state NMR spectroscopy contributes to the understanding of gas adsorption in HUMs by providing direct insights into the behavior of adsorbed gas molecules, including their motion, adsorption locations, and interaction strengths with the framework. This technique allows for the characterization of the dynamic and static aspects of gas adsorption, enhancing the understanding of how HUMs interact with different gases.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the importance of synthesizing single crystals of HUMs like SIFSIX-21-Ni and TIFSIX-4-Ni for their characterization?",
+      "answer": "Synthesizing single crystals of HUMs is important for their characterization because it allows for the determination of their precise crystal structures through single crystal X-ray diffraction. Understanding the crystal structure is crucial for elucidating the material's porosity, framework connectivity, and potential adsorption sites, which are key factors influencing their gas adsorption properties and overall performance in separation applications.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why are breakthrough experiments conducted for evaluating HUMs in C2H2/CO2 separation?",
+      "answer": "Breakthrough experiments are conducted for evaluating HUMs in C2H2/CO2 separation because they simulate real-world conditions where a mixture of gases passes through a fixed bed of the adsorbent material. These experiments provide valuable information on the dynamic adsorption behavior, separation efficiency, and capacity of the HUMs under continuous flow conditions, which is critical for assessing their practical applicability in industrial gas separation processes.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the purpose of performing in situ infrared (IR) spectroscopy measurements on HUMs after gas adsorption?",
+      "answer": "The purpose of performing in situ infrared (IR) spectroscopy measurements on HUMs after gas adsorption is to gain insights into the interactions between the adsorbed gases and the framework at the molecular level. These measurements can reveal changes in vibrational modes that indicate specific binding interactions, adsorption sites, and the strength of adsorption. This information is crucial for understanding the mechanisms of gas adsorption and designing more efficient materials for targeted gas separation applications.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

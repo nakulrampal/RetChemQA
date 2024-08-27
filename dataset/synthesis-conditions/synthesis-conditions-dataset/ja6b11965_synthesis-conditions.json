@@ -1,0 +1,108 @@
+{
+  "materials": [
+    {
+      "name": "KMgCO3F",
+      "synthesis": {
+        "solid_state_techniques": {
+          "pretreatment": {
+            "magnesium_carbonate_basic": {
+              "temperature": "270 °C",
+              "time": "15 h",
+              "atmosphere": "CO2 flowing gas"
+            },
+            "KF": {
+              "temperature": "110 °C",
+              "time": "10 h"
+            }
+          },
+          "stoichiometric_amounts": {
+            "KF": "0.232 g, 4.00 × 10^–3 mol",
+            "MgCO3": "0.337 g, 4.00 × 10^–3 mol"
+          },
+          "heating": {
+            "temperature": "330 °C",
+            "time": "7 days",
+            "atmosphere": "CO2 flowing gas",
+            "cooling_rate": "180 °C h^–1"
+          },
+          "intermittent_regrindings": "Yes"
+        },
+        "solvothermal_techniques": {
+          "reaction_mixture": {
+            "KF": "0.017 g (0.30 × 10^–3 mol)",
+            "polycrystalline_KMgCO3F": "0.426 g (3.00 × 10^–3 mol)",
+            "water": "2.00 mL (0.11 × 10^–3 mol)"
+          },
+          "autoclave_details": {
+            "volume": "23 mL",
+            "material": "Teflon-lined stainless steel"
+          },
+          "heating": {
+            "temperature": "230 °C",
+            "time": "9 days",
+            "cooling_rate": "6 °C h^–1"
+          },
+          "isolation": {
+            "method": "vacuum filtration",
+            "washing_solvent": "ethanol"
+          },
+          "yield": "approximately 70%",
+          "purity_check": "powder X-ray diffraction"
+        }
+      }
+    },
+    {
+      "name": "Cs9Mg6(CO3)8F5",
+      "synthesis": {
+        "solid_state_techniques": {
+          "pretreatment": {
+            "magnesium_carbonate_basic": {
+              "temperature": "270 °C",
+              "time": "15 h",
+              "atmosphere": "CO2 flowing gas"
+            },
+            "CsF": {
+              "temperature": "110 °C",
+              "time": "10 h"
+            }
+          },
+          "stoichiometric_amounts": {
+            "CsF": "0.760 g, 5.00 × 10^–3 mol",
+            "Cs2CO3": "0.652 g, 2.00 × 10^–3 mol",
+            "MgCO3": "0.506 g, 6.00 × 10^–3 mol"
+          },
+          "heating": {
+            "temperature": "345 °C",
+            "time": "10 days",
+            "atmosphere": "CO2 flowing gas",
+            "cooling_rate": "180 °C h^–1"
+          },
+          "intermittent_regrindings": "Yes"
+        },
+        "solvothermal_techniques": {
+          "reaction_mixture": {
+            "CsF": "0.030 g (0.20 × 10^–3 mol)",
+            "polycrystalline_Cs9Mg6(CO3)8F5": "1.917 g (1.00 × 10^–3 mol)",
+            "Cs2CO3": "0.033 g (0.10 × 10^–3 mol)",
+            "water": "3.00 mL (0.16 × 10^–3 mol)"
+          },
+          "autoclave_details": {
+            "volume": "23 mL",
+            "material": "Teflon-lined stainless steel"
+          },
+          "heating": {
+            "temperature": "230 °C",
+            "time": "14 days",
+            "cooling_rate": "6 °C h^–1"
+          },
+          "isolation": {
+            "method": "vacuum filtration",
+            "washing_solvent": "ethanol"
+          },
+          "yield": "approximately 60%",
+          "purity_check": "powder X-ray diffraction"
+        }
+      }
+    }
+  ]
+}

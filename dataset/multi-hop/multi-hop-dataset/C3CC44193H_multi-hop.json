@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the MOF synthesized in the study?",
+      "answer": "[Cu2(glu)2(µ-bpp)]·2H2O",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the single-crystal structure determination of the synthesized MOF?",
+      "answer": "Single-crystal structure determination was performed using a Bruker AXS APEX CCD area detector equipped with graphite monochromated Mo Kα radiation by applying the ω-scan method.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the yield percentage of the MOF synthesis?",
+      "answer": "60%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of adsorption isotherm does CO2 exhibit on the synthesized MOF at 273 K?",
+      "answer": "Type III adsorption isotherm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum CO2 uptake capacity of the synthesized MOF at 273 K and 30 bar?",
+      "answer": "15 wt. %",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What computational method was used to investigate the adsorption of CO2 on the synthesized MOF?",
+      "answer": "Grand canonical Monte Carlo (GCMC) simulations",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the glutarate ligand in the MOF's structure according to the high-pressure X-ray diffraction study?",
+      "answer": "The glutarate-Cu moiety experiences a small but progressive distortion, allowing the bpp pillars to bend rigidly with respect to it, closing the 'accordion' and bringing different planes significantly closer by shifting them laterally with respect to each other.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the synthesized MOF porous to methane (CH4) at 273 K?",
+      "answer": "No, the MOF is essentially non-porous to methane (CH4) at 273 K.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the synthesized MOF exhibit a gate opening or breathing effect during CO2 adsorption?",
+      "answer": "The text does not explicitly confirm a gate opening or breathing effect during CO2 adsorption, but suggests further experimental work is in progress to study the mechanism of action.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the interaction between CO2 and the synthesized MOF lower compared to that of H2, based on the type of adsorption isotherm observed?",
+      "answer": "Yes, the type III isotherm observed for CO2 suggests a lower interaction between CO2 and the MOF compared to the type I isotherm observed for H2.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesized MOF has a high CO2 selectivity due to its unusual adsorption behavior.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesized MOF shows a type I adsorption isotherm for methane (CH4) at 273 K.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesized MOF's structure remains unchanged under high pressure according to the high-pressure X-ray diffraction study.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesized MOF is non-porous to nitrogen (N2) at 77 K and 1 bar.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesized MOF's CO2 adsorption capacity at lower pressures is overpredicted by the GCMC simulations.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesized MOF exhibits a molecular sieving effect for CO2 but not for H2.",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesized MOF's adsorption behavior for CO2 can be fully explained by grand canonical Monte Carlo simulations.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesized MOF's structure allows for the diffusion of small molecules like H2 through its porosity.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

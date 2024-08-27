@@ -1,0 +1,92 @@
+{
+  "materials": [
+    {
+      "name": "TAMOF-1",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis of (E)-N′-((E)-(Dimethylamino)­methylene)-N,N-dimethylformohydrazonamide (2)",
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "150 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "SOCl2",
+              "amount": "28.6 mL (0.39 mol)"
+            },
+            {
+              "name": "NH2NH2·H2O",
+              "amount": "5 mL (0.1 mol) dissolved in 15 mL of DMF"
+            }
+          ],
+          "time": "48 h",
+          "washing_method": "washed with DMF (20 × 3 mL) and Et2O (10 × 3 mL)",
+          "yield": "20.5 g (0.095 mol, 95%)"
+        },
+        {
+          "step": "Synthesis of (S)-3-(1H-Imidazol-5-yl)-2-(4H-1,2,4-triazol-4-yl)­propanoic Acid (S-HTA)",
+          "temperature": "reflux",
+          "solvents": [
+            {
+              "name": "EtOH",
+              "amount": "150 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "2",
+              "amount": "6.3 g (0.044 mol)"
+            },
+            {
+              "name": "L-histidine",
+              "amount": "3.1 g (0.02 mol)"
+            }
+          ],
+          "time": "48 h",
+          "washing_method": "washed with EtOH (15 × 3 mL), Et2O (15 × 3 mL)",
+          "yield": "3.5 g (0.017 mol, 85%)"
+        },
+        {
+          "step": "Synthesis of [Cu­(H2O)2(S-TA)2]·6H2O (TAMOF-1)",
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "H2O",
+              "amount": "50 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "CuII(CH3COO)2·H2O",
+              "amount": "0.48 g (2.4 mmol)"
+            },
+            {
+              "name": "HTA",
+              "amount": "1.0 g (4.8 mmol)"
+            }
+          ],
+          "time": "30 min",
+          "washing_method": "washed with H2O (50 × 3 mL)",
+          "yield": "1.1 g (70%)"
+        }
+      ],
+      "characterization_methods_excluded": [
+        "Powder X-Ray Diffraction (PXRD)",
+        "Infrared (IR) spectra",
+        "adsorption isotherms",
+        "thermogravimetric analysis (TGA)",
+        "nuclear magnetic resonance (NMR) experiments"
+      ],
+      "properties_excluded": [
+        "crystal structure",
+        "photoluminescent properties",
+        "porosity",
+        "chemical stability",
+        "mechanical stability"
+      ]
+    }
+  ]
+}

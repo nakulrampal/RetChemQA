@@ -1,0 +1,143 @@
+{
+  "materials": [
+    {
+      "name": "Fe3-Fe",
+      "synthesis_conditions": {
+        "temperature": "140 °C",
+        "time": "48 h",
+        "solvents": "N,N-dimethylacetamide (DMA)",
+        "amount_of_solvent": "60.0 mL",
+        "chemicals_used": [
+          {
+            "name": "FeCl2·4H2O",
+            "amount": "1.193 g, 6.0 mmol"
+          },
+          {
+            "name": "H2bdc (1,4-benzenedicaboxylic acid)",
+            "amount": "0.996 g, 6.0 mmol"
+          },
+          {
+            "name": "Hna (nicotinic acid)",
+            "amount": "0.738 g, 6.0 mmol"
+          },
+          {
+            "name": "HBF4 (50 wt% in H2O)",
+            "amount": "0.4 mL"
+          }
+        ],
+        "yield": "50%"
+      }
+    },
+    {
+      "name": "Fe3",
+      "synthesis_conditions": {
+        "method": "Single crystals of Fe3-Fe were immersed in dilute HCl (pH = 4.0) for 3−4 weeks or microcrystalline Fe3-Fe was heated in dilute HCl (pH = 3.0) at 100 °C for 3 days",
+        "yield": "52%"
+      }
+    },
+    {
+      "name": "Fe3-Co2",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "time": "24 h",
+        "solvents": "N,N-dimethylacetamide (DMA)",
+        "amount_of_solvent": "60.0 mL",
+        "chemicals_used": [
+          {
+            "name": "Fe3",
+            "amount": "910 mg, 1.0 mmol"
+          },
+          {
+            "name": "CoCl2·6H2O",
+            "amount": "357 mg, 1.5 mmol"
+          },
+          {
+            "name": "Hna (nicotinic acid)",
+            "amount": "369 mg, 3.0 mmol"
+          }
+        ],
+        "yield": "46%"
+      }
+    },
+    {
+      "name": "Co3-Co2",
+      "synthesis_conditions": {
+        "temperature": "140 °C",
+        "time": "48 h",
+        "solvents": "N,N-dimethylacetamide (DMA)",
+        "amount_of_solvent": "60.0 mL",
+        "chemicals_used": [
+          {
+            "name": "CoCl2·6H2O",
+            "amount": "1.428 g, 6.0 mmol"
+          },
+          {
+            "name": "H2bdc (1,4-benzenedicaboxylic acid)",
+            "amount": "0.996 g, 6.0 mmol"
+          },
+          {
+            "name": "Hna (nicotinic acid)",
+            "amount": "0.738 g, 6.0 mmol"
+          },
+          {
+            "name": "HBF4 (50 wt% in H2O)",
+            "amount": "0.4 mL"
+          }
+        ],
+        "yield": "78%"
+      }
+    },
+    {
+      "name": "Co:MCF-48 or Co:Fe3",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "time": "1 day, 3 days, or 7 days",
+        "solvents": "N,N-dimethylacetamide (DMA)",
+        "amount_of_solvent": "60.0 mL",
+        "chemicals_used": [
+          {
+            "name": "Fe3-Fe",
+            "amount": "1.41 g, 0.25 mmol"
+          },
+          {
+            "name": "CoCl2·6H2O",
+            "amount": "357 mg, 1.5 mmol"
+          }
+        ],
+        "yield": "65%"
+      }
+    },
+    {
+      "name": "Fe:MCF-50 or Fe:Co3-Co2",
+      "synthesis_conditions": {
+        "temperature": "140 °C",
+        "time": "48 h",
+        "solvents": "N,N-dimethylacetamide (DMA)",
+        "amount_of_solvent": "60.0 mL",
+        "chemicals_used": [
+          {
+            "name": "FeCl2·4H2O",
+            "amount": "1.193 g, 6.0 mmol"
+          },
+          {
+            "name": "CoCl2·6H2O",
+            "amount": "0.714 g, 3.0 mmol"
+          },
+          {
+            "name": "H2bdc (1,4-benzenedicaboxylic acid)",
+            "amount": "0.996 g, 6.0 mmol"
+          },
+          {
+            "name": "Hna (nicotinic acid)",
+            "amount": "0.738 g, 6.0 mmol"
+          },
+          {
+            "name": "HBF4 (50 wt% in H2O)",
+            "amount": "0.4 mL"
+          }
+        ],
+        "yield": "75%"
+      }
+    }
+  ]
+}

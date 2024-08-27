@@ -1,0 +1,61 @@
+{
+  "materials": [
+    {
+      "name": "TPHA",
+      "synthesis_conditions": {
+        "chemicals_used": "tris(4-acetylphenyl)amine, 2-hydrazinylpyridine",
+        "molar_ratio": "1:3",
+        "method": "reaction"
+      }
+    },
+    {
+      "name": "Ag-TPHA",
+      "synthesis_conditions": {
+        "chemicals_used": "TPHA, AgBF4",
+        "solvent": "methanol",
+        "method": "reaction"
+      }
+    },
+    {
+      "name": "Ag-1",
+      "synthesis_conditions": {
+        "additive": "(+)-cinchonine",
+        "mol_percentage": "10 mol %",
+        "crystallization_space_group": "I213",
+        "crystallization_method": "using (+)-cinchonine as additive"
+      }
+    },
+    {
+      "name": "Ag-2",
+      "synthesis_conditions": {
+        "additive": "((cid:2))-cinchonidine",
+        "mol_percentage": "10 mol %",
+        "crystallization_space_group": "I213",
+        "crystallization_method": "using ((cid:2))-cinchonidine as additive"
+      }
+    },
+    {
+      "name": "Ag-3",
+      "synthesis_conditions": {
+        "substrate": "methyl-2-(benzylideneamino) acetate (MBA)",
+        "solvent": "CHCl3",
+        "solvent_volume": "1.5 mL",
+        "substrate_amount": "1 mmol",
+        "catalyst_amount": "0.015 mmol",
+        "method": "soaking crystalline Ag-TPHA in solution of MBA"
+      }
+    },
+    {
+      "name": "Ag-1 catalyzed reaction",
+      "synthesis_conditions": {
+        "reaction": "asymmetric 1,3-dipolar cycloaddition",
+        "substrates": "methyl-2-(benzylideneamino)acetate (MBA), N-methylmaleimide (NMM)",
+        "catalyst_loading": "3 mol %",
+        "yield": "over 90 %",
+        "enantioselectivity": "over 90 %",
+        "reaction_time": "24 hours",
+        "product": "endo adduct"
+      }
+    }
+  ]
+}

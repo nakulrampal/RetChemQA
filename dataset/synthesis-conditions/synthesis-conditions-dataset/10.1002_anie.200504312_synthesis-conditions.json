@@ -1,0 +1,63 @@
+{
+  "materials": [
+    {
+      "name": "Polymer substrates",
+      "synthesis_conditions": {
+        "monomers": ["methacrylic acid (MAA)", "4-vinylpyridine (4VP)"],
+        "cross-linker": "divinylbenzene (DVB)",
+        "ratios": "various ratios for discrete percentages of acidic or basic functionality",
+        "solvent": "N,N-diethylformamide (DEF)",
+        "equipment": ["microtiter plate", "UVA lamps"],
+        "initiator": "1 mol % 2,2D-azobisisobutyronitrile (AIBN)",
+        "irradiation_time": "3 h",
+        "annealing_temperature": "85 °C",
+        "annealing_time": "4 h",
+        "annealing_environment": "vacuum oven (< 1 Torr)",
+        "purpose": "to create insoluble copolymers with discrete percentages of acidic or basic functionality"
+      }
+    },
+    {
+      "name": "PNMOF-1",
+      "synthesis_conditions": {
+        "solvent": "N,N-diethylformamide (DEF)",
+        "dicarboxylic_acid": "1,4-benzenedicarboxylate (BDC)",
+        "metal_source": "Zn(NO3)2·4 H2O",
+        "metal_source_concentration": "80.0 mM",
+        "dicarboxylic_acid_concentration": "26.7 mM",
+        "temperature": "85 °C",
+        "time": "1 day",
+        "polymer_composition": "MAA/DVB copolymers with less than 30% MAA",
+        "additional_conditions": ["presence of cross-linked copolymers", "sealed microtiter plates", "pressed between aluminum plates to prevent solvent loss"]
+      }
+    },
+    {
+      "name": "PNMOF-2",
+      "synthesis_conditions": {
+        "solvent": "N,N-diethylformamide (DEF)",
+        "dicarboxylic_acid": "bromine-substituted 1,4-benzenedicarboxylic acid (H2BrBDC)",
+        "metal_source": "Zn(NO3)2·4 H2O",
+        "metal_source_concentration": "80.0 mM",
+        "dicarboxylic_acid_concentration": "26.7 mM",
+        "temperature": "100 °C",
+        "time": "1 day",
+        "polymer_composition": "polymers containing up to 20% MAA or 30% 4VP cross-linked with DVB",
+        "additional_conditions": ["presence of cross-linked copolymers", "sealed microtiter plates", "pressed between aluminum plates to prevent solvent loss"]
+      }
+    },
+    {
+      "name": "PNMOF-3",
+      "synthesis_conditions": {
+        "solvent": "N,N-diethylformamide (DEF)",
+        "dicarboxylic_acid": "amine-substituted dicarboxylic acid (H2NH2BDC)",
+        "metal_source": "Zn(NO3)2·4 H2O",
+        "metal_source_concentration": "80.0 mM",
+        "dicarboxylic_acid_concentration": "26.7 mM",
+        "temperature": "100 °C",
+        "time": "1 day",
+        "polymer_composition": "MAA/DVB copolymers",
+        "additional_conditions": ["presence of cross-linked copolymers", "sealed microtiter plates", "pressed between aluminum plates to prevent solvent loss"],
+        "specific_observation": "PNMOF-3 is not observed when 4VP/DVB copolymers or polydivinylbenzene are utilized"
+      }
+    }
+  ]
+}

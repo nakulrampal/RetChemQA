@@ -1,0 +1,130 @@
+{
+  "materials": [
+    {
+      "name": "Cr12(cdc)12",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Cr2(OAc)4",
+            "amount": "100 mg",
+            "molar_amount": "0.292 mmol"
+          },
+          {
+            "name": "H2cdc",
+            "amount": "75 mg",
+            "molar_amount": "0.294 mmol"
+          },
+          {
+            "solvents": [
+              {
+                "name": "DMF/MeOH",
+                "volume": "10 mL",
+                "ratio": "4:1"
+              }
+            ]
+          }
+        ],
+        "temperature": "70 C",
+        "time": "12 h",
+        "equipment": "20 mL scintillation vial",
+        "atmosphere": "nitrogen",
+        "washing_method": "MeOH soaking for 3 days, exchanging solvent every 24 h",
+        "drying_method": "dried over a frit and stored under nitrogen"
+      }
+    },
+    {
+      "name": "Cu12(cdc)12",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Cu(NO3)2 • 2.5 H2O",
+            "amount": "46.5 mg",
+            "molar_amount": "0.2 mmol"
+          },
+          {
+            "name": "H2cdc",
+            "amount": "50 mg",
+            "molar_amount": "0.2 mmol"
+          },
+          {
+            "solvents": [
+              {
+                "name": "DMF/EtOH",
+                "volume": "15 mL",
+                "ratio": "1:1"
+              }
+            ]
+          }
+        ],
+        "temperature": "95 C",
+        "time": "12 h",
+        "equipment": "20 mL scintillation vial",
+        "atmosphere": "nitrogen",
+        "washing_method": "MeOH soaking for 2-3 days, exchanging solvent every 8 h",
+        "drying_method": "dried through active vacuum in the glove box and stored under nitrogen"
+      }
+    },
+    {
+      "name": "Mo12(cdc)12",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Mo2(OAc)4",
+            "amount": "67 mg",
+            "molar_amount": "0.16 mmol"
+          },
+          {
+            "name": "H2cdc",
+            "amount": "80 mg",
+            "molar_amount": "0.32 mmol"
+          },
+          {
+            "solvents": [
+              {
+                "name": "DEF",
+                "volume": "15 mL"
+              }
+            ]
+          }
+        ],
+        "temperature": "100 C",
+        "time": "12 h",
+        "equipment": "20 mL scintillation vial",
+        "atmosphere": "nitrogen",
+        "washing_method": "MeOH soaking for 2-3 days, exchanging solvent every 8 h",
+        "drying_method": "dried through active vacuum in the glove box and stored under nitrogen"
+      }
+    },
+    {
+      "name": "PCN-81",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "9,9’-(1,4-phenylene)bis-cdc",
+            "amount": "50 mg",
+            "molar_amount": "0.085 mmol"
+          },
+          {
+            "name": "Cu(NO3)2 • 2.5 H2O",
+            "amount": "145 mg",
+            "molar_amount": "0.623 mmol"
+          },
+          {
+            "solvents": [
+              {
+                "name": "DMSO/DMA",
+                "volume": "18 mL",
+                "ratio": "1:2"
+              }
+            ]
+          }
+        ],
+        "temperature": "85 C",
+        "time": "3 days",
+        "equipment": "20 mL scintillation vial",
+        "washing_method": "DMF and MeOH exchange for three days, exchanging solvent every 8 hours",
+        "drying_method": "heated to 100 C under dynamic vacuum for two days"
+      }
+    }
+  ]
+}

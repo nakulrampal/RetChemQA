@@ -1,0 +1,82 @@
+{
+  "materials": [
+    {
+      "material": "9-allyladenine (9-AA)",
+      "synthesis_conditions": {
+        "solvents": "Methanol",
+        "amount_of_solvent": "5 mL",
+        "chemicals_used": "9-AA (200 mg, 1.12 mmol, 1 eq), Silver nitrate (227 mg, 1.34 mmol, 1.2 eq)",
+        "equipment": "Stirring apparatus",
+        "time": "Stirring continued for another 2h",
+        "washing_method": "Washed with water (4x 5 mL) and methanol (4x 5 mL)",
+        "drying_method": "Dried under high vacuum",
+        "yield": "94%",
+        "additional_information": {
+          "FABMS": "(M++Ag++1)= 284",
+          "M.P": "107º C",
+          "1H_NMR": "(400 MHz, d6-DMSO, 25°C, TMS) δ(ppm) 4.87(s, 2H), 5.01-5.52 (m, 2H), 6.02-6.08 (m, 1H), 7.69 (s, 2H, D2O exchange), 8.29 (s, 1H), 8.33 (s, 1H)",
+          "13C_NMR": "(100 MHz, d6-DMSO, 25°C, TMS); δ (ppm) 45.27, 117.46, 118.11, 132.89, 142.36, 145.54, 153.46, 155.37",
+          "Elemental_Analysis": "Calcd. For C8H9N6O3Ag, C, 27.85; H, 2.63; N, 24.36; found C, 27.56; H, 2.94; N, 24.49"
+        }
+      }
+    },
+    {
+      "material": "Compound-1",
+      "synthesis_conditions": {
+        "crystallization_method": "Layer diffusion method",
+        "equipment": "Bruker SMART CCD4 X-ray diffraction instrument",
+        "crystal_data": {
+          "formula": "C9H9AgN6O3.5",
+          "molecular_weight": "365.09",
+          "space_group": "Orthorhombic, Fdd2 (No. 43)",
+          "cell_dimensions": "a=24.66Å, b=26.05 Å, c=7.50Å",
+          "volume": "4824.84(48)Å3",
+          "Z": "16",
+          "density": "1.90g/cm-3",
+          "temperature": "100(2) K",
+          "mu": "1.682mm-1",
+          "reflections_collected": "7870",
+          "independent_reflections": "2277 [R(int) = 0.0226]",
+          "final_R1": "0.0251",
+          "wR2": "0.067 [I>2sigma(I)]",
+          "all_data_R1": "0.0252",
+          "all_data_wR2": "0.067",
+          "goodness_of_fit": "S = 1.088",
+          "maximum_peak": "0.872 eÅ-3",
+          "minimum_peak": "-0.724 eÅ-3",
+          "CCDC_number": "283078"
+        },
+        "solvent_accessible_area": {
+          "grid": "0.20 Å",
+          "probe_radius": "1.20Å",
+          "van_der_Waals_radii": {
+            "C": "1.70",
+            "H": "1.20",
+            "Ag": "2.39",
+            "N": "1.55",
+            "O": "1.52"
+          },
+          "filled_space_percent": "70.6",
+          "solvent_area_volume": "480.2 Å-3 per unit cell vol (4824.8 Å-3) [10.0%]"
+        }
+      }
+    },
+    {
+      "material": "AFM sample preparation",
+      "synthesis_conditions": {
+        "solvent": "DMF",
+        "solution_concentration": "1 mM",
+        "substrate": "Freshly cleaved graphite",
+        "drying_method": "Dried under mild air flow and high vacuum",
+        "AFM_conditions": {
+          "mode": "Acoustic AC mode (AAC)",
+          "cantilever_force_constant": "0.6 N/m",
+          "resonant_frequency": "150 kHz",
+          "scan_speed": "1.5-2.2 lines/sec",
+          "software": "PicoScan 5®",
+          "analysis_software": "Visual SPM, SPIP"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "materials": [
+    {
+      "name": "Triangulene H3L",
+      "synthesis_steps": [
+        {
+          "step": 1,
+          "reagents": [
+            "N-bromosuccinimide (3.1 equiv)",
+            "CH3CN"
+          ],
+          "temperature_start": "0 88C",
+          "temperature_end": "room temperature",
+          "time": "19 h"
+        },
+        {
+          "step": 2,
+          "reagents": [
+            "n-Butyllithium (3.1 equiv)",
+            "toluene",
+            "bis(N,N-diethylamino)chlorophosphine (3.5 equiv)",
+            "S8 (4.0 equiv)"
+          ],
+          "solvents": [
+            "toluene/ether (1:3 v/v)"
+          ],
+          "temperature_start": "0 88C",
+          "temperature_end": "room temperature",
+          "time": "16 h"
+        },
+        {
+          "step": 3,
+          "reagents": [
+            "AlCl3 (3.0 equiv)",
+            "N,N-diisopropylethylamine (2.0 equiv)",
+            "o-dichlorobenzene"
+          ],
+          "temperature_start": "0 88C",
+          "temperature_end": "140 88C",
+          "time": "24 h"
+        },
+        {
+          "step": 4,
+          "reagents": [
+            "m-CPBA (12.0 equiv)",
+            "dichloromethane"
+          ],
+          "temperature": "-40 88C",
+          "time": "20 min"
+        },
+        {
+          "step": 5,
+          "reagents": [
+            "3 m aq. HCl/THF (1:1 v/v)"
+          ],
+          "temperature_start": "0 88C",
+          "temperature_end": "60 88C",
+          "time": "8 h"
+        }
+      ],
+      "yield": "Final step: 81%"
+    },
+    {
+      "name": "[Cu(HL)(DMSO)·(MeOH)]n (1)",
+      "synthesis_steps": [
+        {
+          "reagents": [
+            "H3L in DMSO (1.0 X 10@2 m)",
+            "CuSO4·5 H2O in MeOH (1.0 X 10@2 m)"
+          ],
+          "temperature": "40 88C",
+          "time": "2 d",
+          "yield": "46%"
+        }
+      ]
+    },
+    {
+      "name": "H3L·0.5 [Cu2(OH)4·6 H2O]·4 H2O (1’’)",
+      "synthesis_conditions": [
+        {
+          "method": "Exposure to water vapor in air",
+          "time": "1 week"
+        },
+        {
+          "method": "Removal of MeOH in vacuo",
+          "time": "12 h"
+        }
+      ],
+      "transformation_from": "[Cu(HL)(DMSO)·(MeOH)]n (1)"
+    }
+  ]
+}

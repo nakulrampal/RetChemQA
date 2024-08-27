@@ -1,0 +1,67 @@
+{
+  "materials": [
+    {
+      "name": "[Ag2(Me4bpz)]·guest (1·g)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "ethanol",
+            "amount": "5 mL"
+          },
+          {
+            "name": "aqueous ammonia",
+            "amount": "5 mL",
+            "concentration": "26%"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H2Me4bpz",
+            "amount": "0.0190 g",
+            "molarity": "0.1 mmol"
+          },
+          {
+            "name": "Ag2O",
+            "amount": "0.0232 g",
+            "molarity": "0.1 mmol"
+          }
+        ],
+        "time": "two weeks",
+        "washing_method": "ethanol",
+        "equipment": "not specified",
+        "temperature": "room temperature"
+      }
+    },
+    {
+      "name": "guest-free single-crystal [Ag2(Me4bpz)] (1)",
+      "synthesis_conditions": {
+        "previous_material": "[Ag2(Me4bpz)]·guest (1·g)",
+        "temperature": "below 120 8C for guest removal, decomposes above 300 8C",
+        "atmosphere": "nitrogen flow",
+        "equipment": "not specified",
+        "time": "not specified"
+      }
+    },
+    {
+      "name": "[Ag30(Me4bpz)15]·10 (C6H6) (2·b) and [Ag30(Me4bpz)15]·9 (C6H5CH3) (2·t)",
+      "synthesis_conditions": {
+        "previous_material": "[Ag2(Me4bpz)] (1)",
+        "solvents": "saturated vapor of benzene or toluene",
+        "temperature": "room temperature",
+        "time": "not specified",
+        "equipment": "not specified",
+        "additional_information": "Single crystals of 1 were exposed to a saturated vapor of each guest at room temperature."
+      }
+    },
+    {
+      "name": "Phase 1 recovery from 2·b and 2·t",
+      "synthesis_conditions": {
+        "previous_material": "[Ag30(Me4bpz)15]·10 (C6H6) (2·b) and [Ag30(Me4bpz)15]·9 (C6H5CH3) (2·t)",
+        "temperature": "90–110 8C",
+        "time": "not specified",
+        "equipment": "not specified",
+        "additional_information": "Heating the same single crystal of 2·b and 2·t at 90–110 8C."
+      }
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "materials": [
+    {
+      "name": "2,2’-diacetyl-1,1’-binaphthyl-6,6’-bis(diethylphosphonate)",
+      "synthesis_conditions": {
+        "temperature": "reflux",
+        "solvents": [
+          {
+            "name": "NEt3",
+            "amount": "15 mL"
+          },
+          {
+            "name": "benzene",
+            "amount": "120 mL"
+          }
+        ],
+        "time": "3 days",
+        "yield": ">99 %",
+        "alternative_yield": "95%",
+        "chemicals_used": [
+          "6,6’-dibromo-2,2’-diacetyl-1,1’-binaphthalene (5.6 g, 10.6 mmol)",
+          "diethylphosphite (3.4 mL, 3.6 mmol)",
+          "Pd(PPh3)4 (0.61g, 0.53 mmol)"
+        ],
+        "washing_method": "water",
+        "drying_method": "MgSO4"
+      }
+    },
+    {
+      "name": "2,2’-Dihydroxy-1,1’-binaphthyl-6,6’-bis(diethylphosphonate)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "MeOH",
+            "amount": "95 mL"
+          },
+          {
+            "name": "THF",
+            "amount": "95 mL"
+          },
+          {
+            "name": "water",
+            "amount": "95 mL"
+          }
+        ],
+        "time": "24 h",
+        "yield": "95%",
+        "chemicals_used": [
+          "crude 2,2’-diacetyl-1,1’-binaphthyl-6,6’-bis(diethylphosphonate) (6.8 g, 11 mmol)",
+          "KOH (1.8 g, 32 mmol)"
+        ],
+        "washing_method": "water",
+        "drying_method": "MgSO4"
+      }
+    },
+    {
+      "name": "2,2’-Penta(ethylene glycol)-1,1’-binaphthyl-6,6’-bis(diethylphosphonate)",
+      "synthesis_conditions": {
+        "temperature": "reflux",
+        "solvents": [
+          {
+            "name": "anhydrous THF",
+            "amount": "225 mL"
+          }
+        ],
+        "time": "3 days",
+        "yield": "47%",
+        "chemicals_used": [
+          "penta(ethylene glycol) di-p-toluenesulfonate (1.6 mL, 3.7 mmol)",
+          "2,2’-dihydroxy-1,1’-binaphthyl-6,6’-bis(diethylphosphonate) (2.0 g, 5.4 mmol)",
+          "NaH (in 60% mineral oil, 27 g, 11 mmol)"
+        ],
+        "washing_method": "water",
+        "drying_method": "MgSO4"
+      }
+    },
+    {
+      "name": "2,2’-Penta(ethylene glycol)-1,1’-binaphthyl-6,6’-bis(phosphonic acid)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "CH2Cl2",
+            "amount": "50 mL"
+          },
+          {
+            "name": "MeOH",
+            "amount": "50 mL"
+          }
+        ],
+        "time": "36h + ½ h",
+        "yield": "quantitative",
+        "chemicals_used": [
+          "2,2’-penta(ethylene glycol)-1,1’-binaphthyl-6,6’-bis(diethylphosphonate) (840mg, 1.1 mmol)",
+          "(CH3)3SiBr (0.87 mL, 6.6 mmol)"
+        ]
+      }
+    },
+    {
+      "name": "[Nd2(L-H)2(MeOH)8]·(L-H4)·(HCl)3·(H2O)6, 1a",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "30 mL"
+          }
+        ],
+        "time": "24 hours",
+        "yield": "58%",
+        "chemicals_used": [
+          "Nd(NO3)3·6H2O (219 mg, 0.5 mmol)",
+          "2,2’-pentaethylene glycol-1,1’-binaphthyl-6,6’-bis(phosphonic acid) (324 mg, 0.5 mmol)",
+          "conc. HCl (0.67 mL)"
+        ]
+      }
+    },
+    {
+      "name": "[Sm2(L-H)2(MeOH)8]·(L-H4)·(HCl)3·(H2O)6, 1b",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "5 mL"
+          }
+        ],
+        "time": "3 days",
+        "yield": "58%",
+        "chemicals_used": [
+          "Sm(NO3)3·6H2O (111 mg, 0.25 mmol)",
+          "2,2’-pentaethylene glycol-1,1’-binaphthyl-6,6’-bis(phosphonic acid) (162 mg, 0.25 mmol)",
+          "conc. HCl (0.25 mL)"
+        ]
+      }
+    }
+  ]
+}

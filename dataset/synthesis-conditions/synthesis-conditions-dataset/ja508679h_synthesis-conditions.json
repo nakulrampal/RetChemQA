@@ -1,0 +1,96 @@
+{
+  "materials": [
+    {
+      "name": "5,15-di(p-benzoato)porphyrin (H2DBP)",
+      "synthesis": {
+        "steps": [
+          {
+            "step": 1,
+            "description": "Synthesis of dipyrrylmethane",
+            "chemicals": [
+              "pyrrole",
+              "paraformaldehyde",
+              "sodium hydroxide",
+              "trifluoroacetic acid (TFA)"
+            ],
+            "solvents": [
+              "dichloromethane"
+            ],
+            "conditions": {
+              "temperature": "60 °C",
+              "time": "1 hour"
+            },
+            "purification": "silica gel column chromatography",
+            "yield": "58%"
+          },
+          {
+            "step": 2,
+            "description": "Synthesis of 5,15-di(p-methyl-benzoato)porphyrin (Me2DBP)",
+            "chemicals": [
+              "4-(methoxycarbonyl)benzaldehyde",
+              "dipyrrylmethane",
+              "2,3-dichloro-5,6-dicyano-1,4-benzoquinone (DDQ)",
+              "trifluoroacetic acid (TFA)"
+            ],
+            "solvents": [
+              "dichloromethane (DCM)"
+            ],
+            "conditions": {
+              "temperature": "room temperature",
+              "time": "5 hours"
+            },
+            "purification": "silica gel column chromatography",
+            "yield": "38%"
+          },
+          {
+            "step": 3,
+            "description": "Conversion of Me2DBP to H2DBP",
+            "chemicals": [
+              "Me2DBP",
+              "potassium hydroxide"
+            ],
+            "solvents": [
+              "tetrahydrofuran (THF)",
+              "methanol"
+            ],
+            "conditions": {
+              "temperature": "reflux",
+              "time": "overnight"
+            },
+            "purification": "centrifugation, washed with water and ether",
+            "yield": "95%"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DBP-UiO NMOF",
+      "synthesis": {
+        "steps": [
+          {
+            "description": "Solvothermal reaction",
+            "chemicals": [
+              "HfCl4",
+              "H2DBP",
+              "acetic acid"
+            ],
+            "solvents": [
+              "N,N-dimethylformamide (DMF)"
+            ],
+            "conditions": {
+              "temperature": "90 °C",
+              "time": "3 days"
+            },
+            "purification": "washed with DMF, triethylamine/ethanol, and ethanol"
+          }
+        ]
+      },
+      "characterization": {
+        "morphology": "plate-like",
+        "surface_area": "558 m2/g",
+        "stability": "stable in RPMI 1640 cell culture medium for 12 h",
+        "particle_size": "76.3 nm"
+      }
+    }
+  ]
+}

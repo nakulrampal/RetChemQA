@@ -1,0 +1,101 @@
+{
+  "UTSA-16": {
+    "temperature": "296 K",
+    "pressure": "1 bar",
+    "CO2_uptake_capacity": "160 cm3 cm-3",
+    "re-activation_temperature": "90 oC",
+    "re-activation_vacuum": "high vacuum",
+    "outgas_rate": "5 µmHg min-1",
+    "exposure_condition": "exposed in the air for 3 days",
+    "yield": "repeatable and reversible CO2 sorption",
+    "sensitivity": "not air sensitive",
+    "raw_materials_cost": "cheap, particularly citric acid",
+    "synthesis_method": "hydrothermal reaction",
+    "solvents": ["H2O", "C2H5OH"],
+    "solvents_amount": ["2.5 ml H2O", "2.5 ml C2H5OH"],
+    "chemicals_used": ["Co(OAc)2·4H2O", "C6H8O7·H2O", "KOH"],
+    "chemicals_amount": ["0.249 g Co(OAc)2·4H2O", "0.21 g C6H8O7·H2O", "0.168 g KOH"],
+    "molar_ratio": "1:1:3:139:43",
+    "synthesis_temperature": "120 °C",
+    "synthesis_time": "2 days",
+    "cooling_rate": "4 °C h-1",
+    "washing_method": "washed with ethyl ether",
+    "drying_method": "dried at room temperature",
+    "activation_method": "degassed for 24 h at 363 K and 5 µm Hg",
+    "neutron_diffraction_temperature": "210 K for CO2 loading, cooled to 4 K for measurement",
+    "CO2_loading": "0.45 CO2 per coordinated H2O",
+    "neutron_diffraction_analysis": "Rietveld refinement",
+    "agreement_factors": {
+      "Rwp": "0.0345",
+      "Rp": "0.0292",
+      "chi_squared": "1.17"
+    },
+    "structural_features": {
+      "pore_window_dimensions": "3.3×5.4 Å2",
+      "diamondoid_cage_diameter": "4.5 Å",
+      "CO2_trapping_mode": "hydrogen-bonding interactions and O-O close contact",
+      "CO2_density": "0.768 g cm-3",
+      "total_CO2_uptake_capacity": "118 cm3(STP) cm-3"
+    }
+  },
+  "UTSA-15a": {
+    "temperature": "296 K",
+    "pressure": "1 bar",
+    "CO2_uptake_capacity": "not specified",
+    "functional_sites": "-OH groups on pore surfaces"
+  },
+  "UTSA-20a": {
+    "temperature": "296 K",
+    "pressure": "1 bar",
+    "CO2_uptake_capacity": "not specified",
+    "functional_sites": "open metal sites"
+  },
+  "UTSA-25a": {
+    "temperature": "296 K",
+    "pressure": "1 bar",
+    "CO2_uptake_capacity": "not specified",
+    "functional_sites": "-OH groups on pore surfaces"
+  },
+  "UTSA-33a": {
+    "temperature": "296 K",
+    "pressure": "1 bar",
+    "CO2_uptake_capacity": "not specified",
+    "functional_sites": "general, without specific functional sites"
+  },
+  "UTSA-34b": {
+    "temperature": "296 K",
+    "pressure": "1 bar",
+    "CO2_uptake_capacity": "not specified",
+    "functional_sites": "open metal sites"
+  },
+  "Zn4(OH)2(1,2,4-BTC)2": {
+    "temperature": "296 K",
+    "pressure": "1 bar",
+    "CO2_uptake_capacity": "not specified",
+    "functional_sites": "open metal sites"
+  },
+  "Zn5(BTA)6(TDA)2": {
+    "temperature": "296 K",
+    "pressure": "1 bar",
+    "CO2_uptake_capacity": "not specified",
+    "functional_sites": "open metal sites"
+  },
+  "Cu(BDC-OH)": {
+    "temperature": "296 K",
+    "pressure": "1 bar",
+    "CO2_uptake_capacity": "not specified",
+    "functional_sites": "-OH groups on pore surfaces"
+  },
+  "Yb(BPT)": {
+    "temperature": "296 K",
+    "pressure": "1 bar",
+    "CO2_uptake_capacity": "not specified",
+    "functional_sites": "open metal sites"
+  },
+  "Zn4O(FMA)3": {
+    "temperature": "296 K",
+    "pressure": "1 bar",
+    "CO2_uptake_capacity": "not specified",
+    "functional_sites": "general, without specific functional sites"
+  }
+}

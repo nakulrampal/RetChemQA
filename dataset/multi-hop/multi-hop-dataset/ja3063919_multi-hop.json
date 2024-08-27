@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the relationship between the synthesis conditions and the stability of Zr-based MOFs?",
+      "answer": "The synthesis conditions, including the presence of benzoic acid and the temperature and duration of the synthesis process, directly influence the stability of Zr-based MOFs. Specifically, the presence of benzoic acid during synthesis contributes to the formation of octahedron-shaped crystals suitable for single-crystal X-ray diffraction, indicating a stable crystalline structure. Additionally, the synthesis temperature and duration (either 100 °C for 2 days or 120 °C for 12–18 h) are optimized to ensure structural integrity and crystallinity, further contributing to the MOFs' stability.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the introduction of azide groups into Zr-based MOFs affect their gas sorption properties?",
+      "answer": "The introduction of azide groups into Zr-based MOFs decreases their surface areas due to the occupation of the pores by azide groups. However, this introduction improves the adsorption enthalpy of CO2 and effectively enhances the CO2 capture performance due to the polarity of the azide groups. This demonstrates that while the overall surface area for gas sorption decreases, the specific interaction with CO2 is enhanced, leading to improved CO2 capture capabilities.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role does benzoic acid play in the synthesis of Zr-based MOFs, and how does its absence affect the product?",
+      "answer": "Benzoic acid plays a crucial role in the growth of crystals during the synthesis of Zr-based MOFs, leading to the formation of octahedron-shaped crystals suitable for single-crystal X-ray diffraction. Its presence is vital for obtaining well-defined crystalline structures. In the absence of benzoic acid, the MOFs can still be synthesized but only in the form of fine powders, indicating that benzoic acid is essential for achieving a specific crystal morphology and possibly influencing the crystallinity and purity of the final product.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental evidence supports the successful functionalization of Zr-based MOFs through click chemistry?",
+      "answer": "The successful functionalization of Zr-based MOFs through click chemistry is supported by several pieces of experimental evidence, including the disappearance of the characteristic IR band for the azide group at ∼2100 cm−1, indicating the completion of the click reaction. Additionally, the retention of the framework integrity and crystallinity of the resultant MOFs after the click reaction, as confirmed by PXRD studies, further demonstrates successful functionalization. The presence of new functional groups introduced via the click reaction is also validated by 1H NMR spectra and MALDI-TOF mass spectrometry of the decomposed products.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the loading of azide groups on the pore walls of Zr-based MOFs influence their CO2 capture performance?",
+      "answer": "The loading of azide groups on the pore walls of Zr-based MOFs influences their CO2 capture performance by enhancing the adsorption enthalpy of CO2. This is due to the polarity of the azide groups, which effectively improves the CO2 capture performance despite a decrease in the overall surface area available for gas sorption. The selectivity for CO2 over N2 is also proportional to the loading of hydroxyl groups, which are anchored onto the pore walls as a result of the click reaction with azide groups. This demonstrates that the specific functionalization of MOF pore surfaces with azide groups can significantly affect their gas sorption selectivity, particularly for CO2 capture.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the modulated synthetic strategy in the synthesis of Zr-based MOFs with azide groups?",
+      "answer": "The modulated synthetic strategy in the synthesis of Zr-based MOFs with azide groups is significant because it allows for accurate control of the loading of azide groups on the internal surface of the MOF for the first time. This strategy involves preadjusting the molar ratio of ligands with CH3 and CH2N3 groups, enabling the control of azide loading in the resultant MOFs. This precise control over the loading, density, and functionality of the anchored groups on the pore walls is crucial for tailoring the MOFs' internal surfaces to meet specific application requirements, demonstrating a general approach for systematic pore surface engineering of MOFs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the chemical stability of Zr-based MOFs in water, acidic, and basic solutions relate to their structural features?",
+      "answer": "The chemical stability of Zr-based MOFs in water, acidic, and basic solutions is closely related to their structural features, particularly the presence of methyl and azide groups. MOFs bearing methyl groups exhibit better stability than those with azide groups, as evidenced by SEM images and PXRD profiles showing retained microstructures and crystallinity after soaking in these solutions. This suggests that the specific functional groups and the overall structural integrity of the MOFs play a crucial role in determining their chemical stability under different environmental conditions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What challenges are associated with the postsynthetic modification (PSM) of MOFs, and how does click chemistry address these challenges?",
+      "answer": "The challenges associated with the postsynthetic modification (PSM) of MOFs include the often cumbersome multistep process of ligand synthesis, the unpredictable coordination between reactive functional groups and metal centers during MOF assembly, and the potential for partial or complete framework collapse during multiple steps in PSM. Click chemistry addresses these challenges by offering an alternative route for enriching the chemical diversity of MOFs through a straightforward and efficient reaction mechanism. This approach enables the anchoring of various functional groups onto MOFs with controlled loadings and without compromising the framework's integrity, thus overcoming the limitations of traditional PSM methods.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What factors contribute to the exceptional robustness of Zr-based MOFs?",
+      "answer": "The exceptional robustness of Zr-based MOFs is attributed to the strong bonds between the Zr4+ cations and the O atoms, which result from the high charge density (Z/r) and the consequential bond polarization. This strong bonding contributes to the MOFs' exceptional stability, allowing them to remain intact up to high temperatures and to survive treatment in water, dilute acid, and base for extended periods. The structural integrity of these MOFs, including their ability to retain crystallinity and framework integrity under various conditions, underscores their robustness and suitability for a wide range of applications.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the synthetic strategy involving mixed ligands enhance the functionality of MOFs?",
+      "answer": "The synthetic strategy involving mixed ligands enhances the functionality of MOFs by enabling the coassembly of MOFs with desired internal surface properties. By adjusting the molar ratio of ligands with and without specific functional groups (e.g., CH3 and CH2N3), this strategy allows for precise control over the composition, density, and functionality of the groups anchored onto the pore walls. Coupled with postsynthetic click reactions, this approach provides a universal pathway toward MOFs with tailor-made interfaces for specific applications, significantly expanding their potential uses.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

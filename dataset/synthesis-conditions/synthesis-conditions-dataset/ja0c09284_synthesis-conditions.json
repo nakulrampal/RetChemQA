@@ -1,0 +1,395 @@
+{
+  "materials": [
+    {
+      "name": "SOD-Zn(MeIm)2",
+      "synthesis_method": "Mechanochemical ball milling",
+      "precursors": [
+        {
+          "name": "Zinc oxide",
+          "amount": "1 mmol, 81 mg"
+        },
+        {
+          "name": "2-methylimidazole (HMeIm)",
+          "amount": "2.1 mmol, 172 mg"
+        },
+        {
+          "name": "Ammonium nitrate",
+          "amount": "0.125 mmol, 10 mg"
+        },
+        {
+          "name": "Methanol",
+          "amount": "65 μl"
+        }
+      ],
+      "equipment": "Retsch MM400 shaker mill",
+      "milling_media": "Two 7 mm stainless steel balls",
+      "frequency": "30 Hz",
+      "duration": "60 minutes",
+      "washing_method": "Methanol",
+      "drying_method": "Evacuated at 80°C for 12 hours"
+    },
+    {
+      "name": "SOD-Zn(VIm)2",
+      "synthesis_method": "Mechanochemical ball milling",
+      "precursors": [
+        {
+          "name": "Zinc oxide",
+          "amount": "1 mmol, 81 mg"
+        },
+        {
+          "name": "2-vinylimidazole (HVIm)",
+          "amount": "2 mmol, 188 mg"
+        },
+        {
+          "name": "Ammonium acetate",
+          "amount": "0.125 mmol, 10 mg"
+        },
+        {
+          "name": "Ethanol",
+          "amount": "100 μl"
+        }
+      ],
+      "equipment": "15 mL stainless steel milling jar",
+      "milling_media": "Two 7 mm stainless steel balls",
+      "frequency": "30 Hz",
+      "duration": "30 minutes",
+      "washing_method": "Methanol",
+      "drying_method": "Evacuated at 80°C for 12 hours"
+    },
+    {
+      "name": "SOD-Zn(AIm)2",
+      "synthesis_method": "Mechanochemical ball milling",
+      "precursors": [
+        {
+          "name": "Zinc oxide",
+          "amount": "1 mmol, 81 mg"
+        },
+        {
+          "name": "2-acetyleneimidazole (HAIm)",
+          "amount": "2.4 mmol, 223 mg"
+        }
+      ],
+      "equipment": "Identical to SOD-Zn(VIm)2",
+      "washing_method": "Identical to SOD-Zn(VIm)2",
+      "drying_method": "Identical to SOD-Zn(VIm)2",
+      "ICP_MS_analysis": {
+        "sample_size": "12.33 mg",
+        "expected_Zn_content": "26.4%",
+        "measured_Zn_content": "25.8%"
+      }
+    },
+    {
+      "name": "SOD-Zn(CHOIm)2",
+      "synthesis_method": "Mechanochemical ball milling",
+      "precursors": [
+        {
+          "name": "Zinc basic carbonate",
+          "amount": "0.2 mmol, 110 mg"
+        },
+        {
+          "name": "Imidazole-2-carboxaldehyde (HCHOIm)",
+          "amount": "2.2 mmol, 211 mg"
+        },
+        {
+          "name": "N-methyl-2-pyrrolidone (NMP)",
+          "amount": "200 μl"
+        }
+      ],
+      "equipment": "15 mL stainless steel milling jar",
+      "milling_media": "Two 7 mm stainless steel balls",
+      "frequency": "30 Hz",
+      "duration": "90 minutes",
+      "washing_method": "Methanol",
+      "drying_method": "Evacuated at 80°C for 12 hours"
+    },
+    {
+      "name": "SOD-Zn(CF3Im)2",
+      "synthesis_method": "Mechanochemical ball milling",
+      "precursors": [
+        {
+          "name": "Zinc basic carbonate",
+          "amount": "0.1 mmol, 55 mg"
+        },
+        {
+          "name": "2-trifluoromethylimidazole (HCF3Im)",
+          "amount": "1.0 mmol, 136 mg"
+        },
+        {
+          "name": "Methanol",
+          "amount": "70 μl"
+        }
+      ],
+      "equipment": "10 mL stainless steel milling jar",
+      "milling_media": "Two 7 mm stainless steel balls",
+      "frequency": "30 Hz",
+      "duration": "30 minutes",
+      "washing_method": "Methanol",
+      "drying_method": "Evacuated at room temperature"
+    },
+    {
+      "name": "SOD-Zn(ClIm)2",
+      "synthesis_method": "Mechanochemical ball milling",
+      "precursors": [
+        {
+          "name": "Zinc basic carbonate",
+          "amount": "0.1 mmol, 55 mg"
+        },
+        {
+          "name": "2-chloroimidazole (HClIm)",
+          "amount": "1.1 mmol, 113 mg"
+        },
+        {
+          "name": "Dimethylformamide (DMF)",
+          "amount": "70 μl"
+        }
+      ],
+      "equipment": "15 mL stainless steel milling jar",
+      "milling_media": "Two 7 mm stainless steel balls",
+      "frequency": "30 Hz",
+      "duration": "1 hour",
+      "washing_method": "Methanol",
+      "drying_method": "Evacuated at 80°C for 12 hours"
+    },
+    {
+      "name": "SOD-Zn(BrIm)2",
+      "synthesis_method": "Mechanochemical ball milling",
+      "precursors": [
+        {
+          "name": "Zinc oxide",
+          "amount": "0.5 mmol, 41 mg"
+        },
+        {
+          "name": "2-bromoiidazole (HBrIm)",
+          "amount": "1.16 mmol, 170 mg"
+        },
+        {
+          "name": "N,N-dimethylformamide (DMF)",
+          "amount": "70 μl"
+        },
+        {
+          "name": "Ammonium nitrate",
+          "amount": "15 mg"
+        }
+      ],
+      "equipment": "15 mL stainless steel milling jar",
+      "milling_media": "Two 7 mm stainless steel balls",
+      "frequency": "30 Hz",
+      "duration": "2 hours",
+      "washing_method": "Methanol",
+      "drying_method": "Evacuated at 80°C for 12 hours",
+      "ICP_MS_analysis": {
+        "sample_size": "6.35 mg",
+        "expected_Zn_content": "18.3%",
+        "measured_Zn_content": "18.1%"
+      }
+    },
+    {
+      "name": "SOD-Zn(IIm)2",
+      "synthesis_method": "Mechanochemical ball milling",
+      "precursors": [
+        {
+          "name": "Zinc oxide",
+          "amount": "0.5 mmol, 41 mg"
+        },
+        {
+          "name": "2-iodoimidazole (HIIm)",
+          "amount": "1.19 mmol, 230 mg"
+        },
+        {
+          "name": "N,N-dimethylformamide (DMF)",
+          "amount": "70 μl"
+        },
+        {
+          "name": "Ammonium nitrate",
+          "amount": "15 mg"
+        }
+      ],
+      "equipment": "15 mL stainless steel milling jar",
+      "milling_media": "Two 7 mm stainless steel balls",
+      "frequency": "30 Hz",
+      "duration": "1 hour",
+      "washing_method": "Methanol",
+      "drying_method": "Evacuated at 80°C for 12 hours",
+      "ICP_MS_analysis": {
+        "sample_size": "18.84 mg",
+        "expected_Zn_content": "14.5%",
+        "measured_Zn_content": "14.2%"
+      }
+    }
+  ],
+  "calorimetric_methods": {
+    "room_temperature_solution_calorimetry": {
+      "equipment": "CSC 4400 isothermal microcalorimeter",
+      "temperature": "25 °C",
+      "sample_size": "around 5 mg",
+      "solvent": "5 N HCl aqueous solution",
+      "solvent_amount": "25.0 g",
+      "cell_volume": "50 mL",
+      "equilibration_time": "at least 3 hours",
+      "dissolution_time": "at least 3 hours",
+      "weight_accuracy": "10 µg"
+    },
+    "thermodynamic_cycles": [
+      {
+        "name": "Formation enthalpy of ZIFs with respect to ZnO and HRIm",
+        "reactions": [
+          "Zn(RIm)2(s) → Zn2+(aq) + 2 RIm-(aq)",
+          "ZnO(s) + 2H+(aq) → Zn2+(aq) + H2O(aq)",
+          "HRIm (s) → RIm-(aq) + H+(aq)",
+          "H2O(l) → H2O(aq)",
+          "ZnO(s) + 2HRIm (s) → Zn(RIm)2(s) + H2O(l)"
+        ]
+      },
+      {
+        "name": "Formation enthalpy of ZIF-90 with respect to ZnO and (HCHOIm)2 dimer ligand",
+        "reactions": [
+          "Zn(CHOIm)2(s) → Zn2+(aq) + 2 CHOIm-(aq)",
+          "ZnO(s) + 2H+(aq) → Zn2+(aq) + H2O(aq)",
+          "(HCHOIm)2 (s) → 2CHOIm-(aq) + 2H+(aq)",
+          "H2O(l) → H2O(aq)",
+          "ZnO(s) + (HCHOIm)2 (s) → Zn(CHOIm)2(s) + H2O(l)",
+          "(HCHOIm)2 (s) → 2HCHOIm(s)",
+          "ZnO(s) + 2HCHOIm(s) → Zn(CHOIm)2(s) + H2O(l)"
+        ]
+      }
+    ]
+  },
+  "ICP_MS_analysis": [
+    {
+      "name": "Zn(BrIm)2",
+      "sample_size": "6.35 mg",
+      "expected_Zn_content": "18.3%",
+      "measured_Zn_content": "18.1%"
+    },
+    {
+      "name": "Zn(IIm)2",
+      "sample_size": "18.84 mg",
+      "expected_Zn_content": "14.5%",
+      "measured_Zn_content": "14.2%"
+    },
+    {
+      "name": "Zn(AIm)2",
+      "sample_size": "12.33 mg",
+      "expected_Zn_content": "26.4%",
+      "measured_Zn_content": "25.8%"
+    }
+  ],
+  "solid_state_nuclear_magnetic_resonance_spectroscopy": {
+    "equipment": "VNMRS 400 widebore spectrometer",
+    "frequency": "399.9 MHz for 1H and 100.5 MHz for 13C",
+    "probe": "4mm Varian Chemagnetics double-resonance probe",
+    "recycle_delay": "5 s",
+    "spin_rate": "13 kHz",
+    "scans_collected": "2048",
+    "cross_polarization_time": "2 ms"
+  },
+  "thermogravimetric_analysis": {
+    "equipment": "Netzsch 449 thermal balance",
+    "temperature_range": "25 to 800°C",
+    "heating_rate": "10°C·min-1",
+    "gas_flow": "O2 and Ar (40 ml·min-1 flow rate)"
+  },
+  "powder_x_ray_diffraction_patterns": {
+    "equipment": "Bruker D2 PHASER benchtop diffractometer",
+    "detector": "LynxEye 1-D detector",
+    "radiation_type": "Ni-filtered CuKα x-ray radiation"
+  },
+  "crystal_structure_determination": [
+    {
+      "name": "SOD-Zn(IIm)2",
+      "method": "Rietveld refinement",
+      "crystal_system": "cubic",
+      "space_group": "I-43m",
+      "lattice_parameter_a": "17.19 Å",
+      "volume": "5079.8(4) Å3",
+      "density": "1.7705(2) g/cm3",
+      "radiation_type": "CuKα",
+      "Rwp": "0.112",
+      "Rp": "0.091",
+      "RBragg": "0.061",
+      "chi_squared": "2.036"
+    },
+    {
+      "name": "HVIm, HClIm, and HIIm",
+      "method": "Single crystal X-ray diffraction",
+      "details": [
+        {
+          "name": "HVIm",
+          "crystal_system": "monoclinic",
+          "space_group": "Pc",
+          "lattice_parameters": {
+            "a": "8.3826(17) Å",
+            "b": "6.6386(14) Å",
+            "c": "9.7570(16) Å",
+            "alpha": "90°",
+            "beta": "90.153(7)°",
+            "gamma": "90°"
+          },
+          "volume": "542.96(18) Å3",
+          "density": "1.151 g/cm3",
+          "radiation_type": "MoKα"
+        },
+        {
+          "name": "HClIm",
+          "crystal_system": "monoclinic",
+          "space_group": "P21/n",
+          "lattice_parameters": {
+            "a": "9.6720(4) Å",
+            "b": "8.7035(4) Å",
+            "c": "11.2583(5) Å",
+            "alpha": "90°",
+            "beta": "104.350(2)°",
+            "gamma": "90°"
+          },
+          "volume": "918.16(7) Å3",
+          "density": "1.483 g/cm3",
+          "radiation_type": "CuKα"
+        },
+        {
+          "name": "HIIm",
+          "crystal_system": "orthorhombic",
+          "space_group": "Pca21",
+          "lattice_parameters": {
+            "a": "17.3434(7) Å",
+            "b": "9.7088(5) Å",
+            "c": "12.3473(5) Å",
+            "alpha": "90°",
+            "beta": "90°",
+            "gamma": "90°"
+          },
+          "volume": "2079.08(16) Å3",
+          "density": "2.479 g/cm3",
+          "radiation_type": "CuKα"
+        }
+      ]
+    }
+  ],
+  "fourier_transform_infrared_attenuated_total_reflectance_spectroscopy": {
+    "equipment": "Bruker Vertex 70 FTIR spectrometer",
+    "attachment": "Bruker Platinum ATR unit"
+  },
+  "surface_area_measurements": {
+    "equipment": [
+      {
+        "name": "Quantachrome instrument",
+        "temperature": "77 K",
+        "measurements": [
+          "Zn(VIm)2",
+          "Zn(AIm)2",
+          "Zn(CHOIm)2"
+        ]
+      },
+      {
+        "name": "Micromeritics TriStar II Plus instrument",
+        "measurements": [
+          "SOD-Zn(ClIm)2",
+          "SOD-Zn(IIm)2",
+          "SOD-Zn(BrIm)2",
+          "SOD-Zn(MeIm)2"
+        ]
+      }
+    ],
+    "activation_temperature": "120°C",
+    "activation_duration": "4 hours"
+  }
+}

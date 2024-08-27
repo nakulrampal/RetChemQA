@@ -1,0 +1,80 @@
+{
+  "Ca-MOF": {
+    "synthesis_conditions": {
+      "temperature": "85 °C",
+      "solvents": "DMF/H2O",
+      "solvent_ratio": "v/v = 5/2",
+      "equipment": "20 mL glass bottle",
+      "chemicals_used": {
+        "H4L": "20 mg (0.047 mmol)",
+        "CaCl2": "20 mg (0.18 mmol)",
+        "DMF/H2O_mixed_solution": "6 mL"
+      },
+      "time": "48 h",
+      "yield": "55% based on H4L",
+      "washing_method": "washed with DMF/H2O (v/v = 5/2) solution for three times",
+      "drying_method": "dried under vacuum for 10 h"
+    }
+  },
+  "Ca-MOF-H2O": {
+    "synthesis_conditions": {
+      "temperature": "85 °C",
+      "solvents": "methanol/water solution",
+      "solvent_ratio": "water content 2%, volume ratio",
+      "equipment": "20 mL glass bottle",
+      "chemicals_used": {
+        "Ca-MOF_crystals": "5 mg",
+        "methanol/water_solution": "6 mL"
+      },
+      "time": "24 h"
+    }
+  },
+  "nanobelts": {
+    "synthesis_conditions": {
+      "solvents": "H2O",
+      "equipment": "KQ118 ultrasonic instrument (70 W)",
+      "chemicals_used": {
+        "Ca-MOF": "5 mg",
+        "H2O": "10 mL"
+      },
+      "time": "20 min",
+      "method": "ultrasonic treatment"
+    }
+  },
+  "nanospheres": {
+    "synthesis_conditions": {
+      "solvents": "DMF/H2O",
+      "solvent_ratio": "v/v = 1/2, water content: 67%",
+      "equipment": "KQ118 ultrasonic instrument (70 W)",
+      "chemicals_used": {
+        "Ca-MOF": "5 mg",
+        "DMF/H2O_mixed_solution": "10 mL"
+      },
+      "time": "20 min",
+      "method": "ultrasonic treatment"
+    }
+  },
+  "NS-1": {
+    "synthesis_conditions": {
+      "solvents": "DMF/H2O",
+      "solvent_ratio": "v/v = 5/2",
+      "equipment": "KQ118 ultrasonic instrument (70 W)",
+      "chemicals_used": {
+        "Ca-MOF": "5 mg",
+        "DMF/H2O_mixed_solution": "10 mL"
+      },
+      "time": "20 min",
+      "method": "ultrasonic treatment"
+    }
+  },
+  "NS-2": {
+    "synthesis_conditions": {
+      "equipment": "mortar and pestle",
+      "chemicals_used": {
+        "Ca-MOF_bulk_crystals": "5 mg"
+      },
+      "method": "grinding under relative humidity (RH) of 75%",
+      "time": "8 min"
+    }
+  }
+}

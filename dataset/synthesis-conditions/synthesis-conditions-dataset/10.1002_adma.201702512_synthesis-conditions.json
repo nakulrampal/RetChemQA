@@ -1,0 +1,54 @@
+{
+  "materials": [
+    {
+      "material_id": "1",
+      "synthesis_conditions": [
+        {
+          "step": "Hydrothermal reaction",
+          "temperature": "Not specified",
+          "solvents": [
+            {
+              "name": "N,N-dimethylacetamide",
+              "amount": "5 mL"
+            },
+            {
+              "name": "HCOOH",
+              "amount": "5 mL"
+            }
+          ],
+          "equipment": "Not specified",
+          "chemicals_used": [
+            {
+              "name": "FeCl3",
+              "amount": "0.7 mmol"
+            },
+            {
+              "name": "Ni(NO3)2•6H2O",
+              "amount": "0.3 mmol"
+            }
+          ],
+          "time": "Not specified",
+          "washing_method": "Not specified",
+          "drying_method": "Not specified",
+          "yield": "Not specified"
+        }
+      ]
+    },
+    {
+      "material_id": "4",
+      "synthesis_conditions": [
+        {
+          "step": "Similar to material 1",
+          "temperature": "Not specified",
+          "solvents": "Not specified",
+          "equipment": "Not specified",
+          "chemicals_used": "Not specified",
+          "time": "Not specified",
+          "washing_method": "Not specified",
+          "drying_method": "Not specified",
+          "yield": "Not specified"
+        }
+      ]
+    }
+  ]
+}

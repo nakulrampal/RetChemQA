@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the relationship between the electron-donating capabilities of ligands and the redox potential in copper complexes?",
+      "answer": "The electron-donating capabilities of ligands in copper complexes are inversely correlated with the redox potential. Ligands with stronger electron-donating abilities result in a lower redox potential for the Cu(III)/Cu(II) couple.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of nitro groups on ligands affect the hydrogen-atom transfer (HAT) rates in copper complexes?",
+      "answer": "The presence of nitro groups on ligands, which are electron-withdrawing, increases both the oxidizing power and the O–H bond dissociation energy (BDE) in copper complexes, leading to faster rates of hydrogen-atom transfer (HAT).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What computational method is used to predict the hyperfine coupling constants (HFCC’s) in copper complexes?",
+      "answer": "Density Functional Theory (DFT) calculations using the BP86 functional with the ‘Partridge-3’ basis set, the Resolution of Identity (RI) approximation, and a TZV/J auxiliary basis set are used to predict the hyperfine coupling constants (HFCC’s) in copper complexes.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of quantum mechanical tunneling on the reaction rates of hydrogen-atom transfer in copper complexes?",
+      "answer": "Quantum mechanical tunneling significantly contributes to the reaction rates of hydrogen-atom transfer in copper complexes, especially at low temperatures, leading to large kinetic isotope effects and affecting the temperature dependence of the reaction rates.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the Skodje-Truhlar one-dimensional model accurately predict the temperature-dependent transmission coefficient for hydrogen-atom transfer reactions in copper complexes?",
+      "answer": "Yes, the Skodje-Truhlar one-dimensional model can be used to estimate the temperature-dependent transmission coefficient for hydrogen-atom transfer reactions in copper complexes, accounting for quantum mechanical tunneling effects on the reaction rates.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the empirical parameter A in the computation of temperature-dependent second-order reaction rate constants for HAT reactions in copper complexes?",
+      "answer": "The empirical parameter A is used to correct for systematic errors in the modeling protocol, such as inaccuracies in predicting the solvated energy of the transition-state structure relative to the separated reactants, ensuring better agreement between predicted and experimental reaction rates for HAT in copper complexes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The presence of tight ion pairs in THF solvent significantly affects the predicted reduction potentials for copper complexes.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the addition of explicit counterions in computational models lead to more accurate predictions of reduction potentials in copper complexes?",
+      "answer": "Yes, including explicit counterions in computational models for copper complexes leads to more accurate predictions of reduction potentials by accounting for the interactions between charged species and their counterions in the solvent.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The compensation between redox potential and pKa values in copper complexes is perfect, leading to identical bond dissociation energies (BDEs) regardless of ligand structure.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does the intrinsic atomic orbital (IAO) analysis play in the computational study of copper complexes?",
+      "answer": "Intrinsic atomic orbital (IAO) analysis is used to compute atomic partial charges in copper complexes, providing insights into the electron distribution within the complex and helping to understand the influence of ligand structure on the complex's properties.",
+      "difficulty": "hard",
+      "type": "factual"
+    }
+  ]
+}

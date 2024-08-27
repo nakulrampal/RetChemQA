@@ -1,0 +1,54 @@
+{
+  "materials": [
+    {
+      "name": "Na4[Cu2(Me3mpba)2] . 4H2O",
+      "synthesis_conditions": {
+        "method": "synthesized according to literature methods",
+        "reference": "Ferrando-Soria, J.; Pasán, J.; Ruiz-Pérez, C.; Journaux, Y.; Julve, M.; Lloret, F.; Cano, J.; Pardo, E.; Inorg. Chem. 2011, 50, 8694."
+      }
+    },
+    {
+      "name": "[Na(H2O)3.25]4{Mn4[Cu2(Me3mpba)2(H2O)3.33]3} . 37 H2O (H2O@iso1)",
+      "synthesis_conditions": {
+        "solvents": "aqueous solutions",
+        "chemicals_used": [
+          {
+            "chemical": "Na4[Cu2(Me3mpba)2] . 4H2O",
+            "amount": "0.011 g, 0.015 mmol"
+          },
+          {
+            "chemical": "Mn(NO3)2 . 4H2O",
+            "amount": "0.005 g, 0.020 mmol"
+          }
+        ],
+        "method": "slow diffusion in a H-shaped tube at room temperature",
+        "time": "four weeks",
+        "yield": "0.010 g, 58%",
+        "elemental_analysis": {
+          "calculated": "C 26.65, H 5.16, N 4.78",
+          "found": "C 26.59, H 5.11, N 4.78"
+        },
+        "IR": "1602 cm-1 (CO)"
+      }
+    },
+    {
+      "name": "iso1 (anhydrous derivative of H2O@iso1)",
+      "synthesis_conditions": {
+        "method": "heating H2O@iso1 at 125 °C for 30 min under N2",
+        "TGA": "mass loss of ca. 30% at 125 °C corresponds to 60 H2O molecules per formula unit"
+      }
+    },
+    {
+      "name": "CH3OH@iso1",
+      "synthesis_conditions": {
+        "method": "immersion of iso1 in methanol for 30 min"
+      }
+    },
+    {
+      "name": "CO2@iso1 and CH4@iso1",
+      "synthesis_conditions": {
+        "method": "introducing iso1 into a sealed capillary tube filled with CO2 or CH4, respectively, at a pressure of 1 bar"
+      }
+    }
+  ]
+}

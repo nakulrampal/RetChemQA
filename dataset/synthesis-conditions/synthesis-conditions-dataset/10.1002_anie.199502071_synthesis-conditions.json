@@ -1,0 +1,42 @@
+{
+  "materials": [
+    {
+      "name": "Complex 2",
+      "synthesis_conditions": {
+        "solvents": "acetonitrile",
+        "amount_of_solvent": "3 mL",
+        "chemicals_used": [
+          "1.2-dimethylimidazole (4.5 uL, 1.5 equiv)",
+          "1 (30 mg, 25 pmol)"
+        ],
+        "crystallization_method": "vapor diffusion of ethyl acetate",
+        "yield": "60%",
+        "washing_method": "not specified",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "[Cu(4,4'-bpy)Cl]",
+      "synthesis_conditions": {
+        "solvents": [
+          "acetonitrile",
+          "ethanol",
+          "diethyl ether"
+        ],
+        "amount_of_solvent": [
+          "acetonitrile: 10 mL for reaction, 50 mL for CuCl solution",
+          "ethanol: 3 x 20 mL for washing",
+          "diethyl ether: 3 x 20 mL for washing"
+        ],
+        "chemicals_used": [
+          "4,4'-bipyridine (0.78 g, 5.0 mmol)",
+          "CuCl (0.50 g, 5.0 mmol)"
+        ],
+        "crystallization_method": "diffusion of a DMSO solution of 4,4'-bpy into an acetonitrile solution of CuCl through ethylene glycol or mineral oil",
+        "yield": "94%",
+        "washing_method": "with ethanol followed by diethyl ether",
+        "drying_method": "dried under vacuum for 24 h"
+      }
+    }
+  ]
+}

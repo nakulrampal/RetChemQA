@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the synthesis procedure for CMOM-3S?",
+      "answer": "A 5 mL methanol solution of 0.4 mmol Co(CF3SO3)2·6H2O (180 mg) and 0.4 mmol enantiopure (S)-mandelic acid (60.8mg) was layered above a 5 mL 1,2-dichlorobenzene (DCB) solution of 0.3 mmol 4,4’-bipyridine (bpy, 46.8 mg). A buffer solution of a 5mL 1:1 methanol/DCB was layered between the top and bottom layers to allow slow diffusion for 7 days, resulting in red rectangular prismatic crystals in ~60% yield.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How were the CMOM samples activated for gas sorption studies?",
+      "answer": "Crystals of as-synthesized CMOMs were exchanged with dichloromethane (DCM) daily for 5 days to successfully remove DCB/BTF. The exchanged crystals were evacuated under dynamic vacuum at room temperature until the outgassing rate of each sample was below the limit of detection (<1 µm Hg/min) during 16-24 hours of evacuation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to measure water vapor isotherms at ambient temperature?",
+      "answer": "Water vapor isotherms were measured at ambient temperature using a Quantachrome Autosorb iQ equipped with a vapor generator chamber.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the purpose of the accelerated stability testing conditions applied to CMOMs?",
+      "answer": "The accelerated stability testing conditions of 75% humidity at 40 °C for 7 days were applied to CMOMs to detect if the sample had been affected by exposure to humidity by characterizing them with PXRD and surface area measurements after incubation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the result of the DFT calculations on the desolvated 13R, 33R, and 43R structures?",
+      "answer": "The DFT calculations on the desolvated 13R, 33R, and 43R structures indicated no significant difference in the orientation of the mandelate linkers in the unperturbed structures after removing the solvent.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The binding energy of water varies significantly between the three CMOM structures 13R, 33R, and 43R.",
+      "answer": "False. The binding energy of water varies only slightly between the three structures and shows no clear distinction to indicate why 33R uptakes H2O while 13R and 43R do not.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the sharp band above 3670 cm−1 in the IR spectra of CMOMs indicate?",
+      "answer": "The sharp band above 3670 cm−1 in the IR spectra of CMOMs can be interpreted as originating from water screened by the CF3 end of the CF3SO3−, indicating isolated water molecules next to triflate anions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The presence of one water molecule in the CMOM structures affects the pore size compared to those of the ground state.",
+      "answer": "False. The presence of one water molecule in these structures does not affect the pore size in comparison to those of the ground state.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main structural difference observed between the CMOMs studied in the DFT calculations?",
+      "answer": "The main structural difference observed between the CMOMs studied in the DFT calculations was the substitution of the mandelate ligands.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The CMOMs studied are stable to humidity as confirmed by PXRD.",
+      "answer": "True. Unlike many MOFs that collapse after exposure to water vapor, the CMOMs studied herein are stable to humidity as confirmed by PXRD.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

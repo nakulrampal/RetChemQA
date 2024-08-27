@@ -1,0 +1,64 @@
+{
+  "materials": [
+    {
+      "name": "H2Me2-(S,S)-methox",
+      "synthesis_conditions": {
+        "chemicals_used": "L-methionine methyl ester hydrochloride (12.0 g, 60.0 mmol), triethylamine (16.7 mL, 120.0 mmol), oxalyl chloride (2.58 mL, 30.0 mmol)",
+        "solvents": "dichloromethane (200 mL for reaction, 200 mL for oxalyl chloride solution)",
+        "temperature": "0 °C (ice-bath)",
+        "time": "1 hour",
+        "equipment": "rotatory evaporator",
+        "yield": "21.1 g, 93%",
+        "washing_method": "washed three times with water (3x50 mL)",
+        "drying_method": "dried under vacuum"
+      }
+    },
+    {
+      "name": "(Me4N)2{Cu2[(S,S)-methox](OH)2} . 4H2O",
+      "synthesis_conditions": {
+        "chemicals_used": "H2Me2-(S,S)-methox (11.343 g, 30 mmol), Me4NOH (25% methanolic solution, 36 mL, 125 mmol), CuCl2 (8.07 g, 60 mmol)",
+        "solvents": "water (75 mL for H2Me2-(S,S)-methox solution, 25 mL for CuCl2 solution)",
+        "temperature": "room temperature",
+        "time": "Not specified",
+        "equipment": "rotatory evaporator",
+        "yield": "15.94 g, 73%",
+        "washing_method": "gently washed with acetone",
+        "drying_method": "filtered off and dried under vacuum"
+      }
+    },
+    {
+      "name": "{Cu6Ca[(S,S)-methox]3(OH)2(H2O)} . 16H2O (1)",
+      "synthesis_conditions": {
+        "chemicals_used": "(Me4N)2{Cu2[(S,S)-methox](OH)2} . 4H2O (4.37 g, 6.0 mmol), CaCl2 (0.22 g, 2.0 mmol)",
+        "solvents": "water (50 mL for (Me4N)2{Cu2[(S,S)-methox](OH)2} . 4H2O solution)",
+        "temperature": "room temperature",
+        "time": "24 hours",
+        "yield": "2.85 g, 79%",
+        "washing_method": "filtered",
+        "drying_method": "air-dried"
+      }
+    },
+    {
+      "name": "(AuCl3)3@{CaIICuII6[(S,S)-methox]3(OH)2(H2O)} . 9H2O (AuIII@1) and AuCl@{CaIICuII6[(S,S)-methox]3(OH)2(H2O)} . 3H2O . 3CH3OH (AuI@1)",
+      "synthesis_conditions": {
+        "chemicals_used": "Crystals of 1 (5.0 mg), 0.02 M H2O/CH3OH (1:1) solutions of AuCl3 and AuCl",
+        "solvents": "H2O/CH3OH (1:1)",
+        "temperature": "Not specified",
+        "time": "60 min for AuIII@1, 180 min for AuI@1",
+        "washing_method": "washed with water",
+        "drying_method": "air-dried"
+      }
+    },
+    {
+      "name": "{Cu6Ca[(S,S)-methox]3(OH)2(H2O)} . 8H2O . 2(CH3)2S (1’)",
+      "synthesis_conditions": {
+        "chemicals_used": "Crystals of AuIII@1",
+        "solvents": "dimethylsulfide (10 mL)",
+        "temperature": "Not specified",
+        "time": "180 min",
+        "washing_method": "gently washed with H2O",
+        "drying_method": "air-dried"
+      }
+    }
+  ]
+}

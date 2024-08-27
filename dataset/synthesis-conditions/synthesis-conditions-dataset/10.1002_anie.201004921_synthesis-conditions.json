@@ -1,0 +1,62 @@
+{
+  "materials": [
+    {
+      "name": "1 a",
+      "synthesis_conditions": {
+        "temperature": "160 8C",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "5 mL"
+          }
+        ],
+        "equipment": "25 mL Teflon-lined autoclave",
+        "chemicals_used": [
+          {
+            "name": "CuCl2·2 H2O",
+            "amount": "34.2 mg, 0.2 mmol"
+          },
+          {
+            "name": "3-amino-5-carboxylic-1,2,4-triazole",
+            "amount": "26.4 mg, 0.2 mmol"
+          }
+        ],
+        "time": "4 d",
+        "drying_method": "air-dried",
+        "yield": "68 % based on Cu",
+        "elemental_analysis": {
+          "calculated": {
+            "C": "12.06 %",
+            "N": "21.10 %",
+            "H": "2.01 %"
+          },
+          "found": {
+            "C": "12.01 %",
+            "N": "21.12 %",
+            "H": "1.99 %"
+          }
+        },
+        "IR_spectrum": "~nn = 3300(s), 2340(w), 1610(m), 1499(w), 1282(s), 1162(s) 1057(w), 924(w), 722 cm-1 (w)"
+      }
+    },
+    {
+      "name": "1 b",
+      "synthesis_conditions": {
+        "method": "exposure of 1 a in atmosphere for several weeks",
+        "elemental_analysis": {
+          "calculated": {
+            "C": "11.37 %",
+            "N": "19.91 %",
+            "H": "1.90 %"
+          },
+          "found": {
+            "C": "11.32 %",
+            "N": "19.94 %",
+            "H": "1.96 %"
+          }
+        },
+        "IR_spectrum": "~nn = 3303(s), 2340(m), 1627(m), 1499(s), 1284(s), 1163(s) 1055(s), 924(w), 722 cm-1 (w)"
+      }
+    }
+  ]
+}

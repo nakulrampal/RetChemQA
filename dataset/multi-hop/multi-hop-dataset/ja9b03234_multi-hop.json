@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What are the synthesis conditions for ZIF-4 as described in the supplementary methods?",
+      "answer": "ZIF-4 was synthesized solvothermally by dissolving 1.2 g Zn(NO3)2•6H2O (4.03 mmol), and 0.9 g imidazole (13.2 mmol) in 75 ml of dimethylformamide (DMF) in a 100 ml glass jar. The jar was sealed tightly and heated to 130 °C for 48 h in an oven. The filtered off, as-synthesized ZIFs were soaked in dichloromethane for solvent exchange during 24 hours and subsequently desolvated under vacuum at 10-3 mbar and 150 °C.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How were the high-pressure experiments for ZIF-4 conducted according to the supplementary methods?",
+      "answer": "A sample of fully evacuated pure ZIF-4, mixed with NaCl as pressure gauge, was loaded in an external coiled resistively-heated membrane driven diamond anvil cell (DAC). High purity silicone oil (AP100, Sigma-Aldrich) was used as a non-penetrating pressure transmitting medium. The DAC was contained in a water-cooled vacuum vessel with Kapton windows. Data were collected at a wavelength of λ = 0.4246 Å using a MAR345 detector. Pressures were calculated based on the measured unit cell volume of admixed NaCl and its known temperature dependent equation of state. A K-type thermocouple with an accuracy of < 0.4 % was glued close to one of the diamonds to provide temperature measurements.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the purpose of using different pressure-transmitting media in the high-pressure experiments of ZIF-4?",
+      "answer": "Different types of nonpenetrating pressure-transmitting media, such as Fluorinert, silicone oil, and Daphne Oil, have distinct hydrostatic limits at ambient temperature, which affect the onset pressures of amorphization and may preclude the transformation to higher-pressure polymorphs. Furthermore, the type of pressure-transmitting medium also affects the structure of high-pressure polymorphs, possibly due to an unknown and unexpected interaction of the medium with ZIF-4.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the presence of bIm linker in ZIF-62 imply for its high-pressure stability compared to ZIF-4?",
+      "answer": "The presence of the bIm linker in ZIF-62 significantly differs its high-pressure behavior from ZIF-4. For example, the recrystallization mechanism leading to the transformation of ZIF-4 to ZIF-zni upon heating is inhibited in ZIF-62 due to the presence of bulky bIm ligands. The presence of bIm also lowers the melting temperature of ZIF-62 relative to ZIF-4 and extends the stability range of that melt. None of the displacive or reconstructive transformations at high-pressure–temperature conditions observed in ZIF-4 occur in ZIF-62.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the size of crystallites affect the experimental outcome of nonambient studies on ZIF-4?",
+      "answer": "There are several sample-dependent factors that influence the experimental outcome of nonambient studies, including residual solvent molecules and crystallite size. Crystallite size can play a major role and affect the thermodynamic landscape of phase transitions. However, such effects become significant only when the crystal size is decreased to the nanometer scales.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What challenges are associated with determining accurate phase boundaries in the study of ZIF-4?",
+      "answer": "Determining accurate phase boundaries in the study of ZIF-4 requires consideration of several experimental and theoretical issues, including the rates of pressure and temperature increase, the influence of the pressure-transmitting media, sample-dependent effects, the definition of a phase transition, and whether the overall energy landscape of the system or the local energy landscape of the ZIF-4 network is in question. Kinetic effects can allow phases to persist in a metastable state beyond their thermodynamic stability field, and a combination of techniques may be necessary to clearly detect and identify phase boundaries.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the phase diagram presented in the study of ZIF-4 a thermodynamic phase diagram sensu stricto?",
+      "answer": "No, the phase diagrams presented in the study of ZIF-4 are technically not thermodynamic phase diagrams sensu stricto, but indications of phase behavior under a certain set of conditions. This is due to kinetic controls and high kinetic barriers that extend the apparent stability of some phases indefinitely or prevent the formation of certain phases altogether.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the study observe the melting of ZIF-hPT-I and ZIF-hPT-II phases within the given temperature limits?",
+      "answer": "No, the study did not observe the melting of ZIF-hPT-I and ZIF-hPT-II phases within the given temperature limits. Both new phases, ZIF-hPT-I and ZIF-hPT-II, remain stable until the maximal achieved pressure–temperature conditions of these experiments.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "According to the study, does the presence of bIm linker in ZIF-62 extend the stability range of its melt compared to ZIF-4?",
+      "answer": "True, the presence of the bIm linker in ZIF-62 extends the stability range of its melt compared to ZIF-4.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the high-pressure experiments for ZIF-4 conducted at a constant temperature according to the supplementary methods?",
+      "answer": "False, the high-pressure experiments for ZIF-4 were conducted at varying temperatures, with temperature measurements provided by a K-type thermocouple.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

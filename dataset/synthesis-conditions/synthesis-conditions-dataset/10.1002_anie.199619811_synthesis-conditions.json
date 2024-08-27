@@ -1,0 +1,47 @@
+{
+  "materials": [
+    {
+      "material": "6",
+      "synthesis_conditions": {
+        "solvent": "thf",
+        "solvent_amount": "100 mL",
+        "atmosphere": "oxygen dried over P2O5",
+        "temperature": "room temperature",
+        "time": "12 h",
+        "drying_method": "evaporated to dryness",
+        "extraction_solvent": "Et2O",
+        "extraction_solvent_amount": "50 mL",
+        "yield": "65%",
+        "additional_information": "The reaction started with 4 (2.01 g, 1.51 mmol) dissolved in thf."
+      }
+    },
+    {
+      "material": "8",
+      "synthesis_conditions": {
+        "solvent": "pyridine",
+        "solvent_amount": "30 mL",
+        "temperature": "room temperature",
+        "time": "12 h",
+        "drying_method": "evaporated to dryness",
+        "extraction_solvent": "Et2O",
+        "extraction_solvent_amount": "50 mL",
+        "yield": "31%",
+        "additional_information": "The reaction started with 6 (1.04 g, 0.85 mmol) dissolved in pyridine."
+      }
+    },
+    {
+      "material": "BaYbSi4N7",
+      "synthesis_conditions": {
+        "reactants": [
+          "Ba metal",
+          "Yb metal",
+          "silicon diimide Si(NH)2"
+        ],
+        "equipment": "HF furnace",
+        "atmosphere": "nitrogen",
+        "temperature_range": "900 - 1650 C",
+        "additional_information": "The reaction leads to the formation of BaYbSi4N7 as a single-phase, coarse crystalline, colorless solid."
+      }
+    }
+  ]
+}

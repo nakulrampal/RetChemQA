@@ -1,0 +1,78 @@
+{
+  "materials": [
+    {
+      "name": "UTSA-32",
+      "synthesis_conditions": {
+        "temperature": "110 oC",
+        "solvents": [
+          {
+            "name": "N,N'-dimethylacetamide (DMA)",
+            "amount": "2.0 mL"
+          },
+          {
+            "name": "ethanol",
+            "amount": "1.0 mL"
+          }
+        ],
+        "equipment": "crew-capped vial",
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "15.0 mg",
+            "molarity": "0.050 mmol"
+          },
+          {
+            "name": "organic linker H4L",
+            "amount": "15.0 mg",
+            "molarity": "0.020 mmol"
+          }
+        ],
+        "time": {
+          "heating_time": "2 hours",
+          "maintained_time": "48 hours",
+          "cooling_time": "12 hours"
+        },
+        "yield": "62%",
+        "product_formulation": "[Zn2(L)(H2O)2]·(DMA)4"
+      }
+    },
+    {
+      "name": "UTSA-32a",
+      "synthesis_conditions": {
+        "temperature": "150 oC",
+        "equipment": "under high vacuum",
+        "time": "24 hours"
+      }
+    },
+    {
+      "name": "meso-epoxide opening reaction with aniline derivatives",
+      "synthesis_conditions": {
+        "temperature": "50 oC",
+        "solvents": [
+          {
+            "name": "toluene",
+            "amount": "1 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "epoxide",
+            "amount": "0.10 mmol"
+          },
+          {
+            "name": "aniline derivative",
+            "amount": "0.25 mmol"
+          },
+          {
+            "name": "UTSA-32a catalyst",
+            "amount": "10 mol %"
+          }
+        ],
+        "time": "indicated time",
+        "washing_method": "washed with ethanol",
+        "drying_method": "evaporated under reduced pressure (rotary evaporator)",
+        "purification_method": "column chromatography"
+      }
+    }
+  ]
+}

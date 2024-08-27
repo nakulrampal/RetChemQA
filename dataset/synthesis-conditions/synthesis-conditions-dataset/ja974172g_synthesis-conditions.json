@@ -1,0 +1,48 @@
+{
+  "materials": [
+    {
+      "name": "Zn3(BDC)3·6CH3OH",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "N,N'-dimethylformamide",
+            "amount": "8.0 mL"
+          },
+          {
+            "name": "absolute methanol",
+            "amount": "72.0 mL"
+          },
+          {
+            "name": "n-propanol solution of triethylamine",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "0.56 g, 1.89 mmol"
+          },
+          {
+            "name": "1,4-benzenedicarboxylic acid (H2BDC)",
+            "amount": "0.32 g, 1.93 mmol"
+          }
+        ],
+        "temperature": "room temperature",
+        "time": "12 days",
+        "washing_method": "washed with methanol and acetone",
+        "drying_method": "air-dried",
+        "yield": "0.195 g (35% based on zinc nitrate)"
+      }
+    },
+    {
+      "name": "Zn3(BDC)3·2CH3OH",
+      "synthesis_conditions": {
+        "previous_material": "Zn3(BDC)3·6CH3OH",
+        "temperature": "140 °C",
+        "pressure": "0.08 mmHg",
+        "time": "1 h",
+        "method": "heated under vacuum to remove guest and weakly bound methanol molecules"
+      }
+    }
+  ]
+}

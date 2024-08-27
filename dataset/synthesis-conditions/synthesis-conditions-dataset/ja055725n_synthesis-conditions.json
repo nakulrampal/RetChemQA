@@ -1,0 +1,111 @@
+{
+  "compounds": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "10 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CoCl2⋅6H2O",
+            "amount": "48 mg, 0.20 mmol"
+          },
+          {
+            "name": "NaN3",
+            "amount": "26 mg, 0.40 mmol"
+          },
+          {
+            "name": "bpg",
+            "amount": "43 mg, 0.20 mmol"
+          }
+        ],
+        "time": "one week",
+        "yield": "70%",
+        "drying_method": "Slow evaporation",
+        "IR": [
+          "2075 cm-1",
+          "2094 cm-1"
+        ]
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "6 mL"
+          },
+          {
+            "name": "dimethyl sulphoxide (DMSO)",
+            "amount": "6 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CoCl2⋅6H2O",
+            "amount": "48 mg, 0.20 mmol"
+          },
+          {
+            "name": "NaN3",
+            "amount": "26 mg, 0.40 mmol"
+          },
+          {
+            "name": "bpg",
+            "amount": "43 mg, 0.20 mmol"
+          }
+        ],
+        "time": "two weeks",
+        "yield": "80%",
+        "drying_method": "Slow evaporation",
+        "IR": [
+          "2100 cm-1"
+        ]
+      }
+    },
+    {
+      "name": "3",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "4 mL"
+          },
+          {
+            "name": "N,N-Dimethylformamide (DMF)",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CoCl2⋅6H2O",
+            "amount": "71 mg, 0.30 mmol"
+          },
+          {
+            "name": "NaN3",
+            "amount": "39 mg, 0.60 mmol"
+          },
+          {
+            "name": "bpg",
+            "amount": "65 mg, 0.30 mmol"
+          }
+        ],
+        "time": "about 2 days",
+        "temperature": "20ºC",
+        "yield": "20%",
+        "drying_method": "Kept without evaporation",
+        "IR": [
+          "2072 cm-1"
+        ]
+      }
+    }
+  ]
+}

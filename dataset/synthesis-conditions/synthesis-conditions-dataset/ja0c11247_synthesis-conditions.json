@@ -1,0 +1,152 @@
+{
+  "materials": [
+    {
+      "name": "NPU-1",
+      "synthesis": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "DMA",
+            "amount": "3 mL"
+          },
+          {
+            "name": "HCOOH",
+            "amount": "0.2 mL"
+          },
+          {
+            "name": "HBF4",
+            "amount": "0.12 mL"
+          }
+        ],
+        "equipment": "25 mL Teflon-lined stainless-steel reactor",
+        "chemicals_used": [
+          {
+            "name": "Mn(OAc)2·4H2O",
+            "amount": "0.040 g"
+          },
+          {
+            "name": "H2BDC",
+            "amount": "0.016 g"
+          },
+          {
+            "name": "Tripp",
+            "amount": "0.016 g"
+          }
+        ],
+        "time": "10 days",
+        "washing_method": "rinsed three times with fresh DMA (5 mL  ×  3)",
+        "yield": "73.5% based on metal content"
+      },
+      "activation": {
+        "method": "fully exchanged with fresh CH2Cl2 three times daily for three days, followed by activation at 60 °C under high vacuum for 12 hours"
+      },
+      "gas_adsorption": {
+        "equipment": "Micromeritics 3Flex instrument",
+        "temperature": [
+          "77 K",
+          "273 K",
+          "298 K"
+        ],
+        "gases_tested": [
+          "He",
+          "CO2",
+          "N2",
+          "C2H2",
+          "C2H4",
+          "C2H6"
+        ],
+        "regeneration": "degassed at 25 °C under high vacuum for 6 hours"
+      },
+      "dynamic_gas_breakthrough": {
+        "equipment": "homemade apparatus",
+        "temperature": "298 K",
+        "gas_mixture": "1:1:1 mixture of C2H6/C2H4/C2H6",
+        "total_gas_pressure": "100 kPa",
+        "total_gas_flow": "2.1 cm3 min-1",
+        "detector": "gas chromatography analyzer (TCD-Thermal Conductivity Detector, detection limit 0.1 ppm)"
+      }
+    },
+    {
+      "name": "NPU-2",
+      "synthesis": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "DMA",
+            "amount": "3 mL"
+          },
+          {
+            "name": "HCOOH",
+            "amount": "0.2 mL"
+          },
+          {
+            "name": "HBF4",
+            "amount": "0.12 mL"
+          }
+        ],
+        "equipment": "25 mL Teflon-lined stainless-steel reactor",
+        "chemicals_used": [
+          {
+            "name": "Mn(OAc)2·4H2O",
+            "amount": "0.040 g"
+          },
+          {
+            "name": "H2NPDA",
+            "amount": "0.022 g"
+          },
+          {
+            "name": "Tripp",
+            "amount": "0.016 g"
+          }
+        ],
+        "time": "10 days",
+        "washing_method": "rinsed three times with fresh DMA (5 mL  ×  3)",
+        "yield": "55.9% based on metal content"
+      },
+      "activation": {
+        "method": "fully exchanged with fresh CH2Cl2 three times daily for three days, followed by activation at 60 °C under high vacuum for 12 hours"
+      }
+    },
+    {
+      "name": "NPU-3",
+      "synthesis": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "DMA",
+            "amount": "3 mL"
+          },
+          {
+            "name": "HCOOH",
+            "amount": "0.2 mL"
+          },
+          {
+            "name": "HBF4",
+            "amount": "0.12 mL"
+          }
+        ],
+        "equipment": "25 mL Teflon-lined stainless-steel reactor",
+        "chemicals_used": [
+          {
+            "name": "Mn(OAc)2·4H2O",
+            "amount": "0.040 g"
+          },
+          {
+            "name": "H2BPDC",
+            "amount": "0.024 g"
+          },
+          {
+            "name": "Tripp",
+            "amount": "0.016 g"
+          }
+        ],
+        "time": "10 days",
+        "washing_method": "rinsed three times with fresh DMA (5 mL  ×  3)",
+        "yield": "56.9% based on metal content"
+      },
+      "activation": {
+        "method": "fully exchanged with fresh CH2Cl2 three times daily for three days, followed by activation at 60 °C under high vacuum for 12 hours"
+      }
+    }
+  ]
+}

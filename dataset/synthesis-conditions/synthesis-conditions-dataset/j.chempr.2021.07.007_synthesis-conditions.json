@@ -1,0 +1,165 @@
+{
+  "materials": [
+    {
+      "name": "SIFSIX-21-Ni",
+      "synthesis_conditions": {
+        "method": "solvothermal",
+        "precursors": [
+          {
+            "name": "pypz",
+            "amount": "0.1 mmol",
+            "form": "suspension"
+          },
+          {
+            "name": "NiSiF6.6H2O",
+            "amount": "0.05 mmol",
+            "form": "suspension"
+          }
+        ],
+        "solvent": "MeOH",
+        "volume": "3 mL",
+        "temperature": "85 °C",
+        "container": "10.5 mL glass vial",
+        "duration": "overnight",
+        "yield": "75%",
+        "washing": "MeOH",
+        "washing_times": 3
+      }
+    },
+    {
+      "name": "TIFSIX-4-Ni",
+      "synthesis_conditions": {
+        "method": "layering",
+        "precursors": [
+          {
+            "name": "NiTiF6.6H2O",
+            "amount": "0.05 mmol",
+            "form": "solution"
+          },
+          {
+            "name": "pypz",
+            "amount": "0.1 mmol",
+            "form": "solution"
+          }
+        ],
+        "solvent": "MeOH",
+        "volume": "2 mL + 2 mL",
+        "temperature": "room temperature",
+        "container": "10 cm length and 1 cm diameter test tube",
+        "duration": "several days",
+        "yield": "60%",
+        "washing": "MeOH",
+        "washing_times": 3
+      }
+    },
+    {
+      "name": "SIFSIX-21-Cu",
+      "synthesis_conditions": {
+        "method": "layering",
+        "precursors": [
+          {
+            "name": "Cu(NO3)2",
+            "amount": "8.4 mg",
+            "form": "solution"
+          },
+          {
+            "name": "(NH4)2SiF6",
+            "amount": "6.2 mg",
+            "form": "solution"
+          },
+          {
+            "name": "pypz",
+            "amount": "12 mg",
+            "form": "solution"
+          }
+        ],
+        "solvent": "ethylene glycol and methanol",
+        "volume": "2 mL + 6 mL + 2 mL",
+        "temperature": "room temperature",
+        "container": "10 cm length and 1 cm diameter test tube",
+        "duration": "two weeks",
+        "yield": "not specified",
+        "washing": "not specified",
+        "washing_times": "not specified"
+      }
+    },
+    {
+      "name": "TIFSIX-4-Cu",
+      "synthesis_conditions": {
+        "method": "layering",
+        "precursors": [
+          {
+            "name": "(NH4)2TiF6",
+            "amount": "6.7 mg",
+            "form": "solution"
+          },
+          {
+            "name": "pypz",
+            "amount": "12 mg",
+            "form": "solution"
+          }
+        ],
+        "solvent": "ethylene glycol and methanol",
+        "volume": "2 mL + 6 mL + 2 mL",
+        "temperature": "room temperature",
+        "container": "10 cm length and 1 cm diameter test tube",
+        "duration": "two weeks",
+        "yield": "not specified",
+        "washing": "not specified",
+        "washing_times": "not specified"
+      }
+    },
+    {
+      "name": "NbOFFIVE-3-Ni",
+      "synthesis_conditions": {
+        "method": "solvothermal",
+        "precursors": [
+          {
+            "name": "pypz",
+            "amount": "1 mmol",
+            "form": "suspension"
+          },
+          {
+            "name": "NiNbOF5.6H2O",
+            "amount": "0.5 mmol",
+            "form": "suspension"
+          }
+        ],
+        "solvent": "MeOH",
+        "volume": "15 mL",
+        "temperature": "85 °C",
+        "container": "100 mL Schott Duran bottle",
+        "duration": "overnight",
+        "yield": "70%",
+        "washing": "MeOH",
+        "washing_times": 3
+      }
+    },
+    {
+      "name": "NbOFFIVE-3-Cu",
+      "synthesis_conditions": {
+        "method": "solvothermal",
+        "precursors": [
+          {
+            "name": "pypz",
+            "amount": "1 mmol",
+            "form": "suspension"
+          },
+          {
+            "name": "CuNbOF5.6H2O",
+            "amount": "0.5 mmol",
+            "form": "suspension"
+          }
+        ],
+        "solvent": "MeOH",
+        "volume": "15 mL",
+        "temperature": "85 °C",
+        "container": "100 mL Schott Duran bottle",
+        "duration": "overnight",
+        "yield": "not specified",
+        "washing": "MeOH",
+        "washing_times": 3
+      }
+    }
+  ]
+}

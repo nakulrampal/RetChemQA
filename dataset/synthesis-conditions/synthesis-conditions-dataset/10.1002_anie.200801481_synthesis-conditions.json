@@ -1,0 +1,51 @@
+{
+  "materials": [
+    {
+      "name": "1D helical chain 1",
+      "synthesis_conditions": {
+        "solvents": "EtOH",
+        "temperature": "100 8C",
+        "equipment": "solvothermal reaction setup",
+        "chemicals_used": "zinc(II) chloride, 4’-phenyl-4,2’:6’,4’’-terpyridine (L1)"
+      }
+    },
+    {
+      "name": "concomitant crystals 2 a and 2 b",
+      "synthesis_conditions": {
+        "solvents": "ethanol/water mixed solvent",
+        "solvent_ratio": "not specified",
+        "temperature": "140 8C",
+        "equipment": "solvothermal reaction setup",
+        "chemicals_used": "zinc(II) chloride, ligand with para-methyl group to the phenyl ring (L2)"
+      }
+    },
+    {
+      "name": "pure homochiral product 2 a",
+      "synthesis_conditions": {
+        "solvents": "isopropyl alcohol or tert-butyl alcohol",
+        "temperature": "140 8C",
+        "equipment": "solvothermal reaction setup",
+        "chemicals_used": "zinc(II) chloride, ligand with para-methyl group to the phenyl ring (L2)"
+      }
+    },
+    {
+      "name": "pure heterochiral products 2 b",
+      "synthesis_conditions": {
+        "solvents": "methanol or ethanol",
+        "temperature": "140 8C",
+        "equipment": "solvothermal reaction setup",
+        "chemicals_used": "zinc(II) chloride, ligand with para-methyl group to the phenyl ring (L2)"
+      }
+    },
+    {
+      "name": "single product 3",
+      "synthesis_conditions": {
+        "solvents": "ethanol/water",
+        "solvent_ratio": "4:1",
+        "temperature": "140 8C",
+        "equipment": "solvothermal reaction setup",
+        "chemicals_used": "ZnCl2, ligand with ethyl group (L3)"
+      }
+    }
+  ]
+}

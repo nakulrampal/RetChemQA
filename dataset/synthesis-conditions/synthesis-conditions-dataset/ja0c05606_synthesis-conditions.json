@@ -1,0 +1,109 @@
+{
+  "materials": [
+    {
+      "name": "K(222)2[p-terphenyl3]",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "Dimethoxyethane (DME)",
+            "amount": "10 mL"
+          }
+        ],
+        "equipment": "vial",
+        "chemicals_used": [
+          {
+            "name": "Potassium metal",
+            "amount": "10 mg",
+            "molar_amount": "0.26 mmol"
+          },
+          {
+            "name": "p-terphenyl",
+            "amount": "40 mg",
+            "molar_amount": "0.17 mmol"
+          },
+          {
+            "name": "(222)",
+            "amount": "64 mg",
+            "molar_amount": "0.17 mmol"
+          }
+        ],
+        "time": "2-4 days for recrystallization",
+        "yield": "28%",
+        "washing_method": "decanted",
+        "drying_method": "recrystallization",
+        "additional_information": "Stirred for 2 hours at room temperature before recrystallization."
+      }
+    },
+    {
+      "name": "K(18c6)DME2[p-terphenyl3]",
+      "synthesis_conditions": {
+        "temperature": "room temperature, cooled at -30 ⁰C for recrystallization",
+        "solvents": [
+          {
+            "name": "Dimethoxyethane (DME)",
+            "amount": "10 mL"
+          }
+        ],
+        "equipment": "vial",
+        "chemicals_used": [
+          {
+            "name": "Potassium metal",
+            "amount": "20 mg",
+            "molar_amount": "0.54 mmol"
+          },
+          {
+            "name": "p-terphenyl",
+            "amount": "40 mg",
+            "molar_amount": "0.17 mmol"
+          },
+          {
+            "name": "(18c6)",
+            "amount": "not specified",
+            "molar_amount": "not specified"
+          }
+        ],
+        "time": "1-2 days for recrystallization",
+        "yield": "12%",
+        "washing_method": "decanted",
+        "drying_method": "recrystallization",
+        "additional_information": "Stirred for 2 hours at room temperature before recrystallization."
+      }
+    },
+    {
+      "name": "K(222)[methyl-p-terphenyl]",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "Dimethoxyethane (DME)",
+            "amount": "10 mL"
+          }
+        ],
+        "equipment": "vial",
+        "chemicals_used": [
+          {
+            "name": "Potassium metal",
+            "amount": "19.7 mg",
+            "molar_amount": "0.49 mmol"
+          },
+          {
+            "name": "methyl-p-terphenyl",
+            "amount": "40 mg",
+            "molar_amount": "0.16 mmol"
+          },
+          {
+            "name": "(222)",
+            "amount": "184.5 mg",
+            "molar_amount": "0.49 mmol"
+          }
+        ],
+        "time": "24 hours for recrystallization",
+        "yield": "18%",
+        "washing_method": "decanted",
+        "drying_method": "recrystallization",
+        "additional_information": "Stirred for 2 hours at room temperature before recrystallization."
+      }
+    }
+  ]
+}

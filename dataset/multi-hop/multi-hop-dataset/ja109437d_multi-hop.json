@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula for the nanotubular MOF synthesized for sensing small solvent molecules?",
+      "answer": "The empirical formula is {[(WS4Cu4)I2(dptz)3]·DMF}n.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What role does the dptz ligand play in the solvatochromic response of the MOF?",
+      "answer": "The dptz ligand plays an important role in the solvatochromic response due to its strong π-acceptor property and labile electronic structure to solvent polarity.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the MOF's absorption band shift in response to solvent polarity?",
+      "answer": "The absorption bands are blue-shifted with increasing solvent guests' polarity, showing a negative solvatochromic effect.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the linear correlation between the band gaps of solvent-included complexes and the polarity of the guest solvents?",
+      "answer": "The linear correlation indicates that the MOF can effectively sense the solvents based on their polarity, making it powerful for sensing applications.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The solvatochromic MOF can sense solvent molecules both within its channels and on its external surface.",
+      "answer": "False. The sensing by the MOF occurs within the channel-containing material rather than on the external surface.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the MOF's structure upon desolvation and subsequent exposure to different solvents?",
+      "answer": "Upon desolvation and exposure to different solvents, the MOF changes to specific colors and shows shifts in UV-vis spectra, indicating its solvatochromic behavior.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF's solvatochromic response is reversible and the material is stable over multiple cycles of solvent exchange.",
+      "answer": "True. The durability tests showed no significant change in the optical absorption spectra over multiple cycles of solvent exchange, indicating reversibility and stability.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of the dptz ligand compared to the bpy ligand in solvatochromic response?",
+      "answer": "The dptz ligand contributes to the solvatochromic response of the MOF, unlike the bpy ligand, which shows no solvatochromic effect in a similar MOF structure.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the pore size of the MOF change upon desolvation?",
+      "answer": "The pore size expands slightly and the cell volume increases by 1.5% upon desolvation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The MOF's solvatochromic response is dependent on the size of the solvent molecules.",
+      "answer": "True. The MOF exhibits size selectivity, allowing small molecules to go through while blocking larger ones, indicating that the response is dependent on the size of the solvent molecules.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of hydrogen bonds in the MOF's structure?",
+      "answer": "Hydrogen bonds between paired dptz ligands of the interpenetrated networks stabilize the overall nanotubular architecture of the MOF.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the MOF's response to solvent vapors compare to its response to liquid solvents?",
+      "answer": "The MOF responds to solvent vapors at a much slower speed compared to its quick response to liquid solvents, changing to specific colors within 1 minute at 15 °C.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF can distinguish between molecules of similar polarity but different sizes.",
+      "answer": "True. The sieving function of the micropores allows the MOF to distinguish between molecules having similar polarity but different sizes.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the slope and correlation coefficient in the linear correlation between band gaps and solvent polarity?",
+      "answer": "The slope and correlation coefficient indicate the strength and reliability of the linear correlation, showing how effectively the MOF's band gaps can predict the polarity of the solvent guests.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF's solvatochromic behavior is solely due to the d−d transitions of metal centers.",
+      "answer": "False. While d−d transitions of metal centers can contribute to solvatochromism, in this MOF, the solvatochromic behavior is significantly influenced by the solvatochromic organic ligand (dptz).",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the MOF's solvatochromic behavior contribute to its application as a sensor?",
+      "answer": "The MOF's ability to change color and shift UV-vis absorption bands in response to different solvent guests, due to its solvatochromic behavior, makes it an effective sensor for detecting and distinguishing between small solvent molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF's solvatochromic response is unaffected by the electronic structure of the ligand.",
+      "answer": "False. The electronic structure of the ligand, particularly its π-acceptor property and labile electronic structure to solvent polarity, plays a crucial role in the MOF's solvatochromic response.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental techniques were used to characterize the MOF and its solvatochromic behavior?",
+      "answer": "Techniques such as single-crystal X-ray crystallography, IR spectroscopy, TGA, powder X-ray diffraction, and UV-vis spectroscopy were used to characterize the MOF and its solvatochromic behavior.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the MOF's structure facilitate its function as a sensor?",
+      "answer": "The MOF's nanotubular structure, stabilized by hydrogen bonds and featuring a solvatochromic organic ligand, facilitates its function as a sensor by allowing solvent molecules to induce shifts in optical absorption bands within its cavities.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF can sense solvent molecules by changes in refractive index, redox potential, impedance, piezoresistance, or other properties.",
+      "answer": "False. The MOF specifically senses solvent molecules by changes in the UV-vis spectra of the corresponding inclusion compounds, rather than by changes in refractive index, redox potential, impedance, piezoresistance, or other properties.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

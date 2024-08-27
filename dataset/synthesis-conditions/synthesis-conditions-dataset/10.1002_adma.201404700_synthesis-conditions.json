@@ -1,0 +1,70 @@
+{
+  "materials": [
+    {
+      "name": "ZJU-88",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "time": "2 days",
+        "solvents": [
+          {
+            "name": "dimethylformamide (DMF)",
+            "amount": "25 mL"
+          },
+          {
+            "name": "ethanol (CH3CH2OH)",
+            "amount": "1.25 mL"
+          },
+          {
+            "name": "water (H2O)",
+            "amount": "1.75 mL"
+          },
+          {
+            "name": "acetic acid (CH3COOH)",
+            "amount": "500 µL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "1,1':4',1'':4'',1'''-quaterphenyl-3,3'''',5,5''''-tetracarboxylic acid (H4QPTCA)",
+            "amount": "50 mg, 0.10 mmol"
+          },
+          {
+            "name": "Eu(NO3)3·6H2O",
+            "amount": "150 mg, 0.33 mmol"
+          }
+        ],
+        "equipment": "50 mL glass vial",
+        "washing_method": "washed with DMF",
+        "drying_method": "not specified",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "ZJU-88⊃perylene",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "time": "2 days",
+        "solvents": [
+          {
+            "name": "dimethylformamide (DMF)",
+            "amount": "used with perylene solutions of different concentrations (1 × 10−3, 5 × 10−3, and 1 × 10−2 mol L−1)"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "perylene solutions in DMF",
+            "concentrations": [
+              "1 × 10−3 mol L−1",
+              "5 × 10−3 mol L−1",
+              "1 × 10−2 mol L−1"
+            ]
+          }
+        ],
+        "equipment": "similar to ZJU-88 synthesis",
+        "washing_method": "washed with DMF several times",
+        "drying_method": "not specified",
+        "yield": "perylene dye content determined to be 0.02%, 0.10%, and 0.19% respectively"
+      }
+    }
+  ]
+}

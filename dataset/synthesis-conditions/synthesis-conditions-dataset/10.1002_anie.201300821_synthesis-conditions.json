@@ -1,0 +1,49 @@
+{
+  "materials": [
+    {
+      "name": "{Zn3[(L)2(m2-OH)2]·6 H2O}n (1)",
+      "synthesis_conditions": {
+        "temperature": "140 8C",
+        "solvents": ["ethanol", "water"],
+        "amount_of_solvents": ["3.5 mL ethanol", "3.5 mL water"],
+        "equipment": "solvothermal conditions",
+        "chemicals_used": ["Zn(NO3)2·6 H2O", "H2L", "triethylamine"],
+        "amount_of_chemicals": ["0.5 mmol Zn(NO3)2·6 H2O", "0.125 mmol H2L", "0.125 mL triethylamine"],
+        "time": "3 days",
+        "yield": "average yield: 55 % based on Zn",
+        "drying_method": "air",
+        "washing_method": "not specified"
+      }
+    },
+    {
+      "name": "1’",
+      "synthesis_conditions": {
+        "temperature": "120 8C",
+        "equipment": "dynamic vacuum",
+        "time": "6 h",
+        "preparation_method": "degassing the crystals of 1"
+      }
+    },
+    {
+      "name": "1’’",
+      "synthesis_conditions": {
+        "temperature": "250 8C",
+        "equipment": "dynamic vacuum",
+        "time": "12 h",
+        "preparation_method": "degassing the crystals of 1",
+        "additional_information": "The resulting crystals were immediately soaked in bromine/CHCl3 solution"
+      }
+    },
+    {
+      "name": "1’’-Br",
+      "synthesis_conditions": {
+        "solvents": ["CHCl3"],
+        "solvent_for_reaction": "bromine/CHCl3 solution (10 wt %)",
+        "time": "30 min",
+        "preparation_method": "soaking 1’’ in bromine/CHCl3 solution",
+        "washing_method": "washing with CHCl3",
+        "drying_method": "air"
+      }
+    }
+  ]
+}

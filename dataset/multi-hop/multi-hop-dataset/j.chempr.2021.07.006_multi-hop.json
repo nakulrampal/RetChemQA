@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What are the synthesis conditions for CTH-14, CTH-15, and CTH-16?",
+      "answer": "CTH-14: Yttrium nitrate hexahydrate, 1,2,4,5-benzenetetracarboxylic acid (H4btec), and 4,4′-azopyridine dissolved in a 1:1:1 (v/v/v) DMF/H2O/glacial acetic acid solution, solvothermal synthesis at 120°C for 24 hours. CTH-15: Similar to CTH-14 but using cerium nitrate hexahydrate, solvothermal synthesis for 3 days. CTH-16: Similar to CTH-14 but using gadolinium nitrate hexahydrate, solvothermal synthesis for 2 days.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system and space group for CTH-14, CTH-15, and CTH-16?",
+      "answer": "CTH-14: Triclinic, P1\". CTH-15: Monoclinic, P21/c. CTH-16: Triclinic, P1\".",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the thermal stability testing results for CTH-14, CTH-15, and CTH-16?",
+      "answer": "CTH-14 shows decomposition starting around 350°C, while CTH-15 and CTH-16 are stable up to at least 350°C.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the chemical stability of CTH-14, CTH-15, and CTH-16 vary in different solutions?",
+      "answer": "All three MOFs were stable in water for at least 1 hour. In 5-M HCl, they maintained their crystallinity with some peak broadening. In 5-M NaOH, CTH-14 and CTH-16 showed loss of intensity in PXRD patterns, and CTH-15 showed a more amorphous final product.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the photoluminescence properties of CTH-14, CTH-15, and CTH-16?",
+      "answer": "CTH-14 shows emission at 351 nm, CTH-15 has a more intense emission at 400 nm, and CTH-16's spectrum is dominated by an emission band at 414 nm, attributed to the 4,4′-azopyridine guest.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the cyclic voltammetry results for CTH-15 and CTH-16?",
+      "answer": "The cyclic voltammetry of CTH-15 shows a quasi-reversible electron transfer reaction related to the Ce(IV)/Ce(III) redox couple, indicating a remarkable stabilization of Ce(IV). CTH-16's cyclic voltammetry suggests the guest molecule 4,4′-azopyridine could potentially be reduced to the hydrazine, but the guest is shielded in the structure.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Based on the synthesis conditions, which MOF among CTH-14, CTH-15, and CTH-16 requires the longest synthesis time?",
+      "answer": "CTH-15 requires the longest synthesis time, with a solvothermal synthesis duration of 3 days.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the potential applications of the photoluminescent behavior of CTH-14, CTH-15, and CTH-16?",
+      "answer": "The photoluminescent behavior of CTH-14, CTH-15, and CTH-16 suggests potential for further investigations in light of the need for devices stable to moisture, air, and thermal degradation, especially given the architectural stability of CTH-15 up to 350°C.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the BET surface area and CO2 uptake at 20 °C, 1 bar compare among CTH-14, CTH-15, and CTH-16?",
+      "answer": "CTH-14 has a BET surface area of 7.48 m2/g and CO2 uptake of 2.60 cm3/g. CTH-15 has a BET surface area of 11.15 m2/g and CO2 uptake of 3.32 cm3/g. CTH-16 has a BET surface area of 6.01 m2/g and CO2 uptake of 3.37 cm3/g.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the presence of 4,4′-azopyridine in the pores of CTH-16 indicate about its structure?",
+      "answer": "The presence of 4,4′-azopyridine in the pores of CTH-16, as confirmed by photoluminescence measurements, indicates that the guest molecule is tightly held within the MOF's structure, suggesting a specific interaction between the guest and the framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

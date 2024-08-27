@@ -1,0 +1,119 @@
+{
+  "materials": [
+    {
+      "name": "Re­(CO)5Cl and H2BPYDC",
+      "synthesis_conditions": {
+        "temperature": "refluxed for 24 h",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "100 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Re­(CO)5Cl",
+            "amount": "0.360 g, 1.000 mmol"
+          },
+          {
+            "name": "H2BPYDC",
+            "amount": "0.240 g, 1.000 mmol"
+          }
+        ],
+        "atmosphere": "N2",
+        "washing_method": "filtered",
+        "drying_method": "evaporated under reduced pressure"
+      }
+    },
+    {
+      "name": "Re­n-MOFs",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "time": "10 h",
+        "solvents": [
+          {
+            "name": "dimethylformamide (DMF)",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H2ReTC and H2BPDC",
+            "amount": "0.040 mmol of organic linker in total with varying ratios"
+          },
+          {
+            "name": "ZrCl4",
+            "amount": "9.320 mg, 0.040 mmol"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "0.5 mL, 8.7 mmol"
+          }
+        ],
+        "equipment": "20 mL vial",
+        "washing_method": "washed three times with DMF using a centrifuge (9000 rpm for 10 min) and sonication, then immersed in anhydrous acetonitrile for three 24 h periods"
+      }
+    },
+    {
+      "name": "Ag Nanocubes",
+      "synthesis_conditions": {
+        "temperature": "190 °C",
+        "solvents": [
+          {
+            "name": "1,5-pentanediol",
+            "amount": "25 mL in total"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "silver nitrate",
+            "amount": "0.25 g"
+          },
+          {
+            "name": "copper­(II) chloride",
+            "amount": "0.21 mg"
+          },
+          {
+            "name": "PVP",
+            "amount": "0.25 g"
+          }
+        ],
+        "equipment": "20 mL glass vial",
+        "time": "reaction stopped once solution turned opaque (~7 min)"
+      }
+    },
+    {
+      "name": "Ag⊂Re3-MOF",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "dimethylformamide (DMF)",
+            "amount": "13.1 mL in total"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H2BPDC",
+            "amount": "9.110 mg, 0.037 mmol"
+          },
+          {
+            "name": "H2ReTC",
+            "amount": "1.320 mg, 0.002 mmol"
+          },
+          {
+            "name": "ZrCl4",
+            "amount": "9.32 mg, 0.04 mmol"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "0.625 mL, 8.700 mmol"
+          }
+        ],
+        "equipment": "20 mL vial with a magnetic stirrer",
+        "time": "25 and 30 min for different thicknesses",
+        "washing_method": "washed three times with DMF using a centrifuge (9000 rpm for 10 min) and sonication, then immersed in anhydrous acetonitrile for three 24 h periods"
+      }
+    }
+  ]
+}

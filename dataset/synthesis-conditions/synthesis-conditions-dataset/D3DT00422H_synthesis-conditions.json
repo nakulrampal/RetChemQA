@@ -1,0 +1,65 @@
+{
+  "materials": [
+    {
+      "name": "UoC-9(Ca)",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "4 mL"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "0.2 mL"
+          }
+        ],
+        "equipment": "15 mL screw-cap glass vials",
+        "chemicals_used": [
+          {
+            "name": "H3-3F-BTB",
+            "amount": "10.0 mg"
+          },
+          {
+            "name": "Ca(NO3)2·4H2O",
+            "amount": "30.0 mg"
+          }
+        ],
+        "time": "48–72 h",
+        "drying_method": "N2 stream",
+        "yield": "Not specified"
+      }
+    },
+    {
+      "name": "UoC-9(Sr)",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "4 mL"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "0.2 mL"
+          }
+        ],
+        "equipment": "15 mL screw-cap glass vials",
+        "chemicals_used": [
+          {
+            "name": "H3-3F-BTB",
+            "amount": "10.0 mg"
+          },
+          {
+            "name": "Sr(NO3)2",
+            "amount": "30.0 mg"
+          }
+        ],
+        "time": "48–72 h",
+        "drying_method": "N2 stream",
+        "yield": "Not specified",
+        "additional_information": "Crystals of sufficient size for SCXRD were obtained by adding seeding crystals of prior syntheses to the mixture and lowering the reaction temperature to 80 °C, keeping all other parameters the same."
+      }
+    }
+  ]
+}

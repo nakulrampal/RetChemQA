@@ -1,0 +1,37 @@
+{
+  "materials": [
+    {
+      "name": "K2[Cr3O(OOCH)6(4-ethylpyridine)3]2[a-SiW12O40]·4 CH3OH (1·4 CH3OH)",
+      "synthesis_conditions": {
+        "temperature": "room temperature for 24 h, then treated at 373 K in vacuo for guest-free phase",
+        "solvents": [
+          {
+            "name": "1,2-dichloroethane",
+            "amount": "100 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "ca. 2 mL for CH3COOK dissolution, 200 mL for solution B"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[Cr3O(OOCH)6(4-ethylpyridine)3]-(ClO4)·n H2O",
+            "amount": "0.50 g"
+          },
+          {
+            "name": "CH3COOK",
+            "amount": "0.50 g for solution A, 0.50 g for solution B"
+          },
+          {
+            "name": "H4SiW12O40·n H2O",
+            "amount": "0.75 g"
+          }
+        ],
+        "yield": "about 60%",
+        "drying_method": "treatment at 373 K in vacuo for guest-free phase",
+        "equipment": "filtered to remove KClO4"
+      }
+    }
+  ]
+}

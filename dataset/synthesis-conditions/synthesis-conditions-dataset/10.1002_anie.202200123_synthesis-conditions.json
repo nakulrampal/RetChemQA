@@ -1,0 +1,54 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "method": "solvothermal",
+        "chemicals_used": [
+          {
+            "name": "BTB",
+            "role": "ligand"
+          },
+          {
+            "name": "Co",
+            "role": "metal center"
+          }
+        ],
+        "yield": "99% for cycloaddition of CO2 and aziridines",
+        "comments": "Exhibits excellent catalytic performance in the cycloaddition of CO2 with aziridines but only 32% efficiency in the carboxylation cyclization of CO2 with propargyl amines due to the absence of Lewis base sites."
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "method": "introducing nitrogen-containing ligand XN into 1",
+        "chemicals_used": [
+          {
+            "name": "XN",
+            "role": "Lewis base sites"
+          },
+          {
+            "name": "Co",
+            "role": "metal center"
+          }
+        ],
+        "yield": "2.4 times higher than 1 for the carboxylation cyclization of CO2 with propargyl amines",
+        "comments": "The introduction of XN decreases the Lewis acid sites and increases the Lewis base sites, improving catalytic efficiency for carboxylation cyclization of CO2 with propargyl amines."
+      }
+    },
+    {
+      "name": "2-PST-V (V = 20, 40, 60, 120)",
+      "synthesis_conditions": {
+        "method": "post-synthesis treatment of 2 with acid",
+        "chemicals_used": [
+          {
+            "name": "acid",
+            "role": "to remove part of the XN ligand"
+          }
+        ],
+        "yield": "99% for cycloaddition of CO2 with aziridines by 2-PST-120",
+        "comments": "The acid treatment exposes more Lewis acid sites, enhancing the catalytic effect for the cycloaddition of CO2 with aziridines. The yield decreases for carboxylation cyclization of CO2 with propargyl amines as Lewis base sites are reduced."
+      }
+    }
+  ]
+}

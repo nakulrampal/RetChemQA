@@ -1,0 +1,39 @@
+{
+  "materials": [
+    {
+      "name": "Phosphorescent MOF-1",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": "DMF (N,N’-dimethylformamide)",
+        "solvent_amounts": "DMF: 2000 molar ratio",
+        "equipment": "oven",
+        "chemicals_used": [
+          "H2L",
+          "H2bpdc (4,4’-biphenyldicarboxylic acid)",
+          "Zn(NO3)2•6H2O"
+        ],
+        "chemical_amounts": {
+          "Zn(NO3)2": "17 molar ratio",
+          "H2L": "1 molar ratio",
+          "H2bpdc": "33 molar ratio"
+        },
+        "time": "12 hours",
+        "yield": "Not specified",
+        "washing_method": "washed with CH2Cl2 three times over a 12 hours period, then with benzene several times and soaked in benzene overnight",
+        "drying_method": "freeze-dried after being evacuated under a dynamic vacuum for 24 h, kept under vacuum at room temperature for another 12 h, and then heated under vacuum at 60 °C for 10 h",
+        "crystal_morphology": "yellow-red crystals with thin-plate or feather-like shapes",
+        "framework_formula": "Zn2(BPDC)2L0.5•(DMF)9•(H2O)9",
+        "ligand_synthesis": {
+          "procedure": "cis-[Ru(bpy)2Cl2] mixed with 2,2’-bipyridine 5,5’-dicarboxylated acid in EtOH/H2O, refluxed for 12 hours under Ar protection",
+          "temperature": "Reflux temperature",
+          "solvents": "EtOH/H2O",
+          "chemicals_used": [
+            "cis-[Ru(bpy)2Cl2]",
+            "2,2’-bipyridine 5,5’-dicarboxylated acid"
+          ],
+          "time": "12 hours"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "materials": [
+    {
+      "name": "NU-100",
+      "synthesis_conditions": {
+        "temperature": "75 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "36 mL"
+          },
+          {
+            "name": "HBF4",
+            "amount": "0.2 mL"
+          }
+        ],
+        "equipment": "oven",
+        "chemicals_used": [
+          {
+            "name": "Cu(NO3)2.2.5H2O",
+            "amount": "600 mg"
+          },
+          {
+            "name": "LH6",
+            "amount": "300 mg"
+          }
+        ],
+        "time": "20 h",
+        "yield": "32% based on LH6",
+        "drying_method": "SCD activation",
+        "SCD_activation_details": {
+          "solvent_exchange": "absolute ethanol for 3 days, replacing every 24 h",
+          "SCD_conditions": {
+            "temperature": "40 °C",
+            "pressure": "supercritical CO2 conditions",
+            "duration": "10 h for CO2(liq.) exchange, then slowly vented over 15 h"
+          }
+        },
+        "further_preparation_for_adsorption_measurements": {
+          "vacuum_conditions": [
+            "room temperature for 4 h",
+            "50 °C for 30 min",
+            "70 °C for 30 min",
+            "90 °C for 30 min",
+            "110 °C for 15 h"
+          ],
+          "vacuum_level": "10-5 torr"
+        }
+      }
+    },
+    {
+      "name": "NU-100SP",
+      "synthesis_conditions": {
+        "computational_modelling_details": {
+          "initial_structure_creation": "Manual replacement of ligand in cubic space group Fm 3 m",
+          "geometry_optimization": "Successive geometry optimization calculations using Forcite module of Materials Studio",
+          "charge_derivation_method": "Density Functional Theory (DFT) calculations",
+          "final_structure": {
+            "unit_cell_dimensions": "a = b = c = 59.539 Å"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "materials": [
+    {
+      "name": "PCN-222(Fe)",
+      "synthesis_conditions": {
+        "temperature": "120 8C",
+        "solvents": [
+          "N,N-dimethylformamide",
+          "N,N-diethylformamide"
+        ],
+        "solvent_amounts": [
+          "Not specified",
+          "8 mL"
+        ],
+        "equipment": "20 mL Pyrex vial",
+        "chemicals_used": [
+          "M-TCPP (M = Fe, Mn, Co, Ni, Cu, Zn, H2) (50 mg)",
+          "ZrCl4 (70 mg)",
+          "benzoic acid (2.7 g)"
+        ],
+        "time": "48 h",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "35 mg, 46 %",
+        "additional_steps": [
+          {
+            "step": "Pre-activation treatments",
+            "details": "Carefully optimized by applying a dilute acid solution"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PCN-222 with other metalloporphyrin centers",
+      "synthesis_conditions": {
+        "temperature": "120 8C",
+        "solvents": [
+          "N,N-dimethylformamide",
+          "N,N-diethylformamide"
+        ],
+        "solvent_amounts": [
+          "Not specified",
+          "Not specified"
+        ],
+        "equipment": "Not specified",
+        "chemicals_used": [
+          "M-TCPP (M = Fe, Mn, Co, Ni, Cu, Zn, H2) (50 mg)",
+          "ZrCl4 (70 mg)",
+          "benzoic acid (2.7 g)"
+        ],
+        "time": "48 h",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_steps": [
+          {
+            "step": "Pre-activation treatments",
+            "details": "Carefully optimized by applying a dilute acid solution"
+          }
+        ]
+      }
+    }
+  ]
+}

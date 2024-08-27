@@ -1,0 +1,86 @@
+{
+  "materials": [
+    {
+      "name": "Co-gallate",
+      "synthesis": {
+        "precursors": [
+          "Gallic acid monohydrate (2 mmol)",
+          "CoCl2·6H2O (1 mmol)"
+        ],
+        "solvents": [
+          "KOH aqueous solution (0.05 M, 10 mL)"
+        ],
+        "conditions": {
+          "temperature": "120 oC",
+          "duration": "24 h",
+          "atmosphere": "autogenous pressure"
+        },
+        "post_synthesis_treatments": [
+          {
+            "washing": [
+              "deionized water",
+              "absolute ethanol"
+            ]
+          }
+        ],
+        "equipment": "Teflon-lined stainless-steel autoclave"
+      },
+      "characterization": {
+        "XRD": {
+          "equipment": "Rigaku Ultima IV diffractometer",
+          "conditions": {
+            "radiation": "Cu Kα (λ= 1.540598 Å)",
+            "power": "40 kV, 44 mA",
+            "scan_rate": "8.0 °/min",
+            "range": "2θ= 8-50°"
+          }
+        },
+        "TGA": {
+          "equipment": "TA-Q500 TGA instrument",
+          "conditions": {
+            "temperature_range": "30 to 800 oC",
+            "atmosphere": "N2",
+            "heating_rate": "10 oC/min"
+          }
+        },
+        "gas_sorption": {
+          "equipment": "Micromeritics ASAP 2020 surface area analyzer",
+          "activation_conditions": [
+            "80 oC for 24 h",
+            "100 oC for 24 h",
+            "120 oC for 24 h under ultrahigh vacuum"
+          ]
+        }
+      },
+      "properties": {
+        "isosteric_heat_of_adsorption": {
+          "method": "Clausius-Clapeyron equation",
+          "temperatures": [
+            "273 K",
+            "298 K"
+          ],
+          "value": "41 kJ mol-1"
+        },
+        "IAST_selectivity": {
+          "value": "330 at 1 bar and 298 K"
+        },
+        "breakthrough_experiments": {
+          "conditions": {
+            "column_dimensions": "inner dimensions of 4 mm and a length of 81 mm",
+            "sample_mass": "1.26 g",
+            "flow_rate": "1.7 mL min-1",
+            "temperature": "298 K",
+            "pressure": "1 bar",
+            "gas_mixture": "C3H6/C3H8 at 50/50, v/v"
+          },
+          "equipment": "gas chromatography (GC-2014, Shimadzu) with a thermal conductivity detector",
+          "regeneration": {
+            "method": "purging with pure He gas",
+            "duration": "14 min",
+            "temperature": "room temperature"
+          }
+        }
+      }
+    }
+  ]
+}

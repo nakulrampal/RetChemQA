@@ -1,0 +1,97 @@
+{
+  "materials": [
+    {
+      "name": "H4L",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "nioxime",
+            "amount": "557 mg",
+            "molar_amount": "3.10 mmol"
+          },
+          {
+            "name": "4-carboxybenzeneboronic acid",
+            "amount": "500 mg",
+            "molar_amount": "3 mmol"
+          },
+          {
+            "name": "anhydrous FeCl2",
+            "amount": "172 mg",
+            "molar_amount": "1.35 mmol"
+          }
+        ],
+        "solvent": "MeOH",
+        "solvent_amount": "20 mL",
+        "temperature": "reflux",
+        "time": "3 h",
+        "atmosphere": "N2",
+        "yield": "90%",
+        "yield_basis": "H4L",
+        "product": "red solid",
+        "product_amount": "908 mg"
+      }
+    },
+    {
+      "name": "NU-200",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "Cu(NO3)2·3H2O",
+            "amount": "30 mg",
+            "molar_amount": "0.124 mmol"
+          },
+          {
+            "name": "H4L",
+            "amount": "30 mg",
+            "molar_amount": "0.036 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "4 mL"
+          },
+          {
+            "name": "ethanol",
+            "amount": "1 mL"
+          }
+        ],
+        "modulator": "HBF4",
+        "modulator_amount": "1 drop",
+        "temperature": "80 °C",
+        "time": "2 days",
+        "yield": "78%",
+        "yield_basis": "H4L",
+        "product_form": "orange rhombic crystals"
+      },
+      "washing_method": [
+        {
+          "solvent": "DMF",
+          "times": "several"
+        },
+        {
+          "solvent": "acetone",
+          "times": "several"
+        }
+      ],
+      "activation_method": {
+        "solvent_exchange": [
+          {
+            "solvent": "methanol",
+            "times": "3",
+            "duration": "6 h each"
+          },
+          {
+            "solvent": "dichloromethane",
+            "times": "3",
+            "duration": "6 h each"
+          }
+        ],
+        "degassing": {
+          "temperature": "120 °C",
+          "duration": "10 h"
+        }
+      }
+    }
+  ]
+}

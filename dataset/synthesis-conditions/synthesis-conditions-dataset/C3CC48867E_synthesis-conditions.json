@@ -1,0 +1,56 @@
+{
+  "materials": [
+    {
+      "name": "Ga1",
+      "synthesis_conditions": {
+        "temperature": "160 °C",
+        "time": "5 days",
+        "solvents": "distilled water",
+        "amount_of_solvent": "8.0 mL",
+        "equipment": "15 mL Teflon-lined stainless steel autoclave",
+        "chemicals_used": {
+          "Ga(NO3)3·xH2O": "0.051 mg",
+          "2,2'-H2bpda": "0.012 g",
+          "1,4-H2bda": "0.009 g",
+          "phen": "0.010 g"
+        },
+        "molar_ratio": "4:1:1:1",
+        "pH_range": "3.42–3.45",
+        "yield": "42%",
+        "washing_method": "filter liquid",
+        "drying_method": "room temperature",
+        "additional_information": {
+          "IR_spectrum": "3456 (br, s), 3062(w), 1693 (w), 1589 (s), 1417 (s), 1298 (w), 1147 (w), 1104 (w), 864 (s), 745 (s), 533 (s)",
+          "Elemental_analysis": "C, 64.52; H, 3.52%",
+          "1H_NMR_DMSO-d6": "δ = 7.92 (s, 2 H, phen–H2,9), 7.24 (s, 4 H, 1,4-bda2––H2,3,5,6), 6.90 (s, 2 H, 2,2`-bpda2––H3,3`), 6.74 (s, 2 H, phen- H4,7), 6.53~6.42 (d, J = 7.5 Hz, 6 H, bpda2––H4,4`,5,5`), 6.04 (s, 2 H, phen–H3,8) ppm"
+        }
+      }
+    },
+    {
+      "name": "In1",
+      "synthesis_conditions": {
+        "temperature": "160 °C",
+        "time": "5 days",
+        "solvents": "distilled water",
+        "amount_of_solvent": "8.0 mL",
+        "equipment": "15 mL Teflon-lined stainless steel autoclave",
+        "chemicals_used": {
+          "In(NO3)3·xH2O": "0.060 g",
+          "2,2'-H2bpda": "0.012 g",
+          "1,4-H2bda": "0.009 g",
+          "phen": "0.010 g"
+        },
+        "molar_ratio": "4:1:1:1",
+        "pH_range": "3.45–3.50",
+        "yield": "62%",
+        "washing_method": "filter liquid",
+        "drying_method": "room temperature",
+        "additional_information": {
+          "IR_spectrum": "3454 (br, s), 3070(w), 1680 (w), 1593 (s), 1516 (w), 1417 (s), 1295 (w), 1145 (w), 864 (s), 736 (s), 533 (s)",
+          "Elemental_analysis": "C, 57.72; H, 3.31%",
+          "1H_NMR_DMSO-d6": "δ = 7.04 (s, 2 H, phen–H2,9), 6.48 (s, 4 H, 1,4-bda2––H2,3,5,6), 6.17 (s, 2 H, 2,2`-bpda2––H3,3`), 6.03 (s, 2 H, phen- H4,7), 5.89~5.75 (d, J = 7.1 Hz, 6 H, bpda2––H4,4`,5,5`), 5.47 (s, 2 H, phen–H3,8) ppm"
+        }
+      }
+    }
+  ]
+}

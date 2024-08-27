@@ -1,0 +1,82 @@
+{
+  "materials": [
+    {
+      "name": "PCN-133",
+      "synthesis_conditions": {
+        "temperature": "120 ºC",
+        "solvents": "N,N-dimethylmethanamide (DMF)",
+        "solvent_amounts": "10 mL + 5 mL",
+        "equipment": "Pyrex vial",
+        "chemicals_used": {
+          "ZrCl4": "150 mg",
+          "benzene tribenzoate (BTB)": "50 mg",
+          "4,4'-dicarboxydiphenyl sulfone (DCDPS)": "75 mg",
+          "benzoic acid (BA)": "1.5 g"
+        },
+        "time": "1 h pre-heating at 85 ºC + 24 h reaction",
+        "yield": "65 mg, 47 %",
+        "washing_method": "DMF, water, acetone",
+        "drying_method": "100 °C oven"
+      }
+    },
+    {
+      "name": "PCN-134",
+      "synthesis_conditions": {
+        "temperature": "120 ºC",
+        "solvents": "N,N-dimethylmethanamide (DMF)",
+        "solvent_amounts": "10 mL + 5 mL",
+        "equipment": "Pyrex vial",
+        "chemicals_used": {
+          "ZrCl4": "150 mg",
+          "benzene tribenzoate (BTB)": "50 mg",
+          "Tetrakis(4-carboxyphenyl)porphyrin (TCPP)": "30 mg",
+          "benzoic acid (BA)": "2.5 g"
+        },
+        "time": "1 h pre-heating at 85 ºC + 24 h reaction",
+        "yield": "51 mg, 57 %",
+        "washing_method": "DMF, water, acetone",
+        "drying_method": "100 °C oven"
+      }
+    },
+    {
+      "name": "PCN-134 with different TCPP ratios",
+      "synthesis_conditions": {
+        "temperature": "120 ºC",
+        "solvents": "N,N-dimethylmethanamide (DMF)",
+        "solvent_amounts": "10 mL + 5 mL",
+        "equipment": "Pyrex vial",
+        "chemicals_used": {
+          "ZrCl4": "150 mg",
+          "benzene tribenzoate (BTB)": "50 mg",
+          "Tetrakis(4-carboxyphenyl)porphyrin (TCPP)": "varied amounts (5, 10, 20, 25, 30, 40 mg)",
+          "benzoic acid (BA)": "2.5 g"
+        },
+        "time": "1 h pre-heating at 85 ºC + 24 h reaction",
+        "yield": "varied",
+        "washing_method": "DMF, water, acetone",
+        "drying_method": "100 °C oven",
+        "additional_information": "TCPP molar ratio in the product was determined to be 5%, 10%, 18%, 22%, 25%, and 31% respectively."
+      }
+    },
+    {
+      "name": "PCN-133 with different DCDPS ratios",
+      "synthesis_conditions": {
+        "temperature": "120 ºC",
+        "solvents": "N,N-dimethylmethanamide (DMF)",
+        "solvent_amounts": "10 mL + 5 mL",
+        "equipment": "Pyrex vial",
+        "chemicals_used": {
+          "ZrCl4": "150 mg",
+          "benzene tribenzoate (BTB)": "50 mg",
+          "4,4'-dicarboxydiphenyl sulfone (DCDPS)": "varied amounts (10, 20, 40, 50, 75, 100 mg)",
+          "benzoic acid (BA)": "1.5 g"
+        },
+        "time": "1 h pre-heating at 85 ºC + 24 h reaction",
+        "yield": "varied",
+        "washing_method": "DMF, water, acetone",
+        "drying_method": "100 °C oven",
+        "additional_information": "DCDPS molar ratio in the product was determined to be 20%, 40%, 55%, 60%, 65%, and 65% respectively."
+      }
+    }
+  ]
+}

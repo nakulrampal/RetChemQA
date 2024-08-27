@@ -1,0 +1,185 @@
+{
+  "materials": [
+    {
+      "material": "R-3,3'-Dibromo-5,5',6,6'-tetramethyl-2,2'-diol-1,1'-biphenyl",
+      "synthesis_conditions": {
+        "solvent": "CHCl3",
+        "amount_of_solvent_ml": 100,
+        "reactants": [
+          {
+            "name": "R-5,5',6,6'-tetramethyl-2,2'-diol-1,1'-biphenyl",
+            "amount_g": 3.47,
+            "mmol": 14.3
+          },
+          {
+            "name": "Br2",
+            "amount_ml": 1.7,
+            "mmol": 32.2,
+            "in_solvent_ml": 20,
+            "solvent": "CHCl3"
+          }
+        ],
+        "temperature": "room temperature",
+        "time": "1 h",
+        "additional_steps": [
+          {
+            "action": "quenched by addition of saturated Na2SO3"
+          },
+          {
+            "action": "extracted with Et2O",
+            "times": 3,
+            "amount_ml_each_time": 20
+          },
+          {
+            "action": "washed with water and brine"
+          },
+          {
+            "action": "dried over Na2SO4"
+          }
+        ],
+        "yield_percentage": 98.0
+      }
+    },
+    {
+      "material": "R-3,3'-Dibromo-5,5',6,6'-tetramethyl-2,2'-dimethoxy-1,1'-biphenyl",
+      "synthesis_conditions": {
+        "solvent": "acetone",
+        "amount_of_solvent_ml": 80,
+        "reactants": [
+          {
+            "name": "R-3,3'-dibromo-5,5',6,6'-tetramethyl-1,1'-biphenyl-2,2'-diol",
+            "amount_g": 7.4,
+            "mmol": 18.5
+          },
+          {
+            "name": "K2CO3",
+            "amount_g": 8.6,
+            "mmol": 62.3
+          },
+          {
+            "name": "MeI",
+            "amount_g": 10.4,
+            "mmol": 73
+          }
+        ],
+        "temperature": "room temperature",
+        "time": "overnight",
+        "additional_steps": [
+          {
+            "action": "separated organic layer"
+          },
+          {
+            "action": "extracted with CH2Cl2",
+            "times": 3,
+            "amount_ml_each_time": 50
+          },
+          {
+            "action": "washed with brine"
+          },
+          {
+            "action": "dried over Na2SO4"
+          }
+        ],
+        "yield_percentage": 98.0
+      }
+    },
+    {
+      "material": "R-3,3'-Bipyridine-5,5',6,6'-tetramethyl-2,2'-dimethoxy-1,1'-biphenyl (L)",
+      "synthesis_conditions": {
+        "solvent": "DME",
+        "amount_of_solvent_ml": 60,
+        "additional_solvent": {
+          "name": "H2O",
+          "amount_ml": 30
+        },
+        "reactants": [
+          {
+            "name": "R-3,3'-Dibromo-5,5',6,6'-tetramethyl-2,2'-dimethoxy-1,1'-biphenyl",
+            "amount_g": 6.0,
+            "mmol": 14.1
+          },
+          {
+            "name": "4-pyridylboronic acid",
+            "amount_g": 3.46,
+            "mmol": 28.2
+          },
+          {
+            "name": "Na2CO3",
+            "amount_g": 7.46,
+            "mmol": 70.4
+          },
+          {
+            "name": "PdCl2(dppf)·CH2Cl2",
+            "amount_g": 0.58,
+            "mmol": 0.7
+          }
+        ],
+        "temperature": "reflux",
+        "time": "24 h",
+        "additional_steps": [
+          {
+            "action": "extracted with CH2Cl2"
+          },
+          {
+            "action": "washed several times with brine"
+          },
+          {
+            "action": "dried over MgSO4"
+          },
+          {
+            "action": "purified by column chromatography on silica gel (2:1 hexane-EtOAc)"
+          }
+        ],
+        "yield_percentage": 96.0
+      }
+    },
+    {
+      "material": "Compounds 1−3",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount_ml": 1
+          },
+          {
+            "name": "MeOH or i-PrOH",
+            "amount_ml": 2
+          },
+          {
+            "name": "CH3CN",
+            "amount_ml": 1
+          }
+        ],
+        "reactants": [
+          {
+            "name": "AgX (X = ClO4-, PF6- or NO3-)",
+            "mmol": 0.05
+          },
+          {
+            "name": "Ligand L",
+            "mmol": 0.05
+          }
+        ],
+        "temperature": "room temperature",
+        "time": "4 days",
+        "yield": [
+          {
+            "product": "1",
+            "amount_mg": 23.7,
+            "yield_percentage": 80
+          },
+          {
+            "product": "2",
+            "amount_mg": 18.8,
+            "yield_percentage": 81
+          },
+          {
+            "product": "3",
+            "amount_mg": 24.6,
+            "yield_percentage": 78
+          }
+        ]
+      }
+    }
+  ]
+}

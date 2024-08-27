@@ -1,0 +1,129 @@
+{
+  "materials": [
+    {
+      "name": "Mg-aph-MOF",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "DMA",
+            "amount": "4 mL"
+          },
+          {
+            "name": "MeOH",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "Teflon vessel in an autoclave",
+        "chemicals_used": [
+          {
+            "name": "Adipic acid",
+            "amount": "0.053 g, 0.36 mmol"
+          },
+          {
+            "name": "Mg(NO3)2·6H2O",
+            "amount": "0.084 g, 0.33 mmol"
+          }
+        ],
+        "time": "24 h",
+        "yield": "44 mg (38%)",
+        "washing_method": "filtered, and washed briefly with the mother liquor"
+      }
+    },
+    {
+      "name": "np-MgO-350",
+      "synthesis_conditions": {
+        "temperature": "350 °C",
+        "equipment": "heated under a nitrogen flow",
+        "chemicals_used": [
+          {
+            "name": "Mg-aph-MOF",
+            "form": "ground into a powder"
+          }
+        ],
+        "time": "12 h",
+        "gas_flow": "60 mL/min",
+        "appearance": "dark-brown solid"
+      }
+    },
+    {
+      "name": "np-MgO-500",
+      "synthesis_conditions": {
+        "temperature": "500 °C",
+        "equipment": "heated under a nitrogen flow",
+        "chemicals_used": [
+          {
+            "name": "Mg-aph-MOF",
+            "form": "ground into a powder"
+          }
+        ],
+        "time": "12 h",
+        "gas_flow": "60 mL/min",
+        "appearance": "white powder"
+      }
+    },
+    {
+      "name": "Ce-aph-MOF",
+      "synthesis_conditions": {
+        "temperature": "110 °C",
+        "solvents": [
+          {
+            "name": "DEF",
+            "amount": "5 mL"
+          }
+        ],
+        "equipment": "sealed in a glass jar",
+        "chemicals_used": [
+          {
+            "name": "Adipic acid",
+            "amount": "0.022 g, 0.15 mmol"
+          },
+          {
+            "name": "Ce(NO3)3·6H2O",
+            "amount": "0.044 g, 0.10 mmol"
+          }
+        ],
+        "time": "24 h",
+        "yield": "22 mg (44%)",
+        "washing_method": "filtered and washed briefly with the mother liquor"
+      }
+    },
+    {
+      "name": "np-CeO2",
+      "synthesis_conditions": {
+        "temperature": "500 °C",
+        "equipment": "heated under a nitrogen flow",
+        "chemicals_used": [
+          {
+            "name": "Ce-aph-MOF",
+            "form": "ground into a powder"
+          }
+        ],
+        "time": "12 h",
+        "gas_flow": "60 mL/min",
+        "additional_step": {
+          "temperature": "300 °C",
+          "equipment": "heated under an oxygen flow",
+          "time": "2 h",
+          "gas_flow": "100 mL/min",
+          "appearance": "pale-yellow solid"
+        }
+      }
+    },
+    {
+      "name": "ar-MgO",
+      "synthesis_conditions": {
+        "temperature": "600 °C",
+        "equipment": "heated under a nitrogen flow",
+        "chemicals_used": [
+          {
+            "name": "Mg-ar-MOF",
+            "form": "Mg3(bpdc)3(DMA)4"
+          }
+        ],
+        "time": "12 h",
+        "gas_flow": "60 mL/min"
+      }
+    }
+  ]
+}

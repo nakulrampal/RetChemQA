@@ -1,0 +1,196 @@
+{
+  "materials": [
+    {
+        "name": "Co(bdp)",
+        "synthesis_conditions": {
+            "temperature": "160 °C",
+            "solvents": [
+                {
+                    "name": "N,N-diethylformamide (DEF)",
+                    "amount": "10 mL"
+                },
+                {
+                    "name": "anhydrous N,N-dimethylformamide (DMF)",
+                    "amount": "80 mL"
+                },
+                {
+                    "name": "anhydrous CH2Cl2",
+                    "amount": "used for solvent exchanges and activation"
+                }
+            ],
+            "equipment": [
+                {
+                    "type": "solvent bomb",
+                    "details": "100 mL"
+                },
+                {
+                    "type": "Schlenk flask",
+                    "details": "100 mL"
+                }
+            ],
+            "chemicals_used": [
+                {
+                    "name": "Co(CF3SO3)2",
+                    "amount": "0.72 g, 2.0 mmol, 1.1 equiv"
+                },
+                {
+                    "name": "H2bdp",
+                    "amount": "1.9 mmol, 1.0 equiv"
+                }
+            ],
+            "time": [
+                {
+                    "step": "reaction",
+                    "duration": "3 d"
+                },
+                {
+                    "step": "solvent-exchange with DMF",
+                    "duration": "7 d"
+                },
+                {
+                    "step": "solvent-exchange with CH2Cl2",
+                    "duration": "3 d"
+                },
+                {
+                    "step": "drying under Ar",
+                    "duration": "6 h"
+                },
+                {
+                    "step": "dynamic vacuum",
+                    "duration": "overnight"
+                }
+            ],
+            "yield": "not specified",
+            "washing_method": "solvent-exchange with DMF and CH2Cl2",
+            "drying_method": "evaporation under Ar, followed by drying under Ar at 160 °C and dynamic vacuum at 160 °C"
+        }
+    },
+    {
+        "name": "H2(F-bdp)",
+        "synthesis_conditions": {
+            "temperature": [
+                {
+                    "step": "Suzuki-Miyaura coupling",
+                    "value": "110 °C"
+                },
+                {
+                    "step": "hydrolysis",
+                    "value": "50 °C"
+                }
+            ],
+            "solvents": [
+                {
+                    "name": "toluene",
+                    "amount": "24 mL"
+                },
+                {
+                    "name": "methanol",
+                    "amount": "90 mL"
+                }
+            ],
+            "equipment": [
+                {
+                    "type": "glass scintillation vial",
+                    "details": "40 mL"
+                },
+                {
+                    "type": "round-bottom flask",
+                    "details": "250 mL"
+                }
+            ],
+            "chemicals_used": [
+                {
+                    "name": "1,4-dibromo-2-fluorobenzene",
+                    "amount": "3.03 g, 11.9 mmol, 1.0 equiv"
+                },
+                {
+                    "name": "1-(2-tetrahydropyranyl)-1H-pyrazole-4-boronic acid pinacol ester",
+                    "amount": "8.30 g, 29.8 mmol, 2.5 equiv"
+                },
+                {
+                    "name": "K3PO4",
+                    "amount": "12.7 g, 60 mmol, 5 equiv"
+                },
+                {
+                    "name": "XPhos Pd G2",
+                    "amount": "1.74 g, 2.4 mmol, 0.2 equiv"
+                }
+            ],
+            "time": [
+                {
+                    "step": "Suzuki-Miyaura coupling",
+                    "duration": "2 days"
+                },
+                {
+                    "step": "hydrolysis",
+                    "duration": "2 h"
+                }
+            ],
+            "yield": "49%",
+            "washing_method": "washed with diethyl ether and saturated aqueous NaHCO3 solution",
+            "drying_method": "dried in vacuo"
+        }
+    },
+    {
+        "name": "Co(F-bdp)",
+        "synthesis_conditions": {
+            "temperature": "160 °C",
+            "solvents": [
+                {
+                    "name": "DMF",
+                    "amount": "10.4 mL"
+                },
+                {
+                    "name": "anhydrous CH2Cl2",
+                    "amount": "used for solvent exchanges and activation"
+                }
+            ],
+            "equipment": [
+                {
+                    "type": "solvent bomb",
+                    "details": "100 mL"
+                },
+                {
+                    "type": "Schlenk flask",
+                    "details": "100 mL"
+                }
+            ],
+            "chemicals_used": [
+                {
+                    "name": "Co(CF3SO3)2",
+                    "amount": "0.75 g, 2.1 mmol, 1.0 equiv"
+                },
+                {
+                    "name": "H2(F-bdp)",
+                    "amount": "0.48 g, 2.1 mmol, 1.0 equiv"
+                }
+            ],
+            "time": [
+                {
+                    "step": "reaction",
+                    "duration": "3 days"
+                },
+                {
+                    "step": "solvent-exchange with DMF",
+                    "duration": "7 days"
+                },
+                {
+                    "step": "solvent-exchange with CH2Cl2",
+                    "duration": "3 days"
+                },
+                {
+                    "step": "drying under Ar",
+                    "duration": "6 h"
+                },
+                {
+                    "step": "dynamic vacuum",
+                    "duration": "overnight"
+                }
+            ],
+            "yield": "25%",
+            "washing_method": "solvent-exchange with DMF and CH2Cl2",
+            "drying_method": "evaporation under Ar, followed by drying under Ar at 160 °C and dynamic vacuum at 160 °C"
+        }
+    }
+  ]
+}

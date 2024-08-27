@@ -1,0 +1,74 @@
+{
+  "materials": [
+    {
+      "name": "AlFFIVE-1-Ni",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "time": "24h",
+        "solvents": [
+          {
+            "name": "deionized water",
+            "amount": "3 ml"
+          },
+          {
+            "name": "HFaq 48%",
+            "amount": "0.26 ml"
+          }
+        ],
+        "equipment": "20 ml Teflon liner",
+        "chemicals_used": [
+          {
+            "name": "Pyrazine",
+            "amount": "384.40 mg"
+          },
+          {
+            "name": "Ni(NO3)2·6H2O",
+            "amount": "174.50 mg"
+          },
+          {
+            "name": "Al(NO3)3·9H2O",
+            "amount": "225.0 mg"
+          }
+        ],
+        "washing_method": "ethanol",
+        "drying_method": "air",
+        "activation": "105 °C for one night under high vacuum (3 mTorr)"
+      }
+    },
+    {
+      "name": "FeFFIVE-1-Ni",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "time": "24h",
+        "solvents": [
+          {
+            "name": "deionized water",
+            "amount": "3 ml"
+          },
+          {
+            "name": "HFaq 48%",
+            "amount": "0.26 ml"
+          }
+        ],
+        "equipment": "20 ml Teflon liner",
+        "chemicals_used": [
+          {
+            "name": "Pyrazine",
+            "amount": "384.40 mg"
+          },
+          {
+            "name": "Ni(NO3)2·6H2O",
+            "amount": "174.50 mg"
+          },
+          {
+            "name": "Fe(NO3)3·9H2O",
+            "amount": "232.30 mg"
+          }
+        ],
+        "washing_method": "ethanol",
+        "drying_method": "air",
+        "activation": "105 °C for one night under high vacuum (3 mTorr)"
+      }
+    }
+  ]
+}

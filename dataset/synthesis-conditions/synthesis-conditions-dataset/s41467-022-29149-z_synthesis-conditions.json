@@ -1,0 +1,74 @@
+{
+  "materials": [
+    {
+      "material": "(E)-H4dacdc",
+      "synthesis": {
+        "chemicals_used": [
+          "4-Bromoaniline",
+          "Cu(NO3)2·3H2O",
+          "N,N-Dimethylethylenediamine",
+          "9H-Carbazole",
+          "Copper(I) iodine",
+          "N,N′-Dimethylformamid"
+        ],
+        "solvents": [
+          "Dichloromethane",
+          "Diethyl ether",
+          "Anhydrous THF",
+          "Ethanol"
+        ],
+        "temperature": "Room temperature to reflux",
+        "time": "Varies per step",
+        "yield": "96% for azobenzene 1, 89% for 3,6-Dibromo-9H-carbazole, 90% for 9H-Carbazole-3,6-dicarbonitrile, 93% for 9H-Carbazole-3,6-dicarboxylic acid, 95% for Dibutyl 9H-carbazole-3,6-dicarboxylate, 72% for (E)-nBu4dacdc",
+        "washing_method": "Filtered through celite, washed with dichloromethane and diethyl ether",
+        "drying_method": "Dried in vacuum",
+        "equipment": [
+          "Round bottom flask",
+          "Mortar and pestle",
+          "Schlenk flask",
+          "Glovebox"
+        ],
+        "characterization": [
+          "1H NMR",
+          "13C NMR",
+          "MS-ASAP",
+          "Elemental analysis",
+          "DRIFT"
+        ]
+      }
+    },
+    {
+      "material": "DUT-163",
+      "synthesis": {
+        "chemicals_used": [
+          "(E)-H4dacdc",
+          "Cu(NO3)2·3H2O",
+          "DMF",
+          "Acetic acid"
+        ],
+        "solvents": [
+          "DMF"
+        ],
+        "temperature": "80 °C",
+        "time": "48 h",
+        "yield": "Not specified",
+        "washing_method": "Washed with fresh DMF",
+        "drying_method": "Supercritical CO2 drying followed by activation at 353 K under dynamic vacuum for at least 24 h",
+        "equipment": [
+          "Round bottom flask",
+          "Pyrex tube",
+          "Ultrasonic bath"
+        ],
+        "characterization": [
+          "Single crystal X-ray diffraction",
+          "Powder X-ray diffraction",
+          "SEM",
+          "Gas adsorption experiments",
+          "DRIFT spectroscopy",
+          "DRUV-Vis adsorption spectroscopy",
+          "Thermogravimetric analysis"
+        ]
+      }
+    }
+  ]
+}

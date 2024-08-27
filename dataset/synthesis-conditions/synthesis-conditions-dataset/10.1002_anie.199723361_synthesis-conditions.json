@@ -1,0 +1,85 @@
+{
+  "materials": [
+    {
+      "name": "Hydrated [Zn(bix)2(NO3)2]",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "5 mL"
+          },
+          {
+            "name": "water",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "bix dihydrate",
+            "amount": "58.8 mg, 0.214 mmol"
+          },
+          {
+            "name": "zinc nitrate hexahydrate",
+            "amount": "21.3 mg, 0.072 mmol"
+          }
+        ],
+        "time": "18 h",
+        "washing_method": "washed with aqueous methanol",
+        "drying_method": "dried under air",
+        "yield": {
+          "C": {
+            "calcd": "47.3",
+            "found": "47.4"
+          },
+          "H": {
+            "calcd": "4.7",
+            "found": "4.5"
+          },
+          "N": {
+            "calcd": "19.7",
+            "found": "19.8"
+          },
+          "Zn": {
+            "calcd": "9.2",
+            "found": "9.2"
+          }
+        }
+      }
+    },
+    {
+      "name": "[1]boraferrocenophane 4a",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "benzene or toluene",
+            "amount": "not specified"
+          },
+          {
+            "name": "hexanes",
+            "amount": "for recrystallization"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "dilithioferrocene .TMEDA",
+            "amount": "not specified"
+          },
+          {
+            "name": "(Me3Si)2NBCl2",
+            "amount": "not specified"
+          }
+        ],
+        "temperature": "25 °C",
+        "recrystallization_temperature": "-30 °C",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "[1]boraferrocenophane 4b",
+      "synthesis_conditions": {
+        "method": "analogous to that employed for 4a",
+        "yield": "not specified"
+      }
+    }
+  ]
+}

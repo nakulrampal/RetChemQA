@@ -1,0 +1,152 @@
+{
+  "materials": [
+    {
+      "name": "M-gallate (M=Mg, Co, Ni)",
+      "synthesis": {
+        "precursors": [
+          {
+            "name": "Metal chloride",
+            "amount": "2 mmol"
+          },
+          {
+            "name": "Gallic acid monohydrate (H4gal)",
+            "amount": "4 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "KOH aqueous solution",
+            "amount": "10 mL",
+            "concentration": "0.16 M for Co, Ni-gallate, 0.5 M for Mg-gallate"
+          }
+        ],
+        "conditions": {
+          "temperature": "120 ℃",
+          "time": "24 h",
+          "atmosphere": "autogenous pressure"
+        },
+        "post_treatment": {
+          "washing_solvents": [
+            "H2O",
+            "ethanol"
+          ],
+          "washing_cycles": "3"
+        }
+      }
+    },
+    {
+      "name": "MOF pellets",
+      "synthesis": {
+        "precursors": [
+          {
+            "name": "M-gallate powder",
+            "amount": "1g"
+          },
+          {
+            "name": "Hydroxypropyl cellulose (HPC)",
+            "amount": "50 mg"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "0.6 mL"
+          }
+        ],
+        "method": "The semi-dry paste was formed into pellets of 1-2 mm size by extrusion molding."
+      }
+    },
+    {
+      "name": "Single-component Adsorption Isotherms",
+      "measurement": {
+        "equipment": [
+          "Micromeritics ASAP 2460 adsorption apparatus",
+          "3Flex (Micromeritics) volumetric adsorption analyzer"
+        ],
+        "sample_amount": "100 mg",
+        "outgassing": {
+          "temperature": "120 °C",
+          "time": "24 h",
+          "atmosphere": "vacuum"
+        },
+        "free_space_determination": "Helium gas"
+      }
+    },
+    {
+      "name": "Breakthrough Experiment",
+      "measurement": {
+        "equipment": "Hiden HPR-20 EGA mass spectrometer",
+        "sample_amount": "0.42 g for Ni-gallate, 0.43 g for Co-gallate, 0.50 g for Ni-gallate",
+        "column": "Stainless steel HPLC column (4.6 mm I.D. × 50 mm)",
+        "gas_flow": "He flow for purging",
+        "gas_mixtures": [
+          "SO2/N2=0.2:99.8 (v/v)",
+          "SO2/CO2=0.2:99.8 (v/v)",
+          "Mimic flue gas (SO2:0.201%, CO2:15.1%, O2: 3.02%, N2: 81.679%)"
+        ],
+        "flow_rates": [
+          "22 mL/min for SO2/N2",
+          "15 mL·min-1 for SO2/CO2 and mimic flue gas"
+        ],
+        "regeneration": {
+          "temperature": "120 ℃",
+          "time": "24 h",
+          "atmosphere": "He gas flow (20 mL·min−1)"
+        }
+      }
+    },
+    {
+      "name": "Assessment of BET Specific Areas",
+      "measurement": {
+        "equipment": "Micromeritics ASAP 2460 adsorption apparatus",
+        "method": "CO2 adsorption-desorption isotherms at 195 K",
+        "calculation_range": "0.05<p/p0<0.20"
+      }
+    },
+    {
+      "name": "Thermogravimetric Analysis of M-gallate",
+      "measurement": {
+        "equipment": "Pyris1 TGA instrument (Perkin-Elmer Corp.)",
+        "conditions": {
+          "temperature_range": "50 to 700℃",
+          "heating_rate": "10℃/min",
+          "atmosphere": "air"
+        }
+      }
+    },
+    {
+      "name": "Powder X-ray Diffraction Analysis",
+      "measurement": {
+        "equipment": "X’Pert diffractometer (Panalytical Corp., Netherlands)",
+        "radiation": "Cu Kα radiation (λ= 1.542 Å)",
+        "angular_range": "5-80°"
+      }
+    },
+    {
+      "name": "Single-crystal X-ray Diffraction Experiment",
+      "measurement": {
+        "equipment": "Bruker D8 Venture diffractometer",
+        "radiation": "Metaljet D2+ GaKα radiation (λ = 1.34050 Å)",
+        "temperature": "193 K",
+        "detector": "PHOTON-100 CMOS detector"
+      }
+    },
+    {
+      "name": "Fourier transform infrared (FT-IR) spectra test",
+      "measurement": {
+        "equipment": "Nicolet Nexus 470, Thermo Scientific",
+        "sample_preparation": "Powder of Co-gallate or SO2-loaded Co-gallate pressed into a KBr support",
+        "range": "400 to 4000 cm-1",
+        "resolution": "0.09 cm-1"
+      }
+    },
+    {
+      "name": "Heat of Adsorption Calculations",
+      "calculation": {
+        "method": "Viral equation and equation for isosteric enthalpy of adsorption (Qst)",
+        "temperatures": "273 K and 298 K",
+        "fitting": "R2 above 0.99"
+      }
+    }
+  ]
+}

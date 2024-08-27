@@ -1,0 +1,60 @@
+{
+  "materials": [
+    {
+      "name": "NbOFFIVE-1-Ni or KAUST-7",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Pyrazine",
+            "amount": "384.40 mg",
+            "mmol": "4.80 mmol"
+          },
+          {
+            "name": "Ni(NO3)2·6H2O",
+            "amount": "174.50 mg",
+            "mmol": "0.60 mmol"
+          },
+          {
+            "name": "Nb2O5",
+            "amount": "79.70 mg",
+            "mmol": "0.30 mmol"
+          },
+          {
+            "name": "HFaq 48%",
+            "amount": "0.26 ml",
+            "mmol": "7.15 mmol"
+          },
+          {
+            "name": "Deionized water",
+            "amount": "3 ml"
+          }
+        ],
+        "temperature": "130°C",
+        "time": "24h",
+        "equipment": "20ml Teflon liner in an autoclave",
+        "washing_method": "washed with ethanol",
+        "drying_method": "dried in air",
+        "yield": "Not specified",
+        "additional_information": "Resultant violet square-shaped crystals suitable for single crystal X-ray structure determination"
+      }
+    },
+    {
+      "name": "Zeolite 4A and Zeolite 5A",
+      "synthesis_conditions": {
+        "activation_temperature": "250°C",
+        "activation_method": "Initially activated at specified temperature",
+        "amounts": [
+          {
+            "name": "Zeolite 4A",
+            "amount": "1.20g"
+          },
+          {
+            "name": "Zeolite 5A",
+            "amount": "1.01g"
+          }
+        ],
+        "additional_information": "Used for comparison in adsorption column tests"
+      }
+    }
+  ]
+}

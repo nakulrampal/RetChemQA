@@ -1,0 +1,76 @@
+{
+  "materials": [
+    {
+      "name": "mw-Mg-CUK-1",
+      "synthesis_conditions": {
+        "temperature": "200 88C",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "5.0 cm3"
+          }
+        ],
+        "equipment": "MARS microwave (CEM Corp.) inside 100 cm3 Teflon-lined Easy-Prep reaction vessels",
+        "chemicals_used": [
+          {
+            "name": "2,4-Pyridinedicarboxylic acid",
+            "amount": "170 mg, 1.0 mmol"
+          },
+          {
+            "name": "KOH",
+            "amount": "2.0 m, 2.0 cm3"
+          },
+          {
+            "name": "Mg(NO3)2-hydrate",
+            "amount": "380 mg, 1.5 mmol"
+          }
+        ],
+        "time": "35 min",
+        "washing_method": "brief (3 x 20 s) cycles of sonication in fresh H2O (20 cm3), followed by decanting of the cloudy supernatant",
+        "drying_method": "evaporated to dryness in air, then dried further under vacuum at 50-60 88C for at least 2 h",
+        "yield": "average yield: 124 mg"
+      }
+    },
+    {
+      "name": "cv-Mg-CUK-1",
+      "synthesis_conditions": {
+        "temperature": "210 88C",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "5.0 cm3"
+          }
+        ],
+        "equipment": "23 cm3 Teflon-lined autoclave (Parr Corp.)",
+        "chemicals_used": [
+          {
+            "name": "2,4-Pyridinedicarboxylic acid",
+            "amount": "170 mg, 1.0 mmol"
+          },
+          {
+            "name": "KOH",
+            "amount": "2.0 m, 2.0 cm3"
+          },
+          {
+            "name": "Mg(NO3)2-hydrate",
+            "amount": "380 mg, 1.5 mmol"
+          }
+        ],
+        "time": "15 h",
+        "cooling_time": "6 h",
+        "washing_method": "brief (3 x 20 s) cycles of sonication in fresh H2O (20 cm3), followed by decanting of the cloudy supernatant",
+        "drying_method": "evaporated to dryness in air, then dried further under vacuum at 50-60 88C for at least 2 h",
+        "yield": "average yield: 58 mg"
+      }
+    },
+    {
+      "name": "Dehydrated and solvent-loaded Mg-CUK-1",
+      "synthesis_conditions": {
+        "dehydration_temperature": "50-60 88C",
+        "dehydration_method": "evacuated to dryness in air, then dried further under vacuum",
+        "dehydration_time": "at least 2 h",
+        "solvent_loading_method": "Small quantities (5-10 mg) of dehydrated material were transferred to scintillation vials under nitrogen and covered with the pre-dried solvent. The crystals were left to stand for two days before analysis."
+      }
+    }
+  ]
+}

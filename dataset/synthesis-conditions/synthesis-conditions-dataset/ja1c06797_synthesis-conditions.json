@@ -1,0 +1,72 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "0.5 mL"
+          },
+          {
+            "name": "DMF",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "20 mL vial",
+        "chemicals_used": [
+          {
+            "name": "In(NO3)2ꞏ6H2O",
+            "amount": "0.020 g, 0.058 mmol"
+          },
+          {
+            "name": "[Ni(C2S2(C6H4COOH)2)2]",
+            "amount": "0.005 g, 0.007 mmol"
+          }
+        ],
+        "time": "72 h",
+        "washing_method": "washed with EtOH three times",
+        "drying_method": "dried overnight",
+        "yield": "not specified",
+        "preparation_of_cathode_electrodes": {
+          "catalyst_amount": "10.0 mg",
+          "carbon_powder_amount": "1.0 mg",
+          "solvent_mixture": "960 μL of ethanol and 80 μL of Nafion D-521 (5 wt%)",
+          "loading_of_catalyst": "1 mg cm−2"
+        }
+      },
+      "characterizations": {
+        "FT-IR": "3432(w), 3066(w), 2925(w), 1660(vs), 1592(s), 1543(m), 1537(m), 1410(m), 1404(vs), 1382(vs), 1283(w), 1256(w), 1179(m), 1097(s), 1015(s), 856(s), 766(vs), 704(m), 662(m), 475(m), 435(m)",
+        "N2_adsorption_desorption_isotherms": {
+          "BET_surface_area": "35.8 m2 g−1",
+          "pore_size_distribution": "micropore profile"
+        },
+        "CO2_adsorption_desorption_capacity": "18.41 cm3 g−1 at 298 K",
+        "PXRD": "matches well with the simulated PXRD",
+        "SEM": "FEI Quanta 250 field emission scanning electron microscope (SEM) at an accelerating voltage of 10 kV",
+        "HAADF-STEM": "JEOL ARM2000 microscope with 200 kV accelerating voltage",
+        "ICP-AES": "Optima 5300DV plasma ion spectrum mass spectrometer",
+        "XPS": "PHI 5000 VersaProbe X-ray photoelectron spectrometer using standard and monochromatic Al Kα radiation",
+        "EPR": "Bruker EMX-10/12 at 90 K with a frequency of 9.4451 GHz at 298 K",
+        "Electrical_conductivity": "3.97×10−8 S cm−1"
+      }
+    },
+    {
+      "name": "2",
+      "characterizations": {
+        "N2_adsorption_desorption_isotherms": {
+          "BET_surface_area": "47.1 m2 g−1",
+          "pore_size_distribution": "micropore profile"
+        },
+        "CO2_adsorption_desorption_capacity": "11.57 cm3 g−1 at 298 K",
+        "PXRD": "matches well with the simulated PXRD",
+        "SEM": "FEI Quanta 250 field emission scanning electron microscope (SEM) at an accelerating voltage of 10 kV",
+        "HAADF-STEM": "JEOL ARM2000 microscope with 200 kV accelerating voltage",
+        "ICP-AES": "Optima 5300DV plasma ion spectrum mass spectrometer",
+        "XPS": "PHI 5000 VersaProbe X-ray photoelectron spectrometer using standard and monochromatic Al Kα radiation",
+        "Electrical_conductivity": "9.73×10−10 S cm−1"
+      }
+    }
+  ]
+}

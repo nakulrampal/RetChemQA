@@ -1,0 +1,60 @@
+{
+  "materials": [
+    {
+      "material_name": "2D PCPs",
+      "synthesis_conditions": [
+        {
+          "step": "General synthesis",
+          "solvents": [
+            {
+              "name": "pure alcohol",
+              "amount": "1.0 mL"
+            },
+            {
+              "name": "aqueous Cu(OTf)2 solution",
+              "amount": "10.0 mL",
+              "concentration": "30 mM"
+            },
+            {
+              "name": "bpy/ethanol solution",
+              "amount": "10.0 mL",
+              "concentration": "60.0 mM"
+            }
+          ],
+          "temperature": "room temperature",
+          "equipment": "straight glass vial",
+          "time": "few weeks",
+          "washing_method": "filtration, washed with small amounts of distilled water and alcohol"
+        }
+      ]
+    },
+    {
+      "material_name": "3D PCPs",
+      "synthesis_conditions": [
+        {
+          "step": "General synthesis",
+          "solvents": [
+            {
+              "name": "distilled water",
+              "amount": "10.0 mL"
+            },
+            {
+              "name": "bpy/DMSO solution",
+              "amount": "62.5 mL",
+              "concentration": "80.0 mM"
+            },
+            {
+              "name": "aqueous Cu(OTf)2 solution",
+              "amount": "15.7 mL",
+              "concentration": "160 mM"
+            }
+          ],
+          "temperature": "room temperature",
+          "equipment": "square-shaped glass vial",
+          "time": "few weeks",
+          "drying_method": "dried in air"
+        }
+      ]
+    }
+  ]
+}

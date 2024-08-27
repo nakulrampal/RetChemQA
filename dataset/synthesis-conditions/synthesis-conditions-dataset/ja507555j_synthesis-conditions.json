@@ -1,0 +1,544 @@
+{
+  "materials": [
+    {
+      "name": "2-(naphthalen-1-ylthio)benzaldehyde",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "8 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "naphthalene-1-thiol",
+            "amount": "4.27 g, 26.71 mmol"
+          },
+          {
+            "name": "anhydrous Na2CO3",
+            "amount": "3.50 g"
+          },
+          {
+            "name": "2-chlorobenzaldehyde",
+            "amount": "2.40 ml, 21.31 mmol"
+          }
+        ],
+        "time": "3 hours",
+        "yield": "93%",
+        "washing_method": "water (20 mL) and extracted with diethyl ether (20 mL)",
+        "drying_method": "vacuum"
+      }
+    },
+    {
+      "name": "2-(p-tolylthio)benzaldehyde",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "8 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "4-methylbenzenethiol",
+            "amount": "2.40 g, 19.32 mmol"
+          },
+          {
+            "name": "anhydrous Na2CO3",
+            "amount": "3.01 g"
+          },
+          {
+            "name": "2-chlorobenzaldehyde",
+            "amount": "1.80 ml, 15.98 mmol"
+          }
+        ],
+        "time": "3 hours",
+        "yield": "61%",
+        "washing_method": "water (50 mL) and brine (20 mL)",
+        "drying_method": "vacuum"
+      }
+    },
+    {
+      "name": "2-(4-fluorophenylthio)benzaldehyde",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "8 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "4-fluorobenzenethiol",
+            "amount": "2.1 ml, 19.32 mmol"
+          },
+          {
+            "name": "anhydrous Na2CO3",
+            "amount": "3.01 g"
+          },
+          {
+            "name": "2-chlorobenzaldehyde",
+            "amount": "1.80 ml, 15.98 mmol"
+          }
+        ],
+        "time": "3 hours",
+        "yield": "36%",
+        "washing_method": "water (50 mL) and brine (20 mL)",
+        "drying_method": "vacuum"
+      }
+    },
+    {
+      "name": "2-(4-methoxyphenylthio)benzaldehyde",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "8 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "4-methoxybenzenethiol",
+            "amount": "2.5 ml, 19.32 mmol"
+          },
+          {
+            "name": "anhydrous Na2CO3",
+            "amount": "3.01 g"
+          },
+          {
+            "name": "2-chlorobenzaldehyde",
+            "amount": "1.80 ml, 15.98 mmol"
+          }
+        ],
+        "time": "3 hours",
+        "yield": "66%",
+        "washing_method": "water (50 mL) and brine (20 mL)",
+        "drying_method": "vacuum"
+      }
+    },
+    {
+      "name": "2-(m-tolylthio)benzaldehyde",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "8 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "3-methylbenzenethiol",
+            "amount": "2.4 ml, 19.32 mmol"
+          },
+          {
+            "name": "anhydrous Na2CO3",
+            "amount": "3.98 g"
+          },
+          {
+            "name": "2-chlorobenzaldehyde",
+            "amount": "1.80 ml, 15.98 mmol"
+          }
+        ],
+        "time": "3 hours",
+        "yield": "72%",
+        "washing_method": "water (50 mL) and brine (20 mL)",
+        "drying_method": "vacuum"
+      }
+    },
+    {
+      "name": "1,1'-((2-(naphthalen-1-ylthio)phenyl)methylene)bis(3,5-dimethyl-1H-pyrazole) (LSNf)",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "dichloromethane",
+            "amount": "30 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "bis(pyrazolyl)ketone",
+            "amount": "0.93 g, 4.21 mmol"
+          },
+          {
+            "name": "2-(naphthalen-1-ylthio)benzaldehyde",
+            "amount": "1.07 g, 4.76 mmol"
+          },
+          {
+            "name": "CoCl2·6H2O",
+            "amount": "5 mg"
+          }
+        ],
+        "time": "1 hour",
+        "yield": "34%",
+        "washing_method": "dichloromethane (30 mL)",
+        "drying_method": "vacuum"
+      }
+    },
+    {
+      "name": "1,1'-((2-(p-tolylthio)phenyl)methylene)bis(3,5-dimethyl-1H-pyrazole) (LSPhp-Me)",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "dichloromethane",
+            "amount": "30 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "bis(pyrazolyl)ketone",
+            "amount": "1.29 g, 5.85 mmol"
+          },
+          {
+            "name": "2-(p-tolylthio)benzaldehyde",
+            "amount": "1.32 g, 5.78 mmol"
+          },
+          {
+            "name": "CoCl2·6H2O",
+            "amount": "5 mg"
+          }
+        ],
+        "time": "3 hours",
+        "yield": "41%",
+        "washing_method": "dichloromethane (30 mL)",
+        "drying_method": "vacuum"
+      }
+    },
+    {
+      "name": "1,1'-((2-(4-fluorophenylthio)phenyl)methylene)bis(3,5-dimethyl-1H-pyrazole) (LSPhF)",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "dichloromethane",
+            "amount": "30 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "bis(pyrazolyl)ketone",
+            "amount": "1.30 g, 5.90 mmol"
+          },
+          {
+            "name": "2-(4-fluorophenylthio)benzaldehyde",
+            "amount": "1.35 g, 5.81 mmol"
+          },
+          {
+            "name": "CoCl2·6H2O",
+            "amount": "5 mg"
+          }
+        ],
+        "time": "3 hours",
+        "yield": "40%",
+        "washing_method": "dichloromethane (30 mL)",
+        "drying_method": "vacuum"
+      }
+    },
+    {
+      "name": "1,1'-((2-(4-methoxyphenylthio)phenyl)methylene)bis(3,5-dimethyl-1H-pyrazole) (LSPhOMe)",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "dichloromethane",
+            "amount": "30 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "bis(pyrazolyl)ketone",
+            "amount": "1.18 g, 5.34 mmol"
+          },
+          {
+            "name": "2-(4-methoxyphenylthio)benzaldehyde",
+            "amount": "1.29 g, 5.28 mmol"
+          },
+          {
+            "name": "CoCl2·6H2O",
+            "amount": "5 mg"
+          }
+        ],
+        "time": "3 hours",
+        "yield": "49%",
+        "washing_method": "dichloromethane (30 mL)",
+        "drying_method": "vacuum"
+      }
+    },
+    {
+      "name": "1,1'-((2-(m-tolylthio)phenyl)methylene)bis(3,5-dimethyl-1H-pyrazole) (LSPhm-Me)",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "dichloromethane",
+            "amount": "30 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "bis(pyrazolyl)ketone",
+            "amount": "1.27 g, 5.76 mmol"
+          },
+          {
+            "name": "2-(m-tolylthio)benzaldehyde",
+            "amount": "1.31 g, 5.74 mmol"
+          },
+          {
+            "name": "CoCl2·6H2O",
+            "amount": "5 mg"
+          }
+        ],
+        "time": "3 hours",
+        "yield": "30%",
+        "washing_method": "dichloromethane (30 mL)",
+        "drying_method": "vacuum"
+      }
+    },
+    {
+      "name": "[Ag(LSNf)]6(PF6)6",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "acetone",
+            "amount": "12 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "LSNf",
+            "amount": "200 mg, 0.46 mmol"
+          },
+          {
+            "name": "AgPF6",
+            "amount": "118 mg, 0.46 mmol"
+          }
+        ],
+        "washing_method": "hexane in an ultrasound bath",
+        "drying_method": "vacuum",
+        "yield": "60%"
+      }
+    },
+    {
+      "name": "[Ag(LSPhF)]6(PF6)6",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "acetone",
+            "amount": "10 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "LSPhF",
+            "amount": "150 mg, 0.37 mmol"
+          },
+          {
+            "name": "AgPF6",
+            "amount": "93 mg, 0.37 mmol"
+          }
+        ],
+        "washing_method": "hexane in an ultrasound bath",
+        "drying_method": "vacuum",
+        "yield": "60%"
+      }
+    },
+    {
+      "name": "[Ag(LSPhOMe)]6(PF6)6",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "acetone",
+            "amount": "10 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "LSPhOMe",
+            "amount": "164 mg, 0.39 mmol"
+          },
+          {
+            "name": "AgPF6",
+            "amount": "99 mg, 0.39 mmol"
+          }
+        ],
+        "washing_method": "hexane in an ultrasound bath",
+        "drying_method": "vacuum",
+        "yield": "50%"
+      }
+    },
+    {
+      "name": "[Ag(LSPhm-Me)]6(PF6)6",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "acetone",
+            "amount": "10 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "LSPhm-Me",
+            "amount": "330 mg, 0.82 mmol"
+          },
+          {
+            "name": "AgPF6",
+            "amount": "206 mg, 0.82 mmol"
+          }
+        ],
+        "washing_method": "hexane in an ultrasound bath",
+        "drying_method": "vacuum",
+        "yield": "71%"
+      }
+    },
+    {
+      "name": "[Ag(LSPhp-Me)]n(PF6)n",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "acetone",
+            "amount": "10 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "LSPhp-Me",
+            "amount": "217 mg, 0.54 mmol"
+          },
+          {
+            "name": "AgPF6",
+            "amount": "136 mg, 0.54 mmol"
+          }
+        ],
+        "washing_method": "diethyl ether",
+        "drying_method": "vacuum",
+        "yield": "55%"
+      }
+    },
+    {
+      "name": "[Ag(LSNf)]n(CF3SO3)n",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "acetone",
+            "amount": "12 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "LSNf",
+            "amount": "84 mg, 0.20 mmol"
+          },
+          {
+            "name": "AgCF3SO3",
+            "amount": "52 mg, 0.20 mmol"
+          }
+        ],
+        "washing_method": "hexane in an ultrasound bath",
+        "drying_method": "vacuum",
+        "yield": "44%"
+      }
+    },
+    {
+      "name": "[Ag(LSPhp-Me)]n(CF3SO3)n",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "acetone",
+            "amount": "10 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "LSPhp-Me",
+            "amount": "193 mg, 0.48 mmol"
+          },
+          {
+            "name": "AgCF3SO3",
+            "amount": "122 mg, 0.48 mmol"
+          }
+        ],
+        "washing_method": "diethyl ether",
+        "drying_method": "vacuum",
+        "yield": "92%"
+      }
+    },
+    {
+      "name": "[Ag(LSPhF)]n(CF3SO3)n",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "acetone",
+            "amount": "10 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "LSPhF",
+            "amount": "138 mg, 0.34 mmol"
+          },
+          {
+            "name": "AgCF3SO3",
+            "amount": "87 mg, 0.34 mmol"
+          }
+        ],
+        "washing_method": "hexane in an ultrasound bath",
+        "drying_method": "vacuum",
+        "yield": "40%"
+      }
+    },
+    {
+      "name": "[Ag(LSPhOMe)]n(CF3SO3)n",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "acetone",
+            "amount": "10 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "LSPhOMe",
+            "amount": "178 mg, 0.42 mmol"
+          },
+          {
+            "name": "AgCF3SO3",
+            "amount": "109 mg, 0.42 mmol"
+          }
+        ],
+        "washing_method": "hexane in an ultrasound bath",
+        "drying_method": "vacuum",
+        "yield": "56%"
+      }
+    },
+    {
+      "name": "[Ag(LSPhm-Me)]n(CF3SO3)n",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "acetone",
+            "amount": "10 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "LSPhm-Me",
+            "amount": "353 mg, 0.87 mmol"
+          },
+          {
+            "name": "AgCF3SO3",
+            "amount": "224 mg, 0.87 mmol"
+          }
+        ],
+        "washing_method": "hexane in an ultrasound bath",
+        "drying_method": "vacuum",
+        "yield": "81%"
+      }
+    }
+  ]
+}

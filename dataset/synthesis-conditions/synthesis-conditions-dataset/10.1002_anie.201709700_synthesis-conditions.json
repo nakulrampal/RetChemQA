@@ -1,0 +1,133 @@
+{
+  "materials": [
+    {
+      "name": "[SnBi3]5-",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "description": "Obtained by the reaction of K3Bi2 with K4Sn9 or K12Sn17 in liquid ammonia.",
+          "chemicals_used": [
+            {
+              "chemical": "K3Bi2",
+              "role": "reactant"
+            },
+            {
+              "chemical": "K4Sn9 or K12Sn17",
+              "role": "reactant"
+            },
+            {
+              "chemical": "liquid ammonia",
+              "role": "solvent"
+            }
+          ],
+          "equipment": [],
+          "temperature": "Not specified",
+          "time": "minutes to hours",
+          "solvents": [
+            {
+              "name": "liquid ammonia",
+              "amount": "Not specified"
+            }
+          ],
+          "yield": "Not specified"
+        },
+        {
+          "step": 2,
+          "description": "In the presence of [2.2.2]-cryptand, black plate-shaped crystals of the composition K5SnBi3·9 NH3 (1) were isolated. In a similar reaction with K12Sn17 and in the presence of 18-crown-6, red needles of the compound K9[K(18-crown-6)][SnBi3]2·15 NH3 (2) were obtained.",
+          "chemicals_used": [
+            {
+              "chemical": "[2.2.2]-cryptand",
+              "role": "reactant"
+            },
+            {
+              "chemical": "18-crown-6",
+              "role": "reactant"
+            }
+          ],
+          "equipment": [],
+          "temperature": "Not specified",
+          "time": "Not specified",
+          "solvents": [
+            {
+              "name": "liquid ammonia",
+              "amount": "Not specified"
+            }
+          ],
+          "yield": "Not specified"
+        }
+      ]
+    },
+    {
+      "name": "K5SnBi3·9 NH3 (1)",
+      "synthesis_conditions": [
+        {
+          "description": "Obtained from the dissolution of K3Bi2 in liquid ammonia, turning from blue to violet, and then reacting with K4Sn9 or K12Sn17 in the presence of [2.2.2]-cryptand to form black plate-shaped crystals.",
+          "chemicals_used": [
+            {
+              "chemical": "K3Bi2",
+              "role": "reactant"
+            },
+            {
+              "chemical": "K4Sn9 or K12Sn17",
+              "role": "reactant"
+            },
+            {
+              "chemical": "[2.2.2]-cryptand",
+              "role": "reactant"
+            },
+            {
+              "chemical": "liquid ammonia",
+              "role": "solvent"
+            }
+          ],
+          "equipment": [],
+          "temperature": "Not specified",
+          "time": "minutes to hours",
+          "solvents": [
+            {
+              "name": "liquid ammonia",
+              "amount": "Not specified"
+            }
+          ],
+          "yield": "Not specified"
+        }
+      ]
+    },
+    {
+      "name": "K9[K(18-crown-6)][SnBi3]2·15 NH3 (2)",
+      "synthesis_conditions": [
+        {
+          "description": "Formed from the reaction of K3Bi2 with K12Sn17 in liquid ammonia in the presence of 18-crown-6, resulting in red needles.",
+          "chemicals_used": [
+            {
+              "chemical": "K3Bi2",
+              "role": "reactant"
+            },
+            {
+              "chemical": "K12Sn17",
+              "role": "reactant"
+            },
+            {
+              "chemical": "18-crown-6",
+              "role": "reactant"
+            },
+            {
+              "chemical": "liquid ammonia",
+              "role": "solvent"
+            }
+          ],
+          "equipment": [],
+          "temperature": "Not specified",
+          "time": "Not specified",
+          "solvents": [
+            {
+              "name": "liquid ammonia",
+              "amount": "Not specified"
+            }
+          ],
+          "yield": "Not specified"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "materials": [
+    {
+      "material": "Chromophore Salts",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "reflux overnight",
+          "solvents": [
+            {
+              "name": "ethanol",
+              "amount": "not specified"
+            }
+          ],
+          "chemicals_used": [
+            "4-N-substituted picolinium iodide (or bromide)",
+            "appropriate aldhehyde",
+            "piperidine (catalytic amount)"
+          ],
+          "equipment": "not specified",
+          "time": "overnight",
+          "yield": "not specified"
+        },
+        {
+          "step": 2,
+          "chemicals_used": [
+            "silver nitrate",
+            "methanol"
+          ],
+          "washing_method": "filtration of the precipitated silver halide",
+          "notes": "DAMS was used as the chloride and was prepared by exchanging I- for Cl- with a solution of AgCl in MeOH. MIPS was employed as the bromide."
+        }
+      ]
+    },
+    {
+      "material": "[DAZOP]I",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "~-15 °C",
+          "solvents": [
+            {
+              "name": "phosphoric acid 85%/nitric acid 65%",
+              "amount": "2:1"
+            }
+          ],
+          "chemicals_used": [
+            "sodium nitrite",
+            "N,N-dimethylaniline",
+            "sodium carbonate (buffer solution)"
+          ],
+          "equipment": "not specified",
+          "time": "not specified",
+          "yield": "not specified"
+        },
+        {
+          "step": 2,
+          "temperature": "reflux overnight",
+          "solvents": [
+            {
+              "name": "dichloromethane",
+              "amount": "not specified"
+            }
+          ],
+          "chemicals_used": [
+            "methyl iodide (large excess)"
+          ],
+          "drying_method": "complete evaporation of the solvent and addition of water",
+          "time": "overnight",
+          "yield": "not specified"
+        }
+      ]
+    },
+    {
+      "material": "A[MII Cr(ox)3] Compounds (MII = Mn, Fe, Co, Ni, Cu)",
+      "synthesis_conditions": [
+        {
+          "method": "Method 1",
+          "solvents": [
+            {
+              "name": "methanol",
+              "amount": "4 mL"
+            },
+            {
+              "name": "water",
+              "amount": "4 mL"
+            }
+          ],
+          "chemicals_used": [
+            "chromophore nitrate (0.2 mmol)",
+            "[K3Cr(ox)3]3H2O (0.2 mmol)",
+            "MII(NO3)2 (0.2 mmol)"
+          ],
+          "temperature": "60 °C (if precipitate forms)",
+          "equipment": "not specified",
+          "time": "varies",
+          "washing_method": "successively with a mixture of water−methanol, then water, and finally methanol",
+          "notes": "Carried out under a nitrogen atmosphere in the case where MII = Fe."
+        },
+        {
+          "method": "Method 2",
+          "solvents": [
+            {
+              "name": "methanol/acetonitrile",
+              "amount": "1:1 mixture"
+            },
+            {
+              "name": "water",
+              "amount": "small amount (if MII = Fe, Ni, Cu)"
+            }
+          ],
+          "chemicals_used": [
+            "[DAZOP]Cl",
+            "[K3Cr(ox)3]·3H2O",
+            "MII nitrate (equimolar amount)"
+          ],
+          "temperature": "not specified",
+          "equipment": "not specified",
+          "time": "not specified",
+          "washing_method": "filtered and washed as above",
+          "notes": "Aqueous solutions of [DAZOP]Cl and of [K3Cr(ox)3]·3H2O were mixed in a 3:1 molar ratio to precipitate [DAZOP]3[Cr(ox)3]."
+        }
+      ]
+    }
+  ]
+}

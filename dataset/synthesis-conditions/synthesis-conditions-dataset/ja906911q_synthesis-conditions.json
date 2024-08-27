@@ -1,0 +1,74 @@
+{
+  "materials": [
+    {
+      "name": "[Cd(bipy)(bdc)]⋅3DMF⋅H2O (1)",
+      "synthesis_conditions": {
+        "temperature": "85°C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "0.5ml of 0.1M solution"
+          },
+          {
+            "name": "DEF",
+            "amount": "0.5ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cd(NO3)2⋅4H2O solution",
+            "amount": "0.5ml of 0.1M solution"
+          },
+          {
+            "name": "terephthalic acid solution (Tp)",
+            "amount": "0.5ml of 0.1M solution"
+          },
+          {
+            "name": "4, 4′-bipyridine (Bp)",
+            "amount": "0.0078g (0.05mmol)"
+          }
+        ],
+        "equipment": "sealed 20ml vial",
+        "time": "24h",
+        "cooling_rate": "1°C/min to room temperature",
+        "yield": "10.7mg, 32%",
+        "drying_method": "air-dried"
+      }
+    },
+    {
+      "name": "[Cd(bipy)(bdc)] (2)",
+      "synthesis_conditions": {
+        "temperature": "115°C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "0.5ml of 0.1M solution"
+          },
+          {
+            "name": "DEF",
+            "amount": "0.5ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cd(NO3)2⋅4H2O solution",
+            "amount": "0.5ml of 0.1M solution"
+          },
+          {
+            "name": "terephthalic acid solution (Tp)",
+            "amount": "0.5ml of 0.1M solution"
+          },
+          {
+            "name": "4, 4′-bipyridine (Bp)",
+            "amount": "0.0078g (0.05mmol)"
+          }
+        ],
+        "equipment": "sealed 20ml vial",
+        "time": "24h",
+        "cooling_rate": "1°C/min to room temperature",
+        "yield": "18.5mg, 85%",
+        "drying_method": "air-dried"
+      }
+    }
+  ]
+}

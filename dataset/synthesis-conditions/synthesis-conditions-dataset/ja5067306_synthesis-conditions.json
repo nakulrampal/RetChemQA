@@ -1,0 +1,574 @@
+{
+  "materials": [
+    {
+      "name": "1-La",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "7 days",
+        "solvents": [
+          {
+            "name": "dimethylacetamide",
+            "amount": "3 ml"
+          },
+          {
+            "name": "distilled water",
+            "amount": "3 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(1R, 3S)-(+)-Camphoric acid",
+            "amount": "0.1514 g"
+          },
+          {
+            "name": "lanthanum nitrate hexahydrate",
+            "amount": "0.1791 g"
+          },
+          {
+            "name": "acetic acid, glacial",
+            "amount": "5 drops"
+          }
+        ],
+        "yield": "51.45% based on lanthanum"
+      }
+    },
+    {
+      "name": "1-Ce",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "5 days",
+        "solvents": [
+          {
+            "name": "dimethylacetamide",
+            "amount": "3 ml"
+          },
+          {
+            "name": "distilled water",
+            "amount": "3 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(1R, 3S)-(+)-Camphoric acid",
+            "amount": "0.1506 g"
+          },
+          {
+            "name": "cerium nitrate hexahydrate",
+            "amount": "0.2024 g"
+          },
+          {
+            "name": "acetic acid, glacial",
+            "amount": "8 drops"
+          }
+        ],
+        "yield": "59.24% based on cerium"
+      }
+    },
+    {
+      "name": "1-Pr",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "3 days",
+        "solvents": [
+          {
+            "name": "dimethylacetamide",
+            "amount": "3 ml"
+          },
+          {
+            "name": "distilled water",
+            "amount": "3 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(1R, 3S)-(+)-Camphoric acid",
+            "amount": "0.1505 g"
+          },
+          {
+            "name": "praseodymium nitrate hydrate",
+            "amount": "0.1705 g"
+          },
+          {
+            "name": "acetic acid, glacial",
+            "amount": "6 drops"
+          }
+        ]
+      }
+    },
+    {
+      "name": "1-Nd",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "2 days",
+        "solvents": [
+          {
+            "name": "dimethylacetamide",
+            "amount": "3 ml"
+          },
+          {
+            "name": "distilled water",
+            "amount": "3 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(1R, 3S)-(+)-Camphoric acid",
+            "amount": "0.1492 g"
+          },
+          {
+            "name": "neodymium nitrate hexahydrate",
+            "amount": "0.1791 g"
+          },
+          {
+            "name": "ammonium acetate",
+            "amount": "0.0612 g"
+          }
+        ],
+        "yield": "69.86% based on neodymium"
+      }
+    },
+    {
+      "name": "1D-Sm",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "2 days",
+        "solvents": [
+          {
+            "name": "dimethylacetamide",
+            "amount": "3 ml"
+          },
+          {
+            "name": "distilled water",
+            "amount": "3 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(1R, 3S)-(+)-Camphoric acid",
+            "amount": "0.1505 g"
+          },
+          {
+            "name": "samarium nitrate hexahydrate",
+            "amount": "0.1791 g"
+          },
+          {
+            "name": "acetic acid, glacial",
+            "amount": "5 drops"
+          }
+        ],
+        "yield": "65.58% based on samarium"
+      }
+    },
+    {
+      "name": "1L-Sm",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "2 days",
+        "solvents": [
+          {
+            "name": "dimethylacetamide",
+            "amount": "3 ml"
+          },
+          {
+            "name": "distilled water",
+            "amount": "3 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(1S, 3R)-(-)-Camphoric acid",
+            "amount": "0.1011 g"
+          },
+          {
+            "name": "samarium nitrate hexahydrate",
+            "amount": "0.1739 g"
+          },
+          {
+            "name": "acetic acid, glacial",
+            "amount": "6 drops"
+          }
+        ],
+        "yield": "58.87% based on samarium"
+      }
+    },
+    {
+      "name": "1-Eu",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "5 days",
+        "solvents": [
+          {
+            "name": "dimethylacetamide",
+            "amount": "3 ml"
+          },
+          {
+            "name": "distilled water",
+            "amount": "3 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(1R, 3S)-(+)-Camphoric acid",
+            "amount": "0.1497 g"
+          },
+          {
+            "name": "europium nitrate hexahydrate",
+            "amount": "0.1802 g"
+          },
+          {
+            "name": "acetic anhydride",
+            "amount": "8 drops"
+          }
+        ],
+        "yield": "45.83% based on europium"
+      }
+    },
+    {
+      "name": "1-Gd",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "3 days",
+        "solvents": [
+          {
+            "name": "dimethylacetamide",
+            "amount": "3 ml"
+          },
+          {
+            "name": "distilled water",
+            "amount": "3 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(1R, 3S)-(+)-Camphoric acid",
+            "amount": "0.1503 g"
+          },
+          {
+            "name": "gadolinium nitrate hexahydrate",
+            "amount": "0.1719 g"
+          },
+          {
+            "name": "acetic acid, glacial",
+            "amount": "6 drops"
+          }
+        ],
+        "yield": "69.39% based on gadolinium"
+      }
+    },
+    {
+      "name": "1-Tb",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "2 days",
+        "solvents": [
+          {
+            "name": "dimethylacetamide",
+            "amount": "3 ml"
+          },
+          {
+            "name": "distilled water",
+            "amount": "3 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(1R, 3S)-(+)-Camphoric acid",
+            "amount": "0.1510 g"
+          },
+          {
+            "name": "terbium nitrate hydrate",
+            "amount": "0.1819 g"
+          },
+          {
+            "name": "acetic acid, glacial",
+            "amount": "5 drops"
+          }
+        ]
+      }
+    },
+    {
+      "name": "1-Dy",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "2 days",
+        "solvents": [
+          {
+            "name": "dimethylacetamide",
+            "amount": "3 ml"
+          },
+          {
+            "name": "distilled water",
+            "amount": "3 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(1R, 3S)-(+)-Camphoric acid",
+            "amount": "0.1528 g"
+          },
+          {
+            "name": "dysprosium nitrate pentahydrate",
+            "amount": "0.1813 g"
+          },
+          {
+            "name": "acetic anhydride",
+            "amount": "5 drops"
+          }
+        ],
+        "yield": "65.11% based on dysprosium"
+      }
+    },
+    {
+      "name": "2-Tb",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "3 days",
+        "solvents": [
+          {
+            "name": "dimethylformamide",
+            "amount": "3 ml"
+          },
+          {
+            "name": "distilled water",
+            "amount": "3 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(1R, 3S)-(+)-Camphoric acid",
+            "amount": "0.1519 g"
+          },
+          {
+            "name": "terbium oxide",
+            "amount": "0.1719 g"
+          },
+          {
+            "name": "formic acid 97%",
+            "amount": "5 drops"
+          }
+        ]
+      }
+    },
+    {
+      "name": "2-Dy",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "3 days",
+        "solvents": [
+          {
+            "name": "dimethylformamide",
+            "amount": "3 ml"
+          },
+          {
+            "name": "distilled water",
+            "amount": "3 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(1R, 3S)-(+)-Camphoric acid",
+            "amount": "0.1525 g"
+          },
+          {
+            "name": "dysprosium nitrate pentahydrate",
+            "amount": "0.2098 g"
+          },
+          {
+            "name": "formic acid 97%",
+            "amount": "5 drops"
+          }
+        ],
+        "yield": "37.92% based on dysprosium"
+      }
+    },
+    {
+      "name": "2-Ho",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "3 days",
+        "solvents": [
+          {
+            "name": "dimethylformamide",
+            "amount": "3 ml"
+          },
+          {
+            "name": "distilled water",
+            "amount": "3 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(1R, 3S)-(+)-Camphoric acid",
+            "amount": "0.1516 g"
+          },
+          {
+            "name": "holmium nitrate pentahydrate",
+            "amount": "0.2070 g"
+          },
+          {
+            "name": "formic acid 97%",
+            "amount": "5 drops"
+          }
+        ],
+        "yield": "42.44% based on holmium"
+      }
+    },
+    {
+      "name": "2-Er",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "1 day",
+        "solvents": [
+          {
+            "name": "dimethylformamide",
+            "amount": "3 ml"
+          },
+          {
+            "name": "distilled water",
+            "amount": "3 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(1R, 3S)-(+)-Camphoric acid",
+            "amount": "0.1501 g"
+          },
+          {
+            "name": "erbium nitrate pentahydrate",
+            "amount": "0.1982 g"
+          },
+          {
+            "name": "formic acid 97%",
+            "amount": "3 drops"
+          }
+        ],
+        "yield": "37.18% based on erbium"
+      }
+    },
+    {
+      "name": "2-Tm",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "4 days",
+        "solvents": [
+          {
+            "name": "dimethylformamide",
+            "amount": "3 ml"
+          },
+          {
+            "name": "distilled water",
+            "amount": "3 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(1R, 3S)-(+)-Camphoric acid",
+            "amount": "0.1492 g"
+          },
+          {
+            "name": "thulium oxide",
+            "amount": "0.1951 g"
+          },
+          {
+            "name": "formic acid 97%",
+            "amount": "3 drops"
+          }
+        ]
+      }
+    },
+    {
+      "name": "2-Yb",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "3 days",
+        "solvents": [
+          {
+            "name": "dimethylformamide",
+            "amount": "3 ml"
+          },
+          {
+            "name": "distilled water",
+            "amount": "3 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(1R, 3S)-(+)-Camphoric acid",
+            "amount": "0.1509 g"
+          },
+          {
+            "name": "ytterbium nitrate hydrate",
+            "amount": "0.2198 g"
+          },
+          {
+            "name": "formic acid 97%",
+            "amount": "4 drops"
+          }
+        ]
+      }
+    },
+    {
+      "name": "2-Lu",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "2 days",
+        "solvents": [
+          {
+            "name": "dimethylformamide",
+            "amount": "3 ml"
+          },
+          {
+            "name": "distilled water",
+            "amount": "3 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(1R, 3S)-(+)-Camphoric acid",
+            "amount": "0.1486 g"
+          },
+          {
+            "name": "lutetium nitrate hydrate",
+            "amount": "0.2016 g"
+          },
+          {
+            "name": "formic acid 97%",
+            "amount": "5 drops"
+          }
+        ]
+      }
+    },
+    {
+      "name": "2-Y",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "4 days",
+        "solvents": [
+          {
+            "name": "dimethylformamide",
+            "amount": "3 ml"
+          },
+          {
+            "name": "distilled water",
+            "amount": "3 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(1R, 3S)-(+)-Camphoric acid",
+            "amount": "0.1503 g"
+          },
+          {
+            "name": "yttrium nitrate hexahydrate",
+            "amount": "0.1908 g"
+          },
+          {
+            "name": "formic acid 97%",
+            "amount": "4 drops"
+          }
+        ],
+        "yield": "66.17% based on yttrium"
+      }
+    }
+  ]
+}

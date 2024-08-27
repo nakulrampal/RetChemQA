@@ -1,0 +1,86 @@
+{
+  "materials": [
+    {
+      "name": "InPF-110",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "150 °C",
+          "solvents": [
+            {
+              "name": "N,N-dimethylformamide (DMF)",
+              "amount": "2.5 mL"
+            },
+            {
+              "name": "nitric acid",
+              "amount": "0.8 mL"
+            }
+          ],
+          "equipment": "Teflon vessel, preheated oven",
+          "chemicals_used": [
+            {
+              "name": "In(NO3)3·xH2O",
+              "amount": "99 mg (0.33 mmol)",
+              "preparation": "previously dried at 105ºC overnight"
+            },
+            {
+              "name": "1,3,5-tris(4-carboxyphenyl)benzene (H3btb)",
+              "amount": "66 mg (0.15 mmol)"
+            }
+          ],
+          "time": "4 hours",
+          "washing_method": "washed with DMF and methanol, ethanol and/or water",
+          "drying_method": "Not specified",
+          "yield": "0.059g, 58%"
+        },
+        {
+          "step": "Activation",
+          "temperature": "200 °C",
+          "time": "24 hours",
+          "solvents": [
+            {
+              "name": "water, ethanol, or methanol",
+              "note": "used for soaking three days, changed three times per day"
+            }
+          ],
+          "drying_method": "heating after soaking"
+        }
+      ]
+    },
+    {
+      "name": "InPF-50",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "130 °C",
+          "solvents": [
+            {
+              "name": "N,N-dimethylformamide (DMF)",
+              "amount": "Not specified"
+            },
+            {
+              "name": "nitric acid",
+              "amount": "Not specified"
+            }
+          ],
+          "equipment": "Teflon vessel, preheated oven",
+          "chemicals_used": [
+            {
+              "name": "In(NO3)3·xH2O",
+              "amount": "Not specified",
+              "preparation": "previously dried at 105ºC overnight"
+            },
+            {
+              "name": "1,3,5-tris(4-carboxyphenyl)benzene (H3btb)",
+              "amount": "Not specified"
+            }
+          ],
+          "time": "Not specified",
+          "washing_method": "Not specified",
+          "drying_method": "Not specified",
+          "yield": "Not specified"
+        }
+      ]
+    }
+  ]
+}

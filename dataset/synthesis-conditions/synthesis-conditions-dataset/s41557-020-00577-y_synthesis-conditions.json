@@ -1,0 +1,52 @@
+{
+  "materials": [
+    {
+      "material": "1-DCM",
+      "synthesis_conditions": {
+        "solvents": "DCM (20 ml)",
+        "solvent_amounts": "2 ml of [Ru2(F3PhCO2)4(THF)2] solution, 1 ml of DCM/p-xylene buffer layer, 20 ml of TCNQ(OEt)2 in p-xylene",
+        "chemicals_used": "[Ru2(F3PhCO2)4(THF)2] (41.87 mg, 0.04 mmol), TCNQ(OEt)2 (5.85 mg, 0.02 mmol)",
+        "equipment": "narrow-diameter glass tubes (inner diameter of 8 mm)",
+        "time": "one week",
+        "yield": "54%",
+        "drying_method": "exposed to air",
+        "additional_information": "All synthetic procedures were performed under an inert atmosphere using standard Schlenk-line techniques and a commercial glove box. Solvents were distilled under N2 using common drying agents."
+      }
+    },
+    {
+      "material": "1",
+      "synthesis_conditions": {
+        "precursor": "1-DCM",
+        "temperature": "353 K",
+        "time": "12 h",
+        "equipment": "vacuum",
+        "yield": "Elemental analysis (%): calculated for C72H28F24N4O18Ru4, C (41.23), H (1.35), N (2.67). Found: C (41.64), H (1.44), N (2.72).",
+        "additional_information": "Crystallization solvents in 1-DCM were easily eliminated when the crystals were exposed only to air."
+      }
+    },
+    {
+      "material": "1⊃CO2-I",
+      "synthesis_conditions": {
+        "precursor": "1",
+        "CO2_pressure": "3 kPa",
+        "temperature": "Room temperature to 195 K",
+        "equipment": "silica glass capillary, gas-handling system",
+        "crystal_system": "monoclinic",
+        "space_group": "C2/c",
+        "additional_information": "Isostructural with 1-DCM, considered as a pseudopolymorph where DCM molecules in 1-DCM replaced by four molar amounts of CO2 molecules."
+      }
+    },
+    {
+      "material": "1⊃CO2-II",
+      "synthesis_conditions": {
+        "precursor": "1⊃CO2-I",
+        "CO2_pressure": "100 kPa",
+        "temperature": "Room temperature to 195 K",
+        "equipment": "silica glass capillary, gas-handling system",
+        "crystal_system": "triclinic",
+        "space_group": "P-1",
+        "additional_information": "Accommodates further CO2 molecules in the void space newly produced between the layers by the structural transition."
+      }
+    }
+  ]
+}

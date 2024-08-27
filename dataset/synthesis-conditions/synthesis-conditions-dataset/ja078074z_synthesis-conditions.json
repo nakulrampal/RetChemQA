@@ -1,0 +1,38 @@
+{
+  "materials": [
+    {
+      "material": "[Cu(F-pymo)2(H2O)1.25]n (1)",
+      "synthesis_conditions": {
+        "solvents": "water−ammonia",
+        "solvent_ratio": "11:2",
+        "solvent_volume": "10 mL",
+        "chemicals_used": [
+          {
+            "chemical": "Cu(NO3)2·3H2O",
+            "amount": "2 mmol",
+            "mass": "0.48 g"
+          },
+          {
+            "chemical": "5-fluoro-2-hydroxypyrimidine",
+            "amount": "4 mmol",
+            "mass": "0.46 g"
+          }
+        ],
+        "procedure": "Cu(NO3)2·3H2O solution was added dropwise to 5-fluoro-2-hydroxypyrimidine solution under stirring.",
+        "time": "3 days",
+        "yield": "95%",
+        "analysis_calcd_for": "C8H6.5CuF2N4O3.25",
+        "analysis_calcd": {
+          "C": "30.78",
+          "H": "2.10",
+          "N": "17.95"
+        },
+        "analysis_found": {
+          "C": "30.78",
+          "H": "1.96",
+          "N": "17.52"
+        }
+      }
+    }
+  ]
+}

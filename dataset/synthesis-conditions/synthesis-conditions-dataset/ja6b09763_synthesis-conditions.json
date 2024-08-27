@@ -1,0 +1,57 @@
+{
+  "materials": [
+    {
+      "name": "Zr-M1",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "DEF",
+            "amount": "0.3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H2M1",
+            "amount": "12.9 mg"
+          },
+          {
+            "name": "ZrCl4",
+            "amount": "2.7 mg"
+          },
+          {
+            "name": "benzoic acid",
+            "amount": "28.3 mg"
+          }
+        ],
+        "time": "24 hours",
+        "washing_method": "washed with DMF (3 × 2 mL) and CH3CN (3 × 2 mL)",
+        "drying_method": "air-dried",
+        "yield": "9.0 mg, 63% based on ZrCl4"
+      }
+    },
+    {
+      "name": "Zr-M1-HgCl2",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Zr-M1 crystals",
+            "amount": "5.0 mg"
+          },
+          {
+            "name": "HgCl2",
+            "amount": "36 mg"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "3.0 mL"
+          }
+        ],
+        "time": "3 days",
+        "temperature": "room temperature"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "materials": [
+    {
+      "material": "glycosyl sulfinates",
+      "synthesis_conditions": {
+        "steps": [
+          {
+            "step": 1,
+            "reagents": [
+              "glycosyl peracetate",
+              "3-mercaptopropionic acid"
+            ],
+            "solvent": "BF3 . Et2O",
+            "product": "sulfide 8"
+          },
+          {
+            "step": 2,
+            "reagent": "3-chloroperoxybenzoic acid (m-CPBA)",
+            "product": "sulfone 9"
+          },
+          {
+            "step": 3,
+            "reagent": "NaOMe",
+            "process": "underwent elimination and ester hydrolysis",
+            "product": "sodium glycosyl sulfinate 5"
+          }
+        ],
+        "notes": "Various glycosyl sulfinates have been made by this simple sequence on decagram scales."
+      }
+    },
+    {
+      "material": "pyridyl C-glycoside 11",
+      "synthesis_conditions": {
+        "reagents": [
+          "glycosyl sulfinate 5a",
+          "4-trifluoromethylpyridine (10)",
+          "CF3CO2H (TFA)",
+          "tBuOOH (TBHP)"
+        ],
+        "solvent": "DMSO",
+        "temperature": "25 °C",
+        "time": "8 h",
+        "yield": "high",
+        "stereoselectivity": "excellent axial selectivity"
+      }
+    },
+    {
+      "material": "drug–sugar conjugates",
+      "synthesis_conditions": {
+        "reagents": [
+          "glucosyl donor 5",
+          "TBHP"
+        ],
+        "solvent": "DMSO or DMSO/H2O (1 : 1)",
+        "temperature": "25 °C",
+        "time": "8 h",
+        "examples": [
+          {
+            "drug": "fasudil",
+            "product": "13 o"
+          },
+          {
+            "drug": "quinoxyfen",
+            "product": "13 r"
+          },
+          {
+            "drug": "quinine",
+            "product": "13 p"
+          },
+          {
+            "drug": "lenvatinib",
+            "product": "13 q"
+          },
+          {
+            "drug": "camptothecin",
+            "products": [
+              "13 s",
+              "13 t",
+              "13 u",
+              "13 v"
+            ],
+            "notes": "Modified conditions for camptothecin"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the significance of the structural transition observed in ZIF-65(Zn) in terms of its SOD cage?",
+      "answer": "The structural transition observed in ZIF-65(Zn) is significant because it represents a drastic expansion and contraction of the SOD cage (6.4 Å) and a corresponding dramatic change in the N–Zn–N angle (48.1°) without any change of the topology, which is an unusually large breathing effect compared to other ZIFs.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the nature of guest molecules (polarity and shape) affect the breathing behavior and expansion magnitude of ZIF-65(Zn)?",
+      "answer": "The breathing behavior and expansion magnitude of ZIF-65(Zn) depend on the nature of the guest molecules (polarity and shape). Non-polar linear molecule n-C6 leads to a small swelling from II to III due to host–guest H-bonding interactions, while polar branched molecule i-C4OH leads to a large expansion from II to I due to the synergistic effect of the host–guest and guest–guest H-bonding interactions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What computational methods were used to understand the flexibility of ZIF-65(Zn) and predict its structural transitions?",
+      "answer": "To understand the flexibility of ZIF-65(Zn) and predict its structural transitions, theoretical calculations including grand canonical Monte Carlo (GCMC) methods, density functional theory (DFT) calculations, and density-functional tight-binding (DFTB) calculations were performed.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What are the implications of the observed structural transitions in ZIF-65(Zn) for practical applications?",
+      "answer": "The observed structural transitions in ZIF-65(Zn), especially the reversible II ↔ I structural transition brought about by more polar CO2 but not by N2 in high pressure, imply the potential application of ZIF-65(Zn) in separation processes.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How do the host–guest and guest–guest interactions contribute to the structural transitions in ZIF-65(Zn)?",
+      "answer": "In ZIF-65(Zn), the host–guest and guest–guest interactions contribute to the structural transitions by forming hydrogen bonds between the guest molecules and the polar −NO2 groups of ZIF-65(Zn), as well as among the guest molecules themselves, leading to the stepwise II → III → I structural transition.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental techniques were used to directly observe the structural transitions in ZIF-65(Zn)?",
+      "answer": "To directly observe the structural transitions in ZIF-65(Zn), in situ powder X-ray diffraction (PXRD) measurements and solid-state 13C nuclear magnetic resonance (13C NMR) spectroscopy were conducted under the same conditions as the adsorption isotherms measurements.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the osmotic ensemble model in predicting structural transitions of ZIF-65(Zn)?",
+      "answer": "The osmotic ensemble model plays a role in predicting structural transitions of ZIF-65(Zn) by calculating the free energy difference between two phases and determining the osmotic potential difference (ΔΩ) between them, with ΔΩ = 0 indicating the structural transition point.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The structural transition in ZIF-65(Zn) only occurs upon the adsorption of non-polar guest molecules.",
+      "answer": "False. The structural transition in ZIF-65(Zn) occurs upon the adsorption of guest molecules with varying polarity and shape, including polar and branched molecules, which significantly affect the breathing behavior and expansion magnitude of ZIF-65(Zn).",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The breathing effect observed in ZIF-65(Zn) is common among all zeolitic imidazolate frameworks (ZIFs).",
+      "answer": "False. The breathing effect observed in ZIF-65(Zn), characterized by a drastic expansion and contraction of the SOD cage (6.4 Å), is an unusually large breathing effect compared to other ZIFs, making it significant among ZIFs.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The structural transitions in ZIF-65(Zn) have no potential applications in industrial processes.",
+      "answer": "False. The observed structural transitions in ZIF-65(Zn), especially the reversible II ↔ I structural transition induced by more polar CO2, imply the potential application of ZIF-65(Zn) in separation processes, indicating its relevance for industrial applications.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

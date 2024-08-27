@@ -1,0 +1,170 @@
+{
+  "materials": [
+    {
+      "name": "P,S-Bz-ZnP(mes)2-Bz-S,P (4)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "5,15-Bis(mesityl)-10,20-Bis(4-(chloro-methyl)phenyl)porphyrin]zinc",
+            "amount": "1.50 g",
+            "molar_amount": "1.75 mmol"
+          },
+          {
+            "name": "P,S-TIPS",
+            "amount": "1.48 g",
+            "molar_amount": "3.67 mmol"
+          },
+          {
+            "name": "CsF",
+            "amount": "1.52 g"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "100 ml"
+          },
+          {
+            "name": "CH2Cl2",
+            "amount": "for washing"
+          }
+        ],
+        "temperature": "60 °C",
+        "time": "24 h",
+        "atmosphere": "nitrogen",
+        "equipment": "Schlenk flask",
+        "yield": "1.92 g (75%)",
+        "washing_method": "poured onto a large silica plug, washed with excess CH2Cl2",
+        "drying_method": "crashed out solution by adding pentane"
+      }
+    },
+    {
+      "name": "[Rh2(j2:g2:j2-4)(j2-5)2](OTf)2 (1)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Rh2Cl2(cyclooctene)4",
+            "amount": "3.6 mg",
+            "molar_amount": "0.010 mmol"
+          },
+          {
+            "name": "4",
+            "amount": "6.4 mg",
+            "molar_amount": "0.005 mmol"
+          },
+          {
+            "name": "5",
+            "amount": "5.3 mg",
+            "molar_amount": "0.010 mmol"
+          },
+          {
+            "name": "Tl(OTf)",
+            "amount": "3.6 mg",
+            "molar_amount": "0.010 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "CH2Cl2:THF",
+            "amount": "3 ml"
+          },
+          {
+            "name": "THF",
+            "amount": "3 ml"
+          },
+          {
+            "name": "CH2Cl2",
+            "amount": "4 ml"
+          }
+        ],
+        "temperature": "room temperature",
+        "time": "3 h",
+        "yield": "12.1 mg (85%)",
+        "drying_method": "recrystallized from a CH2Cl2/pentane solution twice"
+      }
+    },
+    {
+      "name": "[Rh2(CH3CN)2(j2:g2:j2-4)(5)2](OTf)2 (2)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "1",
+            "amount": "5 mg",
+            "molar_amount": "1.8 x 10^-3 mmol"
+          },
+          {
+            "name": "acetonitrile",
+            "amount": "1 drop"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "CH2Cl2",
+            "amount": "1 ml"
+          }
+        ],
+        "yield": "quantitative"
+      }
+    },
+    {
+      "name": "[Rh2Cl2(j2:g2:j2-4)(5)2] (3)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "1",
+            "amount": "5 mg",
+            "molar_amount": "1.8 x 10^-3 mmol"
+          },
+          {
+            "name": "tetrabutylammonium chloride",
+            "amount": "as needed"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "CH2Cl2",
+            "amount": "1 ml"
+          },
+          {
+            "name": "pentane",
+            "amount": "for precipitation"
+          }
+        ],
+        "yield": "4.4 mg (96%)",
+        "drying_method": "collected via vacuum filtration and washed with pentane"
+      }
+    },
+    {
+      "name": "[RhCl(κ2-P,S-Bz)(5)] (S3)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "P,S-Benzyl S1",
+            "amount": "33.6 mg",
+            "molar_amount": "0.100 mmol"
+          },
+          {
+            "name": "Rh2Cl2(cyclooctene)4",
+            "amount": "35.9 mg",
+            "molar_amount": "0.100 mmol"
+          },
+          {
+            "name": "P.N-Bodipy ligand 5",
+            "amount": "53.1 mg",
+            "molar_amount": "0.100 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "CH2Cl2",
+            "amount": "5 mL each for reactants"
+          }
+        ],
+        "temperature": "room temperature",
+        "time": "24 h",
+        "yield": "72.8 mg (72%)",
+        "drying_method": "precipitated with pentane, collected via vacuum filtration and washed with pentane"
+      }
+    }
+  ]
+}

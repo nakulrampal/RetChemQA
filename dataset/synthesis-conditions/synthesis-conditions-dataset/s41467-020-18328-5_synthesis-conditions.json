@@ -1,0 +1,57 @@
+{
+  "materials": [
+    {
+      "name": "YbI2(bipy)2.5·1.5 CH3CN",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "18 mL"
+          }
+        ],
+        "equipment": "standard test tube (160 × 16 mm, soda glass)",
+        "chemicals_used": [
+          {
+            "name": "YbI2 powder",
+            "amount": "160 mg, 375 µmol"
+          },
+          {
+            "name": "4,4′-bipyridine (bipy)",
+            "amount": "293 mg, 1.88 mmol"
+          }
+        ],
+        "time": "7 days",
+        "washing_method": "washed with cold acetonitrile (−20 °C; 2 × 5 mL)",
+        "yield": "210 mg (65% based on Yb)"
+      }
+    },
+    {
+      "name": "YbI2(bipy)2(THF)·1.5 THF",
+      "synthesis_conditions": {
+        "temperature": "-20 °C",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "3.7 mL and 1.3 mL"
+          }
+        ],
+        "equipment": "vial",
+        "chemicals_used": [
+          {
+            "name": "YbI2",
+            "amount": "108 mg, 253 µmol"
+          },
+          {
+            "name": "4,4′-bipyridine (bipy)",
+            "amount": "216 mg, 1.38 mmol"
+          }
+        ],
+        "time": "2 days",
+        "washing_method": "filtered and washed with toluene (10 mL)",
+        "drying_method": "dried under vacuum",
+        "yield": "177 mg (70% based on Yb)"
+      }
+    }
+  ]
+}

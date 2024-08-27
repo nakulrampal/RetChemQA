@@ -1,0 +1,64 @@
+{
+  "materials": [
+    {
+      "name": "Tetramethyl 5, 5’-(pyrimidine-2, 5-diyl)diisophthalate",
+      "synthesis_conditions": {
+        "temperature": "80 oC",
+        "solvents": [
+          {
+            "name": "dry 1,4-dioxane",
+            "amount": "80 mL"
+          }
+        ],
+        "chemicals_used": [
+          "2, 5-Dibromopyrimidine (1.18 g, 5 mmol)",
+          "5-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl) isophthalate (3.52 g, 11 mmol)",
+          "K3PO4 (2.55g, 12 mmol)",
+          "tetrakis(triphenylphosphine) palladium(0) (0.3 g, 0.26 mmol)"
+        ],
+        "time": "two days",
+        "yield": "56% (1.3 g)"
+      }
+    },
+    {
+      "name": "5, 5’-(pyrimidine-2, 5-diyl)diisophthalic acid (H4L)",
+      "synthesis_conditions": {
+        "temperature": "reflux overnight",
+        "solvents": [
+          {
+            "name": "50 mL THF",
+            "amount": "50 mL"
+          },
+          {
+            "name": "2M KOH aqueous solution",
+            "amount": "75 mL"
+          }
+        ],
+        "chemicals_used": [
+          "Tetramethyl 5, 5’-(pyrimidine-2, 5-diyl)diisophthalate (1.3g, 2.8 mmol)"
+        ],
+        "yield": "95% (1.08 g)"
+      }
+    },
+    {
+      "name": "UTSA-76",
+      "synthesis_conditions": {
+        "temperature": "80 oC",
+        "solvents": [
+          {
+            "name": "DMF/MeCN/H2O",
+            "amount": "8 mL mixed solvent (6/1/1, v/v)"
+          }
+        ],
+        "chemicals_used": [
+          "organic linker H4L (15.0 mg, 0.037 mmol)",
+          "Cu(NO3)2·2.5H2O (30.0 mg, 0.129 mmol)",
+          "37% HCl (50 μL)"
+        ],
+        "time": "24 h",
+        "yield": "65%",
+        "additional_information": "Formula as [Cu2L(H2O)2]·5DMF·3H2O"
+      }
+    }
+  ]
+}

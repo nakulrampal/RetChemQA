@@ -1,0 +1,153 @@
+{
+  "materials": [
+    {
+      "name": "Sodium fluorescein (SoF)",
+      "temperature": "Room temperature",
+      "solvents": [
+        {
+          "name": "DMSO/glycerol",
+          "ratio": "1:1",
+          "volume": "Not specified"
+        }
+      ],
+      "equipment": "Microfluidic pen, NLP-2000 Nanolithography Platform",
+      "chemicals_used": "Sodium fluorescein",
+      "time": "0.001–10 s (DT1)",
+      "relative_humidity": "60%",
+      "drying_method": "Not specified",
+      "yield": "Not specified"
+    },
+    {
+      "name": "SoF/H2O-glycerol mixture",
+      "temperature": "Room temperature",
+      "solvents": [
+        {
+          "name": "H2O/glycerol",
+          "ratio": "1:1",
+          "volume": "Not specified"
+        }
+      ],
+      "equipment": "Microfluidic pen, NLP-2000 Nanolithography Platform",
+      "chemicals_used": "Sodium fluorescein, H2O, glycerol",
+      "time": "0.001–8 s (DT2)",
+      "relative_humidity": "60%",
+      "drying_method": "Not specified",
+      "yield": "Not specified"
+    },
+    {
+      "name": "SoF/Nile Blue mixture",
+      "temperature": "Room temperature",
+      "solvents": [
+        {
+          "name": "H2O/glycerol",
+          "ratio": "1:1",
+          "volume": "Not specified"
+        }
+      ],
+      "equipment": "Microfluidic pen, NLP-2000 Nanolithography Platform",
+      "chemicals_used": "Sodium fluorescein, Nile Blue",
+      "time": "0.001–10 s (DT2)",
+      "relative_humidity": "52%",
+      "drying_method": "Not specified",
+      "yield": "Not specified"
+    },
+    {
+      "name": "Acid/base reaction (Fluorescein acid and KOH)",
+      "temperature": "Room temperature",
+      "solvents": [
+        {
+          "name": "DMSO/glycerol",
+          "ratio": "7:3",
+          "volume": "Not specified"
+        },
+        {
+          "name": "H2O/glycerol",
+          "ratio": "7:3",
+          "volume": "Not specified"
+        }
+      ],
+      "equipment": "Microfluidic pen, NLP-2000 Nanolithography Platform",
+      "chemicals_used": "Fluorescein acid, KOH",
+      "time": "0.001 s (DT1), 0.1 s (DT2)",
+      "relative_humidity": "50%",
+      "drying_method": "Not specified",
+      "yield": "Not specified"
+    },
+    {
+      "name": "Enzymatic recognition reaction (BBTP and AP enzyme)",
+      "temperature": "37°C",
+      "solvents": [
+        {
+          "name": "DEA/glycerol",
+          "ratio": "7:3",
+          "volume": "Not specified"
+        }
+      ],
+      "equipment": "Microfluidic pen, NLP-2000 Nanolithography Platform",
+      "chemicals_used": "BBTP, AP enzyme",
+      "time": "0.5 s (DT1), 0.5 s (DT2), 15 min incubation",
+      "relative_humidity": "75%",
+      "drying_method": "Not specified",
+      "yield": "Not specified"
+    },
+    {
+      "name": "HKUST-1 MOF",
+      "temperature": "Room temperature",
+      "solvents": [
+        {
+          "name": "DMSO",
+          "volume": "Not specified"
+        },
+        {
+          "name": "DMSO/glycerol",
+          "ratio": "8.5:1.5",
+          "volume": "Not specified"
+        }
+      ],
+      "equipment": "Microfluidic pen, NLP-2000 Nanolithography Platform",
+      "chemicals_used": "Cu(NO3)2·2.5H2O, Trimesic acid",
+      "time": "0.001 s (DT1), 0.1 s (DT2), 4 h reaction",
+      "relative_humidity": "50%",
+      "drying_method": "Not specified",
+      "yield": "Not specified"
+    },
+    {
+      "name": "Prussian Blue Analogues (PBAs)",
+      "temperature": "Room temperature",
+      "solvents": [
+        {
+          "name": "H2O/glycerol",
+          "ratio": "7.5:2.5",
+          "volume": "Not specified"
+        }
+      ],
+      "equipment": "Microfluidic pen, NLP-2000 Nanolithography Platform",
+      "chemicals_used": "K3Co(CN)6, various metal nitrates",
+      "time": "1 s (DT1), 0.5 s (DT2), 0.5 h reaction",
+      "relative_humidity": "50%",
+      "drying_method": "Not specified",
+      "yield": "Not specified"
+    },
+    {
+      "name": "Metal-peptide networks (GH with various metals)",
+      "temperature": "Room temperature",
+      "solvents": [
+        {
+          "name": "H2O",
+          "volume": "Not specified"
+        },
+        {
+          "name": "H2O/diethyleneglycol",
+          "ratio": "7:3",
+          "volume": "Not specified"
+        }
+      ],
+      "equipment": "Microfluidic pen, NLP-2000 Nanolithography Platform",
+      "chemicals_used": "GH peptide, various metal acetates",
+      "time": "1 s (DT1), 0.01–0.2 s (DT2), 0.5 h reaction",
+      "relative_humidity": "85%",
+      "drying_method": "Not specified",
+      "yield": "Not specified"
+    }
+  ]
+}

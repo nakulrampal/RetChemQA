@@ -1,0 +1,55 @@
+{
+  "materials": [
+    {
+      "name": "Na-MOF",
+      "synthesis_conditions": {
+        "temperature": "65 ℃",
+        "solvents": "1:2 THF / MeOH mixture (6 mL)",
+        "chemicals_used": "TTFTC-Me4 (20 mg, 0.046 mmol), 0.5 M NaOH solution (1.6 mL)",
+        "time": "12 h",
+        "yield": "21.40 mg (91%)",
+        "washing_method": "rinsed with MeCN three times, soaked in MeCN for 12 h",
+        "drying_method": "dried under vacuum for 24 h"
+      }
+    },
+    {
+      "name": "K-MOF",
+      "synthesis_conditions": {
+        "temperature": "80 ℃",
+        "solvents": "1:2 THF / MeOH mixture (6 mL)",
+        "chemicals_used": "TTFTC-Me4 (20 mg, 0.046 mmol), 0.5 M KOH solution (0.6 mL)",
+        "time": "2 h",
+        "yield": "21.35 mg (77%)",
+        "washing_method": "rinsed with MeCN three times, soaked in MeCN for 12 h",
+        "drying_method": "dried under vacuum for 24 h",
+        "notes": "Upon exposing to air for 7 d, it turned black crystalline powder (2-ox)"
+      }
+    },
+    {
+      "name": "Rb-MOF",
+      "synthesis_conditions": {
+        "temperature": "65 ℃",
+        "solvents": "1:2 THF / MeOH mixture (6 mL)",
+        "chemicals_used": "TTFTC-Me4 (20 mg, 0.046 mmol), 0.5 M RbOH solution (0.6 mL)",
+        "time": "12 h",
+        "yield": "27.25 mg (75%)",
+        "washing_method": "rinsed with MeCN three times, soaked in MeCN for 12 h",
+        "drying_method": "dried under vacuum for 24 h",
+        "notes": "Upon exposing to air for 7 d, it turned black crystalline powder (3-ox)"
+      }
+    },
+    {
+      "name": "Cs-MOF",
+      "synthesis_conditions": {
+        "temperature": "20 ℃",
+        "solvents": "1:2 THF / MeOH mixture (1.5 mL)",
+        "chemicals_used": "TTFTC-Me4 (5 mg, 0.0115 mmol), 0.5 M CsOH solution (0.15 mL)",
+        "time": "3 d",
+        "yield": "10.91 mg (84%)",
+        "washing_method": "rinsed with MeCN three times, soaked in MeCN for 12 h",
+        "drying_method": "dried under vacuum for 24 h",
+        "notes": "Remained unchanged upon prolonged exposure to air"
+      }
+    }
+  ]
+}

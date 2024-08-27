@@ -1,0 +1,102 @@
+{
+  "materials": [
+    {
+      "name": "(EMIm)[In(d-cam)2] (ALF-1)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "d-Camphoric acid (0.1173 g)",
+          "1,4-diazabicyclo[2.2.2]octane (DABCO, 0.1123 g)",
+          "In(NO3)3·x H2O (0.0829 g)",
+          "1-ethyl-3-methylimidazolium ethylsulfate (EMIm-Es, 1.9080 g)"
+        ],
+        "equipment": "23 mL teflon cup",
+        "temperature": "160 8C",
+        "time": "5 days",
+        "washing_method": "ethanol and distilled water",
+        "drying_method": "room temperature"
+      }
+    },
+    {
+      "name": "(Pr4N)[In(d-cam)2] (ALF-2)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "d-Camphoric acid (0.1051 g)",
+          "tetrapropylammonium bromide (Pr4NBr, 0.2519 g, 1 mmol)",
+          "DABCO (0.0632 g)",
+          "In(NO3)3·x H2O (0.1136 g, 0.3 mmol)",
+          "EMIm-Es (1.8211 g)"
+        ],
+        "equipment": "20 mL vial",
+        "temperature": "160 8C",
+        "time": "5 h",
+        "washing_method": "ethanol and distilled water",
+        "drying_method": "room temperature"
+      }
+    },
+    {
+      "name": "(Pr4N)[In(dl-cam)2] (ALF-2r)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "dl-Camphoric acid (0.1001 g, 0.5 mmol)",
+          "tetrapropylammonium bromide (Pr4NBr, 0.1234 g)",
+          "DABCO (0.0632 g)",
+          "In(NO3)3·x H2O (0.1123 g, 0.3 mmol)",
+          "EMIm-Es (Ei-Es, 1.67 g)"
+        ],
+        "equipment": "20 mL vial",
+        "temperature": "120 8C",
+        "time": "48 h",
+        "washing_method": "ethanol and distilled water",
+        "drying_method": "room temperature"
+      }
+    },
+    {
+      "name": "(EMIm)3[In(obb)2]·(Es)2·(H2O) (ALF-3)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "4,4’-oxybis(benzoic acid) (0.1136 g)",
+          "DABCO (0.0603 g)",
+          "In(NO3)3·x H2O (0.0736 g)",
+          "EMIm-Es (1.4819 g)"
+        ],
+        "equipment": "20 mL vial",
+        "temperature": "120 8C",
+        "time": "4 days",
+        "washing_method": "ethanol and distilled water",
+        "drying_method": "room temperature"
+      }
+    },
+    {
+      "name": "(EMIm)2[In2(d-cam)3(d-Hcam)2] (ALF-4)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "d-Camphoric acid (0.1077 g)",
+          "DABCO (0.0546 g)",
+          "In(NO3)3·x H2O (0.0917 g)",
+          "EMIm-Es (1.5635 g)"
+        ],
+        "equipment": "20 mL vial",
+        "temperature": "160 8C",
+        "time": "4 days",
+        "washing_method": "ethanol and distilled water",
+        "drying_method": "room temperature"
+      }
+    },
+    {
+      "name": "(BMIm)2[In2(d-cam)3(d-Hcam)2] (ALF-5)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "d-Camphoric acid (0.109 g)",
+          "DABCO (0.0602 g)",
+          "In(NO3)3·x H2O (0.093 g)",
+          "1-butyl-3-methylimidazolium ethylsulfate (BMIm-Es, 1.436 g)"
+        ],
+        "equipment": "20 mL vial",
+        "temperature": "120 8C",
+        "time": "3 days",
+        "washing_method": "ethanol and distilled water",
+        "drying_method": "room temperature"
+      }
+    }
+  ]
+}

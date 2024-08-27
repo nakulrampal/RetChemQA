@@ -1,0 +1,115 @@
+{
+  "materials": [
+    {
+      "name": "BFMOF-1",
+      "synthesis_conditions": {
+        "temperature": "solvothermal conditions",
+        "solvents": [
+          {
+            "name": "DMA (N,N-dimethylacetamide)",
+            "amount": null
+          },
+          {
+            "name": "H2O",
+            "amount": null
+          }
+        ],
+        "equipment": null,
+        "chemicals_used": [
+          {
+            "name": "L",
+            "amount": null
+          },
+          {
+            "name": "Pb(NO3)2",
+            "amount": null
+          }
+        ],
+        "time": null,
+        "washing_method": null,
+        "drying_method": null,
+        "yield": null,
+        "other_conditions": "Single crystals suitable for X-ray diffraction studies were obtained."
+      }
+    },
+    {
+      "name": "BFMOF-1a",
+      "synthesis_conditions": {
+        "temperature": null,
+        "solvents": [
+          {
+            "name": "ethanol",
+            "amount": null
+          },
+          {
+            "name": "CH3CN",
+            "amount": null
+          },
+          {
+            "name": "CH2Cl2",
+            "amount": null
+          }
+        ],
+        "equipment": null,
+        "chemicals_used": null,
+        "time": "within 30 minutes",
+        "washing_method": "immersed in solvents",
+        "drying_method": "exposure to air",
+        "yield": null,
+        "other_conditions": "The as-prepared BFMOF-1 crystals were transformed into a new crystalline phase, BFMOF-1a."
+      }
+    },
+    {
+      "name": "1a-PdCl2",
+      "synthesis_conditions": {
+        "temperature": null,
+        "solvents": [
+          {
+            "name": "CH2Cl2",
+            "amount": null
+          }
+        ],
+        "equipment": null,
+        "chemicals_used": [
+          {
+            "name": "[PdCl2(CH3CN)2]",
+            "amount": null
+          }
+        ],
+        "time": null,
+        "washing_method": "contact with a solution",
+        "drying_method": null,
+        "yield": "Pd:Pb ratio of 2.51:1",
+        "other_conditions": "BFMOF-1a crystals turn brownish red upon contact."
+      }
+    },
+    {
+      "name": "1a-Pd-H2",
+      "synthesis_conditions": {
+        "temperature": null,
+        "solvents": null,
+        "equipment": null,
+        "chemicals_used": null,
+        "time": "within one hour",
+        "washing_method": "placed in a H2 atmosphere",
+        "drying_method": null,
+        "yield": null,
+        "other_conditions": "The crystals of 1a-PdCl2 become gray, steadily turning into black."
+      }
+    },
+    {
+      "name": "1a-H2S",
+      "synthesis_conditions": {
+        "temperature": null,
+        "solvents": null,
+        "equipment": null,
+        "chemicals_used": null,
+        "time": null,
+        "washing_method": "exposure to H2S gas",
+        "drying_method": null,
+        "yield": "composition of Pb6O2(L)2(H2S)2(H2O)4",
+        "other_conditions": "The yellowish crystals of BFMOF-1a become dark red upon exposure."
+      }
+    }
+  ]
+}

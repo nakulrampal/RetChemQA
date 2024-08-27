@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the role of metal-organic frameworks (MOFs) in stabilizing cobalt catalysts according to the research?",
+      "answer": "MOFs stabilize highly reactive and solution-inaccessible cobalt catalysts by preventing intermolecular deactivation and enabling active site isolation within MOF cavities.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How do MOF-Co catalysts compare to their homogeneous counterparts in terms of catalytic activity and stability?",
+      "answer": "MOF-Co catalysts exhibit significantly enhanced stability and activity compared to their homogeneous counterparts, likely due to active site isolation within MOF cavities which prevent any intermolecular deactivation pathways.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What experimental evidence supports the hypothesis that MOF cavities prevent intermolecular deactivation of cobalt catalysts?",
+      "answer": "The significantly enhanced stability and activity of MOF-Co catalysts compared to their homogeneous controls, and the lack of effect of mercury on MOF-Co catalysts' activities, support the hypothesis.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The presence of mercury significantly reduces the catalytic activity of MOF-Co catalysts.",
+      "answer": "False. The activities of MOF-Co catalysts were not affected by the presence of mercury, indicating that the catalytic activity is not due to Co-nanoparticles formed during reactions.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to determine the rate law for mBPP-MOF-Co-catalyzed hydrogenation of styrene?",
+      "answer": "The rate law was determined by the method of initial rates, where the reactions were conducted under controlled conditions and the concentration of the product ethylbenzene was determined by GC using mesitylene as an internal standard.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the catalytic activity of mBPP-MOF-Co in hydrogenation reactions compare to that of (iPrCNC)CoCH3?",
+      "answer": "mBPP-MOF-Co shows higher catalytic activity in hydrogenation reactions under mild conditions compared to (iPrCNC)CoCH3, achieving higher yields in shorter times.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The substrate size affects the catalytic activity of MOF-Co catalysts in hydrogenation reactions.",
+      "answer": "True. Experiments demonstrated that catalysis is facilitated by Co-sites both inside the pores and on the outside of the MOFs, indicating that substrate size can affect catalytic activity.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the 'cross' test in demonstrating the heterogeneity of MOF catalysis?",
+      "answer": "The 'cross' test, where the reaction stops after removing the MOF catalyst from the reaction mixture, demonstrates the 'heterogeneous' nature of MOF catalysis by proving that the MOF, not leached species, is the active catalyst.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What computational method was used to analyze the electronic structure of Co(bpy)2 and Co(bpy)(THF)2 species?",
+      "answer": "Density Functional Theory (DFT) using the B3LYP/6-311G+g(d,p) functional as implemented in the Gaussian 09 software suite was used for the analysis.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The research provides direct evidence for the stabilization of (bpy)­Co­(THF)2 species in MOFs.",
+      "answer": "True. Spectroscopic, structural, and DFT calculation results indicate that (bpy)­Co­(THF)2 is likely the active catalyst for hydrogenation reactions, providing direct evidence for its stabilization in MOFs.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

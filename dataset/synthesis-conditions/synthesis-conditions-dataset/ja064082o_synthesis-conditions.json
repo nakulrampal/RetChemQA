@@ -1,0 +1,113 @@
+{
+  "materials": [
+    {
+      "name": "{[(dien)PtIVBr2-bpy-PtII(dien)]Br4⋅2H2O}∞",
+      "synthesis_conditions": [
+        {
+          "step": "Initial synthesis of intermediate",
+          "chemicals_used": [
+            {
+              "chemical": "PtII(dien)(NO3)2",
+              "role": "reactant"
+            },
+            {
+              "chemical": "bpy",
+              "role": "reactant"
+            },
+            {
+              "chemical": "[(dien)PtII-bpy-PtII(dien)](NO3)4",
+              "role": "product"
+            }
+          ],
+          "solvents": [
+            {
+              "solvent": "water",
+              "amount": "unspecified"
+            }
+          ],
+          "equipment": "unspecified",
+          "time": "unspecified",
+          "temperature": "unspecified"
+        },
+        {
+          "step": "Bromination and formation of intermediate",
+          "chemicals_used": [
+            {
+              "chemical": "[(dien)PtII-bpy-PtII(dien)](NO3)4",
+              "amount": "150 mg, 0.15 mmol",
+              "role": "reactant"
+            },
+            {
+              "chemical": "bromine",
+              "amount": "2 ml",
+              "role": "reactant"
+            },
+            {
+              "chemical": "[(dien)PtIVBr2-bpy-PtIVBr2(dien)]Br4",
+              "role": "product"
+            }
+          ],
+          "solvents": [
+            {
+              "solvent": "methanol",
+              "amount": "100 ml"
+            }
+          ],
+          "equipment": "unspecified",
+          "time": "1 day",
+          "temperature": "reflux",
+          "yield": "150 mg, 72%"
+        },
+        {
+          "step": "Final synthesis",
+          "chemicals_used": [
+            {
+              "chemical": "[(dien)PtII-bpy-PtII(dien)](NO3)4",
+              "amount": "20 mg, 0.014 mmol",
+              "role": "reactant"
+            },
+            {
+              "chemical": "[(dien)PtIVBr2-bpy-PtIVBr2(dien)]Br4",
+              "amount": "20 mg, 0.014 mmol",
+              "role": "reactant"
+            },
+            {
+              "chemical": "KBr",
+              "amount": "200 mg, 1.68 mmol",
+              "role": "reactant"
+            },
+            {
+              "chemical": "{[(dien)PtIVBr2-bpy-PtII(dien)]Br4⋅2H2O}∞",
+              "role": "product"
+            }
+          ],
+          "solvents": [
+            {
+              "solvent": "water",
+              "amount": "4 ml"
+            }
+          ],
+          "equipment": "unspecified",
+          "time": "1 hour",
+          "temperature": "room temperature",
+          "yield": "28 mg, 80%",
+          "drying_method": "recrystallization from water"
+        }
+      ],
+      "characterization_methods": [
+        {
+          "method": "Raman spectroscopy",
+          "details": "Recorded on a JASCO NRS-1000 single monochromator with Kaiser Optical Systems Holographic super-notch filter using a microscope. Excitation line at 632.8 nm."
+        },
+        {
+          "method": "Diffuse reflectance spectroscopy",
+          "details": "Recorded on a JASCO V-570 spectrophotometer equipped with a JASCO ISN-470 60 mmφ integrating-sphere apparatus. Reflectance spectra converted to absorption spectra using the Kubelka-Munk function."
+        }
+      ],
+      "elemental_analysis": {
+        "calculated": "C 17.05, H 3.02, N 8.84",
+        "found": "C 17.24, H 2.94, N 8.94"
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "materials": [
+    {
+      "name": "MOF-1",
+      "synthesis_conditions": {
+        "temperature": "70°C",
+        "solvents": ["DMF", "H2O"],
+        "amount_of_each_solvent": ["8.0 mL DMF", "3.0 mL H2O"],
+        "equipment": "CEM MARS 5 microwave",
+        "chemicals_used": ["L1", "Zn(NO3)2"],
+        "amount_of_chemicals_used": ["3.0 mg L1", "8.0 mg Zn(NO3)2"],
+        "time": "10 minutes ramp, then held for 50 minutes",
+        "yield": "60%",
+        "drying_method": "air-dried",
+        "washing_method": "washed three times with methanol and then three times with acetonitrile"
+      }
+    },
+    {
+      "name": "MOF-1 with various Os doping levels",
+      "synthesis_conditions": {
+        "temperature": "70°C",
+        "solvents": ["DMF", "H2O"],
+        "amount_of_each_solvent": ["8.0 mL DMF", "3.0 mL H2O"],
+        "equipment": "CEM MARS 5 microwave",
+        "chemicals_used": ["L1", "L1-Os", "Zn(NO3)2"],
+        "amount_of_chemicals_used": ["3.0 mg L1", "variable amount of L1-Os", "8.0 mg Zn(NO3)2"],
+        "time": "10 minutes ramp, then held for 50 minutes",
+        "yield": "Similar yields for all doping levels"
+      }
+    },
+    {
+      "name": "MOF-2",
+      "synthesis_conditions": {
+        "temperature": "75°C",
+        "solvents": ["DEF", "H2O"],
+        "amount_of_each_solvent": ["1.25 mL DEF", "0.5 mL H2O"],
+        "chemicals_used": ["L2-H4", "Zn(NO3)2", "3M HCl"],
+        "amount_of_chemicals_used": ["5.0 mg L2-H4", "5.0 mg Zn(NO3)2", "65 µL 3M HCl"],
+        "time": "three days",
+        "yield": "70%",
+        "drying_method": "air-dried",
+        "washing_method": "washed three times with methanol and then three times with acetonitrile"
+      }
+    },
+    {
+      "name": "MOF-2 with various Os doping levels",
+      "synthesis_conditions": {
+        "temperature": "85°C",
+        "solvents": ["DEF", "H2O"],
+        "amount_of_each_solvent": ["1.25 mL DEF", "0.5 mL H2O"],
+        "chemicals_used": ["L2-H4", "L2-Os", "Zn(NO3)2", "3M HCl"],
+        "amount_of_chemicals_used": ["5.0 mg L2-H4", "variable amount of L2-Os", "5.0 mg Zn(NO3)2", "65 µL 3M HCl"],
+        "time": "one day",
+        "yield": "Similar yields for all doping levels"
+      }
+    },
+    {
+      "name": "MOF-2 after soaking in TMBD",
+      "synthesis_conditions": {
+        "soaking_solution": "20 mM TMBD in MeCN",
+        "soaking_time": "overnight",
+        "washing_method": "filtered and washed with MeCN",
+        "additional_organic_weight_loss": "5%",
+        "note": "This corresponds with associated TMBD."
+      }
+    },
+    {
+      "name": "MOF-2 after soaking in BQ",
+      "synthesis_conditions": {
+        "soaking_solution": "0.3 M BQ in MeCN",
+        "soaking_time": "overnight",
+        "washing_method": "quickly washed with acetone",
+        "NMR_analysis": "Used to quantify the ratio of Ru monomer to associated quencher"
+      }
+    }
+  ]
+}

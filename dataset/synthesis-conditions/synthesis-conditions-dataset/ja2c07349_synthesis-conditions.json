@@ -1,0 +1,102 @@
+{
+  "materials": [
+    {
+      "name": "1Tpy",
+      "synthesis_conditions": {
+        "temperature": "80℃",
+        "solvents": ["THF", "H2O"],
+        "chemicals_used": [
+          {"name": "Compound 2", "amount": "1.50 g, 1.98 mmol"},
+          {"name": "Compound 1", "amount": "0.91 g, 2.58 mmol"},
+          {"name": "K2CO3", "amount": "0.55 g, 3.97 mmol"},
+          {"name": "Pd(PPh3)4", "amount": "0.14 g, 0.12 mmol"}
+        ],
+        "equipment": ["Schlenk flask"],
+        "time": "24 h",
+        "yield": "0.22 g, 65%",
+        "washing_method": "extracted with DCM, washed with brine",
+        "drying_method": "dried using anhydrous Na2SO4",
+        "purification_method": "column chromatography on Al2O3 with DCM as eluent"
+      }
+    },
+    {
+      "name": "3Tpy",
+      "synthesis_conditions": {
+        "temperature": "80℃",
+        "solvents": ["THF", "H2O"],
+        "chemicals_used": [
+          {"name": "Compound 3", "amount": "0.20 g, 0.22 mmol"},
+          {"name": "Compound 1", "amount": "0.46 g, 1.32 mmol"},
+          {"name": "K2CO3", "amount": "0.24 g, 1.76 mmol"},
+          {"name": "Pd(PPh3)4", "amount": "0.04 g, 0.03 mmol"}
+        ],
+        "equipment": ["Schlenk flask"],
+        "time": "about 2 days",
+        "yield": "0.12 g, 60%",
+        "washing_method": "extracted with DCM, washed with brine",
+        "drying_method": "dried by anhydrous Na2SO4",
+        "purification_method": "Al2O3 column chromatography with DCM/PE (3/1) as elution"
+      }
+    },
+    {
+      "name": "M2",
+      "synthesis_conditions": {
+        "temperature": "150℃",
+        "solvents": ["DMSO"],
+        "chemicals_used": [
+          {"name": "CuI", "amount": "0.40 g, 4 mmol"},
+          {"name": "N, N-dimethylglycine", "amount": "0.41 g, 8 mmol"},
+          {"name": "K2CO3", "amount": "5.52 g, 80 mmol"},
+          {"name": "2,7-dibromonaphthalene", "amount": "2.86 g, 20 mmol"},
+          {"name": "1H-imidazole", "amount": "1.70 g, 50 mmol"}
+        ],
+        "equipment": ["Schlenk flask"],
+        "time": "48 h",
+        "yield": "2.00 g, 70%",
+        "washing_method": "extracted with water and ethyl acetate, washed with brine",
+        "drying_method": "dried by anhydrous Na2SO4",
+        "purification_method": "silicone chromatography column with DCM/CH3OH (10:1)"
+      }
+    }
+  ],
+  "single_crystal_data": [
+    {
+      "name": "Complex I",
+      "crystal_system": "triclinic",
+      "space_group": "P-1",
+      "a": "10.1595(4) Å",
+      "b": "16.4486(5) Å",
+      "c": "16.4782(6) Å",
+      "alpha": "102.830(3)°",
+      "beta": "99.654(3)°",
+      "gamma": "92.973(3)°",
+      "volume": "2635.49(17) Å3",
+      "Z": "3",
+      "density": "1.546 g/cm3",
+      "mu": "2.507 mm-1",
+      "F(000)": "1272.0",
+      "crystal_size": "0.15 × 0.12 × 0.1 mm3",
+      "radiation": "Cu Kα (λ = 1.54184)",
+      "temperature": "99.8(7) K"
+    },
+    {
+      "name": "Complex II",
+      "crystal_system": "orthorhombic",
+      "space_group": "Pnma",
+      "a": "6.8278(7) Å",
+      "b": "15.317(2) Å",
+      "c": "15.5269(14) Å",
+      "alpha": "90°",
+      "beta": "90°",
+      "gamma": "90°",
+      "volume": "1623.8(3) Å3",
+      "Z": "4",
+      "density": "1.571 g/cm3",
+      "mu": "2.760 mm-1",
+      "F(000)": "788.0",
+      "crystal_size": "0.1 × 0.05 × 0.05 mm3",
+      "radiation": "Cu Kα (λ = 1.54184)",
+      "temperature": "100.15 K"
+    }
+  ]
+}

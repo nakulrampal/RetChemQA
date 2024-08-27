@@ -1,0 +1,189 @@
+{
+  "materials": [
+    {
+      "material_name": "1",
+      "synthesis_conditions": [
+        {
+          "step": "Solvothermal synthesis",
+          "temperature": "120 °C",
+          "solvents": "DMF",
+          "equipment": "50 mL Pyrex jar",
+          "chemicals_used": "FeCl3·6H2O, H2bpdc",
+          "time": "48 hours",
+          "washing_method": "DMF (3 x 30 mL), DCM (3 x 30 mL)",
+          "drying_method": "Vacuum desiccator at room temperature overnight",
+          "modulator": "None"
+        },
+        {
+          "step": "Microwave synthesis",
+          "temperature": "100 °C and 120 °C",
+          "solvents": "DMF",
+          "equipment": "35 mL microwave vial, CEM Discover SP microwave",
+          "chemicals_used": "FeCl3·6H2O, H2bpdc",
+          "time": "30 minutes",
+          "washing_method": "DMF (3 x 30 mL), DCM (3 x 30 mL)",
+          "drying_method": "Vacuum desiccator at room temperature overnight",
+          "modulator": "None"
+        }
+      ]
+    },
+    {
+      "material_name": "1-AA",
+      "synthesis_conditions": [
+        {
+          "step": "Solvothermal synthesis with modulator",
+          "temperature": "120 °C",
+          "solvents": "DMF",
+          "equipment": "50 mL Pyrex jar",
+          "chemicals_used": "FeCl3·6H2O, H2bpdc, acetic acid (10 equiv)",
+          "time": "48 hours",
+          "washing_method": "DMF (3 x 30 mL), DCM (3 x 30 mL)",
+          "drying_method": "Vacuum desiccator at room temperature overnight"
+        },
+        {
+          "step": "Microwave synthesis with modulator",
+          "temperature": "120 °C",
+          "solvents": "DMF",
+          "equipment": "35 mL microwave vial, CEM Discover SP microwave",
+          "chemicals_used": "FeCl3·6H2O, H2bpdc, acetic acid (10 equiv)",
+          "time": "30 minutes",
+          "washing_method": "DMF (3 x 30 mL), DCM (3 x 30 mL)",
+          "drying_method": "Vacuum desiccator at room temperature overnight"
+        }
+      ]
+    },
+    {
+      "material_name": "1-MW",
+      "synthesis_conditions": [
+        {
+          "step": "Microwave synthesis",
+          "temperature": "100 °C",
+          "solvents": "DMF",
+          "equipment": "35 mL microwave vial, CEM Discover SP microwave",
+          "chemicals_used": "FeCl3·6H2O, H2bpdc",
+          "time": "30 minutes",
+          "washing_method": "DMF (3 x 30 mL), DCM (3 x 30 mL)",
+          "drying_method": "Vacuum desiccator at room temperature overnight",
+          "modulator": "None"
+        }
+      ]
+    },
+    {
+      "material_name": "1-AA-MW",
+      "synthesis_conditions": [
+        {
+          "step": "Microwave synthesis with modulator",
+          "temperature": "120 °C",
+          "solvents": "DMF",
+          "equipment": "35 mL microwave vial, CEM Discover SP microwave",
+          "chemicals_used": "FeCl3·6H2O, H2bpdc, acetic acid (10 equiv)",
+          "time": "30 minutes",
+          "washing_method": "DMF (3 x 30 mL), DCM (3 x 30 mL)",
+          "drying_method": "Vacuum desiccator at room temperature overnight"
+        }
+      ]
+    },
+    {
+      "material_name": "2",
+      "synthesis_conditions": [
+        {
+          "step": "Solvothermal synthesis",
+          "temperature": "120 °C",
+          "solvents": "DMF",
+          "equipment": "50 mL Pyrex jar",
+          "chemicals_used": "FeCl3·6H2O, H2bpydc",
+          "time": "48 hours",
+          "washing_method": "DMF (3 x 30 mL), DCM (3 x 30 mL)",
+          "drying_method": "Vacuum desiccator at room temperature overnight",
+          "modulator": "None"
+        }
+      ]
+    },
+    {
+      "material_name": "2-AA",
+      "synthesis_conditions": [
+        {
+          "step": "Solvothermal synthesis with modulator",
+          "temperature": "120 °C",
+          "solvents": "DMF",
+          "equipment": "50 mL Pyrex jar",
+          "chemicals_used": "FeCl3·6H2O, H2bpydc, acetic acid (1 and 20 equiv)",
+          "time": "48 hours",
+          "washing_method": "DMF (3 x 30 mL), DCM (3 x 30 mL)",
+          "drying_method": "Vacuum desiccator at room temperature overnight"
+        }
+      ]
+    },
+    {
+      "material_name": "2-TFA",
+      "synthesis_conditions": [
+        {
+          "step": "Solvothermal synthesis with modulator",
+          "temperature": "120 °C",
+          "solvents": "DMF",
+          "equipment": "50 mL Pyrex jar",
+          "chemicals_used": "FeCl3·6H2O, H2bpydc, trifluoroacetic acid (5 equiv)",
+          "time": "48 hours",
+          "washing_method": "DMF (3 x 30 mL), DCM (3 x 30 mL)",
+          "drying_method": "Vacuum desiccator at room temperature overnight"
+        }
+      ]
+    },
+    {
+      "material_name": "2-HCl",
+      "synthesis_conditions": [
+        {
+          "step": "Solvothermal synthesis with modulator",
+          "temperature": "120 °C",
+          "solvents": "DMF",
+          "equipment": "50 mL Pyrex jar",
+          "chemicals_used": "FeCl3·6H2O, H2bpydc, hydrochloric acid (2 equiv)",
+          "time": "48 hours",
+          "washing_method": "DMF (3 x 30 mL), DCM (3 x 30 mL)",
+          "drying_method": "Vacuum desiccator at room temperature overnight"
+        }
+      ]
+    },
+    {
+      "material_name": "3 and 4",
+      "synthesis_conditions": [
+        {
+          "step": "Solvothermal synthesis with preformed clusters",
+          "temperature": "150 °C",
+          "solvents": "DMF",
+          "equipment": "25 mL Pyrex jar",
+          "chemicals_used": "Fe3O(OAc)6 clusters, H2bpydc, acetic acid",
+          "time": "18 hours",
+          "washing_method": "DMF multiple times",
+          "drying_method": "Not specified"
+        }
+      ]
+    },
+    {
+      "material_name": "1′",
+      "synthesis_conditions": [
+        {
+          "step": "Solvothermal synthesis",
+          "temperature": "120 °C",
+          "solvents": "DMF",
+          "equipment": "50 mL Pyrex jar",
+          "chemicals_used": "FeCl2·4H2O, H2bpdc",
+          "time": "48 hours",
+          "washing_method": "DMF (3 x 30 mL), DCM (3 x 30 mL)",
+          "drying_method": "Vacuum desiccator at room temperature overnight",
+          "modulator": "None"
+        },
+        {
+          "step": "Solvothermal synthesis with modulator",
+          "temperature": "120 °C",
+          "solvents": "DMF",
+          "equipment": "50 mL Pyrex jar",
+          "chemicals_used": "FeCl2·4H2O, H2bpdc, acetic acid (1 and 20 equiv), hydrochloric acid (1 equiv)",
+          "time": "48 hours",
+          "washing_method": "DMF (3 x 30 mL), DCM (3 x 30 mL)",
+          "drying_method": "Vacuum desiccator at room temperature overnight"
+        }
+      ]
+    }
+  ]
+}

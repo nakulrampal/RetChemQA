@@ -1,0 +1,50 @@
+{
+  "materials": [
+    {
+      "name": "m-H4TTFTB",
+      "synthesis_conditions": [
+        {
+          "description": "Synthesized according to a previous method."
+        }
+      ]
+    },
+    {
+      "name": "Dy-m-TTFTB",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": "m-H4TTFTB (0.010 g, 0.015 mmol), DyCl3·6H2O (0.010 g, 0.027 mmol)",
+          "solvents": "DMF (1 mL), H2O (0.5 mL)",
+          "additional_chemicals": "CF3COOH (0.17 mL), chlorobenzene (2 mL)",
+          "temperature": "140 °C",
+          "time": "48 h",
+          "equipment": "Heated",
+          "yield": "48 % (based on m-H4TTFTB)",
+          "washing_method": "Washed with DMF and CH3COCH3 three times",
+          "drying_method": "Filtration"
+        }
+      ]
+    },
+    {
+      "name": "I3−@Dy-m-TTFTB",
+      "synthesis_conditions": [
+        {
+          "description": "Crystals of Dy-m-TTFTB were soaked in a solution of iodine in cyclohexane (0.1 M) at room temperature for 12 hours.",
+          "washing_method": "Washed with cyclohexane"
+        }
+      ]
+    },
+    {
+      "name": "Ag NPs@Dy-m-TTFTB",
+      "synthesis_conditions": [
+        {
+          "description": "Crystals of Dy-m-TTFTB were soaked in a solution of AgNO3 in methanol (0.1 M) at room temperature for 12 hours.",
+          "washing_method": "Washed with methanol"
+        },
+        {
+          "description": "For increased TTF radical concentration, the material was further soaked in a solution of AgNO3 in cyclohexane (0.1 M) at room temperature for 12 hours.",
+          "washing_method": "Washed with cyclohexane"
+        }
+      ]
+    }
+  ]
+}

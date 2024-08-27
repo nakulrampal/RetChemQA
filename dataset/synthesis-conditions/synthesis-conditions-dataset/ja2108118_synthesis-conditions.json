@@ -1,0 +1,95 @@
+{
+  "materials": [
+    {
+      "name": "NU-601",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "36 ml"
+          }
+        ],
+        "equipment": "125 ml Erlenmeyer flask",
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)·6H2O",
+            "amount": "1.026 mmol, 0.305g"
+          },
+          {
+            "name": "1 (tetracarboxylate strut)",
+            "amount": "0.466 mmol, 0.181g"
+          },
+          {
+            "name": "4,4′-bipyridine (4-4’BIPY)",
+            "amount": "2.0 equiv."
+          }
+        ],
+        "time": "2 days",
+        "washing_method": "Solvent replaced with fresh DMF (50 ml), warmed to 90 °C",
+        "drying_method": "Vacuum filtration",
+        "yield": "56.5%",
+        "activation_method": "Exchanged with MeNO2 over 4 days",
+        "additional_information": "NU-601 contains 3.4 MeNO2 molecules per strut 1, corresponding to 3.4 MeNO2 molecules per unit cell."
+      }
+    },
+    {
+      "name": "1 (tetracarboxylate strut)",
+      "synthesis_conditions": {
+        "temperature": "23 °C",
+        "solvents": [
+          {
+            "name": "DMF:DCM",
+            "amount": "160 ml (1:1 mixture)"
+          },
+          {
+            "name": "TFA",
+            "amount": "10 ml"
+          }
+        ],
+        "equipment": [
+          "250 ml round bottom flask",
+          "50 ml pear flask"
+        ],
+        "chemicals_used": [
+          {
+            "name": "5-nitroisophthalic acid",
+            "amount": "6.33g, 30.0 mmol"
+          },
+          {
+            "name": "tert-butyl alcohol",
+            "amount": "8.6 ml, 90.0 mmol"
+          },
+          {
+            "name": "DMAP",
+            "amount": "1.266g, 20% w/w"
+          },
+          {
+            "name": "DCC",
+            "amount": "13.61g, 66.0 mmol"
+          },
+          {
+            "name": "MeOH",
+            "amount": "95 ml"
+          },
+          {
+            "name": "Pd/C",
+            "amount": "1g, 0.958 mmol"
+          },
+          {
+            "name": "CDI",
+            "amount": "0.194g, 1.2 mmol"
+          }
+        ],
+        "time": [
+          "Overnight",
+          "2 hours"
+        ],
+        "washing_method": "Washed with 1 M HCl (2 x 100 ml) and brine (2 x 100 ml)",
+        "drying_method": "Dried under high vacuum",
+        "yield": "50%",
+        "additional_information": "The synthesis involves multiple steps including esterification, hydrogenation, and deprotection."
+      }
+    }
+  ]
+}

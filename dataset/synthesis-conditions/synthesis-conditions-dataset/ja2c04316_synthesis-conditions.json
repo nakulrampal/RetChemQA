@@ -1,0 +1,67 @@
+{
+  "materials": [
+    {
+      "name": "CuCl-bpy",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "CuCl",
+            "amount": "13 mg",
+            "molarity": "0.13 mmol"
+          },
+          {
+            "chemical": "4,4’-bipyridine (bpy)",
+            "amount": "21 mg",
+            "molarity": "0.13 mmol"
+          }
+        ],
+        "solvent": "acetonitrile",
+        "solvent_amount": "20 ml",
+        "yield": "30 mg (0.12 mmol, 92%)",
+        "crystal_description": "brown red microcrystals"
+      }
+    },
+    {
+      "name": "CuBr-bpy",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "CuBr",
+            "amount": "19 mg",
+            "molarity": "0.13 mmol"
+          },
+          {
+            "chemical": "4,4’-bipyridine (bpy)",
+            "amount": "21 mg",
+            "molarity": "0.13 mmol"
+          }
+        ],
+        "solvent": "acetonitrile",
+        "solvent_amount": "20 ml",
+        "yield": "34 mg (0.11 mmol, 85%)",
+        "crystal_description": "red microcrystals"
+      }
+    },
+    {
+      "name": "CuI-bpy",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "CuI",
+            "amount": "20 mg",
+            "molarity": "0.13 mmol"
+          },
+          {
+            "chemical": "4,4’-bipyridine (bpy)",
+            "amount": "33 mg",
+            "molarity": "0.21 mmol"
+          }
+        ],
+        "solvent": "acetonitrile",
+        "solvent_amount": "20 ml",
+        "yield": "43 mg (0.095 mmol, 86%)",
+        "crystal_description": "deep red microcrystals"
+      }
+    }
+  ]
+}

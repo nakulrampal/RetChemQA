@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What are the synthesis conditions for sensors S1, S2, and S3 used in the study?",
+      "answer": "Sensors S1 and S2 were prepared according to literature procedures. Sensor S3's synthesis conditions are not explicitly mentioned, but it is implied that similar procedures or conditions might have been used.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How were the fluorescence measurements for the sensors conducted?",
+      "answer": "Fluorescence measurements were performed using a single photon counting spectrofluorimeter from Edinburgh Analytical Instruments (FL/FS 920), with solutions prepared in square quartz cuvettes and excited at specific wavelengths for each sensor (301 nm or 320 nm for S1, 310 nm for S2, and 300 nm for S3).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to determine the limit of detection (LOD) for MOR, M3G, and nMOR?",
+      "answer": "The limit of detection (LOD) was determined using the data set from the quantitative assay as three standard deviations of twenty repetitions of the validation data set concentration readings for a given analyte using S2.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the structure of the aCBs influence their ability to detect opiates and their metabolites?",
+      "answer": "The structure and steric demand of the terminal walls of the aCBs partly define the diameter of the binding pocket, influencing the preference for the size of the guests. This structural adaptability allows the aCBs to accommodate drugs of varying sizes, affecting their sensitivity and specificity towards opiates and their metabolites.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the fluorescence response of sensor S2 towards oxycodone and its metabolites consistent across different experiments?",
+      "answer": "Yes, the fluorescence response of sensor S2 towards oxycodone and its metabolites is consistent across different experiments, as indicated by the fluorescence titration profiles and the molecular dynamics simulation data.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does the pH of the solution play in the fluorescence measurements of the sensors?",
+      "answer": "The pH of the solution is crucial for the fluorescence measurements of the sensors, as it can influence the binding interactions between the sensors and the analytes. The experiments were conducted at different pH levels (pH 3, pH 5, and pH 7) to optimize the conditions for maximum fluorescence response.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the sensors distinguish between different opiates and their metabolites in complex biological matrices like urine?",
+      "answer": "Yes, the sensors can distinguish between different opiates and their metabolites in complex biological matrices like urine, as demonstrated by the high-throughput screening experiments and the linear discriminant analysis (LDA) results.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to understand the interaction between the sensors and the opiates?",
+      "answer": "Molecular dynamics simulations were used to understand the interaction between the sensors and the opiates, providing insights into the mechanism of fluorescence amplification upon guest binding and the binding energies.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the binding affinity of sensor S2 compare for morphine, heroin, and oxycodone according to both experimental and computational data?",
+      "answer": "According to both experimental and computational data, sensor S2 shows varying binding affinities for morphine, heroin, and oxycodone, with specific binding constants and complexation energies indicating a preference for certain opiates over others.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the fluorescence response of the sensors towards opiates and their metabolites quantitatively predictable?",
+      "answer": "Yes, the fluorescence response of the sensors towards opiates and their metabolites is quantitatively predictable, as demonstrated by the quantitative linear SVM regression analysis, which shows high accuracy in predicting multiple concentration values.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

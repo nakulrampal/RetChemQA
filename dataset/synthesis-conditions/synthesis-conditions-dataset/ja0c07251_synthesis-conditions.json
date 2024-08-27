@@ -1,0 +1,211 @@
+{
+  "materials": [
+    {
+      "material_name": "4,7-dibromophthalic anhydride (8)",
+      "synthesis_conditions": {
+        "temperature": "60 °C",
+        "solvents": [
+          {
+            "name": "fuming sulfuric acid",
+            "amount": "40 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "phthalic anhydride",
+            "amount": "24 g"
+          },
+          {
+            "name": "iodine",
+            "amount": "153 mg"
+          },
+          {
+            "name": "bromine",
+            "amount": "11 mL"
+          }
+        ],
+        "time": "24 hours",
+        "yield": "30%"
+      }
+    },
+    {
+      "material_name": "4,7-dibromophthalimide (9)",
+      "synthesis_conditions": {
+        "temperature": "Reflux",
+        "solvents": [
+          {
+            "name": "acetic acid",
+            "amount": "30 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "4,7-dibromophthalic anhydride (8)",
+            "amount": "7.3 g"
+          },
+          {
+            "name": "benzylamine",
+            "amount": "3.21 mL"
+          }
+        ],
+        "time": "16 hours",
+        "yield": "93%"
+      }
+    },
+    {
+      "material_name": "4,7-tetramethylisoindoline N-oxide (5)",
+      "synthesis_conditions": {
+        "temperature": "25 °C",
+        "solvents": [
+          {
+            "name": "CH2Cl2",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "11",
+            "amount": "195 mg"
+          },
+          {
+            "name": "m-chloroperoxybenzoic acid (mCPBA)",
+            "amount": "197 mg"
+          }
+        ],
+        "time": "3 hours",
+        "yield": "95%"
+      }
+    },
+    {
+      "material_name": "bis(pyridine-4-ylethynyl) isoindoline N-oxide (1)",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "tetramethylpiperidine",
+            "amount": "3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "4,7-tetramethylisoindoline N-oxide (5)",
+            "amount": "100.0 mg"
+          },
+          {
+            "name": "4-ethynylpyridine hydrochloride",
+            "amount": "240.6 mg"
+          }
+        ],
+        "time": "24 hours",
+        "yield": "30%"
+      }
+    },
+    {
+      "material_name": "1,4-diethynylbenzene (14)",
+      "synthesis_conditions": {
+        "temperature": "25 °C",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "25 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "13",
+            "amount": "1.2 g"
+          },
+          {
+            "name": "tetrabutylammonium fluoride (TBAF)",
+            "amount": "11 mL"
+          }
+        ],
+        "time": "15 minutes",
+        "yield": "95%"
+      }
+    },
+    {
+      "material_name": "1,4 bis(pyridine-4-ylethynyl)benzene (2)",
+      "synthesis_conditions": {
+        "temperature": "60 °C",
+        "solvents": [
+          {
+            "name": "THF:TEA (1:1)",
+            "amount": "20 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "1,4-diethynylbenzene (14)",
+            "amount": "250 mg"
+          },
+          {
+            "name": "4-bromopyridine hydrochloride",
+            "amount": "1.12 g"
+          }
+        ],
+        "time": "18 hours",
+        "yield": "95%"
+      }
+    },
+    {
+      "material_name": "9,10-dicarboxytriptycene (4)",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "acetone",
+            "amount": "10 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "9 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "19",
+            "amount": "0.9 g"
+          },
+          {
+            "name": "H2SO4",
+            "amount": "1.0 mL"
+          },
+          {
+            "name": "CrO3",
+            "amount": "1.0 g"
+          }
+        ],
+        "time": "5 hours",
+        "yield": "80%"
+      }
+    },
+    {
+      "material_name": "UCLA-NO",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2(H2O)6",
+            "amount": "15.16 mg"
+          },
+          {
+            "name": "9,10-dicarboxytriptycene (4)",
+            "amount": "17.7 mg"
+          },
+          {
+            "name": "bis(pyridine-4-ylethynyl) isoindoline N-oxide (1)",
+            "amount": "10 mg"
+          }
+        ],
+        "time": "18 hours"
+      }
+    }
+  ]
+}

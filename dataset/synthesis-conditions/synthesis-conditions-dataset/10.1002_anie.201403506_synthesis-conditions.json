@@ -1,0 +1,91 @@
+{
+  "materials": [
+    {
+      "name": "[(AgBF4)·1]n single crystal",
+      "synthesis_conditions": {
+        "temperature": "10 8C",
+        "solvents": [
+          {
+            "name": "aqueous solution",
+            "amount": "150 mL"
+          },
+          {
+            "name": "ethanol",
+            "amount": "150 mL"
+          }
+        ],
+        "equipment": "capped-micro-tube (f = 6 mm)",
+        "chemicals_used": [
+          {
+            "name": "AgBF4",
+            "amount": "4.9 mg, 25 mmol"
+          },
+          {
+            "name": "1 (ligand)",
+            "amount": "11.3 mg, 25 mmol"
+          }
+        ],
+        "time": "one week",
+        "drying_method": "dried in vacuo (ca. 1 Torr) for 2 h at room temperature",
+        "yield": "38 %",
+        "additional_information": "Triple-layered in a micro-tube and kept in a 10 8C incubator."
+      }
+    },
+    {
+      "name": "Anion exchange to [(AgPF6)·1]n",
+      "synthesis_conditions": {
+        "temperature": "10 8C",
+        "solvents": [
+          {
+            "name": "ethanol solution of NaPF6",
+            "amount": "50 mm, 450 mL"
+          }
+        ],
+        "time": "2 d",
+        "method": "Single crystals of [(AgBF4)·1]n were soaked in the solution."
+      }
+    },
+    {
+      "name": "Anion exchange to [(AgCF3SO3)·1]n",
+      "synthesis_conditions": {
+        "temperature": "10 8C",
+        "solvents": [
+          {
+            "name": "ethanol solution of NaOTf",
+            "amount": "100 mm, 450 mL"
+          }
+        ],
+        "time": "three weeks",
+        "method": "Single crystals of [(AgBF4)·1]n were soaked in the solution."
+      }
+    },
+    {
+      "name": "Chiral recognition of 1,1’-bi-2-naphthol (2)",
+      "synthesis_conditions": {
+        "temperature": "10 8C",
+        "solvents": [
+          {
+            "name": "ethanol solution",
+            "amount": "10 mm, 450 mL"
+          }
+        ],
+        "time": "two weeks",
+        "method": "Single crystals of [(AgBF4)·1]n were soaked in the solution."
+      }
+    },
+    {
+      "name": "Encapsulation of maltopentaose (3)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "methanol solution of maltopentaose",
+            "amount": "20 mm, 450 mL"
+          }
+        ],
+        "time": "one week",
+        "method": "Single crystals of [(AgBF4)·1]n were soaked in the solution."
+      }
+    }
+  ]
+}

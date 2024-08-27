@@ -1,0 +1,118 @@
+{
+  "materials": [
+    {
+      "name": "FZU",
+      "synthesis_conditions": {
+        "temperature": "85 ℃",
+        "time": "48 h",
+        "solvents": [
+          {
+            "name": "N,N'-dimethylformamide",
+            "amount": "2.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CuCl2·2H2O",
+            "amount": "27.3 mg, 0.16 mmol"
+          },
+          {
+            "name": "HIN",
+            "amount": "10 mg, 0.08 mmol"
+          }
+        ],
+        "yield": "≈ 76.6 %",
+        "washing_method": "washed with DMF",
+        "drying_method": "under vacuum at 90 ℃ for 10 hours"
+      }
+    },
+    {
+      "name": "NJU-Bai34",
+      "synthesis_conditions": {
+        "temperature": "85 ℃",
+        "time": "48 h",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "0.5 mL"
+          },
+          {
+            "name": "acetonitrile",
+            "amount": "0.75 mL"
+          },
+          {
+            "name": "N,N'-dimethylformamide",
+            "amount": "1.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CuCl2·2H2O",
+            "amount": "109.2 mg, 0.64 mmol"
+          },
+          {
+            "name": "HIN",
+            "amount": "10 mg, 0.08 mmol"
+          },
+          {
+            "name": "concentrated acetic acid",
+            "amount": "0.05 mL"
+          }
+        ],
+        "yield": "≈ 83 %",
+        "washing_method": "washed with DMF",
+        "drying_method": "under vacuum at 35 ℃ for 10 hours"
+      }
+    },
+    {
+      "name": "NJU-Bai35",
+      "synthesis_conditions": {
+        "temperature": "120 ℃",
+        "time": "60 h",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "0.5 mL"
+          },
+          {
+            "name": "N,N'-dimethylformamide",
+            "amount": "1.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CuCl2·2H2O",
+            "amount": "109.2 mg, 0.64mmol"
+          },
+          {
+            "name": "HIN",
+            "amount": "10 mg, 0.08 mmol"
+          }
+        ],
+        "yield": "≈ 80 %",
+        "washing_method": "washed with DMF",
+        "drying_method": "under vacuum at 40℃ for 10 hours"
+      }
+    },
+    {
+      "name": "MOF-5-iv",
+      "synthesis_conditions": {
+        "notes": "Prepared according to the literature with a yield of ≈ 60 %."
+      }
+    },
+    {
+      "name": "Transformation from MOF-5-iv to MOF-5",
+      "synthesis_conditions": {
+        "temperature": "120 ℃",
+        "time": "7 days",
+        "solvents": [
+          {
+            "name": "DEF",
+            "amount": "2.5 mL"
+          }
+        ],
+        "notes": "The transformation was confirmed by PXRD results."
+      }
+    }
+  ]
+}

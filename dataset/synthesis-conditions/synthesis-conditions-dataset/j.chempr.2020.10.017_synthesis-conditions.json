@@ -1,0 +1,132 @@
+{
+  "materials": [
+    {
+      "name": "MIP-208",
+      "synthesis_conditions": [
+        {
+          "method_details": "Small Scale",
+          "chemicals_used": [
+            {
+              "name": "Ti8AF cluster solid",
+              "amount": "220 mg"
+            },
+            {
+              "name": "acetic anhydride",
+              "amount": "5 mL"
+            },
+            {
+              "name": "acetic acid",
+              "amount": "5 mL"
+            },
+            {
+              "name": "5-NH2-IPA",
+              "amount": "362 mg, 2 mmol"
+            },
+            {
+              "name": "MeOH",
+              "amount": "0.5 mL"
+            }
+          ],
+          "reaction_conditions": {
+            "temperature": "180°C",
+            "duration": "48 h"
+          },
+          "yield": "330 mg (average of five parallel reactions)"
+        },
+        {
+          "method_details": "Scale-Up",
+          "chemicals_used": [
+            {
+              "name": "Ti8AF cluster solid",
+              "amount": "3.5 g"
+            },
+            {
+              "name": "acetic anhydride",
+              "amount": "25 mL"
+            },
+            {
+              "name": "acetic acid",
+              "amount": "25 mL"
+            },
+            {
+              "name": "5-NH2-IPA",
+              "amount": "3.62 g, 20 mmol"
+            },
+            {
+              "name": "MeOH",
+              "amount": "3.5 mL"
+            }
+          ],
+          "reaction_conditions": {
+            "temperature": "180°C",
+            "duration": "48 h"
+          },
+          "yield": "4.3 g (average of five parallel reactions)"
+        },
+        {
+          "method_details": "Typical Synthesis of MTV-MIP-208",
+          "chemicals_used": [
+            {
+              "name": "Ti8AF cluster solid",
+              "amount": "220 mg"
+            },
+            {
+              "name": "acetic anhydride",
+              "amount": "5 mL"
+            },
+            {
+              "name": "acetic acid",
+              "amount": "5 mL"
+            },
+            {
+              "name": "5-NH2-IPA",
+              "amount": "1 mmol"
+            },
+            {
+              "name": "secondary IPA ligand",
+              "amount": "1 mmol"
+            },
+            {
+              "name": "MeOH",
+              "amount": "0.5 mL"
+            }
+          ],
+          "reaction_conditions": {
+            "temperature": "180°C",
+            "duration": "48 h"
+          }
+        }
+      ],
+      "characterization_methods": [
+        {
+          "method": "Powder X-ray Diffraction (PXRD)",
+          "details": "Recorded on a high-throughput Bruker D8 Advance diffractometer working on transmission mode and equipped with a focusing Göbel mirror producing CuKα radiation (λ = 1.5418 Å) and a LynxEye detector."
+        },
+        {
+          "method": "Temperature dependent PXRD",
+          "details": "Recorded with sample closely packed in quartz capillary on a PANalytical EMPYREAN diffractometer with CuKα radiation (λ = 1.5418 Å) and equipped with a HTK-1200N (Anton Parr) high-temperature chamber and a GaliPIX3D detector."
+        },
+        {
+          "method": "Carbon dioxide adsorption",
+          "details": "Carried out on a Micromeritics Triflex instrument at 273 K."
+        },
+        {
+          "method": "Scanning Electron Microscopy (SEM)",
+          "details": "Recorded with FEI Magellan 400 scanning electron microscope."
+        },
+        {
+          "method": "X-ray photoelectron spectra (XPS)",
+          "details": "Collected on a SPECS spectrometer with a MCD-9 detector using a monochromatic Al (Kα= 1486.6 eV) X-ray source."
+        },
+        {
+          "method": "Inductively coupled plasma-atomic emission spectroscopy (ICP-AES)",
+          "details": "Used to determine the Ru content after digesting the solid sample in concentrated nitric acid."
+        },
+        {
+          "method": "Photocurrent experiments",
+          "details": "Performed using a standard three-electrode electrochemical cell using a fluoride-doped tin oxide (FTO)-coated glass substrate with MIP-208@RuOx as working electrode, a platinum wire as the counter electrode and a standard calomel electrode (SCE) as the reference electrode."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "materials": [
+    {
+      "material_name": "(POCOP)Rh(H)(Cl)",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            {
+              "chemical": "NaOtBu",
+              "amount": "31 mg",
+              "role": "base"
+            },
+            {
+              "chemical": "aryl halide",
+              "amount": "0.18 mmol",
+              "role": "reactant"
+            },
+            {
+              "chemical": "thiol reagent",
+              "amount": "0.16 mmol",
+              "role": "reactant"
+            },
+            {
+              "chemical": "C6H5CF3",
+              "role": "internal standard"
+            }
+          ],
+          "solvent": "toluene",
+          "amount_of_solvent": "1.0 mL",
+          "temperature": "110 °C",
+          "time": "varies",
+          "equipment": "screw cap vial with a stir bar",
+          "atmosphere": "argon",
+          "yield": "varies",
+          "additional_information": "Reactions were monitored by 19F NMR spectroscopy."
+        }
+      ]
+    },
+    {
+      "material_name": "(POCOP)Rh(Ph)(Br)",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            {
+              "chemical": "NaOtBu",
+              "amount": "17 mg",
+              "role": "base"
+            },
+            {
+              "chemical": "C6H5Br",
+              "amount": "19 μL",
+              "role": "aryl halide"
+            }
+          ],
+          "solvent": "toluene",
+          "temperature": "room temperature",
+          "time": "1 h",
+          "equipment": "Schlenk flask",
+          "yield": "78%",
+          "additional_information": "Product was extracted with pentane and recrystallized from toluene layered with pentane at −35 °C."
+        }
+      ]
+    },
+    {
+      "material_name": "(POCOP)Rh(Ph)(SPh)",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            {
+              "chemical": "NaOtBu",
+              "amount": "17 mg",
+              "role": "base"
+            },
+            {
+              "chemical": "HSPh",
+              "amount": "18 μL",
+              "role": "thiol"
+            }
+          ],
+          "solvent": "C6D6",
+          "temperature": "room temperature",
+          "time": "30 min",
+          "equipment": "Schlenk flask",
+          "yield": "72%",
+          "additional_information": "Product was recrystallized from a saturated toluene solution layered with pentane at −35 °C."
+        }
+      ]
+    },
+    {
+      "material_name": "(POCOP)Rh(SPh2)",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            {
+              "chemical": "NaOtBu",
+              "amount": "24 mg",
+              "role": "base"
+            },
+            {
+              "chemical": "SPh2",
+              "amount": "38 μL",
+              "role": "diphenylsulfide"
+            }
+          ],
+          "solvent": "toluene",
+          "temperature": "room temperature",
+          "time": "30 min",
+          "equipment": "Schlenk flask",
+          "yield": "64%",
+          "additional_information": "Product was recrystallized from a saturated toluene solution layered with pentane at −35 °C."
+        }
+      ]
+    },
+    {
+      "material_name": "(POCOP)Rh(H)(SPh)",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            {
+              "chemical": "HSPh",
+              "amount": "41 μL",
+              "role": "thiol"
+            }
+          ],
+          "solvent": "C6D6",
+          "temperature": "room temperature",
+          "time": "30 min",
+          "equipment": "J. Young tube",
+          "yield": "71%",
+          "additional_information": "Product was washed with cold pentane to remove diphenyl sulfide."
+        }
+      ]
+    },
+    {
+      "material_name": "(POCOP)Rh(NaSPh)",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            {
+              "chemical": "NaOtBu",
+              "amount": "21 mg",
+              "role": "base"
+            }
+          ],
+          "solvent": "toluene",
+          "temperature": "room temperature",
+          "time": "1 h",
+          "equipment": "Schlenk flask",
+          "yield": "not specified",
+          "additional_information": "Product was washed with cold pentane and dried under vacuum."
+        }
+      ]
+    }
+  ]
+}

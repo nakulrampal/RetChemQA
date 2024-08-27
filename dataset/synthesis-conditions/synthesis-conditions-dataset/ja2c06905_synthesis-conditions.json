@@ -1,0 +1,121 @@
+{
+  "materials": [
+    {
+      "name": "17,20-diiodo-2,3,5,6,8,9,11,12,14,15-hexahydrobenzo[b][1,4,7,10,13,16]tetraoxacyclo-dodecine (VI)",
+      "solvents": "DMF",
+      "amount_of_solvent_ml": 20.0,
+      "temperature_C": 80,
+      "time_h": 12,
+      "yield_percentage": 72,
+      "washing_method": "diluted with deionized water (30 mL), extracted with dichloromethane (3 × 30 mL)",
+      "drying_method": "dried under vacuum",
+      "chemicals_used": [
+        "K2CO3",
+        "compound V",
+        "pentaethylene glycol di-p-toluenesulfonate"
+      ]
+    },
+    {
+      "name": "dimethyl 4,4’-(2,3,5,6,8,9,11,12,14,15-decahydrobenzo[b][1,4,7,10,13,16]hexaoxacyclo-octadecine-17,20-diyl)dibenzoate (VII)",
+      "solvents": "1,4-dioxane",
+      "amount_of_solvent_ml": 50.0,
+      "temperature_C": "reflux",
+      "time_h": 48,
+      "yield_percentage": 42,
+      "washing_method": "diluted with deionized water (30 mL), extracted with chloroform (3 × 30 mL)",
+      "drying_method": "dried under vacuum",
+      "chemicals_used": [
+        "compound VI",
+        "4-methoxycarbonylphenylboronic acid",
+        "PdCl2(PPh3)2",
+        "potassium phosphate"
+      ]
+    },
+    {
+      "name": "4,4’-(2,3,5,6,8,9,11,12,14,15-decahydrobenzo[b][1,4,7,10,13,16]hexaoxacycloocta-decine-17,20-diyl)dibenzoic acid (H2TPDC-18C6)",
+      "solvents": "tetrahydrofuran/water",
+      "amount_of_solvent_ml": 40.0,
+      "temperature_C": "reflux",
+      "time_h": 48,
+      "yield_percentage": 84,
+      "washing_method": "diluted with water (10 mL), acidified with 3.00 M HCl to pH 3",
+      "drying_method": "dried under vacuum",
+      "chemicals_used": [
+        "compound VII",
+        "NaOH"
+      ]
+    },
+    {
+      "name": "urea-18C6@Davisil",
+      "solvents": "dichloromethane",
+      "amount_of_solvent_ml": 30.0,
+      "temperature_C": "room temperature",
+      "time_h": "overnight",
+      "washing_method": "Soxhlet apparatus with ethanol for 48 hours",
+      "drying_method": "dried at 80 °C overnight, then under vacuum for two hours",
+      "chemicals_used": [
+        "3-isocyanatopropyltriethoxysilane",
+        "2-aminomethyl-18-crown-6",
+        "Davisil 22 or 60"
+      ]
+    },
+    {
+      "name": "PCN-700+TA and UiO-67+TA",
+      "solvents": "DMF",
+      "amount_of_solvent_ml": 1.0,
+      "temperature_C": 75,
+      "time_h": 24,
+      "chemicals_used": [
+        "terephthalic acid",
+        "PCN-700 or UiO-67"
+      ],
+      "additional_steps": [
+        {
+          "step_description": "cerium loading",
+          "solvent": "DMF",
+          "cerium_source": "Ce(NO3)3∙6H2O",
+          "concentration_M": 0.230,
+          "temperature_C": 75,
+          "time_h": 24
+        }
+      ]
+    },
+    {
+      "name": "Ce@PCN-700+TPDC-18C6",
+      "solvents": "DMF",
+      "amount_of_solvent_ml": 1.0,
+      "temperature_C": 75,
+      "time_h": 24,
+      "chemicals_used": [
+        "Ce@PCN-700",
+        "H2TPDC-18C6"
+      ],
+      "additional_steps": [
+        {
+          "step_description": "reimmersed in Ce(NO3)3∙6H2O solution",
+          "solvent": "DMF",
+          "concentration_M": 0.230,
+          "temperature_C": 75,
+          "time_h": 24
+        }
+      ]
+    },
+    {
+      "name": "241Am loading into PCN-700 and PCN-700+TA",
+      "solvents": "DMF",
+      "amount_of_solvent_ml": 1.0,
+      "temperature_C": 78,
+      "time_h": 24,
+      "chemicals_used": [
+        "241Am stock solution in nitric acid"
+      ],
+      "additional_steps": [
+        {
+          "step_description": "washed with DMF and analyzed by gamma-ray spectroscopy",
+          "solvent": "DMF",
+          "amount_of_solvent_ml": 1.0
+        }
+      ]
+    }
+  ]
+}

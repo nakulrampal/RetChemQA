@@ -1,0 +1,100 @@
+{
+  "materials": [
+    {
+      "name": "CTH-6",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": ["N-N’-dimethylformamide (dmf)"],
+        "amount_of_solvents": ["4 mL of N-N’-dimethylformamide (dmf)", "1 mL of glacial acetic acid"],
+        "chemicals_used": ["Bismuth (III) nitrate pentahydrate (19.44 mg, 0.020 mmol)", "H6cpb (16 mg, 0.020 mmol)"],
+        "equipment": ["8 mL vial", "10 mL Pyrex tube"],
+        "time": "3 days",
+        "yield": "Not quantified due to contamination",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "characterization_techniques": ["PXRD", "TGA"],
+        "comments": "All preparations of CTH-6 were contaminated with a small amount of concomitantly occurring black phase interpreted as Bi(s)."
+      }
+    },
+    {
+      "name": "CTH-7",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": ["N-N’-dimethylformamide (dmf)"],
+        "amount_of_solvents": ["4 mL of dmf", "1 mL glacial acetic acid", "1 mL distilled water"],
+        "chemicals_used": ["Copper nitrate trihydrate (9.683 mg, 0.020 mmol)", "H6cpb (16 mg, 0.020 mmol)"],
+        "equipment": ["8 mL vial", "10 mL Pyrex tube"],
+        "time": "3 days",
+        "yield": "Not quantified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "characterization_techniques": ["PXRD", "TGA"],
+        "comments": "Light blue crystals were obtained."
+      }
+    },
+    {
+      "name": "CTH-8",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "solvents": ["Dimethylformamide (dmf, 10 mL)", "Triethylamine (tea, 0.5 mL)"],
+        "amount_of_solvents": ["10 mL of dmf", "0.5 mL of tea", "6 mL of glacial acetic acid"],
+        "chemicals_used": ["Fe(NO3)3∙9H2O (16.192 mg, 0.020 mmol)", "H6cpb (16 mg, 0.020 mmol)"],
+        "equipment": ["25 mL round-bottom flask"],
+        "time": "5 days",
+        "yield": "Not quantified due to impurity",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "characterization_techniques": ["PXRD", "TGA"],
+        "comments": "Yellow crystals were formed. TGA and elemental analysis indicate an impurity interpreted as co-precipitated H6cpb."
+      }
+    },
+    {
+      "name": "CTH-9",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": ["N, N’-dimethylacetamide (dmac)"],
+        "amount_of_solvents": ["5 mL of dmac", "1 mL of glacial acetic acid"],
+        "chemicals_used": ["Zn(NO3)2∙6H2O (23.847 mg, 0.020 mmol)", "H6cpb (16 mg, 0.020 mmol)"],
+        "equipment": ["8 mL vial", "10 mL Pyrex tube"],
+        "time": "3 days",
+        "yield": "Not quantified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "characterization_techniques": ["PXRD", "TGA"],
+        "comments": "Indistinguishable colorless crystals of Zn-MOF-888 and CTH-11 were obtained."
+      }
+    },
+    {
+      "name": "CTH-12",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": ["N, N’-dimethylacetamide (dmac)"],
+        "amount_of_solvents": ["5 mL of dmac"],
+        "chemicals_used": ["Zn(NO3)2∙6H2O (23.847 mg, 0.020 mmol)", "H6cpb (16 mg, 0.020 mmol)"],
+        "equipment": ["8 mL vial", "10 mL Pyrex tube"],
+        "time": "3 days",
+        "yield": "Not quantified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "characterization_techniques": ["PXRD", "TGA"],
+        "comments": "Dark blue crystals were harvested."
+      }
+    },
+    {
+      "name": "CTH-13",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": ["N, N’-dimethylacetamide (dmac)"],
+        "amount_of_solvents": ["4 mL of dmac", "1 mL glacial acetic acid"],
+        "chemicals_used": ["4,4-azopyridine, H6cpb and Zn(NO3)2∙6H2O in molar ratio of 1:2:1"],
+        "equipment": ["8 mL vial", "10 mL Pyrex tube"],
+        "time": "3 days",
+        "yield": "Not quantified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "characterization_techniques": ["PXRD", "TGA"],
+        "comments": "Colorless crystals of CTH-13 were obtained."
+      }
+    }
+  ]
+}

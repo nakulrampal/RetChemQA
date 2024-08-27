@@ -1,0 +1,110 @@
+{
+  "materials": [
+    {
+      "name": "1(OTf)4",
+      "synthesis_conditions": {
+        "precursors": [
+          "[Cp*2Ir2(m-h4-C2O4)](OTf)2 E1(OTf)2",
+          "ligand L"
+        ],
+        "solvents": [
+          {
+            "name": "methanol/diethyl ether",
+            "ratio": "not specified"
+          }
+        ],
+        "yield": "93%",
+        "crystallization_method": "slow vapor diffusion of diethyl ether into a methanol/acetonitrile solution",
+        "additional_information": "The molecular structure was established by NMR spectroscopy, IR spectroscopy, elemental analysis, and single-crystal X-ray diffraction."
+      }
+    },
+    {
+      "name": "2(OTf)8",
+      "synthesis_conditions": {
+        "precursors": [
+          "E2(OTf)2",
+          "ligand L"
+        ],
+        "solvents": [
+          {
+            "name": "methanol",
+            "ratio": "not specified"
+          }
+        ],
+        "form": "black crystals",
+        "characterization_methods": [
+          "1H NMR",
+          "1H–1H COSY",
+          "13C NMR",
+          "1H DOSY NMR",
+          "X-ray diffraction"
+        ],
+        "additional_information": "The 1H NMR spectrum is more complex than that of the metallarectangle 1(OTf)4, suggesting a more complex topological structure."
+      }
+    },
+    {
+      "name": "3(OTf)8",
+      "synthesis_conditions": {
+        "precursors": [
+          "E3(OTf)2",
+          "ligand L"
+        ],
+        "solvents": [
+          {
+            "name": "methanol/dimethyl sulfoxide",
+            "ratio": "20:1"
+          }
+        ],
+        "crystallization_method": "slow diffusion of isopropyl ether",
+        "characterization_methods": [
+          "1H NMR",
+          "DOSY NMR",
+          "X-ray diffraction"
+        ],
+        "additional_information": "The 1H NMR spectrum displayed a similar set of double proton resonances as observed for 2(OTf)8."
+      }
+    },
+    {
+      "name": "4(OTf)8",
+      "synthesis_conditions": {
+        "precursors": [
+          "E4(OTf)2",
+          "ligand L"
+        ],
+        "solvents": [
+          {
+            "name": "same as for 2(OTf)8",
+            "ratio": "not specified"
+          }
+        ],
+        "characterization_methods": [
+          "X-ray diffraction"
+        ],
+        "additional_information": "The molecular structure of cation 48+ is very similar to that of 38+ and adopts the topological A/A configuration."
+      }
+    },
+    {
+      "name": "2 a(OTf)4",
+      "synthesis_conditions": {
+        "transformation_conditions": [
+          {
+            "method": "solvent-induced transformation",
+            "initial_material": "2(OTf)8",
+            "solvent": "DMF",
+            "observation": "transformation into monorectangle 2 a(OTf)4"
+          },
+          {
+            "method": "1H NMR titration",
+            "solvent_ratio": "CD3OD/DMF ratio from 5:0 to 5:6",
+            "observation": "transformation of 2(OTf)8 into monorectangle 2 a(OTf)4"
+          }
+        ],
+        "characterization_methods": [
+          "1H NMR spectroscopy",
+          "X-ray diffraction"
+        ],
+        "additional_information": "The transformation is presumably due to a weakening of the p–p stacking interactions by the DMF molecules."
+      }
+    }
+  ]
+}

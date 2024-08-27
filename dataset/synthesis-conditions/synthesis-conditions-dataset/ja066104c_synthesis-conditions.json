@@ -1,0 +1,39 @@
+{
+  "materials": [
+    {
+      "name": "compound 1",
+      "synthesis_conditions": {
+        "temperature": "193(2) K for X-ray structure determinations; Room temperature for IR and ESR spectra; 30 °C to 950 °C at 5 °C/min under a flow of air (40 mL/min) for TGA",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "40ml for initial solution; used for washing"
+          },
+          {
+            "name": "water",
+            "amount": "20ml for (Me4N)4[Nb6Cl12(CN)6] solution; used for washing"
+          }
+        ],
+        "chemicals_used": [
+          "[Mn(salen)Cl(H2O)]⋅H2O (12mM)",
+          "[Et4N]3[Fe(CN)6] (6mM)",
+          "(Me4N)4[Nb6Cl12(CN)6]⋅2MeOH (4.0mM)"
+        ],
+        "equipment": [
+          "Perkin-Elmer Pyris 1 TGA system",
+          "Mattson Infinity System FTIR spectrometer",
+          "SQUID magnetometer",
+          "Bruker ER-200D spectrometer",
+          "BRUKER P4 X-ray diffractometer",
+          "Autosorb-1 Surface Area and Pore Size Analyzer",
+          "Bruker SMART APEX CCD Single Crystal Diffraction System"
+        ],
+        "time": "Stirred for 10 minutes; Crystals grown over 3 days",
+        "washing_method": "Washed with water and methanol",
+        "drying_method": "Dried under vacuum",
+        "yield": "0.244g, 90.5%",
+        "additional_information": "The precipitate began to form immediately after mixing the solutions. Single crystals suitable for X-ray analysis were grown by layering the methanolic solution of [Mn(salen)]ClO4⋅2H2O and [Et4N]3[Fe(CN)6] over the aqueous solution of (Me4N)4[Nb6Cl12(CN)6]⋅2MeOH."
+      }
+    }
+  ]
+}

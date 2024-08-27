@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for ZIF-8 and its structural type?",
+      "answer": "ZIF-8 has the chemical formula Zn(MeIM)2, where MeIM = 2-methylimidazolate, and it has a sodalite zeolite-type structure.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what pressure does ZIF-8 undergo a phase transition, and what is the new phase called?",
+      "answer": "ZIF-8 undergoes a phase transition at 1.47 GPa, and the new phase is called ZIF-8-II.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of methanol and ethanol mixture in the high-pressure study of ZIF-8?",
+      "answer": "The 4:1 mixture of methanol and ethanol serves as a hydrostatic medium to apply pressure evenly during the high-pressure study of ZIF-8.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the pore volume and solvent content change from ambient pressure to 1.47 GPa in ZIF-8?",
+      "answer": "At ambient pressure, the pore volume is 2465 Å3 with 12 methanol molecules per unit cell. At 1.47 GPa, the total solvent measures 738 eÅ per cell, corresponding to 41 methanol molecules per unit cell, indicating an increase in solvent content.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What experimental technique was used to measure pressure in the high-pressure study of ZIF-8?",
+      "answer": "The ruby fluorescence method was utilized to measure the pressure in the high-pressure study of ZIF-8.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the space group I4_1/a for ZIF-8-II?",
+      "answer": "The space group I4_1/a for ZIF-8-II indicates the crystal structure of the high-pressure phase, showing how the imidazolate ligands twist and reorient to increase the accessible pore volume.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the application of pressure affect the pore volume and solvent content in ZIF-8?",
+      "answer": "Applying pressure initially increases both the nanopore and unit cell volume, allowing more solvent to enter. Upon further pressure increase and phase transition, the size of the narrow channels connecting the pores increases, resulting in an overall increase in porous volume and amount of sequestered solvent.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the increase in cell volume of ZIF-8 at 0.18 GPa counterintuitive?",
+      "answer": "The increase in cell volume of ZIF-8 at 0.18 GPa is counterintuitive because an increase in pressure usually results in a decrease in volume, but in this case, the volume actually increases.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the presence of a barosalient effect in ZIF-8 indicate about its phase transition behavior?",
+      "answer": "The presence of a barosalient effect in ZIF-8, indicated by the crystal jumping in the pressure cell during phase transition, suggests that ZIF-8 undergoes a unique structural rearrangement upon application of pressure, which requires further study to fully understand.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the synthesis method of ZIF-8 contribute to its structural properties?",
+      "answer": "The synthesis method of ZIF-8, involving a solid mixture of zinc(II) nitrate hexahydrate and 2-methylimidazole in DMF, followed by heating and solvent exchange, contributes to its sodalite zeolite-type structure with large accessible pore volume, crucial for its gas storage applications.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of decreasing pressure on ZIF-8 after reaching 1.47 GPa?",
+      "answer": "On decreasing the pressure from 1.47 GPa, the transition in ZIF-8 was found to be reversible, with the crystal reverting back to phase I at 0.82 GPa, indicating the phase transition's reversibility under varying pressures.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the change in electron density within the pore of ZIF-8 from ambient pressure to 0.96 GPa reflect on its structure?",
+      "answer": "The increase in electron density within the pore of ZIF-8 from ambient pressure to 0.96 GPa reflects the squeezing of hydrostatic media into the large nanopore, indicating structural changes that accommodate more solvent molecules within the pore.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the phase transition of ZIF-8 at 1.47 GPa reversible?",
+      "answer": "True. The phase transition of ZIF-8 at 1.47 GPa is reversible, as indicated by the crystal reverting back to phase I at 0.82 GPa.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the application of pressure decrease the total solvent content in ZIF-8?",
+      "answer": "False. The application of pressure initially increases the total solvent content in ZIF-8, as more solvent is forced into the nanopore, especially noticeable at 1.47 GPa.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is ZIF-8 non-porous before the application of high pressure?",
+      "answer": "False. ZIF-8 is a porous material with a large accessible pore volume even before the application of high pressure.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the cell volume of ZIF-8 decrease at all pressure points studied?",
+      "answer": "False. The cell volume of ZIF-8 initially increases at lower pressures (e.g., 0.18 GPa) before decreasing at higher pressures, showing a complex relationship with applied pressure.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is methanol used as a solvent in the synthesis of ZIF-8?",
+      "answer": "False. In the synthesis of ZIF-8, DMF (N,N-Dimethylformamide) is used as the solvent, while methanol is used for solvent exchange post-synthesis.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the high-pressure phase of ZIF-8, ZIF-8-II, have a smaller unit cell volume than ZIF-8 at ambient pressure?",
+      "answer": "False. The high-pressure phase, ZIF-8-II, has a larger unit cell volume than ZIF-8 at ambient pressure, contrary to what might be expected.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the ruby fluorescence method used for solvent exchange in ZIF-8?",
+      "answer": "False. The ruby fluorescence method is used to measure pressure in the high-pressure study of ZIF-8, not for solvent exchange.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesis of ZIF-8 involve heating the reaction mixture to 130°C?",
+      "answer": "True. The synthesis method for ZIF-8 involves dissolving zinc(II) nitrate hexahydrate and 2-methylimidazole in DMF, heating the mixture to 130°C, and then cooling to room temperature.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

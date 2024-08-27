@@ -1,0 +1,44 @@
+{
+  "materials": [
+    {
+      "name": "MOF-150",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "1.00 mL"
+          },
+          {
+            "name": "C2H5OH (Ethanol)",
+            "amount": "0.25 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.25 mL"
+          }
+        ],
+        "equipment": "quartz tube (10 mm external diameter, 15 cm length, 6 mL capacity)",
+        "chemicals_used": [
+          {
+            "name": "H3TCA",
+            "amount": "0.005 g",
+            "molarity": "1.32 x 10^-5 mol"
+          },
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "0.017 g",
+            "molarity": "5.71 x 10^-5 mol"
+          }
+        ],
+        "heating_rate": "0.5 °C min^-1",
+        "cooling_rate": "0.1 °C min^-1",
+        "time": "20 h",
+        "washing_method": "washed with a DMF/ethanol mixture (3–4 mL)",
+        "yield": "55 %",
+        "drying_method": "Not specified",
+        "additional_information": "The reaction was sealed under vacuum."
+      }
+    }
+  ]
+}

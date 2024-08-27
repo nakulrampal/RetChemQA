@@ -1,0 +1,72 @@
+{
+  "SNU-200": {
+    "synthesis_conditions": {
+      "temperature": "80 °C",
+      "solvents": "DMF/H2O",
+      "chemicals_used": [
+        {
+          "name": "Zn(NO3)2·6 H2O",
+          "amount": "not specified"
+        },
+        {
+          "name": "H4TBADB-18Cr6",
+          "amount": "not specified"
+        }
+      ],
+      "time": "24 h",
+      "equipment": "not specified",
+      "yield": "not specified",
+      "washing_method": "soaking in fresh DMF for 24 h",
+      "drying_method": "activation with supercritical CO2 fluid",
+      "additional_information": "The solvent-accessible void volume estimated by PLATON is 39.2% of the whole structure. Thermogravimetric analysis (TGA) data reveal a 41.0% weight loss at 25–300 °C."
+    }
+  },
+  "K+(cid:3)SNU-200·SCN(cid:2)]·G": {
+    "synthesis_conditions": {
+      "temperature": "room temperature",
+      "solvents": "DMF",
+      "chemicals_used": [
+        {
+          "name": "K+SCN(cid:2)",
+          "amount": "0.1m"
+        }
+      ],
+      "time": "3 days",
+      "washing_method": "soaking in fresh DMF for 24 h",
+      "drying_method": "activation with supercritical CO2 fluid",
+      "additional_information": "K+ ion is located 0.0764(0.0061) (cid:2) above the mean plane of 18Cr6 and it is coordinated with two water molecules at the axial sites."
+    }
+  },
+  "[NH4+(cid:3)SNU-200]·Cl(cid:2)·G": {
+    "synthesis_conditions": {
+      "temperature": "room temperature",
+      "solvents": "DMF",
+      "chemicals_used": [
+        {
+          "name": "NH4+Cl(cid:2)",
+          "amount": "0.01m"
+        }
+      ],
+      "time": "3 days",
+      "washing_method": "soaking in fresh DMF for 24 h",
+      "drying_method": "activation with supercritical CO2 fluid",
+      "additional_information": "NH4+ ion is positioned 1.577 (0.035) (cid:2) above the mean plane of 18Cr6. The NH4+ ion forms hydrogen bonds with the oxygen atoms of the crown ether."
+    }
+  },
+  "[MV2+(cid:3)SNU-200]·2 Cl(cid:2)·G": {
+    "synthesis_conditions": {
+      "temperature": "room temperature",
+      "solvents": "DMF",
+      "chemicals_used": [
+        {
+          "name": "methyl viologen dichloride (MV2+ 2 Cl(cid:2))",
+          "amount": "0.01m"
+        }
+      ],
+      "time": "3 days",
+      "washing_method": "soaking in fresh DMF for 24 h",
+      "drying_method": "activation with supercritical CO2 fluid",
+      "additional_information": "MV2+ resides beside the 18-crown-6 moiety of SNU-200. A maximum of 4 methyl viologen molecules could be accommodated per unit cell."
+    }
+  }
+}

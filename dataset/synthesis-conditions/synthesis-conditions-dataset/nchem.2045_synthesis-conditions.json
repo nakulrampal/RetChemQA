@@ -1,0 +1,117 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "4 mL"
+          },
+          {
+            "name": "water",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "screw cap vial",
+        "chemicals_used": [
+          {
+            "name": "MnCl2·4H2O",
+            "amount": "24.7 mg",
+            "molarity": "0.12 mmol"
+          },
+          {
+            "name": "L",
+            "amount": "31.6 mg",
+            "molarity": "0.07 mmol"
+          }
+        ],
+        "time": "2 days",
+        "washing_method": [
+          "DMF (×3)",
+          "methanol (×5)"
+        ],
+        "drying_method": "heated under vacuum at 100°C for 1 h",
+        "yield": "24.0 mg, 66%"
+      }
+    },
+    {
+      "name": "1·[Co(H2O)4]Cl2",
+      "synthesis_conditions": {
+        "solvent_exchange": "methanol",
+        "solvent_replenish_times": "7",
+        "soak_time": "10 minutes",
+        "chemicals_used": [
+          {
+            "name": "CoCl2·6H2O",
+            "amount": "30.0 mg"
+          }
+        ],
+        "equipment": "vial",
+        "oven_temperature": "65°C",
+        "reaction_time": "16 h",
+        "cooling": "room temperature",
+        "washing_method": "fresh methanol (×7)",
+        "drying_method": "flow of N2 for 1 h",
+        "activation": "heated at 100 °C under vacuum for 1 h"
+      }
+    },
+    {
+      "name": "1·[CoCl2]",
+      "synthesis_conditions": {
+        "activation": "heated at 100 °C under vacuum for 1 h"
+      }
+    },
+    {
+      "name": "1·[Rh(CO)2][Rh(CO)2Cl2]",
+      "synthesis_conditions": {
+        "solvent_exchange": "distilled and freshly degassed acetonitrile",
+        "solvent_replenish_times": "7",
+        "soak_time": "10 minutes",
+        "chemicals_used": [
+          {
+            "name": "[Rh(CO)2Cl]2",
+            "amount": "30.0 mg"
+          }
+        ],
+        "reaction_time": "48 h",
+        "washing_method": "distilled and freshly degassed acetonitrile (×7)",
+        "drying_method": "flow of N2 for 1 h",
+        "activation": "heated at 110 °C under vacuum for 2 h"
+      }
+    },
+    {
+      "name": "1·[Rh(H2O)4]Cl3",
+      "synthesis_conditions": {
+        "method_A": {
+          "exposure_solution": "1:1 solution of methanol/water",
+          "exposure_time": "3 months",
+          "washing_method": "fresh methanol (×5)"
+        },
+        "method_B": {
+          "solvent_exchange": "methanol",
+          "solvent_replenish_times": "7",
+          "soak_time": "10 minutes",
+          "chemicals_used": [
+            {
+              "name": "[Rh(CO)2Cl]2",
+              "amount": "30.0 mg"
+            }
+          ],
+          "reaction_time": "48 h",
+          "washing_method": "methanol (×7)",
+          "drying_method": "heated at 110 °C under vacuum for 2 h"
+        }
+      }
+    },
+    {
+      "name": "1·[Rh(CO)(CH3CN)(COMe)I]I",
+      "synthesis_conditions": {
+        "introduction_method": "methyl iodide introduced to a dry acetonitrile solution containing crystals of 1·[Rh(CO)2][Rh(CO)2Cl2] by vapour diffusion",
+        "reaction_time": "48 h",
+        "washing_method": "distilled and freshly degassed acetonitrile (×7)"
+      }
+    }
+  ]
+}

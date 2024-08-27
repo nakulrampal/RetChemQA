@@ -1,0 +1,117 @@
+{
+  "materials": [
+    {
+      "name": "PCN-200",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "150 8C",
+          "solvents": [
+            {
+              "name": "H2O",
+              "amount": "15 mL"
+            }
+          ],
+          "equipment": "stirring",
+          "chemicals_used": [
+            {
+              "name": "Cu(OAc)2",
+              "amount": "363.2 mg, 2.0 mmol"
+            },
+            {
+              "name": "sodium ethyl ester tetrazolate-5-carboxylate (NaEttzc)",
+              "amount": "328.2 mg, 2.0 mmol"
+            },
+            {
+              "name": "dpp",
+              "amount": "198.2 mg, 1.0 mmol"
+            }
+          ],
+          "time": "1 day",
+          "washing_method": "filtered, washed with H2O, EtOH, and Et2O",
+          "drying_method": "dried in air",
+          "yield": "574 mg (95 %)"
+        },
+        {
+          "step": "Activation",
+          "methods": [
+            {
+              "method": "heating",
+              "temperature": "80 8C"
+            },
+            {
+              "method": "applying vacuum",
+              "details": "10 mbar, 5 min"
+            }
+          ],
+          "resulting_phase": "[Cu(tzc)(dpp)0.5]n (PCN-200-ac)"
+        }
+      ]
+    },
+    {
+      "name": "PCN-200-syn",
+      "crystal_data": {
+        "formula": "C8.5H10CuN5O3.5",
+        "molecular_weight": "301.76",
+        "space_group": "C2/c",
+        "unit_cell_parameters": {
+          "a": "28.561(5) (cid:2)",
+          "b": "9.3899(7) (cid:2)",
+          "c": "9.2741(8) (cid:2)",
+          "angle_b": "92.657(10)8"
+        },
+        "volume": "2488.9(3) (cid:2)3",
+        "Z": "8"
+      }
+    },
+    {
+      "name": "PCN-200-ac",
+      "crystal_data": {
+        "temperature": "296 K",
+        "formula": "C8.5H7CuN5O2",
+        "molecular_weight": "274.7",
+        "space_group": "C2/c",
+        "unit_cell_parameters": {
+          "a": "28.697(2) (cid:2)",
+          "b": "9.2637(5) (cid:2)",
+          "c": "9.3223(5) (cid:2)",
+          "angle_b": "116.087(4)8"
+        },
+        "volume": "2225.8(2) (cid:2)3",
+        "Z": "8"
+      },
+      "stability": "stable up to 218 8C",
+      "chemical_stability_tests": [
+        {
+          "test": "stirring in HCl",
+          "pH": "2"
+        },
+        {
+          "test": "stirring in NaOH",
+          "pH": "12"
+        },
+        {
+          "test": "boiling in water",
+          "duration": "7 days"
+        }
+      ]
+    },
+    {
+      "name": "PCN-200-CO2",
+      "crystal_data": {
+        "temperature": "296 K",
+        "formula": "C8.875H7CuN5O2.75",
+        "molecular_weight": "291.2",
+        "space_group": "C2/c",
+        "unit_cell_parameters": {
+          "a": "28.548(6) (cid:2)",
+          "b": "9.4032(19) (cid:2)",
+          "c": "9.2553(15) (cid:2)",
+          "angle_b": "116.753(10)8"
+        },
+        "volume": "2207.9(7) (cid:2)3",
+        "Z": "8"
+      }
+    }
+  ]
+}

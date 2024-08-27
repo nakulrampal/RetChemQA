@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are the chemical formulas for ZIF-300, ZIF-301, and ZIF-302?",
+      "answer": "ZIF-300: Zn(2-mIm)0.86(bbIm)1.14·(DMF)0.09, ZIF-301: Zn(2-mIm)0.94(cbIm)1.06·(DMF)0.03, ZIF-302: Zn(2-mIm)0.67(mbIm)1.33·(H2O)0.5",
+      "difficulty": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "What role does water play in the synthesis of CHA topology ZIFs?",
+      "answer": "Water is used as a co-solvent and is believed to play an important role in the formation of CHA topology ZIF compounds.",
+      "difficulty": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "How were the ZIFs tested for their CO2 capture abilities under humid conditions?",
+      "answer": "The ZIF structures were exposed to a wet N2 gas stream (80% relative humidity) until water saturation was detected, then breakthrough experiments were implemented by adding dry CO2 to the binary gas mixture.",
+      "difficulty": "Hard",
+      "type": "Factual"
+    },
+    {
+      "question": "What is the significance of the CO2/N2 selectivity values reported for ZIF-300, ZIF-301, and ZIF-302?",
+      "answer": "The CO2/N2 selectivity values indicate the ZIFs' higher affinity for CO2 over N2, which is crucial for effective CO2 separation from N2 in applications like post-combustion CO2 capture from flue gas.",
+      "difficulty": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "What experimental technique was used to confirm the crystallinity of the activated ZIFs?",
+      "answer": "PXRD (Powder X-ray Diffraction) analysis was used to confirm the crystallinity of the activated ZIFs.",
+      "difficulty": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "How does the synthesis of ZIF-300 differ from traditional mixed-link ZIF syntheses?",
+      "answer": "In the synthesis of ZIF-300, water was used as a co-solvent, which is believed to play a crucial role in the formation of the CHA topology, a step that differs from traditional mixed-link ZIF syntheses where water might not be used.",
+      "difficulty": "Hard",
+      "type": "Factual"
+    },
+    {
+      "question": "Based on the synthesis conditions, which ZIF would you expect to have the highest thermal stability?",
+      "answer": "Given the synthesis conditions and the reported thermal gravimetric analysis, all ZIFs demonstrated high thermal stability up to 450°C, so it's not explicitly stated which one has the highest.",
+      "difficulty": "Hard",
+      "type": "Reasoning"
+    },
+    {
+      "question": "Why is the presence of water during the synthesis of CHA topology ZIFs crucial?",
+      "answer": "The presence of water is crucial because the CHA topology could not be obtained after exhaustive efforts to form these frameworks in the absence of water, indicating its essential role in the synthesis process.",
+      "difficulty": "Medium",
+      "type": "Reasoning"
+    },
+    {
+      "question": "What is the relationship between CO2/N2 selectivity and dynamic CO2 separation capacity in ZIFs?",
+      "answer": "The capacity of dynamic CO2 separation in ZIFs increases with an increase in the calculated CO2/N2 selectivity, indicating a direct relationship between selectivity and separation capacity.",
+      "difficulty": "Medium",
+      "type": "Reasoning"
+    },
+    {
+      "question": "How does the use of hydrophobic functionalities in ZIFs affect their water stability?",
+      "answer": "The incorporation of hydrophobic functionalities within the ZIFs contributes to their exceptional water stability, as demonstrated by their stability in boiling water for 7 days.",
+      "difficulty": "Medium",
+      "type": "Reasoning"
+    },
+    {
+      "question": "What role does the ratio of imidazolate links play in the synthesis of ZIF-302?",
+      "answer": "In the synthesis of ZIF-302, a higher ratio of mbIm was used to optimize conditions for single-crystal growth, affecting the occupancy of nonspecific edges in the CHA framework.",
+      "difficulty": "Hard",
+      "type": "Reasoning"
+    },
+    {
+      "question": "How does the regeneration process of CHA-type ZIFs contribute to their practical application in CO2 capture?",
+      "answer": "The CHA-type ZIFs can be regenerated under mild conditions with low energy consumption and time efficiency, retaining their CO2 separation performance over successive regenerations, making them practical for industrial CO2 capture applications.",
+      "difficulty": "Hard",
+      "type": "Reasoning"
+    },
+    {
+      "question": "True or False: ZIF-300, ZIF-301, and ZIF-302 have identical chemical formulas.",
+      "answer": "False",
+      "difficulty": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis of ZIF-300 does not require water as a co-solvent.",
+      "answer": "False",
+      "difficulty": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: All three ZIFs exhibit the same level of performance in CO2 capture under both dry and humid conditions.",
+      "answer": "True",
+      "difficulty": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The CO2/N2 selectivity is irrelevant to the ZIFs' CO2 separation capabilities.",
+      "answer": "False",
+      "difficulty": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The activated ZIFs lose their crystallinity after solvent-exchange and activation procedures.",
+      "answer": "False",
+      "difficulty": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The presence of water during the synthesis process is optional for forming CHA topology ZIFs.",
+      "answer": "False",
+      "difficulty": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The dynamic CO2 separation capacity of ZIFs decreases with an increase in CO2/N2 selectivity.",
+      "answer": "False",
+      "difficulty": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: Hydrophobic functionalities in ZIFs make them less stable in water.",
+      "answer": "False",
+      "difficulty": "Easy",
+      "type": "True or False"
+    }
+  ]
+}

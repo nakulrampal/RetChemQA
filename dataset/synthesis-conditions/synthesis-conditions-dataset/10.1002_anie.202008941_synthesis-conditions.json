@@ -1,0 +1,59 @@
+{
+  "materials": [
+    {
+      "name": "Me2NH2@1",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Me2NH2",
+          "InIII",
+          "TTFTB",
+          "C2H5OH",
+          "DMF"
+        ],
+        "solvents": [
+          "C2H5OH",
+          "DMF"
+        ],
+        "amount_of_solvents": {
+          "C2H5OH": "0.7"
+        }
+      }
+    },
+    {
+      "name": "TTF@1",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "TTFC+",
+          "InIII",
+          "TTFTB",
+          "DMF"
+        ],
+        "solvents": [
+          "DMF"
+        ],
+        "amount_of_solvents": {
+          "DMF": "5"
+        },
+        "yield": "significant changes of their physical properties, such as electrical- and photo-conductivity and optical properties"
+      }
+    },
+    {
+      "name": "MV@1",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "MV2+",
+          "InIII",
+          "TTFTB",
+          "DMF"
+        ],
+        "solvents": [
+          "DMF"
+        ],
+        "amount_of_solvents": {
+          "DMF": "2"
+        },
+        "yield": "significant changes of their physical properties, such as electrical- and photo-conductivity and optical properties"
+      }
+    }
+  ]
+}

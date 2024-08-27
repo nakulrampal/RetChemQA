@@ -1,0 +1,65 @@
+{
+  "materials": [
+    {
+      "material_id": "1",
+      "synthesis_methods": [
+        {
+          "method_id": "A",
+          "solvents": "ethanol-acetonitrile solution",
+          "solvent_ratio": "2:1",
+          "chemicals_used": [
+            "sodium acetate (0.1 mmol)",
+            "[MnIII3O(Meppz)3(EtOH)5Cl] (2, 0.1 mmol)"
+          ],
+          "yield": "> 90%",
+          "time": "one week",
+          "crystal_description": "dark blue block crystals"
+        },
+        {
+          "method_id": "B",
+          "solvents": [
+            "ethanol (15 mL)",
+            "acetone (5 mL)"
+          ],
+          "chemicals_used": [
+            "H2Meppz (0.1 mmol)",
+            "Mn(OAc)2·4H2O (0.1 mmol)",
+            "NaOEt (0.2 mmol)"
+          ],
+          "yield": "~ 50%",
+          "time": "15 min stirring, then 5 min stirring after acetone addition, slow evaporation",
+          "crystal_description": "crystals"
+        },
+        {
+          "method_id": "C",
+          "solvents": "ethanol (16 mL total in two parts of 8 mL each)",
+          "chemicals_used": [
+            "H2Meppz (0.1 mmol)",
+            "NaOEt (0.2 mmol)",
+            "Mn(OAc)2·4H2O (0.1 mmol)"
+          ],
+          "yield": "~ 50%",
+          "time": "one month",
+          "crystal_description": "Large dark blue block crystals",
+          "equipment": "H-tube"
+        }
+      ]
+    },
+    {
+      "material_id": "2",
+      "synthesis_methods": [
+        {
+          "solvents": "ethanol (15 mL)",
+          "chemicals_used": [
+            "H2Meppz (0.1 mmol)",
+            "MnCl2·4H2O (0.1 mmol)",
+            "NaOEt (0.2 mmol)"
+          ],
+          "yield": "~ 70%",
+          "time": "15 min stirring, slow evaporation of solvent",
+          "crystal_description": "dark blue crystals"
+        }
+      ]
+    }
+  ]
+}

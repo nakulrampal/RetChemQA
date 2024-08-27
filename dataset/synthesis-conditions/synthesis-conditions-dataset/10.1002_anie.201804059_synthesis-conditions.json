@@ -1,0 +1,52 @@
+{
+  "materials": [
+    {
+      "name": "Ag12bpy",
+      "synthesis_conditions": {
+        "solvents": "DMAc/toluene",
+        "solvent_ratio": "3:1",
+        "temperature": "room temperature",
+        "time": "sufficient duration",
+        "transformation_process": "dissolution and recrystallization",
+        "reverse_transformation_solvents": "CH3CN/EtOH",
+        "reverse_transformation_solvent_ratio": "1:1",
+        "reverse_transformation_time": "6 h",
+        "reverse_transformation_process": "solvent-promoted replacement/dissection–dissolution–recrystallization"
+      }
+    },
+    {
+      "name": "Ag12bpy-2",
+      "synthesis_conditions": {
+        "solvents": "DMAc/toluene",
+        "solvent_ratio": "3:1",
+        "temperature": "room temperature",
+        "time": "sufficient duration",
+        "transformation_process": "dissolution and recrystallization",
+        "reverse_transformation_solvents": "CH3CN/EtOH",
+        "reverse_transformation_solvent_ratio": "1:1",
+        "reverse_transformation_time": "6 h",
+        "reverse_transformation_process": "solvent-promoted replacement/dissection–dissolution–recrystallization"
+      }
+    },
+    {
+      "name": "Ag12bpy-2/NH2",
+      "synthesis_conditions": {
+        "method": "de novo synthesis",
+        "linkers": "bpy and bpy-NH2",
+        "stoichiometric_ratio": "various (e.g., 1:8, 1:4, 1:1, 20:1)",
+        "structural_confirmation": "consistent unit-cell parameters and PXRD patterns",
+        "content_determination": "1H NMR spectra and elemental analysis"
+      }
+    },
+    {
+      "name": "Ag12bpy-2@Ag12bpy-NH2-2",
+      "synthesis_conditions": {
+        "method": "solvent-assisted linker exchange (SALE)",
+        "time_dependent": "yes",
+        "concentration_dependent": "yes",
+        "monitoring_methods": "1H NMR spectra, luminescence spectra, and fluorescent confocal images",
+        "structural_confirmation": "stepwise replacement of bpy linker with bpy-NH2"
+      }
+    }
+  ]
+}

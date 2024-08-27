@@ -1,0 +1,94 @@
+{
+  "materials": [
+    {
+      "name": "LIFM-28lp",
+      "synthesis_conditions": {
+        "temperature": "85 ºC",
+        "solvents": "DMF",
+        "solvent_amounts": "40 mL",
+        "chemicals_used": "LIFM-28lp (100 mg), BPYDC (12 mg)",
+        "time": "24 h",
+        "yield": "85%",
+        "washing_method": "Rinse with CH3CN once a day for two days"
+      }
+    },
+    {
+      "name": "LIFM-28-BPYDC",
+      "synthesis_conditions": {
+        "temperature": "85 ºC",
+        "solvents": "DMF",
+        "solvent_amounts": "40 mL",
+        "chemicals_used": "LIFM-28lp (100 mg), BPYDC (12 mg)",
+        "time": "24 h",
+        "yield": "85%",
+        "washing_method": "Rinse with CH3CN once a day for two days"
+      }
+    },
+    {
+      "name": "LIFM-28-BPYDC(Cu)",
+      "synthesis_conditions": {
+        "temperature": "75 ºC",
+        "solvents": "Acetonitrile",
+        "solvent_amounts": "40 mL",
+        "chemicals_used": "LIFM-28-BPYDC (95 mg), CuI (11 mg)",
+        "time": "24 h",
+        "yield": "85%",
+        "washing_method": "Wash with fresh CH3CN twice a day for two days"
+      }
+    },
+    {
+      "name": "LIFM-28-NH2-BDC",
+      "synthesis_conditions": {
+        "temperature": "85 ºC",
+        "solvents": "DMF",
+        "solvent_amounts": "40 mL",
+        "chemicals_used": "LIFM-28lp (100 mg), NH2-BDC (17 mg)",
+        "time": "24 h",
+        "yield": "86%",
+        "washing_method": "Add fresh DMF twice a day for three days"
+      }
+    },
+    {
+      "name": "LIFM-80",
+      "synthesis_conditions": {
+        "notes": "Synthesized according to previously reported procedure."
+      }
+    },
+    {
+      "name": "LIFM-80(Cu)",
+      "synthesis_conditions": {
+        "temperature": "75 ºC",
+        "solvents": "Acetonitrile",
+        "solvent_amounts": "40 mL",
+        "chemicals_used": "LIFM-80 (100 mg), CuI (50 mg)",
+        "time": "24 h",
+        "yield": "84%",
+        "washing_method": "Wash with acetonitrile four times"
+      }
+    },
+    {
+      "name": "LIFM-80-ArSO3H",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": "Chloroform",
+        "solvent_amounts": "10 mL",
+        "chemicals_used": "LIFM-80 (100 mg), 2-sulfobenzoic anhydride (7 mg)",
+        "time": "10 h",
+        "yield": "94%",
+        "washing_method": "Wash with chloroform twice a day for three days, then DMF twice a day for three days"
+      }
+    },
+    {
+      "name": "LIFM-80(Cu)-ArSO3H",
+      "synthesis_conditions": {
+        "temperature": "75 ºC",
+        "solvents": "Acetonitrile",
+        "solvent_amounts": "40 mL",
+        "chemicals_used": "LIFM-80-ArSO3H (100 mg), CuI (50 mg)",
+        "time": "24 h",
+        "yield": "84%",
+        "washing_method": "Wash with acetonitrile four times"
+      }
+    }
+  ]
+}

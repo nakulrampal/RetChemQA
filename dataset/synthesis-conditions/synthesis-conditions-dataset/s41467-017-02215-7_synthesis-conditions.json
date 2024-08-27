@@ -1,0 +1,39 @@
+{
+  "materials": [
+    {
+      "name": "MOF-CoNDI-py-2",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": "N,N-dimethylformamide (DMF)",
+        "amount_of_solvent": "50 mL",
+        "equipment": "polytetrafluoroethylene vial within a stainless steel casing",
+        "chemicals_used": {
+          "NDI-py": "0.24 mmol",
+          "TpA": "0.48 mmol",
+          "Co(NO3)2⋅6H2O": "0.48 mmol"
+        },
+        "time": "48 h",
+        "yield": "50% based on NDI-py ligand",
+        "washing_method": "Crystals were collected by filtration and washed thoroughly with N,N-dimethylformamide",
+        "drying_method": "Not specified",
+        "additional_information": "Crystals were treated in an oven at 100 ºC for 3 h before analysis (Supplementary Figure 16)"
+      }
+    },
+    {
+      "name": "NDI-py",
+      "synthesis_conditions": {
+        "temperature": "Molten imidazole heated in an oil bath for 30 min",
+        "solvents": "H2O:EtOH:HNO3 (10:10:1 v/v)",
+        "chemicals_used": {
+          "1,4,5,8-naphthalic dianhydride": "503.7 mg (1.88 mmol)",
+          "4-aminopyridine": "543.4 mg (5.77 mmol)",
+          "imidazole": "Approximately 2 g (molten)"
+        },
+        "yield": "47% after recrystallization in DMF",
+        "washing_method": "Filtered, washed with H2O:EtOH:HNO3 mixture, then sequentially with H2O, EtOH, and Et2O",
+        "drying_method": "Not specified",
+        "additional_information": "The resulting product was a beige solid"
+      }
+    }
+  ]
+}

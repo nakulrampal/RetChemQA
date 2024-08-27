@@ -1,0 +1,60 @@
+{
+  "materials": [
+    {
+      "name": "SCU-16",
+      "synthesis_conditions": {
+        "temperature": "Solvothermal reaction conditions not explicitly stated",
+        "solvents": [
+          {
+            "name": "DMF (N,N-dimethylformamide)",
+            "amount": "Not specified"
+          },
+          {
+            "name": "deionized water",
+            "amount": "Not specified"
+          }
+        ],
+        "equipment": "Not specified",
+        "chemicals_used": [
+          {
+            "name": "H2L (4,4’-(3,5-pyridinediyl)bis-benzoate)",
+            "amount": "Not specified"
+          },
+          {
+            "name": "thorium nitrate",
+            "amount": "Not specified"
+          }
+        ],
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "Colorless block-shaped crystals obtained. SCU-16 crystallizes in the cubic space group Im-3 with a unit cell volume of approximately 86,000 Å3."
+      }
+    },
+    {
+      "name": "SCU-16-U",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": [
+          {
+            "name": "DMF (N,N-dimethylformamide) solution containing uranyl",
+            "amount": "Not specified"
+          }
+        ],
+        "equipment": "Not specified",
+        "chemicals_used": [
+          {
+            "name": "uranyl dication",
+            "amount": "Not specified"
+          }
+        ],
+        "time": "2 days",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "Uranyl-anchored Th-MOF (SCU-16-U) with definite crystal structure was obtained. The structure of SCU-16-U contains uranyl ion located in the pocket of 4-ring unit. The formates surrounded in the pocket of SCU-16 were oxidized to carbonates in SCU-16-U."
+      }
+    }
+  ]
+}

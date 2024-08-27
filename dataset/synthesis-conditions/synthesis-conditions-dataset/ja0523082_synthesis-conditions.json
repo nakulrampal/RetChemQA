@@ -1,0 +1,70 @@
+{
+  "materials": [
+    {
+      "material": "Mg3(NDC)3(DEF)4 (1)",
+      "synthesis_conditions": {
+        "temperature": "105 °C",
+        "solvents": [
+          {
+            "name": "N,N-diethylformamide (DEF)",
+            "amount": "15 mL"
+          }
+        ],
+        "equipment": "Teflon-capped scintillation vial",
+        "chemicals_used": [
+          {
+            "name": "Mg(NO3)2·6H2O",
+            "amount": "66 mg, 0.26 mmol"
+          },
+          {
+            "name": "2,6-naphthalenedicarboxylic acid (H2NDC)",
+            "amount": "40 mg, 0.19 mmol"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": "rinsed with successive 20-mL aliquots of DMF and Et2O",
+        "drying_method": "dried in air",
+        "yield": "50 mg (72%)",
+        "additional_information": "IR: νC=O 1648 (s), 1615 (s), 1538 (s), 1428 (m), 1399 (vs), 1359 (s) cm-1."
+      }
+    },
+    {
+      "material": "Zn3(NDC)3(CH3OH)2·2DMF·H2O (2)",
+      "synthesis_conditions": {
+        "temperature": "60 °C",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "3 mL"
+          },
+          {
+            "name": "DMF",
+            "amount": "7 mL"
+          }
+        ],
+        "equipment": "Teflon-capped scintillation vial",
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "30 mg, 0.1 mmol"
+          },
+          {
+            "name": "2,6-naphthalenedicarboxylic acid",
+            "amount": "21 mg, 0.1 mmol"
+          }
+        ],
+        "time": "16 h",
+        "additional_information": "Co-crystallization of a second phase prevented the isolation of 2 as a pure product; hence, bulk characterization of 2 was not pursued."
+      }
+    },
+    {
+      "material": "Gas Sorption Measurements",
+      "synthesis_conditions": {
+        "temperature": "190 °C for degassing",
+        "equipment": "Micromeritics ASAP 2020 analyzer",
+        "time": "48-60 h for degassing",
+        "additional_information": "Adsorption isotherms were measured at 77 K in a liquid nitrogen bath for H2, N2, O2, and CO, and at 87 K in a liquid argon bath for H2. To prevent condensation of CO or O2 at 77 K, the ranges of pressure measured in both isotherms were below 448 torr and 156 torr, the respective condensation pressures of CO and O2 at 77 K."
+      }
+    }
+  ]
+}

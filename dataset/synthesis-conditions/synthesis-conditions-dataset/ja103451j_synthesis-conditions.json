@@ -1,0 +1,59 @@
+{
+  "materials": [
+    {
+      "name": "Compound 1",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "dichloromethane",
+            "amount": "20 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[VO(acac)2]",
+            "amount": "0.27 g, 1.0 mmol"
+          },
+          {
+            "name": "H3L",
+            "amount": "0.17 g"
+          }
+        ],
+        "equipment": "stirred",
+        "time": "refluxed for 1h",
+        "washing_method": "washed with acetonitrile (3 x 10 mL)",
+        "drying_method": "dried in vacuo over P4O10",
+        "yield": "0.13 g (56 %)"
+      }
+    },
+    {
+      "name": "Compound 2",
+      "synthesis_conditions": {
+        "initial_conditions": "Red crystals of 1",
+        "exposure_conditions": "allowed to stand in the open air at room temperature for about 30-35 days",
+        "washing_method": "washed several times with acetonitrile",
+        "drying_method": "dried in vacuo over P4O10",
+        "yield": "100 %"
+      }
+    }
+  ],
+  "experimental_techniques": {
+    "FT-IR_spectroscopy": {
+      "Compound_1": {
+        "bands": "3423br, 2835w, 1458vs, 1242m, 1201s, 1153s, 1047vs, 978vs, 856m, 686s, 640s, 594s, 555w, 460w"
+      },
+      "Compound_2": {
+        "bands": "3367s, 2839w, 1625vs, 1560s, 1466s, 1424m, 1291m, 1223s, 1161m, 1053m, 960vs, 862m, 821s, 600s, 551s"
+      }
+    },
+    "EPR_spectroscopy": {
+      "details": "recorded on a JEOL Model JES-FA 300 X-band Spectrometer, equipped with a standard low temperature apparatus (at 77 K) and data processing system ESPRIT 330"
+    },
+    "X-ray_Crystallography": {
+      "details": "Intensity data measurements were carried out at 293(2) K with a graphite monochromatized Mo Kα (λ = 0.71073 Å) radiation in the ω/2θ scan mode. Crystals of 1 have been mounted on glass fibers without protection soon after their isolation. A Bruker SMART APEX II CCD diffractometer was employed for the day-to-day crystallographic data collection."
+    },
+    "Photochemical_Study": {
+      "details": "Control experiments have been carried to see whether UV light can bring about the photo-induced transformation of 1 in to 2. For this, two separate lots of freshly prepared pulverized sample of 1 were taken. The first lot was irradiated with UV light (λ, 350 nm) and the other with visible light for equal lengths of time. After an exposure for 5 hr, samples of equal amount were taken from the two lots, mixed with identical amount of KBr to prepare discs of equal concentration and checked by IR spectroscopy to monitor the growth of the carbonyl band at 1625 cm-1. The experiment was repeated by increasing the exposure time to 10 hr. In both the cases, the growth of the IR band for the UV – irradiated sample was only 25% of the band observed with the visible-light irradiated sample. It thus appeared that UV-light could also bring about this change but with a lesser efficiency than with visible light."
+    }
+  }
+}

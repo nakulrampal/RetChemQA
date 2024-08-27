@@ -1,0 +1,94 @@
+{
+  "materials": [
+    {
+      "name": "ZIF-4",
+      "synthesis_conditions": {
+        "method": "Liquid-assisted grinding (LAG)",
+        "precursors": ["ZnO", "HIm"],
+        "solvent": "N,N-dimethylformamide (DMF)",
+        "temperature": "Room temperature",
+        "time": "60 min",
+        "equipment": "Retsch MM200 mill at 30 Hz",
+        "yield": "Quantitative"
+      }
+    },
+    {
+      "name": "ZIF-8",
+      "synthesis_conditions": {
+        "method": "Liquid-assisted grinding (LAG)",
+        "precursors": ["ZnO", "HMeIm"],
+        "solvent": "N,N-dimethylformamide (DMF)",
+        "temperature": "Room temperature",
+        "time": "30 min",
+        "equipment": "Retsch MM200 mill at 30 Hz",
+        "yield": "Quantitative"
+      }
+    },
+    {
+      "name": "ZIFs with qtz and zni topologies",
+      "synthesis_conditions": {
+        "method": "Ion- and liquid-assisted grinding (ILAG)",
+        "precursors": ["ZnO", "HEtIm"],
+        "solvents": ["DMF", "N,N-diethylformamide (DEF)", "Ethanol (EtOH)"],
+        "salt_additives": ["NH4NO3", "(NH4)2SO4", "NH4CH3SO3"],
+        "temperature": "Room temperature",
+        "time": "30-60 min",
+        "equipment": "Retsch MM200 mill at 30 Hz",
+        "yield": "Quantitative"
+      }
+    },
+    {
+      "name": "ZIF with nog topology",
+      "synthesis_conditions": {
+        "method": "Ion- and liquid-assisted grinding (ILAG)",
+        "precursors": ["ZnO", "HIm"],
+        "solvent": "N,N-diethylformamide (DEF)",
+        "salt_additives": ["NH4NO3", "(NH4)2SO4", "NH4CH3SO3"],
+        "temperature": "Room temperature",
+        "time": "30 min",
+        "aging": "24 h",
+        "equipment": "Retsch MM200 mill at 30 Hz",
+        "yield": "Quantitative"
+      }
+    },
+    {
+      "name": "ZIF with RHO topology",
+      "synthesis_conditions": {
+        "method": "Ion- and liquid-assisted grinding (ILAG)",
+        "precursors": ["ZnO", "HEtIm"],
+        "solvent": "Not specified",
+        "salt_additives": ["(NH4)2SO4"],
+        "temperature": "Room temperature",
+        "time": "60 min",
+        "equipment": "Retsch MM200 mill at 30 Hz",
+        "yield": "Quantitative"
+      }
+    },
+    {
+      "name": "ZIF with ANA topology",
+      "synthesis_conditions": {
+        "method": "Ion- and liquid-assisted grinding (ILAG)",
+        "precursors": ["ZnO", "HEtIm"],
+        "solvent": "DMF or DEF",
+        "salt_additives": ["NH4CH3SO3"],
+        "temperature": "Room temperature",
+        "time": "60 min",
+        "equipment": "Retsch MM200 mill at 30 Hz",
+        "yield": "Quantitative"
+      }
+    },
+    {
+      "name": "ZIF with qtz topology",
+      "synthesis_conditions": {
+        "method": "Ion- and liquid-assisted grinding (ILAG)",
+        "precursors": ["ZnO", "HEtIm"],
+        "solvent": "Ethanol (EtOH)",
+        "salt_additives": ["NH4CH3SO3"],
+        "temperature": "Room temperature",
+        "time": "60 min",
+        "equipment": "Retsch MM200 mill at 30 Hz",
+        "yield": "Quantitative"
+      }
+    }
+  ]
+}

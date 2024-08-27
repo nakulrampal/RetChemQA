@@ -1,0 +1,52 @@
+{
+  "materials": [
+    {
+      "name": "non-interpenetrated square-grid metal–organic framework (MOF)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": "1:2 DMAc/MeCN mixture",
+        "amount_of_each_solvent": "40 mL",
+        "equipment": null,
+        "chemicals_used": [
+          {
+            "name": "Zn(ClO4)2.6H2O",
+            "amount": "48 mg, 0.13 mmol"
+          },
+          {
+            "name": "DPNDI",
+            "amount": "110 mg, 0.26 mmol"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": "washed three times with Et2O",
+        "drying_method": "evacuated under reduced pressure",
+        "yield": "37 mg, 11%",
+        "additional_notes": "MeCN was evaporated under reduced pressure at 25 °C before crystallization. Crystallization was achieved upon slow Et2O vapor diffusion into DMAc solutions."
+      }
+    },
+    {
+      "name": "1D linear coordination polymer",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": "2:1 DMAc/MeCN mixture",
+        "amount_of_each_solvent": "40 mL",
+        "equipment": null,
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2.6H2O",
+            "amount": "39 mg, 0.13 mmol"
+          },
+          {
+            "name": "DPNDI",
+            "amount": "110 mg, 0.26 mmol"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": null,
+        "drying_method": "evacuated under reduced pressure",
+        "yield": "50 mg, 25%",
+        "additional_notes": "MeCN was evaporated under reduced pressure at 25 °C before crystallization. Crystallization was achieved upon slow Et2O vapor diffusion into the DMAc solutions."
+      }
+    }
+  ]
+}

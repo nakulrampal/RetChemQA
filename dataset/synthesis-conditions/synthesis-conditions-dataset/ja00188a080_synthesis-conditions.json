@@ -1,0 +1,106 @@
+{
+  "materials": [
+    {
+      "name": "[Ni(R,R-chxn)2Br]Br2 at 25°C",
+      "temperature": "25°C",
+      "chemicals_used": [
+        "Ni",
+        "R,R-chxn",
+        "Br"
+      ],
+      "atomic_parameters": {
+        "Ni": {
+          "fractional_coordinates_x10^5": "0",
+          "isotropic_equivalent_thermal_parameters_A^2": "1.04 (2)"
+        },
+        "Br1": {
+          "fractional_coordinates_x10^5": "0.5",
+          "isotropic_equivalent_thermal_parameters_A^2": "1.49 (2)"
+        },
+        "Br2": {
+          "fractional_coordinates_x10^5": "41516 (3)",
+          "isotropic_equivalent_thermal_parameters_A^2": "2.60 (2)"
+        },
+        "N": {
+          "fractional_coordinates_x10^4": "598 (2) to 2196 (2)",
+          "isotropic_equivalent_thermal_parameters_A^2": "1.40 (9) to 2.34 (12)"
+        },
+        "C": {
+          "fractional_coordinates_x10^4": "1143 (2) to 2196 (2)",
+          "isotropic_equivalent_thermal_parameters_A^2": "1.39 (10) to 2.34 (12)"
+        }
+      }
+    },
+    {
+      "name": "[Ni(R,R-chxn)2Br]Br2 at -152°C",
+      "temperature": "-152°C",
+      "chemicals_used": [
+        "Ni",
+        "R,R-chxn",
+        "Br"
+      ],
+      "atomic_parameters": {
+        "Ni": {
+          "fractional_coordinates_x10^5": "0",
+          "isotropic_equivalent_thermal_parameters_A^2": "0.51 (1)"
+        },
+        "Br1": {
+          "fractional_coordinates_x10^5": "0.5",
+          "isotropic_equivalent_thermal_parameters_A^2": "0.70 (1)"
+        },
+        "Br2": {
+          "fractional_coordinates_x10^5": "41468 (2)",
+          "isotropic_equivalent_thermal_parameters_A^2": "1.12 (1)"
+        },
+        "N": {
+          "fractional_coordinates_x10^4": "599 (1) to 2208 (2)",
+          "isotropic_equivalent_thermal_parameters_A^2": "0.67 (6) to 1.17 (7)"
+        },
+        "C": {
+          "fractional_coordinates_x10^4": "1148 (1) to 2208 (2)",
+          "isotropic_equivalent_thermal_parameters_A^2": "0.76 (5) to 1.17 (7)"
+        }
+      }
+    },
+    {
+      "name": "[NiBr2([14]aneN4)]C104 at 25°C",
+      "temperature": "25°C",
+      "chemicals_used": [
+        "Ni",
+        "Br",
+        "[14]aneN4",
+        "C104"
+      ],
+      "atomic_parameters": {
+        "Ni": {
+          "fractional_coordinates_x10^5": "2446 (5)",
+          "isotropic_equivalent_thermal_parameters_A^2": "1.4"
+        },
+        "Br1": {
+          "fractional_coordinates_x10^5": "-8009 (4)",
+          "isotropic_equivalent_thermal_parameters_A^2": "2.4"
+        },
+        "Br2": {
+          "fractional_coordinates_x10^5": "13157 (4)",
+          "isotropic_equivalent_thermal_parameters_A^2": "2.5"
+        },
+        "N": {
+          "fractional_coordinates_x10^4": "-646 (3) to 1131 (3)",
+          "isotropic_equivalent_thermal_parameters_A^2": "1.8 to 2.2"
+        },
+        "C": {
+          "fractional_coordinates_x10^4": "-428 (4) to 2406 (4)",
+          "isotropic_equivalent_thermal_parameters_A^2": "2.5 to 3.1"
+        },
+        "Cl": {
+          "fractional_coordinates_x10^3": "-417 (1)",
+          "isotropic_equivalent_thermal_parameters_A^2": "3.10"
+        },
+        "O": {
+          "fractional_coordinates_x10^3": "-1093 (4) to 344 (4)",
+          "isotropic_equivalent_thermal_parameters_A^2": "7.50 to 6.1"
+        }
+      }
+    }
+  ]
+}

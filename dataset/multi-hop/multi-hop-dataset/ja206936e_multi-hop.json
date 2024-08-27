@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the impact of introducing functional groups onto the phenyl rings in the synthesis of MIL-88B and MIL-88D?",
+      "answer": "The introduction of functional groups onto the phenyl rings in the synthesis of MIL-88B and MIL-88D affects the swelling behavior of these MOFs. It leads to a decrease in the breathing amplitude proportional to the size of the functional group and the number of such groups per spacer. In some cases, this results in a permanent porosity for nitrogen after complete activation of the samples. Additionally, introducing functional groups modifies the energetics of the host–guest/intraframework interactions and/or lowers the initial diffusion barrier of the guest, which strongly facilitates the swelling behavior in liquid phase, including an unexpected breathing in nonpolar solvents.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the synthesis condition of MIL-88B(4CH3) differ from that of MIL-88B(2CF3)?",
+      "answer": "The synthesis condition of MIL-88B(4CH3) involves using FeCl3.6H2O and 1,4-tetramethylterephthalic acid dispersed in DMF at 100°C for 16 hours, followed by washing with distilled water. In contrast, the synthesis of MIL-88B(2CF3) involves using FeCl3.6H2O and 2,5-perfluoroterephthalic acid dispersed in absolute ethanol, followed by a microwave-assisted synthesis at 100°C for 5 minutes and washing with acetone.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of NaOH in the synthesis of MIL-88B(4CH3)?",
+      "answer": "In the synthesis of MIL-88B(4CH3), NaOH is used to adjust the pH of the reaction mixture. This helps in facilitating the formation of the MOF structure by possibly aiding in the deprotonation of the carboxylic acid groups on the terephthalic acid derivative, allowing them to coordinate more effectively with the iron (Fe) centers.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the activation step important in the synthesis of MIL-88 MOFs?",
+      "answer": "The activation step is important in the synthesis of MIL-88 MOFs because it involves removing solvent molecules and any unreacted starting materials from the pores of the MOFs. This step is crucial for revealing the porosity of the MOFs, allowing for the characterization of their surface areas and pore structures. It also ensures that the MOFs are in a suitable form for their intended applications, such as gas storage, separation, or catalysis.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of functional groups affect the thermal stability of MIL-88B variants?",
+      "answer": "The presence of functional groups in MIL-88B variants affects their thermal stability in different ways. For example, MIL-88B(Cl) shows slightly higher thermal stability compared to other functionalized MIL-88B variants, while MIL-88B(2OH) exhibits very low thermal stability. This variation in thermal stability can be attributed to the nature of the functional groups and their influence on the framework's ability to withstand thermal decomposition.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of using different solvents like ethanol, methanol, and pyridine in the synthesis of MIL-88D variants?",
+      "answer": "Using different solvents like ethanol, methanol, and pyridine in the synthesis of MIL-88D variants is significant because it can influence the solubility of the reactants, the rate of the reaction, and the final structure of the MOFs. Different solvents can lead to variations in the pore opening behavior of MIL-88D variants, affecting their swelling properties and potentially the accessibility of their porosity in the presence of these solvents.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of MIL-88B(4CH3) involves the use of Fe(ClO4)3.xH2O and tetramethylterephthalic acid in DMF.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: MIL-88B(2CF3) shows a higher BET surface area compared to MIL-88B(4CH3) after activation.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The activation of MIL-88D(2CH3) involves drying at 150°C under vacuum.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: All MIL-88B variants exhibit permanent porosity for nitrogen at 77 K after activation.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

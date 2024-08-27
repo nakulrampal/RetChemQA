@@ -1,0 +1,106 @@
+{
+  "materials": [
+    {
+      "name": "H2bdp derivatives",
+      "synthesis_conditions": [
+        {
+          "step": "General",
+          "solvents": [
+            {
+              "name": "toluene",
+              "amount": "16 mL"
+            },
+            {
+              "name": "diethyl ether",
+              "amount": "250 mL"
+            },
+            {
+              "name": "methanol",
+              "amount": "60 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "1,4-dibromobenzene analogues",
+              "amount": "8.00 mmol"
+            },
+            {
+              "name": "1-(2-tetrahydropyranyl)-1H-pyrazole-4-boronic acid pinacol ester",
+              "amount": "5.56 g, 20.0 mmol"
+            },
+            {
+              "name": "K3PO4",
+              "amount": "8.48 g, 40.0 mmol"
+            },
+            {
+              "name": "XPhos Pd G2",
+              "amount": "1.26 g, 1.60 mmol"
+            }
+          ],
+          "temperature": "110 °C",
+          "time": "2 days",
+          "washing_method": "saturated aqueous NaHCO3 (5 × 250 mL)",
+          "drying_method": "reduced pressure",
+          "yield": "not specified"
+        },
+        {
+          "step": "Hydrolysis",
+          "solvents": [
+            {
+              "name": "methanol",
+              "amount": "60 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "concentrated aqueous HCl",
+              "amount": "12 mL"
+            }
+          ],
+          "temperature": "50 °C",
+          "time": "2 h",
+          "washing_method": "water and neutralized with NaHCO3",
+          "drying_method": "reduced pressure",
+          "yield": "not specified"
+        }
+      ]
+    },
+    {
+      "name": "Co(bdp) derivatives",
+      "synthesis_conditions": [
+        {
+          "step": "General",
+          "solvents": [
+            {
+              "name": "N,N-diethylformamide (DEF)",
+              "amount": "10 mL"
+            },
+            {
+              "name": "anhydrous DMF",
+              "amount": "80 mL for solvent exchange"
+            },
+            {
+              "name": "anhydrous CH2Cl2",
+              "amount": "for solvent exchange"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Co(CF3SO3)2",
+              "amount": "0.72 g, 2.0 mmol"
+            },
+            {
+              "name": "H2bdp or H2bdp derivative",
+              "amount": "1.9 mmol"
+            }
+          ],
+          "temperature": "160 °C for synthesis, 110 °C for solvent exchange",
+          "time": "3 days for synthesis, overnight for solvent exchange",
+          "washing_method": "anhydrous DMF and CH2Cl2 exchanges",
+          "drying_method": "Ar flow at 160 °C for 6 h, then dynamic vacuum at 160 °C overnight",
+          "yield": "not specified"
+        }
+      ]
+    }
+  ]
+}

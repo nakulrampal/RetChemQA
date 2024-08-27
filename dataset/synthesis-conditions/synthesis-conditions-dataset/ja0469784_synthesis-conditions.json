@@ -1,0 +1,97 @@
+{
+  "materials": [
+    {
+      "material": "Ligand 1",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "200 mL",
+            "preparation": "distilled from P4O10 and stored under N2"
+          },
+          {
+            "name": "MeOH",
+            "amount": "not specified",
+            "preparation": "dried with Mg / I2 and stored under N2"
+          },
+          {
+            "name": "Et2O",
+            "amount": "not specified",
+            "preparation": "dried over Na / benzophenone and stored over Na wire under N2"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(R)-4-hydroxymethyl-2-phenyl-oxazoline",
+            "amount": "13.86 g (78.2 mmol, 2.2 equivs.)"
+          },
+          {
+            "name": "NaH-suspension (60% in mineral oil)",
+            "amount": "3.27 g (81.8 mmol, 2.3 equivs.)"
+          },
+          {
+            "name": "2,6-bis(chloromethyl)pyridine",
+            "amount": "6.26 g (35.6 mmol, 1.0 equiv.)"
+          }
+        ],
+        "temperature": "0°C to ambient temperature",
+        "time": "20 h",
+        "atmosphere": "N2",
+        "equipment": "flame-dried Schlenk-glassware",
+        "yield": "14.37 g (88%)"
+      }
+    },
+    {
+      "material": "[Cd(1)Cl4Cd] (2)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "MeOH",
+            "amount": "20 mL",
+            "preparation": "dry"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CdCl2*H2O",
+            "amount": "319 mg (1.58 mmol, 1.0 equiv.)"
+          },
+          {
+            "name": "1",
+            "amount": "725 mg (1.58 mmol, 1.0 equiv.)"
+          }
+        ],
+        "temperature": "reflux for 3 h",
+        "atmosphere": "N2",
+        "yield": "368 mg (57%)",
+        "crystallization_method": "diffusion of Et2O into a solution of the title compound in CH3CN"
+      }
+    },
+    {
+      "material": "[Cd(1)Br4Cd] (3)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "MeOH",
+            "amount": "10 mL",
+            "preparation": "dry"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CdBr2",
+            "amount": "344 mg (1.26 mmol, 1.0 equiv.)"
+          },
+          {
+            "name": "1",
+            "amount": "578 mg (1.26 mmol, 1.0 equiv.)"
+          }
+        ],
+        "temperature": "reflux for 1 h",
+        "atmosphere": "N2",
+        "yield": "478 mg (76%)",
+        "crystallization_method": "diffusion of Et2O into a solution of the title compound in CH3CN"
+      }
+    }
+  ]
+}

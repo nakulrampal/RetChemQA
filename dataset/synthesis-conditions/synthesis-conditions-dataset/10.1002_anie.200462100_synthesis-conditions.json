@@ -1,0 +1,79 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "temperature_below_K": 130,
+        "temperature_above_K": 360,
+        "description": "The solid-state transformation from 1 to 2 is triggered when solid 1 is cooled to temperatures below 130 K and is reversible at temperatures above 360 K."
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "temperature_below_K": 130,
+        "temperature_above_K": 360,
+        "description": "Polymer 2 may be converted back to 1 at temperatures above 360 K. The transformation product 2 is stable over a wide temperature range."
+      }
+    },
+    {
+      "name": "1a",
+      "synthesis_conditions": {
+        "temperature_K": 293,
+        "space_group": "Monoclinic space group C2/c",
+        "a": "15.830(2)",
+        "b": "5.1132(6)",
+        "c": "14.5963(18)",
+        "beta": "110.265(2)",
+        "V": "1108.3(2)",
+        "Z": 4
+      }
+    },
+    {
+      "name": "1b",
+      "synthesis_conditions": {
+        "temperature_K": 293,
+        "space_group": "Orthorhombic space group Pnma",
+        "a": "17.319(4)",
+        "b": "12.389(3)",
+        "c": "5.1116(11)",
+        "V": "1096.8(4)",
+        "Z": 4,
+        "refinement_parameters": "76 parameters based on 1428 independent out of totally 10 577 reflections",
+        "convergence": {
+          "R1": "0.0432",
+          "wR2": "0.1264",
+          "GOF": "1.097"
+        }
+      }
+    },
+    {
+      "name": "2 (at 120 K and 293 K)",
+      "synthesis_conditions": {
+        "space_group": "Orthorhombic space group Pban",
+        "a_120K": "11.380(2)",
+        "a_293K": "11.368(2)",
+        "b_120K": "11.922(2)",
+        "b_293K": "11.974(2)",
+        "c_120K": "3.6199(6)",
+        "c_293K": "3.6433(7)",
+        "V_120K": "491.16(15)",
+        "V_293K": "495.93(17)",
+        "Z": 4,
+        "T_K": [120, 293],
+        "refinement_parameters_120K": "37 parameters based on 618 independent out of totally 4424 reflections",
+        "refinement_parameters_293K": "37 parameters based on 622 independent out of totally 4424 reflections",
+        "convergence_120K": {
+          "R1": "0.0189",
+          "wR2": "0.0526",
+          "GOF": "1.068"
+        },
+        "convergence_293K": {
+          "R1": "0.0221",
+          "wR2": "0.0610",
+          "GOF": "1.091"
+        }
+      }
+    }
+  ]
+}

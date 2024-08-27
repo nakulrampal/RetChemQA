@@ -1,0 +1,79 @@
+{
+  "materials": [
+    {
+      "name": "sodium tris(amido)ferrate [(dioxane)0.5·NaFe(HMDS)3] (1)",
+      "synthesis_conditions": {
+        "yield": "64%",
+        "chemicals_used": [
+          "Na(HMDS)",
+          "Fe(HMDS)2",
+          "dioxane"
+        ],
+        "solvent": "benzene",
+        "mixture_ratio": "1:1:1",
+        "additional_information": "X-ray crystallography confirmed the bimetallic constitution."
+      }
+    },
+    {
+      "name": "heteroleptic [(dioxane)·NaFe(HMDS)2(1,3-F2-C6H3)] (2)",
+      "synthesis_conditions": {
+        "yield": "67%",
+        "chemicals_used": [
+          "1,3-difluorobenzene",
+          "[(dioxane)0.5·NaFe(HMDS)3] (1)"
+        ],
+        "temperature": "room temperature",
+        "additional_information": "The aromatic substrate is metalated at its C2 position between the F substituents. Electrophilic interception with iodine affords 1,3-difluoro-2-iodobenzene 3 a in 84% yield."
+      }
+    },
+    {
+      "name": "1,3-difluoro-2-iodobenzene (3 a)",
+      "synthesis_conditions": {
+        "yield": "84%",
+        "chemicals_used": [
+          "heteroleptic [(dioxane)·NaFe(HMDS)2(1,3-F2-C6H3)] (2)",
+          "iodine"
+        ],
+        "additional_information": "Result of electrophilic interception of 2 with iodine."
+      }
+    },
+    {
+      "name": "iodofluoroarenes (3 b–l)",
+      "synthesis_conditions": {
+        "yield_range": "40–91%",
+        "chemicals_used": [
+          "fluoroaromatic substrates",
+          "sodium ferrate 1",
+          "iodine"
+        ],
+        "solvent": "benzene",
+        "temperature_range": "RT to 50 88C",
+        "time": "overnight",
+        "additional_information": "Metalation occurred at a position adjacent to at least one fluorine atom."
+      }
+    },
+    {
+      "name": "unimetallic iron complex [1,3-{Fe(HMDS)}2-2,4,6-(HMDS)2-C6H] (5 a)",
+      "synthesis_conditions": {
+        "yield": "87%",
+        "chemicals_used": [
+          "1,3,5-trifluorobenzene",
+          "excess sodium ferrate 1"
+        ],
+        "temperature": "80 88C",
+        "additional_information": "The fluoroarene has undergone an extraordinary 2-fold C@H/3-fold C@F activation, five bond-breaking process."
+      }
+    },
+    {
+      "name": "bis(iron) compounds (5 b and 5 c)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "1,2,3,5-tetrafluorobenzene or 1-bromo-2,4,6-trifluorobenzene",
+          "excess sodium ferrate 1"
+        ],
+        "temperature": "80 88C",
+        "additional_information": "Similar synthesis conditions as for 5 a."
+      }
+    }
+  ]
+}

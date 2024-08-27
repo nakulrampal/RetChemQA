@@ -1,0 +1,80 @@
+{
+  "materials": [
+    {
+      "name": "KA@CP-S3",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "H2O/CH3OH",
+        "amount_of_each_solvent": "3 mL of H2O and 1 mL of CH3OH",
+        "equipment": "Teflon-lined stainless steel vessel (7 mL)",
+        "chemicals_used": [
+          "Cu(CH3COO)2·H2O (40 mg)",
+          "1,4-bis[(1H-imidazol-1-yl)methyl]benzene (20 mg)",
+          "adipic acid (20 mg)",
+          "H2SO4 (0.25 mL, 1 M)"
+        ],
+        "time": "72 hours",
+        "cooling_rate": "5 °C h−1",
+        "yield": "54% based on Cu",
+        "crystallization_method": "Filtered and kept for crystallization",
+        "drying_method": "Not specified",
+        "washing_method": "Not specified"
+      },
+      "fluorescence_sensing_experiments": {
+        "compounds_screened": [
+          "volatile organic compounds",
+          "nitroaromatics",
+          "anions",
+          "heavy metal ions",
+          "biomarkers (urea, creatine, uric acid, creatinine, sucrose)",
+          "antibiotics (nitrofurantoin, tetracycline)"
+        ],
+        "solvents_for_suspension": [
+          "ethanol (EtOH)",
+          "diethylformamide (DEF)",
+          "tetrahydrofuran (THF)",
+          "iso-propanol",
+          "dimethyl sulfoxide (DMSO)",
+          "chloroform (CHCl3)",
+          "acetonitrile (CH3CN)",
+          "water (H2O)",
+          "dimethylformamide (DMF)",
+          "methanol (MeOH)",
+          "dichloromethane (DCM)",
+          "nitrobenzene (NB)",
+          "acetone"
+        ],
+        "suspension_preparation": "3 mg of KA@CP-S3 was immersed in 4 mL of various solvents, treated by ultrasonication for 25 min and aged for 24 hours",
+        "excitation_wavelength": "300 nm",
+        "emission_spectrum_range": "200–600 nm"
+      },
+      "photocatalytic_degradation_activity": {
+        "dyes_tested": [
+          "Rose Bengal (RB)",
+          "Bromophenol Blue (BPB)",
+          "Congo Red (CR)",
+          "Neutral Red (NR)",
+          "Methylene Blue (MB)",
+          "Methyl Violet (MV)",
+          "Rhodamine 6G (Rh6G)",
+          "Methyl Orange (MO)",
+          "Crystal Violet (CV)",
+          "Safranin O (SO)",
+          "Rhodamine B (RhB)",
+          "Fluorescein (FS)",
+          "Eriochrome Black T (EBT)"
+        ],
+        "antibiotics_tested": [
+          "nitrofurantoin",
+          "tetracycline"
+        ],
+        "dye_concentration": "10 mg L−1",
+        "amount_of_KA@CP-S3_used": "6 mg",
+        "solution_volume": "8 mL",
+        "equilibrium_time_in_dark": "25 min",
+        "light_source": "sun-light",
+        "measurement_instrument": "UV-1780 UV-Vis spectrophotometer"
+      }
+    }
+  ]
+}

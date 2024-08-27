@@ -1,0 +1,77 @@
+{
+  "materials": [
+    {
+      "name": "1,1,2,2-tetrakis(4-(pyridin-4-yl)phenyl)ethane (tppe) ligand",
+      "synthesis_conditions": {
+        "temperature": "Room temperature for bromination, 160°C for coupling reaction",
+        "solvents": [
+          {
+            "name": "dichloromethane/methanol",
+            "amount": "for recrystallization"
+          },
+          {
+            "name": "dimethylformamide (DMF)",
+            "amount": "100 ml"
+          }
+        ],
+        "chemicals_used": [
+          "1,1,2,2-tetraphenylethene",
+          "bromine liquid",
+          "pyridine-4-boronic acid",
+          "palladium(II) acetate",
+          "potassium phosphate tribasic",
+          "tricyclohexylphosphine"
+        ],
+        "time": "7 days for bromination, 48 hours for coupling reaction",
+        "yield": "Approximately 50% for tppe ligand",
+        "washing_method": "Extracted with chloroform, washed with water",
+        "drying_method": "Vacuum evaporated"
+      }
+    },
+    {
+      "name": "Compound 1",
+      "synthesis_conditions": {
+        "temperature": "150°C",
+        "solvents": [
+          {
+            "name": "dimethylacetamide (DMA)",
+            "amount": "15 ml"
+          },
+          {
+            "name": "tetrafluoroboric acid",
+            "amount": "0.3 ml"
+          }
+        ],
+        "chemicals_used": [
+          "zinc nitrate hexahydrate",
+          "trimesic acid",
+          "tppe ligand"
+        ],
+        "time": "2 days",
+        "yield": "Approximately 70%",
+        "washing_method": "Washed 3 times with 10 ml aliquots of DMA"
+      }
+    },
+    {
+      "name": "Compound 1a",
+      "synthesis_conditions": {
+        "notes": "Compound 1a is obtained by drying Compound 1 in air."
+      }
+    },
+    {
+      "name": "Solvent exchanged samples of Compound 1",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          "dimethylformamide (DMF)",
+          "toluene (TO)",
+          "1,4-dioxane (DO)",
+          "n-hexane (HA)",
+          "ethyl acetate (EA)"
+        ],
+        "time": "2 days for each solvent exchange",
+        "notes": "PXRD structural verification followed by PL emission spectra measurement for each exchanged sample."
+      }
+    }
+  ]
+}

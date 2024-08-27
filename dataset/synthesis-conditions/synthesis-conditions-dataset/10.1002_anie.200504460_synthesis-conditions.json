@@ -1,0 +1,52 @@
+{
+  "materials": [
+    {
+      "name": "[Pb(m-Cl)2(m-bipy)]1",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation of single crystals of 1b",
+          "temperature": "Room temperature",
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "8 mL"
+            },
+            {
+              "name": "2-propanol",
+              "amount": "5 mL"
+            },
+            {
+              "name": "diethyl ether",
+              "amount": "8 mL"
+            }
+          ],
+          "equipment": "25-mL test tube",
+          "chemicals_used": [
+            {
+              "name": "PbCl2",
+              "amount": "0.05 mmol, 14 mg"
+            },
+            {
+              "name": "4,4’-bipyridine",
+              "amount": "0.05 mmol, 7.8 mg"
+            }
+          ],
+          "method": "Three-layer diffusion method",
+          "notes": "Colorless platelets of the product formed at the water/2-propanol interface."
+        },
+        {
+          "step": "Transformation to low-temperature structure 1a",
+          "temperature": "Below 271 K",
+          "method": "Cooling solid 1b",
+          "notes": "Single crystals of the room-temperature structure 1b are converted into twins of 1a."
+        },
+        {
+          "step": "Transformation to high-temperature structure 1g",
+          "temperature": "Heated to 423 K",
+          "method": "Heating single crystal of 1b",
+          "notes": "Reversible conversion into phase 1g. Data-collection temperature for 1g is relatively close to the decomposition temperature of the sample, which is well below 500 K; at 450 K, samples are only stable for a few hours."
+        }
+      ]
+    }
+  ]
+}

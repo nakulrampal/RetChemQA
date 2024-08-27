@@ -1,0 +1,118 @@
+{
+  "materials": [
+    {
+      "name": "ZJU-56",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "5,5'-(pyridine-2,5-diyl)diisophthalic acid (H4L2)",
+            "amount": "41 mg",
+            "molar_amount": "0.10 mmol"
+          },
+          {
+            "chemical": "Zn(NO3)2·6H2O",
+            "amount": "244 mg",
+            "molar_amount": "0.82 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "DMF",
+            "amount": "20.0 mL"
+          },
+          {
+            "solvent": "acetonitrile",
+            "amount": "5.0 mL"
+          }
+        ],
+        "additional_reagents": "trace amount of formic acid",
+        "temperature": "80 oC",
+        "time": "24 h",
+        "yield": "68%",
+        "yield_basis": "based on H4L2"
+      }
+    },
+    {
+      "name": "ZJU-56-0.20",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Zn(NO3)2·6H2O",
+            "solution_concentration": "0.020 M",
+            "solvent": "DMF"
+          },
+          {
+            "chemical": "H4L1·OH",
+            "solution_concentration": "0.005 M",
+            "solvent": "DMF"
+          },
+          {
+            "chemical": "H4L2",
+            "solution_concentration": "0.005 M",
+            "solvent": "DMF"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "acetonitrile",
+            "amount": "1.0 mL"
+          }
+        ],
+        "temperature": "80 oC",
+        "time": "24 h",
+        "yield": "68%"
+      }
+    },
+    {
+      "name": "Me4L1•O3SCF3 (1)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "2,5-bis(3,5-bis(methoxycarbonyl)phenyl)-1-pyridine",
+            "amount": "1.75 g",
+            "molar_amount": "3.78 mmol"
+          },
+          {
+            "chemical": "methyl trifluoromethansulfonate",
+            "amount": "2.90 g (2mL)",
+            "molar_amount": "17.67 mmol"
+          }
+        ],
+        "solvent": "chloroform",
+        "amount": "40 mL",
+        "temperature": "reflux",
+        "time": "24 h",
+        "yield": "49%"
+      }
+    },
+    {
+      "name": "H4L1•OH, inner salt (3)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Me4L1•O3SCF3 (1)",
+            "amount": "3.15g",
+            "molar_amount": "5mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "1,4-dioxane",
+            "amount": "80 mL"
+          },
+          {
+            "solvent": "water",
+            "amount": "40 mL"
+          },
+          {
+            "solvent": "hydrochloric acid",
+            "amount": "40 mL"
+          }
+        ],
+        "temperature": "reflux",
+        "time": "overnight",
+        "yield": "90%"
+      }
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "materials": [
+    {
+      "name": "[Na(12-crown-4)2][(P3)Nb(N[Np]Ar)3]",
+      "synthesis_conditions": {
+        "temperature": "55 °C",
+        "solvents": [
+          {
+            "name": "benzene",
+            "amount": "5 g"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "(Mes*NPP)Nb(N[Np]Ar)3",
+            "amount": "405 mg"
+          },
+          {
+            "name": "[(Et2O)Na][P≡Nb(N[Np]Ar)3]",
+            "amount": "325 mg"
+          },
+          {
+            "name": "12-crown-4",
+            "amount": "150 mg"
+          }
+        ],
+        "time": "2.5 h",
+        "yield": "30%",
+        "washing_method": "washed with n-pentane",
+        "drying_method": "dried in vacuo"
+      }
+    },
+    {
+      "name": "[Na(12-crown-4)2][(OC)5W(P3)Nb(N[Np]Ar)3]",
+      "synthesis_conditions": {
+        "temperature": "22 °C",
+        "solvents": [
+          {
+            "name": "Et2O",
+            "amount": "7 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "[(Et2O)Na][(OC)5WP≡Nb(N[Np]Ar)3]",
+            "amount": "304 mg"
+          },
+          {
+            "name": "Mes*NPCl",
+            "amount": "88 mg"
+          },
+          {
+            "name": "[(Et2O)Na][P≡Nb(N[Np]Ar)3]",
+            "amount": "233 mg"
+          },
+          {
+            "name": "12-crown-4",
+            "amount": "160 mg"
+          }
+        ],
+        "time": "3 h",
+        "yield": "75%",
+        "washing_method": "washed with n-pentane",
+        "drying_method": "dried in vacuo"
+      }
+    },
+    {
+      "name": "Na[{(OC)5W}2(P3)Nb(N[Np]Ar)3]",
+      "synthesis_conditions": {
+        "temperature": "22 °C",
+        "solvents": [
+          {
+            "name": "Et2O",
+            "amount": "15 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "[(THF)3Na][(OC)5WP≡Nb(N[Np]Ar)3]",
+            "amount": "3.0 g"
+          },
+          {
+            "name": "Mes*NPCl",
+            "amount": "390 mg"
+          }
+        ],
+        "time": "4 h",
+        "yield": "83%",
+        "washing_method": "washed with Et2O",
+        "drying_method": "dried in vacuo"
+      }
+    },
+    {
+      "name": "(P3)Mo(N[iPr]Ar)3",
+      "synthesis_conditions": {
+        "temperature": "65 °C",
+        "solvents": [
+          {
+            "name": "benzene",
+            "amount": "2 g"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "(Mes*NPP)Nb(N[Np]Ar)3",
+            "amount": "176 mg"
+          },
+          {
+            "name": "P≡Mo(N[iPr]Ar)3",
+            "amount": "110 mg"
+          }
+        ],
+        "time": "3.5 h",
+        "yield": "37%",
+        "washing_method": "washed with hexane",
+        "drying_method": "dried in vacuo"
+      }
+    },
+    {
+      "name": "(OC)5W(P3)Mo(N[iPr]Ar)3",
+      "synthesis_conditions": {
+        "temperature": "22 °C",
+        "solvents": [
+          {
+            "name": "Et2O",
+            "amount": "7 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "[(Et2O)Na][(OC)5WP≡Nb(N[Np]Ar)3]",
+            "amount": "365 mg"
+          },
+          {
+            "name": "Mes*NPCl",
+            "amount": "106 mg"
+          },
+          {
+            "name": "P≡Mo(N[iPr]Ar)3",
+            "amount": "220 mg"
+          }
+        ],
+        "time": "3 h",
+        "yield": "57%",
+        "washing_method": "washed with n-pentane",
+        "drying_method": "dried in vacuo"
+      }
+    },
+    {
+      "name": "(OC)5W(P3)W(N[iPr]Ar)3",
+      "synthesis_conditions": {
+        "temperature": "22 °C",
+        "solvents": [
+          {
+            "name": "Et2O",
+            "amount": "7 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "[(Et2O)Na][(OC)5WP≡Nb(N[Np]Ar)3]",
+            "amount": "320 mg"
+          },
+          {
+            "name": "Mes*NPCl",
+            "amount": "95 mg"
+          },
+          {
+            "name": "P≡W(N[iPr]Ar)3",
+            "amount": "220 mg"
+          }
+        ],
+        "time": "3 h",
+        "yield": "51%",
+        "washing_method": "washed with n-pentane",
+        "drying_method": "dried in vacuo"
+      }
+    },
+    {
+      "name": "(AdCP2)Mo(N[iPr]Ar)3",
+      "synthesis_conditions": {
+        "temperature": "60 °C",
+        "solvents": [
+          {
+            "name": "C6D6",
+            "amount": "2 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "AdCP",
+            "amount": "31 mg"
+          },
+          {
+            "name": "P≡Mo(N[iPr]Ar)3",
+            "amount": "110 mg"
+          }
+        ],
+        "time": "3 h",
+        "yield": "51%",
+        "washing_method": "extraction with n-pentane",
+        "drying_method": "crystallization from toluene/n-pentane"
+      }
+    },
+    {
+      "name": "(OC)5W(Ph3SnP3)Nb(N[Np]Ar)3",
+      "synthesis_conditions": {
+        "temperature": "75 °C",
+        "solvents": [
+          {
+            "name": "dimethoxyethane",
+            "amount": "5 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "[(12-crown-4)2Na][(OC)5W(P3)Nb(N[Np]Ar)3]",
+            "amount": "25 mg"
+          },
+          {
+            "name": "Ph3SnCl",
+            "amount": "7 mg"
+          }
+        ],
+        "time": "14 h",
+        "yield": "10%",
+        "washing_method": "extraction with Et2O",
+        "drying_method": "dried in vacuo"
+      }
+    },
+    {
+      "name": "Mes*NP(W(CO)5)P3Nb(N[Np]Ar)3",
+      "synthesis_conditions": {
+        "temperature": "22 °C",
+        "solvents": [
+          {
+            "name": "Et2O",
+            "amount": "7 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "Na[4c-Nb]",
+            "amount": "177 mg"
+          },
+          {
+            "name": "Mes*NPCl",
+            "amount": "41 mg"
+          }
+        ],
+        "time": "24 h",
+        "yield": "92%",
+        "washing_method": "extraction with Et2O",
+        "drying_method": "dried in vacuo"
+      }
+    },
+    {
+      "name": "{(OC)5W}2AdC(O)P3Nb(N[Np]Ar)3",
+      "synthesis_conditions": {
+        "temperature": "22 °C",
+        "solvents": [
+          {
+            "name": "Et2O",
+            "amount": "15 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "Na[4c-Nb]",
+            "amount": "475 mg"
+          },
+          {
+            "name": "AdC(O)Cl",
+            "amount": "66 mg"
+          }
+        ],
+        "time": "20 min",
+        "yield": "58%",
+        "washing_method": "extraction with Et2O",
+        "drying_method": "dried in vacuo"
+      }
+    }
+  ]
+}

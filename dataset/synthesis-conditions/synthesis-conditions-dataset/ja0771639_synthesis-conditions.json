@@ -1,0 +1,69 @@
+{
+  "materials": [
+    {
+      "name": "5,5'-(9,10-Anthracenediyl)bis(1,3-benzenedimethoxycarbonyl), 1",
+      "synthesis_conditions": {
+        "temperature": "reflux",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "80 mL"
+          },
+          {
+            "name": "2 M Na2CO3 solution",
+            "amount": "15 mL"
+          }
+        ],
+        "chemicals_used": [
+          "Anthracene 9,10-diboronic acid (0.5 g, 0.002 mol)",
+          "dimethyl-5-bromo-isophtalate (1.7 g, 0.006 mol)",
+          "Pd(PPh3)4 (0.02 g)"
+        ],
+        "time": "40 h",
+        "atmosphere": "nitrogen",
+        "yield": "53%"
+      }
+    },
+    {
+      "name": "H4adip, 5,5'-(9,10-Anthracenediyl)di-isophthalic Acid, 2",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "50 mL"
+          },
+          {
+            "name": "2 M KOH aqueous solution",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          "Compound 1 (0.6 g, 0.001 mol)"
+        ],
+        "time": "overnight",
+        "yield": "80%"
+      }
+    },
+    {
+      "name": "PCN-14, Cu2(H2O)2(adip)·2DMF",
+      "synthesis_conditions": {
+        "temperature": "75 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "1.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          "2 (0.005 g, 1.4 × 10^-5 mol)",
+          "Cu(NO3)2·2.5H2O (0.02 g, 8.2 × 10^-6 mol)",
+          "HBF4 (2 drops)"
+        ],
+        "time": "1 day",
+        "equipment": "Pyrex tube under vacuum",
+        "yield": "75%"
+      }
+    }
+  ]
+}

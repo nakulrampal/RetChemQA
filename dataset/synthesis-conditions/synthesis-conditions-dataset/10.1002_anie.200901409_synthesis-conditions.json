@@ -1,0 +1,83 @@
+{
+  "materials": [
+    {
+      "name": "CAU-1",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "125 8C",
+          "solvents": [
+            {
+              "name": "methanol",
+              "amount": "1.235 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "AlCl3·6 H2O",
+              "amount": "92.7 mg, 0.384 mmol"
+            },
+            {
+              "name": "H2N-H2bdc",
+              "amount": "23.32 mg, 0.129 mmol"
+            }
+          ],
+          "time": "5 h",
+          "equipment": "24 multiclave",
+          "yield": "Not specified"
+        },
+        {
+          "step": "Scale-up Synthesis",
+          "temperature": "125 8C",
+          "solvents": [
+            {
+              "name": "methanol",
+              "amount": "123 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "AlCl3·6 H2O",
+              "amount": "9.27 g, 38.4 mmol"
+            },
+            {
+              "name": "H2N-H2bdc",
+              "amount": "2.33 g, 12.9 mmol"
+            }
+          ],
+          "time": "5 h",
+          "equipment": "250 mL Duran screw-cap glass bottle",
+          "yield": "Not specified"
+        },
+        {
+          "step": "Washing",
+          "washing_method": "stirring in deionized water (2000 mL per 0.5 g CAU-1) overnight",
+          "drying_method": "dried at room temperature in air"
+        }
+      ],
+      "characterization": {
+        "elemental_analysis": {
+          "calculated": {
+            "C": "42.35%",
+            "H": "3.83%",
+            "N": "5.32%"
+          },
+          "found": {
+            "C": "41.85%",
+            "H": "3.64%",
+            "N": "5.23%"
+          }
+        },
+        "thermogravimetric_analysis": {
+          "hydrated_phase": "[Al4(OH)2(OCH3)4(H2N-bdc)3]·3 H2O",
+          "calculated_weight_loss": "6.3%",
+          "found_weight_loss": "6.2%"
+        },
+        "gas_sorption": {
+          "Langmuir_surface_area": "approximately 1700 m2 g-1",
+          "micropore_volume": "0.52 cm3 g-1"
+        }
+      }
+    }
+  ]
+}

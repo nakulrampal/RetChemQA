@@ -1,0 +1,112 @@
+{
+  "materials": [
+    {
+      "material": "Compound 1",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "MnBr2",
+          "H2L",
+          "Na(dca)",
+          "trimethylamine (Me3N)"
+        ],
+        "solvents": [
+          {
+            "solvent": "methanol",
+            "amount": "5 mL"
+          },
+          {
+            "solvent": "ethyl acetate",
+            "amount": "5 mL"
+          }
+        ],
+        "equipment": "slurry",
+        "time": "1 h stirring, 5 days for crystal formation",
+        "yield": "40%",
+        "crystal_system": "Monoclinic",
+        "space_group": "P21/c",
+        "temperature": "185(2) K"
+      }
+    },
+    {
+      "material": "Compound 2",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "MnBr2",
+          "H2L",
+          "Na(dca)",
+          "N,N-dimethylethylamine (EtMe2N)"
+        ],
+        "solvents": [
+          {
+            "solvent": "methanol",
+            "amount": "5 mL"
+          },
+          {
+            "solvent": "ethyl acetate",
+            "amount": "5 mL"
+          }
+        ],
+        "equipment": "slurry",
+        "time": "1 h stirring, 5 days for crystal formation",
+        "yield": "40%",
+        "crystal_system": "Monoclinic",
+        "space_group": "P21/c",
+        "temperature": "185(2) K"
+      }
+    },
+    {
+      "material": "Compound 3",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "MnBr2",
+          "H2L",
+          "Na(dca)",
+          "N,N-diethylmethylamine (Et2MeN)"
+        ],
+        "solvents": [
+          {
+            "solvent": "methanol",
+            "amount": "5 mL"
+          },
+          {
+            "solvent": "ethyl acetate",
+            "amount": "5 mL"
+          }
+        ],
+        "equipment": "slurry",
+        "time": "1 h stirring, 5 days for crystal formation",
+        "yield": "40%",
+        "crystal_system": "Monoclinic",
+        "space_group": "P21/c",
+        "temperature": "185(2) K"
+      }
+    },
+    {
+      "material": "Compound 4",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "MnBr2",
+          "H2L",
+          "Na(dca)",
+          "triethylamine (Et3N)"
+        ],
+        "solvents": [
+          {
+            "solvent": "methanol",
+            "amount": "5 mL"
+          },
+          {
+            "solvent": "ethyl acetate",
+            "amount": "5 mL"
+          }
+        ],
+        "equipment": "slurry",
+        "time": "1 h stirring, 3 days for crystal formation",
+        "yield": "50%",
+        "crystal_system": "Tetragonal",
+        "space_group": "P4/n",
+        "temperature": "185(2) K"
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "materials": [
+    {
+      "name": "Dy2-DMF",
+      "synthesis_conditions": {
+        "method": "solvothermal reaction",
+        "precursors": [
+          "Dy(NO3)3·6 H2O",
+          "isonicotinic acid N-oxide (HINO)"
+        ],
+        "solvent": "DMF",
+        "temperature": "not specified",
+        "equipment": "not specified",
+        "time": "not specified",
+        "additional_steps": [
+          {
+            "step": "solvent exchange to Dy2-CH3CN",
+            "solvent": "acetonitrile",
+            "temperature": "room temperature",
+            "time": "sequential aliquots"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Dy2-CH3CN",
+      "synthesis_conditions": {
+        "method": "solvent exchange from Dy2-DMF",
+        "precursors": [
+          "Dy2-DMF"
+        ],
+        "solvent": "acetonitrile",
+        "temperature": "room temperature",
+        "time": "sequential aliquots"
+      }
+    },
+    {
+      "name": "Dy2-A",
+      "synthesis_conditions": {
+        "method": "evacuation of guest solvent from Dy2-DMF or Dy2-CH3CN",
+        "precursors": [
+          "Dy2-DMF or Dy2-CH3CN"
+        ],
+        "solvent": "not specified",
+        "temperature": "not specified",
+        "equipment": "not specified",
+        "time": "not specified"
+      }
+    }
+  ]
+}

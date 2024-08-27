@@ -1,0 +1,82 @@
+{
+  "materials": [
+    {
+      "name": "4,4'-Bischlorohydroximoyl-3,3'-azofurazan (2)",
+      "synthesis_conditions": {
+        "precursors": [
+          {
+            "name": "4,4'-dicyano-3,3'-azofurazan (1)",
+            "amount": "2.16 g, 10 mmol"
+          },
+          {
+            "name": "50% aqueous hydroxylamine",
+            "amount": "1.65 g, 25 mmol"
+          },
+          {
+            "name": "sodium nitrite",
+            "amount": "1.75 g, 25 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "ethanol",
+            "amount": "30 mL"
+          },
+          {
+            "name": "concentrated HCl",
+            "amount": "30 mL"
+          },
+          {
+            "name": "water",
+            "amount": "40 mL"
+          }
+        ],
+        "temperature": "0 88C for sodium nitrite addition",
+        "time": "Stirring for 30 min at room temperature, then 2 h at 0 88C",
+        "yield": "1.96 g, 61%",
+        "washing_method": "Washed with ice-water, then dried in air",
+        "drying_method": "Dried in air",
+        "other_conditions": "Sodium nitrite solution added while keeping temperature below 0 88C"
+      }
+    },
+    {
+      "name": "Potassium 4,4'-bis(dinitromethyl)-3,3'-azofurazanate (4)",
+      "synthesis_conditions": {
+        "precursors": [
+          {
+            "name": "4,4'-Bischlorohydroximoyl-3,3'-azofurazan (2)",
+            "amount": "1.96 g, 6.1 mmol"
+          },
+          {
+            "name": "100% HNO3",
+            "amount": "5 mL"
+          },
+          {
+            "name": "trifluoroacetic acid anhydride",
+            "amount": "8.8 mL"
+          },
+          {
+            "name": "potassium iodide",
+            "amount": "2.02 g, 12.2 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "CHCl2",
+            "amount": "20 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "20 mL for dissolving 3, 30 mL for KI solution"
+          }
+        ],
+        "temperature": "0 88C for adding to HNO3 and trifluoroacetic acid anhydride mixture, room temperature for stirring overnight",
+        "time": "Stirred for 2 h at room temperature, then overnight",
+        "yield": "0.92 g, 33.5%",
+        "washing_method": "Washed with cold water (5 mL), then methanol (5 mL), and ethyl ether (10 mL)",
+        "drying_method": "Not specified",
+        "other_conditions": "Intermediate 3 was dissolved in methanol before adding potassium iodide solution"
+      }
+    }
+  ]
+}

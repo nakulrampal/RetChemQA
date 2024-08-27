@@ -1,0 +1,151 @@
+{
+  "materials": [
+    {
+      "material_id": "1",
+      "synthesis_conditions": {
+        "temperature": "Room temperature, cooled quickly to -35 degrees Celsius before precipitation commences",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "Not specified"
+          },
+          {
+            "name": "DMF",
+            "amount": "Not specified, used for NMR data"
+          }
+        ],
+        "equipment": "Stirring solution setup",
+        "chemicals_used": [
+          {
+            "name": "[Na(diox)3][PCO]",
+            "amount": "Not specified"
+          },
+          {
+            "name": "BPh3",
+            "amount": "Not specified"
+          }
+        ],
+        "time": "30 minutes for crystal formation",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_steps": [
+          {
+            "step_description": "Low temperature NMR data collection",
+            "temperature": "-35 degrees Celsius"
+          },
+          {
+            "step_description": "Warming to -20 degrees Celsius for NMR data",
+            "temperature": "-20 degrees Celsius"
+          },
+          {
+            "step_description": "Further warming to room temperature for precipitation",
+            "temperature": "Room temperature"
+          }
+        ]
+      }
+    },
+    {
+      "material_id": "2",
+      "synthesis_conditions": {
+        "temperature": "24 hours at ambient temperature or 2 hours at 60 degrees Celsius",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "Not specified"
+          }
+        ],
+        "equipment": "Stirring solution setup",
+        "chemicals_used": [
+          {
+            "name": "[Na(diox)3][PCO]",
+            "amount": "Not specified"
+          },
+          {
+            "name": "B(C6F5)3",
+            "amount": "Not specified"
+          }
+        ],
+        "time": "1 hour for initial NMR data, then 24 hours at ambient temperature or 2 hours at 60 degrees Celsius",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Modest yields",
+        "additional_steps": []
+      }
+    },
+    {
+      "material_id": "3",
+      "synthesis_conditions": {
+        "temperature": "Room temperature, NMR spectroscopy at -40 degrees Celsius",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "Not specified"
+          },
+          {
+            "name": "HMDSO",
+            "amount": "Not specified, used for crystal growth"
+          }
+        ],
+        "equipment": "Stirring solution setup",
+        "chemicals_used": [
+          {
+            "name": "[Na(diox)3][PCO]",
+            "amount": "Not specified"
+          },
+          {
+            "name": "HB(C6F5)2",
+            "amount": "Not specified"
+          }
+        ],
+        "time": "30 minutes for complete consumption of starting materials",
+        "washing_method": "Not specified",
+        "drying_method": "Solvent removal in vacuo",
+        "yield": "Not specified",
+        "additional_steps": [
+          {
+            "step_description": "Layering reaction mixture with HMDSO at -35 degrees Celsius for 24 hours for crystal growth",
+            "temperature": "-35 degrees Celsius"
+          }
+        ]
+      }
+    },
+    {
+      "material_id": "4",
+      "synthesis_conditions": {
+        "temperature": "Room temperature, spectroscopy at low temperature",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "Not specified"
+          }
+        ],
+        "equipment": "Stirring solution setup",
+        "chemicals_used": [
+          {
+            "name": "[Na(diox)3][PCO]",
+            "amount": "Not specified"
+          },
+          {
+            "name": "H2B(C6F5)·SMe2",
+            "amount": "Not specified"
+          }
+        ],
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_steps": [
+          {
+            "step_description": "Low temperature spectroscopy for intermediate observation",
+            "temperature": "Low temperature, not specified"
+          },
+          {
+            "step_description": "Warming to room temperature for product formation",
+            "temperature": "Room temperature"
+          }
+        ]
+      }
+    }
+  ]
+}

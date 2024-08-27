@@ -1,0 +1,51 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "temperature": "170 8C",
+        "solvents": "water",
+        "amount_of_solvent": "10 mL",
+        "equipment": "sealed container",
+        "chemicals_used": {
+          "Gd2O3": "36 mg, 0.10 mmol",
+          "Cu(NO3)2·3H2O": "48 mg, 0.20 mmol",
+          "H2ip": "17 mg, 0.10 mmol",
+          "bpy": "31 mg, 0.20 mmol"
+        },
+        "molar_ratio": "1:2:1:2",
+        "time": "4 days",
+        "cooling_rate": "6 8C h-1 to room temperature",
+        "washing_method": "distilled water",
+        "yield": "37 %, based on Gd",
+        "elemental_analysis": {
+          "calculated": "C 44.94, H 2.51, N 4.37",
+          "found": "C 44.82, H 2.37, N 4.24"
+        },
+        "IR": "650(m), 706(m), 750(m), 1070(w), 1155(m), 1383(s), 1452(s), 1608(s), 3066(w) cm-1"
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "temperature": "Similar to 1",
+        "solvents": "Similar to 1",
+        "amount_of_solvent": "Similar to 1",
+        "equipment": "Similar to 1",
+        "chemicals_used": {
+          "Similar to 1": "but molar ratio adjusted to 1:2:1:1"
+        },
+        "molar_ratio": "1:2:1:1",
+        "time": "Similar to 1",
+        "cooling_rate": "Similar to 1",
+        "washing_method": "Similar to 1",
+        "yield": "42 %, based on Gd",
+        "elemental_analysis": {
+          "calculated": "C 41.09, H 2.08, N 1.65",
+          "found": "C 41.01, H 1.97, N 1.49"
+        },
+        "IR": "651(m), 705(m), 756(m), 1074(w), 1156(m), 1380(s), 1456(s), 1610(s), 3105(w) cm-1"
+      }
+    }
+  ]
+}

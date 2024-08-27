@@ -1,0 +1,66 @@
+{
+  "materials": [
+    {
+      "name": "H8bttcd",
+      "synthesis_conditions": {
+        "temperature": "120 8C",
+        "solvents": [
+          "dioxane",
+          "THF/MeOH (v/v = 1:1)"
+        ],
+        "amount_of_each_solvent": {
+          "dioxane": "20 mL",
+          "THF/MeOH": "100 mL"
+        },
+        "equipment": "sealable flask in nitrogen",
+        "chemicals_used": [
+          "Dimethyl 9H-carbazole-3,6-dicarboxylate (1.8 g, 6.4 mmol)",
+          "K3PO4 (3.0 g, 14.2 mmol)",
+          "3,3’,5,5’-tetrabromo-1,1’-biphenyl (0.7 g, 1.5 mmol)",
+          "CuI (60 mg, 0.32 mmol)",
+          "DMEDA (N,N’-dimethylethylenediamine, 0.1 mL)"
+        ],
+        "time": "three days",
+        "washing_method": "washed with ethyl acetate and acetone",
+        "drying_method": "dried in air",
+        "yield": "30 %",
+        "additional_steps": [
+          {
+            "step_description": "hydrolysis with KOH",
+            "chemicals_used": [
+              "KOH (2 mol L-1)"
+            ],
+            "solvent": "THF/MeOH",
+            "temperature": "reflux"
+          },
+          {
+            "step_description": "acidification with HCl",
+            "chemicals_used": [
+              "HCl (1n)"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "PCN-80",
+      "synthesis_conditions": {
+        "temperature": "75 8C",
+        "solvents": "DMF",
+        "amount_of_each_solvent": {
+          "DMF": "2 mL"
+        },
+        "equipment": "small vial",
+        "chemicals_used": [
+          "H8bttcd (10 mg, 0.0086 mmol)",
+          "Cu(NO3)2·2.5 H2O (15 mg, 0.016 mmol)",
+          "HBF4 (1 drop)"
+        ],
+        "time": "overnight",
+        "washing_method": "washed with DMF",
+        "drying_method": "dried in air",
+        "yield": "65 % based on H8bttcd"
+      }
+    }
+  ]
+}

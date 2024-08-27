@@ -1,0 +1,66 @@
+{
+  "materials": [
+    {
+      "name": "BUT-17",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "8 mL"
+          },
+          {
+            "name": "formic acid",
+            "amount": "2.8 mL"
+          }
+        ],
+        "equipment": "20 mL Pyrex vial",
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "48 mg"
+          },
+          {
+            "name": "H4CPTTA",
+            "amount": "29 mg"
+          }
+        ],
+        "time": "48 h",
+        "washing_method": "washed with DMF and acetone",
+        "drying_method": "dried in air",
+        "yield": "32 mg"
+      }
+    },
+    {
+      "name": "NU-1003",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "8 mL"
+          }
+        ],
+        "equipment": "20 mL Pyrex vial",
+        "chemicals_used": [
+          {
+            "name": "ZrOCl2",
+            "amount": "20 mg"
+          },
+          {
+            "name": "H4PTTNA",
+            "amount": "8 mg"
+          },
+          {
+            "name": "benzoic acid",
+            "amount": "250 mg"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": "washed with DMF and acetone",
+        "drying_method": "dried in air",
+        "yield": "11 mg"
+      }
+    }
+  ]
+}

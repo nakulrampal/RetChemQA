@@ -1,0 +1,37 @@
+{
+  "materials": [
+    {
+      "name": "CdCl2/H5L/NaOH system",
+      "synthesis_conditions": {
+        "temperature_range": ["room temperature", "99.9°C"],
+        "temperature_gradient": "40 K",
+        "solvents": ["water"],
+        "solvent_amounts": ["200 mL of solution per tube"],
+        "chemicals_used": [
+          "H5L (solid)",
+          "0.4 m solution of NaOH",
+          "0.3 m CdCl2"
+        ],
+        "equipment": ["Whatman thermocycler", "PP-PCR tubes", "Biometra TGradient"],
+        "reaction_time": "24 h",
+        "washing_method": ["water", "acetone"],
+        "additional_information": "Exact amounts of starting compounds and pH values are given in the Supporting Information."
+      }
+    },
+    {
+      "name": "Individual reactions for temperatures above 100°C",
+      "synthesis_conditions": {
+        "temperature_range": ["120°C", "150°C", "180°C", "200°C"],
+        "chemicals_used": [
+          "150 mg (442 mmol) H5L",
+          "829 mL (442 mmol) 0.4 m NaOH",
+          "1474 mL (442 mmol) 0.3 m CdCl2",
+          "2697 mL H2O"
+        ],
+        "equipment": ["stainless-steel autoclaves with teflon liners"],
+        "reaction_time": "24 h",
+        "washing_method": ["water", "acetone"]
+      }
+    }
+  ]
+}

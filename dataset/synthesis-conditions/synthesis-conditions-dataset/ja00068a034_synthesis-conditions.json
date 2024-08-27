@@ -1,0 +1,132 @@
+{
+  "materials": [
+    {
+      "name": "MnCu(opba)(DMSO)3 (1)",
+      "synthesis_conditions": [
+        {
+          "step": "Crystallographic Data Collection",
+          "temperature": "294 K",
+          "equipment": "CAD4 diffractometer",
+          "wavelength": "0.71073 Å (graphite monochromator)",
+          "crystal_size_mm": "0.45 x 0.17 x 0.16",
+          "scan_type": "ω/2θ",
+          "max_min_transmission_factors": "1.118, 0.793"
+        },
+        {
+          "step": "Refinement",
+          "no_of_unique_reflections_collected": "3352",
+          "no_of_reflections_in_refinement": "2543 (I > 2.0σ(I))",
+          "no_of_parameters_refined": "315",
+          "extinction_coefficient": "1.085 x 10^-8",
+          "residual_factors": {
+            "R": "0.053",
+            "Rw": "0.054"
+          },
+          "goodness_of_fit_on_F_squared": "2.56",
+          "max_shift_esd": "0.15",
+          "largest_residual_peak_hole_electron_density": {
+            "peak": "0.71 e/Å^3",
+            "hole": "-0.73 e/Å^3"
+          }
+        },
+        {
+          "step": "Atomic Parameters",
+          "atoms": [
+            {
+              "atom": "Cu",
+              "x": "0.07157",
+              "y": "0.2352",
+              "z": "0.34924",
+              "B_iso_or_equiv": "2.71"
+            },
+            {
+              "atom": "Mn",
+              "x": "0.33750",
+              "y": "0.5416",
+              "z": "0.57840",
+              "B_iso_or_equiv": "2.82"
+            }
+          ]
+        },
+        {
+          "step": "Anisotropic Thermal Parameters",
+          "atoms": [
+            {
+              "atom": "Cu",
+              "U(1,1)": "0.0379",
+              "U(2,2)": "0.0347",
+              "U(3,3)": "0.0308",
+              "U(1,2)": "-0.0086",
+              "U(1,3)": "0.0143",
+              "U(2,3)": "-0.0015"
+            },
+            {
+              "atom": "Mn",
+              "U(1,1)": "0.0321",
+              "U(2,2)": "0.0395",
+              "U(3,3)": "0.0301",
+              "U(1,2)": "0.0067",
+              "U(1,3)": "0.0071",
+              "U(2,3)": "-0.0020"
+            }
+          ]
+        },
+        {
+          "step": "Bond Distances and Angles Involving Hydrogen Atoms",
+          "distances": [
+            {
+              "atom_1": "S3",
+              "atom_2": "H5",
+              "distance": "0.94"
+            },
+            {
+              "atom_1": "C1",
+              "atom_2": "H7",
+              "distance": "1.12"
+            }
+          ],
+          "angles": [
+            {
+              "atom_1": "C4",
+              "atom_2": "C5",
+              "atom_3": "H5",
+              "angle": "123.0"
+            },
+            {
+              "atom_1": "C6",
+              "atom_2": "C5",
+              "atom_3": "H5",
+              "angle": "117.0"
+            }
+          ]
+        },
+        {
+          "step": "Least-squares Planes and Dihedral Angles",
+          "planes": [
+            {
+              "plane_no": "1",
+              "A": "-5600",
+              "B": "03",
+              "C": "04",
+              "D": "098178",
+              "atoms_in_plane": "N1 N2 Cu",
+              "distances_from_plane": "-1324 -19 19"
+            }
+          ],
+          "dihedral_angles": [
+            {
+              "plane_1": "1",
+              "plane_2": "2",
+              "angle": "16.2"
+            },
+            {
+              "plane_1": "1",
+              "plane_2": "3",
+              "angle": "72.6"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "70 mL"
+          }
+        ],
+        "equipment": "250-mL Erlenmeyer flask",
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "500 mg"
+          },
+          {
+            "name": "L1",
+            "amount": "250 mg"
+          },
+          {
+            "name": "TCPB",
+            "amount": "500 mg"
+          },
+          {
+            "name": "HCl in DMF",
+            "amount": "100 µL"
+          }
+        ],
+        "time": "overnight",
+        "yield": "300 mg, 20% based on 11 DMF molecules per unit cell",
+        "washing_method": "washed with DMF (~ 4 x 1 mL)"
+      }
+    },
+    {
+      "name": "1deprot and 1*deprot",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "TEAF solution",
+            "amount": "0.01 M and 0.001 M in THF/water (95:5 v/v) for 1 and 1*, respectively"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "THF/water (95:5 v/v)",
+            "amount": "1 mL"
+          }
+        ],
+        "time": "48 h and 72 h for 1 and 1*, respectively",
+        "washing_method": "resolvated with DMF (1 mL) after six cycles of agitation in fresh DMF (1 mL) at 80 °C"
+      }
+    },
+    {
+      "name": "1click and 1*click",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "chemicals_used": [
+          {
+            "name": "benzyl azide",
+            "amount": "0.2 M solution in DMF, 0.2 mmol"
+          },
+          {
+            "name": "CuSO4",
+            "amount": "5 mg, 20 µmol"
+          },
+          {
+            "name": "sodium ascorbate",
+            "amount": "10 mg, 50 µmol"
+          }
+        ],
+        "time": "72 hrs",
+        "washing_method": "3 cycles of shaking with fresh DMF (1 mL) at 80 °C"
+      }
+    },
+    {
+      "name": "1*",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "CHCl3",
+            "amount": "4 mL"
+          },
+          {
+            "name": "aqueous solution of KF",
+            "amount": "1.5 mL of a 0.01 M solution"
+          },
+          {
+            "name": "deionized H2O",
+            "amount": "1.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ethidium bromide monoazide",
+            "amount": "50 µL of a 50 mM solution, 2.5 µmol"
+          },
+          {
+            "name": "CuSO4",
+            "amount": "50 µL of a 50 mM solution, 2.5 µmol"
+          },
+          {
+            "name": "sodium ascorbate",
+            "amount": "50 µL of a 50 mM solution, 2.5 µmol"
+          }
+        ],
+        "time": "agitated (~ 4 h)",
+        "washing_method": "6 cycles of agitation with fresh DMF (1 mL) at 80 °C"
+      }
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "materials": [
+    {
+      "name": "ortho-linked oxacalix[2]arene[2]pyrazine (1)",
+      "synthesis_conditions": {
+        "temperature": "120oC",
+        "solvents": [
+          {
+            "name": "DMSO",
+            "amount": "250 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cesium carbonate",
+            "amount": "7.16 g, 22 mmol"
+          },
+          {
+            "name": "catechol",
+            "amount": "1.1 g, 10 mmol"
+          },
+          {
+            "name": "2,6-dichloropyrazine",
+            "amount": "1.49 g, 10 mmol"
+          }
+        ],
+        "time": "24 h",
+        "yield": "47%",
+        "washing_method": "water and brine",
+        "drying_method": "Na2SO4"
+      }
+    },
+    {
+      "name": "oxacalix[2]arene[2]pyrazine (2)",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "DMSO",
+            "amount": "150 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "2, 6-dichloropyrazine",
+            "amount": "3.0g, 20.1mmol"
+          },
+          {
+            "name": "resorcinol",
+            "amount": "2.2g, 20.1mmol"
+          },
+          {
+            "name": "Cs2CO3",
+            "amount": "13.1g, 40.2mmol"
+          }
+        ],
+        "time": "18 h",
+        "yield": "86%",
+        "washing_method": "0.1 M HCl and brine",
+        "drying_method": "Na2SO4"
+      }
+    },
+    {
+      "name": "complex 3",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "benzene",
+            "amount": "6 mL"
+          },
+          {
+            "name": "acetonitrile",
+            "amount": "2 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ortho-linked oxacalix[2]benzene[2]pyrazine (1)",
+            "amount": "20.4mg, 0.055mmol"
+          },
+          {
+            "name": "AgBF4",
+            "amount": "10.7mg, 0.055mmol"
+          }
+        ],
+        "time": "two weeks",
+        "temperature": "ambient",
+        "environment": "dark"
+      }
+    },
+    {
+      "name": "complex 4",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "benzene",
+            "amount": "4 mL"
+          },
+          {
+            "name": "acetonitrile",
+            "amount": "4 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "oxacalix[2]arene[2]pyrazine (2)",
+            "amount": "42.0mg, 0.113mmol"
+          },
+          {
+            "name": "AgBF4",
+            "amount": "22.0mg, 0.113mmol"
+          }
+        ],
+        "time": "two weeks",
+        "temperature": "ambient",
+        "environment": "dark"
+      }
+    }
+  ]
+}

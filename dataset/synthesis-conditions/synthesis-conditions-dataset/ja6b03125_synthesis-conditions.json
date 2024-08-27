@@ -1,0 +1,88 @@
+{
+  "materials": [
+    {
+      "name": "MAF-X27-Cl",
+      "synthesis_conditions": {
+        "temperature": "70 °C",
+        "solvents": "DMF-methanol-HCl mixture",
+        "amount_of_each_solvent": "100:100:1 (v/v/v) mixture of DMF-methanol-HCl (8 mL)",
+        "equipment": "15-mL Teflon reactor",
+        "chemicals_used": "CoCl2·6H2O (0.030 g, 0.126 mmol), H2bbta (0.020 g, 0.126 mmol)",
+        "time": "72 h",
+        "washing_method": "successively washed by H2O and MeOH twice, soaked in MeOH for two days",
+        "drying_method": "heated at 100 °C for 10 h",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "MAF-X27-OH",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": "water solution of KOH",
+        "amount_of_each_solvent": "1.0 M KOH (50 mL)",
+        "equipment": "Schlenk flask",
+        "chemicals_used": "fully activated MAF-X27-Cl (100 mg, 0.578 mmol)",
+        "time": "12 h",
+        "washing_method": "washed with water several times",
+        "drying_method": "evacuated at 200 °C for 12 h",
+        "yield": "99%"
+      }
+    },
+    {
+      "name": "MAF-X27-OD",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": "D2O solution of NaOD",
+        "amount_of_each_solvent": "1.0 M NaOD (50 mL)",
+        "equipment": "Schlenk flask",
+        "chemicals_used": "fully activated MAF-X27-Cl (100 mg, 0.578 mmol)",
+        "time": "12 h",
+        "washing_method": "washed with water several times",
+        "drying_method": "evacuated at 200 °C for 12 h",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "MAF-X27-OH(Cu)-1",
+      "synthesis_conditions": {
+        "temperature": "75 °C",
+        "solvents": "DMF/methanol/HCl mixture",
+        "amount_of_each_solvent": "100:100:1 (v/v/v) DMF/methanol/HCl (12 M) mixture (8 mL)",
+        "equipment": "15-mL Teflon reactor, Cu foil",
+        "chemicals_used": "CoCl2·6H2O (0.030 g, 0.126 mmol), H2bbta (0.020 g, 0.126 mmol)",
+        "time": "72 h",
+        "washing_method": "successively washed by H2O and MeOH twice, soaked in MeOH for two days, immersed in KOH solution for 24 h",
+        "drying_method": "washed by water twice before use",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "MAF-X27-OH(Cu)-2",
+      "synthesis_conditions": {
+        "temperature": "75 °C",
+        "solvents": "DMF/methanol/HCl mixture",
+        "amount_of_each_solvent": "100:100:1 (v/v/v) DMF/methanol/HCl (20 mL)",
+        "equipment": "50-mL Teflon reactor, Cu foil",
+        "chemicals_used": "CoCl2·6H2O (0.030 g, 0.126 mmol), H2bbta (0.040 g, 0.126 mmol)",
+        "time": "24 h",
+        "washing_method": "successively washed by H2O and MeOH twice, soaked in MeOH for two days, immersed in KOH solution for 24 h",
+        "drying_method": "washed by water twice before use",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "MAF-X27-OH(Cu)-3",
+      "synthesis_conditions": {
+        "temperature": "75 °C",
+        "solvents": "DMF/methanol/HCl mixture",
+        "amount_of_each_solvent": "100:100:1 (v/v/v) DMF/methanol/HCl (8 mL)",
+        "equipment": "15-mL Teflon reactor, Cu foil",
+        "chemicals_used": "CoCl2·6H2O (0.060 g, 0.378 mmol), H2bbta (0.040 g, 0.252 mmol)",
+        "time": "24 h",
+        "washing_method": "successively washed by H2O and MeOH twice, soaked in MeOH for two days, immersed in KOH solution for 24 h",
+        "drying_method": "washed by water twice before use",
+        "yield": "not specified"
+      }
+    }
+  ]
+}

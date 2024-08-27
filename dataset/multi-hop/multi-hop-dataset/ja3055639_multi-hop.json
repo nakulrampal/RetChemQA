@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What are the key steps involved in the synthesis of ligand 10 (LH6-1) for NU-109 MOF?",
+      "answer": "The key steps involved in the synthesis of ligand 10 (LH6-1) for NU-109 MOF include the preparation of trimethylsilylbutadiyne, the synthesis of 1,3-diethoxycarbonyl-5-(trimethylsilylbutadiynyl)benzene, the conversion to 1,3-diethoxycarbonyl-5-(butadiynyl)benzene, the synthesis of 1,3-diethylcarboxylate-5-[(4-(trimethylsilylethynyl)phenyl)butadiynyl]-benzene, the conversion to 1,3-diethylcarboxylate-5-[(4-(ethynyl)phenyl)butadiynyl]-benzene, the synthesis of 1,3,5-tris[(1,3-diethylcarboxylate-5-(4-(ethynyl)phenyl))butadiynyl]-benzene, and finally the conversion to 1,3,5-tris[(1,3-carboxylic acid-5-(4-(ethynyl)phenyl))butadiynyl]-benzene (10 = LH6-1).",
+      "difficulty": "Hard",
+      "type": "Factual"
+    },
+    {
+      "question": "What method is used for the activation of NU-109E and NU-110E MOFs and what is the purpose of this process?",
+      "answer": "The method used for the activation of NU-109E and NU-110E MOFs is supercritical CO2 drying (SCD). The purpose of this process is to remove solvent molecules from the pores of the crystals without causing framework collapse, thereby making the pores accessible for gas adsorption measurements.",
+      "difficulty": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "How are the BET surface areas for NU-109E and NU-110E MOFs experimentally determined, and what criteria must be satisfied for the BET analysis?",
+      "answer": "The BET surface areas for NU-109E and NU-110E MOFs are experimentally determined using N2 adsorption and desorption isotherms measured at 77 K. The analysis must satisfy three consistency criteria: 1) the pressure range selected should have values of v(P0 - P) increasing with P/P0, 2) the points used to calculate the BET surface area must form a linear plot with an upward slope, and 3) the linear plot must have a positive y-intercept.",
+      "difficulty": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "What force field parameters are used in the molecular simulations for predicting the structures of NU-109SP and NU-110SP, and how are partial atomic charges derived?",
+      "answer": "In the molecular simulations for predicting the structures of NU-109SP and NU-110SP, the Lennard-Jones (LJ) parameters for atoms are taken from the DREIDING force field, except for the copper atom, whose parameters are taken from the Universal Force Field (UFF). Partial atomic charges are derived from density functional theory (DFT) calculations using the B3LYP level of theory and the 6-31G* basis set, with charges extracted using the ChelpG method.",
+      "difficulty": "Hard",
+      "type": "Factual"
+    },
+    {
+      "question": "What is the significance of the geometric surface area calculations for the series of MOFs A, B, and C, and how are the theoretical upper limits of accessible surface areas estimated?",
+      "answer": "The geometric surface area calculations for the series of MOFs A, B, and C are significant for understanding how the length of the linker affects the accessible surface area of the MOFs. The theoretical upper limits of accessible surface areas are estimated using a five-parameter 'exponential rise to max' fitting equation, which helps predict the maximum achievable surface area based on the unit cell dimensions and the length of the linker in the MOF structure.",
+      "difficulty": "Hard",
+      "type": "Reasoning"
+    },
+    {
+      "question": "True or False: The BET surface area analysis for NU-109E and NU-110E MOFs does not require any specific criteria to be satisfied.",
+      "answer": "False",
+      "difficulty": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: Supercritical CO2 drying is used in the activation of NU-109E and NU-110E MOFs to introduce solvent molecules into the framework.",
+      "answer": "False",
+      "difficulty": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The Universal Force Field (UFF) is used for all atoms in the molecular simulations for NU-109SP and NU-110SP.",
+      "answer": "False",
+      "difficulty": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What challenges are associated with increasing the surface area of MOFs beyond the experimental limits observed for NU-109E and NU-110E?",
+      "answer": "Challenges associated with increasing the surface area of MOFs beyond the experimental limits observed for NU-109E and NU-110E include maintaining structural stability during solvent removal, avoiding framework collapse, ensuring the solubility and processability of highly extended linkers, and overcoming practical difficulties such as poor synthetic yields and cumbersome purification protocols.",
+      "difficulty": "Hard",
+      "type": "Reasoning"
+    },
+    {
+      "question": "How does the method of supercritical CO2 drying benefit the activation process of MOFs compared to traditional drying methods?",
+      "answer": "The method of supercritical CO2 drying benefits the activation process of MOFs compared to traditional drying methods by enabling the removal of solvent molecules from the pores without causing framework collapse or channel blockage. This method preserves the porosity and structural integrity of the MOFs, allowing for the realization of their high surface areas.",
+      "difficulty": "Medium",
+      "type": "Reasoning"
+    }
+  ]
+}

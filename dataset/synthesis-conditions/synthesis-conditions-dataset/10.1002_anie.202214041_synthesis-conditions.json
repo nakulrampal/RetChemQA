@@ -1,0 +1,76 @@
+{
+  "materials": [
+    {
+      "name": "Cadmium-based crystals with AdDB ligand",
+      "synthesis_conditions": {
+        "temperature": "105 °C",
+        "solvent": "dimethylformamide (DMF)",
+        "amount_of_solvent": "Not specified",
+        "equipment": "Not specified",
+        "chemicals_used": {
+          "ligand": "AdDB",
+          "metal_salt": "cadmium nitrate",
+          "acid": "HCl"
+        },
+        "molar_ratio_of_ligand_to_metal_salt": "1 : 4.6",
+        "time": "24 hours",
+        "washing_method": "washed with methanol",
+        "drying_method": "vacuum filtration",
+        "yield": "89 % based on the ligand"
+      }
+    },
+    {
+      "name": "Crystals functionalized with sodium resorufin and sodium fluorescein",
+      "synthesis_conditions": {
+        "temperature": "Not specified",
+        "solvent": "methanol",
+        "amount_of_solvent": "Not specified",
+        "equipment": "Not specified",
+        "chemicals_used": {
+          "dyes": [
+            "sodium resorufin",
+            "sodium fluorescein"
+          ]
+        },
+        "time": "sieving process completed in � 24 h",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "Selective sieving effects demonstrated with a series of eight methanol solutions with differently-sized dyes. The smallest channel is only accessible to the dyes of group I, whereas the larger channel is accessible to both small and large dyes (groups I and II)."
+      }
+    },
+    {
+      "name": "Crystals functionalized with sodium fluorescein (SF) followed by sodium resorufin (SR)",
+      "synthesis_conditions": {
+        "sequence": [
+          "First saturated with sodium fluorescein",
+          "Then loaded with sodium resorufin"
+        ],
+        "amount_of_dyes": {
+          "sodium_fluorescein": "0.03 mmol g-1",
+          "sodium_resorufin": "0.003 mmol g-1"
+        },
+        "observations": "Dichroic under polarized light, showing purple or yellow depending on the angle of the incident light."
+      }
+    },
+    {
+      "name": "Crystals functionalized with sodium fluorescein (SF) and varying amounts of sodium resorufin (SR)",
+      "synthesis_conditions": {
+        "sequence": [
+          "First saturated with sodium fluorescein",
+          "Then loaded with varying amounts of sodium resorufin"
+        ],
+        "amount_of_dyes": {
+          "sodium_fluorescein": "2.7 x 10-2 mmol g-1",
+          "sodium_resorufin_varied_amounts": [
+            "SR1: 3.7 x 10-5 mmol g-1",
+            "SR2: 2.5 x 10-3 mmol g-1",
+            "SR3: 4.9 x 10-3 mmol g-1",
+            "SR4: 4.1 x 10-2 mmol g-1"
+          ]
+        },
+        "observations": "Demonstrated Förster resonance energy transfer (FRET) between the sodium salts of fluorescein (SF) and resorufin (SR) in the host crystals."
+      }
+    }
+  ]
+}

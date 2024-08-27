@@ -1,0 +1,62 @@
+{
+  "materials": [
+    {
+      "name": "1$[CuCl]",
+      "synthesis_conditions": {
+        "solvent": "acetonitrile",
+        "chemicals_used": "CuCl",
+        "washing_method": "non-polar solvents (e.g. toluene, diethyl ether, or alkanes)",
+        "conversion_details": "quantitative formation of the non-solvated, trigonal planar species",
+        "confirmation_methods": "Single crystal X-ray diffraction (SCXRD)",
+        "yield_details": "not specified",
+        "additional_information": "Conversion of the disordered tetrahedral species to a well-defined trigonal planar complex was confirmed by SCXRD data."
+      }
+    },
+    {
+      "name": "1$[CuCl]-unlocked",
+      "synthesis_conditions": {
+        "activation_method": "Sample activation from n-pentane at 100°C",
+        "time": "90 minutes",
+        "temperature": "100°C",
+        "solvent_for_activation": "n-pentane",
+        "additional_information": "A clear gate-opening effect is observed due to the inherent flexibility of the digonal complex, giving the isotherm an S-shaped profile characteristic of flexible frameworks."
+      }
+    },
+    {
+      "name": "1$[AuCl]",
+      "synthesis_conditions": {
+        "metalation_with": "[AuCl(dms)] (dms = dimethylsulfide)",
+        "solvent": "diethyl ether",
+        "activation_method": "Sample activation at room temperature",
+        "solvent_for_activation": "diethyl ether and n-pentane",
+        "additional_information": "SCXRD analysis revealed a linear AuCl complex coordinated to a single N-donor site in 1."
+      }
+    },
+    {
+      "name": "1$[CuBr] and 1$[CuI]",
+      "synthesis_conditions": {
+        "method": "Anion metathesis of 1$[CuCl] with NaBr or NaI in dry methanol",
+        "time": "24 and 48 hours, respectively",
+        "solvent": "dry methanol",
+        "washing_method": "methanol, acetone, and n-pentane",
+        "confirmation_methods": "EDX analysis and SCXRD",
+        "additional_information": "Quantitative halide exchange had occurred, leading to trigonal planar Cu(I)-halide complex."
+      }
+    },
+    {
+      "name": "1$[CuCl]-locked",
+      "synthesis_conditions": {
+        "activation_conditions": "Activated at room temperature from either diethyl ether or via supercritical CO2",
+        "additional_information": "The isotherm profiles were Type-I, indicating a 'locked' trigonal planar conformer."
+      }
+    },
+    {
+      "name": "1$[CuCl]-resolv",
+      "synthesis_conditions": {
+        "resolvation_method": "Immersing 1$[CuCl]-unlocked in dry MeCN",
+        "time_for_resolvation": "2 hours",
+        "additional_information": "This process led to the recovery of the initial tetrahedral complex, 1$[Cu(MeCN)Cl]."
+      }
+    }
+  ]
+}

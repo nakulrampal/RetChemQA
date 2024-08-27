@@ -1,0 +1,175 @@
+{
+  "Cu(cyhdc)": {
+    "synthesis_conditions": {
+      "temperature": "90°C",
+      "solvents": [
+        {
+          "name": "N,N'-dimethylformamide",
+          "amount": "100 ml"
+        },
+        {
+          "name": "methanol",
+          "amount": "used for rinsing and soaking"
+        }
+      ],
+      "equipment": "250 ml bottle",
+      "chemicals_used": [
+        {
+          "name": "Cu(NO3)2∙2.5H2O",
+          "amount": "2.326 g"
+        },
+        {
+          "name": "trans-1,4-cyclohexanedicarboxylic acid",
+          "amount": "1.722 g"
+        }
+      ],
+      "time": "16 h",
+      "drying_method": "heated at 150°C under vacuum for 18-24 h",
+      "yield": "approximately 2 g"
+    }
+  },
+  "Cu(NH3)4(cyhdc)": {
+    "synthesis_conditions": {
+      "temperature": "room temperature",
+      "solvents": [
+        {
+          "name": "2.0 M NH3 solution in methanol",
+          "amount": "1.5 ml added in 0.25 ml increments over two days"
+        }
+      ],
+      "equipment": "20 ml vial",
+      "chemicals_used": [
+        {
+          "name": "Cu(cyhdc)",
+          "amount": "approximately 50 mg"
+        }
+      ],
+      "time": "two days",
+      "drying_method": "dried on a Schlenk line for 16 h at room temperature"
+    }
+  },
+  "Cu(NH3)2(cyhdc)": {
+    "synthesis_conditions": {
+      "temperature": "room temperature",
+      "solvents": [
+        {
+          "name": "2.0 M NH3 solution in methanol",
+          "amount": "1.5 ml added in 0.25 ml increments over two days"
+        }
+      ],
+      "equipment": "20 ml vial",
+      "chemicals_used": [
+        {
+          "name": "Cu(cyhdc)",
+          "amount": "approximately 50 mg"
+        }
+      ],
+      "time": "two days",
+      "drying_method": "dried on a Schlenk line for 16 h at room temperature"
+    }
+  },
+  "Cr(cyhdc)": {
+    "synthesis_conditions": {
+      "temperature": "120°C",
+      "solvents": [
+        {
+          "name": "N,N'-dimethylformamide",
+          "amount": "8 ml"
+        },
+        {
+          "name": "methanol",
+          "amount": "1 ml"
+        }
+      ],
+      "equipment": "20 ml vial",
+      "chemicals_used": [
+        {
+          "name": "anhydrous chromium(II) chloride",
+          "amount": "0.200 g"
+        },
+        {
+          "name": "trans-1,4-cyclohexanedicarboxylic acid",
+          "amount": "0.172 g"
+        }
+      ],
+      "time": "18 h",
+      "drying_method": "rinsed and soaked in methanol"
+    }
+  },
+  "Fe(cyhdc)": {
+    "synthesis_conditions": {
+      "temperature": "120°C",
+      "solvents": [
+        {
+          "name": "N,N'-dimethylformamide",
+          "amount": "8 ml"
+        },
+        {
+          "name": "methanol",
+          "amount": "1 ml"
+        }
+      ],
+      "equipment": "20 ml vial",
+      "chemicals_used": [
+        {
+          "name": "anhydrous iron(II) chloride",
+          "amount": "0.200 g"
+        },
+        {
+          "name": "trans-1,4-cyclohexanedicarboxylic acid",
+          "amount": "0.172 g"
+        }
+      ],
+      "time": "18 h",
+      "drying_method": "rinsed and soaked in methanol"
+    }
+  },
+  "Cu(bpdc)": {
+    "synthesis_conditions": {
+      "temperature": "90°C",
+      "solvents": [
+        {
+          "name": "N,N'-dimethylformamide",
+          "amount": "100 ml"
+        }
+      ],
+      "equipment": "250 ml bottle",
+      "chemicals_used": [
+        {
+          "name": "Cu(NO3)2∙2.5H2O",
+          "amount": "2.326 g"
+        },
+        {
+          "name": "biphenyl-4,4'-dicarboxylic acid",
+          "amount": "1.211 g"
+        }
+      ],
+      "time": "16 h",
+      "drying_method": "rinsed and soaked in methanol"
+    }
+  },
+  "Cu(tfbdc)": {
+    "synthesis_conditions": {
+      "temperature": "60°C",
+      "solvents": [
+        {
+          "name": "ethanol",
+          "amount": "100 ml"
+        }
+      ],
+      "equipment": "250 ml bottle",
+      "chemicals_used": [
+        {
+          "name": "Cu(NO3)2∙2.5H2O",
+          "amount": "2.326 g"
+        },
+        {
+          "name": "tetrafluoroterephthalic acid",
+          "amount": "2.381 g"
+        }
+      ],
+      "time": "16 h",
+      "drying_method": "soaked in ethanol"
+    }
+  }
+}

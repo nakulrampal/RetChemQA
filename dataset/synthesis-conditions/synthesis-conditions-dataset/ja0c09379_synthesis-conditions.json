@@ -1,0 +1,104 @@
+{
+  "materials": [
+    {
+      "name": "FeTHQ",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "dimethylformamide (DMF)",
+            "amount": "5 ml"
+          },
+          {
+            "name": "water",
+            "amount": "15 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "tetrahydroxy-1,4-benzoquinone hydrate (THQ)",
+            "amount": "30 mg",
+            "details": "0.174 mmol on anhydrous basis"
+          },
+          {
+            "name": "Iron (II) sulfate heptahydrate (FeSO4·7H2O)",
+            "amount": "96.9 mg",
+            "details": "0.348 mmol"
+          }
+        ],
+        "time": "12 hrs",
+        "washing_method": [
+          {
+            "solvent": "H2O",
+            "amount": "50 mL × 2"
+          },
+          {
+            "solvent": "acetone",
+            "amount": "20 mL × 2"
+          }
+        ],
+        "drying_method": "60 °C vacuum oven for 1 hour",
+        "yield": "~35 mg (83 %, assuming THQ is anhydrous)"
+      }
+    },
+    {
+      "name": "Reduced FeTHQ",
+      "synthesis_conditions": {
+        "preparation": "FeTHQ or FeTHQ_ox powders are vacuum dried at 60 °C oven for 1 hour prior to the reduction studies.",
+        "chemicals_used": [
+          {
+            "name": "FeTHQ powders",
+            "amount": "100 mg"
+          },
+          {
+            "name": "sodium naphthalenide in THF",
+            "concentration": "0.2 M",
+            "amount": "varied"
+          }
+        ],
+        "solvent": "anhydrous tetrahydrofuran (THF)",
+        "time": "12 hrs",
+        "washing_method": [
+          {
+            "solvent": "THF",
+            "amount": "50 mL × 2",
+            "details": "nitrogen bubbled"
+          },
+          {
+            "solvent": "methanol",
+            "amount": "50 mL × 2"
+          },
+          {
+            "solvent": "acetone",
+            "amount": "50 mL × 2"
+          }
+        ],
+        "drying_method": "50 °C vacuum oven for 1 hour"
+      }
+    },
+    {
+      "name": "Activated FeTHQ for BET",
+      "synthesis_conditions": {
+        "preparation": "FeTHQ was prepared as previously described in Synthesis of FeTHQ, filtered and washed with water and acetone and dried at room temperature under vacuum.",
+        "activation_method": "degassed at 60°C for 2 hours followed by 100°C for 8 hours prior to the nitrogen adsorption surface area measurement."
+      }
+    },
+    {
+      "name": "FeTHQ Pellets for Conductivity Measurement",
+      "synthesis_conditions": {
+        "preparation": "prepared by cold isostatic pressing using commercial pressing equipment (MTI)",
+        "details": "pellets are ~200 μm thick with a diameter of ¼ inch",
+        "measurement_conditions": "performed under vacuum (ca. 10−4 Pa) to avoid the influence of oxygen and moisture",
+        "method": "linear four-contacts method",
+        "equipment": [
+          {
+            "name": "Keithley 4200 SCS parameter analyzer"
+          },
+          {
+            "name": "CRX-6.5K Cryogenic Probe Station"
+          }
+        ]
+      }
+    }
+  ]
+}

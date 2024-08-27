@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What are the synthesis conditions for the triglycine ligand (L) used in the creation of metal-peptide torus knots?",
+      "answer": "The synthesis conditions for the triglycine ligand (L) involved solution-phase peptide synthesis, starting with boc-Gly-OH, Boc-L-Ala-OH, and proceeding through a series of steps involving reagents like EDCI, HOBt, and DIEA in solvents such as THF and DMF. The process included cooling, stirring, and purification steps, leading to the formation of the desired ligand.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How were the crystal structures of the metal-peptide torus knots and links analyzed?",
+      "answer": "The crystal structures of the metal-peptide torus knots and links were analyzed using X-ray crystallography. This involved measuring diffraction data at low temperatures using a diffractometer equipped with a focusing mirror and a cryostat system. The structures were solved by direct or dual-space methods and refined by full-matrix least-squares calculations on F2.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to estimate the energy difference between the frameworks of torus knots and links in the study?",
+      "answer": "The energy difference between the frameworks of torus knots and links was estimated using molecular mechanics calculation (forcite: Universal) in BIOVIA Materials Studio 2018. This involved creating models from the crystal coordinates and applying molecular mechanics calculations to estimate the energy per Ag•ligand unit for each structure.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the purpose of using ion mobility mass spectrometry in the study of metal-peptide torus knots?",
+      "answer": "Ion mobility mass spectrometry was used to characterize the complexation mixture of the ligand and silver ions. It helped in identifying a series of fragment ions with the same charge state, providing insights into the composition and structure of the metal-peptide complexes formed.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How did the researchers determine the number of possible stereoisomers for the torus knots and links?",
+      "answer": "The researchers determined the number of possible stereoisomers for the torus knots and links by considering the random connectivity of Ag–ligands in head-to-tail or head-to-head manner and the directional sense of the peptide strands. They listed all possible isomers based on these criteria, taking into account the topological chirality and connectivity of the components.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role did diffusion-ordered NMR spectroscopy (DOSY) play in the study?",
+      "answer": "Diffusion-ordered NMR spectroscopy (DOSY) played a crucial role in determining the translational diffusion coefficients of the self-assembled products, which helped in estimating the size and oligomeric number of the catenanes in solution. This technique provided insights into the molecular size and aggregation state of the complexes formed.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why was the viscosity of nitromethane considered in the molecular mechanics calculation of torus complexes?",
+      "answer": "The viscosity of nitromethane was considered in the molecular mechanics calculation of torus complexes to accurately simulate the hydrodynamic radii and translational diffusion coefficients of the oligo[n]catenane models in solution. This parameter is crucial for realistic modeling of the solution properties of the complexes.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study successfully synthesized a synthetic molecular trefoil knot.",
+      "answer": "False. The study focused on the synthesis and characterization of metal-peptide torus knots and links, such as a 7-crossing torus knot and an 8-crossing torus link, rather than a trefoil knot.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the significance of the Ramachandran plot in the study?",
+      "answer": "The Ramachandran plot was significant in the study as it was used to analyze the dihedral angles of the glycine residues in the metal-peptide complexes, providing insights into the conformational preferences and structural characteristics of the peptide strands within the torus knots and links.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study found that the energy difference between the frameworks of torus knots and links is mainly determined by their enthalpies.",
+      "answer": "False. The study suggested that the product ratio of torus rings is mainly determined by their entropies, not enthalpies, based on molecular mechanics calculations that estimated the energy per Ag•ligand unit for each structure.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

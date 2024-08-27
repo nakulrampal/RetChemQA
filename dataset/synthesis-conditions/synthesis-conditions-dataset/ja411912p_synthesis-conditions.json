@@ -1,0 +1,178 @@
+{
+  "materials": [
+    {
+      "name": "[(phen)Cu(phth)2] (1-phth2)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "20 mL"
+          },
+          {
+            "name": "MeOH",
+            "amount": "25 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[(phen)CuCl]2(μ-Cl)2",
+            "amount": "267 mg, 0.420 mmol"
+          },
+          {
+            "name": "potassium phthalimide",
+            "amount": "330 mg, 1.78 mmol"
+          }
+        ],
+        "time": "12 h",
+        "yield": "72%",
+        "washing_method": "washed with THF (20 mL) and then Et2O (20 mL)",
+        "drying_method": "evaporation of MeOH solution",
+        "characterization_methods": [
+          "FT-IR",
+          "Elemental analysis"
+        ]
+      }
+    },
+    {
+      "name": "[(phen)Cu(NHSO2Ph)2] (2)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H2NSO2Ph",
+            "amount": "159 mg, 1.00 mmol"
+          },
+          {
+            "name": "NaOtBu",
+            "amount": "96 mg, 1.0 mmol"
+          },
+          {
+            "name": "[(phen)CuCl]2(μ-Cl)2",
+            "amount": "150 mg, 0.240 mmol"
+          }
+        ],
+        "time": "12 h",
+        "yield": "84%",
+        "washing_method": "washed with copious amounts of THF, MeOH, and Et2O to remove NaCl",
+        "drying_method": "dried under dynamic vacuum",
+        "characterization_methods": [
+          "FT-IR",
+          "Elemental analysis"
+        ]
+      }
+    },
+    {
+      "name": "[(phen)Cu(NHCOPh)2] (3)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "NaOtBu",
+            "amount": "96 mg, 1.0 mmol"
+          },
+          {
+            "name": "H2NCOPh",
+            "amount": "122 mg, 1.00 mmol"
+          },
+          {
+            "name": "[(phen)CuCl]2(μ-Cl)2",
+            "amount": "150 mg, 0.240 mmol"
+          }
+        ],
+        "time": "12 h",
+        "yield": "70%",
+        "washing_method": "washed with copious amounts of THF, MeOH (50 mL), and Et2O (50 mL)",
+        "drying_method": "dried under dynamic vacuum",
+        "characterization_methods": [
+          "FT-IR",
+          "Elemental analysis"
+        ]
+      }
+    },
+    {
+      "name": "[(phen)2Cu][Cu(NHSO2Ph)2] (4)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "4 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[Cu(Mes)]",
+            "amount": "200 mg, 1.09 mmol"
+          },
+          {
+            "name": "1,0-phenanthroline",
+            "amount": "197 mg, 1.09 mmol"
+          },
+          {
+            "name": "H2NSO2Ph",
+            "amount": "180 mg, 1.14 mmol"
+          }
+        ],
+        "time": "3 h",
+        "yield": "71%",
+        "washing_method": "washed with pentane (20 mL)",
+        "drying_method": "dried under vacuum",
+        "characterization_methods": [
+          "1H NMR",
+          "13C NMR",
+          "FT-IR",
+          "Elemental analysis"
+        ]
+      }
+    },
+    {
+      "name": "[(phen)2Cu][Cu(NHCOPh)2] (5)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "4 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[Cu(Mes)]",
+            "amount": "200 mg, 1.09 mmol"
+          },
+          {
+            "name": "1,0-phenanthroline",
+            "amount": "197 mg, 1.09 mmol"
+          },
+          {
+            "name": "benzamide",
+            "amount": "138 mg, 1.14 mmol"
+          }
+        ],
+        "time": "3 h",
+        "yield": "66%",
+        "washing_method": "washed with pentane (20 mL)",
+        "drying_method": "dried under vacuum",
+        "characterization_methods": [
+          "1H NMR",
+          "13C NMR",
+          "FT-IR",
+          "Elemental analysis"
+        ]
+      }
+    }
+  ]
+}

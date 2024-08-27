@@ -1,0 +1,86 @@
+{
+  "materials": [
+    {
+      "name": "BPV-MOF",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": "DMF",
+        "chemicals_used": "ZrCl4, H2BPV, trifluoroacetic acid",
+        "time": "5 days",
+        "yield": "40%",
+        "drying_method": "vacuum",
+        "washing_method": "THF"
+      }
+    },
+    {
+      "name": "mBPV-MOF",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": "DMF",
+        "chemicals_used": "ZrCl4, H2BPV, 4,4'-bis(carboxyethenyl)-1,1'-biphenyl (H2BPHV), trifluoroacetic acid",
+        "time": "5 days",
+        "yield": "40%",
+        "drying_method": "vacuum",
+        "washing_method": "THF"
+      }
+    },
+    {
+      "name": "mPT-MOF",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": "DMF",
+        "chemicals_used": "ZrCl4, H2PT, 4,4'-bis(carboxyphenyl)-2-nitro-1,1'-biphenyl (H2TPHN), trifluoroacetic acid",
+        "time": "5 days",
+        "yield": "45%",
+        "drying_method": "vacuum",
+        "washing_method": "THF"
+      }
+    },
+    {
+      "name": "BPV-MOF-Ir",
+      "synthesis_conditions": {
+        "solvents": "THF",
+        "chemicals_used": "BPV-MOF, [Ir(COD)(OMe)]2",
+        "time": "18 h",
+        "washing_method": "THF",
+        "storage": "heptane",
+        "solvent_weight_loss": "30%",
+        "Ir_loading": "65% with respect to Zr centers"
+      }
+    },
+    {
+      "name": "mBPV-MOF-Ir",
+      "synthesis_conditions": {
+        "solvents": "THF",
+        "chemicals_used": "mBPV-MOF, [Ir(COD)(OMe)]2",
+        "time": "18 h",
+        "washing_method": "THF",
+        "storage": "heptane",
+        "solvent_weight_loss": "55%",
+        "Ir_loading": "16% with respect to Zr centers"
+      }
+    },
+    {
+      "name": "mPT-MOF-Ir",
+      "synthesis_conditions": {
+        "solvents": "THF",
+        "chemicals_used": "mPT-MOF, [Ir(COD)(OMe)]2",
+        "time": "15 h",
+        "washing_method": "THF",
+        "storage": "heptane",
+        "solvent_weight_loss": "38%",
+        "Ir_loading": "20% with respect to Zr centers"
+      }
+    },
+    {
+      "name": "mPT-MOF-Ir(COD)-Cl",
+      "synthesis_conditions": {
+        "solvents": "THF",
+        "chemicals_used": "mPT-MOF, [IrCl(COD)]2",
+        "time": "24 h",
+        "washing_method": "THF",
+        "Ir_loading": "12% with respect to Zr centers"
+      }
+    }
+  ]
+}

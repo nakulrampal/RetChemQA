@@ -1,0 +1,61 @@
+{
+  "materials": [
+    {
+      "material": "[Ln2(PDA)3(H2O)]·2H2O (Ln = La, Er)",
+      "synthesis_conditions": {
+        "temperature": "170 °C",
+        "solvents": [
+          {
+            "name": "deionized water",
+            "amount": "10 mL"
+          },
+          {
+            "name": "ethanol",
+            "amount": "1 mL"
+          }
+        ],
+        "equipment": "Teflon-lined Parr bomb",
+        "chemicals_used": [
+          {
+            "name": "Er(NO3)3·5H2O",
+            "amount": "0.353 g, 0.80 mmol"
+          },
+          {
+            "name": "H2PDA",
+            "amount": "0.095 g, 0.49 mmol"
+          }
+        ],
+        "time": "3 days",
+        "washing_method": "deionized water, ethanol, and acetone",
+        "drying_method": "air-dried",
+        "yield": "78%"
+      }
+    },
+    {
+      "material": "[Er2(PDA)3(H2O)] and [Er2(PDA)3]",
+      "synthesis_conditions": {
+        "dehydration_conditions": [
+          {
+            "temperature": "room temperature",
+            "vacuum": "2 × 10^-3 Torr",
+            "time": "4 h",
+            "weight_loss": "8.0 mg",
+            "product": "[Er2(PDA)3(H2O)]"
+          },
+          {
+            "temperature": "200 °C",
+            "vacuum": "2 × 10^-3 Torr",
+            "time": "4 h",
+            "weight_loss": "26.0 mg",
+            "product": "[Er2(PDA)3]"
+          }
+        ],
+        "rehydration_conditions": {
+          "exposure_to_water_vapor": "12 h",
+          "result": "weight gains corresponding to two and three water molecules per formula unit, respectively",
+          "process": "reversible"
+        }
+      }
+    }
+  ]
+}

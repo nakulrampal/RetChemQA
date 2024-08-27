@@ -1,0 +1,107 @@
+{
+  "materials": [
+    {
+      "name": "K[Cu(OPh)2] (1a)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CuOtBu",
+            "amount": "136.7 mg",
+            "molar_amount": "1.0 mmol"
+          },
+          {
+            "name": "HOPh",
+            "amount": "94.1 mg",
+            "molar_amount": "1.0 mmol"
+          },
+          {
+            "name": "KOPh",
+            "amount": "132.2 mg",
+            "molar_amount": "1.0 mmol"
+          }
+        ],
+        "time": "1.5 h",
+        "washing_method": "washed with pentane",
+        "drying_method": "dried under vacuum",
+        "yield": "89%",
+        "characterization": [
+          {
+            "technique": "1H NMR",
+            "solvent": "DMSO-d6",
+            "details": "δ 6.23-6.35 (m, 2 H), 6.46-6.61 (m, 4 H), 6.86-6.92 (m, 4 H)"
+          },
+          {
+            "technique": "13C{1H} NMR",
+            "solvent": "DMSO-d6",
+            "details": "δ 112.3, 119.3, 128.7, 168.5"
+          },
+          {
+            "technique": "Elemental Analysis",
+            "details": "Calcd. for C12H10CuKO2: C, 49.90; H, 3.49. Found: C, 49.62; H, 3.66."
+          }
+        ]
+      }
+    },
+    {
+      "name": "K[(4-FC6H4O)2Cu] (1b)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "toluene",
+            "amount": "15 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "4-fluorophenol",
+            "amount": "56.0 mg",
+            "molar_amount": "0.5 mmol"
+          },
+          {
+            "name": "potassium 4-fluorophenoxide",
+            "amount": "75.1 mg",
+            "molar_amount": "0.5 mmol"
+          },
+          {
+            "name": "CuOtBu",
+            "amount": "68.4 mg",
+            "molar_amount": "0.5 mmol"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": "washed with pentane",
+        "drying_method": "dried under vacuum",
+        "yield": "83%",
+        "characterization": [
+          {
+            "technique": "1H NMR",
+            "solvent": "DMSO-d6",
+            "details": "δ 6.37 - 6.42 (m, 4 H), 6.66 – 6.75 (m, 4 H)"
+          },
+          {
+            "technique": "13C{1H} NMR",
+            "solvent": "DMSO-d6",
+            "details": "δ 115.3, 119.8, 153.2 (d, JCF = 229.5 Hz), 165.9"
+          },
+          {
+            "technique": "19F-NMR",
+            "solvent": "DMSO-d6",
+            "details": "δ -133.75"
+          },
+          {
+            "technique": "Elemental Analysis",
+            "details": "Calcd for C12H8CuF2KO2: C, 44.37; H, 2.48. Found: C, 43.98; H, 2.60."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "materials": [
+    {
+      "name": "SrCu(HC3N3O3)2",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "methanol",
+        "amount_of_solvent": "5 mL",
+        "equipment": "20 mL Teflon-lined stainless steel autoclave, computer-controlled furnace",
+        "chemicals_used": {
+          "H3C3N3O3": "65 mg, 0.5 mmol",
+          "NaOH": "40 mg, 1 mmol",
+          "SrCl2": "40 mg, 0.25 mmol",
+          "CuCl2": "34 mg, 0.25 mmol"
+        },
+        "time": "heated to 120 °C for 2 h and held there for 72 h, then cooled to room temperature at a rate of 3 °C h−1",
+        "washing_method": "washed with deionized water",
+        "drying_method": "not specified",
+        "yield": "not specified",
+        "additional_steps": [
+          {
+            "step": "ultrasonic processing",
+            "details": "10 minutes"
+          }
+        ]
+      }
+    }
+  ]
+}

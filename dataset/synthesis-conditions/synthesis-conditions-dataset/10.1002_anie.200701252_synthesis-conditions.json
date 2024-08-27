@@ -1,0 +1,89 @@
+{
+  "materials": [
+    {
+      "name": "Ligands 1a and 1b",
+      "synthesis_conditions": {
+        "temperature": "room temperature, then heated",
+        "solvents": ["methanol"],
+        "chemicals_used": [
+          "isophthalaldehyde",
+          "2,2,2-trimethoxy-4,5-dimethyl-1,3,2-dioxaphospholene (for 1a)",
+          "2,2,2-trimethoxy-4,5-diethyl-1,3,2-dioxaphospholene (for 1b)"
+        ],
+        "atmosphere": "nitrogen"
+      }
+    },
+    {
+      "name": "Molecular squares 2a and 2b",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "CH2Cl2",
+            "amount": "20 mL, then an additional 20 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          "CuSO4·5 H2O (0.35 g, 1.4 mmol)",
+          "conc. aqueous NH3",
+          "1a or 1b"
+        ],
+        "time": "6 h",
+        "washing_method": "washed with hexane (2 x 10 mL)",
+        "drying_method": "dried in air",
+        "yield": "approximately 95 %"
+      }
+    },
+    {
+      "name": "Polymeric complex 3a",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "CHCl3",
+            "amount": "3 mL"
+          },
+          {
+            "name": "CH2Cl2",
+            "amount": "5 mL"
+          },
+          {
+            "name": "toluene",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          "2a (34 mg, 0.025 mmol)",
+          "4,4’-bpy (16 mg, 0.102 mmol)"
+        ],
+        "temperature": "-20 °C",
+        "time": "two days",
+        "yield": "84 %"
+      }
+    },
+    {
+      "name": "Complex 4b",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "CHCl3",
+            "amount": "2 mL"
+          },
+          {
+            "name": "1,2-dichlorobenzene",
+            "amount": "1:1 mixture with CHCl3, 1 mL, then 5 mL"
+          }
+        ],
+        "chemicals_used": [
+          "2b (25 mg, 0.015 mmol)",
+          "C60 (15 mg, 0.021 mmol)"
+        ],
+        "time": "several days",
+        "yield": "not specified, analytically pure material could not be obtained"
+      }
+    }
+  ]
+}

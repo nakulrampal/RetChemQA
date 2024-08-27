@@ -1,0 +1,34 @@
+{
+  "materials": [
+    {
+      "name": "KBi·NH3 (1)",
+      "synthesis_conditions": {
+        "precursors": [
+          "K5Bi4, Ph2Zn, 18-crown-6",
+          "K3Bi2, K4Sn9"
+        ],
+        "solvent": "liquid ammonia",
+        "appearance": "gray metallic plates",
+        "space_group": "Cm (no. 8)",
+        "Bi-Bi_separation": "3.0758(4) Å",
+        "Bi-Bi-Bi_angle": "116°",
+        "comments": "Crystallizes from liquid ammonia containing different bismuthide precursors. The structure compares to the planar zigzag arrangement of Bi4 in K6[Bi4]·8 NH3. The Bi-Bi separations and Bi-Bi-Bi bond angle are provided for comparison with other compounds."
+      }
+    },
+    {
+      "name": "K2[K(18-crown-6)]2[Bi6]·9 NH3 (2)",
+      "synthesis_conditions": {
+        "precursors": [
+          "K5Bi4, Mesnacnac2Zn2",
+          "K3Bi2, K4Ge9"
+        ],
+        "solvent": "liquid ammonia",
+        "appearance": "silverish needles",
+        "space_group": "Pmn21 (no. 31)",
+        "Bi-Bi_separation": "2.954(2) to 2.980(2) Å",
+        "bond_angles": "116.4(1)° to 119.8(1)°",
+        "comments": "Obtained from liquid ammonia solutions with different precursors in the presence of 18-crown-6. The six-membered Bi6 ring exhibits a chair conformation with specified Bi-Bi separations and bond angles."
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the role of chelating azides in the Cu(OAc)2-accelerated azide-alkyne cycloaddition reaction?",
+      "answer": "The high reactivity of chelating azides, such as 2-picolylazide, is attributed to the rapid copper-azido interaction that occurs prior to copper(I) acetylide formation, making the deprotonation of alkyne rate-determining.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the structure of Cu(OAc)2 evolve during the CuAAC reaction?",
+      "answer": "The structure of Cu(OAc)2 may evolve as the reaction proceeds, altering the mechanism. For example, in the absence of an alkyne reaction partner, 2-picolylazide can lead to the formation of a copper(I)14 cluster and the homocoupled diyne product.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What evidence supports the involvement of a mixed valency copper(II)/copper(I) dinuclear catalyst in the Cu(OAc)2-accelerated CuAAC reaction?",
+      "answer": "The extraordinary CuAAC reactivity of a partially reduced Cu(OAc)2 system involving the chelating 2-picolylazide and the enhanced reaction rate observed with a substoichiometric amount of sodium ascorbate added to copper(II) suggest the synergistic effect of copper(I) and copper(II), indicating the involvement of a mixed valency dinuclear copper catalyst.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the Cu-Cu distance in dinuclear copper catalysts for CuAAC reactions?",
+      "answer": "The Cu-Cu distance in dinuclear copper catalysts is crucial for the formation of the (μ, η1,2)-C≡C→Cu2 structure in the catalytic cycle. An optimal Cu-Cu distance within the range of 2.54-2.64 Å is favorable for the CuAAC reaction, as it allows for the efficient formation of the metallacycle intermediate.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of chelating azides affect the induction period in Cu(OAc)2-accelerated CuAAC reactions?",
+      "answer": "Chelating azides, such as 2-picolylazide, can accelerate the initial oxidative homocoupling (OHC) induction reaction in nonoxidizable solvents like CH3CN, reducing the induction period. This is due to their ability to facilitate the interaction between copper(II) and the alkyne component, leading to the generation of copper(I) catalytic species.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental evidence supports the kinetic significance of alkyne deprotonation in Cu(OAc)2-accelerated CuAAC reactions?",
+      "answer": "The kinetic significance of alkyne deprotonation is supported by a primary deuterium kinetic isotope effect (KIE) of 2.3 observed in CD3CN and the effect of substitution on the reactivity of phenylacetylene, where electron-withdrawing groups reduce the induction period and increase the reaction rate.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The structure of the Cu(OAc)2 catalyst remains unchanged throughout the CuAAC reaction.",
+      "answer": "False. The structure of Cu(OAc)2 may evolve during the CuAAC reaction, potentially altering the reaction mechanism.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The presence of chelating azides leads to the formation of a copper(I)14 cluster in the absence of an alkyne reaction partner.",
+      "answer": "True. In the absence of an alkyne reaction partner, chelating azides can lead to the formation of a copper(I)14 cluster.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: A mixed valency copper(II)/copper(I) dinuclear catalyst is less active in CuAAC reactions than a mononuclear copper(I) catalyst.",
+      "answer": "False. A mixed valency copper(II)/copper(I) dinuclear catalyst is speculated to be highly active in CuAAC reactions, potentially more so than a mononuclear copper(I) catalyst.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The Cu-Cu distance in dinuclear copper catalysts has no impact on the efficiency of CuAAC reactions.",
+      "answer": "False. The Cu-Cu distance in dinuclear copper catalysts is crucial for the efficiency of CuAAC reactions, with an optimal range favoring the formation of the metallacycle intermediate.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

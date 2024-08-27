@@ -1,0 +1,56 @@
+{
+  "materials": [
+    {
+      "material_id": "1",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "chemical": "Fe(BF4)2·6H2O",
+              "amount": "0.125 mmol",
+              "mass": "42.2 mg"
+            },
+            {
+              "chemical": "3-cyanopyridine (3CNpy)",
+              "amount": "0.25 mmol",
+              "mass": "26 mg"
+            },
+            {
+              "chemical": "K[Ag(CN)2]",
+              "amount": "0.25 mmol",
+              "mass": "49.75 mg"
+            }
+          ],
+          "solvents": [
+            {
+              "solvent": "methanol",
+              "amount": "20 mL"
+            },
+            {
+              "solvent": "water",
+              "for": "K[Ag(CN)2] solution"
+            }
+          ],
+          "temperature": "room temperature",
+          "atmosphere": "argon",
+          "time": "stirred for 10 min, then left to evaporate for one week",
+          "yield": "ca. 40%",
+          "product_color": "orange-yellow crystals",
+          "analysis": {
+            "calculated": {
+              "C": "32.22",
+              "H": "1.57",
+              "N": "18.79"
+            },
+            "found": {
+              "C": "31.71",
+              "H": "1.63",
+              "N": "18.50"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

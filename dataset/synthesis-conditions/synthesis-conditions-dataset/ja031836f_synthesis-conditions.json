@@ -1,0 +1,88 @@
+{
+  "materials": [
+    {
+      "name": "[Ni2O(l-Asp)(H2O)2]·4H2O (1)",
+      "synthesis_conditions": {
+        "method": "hydrothermal",
+        "temperature": "150 °C",
+        "duration": "2 days",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "23-mL Teflon-lined autoclave",
+        "chemicals_used": [
+          {
+            "name": "NiCl2",
+            "concentration": "2 M",
+            "amount": "4.29 ml"
+          },
+          {
+            "name": "(Et3NH)(l-H2Asp)",
+            "concentration": "2 M",
+            "amount": "2.14 ml"
+          },
+          {
+            "name": "Et3N",
+            "amount": "0.89 ml"
+          }
+        ],
+        "molar_ratio": "NiCl2:l-H2Asp:Et3N, 1:0.5:1.25",
+        "final_pH": "5.0",
+        "yield": "55%",
+        "washing_method": "distilled water",
+        "drying_method": "air",
+        "elemental_analysis": {
+          "calculated": {
+            "Ni": "31.51",
+            "C": "12.89",
+            "N": "3.76",
+            "H": "4.60%"
+          },
+          "found": {
+            "Ni": "31.97",
+            "C": "12.84",
+            "N": "3.66",
+            "H": "3.90%"
+          }
+        }
+      }
+    },
+    {
+      "name": "[Ni2O(d,l-Asp)(H2O)2]·2H2O (2)",
+      "synthesis_conditions": {
+        "method": "hydrothermal",
+        "temperature": "170 °C",
+        "duration": "7 days",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "not specified",
+        "chemicals_used": [
+          {
+            "name": "NiCl2",
+            "concentration": "not specified",
+            "amount": "not specified"
+          },
+          {
+            "name": "(Et3NH)(l-H2Asp)",
+            "concentration": "not specified",
+            "amount": "not specified"
+          },
+          {
+            "name": "Et3N",
+            "amount": "not specified"
+          }
+        ],
+        "molar_ratio": "NiCl2:l-H2Asp:Et3N, 1:0.5:1",
+        "yield": "not specified",
+        "optical_activity": "absence indicated thermal racemization of aspartic acid"
+      }
+    }
+  ]
+}

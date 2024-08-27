@@ -1,0 +1,55 @@
+{
+  "materials": [
+    {
+      "name": "OHPTP",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "description": "Preparation of OHPTP",
+          "chemicals_used": [
+            "1,2,4,5-tetrabromobenzene",
+            "3,4-dimethoxyphenylboronic acid",
+            "FeCl3",
+            "BBr3"
+          ],
+          "solvents": [],
+          "temperature": "Not specified",
+          "time": "Not specified",
+          "yield": "79%",
+          "equipment": [],
+          "drying_method": "Not specified",
+          "washing_method": "Not specified"
+        }
+      ]
+    },
+    {
+      "name": "Cu2(OHPTP)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "description": "Solvothermal synthesis of Cu2(OHPTP)",
+          "chemicals_used": [
+            "OHPTP",
+            "copper acetate"
+          ],
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "7 parts"
+            },
+            {
+              "name": "DMF",
+              "amount": "3 parts"
+            }
+          ],
+          "temperature": "85 °C",
+          "time": "24 h",
+          "yield": "Not specified",
+          "equipment": [],
+          "drying_method": "Not specified",
+          "washing_method": "Not specified"
+        }
+      ]
+    }
+  ]
+}

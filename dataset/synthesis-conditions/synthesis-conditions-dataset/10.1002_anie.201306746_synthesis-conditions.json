@@ -1,0 +1,76 @@
+{
+  "materials": [
+    {
+      "name": "K2SDC",
+      "synthesis_conditions": {
+        "precursor": "trans-4,4'-stilbenedicarboxylic acid (H2SDC)",
+        "product_types": ["hydrated salt", "anhydrous salt"],
+        "recrystallization_temperature_range": "25–80°C",
+        "specific_conditions": [
+          {
+            "description": "Room-temperature recrystallization",
+            "product": "K2SDC·2 H2O (1·2 H2O)",
+            "temperature": "Room temperature",
+            "structure": "ladder structure parallel to adjacent ladders"
+          },
+          {
+            "description": "High-temperature recrystallization",
+            "product": "K2SDC (1 a)",
+            "temperature_range": "60–80°C",
+            "structure": "herringbone arrangement of ladders",
+            "disorder_ratio": "87.7:12.3%"
+          }
+        ]
+      }
+    },
+    {
+      "name": "K4TCCB·4 H2O (2·4 H2O)",
+      "synthesis_conditions": {
+        "precursor": "K2SDC·2 H2O (1·2 H2O)",
+        "method": "UV irradiation",
+        "temperature": "-10°C",
+        "time": "1 hour",
+        "conversion": "84.4%",
+        "additional_information": "Maximum conversion reached 85.4% with 2 hours of UV irradiation"
+      }
+    },
+    {
+      "name": "K2SDC (1)",
+      "synthesis_conditions": {
+        "precursor": "K2SDC·2 H2O (1·2 H2O)",
+        "method": "Dehydration",
+        "temperature": "70°C",
+        "structure": "parallel structure similar to 1·2 H2O"
+      }
+    },
+    {
+      "name": "K4TCCB (2)",
+      "synthesis_conditions": {
+        "precursor": "K2SDC (1)",
+        "method": "UV irradiation",
+        "temperature": "Room temperature",
+        "time": "1 hour for 59.0% conversion, 6 hours for maximum conversion of 82.4%"
+      }
+    },
+    {
+      "name": "K4TCCB (2 a)",
+      "synthesis_conditions": {
+        "precursor": "K2SDC (1 a)",
+        "method": "UV irradiation",
+        "temperature": "Room temperature",
+        "time": "1 hour for 75.5% conversion, 3 hours for maximum conversion of 85.1%",
+        "conversion": "66.3% observed crystallographically in SCSC manner",
+        "structure": "herringbone structure unlike 1·2 H2O or 1"
+      }
+    },
+    {
+      "name": "Reversible SCSC transformation",
+      "synthesis_conditions": {
+        "method": "Heating",
+        "temperature": "250°C",
+        "time": "15 hours",
+        "description": "Thermal cleavage of cyclobutane rings in SCSC fashion from 2 a to 1 a"
+      }
+    }
+  ]
+}

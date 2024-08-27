@@ -1,0 +1,130 @@
+{
+  "materials": [
+    {
+      "name": "1,2-bis((5H-imidazol-4-yl)methylene)hydrazine (BIm)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "10.0 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "25.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "hydrazine monohydrate",
+            "amount": "1.001g, 10 mmol"
+          },
+          {
+            "name": "4-formylimidazole",
+            "amount": "3.832 g, 20 mmol"
+          }
+        ],
+        "temperature": "50 °C",
+        "time": "overnight",
+        "yield": "3.275g, 87.0%"
+      }
+    },
+    {
+      "name": "STU-1",
+      "synthesis_conditions": [
+        {
+          "method": "Method 1",
+          "solvents": "DMF (2.0 mL)",
+          "chemicals_used": [
+            {
+              "name": "Zn(NO3)2⋅6H2O",
+              "amount": "6.31 mg"
+            },
+            {
+              "name": "BIm",
+              "amount": "4.3 mg"
+            }
+          ],
+          "temperature": "100 °C",
+          "time": "24 hours",
+          "cooling_rate": "5 °C/h",
+          "yield": "4.3 mg"
+        },
+        {
+          "method": "Method 2",
+          "solvents": "DMF (90 mL)",
+          "chemicals_used": [
+            {
+              "name": "zinc nitrate hexahydrate (Zn(NO)2·6H2O)",
+              "amount": "0.578 g, 2.0 mmol"
+            },
+            {
+              "name": "BIm",
+              "amount": "0.367 g, 2.0 mmol"
+            }
+          ],
+          "temperature": "room temperature",
+          "time": "3 days",
+          "yield": "922.7 mg"
+        }
+      ]
+    },
+    {
+      "name": "STU-2",
+      "synthesis_conditions": {
+        "solvents": "DMF: Ethanol, v:v, 4:1, 2.0 mL",
+        "chemicals_used": [
+          {
+            "name": "Mn(NO3)2 water solution: concentration 50%",
+            "amount": "7.44 mg"
+          },
+          {
+            "name": "BIm",
+            "amount": "4.01 mg"
+          }
+        ],
+        "temperature": "120 °C",
+        "time": "48 hours",
+        "cooling_rate": "5 °C/h",
+        "yield": "3.5 mg"
+      }
+    },
+    {
+      "name": "STU-3",
+      "synthesis_conditions": {
+        "solvents": "DMF: Ethanol, v:v, 4:1, 2.0 mL",
+        "chemicals_used": [
+          {
+            "name": "Cu(NO3)2⋅6H2O",
+            "amount": "specific amount not provided"
+          },
+          {
+            "name": "BIm",
+            "amount": "specific amount not provided"
+          }
+        ],
+        "temperature": "120 °C",
+        "time": "48 hours",
+        "yield": "2.5 mg"
+      }
+    },
+    {
+      "name": "STU-4",
+      "synthesis_conditions": {
+        "solvents": "DMF: Ethanol, v:v, 4:1, 2.0 mL",
+        "chemicals_used": [
+          {
+            "name": "Ni(NO3)2⋅6H2O",
+            "amount": "specific amount not provided"
+          },
+          {
+            "name": "BIm",
+            "amount": "specific amount not provided"
+          }
+        ],
+        "temperature": "120 °C",
+        "time": "48 hours",
+        "yield": "4.6 mg"
+      }
+    }
+  ]
+}

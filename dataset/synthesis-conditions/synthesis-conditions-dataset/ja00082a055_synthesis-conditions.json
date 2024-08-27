@@ -1,0 +1,37 @@
+{
+  "materials": [
+    {
+      "name": "Compound 3",
+      "chemical_formula": "C32 H24 Br4 N6 O6 CdI",
+      "formula_weight": "940.6",
+      "crystal_size_mm": "0.17 * 0.14 * 0.11",
+      "unit_cell_dimensions": {
+        "a": "21.828 (4) A",
+        "b": "11.769 (2) A",
+        "c": "13.878 (2) A",
+        "alpha": "90.00 degrees",
+        "beta": "100.54 (1) degrees",
+        "gamma": "90.00 degrees"
+      },
+      "volume_of_unit_cell": "3505 (1) A**3",
+      "crystal_system": "Monoclinic",
+      "space_group": "C2/c (# 15)",
+      "z_value": "4",
+      "densities": {
+        "Dcalc": "1.98 g/cm**3"
+      },
+      "F_000": "1976",
+      "linear_absorption_coefficient": "10.82 /cm (Cu K-alpha)",
+      "diffractometer_used": "Mac Science MXC18",
+      "radiation": "Cu K-alpha (lambda= 1.54178)",
+      "maximum_sine_theta_over_lambda": "0.584",
+      "total_reflections_measured": "3286",
+      "unique_reflections": "2582",
+      "internal_consistency": "Rint = 0.074; Rw = 0.101",
+      "goodness_of_fit": "S = 2.61",
+      "maximum_shift_esd_in_final_cycle": "3.02",
+      "maximum_negative_peak_in_final_difference_map": "-1.36 e/A**3",
+      "maximum_positive_peak_in_final_difference_map": "2.42 e/A**3"
+    }
+  ]
+}

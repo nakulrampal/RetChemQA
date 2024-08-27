@@ -1,0 +1,107 @@
+{
+  "materials": [
+    {
+      "name": "X-pcu-5-Zn-α",
+      "synthesis_conditions": {
+        "temperature": "105 °C",
+        "solvents": "DMF",
+        "amount_of_solvent": "12 mL",
+        "equipment": "28-mL glass vial",
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "60 mg"
+          },
+          {
+            "name": "H2DMTDC",
+            "amount": "51 mg"
+          },
+          {
+            "name": "dpe",
+            "amount": "19 mg"
+          }
+        ],
+        "time": "16 hours",
+        "washing_method": "washed with DMF",
+        "yield": "55%",
+        "IR_spectra": [
+          "2923(w)",
+          "1666(m)",
+          "1609(m)",
+          "1493(m)",
+          "1372(s)",
+          "1251(w)",
+          "1155(w)",
+          "1086(m)",
+          "1029(m)",
+          "836(w)",
+          "811(m)",
+          "782(s)",
+          "659(w)"
+        ]
+      }
+    },
+    {
+      "name": "X-pcu-5-Zn-β",
+      "synthesis_conditions": {
+        "method": "methanol exchange",
+        "solvents": "anhydrous methanol",
+        "amount_of_solvent": "15 mL",
+        "equipment": "not specified",
+        "chemicals_used": [
+          {
+            "name": "X-pcu-5-Zn-α",
+            "amount": "not specified"
+          }
+        ],
+        "time": "1 day",
+        "washing_method": "not specified",
+        "drying_method": "dried in air",
+        "IR_spectra": [
+          "2918(w)",
+          "1610(w)",
+          "1561(m)",
+          "1493(m)",
+          "1371(s)",
+          "1152(w)",
+          "1074(w)",
+          "1027(m)",
+          "957(w)",
+          "832(m)",
+          "811(w)",
+          "780(s)",
+          "700(w)"
+        ]
+      }
+    },
+    {
+      "name": "X-pcu-5-Zn-γ",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "equipment": "under vacuum",
+        "chemicals_used": [
+          {
+            "name": "X-pcu-5-Zn-α",
+            "amount": "not specified"
+          }
+        ],
+        "time": "12 hours",
+        "IR_spectra": [
+          "2920(w)",
+          "1611(w)",
+          "1561(m)",
+          "1491(m)",
+          "1371(s)",
+          "1153(w)",
+          "1074(w)",
+          "1028(m)",
+          "957(w)",
+          "832(m)",
+          "811(w)",
+          "780(s)",
+          "701(w)"
+        ]
+      }
+    }
+  ]
+}

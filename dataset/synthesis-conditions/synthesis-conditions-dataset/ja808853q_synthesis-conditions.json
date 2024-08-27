@@ -1,0 +1,122 @@
+{
+  "materials": [
+    {
+      "name": "N,N'-Di-(2,6-dimethyl-4-benzoic acid)-1,4,5,8-naphthalenetetracarboxydiimide (1)",
+      "synthesis_conditions": {
+        "solvent": "propionic acid",
+        "solvent_amount": "25 ml",
+        "temperature": "refluxed for 48 hrs",
+        "chemicals_used": [
+          {
+            "name": "1,4,5,8-tetracarboxydianhydride",
+            "amount": "1.62 g, 6.0 mmol"
+          },
+          {
+            "name": "2,6-dimethyl-4-aminobenzoic acid",
+            "amount": "2.0 g, 12.1 mmol"
+          }
+        ],
+        "washing_method": "washed with ethanol",
+        "drying_method": "dried in vacuo"
+      }
+    },
+    {
+      "name": "N,N'-Di-(4-benzoic acid)-1,2,6,7-tetrachloroperylene-3,4,9,10-tetracarboxylic acid diimide (2)",
+      "synthesis_conditions": {
+        "solvent": "propionic acid",
+        "solvent_amount": "25 mL",
+        "temperature": "160 C for 16 h",
+        "chemicals_used": [
+          {
+            "name": "1,6,7,8-tetrachloroperylene-3,4,9,10-tetracarboxylic acid dianhydride",
+            "amount": "1.00 g, 1.89 mmol"
+          },
+          {
+            "amount": "2.59 g, 18.9 mmol"
+          }
+        ],
+        "washing_method": "washed with a mixture of methanol/water (1:1)",
+        "drying_method": "dried in vacuo"
+      }
+    },
+    {
+      "name": "Terphenyl dicarboxylic acid (3)",
+      "synthesis_conditions": {
+        "reference": "prepared according to published procedures.2"
+      }
+    },
+    {
+      "name": "5",
+      "synthesis_conditions": {
+        "solvent": "N,N'-Diethylformamide (DEF)",
+        "solvent_amount": "30ml",
+        "temperature": "100ºC for 48 hrs",
+        "chemicals_used": [
+          {
+            "name": "1",
+            "amount": "0.1 g, 0.177 mmol"
+          },
+          {
+            "name": "Zn(NO3).H2O",
+            "amount": "0.16g, 0.538 mmol"
+          }
+        ],
+        "washing_method": "washed with DEF"
+      }
+    },
+    {
+      "name": "6",
+      "synthesis_conditions": {
+        "solvent": "DMF",
+        "solvent_amount": "30ml",
+        "temperature": "80ºC for 48 hrs",
+        "chemicals_used": [
+          {
+            "name": "2",
+            "amount": "0.1 g, 0.13 mmol"
+          },
+          {
+            "name": "Zn(NO3).H2O",
+            "amount": "0.15 g, 0.5 mmol"
+          }
+        ],
+        "washing_method": "washed with DMF"
+      }
+    },
+    {
+      "name": "IRMOF-16",
+      "synthesis_conditions": {
+        "solvent": "DMF",
+        "solvent_amount": "270 ml",
+        "temperature": "100ºC for 48 hrs",
+        "chemicals_used": [
+          {
+            "name": "3",
+            "amount": "0.270 g, 0.848 mmol"
+          },
+          {
+            "name": "Zn(NO3).H2O",
+            "amount": "1.01 g, 3.4 mmol"
+          }
+        ],
+        "washing_method": "washed with DMF"
+      }
+    },
+    {
+      "name": "IRMOF-3",
+      "synthesis_conditions": {
+        "reference": "prepared according to published procedures.4"
+      }
+    },
+    {
+      "name": "Supercritical Drying",
+      "synthesis_conditions": {
+        "equipment": "Tousimis™ Samdri® PVT-30 critical point dryer",
+        "solvent_exchange": "absolute ethanol (EtOH), replacing the soaking solution every 24 hrs for 72 hrs",
+        "temperature": "40ºC",
+        "pressure": "1300 psi",
+        "time": "held above the critical point for 1 hour, then slowly vented over the course of 15-18 hrs"
+      }
+    }
+  ]
+}

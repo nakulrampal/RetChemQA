@@ -1,0 +1,60 @@
+{
+  "materials": [
+    {
+      "name": "UiO-67(dcppy)-COOH",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "85-88C",
+          "time": "24 hours",
+          "solvents": [
+            {
+              "name": "N,N-dimethylacetamide (DMA)",
+              "amount": "4 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "activated UiO-67-dcppy",
+              "amount": "85 mg"
+            },
+            {
+              "name": "chlorobis(cyclooctene)rhodium(I) dimer",
+              "amount": "12.1 mg, 0.015 mmol"
+            },
+            {
+              "name": "tris(2,4,6-trimethylphenyl)phosphine",
+              "amount": "13.0 mg, 0.036 mmol"
+            },
+            {
+              "name": "aluminum reagent",
+              "amount": "0.3 mL, 0.6 mmol",
+              "preparation": "prepared as described in the Supporting Information"
+            }
+          ],
+          "equipment": "Schlenk tube",
+          "atmosphere": "CO2 gas",
+          "washing_method": "1m aq. HCl added, solid separated by centrifugation, fully washed with DMA, then exchanged with methanol"
+        }
+      ]
+    },
+    {
+      "name": "tcppy",
+      "crystal_data": {
+        "formula": "C14H10NO7K",
+        "fw": "343.33",
+        "crystal_system": "orthorhombic",
+        "space_group": "Pbca",
+        "a": "13.5736(11)",
+        "b": "7.1113(6)",
+        "c": "27.567(2) Å",
+        "V": "2660.94(4) Å3",
+        "Z": "8",
+        "density_calcd": "1.714 g cm-3",
+        "R1": "0.0606",
+        "wR2": "0.1830",
+        "CCDC_number": "1441139"
+      }
+    }
+  ]
+}

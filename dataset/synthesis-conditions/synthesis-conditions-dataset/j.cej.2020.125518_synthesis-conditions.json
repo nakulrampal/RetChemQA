@@ -1,0 +1,79 @@
+{
+  "materials": [
+    {
+      "material": "Na6[Co(H2O)2(H2tib)]2{Co[Mo6O15(HPO4)4]2}·5H2O (1)",
+      "synthesis": {
+        "chemicals": [
+          {
+            "name": "Sodium molybdate dihydrate (Na2MoO4·2H2O)",
+            "amount": "0.50 g, 2.06 mmol"
+          },
+          {
+            "name": "H3PO4",
+            "amount": "8 M, 0.53 ml"
+          },
+          {
+            "name": "tib (1,3,5-tris(1-imidazolyl)benzene)",
+            "amount": "0.27 g, 1 mmol"
+          },
+          {
+            "name": "Cobalt chloride hexahydrate (CoCl2·6H2O)",
+            "amount": "0.20 g, 0.85 mmol"
+          },
+          {
+            "name": "C2H5OH",
+            "amount": "1 ml"
+          },
+          {
+            "name": "H2O",
+            "amount": "5 ml"
+          }
+        ],
+        "procedure": "The mixture was stirred for 0.5 h, and the pH was adjusted to 3.9 with HCl (1 M). The mixture was sealed in a 23 ml Teflon-lined autoclave and heated at 160 °C for 3 days. After cooling to room temperature, dark red block crystals were obtained.",
+        "yield": "51% based on Mo",
+        "analysis": {
+          "calculated": "C 10.50, O 33.09, H 1.59, N 4.90, P 7.22, Na 4.02, Mo 33.54, Co 5.15",
+          "found": "C 10.36, H 1.70, N 4.75, P 7.63, Na 3.94, Mo 33.63, Co 5.20"
+        }
+      }
+    },
+    {
+      "material": "Na3[Co(H2O)3][Co2(bib)](H2bib)2.5{Co[Mo6O15(HPO4)4]2}·4H2O (2)",
+      "synthesis": {
+        "chemicals": [
+          {
+            "name": "Cobalt chloride hexahydrate (CoCl2·6H2O)",
+            "amount": "0.40 g, 1.69 mmol"
+          },
+          {
+            "name": "bib (1,4-bis(1-H-imidazol-4-yl)benzene)",
+            "amount": "0.20 g, 1.86 mmol"
+          }
+        ],
+        "procedure": "Similar to compound 1, using CoCl2·6H2O (0.40 g, 1.69 mmol) and bib (0.20 g, 1.86 mmol).",
+        "yield": "56% based on Mo",
+        "analysis": {
+          "calculated": "C 14.16, O 30.99, H 1.53, N 5.50, P 6.96, Na 1.94, Mo 32.31, Co 6.62",
+          "found": "C 14.32, H 1.85, N 5.21, P 6.85, Na 2.12, Mo 32.65, Co 6.34"
+        }
+      }
+    },
+    {
+      "material": "(H2bpp)1.5{Na[Mo6O12(OH)3(HPO4)3(H2PO4)]2}·6H2O (3)",
+      "synthesis": {
+        "chemicals": [
+          {
+            "name": "bpp (1,3-bi(4-pyridyl)propane)",
+            "amount": "0.20 g, 1.00 mmol"
+          }
+        ],
+        "procedure": "Similar to compound 1, without CoCl2·6H2O and tib, using bpp (0.20 g, 1.00 mmol).",
+        "yield": "67% based on Mo",
+        "analysis": {
+          "calculated": "C 8.40, O 37.29, H 1.81, N 1.51, P 8.89, Na 0.82, Mo 41.28",
+          "found": "C 8.62, H 2.03, N 1.64, P 8.53, Na 1.01, Mo 41.65"
+        }
+      }
+    }
+  ]
+}

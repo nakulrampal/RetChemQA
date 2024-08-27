@@ -1,0 +1,78 @@
+{
+  "materials": [
+    {
+      "material": "[Ag(C14H20N6)(NO3)] (1)",
+      "synthesis_conditions": {
+        "solvent": "MeOH",
+        "solvent_amount_ml": 35,
+        "temperature": "room temperature",
+        "chemicals_used": [
+          {
+            "chemical": "AgNO3",
+            "amount_g": 0.16,
+            "molarity_mmol": 0.92
+          },
+          {
+            "chemical": "ethylenediaminetetrapropionitrile (EDTPN)",
+            "amount_g": 0.25,
+            "molarity_mmol": 0.92
+          }
+        ],
+        "yield": "90%",
+        "washing_method": "washed with MeOH",
+        "drying_method": "dried in air"
+      }
+    },
+    {
+      "material": "[Ag(C14H20N6)]X (X = CF3SO3- for 2, X = ClO4- for 3)",
+      "synthesis_conditions": {
+        "solvent": "MeOH",
+        "solvent_amount_ml": 35,
+        "temperature": "room temperature",
+        "chemicals_used": [
+          {
+            "chemical": "AgX (0.92 mmol)",
+            "molarity_mmol": 0.92
+          },
+          {
+            "chemical": "ethylenediaminetetrapropionitrile (EDTPN)",
+            "amount_g": 0.25,
+            "molarity_mmol": 0.92
+          }
+        ],
+        "yield": "90%",
+        "washing_method": "washed with MeOH",
+        "drying_method": "dried in air"
+      }
+    },
+    {
+      "material": "Ion Exchange in the Solid State",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "rodlike crystal of 2",
+            "amount_g": 0.25
+          },
+          {
+            "chemical": "aqueous solution of NaNO3",
+            "concentration_M": [3, 0.1],
+            "amount_ml": 5
+          },
+          {
+            "chemical": "3 M LiCF3SO3"
+          },
+          {
+            "chemical": "3 M aqueous solutions of NaNO3, LiCF3SO3, NaClO4, NaCl",
+            "amount_ml": 5
+          },
+          {
+            "chemical": "2 M NiSO4"
+          }
+        ],
+        "time_range_min_to_h": ["10 min", "24 h"],
+        "washing_method": "washed several times with water",
+        "drying_method": "dried in air"
+      }
+    }
+  ]
+}

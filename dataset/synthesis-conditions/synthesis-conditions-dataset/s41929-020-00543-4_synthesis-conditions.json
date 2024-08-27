@@ -1,0 +1,35 @@
+{
+  "materials": [
+    {
+      "material": "TJU-16",
+      "synthesis_method": {
+        "precursors": [
+          "PbO (1 mmol)",
+          "NaO2C(CH2)4CO2Na (3 mmol)",
+          "KI (3 mmol)",
+          "HCl (3 mmol)"
+        ],
+        "solvent": "deionized water (15 ml)",
+        "equipment": "20 mL Teflon-lined autoclave",
+        "temperature": "180 °C",
+        "time": "72 h",
+        "atmosphere": "static",
+        "cooling_rate": "5 °C h–1",
+        "washing_method": "vacuum filtration, rinsed with deionized water and anhydrous ethanol",
+        "drying_method": "60 °C for 10 h",
+        "yield": "89% (0.38 g, based on Pb)"
+      },
+      "photodeposition_method": {
+        "precursors": [
+          "RhCl3·3H2O",
+          "K2PtCl6"
+        ],
+        "solvent": "mixture of H2O and EtOH (1:1 v:v)",
+        "equipment": "300 W xenon lamp equipped with an AM1.5G filter",
+        "time": "3 h",
+        "washing_method": "centrifugation, washed with EtOH",
+        "drying_method": "60 °C for 12 h"
+      }
+    }
+  ]
+}

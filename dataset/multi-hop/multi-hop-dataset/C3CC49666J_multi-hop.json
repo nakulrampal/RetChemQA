@@ -1,0 +1,99 @@
+{
+  "data": [
+    {
+      "DOI": "10.1039/c3cc49666j",
+      "questions": [
+        {
+          "question": "What is the primary focus of the research described in the paper with DOI 10.1039/c3cc49666j?",
+          "answer": "The research focuses on the synthesis and characterization of novel photochromic diarylethene-based linkers for use in metal–organic frameworks (MOFs), including the crystal structure analysis of reaction intermediates and the creation of a photoresponsive MOF, UBMOF-1.",
+          "difficulty": "easy",
+          "type": "factual"
+        },
+        {
+          "question": "What unique property does the linker TPDC exhibit when incorporated into UBMOF-1 compared to in solution?",
+          "answer": "While the photochromism of the ligand TPDC in solution is fully reversible, the cycloreversion reaction is suppressed when this linker is incorporated into the crystalline framework of UBMOF-1.",
+          "difficulty": "medium",
+          "type": "factual"
+        },
+        {
+          "question": "What are the potential applications of metal–organic frameworks (MOFs) as mentioned in the paper?",
+          "answer": "MOFs have potential applications in separation science, chemical sensing, gas storage, and drug delivery.",
+          "difficulty": "easy",
+          "type": "factual"
+        },
+        {
+          "question": "How does the synthesis of UBMOF-1 differ from previous MOFs containing photochromic molecules?",
+          "answer": "Unlike previous instances where photochromic molecules were non-covalently attached, in UBMOF-1, the photochromic groups are covalently attached to the framework, leading to MOFs with well-defined stoichiometry.",
+          "difficulty": "medium",
+          "type": "reasoning"
+        },
+        {
+          "question": "What challenge does the paper highlight about incorporating photoswitchable ligands into MOFs?",
+          "answer": "The paper highlights the challenge of the suppression of the ligand ring-opening reaction in the MOF relative to solution, indicating the complexity of designing MOFs with desired photoresponsive properties.",
+          "difficulty": "hard",
+          "type": "reasoning"
+        },
+        {
+          "question": "Is the ligand TPDC photochemically inert when incorporated into UBMOF-1?",
+          "answer": "False. The ligand TPDC is not photochemically inert when incorporated into UBMOF-1; it exhibits suppressed cycloreversion reaction.",
+          "difficulty": "medium",
+          "type": "True or False"
+        },
+        {
+          "question": "Can the photochromic behavior of digested UBMOF-1 crystals be reversed upon exposure to visible light?",
+          "answer": "True. The solutions of digested UBMOF-1 retain their reversible photochromism, suggesting that the persistent coloration in the crystal form is due to the local chemical environment rather than a photochemical fatigue product.",
+          "difficulty": "medium",
+          "type": "True or False"
+        },
+        {
+          "question": "What synthesis method was used to create the diarylethene-based linker for MOF inclusion?",
+          "answer": "A stepwise synthetic route starting with the formation of the requisite phenanthrene diol, followed by a series of pinacol rearrangements and lithiation, was used to create the diarylethene-based linker suitable for MOF inclusion.",
+          "difficulty": "hard",
+          "type": "reasoning"
+        },
+        {
+          "question": "What structural feature of UBMOF-1 is shared with previously reported frameworks IRMOF-10 and IRMOF-14?",
+          "answer": "UBMOF-1 is isomorphous with IRMOF-10 and IRMOF-14, sharing an identical oxide-centered Zn4O tetrahedron structure.",
+          "difficulty": "medium",
+          "type": "factual"
+        },
+        {
+          "question": "What does the persistence of red coloration in UBMOF-1 crystals after irradiation with visible light indicate?",
+          "answer": "The persistence of red coloration indicates that the local chemical environment of the TPDC in the framework is suppressing the ring-opening reaction, rather than the formation of a photochemical fatigue product.",
+          "difficulty": "hard",
+          "type": "reasoning"
+        },
+        {
+          "question": "What is the role of photochromic molecules in the design of next-generation MOFs?",
+          "answer": "Photochromic molecules are ideal candidates for designing next-generation MOFs capable of undergoing structural reorganization upon application of external stimuli such as light, aiming for applications in sensors, switches, and optical data storage.",
+          "difficulty": "medium",
+          "type": "factual"
+        },
+        {
+          "question": "Does the synthesis of UBMOF-1 involve the use of harsh conditions for the pinacol rearrangement?",
+          "answer": "False. The synthesis of UBMOF-1 involved a stepwise synthetic route to avoid the need for harsh conditions required for the pinacol rearrangement.",
+          "difficulty": "medium",
+          "type": "True or False"
+        },
+        {
+          "question": "What does the crystallographic disorder of the low symmetry ligand in UBMOF-1 imply about its structure?",
+          "answer": "The crystallographic disorder implies that the high site symmetry of the photochromic linker in UBMOF-1 leads to strong disorder of the dimethylthiophene groups, making reliable refinement challenging.",
+          "difficulty": "hard",
+          "type": "reasoning"
+        },
+        {
+          "question": "What synthetic challenge did the researchers encounter when attempting to use a thien-3-yl substituted diol in the pinacol rearrangement?",
+          "answer": "The researchers encountered the challenge that forcing the rearrangement for their model system led only to the recovery of starting material, indicating the need for a different synthetic approach.",
+          "difficulty": "hard",
+          "type": "factual"
+        },
+        {
+          "question": "Is the ligand decomposition observed during the solvothermal synthesis of UBMOF-1?",
+          "answer": "False. Digestion experiments and 1H-NMR spectroscopy analysis confirmed that the ligand remains intact throughout the solvothermal synthetic process.",
+          "difficulty": "medium",
+          "type": "True or False"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "materials": [
+    {
+      "name": "Co-1",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": ["ethanol", "water"],
+        "amount_of_solvents": {
+          "ethanol": "5 ml",
+          "water": "3 ml"
+        },
+        "chemicals_used": [
+          {"name": "HL", "amount": "0.018 g", "molarity": "0.10 mmol"},
+          {"name": "NaN3", "amount": "0.026 g", "molarity": "0.40 mmol"},
+          {"name": "Co(NO3)2.6H2O", "amount": "0.058 g", "molarity": "0.20 mmol"}
+        ],
+        "equipment": "not specified",
+        "time": "one day",
+        "washing_method": "filtered",
+        "drying_method": "slow evaporation",
+        "yield": "57% based on HL"
+      }
+    },
+    {
+      "name": "CoII1-xNiIIx compounds",
+      "synthesis_conditions": {
+        "temperature": "refluxing for 3 hours",
+        "solvents": ["water", "methanol"],
+        "amount_of_solvents": {
+          "water": "2 ml",
+          "methanol": "4 ml"
+        },
+        "chemicals_used": [
+          {"name": "HL", "amount": "0.072 g", "molarity": "0.40 mmol"},
+          {"name": "Co(NO3)2.6H2O and/or Ni(NO3)2.6H2O", "total_quantity": "0.40 mmol"},
+          {"name": "NaN3", "amount": "0.10 g", "molarity": "1.6 mmol"}
+        ],
+        "equipment": "not specified",
+        "time": "3 hours",
+        "washing_method": "washed by water and methanol",
+        "drying_method": "dried in air",
+        "yield": "40-60%"
+      }
+    }
+  ]
+}

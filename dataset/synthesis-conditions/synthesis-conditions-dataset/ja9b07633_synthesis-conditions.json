@@ -1,0 +1,122 @@
+{
+  "materials": [
+    {
+      "name": "H2L1",
+      "synthesis_conditions": {
+        "temperature": "Room temperature to 60 °C",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "15 mL"
+          },
+          {
+            "name": "MeOH",
+            "amount": "75 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(S)-2,2-diethoxy-1,1′-binaphthalene",
+            "amount": "1.0 g, 2.5 mmol"
+          },
+          {
+            "name": "NaH",
+            "amount": "0.6 g, 25.0 mmol"
+          },
+          {
+            "name": "methoxymethyl chloride",
+            "amount": "1 mL, 10.0 mol"
+          },
+          {
+            "name": "n-butyllithium",
+            "amount": "1.6 M in hexane, 3.2 mL, 5.0 mmol"
+          },
+          {
+            "name": "CO2",
+            "amount": "Dry, bubbled for at least 1 h"
+          },
+          {
+            "name": "3 M HCl",
+            "amount": "To adjust pH to 1~2"
+          },
+          {
+            "name": "conc. H2SO4",
+            "amount": "1.5 mL"
+          }
+        ],
+        "time": "Overnight to 8 h",
+        "washing_method": "Water, ethyl acetate, brine",
+        "drying_method": "Na2SO4",
+        "yield": "82.0%",
+        "characterization": [
+          "1H NMR",
+          "13C NMR",
+          "FT-IR"
+        ]
+      }
+    },
+    {
+      "name": "MOF 1",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "6 mL"
+          },
+          {
+            "name": "CH3OH",
+            "amount": "14 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ZnI2·6H2O",
+            "amount": "119 mg, 0.4 mmol"
+          },
+          {
+            "name": "H2L1",
+            "amount": "74.8 mg, 0.2 mmol"
+          },
+          {
+            "name": "H4TBSC",
+            "amount": "85 mg, 0.1 mmol"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": "DMF and CH3OH",
+        "drying_method": "Air",
+        "yield": "87.3%",
+        "characterization": [
+          "Elemental analysis",
+          "IR",
+          "Single-crystal XRD"
+        ]
+      }
+    },
+    {
+      "name": "MON 1",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "Isopropyl alcohol (IPA)",
+            "amount": "250 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "MOF 1",
+            "amount": "100 mg"
+          }
+        ],
+        "time": "1 h sonication, 24 h sedimentation",
+        "washing_method": "Centrifugation at 9000 rpm for 5 min",
+        "yield": "~7 wt%",
+        "characterization": [
+          "IR"
+        ]
+      }
+    }
+  ]
+}

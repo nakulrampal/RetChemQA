@@ -1,0 +1,70 @@
+{
+  "materials": [
+    {
+      "name": "MIP-202(Zr)",
+      "synthesis_conditions": {
+        "temperature": "Reflux (120 °C)",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "10 mL"
+          }
+        ],
+        "equipment": "25 mL round bottom flask",
+        "chemicals_used": [
+          {
+            "name": "L-Aspartic acid",
+            "amount": "2.8 g"
+          },
+          {
+            "name": "ZrCl4",
+            "amount": "2.33 g"
+          }
+        ],
+        "time": "1 h",
+        "washing_method": "water/EtOH at room temperature",
+        "drying_method": "air dry",
+        "yield": "2.93 g (90%)",
+        "scale_up": {
+          "equipment_size": "250 mL round bottom flask",
+          "product_amount": "30.4 g",
+          "yield": "94%",
+          "space_time_yield": "7296 kg m-3 day-1"
+        }
+      }
+    },
+    {
+      "name": "D-MIP-202(Zr)",
+      "synthesis_conditions": {
+        "temperature": "Reflux (120 °C)",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "10 mL"
+          }
+        ],
+        "equipment": "25 mL round bottom flask",
+        "chemicals_used": [
+          {
+            "name": "D-Aspartic acid",
+            "amount": "2.8 g"
+          },
+          {
+            "name": "ZrCl4",
+            "amount": "2.33 g"
+          }
+        ],
+        "time": "1 h",
+        "washing_method": "water/EtOH at room temperature",
+        "drying_method": "air dry",
+        "yield": "Similar to L-Aspartic acid based synthesis",
+        "scale_up": {
+          "equipment_size": "Similar to L-Aspartic acid based synthesis",
+          "product_amount": "Similar to L-Aspartic acid based synthesis",
+          "yield": "Similar to L-Aspartic acid based synthesis",
+          "space_time_yield": "Similar to L-Aspartic acid based synthesis"
+        }
+      }
+    }
+  ]
+}

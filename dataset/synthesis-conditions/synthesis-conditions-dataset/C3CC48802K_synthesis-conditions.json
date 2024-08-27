@@ -1,0 +1,136 @@
+{
+  "materials": [
+    {
+      "name": "H2LeuNDI",
+      "synthesis_conditions": {
+        "temperature": "80-90°C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "20 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Naphthalene-1,4,5,8-tetracarboxylic dianhydride",
+            "amount": "0.500 g, 1.86 mmol"
+          },
+          {
+            "name": "L-Leucine",
+            "amount": "0.733 g, 5.59 mmol"
+          }
+        ],
+        "time": "overnight",
+        "washing_method": "added to water (80 mL) and extracted with diethyl ether (2 x 100 mL) which was subsequently washed with water (2 x 200 mL)",
+        "drying_method": "dried over magnesium sulfate and the solvent was removed under reduced pressure",
+        "yield": "1.87 g (94 %)"
+      }
+    },
+    {
+      "name": "H2LeuPDI",
+      "synthesis_conditions": {
+        "temperature": "100°C",
+        "solvents": [
+          {
+            "name": "DMSO",
+            "amount": "50 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Perylene-3,4,9,10-tetracarboxylic dianhydride",
+            "amount": "0.500 g, 1.28 mmol"
+          },
+          {
+            "name": "L-leucine",
+            "amount": "0.5 g, 3.83 mmol"
+          },
+          {
+            "name": "2 M KOH",
+            "amount": "2.5 mL"
+          }
+        ],
+        "time": "3 hours",
+        "washing_method": "transformed to the diacid by the addition of conc. HCl yielding a precipitate which was recovered by filtration and washed extensively with water",
+        "drying_method": "dried in vacuo",
+        "yield": "0.584 g, 74 %"
+      }
+    },
+    {
+      "name": "Poly-{[Cd2(LeuNDI)2(DMA)4]·DMA}",
+      "synthesis_conditions": {
+        "temperature": "120°C",
+        "solvents": [
+          {
+            "name": "dimethylacetamide",
+            "amount": "3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H2LeuNDI",
+            "amount": "10 mg, 20.2 µmol"
+          },
+          {
+            "name": "Cd(NO3)2·4H2O",
+            "amount": "12.3 mg, 39.9 µmol"
+          }
+        ],
+        "time": "72 hours",
+        "yield": "0.8 mg (3 %)"
+      }
+    },
+    {
+      "name": "Poly-{[Cd2(LeuNDI)2(bipy)(DMF)3(H2O)]·DMF·H2O}",
+      "synthesis_conditions": {
+        "temperature": "120°C",
+        "solvents": [
+          {
+            "name": "dimethylformamide",
+            "amount": "3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H2LeuNDI",
+            "amount": "15 mg, 30.4 µmol"
+          },
+          {
+            "name": "4,4-bpyridine",
+            "amount": "2.4 mg, 15.2 µmol"
+          },
+          {
+            "name": "Cd(NO3)2·4H2O",
+            "amount": "19 mg, 61.6 µmol"
+          }
+        ],
+        "time": "four days",
+        "yield": "10.3 mg (41 %)"
+      }
+    },
+    {
+      "name": "Poly-{[Cd2(LeuPDI)2(H2O)4]·3DMF}",
+      "synthesis_conditions": {
+        "temperature": "110°C",
+        "solvents": [
+          {
+            "name": "dimethylformamide",
+            "amount": "3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H2LeuPDI",
+            "amount": "10 mg, 16.2 µmol"
+          },
+          {
+            "name": "Cd(NO3)2·4H2O",
+            "amount": "9.9 mg, 32.1 µmol"
+          }
+        ],
+        "time": "four days",
+        "yield": "5 mg (20 %)"
+      }
+    }
+  ]
+}

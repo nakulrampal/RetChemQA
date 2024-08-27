@@ -1,0 +1,74 @@
+{
+  "materials": [
+    {
+      "name": "Complex 1 ([Tb(L)(NO3)3])",
+      "synthesis_conditions": {
+        "temperature": "Room temperature for evaporation, Reflux for synthesis",
+        "solvents": [
+          {
+            "name": "THF/MeCN",
+            "amount": "Not specified"
+          },
+          {
+            "name": "Methanol",
+            "amount": "15 mL"
+          }
+        ],
+        "equipment": "Not specified",
+        "chemicals_used": [
+          {
+            "name": "Tb(NO3)3·6 H2O",
+            "amount": "47 mmol"
+          },
+          {
+            "name": "Ligand L",
+            "amount": "141 mmol"
+          }
+        ],
+        "time": "24 h for synthesis, Several days for evaporation",
+        "washing_method": "Not specified",
+        "drying_method": "Slow evaporation",
+        "yield": "62%",
+        "additional_information": "Single crystals obtained by slow evaporation in THF/MeCN"
+      }
+    },
+    {
+      "name": "Complex 2 ([Gd(L)(NO3)3])",
+      "synthesis_conditions": {
+        "temperature": "Reflux",
+        "solvents": [
+          {
+            "name": "Methanol",
+            "amount": "15 mL"
+          },
+          {
+            "name": "THF/MeCN",
+            "amount": "Not specified for evaporation"
+          }
+        ],
+        "equipment": "Not specified",
+        "chemicals_used": [
+          {
+            "name": "Gd(NO3)3·6 H2O",
+            "amount": "47 mmol"
+          },
+          {
+            "name": "Ligand L",
+            "amount": "141 mmol"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": "Not specified",
+        "drying_method": "Slow evaporation",
+        "yield": "66%",
+        "additional_information": "Single crystals obtained by slow evaporation in THF/MeCN"
+      }
+    },
+    {
+      "name": "Ligand L",
+      "synthesis_conditions": {
+        "method_reference": "Prepared according to a reported method.[12]"
+      }
+    }
+  ]
+}

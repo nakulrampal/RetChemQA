@@ -1,0 +1,121 @@
+{
+  "materials": [
+    {
+      "name": "α-Cu(AIm)2",
+      "synthesis_conditions": {
+        "temperature": "Room temperature (298 K)",
+        "solvents": [
+          {
+            "name": "Water",
+            "amount": "10 mL"
+          },
+          {
+            "name": "Aqueous ammonia",
+            "amount": "1 mL",
+            "concentration": "28%"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Copper(II) sulfate pentahydrate",
+            "amount": "124.8 mg",
+            "moles": "0.5 mmol"
+          },
+          {
+            "name": "HAIm",
+            "amount": "92 mg",
+            "moles": "1 mmol"
+          }
+        ],
+        "washing_method": [
+          {
+            "solvent": "Water",
+            "amount": "20 mL"
+          },
+          {
+            "solvent": "Acetone",
+            "amount": "20 mL"
+          }
+        ],
+        "drying_method": "Dried overnight at 80 °C under vacuum"
+      }
+    },
+    {
+      "name": "β-Cu(AIm)2",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "Methanol",
+            "amount": "30 µL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "α-Cu(AIm)2",
+            "amount": "60 mg"
+          }
+        ],
+        "equipment": "Ball mill",
+        "time": "20 minutes",
+        "frequency": "25 Hz",
+        "drying_method": "Dried overnight at 80 °C under vacuum"
+      }
+    },
+    {
+      "name": "dia-Cu(VIm)2",
+      "synthesis_conditions": {
+        "temperature": "Room temperature (298 K)",
+        "solvents": [
+          {
+            "name": "Water",
+            "amount": "1 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cu(NH3)4(H2O)SO4",
+            "amount": "245 mg",
+            "moles": "1 mmol"
+          },
+          {
+            "name": "HVIm",
+            "amount": "197.4 mg",
+            "moles": "2 mmol"
+          }
+        ],
+        "drying_method": "Dried overnight at 80 °C under vacuum"
+      }
+    },
+    {
+      "name": "dia-Cu(MeIm)2",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": [
+          {
+            "name": "Water",
+            "amount": "2.5 mL"
+          },
+          {
+            "name": "Aqueous ammonia",
+            "amount": "5 mL",
+            "concentration": "28%"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Copper(II) sulfate pentahydrate",
+            "amount": "200 mg",
+            "moles": "0.8 mmol"
+          },
+          {
+            "name": "HMeIm",
+            "amount": "300 mg",
+            "moles": "3.65 mmol"
+          }
+        ],
+        "drying_method": "Dried overnight at 80 °C under vacuum"
+      }
+    }
+  ]
+}

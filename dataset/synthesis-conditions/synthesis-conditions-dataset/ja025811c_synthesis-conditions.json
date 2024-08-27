@@ -1,0 +1,25 @@
+{
+  "materials": [
+    {
+      "material": "[Pt(tpy)(C≡C−C≡CH)]OTf (1)",
+      "synthesis": {
+        "precursor_complexes": "[Pt(tpy)(MeCN)](OTf)2",
+        "solvent": "methanol",
+        "excess_reagent": "KF",
+        "recrystallization_solvents": {
+          "dark-green_form": "acetonitrile",
+          "red_form": "acetone"
+        },
+        "recrystallization_method": "slow diffusion of diethyl ether vapor"
+      }
+    },
+    {
+      "material": "[Pt(tBu3-tpy)(C≡C−C≡CH)]OTf (2)",
+      "synthesis": {
+        "precursor_complexes": "[Pt(tBu3-tpy)(MeCN)](OTf)2",
+        "solvent": "methanol",
+        "excess_reagent": "KF"
+      }
+    }
+  ]
+}

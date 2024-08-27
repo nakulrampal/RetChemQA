@@ -1,0 +1,81 @@
+{
+  "materials": [
+    {
+      "name": "[V(O)(bdc)](H2bdc)0.71 (1)",
+      "synthesis_conditions": {
+        "method": "hydrothermal reaction",
+        "temperature": "220 8C",
+        "time": "3 days",
+        "equipment": "sealed teflon vessel",
+        "chemicals_used": [
+          "VO2",
+          "HCl",
+          "H2bdc",
+          "H2O"
+        ],
+        "molar_ratio": "1:2:0.5:77",
+        "washing_method": "vacuum filtration and washing with methanol",
+        "drying_method": "drying in air",
+        "yield": "red-brown prisms of 1 as a major phase together with dark-green impurities"
+      }
+    },
+    {
+      "name": "[V(O)(bdc)] (2)",
+      "synthesis_conditions": {
+        "method": "heating in air",
+        "temperature": "350 8C",
+        "rate": "3 8C min-1",
+        "from_material": "[V(O)(bdc)](H2bdc)0.71 (1)"
+      }
+    },
+    {
+      "name": "[V(O)(bdc)](aniline) (3)",
+      "synthesis_conditions": {
+        "method": "immersion in liquid aniline",
+        "from_material": "[V(O)(bdc)] (2)"
+      }
+    },
+    {
+      "name": "[V(O)(bdc)](thiophene)0.91 (4)",
+      "synthesis_conditions": {
+        "method": "immersion in liquid thiophene",
+        "from_material": "[V(O)(bdc)] (2)"
+      }
+    },
+    {
+      "name": "[V(O)(bdc)](acetone) (5)",
+      "synthesis_conditions": {
+        "method": "immersion in liquid acetone",
+        "from_material": "[V(O)(bdc)] (2)"
+      }
+    },
+    {
+      "name": "Gas-phase adsorption by [V(O)(bdc)]",
+      "synthesis_conditions": {
+        "method": "heating on a thermobalance in flowing air to remove H2bdc, then exposure to gas-phase thiophene",
+        "temperature": "350 8C for removal of H2bdc, then room temperature for adsorption",
+        "from_material": "[V(O)(bdc)](H2bdc)0.71",
+        "gas_phase_adsorption": [
+          {
+            "compound": "(CH3)2S",
+            "Dwt%": "+ 34.0",
+            "molecules_per_formula_unit": "1.12",
+            "partial_pressure_kPa": "66.9"
+          },
+          {
+            "compound": "C4H4S",
+            "Dwt%": "+ 31.9",
+            "molecules_per_formula_unit": "0.88",
+            "partial_pressure_kPa": "10.0"
+          },
+          {
+            "compound": "C4H4S",
+            "Dwt%": "+ 23.4",
+            "molecules_per_formula_unit": "0.65",
+            "partial_pressure_kPa": "1.0"
+          }
+        ]
+      }
+    }
+  ]
+}

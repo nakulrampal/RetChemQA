@@ -1,0 +1,85 @@
+{
+  "materials": [
+    {
+      "material": "3",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "[Rh4(CO)12]",
+              "amount": "56.9 mg",
+              "mole_amount": "76.1 μmol"
+            },
+            {
+              "name": "3,6-DBBQ-4,5-(MeO)2",
+              "amount": "85.17 mg",
+              "mole_amount": "304 μmol"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "pentane",
+              "amount": "11.5 mL"
+            }
+          ],
+          "temperature": "35 °C",
+          "time": "10 min",
+          "equipment": "refrigerated thermostatic bath",
+          "yield": "38 mg (28%)",
+          "washing_method": "ice-cooled pentane",
+          "drying_method": "suction filtration",
+          "characterization": [
+            {
+              "technique": "Elemental analysis",
+              "results": {
+                "C": "48.94",
+                "H": "5.58",
+                "O": "22.02%"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "material": "1",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "[Rh4(CO)12]",
+              "amount": "56.0 mg",
+              "mole_amount": "74.9 μmol"
+            },
+            {
+              "name": "3,6-DBBQ",
+              "amount": "69.0 mg",
+              "mole_amount": "313 μmol"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "pentane"
+            }
+          ],
+          "temperature": "slow diffusion at RT",
+          "time": "2 weeks",
+          "yield": "61 mg (54%)",
+          "washing_method": "ice-cooled pentane",
+          "drying_method": "suction filtration",
+          "characterization": [
+            {
+              "technique": "Elemental analysis",
+              "results": {
+                "C": "50.58",
+                "H": "5.27%"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

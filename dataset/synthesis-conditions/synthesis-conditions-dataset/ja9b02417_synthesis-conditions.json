@@ -1,0 +1,164 @@
+{
+  "materials": [
+    {
+      "name": "FeNi-MIL-88B",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": "DMF",
+        "amount_of_each_solvent": "200 mL",
+        "equipment": "500 mL vial sealed with a screw cap",
+        "chemicals_used": [
+          {
+            "name": "iron­(III) chloride hexahydrate (FeCl3·6H2O)",
+            "amount": "3.6 g, 13.3 mmol"
+          },
+          {
+            "name": "nickel­(II) nitrate hexahydrate (Ni­(NO3)2·6H2O)",
+            "amount": "2.0 g, 6.7 mmol"
+          },
+          {
+            "name": "2-aminoterephthalic acid (H2bdc-NH2)",
+            "amount": "3.6 g, 20 mmol"
+          },
+          {
+            "name": "aqueous sodium hydroxide solution",
+            "amount": "8 mL, 1 M"
+          }
+        ],
+        "time": "12 h",
+        "washing_method": "DMF and methanol (MeOH) several times",
+        "drying_method": "in the air at room temperature overnight",
+        "yield": "4.2 g, ∼80%"
+      }
+    },
+    {
+      "name": "capsular-MOF",
+      "synthesis_conditions": {
+        "temperature": "190 °C",
+        "solvents": "DMF",
+        "amount_of_each_solvent": "10 mL",
+        "equipment": "25 mL Teflon-lined autoclave",
+        "chemicals_used": [
+          {
+            "name": "FeNi-MIL-88B",
+            "amount": "200 mg"
+          },
+          {
+            "name": "tpy (2,4,6-tris(4-pyridyl)pyridine)",
+            "amount": "100 mg"
+          }
+        ],
+        "time": "14 h",
+        "washing_method": "DMF and MeOH several times",
+        "drying_method": "under vacuum at 100 °C for 4 hours",
+        "yield": "200 mg, ∼67%"
+      }
+    },
+    {
+      "name": "solid-MOF",
+      "synthesis_conditions": {
+        "temperature": "190 °C",
+        "solvents": "DMF",
+        "amount_of_each_solvent": "10 mL",
+        "equipment": "25 mL Teflon-lined autoclave",
+        "chemicals_used": [
+          {
+            "name": "FeCl3·6H2O",
+            "amount": "108 mg, 0.4 mmol"
+          },
+          {
+            "name": "Ni­(NO3)2·6H2O",
+            "amount": "60 mg, 0.2 mmol"
+          },
+          {
+            "name": "H2bdc-NH2",
+            "amount": "108 mg, 0.6 mmol"
+          }
+        ],
+        "time": "14 h",
+        "washing_method": "DMF and MeOH several times",
+        "drying_method": "under vacuum at 120 °C for 4 hours",
+        "yield": "150 mg, ∼70%"
+      }
+    },
+    {
+      "name": "FeNiP/NCH",
+      "synthesis_conditions": {
+        "temperature": [
+          "500 °C (kept for 1 h)",
+          "650 °C (kept for 2 h)",
+          "300 °C for 30 min in air"
+        ],
+        "solvents": "argon (Ar) flow",
+        "chemicals_used": [
+          {
+            "name": "capsular-MOF",
+            "amount": "40 mg"
+          },
+          {
+            "name": "melamine",
+            "amount": "160 mg"
+          },
+          {
+            "name": "NaH2PO2",
+            "amount": "400 mg"
+          }
+        ],
+        "time": "various",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "20 mg"
+      }
+    },
+    {
+      "name": "FeNiP/NCS",
+      "synthesis_conditions": {
+        "temperature": [
+          "500 °C (kept for 1 h)",
+          "650 °C (kept for 2 h)",
+          "300 °C for 30 min in air"
+        ],
+        "solvents": "argon (Ar) flow",
+        "chemicals_used": [
+          {
+            "name": "solid-MOF",
+            "amount": "40 mg"
+          },
+          {
+            "name": "NaH2PO2",
+            "amount": "400 mg"
+          }
+        ],
+        "time": "various",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "FeNiP/C",
+      "synthesis_conditions": {
+        "temperature": [
+          "500 °C (kept for 1 h)",
+          "650 °C (kept for 2 h)",
+          "300 °C for 30 min in air"
+        ],
+        "solvents": "argon (Ar) flow",
+        "chemicals_used": [
+          {
+            "name": "FeNi-MIL-88B",
+            "amount": "40 mg"
+          },
+          {
+            "name": "NaH2PO2",
+            "amount": "400 mg"
+          }
+        ],
+        "time": "various",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified"
+      }
+    }
+  ]
+}

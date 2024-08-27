@@ -1,0 +1,124 @@
+{
+  "materials": [
+    {
+      "name": "5,5'-bis(bromomethyl)-2,2'-bipyridine",
+      "synthesis_conditions": {
+        "temperature": "reflux",
+        "solvent": "tetrachloromethane",
+        "amount_of_solvent": "150 mL",
+        "chemicals_used": [
+          {
+            "name": "5,5’-dimethyl-2,2’-bipyridine",
+            "amount": "2.76 g",
+            "molarity": "15 mmol"
+          },
+          {
+            "name": "N-bromosuccinimide (NBS)",
+            "amount": "5.84 g",
+            "molarity": "33 mmol"
+          },
+          {
+            "name": "2,2'-azobis(2-methylpropionitrile) (AIBN)",
+            "amount": "0.15 g",
+            "molarity": "0.9 mmol"
+          }
+        ],
+        "time": "overnight",
+        "yield": "2.55g, 50%",
+        "purification_method": "recrystallization",
+        "purification_solvent": "tetrahydrofuran (THF)"
+      }
+    },
+    {
+      "name": "Host 2",
+      "synthesis_conditions": {
+        "temperature": "reflux",
+        "solvent": "THF",
+        "amount_of_solvent": "150 mL",
+        "chemicals_used": [
+          {
+            "name": "Triazinanone",
+            "amount": "0.63 g",
+            "molarity": "4 mmol"
+          },
+          {
+            "name": "NaH (60% dispersion in mineral oil)",
+            "amount": "0.64 g",
+            "molarity": "16 mmol"
+          },
+          {
+            "name": "5,5'-bis(bromomethyl)-2,2'-bipyridine",
+            "amount": "1.37 g",
+            "molarity": "4 mmol"
+          }
+        ],
+        "time": "24 h",
+        "yield": "90 mg, 10%",
+        "purification_method": "flash chromatography",
+        "purification_solvent": "ethyl acetate/ methanol 98:2"
+      }
+    },
+    {
+      "name": "Host 1",
+      "synthesis_conditions": {
+        "temperature": "reflux",
+        "solvent": "1:1 20% [NH(CH2CH2OH)2/ H2O] pH ~ 2",
+        "amount_of_solvent": "20 mL",
+        "chemicals_used": [
+          {
+            "name": "Triazinanone protected bis-urea macrocycle",
+            "amount": "150 mg",
+            "molarity": "0.22 mmol"
+          }
+        ],
+        "time": "24 h",
+        "yield": "96 mg, 90%",
+        "purification_method": "suction filtered, washed with 1 N HCl and deionized water"
+      }
+    },
+    {
+      "name": "Host 2• Ag+ complex",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvent": "THF",
+        "amount_of_solvent": "200 mL",
+        "chemicals_used": [
+          {
+            "name": "Host 2",
+            "amount": "3 mg",
+            "molarity": "0.02 mmol"
+          },
+          {
+            "name": "AgCF3SO3 in methanol",
+            "amount": "0.88 mL",
+            "molarity": "0.04 mmol"
+          }
+        ],
+        "time": "12 h",
+        "yield": "2.9 mg, 82%"
+      }
+    },
+    {
+      "name": "Host 1• Cd2+ complex",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvent": "DMSO diluted with THF",
+        "amount_of_solvent": "200 mL",
+        "chemicals_used": [
+          {
+            "name": "Host 1",
+            "amount": "2 mg",
+            "molarity": "0.02 mmol"
+          },
+          {
+            "name": "Cd(NO3)2 solution in methanol",
+            "amount": "0.83 mL",
+            "molarity": "0.04 mmol"
+          }
+        ],
+        "time": "12 h",
+        "yield": "2.4 mg, 67%"
+      }
+    }
+  ]
+}

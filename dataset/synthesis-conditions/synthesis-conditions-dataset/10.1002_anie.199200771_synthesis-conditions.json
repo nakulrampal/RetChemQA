@@ -1,0 +1,111 @@
+{
+  "materials": [
+    {
+      "material": "3a",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": ["CH2Cl2", "hexane"],
+        "amount_of_solvents": {
+          "CH2Cl2": "20 mL",
+          "hexane": "not specified, used for washing"
+        },
+        "equipment": "not specified",
+        "chemicals_used": {
+          "initial_compound": {
+            "chemical": "not specified",
+            "amount": "0.2 g",
+            "molarity": "0.37 mmol"
+          },
+          "CS2": {
+            "amount": "3 mL",
+            "note": "excess"
+          },
+          "PCy3": {
+            "amount": "0.177 g",
+            "molarity": "0.74 mmol"
+          }
+        },
+        "time": "30 min",
+        "washing_method": "washed with hexane",
+        "drying_method": "dried",
+        "yield": "54%"
+      }
+    },
+    {
+      "material": "3b and 3c",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": ["CH2Cl2"],
+        "amount_of_solvents": {
+          "CH2Cl2": "10 mL"
+        },
+        "equipment": "not specified",
+        "chemicals_used": {
+          "initial_compound": {
+            "chemical": "[Mo(CO)4(C6H6)]",
+            "amount": "0.2 g",
+            "molarity": "0.83 mmol"
+          },
+          "CS2": {
+            "amount": "4 mL",
+            "note": "excess"
+          },
+          "PCy3": {
+            "amount": "0.397 g",
+            "molarity": "1.66 mmol"
+          },
+          "SnBuCl3": {
+            "amount": "0.138 mL",
+            "molarity": "0.83 mmol"
+          }
+        },
+        "time": {
+          "initial_stirring": "10 min",
+          "after_addition_of_SnBuCl3": "15 min"
+        },
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "69%"
+      }
+    },
+    {
+      "material": "[LiCH(CN)2 . H2O . TMEDA]",
+      "synthesis_conditions": {
+        "temperature": {
+          "initial": "-78 °C",
+          "during_reaction": "-50 °C",
+          "after_addition_of_water": "room temperature"
+        },
+        "solvents": ["THF", "diethyl ether"],
+        "amount_of_solvents": {
+          "THF": "35 mL initially, 10 mL additional",
+          "diethyl ether": "used for washing"
+        },
+        "equipment": "not specified",
+        "chemicals_used": {
+          "malonodinitrile": {
+            "amount": "428 mg",
+            "molarity": "6.48 mmol"
+          },
+          "nBuLi": {
+            "amount": "4.06 mL",
+            "molarity": "6.5 mmol",
+            "concentration": "1.6 M in hexane"
+          },
+          "TMEDA": {
+            "amount": "4 mL",
+            "molarity": "26.5 mmol"
+          },
+          "water": {
+            "amount": "0.6 mL",
+            "molarity": "33 mmol"
+          }
+        },
+        "time": "12 h",
+        "washing_method": "washed with ether",
+        "drying_method": "dried in vacuo",
+        "yield": "37%"
+      }
+    }
+  ]
+}

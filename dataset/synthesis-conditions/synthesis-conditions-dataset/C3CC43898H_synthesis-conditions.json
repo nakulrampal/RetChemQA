@@ -1,0 +1,64 @@
+{
+  "materials": [
+    {
+      "name": "[Cd(tppda)(NO3)2]n·nDMF (1-P-a)",
+      "synthesis_conditions": {
+        "solvents": ["Methanol", "DMF"],
+        "amount_of_solvents": {
+          "Methanol": "30 ml",
+          "DMF": "3 ml"
+        },
+        "chemicals_used": ["tppda (0.0417 g, 0.1 mmol)", "Cd(NO3)2·4H2O (0.0308 g, 0.1 mmol)"],
+        "equipment": "100 ml flask",
+        "time": "Stirred at room temperature for 4 h",
+        "yield": "0.0378 g, 52%",
+        "crystallization_method": "Slow diffusion of ether vapor",
+        "temperature": "Room temperature"
+      }
+    },
+    {
+      "name": "[Cd(tppda)(NO3)2]n·0.5nMeOH (1-P-b)",
+      "synthesis_conditions": {
+        "solvents": ["Methanol", "N, N-dimethylacetamide (DMAC)"],
+        "amount_of_solvents": {
+          "Methanol": "30 ml",
+          "DMAC": "3 ml"
+        },
+        "chemicals_used": ["tppda (0.0417 g, 0.1 mmol)", "Cd(NO3)2·4H2O (0.0308 g, 0.1 mmol)"],
+        "equipment": "100 ml flask",
+        "time": "Stirred at room temperature for 4 h",
+        "yield": "0.0226 g, 34%",
+        "crystallization_method": "Slow diffusion of ether vapor",
+        "temperature": "Room temperature"
+      }
+    },
+    {
+      "name": "[Cd(tppda)(NO3)2]n·0.5nMeOH (1-P-b) via solvothermal method",
+      "synthesis_conditions": {
+        "solvents": ["MeOH"],
+        "amount_of_solvents": {
+          "MeOH": "4 ml"
+        },
+        "chemicals_used": ["Cd(NO3)2·4H2O (0.0924 g, 0.3 mmol)", "tppda (0.0417 g, 0.1 mmol)"],
+        "equipment": "~5-mL glass tube",
+        "time": "Heated at 120-140 °C for 3 days",
+        "yield": "0.0539g",
+        "temperature": "120-140 °C"
+      }
+    },
+    {
+      "name": "[Cd(tppda)(NO3)2]n·nSolvent (1-M)",
+      "synthesis_conditions": {
+        "solvents": ["H2O"],
+        "amount_of_solvents": {
+          "H2O": "4 ml"
+        },
+        "chemicals_used": ["Cd(NO3)2·4H2O (0.0924 g, 0.3 mmol)", "tppda (0.0417 g, 0.1 mmol)"],
+        "equipment": "~5-mL glass tube",
+        "time": "Heated at 120-140 °C for 3 days",
+        "yield": "0.0512 g",
+        "temperature": "120-140 °C"
+      }
+    }
+  ]
+}

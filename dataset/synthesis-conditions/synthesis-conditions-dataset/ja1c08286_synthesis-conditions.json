@@ -1,0 +1,62 @@
+{
+  "materials": [
+    {
+      "name": "HHU-8",
+      "synthesis_conditions": {
+        "temperature": "105 °C",
+        "solvents": "DMF/H2O mixture",
+        "solvent_amounts": {
+          "DMF": "V/V = 5/1, 2 mL",
+          "H2O": "V/V = 5/1, 2 mL"
+        },
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)∙6H2O",
+            "amount": "21.42 mg, 0.072 mmol"
+          },
+          {
+            "name": "H4 MTPTA",
+            "amount": "5.04 mg, 0.012 mmol"
+          },
+          {
+            "name": "HNO3",
+            "amount": "30 μL, 16 mol/L"
+          }
+        ],
+        "equipment": "Teflon-lined autoclave",
+        "time": "2 d",
+        "yield": "~ 60 % based on the ligand",
+        "washing_method": "washed with fresh DMF"
+      }
+    },
+    {
+      "name": "HHU-8s",
+      "synthesis_conditions": {
+        "temperature": "105 °C",
+        "solvents": "DMA/H2O mixture",
+        "solvent_amounts": {
+          "DMA": "V/V = 5/1, 2 mL",
+          "H2O": "V/V = 5/1, 2 mL"
+        },
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)∙6H2O",
+            "amount": "21.42 mg, 0.072 mmol"
+          },
+          {
+            "name": "H4 MTPTA",
+            "amount": "5.04 mg, 0.012 mmol"
+          },
+          {
+            "name": "HNO3",
+            "amount": "30 μL, 16 mol/L"
+          }
+        ],
+        "equipment": "Teflon-lined autoclave",
+        "time": "2 d",
+        "yield": "~ 65 % based on the ligand",
+        "washing_method": "washed with fresh DMF"
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "materials": [
+    {
+      "name": "3D porous coordination frameworks {[Ln(tci)·H2O]·4 H2O}n (Ln = Ce (1), Gd (2))",
+      "synthesis_conditions": {
+        "method": "hydrothermal synthesis",
+        "precursors": [
+          "Ln(NO3)3·x H2O",
+          "tris(2-carboxyethyl)isocyanurate (tciH3)"
+        ],
+        "solvent": "water",
+        "solvent_amount": "15 mL",
+        "temperature": "below 100 8C for partially dehydrated phase 1a, above 150 8C for fully dehydrated compound",
+        "atmosphere": "air stable, Ar atmosphere for dehydration",
+        "dehydration_time": "about 7 h",
+        "equipment": [
+          "Rigaku RINT-2000 Ultima diffractometer",
+          "Rigaku Thermo plus TG 8120 apparatus",
+          "BELSORP18 volumetric adsorption equipment",
+          "Quantachrome AUTOSORB-1",
+          "Rigaku Mercury CCD diffractometer"
+        ],
+        "yield": "not specified",
+        "additional_information": "The compound is stable up to about 300 8C, above which it decomposes."
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the primary focus of the research article?",
+      "answer": "The primary focus of the research article is on the influence of metal substitution on the pressure-induced phase change in flexible zeolitic imidazolate frameworks (ZIFs), specifically examining how metal substitution affects the adsorption properties and phase changes of these materials.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Which materials are compared in the study for their gas adsorption properties?",
+      "answer": "The study compares ZIF-7, ZIF-9, and a novel material CdIF-13 for their gas adsorption properties, specifically looking at CO2, CH4, H2, and N2 adsorption.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the synthesis method of ZIF-7 in the study differ from traditional methods?",
+      "answer": "The synthesis method of ZIF-7 in the study differs from traditional methods by using an ethanol/water mixture in the presence of ammonium hydroxide at room temperature, rather than the prototypical solvothermal route in DMF, to avoid the formation of ZnO impurity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the phase transition observed in CdIF-13?",
+      "answer": "The significance of the phase transition observed in CdIF-13 lies in its distinct adsorption behavior from ZIF-7 and ZIF-9, with a dramatically higher threshold adsorption pressure for CO2 and CH4, negligible pre-step adsorption, and a significant increase in adsorption capacity, indicating a unique flexibility and structural response to gas adsorption.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study demonstrates that all three frameworks, ZIF-7, ZIF-9, and CdIF-13, exhibit similar CO2 and CH4 adsorption profiles.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental techniques were used to characterize the synthesized materials?",
+      "answer": "The synthesized materials were characterized using powder X-ray diffraction (PXRD), single-crystal X-ray diffraction, thermogravimetric analysis, differential scanning calorimetry, FT-IR spectroscopy, and gas adsorption measurements.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the study address the challenge of intrinsic heat management during gas adsorption?",
+      "answer": "The study addresses the challenge of intrinsic heat management during gas adsorption by evaluating the endothermic phase change enthalpy of the frameworks, which can partially offset the heats of adsorption and desorption, thus reducing the overall heat released and improving the efficiency of gas storage.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of CdIF-13 involves a solvent exchange process from N,N-dimethylformamide to dichloromethane to induce a phase change.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What challenges were encountered during the Rietveld refinement of the activated ZIF-7 structure?",
+      "answer": "Challenges encountered during the Rietveld refinement of the activated ZIF-7 structure included a significant mismatch between the published crystal structure and the real structure of the sample, leading to unsuccessful refinement attempts due to over-parameterization and the inability to unambiguously determine unit cell parameters.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study confirms that ligand substitution in ZIF-7 prevents structural flexibility in the SOD topology.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

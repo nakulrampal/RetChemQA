@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What is the chemical formula for MWM-1 (Co/2Ni)?",
+      "answer": "C112H82Co5Ni5O40S16",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the absorption correction of MWM-1 (Co/2Ni)?",
+      "answer": "Multi-scan (SADABS; Bruker, 2014)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum and minimum transmission (Tmin, Tmax) values for MWM-1 (Co/2Ni)?",
+      "answer": "Tmin = 0.354, Tmax = 0.451",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How were the H-atom parameters treated in the refinement of MWM-1 (Co/2Ni)?",
+      "answer": "H-atom parameters were constrained",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the relationship between the crystal structure of MWM-1 (Co) and MWM-1 (Co/2Ni)?",
+      "answer": "MWM-1 (Co/2Ni) and MWM-1 (Co) exhibited the same structures, apart from some Co(III)/Co(II) ions being substituted with Ni(III)/Ni(II) ions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What effect does Ni doping have on the conductivity of MWM-1 (Co)?",
+      "answer": "Ni doping of MWM-1 (Co) significantly improves its conductivity, making MWM-1 (Co/2Ni) a semiconductor with a conductivity of 10^-6 S m^-1.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis method of MWM-1 (Co/2Ni) allows for the controllable growth of conductive MOF crystals.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: MWM-1 (Co/2Ni) maintains the SMM characteristics of the parent MWM-1 (Co) due to the strong anisotropic interactions between Co and Ni ions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the [Ni3(H2O)2]2+/[Co3(H2O)2]2+ subunits in the energy storage mechanism of MWM-1 (Co/2Ni)?",
+      "answer": "The [Ni3(H2O)2]2+/[Co3(H2O)2]2+ subunits are the key structures that trigger the electrochemical activity, leading to charge storage through the nickel/cobalt redox reaction.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The performance of MWM-1 (Co/2Ni) supercapacitors can be adjusted by changing the amount of Ni doping.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

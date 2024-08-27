@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the primary goal of the research conducted in the article?",
+      "answer": "The primary goal of the research is to develop a linker desymmetrization strategy to construct highly stable porphyrinic MOFs (Metal-Organic Frameworks), specifically USTC-9, which demonstrates remarkable stability and excellent performance in catalytic CO2 cycloaddition with diverse epoxides.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the key structural differences between USTC-9 and PCN-600?",
+      "answer": "USTC-9 utilizes a porphyrinic linker (TmCPP-M) with carboxylate groups in the meta-position, resulting in a chair-shaped conformation with lower C2h symmetry, whereas PCN-600 uses a common porphyrinic carboxylate (TCPP) linker in D4h symmetry, leading to a planar conformation. These differences contribute to USTC-9's enhanced stability.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the synthesis process of USTC-9(Fe) and USTC-9(In) differ?",
+      "answer": "USTC-9(Fe) is synthesized via a solvothermal reaction involving H2TmCPP and FeCl3·6H2O with a dual modulator strategy at 160 °C, while USTC-9(In) is synthesized from H2TmCPP and In­(OH)3 with nitric acid as a single modulator in DMF at 120 °C.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The structural integrity of USTC-9(Fe) remains unchanged upon exposure to ambient atmosphere for at least 1 month.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does the linker desymmetrization strategy play in the stability of USTC-9?",
+      "answer": "The linker desymmetrization strategy, by introducing TmCPP-M linkers with lower symmetry, leads to a more interlocked and dense arrangement of linkers in USTC-9. This configuration enhances the framework's structural firmness, resistance to capillary forces during activation, and overall chemical stability.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: USTC-9(Fe) demonstrates superior catalytic performance in CO2 cycloaddition with epoxides compared to PCN-600.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the Fe:Mn molar ratio in the synthesis of USTC-9(Fe2Mn)?",
+      "answer": "The Fe:Mn molar ratio (~2.4:1) between USTC-9(Fe2Mn) and the Fe2MnO(OOCCH3)6 cluster is significant as it indicates the successful incorporation of both Fe and Mn into the MOF structure, potentially affecting the material's catalytic properties and stability.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the Lewis acidity of USTC-9(Fe) compare to that of USTC-9(In)?",
+      "answer": "USTC-9(Fe) exhibits higher Lewis acidity than USTC-9(In), as indicated by the higher temperature of the maximum NH3 desorption peak (126.2 °C for USTC-9(Fe) vs. 105.7 °C for USTC-9(In)), which accounts for USTC-9(Fe)'s superior catalytic activity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of TCPP-Fe involves a reflux process at 160 °C with FeCl2·4H2O and H2TPPCOOMe in DMF.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What challenges does the research address in the synthesis and application of MOFs?",
+      "answer": "The research addresses the challenge of integrating high stability and functionality in MOFs for practical applications. It focuses on overcoming the limitations of MOF stability during activation and in the presence of moisture or acidic/alkaline conditions, which are critical for their real-world applications in catalysis and gas storage.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

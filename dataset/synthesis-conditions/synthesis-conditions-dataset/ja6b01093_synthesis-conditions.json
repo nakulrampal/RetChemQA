@@ -1,0 +1,177 @@
+{
+  "materials": [
+    {
+      "name": "TMOF",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "time": "48 h",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "6 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "0.089 g, 0.30 mmol"
+          },
+          {
+            "name": "Htz",
+            "amount": "0.021 g, 0.30 mmol"
+          },
+          {
+            "name": "H2TDC",
+            "amount": "0.017 g, 0.10 mmol"
+          }
+        ],
+        "yield": "81%, based on H2TDC",
+        "drying_method": "dried in air"
+      }
+    },
+    {
+      "name": "TPMOF-1",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "time": "48 h",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "6 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "0.148 g, 0.50 mmol"
+          },
+          {
+            "name": "Htz",
+            "amount": "0.021 g, 0.30 mmol"
+          },
+          {
+            "name": "H2TDC",
+            "amount": "0.052 g, 0.30 mmol"
+          }
+        ],
+        "yield": "83%, based on H2TDC",
+        "drying_method": "dried in air"
+      }
+    },
+    {
+      "name": "TPMOF-2 to TPMOF-4",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "time": "48 h",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "6 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "0.148 g, 0.50 mmol"
+          },
+          {
+            "name": "Htz",
+            "amount": "0.021 g, 0.30 mmol"
+          },
+          {
+            "name": "H2TDC",
+            "amount": "0.026 g, 0.15 mmol"
+          },
+          {
+            "name": "H2BDC",
+            "amount": "0.025 g, 0.15 mmol (for TPMOF-2)"
+          },
+          {
+            "name": "H2DMTDC",
+            "amount": "substituted for H2BDC (for TPMOF-3)"
+          },
+          {
+            "name": "H2NDC",
+            "amount": "substituted for H2BDC (for TPMOF-4)"
+          }
+        ],
+        "yield": "74% for TPMOF-2, based on H2BDC",
+        "drying_method": "dried in air"
+      }
+    },
+    {
+      "name": "TPMOF-5 and TPMOF-6",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "time": "72 h",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "6 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "0.148 g, 0.50 mmol"
+          },
+          {
+            "name": "Htz",
+            "amount": "0.021 g, 0.30 mmol"
+          },
+          {
+            "name": "H2TDC",
+            "amount": "0.026 g, 0.15 mmol"
+          },
+          {
+            "name": "H3TCA",
+            "amount": "0.038 g, 0.10 mmol (for TPMOF-5)"
+          },
+          {
+            "name": "H3BTB",
+            "amount": "substituted for H3TCA (for TPMOF-6)"
+          }
+        ],
+        "yield": "77% for TPMOF-5, based on H3TCA",
+        "drying_method": "dried in air"
+      }
+    },
+    {
+      "name": "TPMOF-7(Zn) and TPMOF-7(Fe)",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "time": "72 h",
+        "solvents": [
+          {
+            "name": "DMA",
+            "amount": "6 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "0.148 g, 0.50 mmol"
+          },
+          {
+            "name": "Htz",
+            "amount": "0.021 g, 0.30 mmol"
+          },
+          {
+            "name": "H2TDC",
+            "amount": "0.026 g, 0.15 mmol"
+          },
+          {
+            "name": "Zn–TCPP",
+            "amount": "0.068 g, 0.08 mmol (for TPMOF-7(Zn))"
+          },
+          {
+            "name": "Fe–TCPP",
+            "amount": "substituted for Zn–TCPP (for TPMOF-7(Fe))"
+          }
+        ],
+        "yield": "65% for TPMOF-7(Zn), based on H2TDC",
+        "drying_method": "dried in air"
+      }
+    }
+  ]
+}

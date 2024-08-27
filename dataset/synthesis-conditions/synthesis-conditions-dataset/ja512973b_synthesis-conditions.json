@@ -1,0 +1,113 @@
+{
+  "materials": [
+    {
+      "name": "NU-1101",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "DMF",
+        "amount_of_solvent": "8 mL",
+        "equipment": "oven",
+        "chemicals_used": [
+          {
+            "name": "ZrOCl2·8H2O",
+            "amount": "96 mg"
+          },
+          {
+            "name": "benzoic acid",
+            "amount": "2.7 g"
+          },
+          {
+            "name": "Py-XP",
+            "amount": "66 mg"
+          }
+        ],
+        "time": "48 h",
+        "washing_method": "washed with fresh DMF",
+        "drying_method": "activated under dynamic vacuum at 120 °C",
+        "yield": "63%"
+      }
+    },
+    {
+      "name": "NU-1102",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "DEF",
+        "amount_of_solvent": "4 mL",
+        "equipment": "oven",
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "37.5 mg"
+          },
+          {
+            "name": "Por-PP",
+            "amount": "59 mg"
+          },
+          {
+            "name": "benzoic acid",
+            "amount": "675 mg"
+          }
+        ],
+        "time": "3 days",
+        "washing_method": "washed with DMF and acetone",
+        "drying_method": "activated under dynamic vacuum at 120 °C"
+      }
+    },
+    {
+      "name": "NU-1103",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "DMF",
+        "amount_of_solvent": "20 mL",
+        "equipment": "heating block on a hotplate",
+        "chemicals_used": [
+          {
+            "name": "Py-PTP",
+            "amount": "25 mg"
+          },
+          {
+            "name": "benzoic acid",
+            "amount": "1 g"
+          },
+          {
+            "name": "ZrOCl2·8H2O",
+            "amount": "10 mg"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": "washed with DMF and ethanol",
+        "drying_method": "supercritical carbon dioxide drying followed by activation under dynamic vacuum at 120 °C"
+      }
+    },
+    {
+      "name": "NU-1104",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "DMF",
+        "amount_of_solvent": "8 mL",
+        "equipment": "oven",
+        "chemicals_used": [
+          {
+            "name": "ZrOCl2·8H2O",
+            "amount": "16 mg"
+          },
+          {
+            "name": "benzoic acid",
+            "amount": "600 mg"
+          },
+          {
+            "name": "Por-PTP",
+            "amount": "12 mg"
+          },
+          {
+            "name": "NiCl2·H2O",
+            "amount": "30 mg"
+          }
+        ],
+        "time": "2 days for metallation",
+        "washing_method": "washed with DMF and ethanol",
+        "drying_method": "supercritical carbon dioxide drying followed by activation under dynamic vacuum at room temperature"
+      }
+    }
+  ]
+}

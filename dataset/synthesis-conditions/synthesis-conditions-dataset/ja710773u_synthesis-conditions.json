@@ -1,0 +1,28 @@
+{
+  "materials": [
+    {
+      "material": "Cu(hfac)2LBu·0.5C8H18",
+      "synthesis_details": {
+        "equipment": "homebuilt W-band (94.9 GHz) EPR spectrometer in continuous wave mode",
+        "procedure": "The single crystal was prepared according to the developed procedure and then used for the measurements.",
+        "temperature_dependence": "The position and shape (linewidth) of the signal of spin triad are temperature dependent due to the dynamic electron spin exchange process.",
+        "temperature_effects": "Due to the redistribution of populations of different multiplets with temperature, the center of mass and thus the position of EPR signal shift.",
+        "equation_for_geff(T)": "A compact expression for geff(T) was derived (Equation 1).",
+        "calculation_details": {
+          "temperature_dependence_of_exchange_interaction": "The temperature dependence of exchange interaction J(T) was obtained by fitting the experimental dependence geff(T) of a spin triad using Equation 1.",
+          "g_factor_determination": "The g factor of copper in a spin triad was obtained from the lowest temperature EPR spectrum (60 K), where only the ground spin state S=1/2 is populated.",
+          "isotropic_g_value_of_nitroxide": "g=2.007 was determined in a separate experiment.",
+          "error_of_experimental_determination": "±0.0005",
+          "calculation_of_effective_magnetic_moment": "The effective magnetic moment of Cu(hfac)2LBu·C8H18 can be calculated using a specific equation.",
+          "intercluster_exchange": "The intercluster exchange was taken into account following a well-known approach as zJ' = -10 cm-1."
+        },
+        "crystallographic_data": {
+          "data_collection": "Data were collected on a Smart Apex with CCD detector using Mo Kα radiation.",
+          "structure_solution_and_refinement": "The structures were solved by direct methods and refined by full matrix least-squares analysis anisotropically.",
+          "hydrogen_atoms": "The hydrogen atoms were partially localized on difference electron density maps and refined isotropically together with nonhydrogen atoms."
+        },
+        "temperature_dependence_of_Cu-O_bond_lengths": "Temperature dependence of Cu-O bond lengths obtained using X-ray analysis and a sketch of reversible structural rearrangements in Cu(hfac)2LBu·0.5C8H18."
+      }
+    }
+  ]
+}

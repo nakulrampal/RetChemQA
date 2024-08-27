@@ -1,0 +1,71 @@
+{
+  "materials": [
+    {
+      "name": "Na(OCP)",
+      "synthesis_conditions": {
+        "temperature": "Not explicitly mentioned",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "Not specified"
+          },
+          {
+            "name": "dimethylcarbonate",
+            "amount": "Not specified"
+          }
+        ],
+        "equipment": "Not specified",
+        "chemicals_used": [
+          "PH3",
+          "NaOtBu"
+        ],
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "High yield"
+      }
+    },
+    {
+      "name": "annulated 1,3,4-azadiphospholides (Na[1 a]–Na[1 h])",
+      "synthesis_conditions": {
+        "temperature": "160 88C for Na[1 a], refluxing DME for Na[1 b]–Na[1 h]",
+        "solvents": [
+          {
+            "name": "2-chloropyridine",
+            "amount": "Neat for Na[1 a]"
+          },
+          {
+            "name": "DME",
+            "amount": "Not specified for Na[1 b]–Na[1 h]"
+          }
+        ],
+        "equipment": "Not specified",
+        "chemicals_used": [
+          "Na(OCP)",
+          "2-chloropyridines",
+          "2-chloropyrimidine",
+          "2-chloropyridine-carbonitriles"
+        ],
+        "time": "Reasonable reaction times",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "> 75 % relative to Na(OCP) for Na[1 a], good yields for Na[1 b]–Na[1 h], more than 60 % for cyano-substituted azadiphospholides Na[1 e–1 h]"
+      }
+    },
+    {
+      "name": "silylated derivatives (Si[1 a]–Si[1 h])",
+      "synthesis_conditions": {
+        "temperature": "Not specified",
+        "solvents": "Not specified",
+        "equipment": "Not specified",
+        "chemicals_used": [
+          "tBuMe2SiCl (TBS-Cl)"
+        ],
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified"
+      }
+    }
+  ]
+}

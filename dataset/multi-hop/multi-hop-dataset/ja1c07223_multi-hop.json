@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for the metal-organic framework CuI-MFU-4l based on ICP-OES analysis?",
+      "answer": "Cu2.2Zn2.8Xn(btdd)3 (X– = chloride, formate)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of formate affect the carbon content in the elemental analysis of CuI-MFU-4l?",
+      "answer": "The presence of formate would increase the carbon content, but the measured carbon content was significantly lower than the theoretical value for a formula with all chlorides replaced with formate, indicating minimal amounts of formate are present.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What experimental technique was used to determine the presence of a precursor state in the adsorption of H2 in CuI-MFU-4l?",
+      "answer": "Powder neutron diffraction was used to determine the presence of a precursor state in the adsorption of H2 in CuI-MFU-4l.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the temperature-programmed desorption (TPD) data in understanding H2 adsorption in CuI-MFU-4l?",
+      "answer": "The TPD data, especially the presence of a new desorption peak at a lower temperature, provides evidence for the existence of a precursor state to chemisorption and helps understand the kinetics of H2 adsorption in CuI-MFU-4l.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the computational analysis contribute to the understanding of H2 binding in CuI-MFU-4l?",
+      "answer": "Computational analysis, including geometry optimization and energy decomposition analysis, helps in understanding the structural and electronic changes upon H2 binding, the covalent character of the bond, and the activation barrier for adsorption.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role does the constrained optimization play in the computational study of H2 adsorption in CuI-MFU-4l?",
+      "answer": "Constrained optimization was used to search for a barrier to adsorption and to explore the potential energy surface along the Cu–H2 coordinate, revealing a local minimum corresponding to a physisorbed precursor state.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The presence of a precursor state to chemisorption in CuI-MFU-4l was experimentally confirmed using DRIFTS.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The experimental and computational studies on CuI-MFU-4l agree on the activation barrier for H2 adsorption.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The experimental data suggests that the activation barrier for H2 adsorption in CuI-MFU-4l is solely due to diffusion limitations.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The computational study of CuI-MFU-4l used a smaller cluster model to facilitate convergence to optimal nuclear configurations.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of the amount of material and compaction on the TPD desorption peaks for CuI-MFU-4l?",
+      "answer": "The amount of material and its compaction within the TPD cell affect the temperature at which the desorption peaks occur, with more material and compaction leading to a higher temperature for the chemisorption peak.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the lattice parameter 'a' of CuI-MFU-4l change with temperature and H2 dosing?",
+      "answer": "The lattice parameter 'a' of CuI-MFU-4l contracts upon H2 dosing at low temperatures, indicating adsorption at the strong-binding site. It displays negative thermal expansion behavior upon heating and returns to its 'bare' value upon desorption of H2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

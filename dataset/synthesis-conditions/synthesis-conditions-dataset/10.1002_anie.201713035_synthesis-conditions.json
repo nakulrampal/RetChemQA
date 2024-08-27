@@ -1,0 +1,67 @@
+{
+  "materials": [
+    {
+      "name": "H2TPP",
+      "synthesis_conditions": {
+        "precursors": [
+          "3,6-di(pyridin-4-yl)naphthalene-1,8-diamine",
+          "terephthalaldehyde",
+          "sodium metabisulfite"
+        ],
+        "solvent": "DMF",
+        "temperature": "unspecified",
+        "time": "unspecified",
+        "yield": "unspecified",
+        "drying_method": "unspecified",
+        "washing_method": "unspecified",
+        "additional_information": "Single crystals formed during the reaction."
+      }
+    },
+    {
+      "name": "[n-Bu4N]2TPP",
+      "synthesis_conditions": {
+        "precursors": [
+          "H2TPP",
+          "sodium methoxide",
+          "tetrabutylammonium ions"
+        ],
+        "solvent": [
+          {
+            "name": "unspecified for initial reaction",
+            "amount": "unspecified"
+          },
+          {
+            "name": "dichloromethane",
+            "amount": "unspecified for solution preparation"
+          },
+          {
+            "name": "pentane",
+            "amount": "unspecified for vapor diffusion"
+          }
+        ],
+        "temperature": "unspecified",
+        "time": "unspecified",
+        "yield": "unspecified",
+        "drying_method": "unspecified",
+        "washing_method": "unspecified",
+        "additional_information": "Single crystals obtained by vapor diffusion of pentane into a dichloromethane solution."
+      }
+    },
+    {
+      "name": "Cd-TPP network",
+      "synthesis_conditions": {
+        "precursors": [
+          "H2TPP",
+          "molten Cd2+ salts"
+        ],
+        "solvent": "DMF",
+        "temperature": "363 K",
+        "time": "unspecified",
+        "yield": "unspecified",
+        "drying_method": "unspecified",
+        "washing_method": "unspecified",
+        "additional_information": "Reaction carried out in the molten-metal-ion state due to the low melting point of Cd(NO3)2·4 H2O."
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "materials": [
+    {
+      "name": "1S·NB and 1R·NB",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "5 mL"
+          },
+          {
+            "name": "nitrobenzene (NB)",
+            "amount": "5 mL"
+          },
+          {
+            "name": "methanol/nitrobenzene buffer",
+            "amount": "5 mL",
+            "ratio": "1:1"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Co(NO3)2·6H2O",
+            "amount": "0.4 mmol (120 mg)"
+          },
+          {
+            "name": "enantiopure mandelic acid (S isomer for 1S and R isomer for 1R)",
+            "amount": "0.4 mmol (60.8 mg)"
+          },
+          {
+            "name": "bpy",
+            "amount": "0.3 mmol (46.8 mg)"
+          }
+        ],
+        "time": "7 days",
+        "yield": "~50%"
+      }
+    },
+    {
+      "name": "1S·DCM and 1R·DCM",
+      "synthesis_conditions": {
+        "initial_materials": [
+          "1S·NB",
+          "1R·NB"
+        ],
+        "solvent_exchange": {
+          "solvent": "DCM",
+          "frequency": "daily",
+          "duration": "5 days"
+        },
+        "desolvation": {
+          "method": "under vacuum"
+        }
+      }
+    },
+    {
+      "name": "1S·CH and 1R·CH",
+      "synthesis_conditions": {
+        "initial_materials": [
+          "1S",
+          "1R"
+        ],
+        "immersion_solvent": "cyclohexane (CH)",
+        "duration": "7 days"
+      }
+    },
+    {
+      "name": "1S·PPex",
+      "synthesis_conditions": {
+        "initial_material": "1S·DCM",
+        "immersion_solvent": "racemic PP",
+        "duration": "7 days"
+      }
+    },
+    {
+      "name": "1S·PPex′",
+      "synthesis_conditions": {
+        "initial_material": "1S",
+        "immersion_solvent": "racemic PP",
+        "additives": "200 μL of 90% MeOH/H2O",
+        "duration": "5 days"
+      }
+    }
+  ]
+}

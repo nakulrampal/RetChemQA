@@ -1,0 +1,387 @@
+{
+  "materials": [
+    {
+      "material_name": "[Ni4(bptz)4(CH3CN)8][BF4]8 (1)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "solvent_name": "CH3CN",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "chemical_name": "bptz",
+            "amount": "50 mg",
+            "molar_amount": "0.21 mmol"
+          },
+          {
+            "chemical_name": "[Ni(CH3CN)6][BF4]2",
+            "amount": "100 mg",
+            "molar_amount": "0.21 mmol"
+          }
+        ],
+        "time": "8 h",
+        "washing_method": "washed with benzene (3 × 5 mL)",
+        "drying_method": "dried in vacuo",
+        "yield": "97 mg (84%)"
+      }
+    },
+    {
+      "material_name": "[Ni4(bptz)4(CH3CN)8][ClO4]8 (2)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "solvent_name": "CH3CN",
+            "amount": "10 mL"
+          },
+          {
+            "solvent_name": "THF",
+            "layering": true
+          }
+        ],
+        "chemicals_used": [
+          {
+            "chemical_name": "bptz",
+            "amount": "50 mg",
+            "molar_amount": "0.21 mmol"
+          },
+          {
+            "chemical_name": "Ni(ClO4)2·6H2O",
+            "amount": "106 mg",
+            "molar_amount": "0.29 mmol"
+          }
+        ],
+        "time": "overnight",
+        "washing_method": "separated from the solution by filtration",
+        "yield": "111 mg (92%)"
+      }
+    },
+    {
+      "material_name": "[Zn4(bptz)4(CH3CN)8][BF4]8 (3)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "solvent_name": "CH3CN",
+            "amount": "10 mL"
+          },
+          {
+            "solvent_name": "benzene",
+            "layering": true,
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "chemical_name": "bptz",
+            "amount": "50 mg",
+            "molar_amount": "0.21 mmol"
+          },
+          {
+            "chemical_name": "[Zn(CH3CN)4][BF4]2",
+            "amount": "85 mg",
+            "molar_amount": "0.21 mmol"
+          }
+        ],
+        "time": "12 h",
+        "washing_method": "washed with CH2Cl2 (3 × 5 mL)",
+        "drying_method": "dried in vacuo",
+        "yield": "84 mg (72%)"
+      }
+    },
+    {
+      "material_name": "[Zn4(bptz)4(CH3CN)8][ClO4]8 (4)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "solvent_name": "CH3CN",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "chemical_name": "bptz",
+            "amount": "50 mg",
+            "molar_amount": "0.21 mmol"
+          },
+          {
+            "chemical_name": "Zn(ClO4)2·6H2O",
+            "amount": "90 mg",
+            "molar_amount": "0.24 mmol"
+          }
+        ],
+        "yield": "105 mg (86%)"
+      }
+    },
+    {
+      "material_name": "[Ni5(bptz)5(CH3CN)10][SbF6]10 (5)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "solvent_name": "acetonitrile",
+            "amount": "10 mL"
+          },
+          {
+            "solvent_name": "toluene",
+            "layering": true
+          }
+        ],
+        "chemicals_used": [
+          {
+            "chemical_name": "bptz",
+            "amount": "50 mg",
+            "molar_amount": "0.21 mmol"
+          },
+          {
+            "chemical_name": "[Ni(CH3CN)6][SbF6]2",
+            "amount": "163 mg",
+            "molar_amount": "0.21 mmol"
+          }
+        ],
+        "yield": "160 mg (90%)"
+      }
+    },
+    {
+      "material_name": "[Ni3(bptz)3][NO3]6 (6)",
+      "synthesis_conditions": [
+        {
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "solvent_name": "acetonitrile",
+              "amount": "10 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "chemical_name": "[n-Bu4N][NO3]",
+              "amount": "32 mg",
+              "molar_amount": "0.10 mmol"
+            },
+            {
+              "chemical_name": "5",
+              "amount": "42.4 mg",
+              "molar_amount": "0.01 mmol"
+            }
+          ],
+          "time": "2 h",
+          "washing_method": "washed with CH3CN (3 × 5 mL) followed by CH2Cl2 (3 × 5 mL)",
+          "drying_method": "dried in vacuo",
+          "yield": "19.5 mg (93%)"
+        },
+        {
+          "alternative_route": true,
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "solvent_name": "acetonitrile",
+              "amount": "10 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "chemical_name": "bptz",
+              "amount": "50 mg",
+              "molar_amount": "0.21 mmol"
+            },
+            {
+              "chemical_name": "[Ni(CH3CN)6][NO3]2",
+              "amount": "90 mg",
+              "molar_amount": "0.21 mmol"
+            }
+          ],
+          "time": "2 h",
+          "washing_method": "washed with benzene (3 × 5 mL)",
+          "drying_method": "dried in vacuo",
+          "yield": "60 mg (68%)"
+        }
+      ]
+    },
+    {
+      "material_name": "[Ni4(bptz)4(CH3CN)8][SbF6]7[I] (7)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "solvent_name": "acetonitrile",
+            "amount": "10 mL"
+          },
+          {
+            "solvent_name": "benzene",
+            "layering": true,
+            "amount": "20 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "chemical_name": "[n-Bu4N][I]",
+            "amount": "7.4 mg",
+            "molar_amount": "0.02 mmol"
+          },
+          {
+            "chemical_name": "5",
+            "amount": "42.4 mg",
+            "molar_amount": "0.01 mmol"
+          }
+        ],
+        "time": "2 h",
+        "washing_method": "washed with benzene (3 × 5 mL)",
+        "drying_method": "dried in vacuo",
+        "yield": "30 g (73%)"
+      }
+    },
+    {
+      "material_name": "[Ni4(bptz)4(CH3CN)8][BF4][PF6][SbF6]6 (8)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "solvent_name": "acetonitrile",
+            "amount": "10 mL"
+          },
+          {
+            "solvent_name": "CH2Cl2",
+            "layering": true
+          }
+        ],
+        "chemicals_used": [
+          {
+            "chemical_name": "5",
+            "amount": "25.4 mg",
+            "molar_amount": "0.006 mmol"
+          },
+          {
+            "chemical_name": "[n-Bu4N][BF4]",
+            "amount": "8.9 mg",
+            "molar_amount": "0.027 mmol"
+          },
+          {
+            "chemical_name": "[n-Bu4N][PF6]",
+            "amount": "10.1 mg",
+            "molar_amount": "0.026 mmol"
+          }
+        ],
+        "yield": "9 mg (46%)"
+      }
+    },
+    {
+      "material_name": "[Ni4(bptz)4(CH3CN)4(H2O)4][ClO4][IO4]7 (9)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "solvent_name": "acetonitrile",
+            "amount": "10 mL"
+          },
+          {
+            "solvent_name": "methanol",
+            "layering": true
+          }
+        ],
+        "chemicals_used": [
+          {
+            "chemical_name": "2",
+            "amount": "23 mg",
+            "molar_amount": "0.01 mmol"
+          },
+          {
+            "chemical_name": "[n-Bu4N][IO4]",
+            "amount": "69.2 mg",
+            "molar_amount": "0.16 mmol"
+          }
+        ],
+        "washing_method": "washed with benzene (3 × 5 mL)",
+        "drying_method": "dried in vacuo",
+        "yield": "16 mg (56%)"
+      }
+    },
+    {
+      "material_name": "[Ni4Br7(bptz)4(CH3CN)Br3]·2CH3CN·2.5C7H8 (10)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "solvent_name": "acetonitrile",
+            "amount": "10 mL"
+          },
+          {
+            "solvent_name": "dichloromethane/toluene",
+            "ratio": "1:2",
+            "layering": true
+          }
+        ],
+        "chemicals_used": [
+          {
+            "chemical_name": "2",
+            "amount": "23 mg",
+            "molar_amount": "0.01 mmol"
+          },
+          {
+            "chemical_name": "[n-Bu4N][Br3]",
+            "amount": "29 mg",
+            "molar_amount": "0.06 mmol"
+          }
+        ],
+        "time": "two weeks",
+        "washing_method": "washed with CH2Cl2 (3 × 5 mL)",
+        "drying_method": "dried in vacuo",
+        "yield": "15 mg (74%)"
+      }
+    },
+    {
+      "material_name": "[Ni2(bptz)(CH3CN)8][ClO4]4 (11)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "solvent_name": "diethyl ether",
+            "layering": true
+          }
+        ],
+        "chemicals_used": [
+          {
+            "chemical_name": "2",
+            "note": "filtrate obtained after isolation of compound 2"
+          }
+        ],
+        "yield": "less than 5%"
+      }
+    },
+    {
+      "material_name": "{[Mn(bptz)(CH3CN)2][BF4]2}∞ (12)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "solvent_name": "acetonitrile",
+            "amount": "10 mL"
+          },
+          {
+            "solvent_name": "dichloromethane",
+            "layering": true,
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "chemical_name": "[Mn(CH3CN)6][BF4]2",
+            "amount": "52.2 mg",
+            "molar_amount": "0.11 mmol"
+          },
+          {
+            "chemical_name": "bptz",
+            "amount": "26 mg",
+            "molar_amount": "0.11 mmol"
+          }
+        ],
+        "time": "one month",
+        "yield": "18 mg (30%)"
+      }
+    }
+  ]
+}

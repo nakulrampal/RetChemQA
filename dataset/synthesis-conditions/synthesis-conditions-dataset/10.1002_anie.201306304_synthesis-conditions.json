@@ -1,0 +1,152 @@
+{
+  "materials": [
+    {
+      "name": "[Co1.5(tipb)(SO4)(pta)0.5](DMF)1.75",
+      "synthesis_conditions": {
+        "temperature": "solvothermal conditions",
+        "solvents": [
+          {
+            "name": "N,N'-dimethylformamide (DMF)",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "not specified",
+        "chemicals_used": [
+          "CoSO4·7H2O",
+          "1,3,5-tris(p-imidazol-ylphenyl)benzene (tipb)",
+          "terephthalic acid (H2pta)"
+        ],
+        "time": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "[Co1.5(tipb)(SO4)(H2O)3.6](pta)0.5(solvent)n (RP-H2O)",
+      "synthesis_conditions": {
+        "temperature": "ambient, by exposure to air or immersion in water",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "not specified",
+        "chemicals_used": [
+          "BP(DMF) crystals exposed to air or immersed in water"
+        ],
+        "time": "gradual transformation, rapid in water",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified",
+        "additional_information": "Transformation is reversible by heating, vacuum, or immersing in anhydrous water miscible solvents."
+      }
+    },
+    {
+      "name": "BP(DMF) kept dry",
+      "synthesis_conditions": {
+        "temperature": "ambient",
+        "solvents": [
+          {
+            "name": "D2O",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "not specified",
+        "chemicals_used": [
+          "BP(DMF) crystals"
+        ],
+        "time": "not specified",
+        "washing_method": "immersion in D2O",
+        "drying_method": "not specified",
+        "yield": "not specified",
+        "additional_information": "DMF guests are released upon immersion in D2O."
+      }
+    },
+    {
+      "name": "BP(DMF) in humidistat",
+      "synthesis_conditions": {
+        "temperature": "ambient",
+        "solvents": [
+          {
+            "name": "water vapor",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "humidistat",
+        "chemicals_used": [
+          "BP(DMF) crystals"
+        ],
+        "time": "7 days",
+        "washing_method": "exposure to water vapor",
+        "drying_method": "not specified",
+        "yield": "not specified",
+        "additional_information": "Releases most of the guest DMF molecules into the air."
+      }
+    },
+    {
+      "name": "BP(DMF) in [D4]MeOH",
+      "synthesis_conditions": {
+        "temperature": "ambient",
+        "solvents": [
+          {
+            "name": "[D4]MeOH",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "not specified",
+        "chemicals_used": [
+          "BP(DMF) crystals"
+        ],
+        "time": "not specified",
+        "washing_method": "immersion in [D4]MeOH",
+        "drying_method": "not specified",
+        "yield": "not specified",
+        "additional_information": "Some DMF is released, but hardly exchanged by [D6]DMSO."
+      }
+    },
+    {
+      "name": "BP(DMF) in [D6]DMSO",
+      "synthesis_conditions": {
+        "temperature": "ambient",
+        "solvents": [
+          {
+            "name": "[D6]DMSO",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "not specified",
+        "chemicals_used": [
+          "BP(DMF) crystals"
+        ],
+        "time": "not specified",
+        "washing_method": "immersion in [D6]DMSO",
+        "drying_method": "not specified",
+        "yield": "not specified",
+        "additional_information": "DMF is hardly exchanged by [D6]DMSO."
+      }
+    },
+    {
+      "name": "BP(DMF) solvent-exchanged to BP(CH3OH)",
+      "synthesis_conditions": {
+        "temperature": "high vacuum, heating",
+        "solvents": [
+          {
+            "name": "methanol (CH3OH)",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "not specified",
+        "chemicals_used": [
+          "BP(DMF) crystals"
+        ],
+        "time": "not specified",
+        "washing_method": "solvent exchange to methanol",
+        "drying_method": "heating under high vacuum",
+        "yield": "not specified",
+        "additional_information": "Guest methanol molecules were removed to afford guest free BP."
+      }
+    }
+  ]
+}

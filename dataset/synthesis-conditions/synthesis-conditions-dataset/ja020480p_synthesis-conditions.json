@@ -1,0 +1,30 @@
+{
+  "materials": [
+    {
+      "name": "UCR-9",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation of light yellow precursor",
+          "temperature": "250 °C",
+          "time": "3 h",
+          "chemicals_used": "[N(CH3)4]4[Cd10S4(SPh)16]",
+          "equipment": "Not specified"
+        },
+        {
+          "step": "Synthesis of UCR-9 crystals",
+          "temperature": "190 °C",
+          "time": "3 d",
+          "solvents": "water",
+          "amount_of_solvent": "2.1770 g",
+          "chemicals_used": {
+            "light yellow precursor": "0.083 g",
+            "4,4‘-trimethylenedipyridine": "0.1150 g",
+            "Na2SO4": "0.0673 g"
+          },
+          "equipment": "23 mL Teflon-lined stainless steel autoclave",
+          "method": "The mixture was stirred for 5 min, the vessel was then sealed and heated."
+        }
+      ]
+    }
+  ]
+}

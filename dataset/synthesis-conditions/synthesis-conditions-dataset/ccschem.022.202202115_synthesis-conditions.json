@@ -1,0 +1,56 @@
+{
+  "materials": [
+    {
+      "name": "(Z)-X (X = 1a-1ab)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "NaOH solution",
+            "amount": "4 mol/L, 40 mL"
+          },
+          {
+            "name": "CH2Cl2",
+            "amount": "50 mL × 3"
+          }
+        ],
+        "equipment": "UV-light box (λ = 365 nm)",
+        "chemicals_used": "(E)-1a⊂MOF1",
+        "time": "6 h for UV irradiation, 16 h for reaction with NaOH solution",
+        "yield": "varies, example given as 11% for (Z)-1a",
+        "washing_method": "extraction with CH2Cl2",
+        "drying_method": "air drying",
+        "purification_method": "column chromatography"
+      }
+    },
+    {
+      "name": "Dimer-X (X = 1a-1w, 1ac-1ai)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "NaOH solution",
+            "amount": "4 mol/L, 40 mL"
+          },
+          {
+            "name": "CH2Cl2",
+            "amount": "50 mL × 3"
+          }
+        ],
+        "equipment": "UV-light box (λ = 365 nm)",
+        "chemicals_used": "((E)-1a)2⊂MOF2",
+        "time": "5 h for UV irradiation, 24 h for reaction with NaOH solution",
+        "yield": "varies, example given as 97.1% for Dimer-1a",
+        "washing_method": "extraction with CH2Cl2",
+        "drying_method": "air drying",
+        "purification_method": "column chromatography"
+      }
+    },
+    {
+      "name": "H2BDC recovery",
+      "synthesis_conditions": {
+        "description": "H2BDC was recovered from the photo-irradiated ((E)-X)2⊂MOF2 crystals by adding acid to the filtrate solution, leading to precipitation of H2BDC which was then recycled."
+      }
+    }
+  ]
+}

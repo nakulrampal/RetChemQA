@@ -1,0 +1,71 @@
+{
+  "Fe-HHTP-MOF": {
+    "synthesis_conditions": {
+      "temperature": "120 degrees Celsius",
+      "solvents": [
+        "DMF (dimethylformamide)",
+        "MeOH (methanol)",
+        "NMP (N-methyl-2-pyrrolidone)",
+        "water"
+      ],
+      "solvent_amounts": {
+        "DMF": "not specified",
+        "MeOH": "not specified",
+        "NMP": "not specified",
+        "water": "not specified"
+      },
+      "equipment": "sealed tube under inert conditions, preheated oven",
+      "chemicals_used": {
+        "Fe(BF4)2·6 H2O": "not specified",
+        "2,3,6,7,10,11-hexahydroxytriphenylene": "not specified",
+        "tetrabutylammonium nitrate (NBu4NO3)": "crystallization additive"
+      },
+      "time": "48 hours",
+      "washing_method": "not specified",
+      "drying_method": "degassed under dynamic vacuum",
+      "yield": "not specified",
+      "additional_information": "The reaction was conducted under solvothermal synthesis conditions."
+    },
+    "structure_solution": {
+      "PXRD": "sharp reflections up to high 2θ values (20°), indicating high crystallinity",
+      "SEM": "tetrahedral and faceted intergrown crystallites, 400 to 500 nm size",
+      "TEM": "crystalline domains, lattice planes d = 19 Å, angles around 71°-72°",
+      "EDX": "presence of Fe, O, C, with residual amounts of nitrogen",
+      "crystal_system": "cubic",
+      "lattice_constant": "a = 32.92(±0.01) Å",
+      "space_group": "F23",
+      "composition": "C63.1O29.0Fe7.9 (EDX), C63.2O31.4Fe5.3 (refined model)"
+    },
+    "materials_characterization": {
+      "nitrogen_adsorption": {
+        "BET_surface_area": "1490 m2/g",
+        "pore_volume": "0.7 cm3/g",
+        "pore_size_distribution": "mean pore size of 1.78 nm"
+      },
+      "thermal_stability": "up to 185 degrees Celsius",
+      "XPS": "presence of FeIII, absence of boron, weak nitrogen signal"
+    },
+    "photophysical_properties": {
+      "UV_Vis_NIR_absorption": {
+        "local_maxima": "380 nm and 950 nm",
+        "spectrum_onset": "1400 nm",
+        "band_gap": "1.1 eV"
+      },
+      "reflectance_measurements": "less than 3% in the visible spectrum"
+    },
+    "iron_valency": {
+      "57Fe_Mossbauer": "high-spin FeIII coordination site",
+      "SQUID_magnetization": "temperature-dependent magnetic moments, meff ~ 7.0 μB at 300 K",
+      "EPR": "single, broad isotropic feature, centered at giso = 2.02",
+      "XPS": "Fe 2p signal split into Fe 2p3/2 and Fe 2p1/2 peaks, indicating high-spin FeIII"
+    },
+    "electrical_conductivity": {
+      "two_point_probe_measurements": "1.1 X 10^-4 S cm^-1",
+      "four_point_van_der_Pauw_measurements": "5.6 X 10^-3 S cm^-1"
+    },
+    "charge_carrier_pathway_simulations": {
+      "electron_transport_path": "continuous, through the iron centers and connecting ligands",
+      "hole_transport_path": "discontinuous, largely located on water clusters"
+    }
+  }
+}

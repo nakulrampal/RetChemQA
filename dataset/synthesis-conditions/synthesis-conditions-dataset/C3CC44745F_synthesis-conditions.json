@@ -1,0 +1,88 @@
+{
+  "materials": [
+    {
+      "name": "WOFOUR-1-Ni",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "4 mL"
+          },
+          {
+            "name": "acetonitrile",
+            "amount": "4 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "NiCl2.6H2O",
+            "amount": "11.9 mg, 0.05 mmol"
+          },
+          {
+            "name": "Na2WO4.2H2O",
+            "amount": "16.5 mg, 0.05 mmol"
+          },
+          {
+            "name": "1,2-bis(4-pyridyl)ethene (bpe)",
+            "amount": "18.2 mg, 0.1 mmol"
+          }
+        ],
+        "time": "1 week",
+        "yield": "light green block-shaped crystals"
+      },
+      "activation_for_gas_sorption": {
+        "solvent_exchange": "acetonitrile for 48 h (2 times/day)",
+        "heating": [
+          {
+            "temperature": "80°C",
+            "duration": "3h"
+          }
+        ],
+        "evacuation": [
+          {
+            "temperature": "60°C",
+            "duration": "12 h"
+          },
+          {
+            "temperature": "80°C",
+            "duration": "4 h"
+          }
+        ],
+        "equilibrium_time_during_CO2_adsorption_measurement": "increased"
+      }
+    },
+    {
+      "name": "WOFOUR-1-Co",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "4 mL"
+          },
+          {
+            "name": "acetonitrile",
+            "amount": "4 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CoCl2.6H2O",
+            "amount": "11.9 mg, 0.05 mmol"
+          },
+          {
+            "name": "Na2WO4.2H2O",
+            "amount": "16.5 mg, 0.05 mmol"
+          },
+          {
+            "name": "1,2-bis(4-pyridyl)ethene (bpe)",
+            "amount": "18.2 mg, 0.1 mmol"
+          }
+        ],
+        "time": "1 week",
+        "yield": "red block-shaped crystals"
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "materials": [
+    {
+      "material_id": "1",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "170 °C",
+          "time": "5 days",
+          "cooling_rate": "1 °C min−1",
+          "solvents": [
+            {
+              "name": "4-methylpyridine",
+              "amount": "3 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "gallium metal",
+              "purity": "99.99%",
+              "amount": "139 mg"
+            },
+            {
+              "name": "sulfur",
+              "purity": "99.5%",
+              "amount": "144 mg"
+            },
+            {
+              "name": "DPE",
+              "purity": "≥98%",
+              "amount": "182 mg"
+            }
+          ],
+          "equipment": "23 mL Teflon-lined stainless steel autoclave"
+        }
+      ]
+    },
+    {
+      "material_id": "2",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "200 °C",
+          "time": "20 days",
+          "solvents": [
+            {
+              "name": "3,5-dimethylpyridine",
+              "purity": "98+%"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "gallium metal",
+              "purity": "99.99%",
+              "amount": "not specified"
+            },
+            {
+              "name": "sulfur",
+              "purity": "99.5%",
+              "amount": "not specified"
+            },
+            {
+              "name": "DPE",
+              "purity": "≥98%",
+              "amount": "not specified"
+            }
+          ],
+          "molar_composition": "Ga:S:DPE:3,5-dimethylpyridine, 2:4.5:1:26",
+          "equipment": "not specified"
+        }
+      ]
+    }
+  ]
+}

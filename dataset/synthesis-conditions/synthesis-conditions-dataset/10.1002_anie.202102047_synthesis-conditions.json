@@ -1,0 +1,67 @@
+{
+  "materials": [
+    {
+      "name": "M-P-dmbIm (M = Zn, Cd, Cu, Mn)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "metal acetate (zinc acetate, chromium acetate, copper acetate, manganous acetate)",
+          "dmbIm",
+          "phosphoric acid (H3PO4)"
+        ],
+        "method": "grinding",
+        "washing_method": "washed with dichloromethane three times",
+        "drying_method": "dried under 70 88C for 10 h",
+        "equipment": "N/A",
+        "temperature": "N/A",
+        "solvents": "dichloromethane",
+        "amount_of_solvent": "N/A",
+        "time": "N/A",
+        "yield": "N/A"
+      }
+    },
+    {
+      "name": "agM-P-dmbIm",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "M-P-dmbIm (M = Zn, Cd, Cu, Mn)"
+        ],
+        "method": "melt-cooling",
+        "washing_method": "N/A",
+        "drying_method": "N/A",
+        "equipment": "N/A",
+        "temperature": "just above Tm",
+        "solvents": "N/A",
+        "amount_of_solvent": "N/A",
+        "time": "N/A",
+        "yield": "N/A"
+      }
+    },
+    {
+      "name": "agZn-P-dmbIm membrane",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Zn-P-dmbIm"
+        ],
+        "method": [
+          "melt-cooling",
+          "hot-casting",
+          "hot-pressing"
+        ],
+        "washing_method": "N/A",
+        "drying_method": "N/A",
+        "equipment": "N/A",
+        "temperature": [
+          "Tm (176 88C)",
+          "Tg (112 88C)"
+        ],
+        "solvents": "N/A",
+        "amount_of_solvent": "N/A",
+        "time": [
+          "1 min for hot-casting",
+          "3 min for hot-pressing"
+        ],
+        "yield": "N/A"
+      }
+    }
+  ]
+}

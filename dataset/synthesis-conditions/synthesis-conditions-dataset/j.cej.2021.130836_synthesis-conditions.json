@@ -1,0 +1,115 @@
+{
+  "materials": [
+    {
+      "name": "ZnCe-MOF",
+      "synthesis_conditions": {
+        "method": "hydrothermal",
+        "temperature": "200°C",
+        "time": "48h",
+        "solvents": [
+          {
+            "name": "distilled water",
+            "amount": "8mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CeCl3·7H2O",
+            "amount": "0.0744g"
+          },
+          {
+            "name": "Zn(CH3COO)2·2H2O",
+            "amount": "0.0848g"
+          },
+          {
+            "name": "4,5-ida",
+            "amount": "0.1248g"
+          },
+          {
+            "name": "LiOH·H2O",
+            "amount": "0.02g"
+          }
+        ],
+        "washing_method": "distilled water (3*20mL)",
+        "drying_method": "room temperature",
+        "yield": "0.053g, 35% based on 4,5-ida"
+      }
+    },
+    {
+      "name": "CuCe-MOF",
+      "synthesis_conditions": {
+        "method": "hydrothermal",
+        "temperature": "200°C",
+        "time": "48h",
+        "solvents": [
+          {
+            "name": "distilled water",
+            "amount": "8mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CeCl3·7H2O",
+            "amount": "0.0744g"
+          },
+          {
+            "name": "Cu(CH3COO)2·2H2O",
+            "amount": "0.0848g"
+          },
+          {
+            "name": "4,5-ida",
+            "amount": "0.1248g"
+          },
+          {
+            "name": "LiOH·H2O",
+            "amount": "0.02g"
+          }
+        ],
+        "washing_method": "distilled water (3*20mL)",
+        "drying_method": "room temperature",
+        "yield": "blue rod single crystals"
+      }
+    },
+    {
+      "name": "MOF@PANI electrode",
+      "synthesis_conditions": {
+        "method": "electrochemical deposition",
+        "electrolyte": "0.1M aniline and 1M hydrochloric acid solution (50mL)",
+        "potential_window": "-0.2–1V",
+        "cycles": [
+          {
+            "name": "ZnCe-MOF@PANI-1",
+            "cycles": "1"
+          },
+          {
+            "name": "ZnCe-MOF@PANI-2",
+            "cycles": "2"
+          },
+          {
+            "name": "CuCe-MOF@PANI-1",
+            "cycles": "1"
+          },
+          {
+            "name": "CuCe-MOF@PANI-2",
+            "cycles": "2"
+          }
+        ],
+        "washing_method": "distilled water",
+        "drying_method": "60°C for 12h",
+        "compression": "10MPa",
+        "active_material_loading": "2.2–2.4mg"
+      }
+    },
+    {
+      "name": "MOF@PANI hybrid supercapacitor",
+      "synthesis_conditions": {
+        "method": "assembly",
+        "positive_material": "MOF@PANI",
+        "negative_material": "active carbon (AC)",
+        "electrolyte": "6M KOH solution",
+        "mass_balance_equation": "m+/m- = Cm-×ΔV/Cm+×ΔV",
+        "drying_method": "vacuum at 90°C for 12h"
+      }
+    }
+  ]
+}

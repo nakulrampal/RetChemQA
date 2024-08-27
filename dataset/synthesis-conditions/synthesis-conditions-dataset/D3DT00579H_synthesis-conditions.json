@@ -1,0 +1,96 @@
+{
+  "materials": [
+    {
+      "name": "Ln-MOFs 1-5",
+      "synthesis_conditions": {
+        "temperature": "140 °C",
+        "solvents": [
+          {
+            "name": "mixed solvent (VH2O : VMeCN)",
+            "amounts": [
+              "1 : 4, 6 mL",
+              "1 : 3, 8 mL",
+              "1 : 5, 4 mL",
+              "1 : 6, 6 mL",
+              "1 : 3, 6 mL"
+            ]
+          }
+        ],
+        "equipment": "polytetrafluoroethylene reaction kettle",
+        "chemicals_used": [
+          {
+            "name": "PrCl3·6H2O",
+            "amount": "0.15 mmol, 53 mg"
+          },
+          {
+            "name": "NdCl3·6H2O",
+            "amount": "0.15 mmol, 54 mg"
+          },
+          {
+            "name": "EuCl3·6H2O",
+            "amount": "0.15 mmol, 52 mg"
+          },
+          {
+            "name": "HoCl3·6H2O",
+            "amount": "0.15 mmol, 53 mg"
+          },
+          {
+            "name": "CeCl3·6H2O",
+            "amount": "0.15 mmol, 53 mg"
+          },
+          {
+            "name": "H2L",
+            "amounts": [
+              "0.10 mmol, 35 mg",
+              "0.10 mmol, 36 mg",
+              "0.10 mmol, 34 mg",
+              "0.10 mmol, 35 mg",
+              "0.10 mmol, 35 mg"
+            ]
+          }
+        ],
+        "time": "12 h",
+        "yield": [
+          "59% based on H2L ligand",
+          "53% based on H2L ligand",
+          "60% based on H2L ligand",
+          "65% based on H2L ligand",
+          "60% based on H2L ligand"
+        ]
+      }
+    },
+    {
+      "name": "Ln-MOF 5",
+      "fluorescence_sensing_performance": {
+        "target_ions": [
+          "Ag+",
+          "Hg2+"
+        ],
+        "detection_limits": [
+          "1.7 × 10^-7 M for Ag+",
+          "2.5 × 10^-6 M for Hg2+"
+        ],
+        "quenching_constants": [
+          "1.4 × 10^5 M^-1 for Ag+",
+          "1.0 × 10^4 M^-1 for Hg2+"
+        ],
+        "reusability": "Good, after washing with deionized water and methanol several times"
+      }
+    },
+    {
+      "name": "Ln-MOFs 1-5",
+      "dye_adsorption_properties": {
+        "target_dye": "Congo red (CR)",
+        "adsorption_capacities": [
+          "2724 mg g^-1 for 1",
+          "2719 mg g^-1 for 2",
+          "2718 mg g^-1 for 3",
+          "327 mg g^-1 for 4",
+          "2273 mg g^-1 for 5"
+        ],
+        "adsorption_kinetics": "Pseudo-second-order kinetic model",
+        "reusability": "More than 96% of the CR solution removed after five cycles"
+      }
+    }
+  ]
+}

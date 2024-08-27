@@ -1,0 +1,121 @@
+{
+  "materials": [
+    {
+      "material_name": "1c",
+      "synthesis_conditions": [
+        {
+          "step": "General",
+          "temperature": "60 °C",
+          "solvents": [
+            {
+              "solvent_name": "nitromethane",
+              "amount": "550 µL"
+            },
+            {
+              "solvent_name": "1-nitropropane",
+              "amount": "500 µL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "chemical_name": "AgBF4",
+              "amount": "0.60 mg"
+            },
+            {
+              "chemical_name": "AgNTf2",
+              "amount": "2.4 mg"
+            },
+            {
+              "chemical_name": "AgPF6",
+              "amount": "1.6 mg"
+            },
+            {
+              "chemical_name": "AgSbF6",
+              "amount": "1.2 mg"
+            }
+          ],
+          "time": "30 min",
+          "washing_method": "Passed through a nylon membrane disc filter (pore size: 0.2 µm)"
+        },
+        {
+          "step": "Crystal Formation",
+          "solvents": [
+            {
+              "solvent_name": "CH2Cl2",
+              "diffusion": "slow"
+            },
+            {
+              "solvent_name": "i-Pr2O",
+              "diffusion": "slow"
+            },
+            {
+              "solvent_name": "CHCl3",
+              "diffusion": "slow"
+            },
+            {
+              "solvent_name": "EtOAc",
+              "diffusion": "slow"
+            }
+          ],
+          "temperature": "ambient",
+          "time": [
+            "2 days",
+            "1 week",
+            "1 month",
+            "2 months"
+          ]
+        }
+      ]
+    },
+    {
+      "material_name": "1d",
+      "synthesis_conditions": [
+        {
+          "step": "General",
+          "temperature": "60 °C",
+          "solvents": [
+            {
+              "solvent_name": "nitromethane",
+              "amount": "580 µL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "chemical_name": "AgPF6",
+              "amount": "1.6 mg"
+            }
+          ],
+          "time": "30 min",
+          "washing_method": "Passed through a nylon membrane disc filter (pore size: 0.2 µm)"
+        }
+      ]
+    },
+    {
+      "material_name": "1e",
+      "synthesis_conditions": [
+        {
+          "step": "General",
+          "temperature": "60 °C",
+          "solvents": [
+            {
+              "solvent_name": "nitromethane",
+              "amount": "175 µL"
+            },
+            {
+              "solvent_name": "MeOH",
+              "amount": "175 µL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "chemical_name": "AgSbF6",
+              "amount": "1.2 mg"
+            }
+          ],
+          "time": "30 min",
+          "washing_method": "Passed through a nylon membrane disc filter (pore size: 0.2 µm)"
+        }
+      ]
+    }
+  ]
+}

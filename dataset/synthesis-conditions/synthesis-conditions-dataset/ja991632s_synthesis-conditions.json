@@ -1,0 +1,60 @@
+{
+  "materials": [
+    {
+      "material_id": "1",
+      "synthesis": {
+        "source": "Spirulina pacifica",
+        "notes": "Methyl pyropheophorbide a (1) was prepared from an extract of Spirulina pacifica."
+      }
+    },
+    {
+      "material_id": "2",
+      "synthesis": {
+        "steps": [
+          {
+            "step": "Oxidation",
+            "details": "Methyl pyropheophorbide a (1) was oxidized to the 2-carboxaldehyde."
+          },
+          {
+            "step": "Conversion to oxime",
+            "details": "The 2-carboxaldehyde was converted to its oxime derivative."
+          },
+          {
+            "step": "Zinc(II) insertion",
+            "details": "The oxime derivative was further processed by zinc(II) insertion to obtain the zinc(II) pyropheophorbide derivative (2)."
+          }
+        ]
+      }
+    },
+    {
+      "material_id": "5",
+      "synthesis": {
+        "solvent": "CHCl3",
+        "solvent_amount": "3.000 mL",
+        "concentration": "15.559 mg",
+        "temperature": "Room temperature for formation; 65 °C for partial dissociation to monomers",
+        "notes": "In CHCl3, 2 formed a mutually coordinated dimeric structure (5) according to spectroscopic and other evidence. Cooling the CDCl3 solution of 5 broadened all signals, whereas warming to 65 °C partially shifted the shielded signals closer to positions expected for monomeric pyropheophorbide.",
+        "additional_reagents": [
+          {
+            "reagent": "4-(N,N-dimethylamino)pyridine",
+            "amount": "2 equivalents",
+            "purpose": "To form monomeric zinc(II) pyropheophorbide by adding to the solution of 5."
+          },
+          {
+            "reagent": "pyridine-d5",
+            "amount": "2.5 equivalents",
+            "purpose": "To shift the signals to positions indicating monomeric 2·pyridine-d5."
+          }
+        ]
+      }
+    },
+    {
+      "material_id": "2·CHCl3",
+      "synthesis": {
+        "method": "Slow evaporation",
+        "solvent": "CHCl3",
+        "notes": "Dark green crystals of 2·CHCl3 were obtained upon slow evaporation of a CHCl3 solution. In contrast to the oxime-coordinated dimeric structure 5 found in solution, a polymeric staircase structure forms in the solid state."
+      }
+    }
+  ]
+}

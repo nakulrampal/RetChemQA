@@ -1,0 +1,38 @@
+{
+  "materials": [
+    {
+      "name": "LIFM-66W",
+      "synthesis_conditions": {
+        "chemicals_used": {
+          "H3BTB": "50 mg",
+          "ZrCl4": "150 mg",
+          "DMF": "10 mL for initial mixture, 5 mL for dissolving H4ETTC and BA",
+          "H4ETTC": "70 mg",
+          "benzoic acid (BA)": "4.5 g"
+        },
+        "solvents": "DMF, acetone",
+        "temperature": "85 °C for 2 h, then 120 °C for 5 days",
+        "equipment": "vial, oven",
+        "time": "Ultrasounded for 10 min, heated for 2 h at 85 °C, then 5 days at 120 °C",
+        "washing_method": "Washed thoroughly with DMF (5 mL × 3)",
+        "drying_method": "Soaked in acetone for three days, dried at 50 °C for half an hour",
+        "yield": "62.8 mg, 45.6 %"
+      }
+    },
+    {
+      "name": "LIFM-66Y",
+      "synthesis_conditions": {
+        "chemicals_used": {
+          "LIFM-66W powder": "20 mg",
+          "benzoic acid": "180 mg"
+        },
+        "solvents": "DMF",
+        "temperature": "100 °C",
+        "time": "48 h",
+        "washing_method": "Washed with DMF (10 × 2 mL) and acetone (5 × 2 mL)",
+        "drying_method": "Not specified",
+        "additional_information": "Recovery of LIFM-66W from LIFM-66Y was accomplished upon heating in the presence of BA at 100 °C for 48 h."
+      }
+    }
+  ]
+}

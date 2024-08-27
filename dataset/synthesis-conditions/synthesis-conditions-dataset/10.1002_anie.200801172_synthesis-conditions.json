@@ -1,0 +1,64 @@
+{
+  "materials": [
+    {
+      "name": "(PNP)4[TiMo(1)3] (2 a)",
+      "synthesis_conditions": {
+        "reactants": [
+          "H4-1",
+          "[TiO(acac)2]",
+          "[MoCl4(CH3CN)2]"
+        ],
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "not specified"
+          },
+          {
+            "name": "DMF",
+            "amount": "for dissolving dark green precipitate"
+          }
+        ],
+        "other_reagents": [
+          "Li2CO3",
+          "Na2CO3",
+          "(PNP)Cl (four equivalents)"
+        ],
+        "equipment": "not specified",
+        "time": "12 h",
+        "temperature": "not specified",
+        "washing_method": "Slow diffusion of diethyl ether into the saturated DMF solution",
+        "drying_method": "not specified",
+        "yield": "not specified",
+        "additional_notes": "Leads to dark green single crystals of the dinuclear complex"
+      }
+    },
+    {
+      "name": "Li1.5Na0.5(PNP)2[TiMo(1)3] (2 b)",
+      "synthesis_conditions": {
+        "reactants": [
+          "H4-1",
+          "[TiO(acac)2]",
+          "[MoCl4(CH3CN)2]"
+        ],
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "not specified"
+          }
+        ],
+        "other_reagents": [
+          "Li2CO3",
+          "Na2CO3",
+          "(PNP)Cl (two equivalents)"
+        ],
+        "equipment": "not specified",
+        "time": "12 h",
+        "temperature": "not specified",
+        "washing_method": "Vapor diffusion of diethyl ether into the methanolic solution",
+        "drying_method": "not specified",
+        "yield": "not specified",
+        "additional_notes": "Leads to black needles that can be crystallized as Li1.5Na0.5(PNP)2[TiMo(1)3]·6 H2O (2 b·6 H2O)"
+      }
+    }
+  ]
+}

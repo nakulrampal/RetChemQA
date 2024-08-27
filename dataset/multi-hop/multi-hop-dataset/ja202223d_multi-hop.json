@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the general strategy for incorporating organocatalytic moieties into MOFs as described in the text?",
+      "answer": "The general strategy involves protecting the organocatalytic units with a thermolabile protecting group during MOF synthesis and then unveiling them through a simple postsynthetic heating step.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What role does the tert-butoxycarbonyl (Boc) group play in the synthesis of cubic zinc(II) IRMOF?",
+      "answer": "The Boc group acts as a thermolabile protecting group for a proline moiety, prevents framework interpenetration by its bulky nature, and upon removal, endows the resulting cubic zinc(II) IRMOF with catalytic activity for asymmetric aldol reactions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How is IRMOF-Pro-Boc converted to IRMOF-Pro, and what are the side products?",
+      "answer": "IRMOF-Pro-Boc is converted to IRMOF-Pro through thermolytic expulsion of the Boc moiety by heating, producing isobutylene and CO2 as side products.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the cubic topology in the structure of IRMOF-Pro-Boc?",
+      "answer": "The cubic topology, facilitated by the reaction of biphenyl-4,4′-dicarboxylic acid ligands with zinc(II), results in a framework that is open and noninterpenetrated due to the steric bulk of the N-Boc-proline side arm, allowing for significant void space around the proline motifs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of IRMOF-Pro directly from H2 2 was successful.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental evidence supports the conclusion that intact IRMOF-Pro is responsible for observed catalytic activity?",
+      "answer": "Control experiments confirmed that the catalytic activity arises from the presence of unprotected pyrrolidine groups in IRMOF-Pro, as IRMOF-Pro-Boc was inactive, and there was no evidence of dissolution of IRMOF-Pro crystals.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The presence of Boc groups in IRMOF-Pro-Boc inhibits its catalytic activity.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to determine the enantiomeric excess (ee) of the proline groups in IRMOF-Pro?",
+      "answer": "The enantiomeric excess (ee) of the proline groups in IRMOF-Pro was determined by chiral HPLC analysis after converting the proline groups into a measurable form.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The IRMOF-Pro catalyst loses its crystallinity after being used in catalysis reactions.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of DMF in the synthesis and activation process of IRMOF-Pro?",
+      "answer": "DMF is used as a solvent in the synthesis of IRMOF-Pro-Boc and also in the activation process of IRMOF-Pro, where it aids in the removal of Boc groups and ensures the MOF remains suspended in solvent for optimal performance in catalysis.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

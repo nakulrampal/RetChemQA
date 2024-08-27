@@ -1,0 +1,105 @@
+{
+  "materials": [
+    {
+      "name": "CuII(BAPO-O)2(H2O)2",
+      "synthesis_conditions": {
+        "precursors": [
+          "Bismesitoylphosphinic acid (BAPO-OH)",
+          "CuSO4·5 H2O"
+        ],
+        "solvent": "Aqueous solution",
+        "temperature": "Not specified",
+        "equipment": "Not specified",
+        "yield": "> 80 %",
+        "additional_information": "Two equivalents of BAPO-OH reacted with CuSO4·5 H2O to form a green-yellow precipitate."
+      }
+    },
+    {
+      "name": "[CuII(BAPO-O)2(H2O)2·BAPO-OH·THF]",
+      "synthesis_conditions": {
+        "precursors": [
+          "CuII(BAPO-O)2(H2O)2",
+          "BAPO-OH",
+          "THF"
+        ],
+        "solvent": "THF",
+        "temperature": "Not specified",
+        "equipment": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "Obtained upon recrystallization from THF."
+      }
+    },
+    {
+      "name": "[CuII2(BAPO-O)2(OTf)2(DME)2]",
+      "synthesis_conditions": {
+        "precursors": [
+          "CuI(OTf)",
+          "BAPO-OH",
+          "DME"
+        ],
+        "solvent": "DME",
+        "temperature": "Not specified",
+        "equipment": "Not specified",
+        "yield": "Almost quantitative",
+        "additional_information": "Immediate disproportion to elemental copper(0) and the binuclear complex occurred under reaction conditions."
+      }
+    },
+    {
+      "name": "[CuI(BAPO-O)]n",
+      "synthesis_conditions": {
+        "precursors": [
+          "CuII(BAPO-O)2(H2O)2",
+          "Phenylhydrazine"
+        ],
+        "solvent": "THF",
+        "temperature": "Not specified",
+        "equipment": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "Reduced chemically with 0.5 equivalents of phenylhydrazine in THF under anhydrous conditions."
+      }
+    },
+    {
+      "name": "Copper Nanoparticles",
+      "synthesis_conditions": {
+        "precursors": [
+          "Copper(II) salt",
+          "BAPO-OH"
+        ],
+        "solvent": "Aqueous solution",
+        "temperature": "Not specified",
+        "equipment": "UV lamp or LED",
+        "yield": "Not specified",
+        "additional_information": "Degassed with argon, exposed to UV irradiation. Particle size and morphology influenced by light source, pH, and additives such as PVP."
+      }
+    },
+    {
+      "name": "Copper Nanoparticles with PVP",
+      "synthesis_conditions": {
+        "precursors": [
+          "Copper sulfate",
+          "BAPO-OH",
+          "PVP"
+        ],
+        "solvent": "Aqueous solution",
+        "temperature": "Not specified",
+        "equipment": "UV lamp",
+        "yield": "Not specified",
+        "additional_information": "PVP concentration influences the morphology of the nanomaterials. Higher concentrations of copper sulfate (17 mm) and equimolar amounts of BAPO-OH used."
+      }
+    },
+    {
+      "name": "Nanoparticle/Polymer Nanocomposite",
+      "synthesis_conditions": {
+        "precursors": [
+          "CuII(BAPO-O)2(H2O)2",
+          "Poly(ethylene glycol) methacrylate"
+        ],
+        "solvent": "Aqueous solution",
+        "temperature": "Not specified",
+        "equipment": "UV lamp",
+        "yield": "Not specified",
+        "additional_information": "Rapid free-radical polymerization of acrylates in aqueous phase combined with space-controlled production of copper nanoparticles."
+      }
+    }
+  ]
+}

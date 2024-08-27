@@ -1,0 +1,159 @@
+{
+  "materials": [
+    {
+      "name": "Terbium complex N-[2-(bis{2-[(3-methoxybenzoyl)amino]ethyl}amino)-ethyl]-3-methoxybenzamide (L)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Tb(NO3)3·6H2O",
+            "amount": "47 mmol"
+          },
+          {
+            "chemical": "L",
+            "amount": "47 mmol"
+          },
+          {
+            "chemical": "Acetonitrile",
+            "amount": "15 ml"
+          }
+        ],
+        "temperature": "Reflux",
+        "time": "24 hours",
+        "yield": "69%",
+        "drying_method": "Slow evaporation",
+        "solvent": "Acetonitrile",
+        "crystal_data": {
+          "formula": "C30H36N7O15Tb",
+          "molecular_weight": "893.58",
+          "crystal_system": "Monoclinic",
+          "space_group": "P21/n",
+          "cell_dimensions": {
+            "a": "13.462(2)",
+            "b": "19.555(2)",
+            "c": "13.641(2)",
+            "volume": "3581.3(8) Å3"
+          },
+          "temperature": "298 K",
+          "Z": "4",
+          "mu": "20.50 cm-1",
+          "reflections_measured": "22435",
+          "unique_reflections": "8091",
+          "observed_reflections": "5839",
+          "R_int": "0.031",
+          "F_to_R": "0.032",
+          "Rw": "0.033",
+          "CCDC": "662083"
+        },
+        "analysis": {
+          "found": {
+            "C": "40.27",
+            "H": "4.01",
+            "N": "10.99"
+          },
+          "calculated": {
+            "C": "40.32",
+            "H": "4.06",
+            "N": "10.97"
+          }
+        },
+        "ESI_MS": {
+          "m/z_831": "[M]+",
+          "m/z_705": "[M – 3NO3]+",
+          "m/z_549": "[M – 3NO3 –Tb]+"
+        }
+      }
+    },
+    {
+      "name": "Linear and Multi-Photon Induced f-f Emission",
+      "synthesis_conditions": {
+        "equipment": [
+          "HP UV-8453 spectrophotometer",
+          "PerkinElmer LS 50B Luminescence spectrophotometer",
+          "R928 photomultiplier tube",
+          "Ti:Sapphire laser system"
+        ],
+        "temperature": "298 K",
+        "excitation_wavelength": "325 nm",
+        "pump_source": "800 nm from Ti:Sapphire laser",
+        "spot_size": "~ 50 µm",
+        "detector": "Liquid nitrogen-cooled CCD detector",
+        "integration_times": "0.5 s",
+        "slit_width": "5 nm"
+      }
+    },
+    {
+      "name": "Two Photon Cross Section",
+      "synthesis_conditions": {
+        "reference_system": "Ru(bipy)3Cl2",
+        "sample_system": "Tb complex",
+        "quantum_yield": "0.11 in solution",
+        "excitation_wavelength": "690 nm",
+        "solvent": "Methanol",
+        "fluorescent_quantum_yield_of_Rh6G": "98% with excitation at 800nm"
+      }
+    },
+    {
+      "name": "Three-Photon Cross Section",
+      "synthesis_conditions": {
+        "reference_material": "Rhodamine 6G (Rh6G)",
+        "excitation_density": "Same for sample and reference",
+        "excitation_wavelength": "Same for sample and reference",
+        "experimental_system": "Same for sample and reference",
+        "solvent": "Methanol",
+        "fluorescent_quantum_yield_of_Rh6G": "98% with excitation at 800nm"
+      }
+    },
+    {
+      "name": "Microscopy Imaging Methods",
+      "synthesis_conditions": {
+        "equipment": "Zeiss 510 LSM (upright configuration)",
+        "excitation_beam": "Femtosecond-pulsed Ti:Sapphire laser (Libra, Coherent)",
+        "excitation_wavelength": "800 nm",
+        "objective": "63 x oil immersion",
+        "data_collection_windows": "10.7 nm at 545 nm"
+      }
+    },
+    {
+      "name": "Cell culture",
+      "synthesis_conditions": {
+        "cell_lines": [
+          {
+            "name": "Human lung carcinoma A549 cells",
+            "medium": "Ham's F12 K medium with L-glutamine and phenol red",
+            "supplements": "10% foetal bovine serum",
+            "conditions": "37°C and 5% CO2"
+          },
+          {
+            "name": "Human cervical carcinoma (HeLa) cells",
+            "medium": "RMPI 1640 medium",
+            "supplements": "10% foetal bovine serum and 1% penicillin and streptomycin",
+            "conditions": "5% CO2"
+          },
+          {
+            "name": "Human nasopharyngeal carcinoma (HONE1) cells",
+            "medium": "DMEM",
+            "supplements": "10% FBS and 1% penicillin and streptomycin"
+          }
+        ],
+        "seeding_density": "0.5 x 106 cells",
+        "culture_dishes": "60 x 15 mm",
+        "volume_per_dish": "2 ml/dish"
+      }
+    },
+    {
+      "name": "3-(4,5-Dimethyl thiazol-2-yl)-2,5-diphenyl tetrazolium bromide assay",
+      "synthesis_conditions": {
+        "kit": "MTT proliferation assay kit (Roche Diagnostics)",
+        "seeding_density": "3,000 cells in 96-well plates",
+        "culture_conditions": "5% foetal calf serum for 24 hours",
+        "treatment": "Taxol (0, 20, 40, 60, and 80 mg/ml) added 24 hours after plating",
+        "viability_assessment": "24 hours post-exposure",
+        "MTT_labelling_reagent": "10 µL of MTT (5 mg/ml MTT in PBS)",
+        "incubation_time": "4 hours at 37°C",
+        "solubilizing_reagent": "100 µL of solubilizing reagent (10% SDS in 0.01 mol/L HCl)",
+        "solubilizing_reagent_incubation": "Overnight at 37°C",
+        "absorbance_measurement_wavelength": "570 nm"
+      }
+    }
+  ]
+}

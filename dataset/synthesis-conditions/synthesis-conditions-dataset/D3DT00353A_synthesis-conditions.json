@@ -1,0 +1,53 @@
+{
+  "materials": [
+    {
+      "name": "Cd-MOF",
+      "synthesis_conditions": {
+        "temperature": "ambient conditions",
+        "solvents": [
+          {
+            "name": "ethanol",
+            "amount": "4 ml"
+          },
+          {
+            "name": "water",
+            "amount": "4 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "bbtz",
+            "amount": "0.024 g, 0.100 mmol"
+          },
+          {
+            "name": "Cd(NO3)2·4H2O",
+            "amount": "0.0308 g, 0.100 mmol"
+          },
+          {
+            "name": "H2isba",
+            "amount": "0.0328 g, 0.100 mmol"
+          }
+        ],
+        "time": "about three days",
+        "yield": "66.28% (based on bbtz)",
+        "drying_method": "undisturbed under ambient conditions"
+      }
+    },
+    {
+      "name": "Cd-MOF@CNT composite",
+      "synthesis_conditions": {
+        "temperature": "ambient conditions",
+        "solvents": "1.0 ml of H2O",
+        "chemicals_used": [
+          {
+            "name": "short hydroxyl multi-walled carbon nanotubes",
+            "amount": "0.1 mg"
+          }
+        ],
+        "equipment": "sonicated for half an hour",
+        "time": "about three days",
+        "additional_steps": "dispersed into the filtrate during the synthesis of the Cd-MOF"
+      }
+    }
+  ]
+}

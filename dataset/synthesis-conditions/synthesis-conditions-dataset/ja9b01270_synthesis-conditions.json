@@ -1,0 +1,48 @@
+{
+  "materials": [
+    {
+      "name": "SCU-12",
+      "synthesis_conditions": {
+        "temperature": "100 oC",
+        "solvents": [
+          {
+            "name": "deionized water",
+            "amount": "2 mL"
+          },
+          {
+            "name": "DMF (N,N-Dimethylformamide)",
+            "amount": "0.5 mL"
+          }
+        ],
+        "equipment": "10 mL glass vial",
+        "chemicals_used": [
+          {
+            "name": "TbCl3•6H2O",
+            "amount": "0.2 mmol"
+          },
+          {
+            "name": "chloranilic acid",
+            "amount": "0.1 mmol"
+          }
+        ],
+        "time": "72 h",
+        "washing_method": "first washed with deionized water, then with ethanol",
+        "drying_method": "dried in an oven maintained at 50 °C",
+        "yield": "Not specified",
+        "additional_information": "Dark brown crystals of SCU-12 were obtained. The pure phase of SCU-12 was determined by powder X-ray diffraction patterns (PXRD), as shown in Figure S11."
+      },
+      "fabrication_conditions": {
+        "description": "A planar SCU-12-based radiation detector was fabricated. The wafer of SCU-12 was pelleted at 3.5 MPa. Different wafers with the diameter of 3 mm diameter and different thickness from 0.6 mm to 0.8 mm were prepared. The Au electrode was deposited on two sides of wafer by thermal evaporation. The device with symmetric structure Au/SCU-12/Au was further embedded in a cathode irradiation configuration, as shown in the inset of Figure 1c in main text."
+      },
+      "physical_characterizations": {
+        "PXRD": "Data was collected from 5 to 50° with a step of 0.02° on a Bruker D8 advance diffractometer with Cu Kα radiation (λ=1.54056 Å) with a Lynxeye one-dimensional detector.",
+        "SCXRD": "Performed using a Bruker D8-Venture single crystal X-ray diffractometer equipped with a digital camera. The diffraction data was collected using a Turbo X-ray Source (Mo Kα radiation,  = 0.71073 Å) adopting the direct-drive rotating anode technique and a CMOS detector under a temperature of 296 K.",
+        "TG/DSC": "Performed using a NETZSCH STA 449F3 instrument with a constant rate of 10 K / min from 30 to 900 °C under nitrogen flow.",
+        "FTIR": "Measured from 400 to 4,000 cm-1 on a Thermo Nicolet iS 50 spectrometer at room temperature.",
+        "UV-vis": "Absorption spectrum was recorded on the single crystal of SCU-12 using a Craic Technologoes microspectrophotometer.",
+        "SEM": "Images were recorded by FEI Quanta 200FEG scanning electron microscope with 30 keV electron beam."
+      },
+      "radiation_stability": "Investigated using RS-2000 Pro Biological Irradiator equipped with tungsten source at a dose rate of 72 Gy/h. For a typical experiment, current-time curve (I-t curve) was recorded under constant X-ray irradiation at received dosage with 16 Gy and 36 Gy, respectively. The structural stability of SCU-12 under gamma rays is performed under the Co-60 gamma source with the dose of 30 and 60 kGy, respectively."
+    }
+  ]
+}

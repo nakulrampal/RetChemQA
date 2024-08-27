@@ -1,0 +1,145 @@
+{
+  "materials": [
+    {
+      "material": "N719",
+      "synthesis_conditions": [
+        {
+          "step": "Crystallographic Studies",
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "15 mL"
+            },
+            {
+              "name": "acetonitrile",
+              "amount": "10 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "HgCl2",
+              "amount": "100 mg, 0.300 mmol"
+            },
+            {
+              "name": "N719",
+              "amount": "20 mg, 0.017 mmol"
+            }
+          ],
+          "equipment": "Kappa CCD Smart X-ray diffractometer",
+          "temperature": "180 K",
+          "time": "Several days",
+          "drying_method": "In the dark",
+          "other_conditions": "Slow diffusion method"
+        },
+        {
+          "step": "Spectroscopic Studies in Solution",
+          "solvents": [
+            {
+              "name": "ethanol",
+              "amount": "20 μM stock solution"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "HgCl2",
+              "amount": "1 mM aqueous stock solution"
+            }
+          ],
+          "equipment": "Shimazdu Uv-1601 double-beam UV−vis spectrophotometer",
+          "temperature": "Room temperature",
+          "volume": "3 mL"
+        },
+        {
+          "step": "Preparation of Sensitized Nanoporous TiO2 Films",
+          "solvents": [
+            {
+              "name": "glacial acetic acid",
+              "amount": "4.5 g"
+            },
+            {
+              "name": "0.1 M nitric acid",
+              "amount": "120 mL"
+            },
+            {
+              "name": "H2O",
+              "description": "for dilution to 5wt % TiO2"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "titanium isopropoxide",
+              "amount": "20 mL"
+            },
+            {
+              "name": "Carbowax 20000",
+              "amount": "6.2 wt %"
+            }
+          ],
+          "equipment": [
+            "LDU Soniprobe horn",
+            "rotary evaporator",
+            "membrane vacuum pump"
+          ],
+          "temperature": [
+            {
+              "step_detail": "mixture heating",
+              "value": "80 °C"
+            },
+            {
+              "step_detail": "autoclave",
+              "value": "220 °C"
+            },
+            {
+              "step_detail": "rotary evaporator",
+              "value": "40 °C"
+            }
+          ],
+          "time": [
+            {
+              "step_detail": "mixture stirring",
+              "value": "10 min"
+            },
+            {
+              "step_detail": "heating",
+              "value": "8 h"
+            },
+            {
+              "step_detail": "autoclave",
+              "value": "12 h"
+            }
+          ],
+          "atmosphere": "argon",
+          "other_conditions": "Film thickness of 4 μm"
+        }
+      ]
+    },
+    {
+      "material": "N749",
+      "synthesis_conditions": [
+        {
+          "step": "Spectroscopic Measurement of N749 Supported on Mesoporous Nanocrystalline TiO2 Films",
+          "solvents": [
+            {
+              "name": "acetonitrile/tert-butyl alcohol",
+              "ratio": "1:1 mixture"
+            },
+            {
+              "name": "ethanol",
+              "description": "for rinsing"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "N749",
+              "amount": "1 mM solution"
+            }
+          ],
+          "equipment": "UV−vis spectrophotometer",
+          "temperature": "Room temperature",
+          "time": "Overnight",
+          "other_conditions": "Film thickness of 4 μm, ∼95% monolayer coverage"
+        }
+      ]
+    }
+  ]
+}

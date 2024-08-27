@@ -1,0 +1,77 @@
+{
+  "materials": [
+    {
+      "name": "Cu-RSH",
+      "synthesis_conditions": {
+        "temperature": "180 ˚C",
+        "time": "12 h",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": null
+          },
+          {
+            "name": "H2O",
+            "amount": null
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CuCl2·2H2O",
+            "amount": null
+          },
+          {
+            "name": "H2RSH",
+            "amount": null,
+            "notes": "Synthesis presented in Scheme S1, crystalline structure in Figure S1"
+          }
+        ],
+        "equipment": "Not specified",
+        "yield": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "additional_notes": "The solvothermal reaction produced green blocklike crystals of Cu-RSH."
+      }
+    },
+    {
+      "name": "Al-RSH",
+      "synthesis_conditions": {
+        "temperature": "Not specified",
+        "time": "Not specified",
+        "solvents": "Not specified",
+        "chemicals_used": [
+          {
+            "name": "Al3+",
+            "amount": null,
+            "notes": "Used in place of Cu2+"
+          }
+        ],
+        "equipment": "Not specified",
+        "yield": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "additional_notes": "Al-RSH is a simple molecular complex lacking spatially long-length order, similar to Cu-RSH in that the rhodamine 6G spiro-ring was open."
+      }
+    },
+    {
+      "name": "Co-RSH",
+      "synthesis_conditions": {
+        "temperature": "Not specified",
+        "time": "Not specified",
+        "solvents": "Not specified",
+        "chemicals_used": [
+          {
+            "name": "Co2+",
+            "amount": null,
+            "notes": "Used in place of Cu2+"
+          }
+        ],
+        "equipment": "Not specified",
+        "yield": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "additional_notes": "Co-RSH is a simple molecular complex lacking spatially long-length order, similar to Cu-RSH in that the rhodamine 6G spiro-ring was open."
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "materials": [
+    {
+      "material_name": "BUT-66",
+      "synthesis_conditions": {
+        "temperature": "120°C",
+        "solvents": [
+          {
+            "solvent_name": "N,N-dimethylformamide (DMF)",
+            "amount": "1.5 mL"
+          },
+          {
+            "solvent_name": "acetic acid",
+            "amount": "0.25 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "chemical_name": "ZrOCl2·8H2O",
+            "amount": "0.0322 g",
+            "molar_amount": "0.1 mmol"
+          },
+          {
+            "chemical_name": "H2BDB",
+            "amount": "0.0636 g",
+            "molar_amount": "0.2 mmol"
+          }
+        ],
+        "equipment": "5 mL glass vial",
+        "time": "24 hr",
+        "other_conditions": "sealed vial, ultrasonication for 30 min, heated at 120°C",
+        "yield": "ca. 81% based on Zr",
+        "post_synthesis_treatment": "guest exchanged with methanol for 3 days (20 mL × 3) and subsequently evacuated at 80°C under high vacuum"
+      }
+    },
+    {
+      "material_name": "BUT-67",
+      "synthesis_conditions": {
+        "temperature": "120°C",
+        "solvents": [
+          {
+            "solvent_name": "N,N-dimethylformamide (DMF)",
+            "amount": "1.5 mL"
+          },
+          {
+            "solvent_name": "acetic acid",
+            "amount": "0.25 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "chemical_name": "ZrOCl2·8H2O",
+            "amount": "0.0322 g",
+            "molar_amount": "0.1 mmol"
+          },
+          {
+            "chemical_name": "H2NDB",
+            "amount": "0.0636 g",
+            "molar_amount": "0.2 mmol"
+          }
+        ],
+        "equipment": "5 mL glass vial",
+        "time": "24 hr",
+        "other_conditions": "sealed vial, ultrasonication for 30 min, heated at 120°C",
+        "yield": "ca. 77% based on Zr",
+        "post_synthesis_treatment": "guest exchanged with methanol for 3 days (20 mL × 3) and subsequently evacuated at 80°C under high vacuum"
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "materials": [
+    {
+      "name": "COV-10CdS-FePAL",
+      "synthesis_conditions": {
+        "temperature": "130 °C",
+        "solvents": [
+          {
+            "name": "CH3CN",
+            "amount": "25.122 g"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.508 g"
+          }
+        ],
+        "equipment": "23-mL Teflon-lined stainless steel autoclave",
+        "chemicals_used": [
+          {
+            "name": "FeCl2",
+            "amount": "67 mg"
+          },
+          {
+            "name": "1,10-phenanthroline",
+            "amount": "283 mg"
+          },
+          {
+            "name": "Cd(SPh)2",
+            "amount": "85 mg"
+          },
+          {
+            "name": "thiourea",
+            "amount": "41 mg"
+          }
+        ],
+        "time": "5 days",
+        "drying_method": "cooling to room temperature",
+        "yield": "crystals of COV-10CdS-FePAL as red crystals"
+      }
+    },
+    {
+      "name": "MOL-6CdS-FePAL",
+      "synthesis_conditions": {
+        "temperature": "110 °C",
+        "solvents": [
+          {
+            "name": "CH3CN",
+            "amount": "not specified"
+          },
+          {
+            "name": "H2O",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "not specified",
+        "chemicals_used": [
+          {
+            "name": "FeCl2",
+            "amount": "not specified"
+          },
+          {
+            "name": "1,10-phenanthroline",
+            "amount": "not specified"
+          },
+          {
+            "name": "Cd(SPh)2",
+            "amount": "not specified"
+          },
+          {
+            "name": "thiourea",
+            "amount": "not specified"
+          }
+        ],
+        "time": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified"
+      }
+    }
+  ]
+}

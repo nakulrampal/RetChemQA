@@ -1,0 +1,140 @@
+{
+  "materials": [
+    {
+      "name": "Na(HB(C2H2N3)3) (L), (1)",
+      "synthesis_conditions": {
+        "temperature": "180 °C",
+        "solvents": [
+          {
+            "name": "paracymene",
+            "amount": "15 mL"
+          },
+          {
+            "name": "toluene",
+            "washing": true,
+            "amount": "3 x 10 mL"
+          },
+          {
+            "name": "hexanes",
+            "washing": true,
+            "amount": "3 x 10 mL"
+          },
+          {
+            "name": "tetrahydrofuran (THF)",
+            "washing": true,
+            "amount": "10 mL + 5 mL for additional washing"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Sodium borohydride (NaBH4)",
+            "amount": "0.138 g, 3.62 mmol"
+          },
+          {
+            "name": "1,2,3-triazole",
+            "amount": "1.00 g, 14.5 mmol"
+          }
+        ],
+        "time": "one week",
+        "yield": "90.4%",
+        "drying_method": "dried under reduced pressure"
+      }
+    },
+    {
+      "name": "Fe(L)2, (2)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "5 mL + 15 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Iron(II) sulfate pentahydrate",
+            "amount": "0.0303 g, 1.04 mmol"
+          },
+          {
+            "name": "1 (L)",
+            "amount": "0.0450 g, 2.08 mmol"
+          }
+        ],
+        "time": "3 days",
+        "yield": "78.7%"
+      }
+    },
+    {
+      "name": "Co(L)2, (3)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "3 mL + 6 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cobalt(II) nitrate hexahydrate",
+            "amount": "0.0303 g, 1.04 mmol"
+          },
+          {
+            "name": "1 (L)",
+            "amount": "0.0450 g, 2.08 mmol"
+          }
+        ],
+        "time": "3 days",
+        "yield": "65.9%"
+      }
+    },
+    {
+      "name": "Ni(L)2, (4)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "3 mL + 6 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Nickel(II) chloride hexahydrate",
+            "amount": "0.0247 g, 1.04 mmol"
+          },
+          {
+            "name": "1 (L)",
+            "amount": "0.0450 g, 2.08 mmol"
+          }
+        ],
+        "time": "3 days",
+        "yield": "69.5%"
+      }
+    },
+    {
+      "name": "Cd(L)2, (5)",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "10 mL + 10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cadmium(II) nitrate tetrahydrate",
+            "amount": "0.0321 g, 1.04 mmol"
+          },
+          {
+            "name": "1 (L)",
+            "amount": "0.0450 g, 2.08 mmol"
+          }
+        ],
+        "time": "overnight",
+        "yield": "95.3%"
+      }
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "materials": [
+    {
+      "name": "PSt-1",
+      "synthesis_conditions": {
+        "temperature": "70 °C",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": [
+          "Pyrex reaction tube",
+          "1H NMR spectroscopy",
+          "X-ray powder diffractometry (XRPD)",
+          "SEM-energy-dispersive X-ray spectroscopy",
+          "X-ray fluorescence analysis",
+          "dynamic light scattering (DLS)",
+          "static light scattering (SLS)",
+          "atomic force microscopy (AFM)"
+        ],
+        "chemicals_used": [
+          {
+            "name": "Styrene (St)",
+            "amount": "20 mL"
+          },
+          {
+            "name": "ethylene glycol dimethacrylate (EDMA)",
+            "amount": "32.1 mg"
+          },
+          {
+            "name": "azobisisobutyronitrile (AIBN)",
+            "amount": "125 mg"
+          },
+          {
+            "name": "HCl/MeOH solution",
+            "amount": "not specified"
+          }
+        ],
+        "time": "48 h",
+        "washing_method": "washed with methanol",
+        "drying_method": "dried under reduced pressure at room temperature",
+        "yield": "57% based on impregnated St",
+        "additional_information": "The composite was digested in a 1:9 (v/v) mixture of DCl/DMSO-d6 before NMR analysis."
+      }
+    },
+    {
+      "name": "PMMA-1",
+      "synthesis_conditions": {
+        "temperature": "70 °C",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": [
+          "Pyrex reaction tube",
+          "1H NMR spectroscopy",
+          "X-ray powder diffractometry (XRPD)",
+          "SEM-energy-dispersive X-ray spectroscopy",
+          "X-ray fluorescence analysis",
+          "dynamic light scattering (DLS)",
+          "static light scattering (SLS)",
+          "atomic force microscopy (AFM)"
+        ],
+        "chemicals_used": [
+          {
+            "name": "methyl methacrylate (MMA)",
+            "amount": "not specified"
+          },
+          {
+            "name": "ethylene glycol dimethacrylate (EDMA)",
+            "amount": "not specified"
+          },
+          {
+            "name": "azobisisobutyronitrile (AIBN)",
+            "amount": "not specified"
+          },
+          {
+            "name": "HCl/MeOH solution",
+            "amount": "not specified"
+          }
+        ],
+        "time": "48 h",
+        "washing_method": "washed with methanol",
+        "drying_method": "dried under reduced pressure at room temperature",
+        "yield": "57%",
+        "additional_information": "Synthesized in identical fashions from MMA."
+      }
+    },
+    {
+      "name": "PSt-2",
+      "synthesis_conditions": {
+        "temperature": "70 °C",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": [
+          "Pyrex reaction tube",
+          "1H NMR spectroscopy",
+          "X-ray powder diffractometry (XRPD)",
+          "SEM-energy-dispersive X-ray spectroscopy",
+          "X-ray fluorescence analysis",
+          "dynamic light scattering (DLS)",
+          "static light scattering (SLS)",
+          "atomic force microscopy (AFM)"
+        ],
+        "chemicals_used": [
+          {
+            "name": "Styrene (St)",
+            "amount": "not specified"
+          },
+          {
+            "name": "ethylene glycol dimethacrylate (EDMA)",
+            "amount": "not specified"
+          },
+          {
+            "name": "azobisisobutyronitrile (AIBN)",
+            "amount": "not specified"
+          },
+          {
+            "name": "HCl/MeOH solution",
+            "amount": "not specified"
+          }
+        ],
+        "time": "48 h",
+        "washing_method": "washed with methanol",
+        "drying_method": "dried under reduced pressure at room temperature",
+        "yield": "25%",
+        "additional_information": "Prepared using 2 as the host framework."
+      }
+    },
+    {
+      "name": "PSt-L",
+      "synthesis_conditions": {
+        "temperature": "60 °C",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "large amount"
+          }
+        ],
+        "equipment": [
+          "50-mL flask",
+          "freeze-pump-thaw cycles"
+        ],
+        "chemicals_used": [
+          {
+            "name": "Styrene (St)",
+            "amount": "10 mL"
+          },
+          {
+            "name": "2,2'-Azobis(isobutyronitrile) (AIBN)",
+            "amount": "60 mg"
+          }
+        ],
+        "time": "20 h",
+        "washing_method": "purified by reprecipitation cycles (two times)",
+        "drying_method": "dried under reduced pressure",
+        "yield": "not specified",
+        "additional_information": "Solution-phase free-radical polymerization of St was carried out using AIBN as radical initiator."
+      }
+    },
+    {
+      "name": "PSt-C",
+      "synthesis_conditions": {
+        "temperature": "60 °C",
+        "solvents": [
+          {
+            "name": "hot methanol",
+            "amount": "large amount"
+          },
+          {
+            "name": "tetrahydrofuran (THF)",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": [
+          "not specified"
+        ],
+        "chemicals_used": [
+          {
+            "name": "Styrene (St)",
+            "amount": "10 g"
+          },
+          {
+            "name": "Ethylene glycol dimethacrylate (EDMA)",
+            "amount": "0.19 g"
+          },
+          {
+            "name": "2,2'-Azobis(isobutyronitrile) (AIBN)",
+            "amount": "50 mg"
+          },
+          {
+            "name": "cetyltrimethylammonium bromide (CTMA)",
+            "amount": "not specified"
+          }
+        ],
+        "time": "3 days",
+        "washing_method": "precipitated in methanol, redissolved in THF, and precipitated again in methanol for three cycles",
+        "drying_method": "dried under reduced pressure at 50 °C",
+        "yield": "8.9 g",
+        "additional_information": "The synthesis of PSt-C was carried out in a similar method reported in the literature."
+      }
+    }
+  ]
+}

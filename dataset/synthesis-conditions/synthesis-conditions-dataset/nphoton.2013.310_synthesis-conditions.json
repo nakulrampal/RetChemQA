@@ -1,0 +1,88 @@
+{
+  "materials": [
+    {
+      "name": "Fe2[Nb(CN)8](4-bromopyridine)8.2H2O",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "aqueous solution",
+            "components": [
+              {
+                "name": "FeCl2.4H2O",
+                "amount": "0.005 mol dm-3"
+              },
+              {
+                "name": "4-bromopyridine hydrochloride",
+                "amount": "0.1 mol dm-3"
+              },
+              {
+                "name": "potassium hydroxide",
+                "amount": "0.1 mol dm-3"
+              },
+              {
+                "name": "ascorbic acid",
+                "amount": "0.01 mol dm-3"
+              }
+            ]
+          },
+          {
+            "name": "aqueous solution",
+            "components": [
+              {
+                "name": "K4[Nb(CN)8].2H2O",
+                "amount": "0.05 mol dm-3"
+              }
+            ]
+          }
+        ],
+        "method": "slow diffusion",
+        "characterization_techniques": [
+          "X-ray single crystal analysis",
+          "NCD spectra",
+          "IR spectra",
+          "UV-vis spectra",
+          "57Fe Mössbauer spectra",
+          "SQUID magnetometry",
+          "Powder XRD"
+        ],
+        "yield": "Not specified"
+      }
+    },
+    {
+      "name": "LT phase of Fe2[Nb(CN)8](4-bromopyridine)8.2H2O",
+      "synthesis_conditions": {
+        "temperature": "Low temperature",
+        "light_irradiation": "No",
+        "characterization_techniques": [
+          "UV-vis spectra",
+          "57Fe Mössbauer spectra",
+          "Powder XRD"
+        ]
+      }
+    },
+    {
+      "name": "PI-1 phase of Fe2[Nb(CN)8](4-bromopyridine)8.2H2O",
+      "synthesis_conditions": {
+        "temperature": "2 K",
+        "light_irradiation": "473 nm light (17 mW cm-2)",
+        "characterization_techniques": [
+          "UV-vis spectra",
+          "57Fe Mössbauer spectra",
+          "Powder XRD"
+        ]
+      }
+    },
+    {
+      "name": "PI-2 phase of Fe2[Nb(CN)8](4-bromopyridine)8.2H2O",
+      "synthesis_conditions": {
+        "temperature": "2 K",
+        "light_irradiation": "785 nm light (20 mW cm-2)",
+        "characterization_techniques": [
+          "UV-vis spectra",
+          "57Fe Mössbauer spectra",
+          "Powder XRD"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "materials": [
+    {
+      "name": "A1/A2-thiopyridyl pillar[5]arene L",
+      "synthesis_conditions": {
+        "precursor": "A1/A2-dibromo-pillar[5]arene",
+        "reactant": "4-mercaptopyridine",
+        "solvent": "acetonitrile",
+        "catalyst": "K2CO3",
+        "temperature": "not specified",
+        "time": "not specified",
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "1D coordination polymer (1)",
+      "synthesis_conditions": {
+        "reactants": [
+          "A1/A2-thiopyridyl pillar[5]arene L",
+          "silver(I) trifluoroacetate"
+        ],
+        "solvent": "CH2Cl2",
+        "temperature": "not specified",
+        "time": "not specified",
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "1D poly-pseudo-rotaxane (2)",
+      "synthesis_conditions": {
+        "reactants": [
+          "A1/A2-thiopyridyl pillar[5]arene L",
+          "silver(I) trifluoroacetate",
+          "C2 guest"
+        ],
+        "solvent": "H2O",
+        "temperature": "not specified",
+        "time": "not specified",
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "2D poly-pseudo-rotaxane (3)",
+      "synthesis_conditions": {
+        "reactants": [
+          "A1/A2-thiopyridyl pillar[5]arene L",
+          "silver(I) trifluoroacetate",
+          "C8 guest"
+        ],
+        "solvent": "not specified",
+        "temperature": "not specified",
+        "time": "not specified",
+        "yield": "50 %",
+        "washing_method": "not specified",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "Simple pseudo-rotaxane C8@L",
+      "synthesis_conditions": {
+        "reactants": [
+          "A1/A2-thiopyridyl pillar[5]arene L",
+          "C8 guest"
+        ],
+        "solvent": "not specified",
+        "temperature": "not specified",
+        "time": "not specified",
+        "yield": "high",
+        "washing_method": "not specified",
+        "drying_method": "not specified"
+      }
+    }
+  ]
+}

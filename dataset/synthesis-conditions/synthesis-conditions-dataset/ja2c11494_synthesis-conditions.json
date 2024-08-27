@@ -1,0 +1,154 @@
+{
+  "materials": [
+    {
+      "material_id": "1",
+      "synthesis_conditions": {
+        "temperature": "100(2) K",
+        "solvent": "THF-d8",
+        "solvent_amount": "5-10 mL",
+        "reagents": [
+          {
+            "reagent": "KHMDS",
+            "amount": "2.0 equiv."
+          }
+        ],
+        "yield": "83%",
+        "NMR_spectra": {
+          "1H_NMR": "800 MHz, THF-d8",
+          "13C_NMR": "151 MHz, THF-d8",
+          "11B_NMR": "192 MHz, THF-d8"
+        },
+        "IR_spectrum": "Not provided",
+        "crystallographic_data": {
+          "CCDC_number": "2213825",
+          "formula": "C34H42B2K2O3",
+          "FW": "982.91 g/mol",
+          "crystal_system": "triclinic",
+          "space_group": "P 21/c",
+          "a": "10.7007(10) Å",
+          "b": "11.9537(12) Å",
+          "c": "13.2750(13) Å",
+          "alpha": "75.643(3)°",
+          "beta": "75.431(3)°",
+          "gamma": "88.821(3)°",
+          "volume": "1590.5(3) Å3",
+          "Z": "2",
+          "density": "1.250 g/cm3"
+        }
+      }
+    },
+    {
+      "material_id": "2",
+      "synthesis_conditions": {
+        "temperature": "100(2) K",
+        "solvent": "THF-d8",
+        "solvent_amount": "5-10 mL",
+        "reagents": [
+          {
+            "reagent": "KHMDS",
+            "amount": "2.0 equiv."
+          }
+        ],
+        "yield": "50%",
+        "NMR_spectra": {
+          "1H_NMR": "600 MHz, THF-d8",
+          "13C_NMR": "201 MHz, THF-d8",
+          "11B_NMR": "192 MHz, THF-d8"
+        },
+        "IR_spectrum": "Not provided",
+        "crystallographic_data": {
+          "CCDC_number": "2213827",
+          "formula": "C68H84B4K4O6",
+          "FW": "1196.99 g/mol",
+          "crystal_system": "orthorhombic",
+          "space_group": "P na21",
+          "a": "15.3794(5) Å",
+          "b": "14.5389(5) Å",
+          "c": "28.7089(10) Å",
+          "alpha": "90°",
+          "beta": "90°",
+          "gamma": "90°",
+          "volume": "6419.3(4) Å3",
+          "Z": "4",
+          "density": "1.239 g/cm3"
+        }
+      }
+    },
+    {
+      "material_id": "13",
+      "synthesis_conditions": {
+        "temperature": "100(2) K",
+        "solvent": "DCM-d2",
+        "solvent_amount": "Not specified",
+        "reagents": [
+          {
+            "reagent": "MeMgBr",
+            "amount": "2.0 equiv."
+          }
+        ],
+        "yield": "94%",
+        "NMR_spectra": {
+          "1H_NMR": "600 MHz, DCM-d2",
+          "13C_NMR": "151 MHz, DCM-d2",
+          "11B_NMR": "192 MHz, DCM-d2"
+        },
+        "IR_spectrum": "Not provided",
+        "crystallographic_data": {
+          "CCDC_number": "2213831",
+          "formula": "C22H20B2",
+          "FW": "306.00 g/mol",
+          "crystal_system": "triclinic",
+          "space_group": "P -1",
+          "a": "5.3162(3) Å",
+          "b": "6.2849(3) Å",
+          "c": "12.5712(7) Å",
+          "alpha": "83.229(2)°",
+          "beta": "89.637(2)°",
+          "gamma": "75.123(2)°",
+          "volume": "402.99(4) Å3",
+          "Z": "1",
+          "density": "1.261 g/cm3"
+        }
+      }
+    },
+    {
+      "material_id": "15",
+      "synthesis_conditions": {
+        "temperature": "100(2) K",
+        "solvent": "THF-d8 or MeCN-d3",
+        "solvent_amount": "Concentrated solution",
+        "reagents": [
+          {
+            "reagent": "CO2(g)",
+            "amount": "~15 psi"
+          }
+        ],
+        "yield": "Not specified",
+        "NMR_spectra": {
+          "1H_NMR": "800 MHz, THF-d8",
+          "13C_NMR": "201 MHz, MeCN-d3",
+          "11B_NMR": "192 MHz, MeCN-d3"
+        },
+        "IR_spectrum": {
+          "file": "Figure S5"
+        },
+        "crystallographic_data": {
+          "CCDC_number": "2213833",
+          "formula": "C70H69B4K4N11O8",
+          "FW": "1392.00 g/mol",
+          "crystal_system": "triclinic",
+          "space_group": "P -1",
+          "a": "11.6953(7) Å",
+          "b": "17.1666(9) Å",
+          "c": "21.0298(12) Å",
+          "alpha": "74.968(2)°",
+          "beta": "87.994(2)°",
+          "gamma": "88.779(2)°",
+          "volume": "4074.8(4) Å3",
+          "Z": "2",
+          "density": "1.135 g/cm3"
+        }
+      }
+    }
+  ]
+}

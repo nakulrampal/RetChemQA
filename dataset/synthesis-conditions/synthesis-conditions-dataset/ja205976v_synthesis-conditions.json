@@ -1,0 +1,91 @@
+{
+  "materials": [
+    {
+      "material": "Fe2(dobdc)·4DMF",
+      "synthesis_conditions": {
+        "temperature": "393 K",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "300 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "36 mL"
+          }
+        ],
+        "equipment": "500 mL Schlenk flask",
+        "chemicals_used": [
+          {
+            "name": "anhydrous ferrous chloride",
+            "amount": "1.1 g, 9.0 mmol"
+          },
+          {
+            "name": "1,4-dihydroxyterephthalic acid",
+            "amount": "0.71 g, 3.6 mmol"
+          }
+        ],
+        "time": "18 h",
+        "yield": "2.0 g (91%)"
+      }
+    },
+    {
+      "material": "Fe2(dobdc)·4MeOH",
+      "synthesis_conditions": {
+        "temperature": [
+          "393 K for DMF soaking",
+          "343 K for methanol soaking"
+        ],
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "100 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "100 mL"
+          }
+        ],
+        "time": [
+          "24 h for DMF soaking",
+          "24 h for methanol soaking, repeated three times"
+        ],
+        "yield": "1.25 g (87%)"
+      }
+    },
+    {
+      "material": "Fe2(dobdc)",
+      "synthesis_conditions": {
+        "temperature": "433 K",
+        "equipment": "dynamic vacuum (<10 μbar)",
+        "time": "24 h",
+        "yield": "light green powder",
+        "additional_information": "fully desolvated"
+      }
+    },
+    {
+      "material": "Fe2(O2)2(dobdc)",
+      "synthesis_conditions": {
+        "temperature": "100 K for O2 dosing",
+        "gas_adsorption": "2.0 O2 per Fe2+",
+        "additional_information": "Data collected at 4 K after dosing"
+      }
+    },
+    {
+      "material": "Fe2(O2)(dobdc)",
+      "synthesis_conditions": {
+        "temperature": "125 K for O2 loading, then warmed to room temperature",
+        "gas_adsorption": "2.0 O2 per Fe2+",
+        "additional_information": "Data collected at 4 K after dosing"
+      }
+    },
+    {
+      "material": "Fe2(N2)2(dobdc)",
+      "synthesis_conditions": {
+        "temperature": "80 K for N2 dosing",
+        "gas_adsorption": "0.5, 1.0, and 2.0 N2:Fe",
+        "additional_information": "Data collected at ~9 K after dosing"
+      }
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "materials": [
+    {
+      "name": "CPM-15-Mg",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            "In(NO3)3·xH2O (0.085 g)",
+            "Mg(NO3)2·6H2O (0.018 g)",
+            "Pr(NO3)3 (0.028 g)",
+            "CaCl2 (0.018 g)",
+            "H3btc (0.056 g)"
+          ],
+          "solvents": [
+            {
+              "name": "H2O/DMA",
+              "amount": "0.50 g/2.50 g"
+            }
+          ],
+          "temperature": "100 oC",
+          "time": "5 days",
+          "washing_method": "ethanol",
+          "yield": "colorless crystals"
+        },
+        {
+          "chemicals_used": [
+            "In(NO3)3·xH2O (0.103 g)",
+            "Mg(NO3)2·6H2O (0.018 g)",
+            "H3btc (0.056 g)"
+          ],
+          "solvents": [
+            {
+              "name": "H2O/DMA",
+              "amount": "0.25 g/3.0 g"
+            }
+          ],
+          "temperature": "100 oC",
+          "time": "5 days",
+          "washing_method": "ethanol",
+          "yield": "colorless crystals"
+        }
+      ]
+    },
+    {
+      "name": "CPM-15-Co",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            "In(NO3)3·xH2O (0.108 g)",
+            "Co(Ac)2·6H2O (0.08 g)",
+            "H3btc (0.026 g)"
+          ],
+          "solvents": [
+            {
+              "name": "H2O/DMA",
+              "amount": "0.50 g/2.50 g"
+            }
+          ],
+          "temperature": "100 oC",
+          "time": "5 days",
+          "washing_method": "ethanol",
+          "yield": "purple crystals"
+        }
+      ]
+    },
+    {
+      "name": "CPM-15-Mn",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            "In(NO3)3·xH2O (0.103 g)",
+            "Mn(NO3)2·4H2O (0.026 g)",
+            "H3btc (0.026 g)"
+          ],
+          "solvents": [
+            {
+              "name": "H2O/DMA",
+              "amount": "0.25 g/3.0 g"
+            }
+          ],
+          "temperature": "100 oC",
+          "time": "5 days",
+          "washing_method": "ethanol",
+          "yield": "colorless crystals"
+        }
+      ]
+    },
+    {
+      "name": "CPM-15-Ni",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            "In(NO3)3·xH2O (0.087 g)",
+            "Ni(NO3)2·6H2O (0.018 g)",
+            "Pr(NO3)3 (0.025 g)",
+            "CaCl2 (0.019 g)",
+            "H3btc (0.056 g)"
+          ],
+          "solvents": [
+            {
+              "name": "H2O/DMA",
+              "amount": "0.50 g/2.50 g"
+            }
+          ],
+          "temperature": "100 oC",
+          "time": "5 days",
+          "washing_method": "ethanol",
+          "yield": "green crystals"
+        },
+        {
+          "chemicals_used": [
+            "In(NO3)3·xH2O (0.080 g)",
+            "Ni(NO3)2·6H2O (0.050 g)",
+            "isonicotinic acid (0.010 g)",
+            "H3btc (0.040 g)"
+          ],
+          "solvents": [
+            {
+              "name": "H2O/DMA",
+              "amount": "0.50 g/2.50 g"
+            }
+          ],
+          "temperature": "100 oC",
+          "time": "5 days",
+          "washing_method": "ethanol",
+          "yield": "green crystals"
+        }
+      ]
+    },
+    {
+      "name": "CPM-15-Cd",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            "In(NO3)3·xH2O (0.109 g)",
+            "Cd(Ac)2·4H2O (0.114 g)",
+            "imidazole-2-carboxylic acid (0.043 g)",
+            "H3btc (0.112 g)"
+          ],
+          "solvents": [
+            {
+              "name": "H2O/DMA",
+              "amount": "0.50 g/2.50 g"
+            }
+          ],
+          "temperature": "100 oC",
+          "time": "5 days",
+          "washing_method": "ethanol",
+          "yield": "colorless crystals mixed with some unknown amorphous phases"
+        },
+        {
+          "chemicals_used": [
+            "InCl3·xH2O (0.188 g)",
+            "Cd(Ac)2·4H2O (0.08 g)",
+            "H3btc (0.056 g)"
+          ],
+          "solvents": [
+            {
+              "name": "H2O/DMA",
+              "amount": "0.50 g/2.50 g"
+            }
+          ],
+          "temperature": "100 oC",
+          "time": "5 days",
+          "washing_method": "ethanol",
+          "yield": "colorless crystals mixed with some unknown amorphous phases"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "materials": [
+    {
+      "name": "dicopper platform [Cu2(L)2(THF)2] (1·2THF)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "1,3-phenylene-linked bis-β-diketone derivative (H2L)",
+            "amount": null
+          },
+          {
+            "name": "copper­(II) chloride",
+            "amount": null
+          },
+          {
+            "name": "THF",
+            "amount": null
+          }
+        ],
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": null
+          }
+        ],
+        "temperature": "reflux",
+        "time": "12 h",
+        "equipment": null,
+        "yield": null,
+        "washing_method": null,
+        "drying_method": null,
+        "other_conditions": "under basic conditions"
+      }
+    },
+    {
+      "name": "{[(1)(μ2-bpp)][(1)2(bpp)2]}n·(bpp)n (3)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "dicopper platform [Cu2(L)2(THF)2] (1·2THF)",
+            "amount": "15.1 mg, 0.016 mmol"
+          },
+          {
+            "name": "1,4-bis­(4-pyridyl)­piperazine (bpp)",
+            "amount": "6.8 mg, 0.028 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "10 mL"
+          }
+        ],
+        "temperature": "reflux for 12 h, then cooled to room temperature",
+        "time": "2 weeks",
+        "equipment": null,
+        "yield": "60%",
+        "washing_method": null,
+        "drying_method": null,
+        "other_conditions": "Slow evaporation of the solution"
+      }
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "materials": [
+    {
+      "name": "tp-PMBB-5",
+      "synthesis_conditions": {
+        "temperature": "refluxed for 10 minutes, then continued for 3 hours",
+        "solvents": [
+          {
+            "name": "MeOH",
+            "amount": "15 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cr(NO3)3 · 9 H2O",
+            "amount": "0.400 g, 1.00 mmol"
+          },
+          {
+            "name": "m-aminobenzoic acid",
+            "amount": "0.274 g, 2.00 mmol"
+          }
+        ],
+        "time": "3 hours 10 minutes",
+        "yield": "0.674 g, 100%",
+        "drying_method": "removed in vacuo"
+      }
+    },
+    {
+      "name": "tp-PMBB-6",
+      "synthesis_conditions": {
+        "temperature": "refluxed for 10 minutes, then continued for 3 hours",
+        "solvents": [
+          {
+            "name": "MeOH",
+            "amount": "15 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cr(NO3)3 · 9 H2O",
+            "amount": "0.400 g, 1.00 mmol"
+          },
+          {
+            "name": "p-aminobenzoic acid",
+            "amount": "0.274 g, 2.00 mmol"
+          }
+        ],
+        "time": "3 hours 10 minutes",
+        "yield": "0.674 g, 100%",
+        "drying_method": "removed in vacuo",
+        "additional_information": "A single crystal was harvested by diffusion of chloroform to a methanolic solution of tp-PMBB-6."
+      }
+    },
+    {
+      "name": "tp-PMBB-5-acs-1",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2 mL"
+          },
+          {
+            "name": "MeCN/DMF (2:1)",
+            "amount": "2 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "tp-PMBB-5",
+            "amount": "0.0690 g, 0.06 mmol"
+          },
+          {
+            "name": "CuCl2 · 2 H2O",
+            "amount": "0.011 g, 0.06 mmol"
+          }
+        ],
+        "time": "2 weeks",
+        "yield": "53% based on CuCl2"
+      }
+    },
+    {
+      "name": "tp-PMBB-6-stp-1",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "THF/MeOH (2:1)",
+            "amount": "2 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "2 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CuCl2 · 2 H2O",
+            "amount": "0.00700 g, 0.0400 mmol"
+          },
+          {
+            "name": "tp-PMBB-6",
+            "amount": "0.0690g, 0.0600 mmol"
+          }
+        ],
+        "time": "1 day",
+        "yield": "75%, 0.156g based on CuCl2"
+      }
+    }
+  ]
+}

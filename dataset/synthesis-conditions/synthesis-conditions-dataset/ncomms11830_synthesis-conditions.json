@@ -1,0 +1,64 @@
+{
+  "materials": [
+    {
+      "name": "Zinc MOF material based on H3TBTC",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "120°C",
+          "solvents": [
+            {
+              "name": "DMF/Ethanol/H2O",
+              "amount": "10 ml of 4:1:1 (volume ratio)"
+            }
+          ],
+          "equipment": "Teﬂon-lined stainless steel vessel (23 ml)",
+          "chemicals_used": [
+            {
+              "name": "Zn(NO3)2·6H2O",
+              "amount": "2.00 mmol, 0.590 g"
+            },
+            {
+              "name": "H3TBTC",
+              "amount": "1.00 mmol, 0.570 g"
+            }
+          ],
+          "time": "72 h",
+          "other_conditions": "heating under an autogenous pressure, slowly cooled to room temperature at a constant rate of 0.04°C/min"
+        }
+      ],
+      "washing_method": "washed thoroughly with DMF",
+      "yield": "Colorless crystals"
+    },
+    {
+      "name": "MOF thin film",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "Not specified",
+          "solvents": [
+            {
+              "name": "DMF/EtOH/H2O",
+              "amount": "100 ml of 4:1:1 (volume ratio)"
+            }
+          ],
+          "equipment": "Electrolysis setup with Zn plate anode",
+          "chemicals_used": [
+            {
+              "name": "H3TBTC",
+              "amount": "1.00 mmol, 0.570 g"
+            },
+            {
+              "name": "Ammonium fluoride (NH4F)",
+              "amount": "2.7 mmol, 0.100 g"
+            }
+          ],
+          "other_conditions": "Electrolysis started, Zn2+ ions produced via anodic oxidation, TBTC3- anions moved to anode driven by electric field, self-assembly of Zn2+ and TBTC3- occurred resulting in deposition of the thin film"
+        }
+      ],
+      "washing_method": "washed thoroughly with DMF",
+      "drying_method": "Not specified",
+      "yield": "MOF thin film deposited onto anodic Zn plate"
+    }
+  ]
+}

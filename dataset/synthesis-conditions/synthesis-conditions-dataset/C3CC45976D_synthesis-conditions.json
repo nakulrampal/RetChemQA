@@ -1,0 +1,64 @@
+{
+  "materials": [
+    {
+      "name": "Co2(μ4-OH)(2-pmb) (1)",
+      "synthesis_conditions": {
+        "temperature": "160 oC",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "8 mL"
+          }
+        ],
+        "pH": "7.35",
+        "pH_adjustment_chemicals": "0.5 M NaOH",
+        "time": "48 h",
+        "yield": "70% based on Co",
+        "chemicals_used": [
+          {
+            "name": "Co(ClO4)2·6H2O",
+            "amount": "0.0199 g",
+            "molarity": "0.20 mmol"
+          },
+          {
+            "name": "2-pmbH3",
+            "amount": "0.0216 g",
+            "molarity": "0.1 mmol"
+          }
+        ],
+        "drying_method": "Not specified",
+        "washing_method": "Not specified"
+      }
+    },
+    {
+      "name": "Cu4(μ3-OH)2(2-pmb)2 (2)",
+      "synthesis_conditions": {
+        "temperature": "160 oC",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "Not specified"
+          }
+        ],
+        "pH": "4.80",
+        "pH_adjustment_chemicals": "Not specified",
+        "time": "48 h",
+        "yield": "83% based on Cu",
+        "chemicals_used": [
+          {
+            "name": "Cu(CH3COO)2·H2O",
+            "amount": "Not specified",
+            "molarity": "Not specified"
+          },
+          {
+            "name": "2-pmbH3",
+            "amount": "Not specified",
+            "molarity": "Not specified"
+          }
+        ],
+        "drying_method": "Not specified",
+        "washing_method": "Not specified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "materials": [
+    {
+      "name": "1,12-Dihydroxycarbonyl-1,12-dicarba-closo-dodecaborane (1)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "dry diethyl ether",
+            "amount": "150 mL"
+          },
+          {
+            "name": "3M hydrochloric acid",
+            "amount": "100 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "1,12-dicarba-closododecaborane (p-carborane)",
+            "amount": "2g (13.9 mmoles)"
+          },
+          {
+            "name": "n-BuLi",
+            "amount": "1.6M (35 mL, 56 mmoles)"
+          }
+        ],
+        "temperature": [
+          {
+            "step": "reaction mixture warmed to room temperature then refluxed",
+            "value": "room temperature to reflux"
+          },
+          {
+            "step": "reaction cooled",
+            "value": "-78 °C"
+          }
+        ],
+        "time": "1.5 hours",
+        "yield": "2.81g, 87%",
+        "washing_method": "stirred in hydrochloric acid, filtered, washed with chilled water, hexanes, chloroform",
+        "drying_method": "vacuum overnight"
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "diethylformamide",
+            "amount": "1 ml"
+          },
+          {
+            "name": "dimethylformamide : ethanol",
+            "amount": "18 ml: 18 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)·6H2O",
+            "amount": "33 mg, 0.11 mmole for crystal growth; 1.20 g, 4.03 mmole for large scale synthesis"
+          },
+          {
+            "name": "1,12-dicarboxylic-1,12-dicarba-closo-dodecaborane",
+            "amount": "8.3 mg, 0.035 mmole for crystal growth; 0.30 g, 1.28 mmole for large scale synthesis"
+          }
+        ],
+        "temperature": "80 °C",
+        "time": "24 hours",
+        "yield": "480 mg, 32 % based on zinc",
+        "washing_method": "washed with DMF followed by ethanol",
+        "drying_method": "dried in air"
+      }
+    },
+    {
+      "name": "4",
+      "synthesis_conditions": {
+        "temperature": "300 °C",
+        "time": "24 hours",
+        "equipment": "evacuated and heated",
+        "elemental_analysis": {
+          "calculated": "C, 14.3; H, 3.6; N, 0.0",
+          "found": "C, 13.95; H, 3.47; N, 0.0"
+        }
+      }
+    }
+  ]
+}

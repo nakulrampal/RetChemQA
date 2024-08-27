@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the MOF that exhibits selective adsorption of CO2 over CH4?",
+      "answer": "[Zn(Gly-Thr)2]·CH3OH",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to confirm the presence of exfoliated nanosheets in the acetone dispersion of the material?",
+      "answer": "The presence of exfoliated nanosheets was confirmed by Tyndall-like light scattering of the colloid when irradiated with a laser beam.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the structural rigidity of [Zn(Gly-Thr)2] compare to [Zn(Gly-Ala)2] when exposed to ambient conditions?",
+      "answer": "[Zn(Gly-Thr)2] shows no appreciable structural change with time under ambient conditions, contrasting with [Zn(Gly-Ala)2]'s requirement for storage under inert conditions to prevent structural transformation.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the hydroxy groups in the side chain of threonine in the dipeptide linker's behavior?",
+      "answer": "The hydroxy groups in the side chain of threonine enable the formation of inter and intralayer hydrogen bonds that reinforce the structural stability of the MOF in the solid-state and favor the formation of a chelate between the peptide and the metal ion.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the saw tooth shape of the 1D channels in [Zn(Gly-Thr)2]?",
+      "answer": "The saw tooth shape of the 1D channels, caused by the orientation of the terminal methyl group from the threonine side chain, affects the porosity and potentially the material's adsorption properties.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What experimental technique was used to study the morphology of the exfoliated nanosheets of [Zn(Gly-Thr)2]?",
+      "answer": "Atomic force microscopy (AFM) was used to study the morphology of the exfoliated nanosheets.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of the dipeptide Gly–Thr acting as a rigid connector in [Zn(Gly-Thr)2]?",
+      "answer": "The dipeptide Gly–Thr acting as a rigid connector locks its conformational flexibility, leading to a 'classic' rigid porous open framework behavior in [Zn(Gly-Thr)2], contrasting with the adaptable framework of [Zn(Gly–Ala)2].",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of Thr in the dipeptide linker influence the coordination geometry of the Zn2+ metal center in [Zn(Gly-Thr)2]?",
+      "answer": "The presence of Thr in the dipeptide linker leads to an octahedral coordination of the Zn2+ metal center, in contrast with the non-chelated tetrahedral coordination in [Zn(Gly–Ala)2], due to the chelating role played by Gly–Thr.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the impact of the intralayer hydrogen bond (O9H9···O11) on the structure of [Zn(Gly-Thr)2]?",
+      "answer": "The intralayer hydrogen bond (O9H9···O11) limits the torsional freedom of the threonine side chain, imposing the orientation of the alcohol and methyl groups and affecting the overall structure and stability of [Zn(Gly-Thr)2].",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the solvent-accessible volume of [Zn(Gly-Thr)2] change upon complete removal of guest molecules?",
+      "answer": "Upon complete removal of guest molecules, the solvent-accessible volume of [Zn(Gly-Thr)2] accounts for 14.7% of the total volume, indicating the formation of 1D channels running parallel to [100].",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role does the additional hydrogen bond specific to Thr play in the structural stability of [Zn(Gly-Thr)2]?",
+      "answer": "The additional hydrogen bond specific to Thr reinforces the structural stability of [Zn(Gly-Thr)2] in three dimensions due to higher cooperativity, contributing to its enhanced rigidity compared to [Zn(Gly-Ala)2].",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the isosteric heat of adsorption (Qst) of CO2 in [Zn(Gly-Thr)2] compare to other MOFs?",
+      "answer": "The isosteric heat of adsorption (Qst) of CO2 in [Zn(Gly-Thr)2] starts at 15.8 kJ mol-1, which is on the lower end of the range for other MOFs, indicating weaker interaction of CO2 with the framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental evidence supports the permanent porosity of [Zn(Gly-Thr)2]'?",
+      "answer": "CO2 adsorption at 195 K up to 1 bar confirmed the permanent porosity of [Zn(Gly-Thr)2]', with a Type I adsorption curve and a BET surface area of 192 m2 g-1.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthetic route for [Zn(Gly-Thr)2] is significantly different from that of [Zn(Gly–Ala)2].",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: [Zn(Gly-Thr)2] is soluble in common organic solvents like acetone and ethanol.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The presence of Thr in [Zn(Gly-Thr)2] does not contribute to its selective adsorption of CO2 over CH4.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The crystallinity of [Zn(Gly-Thr)2] is lost at temperatures above 500 K.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The presence of Thr in the dipeptide linker does not affect the coordination geometry of the Zn2+ metal center in [Zn(Gly-Thr)2].",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The selectivity of [Zn(Gly-Thr)2] for CO2 over CH4 is primarily due to size-exclusive mechanisms.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The torsional flexibility of the peptide in [Zn(Gly-Thr)2] is enhanced by the presence of Thr.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

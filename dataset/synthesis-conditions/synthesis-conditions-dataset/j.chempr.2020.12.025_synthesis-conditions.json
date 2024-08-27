@@ -1,0 +1,80 @@
+{
+  "materials": [
+    {
+      "material": "1·DMA",
+      "synthesis_conditions": [
+        {
+          "temperature": "140°C",
+          "solvents": [
+            {
+              "name": "DMA",
+              "amount": "4 mL"
+            },
+            {
+              "name": "H2O",
+              "amount": "4 mL"
+            }
+          ],
+          "equipment": "15-mL Teflon reactor",
+          "time": "72 h",
+          "cooling_rate": "5°C h−1",
+          "yield": "ca. 60%",
+          "chemicals_used": [
+            {
+              "name": "ZnSO4·7H2O",
+              "amount": "0.034 g, 0.12 mmol"
+            },
+            {
+              "name": "Htz",
+              "amount": "0.003 g, 0.04 mmol"
+            },
+            {
+              "name": "H3pzdc",
+              "amount": "0.007 g, 0.04 mmol"
+            }
+          ],
+          "washing_method": "washed successively by DMA and MeOH",
+          "drying_method": "dried in air"
+        }
+      ]
+    },
+    {
+      "material": "2·DMA",
+      "synthesis_conditions": [
+        {
+          "temperature": "140°C",
+          "solvents": [
+            {
+              "name": "DMA",
+              "amount": "4 mL"
+            },
+            {
+              "name": "H2O",
+              "amount": "4 mL"
+            }
+          ],
+          "equipment": "15-mL Teflon reactor",
+          "time": "72 h",
+          "cooling_rate": "5°C h−1",
+          "yield": "ca. 50%",
+          "chemicals_used": [
+            {
+              "name": "ZnSO4·7H2O",
+              "amount": "0.034 g, 0.12 mmol"
+            },
+            {
+              "name": "Hatz",
+              "amount": "0.003 g, 0.04 mmol"
+            },
+            {
+              "name": "H3pzdc",
+              "amount": "0.007 g, 0.04 mmol"
+            }
+          ],
+          "washing_method": "washed successively by DMA and MeOH",
+          "drying_method": "dried in air"
+        }
+      ]
+    }
+  ]
+}

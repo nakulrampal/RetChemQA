@@ -1,0 +1,197 @@
+{
+  "materials": [
+    {
+      "name": "MOF-1210(Zr/Cu)",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "DMF",
+        "amount_of_solvent": "10 mL",
+        "equipment": "20 mL Pyrex vial",
+        "chemicals_used": [
+          {
+            "chemical": "Isonicotinic acid",
+            "amount": "49.2 mg, 0.4 mmol"
+          },
+          {
+            "chemical": "ZrCl4",
+            "amount": "23.0 mg, 0.1 mmol"
+          },
+          {
+            "chemical": "Cu(NO3)2•2.5H2O",
+            "amount": "46.5 mg, 0.2 mmol"
+          }
+        ],
+        "time": "24 hours",
+        "washing_method": "washed with fresh DMF (3x)",
+        "drying_method": "dried under vacuum",
+        "yield": "Not specified",
+        "additional_information": "Sonicated for 5 minutes before heating. Cu2+ solutions must be made fresh and used while still blue."
+      }
+    },
+    {
+      "name": "MOF-1211(Zr/Co)",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": "DMF",
+        "amount_of_solvent": "Not specified",
+        "equipment": "glass tube",
+        "chemicals_used": [
+          {
+            "chemical": "Isonicotinic acid",
+            "amount": "Not specified"
+          },
+          {
+            "chemical": "ZrCl4",
+            "amount": "Not specified"
+          },
+          {
+            "chemical": "Co(NO3)2•6H2O",
+            "amount": "Not specified"
+          }
+        ],
+        "time": "24 hours",
+        "washing_method": "washed with fresh DMF (3x1mL)",
+        "drying_method": "dried under vacuum",
+        "yield": "Not specified",
+        "additional_information": "Formed violet cubic crystals."
+      }
+    },
+    {
+      "name": "MOF-1212(Zr/Cu)",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": "DMF",
+        "amount_of_solvent": "10 mL",
+        "equipment": "20 mL Pyrex vial",
+        "chemicals_used": [
+          {
+            "chemical": "2-Methylisonicotinic acid",
+            "amount": "49.2 mg, 0.4 mmol"
+          },
+          {
+            "chemical": "ZrCl4",
+            "amount": "23.0 mg, 0.1 mmol"
+          },
+          {
+            "chemical": "Cu(NO3)2•2.5H2O",
+            "amount": "46.5 mg, 0.2 mmol"
+          }
+        ],
+        "time": "24 hours",
+        "washing_method": "washed with fresh DMF (3x10 mL)",
+        "drying_method": "dried under vacuum",
+        "yield": "Not specified",
+        "additional_information": "Sonicated for 5 minutes before heating."
+      }
+    },
+    {
+      "name": "MOF-1213(Dy/M)",
+      "synthesis_conditions": [
+        {
+          "metal": "Cd",
+          "temperature": "120 °C",
+          "solvents": "DMF",
+          "amount_of_solvent": "Not specified",
+          "equipment": "20 mL Pyrex glass vial",
+          "chemicals_used": [
+            {
+              "chemical": "3-fluoro-4-pyridinecarboxylic acid",
+              "amount": "Not specified"
+            },
+            {
+              "chemical": "DyCl3•6H2O",
+              "amount": "Not specified"
+            },
+            {
+              "chemical": "Cd(O2CCH3)2•2H2O",
+              "amount": "Not specified"
+            }
+          ],
+          "time": "72 hours",
+          "washing_method": "washed with fresh DMF (3x10 mL)",
+          "drying_method": "dried under vacuum",
+          "yield": "Not specified",
+          "additional_information": "Hand-shaken in a glass tube."
+        },
+        {
+          "metal": "Ni",
+          "temperature": "120 °C",
+          "solvents": "DMF",
+          "amount_of_solvent": "Not specified",
+          "equipment": "20 mL Pyrex glass vial",
+          "chemicals_used": [
+            {
+              "chemical": "3-fluoro-4-pyridinecarboxylic acid",
+              "amount": "Not specified"
+            },
+            {
+              "chemical": "DyCl3•6H2O",
+              "amount": "Not specified"
+            },
+            {
+              "chemical": "NiCl2•6H2O",
+              "amount": "Not specified"
+            }
+          ],
+          "time": "72 hours",
+          "washing_method": "washed with fresh DMF (3x10 mL)",
+          "drying_method": "dried under vacuum",
+          "yield": "Not specified",
+          "additional_information": "Hand-shaken in a glass tube."
+        },
+        {
+          "metal": "Fe",
+          "temperature": "120 °C",
+          "solvents": "DMF",
+          "amount_of_solvent": "Not specified",
+          "equipment": "glass tube",
+          "chemicals_used": [
+            {
+              "chemical": "3-fluoro-4-pyridinecarboxylic acid",
+              "amount": "Not specified"
+            },
+            {
+              "chemical": "DyCl3•6H2O",
+              "amount": "Not specified"
+            },
+            {
+              "chemical": "Fe(O2CCH3)2",
+              "amount": "Not specified"
+            }
+          ],
+          "time": "24 hours",
+          "washing_method": "washed with fresh DMF (3x1 mL)",
+          "drying_method": "dried under vacuum",
+          "yield": "Not specified",
+          "additional_information": "Tube was frozen in liquid N2, evacuated, flame-sealed before heating."
+        },
+        {
+          "metal": "Co",
+          "temperature": "120 °C",
+          "solvents": "DMF",
+          "amount_of_solvent": "Not specified",
+          "equipment": "20 mL Pyrex glass vial",
+          "chemicals_used": [
+            {
+              "chemical": "3-fluoro-4-pyridinecarboxylic acid",
+              "amount": "Not specified"
+            },
+            {
+              "chemical": "DyCl3•6H2O",
+              "amount": "Not specified"
+            },
+            {
+              "chemical": "Co(OAc)2•4H2O",
+              "amount": "Not specified"
+            }
+          ],
+          "time": "72 hours",
+          "washing_method": "washed with fresh DMF (3x10 mL)",
+          "drying_method": "dried under vacuum",
+          "yield": "Not specified",
+          "additional_information": "Hand-shaken in a glass tube."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "materials": [
+    {
+      "name": "complex 1",
+      "synthesis_conditions": {
+        "temperature": "130 °C",
+        "solvents": "DMF:C2H5OH:H2O",
+        "solvent_ratio": "1:1:1",
+        "solvent_volume": "4 ml",
+        "reactants": [
+          {
+            "name": "H4X",
+            "amount": "0.06 g",
+            "molarity": "0.1 mmol"
+          },
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "0.03 g",
+            "molarity": "0.1 mmol"
+          }
+        ],
+        "equipment": "16 cm Pyrex tube (1.0 × 1.2 cm)",
+        "time": "5 days",
+        "yield": "36%",
+        "yield_amount": "30 mg",
+        "drying_method": "heated at 120 °C in vacuum for several hours to remove guest water molecules, then kept at 80 °C to avoid readsorption of water from air",
+        "crystal_structure_determination": {
+          "method": "single-crystal X-ray diffraction",
+          "space_group": "Cc",
+          "temperature": "293K",
+          "equipment": "Rigaku Mercury CCD diffractometer with graphite monochromated Mo–Kα radiation (λ = 0.71073 Å)"
+        }
+      }
+    }
+  ]
+}

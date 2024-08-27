@@ -1,0 +1,74 @@
+{
+  "materials": [
+    {
+      "name": "Ag(pyz)2(S2O8)",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "details": {
+            "yield": "nearly quantitative",
+            "reference": "ref 4"
+          }
+        },
+        {
+          "step": "Synchrotron XRD measurements",
+          "details": {
+            "equipment": "beamline X16C at the National Synchrotron Light Source at Brookhaven National Laboratory",
+            "sample_preparation": "powder sample loaded into a thin walled glass capillary of nominal diameter 0.7mm",
+            "x-rays_wavelength": "0.69840 Å",
+            "monochromator": "Si(111) channel cut",
+            "diffracted_beam_analyzed_with": "Ge(111) crystal",
+            "detector": "NaI scintillation counter",
+            "data_collection_range": "2-35° 2θ",
+            "data_collection_step": "0.005°",
+            "space_group": "C2/c",
+            "lattice_parameters": {
+              "a": "15.99695(15) Å",
+              "b": "7.150080(64) Å",
+              "c": "14.61384(13) Å",
+              "beta": "124.95713(46)°"
+            },
+            "software": "TOPAS Academic"
+          }
+        },
+        {
+          "step": "Magnetization measurements",
+          "details": {
+            "equipment": "Quantum Design 14T Vibrating Sample Magnetometer at the National High Magnetic Field Laboratory (NHMFL), Los Alamos National Laboratory (LANL)",
+            "sample_preparation": "sample loaded into a gelatin capsule, mounted in a plastic straw and affixed to the end of a carbon fiber rod",
+            "temperature_range": "2 K to 300 K",
+            "magnetic_field": "0.1T",
+            "correction": "core diamagnetic contributions based on Pascal’s constants",
+            "pulsed_field_magnetization_studies_temperature": "0.45 K",
+            "pulsed_magnet": "65T",
+            "pulsed_magnet_location": "NHMFL-LANL"
+          }
+        },
+        {
+          "step": "Muon-spin relaxation measurements",
+          "details": {
+            "location": "Swiss Muon Source, Paul Scherrer Institut, CH",
+            "equipment": "GPS instrument",
+            "sample_mounting": "mounted on an Ag backing plate in 25 µm Ag foil",
+            "cryostat": "standard orange cryostat"
+          }
+        },
+        {
+          "step": "First principles DFT calculations",
+          "details": {
+            "method": "frozen-core projector augmented wave method",
+            "software": "Vienna ab initio simulation package",
+            "approximation": "generalized-gradient approximation (GGA)",
+            "plane-wave_cut-off_energy": "400 eV",
+            "k-points": "30 for the irreducible Brillouin zone",
+            "GGA_U_calculations": "U = 2 and 4 eV on Ag atom",
+            "basis_set": "LANL2DZ-ECP for Ag, and 3-21G* for C, H, O, N, and S",
+            "software_for_spin_exchange_parameters": "Gaussian 03 B.04",
+            "correlation_functional": "B3LYP",
+            "spin_dimer_units_calculated": "[Ag2(pyz)7(S2O8)4]4-"
+          }
+        }
+      ]
+    }
+  ]
+}

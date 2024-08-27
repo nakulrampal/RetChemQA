@@ -1,0 +1,107 @@
+{
+  "materials": [
+    {
+      "material_name": "NAPA H3BCN",
+      "synthesis_conditions": {
+        "temperature": "143(2) K",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "65 mL"
+          },
+          {
+            "name": "THF",
+            "amount": "20 mL"
+          },
+          {
+            "name": "CH2Cl2",
+            "amount": "100 mL"
+          },
+          {
+            "name": "2-propanol",
+            "solvent_for_crystallization": true
+          },
+          {
+            "name": "cyclohexane",
+            "solvent_for_crystallization": true
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "N-[2-(6-Aminopyridyl)]acetamide hydrochloride",
+            "amount": "2.61 g (0.014 mol)"
+          },
+          {
+            "name": "NaCNBH3",
+            "amount": "0.88 g (0.014 mol)"
+          }
+        ],
+        "time": "12 h",
+        "yield": "75%",
+        "melting_point": "119−120 °C",
+        "drying_method": "in vacuo",
+        "crystallization_method": "diffusion of cyclohexane vapors into a 2-propanol solution"
+      }
+    },
+    {
+      "material_name": "NaBH4·TEA",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "25 mL"
+          },
+          {
+            "name": "2-butanol",
+            "solvent_for_crystallization": true
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "NaBH4",
+            "amount": "0.38 g (0.01 mol)"
+          },
+          {
+            "name": "triethanolamine (TEA)",
+            "amount": "2.8 mL (0.02 mol)"
+          }
+        ],
+        "time": "2 h",
+        "yield": "51%",
+        "melting_point": "107−108 °C dec",
+        "crystallization_method": "slow cooling of a solution in 2-butanol from room temperature to −25 °C"
+      }
+    },
+    {
+      "material_name": "NaCNBH3·TEA",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "2-propanol",
+            "amount": "30 mL"
+          },
+          {
+            "name": "CH2Cl2",
+            "amount": "50 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "NaCNBH3",
+            "amount": "0.63 g (0.01 mol)"
+          },
+          {
+            "name": "triethanolamine (TEA)",
+            "amount": "1.4 mL (0.01 mol)"
+          }
+        ],
+        "time": "2 h",
+        "yield": "52%",
+        "melting_point": "85−86 °C",
+        "crystallization_method": "slow evaporation of a solution in 2-propanol"
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "materials": [
+    {
+      "name": "[Cu4Pb22]4–",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "3 mL"
+          },
+          {
+            "name": "toluene",
+            "amount": "4 mL"
+          }
+        ],
+        "equipment": "standard glovebox techniques",
+        "chemicals_used": [
+          {
+            "name": "K4Pb9",
+            "amount": "120 mg (0.059 mmol)"
+          },
+          {
+            "name": "[CuMes­(PPh3)2]",
+            "amount": "41 mg (0.059 mmol)"
+          },
+          {
+            "name": "2,2,2-crypt",
+            "amount": "88 mg (0.236 mmol)"
+          }
+        ],
+        "time": "3 h",
+        "yield": "25%",
+        "washing_method": "filtered with glass wool",
+        "drying_method": "crystallization over 7 days"
+      }
+    },
+    {
+      "name": "[K(2.2.2-crypt)]4[Cu4Pb22]",
+      "crystallography": {
+        "crystal_system": "monoclinic",
+        "space_group": "C2/c",
+        "a": "29.7576(3) Å",
+        "b": "16.12050(10) Å",
+        "c": "27.6598(2) Å",
+        "alpha": "90.00°",
+        "beta": "105.2760(10)°",
+        "gamma": "90.00°",
+        "volume": "12799.80(18) Å3",
+        "Z": "8",
+        "density": "3.360 g/cm3",
+        "absorption_coefficient": "57.199 mm-1",
+        "F(000)": "11280.0",
+        "crystal_size": "not specified",
+        "data_collection_temperature": "100.00 K"
+      }
+    },
+    {
+      "name": "[CuPb9]3–",
+      "theoretical_data": {
+        "total_energy": "-41.327 eV",
+        "geometry": "C4v-symmetric capped square anti-prism"
+      }
+    },
+    {
+      "name": "[Cu2Pb9]2–",
+      "theoretical_data": {
+        "total_energy": "-41.795 eV",
+        "geometry": "C4v-symmetric bicapped square antiprismatic"
+      }
+    },
+    {
+      "name": "[Cu4Pb18]4–",
+      "theoretical_data": {
+        "total_energy": "-85.054 eV for D2h isomer",
+        "geometry": "D2h-symmetric"
+      }
+    },
+    {
+      "name": "[Cu4Pb18]4– (C2h isomer)",
+      "theoretical_data": {
+        "total_energy": "-84.293 eV",
+        "geometry": "C2h-symmetric"
+      }
+    }
+  ]
+}

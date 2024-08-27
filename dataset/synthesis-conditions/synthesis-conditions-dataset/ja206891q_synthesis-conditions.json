@@ -1,0 +1,28 @@
+{
+  "materials": [
+    {
+      "material": "2Fe",
+      "synthesis_conditions": {
+        "solvents": "methanol",
+        "amount_of_solvent_ml": 16,
+        "chemicals_used": [
+          "HCOONH4",
+          "HCOOH",
+          "Fe(ClO4)2·6H2O",
+          "ascorbic acid"
+        ],
+        "temperature": "room temperature",
+        "time": "1 day",
+        "yield_percentage": 46,
+        "washing_method": "washed with methanol",
+        "drying_method": "dried in air"
+      }
+    },
+    {
+      "material": "1Mn, 3Co, 4Ni, 5Zn",
+      "synthesis_conditions": {
+        "note": "Similar synthesis route as 2Fe, but specific conditions not provided."
+      }
+    }
+  ]
+}

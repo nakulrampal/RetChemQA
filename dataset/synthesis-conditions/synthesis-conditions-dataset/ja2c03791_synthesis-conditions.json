@@ -1,0 +1,58 @@
+{
+  "materials": [
+    {
+      "name": "[((S)-ibuprofen)3UO2][Na]",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "Acetonitrile",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "4 mL vial",
+        "chemicals_used": [
+          {
+            "name": "[UO2Cl2(THF)2]2",
+            "amount": "20 mg"
+          },
+          {
+            "name": "Sodium (S)-ibuprofenate",
+            "amount": "28 mg"
+          }
+        ],
+        "time": "Overnight",
+        "yield": "89%",
+        "washing_method": "Filtered through celite",
+        "drying_method": "Reduced pressure"
+      }
+    },
+    {
+      "name": "[((R)-ibuprofen)3UO2][Na]",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "Acetonitrile",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "4 mL vial",
+        "chemicals_used": [
+          {
+            "name": "[UO2Cl2(THF)2]2",
+            "amount": "20 mg"
+          },
+          {
+            "name": "Sodium (R)-ibuprofenate",
+            "amount": "28 mg"
+          }
+        ],
+        "time": "Overnight",
+        "yield": "92%",
+        "washing_method": "Filtered through celite",
+        "drying_method": "Reduced pressure"
+      }
+    }
+  ]
+}

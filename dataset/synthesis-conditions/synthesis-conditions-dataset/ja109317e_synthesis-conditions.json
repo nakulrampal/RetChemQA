@@ -1,0 +1,85 @@
+{
+  "materials": [
+    {
+      "name": "[Zn2(BME-bdc)2(bipy)]n (1)",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": ["DMF", "EtOH"],
+        "amount_of_each_solvent": {
+          "DMF": "25 mL",
+          "EtOH": "15 mL"
+        },
+        "equipment": "screw jar",
+        "chemicals_used": [
+          "H2BME-bdc (0.150 g, 0.47 mmol)",
+          "Zn(NO3)2 • 6 H2O (0.141 g, 0.47 mmol)",
+          "4,4’-bipyridine (0.074 g, 0.47 mmol)"
+        ],
+        "time": "48 h",
+        "yield": "0.320 g (0.29 mmol, 62%)",
+        "washing_method": "washed three times with DMF, then stirred for 3 days in chloroform",
+        "drying_method": "dried under reduced pressure (~10-3 mbar) for 24 h at 140 °C"
+      }
+    },
+    {
+      "name": "[Zn2(ME-bdc)2(bipy)]n (2)",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": ["DMF", "EtOH"],
+        "amount_of_each_solvent": {
+          "DMF": "25 mL",
+          "EtOH": "15 mL"
+        },
+        "equipment": "screw jar",
+        "chemicals_used": [
+          "H2ME-bdc (0.114 g, 0.47 mmol)",
+          "Zn(NO3)2 • 6 H2O (0.141 g, 0.47 mmol)",
+          "4,4’-bipyridine (0.074 g, 0.47 mmol)"
+        ],
+        "time": "48 h",
+        "washing_method": "washed three times with DMF, then stirred for 3 days in chloroform",
+        "drying_method": "dried under reduced pressure (~10-3 mbar) for 24 h at 140 °C"
+      }
+    },
+    {
+      "name": "[Zn2(BMP-bdc)2(bipy)]n",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": ["DMF", "EtOH"],
+        "amount_of_each_solvent": {
+          "DMF": "25 mL",
+          "EtOH": "15 mL"
+        },
+        "equipment": "screw jar",
+        "chemicals_used": [
+          "H2BMP-bdc (0.162 g, 0.47 mmol)",
+          "Zn(NO3)2 • 6 H2O (0.141 g, 0.47 mmol)",
+          "4,4’-bipyridine (0.074 g, 0.47 mmol)"
+        ],
+        "time": "48 h",
+        "washing_method": "washed three times with DMF, then stirred for 3 days in chloroform",
+        "drying_method": "dried under reduced pressure (~10-3 mbar) for 24 h at 140 °C"
+      }
+    },
+    {
+      "name": "[Zn2(BB-bdc)2(bipy)]n",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": ["DMF", "EtOH"],
+        "amount_of_each_solvent": {
+          "DMF": "25 mL",
+          "EtOH": "15 mL"
+        },
+        "equipment": "screw jar",
+        "chemicals_used": [
+          "H2BB-bdc (0.150 g, 0.47 mmol)",
+          "Zn(NO3)2 • 6 H2O (0.141 g, 0.47 mmol)",
+          "4,4’-bipyridine (0.074 g, 0.47 mmol)"
+        ],
+        "time": "48 h",
+        "washing_method": "washed three times with DMF, then stirred for 3 days in chloroform",
+        "drying_method": "dried under reduced pressure (~10-3 mbar) for 24 h at 140 °C"
+      }
+    }
+  ]
+}

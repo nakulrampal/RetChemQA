@@ -1,0 +1,93 @@
+{
+  "materials": [
+    {
+      "name": "2",
+      "synthesis_conditions": [
+        {
+          "temperature": "70 °C",
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "40 mL"
+            }
+          ],
+          "equipment": "H-shaped tubes",
+          "chemicals_used": [
+            {
+              "name": "(Me4N)2{Cu2[(S,S)-serimox](OH)2}",
+              "amount": "2.375 g, 3.60 mmol"
+            },
+            {
+              "name": "(Me4N)2{Cu2[(S,S)-methox](OH)2}",
+              "amount": "2.621 g, 3.60 mmol"
+            },
+            {
+              "name": "CaCl2 . 2H2O",
+              "amount": "0.176 g, 1.20 mmol"
+            }
+          ],
+          "time": "6 hours",
+          "yield": "2.00 g, 87%",
+          "drying_method": "air-dried",
+          "washing_method": "filtration on paper"
+        }
+      ]
+    },
+    {
+      "name": "2'",
+      "synthesis_conditions": [
+        {
+          "temperature": "70 °C",
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "40 mL"
+            }
+          ],
+          "equipment": "H-shaped tubes",
+          "chemicals_used": [
+            {
+              "name": "(Me4N)2{Cu2[(S,S)-serimox](OH)2}",
+              "amount": "2.375 g, 3.60 mmol"
+            },
+            {
+              "name": "(Me4N)2{Cu2[(S,S)-methox](OH)2}",
+              "amount": "2.621 g, 3.60 mmol"
+            },
+            {
+              "name": "BaCl2 . 2H2O",
+              "amount": "0.293 g, 1.20 mmol"
+            }
+          ],
+          "time": "6 hours",
+          "yield": "2.22 g, 91%",
+          "drying_method": "air-dried",
+          "washing_method": "filtration on paper"
+        }
+      ]
+    },
+    {
+      "name": "(MB)·HgCl2@2",
+      "synthesis_conditions": [
+        {
+          "solvents": [
+            {
+              "name": "saturated aqueous solutions containing methylene blue and HgCl2 salt",
+              "amount": "not specified"
+            }
+          ],
+          "equipment": "not specified",
+          "chemicals_used": [
+            {
+              "name": "crystals of 2",
+              "amount": "5.0 mg"
+            }
+          ],
+          "time": "1 week",
+          "drying_method": "air-dried",
+          "washing_method": "filtration"
+        }
+      ]
+    }
+  ]
+}

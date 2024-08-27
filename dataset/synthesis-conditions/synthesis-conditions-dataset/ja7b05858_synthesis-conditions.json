@@ -1,0 +1,81 @@
+{
+  "materials": [
+    {
+      "name": "Mg2(dobpdc)",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "55:45 (v:v) methanol:N,N-dimethylformamide (DMF)",
+        "amount_of_each_solvent": "200 mL",
+        "equipment": "350 mL glass pressure vessel",
+        "chemicals_used": "H4dobpdc (9.89 g, 36.1 mmol), Mg(NO3)2·6H2O (11.5 g, 44.9 mmol)",
+        "time": "20 h",
+        "washing_method": "Soaked three times in DMF (200 mL each, 3 h at 60 °C), then in methanol (200 mL each, 3 h at 60 °C)",
+        "drying_method": "Heated in vacuo or under flowing N2 for 12 h at 250 °C",
+        "yield": "Not specified"
+      }
+    },
+    {
+      "name": "Diamine-Appended Mg2(dobpdc) Frameworks",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": "20% (v/v) diamine in toluene",
+        "amount_of_each_solvent": "5 mL",
+        "equipment": "Not specified",
+        "chemicals_used": "Approximately 100 mg of desolvated Mg2(dobpdc), 10-fold molar excess of diamine per metal site",
+        "time": "Minimum of 12 h",
+        "washing_method": "Filtered in air, washed with 30 mL of dry toluene followed by 30 mL of dry hexanes",
+        "drying_method": "Heated in vacuo at 120 °C for 12 h",
+        "yield": "Not specified"
+      }
+    },
+    {
+      "name": "Zn2(dobpdc) Single Crystals",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": "Dimethylacetamide (DMA), ethanol, water",
+        "amount_of_each_solvent": "2.8 mL DMA, 2.8 mL ethanol, 2.8 mL water",
+        "equipment": "20 mL vial, thick-walled borosilicate tubes",
+        "chemicals_used": "H4dobpdc (23 mg, 0.084 mmol), Zn(NO3)2·6H2O (62 mg, 0.21 mmol)",
+        "time": "48 h",
+        "washing_method": "Soaked three times in 10 mL of dry DMA (3 h each), then in methanol (3 h each), followed by toluene",
+        "drying_method": "Degassed by four freeze–pump–thaw cycles, stored under dry toluene",
+        "yield": "Not specified"
+      }
+    },
+    {
+      "name": "Diamine-Appended Zn2(dobpdc) Single Crystals",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": "Toluene",
+        "amount_of_each_solvent": "2 mL",
+        "equipment": "4 mL vials",
+        "chemicals_used": "Zn2(dobpdc) crystals, 12 μL of desired diamine",
+        "time": "4 h",
+        "washing_method": "Decanted and washed three times with fresh toluene",
+        "drying_method": "Analyzed by single-crystal X-ray diffraction within 24 h of preparation",
+        "yield": "Not specified"
+      }
+    },
+    {
+      "name": "CO2-Inserted Structures of Diamine-Appended Zn2(dobpdc) Single Crystals",
+      "synthesis_conditions": [
+        {
+          "temperature": "25 °C for dosing, rapidly cooled to 195 K for data collection",
+          "solvents": "Hexanes or diethyl ether for removal of residual toluene",
+          "equipment": "Custom-made gas cell, MiTeGen loop, turbomolecular pump",
+          "chemicals_used": "Diamine-appended Zn2(dobpdc) crystals",
+          "time": "Desolvated under reduced pressure for 45 min at 50 °C, then dosed with 1 bar of CO2",
+          "yield": "Not specified"
+        },
+        {
+          "temperature": "100 °C (m-2) or 50 °C (e-2) for activation, rapidly cooled to 100 K for data collection",
+          "solvents": "Dry hexanes",
+          "equipment": "Glass measurement tube sealed with Micromeritics TranSeal, ASAP 2420 gas adsorption instrument",
+          "chemicals_used": "Diamine-appended Zn2(dobpdc) single crystals",
+          "time": "Heated in vacuo for 1 h, dosed with 1.1 bar of CO2, stored over dry ice for 3 h",
+          "yield": "Not specified"
+        }
+      ]
+    }
+  ]
+}

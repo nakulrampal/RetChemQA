@@ -1,0 +1,44 @@
+{
+  "materials": [
+    {
+      "name": "Cd2(L)2(DMF)2(H2O)4·DMF·4H2O",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "volume": "4.5 mL",
+            "ratio": "1:8 v/v with H2O"
+          },
+          {
+            "name": "H2O",
+            "volume": "4.5 mL",
+            "ratio": "8:1 v/v with DMF"
+          }
+        ],
+        "equipment": "Parr Teflon-lined stainless steel vessel (15 mL)",
+        "chemicals_used": [
+          {
+            "name": "Cd(NO3)2·4H2O",
+            "amount": "30.1 mg",
+            "molarity": "0.1 mmol"
+          },
+          {
+            "name": "imidazole",
+            "amount": "6.8 mg",
+            "molarity": "0.1 mmol"
+          },
+          {
+            "name": "H2L (4,40-dicarboxydiphenylamine)",
+            "amount": "25.7 mg",
+            "molarity": "0.1 mmol"
+          }
+        ],
+        "time": "3 days",
+        "washing_method": "washed with mother liquid",
+        "drying_method": "dried under ambient conditions",
+        "yield": "40% based on H2L"
+      }
+    }
+  ]
+}

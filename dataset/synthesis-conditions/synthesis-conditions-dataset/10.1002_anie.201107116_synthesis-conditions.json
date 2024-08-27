@@ -1,0 +1,63 @@
+{
+  "materials": [
+    {
+      "name": "[Co-(enbzpy)(dca)]n(ClO4)n (1; enbzpy = N,N'-bis(2-pyridinylbenzylidene)ethane-1,2-diamine, dca = dicyanamide)",
+      "synthesis_conditions": {
+        "solvent": "MeOH",
+        "chemicals_used": [
+          {
+            "name": "Co(ClO4)2·6 H2O",
+            "amount": "1 part"
+          },
+          {
+            "name": "enbzpy",
+            "amount": "1 part"
+          },
+          {
+            "name": "Na(dca)",
+            "amount": "1 part"
+          }
+        ],
+        "mixture_ratio": "1:1:1",
+        "temperature": [
+          {
+            "condition": "crystallization",
+            "value": "296 K (1RT) and 100 K (1LT)"
+          }
+        ],
+        "crystal_data_1RT": {
+          "formula": "C28H22N7O4ClCo",
+          "molecular_weight": "614.91",
+          "crystal_system": "monoclinic",
+          "space_group": "P21/c",
+          "crystal_size_mm": "0.17 x 0.13 x 0.08",
+          "a": "15.138(14)",
+          "b": "8.569(8)",
+          "c": "20.963(19)",
+          "beta": "91.546(12)°",
+          "volume": "2718(4) Å^3",
+          "Z": "4",
+          "density_calculated": "1.502 g cm^-3",
+          "temperature": "296(2) K"
+        },
+        "crystal_data_1LT": {
+          "formula": "C56H44N14O8Cl2Co2",
+          "molecular_weight": "1229.81",
+          "crystal_system": "triclinic",
+          "space_group": "P1¯",
+          "crystal_size_mm": "0.17 x 0.13 x 0.08",
+          "a": "15.294(4)",
+          "b": "17.195(4)",
+          "c": "22.068(6)",
+          "alpha": "68.124(4)°",
+          "beta": "89.466(4)°",
+          "gamma": "88.942(4)°",
+          "volume": "5384(2) Å^3",
+          "Z": "4",
+          "density_calculated": "1.517 g cm^-3",
+          "temperature": "100.0(1) K"
+        }
+      }
+    }
+  ]
+}

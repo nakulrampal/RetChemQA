@@ -1,0 +1,97 @@
+{
+  "materials": [
+    {
+      "name": "compound 1",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "dimethylacetamide (DMA)",
+            "amount": "5.0 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "1.0 mL"
+          },
+          {
+            "name": "1,4-dioxane",
+            "amount": "1.0 mL"
+          }
+        ],
+        "equipment": "20 mL vessel",
+        "chemicals_used": [
+          "Ca(ClO4)2·4H2O (50 mg)",
+          "H4tcbpe-F (20 mg)"
+        ],
+        "time": "3 days",
+        "washing_method": "washed with DMA",
+        "drying_method": "dried in air",
+        "yield": "25% based on calcium"
+      }
+    },
+    {
+      "name": "compound 2",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "dimethylacetamide (DMA)",
+            "amount": "5.0 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "1.0 mL"
+          },
+          {
+            "name": "1,4-dioxane",
+            "amount": "1.0 mL"
+          }
+        ],
+        "equipment": "20 mL vessel",
+        "chemicals_used": [
+          "Ca(ClO4)2·4H2O (50 mg)",
+          "H4tcbpe (20 mg)"
+        ],
+        "time": "3 days",
+        "washing_method": "washed with DMA",
+        "drying_method": "dried in air",
+        "yield": "34% based on calcium"
+      }
+    },
+    {
+      "name": "compounds 10 and 20",
+      "synthesis_conditions": {
+        "method": "immersed the as-made 1 and 2 in water for 1 hour",
+        "washing_method": "washed with ethanol",
+        "drying_method": "dried in air"
+      }
+    },
+    {
+      "name": "crystals of 20",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "formic acid",
+            "amount": "0.5 mL"
+          },
+          {
+            "name": "DMF",
+            "amount": "5 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "20 mL glass vial",
+        "chemicals_used": [
+          "Ca(ClO4)2·6H2O (50 mg)",
+          "H4tcbpe (20 mg)"
+        ],
+        "time": "2 days",
+        "washing_method": "washed with ethanol"
+      }
+    }
+  ]
+}

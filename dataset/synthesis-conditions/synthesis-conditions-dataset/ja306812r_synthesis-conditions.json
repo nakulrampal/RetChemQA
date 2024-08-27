@@ -1,0 +1,65 @@
+{
+  "materials": [
+    {
+      "name": "Octaethyl pyrene-1,3,6,8-tetraphosphonate",
+      "synthesis_conditions": {
+        "temperature": "Reflux",
+        "solvents": [
+          {
+            "name": "1,3-diisopropylbenzene",
+            "amount": "100 mL"
+          },
+          {
+            "name": "triethyl phosphite",
+            "amount": "8.5 mL in 20 mL 1,3-diisopropylbenzene"
+          }
+        ],
+        "equipment": "Two neck round bottom flask fitted with a condenser and an addition funnel with a needle valve",
+        "chemicals_used": [
+          {
+            "name": "1,3,6,8-tetrabromopyrene",
+            "amount": "5.01 g, 9.67 mmol"
+          },
+          {
+            "name": "nickel(II) bromide",
+            "amount": "1.00 g, 4.58 mmol"
+          }
+        ],
+        "time": "Added over 3 hours, continued reflux for 16 hours",
+        "washing_method": "Washed with diethyl ether",
+        "drying_method": "Vacuum distillation",
+        "yield": "4.93 g, 6.60 mmol, 68.2%"
+      }
+    },
+    {
+      "name": "Barium tetraethyl pyrene-1,3,6,8-tetraphosphonate (CALF-25)",
+      "synthesis_conditions": {
+        "temperature": "120°C",
+        "solvents": [
+          {
+            "name": "95% ethanol",
+            "amount": "20 mL"
+          },
+          {
+            "name": "water",
+            "amount": "2.5 mL"
+          }
+        ],
+        "equipment": "Teflon autoclave within a stainless steel jacket",
+        "chemicals_used": [
+          {
+            "name": "BaBr2·2H2O",
+            "amount": "1.742 g, 5.229 mmol"
+          },
+          {
+            "name": "octaethyl pyrene-1,3,6,8-tetraphosphonate",
+            "amount": "2.050 g, 2.746 mmol"
+          }
+        ],
+        "time": "Heated to 120°C over 2 hours, held at 120°C for 48 hours, cooled to room temperature over 12 hours",
+        "washing_method": "Rinsed with minimal cold water (10 mL), followed by ethanol",
+        "yield": "1.780 g, 2.313 mmol, 84%"
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "materials": [
+    {
+      "material_name": "Al(OH)(1,4-NDC)·2H2O (1)",
+      "synthesis_conditions": {
+        "temperature": "180 °C",
+        "solvents": "H2O",
+        "amount_of_solvent": "10 mL",
+        "equipment": "23 mL Teflon autoclave",
+        "chemicals_used": {
+          "Al(NO3)3·9H2O": "0.375 g, 1.0 mmol",
+          "1,4-H2NDC": "0.108 g, 0.5 mmol"
+        },
+        "time": "1 day",
+        "initial_pH": "2.5",
+        "final_pH": "2.0",
+        "washing_method": "filtered off and washed with distilled water",
+        "drying_method": "water evacuation at 150 °C for 12 h and 10^-3 torr",
+        "yield": "80%",
+        "additional_information": "Gives rise to the anhydrous sample 2 after drying."
+      }
+    },
+    {
+      "material_name": "Anhydrous sample (2)",
+      "synthesis_conditions": {
+        "derived_from": "Al(OH)(1,4-NDC)·2H2O (1)",
+        "drying_method": "water evacuation at 150 °C for 12 h and 10^-3 torr"
+      }
+    }
+  ],
+  "supporting_information": {
+    "figures": [
+      {
+        "figure_label": "Figure S1",
+        "description": "Thermogravimetric analysis (TGA) curve of sample 1 over the temperature range from 25-400 °C at a heating rate of ≥ 5 °Cmin-1 under the N2 atmosphere."
+      },
+      {
+        "figure_label": "Figure S2",
+        "description": "13C CP MAS NMR spectrum of 1 with a contact time of 2.5 ms; 13C MAS NMR spectrum performed with a recycle delay of 100 s; Deconvolution of the 13C CP MAS NMR spectrum with Lorentzian line shapes."
+      },
+      {
+        "figure_label": "Figure S3",
+        "description": "1H MAS NMR spectra of the samples 1 and 2 recorded at spinning speed of 15 kHz. In the aromatic region the three signals at 6.1, 7.0 and 9.4 correspond to H7, H2 and H8, respectively. The upfield resonances at 2.2 and 3.2 ppm are associated to AlOH and OH/H2O. The intensity ratios of the signals in the nanoporous material are the following 2:2:2:0.25:1 (H7: H2:H8: OH/H2O:OH, respectively)."
+      }
+    ],
+    "tables": [
+      {
+        "table_label": "Table S1",
+        "description": "13C chemical shifts, assignments and 13C spin-lattice relaxation times T1 of compound 2.",
+        "data": {
+          "C8": {
+            "chemical_shift": "125.8",
+            "T1": "11.6 s"
+          },
+          "C7": {
+            "chemical_shift": "127.1",
+            "T1": "12.4 s"
+          },
+          "C2": {
+            "chemical_shift": "127.8",
+            "T1": "7.6 s"
+          },
+          "C9": {
+            "chemical_shift": "131.9",
+            "T1": "9.9 s"
+          },
+          "C1": {
+            "chemical_shift": "134.9",
+            "T1": "8.5 s"
+          },
+          "C1'": {
+            "chemical_shift": "175.2",
+            "T1": "9.2 s"
+          }
+        }
+      }
+    ]
+  }
+}

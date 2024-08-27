@@ -1,0 +1,61 @@
+{
+  "materials": [
+    {
+      "name": "MOF-COOH",
+      "synthesis_conditions": {
+        "temperature": "160 °C",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "12 mL"
+          }
+        ],
+        "equipment": "25 mL stainless steel reactor with a Teflon liner",
+        "chemicals_used": [
+          {
+            "name": "Zn(ClO4)2·6H2O",
+            "amount": "223 mg, 0.6 mmol"
+          },
+          {
+            "name": "H4ttca",
+            "amount": "120 mg, 0.3 mmol"
+          },
+          {
+            "name": "4,4'-bpy",
+            "amount": "94 mg, 0.6 mmol"
+          }
+        ],
+        "time": "120 h",
+        "yield": "61% (based on Zn(ClO4)2·6H2O)",
+        "pH": "5.0 adjusted with 1 M NaOH solution",
+        "cooling_rate": "gradually cooled to room temperature at a rate of 5 °C/h"
+      }
+    },
+    {
+      "name": "Na+@MOF-COO–",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "MeONa in MeOH",
+            "amount": "0.05 M, 20 ml"
+          }
+        ],
+        "time": "120 h",
+        "washing_method": "washed with MeOH five times"
+      }
+    },
+    {
+      "name": "Ln3+@MOF-COO– (Ln = Sm3+, Eu3+, Dy3+ or Tb3+)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "Ln3+ nitrate in MeOH",
+            "amount": "0.1 M, 6 ml"
+          }
+        ],
+        "time": "24 h for each soaking, total of 15 times",
+        "washing_method": "thoroughly washed with MeOH for five times, then soaked in MeOH for 24 h"
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "materials": [
+    {
+      "name": "FTR-P1",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "14 mL"
+          },
+          {
+            "name": "MeOH",
+            "amount": "21 mL"
+          }
+        ],
+        "equipment": "oven",
+        "chemicals_used": [
+          {
+            "name": "Bicyclo[1.1.1]pentanedicarboxylic acid",
+            "amount": "96.8 mg"
+          },
+          {
+            "name": "4,4’-bipyridine",
+            "amount": "48.4 mg"
+          },
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "184.4 mg"
+          }
+        ],
+        "time": "24 hours",
+        "washing_method": "filtered and washed with a 3:2 mixture of MeOH/DMF and then with fresh MeOH",
+        "drying_method": "dried in air",
+        "activation_method": "activated under vacuum at 140°C for 8 hours"
+      }
+    },
+    {
+      "name": "FTR-P1d",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "14 mL"
+          },
+          {
+            "name": "MeOH",
+            "amount": "21 mL"
+          }
+        ],
+        "equipment": "oven",
+        "chemicals_used": [
+          {
+            "name": "Bicyclo[1.1.1]pentanedicarboxylic acid",
+            "amount": "96.8 mg"
+          },
+          {
+            "name": "4,4’-bipyridine-d8",
+            "amount": "50.9 mg"
+          },
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "184.4 mg"
+          }
+        ],
+        "time": "24 hours",
+        "washing_method": "filtered and washed with a 3:2 mixture of MeOH/DMF and then with fresh MeOH",
+        "drying_method": "dried in air",
+        "activation_method": "activated under vacuum at 140°C for 8 hours"
+      }
+    },
+    {
+      "name": "FTR-P1d·4CO2",
+      "synthesis_conditions": {
+        "comments": "The structure was obtained by loading FTR-P1d with CO2 under specific conditions to achieve a CO2-loaded phase, referred to as FTR-P1d·4CO2."
+      }
+    },
+    {
+      "name": "FTR-P1d*DMF",
+      "synthesis_conditions": {
+        "comments": "The structure was obtained by crystallization with DMF, leading to a DMF-loaded phase, referred to as FTR-P1d*DMF."
+      }
+    }
+  ]
+}

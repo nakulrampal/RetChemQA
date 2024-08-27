@@ -1,0 +1,92 @@
+{
+  "materials": [
+    {
+      "name": "POST-66(Y)",
+      "synthesis_conditions": {
+        "method": "solvothermal reaction",
+        "temperature": "not specified",
+        "solvents": [
+          "DMF",
+          "methanol",
+          "water"
+        ],
+        "solvent_amounts": "not specified",
+        "chemicals_used": [
+          "Y(NO3)3·5 H2O",
+          "H3hmtt (methyl substituted truxene tricarboxylic acid)"
+        ],
+        "time": "not specified",
+        "equipment": "not specified",
+        "yield": "not specified",
+        "additional_information": "The chemical formula of POST-66(Y) was determined by X-ray crystallography, elemental analysis (EA), thermogravimetric analysis (TGA), and NMR spectroscopy."
+      }
+    },
+    {
+      "name": "POST-66(Y)-wt-24h",
+      "synthesis_conditions": {
+        "method": "hydrolytic post-synthetic procedure",
+        "temperature": "room temperature",
+        "solvents": [
+          "water"
+        ],
+        "solvent_amounts": "not specified",
+        "chemicals_used": "POST-66(Y) crystals",
+        "time": "24 hours",
+        "equipment": "not specified",
+        "yield": "not specified",
+        "additional_information": "The transformation into a hierarchical micro- and mesoporous MOF was studied by immersing POST-66(Y) crystals in water."
+      }
+    },
+    {
+      "name": "POST-66(Y)-wt",
+      "synthesis_conditions": {
+        "method": "hydrolytic post-synthetic procedure",
+        "temperature": "80 88C",
+        "solvents": [
+          "water"
+        ],
+        "solvent_amounts": "not specified",
+        "chemicals_used": "POST-66(Y) crystals",
+        "time": [
+          "10 minutes",
+          "12 hours"
+        ],
+        "equipment": "not specified",
+        "yield": "not specified",
+        "additional_information": "The transformation was more rapid at 80 88C, generating larger mesopores compared to room temperature treatment."
+      }
+    },
+    {
+      "name": "isostructural MOFs with lanthanide metal ions such as POST-66(Dy/Tb)",
+      "synthesis_conditions": {
+        "method": "hydrolytic post-synthetic procedure",
+        "temperature": "not specified",
+        "solvents": [
+          "water"
+        ],
+        "solvent_amounts": "not specified",
+        "chemicals_used": "POST-66(Dy/Tb) crystals",
+        "time": "not specified",
+        "equipment": "not specified",
+        "yield": "not specified",
+        "additional_information": "Similar transformations were observed in isostructural MOFs with lanthanide metal ions."
+      }
+    },
+    {
+      "name": "meso-MOF(Tb)",
+      "synthesis_conditions": {
+        "method": "hydrolytic post-synthetic procedure",
+        "temperature": "not specified",
+        "solvents": [
+          "water"
+        ],
+        "solvent_amounts": "not specified",
+        "chemicals_used": "meso-MOF(Tb) crystals",
+        "time": "not specified",
+        "equipment": "not specified",
+        "yield": "not specified",
+        "additional_information": "The transformation produced much larger mesopores, in the range of 24 to 38 nm."
+      }
+    }
+  ]
+}

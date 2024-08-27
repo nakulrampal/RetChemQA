@@ -1,0 +1,43 @@
+{
+  "materials": [
+    {
+      "name": "[Fe(TCNE)2]·z CH2Cl2",
+      "synthesis_conditions": {
+        "temperature": "ambient temperature",
+        "solvents": "CH2Cl2",
+        "solvent_amount": "z ≈ 0.32",
+        "chemicals_used": [
+          "TCNE (tetracyanoethylene)",
+          "FeI2 or [Fe(CO)5]"
+        ],
+        "equipment": "National Synchrotron Light Source",
+        "yield": "not specified",
+        "space_group": "Cmmm",
+        "unit_cell_parameters": {
+          "a": "14.317(1) Å",
+          "b": "17.402(1) Å",
+          "c": "7.3334(5) Å",
+          "volume": "1827.1(4) Å^3",
+          "density_calculated": "1.32(1) g cm^-3"
+        },
+        "refinement": "Rietveld refinement",
+        "Rwp": "4.88",
+        "chi_squared": "1.957",
+        "CCDC_number": "623463"
+      }
+    },
+    {
+      "name": "[Mn(TCNE)2]·z CH2Cl2",
+      "synthesis_conditions": {
+        "temperature": "not specified",
+        "solvents": "CH2Cl2",
+        "solvent_amount": "not specified",
+        "chemicals_used": [
+          "TCNE (tetracyanoethylene)",
+          "MnI2"
+        ],
+        "yield": "not specified"
+      }
+    }
+  ]
+}

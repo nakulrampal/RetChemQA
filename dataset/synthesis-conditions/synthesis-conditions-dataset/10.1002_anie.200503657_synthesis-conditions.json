@@ -1,0 +1,36 @@
+{
+  "materials": [
+    {
+      "name": "d-1",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": ["water"],
+        "solvent_amounts": ["30 mL for dissolving d-Proline and CuCl2·2 H2O", "30 mL for dissolving K5[BW12O40]·15 H2O"],
+        "equipment": ["not specified"],
+        "chemicals_used": ["d-Proline (0.0576 g, 0.5 mmol)", "CuCl2·2 H2O (0.0852 g, 0.5 mmol)", "K5[BW12O40]·15 H2O (0.8306 g, 0.25 mmol)"],
+        "time": ["2 h for initial stirring", "2 h heating", "one month for crystallization at ambient conditions"],
+        "washing_method": ["not specified"],
+        "drying_method": ["not specified"],
+        "yield": "18 % (0.110 g, based on copper)",
+        "pH": "approximately 4.50",
+        "additional_steps": ["pH adjustment with dilute NaOH solution (1m)"]
+      }
+    },
+    {
+      "name": "l-1",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": ["water"],
+        "solvent_amounts": ["30 mL for dissolving l-Proline and CuCl2·2 H2O", "30 mL for dissolving K5[BW12O40]·15 H2O"],
+        "equipment": ["not specified"],
+        "chemicals_used": ["l-Proline", "CuCl2·2 H2O", "K5[BW12O40]·15 H2O"],
+        "time": ["2 h for initial stirring", "2 h heating", "one month for crystallization at ambient conditions"],
+        "washing_method": ["not specified"],
+        "drying_method": ["not specified"],
+        "yield": "20 % (based on copper)",
+        "pH": "approximately 4.50",
+        "additional_steps": ["pH adjustment with dilute NaOH solution (1m)", "Synthesis carried out similarly to d-1"]
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "materials": [
+    {
+      "name": "MOF-H",
+      "synthesis": [
+        {
+          "step": 1,
+          "chemicals": [
+            "4,4′-(hexafluoroisopropylidene)bis(benzoic acid) (H2hfp)",
+            "trans-4-styrylpyridine (4-spy)",
+            "Zn(NO3)2･6H2O",
+            "DMF"
+          ],
+          "amounts": [
+            "18.4 mg, 0.05 mmol",
+            "42.8 mg, 0.24 mmol",
+            "14.8 mg, 0.05 mmol",
+            "5 mL"
+          ],
+          "temperature": "100 °C",
+          "equipment": "teflon-lined stainless-steel autoclave bomb",
+          "time": "two days",
+          "yield": "colorless crystals"
+        },
+        {
+          "step": 2,
+          "method": "Activation of MOF-H",
+          "details": "Solvent molecules in MOF-H were removed by heating as-synthesized crystals at 200 ºC under a dynamic vacuum for five days."
+        }
+      ]
+    },
+    {
+      "name": "4-spy-d5",
+      "synthesis": [
+        {
+          "step": 1,
+          "chemicals": [
+            "4-methylpyridine",
+            "benzaldehyde-d5",
+            "acetic anhydride"
+          ],
+          "amounts": [
+            "0.973 mL, 10 mmol",
+            "1 g, 8.9 mmol",
+            "2.5 mL"
+          ],
+          "temperature": "140 ºC",
+          "time": "2 days",
+          "yield": "white powders (0.306 g, 18%)"
+        }
+      ]
+    },
+    {
+      "name": "MOF-D",
+      "synthesis": [
+        {
+          "step": 1,
+          "chemicals": [
+            "H2hfp",
+            "4-spy-d5",
+            "Zn(NO3)2･6H2O",
+            "DMF"
+          ],
+          "amounts": [
+            "78.4 mg, 0.20 mmol",
+            "186.0 mg, 1.02 mmol",
+            "59.5 mg, 0.20 mmol",
+            "5 mL"
+          ],
+          "temperature": "100 ºC",
+          "equipment": "teflon-lined stainless-steel autoclave bomb",
+          "time": "two days",
+          "yield": "colorless crystals"
+        }
+      ]
+    },
+    {
+      "name": "MOF-H-UV",
+      "synthesis": [
+        {
+          "step": 1,
+          "method": "Photoirradiation experiment",
+          "details": "As-synthesized crystal samples were ground to powders and filled into a quartz glass capillary which was sealed with epoxy resin. The capillary was fixed on the tip of an optical fiber and irradiated by UV light using a Ushio OpticalModulex high-pressure Hg lamp (12 A) with a 385 nm long wavelength cut filter. The temperature of the photoreaction was controlled by performing photoirradiation while immersing the capillary in liquid baths. After irradiation, the capillary was crushed, and the sample was dissolved in DMSO-d6 and DCl for 1H NMR spectra measurements."
+        }
+      ]
+    }
+  ]
+}

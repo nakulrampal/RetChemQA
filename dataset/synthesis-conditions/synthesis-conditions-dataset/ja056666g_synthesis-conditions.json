@@ -1,0 +1,95 @@
+{
+  "materials": [
+    {
+      "name": "Cu3(OH)2(MoO4)2 (lindgrenite)",
+      "synthesis_conditions": {
+        "temperature": "reflux for 13 h",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "180 mL + 130 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CuSO4",
+            "amount": "16.74 g, 0.105 mol"
+          },
+          {
+            "name": "Na2MoO4•2H2O",
+            "amount": "17.21 g, 0.0711 mol"
+          }
+        ],
+        "washing_method": "deionized water (3 × 100 mL)",
+        "drying_method": "dried in air",
+        "yield": "9.22 g (48%)"
+      }
+    },
+    {
+      "name": "(4,4´-bpy)Cu3(OH)2(MoO4)2 (1)",
+      "synthesis_conditions": {
+        "temperature": "180 °C",
+        "time": "12 h",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "10 mL"
+          }
+        ],
+        "equipment": "23 mL-Teflon liner, steel hydrothermal bomb",
+        "chemicals_used": [
+          {
+            "name": "Cu(OH)2",
+            "amount": "0.097 g, 0.99 mmol"
+          },
+          {
+            "name": "Cu2(OH)2(CO3)",
+            "amount": "0.22 g, 1.0 mmol"
+          },
+          {
+            "name": "4,4′-dipyridyl",
+            "amount": "0.16 g, 1.0 mmol"
+          },
+          {
+            "name": "(NH4)2Mo2O7",
+            "amount": "0.34 g, 1.0 mmol"
+          }
+        ],
+        "washing_method": "water (3 × 10 mL)",
+        "drying_method": "dried in air",
+        "yield": "0.57 g (82%)"
+      }
+    },
+    {
+      "name": "(pip)Cu3(OH)2(MoO4)2 (2)",
+      "synthesis_conditions": {
+        "temperature": "140 °C",
+        "time": "12 h",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "5 mL"
+          }
+        ],
+        "equipment": "23-mL Teflon liner, steel hydrothermal bomb",
+        "chemicals_used": [
+          {
+            "name": "Cu(OH)2",
+            "amount": "0.148 g, 1.52 mmol"
+          },
+          {
+            "name": "MoO3",
+            "amount": "0.216 g, 1.50 mmol"
+          },
+          {
+            "name": "piperazine hexahydrate",
+            "amount": "1.94 g, 1.00 mmol"
+          }
+        ],
+        "washing_method": "deionized water",
+        "drying_method": "dried in air",
+        "note": "Attempts to isolate the title compound free from (pip)Cu2(MoO4)2 and (pip)CuMoO4 were unsuccessful."
+      }
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "materials": [
+    {
+      "material": "DUT-8(Ni)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Ni(NO3)2∙6H2O",
+            "amount": "404 mg",
+            "purity": "≥ 98%"
+          },
+          {
+            "chemical": "2,6-H2ndc",
+            "amount": "303 mg",
+            "purity": "99%"
+          },
+          {
+            "chemical": "dabco",
+            "amount": "100 mg"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "DMF",
+            "amount": "30 ml"
+          },
+          {
+            "solvent": "MeOH",
+            "amount": "9 ml"
+          }
+        ],
+        "temperature": "393 K",
+        "time": "48 h",
+        "equipment": "Teflon inlet, autoclave",
+        "washing_method": "washed with fresh DMF several times",
+        "yield": "not specified"
+      }
+    },
+    {
+      "material": "DUT-8(Ni) nanoparticles",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Ni(NO3)2∙6H2O",
+            "amount": "434 mg",
+            "purity": "≥ 98%"
+          },
+          {
+            "chemical": "2,6-H2ndc",
+            "amount": "294 mg",
+            "purity": "99%"
+          },
+          {
+            "chemical": "dabco",
+            "amount": "0.336 g"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "DMF",
+            "amount": "30 ml"
+          }
+        ],
+        "temperature": "408 K",
+        "time": "72 h",
+        "equipment": "Teflon-lined autoclave, oven",
+        "washing_method": "washed several times with fresh DMF",
+        "yield": "not specified"
+      }
+    },
+    {
+      "material": "DUT-8(Ni0.98Co0.02)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Co(NO3)2∙6H2O",
+            "amount": "75 mg",
+            "purity": "≥ 98%"
+          },
+          {
+            "chemical": "Ni(NO3)2∙6H2O",
+            "amount": "399.6 mg",
+            "purity": "≥ 98%"
+          },
+          {
+            "chemical": "2,6-H2ndc",
+            "amount": "303.4 mg",
+            "purity": "99%"
+          },
+          {
+            "chemical": "dabco",
+            "amount": "100 mg"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "DMF",
+            "amount": "30 ml"
+          },
+          {
+            "solvent": "MeOH",
+            "amount": "9 ml"
+          }
+        ],
+        "temperature": "393 K",
+        "time": "48 h",
+        "equipment": "Teflon vessel (50 ml), autoclave",
+        "washing_method": "washed several times with fresh DMF",
+        "yield": "not specified"
+      }
+    },
+    {
+      "material": "Solvent exchanged DUT-8(Ni)",
+      "synthesis_conditions": {
+        "notes": "Solvent exchange was performed for DUT-8(Ni) with various solvents including polar and non-polar solvents. Non-polar solvents required an initial exchange with DCM due to low miscibility with DMF.",
+        "solvents_for_exchange": [
+          "DCM",
+          "DMF",
+          "n-heptane",
+          "cyclohexane",
+          "tetrachloromethane"
+        ],
+        "procedure": "DMF was removed by decantation, crystals were suspended in respective solvent, supernatant solution was replaced several times in the first 2 hours and then every 12 hours for another two days. The solvent was exchanged three times within 30 minutes for the repeated switching experiment.",
+        "temperature": "Room temperature",
+        "time": "2 days + repeated exchange within 30 minutes",
+        "equipment": "not specified",
+        "yield": "not specified"
+      }
+    }
+  ]
+}

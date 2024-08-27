@@ -1,0 +1,126 @@
+{
+  "materials": [
+    {
+      "name": "H4TCPE",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "Reflux for 3 days",
+          "solvents": [
+            {
+              "name": "ethylene glycol",
+              "amount": "60 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "tetrakis(4-cyanophenyl)ethylene",
+              "amount": "0.822 g, 1.90 mmol"
+            },
+            {
+              "name": "KOH",
+              "amount": "1.10 g, 19.6 mmol"
+            }
+          ],
+          "washing_method": "washed with water and dichloromethane",
+          "yield": "70 %",
+          "additional_information": "Recrystallization from a dichloromethane/ethanol mixture"
+        }
+      ]
+    },
+    {
+      "name": "Zn2(C30H16O8)(H2O)2·4DEF (1)",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "75 °C",
+          "solvents": [
+            {
+              "name": "DEF",
+              "amount": "3 mL"
+            },
+            {
+              "name": "ethanol",
+              "amount": "3 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Zn(NO3)2·6H2O",
+              "amount": "150 mg, 0.57 mmol"
+            },
+            {
+              "name": "H4TCPE",
+              "amount": "30.0 mg, 0.06 mmol"
+            }
+          ],
+          "time": "2 days",
+          "yield": "55 %",
+          "drying_method": "washed with DMF"
+        }
+      ]
+    },
+    {
+      "name": "Cd2(C30H16O8)(DEF)(C2H5OH)2·DEF (2)",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "Not specified",
+          "solvents": [
+            {
+              "name": "DEF",
+              "amount": "5 mL"
+            },
+            {
+              "name": "ethanol",
+              "amount": "5 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Cd(NO3)2·4H2O",
+              "amount": "111 mg, 0.36 mmol"
+            },
+            {
+              "name": "H4TCPE",
+              "amount": "30 mg, 0.06 mmol"
+            }
+          ],
+          "yield": "44%",
+          "additional_information": "Reaction mixture was initially heated up rapidly to 77 °C"
+        }
+      ]
+    },
+    {
+      "name": "Cd2(C30H16O8)(DEF)0.8(H2O)1.2(C2H5OH)·2(DEF) (3)",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "77 °C",
+          "solvents": [
+            {
+              "name": "DEF",
+              "amount": "Not specified"
+            },
+            {
+              "name": "ethanol",
+              "amount": "Not specified"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Cd(NO3)2·4H2O",
+              "amount": "Not specified"
+            },
+            {
+              "name": "H4TCPE",
+              "amount": "Not specified"
+            }
+          ],
+          "yield": "Not specified",
+          "additional_information": "Single crystals of 3 were selected from the mixture prepared analogously to 2"
+        }
+      ]
+    }
+  ]
+}

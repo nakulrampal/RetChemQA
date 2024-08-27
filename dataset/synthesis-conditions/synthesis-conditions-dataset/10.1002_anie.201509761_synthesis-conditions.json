@@ -1,0 +1,41 @@
+{
+  "materials": [
+    {
+      "name": "Elatenyne",
+      "synthesis_conditions": [
+        {
+          "step": "Guest soaking",
+          "temperature": "Room temperature and 50 degrees Celsius",
+          "solvents": [
+            {
+              "name": "Cyclohexane",
+              "amount": "50 mL"
+            },
+            {
+              "name": "1,2-Dichloroethane",
+              "amount": "10 mL"
+            }
+          ],
+          "chemicals_used": "Elatenyne (1 mg mL^-1, 10 mg)",
+          "time": "2 days",
+          "equipment": "Vials with syringe needles for slow solvent evaporation",
+          "additional_information": "Guest soaking was carried out at room temperature for the first five vials and at 50 degrees Celsius for the remaining five vials."
+        },
+        {
+          "step": "X-ray crystallographic data collection",
+          "equipment": "In-house X-ray diffractometer with Cu Ka radiation",
+          "additional_information": "Numerical absorption correction method was used for strong absorption effects correction."
+        }
+      ]
+    },
+    {
+      "name": "Clicked Elatenyne (4)",
+      "synthesis_conditions": [
+        {
+          "step": "Guest soaking optimization and data collection",
+          "additional_information": "Similar optimization experiments with clicked elatenyne (4) for the guest soaking process followed by data collection and structure refinement."
+        }
+      ]
+    }
+  ]
+}

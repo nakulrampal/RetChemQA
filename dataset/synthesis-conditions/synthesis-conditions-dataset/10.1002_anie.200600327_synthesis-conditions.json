@@ -1,0 +1,63 @@
+{
+  "materials": [
+    {
+      "name": "sodium dimalatoborate salt 8",
+      "synthesis_conditions": {
+        "temperature": "100 8C",
+        "solvents": "water",
+        "amount_of_solvents": {
+          "water": "10 mL"
+        },
+        "equipment": "open flask",
+        "chemicals_used": {
+          "boric_acid": "5",
+          "sodium_hydroxide": "6",
+          "l-((cid:1))-malic_acid": "7"
+        },
+        "chemicals_amounts": {
+          "boric_acid": "2.47 g, 40.0 mmol, 1.00 equiv",
+          "sodium_hydroxide": "1.60 g, 40.0 mmol, 1.00 equiv",
+          "l-((cid:1))-malic_acid": "10.73 g, 80.0 mmol, 2.00 equiv"
+        },
+        "time": "ca. 4 h",
+        "yield": "> 99 %",
+        "drying_method": "evaporation of water"
+      }
+    },
+    {
+      "name": "methyltrioctylammonium dimalatoborate (9)",
+      "synthesis_conditions": {
+        "solvents": "acetone",
+        "amount_of_solvents": {
+          "acetone": "20 mL"
+        },
+        "equipment": "room temperature, overnight",
+        "chemicals_used": {
+          "methyltrioctylammonium_chloride": "3.54 g, 8.75 mmol, 1.00 equiv",
+          "sodium_borate_salt_8": "2.61 g, 8.75 mmol, 1.00 equiv"
+        },
+        "drying_method": "evaporation of solvent",
+        "yield": "highly viscous, hygroscopic colorless liquid"
+      }
+    },
+    {
+      "name": "chiral allylic amine (R)-4 a",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": "9 (ionic liquid)",
+        "amount_of_solvents": {
+          "9 (ionic liquid)": "1.0 mL, 6.7 mL per mmol 1"
+        },
+        "equipment": "stirred for 24 h",
+        "chemicals_used": {
+          "imine_1_a": "0.125 mmol, 1.00 equiv",
+          "catalyst_3": "12.5 mmol, 0.10 equiv",
+          "methyl_vinyl_ketone_2": "12.5 mL, 10.5 mg, 0.150 mmol, 1.20 equiv"
+        },
+        "time": "24 h",
+        "washing_method": "dissolved in water/methanol (1:1, 5 mL), further methanol added, ion-exchange resin",
+        "drying_method": "removal of all volatile substances in vacuo"
+      }
+    }
+  ]
+}

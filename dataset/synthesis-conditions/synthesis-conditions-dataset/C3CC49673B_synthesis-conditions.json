@@ -1,0 +1,69 @@
+{
+  "materials": [
+    {
+      "name": "12Zn2+",
+      "synthesis_conditions": {
+        "solvent": "CD3CN",
+        "metal_source": "Zn(CF3SO3)2",
+        "metal_to_ligand_ratio": ["2:1", "1:1"],
+        "reaction_time": "1h",
+        "temperature": "room temperature",
+        "crystallization_method": "Layering with i-propylether in 1:4 volume ratio",
+        "yield": "high",
+        "additional_notes": "Attempts to crystallize the monoligand complex 1Zn2+ failed, proving the high stability of the duplex structure 12Zn2+."
+      }
+    },
+    {
+      "name": "[1Ag+]n",
+      "synthesis_conditions": {
+        "solvent": "CD3CN",
+        "metal_source": "Ag(CF3SO3)",
+        "metal_to_ligand_ratio": ["2:1", "1:1"],
+        "reaction_time": "1h",
+        "temperature": "room temperature",
+        "crystallization_method": "Layering with i-propylether in 1:4 volume ratio",
+        "yield": "quantitative",
+        "additional_notes": "Crystals formed also within minutes from solutions."
+      }
+    },
+    {
+      "name": "[1Cu2+]2",
+      "synthesis_conditions": {
+        "solvent": "CD3CN",
+        "metal_source": "Cu(CF3SO3)2",
+        "metal_to_ligand_ratio": "1:1",
+        "reaction_time": "1h",
+        "temperature": "room temperature",
+        "crystallization_method": "Layering with i-propylether in 1:4 volume ratio",
+        "yield": "Not specified",
+        "additional_notes": "Due to the paramagnetism of the copper cation, no conclusive NMR spectra could be recorded."
+      }
+    },
+    {
+      "name": "[12Pb2+]2",
+      "synthesis_conditions": {
+        "solvent": "CD3CN",
+        "metal_source": "Pb(CF3SO3)2",
+        "metal_to_ligand_ratio": "1:1",
+        "reaction_time": "1h",
+        "temperature": "room temperature",
+        "crystallization_method": "Layering with i-propylether in 1:4 volume ratio",
+        "yield": "Not specified",
+        "additional_notes": "NMR spectra shows indistinguishable broad peaks due to fast ligand exchange."
+      }
+    },
+    {
+      "name": "22Zn2+",
+      "synthesis_conditions": {
+        "solvent": "CD3CN",
+        "metal_source": "Zn(CF3SO3)2",
+        "metal_to_ligand_ratio": "Not specified",
+        "reaction_time": "Not specified",
+        "temperature": "Not specified",
+        "crystallization_method": "Not specified",
+        "yield": "Not specified",
+        "additional_notes": "Crystal structure has been reported and described in a previous paper."
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "materials": [
+    {
+      "name": "Gd",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "Acetonitrile",
+            "amount": "14 mL"
+          }
+        ],
+        "equipment": "Glass test tube",
+        "chemicals_used": [
+          {
+            "name": "GdI3",
+            "amount": "135 mg"
+          },
+          {
+            "name": "4,4'-bipyridine",
+            "amount": "195 mg"
+          },
+          {
+            "name": "Sodium metal",
+            "amount": "5.8 mg"
+          }
+        ],
+        "time": "10 min stirring, 14 days for crystal growth",
+        "washing_method": "Cold acetonitrile wash",
+        "drying_method": "Suction filtration",
+        "yield": "45%",
+        "additional_information": "Dark-blue single-crystals suitable for single-crystal X-ray diffractometry were obtained by slow diffusion."
+      }
+    },
+    {
+      "name": "Dy",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "Acetonitrile",
+            "amount": "14 mL"
+          }
+        ],
+        "equipment": "Glass test tube",
+        "chemicals_used": [
+          {
+            "name": "DyI3",
+            "amount": "Equivalent to GdI3"
+          },
+          {
+            "name": "4,4'-bipyridine",
+            "amount": "Equivalent to Gd"
+          },
+          {
+            "name": "Sodium metal",
+            "amount": "Equivalent to Gd"
+          }
+        ],
+        "time": "Identical to Gd",
+        "washing_method": "Identical to Gd",
+        "drying_method": "Identical to Gd",
+        "yield": "43%",
+        "additional_information": "Single-crystals of Dy are grown similarly to Gd."
+      }
+    }
+  ]
+}

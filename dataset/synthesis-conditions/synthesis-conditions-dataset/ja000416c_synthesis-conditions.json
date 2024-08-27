@@ -1,0 +1,26 @@
+{
+  "materials": [
+    {
+      "name": "Compound 2",
+      "synthesis_conditions": {
+        "temperature": "180 °C",
+        "time": "1 day",
+        "solvents": "50% aqueous ethanol",
+        "chemicals_used": [
+          "[Cu(NO3)2]·H2O",
+          "[1,4-C6H4(COOH)2]",
+          "[4,4‘-bipy]"
+        ],
+        "molar_ratio": "1:1:1",
+        "yield": "~65%",
+        "method": "solvothermal reaction",
+        "dimension": "~100 μm",
+        "alternative_conditions": {
+          "solvent": "copper sulfate",
+          "yield": "~20%",
+          "crystal_size": "up to 1 mm"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "materials": [
+    {
+      "material": "1",
+      "synthesis_conditions": {
+        "solvents": "methanol/water",
+        "solvent_ratio": "1:2 and 1:1",
+        "solvent_amounts": ["5 mL methanol", "15 mL methanol/water", "20 mL methanol/water"],
+        "chemicals_used": ["2,2’;6’2’’-terpyridine (terpy, 23 mg, 0.099 mmol)", "Pb(ClO4)2·3 H2O (42 mg, 0.091 mmol)", "K[Au(CN)2] (57 mg, 0.199 mmol)"],
+        "time": "24 h",
+        "yield": "47 mg (55 %)",
+        "drying_method": "slow evaporation for one week",
+        "crystal_growth_method": "hydrothermal recrystallization",
+        "crystal_size": "8 L 2 L 0.5 mm3"
+      }
+    },
+    {
+      "material": "2",
+      "synthesis_conditions": {
+        "solvents": "methanol/water",
+        "solvent_ratio": "1:2 and 1:1",
+        "solvent_amounts": ["5 mL methanol", "15 mL methanol/water", "20 mL methanol/water"],
+        "chemicals_used": ["2,2’;6’2’’-terpyridine (terpy, 23 mg, 0.099 mmol)", "Pb(ClO4)2·x H2O (42 mg, 0.091 mmol)", "K[Ag(CN)2] (43 mg, 0.216 mmol)"],
+        "time": "24 h",
+        "yield": "49 mg (71 %)",
+        "drying_method": "slow evaporation for one week"
+      }
+    },
+    {
+      "material": "3",
+      "synthesis_conditions": {
+        "solvents": "methanol/water",
+        "solvent_ratio": "1:1",
+        "solvent_amounts": ["5 mL methanol/water", "5 mL methanol/water", "10 mL methanol/water"],
+        "chemicals_used": ["2,2’;6’2’’-terpyridine (terpy, 23 mg, 0.099 mmol)", "MnCl2·4 H2O (20 mg, 0.101 mmol)", "K[Au(CN)2] (57 mg, 0.199 mmol)"],
+        "time": "3 h",
+        "yield": "38 mg (48 %)",
+        "crystal_growth_method": "hydrothermal"
+      }
+    }
+  ],
+  "birefringence_measurement": {
+    "method": "polarized-light microscopy",
+    "equipment": "Olympus BX60 microscope",
+    "compensator": "tilting Berek compensator",
+    "wavelength": "546.1 nm",
+    "temperature": "room temperature",
+    "crystal_thickness": ["4.85(10) mm for 1", "28(2) mm for 2", "32.7(7) mm for 3"]
+  }
+}

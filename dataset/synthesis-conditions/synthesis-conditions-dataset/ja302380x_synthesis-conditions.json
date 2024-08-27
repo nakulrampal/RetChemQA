@@ -1,0 +1,184 @@
+{
+  "materials": [
+    {
+      "name": "Cu(H2SalPyMeCam)(NO3)2",
+      "synthesis_conditions": {
+        "temperature": "RT",
+        "solvents": [
+          {
+            "name": "MeOH",
+            "amount": "150 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(1R,3S)-1,2,2-trimethyl-1,3-diaminocyclopentane",
+            "amount": "0.231 g, 1.5 mmol"
+          },
+          {
+            "name": "5-methyl-4-oxo-1,4-dihydro-pyridine-3-carbaldehyde",
+            "amount": "0.412 g, 3.0 mmol"
+          },
+          {
+            "name": "Cu(NO3)2·2.5H2O",
+            "amount": "0.350 g, 1.5 mmol"
+          }
+        ],
+        "time": "10 h",
+        "yield": "75%",
+        "washing_method": "evaporation of solvent under reduced pressure"
+      }
+    },
+    {
+      "name": "Cu(H2SalPytBuCy)(NO3)2",
+      "synthesis_conditions": {
+        "temperature": "RT",
+        "solvents": [
+          {
+            "name": "EtOH",
+            "amount": "130 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(1R,2R)-(-)-1,2-cyclohexanediamine",
+            "amount": "0.231 g, 1.5 mmol"
+          },
+          {
+            "name": "5-tert-butyl-4-oxo-1,4-dihydro-pyridine-3-carbaldehyde",
+            "amount": "0.504 g, 3.0 mmol"
+          },
+          {
+            "name": "Cu(NO3)2·2.5H2O",
+            "amount": "0.350 g, 1.5 mmol"
+          }
+        ],
+        "time": "9 h",
+        "yield": "50%",
+        "washing_method": "filtration, washed with EtOH",
+        "drying_method": "air-dried"
+      }
+    },
+    {
+      "name": "M′MOF-4",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cu(H2SalPyMeCam)(NO3)2",
+            "amount": "0.018 g, 0.030 mmol"
+          },
+          {
+            "name": "H2BDC",
+            "amount": "0.0067 g, 0.04 mmol"
+          },
+          {
+            "name": "Cd(NO3)2·4H2O",
+            "amount": "0.0123 g, 0.04 mmol"
+          }
+        ],
+        "time": "24 h",
+        "yield": "~57%",
+        "equipment": "20 mL scintillation vial with a screw cap",
+        "washing_method": "sonicated for 10 min"
+      }
+    },
+    {
+      "name": "M′MOF-5",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cu(H2SalPyMeCam)(NO3)2",
+            "amount": "0.018 g, 0.030 mmol"
+          },
+          {
+            "name": "H2CDC",
+            "amount": "0.0069 g, 0.04 mmol"
+          },
+          {
+            "name": "Zn(NO3)2",
+            "amount": "0.0120 g, 0.04 mmol"
+          }
+        ],
+        "time": "24 h",
+        "yield": "~60%",
+        "equipment": "20 mL scintillation vial with a screw cap",
+        "washing_method": "sonicated for 10 min"
+      }
+    },
+    {
+      "name": "M′MOF-6",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cu(H2SalPytBuCy)(NO3)2",
+            "amount": "0.015 g, 0.023 mmol"
+          },
+          {
+            "name": "H2BDC",
+            "amount": "0.0067 g, 0.04 mmol"
+          },
+          {
+            "name": "Cd(NO3)2·4H2O",
+            "amount": "0.0123 g, 0.04 mmol"
+          }
+        ],
+        "time": "48 h",
+        "yield": "55%",
+        "equipment": "20 mL scintillation vial with a screw cap",
+        "washing_method": "sonicated for 10 min, washed with DMF",
+        "drying_method": "dried in air"
+      }
+    },
+    {
+      "name": "M′MOF-7",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cu(H2SalPytBuCy)(NO3)2",
+            "amount": "0.015 g, 0.023 mmol"
+          },
+          {
+            "name": "H2CDC",
+            "amount": "0.0069 g, 0.04 mmol"
+          },
+          {
+            "name": "Zn(NO3)2",
+            "amount": "0.0120 g, 0.04 mmol"
+          }
+        ],
+        "time": "48 h",
+        "yield": "~53%",
+        "equipment": "20 mL scintillation vial with a screw cap",
+        "washing_method": "sonicated for 10 min"
+      }
+    }
+  ]
+}

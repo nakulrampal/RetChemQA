@@ -1,0 +1,168 @@
+{
+  "materials": [
+    {
+      "name": "1·[Mn(CO)3(H2O)]Br",
+      "synthesis_conditions": {
+        "temperature": "50 °C",
+        "solvents": [
+          {
+            "name": "ethanol",
+            "amount": "15 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "1",
+            "amount": "30 mg"
+          },
+          {
+            "name": "[Mn(CO)5Br]",
+            "amount": "30 mg"
+          }
+        ],
+        "time": "48 h",
+        "washing_method": "ethanol wash (5 × 10 mL)",
+        "yield": "not specified",
+        "characterization_methods": [
+          "IR spectroscopy",
+          "PXRD"
+        ],
+        "IR_bands": [
+          "1951 cm-1 (s, C=O)",
+          "2040 cm-1 (s, C=O)",
+          "1921 cm-1 (s, C=O)",
+          "1608 cm-1 (C=O)",
+          "1553 cm-1",
+          "1511 cm-1",
+          "1408 cm-1",
+          "1306 cm-1",
+          "1272 cm-1"
+        ]
+      }
+    },
+    {
+      "name": "1·[Mn(CO)3N3]",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "1·[Mn(CO)3Br]",
+            "amount": "30 mg"
+          },
+          {
+            "name": "NaN3",
+            "amount": "30 mg"
+          }
+        ],
+        "time": "72 h",
+        "washing_method": "methanol wash (5 × 10 mL)",
+        "yield": "not specified",
+        "characterization_methods": [
+          "IR spectroscopy",
+          "PXRD"
+        ],
+        "IR_bands": [
+          "2070 cm-1 (s, N3)",
+          "2025 cm-1 (s, CO)",
+          "1952 cm-1 (s, CO)",
+          "1903 cm-1 (s, CO)",
+          "1608 cm-1 (s, C=O)",
+          "1555 cm-1",
+          "1510 cm-1",
+          "1408 cm-1",
+          "1303 cm-1",
+          "1272 cm-1"
+        ]
+      }
+    },
+    {
+      "name": "1·[Mn(CO)3(DMT)]",
+      "synthesis_conditions": {
+        "temperature": "50 °C",
+        "solvents": [
+          {
+            "name": "toluene",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "1·[Mn(CO)3N3]",
+            "amount": "30 mg"
+          },
+          {
+            "name": "dimethyl acetylene dicarboxylate (DMAD)",
+            "amount": "0.1 mL"
+          }
+        ],
+        "time": "20 h",
+        "washing_method": "toluene wash (5 × 10 mL)",
+        "yield": "not specified",
+        "characterization_methods": [
+          "IR spectroscopy",
+          "PXRD"
+        ],
+        "IR_bands": [
+          "2034 cm-1 (CO)",
+          "1956 cm-1 (CO)",
+          "1909 cm-1 (CO)",
+          "1716 cm-1 (b, ester)",
+          "1608 cm-1 (s, C=O)",
+          "1554 cm-1 (C=C)",
+          "1509 cm-1 (C=C)",
+          "1406 cm-1",
+          "1376 cm-1",
+          "1302 cm-1",
+          "1271 cm-1",
+          "1169 cm-1 (w)"
+        ]
+      }
+    },
+    {
+      "name": "1·[Mn(CO)3(ET)]",
+      "synthesis_conditions": {
+        "temperature": "50 °C",
+        "solvents": [
+          {
+            "name": "toluene",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "1·[Mn(CO)3N3]",
+            "amount": "30 mg"
+          },
+          {
+            "name": "ethyl propiolate (EPOP)",
+            "amount": "0.1 mL"
+          }
+        ],
+        "time": "20 h",
+        "washing_method": "toluene wash (5 × 10 mL)",
+        "yield": "not specified",
+        "characterization_methods": [
+          "IR spectroscopy",
+          "PXRD"
+        ],
+        "IR_bands": [
+          "2035 cm-1 (CO)",
+          "1945 cm-1 (CO)",
+          "1922 cm-1 (CO)",
+          "1711 cm-1 (ester)",
+          "1665 cm-1 (C=O)",
+          "1554 cm-1",
+          "1408 cm-1",
+          "1303 cm-1",
+          "1272 cm-1"
+        ]
+      }
+    }
+  ]
+}

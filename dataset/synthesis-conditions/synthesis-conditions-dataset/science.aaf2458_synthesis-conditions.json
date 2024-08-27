@@ -1,0 +1,85 @@
+{
+  "SIFSIX-1-Cu": {
+    "temperature": "298 K",
+    "solvents": "ethylene glycol, water",
+    "amount_of_solvents": {
+      "ethylene_glycol": "40 mL",
+      "water": "20 mL"
+    },
+    "equipment": "stirrer, heater",
+    "chemicals_used": {
+      "4,4'-bipyridine": "0.35 g",
+      "Cu(BF4)2.xH2O": "266 mg",
+      "(NH4)2SiF6": "199 mg"
+    },
+    "time": "3 h",
+    "washing_method": "methanol",
+    "drying_method": "methanol exchange for 3 days"
+  },
+  "SIFSIX-2-Cu": {
+    "solvents": "ethanol, ethylene glycol",
+    "amount_of_solvents": {
+      "ethanol": "2.0 mL",
+      "ethylene_glycol": "2.0 mL"
+    },
+    "chemicals_used": {
+      "4,4'-bipyridylacetylene": "0.115 mmol",
+      "CuSiF6.xH2O": "0.149 mmol"
+    },
+    "time": "two weeks",
+    "drying_method": "ethanol exchange for 4 days"
+  },
+  "SIFSIX-2-Cu-i": {
+    "solvents": "methanol, water",
+    "amount_of_solvents": {
+      "methanol": "4.0 mL",
+      "water": "4.0 mL"
+    },
+    "temperature": "85 °C",
+    "chemicals_used": {
+      "4,4'-bipyridylacetylene": "0.286 mmol",
+      "Cu(BF4)2.xH2O": "0.26 mmol",
+      "(NH4)2SiF6": "0.26 mmol"
+    },
+    "time": "12 h",
+    "drying_method": "methanol exchange for 3 days"
+  },
+  "SIFSIX-3-Zn": {
+    "solvents": "methanol",
+    "amount_of_solvents": {
+      "methanol": "4.0 mL"
+    },
+    "chemicals_used": {
+      "pyrazine": "1.3 mmol",
+      "ZnSiF6.xH2O": "0.13 mmol"
+    },
+    "time": "two days",
+    "drying_method": "ethanol exchange for 1 day"
+  },
+  "SIFSIX-3-Ni": {
+    "solvents": "methanol",
+    "amount_of_solvents": {
+      "methanol": "20 mL"
+    },
+    "temperature": "85 °C",
+    "chemicals_used": {
+      "NiSiF6": "1 mmol",
+      "pyrazine": "2 mmol"
+    },
+    "time": "3 days",
+    "drying_method": "ethanol exchange for 3 days"
+  },
+  "SIFSIX-3-Cu": {
+    "solvents": "methanol",
+    "amount_of_solvents": {
+      "methanol": "20 mL"
+    },
+    "temperature": "50 °C",
+    "chemicals_used": {
+      "CuSiF6.H2O": "1 mmol",
+      "pyrazine": "2 mmol"
+    },
+    "time": "1 minute stirring, then direct filtration",
+    "drying_method": "high vacuum at 50 °C for 12 hours"
+  }
+}

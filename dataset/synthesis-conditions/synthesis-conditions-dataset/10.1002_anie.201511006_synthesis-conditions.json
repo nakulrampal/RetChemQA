@@ -1,0 +1,36 @@
+{
+  "materials": [
+    {
+      "name": "MAF-38 (1·g)",
+      "synthesis_conditions": {
+        "temperature": "140 ˚C",
+        "time": "3 days",
+        "cooling_rate": "5 ˚C h⁻¹",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "6 mL"
+          }
+        ],
+        "equipment": "10-mL Teflon-lined stainless-steel container",
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6 H2O",
+            "amount": "0.089 g, 0.3 mmol"
+          },
+          {
+            "name": "Hpypz",
+            "amount": "0.052 g, 0.36 mmol"
+          },
+          {
+            "name": "H3btc",
+            "amount": "0.021 g, 0.1 mmol"
+          }
+        ],
+        "yield": "82 % based on Zn",
+        "activation_method": "exchanging the guest with CH3OH and then heating at 120 ˚C",
+        "stability": "guest-free 1 is stable up to 350 ˚C"
+      }
+    }
+  ]
+}

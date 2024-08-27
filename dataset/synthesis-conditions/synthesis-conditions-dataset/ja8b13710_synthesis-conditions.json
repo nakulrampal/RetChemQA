@@ -1,0 +1,125 @@
+{
+  "materials": [
+    {
+      "name": "NU-1500-Fe",
+      "synthesis_conditions": {
+        "temperature": "150°C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "3 mL"
+          },
+          {
+            "name": "trifluoroacetic acid (TFA)",
+            "amount": "0.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "FeCl3∙6H2O",
+            "amount": "20 mg"
+          },
+          {
+            "name": "H6L",
+            "amount": "10 mg"
+          }
+        ],
+        "time": "12 h",
+        "washing_method": "washed with DMF for 3 times, then soaked in DMF overnight, followed by washing with acetone for 3 times and soaking in acetone for three days",
+        "yield": "yellow-orange hexagonal block crystals"
+      }
+    },
+    {
+      "name": "NU-1500-Cr",
+      "synthesis_conditions": {
+        "temperature": "120°C",
+        "solvents": [
+          {
+            "name": "anhydrous DMF",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "anhydrous CrCl2",
+            "amount": "200 mg"
+          },
+          {
+            "name": "NU-1500-Fe",
+            "amount": "about 30mg"
+          }
+        ],
+        "time": "18 h",
+        "washing_method": "washed 3 times with DMF and then sequentially immersed in acetone for 2 days, replacing acetone 3 times per day",
+        "yield": "green crystals"
+      }
+    },
+    {
+      "name": "NU-1500-Sc",
+      "synthesis_conditions": [
+        {
+          "method": "powder synthesis",
+          "temperature": "120°C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "6 mL"
+            },
+            {
+              "name": "DI H2O",
+              "amount": "3 mL"
+            },
+            {
+              "name": "1,4-dioxane",
+              "amount": "3 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "ScCl3∙6H2O",
+              "amount": "60 mg"
+            },
+            {
+              "name": "H6L",
+              "amount": "20 mg"
+            }
+          ],
+          "time": "72 h",
+          "washing_method": "washed with DMF for 3 times, then soaked in DMF overnight, followed by washing with acetone for 3 times and soaking in acetone for two days",
+          "yield": "white crystalline powders"
+        },
+        {
+          "method": "single crystal synthesis",
+          "temperature": "120°C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "1 mL"
+            },
+            {
+              "name": "DI H2O",
+              "amount": "1 mL"
+            },
+            {
+              "name": "1,4-dioxane",
+              "amount": "1 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "ScCl3∙6H2O",
+              "amount": "10 mg"
+            },
+            {
+              "name": "H6L",
+              "amount": "1 mg"
+            }
+          ],
+          "time": "48 h",
+          "washing_method": "washed with DMF for 3 times, then soaked in DMF overnight, followed by washing with acetone for 3 times and soaking in acetone for three days",
+          "yield": "colorless hexagonal block crystals"
+        }
+      ]
+    }
+  ]
+}

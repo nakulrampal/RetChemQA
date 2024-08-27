@@ -1,0 +1,105 @@
+{
+  "materials": [
+    {
+      "name": "Ag12TPyP",
+      "synthesis_conditions": {
+        "temperature": "ambient temperature",
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "part of 30 mL mixed solvent"
+          },
+          {
+            "name": "1,4-dioxane",
+            "amount": "part of 30 mL mixed solvent"
+          },
+          {
+            "name": "trichloromethane",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          "AgStBu (0.10 g, 0.5 mmol)",
+          "CF3COOAg (0.11 g, 0.5 mmol)",
+          "TPyP (0.01 g, 0.016 mmol)",
+          "CF3COOH (50 μL, 3 mmol)"
+        ],
+        "time": "48 h",
+        "yield": "71.65% based on TPyP",
+        "washing_method": "MeOH and MeCN, then soaked in ether for 2-3 days",
+        "drying_method": "vacuum at 40 ºC for 2 h"
+      }
+    },
+    {
+      "name": "Ag12bpy-2",
+      "synthesis_conditions": {
+        "temperature": "not specified",
+        "solvents": [
+          {
+            "name": "DMAc",
+            "amount": "part of 3 mL mixed solvent"
+          },
+          {
+            "name": "toluene",
+            "amount": "part of 3 mL mixed solvent"
+          },
+          {
+            "name": "DMAc",
+            "amount": "1 mL"
+          }
+        ],
+        "chemicals_used": [
+          "AgStBu (0.02 g, 0.1 mmol)",
+          "CF3COOAg (0.022 g, 0.10 mmol)",
+          "4,4’-bipyridine (7.8 mg, 0.05 mmol)"
+        ],
+        "time": "several hours"
+      }
+    },
+    {
+      "name": "Ag12",
+      "synthesis_conditions": {
+        "temperature": "not specified",
+        "solvents": [
+          {
+            "name": "DMAc",
+            "amount": "3 mL"
+          },
+          {
+            "name": "DMAc",
+            "amount": "1 mL"
+          }
+        ],
+        "chemicals_used": [
+          "AgStBu (0.02 g, 0.1 mmol)",
+          "CF3COOAg (0.022 g, 0.10 mmol)",
+          "4-dimethylaminopyridine (12 mg, 0.1 mmol)"
+        ],
+        "time": "several days"
+      }
+    },
+    {
+      "name": "Ag-TPP",
+      "synthesis_conditions": {
+        "temperature": "refluxed for 3 h",
+        "solvents": [
+          {
+            "name": "acetic acid",
+            "amount": "150 mL"
+          },
+          {
+            "name": "dichloromethane",
+            "amount": "for extraction"
+          }
+        ],
+        "chemicals_used": [
+          "5,10,15,20-tetraphenylporphyrin (1 mmol)",
+          "AgNO3 (10 mmol)",
+          "CH3COONa (10 mmol)"
+        ],
+        "washing_method": "water and a saturated Na2CO3 solution",
+        "drying_method": "vacuum distillation"
+      }
+    }
+  ]
+}

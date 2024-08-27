@@ -1,0 +1,47 @@
+{
+  "materials": [
+    {
+      "name": "Zr6(BDC)3(Fum)3",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "120 88C",
+          "time": "48 hours",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "10 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "ZrOCl2·8 H2O",
+              "amount": "38 mg"
+            },
+            {
+              "name": "terephthalate",
+              "ratio": "varied"
+            },
+            {
+              "name": "fumarate",
+              "ratio": "varied"
+            },
+            {
+              "name": "formic acid",
+              "ratio": "varied"
+            }
+          ],
+          "equipment": "liquid-handling robot",
+          "yield": "15% (using ZrOCl2·8 H2O), 83% (using ZrCl4)"
+        }
+      ],
+      "washing_method": "not specified",
+      "drying_method": "activated under high vacuum at 60 88C",
+      "additional_information": {
+        "framework_composition": "Zr6O4(OH)4(BDC)2.77(Fum)2.55(MeO)0.83(MeOH)0.83(Formate)0.55",
+        "BET_surface_area": "783 m2 g@1",
+        "pore_volume": "0.32 cm3g@1"
+      }
+    }
+  ]
+}

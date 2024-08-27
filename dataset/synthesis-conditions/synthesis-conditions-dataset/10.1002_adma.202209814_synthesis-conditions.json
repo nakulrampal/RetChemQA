@@ -1,0 +1,71 @@
+{
+  "materials": [
+    {
+      "name": "Monolayer MOF 1",
+      "synthesis_conditions": {
+        "temperature": "160 °C",
+        "solvents": [
+          {
+            "name": "NMP/EtOH",
+            "ratio": "v/v = 3/1",
+            "amount": "4 mL"
+          }
+        ],
+        "equipment": "25 mL Teflon-lined stainless-steel vessel",
+        "chemicals_used": [
+          {
+            "name": "TPP",
+            "amount": "0.004 mmol"
+          },
+          {
+            "name": "MnCl2",
+            "amount": "0.020 mmol"
+          }
+        ],
+        "time": "3 days",
+        "washing_method": "ethanol",
+        "drying_method": "naturally air-dried",
+        "yield": "10% (based on TPP)"
+      }
+    },
+    {
+      "name": "Bilayer MOF 2",
+      "synthesis_conditions": {
+        "temperature": "110 °C",
+        "solvents": [
+          {
+            "name": "DMF/EtOH",
+            "ratio": "v/v = 3/1",
+            "amount": "4 mL"
+          }
+        ],
+        "equipment": "25 mL Teflon-lined stainless-steel vessel",
+        "chemicals_used": [
+          {
+            "name": "TPP",
+            "amount": "0.004 mmol"
+          },
+          {
+            "name": "MnCl2",
+            "amount": "0.020 mmol"
+          }
+        ],
+        "time": "3 days",
+        "washing_method": "ethanol",
+        "drying_method": "naturally air-dried",
+        "yield": "48% (based on TPP)"
+      }
+    },
+    {
+      "name": "MOF 1 and 2 nanosheets",
+      "synthesis_conditions": {
+        "solvents": "absolute ethanol",
+        "amount": "10 mL",
+        "equipment": "ultrasonic cleaner (UA06MFD, ultrasonic power: 260 W)",
+        "frequency": "40 kHz",
+        "temperature": "≈25 °C",
+        "time": "2 h"
+      }
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "materials": [
+    {
+      "name": "(Ru­(cptpy)2)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "RuCl3·3H2O",
+              "amount": "130 mg",
+              "molar_amount": "0.5 mmol"
+            },
+            {
+              "name": "4′-(4-Methoxycarbonylphenyl)-2.2′:6′,2′′terpyridine",
+              "amount": "366 mg",
+              "molar_amount": "0.99 mmol"
+            },
+            {
+              "solvents": [
+                {
+                  "name": "ethanol/water",
+                  "volume": "10 mL",
+                  "ratio": "1/1"
+                }
+              ]
+            },
+            {
+              "name": "KOH",
+              "amount": "190 mg"
+            },
+            {
+              "name": "ammonium hexafluorophosphate solution"
+            },
+            {
+              "name": "HPF6 solution"
+            }
+          ],
+          "equipment": "round-bottom flask",
+          "temperature": "reflux overnight",
+          "atmosphere": "argon",
+          "time": "2 h additional reflux after KOH addition",
+          "yield": "451.5 mg, 95%",
+          "crystallization_method": "slow evaporation of a dimethylformamide solution in the presence of urea"
+        }
+      ]
+    },
+    {
+      "name": "AUBM-4",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "(Ru­(cptpy)2)",
+              "amount": "10 mg",
+              "molar_amount": "0.01 mmol"
+            },
+            {
+              "name": "DMF",
+              "volume": "2.5 mL"
+            },
+            {
+              "name": "ZrOCl2·H2O",
+              "amount": "30 mg",
+              "molar_amount": "0.09 mmol"
+            },
+            {
+              "name": "formic acid",
+              "volume": "700 μL"
+            }
+          ],
+          "equipment": "4 mL scintillation vial",
+          "temperature": "120 °C",
+          "time": "48 h",
+          "yield": "73% based on (Ru­(cptpy)2)",
+          "washing_method": "washed with DMF for 2 d, then with acetonitrile (MeCN) for 2 d",
+          "drying_method": "dried under dynamic vacuum at 70 °C for 6 h"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "materials": [
+    {
+      "name": "(TBA)3[MnMo6O18L2]·2 CH3CN (1)",
+      "synthesis_conditions": {
+        "precursors": [
+          "(TBA)4[a-Mo8O26]",
+          "Mn-(CH3COO)3·2 H2O",
+          "H3L"
+        ],
+        "solvent": "dry acetonitrile",
+        "yield": "good",
+        "additional_information": "L grafted onto both sides of the Anderson POM"
+      }
+    },
+    {
+      "name": "(TBA)6[Cu4I4][MnMo6O18L2]2·2 DMA (2)",
+      "synthesis_conditions": {
+        "starting_material": "(TBA)3[MnMo6O18L2]·2 CH3CN (1)",
+        "reactants": [
+          "CuI"
+        ],
+        "product_form": "yellow block crystals",
+        "crystallography": {
+          "space_group": "tetragonal space group P43212",
+          "asymmetric_unit": [
+            "[MnMo6O18L2]3¢ anion",
+            "two TBA cations",
+            "two TBA moieties",
+            "one Cu4I4 moiety"
+          ],
+          "building_unit": "tetrahedral Cu4I4 clusters linked by [MnMo6O18L2]3¢ cluster bridges",
+          "Cu_Cu_distances": "2.553 to 2.647 Å",
+          "Cu_N_bond_lengths": "2.019(8) and 1.996(9) Å"
+        },
+        "framework_properties": {
+          "topology": "4-connected porous anionic framework with diamondoid topology",
+          "channel_sizes": "1.01 x 1.01 nm2 along the c axis",
+          "empty_volume": "14,047.4 Å3, corresponding to 69.4% of the total crystal volume"
+        },
+        "stability": "up to 250°C",
+        "additional_information": "3-fold interpenetration of three symmetry-related cluster organic frameworks"
+      }
+    },
+    {
+      "name": "(TBA)6[Cu2I2][MnMo6O18(L)2]2·4 DEF (3)",
+      "synthesis_conditions": {
+        "starting_material": "(TBA)3[MnMo6O18L2]·2 CH3CN (1)",
+        "reactants": [
+          "CuI"
+        ],
+        "product_form": "lamellar crystals",
+        "crystallography": {
+          "asymmetric_unit": [
+            "one Cu2I2 moiety",
+            "two independent [MnMo6O18L2]3¢ moieties",
+            "one TBA cation",
+            "one TBA moiety"
+          ],
+          "building_unit": "rhombohedral Cu2I2 and [MnMo6O18L2]3¢ clusters",
+          "Cu_Cu_distance": "2.582 Å",
+          "Cu_N_bond_lengths": "2.042(5) and 2.050(5) Å"
+        },
+        "framework_properties": {
+          "structure": "2D cluster organic framework",
+          "channel_sizes": "2.30 x 2.45 nm2 along the a axis",
+          "empty_volume": "71.4%, after removal of TBA cations and solvent molecules"
+        },
+        "stability": "up to 220°C",
+        "additional_information": "stacking of 2D layers gives rise to 1D channels"
+      }
+    }
+  ]
+}

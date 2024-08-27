@@ -1,0 +1,70 @@
+{
+  "materials": [
+    {
+      "name": "ZIF-8",
+      "synthesis_conditions": {
+        "temperature": "130 8C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "9 mL"
+          },
+          {
+            "name": "chloroform",
+            "amount": "3 x 5 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "for solvent exchange, 48 h at ambient temperature"
+          }
+        ],
+        "equipment": "12 mL Teflon-capped vial",
+        "chemicals_used": [
+          {
+            "name": "zinc(II) nitrate hexahydrate",
+            "amount": "0.525 g, 1.76 x 10^-4 mol"
+          },
+          {
+            "name": "2-methylimidazole (MeIM)",
+            "amount": "0.015 g, 1.83 x 10^-4 mol"
+          }
+        ],
+        "time": [
+          "heated at a rate of 200 8C h^-1 to 130 8C, held at this temperature for 24 h",
+          "cooled at a rate of 5 8C h^-1 to room temperature",
+          "washed and dried in air (30 min)",
+          "immersed in methanol for 48 h at ambient temperature for solvent exchange"
+        ],
+        "washing_method": "filtered from the reaction mixture, washed with chloroform",
+        "drying_method": "dried in air",
+        "yield": "0.0064 g, 11 % based on 2-methylimidazole"
+      }
+    },
+    {
+      "name": "ZIF-8 under pressure",
+      "synthesis_conditions": {
+        "pressure": [
+          "0.18 GPa",
+          "0.52 GPa",
+          "0.96 GPa",
+          "1.47 GPa",
+          "decreasing pressure at 0.82 and 0.39 GPa"
+        ],
+        "solvents": [
+          {
+            "name": "mixture of methanol and ethanol",
+            "ratio": "4:1 (v/v)"
+          }
+        ],
+        "equipment": "modified Merrill–Bassett diamond anvil cell (DAC) equipped with 600 mm culet diamonds and a tungsten gasket",
+        "chemicals_used": [
+          {
+            "name": "ruby",
+            "purpose": "pressure calibrant"
+          }
+        ],
+        "additional_information": "The ruby fluorescence method was utilized to measure the pressure."
+      }
+    }
+  ]
+}

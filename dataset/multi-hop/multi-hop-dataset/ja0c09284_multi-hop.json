@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What is the relationship between the linker functionalization and the thermodynamic stability of metal-organic frameworks (MOFs)?",
+      "answer": "The relationship between the linker functionalization and the thermodynamic stability of MOFs is that the choice of substituent on the linker can significantly vary the enthalpy of formation of the MOFs, thereby affecting their thermodynamic stability.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the synthesis method of ZIFs influence their structural and adsorptive properties?",
+      "answer": "The synthesis method, particularly mechanochemical synthesis, influences the structural and adsorptive properties of ZIFs by enabling the rapid, clean, and scalable conversion of metal oxides into ZIFs without the need for solvents, which can lead to ZIFs with unique porosity and stability.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What role does the Hammett σ-constant play in predicting the stability of ZIFs?",
+      "answer": "The Hammett σ-constant serves as a descriptor for the electronic effects of a substituent on the linker, which correlates with the thermodynamic stability of ZIFs. A linear relationship between the Hammett σ-constants and the enthalpy of formation of ZIFs allows for the prediction of ZIF stability based on the properties of the linker substituent.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the electrostatic surface potential (ESP) of linker substituents be used to predict the stability of ZIFs, and how?",
+      "answer": "Yes, the electrostatic surface potential (ESP) of linker substituents can be used to predict the stability of ZIFs. A strong linear correlation between the ESP values calculated for isolated gas-phase 2-substituted imidazolate anions and the enthalpy of formation of ZIFs indicates that ESP is a useful descriptor for predicting ZIF stability.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental techniques were used to characterize the synthesized ZIFs in the study?",
+      "answer": "The synthesized ZIFs were characterized using several experimental techniques, including powder X-ray diffraction (PXRD) for structural analysis, thermogravimetric analysis (TGA) for thermal stability, inductively coupled plasma mass spectrometry (ICP-MS) for metal content analysis, solid-state nuclear magnetic resonance spectroscopy (ssNMR) for structural confirmation, and nitrogen adsorption isotherms for surface area measurements.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of ZIFs using mechanochemistry is a solvent-free method that leads to ZIFs with high porosity.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The Hammett σ-constants are only applicable to small molecules in dilute solution and cannot be used to describe the stability of solid-state materials like ZIFs.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of using Hammett σ-para(+) constants over σ-meta or σ-para constants in correlating with ZIF stability?",
+      "answer": "The significance of using Hammett σ-para(+) constants over σ-meta or σ-para constants lies in their ability to account for the ability of the substituent to delocalize positive charge close to a reactive part of the molecule, leading to a much improved linear correlation with ZIF stability, especially for substituents capable of participating in the resonant electronic structure of the linker.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the thermodynamic cycle used in the study help in calculating the formation enthalpy of ZIFs?",
+      "answer": "The thermodynamic cycle helps in calculating the formation enthalpy of ZIFs by considering the dissolution enthalpies of the ZIFs, imidazoles, and ZnO, as well as the enthalpy of dilution of water. This cycle allows for the derivation of the enthalpy of formation of ZIFs by reaction of ZnO with two equivalents of the imidazole, providing a quantitative measure of ZIF stability.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study demonstrates that the linker substituent significantly influences the thermodynamic stability of ZIFs, with electron-withdrawing substituents leading to less stable frameworks.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

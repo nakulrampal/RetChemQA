@@ -1,0 +1,102 @@
+{
+  "materials": [
+    {
+      "name": "Monomeric Rectangle 1",
+      "synthesis_conditions": {
+        "solvent": "methanol",
+        "solvent_amount": "4 mL",
+        "temperature": "room temperature",
+        "time": "6 h",
+        "washing_method": "diethyl ether, centrifugation",
+        "drying_method": "air drying",
+        "yield": "94%",
+        "chemicals_used": [
+          {
+            "name": "arene-Ru(II) acceptor A",
+            "amount": "4.2 mg",
+            "molarity": "0.004 mmol"
+          },
+          {
+            "name": "donor L1",
+            "amount": "1.1 mg",
+            "molarity": "0.004 mmol"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Molecular Borromean Rings 2",
+      "synthesis_conditions": {
+        "solvent": "methanol",
+        "solvent_amount": "1 mL",
+        "temperature": "room temperature",
+        "time": "6 h",
+        "washing_method": "diethyl ether, centrifugation",
+        "drying_method": "air drying",
+        "yield": "56%",
+        "chemicals_used": [
+          {
+            "name": "arene-Ru(II) acceptor A",
+            "amount": "12.7 mg",
+            "molarity": "0.012 mmol"
+          },
+          {
+            "name": "donor L1",
+            "amount": "3.4 mg",
+            "molarity": "0.012 mmol"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Monomeric Rectangle 3",
+      "synthesis_conditions": {
+        "solvent": "methanol",
+        "solvent_amount": "4 mL",
+        "temperature": "room temperature",
+        "time": "6 h",
+        "washing_method": "diethyl ether, centrifugation",
+        "drying_method": "air drying",
+        "yield": "91%",
+        "chemicals_used": [
+          {
+            "name": "arene-Ru(II) acceptor A",
+            "amount": "4.2 mg",
+            "molarity": "0.004 mmol"
+          },
+          {
+            "name": "donor L2",
+            "amount": "1.1 mg",
+            "molarity": "0.004 mmol"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Molecular Borromean Rings 4",
+      "synthesis_conditions": {
+        "solvent": "methanol",
+        "solvent_amount": "4.5 mL",
+        "additional_solvent": "H2O",
+        "additional_solvent_amount": "3 mL",
+        "temperature": "room temperature",
+        "time": "6 h",
+        "washing_method": "diethyl ether, centrifugation",
+        "drying_method": "air drying",
+        "yield": "87%",
+        "chemicals_used": [
+          {
+            "name": "arene-Ru(II) acceptor A",
+            "amount": "12.7 mg",
+            "molarity": "0.012 mmol"
+          },
+          {
+            "name": "donor L2",
+            "amount": "3.4 mg",
+            "molarity": "0.012 mmol"
+          }
+        ]
+      }
+    }
+  ]
+}

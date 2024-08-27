@@ -1,0 +1,273 @@
+{
+  "materials": [
+    {
+      "name": "5,10,15,20-tetrakis(4-pyridyl)porphyrin",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "solvents": [
+          {
+            "name": "propionic acid",
+            "amount": "150 mL"
+          },
+          {
+            "name": "dimethylformamide",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "pyrrole",
+            "amount": "5.04 g, 75 mmol"
+          },
+          {
+            "name": "4-pyridinecarboxaldehyde",
+            "amount": "8.04 g, 75 mmol"
+          }
+        ],
+        "time": [
+          "1 h",
+          "1 h"
+        ],
+        "yield": "1.5 g, 13%"
+      }
+    },
+    {
+      "name": "5,15-bisphenyl-10,20-bis(4-pyridyl)porphyrin",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "solvents": [
+          {
+            "name": "propionic acid",
+            "amount": "150 mL"
+          },
+          {
+            "name": "dimethylformamide",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "pyrrole",
+            "amount": "5.04 g, 75 mmol"
+          },
+          {
+            "name": "benzaldehyde",
+            "amount": "3.98 g, 37.5 mmol"
+          },
+          {
+            "name": "4-pyridinecarboxaldehyde",
+            "amount": "4.02 g, 37.5 mmol"
+          }
+        ],
+        "time": [
+          "1 h",
+          "1 h"
+        ],
+        "yield": "0.27 g, 0.6%"
+      }
+    },
+    {
+      "name": "KLASCC-1",
+      "synthesis_conditions": {
+        "temperature": "110 °C",
+        "solvents": [
+          {
+            "name": "dimethylformamide",
+            "amount": "2.5 mL"
+          },
+          {
+            "name": "ethanol",
+            "amount": "2.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "cobalt(II) chloride hexahydrate",
+            "amount": "10 mg, 0.042 mmol"
+          },
+          {
+            "name": "5,10,15,20-tetrakis(4-pyridyl)porphyrin",
+            "amount": "5 mg, 0.008 mmol"
+          }
+        ],
+        "time": "24 h",
+        "yield": "2.3 mg, 37%"
+      }
+    },
+    {
+      "name": "KLASCC-2",
+      "synthesis_conditions": {
+        "temperature": "110 °C",
+        "solvents": [
+          {
+            "name": "dimethylformamide",
+            "amount": "2.5 mL"
+          },
+          {
+            "name": "ethanol",
+            "amount": "2.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "cobalt(II) acetate tetrahydrate",
+            "amount": "20 mg, 0.080 mmol"
+          },
+          {
+            "name": "5,10-bisphenyl-15,20-bis(4-pyridyl)porphyrin",
+            "amount": "5 mg, 0.008 mmol"
+          }
+        ],
+        "time": "24 h",
+        "yield": "1.8 mg, 32%"
+      }
+    },
+    {
+      "name": "KLASCC-3",
+      "synthesis_conditions": {
+        "temperature": "110 °C",
+        "solvents": [
+          {
+            "name": "dimethylformamide",
+            "amount": "2.5 mL"
+          },
+          {
+            "name": "n-propyl alcohol",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "cobalt(II) acetate tetrahydrate",
+            "amount": "20 mg, 0.080 mmol"
+          },
+          {
+            "name": "5,10,15,20-tetrakis(4-pyridyl)porphyrin",
+            "amount": "10 mg, 0.016 mmol"
+          }
+        ],
+        "time": "24 h",
+        "yield": "4.6 mg, 42%"
+      }
+    },
+    {
+      "name": "KLASCC-4",
+      "synthesis_conditions": {
+        "temperature": "110 °C",
+        "solvents": [
+          {
+            "name": "dimethylformamide",
+            "amount": "2.5 mL"
+          },
+          {
+            "name": "n-butyl alcohol",
+            "amount": "2.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "cobalt(II) acetylacetonate",
+            "amount": "20 mg, 0.056 mmol"
+          },
+          {
+            "name": "5,10,15,20-tetrakis(4-pyridyl)porphyrin",
+            "amount": "10 mg, 0.016 mmol"
+          }
+        ],
+        "time": "24 h",
+        "yield": "3.5 mg, 26%"
+      }
+    },
+    {
+      "name": "KLASCC-1-empty",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "equipment": "vacuum",
+        "time": "24 h"
+      }
+    },
+    {
+      "name": "KLASCC-1-methanol",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "2 mL"
+          }
+        ],
+        "time": "3 days"
+      }
+    },
+    {
+      "name": "KLASCC-1-ethylene-glycol",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "ethylene glycol",
+            "amount": "2 mL"
+          }
+        ],
+        "time": "3 days"
+      }
+    },
+    {
+      "name": "KLASCC-1-trimethyl-orthoformate",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "trimethyl orthoformate",
+            "amount": "2 mL"
+          }
+        ],
+        "time": "3 days"
+      }
+    },
+    {
+      "name": "KLASCC-1-triethyl-orthoformate",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "triethyl orthoformate",
+            "amount": "2 mL"
+          }
+        ],
+        "time": "3 days"
+      }
+    },
+    {
+      "name": "KLASCC-1-tripropyl-orthoformate",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "tripropyl orthoformate",
+            "amount": "2 mL"
+          }
+        ],
+        "time": "3 days"
+      }
+    },
+    {
+      "name": "KLASCC-1-after-catalysis",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "carbonate buffer solution",
+            "pH": "8.3",
+            "amount": "0.5 mL D2O"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "trimethyl orthoformate",
+            "amount": "0.05 mmol, 0.1 M"
+          },
+          {
+            "name": "KLASCC-1",
+            "amount": "0.5 μmol"
+          }
+        ],
+        "time": "12 h"
+      }
+    }
+  ]
+}

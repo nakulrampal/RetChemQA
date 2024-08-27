@@ -1,0 +1,104 @@
+{
+  "materials": [
+    {
+      "material": "1",
+      "synthesis_conditions": {
+        "solvents": ["Methanol", "Water", "1-Propanol"],
+        "chemicals_used": ["4-styrylpyridine (4spy)", "ZnBr2.2H2O"],
+        "amounts": {
+          "4-styrylpyridine (4spy)": "9.1 mg, 0.05 mmol",
+          "ZnBr2.2H2O": "6.5 mg, 0.025 mmol"
+        },
+        "washing_method": "Washed with methanol",
+        "drying_method": "Dried at room temperature",
+        "yield": "5.8 mg (39.7%)"
+      }
+    },
+    {
+      "material": "2",
+      "synthesis_conditions": {
+        "equipment": "Luzchem reactor",
+        "wavelength": "365 nm",
+        "time": "24h",
+        "notes": "Irradiating the single crystals of 1 under UV light"
+      }
+    },
+    {
+      "material": "2'",
+      "synthesis_conditions": {
+        "solvents": ["Methanol"],
+        "chemicals_used": ["2F-4spy", "rctt-F-ppcb", "ZnBr2.2H2O"],
+        "amounts": {
+          "2F-4spy": "10.0 mg, 0.05 mmol",
+          "rctt-F-ppcb": "10 mg, 0.025 mmol",
+          "ZnBr2.2H2O": "13.0 mg, 0.05 mmol"
+        },
+        "washing_method": "Washed with excess methanol",
+        "drying_method": "Dried at room temperature"
+      }
+    },
+    {
+      "material": "1'",
+      "synthesis_conditions": {
+        "temperature": "220˚C",
+        "time": "48h",
+        "notes": "Heating the single crystals of 2"
+      }
+    },
+    {
+      "material": "3",
+      "synthesis_conditions": {
+        "equipment": "UV lamp",
+        "time_intervals": "Flipping the slides at regular intervals of 12 h",
+        "notes": "Powdered 1 was packed between the slides and irradiated under UV light"
+      }
+    },
+    {
+      "material": "4",
+      "synthesis_conditions": {
+        "solvents": ["Methanol"],
+        "chemicals_used": ["2F-4spy"],
+        "notes": "Synthesized similar to 1, but 2F-4spy was used instead of 4spy ligand",
+        "washing_method": "Washed with methanol",
+        "drying_method": "Dried at room temperature",
+        "yield": "6.5 mg (42%)"
+      }
+    },
+    {
+      "material": "5",
+      "synthesis_conditions": {
+        "time": "18h",
+        "notes": "Obtained by the UV irradiation of single crystals of 4"
+      }
+    },
+    {
+      "material": "5'",
+      "synthesis_conditions": {
+        "solvents": ["Methanol"],
+        "chemicals_used": ["2F-4spy", "rctt-F-ppcb", "ZnBr2.2H2O"],
+        "amounts": {
+          "2F-4spy": "10.0 mg, 0.05 mmol",
+          "rctt-F-ppcb": "10 mg, 0.025 mmol",
+          "ZnBr2.2H2O": "13.0 mg, 0.05 mmol"
+        },
+        "washing_method": "Washed with excess methanol",
+        "drying_method": "Dried at room temperature"
+      }
+    },
+    {
+      "material": "6",
+      "synthesis_conditions": {
+        "equipment": "UV lamp",
+        "time": "36h",
+        "notes": "The powdered crystals of 4 were irradiated under UV lamp"
+      }
+    },
+    {
+      "material": "6'",
+      "synthesis_conditions": {
+        "solvents": ["DMF/THF mixture (1:2 v/v)"],
+        "notes": "Recrystallized from 1:2 (v/v) mixture of DMF/THF"
+      }
+    }
+  ]
+}

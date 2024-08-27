@@ -1,0 +1,79 @@
+{
+  "materials": [
+    {
+      "name": "A",
+      "synthesis_conditions": {
+        "solvents": "dichloromethane (10 ml), methanol (1 ml)",
+        "chemicals_used": "[Cu(CH3CN)4].PF6 (0.08 g, 0.20 mmol), 1,1-bis(diphenylphosphino)methane (dppm) (0.08 g, 0.20 mmol), potassium cyanide (0.007 g, 0.1 mmol)",
+        "yield": "96 %",
+        "drying_method": "pentane vapor diffusion under argon",
+        "crystallization_method": "pentane vapor diffusion",
+        "characterization_methods": {
+          "1H NMR": "500 MHz, CD2Cl2",
+          "31P{1H} NMR": "162 MHz, CD2Cl2",
+          "IR": "Perkin Elmer Frontier spectrometer using UATR accessory"
+        }
+      }
+    },
+    {
+      "name": "C",
+      "synthesis_conditions": {
+        "solvents": "dichloromethane (10 ml), methanol (4 ml)",
+        "chemicals_used": "derivative A (0.11 g, 0.05 mmol), potassium cyanide (0.007 g, 0.10 mmol)",
+        "yield": "67 %",
+        "drying_method": "pentane vapor diffusion under argon",
+        "crystallization_method": "pentane vapor diffusion",
+        "characterization_methods": {
+          "1H NMR": "400 MHz, CD2Cl2",
+          "31P{1H} NMR": "162 MHz, CD2Cl2",
+          "IR": "Perkin Elmer Frontier spectrometer using UATR accessory"
+        }
+      }
+    },
+    {
+      "name": "DNi",
+      "synthesis_conditions": {
+        "solvents": "dichloromethane (10 ml), methanol (6 ml)",
+        "chemicals_used": "derivative A (0.11 g, 0.052 mmol), K2[Ni(CN)4].6H2O (0.009 g, 0.026 mmol)",
+        "yield": "77 %",
+        "drying_method": "pentane vapor diffusion under argon",
+        "crystallization_method": "pentane vapor diffusion",
+        "characterization_methods": {
+          "1H NMR": "400 MHz, CD2Cl2",
+          "31P{1H} NMR": "162 MHz, CD2Cl2",
+          "IR": "Perkin Elmer Frontier spectrometer using UATR accessory"
+        }
+      }
+    },
+    {
+      "name": "DPd",
+      "synthesis_conditions": {
+        "solvents": "dichloromethane (10 ml), methanol (2 ml)",
+        "chemicals_used": "derivative A (0.11 g, 0.052 mmol), K2[Pd(CN)4].xH2O (0.0075 g, 0.026 mmol)",
+        "yield": "69 %",
+        "drying_method": "pentane vapor diffusion under argon",
+        "crystallization_method": "pentane vapor diffusion",
+        "characterization_methods": {
+          "1H NMR": "400 MHz, CD2Cl2",
+          "31P{1H} NMR": "162 MHz, CD2Cl2",
+          "IR": "Perkin Elmer Frontier spectrometer using UATR accessory"
+        }
+      }
+    },
+    {
+      "name": "DPt",
+      "synthesis_conditions": {
+        "solvents": "dichloromethane (10 ml), methanol (2 ml)",
+        "chemicals_used": "derivative A (0.11 g, 0.052 mmol), K2[Pt(CN)4].xH2O (0.0098 g, 0.026 mmol)",
+        "yield": "70 %",
+        "drying_method": "pentane vapor diffusion under argon",
+        "crystallization_method": "pentane vapor diffusion",
+        "characterization_methods": {
+          "1H NMR": "400 MHz, CD2Cl2",
+          "31P{1H} NMR": "162 MHz, CD2Cl2",
+          "IR": "Perkin Elmer Frontier spectrometer using UATR accessory"
+        }
+      }
+    }
+  ]
+}

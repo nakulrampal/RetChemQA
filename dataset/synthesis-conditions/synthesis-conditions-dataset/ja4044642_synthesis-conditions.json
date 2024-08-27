@@ -1,0 +1,136 @@
+{
+  "materials": [
+    {
+      "name": "CPM-4",
+      "synthesis_conditions": {
+        "temperature": "100 oC",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "5.0 g"
+          }
+        ],
+        "equipment": "vial (23 mL)",
+        "chemicals_used": [
+          {
+            "name": "In(NO3)3·xH2O",
+            "amount": "0.073 g"
+          },
+          {
+            "name": "CoCl2·4H2O",
+            "amount": "0.040 g"
+          },
+          {
+            "name": "1,3,5-benzenetricarboxylic acid (H3BTC)",
+            "amount": "0.042 g"
+          }
+        ],
+        "time": "5 days",
+        "washing_method": "ethanol",
+        "yield": "41 mg, 50.1 % based on H3BTC"
+      }
+    },
+    {
+      "name": "CPM-30",
+      "synthesis_conditions": {
+        "temperature": "100 oC",
+        "solvents": [
+          {
+            "name": "N,N-dibutylformamide (DBF)/N,N'-Dimethylpropyleneurea (DMPU)",
+            "amount": "0.50 g/2.50 g"
+          }
+        ],
+        "equipment": "vial (23 mL)",
+        "chemicals_used": [
+          {
+            "name": "In(NO3)3·xH2O",
+            "amount": "0.084 g"
+          },
+          {
+            "name": "4,4’-biphenyldicarboxylic acid (H2BBDC)",
+            "amount": "0.060 g"
+          },
+          {
+            "name": "pyrazole",
+            "amount": "0.037 g"
+          }
+        ],
+        "time": "5 days",
+        "washing_method": "ethanol",
+        "yield": "65 mg, 65.1 % based on H2BBDC"
+      }
+    },
+    {
+      "name": "CPM-31",
+      "synthesis_conditions": {
+        "temperature": "100 oC",
+        "solvents": [
+          {
+            "name": "DMF/DMPU",
+            "amount": "0.50 g/2.50 g"
+          }
+        ],
+        "equipment": "vial (23 mL)",
+        "chemicals_used": [
+          {
+            "name": "In(NO3)3·xH2O",
+            "amount": "0.084 g"
+          },
+          {
+            "name": "Zn(NO3)2·4H2O",
+            "amount": "0.046 g"
+          },
+          {
+            "name": "4,4’-biphenyldicarboxylic acid",
+            "amount": "0.060 g"
+          },
+          {
+            "name": "isonicotinic acid",
+            "amount": "0.033 g"
+          },
+          {
+            "name": "pyrazole",
+            "amount": "0.037 g"
+          }
+        ],
+        "time": "5 days",
+        "washing_method": "acetonitrile",
+        "notes": "Colorless crystals obtained but mixed with a kind of unknown and very small crystalline phase."
+      }
+    },
+    {
+      "name": "CPM-32",
+      "synthesis_conditions": {
+        "temperature": "100 oC",
+        "solvents": [
+          {
+            "name": "DMF/DMPU",
+            "amount": "0.50 g/2.50 g"
+          }
+        ],
+        "equipment": "vial (23 mL)",
+        "chemicals_used": [
+          {
+            "name": "In(NO3)3·xH2O",
+            "amount": "0.074 g"
+          },
+          {
+            "name": "Co(Ac)2·4H2O",
+            "amount": "0.046 g"
+          },
+          {
+            "name": "4,4’-biphenyldicarboxylic acid",
+            "amount": "0.060 g"
+          },
+          {
+            "name": "isonicotinic acid",
+            "amount": "0.033 g"
+          }
+        ],
+        "time": "5 days",
+        "washing_method": "acetonitrile",
+        "yield": "30 mg, 2 % based on H2BBDC"
+      }
+    }
+  ]
+}

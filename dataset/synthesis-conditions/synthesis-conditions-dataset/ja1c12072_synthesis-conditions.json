@@ -1,0 +1,152 @@
+{
+  "materials": [
+    {
+      "name": "trans-Co6Se8(PPh3)4(CO)2",
+      "synthesis_conditions": {
+        "temperature": "120 °C for 16 h",
+        "solvents": [
+          {
+            "name": "toluene",
+            "amount": "100 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Co2(CO)8",
+            "amount": "1.931 g, 5.65 mmol, 1 eq."
+          },
+          {
+            "name": "Se",
+            "amount": "2.01 g, 25.4 mmol, 4.5 eq."
+          },
+          {
+            "name": "triphenylphosphine (PPh3)",
+            "amount": "6.375 g, 24.3 mmol, 4.3 eq."
+          }
+        ],
+        "yield": "97.6%",
+        "drying_method": "vacuum for 1 h",
+        "washing_method": "filtered hot",
+        "equipment": "200 mL Schlenk flask, magnetic stir bar",
+        "time": "16 h",
+        "atmosphere": "N2"
+      }
+    },
+    {
+      "name": "[trans-Co6Se8(PPh3)4(CO)2][PF6]",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "DCM",
+            "amount": "50 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "trans-Co6Se8(PPh3)4(CO)2",
+            "amount": "2.59 g, 1.24 mmol, 1 eq."
+          },
+          {
+            "name": "silver hexafluorophosphate ([Ag][PF6])",
+            "amount": "313 mg, 1.24 mmol, 1 eq."
+          }
+        ],
+        "yield": "79.4%",
+        "washing_method": "filtered over Celite",
+        "equipment": "250 mL round bottom flask, magnetic stir bar",
+        "time": "1 h",
+        "atmosphere": "N2"
+      }
+    },
+    {
+      "name": "[NBu4]4[trans-Co6Se8(CN4)(CO)2]",
+      "synthesis_conditions": {
+        "temperature": "100 °C for 16 h",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "25 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "trans-Co6Se8(PPh3)4(CO)2",
+            "amount": "600 mg, 0.287 mmol, 1 eq."
+          },
+          {
+            "name": "tetrabutylammonium cyanide ([NBu4][CN])",
+            "amount": "346.8 mg, 1.29 mmol, 4.5 eq."
+          }
+        ],
+        "yield": "93.3%",
+        "washing_method": "decanted off from the powder",
+        "equipment": "50 mL thick-walled Schlenk flask, Teflon screw cap, magnetic stir bar",
+        "time": "16 h",
+        "atmosphere": "N2"
+      }
+    },
+    {
+      "name": "[NBu4]3[trans-Co6Se8(CN4)(CO)2]",
+      "synthesis_conditions": {
+        "temperature": "100 °C for 16 h",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "25 mL"
+          },
+          {
+            "name": "acetonitrile",
+            "amount": "15 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "trans-Co6Se8(PPh3)4(CO)2",
+            "amount": "600 mg, 0.287 mmol, 1 eq."
+          },
+          {
+            "name": "tetrabutylammonium cyanide ([NBu4][CN])",
+            "amount": "346.8 mg, 1.29 mmol, 4.5 eq."
+          },
+          {
+            "name": "ferrocenium hexafluorophosphate ([Fc][PF6])",
+            "amount": "104.5 mg, 0.316 mmol, 1.1 eq."
+          }
+        ],
+        "yield": "71%",
+        "washing_method": "washed with hexanes and THF",
+        "equipment": "50 mL thick-walled Schlenk flask, Teflon screw cap, magnetic stir bar",
+        "time": "16 h",
+        "atmosphere": "N2"
+      }
+    },
+    {
+      "name": "[Co(py)4]2[trans-Co6Se8(CN)4(CO)2]",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "2 mL"
+          },
+          {
+            "name": "MeCN",
+            "amount": "0.2 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CoBr2",
+            "amount": "9.8 mg, 0.044 mmol, 1.4 eq."
+          },
+          {
+            "name": "pyridine (py)",
+            "amount": "50.7 mg, 0.032 mmol, 1 eq."
+          }
+        ],
+        "yield": "9.7%",
+        "equipment": "20 cm tall, 5 mm internal diameter glass tube",
+        "time": "7 days"
+      }
+    }
+  ]
+}

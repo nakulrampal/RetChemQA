@@ -1,0 +1,100 @@
+{
+  "materials": [
+    {
+      "name": "L-H2Me2",
+      "synthesis_conditions": {
+        "temperature": "60 °C",
+        "solvents": ["MeOH"],
+        "amount_of_each_solvent": ["50 ml", "45 ml"],
+        "chemicals_used": [
+          "(1R, 2R)-(-)-1, 2-diaminocyclohexane (0.57 g, 5 mmol)",
+          "methyl-3-tert-butyl-5-formyl-4-hydroxybenzoate (2.36 g, 10 mmol)"
+        ],
+        "time": "2 h",
+        "yield": "98%",
+        "washing_method": "CH2Cl2",
+        "drying_method": "reduced pressure"
+      }
+    },
+    {
+      "name": "[Ni(L-H2)]",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": ["MeOH"],
+        "amount_of_each_solvent": ["150 ml", "50 ml"],
+        "chemicals_used": [
+          "L-H4 (0.52 g, 1mmol)",
+          "Ni(OAc)2·4H2O (0.25 g, 1 mmol)"
+        ],
+        "time": "3 h",
+        "yield": "76%",
+        "washing_method": "MeOH",
+        "drying_method": "reduced pressure"
+      }
+    },
+    {
+      "name": "[Co(L-H2)(OAc)]",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": ["MeOH"],
+        "amount_of_each_solvent": ["10 ml", "5 ml"],
+        "chemicals_used": [
+          "L-H4 (522 mg, 1mmol)",
+          "Co(OAc)2·4H2O (274 mg, 1.1 mmol)"
+        ],
+        "time": "2 h",
+        "yield": "97%",
+        "washing_method": "MeOH",
+        "drying_method": "reduced pressure"
+      }
+    },
+    {
+      "name": "[Co(L-Me2)(OAc)]",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": ["MeOH"],
+        "amount_of_each_solvent": ["10 ml", "5 ml"],
+        "chemicals_used": [
+          "L-H2Me2 (550 mg, 1mmol)",
+          "Co(OAc)2·4H2O (274 mg, 1.1 mmol)"
+        ],
+        "time": "2 h",
+        "yield": "98%",
+        "washing_method": "MeOH",
+        "drying_method": "reduced pressure"
+      }
+    },
+    {
+      "name": "MOF 1",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": ["DMF", "H2O"],
+        "amount_of_each_solvent": ["2 mL", "0.5 mL"],
+        "chemicals_used": [
+          "CdI (4.8 mg, 0.02 mmol)",
+          "[Ni(L-H2)] (5.8 mg, 0.01 mmol)"
+        ],
+        "time": "one day",
+        "yield": "83%",
+        "washing_method": "MeOH and Et2O",
+        "drying_method": "room temperature"
+      }
+    },
+    {
+      "name": "MOF 2",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": ["DMF", "MeOH"],
+        "amount_of_each_solvent": ["0.2 mL", "5 mL"],
+        "chemicals_used": [
+          "Cd(NO3)2·4H2O (6.2 mg, 0.02 mmol)",
+          "[Co(L-H2)(OAc)] (5.8 mg, 0.01 mmol)"
+        ],
+        "time": "10 hours",
+        "yield": "74.6%",
+        "washing_method": "MeOH",
+        "drying_method": "room temperature"
+      }
+    }
+  ]
+}

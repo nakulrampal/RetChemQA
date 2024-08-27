@@ -1,0 +1,72 @@
+{
+  "materials": [
+    {
+      "name": "bis(phenyl)triazenide rhodium(i) compound [{Rh-(PhN3Ph)(C8H12)}n] (1)",
+      "synthesis_conditions": {
+        "precursors": [
+          {
+            "name": "[{Rh(m-OMe)(C8H12)}2]",
+            "amount": "203.4 mg",
+            "molar_amount": "0.42 mmol"
+          },
+          {
+            "name": "PhNNNHPh",
+            "amount": "165.7 mg",
+            "molar_amount": "0.84 mmol"
+          }
+        ],
+        "solvent": "toluene",
+        "solvent_amount": "10 mL",
+        "additional_solvent": "hexane",
+        "additional_solvent_amount": "5 mL",
+        "temperature": "room temperature",
+        "atmosphere": "argon",
+        "yield": "85 %",
+        "washing_method": "washed with hexane (2 x 4 mL)",
+        "drying_method": "vacuum-dried"
+      }
+    },
+    {
+      "name": "dinuclear dirhodadioxetane complex [{Rh(PhN3Ph)(OC8H12)}2] (2)",
+      "synthesis_conditions": {
+        "precursors": [
+          {
+            "name": "[{Rh(PhNNNPh)(C8H12)}n]",
+            "amount": "150.0 mg"
+          }
+        ],
+        "solvent": "toluene",
+        "solvent_amount": "8 mL",
+        "atmosphere": "oxygen",
+        "temperature": "room temperature",
+        "time": "2 h",
+        "yield": "90 %",
+        "additional_solvent": "hexane",
+        "additional_solvent_amount": "15 mL",
+        "washing_method": "washed with hexane (2 x 5 mL)",
+        "drying_method": "vacuum-dried"
+      }
+    },
+    {
+      "name": "complex [{Rh(PhN3Ph)(HO-C8H11)}n] (3n)",
+      "synthesis_conditions": {
+        "precursors": [
+          {
+            "name": "2",
+            "amount": "100 mg",
+            "molar_amount": "0.12 mmol"
+          }
+        ],
+        "solvent": "CH2Cl2",
+        "solvent_amount": "10 mL",
+        "atmosphere": "argon",
+        "temperature": "room temperature",
+        "time": "72 h",
+        "yield": "70 %",
+        "additional_solvent": "hexane",
+        "additional_solvent_amount": "10 mL",
+        "drying_method": "dried under vacuum"
+      }
+    }
+  ]
+}

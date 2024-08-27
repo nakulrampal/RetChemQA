@@ -1,0 +1,61 @@
+{
+  "materials": [
+    {
+      "name": "MONT-1",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "dmf",
+            "volume_ratio": "5"
+          },
+          {
+            "name": "EtOH",
+            "volume_ratio": "2"
+          },
+          {
+            "name": "H2O",
+            "volume_ratio": "1"
+          }
+        ],
+        "equipment": "N/A",
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)·6H2O",
+            "amount": "10 mg",
+            "molarity": "0.03 mmol"
+          },
+          {
+            "name": "H2ATIBDC",
+            "amount": "10 mg",
+            "molarity": "0.02 mmol"
+          },
+          {
+            "name": "4,4’-bipy",
+            "amount": "10 mg",
+            "molarity": "0.052 mmol"
+          }
+        ],
+        "time": "half an hour",
+        "washing_method": "washed with mixture of dmf/EtOH/H2O",
+        "drying_method": "dried in the air",
+        "yield": "45%",
+        "additional_information": "Slow diffusion of diethyl ether into the mixture resulted in the formation of yellow prismatic crystals."
+      }
+    },
+    {
+      "name": "MONT-1 after heating",
+      "synthesis_conditions": {
+        "temperatures": [
+          "180 °C",
+          "200 °C",
+          "240 °C",
+          "280 °C"
+        ],
+        "time_each": "1 hour",
+        "atmosphere": "in the air",
+        "additional_information": "The crystals of MONT-1 were heated at the specified temperatures in the air for 1 hour and then cooled down to room temperature. The crystal color changed gradually from light yellow to dark brown."
+      }
+    }
+  ]
+}

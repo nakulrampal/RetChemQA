@@ -1,0 +1,241 @@
+{
+  "materials": [
+    {
+      "material_name": "3,3'-H2PDBAD, L1",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "2,6-Pyridinedicarboxylic acid",
+            "amount": "2.0 g, 12.0 mmol"
+          },
+          {
+            "name": "Thionyl chloride",
+            "amount": "40.0 mL, 0.55 mol"
+          },
+          {
+            "name": "N,N-Dimethylformamide",
+            "amount": "1.0 mL, 12.9 mmol"
+          },
+          {
+            "name": "3-Aminobenzoic acid",
+            "amount": "0.96 g, 7.0 mmol"
+          },
+          {
+            "name": "Acetonitrile",
+            "amount": "40 mL"
+          }
+        ],
+        "solvents": [
+          "Acetonitrile"
+        ],
+        "temperature": [
+          "75 °C for 6 h",
+          "Room temperature for 24 h",
+          "Refluxed for 2 h"
+        ],
+        "atmosphere": "N2",
+        "yield": "0.98 g, 81%",
+        "characterization": {
+          "1H NMR": "300 MHz, DMSO-d6",
+          "IR": "ν max: 3379, 3329, 2816, 1678, 1604, 1589, 1519, 1454, 1408, 1315, 1288, 1242, 1184, 1118, 999, 933, 891, 856, 767, 740, 686 cm-1",
+          "Elemental Analysis": "% calc/found: C, 62.22/62.09; H, 3.73/3.76; N, 10.37/10.41"
+        }
+      }
+    },
+    {
+      "material_name": "4,4'-H2PDBAD, L2",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "2,6-Pyridinedicarboxylic acid",
+            "amount": "2.0 g, 12.0 mmol"
+          },
+          {
+            "name": "Thionyl chloride",
+            "amount": "40.0 mL, 0.55 mol"
+          },
+          {
+            "name": "N,N-Dimethylformamide",
+            "amount": "1.0 mL, 12.9 mmol"
+          },
+          {
+            "name": "4-Aminobenzoic acid",
+            "amount": "0.96 g, 7.0 mmol"
+          },
+          {
+            "name": "Acetonitrile",
+            "amount": "40 mL"
+          }
+        ],
+        "solvents": [
+          "Acetonitrile"
+        ],
+        "temperature": [
+          "75 °C for 6 h",
+          "Room temperature for 24 h",
+          "Refluxed for 2 h"
+        ],
+        "atmosphere": "N2",
+        "yield": "0.96 g, 79%",
+        "characterization": {
+          "1H NMR": "300 MHz, DMSO-d6",
+          "IR": "ν max: 3286, 3228, 2808, 1697, 1658, 1589, 1554, 1531, 1438, 1292, 1230, 1138, 1080, 999, 948, 898, 813, 756, 736, 659 cm-1",
+          "Elemental Analysis": "% calc/found: C, 62.22/61.97; H, 3.73/3.60; N, 10.37/10.20"
+        }
+      }
+    },
+    {
+      "material_name": "Mo2(OAc)4",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Mo(CO)6",
+            "amount": "2.99 g, 11.3 mmol"
+          },
+          {
+            "name": "Glacial acetic acid",
+            "amount": "100 mL"
+          },
+          {
+            "name": "Acetic anhydride",
+            "amount": "20 mL"
+          }
+        ],
+        "temperature": "Reflux for 32 h",
+        "atmosphere": "N2",
+        "yield": "1.0176 g (2.2 mmol), 39%"
+      }
+    },
+    {
+      "material_name": "[Mo2(γ-L1)2(DEF)2]4·S (1)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "H2L1",
+            "amount": "20 mg"
+          },
+          {
+            "name": "Mo(OAc)2",
+            "amount": "20 mg"
+          },
+          {
+            "name": "N,N-diethylformamide (DEF)",
+            "amount": "1.5 mL"
+          }
+        ],
+        "temperature": "Room temperature for 2 days",
+        "atmosphere": "N2",
+        "yield": "Yellow block crystals",
+        "characterization": {
+          "IR": "ν max: 3313, 3078, 1681, 1589, 1531, 1392, 1303, 1222, 1141, 1076, 979, 910, 840, 810, 756, 678 cm-1",
+          "Elemental Analysis": "% calc/found: C, 50.52/46.92; H, 2.62/3.66; N, 8.42/9.01"
+        }
+      }
+    },
+    {
+      "material_name": "[Cu2(γ-L1)2(DMA)2]4·S (2)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "H2L1",
+            "amount": "8 mg"
+          },
+          {
+            "name": "Cu(OAc)2",
+            "amount": "8 mg"
+          },
+          {
+            "name": "N,N-dimethylacetamide (DMA)",
+            "amount": "1.5 mL"
+          }
+        ],
+        "temperature": "4 °C for 2 days",
+        "yield": "Green block crystals",
+        "characterization": {
+          "IR": "ν max: 3294, 3078, 1678, 1531, 1431, 1392, 1307, 1222, 1145, 1080, 999, 910, 837, 759, 678 cm-1",
+          "Elemental Analysis": "% calc/found: C, 54.02/51.72; H, 2.81/4.58; N, 9.00/11.02"
+        }
+      }
+    },
+    {
+      "material_name": "[Cu2(L2)2(DMA)2]6·S (3)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "H2L2",
+            "amount": "40 mg"
+          },
+          {
+            "name": "Cu(NO3)2",
+            "amount": "25 mg"
+          },
+          {
+            "name": "2,6-Lutidine",
+            "amount": "0.1 mL"
+          },
+          {
+            "name": "DMA",
+            "amount": "15 mL"
+          }
+        ],
+        "temperature": "Room temperature for 1 day",
+        "yield": "Blue plate crystals",
+        "characterization": {
+          "IR": "ν max: 3260, 3101, 1662, 1600, 1527, 1384, 1315, 1176, 1110, 1080, 1014, 860, 779, 744, 682 cm-1",
+          "Elemental Analysis": "% calc/found: C, 54.02/50.65; H, 2.81/3.86; N, 9.00/8.97"
+        }
+      }
+    },
+    {
+      "material_name": "[Mo2(γ-L1)2(DMA)2]4[Mo2(α-L1)2(DMA)2]2·S (4)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "H2L1",
+            "amount": "20 mg"
+          },
+          {
+            "name": "Mo(OAc)2",
+            "amount": "20 mg"
+          },
+          {
+            "name": "DMA",
+            "amount": "1.5 mL"
+          }
+        ],
+        "temperature": "85 °C for 2 days",
+        "atmosphere": "N2",
+        "yield": "Light red block crystals",
+        "characterization": {
+          "IR": "ν max: 3290, 3082, 1658, 1589, 1531, 1388, 1300, 1222, 1138, 1076, 956, 914, 840, 813, 756, 675 cm-1",
+          "Elemental Analysis": "% calc/found: C, 50.52/48.14; H, 2.62/3.82; N, 8.42/8.73"
+        }
+      }
+    },
+    {
+      "material_name": "Cu–Core Mo–Shell [Mo2(γ-L1)2]4[Cu2(α-L1)2]2·S (4′)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Crystals of 4",
+            "amount": "20 mg"
+          },
+          {
+            "name": "Cu(NO3)2 solution in DMF",
+            "amount": "0.1 M, 2 mL"
+          }
+        ],
+        "temperature": "Room temperature",
+        "atmosphere": "Ar",
+        "time": [
+          "6 h",
+          "48 h"
+        ],
+        "yield": "Partial metathesis observed",
+        "characterization": {
+          "EDS": "Cu/Mo molar ratios remained the same (1:1.1) after 6 or 48 h of exchange"
+        }
+      }
+    }
+  ]
+}

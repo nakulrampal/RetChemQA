@@ -1,0 +1,36 @@
+{
+  "materials": [
+    {
+      "name": "UNLPF-10",
+      "synthesis_conditions": {
+        "solvents": "N,N-dimethylformamide (DMF)",
+        "solvent_amounts": "5 mL",
+        "chemicals_used": [
+          {
+            "name": "H10tbcppp",
+            "amount": "8.0 mg",
+            "molar_amount": "0.005 mmol"
+          },
+          {
+            "name": "In(NO3)3·H2O",
+            "molar_amount_range": "0.025 mmol to 0.250 mmol"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "0.2 mL"
+          }
+        ],
+        "procedure": "The solution was sonicated for 30 minutes, then heated from 30°C to 80°C in 1 hour and held at 80°C for 72 hrs.",
+        "washing_method": "washed with fresh DMF",
+        "drying_method": "collected by vacuum filtration",
+        "yield": "not specified",
+        "characterization_methods_excluded": [
+          "Single crystal X-ray crystallographic studies",
+          "PXRD patterns",
+          "NMR spectroscopy",
+          "ICP–MS analysis"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "materials": [
+    {
+      "name": "TABD-MOF-1",
+      "synthesis": {
+        "temperature": "85 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "1 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.5 mL"
+          },
+          {
+            "name": "ethanol",
+            "amount": "0.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Mg(NO3)2·6H2O",
+            "amount": "0.02 mmol/L"
+          },
+          {
+            "name": "TABD-COOH",
+            "amount": "0.01 mmol/L"
+          }
+        ],
+        "time": "24 h",
+        "yield": "54%",
+        "crystal_shape": "Diamond-shaped",
+        "analysis": {
+          "IR": "3432 (m), 1661 (s), 1555 (w), 1438 (vw), 1402 (s), 1344 (w), 1104 (m), 871 (w), 794 (m), 767 (w), 715 (w), 696 (m), 490 (w)"
+        }
+      }
+    },
+    {
+      "name": "TABD-MOF-2",
+      "synthesis": {
+        "temperature": "85 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "1 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.5 mL"
+          },
+          {
+            "name": "ethanol",
+            "amount": "0.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Ni(NO3)2·6H2O",
+            "amount": "0.02 mmol/L"
+          },
+          {
+            "name": "TABD-COOH",
+            "amount": "0.01 mmol/L"
+          }
+        ],
+        "time": "24 h",
+        "yield": "65%",
+        "crystal_shape": "Diamond-shaped",
+        "analysis": {
+          "IR": "3402 (m), 1642 (s), 1582 (vw), 1521 (w), 1421 (m), 1378 (m), 1104 (s), 859 (m), 789 (w), 764 (w), 715 (w), 687 (m), 498 (w)"
+        }
+      }
+    },
+    {
+      "name": "TABD-MOF-3",
+      "synthesis": {
+        "temperature": "85 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "1 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.5 mL"
+          },
+          {
+            "name": "ethanol",
+            "amount": "0.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Co(NO3)2·6H2O",
+            "amount": "0.02 mmol/L"
+          },
+          {
+            "name": "TABD-COOH",
+            "amount": "0.01 mmol/L"
+          }
+        ],
+        "time": "24 h",
+        "yield": "78%",
+        "crystal_shape": "Diamond-shaped",
+        "analysis": {
+          "IR": "3423 (m), 1647 (s), 1525 (s), 1437 (vw), 1418 (s), 1382 (m), 1107 (m), 855 (s), 791 (m), 765 (m), 739 (m), 716 (m), 685 (s), 497 (m)"
+        }
+      }
+    }
+  ]
+}

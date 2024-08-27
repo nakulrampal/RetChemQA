@@ -1,0 +1,105 @@
+{
+  "materials": [
+    {
+      "material_name": "[Zn1–xNix(HF2)(pyz)2]SbF6",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "details": {
+            "solvents": [
+              {
+                "name": "HF",
+                "amount": "5 mL",
+                "concentration": "51% aq. soln. by wt."
+              },
+              {
+                "name": "H2O",
+                "amount": "8 mL"
+              }
+            ],
+            "chemicals_used": [
+              {
+                "name": "ZnF2 or 0.9 ZnF2 / 0.1 NiF2",
+                "state": "dissolved"
+              },
+              {
+                "name": "HSbF6",
+                "amount": "0.25 mL",
+                "concentration": "65% aq. soln. by wt."
+              },
+              {
+                "name": "pyrazine",
+                "amount": "two equivalents",
+                "state": "neat"
+              }
+            ],
+            "temperature": "room temperature",
+            "time": "about two weeks",
+            "equipment": "beaker covered with perforated Paraﬁlm",
+            "washing_method": "vacuum filtration, washed with fresh EtOH, Et2O",
+            "drying_method": "dried in vacuo for about 20 minutes"
+          }
+        }
+      ]
+    },
+    {
+      "material_name": "[Zn0.8Ni0.2(HF2)(pyz)2]SbF6",
+      "synthesis_conditions": [
+        {
+          "step": "X-ray fluorescence",
+          "details": {
+            "equipment": "Rigaku Primus IV Wavelength Dispersive X-ray Fluorescence (WDXRF) system",
+            "sample_preparation": "Finely crushed powder samples, ≈ 50 mg, tightly packed in an 11.9 mm diameter filter paper zero background holder with a polypropylene (PP) film",
+            "measurement_conditions": "Tube power at 3 kW (4 kW for F Kα peak), counting time chosen for sufficient statistics, total measurement time was 11 minutes"
+          }
+        },
+        {
+          "step": "Single crystal X-ray diffraction",
+          "details": {
+            "temperature": "298 K",
+            "equipment": "Bruker D8 Venture CPAD DUO micro-source diffractometer",
+            "radiation": "CuKα radiation (λ = 1.54178 Å)",
+            "corrections_applied": "Lorentzian, absorption, polarization effects",
+            "analysis_software": "SADABS, SHELXT, XSEED, SHELX"
+          }
+        },
+        {
+          "step": "Synchrotron X-ray powder diffraction",
+          "details": {
+            "temperature": "298 K",
+            "equipment": "beamline 11-BM at the Advanced Photon Source (APS)",
+            "radiation": "average wavelength of 0.41275 Å",
+            "sample_preparation": "powder sample mounted within a 1.3 mm diameter ampoule, spun at ≈ 5400 RPM"
+          }
+        },
+        {
+          "step": "SQUID magnetometry",
+          "details": {
+            "temperature_range": "1.8 ≤ T ≤ 300 K",
+            "magnetic_field_range": "0 ≤ µ0H ≤ 7 T",
+            "equipment": "Quantum Design MPMS XL SQUID magnetometer",
+            "sample_preparation": "Powder samples with masses of 2 − 5 mg packed in gelatin capsules, loaded in a plastic drinking straw"
+          }
+        },
+        {
+          "step": "Pulsed-field magnetization",
+          "details": {
+            "temperature": "base temperature of 0.5 K",
+            "magnetic_field_range": "up to 60 T",
+            "equipment": "1.5 mm bore, 1.5 mm long, 1500−turn compensated-coil susceptometer",
+            "sample_preparation": "sample mounted within a 1.3 mm diameter ampoule"
+          }
+        },
+        {
+          "step": "Electron-spin resonance",
+          "details": {
+            "temperature_range": "≈ 3 to 20 K",
+            "frequency_range": "52–626 GHz",
+            "equipment": "home-built spectrometer at the EMR facility of the National High Magnetic Field Laboratory",
+            "sample_preparation": "powdered samples"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "materials": [
+    {
+      "name": "UTSA-400",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "Ni(NO3)2·6H2O",
+            "amount": "0.0875g",
+            "molar_amount": "0.3 mmol"
+          },
+          {
+            "name": "WO3",
+            "amount": "0.070g",
+            "molar_amount": "0.3 mmol"
+          },
+          {
+            "solvents": [
+              {
+                "name": "water",
+                "amount": "1 mL"
+              },
+              {
+                "name": "HF (48%, aqueous)",
+                "amount": "0.2 mL"
+              }
+            ]
+          },
+          {
+            "name": "pyrazine",
+            "amount": "0.200g",
+            "molar_amount": "2.5 mmol",
+            "solvent_amount": "1 mL of water"
+          }
+        ],
+        "temperature": [
+          {
+            "step": "initial reaction",
+            "value": "160 oC",
+            "duration": "48 hours"
+          },
+          {
+            "step": "second reaction",
+            "value": "140 oC",
+            "duration": "24 hours"
+          }
+        ],
+        "yield": "90%",
+        "based_on": "W",
+        "washing_method": "water",
+        "solvent_exchange": [
+          "methanol",
+          "acetone"
+        ],
+        "caution": "HF is toxic and corrosive. It must be handled with extreme caution and the appropriate protective gear."
+      },
+      "x-ray_crystallography": {
+        "temperature": "100 K",
+        "crystal_system": "tetragonal",
+        "space_group": "P4/mmm",
+        "a": "6.96700(10) Å",
+        "c": "7.8308(2) Å",
+        "Z": "4",
+        "F(000)": "238.0",
+        "Dc": "2.231 g cm-3",
+        "reflns_coll": "1913",
+        "unique_reflns": "250",
+        "Rint": "0.0326",
+        "R1": [
+          "0.0269 [I > 2σ(I)]",
+          "0.0269 (all data)"
+        ],
+        "wR2": [
+          "0.0712 [I > 2σ(I)]",
+          "0.0712 (all data)"
+        ],
+        "GOF": "1.072",
+        "largest_diff_peak_hole": "0.60/-1.35 e Å-3"
+      },
+      "gas_sorption_measurement": {
+        "equipment": "automatic volumetric adsorption apparatus ASAP 2020",
+        "activation_temperature": "100 °C",
+        "activation_duration": "overnight",
+        "equilibrium_time": "at least 30 seconds"
+      },
+      "in_situ_infrared_spectroscopy": {
+        "equipment": "Nicolet 6700 FTIR spectrometer",
+        "detector": "liquid N2-cooled mercury cadmium telluride (MCT-A) detector",
+        "sample_amount": "~5 mg",
+        "activation_temperature": "150 ºC",
+        "activation_duration": ">3 h",
+        "temperature_for_measurement": "24 °C"
+      },
+      "breakthrough_experiments": {
+        "column_dimensions": {
+          "inner_diameter": "9 mm",
+          "length": "150 mm"
+        },
+        "sample_amount": [
+          {
+            "material": "UTSA-400",
+            "amount": "0.85 g"
+          },
+          {
+            "material": "NbOFFIVE-1-Ni",
+            "amount": "0.75g"
+          }
+        ],
+        "activation_temperature": "105°C",
+        "gas_flow_rate": "2 mL min-1",
+        "pressure": "1 bar",
+        "regeneration_methods": [
+          "helium purge",
+          "temperature swing adsorption (heating at 100 °C)",
+          "combined vacuum and temperature swing adsorption"
+        ]
+      },
+      "computational_details": {
+        "software": "CASTEP code in the Material Studio 2019 package",
+        "DFT_functional": "GGA with the Perdew-Burke-Ernzerhof (PBE) functional",
+        "pseudopotentials": "on-the-fly generated ultrasoft pseudopotentials",
+        "van_der_Waals_correction": "Grimme (G06) semiempirical methods",
+        "cutoff_energy": "650 eV",
+        "k-point_mesh": "2×2×1",
+        "convergence_threshold": "1×10−5 eV atom −1",
+        "geometry_optimization": "full geometry optimizations were performed"
+      }
+    }
+  ]
+}

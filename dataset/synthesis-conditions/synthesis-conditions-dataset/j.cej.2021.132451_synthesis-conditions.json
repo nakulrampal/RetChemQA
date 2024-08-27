@@ -1,0 +1,82 @@
+{
+  "materials": [
+    {
+      "material": "1",
+      "synthesis": {
+        "method": "hydrothermal",
+        "chemicals": [
+          {
+            "name": "benzoic acid",
+            "amount": "1.0 g",
+            "form": "pellet"
+          },
+          {
+            "name": "samples",
+            "amount": "150 mg"
+          },
+          {
+            "name": "benzoic acid",
+            "amount": "600 mg",
+            "form": "calculated"
+          }
+        ],
+        "equipment": "oxygen bomb calorimetry (5E-AC8018, Changsha Kaiyuan Instruments Co., LTD, China)",
+        "temperature": "298.15 K",
+        "yield": "Not specified",
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "solvents": [
+          {
+            "name": "oxygen",
+            "amount": "Not specified",
+            "atmosphere": true
+          }
+        ],
+        "other_conditions": [
+          "pellet pressed for better combustion",
+          "combustion in pure oxygen atmosphere"
+        ]
+      }
+    },
+    {
+      "material": "2",
+      "synthesis": {
+        "method": "solvothermal",
+        "chemicals": [
+          {
+            "name": "Cd(NO3)2·4H2O",
+            "amount": "123.2 mg",
+            "molar_amount": "0.4 mmol"
+          },
+          {
+            "name": "NaN3",
+            "amount": "26.0 mg",
+            "molar_amount": "0.4 mmol"
+          },
+          {
+            "name": "Htz",
+            "amount": "14.0 mg",
+            "molar_amount": "0.2 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "H2O and MeOH",
+            "amount": "8 mL",
+            "ratio": "1:1 v/v"
+          }
+        ],
+        "equipment": "20 mL Teflon-lined stainless autoclave",
+        "temperature": "160 °C",
+        "time": "4 d",
+        "yield": "52% based on Htz",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "other_conditions": [
+          "cooled slowly to room temperature over 2 d"
+        ]
+      }
+    }
+  ]
+}

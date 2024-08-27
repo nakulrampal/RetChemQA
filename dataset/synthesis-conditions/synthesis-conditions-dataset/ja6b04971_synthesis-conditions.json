@@ -1,0 +1,169 @@
+{
+  "materials": [
+    {
+      "name": "Polymer 1'",
+      "synthesis": {
+        "chemicals_used": "Dimethyl 4,6-dihydroxy-isophthalate, 1-bromo-2-[2-[2-(2-bromoethoxy)ethoxy]ethoxy]ethane, K2CO3, DMF, acetone",
+        "temperature": "100 °C",
+        "time": "24 h",
+        "yield": "72%",
+        "washing_method": "acetone (3×5 mL)",
+        "drying_method": "60 °C oven"
+      }
+    },
+    {
+      "name": "Polymer 2'",
+      "synthesis": {
+        "chemicals_used": "Dimethyl 4,6-dihydroxy-isophthalate, 1,11-dibromoundecane, K2CO3, DMF, water, methanol",
+        "temperature": "100 °C",
+        "time": "24 h",
+        "yield": "62%",
+        "washing_method": "water and methanol",
+        "drying_method": "60 °C oven"
+      }
+    },
+    {
+      "name": "Polymer 1",
+      "synthesis": {
+        "chemicals_used": "Ester precursor of Polymer 1', water, DMF, KOH, HCl",
+        "temperature": "100 °C",
+        "time": "24 h",
+        "yield": "95%",
+        "washing_method": "HCl solution",
+        "drying_method": "80 °C in vacuo"
+      }
+    },
+    {
+      "name": "Polymer 2",
+      "synthesis": {
+        "chemicals_used": "Ester precursor of Polymer 2', water, DMF, KOH, HCl",
+        "temperature": "100 °C",
+        "time": "2 d",
+        "yield": "83%",
+        "washing_method": "water (3×20 mL) and MeOH (3×20 mL)",
+        "drying_method": "60 °C oven overnight"
+      }
+    },
+    {
+      "name": "Compound 3",
+      "synthesis": {
+        "chemicals_used": "4,6-dihydroxy-isophthalate, K2CO3, 2-[2-[2-(2-methoxyethoxy)ethoxy]ethoxy]ethyl bromide, DMF, KOH, HCl, ethyl acetate",
+        "temperature": "100 °C",
+        "time": "overnight",
+        "yield": "96%",
+        "washing_method": "ethyl acetate",
+        "drying_method": "oil product"
+      }
+    },
+    {
+      "name": "MOP-H",
+      "synthesis": {
+        "chemicals_used": "Cu(NO3)2·2.5H2O, isophthalic acid (H2m-bdc), DMF, ethanol (EtOH)",
+        "temperature": "80 °C",
+        "time": "16 h",
+        "yield": "52%",
+        "washing_method": "DMF (3×5 mL) and EtOH (3×5 mL)",
+        "drying_method": "air-dried for 5 min"
+      }
+    },
+    {
+      "name": "MOP-OH",
+      "synthesis": {
+        "chemicals_used": "Cu(NO3)2·2.5H2O, 5-hydroxyisophthalic acid (5-OH-H2m-bdc), DEF, MeOH",
+        "temperature": "80 °C",
+        "time": "16 h",
+        "yield": "36%",
+        "washing_method": "DEF (3×5 mL) and CH2Cl2 (3×5 mL)",
+        "drying_method": "air-dried for 5 min"
+      }
+    },
+    {
+      "name": "MOP-NO2",
+      "synthesis": {
+        "chemicals_used": "Cu(NO3)2·2.5H2O, 5-nitroisophthalic acid (5-NO2-H2m-bdc), DMF, MeOH",
+        "temperature": "60 °C",
+        "time": "2 d",
+        "yield": "55%",
+        "washing_method": "DMF (3×5 mL) and MeOH (3×5 mL)",
+        "drying_method": "air-dried for 5 min"
+      }
+    },
+    {
+      "name": "MOF-CH3-m-bdc",
+      "synthesis": {
+        "chemicals_used": "Cu(NO3)2·2.5H2O, 5-methylisophthalic acid (5-CH3-H2m-bdc), DMF, MeOH",
+        "temperature": "60 °C",
+        "time": "2 d",
+        "yield": "55%",
+        "washing_method": "DMF (3×5 mL) and MeOH (3×5 mL)",
+        "drying_method": "air-dried for 5 min"
+      }
+    },
+    {
+      "name": "MOF-NH2-m-bdc",
+      "synthesis": {
+        "chemicals_used": "Cu(NO3)2·2.5H2O, 5-aminoisophthalic acid (5-NH2-H2m-bdc), DMF, MeOH",
+        "temperature": "60 °C",
+        "time": "2 d",
+        "yield": "51%",
+        "washing_method": "DMF (3×5 mL) and MeOH (3×5 mL)",
+        "drying_method": "air-dried for 5 min"
+      }
+    },
+    {
+      "name": "pm-MOP-H",
+      "synthesis": {
+        "chemicals_used": "Cu(NO3)2·2.5H2O, isophthalic acid (H2m-bdc), polymer 1, DMF, EtOH",
+        "temperature": "80 °C",
+        "time": "16 h",
+        "yield": "43%",
+        "washing_method": "DMF (3×5 mL) and EtOH (3×5 mL)",
+        "drying_method": "air-dried for 5 min"
+      }
+    },
+    {
+      "name": "pm-MOP-OH",
+      "synthesis": {
+        "chemicals_used": "Cu(NO3)2·2.5H2O, 5-hydroxyisophthalic acid (5-OH-H2m-bdc), polymer 1, DEF, MeOH",
+        "temperature": "80 °C",
+        "time": "16 h",
+        "yield": "36%",
+        "washing_method": "DMF (3×5 mL) and CH2Cl2 (3×5 mL)",
+        "drying_method": "air-dried for 5 min"
+      }
+    },
+    {
+      "name": "pm-MOP-NO2",
+      "synthesis": {
+        "chemicals_used": "Cu(NO3)2·2.5H2O, 5-nitroisophthalic acid (5-NO2-H2m-bdc), polymer 1, DMF, MeOH",
+        "temperature": "60 °C",
+        "time": "2 d",
+        "yield": "59%",
+        "washing_method": "DMF (3×5 mL) and MeOH (3×5 mL)",
+        "drying_method": "air-dried for 5 min"
+      }
+    },
+    {
+      "name": "pm-MOP-CH3",
+      "synthesis": {
+        "chemicals_used": "Cu(NO3)2·2.5H2O, 5-methylisophthalic acid (5-CH3-H2m-bdc), polymer 1, DMF, MeOH",
+        "temperature": "60 °C",
+        "time": "2 d",
+        "yield": "55%",
+        "washing_method": "DMF (3×5 mL) and MeOH (3×5 mL)",
+        "drying_method": "air-dried for 5 min"
+      }
+    },
+    {
+      "name": "pm-MOP-NH2",
+      "synthesis": {
+        "chemicals_used": "Cu(NO3)2·2.5H2O, 5-aminoisophthalic acid (5-NH2-H2m-bdc), polymer 1, DMF, MeOH",
+        "temperature": "60 °C",
+        "time": "2 d",
+        "yield": "61%",
+        "washing_method": "DMF (3×5 mL) and MeOH (3×5 mL)",
+        "drying_method": "air-dried for 5 min"
+      }
+    }
+  ]
+}

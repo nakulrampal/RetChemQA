@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What are the synthesis conditions for NKMOF-8-Br and NKMOF-8-Me powders?",
+      "answer": "NKMOF-8-Br and NKMOF-8-Me powders are synthesized by fully dissolving 1.06 mmol of ligands (2-bromoimidazole- or 2-methylimidazole-4, 5-dicarbonitrile) and CuI with an equal molar ratio in acetonitrile (50 mL) in a flask. Then, 10 mmol (1.5 mL) trimethylamine is added slowly to the mixture and stirred at ambient temperature until white solid precipitates completely in one minute. The resulting products are obtained by filtration, and the filtrate can be reused in seven cycles for the synthesis of NKMOF-8-Br and –Me with yields over 95%.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How are the activated MOFs prepared from the synthesized NKMOF-8-Br and NKMOF-8-Me powders?",
+      "answer": "The activated MOFs are prepared by heating the dried products of NKMOF-8-Br and NKMOF-8-Me at 100 ℃ under dynamic vacuum conditions for 8 hours to remove acetonitrile, resulting in the activation of the MOFs.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method is used to calculate the isosteric heats of adsorption (Qst) for NKMOF-8 MOFs?",
+      "answer": "The isosteric heats of adsorption (Qst) for NKMOF-8 MOFs are calculated using the Virial equation based on the isotherms collected at 273, 298, and 308 K. The fitted parameters from the Virial equation are then used to determine the Qst values for a range of uptakes.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the breakthrough experiments conducted with NKMOF-8-Br and NKMOF-8-Me for a C2H6/C2H4 mixture?",
+      "answer": "The breakthrough experiments conducted with NKMOF-8-Br and NKMOF-8-Me for a C2H6/C2H4 mixture are significant because they verify the C2H6/C2H4 separation performance of the MOFs. C2H4 of high purity (>99.99%) is produced from the separation process, demonstrating the MOFs' effectiveness in separating these gases and their excellent reusability.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of hydrophobic pores in NKMOF-8-Br and NKMOF-8-Me contribute to their performance under high humidity conditions?",
+      "answer": "The presence of hydrophobic pores in NKMOF-8-Br and NKMOF-8-Me contributes to their performance under high humidity conditions by enabling them to selectively capture C2 hydrocarbon gases even in high humidity. This is attributed to the hydrophobic nature of the pores, which repels water molecules, allowing the MOFs to operate efficiently in realistic industrial environments with high humidity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of NKMOF-8-Br and NKMOF-8-Me involves a solvothermal reaction at 100 ℃ for one day.",
+      "answer": "False. The synthesis of NKMOF-8-Br and NKMOF-8-Me powders involves stirring ligands and CuI in acetonitrile at ambient conditions for a few minutes, not a solvothermal reaction.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The gas adsorption isotherms for NKMOF-8 MOFs were measured using a Micromeritics ASAP 2460 surface area analyzer.",
+      "answer": "True. The gas adsorption isotherms for NKMOF-8 MOFs were indeed measured using a Micromeritics ASAP 2460 surface area analyzer.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does the Ideal Adsorbed Solution Theory (IAST) play in the evaluation of NKMOF-8 MOFs?",
+      "answer": "The Ideal Adsorbed Solution Theory (IAST) plays a crucial role in evaluating the C2H6/C2H4 (1:1, v/v) selectivities in NKMOF-8 MOFs at 298 K. It is used to calculate the selectivity based on the single-component adsorption isotherms for C2H4 and C2H6, providing a theoretical basis for understanding the MOFs' separation performance.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The activated NKMOF-8-Br and NKMOF-8-Me MOFs show poor water stability and cannot operate under humid conditions.",
+      "answer": "False. The activated NKMOF-8-Br and NKMOF-8-Me MOFs maintain their structural integrity under 90% RH and show low water uptake, indicating good water stability and the ability to operate under humid conditions.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental technique is used to measure the dynamic water vapor sorption for NKMOF-8-Br and NKMOF-8-Me?",
+      "answer": "The dynamic water vapor sorption for NKMOF-8-Br and NKMOF-8-Me is measured using a dynamic vapor sorption system (Surface Measurement Systems, DVS Adventure), which gravimetrically measures the uptake and loss of vapor using air as a carrier gas.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "materials": [
+    {
+      "name": "Co-BTTri",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "details": {
+            "temperature": "393 K for 7 days and 413 K for 2 days",
+            "solvents": [
+              {
+                "name": "N,N-dimethylformamide (DMF)",
+                "amount": "50 mL"
+              },
+              {
+                "name": "methanol",
+                "ratio": "10:1 DMF:MeOH"
+              }
+            ],
+            "chemicals_used": [
+              {
+                "name": "H3BTTri",
+                "amount": "200 mg",
+                "molar_amount": "0.716 mmol",
+                "equivalent": "1.00 equiv"
+              },
+              {
+                "name": "dimethylformamidium trifluoromethanesulfonate",
+                "amount": "319 mg",
+                "molar_amount": "1.43 mmol",
+                "equivalent": "2.00 equiv"
+              },
+              {
+                "name": "CoCl2",
+                "amount": "163 mg",
+                "molar_amount": "1.26 mmol",
+                "equivalent": "1.75 equiv"
+              }
+            ],
+            "equipment": "100 mL Schlenk flask",
+            "washing_method": "washed with DMF (6 × 50 mL, each wash 12 h at 393 K) and exchanged with methanol (6 × 50 mL, each wash 12 h at 343 K)",
+            "drying_method": "heated at 423 K under dynamic vacuum for 24 h",
+            "yield": "158 mg (49%)"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Co-BDTriP",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "details": {
+            "temperature": "423 K for 1 week",
+            "solvents": [
+              {
+                "name": "N,N-dimethylformamide (DMF)",
+                "amount": "4 mL"
+              },
+              {
+                "name": "methanol",
+                "ratio": "4:1 DMF:MeOH"
+              }
+            ],
+            "chemicals_used": [
+              {
+                "name": "H3BDTriP",
+                "amount": "20 mg",
+                "molar_amount": "0.072 mmol",
+                "equivalent": "1.0 equiv"
+              },
+              {
+                "name": "concentrated HCl",
+                "molar_amount": "0.079 mmol",
+                "equivalent": "1.1 equiv"
+              },
+              {
+                "name": "water",
+                "amount": "250 μL"
+              },
+              {
+                "name": "CoCl2",
+                "amount": "9.3 mg",
+                "molar_amount": "0.072 mmol",
+                "equivalent": "1.0 equiv"
+              }
+            ],
+            "equipment": "20 mL vial",
+            "washing_method": "washed with DMF (6 × 50 mL, each wash 12 h at 393 K), exchanged with methanol (6 × 50 mL, each wash 12 h at 343 K)",
+            "drying_method": "activated at 453 K for 24 h",
+            "yield": "20 mg (60%)"
+          }
+        }
+      ]
+    }
+  ]
+}

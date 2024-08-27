@@ -1,0 +1,60 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "solvents": "aqueous solution",
+        "chemicals_used": [
+          "MnCl2·4 H2O",
+          "pyridazine",
+          "K4[Nb(CN)8]·2 H2O"
+        ],
+        "storage_conditions": "closed vessel for several months without decomposition",
+        "crystallography": "single-crystal X-ray diffraction analysis",
+        "space_group": "P21/c",
+        "CCDC": "810685"
+      }
+    },
+    {
+      "name": "1 deh",
+      "synthesis_conditions": {
+        "dehydration_time": "4–6 h",
+        "weight_loss": "12 %",
+        "transformation": "from 1 to 1 deh",
+        "crystallography": "X-ray powder diffraction (XRPD) analysis",
+        "space_group": "P21/c",
+        "unit_cell_contraction": "about 17 %",
+        "CCDC": "810686"
+      }
+    },
+    {
+      "name": "1 anh",
+      "synthesis_conditions": {
+        "further_dehydration_time": "ca. 24 h",
+        "additional_weight_loss": "about 6 %",
+        "transformation": "from 1 deh to 1 anh",
+        "crystallography": "XRPD analysis",
+        "space_group": "P21/c",
+        "unit_cell_contraction": "no further contraction",
+        "CCDC": "810687"
+      }
+    },
+    {
+      "name": "1 reh",
+      "synthesis_conditions": {
+        "rehydration_steps": "two well-defined steps",
+        "first_step_time": "one hour in humid air",
+        "restoration": "1 deh is fully restored"
+      }
+    },
+    {
+      "name": "1 res",
+      "synthesis_conditions": {
+        "final_step_time": "approximately 20 h in water vapor",
+        "relative_humidity": "100 %",
+        "restoration": "original compound 1 fully restored",
+        "dehydration_rehydration_cycle_confirmation": "XRPD and IR spectroscopy"
+      }
+    }
+  ]
+}

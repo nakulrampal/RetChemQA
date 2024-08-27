@@ -1,0 +1,71 @@
+{
+  "materials": [
+    {
+      "name": "UMCM-1-OBnNO2 and UMCM-1-(OBnNO2)2",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "2-Hydroxy-1,4-benzenedicarboxylic acid (HO-BDC)",
+          "2,3-dihydroxy-1,4-benzenedicarboxylic acid (CAT-BDC, CAT = catechol)",
+          "o-nitrobenzyl bromide",
+          "4,4’,4’’-benzene-1,3,5-triyl-tribenzoate",
+          "Zn(NO3)2·6 H2O"
+        ],
+        "product": [
+          "2-((2-nitrobenzyl)oxy)terephthalic acid (NO2BnO-BDC)",
+          "2,3-bis((2-nitrobenzyl)oxy)terephthalic acid ((NO2BnO)2-BDC)"
+        ],
+        "appearance": "colorless needles",
+        "structural_analogues": "UMCM-1",
+        "analysis_methods": [
+          "Digestion in dilute acid followed by 1H NMR",
+          "Powder X-ray diffraction (PXRD)",
+          "Gas sorption experiments with N2 at 77 K"
+        ],
+        "BET_surface_areas": {
+          "UMCM-1-OBnNO2": "3219 ± 150 m2 g-1",
+          "UMCM-1-(OBnNO2)2": "2661 ± 172 m2 g-1"
+        }
+      }
+    },
+    {
+      "name": "UMCM-1-OH and UMCM-1-CAT",
+      "synthesis_conditions": {
+        "irradiation": {
+          "wavelength": "365 nm",
+          "duration": "24–48 h"
+        },
+        "color_change": "from colorless to orange",
+        "analysis_methods": [
+          "Digestion in dilute acid followed by 1H NMR",
+          "Electronic spectroscopy",
+          "ESI-MS"
+        ],
+        "deprotection_efficiency": {
+          "UMCM-1-OH": "quantitative deprotection within 24 h",
+          "UMCM-1-CAT": "ca. 75% deprotection"
+        },
+        "fluorescence": {
+          "UMCM-1-CAT": "blue (lex = 365 nm)"
+        },
+        "TGA_analysis": "Differences between the protected and deprotected UMCM MOFs",
+        "BET_surface_areas": {
+          "UMCM-1-OH": "3705 ± 177 m2 g-1",
+          "UMCM-1-CAT": "3541 ± 38 m2 g-1"
+        },
+        "pore_size_distribution_change": "from ca. 7.5 to 7.9 Å"
+      }
+    },
+    {
+      "name": "UMCM-1-FeCAT",
+      "synthesis_conditions": {
+        "treatment_with": "[Fe(acac)3] in EtOAc",
+        "duration": "24 h",
+        "color_change": {
+          "UMCM-1-(OBnNO2)2": "light orange",
+          "UMCM-1-CAT": "deep red-purple"
+        },
+        "spectroscopy_analysis": "Diffuse reflectance solid-state electronic spectroscopy"
+      }
+    }
+  ]
+}

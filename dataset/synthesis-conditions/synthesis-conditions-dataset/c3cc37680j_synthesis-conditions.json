@@ -1,0 +1,28 @@
+{
+  "materials": [
+    {
+      "name": "1-4",
+      "synthesis_conditions": {
+        "temperature": "160 °C",
+        "solvents": "distilled water",
+        "amount_of_solvent": "15 mL",
+        "equipment": "25 mL Teflon-lined steel autoclave",
+        "chemicals_used": [
+          {"chemical": "Ln(NO3)3·6H2O", "amount": "0.3 mmol", "Ln": ["Nd", "Dy", "Eu", "La"]},
+          {"chemical": "D-camphoric acid", "amount": "0.9 mmol"},
+          {"chemical": "KOH", "amount": "1.8 mmol"},
+          {"chemical": "MnCl2·4H2O", "amount": "2.5 mmol"},
+          {"chemical": "2,2'-bipy", "amount": "0.8 mmol"}
+        ],
+        "time": "5 days",
+        "washing_method": "washed with distilled water",
+        "yield": [
+          {"based_on": "Nd", "yield_percentage": "ca. 72%"},
+          {"based_on": "Dy", "yield_percentage": "68%"},
+          {"based_on": "Eu", "yield_percentage": "59%"},
+          {"based_on": "La", "yield_percentage": "75%"}
+        ]
+      }
+    }
+  ]
+}

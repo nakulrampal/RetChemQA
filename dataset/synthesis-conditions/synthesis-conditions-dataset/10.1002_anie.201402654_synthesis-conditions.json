@@ -1,0 +1,77 @@
+{
+  "materials": [
+    {
+      "name": "MIL-96",
+      "synthesis_conditions": {
+        "temperature": "130 8C",
+        "time": "18 h",
+        "solvents": "1:1 H2O:DMF",
+        "chemicals_used": [
+          "Al(NO3)3",
+          "trimesic acid"
+        ],
+        "reactor_capacity": [
+          {
+            "size": "3 mL",
+            "amount_of_reaction_mixture": "2 mL"
+          },
+          {
+            "size": "20 mL",
+            "amount_of_reaction_mixture": "10 mL"
+          }
+        ],
+        "heating_method": "oven",
+        "yield": "60 % from the 3D printed reactor compared with 65 % from the traditional apparatus"
+      }
+    },
+    {
+      "name": "HKUST-1",
+      "synthesis_conditions": {
+        "temperature": "120 8C",
+        "solvents": "1:1 ethanol:water mixture",
+        "yield": "excellent",
+        "comments": "showing the scope of solvents which can be used in the 3D printed PP devices"
+      }
+    },
+    {
+      "name": "[Cu(L5-2 H)(P3)]n",
+      "synthesis_conditions": {
+        "temperature": "120 8C",
+        "time": "48 h",
+        "solvents": "aqueous",
+        "chemicals_used": [
+          "0.05 m M(NO3)2 solution",
+          "0.3 m NaOH solution"
+        ],
+        "reactor_capacity": [
+          {
+            "size": "1 mL",
+            "amount_of_reaction_mixture": "0.5 mL M(NO3)2 solution and 0.1 mL NaOH solution"
+          }
+        ],
+        "optimization": "5 x 5 high throughput arrays of hydrothermal experiments were performed which systematically varied the synthetic conditions",
+        "scale_up": "20 mL capacity reactor R2",
+        "yield": "good, with no loss of purity compared to traditional hydrothermal apparatus"
+      }
+    },
+    {
+      "name": "[Cd(L5-2 H)(P3)]n",
+      "synthesis_conditions": {
+        "temperature": "120 8C",
+        "time": "48 h",
+        "solvents": "aqueous",
+        "chemicals_used": [
+          "0.05 m M(NO3)2 solution",
+          "0.3 m NaOH solution"
+        ],
+        "reactor_capacity": [
+          {
+            "size": "1 mL",
+            "amount_of_reaction_mixture": "0.5 mL M(NO3)2 solution and 0.1 mL NaOH solution"
+          }
+        ],
+        "comments": "Generated further hits with Cd(NO3)2 as the metal source"
+      }
+    }
+  ]
+}

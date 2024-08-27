@@ -1,0 +1,30 @@
+{
+  "materials": [
+    {
+      "name": "Ca-trimesate, Ca(HBTC)·H2O (H3BTC = trimesic acid), bnn-1-Ca-H2O",
+      "synthesis_conditions": {
+        "phases": [
+          {
+            "name": "as-synthesised phase",
+            "activation": "activated in vacuo at 333 K"
+          },
+          {
+            "name": "bnn-1-Ca-H2O",
+            "activation": "further activated at 373 K to afford bnn-1-Ca"
+          }
+        ],
+        "thermal_stability": "stable to temperatures up to 363 K",
+        "dehydration": "Exposure to ambient laboratory conditions (294 K, 53 % RH) over 10 h resulted in regeneration of (bnn-1-Ca-H2O)·H2O"
+      }
+    },
+    {
+      "name": "bnn-1-Ca",
+      "synthesis_conditions": {
+        "activation": "activated under vacuum at 423 K for two hours, with increased activation time to five hours leading to substantial ligand disorder",
+        "thermal_stability": "stable to temperatures up to 578 K",
+        "reversibility": "Exposure to ambient air for two weeks nearly reverted to the structure of (bnn-1-Ca-H2O)·H2O",
+        "pore_diameter": "0.31 nm"
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "materials": [
+    {
+      "name": "Compound 1",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "3 mL"
+          },
+          {
+            "name": "DMF",
+            "amount": "3 mL"
+          }
+        ],
+        "equipment": "25 mL Teflon-lined stainless steel reactor",
+        "chemicals_used": [
+          {
+            "name": "Co(OAc)2·4H2O",
+            "amount": "0.0252 g, 0.1 mmol"
+          },
+          {
+            "name": "H3TDA",
+            "amount": "0.0319 g, 0.2 mmol"
+          },
+          {
+            "name": "HTZ",
+            "amount": "0.0070 g, 0.1 mmol"
+          },
+          {
+            "name": "NaHCO3 aqueous solution",
+            "amount": "0.2 mol dm-3",
+            "purpose": "adjust pH to 6.46"
+          }
+        ],
+        "time": "72 h",
+        "cooling_rate": "cooled to room temperature at a speed of 1 °C h-1",
+        "yield": "ca. 43% (based on Co)",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "additional_information": "Pink rhombic crystals of 1 were obtained."
+      }
+    }
+  ]
+}

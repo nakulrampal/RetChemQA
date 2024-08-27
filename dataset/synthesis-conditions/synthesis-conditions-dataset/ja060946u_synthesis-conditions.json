@@ -1,0 +1,56 @@
+{
+  "materials": [
+    {
+      "material": "[Zn2(L)]·4H2O (I)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "130 °C",
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "30 mL"
+            }
+          ],
+          "equipment": "45 mL Parr bomb",
+          "chemicals_used": [
+            {
+              "name": "H4L",
+              "amount": "0.1660 g, 0.50 mmol"
+            },
+            {
+              "name": "ZnCl2",
+              "amount": "0.137 g, 1.00 mmol"
+            },
+            {
+              "name": "2,6-lutidine",
+              "amount": "0.22 g, 2.00 mmol"
+            }
+          ],
+          "time": "6 days",
+          "washing_method": "sequentially with deionized water, EtOH, and Et2O",
+          "drying_method": "in air",
+          "yield": "0.2015 g (76%)"
+        }
+      ]
+    },
+    {
+      "material": "[Zn2(L)]∞ (II)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "description": "Compound II can be prepared from I by heating I to 100 °C for 1 h in an oven or by exposure of I under an anhydrous environment, e.g., dynamic vacuum or dried nitrogen flow at room temperature."
+        }
+      ]
+    },
+    {
+      "material": "[Zn2(L)]∞·0.55Benzene (III)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "description": "Compound I was dehydrated by heating to 100 °C for 1 h in an oven, and after removing the sample from the oven, II was treated with anhydrous benzene vapor to give the resultant material III."
+        }
+      ]
+    }
+  ]
+}

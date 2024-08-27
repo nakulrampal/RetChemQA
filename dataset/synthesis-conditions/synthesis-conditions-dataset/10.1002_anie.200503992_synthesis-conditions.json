@@ -1,0 +1,39 @@
+{
+  "materials": [
+    {
+      "name": "1·2 MeCN",
+      "synthesis_conditions": {
+        "temperature": "Not specified",
+        "solvents": ["Methanol (MeOH)"],
+        "amount_of_solvents": ["30 mL for KL solution", "40 mL for Fe(ClO4)3·x H2O solution"],
+        "equipment": "Not specified",
+        "chemicals_used": ["KL (0.512 g, 2 mmol)", "Fe(ClO4)3·x H2O (0.354 g, 1 mmol)"],
+        "time": "4 h",
+        "washing_method": "Not specified",
+        "drying_method": "Recrystallized from MeCN/CHCl3",
+        "yield": "58.7 %",
+        "additional_notes": "Resultant orange precipitate was separated by filtration."
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "method_A": {
+          "solvents": ["MeCN", "CHCl3"],
+          "amount_of_solvents": ["5 mL for 1·2 MeCN solution", "5 mL for Rh2(OAc)4·2 py solution"],
+          "chemicals_used": ["1·2 MeCN (0.017 g, 0.025 mmol)", "Rh2(OAc)4·2 py (0.045 g, 0.075 mmol)"],
+          "time": "2 d",
+          "yield": "47.4 %",
+          "additional_notes": "Red crystals of 2·x S separated, lost crystallinity once out of the mother liquor."
+        },
+        "method_B": {
+          "solvents": ["MeCN", "CHCl3"],
+          "amount_of_solvents": ["5 mL for 1·2 MeCN solution", "5 mL for Rh2(OAc)4·2 MeOH solution in MeCN/CHCl3 (4:1, 5 mL)"],
+          "chemicals_used": ["1·2 MeCN (0.034 g, 0.05 mmol)", "Rh2(OAc)4·2 MeOH (0.076 g, 0.15 mmol)"],
+          "time": "2 d",
+          "additional_notes": "Red crystals separated."
+        }
+      }
+    }
+  ]
+}

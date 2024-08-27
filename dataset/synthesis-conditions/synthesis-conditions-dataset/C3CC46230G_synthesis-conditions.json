@@ -1,0 +1,50 @@
+{
+  "materials": [
+    {
+      "name": "1-S and 1-R",
+      "synthesis_conditions": {
+        "solvents": "H2O/EtOH",
+        "solvent_amounts": {
+          "H2O": "6 mL",
+          "EtOH": "2 mL"
+        },
+        "chemicals_used": {
+          "L": {
+            "amount": "48 mg",
+            "molarity": "0.2 mmol"
+          },
+          "Zn(ClO4)2.6H2O": {
+            "amount": "74 mg",
+            "molarity": "0.2 mmol"
+          },
+          "L or D- pyroglutamate": {
+            "amount": "52 mg",
+            "molarity": "0.4 mmol"
+          },
+          "1N NaOH": {
+            "amount": "0.4 mL"
+          }
+        },
+        "reaction_time": "20 min",
+        "yield": "55 mg, 44%",
+        "elemental_analysis": {
+          "calculated": {
+            "C": "36.49%",
+            "H": "5.48%",
+            "N": "11.20%"
+          },
+          "found_1-S": {
+            "C": "36.23%",
+            "H": "5.50%",
+            "N": "11.29%"
+          },
+          "found_1-R": {
+            "C": "36.40%",
+            "H": "5.48%",
+            "N": "11.46%"
+          }
+        }
+      }
+    }
+  ]
+}

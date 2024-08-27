@@ -1,0 +1,70 @@
+{
+  "materials": [
+    {
+      "name": "In-IA-2D-1",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "N,N′-dimethylformamide (DMF)",
+            "amount": "4 ml"
+          },
+          {
+            "name": "H2O",
+            "amount": "1 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "isophthalic acid (IA)",
+            "amount": "1.0 mmol (0.170 gm)"
+          },
+          {
+            "name": "tetramethylammonium chloride",
+            "amount": "1.00 mmol (0.1096 gm)"
+          },
+          {
+            "name": "In(NO3)3.xH2O",
+            "amount": "0.3 mmol (0.102 gm)"
+          }
+        ],
+        "time": "96 hours",
+        "yield": "Not specified",
+        "drying_method": "Air dried",
+        "drying_time": "20 minutes",
+        "washing_method": "Repeatedly with DMF and H2O"
+      }
+    },
+    {
+      "name": "In-IA-2D-2",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2 ml"
+          },
+          {
+            "name": "H2O",
+            "amount": "1 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "IA",
+            "amount": "0.3 mmol (0.049 gm)"
+          },
+          {
+            "name": "In(NO3)3.3H2O",
+            "amount": "0.1 mmol (0.031 gm)"
+          }
+        ],
+        "time": "126 hours",
+        "yield": "~77%",
+        "drying_method": "Air dried",
+        "drying_time": "20 minutes",
+        "washing_method": "Repeatedly with DMF and H2O"
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "materials": [
+    {
+      "material": "1",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "CH2Cl2",
+            "amount": "not specified"
+          },
+          {
+            "name": "MeOH",
+            "amount": "not specified"
+          },
+          {
+            "name": "toluene",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "4,4‘-pytz",
+            "amount": "not specified"
+          },
+          {
+            "name": "Cd(NO3)2·4H2O",
+            "amount": "not specified"
+          }
+        ],
+        "method": "diffusion of toluene into the pink mother liquor obtained by layering solutions of 4,4‘-pytz in CH2Cl2 and Cd(NO3)2·4H2O in MeOH"
+      }
+    },
+    {
+      "material": "2",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "EtOH",
+            "amount": "not specified"
+          }
+        ],
+        "note": "The use of EtOH instead of MeOH results in a simpler, noninterpenetrated, molecular ladder motif."
+      }
+    }
+  ]
+}

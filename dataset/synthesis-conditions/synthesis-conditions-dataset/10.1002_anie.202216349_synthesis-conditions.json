@@ -1,0 +1,93 @@
+{
+  "materials": [
+    {
+      "name": "U-Me2BPDC-8",
+      "synthesis_conditions": {
+        "precursor": "U-Me2BPDC-8",
+        "source_of_Th": "thorium nitrate",
+        "experimental_conditions": [
+          {
+            "condition": "anaerobic",
+            "result": "transmetallation did not occur"
+          },
+          {
+            "condition": "in air",
+            "result": "transmetallation was rapidly completed"
+          }
+        ],
+        "observations": [
+          {
+            "observation": "formation of stable UO2 2+ could be a driving force for the successful U!Th transmetallation process"
+          }
+        ]
+      }
+    },
+    {
+      "name": "U/Th-Me2BPDC-8",
+      "synthesis_conditions": {
+        "precursor": "U-Me2BPDC-8",
+        "source_of_Th": "thorium nitrate",
+        "transmetallation_rate_constant": "k1 = 5.64 × 10^-6 s^-1",
+        "enthalpy_of_transmetallation": "ΔH°rxn values vary with %Th content, more negative with higher %Th",
+        "thermal_stability": "increases with higher %Th content",
+        "color_change": "from dark green (U-Me2BPDC-8) to colorless (Th-Me2BPDC-8)",
+        "photoluminescence_behavior": "hypsochromic shift in emission upon increasing the thorium content"
+      }
+    },
+    {
+      "name": "U/Pu-Me2BPDC-8",
+      "synthesis_conditions": {
+        "precursor": "U-Me2BPDC-8",
+        "source_of_239Pu": "PuIV nitrate",
+        "concentration_of_239Pu": "1.00 × 10^5 Bq mL^-1 initially, increased to 8.20 × 10^6 Bq mL^-1",
+        "transmetallation_time": "three and six hours",
+        "resulting_239Pu_concentration": "increased by 10 times and 15 times, respectively",
+        "observations": [
+          {
+            "observation": "structural integrity of the framework confirmed through PXRD analysis"
+          }
+        ]
+      }
+    },
+    {
+      "name": "239Pu-Me2BPDC-12",
+      "synthesis_conditions": {
+        "method": "direct synthesis",
+        "isostructural_to": "UiO-67",
+        "source_of_239Pu": "PuIV nitrate",
+        "observations": [
+          {
+            "observation": "attempts to prepare 239Pu-Me2BPDC-12 isostructural to U-Me2BPDC-8 or Th-Me2BPDC-8 using the direct synthesis were unsuccessful"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Th-Me2BPDC-10",
+      "synthesis_conditions": {
+        "approaches": [
+          {
+            "name": "Approach I",
+            "steps": [
+              "synthesis of An-MOF",
+              "metal node extension using UO2 2+",
+              "linker exchange to install BPyDC2-",
+              "inclusion of An as guests"
+            ]
+          },
+          {
+            "name": "Approach II",
+            "steps": [
+              "synthesis of An-MOF",
+              "linker exchange to integrate BPyDC2-",
+              "An-inclusion as guests"
+            ]
+          }
+        ],
+        "maximum_actinide_content": "60 wt% based on ICP-MS data",
+        "theoretical_maximum_capacity": "62 wt%",
+        "achieved_capacity": "97% of the theoretical maximum"
+      }
+    }
+  ]
+}

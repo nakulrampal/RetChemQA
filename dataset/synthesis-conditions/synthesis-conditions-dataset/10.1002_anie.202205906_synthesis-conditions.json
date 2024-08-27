@@ -1,0 +1,101 @@
+{
+  "materials": [
+    {
+      "name": "(R)/(S)-3-quinuclidinol)MnBr3 (R/S-1)",
+      "synthesis_conditions": {
+        "precursors": [
+          "(R)/(S)-3-quinuclidinol",
+          "manganese acetate",
+          "HBr"
+        ],
+        "product": "(R/S-1)",
+        "space_group": "P212121",
+        "coordination_environment": "distorted octahedral",
+        "coordination_entities": [
+          "five Br",
+          "one O from one alkanolammonium cation"
+        ],
+        "structure_type": "type I",
+        "PLQY": "50.2 % for single crystal",
+        "average_emission_lifetime": [
+          "1.11 ms"
+        ],
+        "glum_values": {
+          "polycrystalline_samples": "+ 23.0 × 10^-3",
+          "single_crystals": "327.6 × 10^-3"
+        }
+      }
+    },
+    {
+      "name": "(R)/(S)-2-amino-1-propanol)MnBr3 (R/S-2)",
+      "synthesis_conditions": {
+        "precursors": [
+          "(R)/(S)-2-amino-1-propanol",
+          "manganese acetate",
+          "HBr"
+        ],
+        "product": "(R/S-2)",
+        "space_group": "P212121",
+        "coordination_environment": "distorted octahedral",
+        "coordination_entities": [
+          "five Br",
+          "one O from one alkanolammonium cation"
+        ],
+        "structure_type": "type I",
+        "average_emission_lifetime": [
+          "0.96 ms"
+        ],
+        "glum_values": {
+          "polycrystalline_samples": "+ 19.1 × 10^-3",
+          "single_crystals": "188.9 × 10^-3"
+        }
+      }
+    },
+    {
+      "name": "(R)/(S)-3-hydroxypiperidinium)MnBr3 (R/S-3)",
+      "synthesis_conditions": {
+        "precursors": [
+          "(R)/(S)-3-hydroxypiperidinium",
+          "manganese acetate",
+          "HBr"
+        ],
+        "product": "(R/S-3)",
+        "space_group": "P212121",
+        "coordination_environment": "octahedral",
+        "coordination_entities": [
+          "six Br"
+        ],
+        "structure_type": "type II",
+        "average_emission_lifetime": [
+          "0.41 ms"
+        ],
+        "glum_values": {
+          "polycrystalline_samples": "+ 8.5 × 10^-3"
+        }
+      }
+    },
+    {
+      "name": "(R)/(S-XH+)2MnBr4 (R/S-4)",
+      "synthesis_conditions": {
+        "precursors": [
+          "(R)/(S-XH+)",
+          "manganese acetate",
+          "HBr"
+        ],
+        "product": "(R/S-4)",
+        "space_group": "P212121",
+        "coordination_environment": "tetrahedral",
+        "coordination_entities": [
+          "four Br"
+        ],
+        "structure_type": "type II",
+        "average_emission_lifetime": [
+          "0.24 ms"
+        ],
+        "glum_values": {
+          "polycrystalline_samples": "+ 8.2 × 10^-3"
+        }
+      }
+    }
+  ]
+}

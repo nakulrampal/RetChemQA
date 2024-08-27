@@ -1,0 +1,98 @@
+{
+  "materials": [
+    {
+      "name": "CZJ-3",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "Not specified",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "Not specified"
+            }
+          ],
+          "equipment": "Not specified",
+          "chemicals_used": [
+            "(E)-4-(2-carboxyvinyl)benzoic acid (H2L)",
+            "Cd(NO3)2·4 H2O"
+          ],
+          "time": "Not specified",
+          "washing_method": "Not specified",
+          "drying_method": "Not specified",
+          "yield": "Not specified"
+        },
+        {
+          "step": "Activation",
+          "temperature": "80°C under vacuum",
+          "time": "6 h",
+          "additional_info": "PXRD analysis showed loss of long-range order upon removal of included solvent molecules."
+        },
+        {
+          "step": "Recovery of structure",
+          "temperature": "80°C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "Not specified"
+            }
+          ],
+          "time": "12 h",
+          "additional_info": "Exposing the evacuated sample to the vapor of DMF."
+        },
+        {
+          "step": "Solvent-exchange",
+          "solvents": [
+            {
+              "name": "dry acetone",
+              "amount": "Not specified"
+            }
+          ],
+          "washing_method": "Solvent-exchanged with dry acetone several times at room temperature",
+          "drying_method": "Not specified",
+          "additional_info": "To prevent framework collapse after removal of guest solvents."
+        }
+      ]
+    },
+    {
+      "name": "Rho@CZJ-3",
+      "synthesis_conditions": [
+        {
+          "step": "Dye encapsulation",
+          "temperature": "Room temperature",
+          "solvents": [
+            {
+              "name": "acetone",
+              "amount": "Not specified"
+            }
+          ],
+          "equipment": "Not specified",
+          "chemicals_used": [
+            "Rhodamine B"
+          ],
+          "time": "24 h",
+          "washing_method": "Not specified",
+          "drying_method": "Not specified",
+          "yield": "Dye-uptake was 0.19 wt %",
+          "additional_info": "Activated sample of CZJ-3 soaked in an acetone solution of Rhodamine B."
+        },
+        {
+          "step": "Guest inclusion property study",
+          "temperature": "Room temperature",
+          "solvents": [
+            {
+              "name": "chlorobenzene",
+              "amount": "Not specified"
+            },
+            {
+              "name": "nitrobenzene",
+              "amount": "Not specified"
+            }
+          ],
+          "time": "12 h",
+          "additional_info": "Acetone-exchanged samples of CZJ-3 and Rho@CZJ-3 immersed in chlorobenzene and nitrobenzene solvents."
+        }
+      ]
+    }
+  ]
+}

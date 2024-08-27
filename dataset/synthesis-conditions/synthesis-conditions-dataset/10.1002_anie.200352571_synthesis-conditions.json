@@ -1,0 +1,36 @@
+{
+  "materials": [
+    {
+      "name": "TTDPzH2",
+      "synthesis_conditions": {
+        "method_reference": [
+          "literature methods.[7, 8]"
+        ],
+        "crystal_growth_method": "sublimation under reduced pressure",
+        "pressure": "a few mbar",
+        "gas_flow": "continuous flow of N2",
+        "gas_flow_rate": "30 mL min-1",
+        "sublimation_temperature": "500 8C",
+        "space_group": "monoclinic P21/n",
+        "crystallography_note": "half of the molecule crystallographically asymmetric",
+        "structure_note": "2D hexagonal close packing with short S···N contacts and p–p interactions"
+      }
+    },
+    {
+      "name": "TTDPzCo",
+      "synthesis_conditions": {
+        "method_reference": [
+          "literature methods.[7, 8]"
+        ],
+        "crystal_growth_method": "sublimation under reduced pressure",
+        "pressure": "a few mbar",
+        "gas_flow": "continuous flow of N2",
+        "gas_flow_rate": "30 mL min-1",
+        "sublimation_temperature": "550 8C",
+        "space_group": "monoclinic P21/c",
+        "crystallography_note": "one molecule crystallographically independent",
+        "structure_note": "1D coordination polymer along the b axis with face-to-face p dimers"
+      }
+    }
+  ]
+}

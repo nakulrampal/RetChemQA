@@ -1,0 +1,66 @@
+{
+  "Complex 1": {
+    "temperature": "100 °C for 48 h, then 5 °C for over a month",
+    "solvents": "H2O",
+    "amount_of_solvent": "5 ml",
+    "equipment": "20 ml Teflon-lined autoclave",
+    "chemicals_used": {
+      "Cd(OH)2": "0.07 g, 0.48 mmol",
+      "squaric acid": "0.1 g, 0.88 mmol"
+    },
+    "yield": "30 % based on squaric acid",
+    "washing_method": "washed with little water",
+    "drying_method": "dried in a vacuum desiccator"
+  },
+  "Complex 2": {
+    "temperature": "100 °C for 48 h, then 15 °C for over a month",
+    "solvents": "H2O",
+    "amount_of_solvent": "5 ml",
+    "equipment": "20 ml Teflon-lined autoclave",
+    "chemicals_used": {
+      "Cd(OH)2": "0.07 g, 0.48 mmol",
+      "squaric acid": "0.1 g, 0.88 mmol"
+    },
+    "yield": "30 % based on Cd(OH)2",
+    "washing_method": "washed with little water",
+    "drying_method": "dried in a vacuum desiccator"
+  },
+  "Complex 3": {
+    "temperature": "100 °C for 48 h, then 30 °C for over a month",
+    "solvents": "H2O",
+    "amount_of_solvent": "5 ml",
+    "equipment": "20 ml Teflon-lined autoclave",
+    "chemicals_used": {
+      "Cd(OH)2": "0.07 g, 0.48 mmol",
+      "squaric acid": "0.1 g, 0.88 mmol"
+    },
+    "yield": "48 % based on Cd(OH)2",
+    "washing_method": "washed with little water",
+    "drying_method": "dried in a vacuum desiccator"
+  },
+  "Complex 4": {
+    "temperature": "100 °C for 48 h, then 50 °C for over a month",
+    "solvents": "H2O",
+    "amount_of_solvent": "5 ml",
+    "equipment": "20 ml Teflon-lined autoclave",
+    "chemicals_used": {
+      "Cd(OH)2": "0.07 g, 0.48 mmol",
+      "squaric acid": "0.1 g, 0.88 mmol"
+    },
+    "yield": "45 % based on Cd(OH)2",
+    "washing_method": "washed with little water",
+    "drying_method": "dried in a vacuum desiccator"
+  },
+  "Interconversion Reaction": {
+    "temperature": "5°C, 15°C, 30°C, or 50°C for over a month",
+    "description": "Starting with any product in its mother liquor, the interconversion reactions were carried out by fine tuning of the temperature of the sealed container. In the solution, the initial compound dissolved gradually followed by crystallization of the corresponding compound, of which the proportion also increased progressively."
+  },
+  "Computational Details": {
+    "methodology": "First principle density functional theory calculations with the CASTEP module",
+    "functional": "Perdew-Burke-Ernzerhof (PBE) type",
+    "pseudopotentials": "Vanderbilt-type nonlocal ultrasoft pseudopotentials",
+    "k-point_sampling": "Monkhorst-Pack scheme",
+    "energy_cutoff": "580 eV",
+    "additional_information": "The phonon contribution to the free energy is not considered due to relatively large unit cells used in the study."
+  }
+}

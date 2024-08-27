@@ -1,0 +1,66 @@
+{
+  "Materials": [
+    {
+      "Material": "[{Ru2(3,5-F2PhCO2)4}2{TCNQ(MeO)2}]·3(DCM)·1.5(DCE) (1-solv)",
+      "Synthesis_Conditions": {
+        "Solvents": [
+          {
+            "Solvent": "DCM",
+            "Amount": "40 mL",
+            "Details": "DCM solution of [Ru2(3,5-F2PhCO2)4(THF)2] (146 mg, 0.15 mmol)"
+          },
+          {
+            "Solvent": "DCM/DCE 1:1 v/v",
+            "Amount": "0.5 mL",
+            "Details": "Mixed solvent added on the bottom layer to slow the rate of diffusion"
+          },
+          {
+            "Solvent": "DCE",
+            "Amount": "40 mL",
+            "Details": "DCE solution of TCNQ(MeO)2 (19.8 mg, 0.075 mmol)"
+          }
+        ],
+        "Temperature": "Room temperature",
+        "Time": "One week",
+        "Yield": "9%",
+        "Drying_Method": "Heating at 353 K under vacuum for 12 h",
+        "Equipment": "Narrow-diameter glass tubes (inner diameter of 8 mm)",
+        "Chemicals_Used": [
+          "[Ru2(3,5-F2PhCO2)4(THF)2]",
+          "TCNQ(MeO)2"
+        ],
+        "Washing_Method": "Exposure to air for solvent elimination"
+      }
+    },
+    {
+      "Material": "1⊃N2, 1⊃O2-I, and 1⊃CO2",
+      "Synthesis_Conditions": {
+        "Equipment": "Thin glass capillary attached to gas-handling system",
+        "Temperature": "Room temperature for evacuation, then cooled by N2 gas stream",
+        "Gas_Pressure": [
+          {
+            "Gas": "N2",
+            "Pressure": "100 kPa"
+          },
+          {
+            "Gas": "O2",
+            "Pressure": "10 kPa"
+          },
+          {
+            "Gas": "CO2",
+            "Pressure": "100 kPa"
+          }
+        ],
+        "Time": "One hour for evacuation, then temperature-specific for gas introduction",
+        "Details": "Single crystal X-ray diffraction analyses under pressure-controlled gas atmospheres"
+      }
+    },
+    {
+      "Material": "1⊃O2-II",
+      "Synthesis_Conditions": {
+        "Details": "Structure evaluated from PXRD pattern with Rietveld refinement due to failure in SCXRD analysis under high O2 pressure",
+        "Note": "Framework structure discussed, but specific gas molecule positions and numbers are less accurate"
+      }
+    }
+  ]
+}

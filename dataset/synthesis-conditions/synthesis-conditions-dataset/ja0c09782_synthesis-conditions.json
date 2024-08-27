@@ -1,0 +1,188 @@
+{
+  "materials": [
+    {
+      "name": "NU-1000 (Powder/Single Crystal, Denoted as as-syn-NU-1000)",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "8 mL"
+          },
+          {
+            "name": "DEF",
+            "amount": "6 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ZrOCl2·8H2O",
+            "amount": "98 mg"
+          },
+          {
+            "name": "benzoic acid",
+            "amount": "2 g"
+          },
+          {
+            "name": "H4TBAPy",
+            "amount": "40 mg"
+          },
+          {
+            "name": "trifluoroacetic acid (TFA)",
+            "amount": "40 μL"
+          },
+          {
+            "name": "ZrCl4",
+            "amount": "70 mg"
+          }
+        ],
+        "time": [
+          {
+            "step": "incubation",
+            "duration": "1 h"
+          },
+          {
+            "step": "sonication",
+            "duration": "10 min"
+          },
+          {
+            "step": "oven heating for powder synthesis",
+            "duration": "18 h"
+          },
+          {
+            "step": "oven heating for single crystal synthesis",
+            "duration": "24 h"
+          }
+        ],
+        "yield": "yellow polycrystalline as-syn-NU-1000",
+        "molar_ratio": "benzoic acid to linker roughly 230:1"
+      }
+    },
+    {
+      "name": "Formate-Containing NU-1000 (Powder/Single Crystal, Denoted as NU-1000-F)",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "15 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "8 M aqueous HCl",
+            "amount": "0.6 mL"
+          }
+        ],
+        "time": [
+          {
+            "step": "heating",
+            "duration": "18 h"
+          },
+          {
+            "step": "washing with DMF",
+            "duration": "8 h"
+          },
+          {
+            "step": "solvent-exchange with acetone",
+            "duration": "multiple times"
+          },
+          {
+            "step": "drying",
+            "duration": "1 h"
+          },
+          {
+            "step": "activation",
+            "duration": "18 h"
+          }
+        ],
+        "yield": "pale yellow powder",
+        "washing_method": "solvent-exchange with acetone three times and soaked in acetone for an additional 16 h"
+      }
+    },
+    {
+      "name": "Formate-Free NU-1000 Containing Chloride (Powder; Denoted as NU-1000-FF-Cl)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "DMSO",
+            "amount": "15 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "8 M aqueous HCl",
+            "amount": "0.6 mL"
+          }
+        ],
+        "time": [
+          {
+            "step": "solvent-exchange with DMSO",
+            "duration": "24 h"
+          },
+          {
+            "step": "washing with DMSO",
+            "duration": "8 h"
+          },
+          {
+            "step": "solvent-exchange with acetone",
+            "duration": "multiple times"
+          },
+          {
+            "step": "drying",
+            "duration": "1 h"
+          },
+          {
+            "step": "activation",
+            "duration": "18 h"
+          }
+        ],
+        "yield": "yellow powder",
+        "washing_method": "solvent-exchange with acetone three times and soaked in acetone for an additional 16 h"
+      }
+    },
+    {
+      "name": "Formate-Free and Cl-Free NU-1000 (Powder; Denoted as NU-1000-FF)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "ethanol",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "triethylamine (TEA)",
+            "amount": "5.6 μL"
+          }
+        ],
+        "time": [
+          {
+            "step": "solvent-exchange with ethanol",
+            "duration": "12 h"
+          },
+          {
+            "step": "washing with TEA",
+            "duration": "multiple times"
+          },
+          {
+            "step": "washing with acetone",
+            "duration": "multiple times"
+          },
+          {
+            "step": "drying",
+            "duration": "1 h"
+          },
+          {
+            "step": "activation",
+            "duration": "18 h"
+          }
+        ],
+        "yield": "golden-yellow powder",
+        "washing_method": "solvent-exchange with acetone three times and soaked in acetone for an additional 16 h"
+      }
+    }
+  ]
+}

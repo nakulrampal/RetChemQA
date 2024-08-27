@@ -1,0 +1,82 @@
+{
+  "materials": [
+    {
+      "name": "sod-ZMOF (1)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "4,6-PmDC",
+            "amount": "0.016 g",
+            "molar_amount": "0.087 mmol"
+          },
+          {
+            "chemical": "In(NO3)3·5H2O",
+            "amount": "0.017 g",
+            "molar_amount": "0.0435 mmol"
+          },
+          {
+            "chemical": "DMF",
+            "amount": "0.75 mL"
+          },
+          {
+            "chemical": "H2O",
+            "amount": "1.5 mL"
+          },
+          {
+            "chemical": "HNO3",
+            "amount": "0.2 mL",
+            "concentration": "3.5 M in DMF"
+          }
+        ],
+        "temperature": "85 °C for 12 h, 105 °C for 23 h, 115 °C for 23 h",
+        "equipment": "20 mL scintillation vial",
+        "yield": "88% based on In(NO3)3·5H2O",
+        "washing_method": "rinsed several times with Sol1 (¾ EtOH and ¼ H2O), soaked for 24 hours in 1M NaNO3 in Sol1, washed again several times with Sol1",
+        "ion_exchange": [
+          {
+            "solution": "1M NaNO3 in Sol1",
+            "time": "24 hours",
+            "resulting_ratio": "In to Na ratio= 1:1.31 found vs. In to Na= 1:1.41 calculated"
+          },
+          {
+            "solution": "1M LiNO3 in Sol1",
+            "resulting_ratio": "In to Na ratio= 1:0.0788 found vs. In to Na=1:0 calculated"
+          }
+        ]
+      }
+    },
+    {
+      "name": "rho-ZMOF (2)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "2-PmCN",
+            "amount": "0.0092 g",
+            "molar_amount": "0.087 mmol"
+          },
+          {
+            "chemical": "Cd(NO3)2·4H2O",
+            "amount": "0.0134 g",
+            "molar_amount": "0.0435 mmol"
+          },
+          {
+            "chemical": "DMF",
+            "amount": "1 mL"
+          },
+          {
+            "chemical": "H2O",
+            "amount": "1 mL"
+          },
+          {
+            "chemical": "piperazine",
+            "amount": "0.1 mL",
+            "concentration": "0.58 M in DMF"
+          }
+        ],
+        "temperature": "85 °C for 12 h",
+        "equipment": "20 mL glass scintillation vial",
+        "yield": "15% based on Cd(NO3)2·4H2O"
+      }
+    }
+  ]
+}

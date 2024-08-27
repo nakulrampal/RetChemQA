@@ -1,0 +1,72 @@
+{
+  "materials": [
+    {
+      "name": "Magnesium Nanocrystals (Mg NCs) embedded in MOF",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis of [Zn4O(atb)2]·22 DMF·9 H2O (SNU-90)",
+          "temperature": "Not specified",
+          "solvents": "Dimethylformamide (DMF)",
+          "chemicals_used": "Zn(NO3)2, H3(atb), DMF",
+          "equipment": "Not specified",
+          "time": "Not specified",
+          "yield": "Not specified"
+        },
+        {
+          "step": "Removal of guest solvent molecules in SNU-90",
+          "method": "Treatment with supercritical CO2",
+          "resulting_material": "Guest-free [Zn4O(atb)2] (SNU-90’, NH2-MOF-177)"
+        },
+        {
+          "step": "Deposition of MgCp2 vapor in SNU-90’",
+          "temperature": "80 °C",
+          "atmosphere": "Argon",
+          "equipment": "Not specified",
+          "time": "Not specified",
+          "resulting_material": "MgCp2@SNU-90’"
+        },
+        {
+          "step": "Thermal decomposition of MgCp2@SNU-90’",
+          "temperature": "200 °C",
+          "atmosphere": "Argon followed by evacuation",
+          "equipment": "Not specified",
+          "time": "Not specified",
+          "resulting_material": "Mg NCs embedded in SNU-90’"
+        }
+      ]
+    },
+    {
+      "name": "Various samples of Mg@SNU-90’",
+      "synthesis_conditions": [
+        {
+          "samples": [
+            {
+              "name": "Mg@SNU-90’a",
+              "mg_content": "1.26 wt %"
+            },
+            {
+              "name": "Mg@SNU-90’b",
+              "mg_content": "6.52 wt %"
+            },
+            {
+              "name": "Mg@SNU-90’c",
+              "mg_content": "10.5 wt %"
+            }
+          ],
+          "method": "Control of loaded amounts of MgCp2 in the MOF by changing the reaction conditions during the deposition process",
+          "conditions": [
+            {
+              "condition": "Duration time",
+              "details": "Not specified"
+            },
+            {
+              "condition": "Prevacuum state applied to the reaction vessel",
+              "details": "Not specified"
+            }
+          ],
+          "detection_method": "Inductively coupled plasma atomic emission spectroscopy (ICP-AES)"
+        }
+      ]
+    }
+  ]
+}

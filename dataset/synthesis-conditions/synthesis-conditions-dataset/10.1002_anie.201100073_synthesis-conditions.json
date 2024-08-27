@@ -1,0 +1,39 @@
+{
+  "materials": [
+    {
+      "name": "allylcalcium monocation compound 1",
+      "synthesis_conditions": {
+        "temperature": "ambient temperature",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "2.5 mL total (0.5 mL for bis(allyl)calcium solution, 1 mL for bis(allyl)zinc solution, 1 mL for [18]crown-6 solution)"
+          },
+          {
+            "name": "diethyl ether/pentane",
+            "amount": "6 to 9 mL total (1:2 ratio)",
+            "purpose": "washing"
+          }
+        ],
+        "equipment": "vacuo for drying",
+        "chemicals_used": [
+          {
+            "name": "bis(allyl)calcium",
+            "amount": "32 mg (0.26 mmol)"
+          },
+          {
+            "name": "bis(allyl)zinc",
+            "amount": "39 mg (0.26 mmol)"
+          },
+          {
+            "name": "[18]crown-6",
+            "amount": "70 mg (0.26 mmol)"
+          }
+        ],
+        "yield": "135 mg (0.25 mmol, 96%)",
+        "drying_method": "in vacuo",
+        "washing_method": "with diethyl ether/pentane (1:2)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "materials": [
+    {
+      "name": "PdTCPP-DPG MOF",
+      "synthesis_conditions": {
+        "temperature": "80 ºC",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "0.75 mL"
+          },
+          {
+            "name": "EtOH",
+            "amount": "0.25 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "PdTCPP",
+            "amount": "4.45 mg (4.97 μmol, 1.0 equiv.)"
+          },
+          {
+            "name": "DPG",
+            "amount": "2.15 mg (9.94 μmol, 2.0 equiv.)"
+          },
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "4.43 mg (14.8 μmol, 3.0 equiv.)"
+          },
+          {
+            "name": "HBF4",
+            "amount": "32 μL"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": "thoroughly with DMF",
+        "drying_method": "dried",
+        "yield": "ca. 5 mg of dried crystals",
+        "characterization": {
+          "1H NMR": [
+            "DMSO-d6"
+          ],
+          "Elemental Analysis": [
+            "C 56.46%, H 3.13%, N 8.34%, Zn 9.95%, Pd 7.93%"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Motorized PdTCPP MOF via SALE",
+      "synthesis_conditions": {
+        "temperature": "80 ºC",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "1 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Molecular motor 1",
+            "amount": "approximately 20 mg"
+          }
+        ],
+        "time": "48 h (the solution of 1 was replaced with a fresh solution after 24 h)",
+        "washing_method": "thoroughly with DMF",
+        "drying_method": "dried in vacuum",
+        "characterization": {
+          "1H NMR": [
+            "DMSO-d6"
+          ],
+          "Elemental Analysis": [
+            "C 62.79%, H 3.69%, N 5.30%, Zn 7.20%, Pd 5.50%"
+          ]
+        }
+      }
+    }
+  ]
+}

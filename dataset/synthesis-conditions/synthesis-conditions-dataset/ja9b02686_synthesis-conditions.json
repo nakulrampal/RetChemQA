@@ -1,0 +1,139 @@
+{
+  "materials": [
+    {
+      "name": "MUV-3",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "solvents": "Solvent-free",
+        "chemicals_used": [
+          {
+            "name": "ferrocene",
+            "amount": "30 mg, 0.16 mmol"
+          },
+          {
+            "name": "2-methylimidazole",
+            "amount": "25 mg, 0.30 mmol"
+          },
+          {
+            "name": "4,4-bipyridine",
+            "amount": "50 mg, 0.32 mmol"
+          }
+        ],
+        "equipment": "layering tube (4 mm diameter)",
+        "time": "48 h",
+        "washing_method": "acetonitrile and benzene",
+        "drying_method": "room temperature",
+        "yield": "20%",
+        "activation_process": {
+          "washing_solvent": "dry acetonitrile",
+          "washing_time": "48 h",
+          "heating_temperature": "150 °C",
+          "heating_time": "overnight",
+          "vacuum": "under vacuum"
+        }
+      }
+    },
+    {
+      "name": "ZIF-8",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "solvents": "Solvent-free",
+        "chemicals_used": [
+          {
+            "name": "ZnO or bis(2,2,6,6-tetramethyl-3,5-heptanedionato) zinc(II)",
+            "amount": "13 mg, 0.16 mmol or 69 mg, 0.16 mmol"
+          },
+          {
+            "name": "2-methylimidazole",
+            "amount": "25 mg, 0.30 mmol"
+          }
+        ],
+        "equipment": "layering tube (4 mm diameter)",
+        "time": "4 days",
+        "washing_method": "acetonitrile and benzene",
+        "drying_method": "room temperature"
+      }
+    },
+    {
+      "name": "ZIF-67",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "solvents": "Solvent-free",
+        "chemicals_used": [
+          {
+            "name": "cobaltocene",
+            "amount": "30 mg, 0.16 mmol"
+          },
+          {
+            "name": "2-methylimidazole",
+            "amount": "25 mg, 0.30 mmol"
+          }
+        ],
+        "equipment": "layering tube (4 mm diameter)",
+        "time": "4 days",
+        "washing_method": "acetonitrile and benzene",
+        "drying_method": "room temperature"
+      }
+    },
+    {
+      "name": "MUV-6",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "solvents": "Solvent-free",
+        "chemicals_used": [
+          {
+            "name": "ferrocene",
+            "amount": "30 mg, 0.16 mmol"
+          },
+          {
+            "name": "2-ethylimidazole",
+            "amount": "29 mg, 0.30 mmol"
+          }
+        ],
+        "equipment": "layering tube (4 mm diameter)",
+        "time": "4 days",
+        "washing_method": "acetonitrile and benzene",
+        "drying_method": "room temperature"
+      }
+    },
+    {
+      "name": "MUV-7",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "solvents": "Solvent-free",
+        "chemicals_used": [
+          {
+            "name": "ferrocene",
+            "amount": "30 mg, 0.16 mmol"
+          },
+          {
+            "name": "2-methylbenzimidazole",
+            "amount": "40 mg, 0.30 mmol"
+          }
+        ],
+        "equipment": "layering tube (4 mm diameter)",
+        "time": "4 days",
+        "washing_method": "acetonitrile and benzene",
+        "drying_method": "room temperature"
+      }
+    },
+    {
+      "name": "NC-MUV-3",
+      "synthesis_conditions": {
+        "temperature": "700 °C",
+        "solvents": "Solvent-free",
+        "chemicals_used": [
+          {
+            "name": "MUV-3",
+            "note": "used as precursor"
+          }
+        ],
+        "equipment": "CVD oven",
+        "time": "3.5 h",
+        "atmosphere": "N2",
+        "washing_method": "0.5 M H2SO4 solution for 6 h, then ethanol",
+        "drying_method": "80 °C"
+      }
+    }
+  ]
+}

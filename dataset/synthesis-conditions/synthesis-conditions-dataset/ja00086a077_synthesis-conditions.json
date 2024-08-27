@@ -1,0 +1,50 @@
+{
+  "materials": [
+    {
+      "material": "Mn3F36°lBN6C109H106",
+      "synthesis_conditions": {
+        "temperature": "22 ± 1°C",
+        "solvents": "Not specified",
+        "equipment": [
+          "Rigaku AFC5R diffractometer",
+          "graphite monochromated Mo Ka radiation",
+          "12KW rotating anode generator"
+        ],
+        "chemicals_used": "Not specified",
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_conditions": {
+          "scan_type": "w~2j scan technique",
+          "scan_rate": "4.0°/min (in omega)",
+          "scan_width": "(1.15 + 0.30 tanj)°",
+          "2jmax": "55.1°",
+          "number_of_reflections_measured": {
+            "total": "5487",
+            "unique": "5259"
+          },
+          "corrections_applied": [
+            "Lorentz-polarization",
+            "Absorption (trans. factors: 0.93 - 1.00)"
+          ],
+          "structure_solution_method": "Direct Methods",
+          "refinement": "Full-matrix least-squares",
+          "least-squares_weights": "w = 4Fo2/s2(Fo2)",
+          "p-factor": "0.03",
+          "anomalous_dispersion": "Included",
+          "number_of_observations": "1435",
+          "number_of_variables": "277",
+          "residuals": {
+            "R": "0.090",
+            "Rw": "0.115"
+          },
+          "goodness_of_fit_indicator": "3.98",
+          "max_shift_error_in_final_cycle": "0.90",
+          "maximum_peak_in_final_difference_map": "0.91 e",
+          "minimum_peak_in_final_difference_map": "-0.27 e"
+        }
+      }
+    }
+  ]
+}

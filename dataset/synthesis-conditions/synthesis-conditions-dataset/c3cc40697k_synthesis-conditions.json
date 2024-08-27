@@ -1,0 +1,80 @@
+{
+  "materials": [
+    {
+      "name": "trans-1 hexakis-fullerene adduct 4",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "dichloromethane",
+            "amount": "50 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "compound 3",
+            "amount": "100.0 mg (0.073 mmol)"
+          },
+          {
+            "name": "CBr4",
+            "amount": "53.7 mg (0.162 mmol)"
+          },
+          {
+            "name": "4,5-diazafluorene",
+            "amount": "27.2 mg (0.162 mmol)"
+          },
+          {
+            "name": "1,8-diazabicyclo[5.4.0]undec-7-ene (DBU)",
+            "amount": "44.9 mg (0.294 mmol)"
+          }
+        ],
+        "time": "3h",
+        "purification_method": "Prep-TLC",
+        "yield": "91%",
+        "product_color": "light yellow solid"
+      }
+    },
+    {
+      "name": "polymeric 4•2Ag(triflate)•5toluene, 4a",
+      "synthesis_conditions": {
+        "method": "slow diffusion of Ag(triflate) in methanol into a solution of 4 in dichloromethane followed by diffusion of toluene into the resulting solution",
+        "solvents": [
+          {
+            "name": "methanol",
+            "purpose": "dissolving Ag(triflate)"
+          },
+          {
+            "name": "dichloromethane",
+            "purpose": "dissolving compound 4"
+          },
+          {
+            "name": "toluene",
+            "purpose": "diffusion into the resulting solution"
+          }
+        ],
+        "product_color": "yellow-green lamellar crystals"
+      }
+    },
+    {
+      "name": "4•2Ag(toluene)2•2(tetrafluoroborate)•dichloromethane•toluene, 4b",
+      "synthesis_conditions": {
+        "method": "slow diffusion of AgBF4 in methanol into a solution of 4 in dichloromethane followed by diffusion of toluene into the resulting solution",
+        "solvents": [
+          {
+            "name": "methanol",
+            "purpose": "dissolving AgBF4"
+          },
+          {
+            "name": "dichloromethane",
+            "purpose": "dissolving compound 4"
+          },
+          {
+            "name": "toluene",
+            "purpose": "diffusion into the resulting solution"
+          }
+        ],
+        "product_color": "yellow needle"
+      }
+    }
+  ]
+}

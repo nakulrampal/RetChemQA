@@ -1,0 +1,46 @@
+{
+  "materials": [
+    {
+      "name": "SS-MOFNSs",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "details": {
+            "precursor": "ZIF-8 nanoparticles",
+            "reaction_with": "boric acid",
+            "method": "solvothermal transformation",
+            "temperature": "150 °C",
+            "product": "SS-MOFNSs"
+          }
+        },
+        {
+          "step": 2,
+          "details": {
+            "annealing": "1000 °C",
+            "atmosphere": "ammonia",
+            "duration": "6 h",
+            "morphology_preservation": "original morphology of SS-MOFNSs",
+            "product": "SS-BNNSs"
+          }
+        }
+      ]
+    },
+    {
+      "name": "SS-BNNSs",
+      "synthesis_conditions": [
+        {
+          "details": {
+            "precursor": "SS-MOFNSs",
+            "annealing_temperature": "1000 °C",
+            "atmosphere": "ammonia",
+            "duration": "6 h",
+            "morphology": "2D h-BN nanosheets assembled into 3D spherical superstructure",
+            "BET_surface_area": "476 m^2 g^–1",
+            "pore_volume": "1.87 cm^3 g^–1",
+            "pore_size_distribution": "5–40 nm"
+          }
+        }
+      ]
+    }
+  ]
+}

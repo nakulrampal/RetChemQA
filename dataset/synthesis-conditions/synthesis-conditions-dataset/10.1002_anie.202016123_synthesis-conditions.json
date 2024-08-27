@@ -1,0 +1,67 @@
+{
+  "materials": [
+    {
+      "name": "bis-dpa UVO2+ complex",
+      "synthesis_conditions": {
+        "solvent": "water",
+        "pH": "10",
+        "comments": "Obtained from water at pH 10."
+      }
+    },
+    {
+      "name": "trinuclear mono-dpa cation-cation complex",
+      "synthesis_conditions": {
+        "solvent": "water",
+        "pH": "higher than 10",
+        "comments": "Isolated at higher pH values."
+      }
+    },
+    {
+      "name": "[K(2.2.2.crypt)]2[UVIO2(dpa)2]",
+      "synthesis_conditions": {
+        "solvent": "pyridine",
+        "equipment": "photoreactor",
+        "wavelength": "420 nm",
+        "time": "1.5 hours",
+        "comments": "Irradiation of the solution in a photoreactor at 420 nm resulted in the formation of reduced uranium species."
+      }
+    },
+    {
+      "name": "[K(2.2.2.crypt)]2[UIV(dpa)3] (2-Crypt)",
+      "synthesis_conditions": {
+        "solvent": "pyridine",
+        "equipment": "photoreactor",
+        "wavelength": "420 nm",
+        "time": "1.5 hours",
+        "comments": "Isolated by slow diffusion of DIPE into a solution of 1-Crypt in pyridine after irradiation."
+      }
+    },
+    {
+      "name": "[K(2.2.2.crypt)]2n-{[KUVO2(dpa)2]}n (3)",
+      "synthesis_conditions": {
+        "solvent": "anhydrous pyridine",
+        "chemicals_used": "[(UVO2Py5)(KI2Py2)]n, K2dpa, 2.2.2.cryptand",
+        "yield": "46%",
+        "drying_method": "slow diffusion of DIPE into MeCN solution",
+        "comments": "Prepared by salt metathesis reaction."
+      }
+    },
+    {
+      "name": "[KNa2UO2(dpa)2] (3-NaK2)",
+      "synthesis_conditions": {
+        "solvent": "water",
+        "pH": "10",
+        "chemicals_used": "Na2S2O4",
+        "comments": "Obtained by the reduction of UVI analogue [K2UVIO2(dpa)2] with Na2S2O4 at pH 10."
+      }
+    },
+    {
+      "name": "[K(2.2.2.crypt)]0.5[H2KNa1.5{UO2(dpa)}3SO3] (5)",
+      "synthesis_conditions": {
+        "solvent": "water",
+        "pH": "basic",
+        "comments": "Isolated from the reaction mixture upon reduction of in situ prepared uranyl(VI) mono-dpa complex with Na2S2O4 in basic water solution."
+      }
+    }
+  ]
+}

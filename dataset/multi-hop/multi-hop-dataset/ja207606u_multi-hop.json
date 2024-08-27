@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the primary difference between the synthesis conditions of CuBDPEt and CuBDPMe?",
+      "answer": "The primary difference between the synthesis conditions of CuBDPEt and CuBDPMe is the ligand used; BDPEt is used for CuBDPEt synthesis, while BDPMe is used for CuBDPMe synthesis.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the change in the O-P-O-CMe dihedral angles affect the CO2 uptake in the material?",
+      "answer": "A change in the O-P-O-CMe dihedral angles affects the CO2 uptake in the material by altering the pore width, which in turn can significantly change the CO2 uptake due to the sensitivity of the uptake to the framework geometry.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The experimental determination of the ΔHads value for CO2 in CuBDPMe was initially calculated as 52 kJ/mol.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to calculate the partial atomic charges for the framework in the GCMC simulations?",
+      "answer": "The REPEAT method was used to calculate the partial atomic charges for the framework in the GCMC simulations.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Explain how the sensitivity of CO2 uptake to the methoxy group orientation in CuBDPMe was determined.",
+      "answer": "The sensitivity of CO2 uptake to the methoxy group orientation in CuBDPMe was determined through GCMC simulations that varied the O-P-O-CMe dihedral angles, showing that slight changes in the orientation can result in significant differences in CO2 uptake.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The isosteric heat of adsorption (HOA) for CO2 in CuBDPMe is less sensitive to the framework geometry compared to CO2 uptake.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of the UFF parameters in the GCMC simulations for CuBDPMe?",
+      "answer": "The UFF parameters were used to define the Lennard-Jones potential parameters for the framework atoms in the GCMC simulations for CuBDPMe, which are essential for calculating non-bonded interactions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the experimental ΔHads value for CO2 compare to the value determined from GCMC simulations for CuBDPMe?",
+      "answer": "The experimental ΔHads value for CO2 in CuBDPMe is higher (~45 kJ/mol) compared to the value determined from GCMC simulations (~36 kJ/mol), indicating a discrepancy likely due to the simulations not accounting for framework flexibility.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The spin polarization was enabled for all DFT calculations to account for the d9-Cu(II) centers in the study of CuBDPMe.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of adjusting the lattice parameters in the GCMC simulations for CuBDPMe?",
+      "answer": "The purpose of adjusting the lattice parameters in the GCMC simulations for CuBDPMe was to model the structure more accurately under different conditions, such as solvent removal and CO2 loading, to understand how these changes affect CO2 uptake and isosteric heat of adsorption.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Explain the significance of the initial calculation of ΔHads for CO2 in CuBDPMe being 52 kJ/mol and its subsequent reassessment to 45 kJ/mol.",
+      "answer": "The initial calculation of ΔHads for CO2 in CuBDPMe being 52 kJ/mol and its subsequent reassessment to 45 kJ/mol highlights the challenges in accurately determining adsorption enthalpies from experimental isotherms due to uncertainties and the importance of using multiple temperatures to increase confidence in the assessed value.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of CuBDPEt and CuBDPMe involves a Michaelis–Arbuzov reaction followed by controlled hydrolysis.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to refine the hydrogen atom positions in the structure used for GCMC simulations of CuBDPMe?",
+      "answer": "The hydrogen atom positions in the structure used for GCMC simulations of CuBDPMe were refined at the DFT level.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How did the researchers ensure the accuracy of the CO2 adsorption model in the GCMC simulations for CuBDPMe?",
+      "answer": "The researchers ensured the accuracy of the CO2 adsorption model in the GCMC simulations for CuBDPMe by using optimized Lennard-Jones parameters for CO2, adjusting the framework's lattice parameters based on experimental data, and recalculating partial atomic charges for different framework geometries.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The experimental and simulated CO2 adsorption isotherms for CuBDPMe matched perfectly across all pressures tested.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the impact of using a straight sample tube design in the adsorption isotherm experiments for CuBDPMe?",
+      "answer": "The impact of using a straight sample tube design in the adsorption isotherm experiments for CuBDPMe was to minimize free volume, thereby maximizing the sensitivity of the adsorption instrument and improving the accuracy of the adsorption data.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Explain why the experimental determination of ΔHads for CO2 in CuBDPMe required reassessment from 52 kJ/mol to 45 kJ/mol.",
+      "answer": "The experimental determination of ΔHads for CO2 in CuBDPMe required reassessment from 52 kJ/mol to 45 kJ/mol due to the initial uncertainty in the value, which was addressed by preparing new sample tubes to decrease dead volume and measuring isotherms at additional temperatures, leading to a more accurate and confident reassessed value.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of the ligands BDPEt and BDPMe for CuBDPEt and CuBDPMe, respectively, involves a Michaelis–Arbuzov reaction.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does the alkoxy tether play in the gas sorption properties of CuBDPMe?",
+      "answer": "The alkoxy tether plays a crucial role in mediating gas sorption properties of CuBDPMe by affecting the orientation and flexibility of the structure, which in turn influences CO2 uptake and the sensitivity of the material to gas adsorption.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Explain the process and significance of using the REPEAT method for calculating partial atomic charges in the GCMC simulations of CuBDPMe.",
+      "answer": "The process of using the REPEAT method for calculating partial atomic charges in the GCMC simulations of CuBDPMe involves deriving charges based on the electrostatic potential from periodic DFT calculations. The significance lies in accurately modeling Coulombic interactions within the framework, which is essential for understanding how changes in framework geometry affect gas adsorption properties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

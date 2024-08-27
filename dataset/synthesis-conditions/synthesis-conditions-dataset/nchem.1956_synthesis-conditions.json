@@ -1,0 +1,46 @@
+{
+  "materials": [
+    {
+      "material": "Fe2(dobdc)",
+      "synthesis_conditions": {
+        "temperature": "75 °C",
+        "solvents": "N2O:ethane:Ar mixture (10:25:65)",
+        "time": "24 hours",
+        "equipment": "glass column",
+        "chemicals_used": "N2O, ethane, Ar",
+        "yield": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "additional_information": "Flow-through experiment"
+      }
+    },
+    {
+      "material": "Fe0.1Mg1.9(dobdc)",
+      "synthesis_conditions": {
+        "temperature": "75 °C",
+        "solvents": "N2O:ethane:Ar mixture (10:25:65)",
+        "time": "24 hours",
+        "equipment": "glass column",
+        "chemicals_used": "N2O, ethane, Ar",
+        "yield": "60% yield based on Fe",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "additional_information": "Flow-through experiment"
+      }
+    },
+    {
+      "material": "Fe0.1Mg1.9(dobdc)",
+      "synthesis_conditions": {
+        "temperature": "75 °C",
+        "solvents": "N2O (1.5 bar), C2H6 (7.5 bar)",
+        "time": "24 hours",
+        "equipment": "Teﬂon-lined stainless-steel bomb",
+        "chemicals_used": "N2O, C2H6",
+        "yield": "1.6 turnovers based on Fe",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "additional_information": "Batch experiment"
+      }
+    }
+  ]
+}

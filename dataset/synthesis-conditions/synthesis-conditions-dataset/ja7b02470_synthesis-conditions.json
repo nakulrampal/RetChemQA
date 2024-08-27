@@ -1,0 +1,198 @@
+{
+  "materials": [
+    {
+      "name": "H3BTE",
+      "synthesis_conditions": {
+        "temperature": "not specified",
+        "solvents": "not specified",
+        "equipment": "not specified",
+        "chemicals_used": "not specified",
+        "time": "not specified",
+        "yield": "not specified",
+        "characterization_methods": [
+          "1H-NMR"
+        ]
+      }
+    },
+    {
+      "name": "Me3BTE-NO2",
+      "synthesis_conditions": {
+        "temperature": "25 oC",
+        "solvents": [
+          "NEt3"
+        ],
+        "equipment": "not specified",
+        "chemicals_used": [
+          "methyl 4-iodo-3-nitro-benzoate",
+          "Pd(PPh3)2Cl2",
+          "CuI",
+          "1,3,5-triethynylbenzene"
+        ],
+        "time": "20 h",
+        "yield": "90%",
+        "characterization_methods": [
+          "1H-NMR"
+        ]
+      }
+    },
+    {
+      "name": "H3BTE-NO2",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          "THF",
+          "water"
+        ],
+        "equipment": "not specified",
+        "chemicals_used": [
+          "Me3BTE-NO2",
+          "LiOH·H2O"
+        ],
+        "time": "16 h",
+        "yield": "95%",
+        "characterization_methods": [
+          "1H-NMR",
+          "13C-NMR",
+          "ESI-MS"
+        ]
+      }
+    },
+    {
+      "name": "2D-MOL",
+      "synthesis_conditions": {
+        "temperature": "120 oC",
+        "solvents": [
+          "DMF",
+          "HCO2H",
+          "H2O"
+        ],
+        "equipment": "Pyrex vial",
+        "chemicals_used": [
+          "HfCl4",
+          "H3BTE"
+        ],
+        "time": "3 days",
+        "yield": "95%",
+        "characterization_methods": [
+          "PXRD",
+          "TEM",
+          "AFM",
+          "1H NMR",
+          "TGA"
+        ]
+      }
+    },
+    {
+      "name": "3D-MOF",
+      "synthesis_conditions": {
+        "temperature": "100 oC",
+        "solvents": [
+          "DMF",
+          "HCO2H"
+        ],
+        "equipment": "Pyrex vial",
+        "chemicals_used": [
+          "HfOCl2·8H2O",
+          "H3BTE"
+        ],
+        "time": "3 days",
+        "yield": "75%",
+        "characterization_methods": [
+          "PXRD",
+          "TGA",
+          "Single-crystal X-ray diffraction"
+        ]
+      }
+    },
+    {
+      "name": "3D-MOF-I",
+      "synthesis_conditions": {
+        "temperature": "130 oC",
+        "solvents": [
+          "DMF",
+          "HCO2H"
+        ],
+        "equipment": "Teflon-lined autoclave",
+        "chemicals_used": [
+          "HfOCl2·8H2O",
+          "H3BTE"
+        ],
+        "time": "3 days",
+        "yield": "60%",
+        "characterization_methods": [
+          "PXRD",
+          "Single-crystal X-ray diffraction"
+        ]
+      }
+    },
+    {
+      "name": "MOF-L",
+      "synthesis_conditions": {
+        "temperature": "120 oC",
+        "solvents": [
+          "DMF",
+          "HCO2H",
+          "H2O"
+        ],
+        "equipment": "Teflon-lined autoclave",
+        "chemicals_used": [
+          "HfOCl2·8H2O",
+          "H3BTE"
+        ],
+        "time": "3 days",
+        "yield": "40%",
+        "characterization_methods": [
+          "PXRD",
+          "TGA",
+          "Single-crystal X-ray diffraction"
+        ]
+      }
+    },
+    {
+      "name": "3D-MOF-Mix",
+      "synthesis_conditions": {
+        "temperature": "100 oC",
+        "solvents": [
+          "DMF",
+          "HCO2H"
+        ],
+        "equipment": "Pyrex vial",
+        "chemicals_used": [
+          "HfCl4",
+          "H3BTE",
+          "H3BTE-NO2"
+        ],
+        "time": "3 days",
+        "yield": "45%~60%",
+        "characterization_methods": [
+          "PXRD",
+          "Elemental analysis"
+        ]
+      }
+    },
+    {
+      "name": "2D-MOL-Mix",
+      "synthesis_conditions": {
+        "temperature": "120 oC",
+        "solvents": [
+          "DMF",
+          "HCO2H",
+          "H2O"
+        ],
+        "equipment": "Pyrex vial",
+        "chemicals_used": [
+          "HfCl4",
+          "H3BTE",
+          "H3BTE-NO2"
+        ],
+        "time": "2 days",
+        "yield": "85%~95%",
+        "characterization_methods": [
+          "PXRD",
+          "TEM",
+          "Elemental analysis"
+        ]
+      }
+    }
+  ]
+}

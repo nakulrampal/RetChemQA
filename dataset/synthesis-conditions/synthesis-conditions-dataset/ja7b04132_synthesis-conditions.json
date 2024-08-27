@@ -1,0 +1,85 @@
+{
+  "materials": [
+    {
+      "name": "Y-shp-MOF-5",
+      "synthesis_conditions": [
+        {
+          "step": "Solvothermal reaction",
+          "temperature": "105 °C",
+          "duration": "24 h",
+          "solvents": [
+            {
+              "name": "DMF/water solution",
+              "amounts": [
+                {
+                  "DMF": "0.5 mL",
+                  "water": "0.75 mL"
+                }
+              ]
+            }
+          ],
+          "chemicals": [
+            {
+              "name": "RE(NO3)3·xH2O",
+              "amount": "0.5 mL of 0.068 M solution",
+              "notes": "RE = Y3+"
+            },
+            {
+              "name": "BTEB",
+              "amount": "6.7 mg, 0.012 mmol"
+            },
+            {
+              "name": "2-fluorobenzoic acid (2-FBA)",
+              "amount": "2.01 mL of 4 M solution in DMF"
+            }
+          ],
+          "equipment": "20 mL glass scintillation vial",
+          "atmosphere": "sealed vial",
+          "yield": "Colorless hexagonal bipyramidal crystals"
+        }
+      ]
+    },
+    {
+      "name": "Yb-shp-MOF-5",
+      "synthesis_conditions": [
+        {
+          "step": "Solvothermal reaction",
+          "temperature": "105 °C",
+          "duration": "48 h",
+          "solvents": [
+            {
+              "name": "DMF/water solution",
+              "amounts": [
+                {
+                  "DMF": "0.5 mL",
+                  "water": "0.75 mL"
+                }
+              ]
+            }
+          ],
+          "chemicals": [
+            {
+              "name": "Yb(NO3)3·6H2O",
+              "amount": "0.5 mL of 0.068 M solution"
+            },
+            {
+              "name": "BTEB",
+              "amount": "6.7 mg, 0.012 mmol"
+            },
+            {
+              "name": "2-fluorobenzoic acid (2-FBA)",
+              "amount": "2.01 mL of 4 M solution in DMF"
+            },
+            {
+              "name": "HNO3",
+              "amount": "0.1 mL of 3.5 M"
+            }
+          ],
+          "equipment": "20 mL glass scintillation vial",
+          "atmosphere": "sealed vial",
+          "yield": "Colorless hexagonal bipyramidal crystals"
+        }
+      ]
+    }
+  ]
+}

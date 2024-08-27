@@ -1,0 +1,263 @@
+{
+  "materials": [
+    {
+      "name": "Ag14-LR",
+      "synthesis_conditions": {
+        "temperature": "100.01 K",
+        "solvents": [
+          {
+            "name": "dichloromethane",
+            "amount": "not specified"
+          },
+          {
+            "name": "n-hexane",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Ag14 cluster",
+            "amount": "2 mg"
+          },
+          {
+            "name": "LR linkers",
+            "amount": "0.1 mg"
+          }
+        ],
+        "yield": "83%",
+        "crystal_system": "hexagonal",
+        "space_group": "P6122",
+        "a": "23.6655 Å",
+        "b": "23.6655 Å",
+        "c": "81.7805 Å",
+        "alpha": "90°",
+        "beta": "90°",
+        "gamma": "120°",
+        "volume": "39665 Å3",
+        "Z": "6",
+        "density": "1.529 g/cm3",
+        "mu": "10.069 mm-1",
+        "F(000)": "17844.0",
+        "crystal_size": "0.02 × 0.01 × 0.01 mm3",
+        "radiation": "Cu Kα (λ = 1.54184)",
+        "2theta_range": "6.914 to 122.338°",
+        "index_ranges": "-16 ≤ h ≤ 24, -21 ≤ k ≤ 18, -88 ≤ l ≤ 92",
+        "reflections_collected": "77560",
+        "independent_reflections": "19620",
+        "data_restraints_parameters": "19620/1564/1355",
+        "goodness_of_fit_on_F2": "1.042",
+        "final_R_indexes_I_greater_2sigma_I": "R1 = 0.1023, wR2 = 0.2235",
+        "final_R_indexes_all_data": "R1 = 0.1265, wR2 = 0.2442",
+        "largest_diff_peak_hole": "1.51/-1.67 e Å-3",
+        "flack_parameter": "0.018(8)"
+      }
+    },
+    {
+      "name": "Ag14-LS",
+      "synthesis_conditions": {
+        "temperature": "100.01 K",
+        "solvents": [
+          {
+            "name": "dichloromethane",
+            "amount": "not specified"
+          },
+          {
+            "name": "n-hexane",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Ag14 cluster",
+            "amount": "2 mg"
+          },
+          {
+            "name": "LS linkers",
+            "amount": "0.1 mg"
+          }
+        ],
+        "yield": "83%",
+        "crystal_system": "hexagonal",
+        "space_group": "P6522",
+        "a": "23.6036 Å",
+        "b": "23.6036 Å",
+        "c": "80.9175 Å",
+        "alpha": "90°",
+        "beta": "90°",
+        "gamma": "120°",
+        "volume": "39041.8 Å3",
+        "Z": "6",
+        "density": "1.553 g/cm3",
+        "mu": "10.229 mm-1",
+        "F(000)": "17844.0",
+        "crystal_size": "0.03 × 0.02 × 0.02 mm3",
+        "radiation": "Cu Kα (λ = 1.54184)",
+        "2theta_range": "6.966 to 122.338°",
+        "index_ranges": "-26 ≤ h ≤ 26, -26 ≤ k ≤ 26, -91 ≤ l ≤ 91",
+        "reflections_collected": "156944",
+        "independent_reflections": "20006",
+        "data_restraints_parameters": "20006/1002/1415",
+        "goodness_of_fit_on_F2": "1.069",
+        "final_R_indexes_I_greater_2sigma_I": "R1 = 0.0892, wR2 = 0.1872",
+        "final_R_indexes_all_data": "R1 = 0.1013, wR2 = 0.1959",
+        "largest_diff_peak_hole": "1.40/-1.13 e Å-3",
+        "flack_parameter": "0.055(5)"
+      }
+    },
+    {
+      "name": "Ag14-LRS",
+      "synthesis_conditions": {
+        "temperature": "100.00 K",
+        "solvents": [
+          {
+            "name": "dichloromethane",
+            "amount": "not specified"
+          },
+          {
+            "name": "n-hexane",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Ag14 cluster",
+            "amount": "2 mg"
+          },
+          {
+            "name": "LRS linkers",
+            "amount": "0.1 mg"
+          }
+        ],
+        "yield": "85%",
+        "crystal_system": "orthorhombic",
+        "space_group": "Pnnn",
+        "a": "20.4683 Å",
+        "b": "24.1337 Å",
+        "c": "25.9145 Å",
+        "alpha": "90°",
+        "beta": "90°",
+        "gamma": "90°",
+        "volume": "12801.1 Å3",
+        "Z": "2",
+        "density": "1.579 g/cm3",
+        "mu": "10.400 mm-1",
+        "F(000)": "5948.0",
+        "crystal_size": "0.02 × 0.01 × 0.01 mm3",
+        "radiation": "Cu Kα (λ = 1.54184)",
+        "2theta_range": "7.326 to 122.338°",
+        "index_ranges": "-23 ≤ h ≤ 20, -27 ≤ k ≤ 20, -27 ≤ l ≤ 29",
+        "reflections_collected": "38362",
+        "independent_reflections": "9835",
+        "data_restraints_parameters": "9835/752/784",
+        "goodness_of_fit_on_F2": "1.017",
+        "final_R_indexes_I_greater_2sigma_I": "R1 = 0.0616, wR2 = 0.1627",
+        "final_R_indexes_all_data": "R1 = 0.0909, wR2 = 0.1930",
+        "largest_diff_peak_hole": "1.63/-1.00 e Å-3"
+      }
+    },
+    {
+      "name": "R-Ag14m",
+      "synthesis_conditions": {
+        "temperature": "100.01 K",
+        "solvents": [
+          {
+            "name": "dichloromethane",
+            "amount": "not specified"
+          },
+          {
+            "name": "DMF",
+            "amount": "not specified"
+          },
+          {
+            "name": "methanol",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Ag14-LR crystals",
+            "amount": "4 mg"
+          }
+        ],
+        "yield": "~35%",
+        "crystal_system": "orthorhombic",
+        "space_group": "C2221",
+        "a": "24.9972 Å",
+        "b": "30.3589 Å",
+        "c": "56.1233 Å",
+        "alpha": "90°",
+        "beta": "90°",
+        "gamma": "90°",
+        "volume": "42591.3 Å3",
+        "Z": "8",
+        "density": "1.794 g/cm3",
+        "mu": "12.465 mm-1",
+        "F(000)": "22400.0",
+        "crystal_size": "0.05 × 0.02 × 0.02 mm3",
+        "radiation": "Cu Kα (λ = 1.54184)",
+        "2theta_range": "6.58 to 122.338°",
+        "index_ranges": "-25 ≤ h ≤ 28, -34 ≤ k ≤ 34, -63 ≤ l ≤ 63",
+        "reflections_collected": "129060",
+        "independent_reflections": "32755",
+        "data_restraints_parameters": "32755/1869/2570",
+        "goodness_of_fit_on_F2": "1.058",
+        "final_R_indexes_I_greater_2sigma_I": "R1 = 0.0790, wR2 = 0.1977",
+        "final_R_indexes_all_data": "R1 = 0.0944, wR2 = 0.2110",
+        "largest_diff_peak_hole": "1.92/-1.29 e Å-3",
+        "flack_parameter": "-0.026(5)"
+      }
+    },
+    {
+      "name": "S-Ag14m",
+      "synthesis_conditions": {
+        "temperature": "100.01 K",
+        "solvents": [
+          {
+            "name": "dichloromethane",
+            "amount": "not specified"
+          },
+          {
+            "name": "DMF",
+            "amount": "not specified"
+          },
+          {
+            "name": "methanol",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Ag14-LS crystals",
+            "amount": "4 mg"
+          }
+        ],
+        "yield": "~35%",
+        "crystal_system": "orthorhombic",
+        "space_group": "C2221",
+        "a": "24.8562 Å",
+        "b": "30.5304 Å",
+        "c": "56.0821 Å",
+        "alpha": "90°",
+        "beta": "90°",
+        "gamma": "90°",
+        "volume": "42559.1 Å3",
+        "Z": "8",
+        "density": "1.796 g/cm3",
+        "mu": "12.475 mm-1",
+        "F(000)": "22400.0",
+        "crystal_size": "0.04 × 0.02 × 0.02 mm3",
+        "radiation": "Cu Kα (λ = 1.54184)",
+        "2theta_range": "6.586 to 122.334°",
+        "index_ranges": "-28 ≤ h ≤ 16, -34 ≤ k ≤ 33, -63 ≤ l ≤ 48",
+        "reflections_collected": "69042",
+        "independent_reflections": "32631",
+        "data_restraints_parameters": "32631/1935/2557",
+        "goodness_of_fit_on_F2": "1.057",
+        "final_R_indexes_I_greater_2sigma_I": "R1 = 0.0692, wR2 = 0.1759",
+        "final_R_indexes_all_data": "R1 = 0.0712, wR2 = 0.1776",
+        "largest_diff_peak_hole": "2.21/-2.33 e Å-3",
+        "flack_parameter": "0.015(5)"
+      }
+    }
+  ]
+}

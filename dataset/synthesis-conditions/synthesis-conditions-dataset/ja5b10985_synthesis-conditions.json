@@ -1,0 +1,139 @@
+{
+  "materials": [
+    {
+      "material": "pipHLH2",
+      "synthesis_conditions": {
+        "temperature": "75 °C",
+        "solvents": [
+          {
+            "name": "MeOH",
+            "amount": "50 mL"
+          }
+        ],
+        "equipment": "Fisher Porter tube under Ar",
+        "chemicals_used": [
+          {
+            "name": "LH2",
+            "amount": "1.00 g",
+            "molarity": "2.06 mmol"
+          },
+          {
+            "name": "10 wt% Pd/C",
+            "amount": "0.200 g",
+            "molarity": "0.206 mmol"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": "MeOH (50 mL)",
+        "drying_method": "vacuum for 24 h",
+        "yield": "54.0%"
+      }
+    },
+    {
+      "material": "pipMeLH2",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "acetone",
+            "amount": "50 mL"
+          }
+        ],
+        "equipment": "Schlenk flask under N2",
+        "chemicals_used": [
+          {
+            "name": "pipHLH2",
+            "amount": "0.500 g",
+            "molarity": "0.102 mmol"
+          },
+          {
+            "name": "K2CO3",
+            "amount": "0.300 g",
+            "molarity": "0.203 mmol"
+          },
+          {
+            "name": "Iodomethane",
+            "amount": "0.140 mL",
+            "molarity": "0.203 mmol"
+          }
+        ],
+        "time": "18 h",
+        "washing_method": "ethyl acetate/hexanes (1:4, 200 mL)",
+        "drying_method": "vacuum",
+        "yield": "76.8%"
+      }
+    },
+    {
+      "material": "NO2LH2",
+      "synthesis_conditions": {
+        "temperature": "reflux",
+        "solvents": [
+          {
+            "name": "dry pyridine",
+            "amount": "~40 mL"
+          }
+        ],
+        "equipment": "100 mL Schlenk flask under N2",
+        "chemicals_used": [
+          {
+            "name": "4-nitro-2,6-diisopropylaniline",
+            "amount": "5.00 g",
+            "molarity": "22.3 mmol"
+          },
+          {
+            "name": "pyridine-2,6-dicarbonyl dichloride",
+            "amount": "2.24 g",
+            "molarity": "11.0 mmol"
+          },
+          {
+            "name": "4-(dimethylamino)pyridine",
+            "amount": "0.134 g",
+            "molarity": "1.10 mmol"
+          }
+        ],
+        "time": "48 h",
+        "washing_method": "CH2Cl2 (approximately 50-100 mL)",
+        "drying_method": "vacuum",
+        "yield": "66.0%"
+      }
+    },
+    {
+      "material": "NO2LCu(MeCN)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "MeOH",
+            "amount": "20 mL"
+          },
+          {
+            "name": "MeCN",
+            "amount": "20 mL"
+          }
+        ],
+        "equipment": "100 mL round bottom flask under N2",
+        "chemicals_used": [
+          {
+            "name": "Cu(OTf)2",
+            "amount": "0.628 g",
+            "molarity": "1.74 mmol"
+          },
+          {
+            "name": "NO2LH2",
+            "amount": "1.00 g",
+            "molarity": "1.74 mmol"
+          },
+          {
+            "name": "NaOMe",
+            "amount": "0.48 M in MeOH, 7.4 mL",
+            "molarity": "3.6 mmol"
+          }
+        ],
+        "time": "30 min",
+        "washing_method": "CH2Cl2 (approximately 20 mL)",
+        "drying_method": "vacuum",
+        "yield": "77.9%"
+      }
+    }
+  ]
+}

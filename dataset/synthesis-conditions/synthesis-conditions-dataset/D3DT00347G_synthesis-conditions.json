@@ -1,0 +1,157 @@
+{
+  "materials": [
+    {
+      "label": "Ligand I",
+      "synthesis_conditions": {
+        "temperature": "Reflux",
+        "solvents": [
+          {
+            "name": "acetic acid",
+            "amount": "20 ml"
+          },
+          {
+            "name": "toluene",
+            "amount": "2 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "acenaphtenequinone",
+            "amount": "3.82 g, 0.02 mol"
+          },
+          {
+            "name": "anhydrous ZnCl2",
+            "amount": "2.86 g, 0.02 mol"
+          },
+          {
+            "name": "2-picolylamine",
+            "amount": "5.0 g, 0.046 mol"
+          }
+        ],
+        "time": "4 hours",
+        "washing_method": "washed with cold acetic acid (3 × 10 ml) and diethyl ether (3 × 10 ml)",
+        "drying_method": "Drying on air overnight",
+        "yield": "30 % (3.00 g)"
+      }
+    },
+    {
+      "label": "Sodium complex II",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "THF"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ligand I",
+            "amount": "1 equiv."
+          },
+          {
+            "name": "metallic sodium",
+            "amount": "1.1 equiv."
+          }
+        ],
+        "time": "A few days",
+        "temperature": "Room temperature",
+        "washing_method": "washed with THF",
+        "drying_method": "dried in a vacuum",
+        "yield": "40 %"
+      }
+    },
+    {
+      "label": "Cobalt complex 1",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "THF"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ligand I",
+            "amount": "0.3 mmol"
+          },
+          {
+            "name": "CoBr2",
+            "amount": "0.3 mmol"
+          }
+        ],
+        "time": "Overnight",
+        "temperature": "Room temperature",
+        "yield": "About 70 %"
+      }
+    },
+    {
+      "label": "Cobalt complex 2",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "dichloromethane (DCM)"
+          },
+          {
+            "name": "acetonitrile"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ligand I",
+            "amount": "0.6 mmol"
+          },
+          {
+            "name": "CoBr2",
+            "amount": "0.3 mmol"
+          }
+        ],
+        "time": "1 hour",
+        "temperature": "Room temperature",
+        "yield": "80 %"
+      }
+    },
+    {
+      "label": "Cobalt complex 3",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "DCM"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Co(acac)2",
+            "amount": "1 equiv."
+          },
+          {
+            "name": "ligand I",
+            "amount": "1 equiv."
+          }
+        ],
+        "temperature": "Room temperature",
+        "yield": "60 %"
+      }
+    },
+    {
+      "label": "Cobalt complex 4",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "THF"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "sodium complex II",
+            "amount": "0.6 mmol"
+          },
+          {
+            "name": "CoBr2",
+            "amount": "0.3 mmol"
+          }
+        ],
+        "time": "2 days",
+        "temperature": "Room temperature",
+        "yield": "30%"
+      }
+    }
+  ]
+}

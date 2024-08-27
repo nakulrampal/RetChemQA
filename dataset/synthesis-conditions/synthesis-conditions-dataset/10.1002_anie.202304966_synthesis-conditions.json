@@ -1,0 +1,67 @@
+{
+  "materials": [
+    {
+      "name": "1-metallo-2-tert-butyl-1,2-dihydropyridines (M(tBuDHP), where M = Li–Cs)",
+      "synthesis_conditions": {
+        "solvents": ["C6D6", "THF-d8"],
+        "temperature": "Room temperature to 70 °C",
+        "catalyst_amount": "5 mol %",
+        "yield": "Up to quantitative yields",
+        "reaction_time": "Minutes to 24 hours",
+        "additional_information": "Heavier alkali metal tBuDHPs outperform lighter congeners. Cs(tBuDHP) is the optimal pre-catalyst."
+      }
+    },
+    {
+      "name": "Na–Cs dihydropyridines",
+      "synthesis_conditions": {
+        "method": "Transmetallating the lithium congener with appropriate alkali metal alkoxides",
+        "storage_conditions": "Stable for months under inert conditions as powders in a freezer"
+      }
+    },
+    {
+      "name": "N-benzylideneaniline reduction",
+      "synthesis_conditions": {
+        "solvents": ["C6D6", "THF-d8"],
+        "temperature": "Room temperature to 70 °C",
+        "catalyst": "AM(tBuDHP) (AM = Li, Na, K, Rb, Cs)",
+        "catalyst_amount": "10 mol % to 5 mol %",
+        "hydrogen_source": "1.5 equivalents of 1,4-CHD",
+        "yield": "21% to 97%",
+        "reaction_time": "1 hour to 24 hours",
+        "additional_information": "Cs(tBuDHP) gave the best results with 97% yield in 1 hour at 70 °C."
+      }
+    },
+    {
+      "name": "N-benzylidene-tert-butylamine reduction",
+      "synthesis_conditions": {
+        "solvents": ["C6D6", "THF-d8"],
+        "temperature": "70 °C",
+        "catalyst": "Cs(tBuDHP)",
+        "catalyst_amount": "5 mol %",
+        "yield": "Up to 99%",
+        "reaction_time": "1 hour to 3 hours",
+        "additional_information": "Cs(tBuDHP) provided nearly quantitative yields in C6D6."
+      }
+    },
+    {
+      "name": "Benzophenone imine reduction",
+      "synthesis_conditions": {
+        "solvents": ["C6D6", "THF-d8"],
+        "temperature": "Room temperature to 70 °C",
+        "catalyst": "AM(tBuDHP) (AM = Li, Na, K, Rb, Cs)",
+        "catalyst_amount": "10 mol % to 5 mol %",
+        "yield": "60% to 99%",
+        "reaction_time": "15 minutes to 14 hours",
+        "additional_information": "Cs(tBuDHP) again gave the best results with quantitative yields in 15 minutes at room temperature in THF-d8."
+      }
+    },
+    {
+      "name": "Pyridine adduct formation",
+      "synthesis_conditions": {
+        "reagents": ["Cs(tBuDHP)", "pyridine"],
+        "solvent": "Hexane",
+        "product": "Crystals of the pyridine solvate {[Cs(tBuDHP)]2 · py}∞ (3) and monomeric tris-pyridine solvate [Li(tBuDHP) · (py)3] (4)"
+      }
+    }
+  ]
+}

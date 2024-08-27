@@ -1,0 +1,108 @@
+{
+  "materials": [
+    {
+      "name": "MMK-5",
+      "synthesis_conditions": {
+        "temperature": "reflux under nitrogen for 24 hours",
+        "solvents": [
+          {
+            "name": "o-dichlorobenzene",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "fullerene C60",
+            "amount": "50 mg, 0.069 mmol"
+          },
+          {
+            "name": "3-(2-pyridyl)-5,6-diphenyl-1,2,4-triazine",
+            "amount": "21 mg, 0.068 mmol"
+          }
+        ],
+        "yield": "60%",
+        "MALDI-TOF": "1002.506 m/z, C80H15N2 (M–1)",
+        "infrared_spectrum": "Figure 1"
+      }
+    },
+    {
+      "name": "MMK-9",
+      "synthesis_conditions": {
+        "temperature": "irradiated by a halogen projector lamp (120v /500 W) from a distance of 20 cm and under air for 20 hours",
+        "solvents": [
+          {
+            "name": "carbon tetrachloride",
+            "amount": "50 mL"
+          },
+          {
+            "name": "toluene",
+            "amount": "50 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "MMK-5",
+            "amount": "60 mg, 0.06 mmol"
+          }
+        ],
+        "yield": "Not specified",
+        "MALDI-TOF": "1034.552 m/z, C80H15N2O2 (M–1)",
+        "infrared_spectrum": "Figure 3"
+      }
+    },
+    {
+      "name": "{(MMK-9)(OCH3)5Ag(AgO2CCF3)}2•4CH2Cl2",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "dichloromethane",
+            "amount": "1.2 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "saturated solution"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "MMK-9",
+            "amount": "1.5 mg, 0.0014 mmol"
+          },
+          {
+            "name": "AgO2CCF3",
+            "amount": "saturated solution"
+          }
+        ],
+        "yield": "36%",
+        "infrared_spectrum": "Figure 4"
+      }
+    },
+    {
+      "name": "{(MMK-9)2(OCH3)10Ag4(O)(X)}n",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "dichloromethane",
+            "amount": "1.2 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "saturated solution"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "MMK-9",
+            "amount": "1.5 mg, 0.0014 mmol"
+          },
+          {
+            "name": "AgNO3",
+            "amount": "saturated solution"
+          }
+        ],
+        "yield": "45%",
+        "infrared_spectrum": "Figure 5"
+      }
+    }
+  ]
+}

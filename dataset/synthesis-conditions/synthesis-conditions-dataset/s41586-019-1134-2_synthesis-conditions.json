@@ -1,0 +1,113 @@
+{
+  "materials": [
+    {
+      "label": "Reaction system A",
+      "conditions": {
+        "temperature": "Room temperature",
+        "solvents": "Tetrahydrofuran (THF)",
+        "chemicals_used": [
+          "decamethylcobaltocene (CoCp*2)",
+          "2,4,6-trimethylpyridinium trifluoromethanesulfonate ([ColH]OTf)"
+        ],
+        "time": "Not specified",
+        "pressure": "1 atm (N2)",
+        "catalyst": "[MoI3(PNP)] (1a; PNP = 2,6-bis(di-tert-butylphosphinomethyl)pyridine)"
+      }
+    },
+    {
+      "label": "Reaction system B",
+      "conditions": {
+        "temperature": "Room temperature",
+        "solvents": "Tetrahydrofuran (THF)",
+        "chemicals_used": [
+          "samarium(ii) diiodide (SmI2)",
+          "ethylene glycol or water"
+        ],
+        "amount_of_each_solvent": "180 equivalents (to molybdenum catalyst 1a) of SmI2 and ethylene glycol",
+        "time": "0.5 h",
+        "pressure": "1 atm (N2)",
+        "catalyst": "[MoI3(PNP)] (1a)",
+        "yield": "39.7 equivalents of ammonia based on the molybdenum atom (65% yield based on SmI2)",
+        "additional_information": "Also produced 15.0 equivalents of hydrogen gas based on the molybdenum atom (16% yield based on SmI2)"
+      }
+    },
+    {
+      "label": "Reaction with larger amounts of SmI2 and ethylene glycol or water",
+      "conditions": {
+        "temperature": "Room temperature",
+        "solvents": "Tetrahydrofuran (THF)",
+        "chemicals_used": [
+          "samarium(ii) diiodide (SmI2)",
+          "ethylene glycol or water"
+        ],
+        "amount_of_each_solvent": "14,400 equivalents (to catalyst 9) of SmI2 and ethylene glycol or water",
+        "time": "4 h",
+        "pressure": "1 atm (N2)",
+        "catalyst": "Catalyst 9",
+        "yield": "3,650 equivalents of ammonia with ethylene glycol (76% yield based on SmI2) or 4,350 equivalents of ammonia with water (91% yield based on SmI2)"
+      }
+    },
+    {
+      "label": "Stoichiometric reaction of molybdenum complexes with SmI2",
+      "conditions": {
+        "temperature": "Room temperature",
+        "solvents": "Tetrahydrofuran (THF)",
+        "chemicals_used": [
+          "samarium(ii) diiodide (SmI2)",
+          "ethylene glycol"
+        ],
+        "time": "1 h",
+        "pressure": "1 atm (argon for reaction with complex 4)",
+        "catalyst": "Complexes 1a, 1b, 1c, and 4",
+        "yield": "Yields based on NMR spectroscopy: 76% (from 1a), 74% (from 1b), 85% (from 1c), and quantitative ammonia production from 4"
+      }
+    },
+    {
+      "label": "Catalytic reduction of dinitrogen to ammonia under 15N2",
+      "conditions": {
+        "temperature": "Room temperature",
+        "solvents": "Tetrahydrofuran (THF)",
+        "chemicals_used": [
+          "samarium(ii) diiodide (SmI2)",
+          "ethylene glycol"
+        ],
+        "time": "18 h",
+        "pressure": "1 atm (15N2)",
+        "catalyst": "Complex 1c",
+        "yield": "39.7 equivalents of ammonia based on the molybdenum atom (67% NMR yield based on SmI2)"
+      }
+    },
+    {
+      "label": "Catalytic reduction of dinitrogen to ammonia with water",
+      "conditions": {
+        "temperature": "Room temperature",
+        "solvents": "Tetrahydrofuran (THF)",
+        "chemicals_used": [
+          "samarium(ii) diiodide (SmI2)",
+          "water"
+        ],
+        "amount_of_each_solvent": "360 equivalents (to molybdenum catalyst 1a) of water",
+        "time": "18 h",
+        "pressure": "1 atm (N2)",
+        "catalyst": "Complex 1a",
+        "yield": "26.8 equivalents of ammonia based on the molybdenum atom (43% yield based on SmI2)"
+      }
+    },
+    {
+      "label": "Catalytic reduction of hydrazine to ammonia",
+      "conditions": {
+        "temperature": "Room temperature",
+        "solvents": "Tetrahydrofuran (THF)",
+        "chemicals_used": [
+          "samarium(ii) diiodide (SmI2)",
+          "ethylene glycol",
+          "hydrazine"
+        ],
+        "time": "18 h",
+        "pressure": "1 atm (argon)",
+        "catalyst": "Complex 1a",
+        "yield": "50.0 equivalents of ammonia based on the molybdenum atom (83% yield based on hydrazine)"
+      }
+    }
+  ]
+}

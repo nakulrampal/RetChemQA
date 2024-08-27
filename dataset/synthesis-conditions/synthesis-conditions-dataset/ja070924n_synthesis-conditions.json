@@ -1,0 +1,73 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "chemicals_used": "3,5-H2PDC (13.4 mg, 0.08 mmol), Co(NO3)2⋅6H2O (46.6 mg, 0.16 mmol)",
+        "solvents": "EtOH (1 mL), DMF (1 mL), Py (0.05 mL)",
+        "equipment": "20 mL scintillation vial",
+        "temperature": "heated at a constant rate 1.5°C/min to 85°C for 12 h, then cooled at a constant rate 1°C/min to room temperature",
+        "yield": "Not specified",
+        "drying_method": "air-dried",
+        "solubility": "insoluble in H2O and common organic solvents"
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "chemicals_used": "H2CDO⋅H2O (8.1 mg, 0.04 mmol), Cu(NO3)2⋅2.5H2O (9.3 mg, 0.04 mmol)",
+        "solvents": "DMF (1 mL), EtOH (1 mL), Py (0.1 mL)",
+        "equipment": "20 mL scintillation vial",
+        "temperature": "heated at a constant rate 1.5°C/min to 85°C for 12 h, then cooled at a constant rate 1°C/min to room temperature",
+        "yield": "15 mg, 90%",
+        "drying_method": "air-dried",
+        "solubility": "insoluble in H2O and common organic solvents"
+      }
+    },
+    {
+      "name": "3",
+      "synthesis_conditions": [
+        {
+          "method": "Method 1",
+          "washing_method": "washed with DMF (1 mL) and EtOH (1 mL) three times",
+          "equipment": "20 mL scintillation vial, photochemical reactor",
+          "time": "1 day",
+          "color_change": "from light blue to light green",
+          "drying_method": "air-dried",
+          "solubility": "insoluble in H2O and common organic solvents"
+        },
+        {
+          "method": "Method 2",
+          "washing_method": "washed with DMF (1 mL) and EtOH (1 mL) three times and dried",
+          "equipment": "20 mL scintillation vial, photochemical reactor",
+          "time": "1 day",
+          "color_change": "from light blue to light green",
+          "drying_method": "air-dried",
+          "solubility": "insoluble in H2O and common organic solvents"
+        }
+      ]
+    },
+    {
+      "name": "4",
+      "synthesis_conditions": {
+        "washing_method": "washed with DMF (1 mL) and EtOH (1 mL) three times and dried, then washed with H2O three times and dried",
+        "chemicals_used": "HNO3 (1.0 mL 6N in 1.0 mL H2O)",
+        "equipment": "20 mL scintillation vial",
+        "temperature": "heated at a constant rate 1.5°C/min to 85°C for 12 h, then cooled at a constant rate 1°C/min to room temperature, followed by successive heating at a constant rate 1.5°C/min to 105°C for 23 h and cooling at a constant rate 1°C/min to room temperature",
+        "yield": "Not specified",
+        "drying_method": "Not specified"
+      }
+    },
+    {
+      "name": "5",
+      "synthesis_conditions": {
+        "washing_method": "washed with DMF (1 mL) and EtOH (1 mL) three times and dried, then washed with H2O three times and dried",
+        "chemicals_used": "NaOH (1.0 mL 8M in H2O)",
+        "equipment": "20 mL scintillation vial",
+        "temperature": "room temperature, placed at 4°C for three days",
+        "yield": "8 mg, 34% total yield based on H2CDO·H2O",
+        "drying_method": "air dried"
+      }
+    }
+  ]
+}

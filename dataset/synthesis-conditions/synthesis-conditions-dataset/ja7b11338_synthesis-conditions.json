@@ -1,0 +1,201 @@
+{
+  "materials": [
+    {
+      "name": "NC-1",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "1-thiol-o-carborane",
+            "amount": "17.5 mg",
+            "molar_amount": "0.1 mmol"
+          },
+          {
+            "name": "AgCF3COO",
+            "amount": "44.2 mg",
+            "molar_amount": "0.2 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "4 mL"
+          }
+        ],
+        "time": "2 days",
+        "yield": "very low",
+        "yield_basis": "1-thiol-o-carborane"
+      }
+    },
+    {
+      "name": "NC-2,3",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "pyridyl ligands",
+            "amount": "0.01 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "CH2Cl2",
+            "amount": "2 mL"
+          }
+        ],
+        "time": "couple of days",
+        "yield": "35%"
+      }
+    },
+    {
+      "name": "Precursor",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "1,2-dithiol-o-carborane",
+            "amount": "4.2 mg",
+            "molar_amount": "0.02 mmol"
+          },
+          {
+            "name": "AgCF3COO",
+            "amount": "4.4 mg",
+            "molar_amount": "0.04 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "CH3CN",
+            "amount": "4 mL"
+          }
+        ],
+        "time": "0.5 hour",
+        "yield": "90%"
+      }
+    },
+    {
+      "name": "SCAM-1",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "pyrazine",
+            "amount": "20.0 mg"
+          },
+          {
+            "name": "Precursor",
+            "amount": "20.0 mg"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "CH3CN",
+            "amount": "2 mL"
+          },
+          {
+            "name": "DMF",
+            "amount": "2 mL"
+          }
+        ],
+        "time": "several days",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "SCAM-2",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "Dipyridin-4-yl-diazene (dpd)",
+            "amount": "9.0 mg"
+          },
+          {
+            "name": "Precursor",
+            "amount": "10.0 mg"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "CH3CN",
+            "amount": "3 mL"
+          },
+          {
+            "name": "DMF",
+            "amount": "2 mL"
+          }
+        ],
+        "time": "several days",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "SCAM-3",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "4,4'-bipyridine (bpy)",
+            "amount": "11.5 mg"
+          },
+          {
+            "name": "Precursor",
+            "amount": "10.0 mg"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "CH3CN",
+            "amount": "2 mL"
+          },
+          {
+            "name": "DMF",
+            "amount": "3 mL"
+          }
+        ],
+        "time": "several days",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "SCAM-4",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "1,4-bis(4-pyridyl)benzene (dpbz)",
+            "amount": "11.5 mg"
+          },
+          {
+            "name": "Precursor",
+            "amount": "10.0 mg"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "CH3CN/DMF mixture",
+            "amount": "3.5 mL"
+          },
+          {
+            "name": "DMF",
+            "amount": "2.5 mL"
+          }
+        ],
+        "time": "several days",
+        "yield": "30%",
+        "yield_basis": "not specified",
+        "elemental_analysis": {
+          "C": {
+            "calculated": "24.46",
+            "found": "24.80"
+          },
+          "H": {
+            "calculated": "2.93",
+            "found": "2.94"
+          },
+          "N": {
+            "calculated": "2.90",
+            "found": "3.04"
+          },
+          "S": {
+            "calculated": "10.69",
+            "found": "10.45"
+          }
+        }
+      }
+    }
+  ]
+}

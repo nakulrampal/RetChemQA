@@ -1,0 +1,47 @@
+{
+  "materials": [
+    {
+      "name": "Cd-TBAPy",
+      "synthesis_conditions": {
+        "organic_linker": "1,3,6,8-tetrakis(p-benzoic acid)pyrene (H4TBAPy)",
+        "metal_source": "Cadmium ions",
+        "visible_light_absorption_edge": "≈600 nm",
+        "bandgap": "≈2.15 eV",
+        "conduction_band": "−0.05 eV",
+        "valence_band": "2.10 eV",
+        "cocatalysts": [
+          "Pt",
+          "CoPi"
+        ],
+        "scavengers": [
+          "TEOA",
+          "AgNO3"
+        ],
+        "irradiation": "Visible-light",
+        "apparent_quantum_efficiency_O2_evolution": "5.6% at 420 nm",
+        "thermal_stability": "Framework collapse occurs over 653 K",
+        "solvent_stability": "Stable in acetonitrile, methylene dichloride, water, DMF, acetone for 12 h at room temperature",
+        "surface_area_BET": "27 m2 g−1",
+        "surface_area_Langmuir": "38 m2 g−1",
+        "solvent_accessible_volume": "≈18.2% upon solvent removal"
+      }
+    },
+    {
+      "name": "3.5 wt% Pt/Cd-TBAPy",
+      "synthesis_conditions": {
+        "loading": "3.5 wt% Pt",
+        "photocatalytic_performance": "Optimal H2 evolution rate of 4.3 µmol h−1 under visible-light irradiation",
+        "reaction_conditions": "90 mL CH3CN and 2 mL H2O with 10 mL TEOA as sacrificial reagent"
+      }
+    },
+    {
+      "name": "0.4 wt% CoPi/Cd-TBAPy",
+      "synthesis_conditions": {
+        "loading": "0.4 wt% CoPi",
+        "photocatalytic_performance": "Optimal O2 evolution rate of 81.7 µmol h−1 under visible-light irradiation",
+        "apparent_quantum_efficiency": "5.6% under 420 ± 10 nm irradiation",
+        "reaction_conditions": "100 mL 10 × 10−3 m AgNO3 solution"
+      }
+    }
+  ]
+}

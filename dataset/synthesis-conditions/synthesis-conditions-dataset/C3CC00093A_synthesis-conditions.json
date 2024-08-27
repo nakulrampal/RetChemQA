@@ -1,0 +1,81 @@
+{
+  "materials": [
+    {
+      "name": "Tris-(3-carboxylphenyl)phosphine oxide (= H3mTPO)",
+      "synthesis_conditions": {
+        "temperature": "70 oC",
+        "solvents": ["Pyridine", "Water"],
+        "amount_of_solvents": ["80 mL Pyridine", "40 mL Water"],
+        "equipment": "Reflux",
+        "chemicals_used": [
+          "Tri-m-tolylphosphine (3 g, 9.86 mmol)",
+          "KMnO4 (20 g, 43.25 mmol)",
+          "HCl"
+        ],
+        "time": "48 h",
+        "washing_method": "Water",
+        "drying_method": "Reduced pressure",
+        "yield": "90%"
+      }
+    },
+    {
+      "name": "[Mg2(HmTPO)2(µ-H2O)(H2O)2]•2DEF (1)",
+      "synthesis_conditions": {
+        "temperature": "100 oC",
+        "solvents": ["DEF", "MeOH", "H2O"],
+        "amount_of_solvents": ["DEF/MeOH/H2O (3:3:1 v/v, 1 mL)"],
+        "equipment": "Oven",
+        "chemicals_used": [
+          "MgBr2·6H2O (44 mg, 0.15 mmol)",
+          "H3mTPO (41 mg, 0.10 mmol)"
+        ],
+        "time": "48 h",
+        "washing_method": "DEF/MeOH/H2O",
+        "drying_method": "Air",
+        "yield": "30%"
+      }
+    },
+    {
+      "name": "[Mn3(mTPO)2(µ-H2O)(H2O)4]•2DMF•H2O (2)",
+      "synthesis_conditions": {
+        "temperature": "100 oC",
+        "solvents": ["DMF", "H2O"],
+        "amount_of_solvents": ["DMF/H2O (2:1 v/v, 1 mL)"],
+        "equipment": "Oven",
+        "chemicals_used": [
+          "MnCl2·4H2O (30 mg, 0.15 mmol)",
+          "H3mTPO (41 mg, 0.10 mmol)"
+        ],
+        "time": "48 h",
+        "washing_method": "DMF",
+        "drying_method": "Air",
+        "yield": "30%"
+      }
+    },
+    {
+      "name": "Desolvated sample (2b)",
+      "synthesis_conditions": {
+        "temperature": "50 oC",
+        "solvents": ["MeOH"],
+        "equipment": "Vacuum",
+        "time": "150 min",
+        "preparation_steps": [
+          "Soaking compound 2 in MeOH at 40 oC for 24 h",
+          "Drying the MeOH-exchanged sample in air",
+          "Heating the MeOH-exchange sample under vacuum"
+        ]
+      }
+    },
+    {
+      "name": "Resolvated sample",
+      "synthesis_conditions": {
+        "solvents": ["DMF", "H2O"],
+        "amount_of_solvents": ["DMF/H2O (2:1, v/v)"],
+        "time": "24 h",
+        "preparation_steps": [
+          "Immersing the activated sample of 2b in DMF/H2O for 24 h"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "materials": [
+    {
+      "name": "dibenzo[f,h]quinolinyl palladium(II) acetylacetonate",
+      "synthesis_conditions": {
+        "temperature": "reflux for 24 h",
+        "solvents": [
+          {
+            "name": "MeOH",
+            "amount": "200 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "palladium(II) acetylacetonate",
+            "amount": "609 mg, 2.00 mmol"
+          },
+          {
+            "name": "dibnezo[f,h]quinoline",
+            "amount": "642 mg, 2.80 mmol"
+          }
+        ],
+        "yield": "60%",
+        "washing_method": "suspended in 35 × 2 mL of CH2Cl2 and centrifuged, then filtered"
+      }
+    },
+    {
+      "name": "dibenzo[f,h]quinolinyl palladium(II) methylxanthate (3)",
+      "synthesis_conditions": {
+        "temperature": "stirred for 12 h at room temperature",
+        "solvents": [
+          {
+            "name": "CHCl3",
+            "amount": "27 mL"
+          },
+          {
+            "name": "MeOH",
+            "amount": "3.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "dibenzo[f,h]quinolinyl palladium(II) acetylacetonate",
+            "amount": "86.8 mg, 0.20 mmol"
+          },
+          {
+            "name": "sodium methylxanthate",
+            "amount": "27.3 mg, 0.21 mmol"
+          }
+        ],
+        "yield": "56%"
+      }
+    },
+    {
+      "name": "as-synthesized network complex 1·3",
+      "synthesis_conditions": {
+        "temperature": "room temperature for 1 week",
+        "solvents": [
+          {
+            "name": "nitrobenzene/methanol",
+            "amount": "4.0 mL/1.0 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "0.50 mL + 0.50 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "2,4,6-tris(4-pyridyl)-1,3,5-triazine (2)",
+            "amount": "6.3 mg, 0.02 mmol"
+          },
+          {
+            "name": "dibenzo[f,h]quinolinyl palladium(II) methylxanthate (3)",
+            "amount": "13.3 mg, 0.03 mmol"
+          },
+          {
+            "name": "ZnI2",
+            "amount": "9.6 mg, 0.03 mmol"
+          }
+        ],
+        "yield": "34%"
+      }
+    },
+    {
+      "name": "solvent replacement procedure of 1·3",
+      "synthesis_conditions": {
+        "temperature": "room temperature for 1 day",
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "4 mL toward 10 mg of complex"
+          }
+        ],
+        "time": "repeated three times with 4 mL × 3 of acetonitrile"
+      }
+    },
+    {
+      "name": "12-bromodibenzo[f,h]quinoline (5) within network crystal 1",
+      "synthesis_conditions": {
+        "temperature": "room temperature for 1 day",
+        "solvents": [
+          {
+            "name": "acetonitrile solution of N-bromosuccinimide",
+            "amount": "4.0 mL of 0.025 M"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "N-bromosuccinimide",
+            "amount": "17.8 mg, 0.10 mmol"
+          }
+        ]
+      }
+    },
+    {
+      "name": "12-bromodibenzo[f,h]quinoline (5)",
+      "synthesis_conditions": {
+        "temperature": "room temperature for 1 day",
+        "solvents": [
+          {
+            "name": "acetonitrile solution of N-bromosuccinimide",
+            "amount": "0.025 M"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "N-bromosuccinimide",
+            "amount": "based on the procedure"
+          }
+        ],
+        "yield": "49%"
+      }
+    },
+    {
+      "name": "reaction between sodium methylxanthate and N-bromosuccinimide",
+      "synthesis_conditions": {
+        "temperature": "room temperature for 10 min",
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "150 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "sodium methylxanthate",
+            "amount": "650.8 mg, 5.0 mmol"
+          },
+          {
+            "name": "N-bromosuccinimide",
+            "amount": "890.0 mg, 5.0 mmol"
+          }
+        ],
+        "yield": "50% for disulfide 6"
+      }
+    },
+    {
+      "name": "reaction between Pd complex 3 and N-bromosuccinimide in solution",
+      "synthesis_conditions": {
+        "temperature": "room temperature for 4 h",
+        "solvents": [
+          {
+            "name": "CDCl3/CD3CN",
+            "amount": "3.0 mL and a few drops of CD3CN"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Pd complex 3",
+            "amount": "8.84 mg, 0.02 mmol"
+          },
+          {
+            "name": "N-bromosuccinimide",
+            "amount": "3.56 mg, 0.02 mmol"
+          }
+        ],
+        "yield": "77% NMR yield"
+      }
+    }
+  ]
+}

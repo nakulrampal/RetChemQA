@@ -1,0 +1,51 @@
+{
+  "materials": [
+    {
+      "name": "[Co(hfac)2•BPNN] (1)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "heptane",
+            "amount": "20 mL"
+          },
+          {
+            "name": "dichloromethane",
+            "amount": "3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Co(hfac)2•2H2O",
+            "amount": "237 mg (0.46 mmol)"
+          },
+          {
+            "name": "BPNN",
+            "amount": "153 mg (0.50 mmol)"
+          }
+        ],
+        "yield": "51%",
+        "yield_amount": "181 mg (0.23 mmol)",
+        "melting_point": "111 - 113°C",
+        "analysis": {
+          "calculated": "C, 41.66; H, 3.50; N, 3.60%",
+          "found": "C, 42.15; H, 3.63; N, 3.55%"
+        },
+        "IR_spectra": "1035, 1253, 1338, 1386, 1552, 1650 cm-1"
+      }
+    },
+    {
+      "name": "p-butoxyphenyl nitronyl nitroxide (BPNN)",
+      "synthesis_conditions": {
+        "method": "Ullman procedure",
+        "melting_point": "88 - 90°C",
+        "analysis": {
+          "calculated": "C, 66.86; H, 8.25; N, 9.17%",
+          "found": "C, 67.41; H, 8.54; N, 9.17%"
+        },
+        "ESR": "g = 2.0065, aN = 7.50 G",
+        "MS": "m/z 328.2 (M+Na+), 305.2 (M+)",
+        "IR_spectra": "1041, 1253, 1365, 1523 cm-1"
+      }
+    }
+  ]
+}

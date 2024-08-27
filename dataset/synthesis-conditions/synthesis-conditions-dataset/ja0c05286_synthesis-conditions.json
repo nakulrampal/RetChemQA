@@ -1,0 +1,116 @@
+{
+  "materials": [
+    {
+      "name": "1·[Rh(NBD)][Rh(NBD)Cl2]",
+      "synthesis_conditions": {
+        "solvent": "acetonitrile (MeCN)",
+        "temperature": "65 °C",
+        "time": "16 h",
+        "equipment": "glass vial",
+        "atmosphere": "argon",
+        "chemicals_used": "[Rh­(NBD)­Cl]2 (30 mg)",
+        "washing_method": "acetonitrile",
+        "washing_cycles": "5 times",
+        "yield": "quantitative",
+        "drying_method": "ambient conditions",
+        "additional_information": "DFIX, SIMU, RIGU and ISOR restraints were used for modeling. SQUEEZE routine applied to remove electron density equating to approximately 1.5 additional MeCN molecules per formula unit."
+      }
+    },
+    {
+      "name": "1·NBD-Cl",
+      "synthesis_conditions": {
+        "solvent": "methanol (MeOH)",
+        "temperature": "room temperature",
+        "time": "7 days",
+        "equipment": "glass vial",
+        "atmosphere": "argon",
+        "chemicals_used": "NaCl (~300 mg)",
+        "washing_method": "methanol",
+        "washing_cycles": "5 times",
+        "yield": "quantitative",
+        "drying_method": "ambient conditions",
+        "additional_information": "DFIX, SIMU, and ISOR restraints were used for modeling. SQUEEZE routine applied to remove electron density equating to approximately 16.5 additional MeOH molecules per formula unit."
+      }
+    },
+    {
+      "name": "1·NBD-BF4",
+      "synthesis_conditions": {
+        "solvent": "methanol (MeOH)",
+        "temperature": "room temperature",
+        "time": "48 h",
+        "equipment": "glass vial",
+        "atmosphere": "argon",
+        "chemicals_used": "NaBF4 (~300 mg)",
+        "washing_method": "methanol",
+        "washing_cycles": "5 times",
+        "yield": "quantitative",
+        "drying_method": "ambient conditions",
+        "additional_information": "DFIX, EADP, and ISOR restraints were used for modeling solvate molecules."
+      }
+    },
+    {
+      "name": "1·[Rh(CH2CH2)2][Rh(CH2CH2)Cl2] (1·ETH)",
+      "synthesis_conditions": {
+        "solvent": "ethanol (EtOH)",
+        "temperature": "40 °C",
+        "time": "24 h",
+        "equipment": "high-pressure glass pressure vessel",
+        "atmosphere": "ethylene (~1.2 bar)",
+        "chemicals_used": "[Rh­(ETH)2Cl]2 (30 mg)",
+        "washing_method": "ethanol, then acetone",
+        "washing_cycles": "5 times each",
+        "yield": "quantitative",
+        "drying_method": "ambient conditions",
+        "additional_information": "DFIX and SIMU restraints were used for modeling. SQUEEZE routine applied to remove electron density equating to approximately 11 EtOH molecules per formula unit."
+      }
+    },
+    {
+      "name": "1·ETH-Cl",
+      "synthesis_conditions": {
+        "solvent": "pentane",
+        "temperature": "room temperature",
+        "time": "6 days",
+        "equipment": "high-pressure glass pressure vessel",
+        "atmosphere": "ethylene",
+        "chemicals_used": "NaCl",
+        "washing_method": "methanol",
+        "washing_cycles": "5 times",
+        "yield": "quantitative",
+        "drying_method": "vacuum for 2 h",
+        "additional_information": "DFIX and SIMU restraints were used for modeling. SQUEEZE routine applied to remove electron density equating to approximately 5.5 pentane molecules per formula unit."
+      }
+    },
+    {
+      "name": "1·ETH-BF4",
+      "synthesis_conditions": {
+        "solvent": "pentane",
+        "temperature": "room temperature",
+        "time": "24 h",
+        "equipment": "high-pressure glass pressure vessel",
+        "atmosphere": "ethylene",
+        "chemicals_used": "NaBF4",
+        "washing_method": "methanol",
+        "washing_cycles": "5 times",
+        "yield": "quantitative",
+        "drying_method": "vacuum for 2 h",
+        "additional_information": "DFIX and EADP restraints were used for modeling. SQUEEZE routine applied to remove electron density equating to approximately 5.5 pentane molecules per formula unit."
+      }
+    },
+    {
+      "name": "1·[Rh(MeCN)2]Cl",
+      "synthesis_conditions": {
+        "solvent": "tetrahydrofuran (THF)",
+        "temperature": "room temperature",
+        "time": "72 h",
+        "equipment": "glass vial",
+        "atmosphere": "argon",
+        "chemicals_used": "[Rh­(ETH)2Cl]2 (30 mg), NaCl",
+        "washing_method": "acetonitrile, then THF",
+        "washing_cycles": "5 times each",
+        "yield": "quantitative",
+        "drying_method": "ambient conditions",
+        "additional_information": "Rh(MeCN)2Cl moiety was modelled at 70% occupancy. SQUEEZE routine applied to remove electron density equating to approximately 5.5 THF molecules per formula unit."
+      }
+    }
+  ]
+}

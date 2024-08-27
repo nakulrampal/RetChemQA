@@ -1,0 +1,85 @@
+{
+  "materials": [
+    {
+      "name": "Ln-PCM-22",
+      "synthesis_conditions": {
+        "temperature": "80°C",
+        "solvents": [
+          {
+            "name": "DMF/dioxane/H2O",
+            "ratio": "1:1:1",
+            "amount": "4.0 cm3"
+          }
+        ],
+        "equipment": "scintillation vial",
+        "chemicals_used": [
+          {
+            "name": "tris(p-carboxylato)triphenylphosphine",
+            "amount": "39 mg",
+            "molar_amount": "0.10 mmol"
+          },
+          {
+            "name": "Ln(NO3)3·xH2O salt(s)",
+            "molar_amount": "0.20 mmol total"
+          }
+        ],
+        "time": "3-4 days",
+        "washing_method": "decantation and washing with fresh solvent",
+        "drying_method": "air dried",
+        "yield": "25%",
+        "characterization": [
+          {
+            "method": "FT-IR",
+            "details": "Thermo Scientific Nicolet iS50 spectrometer equipped with an ATR apparatus"
+          },
+          {
+            "method": "TGA",
+            "details": "TA Instruments Q50 analyzer using high purity N2 carrier gas, 25‒800 °C"
+          },
+          {
+            "method": "PXRD",
+            "details": "Rigaku R-Axis Spider diffractometer using CuKα radiation, 5‒40° 2θ"
+          },
+          {
+            "method": "Single Crystal XRD",
+            "details": "Agilent Super Nova diffractometer equipped with an AtlasS2 CCD, Oxford 700 low-temperature attachment, CuKα radiation (1.7902 Å), 100 K"
+          },
+          {
+            "method": "Gas sorption",
+            "details": "Quantachrome Autosorb-1 system, CO2, 99.995+% purity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "EuX:TbY PCM-22",
+      "synthesis_conditions": {
+        "temperature": "100°C",
+        "activation_method": "heating under vacuum",
+        "activation_time": "18 hours",
+        "spectrophotometric_measurement": "2 mg aliquots used for each measurement",
+        "characterization": [
+          {
+            "method": "ICP-MS",
+            "details": "to monitor Eu and Tb incorporation"
+          }
+        ]
+      }
+    },
+    {
+      "name": "EuX:GdY:TbZ PCM-22",
+      "synthesis_conditions": {
+        "temperature": "100°C",
+        "activation_method": "heating under vacuum",
+        "activation_time": "18 hours",
+        "spectrophotometric_measurement": "2 mg aliquots used for each measurement",
+        "characterization": [
+          {
+            "method": "ICP-MS",
+            "details": "to monitor Eu, Gd, and Tb incorporation"
+          }
+        ]
+      }
+    }
+  ]
+}

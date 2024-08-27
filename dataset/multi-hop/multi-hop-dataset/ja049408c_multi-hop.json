@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the role of zinc nitrate hexahydrate in the synthesis of IRMOF-18?",
+      "answer": "Zinc nitrate hexahydrate acts as a zinc source for the formation of the Zn4O clusters in IRMOF-18.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the synthesis process of IRMOF-18 ensure the removal of guest chloroform molecules?",
+      "answer": "The synthesis process involves immersing the solid in chloroform, replacing the solvent multiple times, and finally removing the guest chloroform under vacuum to yield the porous material.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of using a probe radius of 1.45 Å in calculating the accessible crystal volume (Vacc) of metal-organic frameworks?",
+      "answer": "The probe radius of 1.45 Å is used to mimic the size of a hydrogen molecule, allowing for the calculation of the volume within the framework that is accessible for hydrogen adsorption.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why is the volumetric hydrogen sorption data for metal-organic frameworks at 77 K converted using the factor 0.090 mgH2/cm3(STP)?",
+      "answer": "The conversion factor 0.090 mgH2/cm3(STP) is used to standardize the volumetric data to a common unit, facilitating comparison between gravimetric and volumetric measurements.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the synthesis temperature of 70°C for IRMOF-18 compare to the conditions used for obtaining single crystals of the same material?",
+      "answer": "The synthesis temperature of 70°C for IRMOF-18 is lower than the 100°C used for obtaining single crystals, indicating different conditions can influence the crystallization process.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the relationship between the number of organic rings per formula unit and the hydrogen uptake capacity in the studied metal-organic frameworks?",
+      "answer": "The maximum hydrogen uptake capacity scales with the number of organic rings per formula unit, with more rings generally leading to higher uptake.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Considering the synthesis of IRMOF-18, what would be the expected impact on hydrogen sorption capacity if a different organic linker with a larger number of rings was used?",
+      "answer": "Using an organic linker with a larger number of rings is expected to increase the hydrogen sorption capacity, based on the trend that uptake scales with the number of rings in the organic moiety.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the activation process involving chloroform contribute to the porosity of IRMOF-18?",
+      "answer": "The activation process with chloroform, followed by its removal under vacuum, ensures the removal of guest molecules, contributing to the porosity and thus the hydrogen sorption capacity of IRMOF-18.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the hydrogen sorption capacity of a metal-organic framework solely determined by its surface area?",
+      "answer": "False. While surface area is a factor, the hydrogen sorption capacity also depends on other factors such as the chemical nature of the organic linker and the framework's pore size and shape.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of pendant groups on the phenylene spacer significantly affect the hydrogen uptake capacity in the studied frameworks?",
+      "answer": "False. The similar capacities of IRMOFs with and without pendant groups on the phenylene spacer suggest a lack of significant dependence on these groups for hydrogen uptake.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the hydrogen sorption capacity of metal-organic frameworks be accurately predicted by the Langmuir expression?",
+      "answer": "False. Attempts to fit the isotherms to the Langmuir expression revealed strong deviations, especially at low pressure, indicating it may not accurately predict hydrogen sorption capacity for microporous materials.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the process of hydrogen uptake and release in metal-organic frameworks destructive to the framework structure?",
+      "answer": "False. The reproducibility of equilibrated masses and the demonstration of facile desorption without hysteresis confirm that the uptake and release process is nondestructive.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesis method of IRMOF-18 involve a high-temperature treatment above 100°C?",
+      "answer": "False. The synthesis of IRMOF-18 involves heating at 70°C, whereas single crystals of IRMOF-18 are obtained by heating at 100°C.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are all metal-organic frameworks capable of achieving surface saturation by hydrogen at the pressures studied?",
+      "answer": "False. The absence of plateaus in the isotherms indicates that surface saturation by hydrogen is not achieved at the pressures studied.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the hydrogen sorption capacity directly proportional to the accessible volume fraction of the metal-organic frameworks?",
+      "answer": "False. The study reveals an approximately inverse relationship between the accessible volume fraction and the percentage of these pores occupied by hydrogen, indicating that capacity is not directly proportional to accessible volume fraction.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Given the synthesis conditions for IRMOF-18, what would be the effect of increasing the synthesis temperature on the crystal size?",
+      "answer": "Increasing the synthesis temperature might lead to larger crystal sizes due to enhanced crystal growth rates at higher temperatures, as observed in the preparation of single crystals at 100°C.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the use of N,N-diethylformamide in the synthesis of IRMOF-18 affect the formation of the framework?",
+      "answer": "N,N-diethylformamide acts as a solvent facilitating the dissolution of reactants and the subsequent formation of the framework through solvothermal reaction, contributing to the crystallinity and purity of IRMOF-18.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the gravimetric hydrogen sorption capacity of MOF-177 higher than that of IRMOF-1 at 77 K?",
+      "answer": "False. The gravimetric hydrogen sorption capacity of MOF-177 is not higher than that of IRMOF-1 at 77 K, as indicated by the sorption data.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesis of IRMOF-18 involve a post-synthesis activation step?",
+      "answer": "True. The synthesis of IRMOF-18 includes a post-synthesis activation step involving solvent exchange with chloroform and subsequent removal under vacuum to achieve porosity.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the hydrogen sorption capacity of IRMOF-11 the highest among the studied metal-organic frameworks at 77 K?",
+      "answer": "True. IRMOF-11 exhibits the highest hydrogen sorption capacity among the studied frameworks at 77 K, as indicated by the sorption data.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

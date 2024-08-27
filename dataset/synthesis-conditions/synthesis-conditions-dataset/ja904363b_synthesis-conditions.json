@@ -1,0 +1,35 @@
+{
+  "materials": [
+    {
+      "material": "2,5-Bis(2-hydroxyethoxy)-1,4-bis(4-pyridyl)benzene (L)",
+      "synthesis": {
+        "chemicals_used": "1,4-Diiodo-2,5-dihydroxybenzene, 4-pyridylboronic acid ester, K3PO4, Pd(PPh3)4",
+        "solvent": "1,4-dioxane",
+        "amount_of_solvent": "100 mL",
+        "temperature": "reflux under N2 atmosphere",
+        "time": "2 days",
+        "purification_method": "flash column chromatography on silica gel using methanol/dichloromethane (1:9) as eluent",
+        "yield": "60%",
+        "characterization": {
+          "1H_NMR": "DMSO-d6: δ 8.62 (d, 4H, H1), 7.71 (d, 4H, H2), 7.22 (s, 2H, H3), 4.85 (t, 2H, OH), 4.10 (t, 4H, H4), 3.68 (m, 4H, H5)",
+          "13C_NMR": "DMSO-d6: δ 149.9, 149.3, 144.8, 128.0, 124.0, 115.6, 70.8, 59.4",
+          "HRMS": "FAB m/z calcd. for C20H21N2O4 (M + H+), 323.1501; found, 353.1497"
+        }
+      }
+    },
+    {
+      "material": "{[Cd2(pzdc)2L(H2O)2]·5(H2O)·(EtOH)}n (1) and [Cd2(pzdc)2L]n (2)",
+      "synthesis": {
+        "chemicals_used": "Cd(NO3)2·4H2O, L, Na2pzdc",
+        "solvent": "EtOH/H2O (1:1)",
+        "amount_of_solvent": "50 mL",
+        "molar_ratio": "Cd(NO3)2/Na2pzdc/L = 1:1:1",
+        "crystallization_time": "1 week for 1",
+        "drying_method_for_2": "heated to 110 °C in vacuo for 3 h",
+        "characterization": {
+          "elemental_analysis_for_2": "calcd. for C32H24Cd2N6O12 (909.39): C, 42.26; H, 2.66%. Found, C, 42.45; H, 2.95%"
+        }
+      }
+    }
+  ]
+}

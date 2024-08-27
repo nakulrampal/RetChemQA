@@ -1,0 +1,124 @@
+{
+  "materials": [
+    {
+      "name": "1-SS",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "1.0 mL"
+          },
+          {
+            "name": "MeCN/H2O (v/v = 2 : 3)",
+            "amount": "4 mL"
+          },
+          {
+            "name": "MeCN/H2O (v/v = 2 : 1)",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "10 mL test tube",
+        "chemicals_used": [
+          {
+            "name": "K4[Mo(CN)7]·2H2O",
+            "amount": "0.05 mmol, 23.5 mg"
+          },
+          {
+            "name": "SS-Dpen",
+            "amount": "0.1 mmol, 21 mg"
+          },
+          {
+            "name": "Mn(ClO4)2·6H2O",
+            "amount": "0.1 mmol, 36 mg"
+          }
+        ],
+        "time": "Several days",
+        "yield": "7.9 mg, ∼16.8%",
+        "washing_method": "Washed with water",
+        "drying_method": "Not specified",
+        "additional_information": "Synthesis performed under a nitrogen atmosphere using a standard Schlenk technique or in a nitrogen-filled glovebox."
+      }
+    },
+    {
+      "name": "1-RR",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "1.0 mL"
+          },
+          {
+            "name": "MeCN/H2O (v/v = 2 : 3)",
+            "amount": "4 mL"
+          },
+          {
+            "name": "MeCN/H2O (v/v = 2 : 1)",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "10 mL test tube",
+        "chemicals_used": [
+          {
+            "name": "K4[Mo(CN)7]·2H2O",
+            "amount": "0.05 mmol, 23.5 mg"
+          },
+          {
+            "name": "RR-Dpen",
+            "amount": "0.1 mmol, 21 mg"
+          },
+          {
+            "name": "Mn(ClO4)2·6H2O",
+            "amount": "0.1 mmol, 36 mg"
+          }
+        ],
+        "time": "Several days",
+        "yield": "5.7 mg, ∼12.1%",
+        "washing_method": "Washed with water",
+        "drying_method": "Not specified",
+        "additional_information": "Synthesis performed under a nitrogen atmosphere using a standard Schlenk technique or in a nitrogen-filled glovebox."
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "1.0 mL"
+          },
+          {
+            "name": "MeCN/H2O (v/v = 1 : 1)",
+            "amount": "4 mL"
+          },
+          {
+            "name": "MeCN/H2O (v/v = 2 : 1)",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "10 mL test tube",
+        "chemicals_used": [
+          {
+            "name": "K4[Mo(CN)7]·2H2O",
+            "amount": "0.05 mmol, 23.5 mg"
+          },
+          {
+            "name": "SS-Chxn",
+            "amount": "0.1 mmol, 21 mg"
+          },
+          {
+            "name": "Mn(ClO4)2·6H2O",
+            "amount": "0.1 mmol, 36 mg"
+          }
+        ],
+        "time": "One week",
+        "yield": "6.8 mg, ∼16.7%",
+        "washing_method": "Washed with water",
+        "drying_method": "Not specified",
+        "additional_information": "Synthesis performed under a nitrogen atmosphere using a standard Schlenk technique or in a nitrogen-filled glovebox. The use of SS-Chxn led to the achiral compound 2 due to racemization of the ligand."
+      }
+    }
+  ]
+}

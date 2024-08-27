@@ -1,0 +1,68 @@
+{
+  "materials": [
+    {
+      "name": "1dmf",
+      "synthesis": {
+        "procedure": "Synthesized following a previously reported procedure.",
+        "references": [
+          {
+            "label": "(a)",
+            "citation": "Jiang, Z.-Q.; Jiang, G.-Y.; Wang, F.; Zhao,Z.; Zhang, J. Chem.‒Eur. J. 2012, 18, 10525–10529."
+          },
+          {
+            "label": "(b)",
+            "citation": "Lama, P.; Aggarwal, H.; Bezuidenhout, C. X.; Barbour, L. J. Angew. Chem., Int. Ed. 2016, 55, 13271–13275"
+          }
+        ]
+      }
+    },
+    {
+      "name": "1o",
+      "synthesis": {
+        "procedure": "Heated at 160 °C under dynamic vacuum (3.1 × 10−2 mbar) for 6 h to yield the fully desolvated form.",
+        "temperature": "160 °C",
+        "pressure": "3.1 × 10−2 mbar",
+        "time": "6 h",
+        "equipment": "Dynamic vacuum system"
+      }
+    },
+    {
+      "name": "1mI",
+      "synthesis": {
+        "procedure": "Pressurized at 20 bar of methane for 24 h.",
+        "pressure": "20 bar",
+        "gas": "methane",
+        "time": "24 h"
+      }
+    },
+    {
+      "name": "1eI",
+      "synthesis": {
+        "procedure": "Pressurized to 6.3 bar and allowed to equilibrate for 1 day.",
+        "pressure": "6.3 bar",
+        "gas": "ethane",
+        "time": "1 day"
+      }
+    },
+    {
+      "name": "1eII",
+      "synthesis": {
+        "procedure": "Pressurized to 12 bar and equilibrated for 1 day. In another attempt, pressurized to 6.3 bar, left for 1 day, then increased incrementally by 0.1 bar from 6.3 to 6.8 bar, equilibrated for 3 h at each pressure. After reaching 6.8 bar, equilibrated for 6 h, then further pressurized at 0.2 bar increments until 10 bar was reached, equilibrated at 10 bar for 12 h.",
+        "pressure_initial": "6.3 bar",
+        "pressure_final": "10 bar",
+        "incremental_pressure_steps": "0.1 bar from 6.3 to 6.8 bar, then 0.2 bar increments until 10 bar",
+        "equilibration_time_each_step": "3 h",
+        "total_equilibration_time": "12 h at 10 bar",
+        "gas": "ethane"
+      }
+    },
+    {
+      "name": "1eIII",
+      "synthesis": {
+        "procedure": "Formed at 20 bar ethane gas pressure.",
+        "pressure": "20 bar",
+        "gas": "ethane"
+      }
+    }
+  ]
+}

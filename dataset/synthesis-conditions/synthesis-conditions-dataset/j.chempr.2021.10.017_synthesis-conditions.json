@@ -1,0 +1,226 @@
+{
+  "materials": [
+    {
+      "material_name": "6,6′-bis(2,3,4-trihydropyrrol-5-yl)-2,2′-bipyridine (Ctetra)",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "270 mL"
+          },
+          {
+            "name": "DCM",
+            "amount": "not specified"
+          },
+          {
+            "name": "TFA",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "6,6′-dibromo-2,2′-bipyridine",
+            "amount": "2.8647 g, 9.1 mmol, 1 eq"
+          },
+          {
+            "name": "1-(tert-butoxycarbonyl)-2-pyrrolidinone",
+            "amount": "3.5 g, 18.9 mmol, 2.1 eq"
+          },
+          {
+            "name": "n-butyllithium",
+            "amount": "7.3 mL of a 2.5 M solution in hexanes (18.2 mmol, 2 eq)"
+          },
+          {
+            "name": "HCl",
+            "amount": "16 mL of a 2 M solution in water"
+          },
+          {
+            "name": "NaOH",
+            "amount": "30% aqueous solution, amount not specified"
+          }
+        ],
+        "temperature": [
+          {
+            "step": "Reaction with n-butyllithium",
+            "value": "-78 °C"
+          },
+          {
+            "step": "Reaction with HCl",
+            "value": "Room temperature"
+          },
+          {
+            "step": "Reaction with TFA",
+            "value": "Room temperature"
+          }
+        ],
+        "time": [
+          {
+            "step": "Reaction with n-butyllithium",
+            "value": "20 min"
+          },
+          {
+            "step": "Reaction with 1-(tert-butoxycarbonyl)-2-pyrrolidinone",
+            "value": "3 h"
+          },
+          {
+            "step": "Reaction with TFA",
+            "value": "4 h"
+          }
+        ],
+        "yield": "30%",
+        "characterization": [
+          "1H NMR",
+          "13C NMR",
+          "HR-MS"
+        ]
+      }
+    },
+    {
+      "material_name": "6,6′-bis(4,5-dihydrothiazol-2-yl)-2,2′-bipyridine (Stetra)",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "125 mL"
+          },
+          {
+            "name": "DCM",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "6,6′-dicyano-2,2′-bipyridine",
+            "amount": "1.4173 g, 6.9 mmol, 1 eq"
+          },
+          {
+            "name": "cysteamine hydrochloride",
+            "amount": "11.4021 g, 100.4 mmol, 14.6 eq"
+          }
+        ],
+        "temperature": "110 °C",
+        "time": "48 h",
+        "yield": "88%",
+        "characterization": [
+          "1H NMR",
+          "13C NMR",
+          "HR-MS"
+        ]
+      }
+    },
+    {
+      "material_name": "[Cu(Ctetra)](TFSI)2",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "MeCN",
+            "amount": "85 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Ctetra",
+            "amount": "184.7 mg, 0.64 mmol, 1 eq"
+          },
+          {
+            "name": "copper(II) bis(trifluoromethanesulfonyl)imide (Cu(TFSI)2)",
+            "amount": "406.2 mg, 0.65 mmol, 1.02 eq"
+          }
+        ],
+        "temperature": "Room temperature",
+        "time": "4 h",
+        "yield": "84%",
+        "characterization": [
+          "HR-MS",
+          "Elemental analysis"
+        ]
+      }
+    },
+    {
+      "material_name": "[Cu2(Ctetra)2](TFSI)2",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "MeCN",
+            "amount": "100 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[Cu(Ctetra)](TFSI)2",
+            "amount": "490.0 mg, 0.54 mmol, 1 eq"
+          },
+          {
+            "name": "Ascorbic acid",
+            "amount": "1.078 g, 6.12 mmol, 11.3 eq"
+          }
+        ],
+        "temperature": "Room temperature",
+        "time": "4 h",
+        "yield": "91%",
+        "characterization": [
+          "1H NMR",
+          "13C NMR",
+          "HR-MS"
+        ]
+      }
+    },
+    {
+      "material_name": "[Cu(Stetra)](TFSI)2",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "MeCN",
+            "amount": "75 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Stetra",
+            "amount": "611.5 mg, 1.87 mmol, 1 eq"
+          },
+          {
+            "name": "copper(II) bis(trifluoromethanesulfonyl)imide (Cu(TFSI)2)",
+            "amount": "1215.0 mg, 1.95 mmol, 1.04 eq"
+          }
+        ],
+        "temperature": "Room temperature",
+        "time": "4 h",
+        "yield": "94%",
+        "characterization": [
+          "HR-MS",
+          "Elemental analysis"
+        ]
+      }
+    },
+    {
+      "material_name": "[Cu2(Stetra)2](TFSI)2",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "MeCN",
+            "amount": "60 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[Cu(Stetra)](TFSI)2",
+            "amount": "1062.6 mg, 1.12 mmol, 1 eq"
+          },
+          {
+            "name": "Ascorbic acid",
+            "amount": "1.59 g, 9.03 mmol, 8.1 eq"
+          }
+        ],
+        "temperature": "Room temperature",
+        "time": "4 h",
+        "yield": "92%",
+        "characterization": [
+          "1H NMR",
+          "13C NMR",
+          "HR-MS"
+        ]
+      }
+    }
+  ]
+}

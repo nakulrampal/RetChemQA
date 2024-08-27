@@ -1,0 +1,117 @@
+{
+  "materials": [
+    {
+      "name": "[(ZnCl2)12(pytpy)8] · 11.5 CHCl3 (1)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "chloroform",
+            "amount": "10 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "5 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "pytpy",
+            "amount": "5.0 mg"
+          },
+          {
+            "name": "ZnCl2",
+            "amount": "6.6 mg"
+          }
+        ],
+        "yield": "4.7 mg (0.86 µmol, 43% yield based on pytpy, average of twenty batches)",
+        "time": "three weeks",
+        "washing_method": "washed with chloroform and methanol",
+        "drying_method": "dried in air"
+      }
+    },
+    {
+      "name": "[(ZnCl2)12(pytpy)8]n· 6.1 CHCl3· 1.4 BrC6H5 (1a)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "chloroform",
+            "amount": "10 mL"
+          },
+          {
+            "name": "bromobenzene",
+            "amount": "5 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "5 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "pytpy",
+            "amount": "5.0 mg"
+          },
+          {
+            "name": "ZnCl2",
+            "amount": "6.6 mg"
+          }
+        ],
+        "yield": "5.6 mg (1.13 µmol, 56% yield based on pytpy, based on an average of 25 batches)",
+        "time": "three weeks",
+        "drying_method": "dried in air"
+      }
+    },
+    {
+      "name": "[(ZnCl2)3(tpt)2]n (2)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "chloroform",
+            "amount": "10 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "10 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "tpt",
+            "amount": "saturated solution"
+          },
+          {
+            "name": "ZnCl2",
+            "amount": "11 mg"
+          }
+        ],
+        "time": "two weeks"
+      }
+    },
+    {
+      "name": "[Zn(pytpy)I2] (3)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "chloroform",
+            "amount": "10 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "10 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "pytpy",
+            "amount": "10 mg"
+          },
+          {
+            "name": "ZnI2",
+            "amount": "26 mg"
+          }
+        ],
+        "time": "two weeks"
+      }
+    }
+  ]
+}

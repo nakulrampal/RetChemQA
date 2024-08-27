@@ -1,0 +1,215 @@
+{
+  "materials": [
+    {
+      "name": "Ag12bpy-NH2",
+      "synthesis_conditions": {
+        "temperature": "150 K",
+        "solvents": [
+          {
+            "name": "NH4OH",
+            "amount": "10 µL"
+          },
+          {
+            "name": "CH2Cl2",
+            "amount": "4 mL"
+          }
+        ],
+        "equipment": "N/A",
+        "chemicals_used": [
+          {
+            "name": "AgStBu",
+            "amount": "15 mg"
+          },
+          {
+            "name": "CF3COOAg",
+            "amount": "6 mg"
+          },
+          {
+            "name": "bpy-NH2",
+            "amount": "10 mg"
+          }
+        ],
+        "time": "N/A",
+        "washing_method": "rinsed with CH2Cl2",
+        "drying_method": "dried in air",
+        "yield": "~30%",
+        "crystal_system": "tetragonal",
+        "space_group": "I-42m",
+        "a": "17.31644(12) Å",
+        "b": "17.31644(12) Å",
+        "c": "19.4319(4) Å",
+        "alpha": "90°",
+        "beta": "90°",
+        "gamma": "90°",
+        "volume": "5826.82(13) Å3",
+        "Z": "2",
+        "density": "1.792 g/cm3",
+        "absorption_coefficient": "17.708 mm-1",
+        "F(000)": "3072.0",
+        "crystal_size": "0.1×0.12×0.15 mm3",
+        "radiation": "Cu Kα (λ = 1.54184)",
+        "2theta_range": "6.838 to 134.678°",
+        "index_ranges": "-20 ≤ h ≤ 14, -20 ≤ k ≤ 20, -22 ≤ l ≤ 22",
+        "reflections_collected": "11324",
+        "independent_reflections": "2711",
+        "Rint": "0.0339",
+        "Rsigma": "0.0274",
+        "data_restraints_parameters": "2711/39/192",
+        "goodness_of_fit_on_F2": "1.099",
+        "final_R_indexes_I_greater_than_2sigma_I": "R1 = 0.0331, wR2 = 0.0810",
+        "final_R_indexes_all_data": "R1 = 0.0342, wR2 = 0.0814",
+        "largest_diff_peak_hole": "1.08/−0.54 e Å-3",
+        "flack_parameter": "-0.036(12)"
+      }
+    },
+    {
+      "name": "Ag12bpy-CH3",
+      "synthesis_conditions": {
+        "temperature": "150 K",
+        "solvents": [
+          {
+            "name": "CH2Cl2",
+            "amount": "N/A"
+          }
+        ],
+        "equipment": "N/A",
+        "chemicals_used": [
+          {
+            "name": "AgStBu",
+            "amount": "N/A"
+          },
+          {
+            "name": "CF3COOAg",
+            "amount": "N/A"
+          },
+          {
+            "name": "bpy-CH3",
+            "amount": "N/A"
+          }
+        ],
+        "time": "N/A",
+        "washing_method": "N/A",
+        "drying_method": "N/A",
+        "yield": "~55%",
+        "crystal_system": "tetragonal",
+        "space_group": "I-42m",
+        "a": "17.37014(19) Å",
+        "b": "17.37014(19) Å",
+        "c": "19.7296(4) Å",
+        "alpha": "90°",
+        "beta": "90°",
+        "gamma": "90°",
+        "volume": "5952.86(18) Å3",
+        "Z": "2",
+        "density": "1.752 g/cm3",
+        "absorption_coefficient": "2.132 mm-1",
+        "F(000)": "3072.0",
+        "crystal_size": "0.12×0.12×0.2 mm3",
+        "radiation": "Mo Kα (λ = 0.71073)",
+        "2theta_range": "4.69 to 57.914°",
+        "index_ranges": "-22 ≤ h ≤ 22, -14 ≤ k ≤ 21, -16 ≤ l ≤ 24",
+        "reflections_collected": "25636",
+        "independent_reflections": "3760",
+        "Rint": "0.0309",
+        "Rsigma": "0.0193",
+        "data_restraints_parameters": "3760/48/187",
+        "goodness_of_fit_on_F2": "1.024",
+        "final_R_indexes_I_greater_than_2sigma_I": "R1 = 0.0184, wR2 = 0.0397",
+        "final_R_indexes_all_data": "R1 = 0.0203, wR2 = 0.0403",
+        "largest_diff_peak_hole": "0.43/−0.34 e Å-3",
+        "flack_parameter": "0.019(7)"
+      }
+    },
+    {
+      "name": "Ag12bpy-CH3·O2",
+      "synthesis_conditions": {
+        "temperature": "81 K",
+        "solvents": [
+          {
+            "name": "N/A",
+            "amount": "N/A"
+          }
+        ],
+        "equipment": "N/A",
+        "chemicals_used": [
+          {
+            "name": "Ag12bpy-CH3",
+            "amount": "N/A"
+          },
+          {
+            "name": "O2",
+            "amount": "N/A"
+          }
+        ],
+        "time": "N/A",
+        "washing_method": "N/A",
+        "drying_method": "N/A",
+        "yield": "N/A",
+        "crystal_system": "tetragonal",
+        "space_group": "I-42m",
+        "a": "17.32750(10) Å",
+        "b": "17.32750(10) Å",
+        "c": "19.6880(2) Å",
+        "alpha": "90°",
+        "beta": "90°",
+        "gamma": "90°",
+        "volume": "5911.17(9) Å3",
+        "Z": "2",
+        "density": "1.774 g/cm3",
+        "absorption_coefficient": "17.460 mm-1",
+        "F(000)": "3082.0",
+        "crystal_size": "0.1×0.12×0.12 mm3",
+        "radiation": "Cu Kα (λ = 1.54184)",
+        "2theta_range": "6.796 to 146.77°",
+        "index_ranges": "-21 ≤ h ≤ 18, -19 ≤ k ≤ 23, -26 ≤ l ≤ 25",
+        "reflections_collected": "7321",
+        "independent_reflections": "2851",
+        "Rint": "0.0613",
+        "Rsigma": "0.0584",
+        "data_restraints_parameters": "2851/31/186",
+        "goodness_of_fit_on_F2": "1.104",
+        "final_R_indexes_I_greater_than_2sigma_I": "R1 = 0.0560, wR2 = 0.1440",
+        "final_R_indexes_all_data": "R1 = 0.0575, wR2 = 0.1452",
+        "largest_diff_peak_hole": "1.74/−0.85 e Å-3",
+        "flack_parameter": "0.030(19)"
+      }
+    },
+    {
+      "name": "Ag12bpy-NH2/CH3",
+      "synthesis_conditions": {
+        "temperature": "N/A",
+        "solvents": [
+          {
+            "name": "CH2Cl2",
+            "amount": "N/A"
+          }
+        ],
+        "equipment": "N/A",
+        "chemicals_used": [
+          {
+            "name": "AgStBu",
+            "amount": "N/A"
+          },
+          {
+            "name": "CF3COOAg",
+            "amount": "N/A"
+          },
+          {
+            "name": "bpy-NH2",
+            "amount": "N/A"
+          },
+          {
+            "name": "bpy-CH3",
+            "amount": "N/A"
+          }
+        ],
+        "time": "N/A",
+        "washing_method": "N/A",
+        "drying_method": "N/A",
+        "yield": "N/A",
+        "ratio": "bpy-NH2:bpy-CH3 = 1:100",
+        "characterization": "1H NMR"
+      }
+    }
+  ]
+}

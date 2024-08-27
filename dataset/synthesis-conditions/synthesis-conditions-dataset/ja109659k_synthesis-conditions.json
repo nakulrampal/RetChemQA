@@ -1,0 +1,70 @@
+{
+  "materials": [
+    {
+      "name": "NENU-11",
+      "synthesis_conditions": {
+        "temperature": "180 °C",
+        "time": "72 hours",
+        "solvents": [
+          {
+            "name": "distilled water",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CuCl2·2H2O",
+            "amount": "0.18 g, 1 mmol"
+          },
+          {
+            "name": "H3BTC",
+            "amount": "0.21g, 1 mmol"
+          },
+          {
+            "name": "Na3PW12O40·12H2O",
+            "amount": "0.32 g, 0.1 mmol"
+          },
+          {
+            "name": "50% (CH3)4NOH solution",
+            "note": "pH adjusted to 4.5"
+          }
+        ],
+        "equipment": "Teflon-lined autoclave",
+        "yield": "65%",
+        "washing_method": "full washing",
+        "drying_method": "heating at 200 °C for 12 h under vacuum",
+        "activation_method": "outgassed to a constant weight at 200 ºC under a high vacuum (< 10-6 mbar)"
+      }
+    },
+    {
+      "name": "NENU-11a",
+      "synthesis_conditions": {
+        "description": "NENU-11 activated under vacuum (~10−6 mbar) at 200 °C for 12 h after refluxing in a saturated solution of NH4Cl for 72 h."
+      }
+    }
+  ],
+  "adsorption_measurements": {
+    "N2_adsorption": {
+      "temperature": "77 K",
+      "equipment": "Micromeritics ASAP 2020 surface area and porosity analyzer"
+    },
+    "DMMP_adsorption": {
+      "temperature": "298 K",
+      "pressure": "1 atm",
+      "carrier_gas": "He",
+      "flow_rate": "500 ± 1 cm3 min-1",
+      "equipment": "Hiden Isochema Intelligent Gravimetric Analyser (IGA-100B)"
+    }
+  },
+  "hydrolysis_of_DMMP": {
+    "conditions": {
+      "temperature": "50 ºC",
+      "time": "8 hours",
+      "solvent": "distilled water",
+      "amount": "20 mL",
+      "sample_amount": "100 mg of NENU-11a with adsorbed DMMP"
+    },
+    "analysis_method": "GC-MS",
+    "recycling": "After 8 h, the solid was filtered, washed with water, and then regenerated under vacuum at 200 °C for 12 h."
+  }
+}

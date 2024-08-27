@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "question": "What is the yield percentage of pink crystals of Co-1 based on HL?",
+      "answer": "57%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of the crystal data for compound 1?",
+      "answer": "Pnma",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the structure determination of compound 2?",
+      "answer": "Rietveld refinements with powder X-ray diffraction data",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the relationship between the blocking temperature (TB) and the Co fraction in the CoII1-xNiIIx MOFs?",
+      "answer": "TB increases with the Co fraction from x=1 to x=0.21, showing anomalies in the Co-rich systems with x=0.11-0.31, which exhibit higher TB than the parent CoII MOF.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum blocking temperature observed at 1 kHz for the mixed-metal materials and at what CoII1-xNiIIx ratio does it occur?",
+      "answer": "The highest blocking temperature observed at 1 kHz is 4.4 K, occurring at x=0.21.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the incorporation of a small amount of CoII into the NiII material affect the blocking temperature?",
+      "answer": "Incorporating a small amount of CoII into the NiII material leads to a large enhancement in the blocking temperature, emphasizing the importance of anisotropy for slow dynamics.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the finding that Co-rich systems can exhibit a higher blocking temperature than both parent materials?",
+      "answer": "This finding suggests a new approach to improve SCM properties by mixing metals, which could lead to SCMs with tunable or improved properties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the relaxation observed in the mixed-metal CoII1-xNiIIx MOFs likely of spin-glass nature?",
+      "answer": "No, the relaxation observed is unlikely of spin-glass nature due to the absence of site randomness in the parent materials, typical SCM parameters, and no indications of competing FO and AF interactions along the chain.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the compound 1 exhibit SCM dynamics?",
+      "answer": "Yes, compound 1 behaves as a SCM, showing superparamagnet-type dynamics typical of SCMs.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the anisotropy of NiII larger than that of CoII?",
+      "answer": "False, the anisotropy of CoII is larger than that of NiII, which is crucial for the slow relaxation dynamics observed.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Do the mixed-metal CoII1-xNiIIx MOFs exhibit frequency-dependent maxima in their ac susceptibilities?",
+      "answer": "True, all the mixed-metal CoII1-xNiIIx MOFs show frequency-dependent maxima in their ac susceptibilities, indicating SCM or SCM-like behaviors.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the blocking temperature (TB) always higher in materials with a higher NiII fraction?",
+      "answer": "False, the blocking temperature (TB) is not always higher in materials with a higher NiII fraction; anomalies occur in Co-rich systems.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of competing interactions, in addition to random disorder, indicate a spin-glass behavior?",
+      "answer": "True, the presence of competing interactions, in addition to random disorder, is a basic ingredient of spin glasses.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the incorporation of NiII into CoII materials reduce the blocking temperature?",
+      "answer": "False, the incorporation of NiII into CoII materials can enhance the blocking temperature in certain Co-rich systems.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the magnetic behavior of the mixed-metal CoII1-xNiIIx MOFs independent of their composition?",
+      "answer": "False, the magnetic behavior of the mixed-metal CoII1-xNiIIx MOFs, including their blocking temperature, is highly dependent on their composition.",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

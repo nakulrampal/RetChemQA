@@ -1,0 +1,122 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "temperature": "80°C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "25 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "50 mg"
+          },
+          {
+            "name": "L1",
+            "amount": "100 mg"
+          },
+          {
+            "name": "L2",
+            "amount": "25 mg"
+          },
+          {
+            "name": "concentrated HCl",
+            "amount": "one drop"
+          }
+        ],
+        "time": "3 days",
+        "yield": "5%",
+        "washing_method": "washed with DMF",
+        "drying_method": "allowed to dry in air"
+      }
+    },
+    {
+      "name": "1-Li0.20",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "CH3CN",
+            "amount": "3 ml"
+          },
+          {
+            "name": "THF",
+            "amount": "2 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "LiOtBu solution",
+            "amount": "1.0M THF solution"
+          }
+        ],
+        "time": "overnight",
+        "washing_method": "washed with THF several times",
+        "drying_method": "dried briefly in air"
+      }
+    },
+    {
+      "name": "1-Li2.62",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "20 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Lithium-tert-butoxide",
+            "amount": "4 mg"
+          }
+        ],
+        "time": "overnight",
+        "washing_method": "washed with THF several times",
+        "drying_method": "dried briefly in air"
+      }
+    },
+    {
+      "name": "1-Mg0.86",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "3 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Mg(OMe)2",
+            "amount": "60 µl, 6-10% solution in MeOH"
+          }
+        ],
+        "time": "overnight",
+        "washing_method": "washed with THF several times",
+        "drying_method": "dried briefly in air"
+      }
+    },
+    {
+      "name": "1-Mg2.02",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "5 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Mg(OMe)2",
+            "amount": "200 µl, 6-10% solution in MeOH"
+          }
+        ],
+        "time": "overnight",
+        "washing_method": "washed with THF several times",
+        "drying_method": "dried briefly in air"
+      }
+    }
+  ]
+}

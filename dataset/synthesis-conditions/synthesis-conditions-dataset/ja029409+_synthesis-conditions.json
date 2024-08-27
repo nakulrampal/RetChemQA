@@ -1,0 +1,51 @@
+{
+  "materials": [
+    {
+      "material_name": "Ligand 1",
+      "synthesis_conditions": {
+        "yield": "80%",
+        "starting_materials": [
+          {
+            "name": "2,4-bis(α,α-dimethylbenzyl)phenol",
+            "amount": "not specified"
+          }
+        ],
+        "method": "Mannich reaction",
+        "reference": "ja0294091b00017"
+      }
+    },
+    {
+      "material_name": "Complex 2",
+      "synthesis_conditions": {
+        "starting_materials": [
+          {
+            "name": "Ligand 1",
+            "amount": "0.08 g/1.7 × 10^-4 mol"
+          },
+          {
+            "name": "FeCl3·6H2O",
+            "amount": "0.135 g/5.0 × 10^-4 mol"
+          },
+          {
+            "name": "Potassium hydrogen carbonate",
+            "amount": "0.63 g/6.3 × 10^-3 mol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "Ethanol",
+            "amount": "20 mL",
+            "concentration": "95%"
+          },
+          {
+            "name": "Water",
+            "amount": "3 mL"
+          }
+        ],
+        "method": "Slow evaporation",
+        "product_form": "Thin purple rectangular plates",
+        "product_name": "K4[(L)2(μ-CO3)2FeIII2]·6H2O·2EtOH"
+      }
+    }
+  ]
+}

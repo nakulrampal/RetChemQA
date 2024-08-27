@@ -1,0 +1,66 @@
+{
+  "materials": [
+    {
+      "name": "ZIF-8",
+      "synthesis_conditions": {
+        "temperature": "350 K",
+        "pressure": "ambient pressure",
+        "vapor_pressure": "0.014 atm",
+        "solvents": null,
+        "amount_of_solvents": null,
+        "equipment": [
+          "hermetically sealed adsorption chamber",
+          "convection oven"
+        ],
+        "chemicals_used": [
+          "Iodine (I2)",
+          "ZIF-8 powder"
+        ],
+        "time": "5-12 h",
+        "washing_method": null,
+        "drying_method": null,
+        "yield": null,
+        "additional_information": "Iodine uptake was measured gravimetrically; samples were loaded to targeted amounts by monitoring the iodine diffusion rate with time, and intermediate weight-ins."
+      }
+    },
+    {
+      "name": "I2@ZIF-8",
+      "synthesis_conditions": {
+        "temperature": "400 K",
+        "time": "1 h",
+        "washing_method": null,
+        "drying_method": null,
+        "yield": [
+          {
+            "wt_percentage": "30",
+            "I/Zn_ratio": "0.5",
+            "I2_per_cage": "1.5"
+          },
+          {
+            "wt_percentage": "70",
+            "I/Zn_ratio": "1.3",
+            "I2_per_cage": "4"
+          },
+          {
+            "wt_percentage": "100",
+            "I/Zn_ratio": "1.8",
+            "I2_per_cage": "5.4"
+          }
+        ],
+        "additional_information": "Weakly surface-adsorbed I2 and water were removed by heating the samples at 400 K for 1 h."
+      }
+    },
+    {
+      "name": "Extruded ZIF-8",
+      "synthesis_conditions": {
+        "materials_used": "1 g of activated powder ZIF-8 and 2mL of water",
+        "equipment": [
+          "Micromeritics ASAP 2020 surface area and porosity analyzer"
+        ],
+        "temperature": "573 K",
+        "time": "4 hours",
+        "additional_information": "The sample was extruded from a homogeneous paste to individual cylindrical pellets of approximately 3mm in diameter and 10mm in length. Activated to remove any water content."
+      }
+    }
+  ]
+}

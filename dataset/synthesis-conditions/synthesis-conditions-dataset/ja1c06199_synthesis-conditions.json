@@ -1,0 +1,181 @@
+{
+  "materials": [
+    {
+      "label": "PaPy2NH ligand",
+      "chemicals_used": [
+        "2-amino-3-pyridinecarboxaldehyde",
+        "methyl pyruvate",
+        "ethanol",
+        "deionized H2O",
+        "NaOH",
+        "concentrated HCl"
+      ],
+      "solvents": [
+        "ethanol",
+        "chloroform"
+      ],
+      "yield": "98%",
+      "characterization": {
+        "1H_NMR": "400 MHz, D2O",
+        "ESI-MS": "m/z 399.19 [M+H]+"
+      }
+    },
+    {
+      "label": "[MnII(PaPy2Q)](OTf)",
+      "chemicals_used": [
+        "PaPy2QH",
+        "NaOtBu",
+        "MnII(OTf)2ꞏ(CH3CN)2",
+        "CH3OH",
+        "ether"
+      ],
+      "solvents": [
+        "CH3OH",
+        "CH3CN"
+      ],
+      "yield": "80%",
+      "characterization": {
+        "EPR": "Perpendicular mode X-band, 10 K, g ≈ 2.0",
+        "Evans_NMR": "μeff = 5.67 BM, CD3CN",
+        "ESI-MS": "m/z = 451.12"
+      }
+    },
+    {
+      "label": "[MnII(PaPy2N)](OTf)ꞏCH3CN",
+      "chemicals_used": [
+        "PaPy2NH",
+        "NaOtBu",
+        "MnII(OTf)2ꞏ(CH3CN)2",
+        "CH3OH",
+        "ether"
+      ],
+      "solvents": [
+        "CH3OH",
+        "CH3CN"
+      ],
+      "yield": "95%",
+      "characterization": {
+        "EPR": "Perpendicular mode X-band, 10 K, g ≈ 2.0",
+        "Evans_NMR": "μeff = 5.58 BM, CD3CN",
+        "ESI-MS": "m/z = 452.11"
+      }
+    },
+    {
+      "label": "[MnIII(OH)(PaPy2Q)](OTf)",
+      "chemicals_used": [
+        "[MnII(PaPy2Q)](OTf)",
+        "PhIO",
+        "CH3CN"
+      ],
+      "solvents": [
+        "CH3CN"
+      ],
+      "characterization": {
+        "EPR": "No signals at 10 K",
+        "Evans_NMR": "Data not provided",
+        "ESI-MS": "Data not provided"
+      }
+    },
+    {
+      "label": "[MnIII(OH)(PaPy2N)](OTf)",
+      "chemicals_used": [
+        "[MnII(PaPy2N)](OTf)ꞏCH3CN",
+        "PhIO",
+        "CH3CN"
+      ],
+      "solvents": [
+        "CH3CN"
+      ],
+      "characterization": {
+        "EPR": "No signals at 10 K",
+        "Evans_NMR": "Data not provided",
+        "ESI-MS": "Data not provided"
+      }
+    },
+    {
+      "label": "[MnIII(OMe)(PaPy2Q)](OTf)",
+      "chemicals_used": [
+        "[MnII(PaPy2Q)](OTf)",
+        "PhIO",
+        "CH3OH"
+      ],
+      "solvents": [
+        "CH3OH"
+      ],
+      "characterization": {
+        "Evans_NMR": "Data not provided",
+        "ESI-MS": "Data not provided"
+      }
+    },
+    {
+      "label": "[MnIII(OMe)(PaPy2N)](OTf)",
+      "chemicals_used": [
+        "[MnII(PaPy2N)](OTf)ꞏCH3CN",
+        "PhIO",
+        "CH3OH"
+      ],
+      "solvents": [
+        "CH3OH"
+      ],
+      "characterization": {
+        "Evans_NMR": "Data not provided",
+        "ESI-MS": "Data not provided"
+      }
+    }
+  ],
+  "kinetic_studies": [
+    {
+      "reaction": "TEMPOH oxidation",
+      "conditions": {
+        "temperature": "-35°C",
+        "solvent": "CH3CN or CH3OH",
+        "substrate_concentration": "10 - 40 equiv."
+      },
+      "complexes_tested": [
+        "[MnIII(OH)(PaPy2Q)]+",
+        "[MnIII(OH)(PaPy2N)]+",
+        "[MnIII(OMe)(PaPy2Q)]+",
+        "[MnIII(OMe)(PaPy2N)]+"
+      ]
+    },
+    {
+      "reaction": "Phenol oxidation",
+      "conditions": {
+        "temperature": "50°C",
+        "solvent": "CH3CN",
+        "substrate_concentration": "10 - 200 equiv."
+      },
+      "complexes_tested": [
+        "[MnIII(OH)(PaPy2Q)]+",
+        "[MnIII(OH)(PaPy2N)]+"
+      ]
+    }
+  ],
+  "cyclic_voltammetry": {
+    "complexes_tested": [
+      "[MnIII(OH)(PaPy2Q)]+",
+      "[MnIII(OH)(PaPy2N)]+"
+    ],
+    "solvent": "CH3CN",
+    "reference_electrode": "Ag/AgCl",
+    "external_reference": "Fc+/Fc",
+    "peak_potentials": {
+      "[MnIII(OH)(PaPy2Q)]+": "-0.86 V vs Fc+/Fc",
+      "[MnIII(OH)(PaPy2N)]+": "-1.10 V vs Fc+/Fc"
+    }
+  },
+  "DFT_calculations": {
+    "reference_complex": "[MnIII(OH2)(dpaq)]2+",
+    "reference_pKa": "6.8",
+    "reference_E1/2": "0.65 V vs Fc+/Fc",
+    "complexes_tested": [
+      "[MnIII(OH)(PaPy2Q)]+",
+      "[MnIII(OH)(PaPy2N)]+"
+    ],
+    "calculated_parameters": {
+      "pKa": "Data not provided",
+      "E1/2": "Data not provided",
+      "BDFE": "Data not provided"
+    }
+  }
+}

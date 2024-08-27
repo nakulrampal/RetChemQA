@@ -1,0 +1,82 @@
+{
+  "materials": [
+    {
+      "name": "4,4'-(2,2-diphenylethene-1,1-diyl)dibenzoic acid (DPEB)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "distilled THF",
+            "amount": "not specified"
+          },
+          {
+            "name": "n-butyllithium solution",
+            "amount": "7.5 mL (1.6 M in cyclohexane)"
+          },
+          {
+            "name": "dichloromethane",
+            "amount": "100 mL for dilution, 200 mL × 3 for extraction"
+          },
+          {
+            "name": "hexane",
+            "amount": "300 mL for precipitation"
+          }
+        ],
+        "chemicals_used": [
+          "4,4'-(2,2-Diphenylethene-1,1-diyl)bis(bromobenzene) (DPBB) (6 mmol, 2.94 g)"
+        ],
+        "temperature": [
+          "-78 °C for reaction",
+          "room temperature for stirring"
+        ],
+        "time": [
+          "2 hours at -78 °C",
+          "6 hours at room temperature"
+        ],
+        "yield": "2.27g, 90%",
+        "washing_method": "washed with hexane several times",
+        "drying_method": "dried under vacuum"
+      }
+    },
+    {
+      "name": "NUS-1",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "DEF",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "DPEB",
+            "amount": "16.6 mg, 0.039 mmol"
+          },
+          {
+            "name": "Zn(NO3)2•4H2O",
+            "amount": "13.8 mg, 0.053 mmol"
+          }
+        ],
+        "temperature": "100 °C",
+        "time": "72 hours",
+        "yield": "8.3 mg, 21% based on DPEB",
+        "washing_method": "not specified",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "NUS-1a",
+      "synthesis_conditions": {
+        "washing_method": "soaked in methanol for 3 days, then in dichloromethane for another 3 days, with fresh solvent added every day",
+        "drying_method": "dried under a dynamic vacuum at 100 °C for 3 hours",
+        "notes": "NUS-1 crystals were used as the starting material"
+      }
+    },
+    {
+      "name": "NUS-1a⊃guests",
+      "synthesis_conditions": {
+        "procedure": "NUS-1a crystals were soaked in individual liquid analytes for 2 days, then collected and dried with tissue",
+        "notes": "Used for chemical sensing study"
+      }
+    }
+  ]
+}

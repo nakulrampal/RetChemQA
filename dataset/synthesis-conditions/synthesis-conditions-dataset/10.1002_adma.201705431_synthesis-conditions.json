@@ -1,0 +1,54 @@
+{
+  "materials": [
+    {
+      "name": "C-MOF-C2-900",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis of MIDPPA",
+          "details": {
+            "method": "Suzuki cross-coupling and Ullmann condensation reactions"
+          }
+        },
+        {
+          "step": "Solvothermal coordination reaction",
+          "details": {
+            "chemicals_used": "MIDPPA, 1,2,4-H3btc, Co(NO3)2·6H2O",
+            "product": "MOF-C2 with equal amounts of enantiotopic chiral 3D MOFs 1L and 1R"
+          }
+        },
+        {
+          "step": "Carbonization",
+          "details": {
+            "temperature": "900 °C",
+            "atmosphere": "Ar flow",
+            "heating_rate": "5 °C min−1",
+            "morphology_after_process": "Maintained rod-like morphology of MOF-C2",
+            "additional_information": "Resultant sample referred to as C-MOF-C2-900"
+          }
+        }
+      ]
+    },
+    {
+      "name": "C-MOF-C2-800",
+      "synthesis_conditions": [
+        {
+          "step": "Carbonization",
+          "details": {
+            "temperature": "800 °C"
+          }
+        }
+      ]
+    },
+    {
+      "name": "C-MOF-C2-1000",
+      "synthesis_conditions": [
+        {
+          "step": "Carbonization",
+          "details": {
+            "temperature": "1000 °C"
+          }
+        }
+      ]
+    }
+  ]
+}

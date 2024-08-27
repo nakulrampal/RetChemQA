@@ -1,0 +1,224 @@
+{
+  "materials": [
+    {
+      "material": "[VO­(TCPP)]·MeOH·2H2O",
+      "synthesis_conditions": {
+        "temperature": "180 °C",
+        "solvents": [
+          {
+            "name": "PhOH",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H2TMeCPP",
+            "amount": "1.00 g, 1.18 mmol"
+          },
+          {
+            "name": "[VO­(acac)2]",
+            "amount": "0.31 g, 1.18 mmol"
+          }
+        ],
+        "time": "6 h",
+        "additional_steps": [
+          {
+            "step": "Deprotection of ester groups",
+            "conditions": {
+              "temperature": "reflux",
+              "solvents": [
+                {
+                  "name": "THF",
+                  "amount": "25 mL"
+                },
+                {
+                  "name": "MeOH",
+                  "amount": "25 mL"
+                }
+              ],
+              "chemicals_used": [
+                {
+                  "name": "KOH",
+                  "amount": "2.65 g, 47.2 mmol"
+                }
+              ],
+              "time": "12 h"
+            }
+          }
+        ],
+        "yield": "95%"
+      }
+    },
+    {
+      "material": "[TiO­(TCPP)]·H2O",
+      "synthesis_conditions": {
+        "temperature": "180 °C",
+        "solvents": [
+          {
+            "name": "PhOH",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H2TMeCPP",
+            "amount": "260 mg, 0.31 mmol"
+          },
+          {
+            "name": "[TiO­(acac)2]2",
+            "amount": "97 mg, 0.37 mmol"
+          }
+        ],
+        "time": "63 h",
+        "additional_steps": [
+          {
+            "step": "Deprotection of ester groups",
+            "conditions": {
+              "temperature": "reflux",
+              "solvents": [
+                {
+                  "name": "THF",
+                  "amount": "15 mL"
+                },
+                {
+                  "name": "MeOH",
+                  "amount": "15 mL"
+                }
+              ],
+              "chemicals_used": [
+                {
+                  "name": "KOH",
+                  "amount": "0.7 g, 12.4 mmol"
+                }
+              ],
+              "time": "12 h"
+            }
+          }
+        ],
+        "yield": "45%"
+      }
+    },
+    {
+      "material": "[VO­(TCPP-Zn2-bpy)]·4DMF·4H2O",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "7 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[VO­(TCPP)]",
+            "amount": "50 mg, 58 μmol"
+          },
+          {
+            "name": "Zn­(NO3)2·6H2O",
+            "amount": "35 mg, 116 μmol"
+          },
+          {
+            "name": "4,4'-bipyridyl",
+            "amount": "18.1 mg, 116 μmol"
+          }
+        ],
+        "time": "24 h",
+        "yield": "65%"
+      }
+    },
+    {
+      "material": "[VO­(TPP)]",
+      "synthesis_conditions": {
+        "temperature": "180 °C",
+        "solvents": [
+          {
+            "name": "PhOH",
+            "amount": "6 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H2TPP",
+            "amount": "0.25 g, 0.40 mmol"
+          },
+          {
+            "name": "[VO­(acac)2]",
+            "amount": "0.133 g, 0.50 mmol"
+          }
+        ],
+        "time": "9 h",
+        "yield": "70%"
+      }
+    },
+    {
+      "material": "[TiO­(TPP)]",
+      "synthesis_conditions": {
+        "temperature": "180 °C",
+        "solvents": [
+          {
+            "name": "PhOH",
+            "amount": "12 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H2TPP",
+            "amount": "0.50 g, 0.81 mmol"
+          },
+          {
+            "name": "[TiO­(acac)2]2",
+            "amount": "0.260 g, 0.50 mmol"
+          }
+        ],
+        "time": "3 days",
+        "yield": "74%"
+      }
+    },
+    {
+      "material": "[VO0.02­TiO0.98­(TPP)]",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "CH2Cl2",
+            "amount": "50 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[VO­(TPP)]",
+            "amount": "2.5 mg, 0.0037 mmol"
+          },
+          {
+            "name": "[TiO­(TPP)]",
+            "amount": "97.5 mg, 0.144 mmol"
+          }
+        ],
+        "additional_information": "Mixture recrystallized by slow evaporation under reduced pressure after adding 5 mL of MeOH.",
+        "yield": "quantitative"
+      }
+    },
+    {
+      "material": "[VO0.30­TiO0.70­(TPP)]",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "CH2Cl2",
+            "amount": "75 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[VO­(TPP)]",
+            "amount": "30.0 mg, 0.044 mmol"
+          },
+          {
+            "name": "[TiO­(TPP)]",
+            "amount": "70.0 mg, 0.103 mmol"
+          }
+        ],
+        "additional_information": "Mixture recrystallized by slow evaporation under reduced pressure after adding 5 mL of MeOH.",
+        "yield": "quantitative"
+      }
+    }
+  ]
+}

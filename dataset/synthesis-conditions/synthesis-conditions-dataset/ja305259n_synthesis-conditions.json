@@ -1,0 +1,51 @@
+{
+  "materials": [
+    {
+      "material": "N-(2,3,5,6-tetrafluoro-4-(trifluoromethyl)phenyl)-2-(trifluoromethyl)benzamide (3a)",
+      "conditions": {
+        "solvent": "acetone-d6",
+        "1H NMR (400 MHz)": " 10.06 (s, 1H), 7.89 (d, J = 7.6 Hz, 1H), 7.83-7.76 (m, 3H)",
+        "19F NMR (375 MHz)": " -56.09 (t, J = 21.6 Hz, 3F), -58.85 (s, 3F), -142.98 to -143.07 (m, 2F), -143.51 to -143.56 (m, 2F)",
+        "13C NMR (100 MHz)": " 165.66, 134.65, 132.86, 131.30, 129.20, 127.69 (q, J = 32.1 Hz), 127.03 (q, J = 4.9 Hz), 124.11 (q, J = 271.7 Hz)"
+      }
+    },
+    {
+      "material": "2-Methyl-N-(2,3,5,6-tetrafluoro-4-(trifluoromethyl)phenyl)-6-(trifluoromethyl)benzamide (3b)",
+      "conditions": {
+        "solvent": "acetone-d6",
+        "1H NMR (400 MHz)": " 10.09 (s, 1H), 7.68-7.59 (m, 3H), 2.52 (s, 3H)",
+        "19F NMR (375 MHz)": " -56.10 (t, J = 21.9 Hz, 3F), -58.70 (s, 3F), -142.97 to -143.08 (m, 4F)",
+        "13C NMR (100 MHz)": " 165.39, 137.01, 134.70, 134.50, 130.25, 127.28 (q, J = 31.3 Hz), 124.32 (q, J = 271.8 Hz), 124.01 (q, J = 4.9 Hz), 18.61",
+        "HRMS (ESI-TOF)": "m/z Calcd for C16H7F10NNaO (M+Na)+: 442.0260, found: 442.0264"
+      }
+    },
+    {
+      "material": "5-Methyl-N-(2,3,5,6-tetrafluoro-4-(trifluoromethyl)phenyl)-2-(trifluoromethyl)benzamide (3c)",
+      "conditions": {
+        "solvent": "acetone-d6",
+        "1H NMR (400 MHz)": " 10.05 (s, 1H), 7.75 (d, J = 8.0 Hz, 1H), 7.62 (s, 1H), 7.58 (d, J = 8.0 Hz, 1H), 2.49 (s, 3H)",
+        "19F NMR (375 MHz)": " -56.04 (t, J = 21.4 Hz, 3F), -58.42 (s, 3F), -143.06 to -143.15 (m, 2F), -143.32 to -143.37 (m, 2F)",
+        "13C NMR (100 MHz)": " 165.67, 143.58, 134.54, 131.62, 129.65, 127.00 (q, J = 4.8 Hz), 124.97 (q, J = 32.0 Hz), 124.28 (q, J = 271.0 Hz), 20.61",
+        "HRMS (ESI-TOF)": "m/z Calcd for C16H8F10NO (M+H)+: 420.0441, found: 420.0443"
+      }
+    },
+    {
+      "material": "4-Methyl-N-(2,3,5,6-tetrafluoro-4-(trifluoromethyl)phenyl)-2-(trifluoromethyl)benzamide (3d)",
+      "conditions": {
+        "solvent": "acetone-d6",
+        "1H NMR (400 MHz)": " 10.00 (s, 1H), 7.71 (d, J = 8.0 Hz, 1H), 7.70 (s, 1H), 7.58 (dd, J1 = 8.0 Hz, J2 = 1.0 Hz, 1H), 2.50 (s, 3H)",
+        "19F NMR (375 MHz)": " -56.08 (t, J = 21.8 Hz, 3F), -58.78 (s, 3F), -143.05 to -143.14 (m, 2F), -143.56 to -143.63 (m, 2F)",
+        "13C NMR (100 MHz)": " 165.69, 142.04, 133.09, 131.81, 129.25, 127.73 (q, J = 31.7 Hz), 127.48 (q, J = 5.0 Hz), 124.11 (q, J = 271.5 Hz), 20.64",
+        "HRMS (ESI-TOF)": "m/z Calcd for C16H7F10NNaO (M+Na)+: 442.0260, found: 442.0258"
+      }
+    },
+    {
+      "material": "Palladium complex 8",
+      "conditions": {
+        "solvent": "acetone-d6",
+        "1H NMR (400 MHz)": " 7.11 (dd, J1 = 7.2 Hz, J2 = 1.2 Hz, 1H), 6.86 (dt, J1 = 7.2 Hz, J2 = 1.2 Hz, 1H), 6.77 (d, J = 7.2 Hz, 1H), 1.68 (s, 3H)",
+        "13C NMR (100 MHz)": " 178.52, 177.18, 144.96, 142.06, 130.13, 128.50, 125.87, 122.81, 23.63"
+      }
+    }
+  ]
+}

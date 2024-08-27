@@ -1,0 +1,39 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "solvents": "nitrobenzene/methanol solution",
+        "solvent_amounts": {
+          "nitrobenzene": "32 mL",
+          "methanol": "4 mL"
+        },
+        "chemicals_used": {
+          "ZnI2": "0.24 mmol",
+          "TPT": "0.16 mmol"
+        },
+        "method": "mixing a methanol solution of ZnI2 into a vigorously stirred nitrobenzene/methanol solution of TPT",
+        "time": "30 s",
+        "washing_method": "filtration"
+      }
+    },
+    {
+      "name": "phase III",
+      "synthesis_conditions": {
+        "starting_material": "1",
+        "temperature": "room temperature to 673 K",
+        "heating_rate": "10 °C/min",
+        "color": "light yellow solid"
+      }
+    },
+    {
+      "name": "1·G",
+      "synthesis_conditions": {
+        "starting_material": "phase III",
+        "method": "immersion in nitrobenzene for 30 min at room temperature",
+        "guest_molecule": "nitrobenzene",
+        "guest_molecule_amount": "x = 1"
+      }
+    }
+  ]
+}

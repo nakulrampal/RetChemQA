@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What are the synthesis conditions for NNU-32?",
+      "answer": "A mixture of CuI (190 mg, 1 mmol) and H2bptb (135 mg, 0.5 mmol) in 10 mL DMF was charged in a 15 mL Teflon-lined stainless steel container and heated at 180 °C for 72 h.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the electrocatalytic CO2 reduction performance of NNU-33(H) compare to NNU-32?",
+      "answer": "NNU-33(H) shows a higher selectivity for CO2-to-CH4 conversion with a Faradaic efficiency of 82.2% at -0.9 V vs RHE, compared to NNU-32 which has a Faradaic efficiency of 55.1% for CH4 at -1.0 V vs RHE.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the Cu(I) oxidation state maintained during the CO2RR process for NNU-33(H)?",
+      "answer": "Yes, the Cu(I) oxidation state is maintained during the CO2RR process for NNU-33(H), as indicated by the unaltered peaks corresponding to Cu(I) in the Cu LM2 XPS spectra before and after CO2RR.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of cuprophilic interactions in the electrocatalytic performance of NNU-33(H)?",
+      "answer": "Cuprophilic interactions in NNU-33(H) are crucial for its high selectivity in CO2-to-CH4 conversion. The existence of cuprophilic interactions promotes the conversion of CH4, and more quantities of these interactions and shorter Cu(I)-Cu(I) distances improve the selectivity of CH4 formation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental technique was used to analyze the gas products of CO2 electroreduction?",
+      "answer": "The gas products of CO2 electroreduction were analyzed by gas chromatography (GC) coupled with a flame ionization detector (FID) and a thermal conductivity detector (TCD).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the structure of NNU-33(S) change during the CO2RR process?",
+      "answer": "Yes, the structure of NNU-33(S) changes during the CO2RR process, as indicated by the PXRD patterns showing the transformation of NNU-33(S) into NNU-33(H) during CO2RR.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to investigate the interactions and CO2RR activity of the {Cu8} cluster model?",
+      "answer": "Density Functional Theory (DFT) calculations were performed using the Gaussian 09 package with the M06 hybrid functional to investigate the interactions and CO2RR activity of the {Cu8} cluster model.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the CO2 adsorption capacity of NNU-33(H) compare to NNU-32 and NNU-33(S) at 298 K?",
+      "answer": "NNU-33(H) displays a far greater performance on CO2 adsorption (26.918 cm3 g-1) than original NNU-33(S) (4.249 cm3 g-1) and NNU-32 (3.081 cm3 g-1) at 298 K.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the formation of Cu clusters under electroreduction conditions favorable for the {Cu8} fragment?",
+      "answer": "No, the formation of Cu clusters under electroreduction conditions is not favorable for the {Cu8} fragment, as indicated by energy calculations and ab-initio molecular dynamic (AIMD) simulations showing high stability of the Cu(I) sites.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main product of CO2 electroreduction using NNU-33(H) as the catalyst?",
+      "answer": "The main product of CO2 electroreduction using NNU-33(H) as the catalyst is methane (CH4), with the highest Faradaic efficiency determined to be 82.17% at -0.9 V vs RHE.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

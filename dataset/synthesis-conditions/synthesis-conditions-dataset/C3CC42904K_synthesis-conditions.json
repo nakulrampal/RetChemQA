@@ -1,0 +1,47 @@
+{
+  "materials": [
+    {
+      "name": "MOZIF-1",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "3 ml"
+          }
+        ],
+        "equipment": "Solvothermal condition",
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2⋅6H2O",
+            "amount": "0.03 g",
+            "molarity": "0.1 mmol"
+          },
+          {
+            "name": "2-nitro imidazole",
+            "amount": "0.01 g",
+            "molarity": "0.09 mmol"
+          },
+          {
+            "name": "sodium phosphomolybdate hydrate",
+            "amount": "0.04 g",
+            "molarity": "0.02 mmol"
+          }
+        ],
+        "time": "2 days",
+        "yield_conditions": [
+          {
+            "description": "With lower concentration of sodium phosphomolybdate hydrate (0.01 g, 0.005 mmol; 0.02 g, 0.01 mmol; 0.03 g, 0.015 mmol), mixture of products were isolated. Pure octahedral colorless crystals were found with 0.04 g (0.02 mmol) or higher concentration."
+          }
+        ],
+        "additional_information": "The reaction without sodium phosphomolybdate resulted in ZIF-65-SOD crystals as pure phase."
+      }
+    },
+    {
+      "name": "Zn-ZIF-65",
+      "synthesis_conditions": {
+        "description": "The same reaction conditions as MOZIF-1 but without sodium phosphomolybdate resulted in ZIF-65-SOD crystals as pure phase."
+      }
+    }
+  ]
+}

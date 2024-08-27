@@ -1,0 +1,106 @@
+{
+  "materials": [
+    {
+      "name": "SolCON-A",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "ACN",
+            "amount": "1.0 mL"
+          },
+          {
+            "name": "DCM:MeOH",
+            "ratio": "1:1 v/v",
+            "amount": "1.0 mL"
+          },
+          {
+            "name": "DCM:MeOH:ACN",
+            "ratio": "0.5:0.5:1 v/v/v",
+            "amount": "1.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cu(NO3)2∙3H2O",
+            "amount": "1.4 μmol"
+          },
+          {
+            "name": "complex 1",
+            "amount": "0.7 μmol"
+          }
+        ],
+        "time": "20 days",
+        "washing_method": "washed with ACN and ethanol"
+      }
+    },
+    {
+      "name": "SolCON-B",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "ACN",
+            "amount": "1.0 mL"
+          },
+          {
+            "name": "DMF",
+            "amount": "1.0 mL"
+          },
+          {
+            "name": "ACN:DMF",
+            "ratio": "1:1 v/v",
+            "amount": "1.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cu(NO3)2∙3H2O",
+            "amount": "1.4 μmol"
+          },
+          {
+            "name": "complex 1",
+            "amount": "0.7 μmol"
+          }
+        ],
+        "time": "20 days",
+        "washing_method": "washed with ACN and ethanol"
+      }
+    },
+    {
+      "name": "SurCON",
+      "synthesis_conditions": {
+        "equipment": "automated spin coater",
+        "solvents": [
+          {
+            "name": "ACN",
+            "amount": "0.7-0.8 mL"
+          },
+          {
+            "name": "DCM/MeOH",
+            "ratio": "1:1 v/v",
+            "amount": "0.7-0.8 mL"
+          },
+          {
+            "name": "acetone",
+            "amount": "for washing"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cu(NO3)2·3H2O",
+            "concentration": "4.0 mM",
+            "solvent": "ACN"
+          },
+          {
+            "name": "complex 1",
+            "concentration": "0.6 mM",
+            "solvent": "DCM/MeOH 1:1 v/v"
+          }
+        ],
+        "deposition_cycles": "18",
+        "notes": "The initial metal-salt deposition step on the metal-oxide surface is essential; spin coating first complex 1 did not afford a stable film."
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "materials": [
+    {
+      "name": "Biphenyl-3,3’,5,5’-tetracarboxylic acid (H4L1)",
+      "synthesis_conditions": {
+        "method": "oxidation",
+        "precursors": ["3,3’,5,5’-tetramethylbiphenyl", "KMnO4"],
+        "solvents": [],
+        "temperature": "not specified",
+        "equipment": "not specified",
+        "time": "not specified",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "Terphenyl-3,3’’,5,5’’-tetracarboxylic acid (H4L2)",
+      "synthesis_conditions": {
+        "method": "Suzuki coupling",
+        "precursors": ["diethylisophthalate-5-boronic acid", "dibromobenzene"],
+        "solvents": ["1,4-dioxane"],
+        "temperature": "80 8C",
+        "equipment": "N2 atmosphere",
+        "time": "3 days",
+        "yield": "65%"
+      }
+    },
+    {
+      "name": "Quaterphenyl-3,3’’’,5,5’’’-tetracarboxylic acid (H4L3)",
+      "synthesis_conditions": {
+        "method": "Suzuki coupling",
+        "precursors": ["diethylisophthalate-5-boronic acid", "dibromobiphenyl"],
+        "solvents": ["1,4-dioxane"],
+        "temperature": "80 8C",
+        "equipment": "N2 atmosphere",
+        "time": "3 days",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "[Cu2(L1)(H2O)2] (1)",
+      "synthesis_conditions": {
+        "method": "Solvothermal reaction",
+        "precursors": ["H4L1", "Cu(NO3)2·2.5 H2O"],
+        "solvents": ["DMF", "1,4-dioxane", "H2O"],
+        "solvent_amounts": {
+          "DMF": "not specified",
+          "1,4-dioxane": "not specified",
+          "H2O": "not specified"
+        },
+        "temperature": "not specified",
+        "acid": "aqueous HCl",
+        "equipment": "not specified",
+        "time": "not specified",
+        "yield": "good",
+        "crystallinity": "highly crystalline"
+      }
+    },
+    {
+      "name": "[Cu2(L2)(H2O)2] (2)",
+      "synthesis_conditions": {
+        "method": "Solvothermal reaction",
+        "precursors": ["H4L2", "Cu(NO3)2·2.5 H2O"],
+        "solvents": ["DMF", "1,4-dioxane", "H2O"],
+        "solvent_amounts": {
+          "DMF": "not specified",
+          "1,4-dioxane": "not specified",
+          "H2O": "not specified"
+        },
+        "temperature": "80 8C",
+        "acid": "aqueous HCl",
+        "equipment": "not specified",
+        "time": "3 days",
+        "yield": "75.8%"
+      }
+    },
+    {
+      "name": "[Cu2(L3)(H2O)2] (3)",
+      "synthesis_conditions": {
+        "method": "Solvothermal reaction",
+        "precursors": ["H4L3", "Cu(NO3)2·2.5 H2O"],
+        "solvents": ["DMF", "1,4-dioxane", "H2O"],
+        "solvent_amounts": {
+          "DMF": "not specified",
+          "1,4-dioxane": "not specified",
+          "H2O": "not specified"
+        },
+        "temperature": "80 8C",
+        "acid": "aqueous HCl",
+        "equipment": "not specified",
+        "time": "3 days",
+        "yield": "not specified"
+      }
+    }
+  ]
+}

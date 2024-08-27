@@ -1,0 +1,115 @@
+{
+  "materials": [
+    {
+      "name": "DTO MOF",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "37.5 mL"
+          }
+        ],
+        "equipment": [
+          "vials",
+          "oven"
+        ],
+        "chemicals_used": [
+          {
+            "name": "L3",
+            "amount": "92.5 mg"
+          },
+          {
+            "name": "L1",
+            "amount": "250 mg"
+          },
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "250 mg"
+          },
+          {
+            "name": "concentrated aqueous hydrogen chloride",
+            "amount": "5 drops"
+          }
+        ],
+        "time": "48 h",
+        "yield": "18 % based on L1",
+        "crystal_morphology": "rectangular plate, brown crystals ~1 mm in length"
+      }
+    },
+    {
+      "name": "DBTO MOF",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "112.5 mL"
+          }
+        ],
+        "equipment": [
+          "vials",
+          "oven"
+        ],
+        "chemicals_used": [
+          {
+            "name": "L3",
+            "amount": "285 mg"
+          },
+          {
+            "name": "L2",
+            "amount": "975 mg"
+          },
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "750 mg"
+          },
+          {
+            "name": "concentrated aqueous hydrogen chloride",
+            "amount": "15 drops"
+          }
+        ],
+        "time": "48 h",
+        "yield": "21 % based on L2",
+        "crystal_morphology": "rectangular plate, brown crystals ~0.9 mm in length"
+      }
+    },
+    {
+      "name": "BTO MOF",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "35 mL"
+          }
+        ],
+        "equipment": [
+          "vials",
+          "oven"
+        ],
+        "chemicals_used": [
+          {
+            "name": "L4",
+            "amount": "126 mg"
+          },
+          {
+            "name": "L2",
+            "amount": "325 mg"
+          },
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "250 mg"
+          },
+          {
+            "name": "concentrated aqueous hydrogen chloride",
+            "amount": "4 drops"
+          }
+        ],
+        "time": "48 h",
+        "yield": "19 % based on L2",
+        "crystal_morphology": "rectangular plate, brown crystals ~0.8 mm in length"
+      }
+    }
+  ]
+}

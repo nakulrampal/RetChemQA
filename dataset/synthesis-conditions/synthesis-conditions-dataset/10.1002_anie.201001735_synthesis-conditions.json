@@ -1,0 +1,34 @@
+{
+  "materials": [
+    {
+      "name": "DUT-9",
+      "synthesis_conditions": {
+        "solvents": ["N,N-dimethylformamide (DMF)", "N,N-diethylformamide (DEF)"],
+        "chemicals_used": ["Ni(NO3)2·6H2O", "H3btb"],
+        "temperature": "120 8C",
+        "time": "20 h",
+        "equipment": "Pyrex tube",
+        "washing_method": "washed twice with DEF",
+        "drying_method": "dried in an argon flow at room temperature",
+        "yield": "54 % with respect to the amount of H3btb used",
+        "amount_of_solvent": "10.5 mL of DEF"
+      }
+    },
+    {
+      "name": "DUT-9-SCD",
+      "synthesis_conditions": {
+        "additional_steps": [
+          {
+            "step_description": "Supercritical drying using CO2",
+            "purpose": "to obtain the framework in a solvent-free manner"
+          },
+          {
+            "step_description": "Additional activation by heating in vacuum",
+            "temperature": "120 8C",
+            "purpose": "partial removal of coordinated solvent molecules, significantly increased nitrogen uptake"
+          }
+        ]
+      }
+    }
+  ]
+}

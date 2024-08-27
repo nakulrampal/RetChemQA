@@ -1,0 +1,50 @@
+{
+  "materials": [
+    {
+      "name": "MV[Mn2Cu3(mpba)3(H2O)3] · 20H2O (1)",
+      "synthesis_conditions": {
+        "method": "slow diffusion",
+        "solvents": [
+          {
+            "name": "aqueous solutions",
+            "amount": "not specified"
+          }
+        ],
+        "temperature": "room temperature",
+        "precursors": [
+          "(MV)2[Cu2(mpba)2] · 6H2O",
+          "MnCl2 · 4H2O"
+        ],
+        "precursor_ratio": "3:4 molar ratio",
+        "equipment": "H-shaped tube",
+        "time": "not specified",
+        "yield": "not specified",
+        "crystal_structure_determination_method": "single-crystal X-ray diffraction using synchrotron radiation",
+        "crystal_system": "monoclinic",
+        "space_group": "P21/m"
+      }
+    },
+    {
+      "name": "anhydrous derivative of 1",
+      "synthesis_conditions": {
+        "method": "removal of crystallization and axially coordinated water molecules",
+        "temperature": "room temperature to around 90 °C",
+        "atmosphere": "dry N2",
+        "mass_loss_at_90C": "ca. 25%",
+        "water_molecules_removed": "~23 H2O molecules per formula unit",
+        "vapor_adsorption_isotherms": {
+          "water_adsorption": "13 mol kg−1",
+          "methanol_adsorption": "7.3 mol kg−1"
+        },
+        "gas_adsorption_isotherms": {
+          "CO2_saturation_loading": "1.5 mol kg−1 at 30 bar",
+          "CH4_adsorption": "not adsorbed",
+          "hydrocarbons_adsorption": "not adsorbed"
+        },
+        "accessible_pore_size": "ca. 3.8 Å",
+        "phase": "amorphous",
+        "crystallinity_recovery_method": "immersion in water for several minutes"
+      }
+    }
+  ]
+}

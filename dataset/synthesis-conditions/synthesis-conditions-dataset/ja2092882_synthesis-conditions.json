@@ -1,0 +1,141 @@
+{
+  "materials": [
+    {
+      "name": "1,3,5-tris(2H-tetrazol-5-yl)benzene (H3BTT)",
+      "synthesis_conditions": [
+        {
+          "step": "Benzene-1,3,5-tricarbonyltrichloride synthesis",
+          "solvents": [
+            {
+              "name": "Tetrahydrofuran (THF)",
+              "amount": "300 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "1,3,5-Benzenetricarboxylic acid (H3BTC)",
+              "amount": "20 g"
+            },
+            {
+              "name": "Thionyl chloride (SOCl2)",
+              "amount": "50 mL"
+            }
+          ],
+          "temperature": "70 °C",
+          "time": "4 h",
+          "equipment": "500 mL round-bottom flask"
+        },
+        {
+          "step": "1,3,5-Tricarbamoylbenzene synthesis",
+          "solvents": [
+            {
+              "name": "Ethanol",
+              "amount": "3x50 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Aqueous concentrated ammonia solution",
+              "amount": "150 mL"
+            }
+          ],
+          "temperature": "80 °C",
+          "washing_method": "Washed with ethanol",
+          "drying_method": "Dried at 80 °C"
+        },
+        {
+          "step": "1,3,5-Tricyanobenzene synthesis",
+          "solvents": [
+            {
+              "name": "Ethanol and acetone",
+              "ratio": "1:2 v/v"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Phosphorus oxychloride (POCl3)",
+              "amount": "45 mL"
+            }
+          ],
+          "temperature": "100 °C",
+          "time": "10 h",
+          "drying_method": "Dried at 100 °C"
+        },
+        {
+          "step": "1,3,5-Tris(2H-tetrazol-5-yl)benzene Hydrochloride (H3BTT·2HCl) synthesis",
+          "solvents": [
+            {
+              "name": "Toluene",
+              "amount": "150 mL"
+            },
+            {
+              "name": "Methanol",
+              "amount": "30 mL"
+            },
+            {
+              "name": "Aqueous solution of NaOH",
+              "amount": "100 mL, 1 M"
+            },
+            {
+              "name": "Diluted HCl",
+              "amount": "Approx. 100 mL, 1 M"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "1,3,5-Tricyanobenzene",
+              "amount": "3.06 g, 20.0 mmol"
+            },
+            {
+              "name": "NaN3",
+              "amount": "11.7 g, 180 mmol"
+            },
+            {
+              "name": "Triethylamine hydrochloride",
+              "amount": "24.7 g, 180 mmol"
+            }
+          ],
+          "temperature": "Reflux",
+          "time": "3 days",
+          "washing_method": "Washed with distilled water, methanol, and acetone",
+          "yield": "6.1 g (74% based on 1,3,5-tricyanobenzene)"
+        }
+      ]
+    },
+    {
+      "name": "Zinc-Tetrazolate Framework (CPF-6)",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis of Zn(HBTT) (CPF-6)",
+          "solvents": [
+            {
+              "name": "N,N-dimethylacetamide (dma)",
+              "amount": "3.0 mL"
+            },
+            {
+              "name": "1,3-dimethylpropyleneurea (dmpu)",
+              "amount": "2.0 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "H3BTT",
+              "amount": "0.028 g, 0.10 mmol"
+            },
+            {
+              "name": "Zn(NO3)2·(H2O)6",
+              "amount": "0.045 g, 0.15 mmol"
+            },
+            {
+              "name": "Concentrated HCl",
+              "amount": "One drop"
+            }
+          ],
+          "temperature": "First heated at 120 °C for 2 days, then at 90 °C for another 2 days",
+          "equipment": "10-mL glass vial",
+          "yield": "51% based on H3BTT"
+        }
+      ]
+    }
+  ]
+}

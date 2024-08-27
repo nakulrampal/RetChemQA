@@ -1,0 +1,86 @@
+{
+  "materials": [
+    {
+      "material": "Sodium acetylcyclopentadienide (11)",
+      "synthesis": {
+        "chemicals_used": "CpNa, ethyl acetate",
+        "solvents": "THF",
+        "temperature": "boiling",
+        "yield": "not specified",
+        "characterization": {
+          "X-ray_diffraction": "Identical to previously reported by Rogers et al."
+        }
+      }
+    },
+    {
+      "material": "12",
+      "synthesis": {
+        "chemicals_used": "11, LDA",
+        "solvents": "THF",
+        "temperature": "room temperature",
+        "time": "3 h",
+        "yield": "not specified",
+        "characterization": {
+          "1H_NMR": "δ 6.04, 5.61 (br, each 2H, Cp), 3.79 (br, 2H, CH2)",
+          "13C_NMR": "δ 105.5, 102.5 (C5H4), 85.7 (CH2), both ipso-C not detected"
+        }
+      }
+    },
+    {
+      "material": "17",
+      "synthesis": {
+        "chemicals_used": "11·THF, LDA, Cl2Ti(NMe2)2 (15)",
+        "solvents": "THF",
+        "temperature": "0 °C to room temperature",
+        "time": "2 h",
+        "yield": ">70%",
+        "characterization": {
+          "1H_NMR": "δ 6.13 (m, 8H, Cp), 4.33 and 3.85 (each br s, each 2H, CH2), 3.21 (s, 24H, NMe2)",
+          "13C_NMR": "δ 162.1 and 88.0 (CCH2), 129.1 (ipso-C of C5H4), 112.5 and 109.6 (C5H4), 49.1 (N−CH3)"
+        }
+      }
+    },
+    {
+      "material": "18",
+      "synthesis": {
+        "chemicals_used": "11·THF, LDA, Cl2Zr(NEt2)2(THF)2",
+        "solvents": "THF",
+        "temperature": "room temperature",
+        "time": "not specified",
+        "yield": "ca. 75%",
+        "characterization": {
+          "1H_NMR": "δ 6.36 and 6.25 (each m, each 4H, C5H4), 4.39 and 3.98 (each br s, each 2H, CH2), 3.33 (m, 16H, NCH2), 1.04 (t, 3J = 6.8 Hz, 24H, CH3)",
+          "13C_NMR": "δ 158.1 and 87.3 (CCH2), 128.2 (ipso-C of C5H4), 110.8 (C3, C4 of C5H4), 108.3 (C2, C5 of C5H4), 44.4 and 15.6 (NCH2CH3)"
+        }
+      }
+    },
+    {
+      "material": "Polyethylene",
+      "synthesis": {
+        "chemicals_used": "17 or 18, MAO",
+        "solvents": "toluene",
+        "temperature": "60 °C or 65 °C",
+        "time": "1 h",
+        "pressure": "2 bar ethene",
+        "yield": "not specified",
+        "characterization": {
+          "melting_point": "125 °C"
+        }
+      }
+    },
+    {
+      "material": "Ethene/1-Octene Copolymer",
+      "synthesis": {
+        "chemicals_used": "18, MAO",
+        "solvents": "toluene/50% 1-octene solution",
+        "temperature": "90 °C",
+        "time": "not specified",
+        "pressure": "1 bar ethene",
+        "yield": "not specified",
+        "characterization": {
+          "13C_NMR": "δ 38.0 (C7), 34.3 (Cαδ+, C6B), 32.4 (Cγδ+, C4B), 30.3 (Cδδ+, C3B), 27.3 (Cβδ+, C5B), 23.1 (C2B), 14.4 (C1B)"
+        }
+      }
+    }
+  ]
+}

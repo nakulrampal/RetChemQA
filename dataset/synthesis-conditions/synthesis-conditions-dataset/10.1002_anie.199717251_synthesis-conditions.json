@@ -1,0 +1,116 @@
+{
+  "materials": [
+    {
+      "material_id": "1",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "EtOH",
+            "amount": "50 mL"
+          },
+          {
+            "name": "acetone",
+            "amount": "50 mL"
+          }
+        ],
+        "equipment": "none specified",
+        "chemicals_used": [
+          {
+            "name": "4,4'-Bipyridine",
+            "amount": "0.82 g, 5.25 mmol"
+          },
+          {
+            "name": "Co(NO3)2.6H2O",
+            "amount": "0.68 g, 2.33 mmol"
+          }
+        ],
+        "time": "one week",
+        "washing_method": "filtration",
+        "drying_method": "dried in vacuo for 2 h",
+        "yield": "not specified",
+        "additional_notes": "The red microcrystals obtained"
+      }
+    },
+    {
+      "material_id": "2",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "EtOH",
+            "amount": "not specified"
+          },
+          {
+            "name": "acetone",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "none specified",
+        "chemicals_used": "prepared analogously to 1 with Ni(NO3)2.xH2O",
+        "time": "analogous to 1",
+        "washing_method": "analogous to 1",
+        "drying_method": "analogous to 1",
+        "yield": "not specified",
+        "additional_notes": "Elemental analysis and IR data provided"
+      }
+    },
+    {
+      "material_id": "3",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "EtOH",
+            "amount": "not specified"
+          },
+          {
+            "name": "acetone",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "none specified",
+        "chemicals_used": "prepared analogously to 1 with Zn(NO3)2.xH2O",
+        "time": "analogous to 1",
+        "washing_method": "analogous to 1",
+        "drying_method": "analogous to 1",
+        "yield": "not specified",
+        "additional_notes": "Elemental analysis and IR data provided"
+      }
+    },
+    {
+      "material_id": "gas-adsorption measurements for 1",
+      "synthesis_conditions": {
+        "temperature": "25 °C",
+        "equipment": [
+          {
+            "name": "Cahn R-100 electrobalance",
+            "details": "contained within a SUS steel pressure chamber connected with two separate lines for evacuation and adsorbate gas pressurization"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "1 (anhydrous sample)",
+            "amount": "63.1 mg, 0.074 mmol"
+          }
+        ],
+        "time": "until additional weight loss was not observed",
+        "drying_method": "dried under reduced pressure",
+        "yield": "not specified",
+        "additional_notes": "The adsorbate gases (CH4, N2, O2) were dosed into the adsorption chamber, then the change of the weight of the sample was monitored. The entire adsorption isotherms were determined by increasing the adsorbate gas pressure to a maximum of 36 atm."
+      }
+    },
+    {
+      "material_id": "gas-adsorption measurements for 2 and 3",
+      "synthesis_conditions": {
+        "temperature": "not specified",
+        "equipment": "similar procedure to gas-adsorption measurements for 1",
+        "chemicals_used": "analogous to 1",
+        "time": "analogous to 1",
+        "drying_method": "analogous to 1",
+        "yield": "not specified",
+        "additional_notes": "The desorption isotherm was also obtained for CH4 adsorption on 1."
+      }
+    }
+  ]
+}

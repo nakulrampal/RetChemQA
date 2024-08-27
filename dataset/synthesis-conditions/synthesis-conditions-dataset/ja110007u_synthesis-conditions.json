@@ -1,0 +1,53 @@
+{
+  "materials": [
+    {
+      "material_name": "1",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "chemical": "DMDCNQI",
+              "amount": "4.6 mg",
+              "molar_amount": "0.025 mmol"
+            },
+            {
+              "chemical": "CH2Cl2",
+              "amount": "10 mL"
+            },
+            {
+              "chemical": "p-xylene and CH2Cl2 (1:1 v/v)",
+              "amount": "1 mL"
+            },
+            {
+              "chemical": "[Ru2(2,3,5,6-F4PhCO2)4(THF)2]",
+              "amount": "26 mg",
+              "molar_amount": "0.025 mmol"
+            },
+            {
+              "chemical": "p-xylene",
+              "amount": "10 mL"
+            }
+          ],
+          "solvents": [
+            {
+              "solvent": "CH2Cl2",
+              "amount": "10 mL"
+            },
+            {
+              "solvent": "p-xylene",
+              "amount": "10 mL"
+            }
+          ],
+          "equipment": "Schlenk-line techniques, commercial glovebox, narrow diameter sealed glass tubes",
+          "time": "one month or more",
+          "yield": "plate-shaped brown crystals",
+          "temperature": "room temperature",
+          "washing_method": "N/A",
+          "drying_method": "N/A",
+          "other_conditions": "slow diffusion allowed to occur"
+        }
+      ]
+    }
+  ]
+}

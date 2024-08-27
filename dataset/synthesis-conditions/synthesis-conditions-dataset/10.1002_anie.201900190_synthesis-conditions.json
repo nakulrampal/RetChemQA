@@ -1,0 +1,29 @@
+{
+  "materials": [
+    {
+      "name": "NKU-121",
+      "synthesis_conditions": [
+        {
+          "step": "General synthesis",
+          "chemicals_used": "Cd3(TPPA)2(NDA)3]·(DMF)10·(H2O)6, TPPA: tri(4-(pyridine-4-yl)phenyl)amine, NDA: 2,6-naphthalenedicarboxylic acid, DMF: N,N-dimethylformamide",
+          "temperature": "100 to 293 K for thermal expansion observations",
+          "pressure": "1 atm to 11.12 GPa for pressure-induced luminescence changes",
+          "solvents": "DMF, H2O",
+          "amount_of_solvents": "DMF:10, H2O:6 (molar ratio in the final compound)",
+          "equipment": "Diamond anvil cell (DAC) for high-pressure experiments",
+          "time": "Not specified",
+          "yield": "Not specified",
+          "washing_method": "Not specified",
+          "drying_method": "Not specified",
+          "additional_information": "The synthesis involves a gradual and reversible structural deformation under either thermal or pressure stimulation. The TPPA molecules, coordinately bound to the channel in a face-to-face arrangement, alter their conformation and arrangement in response to these stimuli."
+        },
+        {
+          "step": "Solvent-exchange method",
+          "description": "The solvent-exchange method was applied to treat the sample, successfully exchanging a considerable amount of original solvent molecules with some other common solvents.",
+          "solvents": "Various common solvents",
+          "results": "Although these solvent-exchanged crystals exhibited a slight change in the fluorescence signal, their stimuli-responsive luminescent character fully remained and was not strongly dependent on the nature of the solvent, including linear dependence on stimuli and reversibility."
+        }
+      ]
+    }
+  ]
+}

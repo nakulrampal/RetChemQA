@@ -1,0 +1,122 @@
+{
+  "data": [
+    {
+      "title": "Synthesis and Characterization of MOFs",
+      "paragraphs": [
+        {
+          "context": "The synthesis of MOFs involves combining metal ions with organic linkers to form crystalline materials. These materials, known as Metal-Organic Frameworks (MOFs), have been synthesized using various metals such as Cu, Zn, and Fe, and organic linkers like BDC, TDC, and others. The synthesis conditions, including the choice of metal, linker, solvent, and temperature, play a crucial role in determining the structure and properties of the resulting MOFs. MOFs have been named MOF-102 to MOF-112, each with unique structural characteristics.",
+          "qas": [
+            {
+              "question": "What are the key factors that influence the structure and properties of MOFs?",
+              "id": "1",
+              "answers": [
+                {
+                  "text": "The choice of metal, linker, solvent, and temperature",
+                  "answer_start": 293
+                }
+              ],
+              "type": "factual",
+              "difficulty": "medium"
+            },
+            {
+              "question": "How are MOFs named in the given text?",
+              "id": "2",
+              "answers": [
+                {
+                  "text": "MOF-102 to MOF-112",
+                  "answer_start": 504
+                }
+              ],
+              "type": "factual",
+              "difficulty": "easy"
+            },
+            {
+              "question": "What role does the synthesis condition play in the formation of MOFs?",
+              "id": "3",
+              "answers": [
+                {
+                  "text": "Determining the structure and properties of the resulting MOFs",
+                  "answer_start": 337
+                }
+              ],
+              "type": "reasoning",
+              "difficulty": "medium"
+            },
+            {
+              "question": "Are the synthesis conditions the same for all MOFs mentioned in the text?",
+              "id": "4",
+              "is_impossible": true,
+              "type": "True or False",
+              "difficulty": "easy"
+            },
+            {
+              "question": "Can the structure of MOFs be controlled by adjusting synthesis conditions?",
+              "id": "5",
+              "answers": [
+                {
+                  "text": "Yes",
+                  "answer_start": 337
+                }
+              ],
+              "type": "True or False",
+              "difficulty": "easy"
+            }
+          ]
+        },
+        {
+          "context": "The enumeration of default structures for linking squares into extended structures and polyhedra is crucial for the design of MOFs. By understanding the possible networks and incorporating specific geometric attributes into the building blocks, targeted networks can be synthesized. This approach has led to the successful synthesis of MOFs with structures based on default topologies such as the 44-grid motif, the 4.6.12 tiling structure, and others. The geometry of the organic linkers plays a significant role in determining the final structure of the MOFs.",
+          "qas": [
+            {
+              "question": "What is crucial for the design of MOFs according to the text?",
+              "id": "6",
+              "answers": [
+                {
+                  "text": "Enumeration of default structures for linking squares",
+                  "answer_start": 0
+                }
+              ],
+              "type": "factual",
+              "difficulty": "medium"
+            },
+            {
+              "question": "What role does the geometry of organic linkers play in MOF synthesis?",
+              "id": "7",
+              "answers": [
+                {
+                  "text": "Determining the final structure of the MOFs",
+                  "answer_start": 502
+                }
+              ],
+              "type": "reasoning",
+              "difficulty": "medium"
+            },
+            {
+              "question": "Can targeted networks be synthesized by understanding possible networks and incorporating specific geometric attributes?",
+              "id": "8",
+              "answers": [
+                {
+                  "text": "Yes",
+                  "answer_start": 147
+                }
+              ],
+              "type": "True or False",
+              "difficulty": "easy"
+            },
+            {
+              "question": "Is the 44-grid motif a default topology used in MOF synthesis?",
+              "id": "9",
+              "answers": [
+                {
+                  "text": "Yes",
+                  "answer_start": 308
+                }
+              ],
+              "type": "True or False",
+              "difficulty": "easy"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

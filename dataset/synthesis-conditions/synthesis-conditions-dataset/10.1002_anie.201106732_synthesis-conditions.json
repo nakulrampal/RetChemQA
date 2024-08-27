@@ -1,0 +1,56 @@
+{
+  "materials": [
+    {
+      "name": "CIAC-101",
+      "synthesis_conditions": {
+        "temperature": "130 8C",
+        "solvents": ["CHCl3", "CH3OH"],
+        "amount_of_each_solvent": ["5 mL", "5 mL"],
+        "equipment": "Teflon-lined autoclave",
+        "chemicals_used": [
+          {
+            "name": "p-tert-butylthiacalix[4]arene",
+            "amount": "0.07 g, 0.1 mmol"
+          },
+          {
+            "name": "CoCl2·6 H2O",
+            "amount": "0.1 g, 0.4 mmol"
+          },
+          {
+            "name": "1,3,5-benzenetricarboxylic acid",
+            "amount": "0.03 g, 0.15 mmol"
+          },
+          {
+            "name": "tetramethylammonium hydroxide solution (25 %)",
+            "amount": "0.5 mL"
+          }
+        ],
+        "time": "3 days",
+        "cooling_rate": "about 4 8C h-1",
+        "washing_method": "1:1 methanol/chloroform solution",
+        "yield": "ca. 70 % with respect to the calixarene"
+      }
+    },
+    {
+      "name": "CIAC-102",
+      "synthesis_conditions": {
+        "notes": "Prepared by analogous methods using corresponding calixarene and ternary carboxylic acid with the same feed ratio for CIAC-101 but with different solvents.",
+        "yield": "ca. 70 %"
+      }
+    },
+    {
+      "name": "CIAC-103",
+      "synthesis_conditions": {
+        "notes": "Prepared by analogous methods using corresponding calixarene and ternary carboxylic acid with the same feed ratio for CIAC-101 but with different solvents.",
+        "yield": "ca. 30 %"
+      }
+    },
+    {
+      "name": "CIAC-104",
+      "synthesis_conditions": {
+        "notes": "Prepared by analogous methods using corresponding calixarene and ternary carboxylic acid with the same feed ratio for CIAC-101 but with different solvents.",
+        "yield": "ca. 30 %"
+      }
+    }
+  ]
+}

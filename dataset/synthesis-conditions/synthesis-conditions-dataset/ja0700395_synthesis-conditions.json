@@ -1,0 +1,62 @@
+{
+  "materials": [
+    {
+      "material": "1",
+      "synthesis_conditions": [
+        {
+          "temperature": "70 °C for 16 h and then 85 °C for 4 h",
+          "solvents": [
+            {
+              "name": "N,N-dimethylformamide (DMF)",
+              "amount": "20 mL"
+            }
+          ],
+          "equipment": "Pyrex glass jar",
+          "chemicals_used": [
+            {
+              "name": "4,4‘-Stilbenedicarboxylic acid (LH2)",
+              "amount": "71.3 mg"
+            },
+            {
+              "name": "Zn(NO3)2·6H2O",
+              "amount": "209.2 mg",
+              "mole_ratio": "3:1 mole ratio of metal to linker"
+            }
+          ],
+          "washing_method": "washed three times with fresh DMF and three times with chloroform",
+          "drying_method": "dried at 65 °C in vacuo for 6 h",
+          "yield": "75.2 mg (74% based on LH2)"
+        }
+      ]
+    },
+    {
+      "material": "2",
+      "synthesis_conditions": [
+        {
+          "temperature": "105 °C for 16 h",
+          "solvents": [
+            {
+              "name": "N,N-Diethylformamide (DEF)",
+              "amount": "20 mL"
+            }
+          ],
+          "equipment": "Pyrex glass jar",
+          "chemicals_used": [
+            {
+              "name": "4,4‘-Stilbenedicarboxylic acid (LH2)",
+              "amount": "30.7 mg"
+            },
+            {
+              "name": "Zn(NO3)2·6H2O",
+              "amount": "209.2 mg",
+              "mole_ratio": "6:1 mole ratio of metal to linker"
+            }
+          ],
+          "washing_method": "washed with chloroform three times",
+          "drying_method": "stored in chloroform until ready for use",
+          "yield": "33.8 mg (70% based on LH2)"
+        }
+      ]
+    }
+  ]
+}

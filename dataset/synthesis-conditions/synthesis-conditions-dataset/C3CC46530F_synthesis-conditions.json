@@ -1,0 +1,89 @@
+{
+  "materials": [
+    {
+      "name": "Tb(TTCA)(DMA)(H2O)·7DMA·9.5H2O (1)",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "time": "72 h",
+        "solvents": [
+          {
+            "name": "DMA",
+            "amount": "8.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Tb(NO3)3·6H2O",
+            "amount": "0.045 g, 0.1 mmol"
+          },
+          {
+            "name": "H3TTCA",
+            "amount": "0.018 g, 0.05 mmol"
+          },
+          {
+            "name": "triethylamine",
+            "amount": "1 drop"
+          }
+        ],
+        "equipment": "sealed Teflon-lined autoclave",
+        "yield": "30 %",
+        "analysis": {
+          "elemental_analysis": {
+            "C": "Found: 45.92",
+            "H": "Found: 6.30",
+            "N": "Found: 7.33"
+          },
+          "IR_spectra": "3404 (s), 1614 (vs), 1546 (m), 1421 (s), 1389 (vs), 1329 (m), 1295 (w), 1262 (w), 1022 (m), 899 (w), 792 (m), 770 (s), 595 (m), 493 (m)"
+        }
+      }
+    },
+    {
+      "name": "[Tb(TTCA)(MeOH)2(H2O)]·27MeOH (1a)",
+      "synthesis_conditions": {
+        "preparation_method": "Crystals of 1 were immersed in methanol for 7 days, with the guest solutions refreshed two times daily."
+      },
+      "analysis": {
+        "elemental_analysis": {
+          "C": "Found: 44.42",
+          "H": "Found: 5.36"
+        }
+      }
+    },
+    {
+      "name": "[Tb(TTCA)(EtOH)(H2O)]·17.5EtOH (1b)",
+      "synthesis_conditions": {
+        "preparation_method": "Crystals of 1 were immersed in ethanol for 7 days, with the guest solutions refreshed two times daily."
+      },
+      "analysis": {
+        "elemental_analysis": {
+          "C": "Found: 49.23",
+          "H": "Found: 5.95"
+        }
+      }
+    },
+    {
+      "name": "[Tb(TTCA)(PrOH)(H2O)]·11PrOH (1c)",
+      "synthesis_conditions": {
+        "preparation_method": "Crystals of 1 were immersed in 1-propanol for 7 days, with the guest solutions refreshed two times daily."
+      },
+      "analysis": {
+        "elemental_analysis": {
+          "C": "Found: 52.72",
+          "H": "Found: 6.36"
+        }
+      }
+    },
+    {
+      "name": "[Tb(TTCA)(BuOH)(H2O)]·6.33BuOH (1d)",
+      "synthesis_conditions": {
+        "preparation_method": "Crystals of 1 were immersed in 1-butanol for 7 days, with the guest solutions refreshed two times daily."
+      },
+      "analysis": {
+        "elemental_analysis": {
+          "C": "Found: 53.13",
+          "H": "Found: 6.56"
+        }
+      }
+    }
+  ]
+}

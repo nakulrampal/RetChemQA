@@ -1,0 +1,159 @@
+{
+  "materials": [
+    {
+      "name": "HB(4-methylimidazolate)4",
+      "synthesis_conditions": {
+        "temperature": "reflux for 20 hours",
+        "solvents": [
+          {
+            "name": "anhydrous toluene",
+            "amount": "80 mL"
+          },
+          {
+            "name": "dry hexane",
+            "amount": "3×20 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "B(NMe2)3",
+            "amount": "6.533g (0.0456mmol)"
+          },
+          {
+            "name": "4-methylimidazole",
+            "amount": "15.000g (0.1827mol)"
+          }
+        ],
+        "yield": "68.71%",
+        "drying_method": "dried under reduced pressure at room temperature",
+        "equipment": "Schlenk techniques"
+      }
+    },
+    {
+      "name": "HB(benzimidazolate)4",
+      "synthesis_conditions": {
+        "reference": "reported literature1"
+      }
+    },
+    {
+      "name": "LiB(4-methylimidazolate)4·solvent",
+      "synthesis_conditions": {
+        "temperature": "120ºC for 4 days",
+        "solvents": [
+          {
+            "name": "(±)-2-amino-1-butanol",
+            "amount": "2.590g"
+          },
+          {
+            "name": "benzene",
+            "amount": "3.576g"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "HB(4-methylimidazolate)4",
+            "amount": "155.0mg (0.461mmol)"
+          },
+          {
+            "name": "Lithium dicyclohexylamide",
+            "amount": "471.8.mg (2.520mmol)"
+          }
+        ],
+        "yield": "16.6%",
+        "washing_method": "washed using acetonitrile two times",
+        "drying_method": "dried at 85oC in air"
+      }
+    },
+    {
+      "name": "CuB(4-methylimidazolate)4·solvent",
+      "synthesis_conditions": {
+        "temperature": "85ºC for 8 days",
+        "solvents": [
+          {
+            "name": "(±)-2-amino-1-butanol",
+            "amount": "3.619g"
+          },
+          {
+            "name": "benzene",
+            "amount": "6.501g"
+          },
+          {
+            "name": "acetonitrile",
+            "amount": "1.523g"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "HB(4-methylimidazolate)4",
+            "amount": "72.1mg (0.214mmol)"
+          },
+          {
+            "name": "CuI",
+            "amount": "74.5mg (0.391mmol)"
+          }
+        ],
+        "yield": "36.35%",
+        "washing_method": "washed using acetonitrile five times",
+        "drying_method": "dried at 85oC in air"
+      }
+    },
+    {
+      "name": "LiB(benzimidazolate)4",
+      "synthesis_conditions": {
+        "temperature": "150ºC for 5 days",
+        "solvents": [
+          {
+            "name": "(±)-2-amino-1-butanol",
+            "amount": "2.587g"
+          },
+          {
+            "name": "acetonitrile",
+            "amount": "1.761g"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "HB(benzimidazolate)4",
+            "amount": "178.1mg (0.335mmol)"
+          },
+          {
+            "name": "Li2S",
+            "amount": "92.4mg (2.153mmol)"
+          }
+        ],
+        "yield": "9.34%"
+      }
+    },
+    {
+      "name": "CuB(benzimidazolate)4",
+      "synthesis_conditions": {
+        "temperature": "85ºC for 6 days",
+        "solvents": [
+          {
+            "name": "(±)-2-amino-1-butanol",
+            "amount": "3.246g"
+          },
+          {
+            "name": "acetone",
+            "amount": "2.480g"
+          },
+          {
+            "name": "benzene",
+            "amount": "6.649g"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "HB(benzimidazolate)4",
+            "amount": "71.1mg (0.134mmol)"
+          },
+          {
+            "name": "CuI",
+            "amount": "76.2mg (0.4001mmol)"
+          }
+        ],
+        "yield": "14.16%"
+      }
+    }
+  ]
+}

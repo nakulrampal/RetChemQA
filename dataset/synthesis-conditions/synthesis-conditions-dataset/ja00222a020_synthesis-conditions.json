@@ -1,0 +1,68 @@
+{
+  "materials": [
+    {
+      "material": "compound 2a (X = Cl)",
+      "synthesis_conditions": {
+        "formula_weight": "373.5",
+        "crystal_system": "monoclinic",
+        "space_group": "P21/n",
+        "unit_cell_dimensions": {
+          "a": "12.886(4) A",
+          "b": "16.551(2) A",
+          "c": "8.123(2) A",
+          "alpha": "90",
+          "beta": "107.67(2)",
+          "gamma": "90"
+        },
+        "volume": "1650.8(7) A^3",
+        "Z": "4",
+        "Dx": "1.503 g cm^-3",
+        "crystal_size": "0.2 x 0.08 x 0.15 mm",
+        "diffractometer": "Rigaku AFC-5 (40 kv, 200 mA)",
+        "radiation": "CuKa (lambda = 1.54178 A)",
+        "scan_method": "2 theta - omega",
+        "temperature": "-110 °C",
+        "unique_reflections_measured": "2380",
+        "observed_reflections": "2182",
+        "structure_determination_method": "Heavy atom method",
+        "refinement_parameters": {
+          "positional_parameters": "Coordinates and anisotropic temperature factors for non-H atoms refined",
+          "hydrogen_atoms": "Calculated positions of non-methyl H-atoms were included only in structure factor calculations and not refined",
+          "B_factors": "The B's of H-atoms were set to 3.5 A^2"
+        }
+      }
+    },
+    {
+      "material": "compound 2a (X = F)",
+      "synthesis_conditions": {
+        "formula_weight": "357.0",
+        "crystal_system": "monoclinic",
+        "space_group": "P2/c",
+        "unit_cell_dimensions": {
+          "a": "14.095(5) A",
+          "b": "13.561(4) A",
+          "c": "8.465(3) A",
+          "alpha": "90",
+          "beta": "98.92(2)",
+          "gamma": "90"
+        },
+        "volume": "1598.6(9) A^3",
+        "Z": "4",
+        "Dx": "1.484 g cm^-3",
+        "crystal_size": "0.3 x 0.2 x 0.15 mm",
+        "diffractometer": "Rigaku AFC-5 (55 kv, 200 mA)",
+        "radiation": "MoKa (lambda = 0.71069 A)",
+        "scan_method": "omega-2theta",
+        "temperature": "295 K",
+        "unique_reflections_measured": "3037",
+        "observed_reflections": "2480",
+        "structure_determination_method": "Heavy atom method",
+        "refinement_parameters": {
+          "positional_parameters": "Positional ones for non-H atoms",
+          "thermal_parameters": "Anisotropic thermal ones for non-H atoms",
+          "hydrogen_atoms": "All the H atoms were not located."
+        }
+      }
+    }
+  ]
+}

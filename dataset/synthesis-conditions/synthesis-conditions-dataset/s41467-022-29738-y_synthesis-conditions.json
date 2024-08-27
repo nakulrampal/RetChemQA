@@ -1,0 +1,77 @@
+{
+  "materials": [
+    {
+      "material_name": "U-CB[8]-MPyVB",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "time": "48 hours",
+        "solvents": [
+          {
+            "solvent_name": "deionized water",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "15 mL polytetrafluoroethylene hydrothermal reactor",
+        "chemicals_used": [
+          {
+            "chemical_name": "[HMPyVB]I",
+            "amount": "18.3 mg",
+            "molarity": "0.05 mmol"
+          },
+          {
+            "chemical_name": "CB[8]",
+            "amount": "33.2 mg",
+            "molarity": "0.025 mmol"
+          },
+          {
+            "chemical_name": "uranyl nitrate solution",
+            "amount": "140 μL",
+            "concentration": "0.5 M"
+          }
+        ],
+        "washing_method": "washed with deionized water (10 mL) for three times",
+        "drying_method": "dried in vacuum",
+        "yield": "35.5 mg, 49.7%",
+        "additional_information": "Ultrasonic vibration for 5 min before heating"
+      }
+    },
+    {
+      "material_name": "U-CB[8]-MPyVB-A",
+      "synthesis_conditions": {
+        "temperature": "ambient",
+        "time": "2 hours",
+        "solvents": [],
+        "equipment": "UV lamp (365 nm, power of 6 W)",
+        "chemicals_used": [
+          {
+            "chemical_name": "U-CB[8]-MPyVB",
+            "amount": "50.0 mg"
+          }
+        ],
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "The sample was grounded well in a mortar and spread flat on the bottom of the beaker before irradiation."
+      }
+    },
+    {
+      "material_name": "U-CB[8]-MPyVB-Int",
+      "synthesis_conditions": {
+        "temperature": "ambient",
+        "time": "10 minutes",
+        "solvents": [],
+        "equipment": "UV lamp (365 nm, power of 6 W)",
+        "chemicals_used": [
+          {
+            "chemical_name": "U-CB[8]-MPyVB",
+            "amount": "Not specified"
+          }
+        ],
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "Intermediate state obtained after shorter UV irradiation."
+      }
+    }
+  ]
+}

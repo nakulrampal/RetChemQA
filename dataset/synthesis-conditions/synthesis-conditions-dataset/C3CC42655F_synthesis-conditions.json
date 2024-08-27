@@ -1,0 +1,94 @@
+{
+  "materials": [
+    {
+      "name": "2-chloro-3,3'-bipyridine (1)",
+      "synthesis_conditions": {
+        "temperature": "reflux",
+        "solvents": [
+          {"name": "toluene", "amount": "120 mL"},
+          {"name": "water", "amount": "30 mL"}
+        ],
+        "equipment": "300 mL two-necked flask equipped with three-way stopcock and a magnetic stirring bar",
+        "chemicals_used": [
+          {"name": "2-chloro-3-bromopyridine", "amount": "2.13 g, 11.1 mmol"},
+          {"name": "3-pyridineboronic acid", "amount": "2.32 g, 18.9 mmol"},
+          {"name": "sodium carbonate", "amount": "8.32 g, 78.9 mmol"},
+          {"name": "PdCl2(dppf)·CH2Cl2", "amount": "1.28 g, 1.57 mmol"}
+        ],
+        "time": "44 h",
+        "washing_method": "extracted with EtOAc (50 mL  × 3)",
+        "drying_method": "dried over Na2SO4",
+        "yield": "65%"
+      }
+    },
+    {
+      "name": "2-chloro-1,1'-dimethyl-[3,3'-bipyridine]-1,1'-diium bis(tetrafluoroborate) (2)",
+      "synthesis_conditions": {
+        "temperature": "60 °C",
+        "solvents": [
+          {"name": "acetonitrile", "amount": "10 mL"}
+        ],
+        "equipment": "100mL two-necked flask equipped with three-way stopcock and a magnetic stirring bar",
+        "chemicals_used": [
+          {"name": "1", "amount": "600 mg, 3.15 mmol"},
+          {"name": "(CH3)3OBF4", "amount": "2.80 g, 18.9 mmol"}
+        ],
+        "time": "14 h",
+        "washing_method": "washed with THF",
+        "recrystallization_solvents": ["acetonitrile", "Et2O"],
+        "yield": "57%"
+      }
+    },
+    {
+      "name": "monodentate 2-pyridylidene palladium complex (3)",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {"name": "THF", "amount": "20 mL"}
+        ],
+        "equipment": "50-mL glass vessel equipped with J. Young® O-ring tap containing a magnetic stirring bar",
+        "chemicals_used": [
+          {"name": "2", "amount": "62.0 mg, 160 µmol"},
+          {"name": "tetrakis(triphenylphosphine)palladium", "amount": "200 mg, 176 µmol"}
+        ],
+        "time": "48 h",
+        "recrystallization_solvents": ["acetonitrile", "Et2O"],
+        "yield": "71%"
+      }
+    },
+    {
+      "name": "bidentate 2-pyridylidene palladium complex (4) from 3",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {"name": "dry methanol", "amount": "3.0 mL"}
+        ],
+        "equipment": "20-mL glass vessel equipped with J. Young® O-ring tap containing a magnetic stirring bar",
+        "chemicals_used": [
+          {"name": "3", "amount": "30.0 mg, 290 µmol"},
+          {"name": "Na2CO3", "amount": "24.0 mg, 1.45 mmol"}
+        ],
+        "time": "10 h",
+        "recrystallization_solvents": ["MeOH", "Et2O"],
+        "yield": "58%"
+      }
+    },
+    {
+      "name": "bidentate 2-pyridylidene palladium complex (4) from 2",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {"name": "dry THF", "amount": "5.0 mL"}
+        ],
+        "equipment": "20-mL glass vessel equipped with J. Young® O-ring tap containing a magnetic stirring bar",
+        "chemicals_used": [
+          {"name": "2", "amount": "15.5 mg, 40.0 µmol"},
+          {"name": "Pd(PPh3)4", "amount": "50.0 mg, 44.0 µmol"},
+          {"name": "Cs2CO3", "amount": "65.2 mg, 20.0 µmol"}
+        ],
+        "time": "12 h",
+        "yield": "70% (estimated by 1H NMR spectroscopy)"
+      }
+    }
+  ]
+}

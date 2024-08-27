@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the general synthetic procedure for the synthesis of M+ B[(CN)·B(C6F5)3]4−, M+ C[(CN)·B(C6F5)3]3− and M+ N[(CN)·B(C6F5)3]2− salts?",
+      "answer": "For the synthesis of M+ B[(CN)·B(C6F5)3]4−, M+ C[(CN)·B(C6F5)3]3− and M+ N[(CN)·B(C6F5)3]2− (M = alkali metal, Ag, NMe4, EMIM, BMIM) salts: To a solution of B(C6F5)3 (3−5-fold excess) in diethyl ether was added the cyanide salt. After stirring for 30 min a colorless solution was observed. Removal of the solvent led to a white solid, which was washed three times with 20 mL of n-hexane (removal of the B(C6F5)3 excess), and dried in vacuo. The products were obtained as colorless powders. Recrystallization from diethyl ether yields pure colorless crystals. Included solvents molecules can be removed by thermal treatment at 50−60 °C in vacuo.",
+      "difficulty": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "What are the crystallographic details of K[tcb_2b] and EMIM[tcb_3b]?",
+      "answer": "For K[tcb_2b], a = 14.89(2) Å, b = 15.82(2) Å, c = 25.22(3) Å, α = 88.40(2)°, β = 89.30(3)°, γ = 88.54(2)°, V = 5935(1) Å3, Z = 4. For EMIM[tcb_3b], a = 15.320(1) Å, b = 15.821(1) Å, c = 29.884(1) Å, α = 96.600(2)°, β = 100.983(4)°, γ = 106.259(4)°, V = 6716.4(1) Å3, Z = 2.",
+      "difficulty": "Hard",
+      "type": "Factual"
+    },
+    {
+      "question": "What is the role of B(C6F5)3 in the synthesis of weakly coordinating anions based on CN adducts?",
+      "answer": "B(C6F5)3 acts as a strong Lewis acid that coordinates to strongly coordinating anions such as dicyanoamide, tricyanomethanide, and tetracyanoborate to form bulky, very weakly coordinating anions. This coordination leads to the formation of adduct anions such as [N(CN·B(C6F5)3)2]− (dca_2b), [C(CN·B(C6F5)3)3]− (tcm_3b), and [B(CN·B(C6F5)3)4]− (tcb_4b), which are isolated as stable alkali and silver salts.",
+      "difficulty": "Medium",
+      "type": "Reasoning"
+    },
+    {
+      "question": "What computational methods were used to compare the structures and energetics of differently substituted adduct anions?",
+      "answer": "The structures and energetics of differently substituted adduct anions were compared using hybrid density functional theory (B3LYP) with the Gaussian03 program package. Three different types of basis sets were used for the adduct free anions: 6-31+G(d), aug-cc-pVDZ, and 6-311+G(2df). MP2 calculations were also carried out for methanide anions only.",
+      "difficulty": "Hard",
+      "type": "Factual"
+    },
+    {
+      "question": "How does the coordination of B(C6F5)3 to cyano groups affect the C−N bond lengths and νCN stretching frequencies?",
+      "answer": "The coordination of B(C6F5)3 to cyano groups leads to a measurable strengthening of the cyano triple bonds, as indicated by shorter C−N bond lengths and a considerable shift of the νCN stretching frequencies to higher wave numbers. This bond contraction and frequency shift are compatible for both experimental and computational data, indicating that electrostatic interactions dominate the bonding in such donor−acceptor complexes.",
+      "difficulty": "Hard",
+      "type": "Reasoning"
+    },
+    {
+      "question": "What are the estimated ion volumes for K+, Ag+, and Li+ according to the VBT theory?",
+      "answer": "According to the VBT theory, the estimated ion volumes for K+, Ag+, and Li+ are 14.4 Å3, 3.9 Å3, and 1.6 Å3, respectively. These volumes are derived from radii found in the range of 1.33 (Goldschmidt) to 1.51 Å (Shannon) for K+, and internally consistent ion volumes published by Jenkins and Glasser, which is 27.7 Å3 for K+.",
+      "difficulty": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "What is the significance of the charge transfer values obtained from NBO analysis for the adduct anions?",
+      "answer": "The charge transfer values obtained from NBO analysis for the adduct anions indicate the extent of electron transfer from the anion core to the attached B(C6F5)3 groups. Values between 0.33 and 0.42 e per B(C6F5)3 group suggest that the anion charge is strongly delocalized over the adduct anion, making these anions very weakly coordinating. For some adduct anions, more than one electron is transferred, indicating that the anion cores are positively charged, further emphasizing the weak coordinating nature of these anions.",
+      "difficulty": "Hard",
+      "type": "Reasoning"
+    },
+    {
+      "question": "True or False: The computational study was carried out for single, isolated (gas-phase) anions, which may result in significant differences in structural data and energetics compared to solution and solid-state results.",
+      "answer": "True",
+      "difficulty": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis of weakly coordinating anions based on CN adducts does not involve the use of B(C6F5)3 as a Lewis acid.",
+      "answer": "False",
+      "difficulty": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The coordination of B(C6F5)3 to cyano groups has no effect on the C−N bond lengths and νCN stretching frequencies.",
+      "answer": "False",
+      "difficulty": "Easy",
+      "type": "True or False"
+    }
+  ]
+}

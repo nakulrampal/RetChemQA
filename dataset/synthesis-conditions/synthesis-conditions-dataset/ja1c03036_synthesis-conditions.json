@@ -1,0 +1,170 @@
+{
+  "materials": [
+    {
+      "name": "UiO-66",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "50 mL"
+          },
+          {
+            "name": "formic acid",
+            "amount": "3.5 mL"
+          }
+        ],
+        "equipment": "teflon lined bomb",
+        "chemicals_used": [
+          {
+            "name": "terephthalic acid",
+            "amount": "125 mg"
+          },
+          {
+            "name": "zirconium tetrachloride",
+            "amount": "167 mg"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": [
+          {
+            "solvent": "DMF",
+            "times": "4",
+            "duration": "24 h"
+          },
+          {
+            "solvent": "acetone",
+            "times": "6",
+            "duration": "48 h"
+          }
+        ],
+        "drying_method": "dynamic vacuum"
+      }
+    },
+    {
+      "name": "UiO-66-NH2",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "50 mL"
+          },
+          {
+            "name": "formic acid",
+            "amount": "3.5 mL"
+          }
+        ],
+        "equipment": "teflon lined bomb",
+        "chemicals_used": [
+          {
+            "name": "2-aminoterephthalic acid",
+            "amount": "125 mg"
+          },
+          {
+            "name": "zirconium tetrachloride",
+            "amount": "167 mg"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": [
+          {
+            "solvent": "DMF",
+            "times": "4",
+            "duration": "24 h"
+          },
+          {
+            "solvent": "acetone",
+            "times": "6",
+            "duration": "48 h"
+          }
+        ],
+        "drying_method": "dynamic vacuum"
+      }
+    },
+    {
+      "name": "Cu/UiO-66",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "10 mL"
+          }
+        ],
+        "equipment": "sonication and heating",
+        "chemicals_used": [
+          {
+            "name": "UiO-66",
+            "amount": "500 mg"
+          },
+          {
+            "name": "CuCl2",
+            "amount": "500 mg"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": [
+          {
+            "solvent": "DMF",
+            "times": "4",
+            "duration": "24 h"
+          },
+          {
+            "solvent": "acetone",
+            "times": "6",
+            "duration": "48 h"
+          }
+        ],
+        "drying_method": "dynamic vacuum",
+        "reduction_conditions": {
+          "temperature": "250 °C",
+          "atmosphere": "5% H2 in Ar",
+          "time": "2 h"
+        }
+      }
+    },
+    {
+      "name": "Cu/ZrO2",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "10 mL"
+          }
+        ],
+        "equipment": "sonication and heating",
+        "chemicals_used": [
+          {
+            "name": "ZrO2",
+            "amount": "500 mg"
+          },
+          {
+            "name": "CuCl2",
+            "amount": "500 mg"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": [
+          {
+            "solvent": "DMF",
+            "times": "4",
+            "duration": "24 h"
+          },
+          {
+            "solvent": "acetone",
+            "times": "6",
+            "duration": "48 h"
+          }
+        ],
+        "drying_method": "dynamic vacuum",
+        "reduction_conditions": {
+          "temperature": "250 °C",
+          "atmosphere": "5% H2 in Ar",
+          "time": "2 h"
+        }
+      }
+    }
+  ]
+}

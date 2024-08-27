@@ -1,0 +1,86 @@
+{
+  "materials": [
+    {
+      "name": "(R)-AlaNDI-Zn",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "3 mL"
+          }
+        ],
+        "equipment": "sealed stainless-steel tube with a Teﬂon liner",
+        "chemicals_used": [
+          {
+            "name": "ZnI2",
+            "amount": "0.1 mmol"
+          },
+          {
+            "name": "(R)-H2AlaNDI",
+            "amount": "0.1 mmol"
+          }
+        ],
+        "time": "72 h",
+        "yield": "27%",
+        "washing_method": "washed with DMF"
+      }
+    },
+    {
+      "name": "(S)-AlaNDI-Zn",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "3 mL"
+          }
+        ],
+        "equipment": "sealed stainless-steel tube with a Teﬂon liner",
+        "chemicals_used": [
+          {
+            "name": "ZnI2",
+            "amount": "0.1 mmol"
+          },
+          {
+            "name": "(S)-H2AlaNDI",
+            "amount": "0.1 mmol"
+          }
+        ],
+        "time": "72 h",
+        "yield": "29%",
+        "washing_method": "washed with DMF"
+      }
+    },
+    {
+      "name": "(Rac)-AlaNDI-Zn",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "3 mL"
+          }
+        ],
+        "equipment": "sealed stainless-steel tube with a Teﬂon liner",
+        "chemicals_used": [
+          {
+            "name": "ZnI2",
+            "amount": "0.1 mmol"
+          },
+          {
+            "name": "(R)-H2AlaNDI",
+            "amount": "0.05 mmol"
+          },
+          {
+            "name": "(S)-H2AlaNDI",
+            "amount": "0.05 mmol"
+          }
+        ],
+        "time": "72 h",
+        "yield": "21%",
+        "washing_method": "washed with DMF"
+      }
+    }
+  ]
+}

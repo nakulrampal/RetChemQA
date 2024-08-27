@@ -1,0 +1,78 @@
+{
+  "materials": [
+    {
+      "name": "Ni(DPA)2",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation",
+          "details": {
+            "method": "modified hydrothermal method",
+            "temperature": "65 °C",
+            "temperature_ramp": "2 °C/min",
+            "duration": "24 h",
+            "cooling_rate": "0.5 °C/min",
+            "solvents": [
+              {
+                "name": "deionized water",
+                "amount": "5 mL"
+              },
+              {
+                "name": "1,1,1,3,3,3-hexafluoro-2-propanol (HFP)",
+                "amount": "40 μL"
+              }
+            ],
+            "chemicals": [
+              {
+                "name": "Ni(NO3)2",
+                "amount": "21 μL of 1 M aqueous solution"
+              },
+              {
+                "name": "NaOH",
+                "amount": "15 μL of 1 M aqueous solution"
+              }
+            ],
+            "atmosphere": "ambient",
+            "ph_initial": "4.3",
+            "ph_final": "between 5.9 and 9.0"
+          }
+        },
+        {
+          "step": "Preparation of plate-like MCs",
+          "details": {
+            "temperature": "80 °C",
+            "duration": "24 h"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ni(DPA)2",
+      "synthesis_conditions": [
+        {
+          "step": "Single-Crystal X-ray Diffraction Data Collection",
+          "details": {
+            "temperature": "100 K",
+            "equipment": "Bruker D8 Venture",
+            "atmosphere": "100 K nitrogen flow"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ni(DPA)2",
+      "synthesis_conditions": [
+        {
+          "step": "PXRD",
+          "details": {
+            "temperature": "296 K",
+            "equipment": "Bruker D8 Advance diffractometer",
+            "radiation": "Cu Kα (λα = 1.54184 Å)",
+            "scanning_range": "5° < 2θ < 40°",
+            "scanning_step_size": "0.019°",
+            "duration": "1.5 h"
+          }
+        }
+      ]
+    }
+  ]
+}

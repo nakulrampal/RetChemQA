@@ -1,0 +1,113 @@
+{
+  "materials": [
+    {
+      "name": "TPHN-MOF",
+      "synthesis_conditions": {
+        "temperature": "100 ºC",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "10 mg"
+          },
+          {
+            "name": "H2TPHN",
+            "amount": "20 mg"
+          },
+          {
+            "name": "trifluoroacetic acid",
+            "amount": "0.1 mL"
+          }
+        ],
+        "time": "5 days",
+        "yield": "84%",
+        "drying_method": "vacuum at 100 °C overnight"
+      }
+    },
+    {
+      "name": "TPHN-MOF-MgMe",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Me2Mg",
+            "amount": "2.5 mg"
+          },
+          {
+            "name": "TPHN-MOF",
+            "amount": "15.0 mg"
+          }
+        ],
+        "time": "4 h",
+        "washing_method": "washed with THF 5-8 times",
+        "storage_conditions": "stored in THF in the glovebox",
+        "metal_loading": "100% Mg-loading with respect to Zr3(μ3-OH) sites based on ICP-MS analysis"
+      }
+    },
+    {
+      "name": "Hydroboration products",
+      "synthesis_conditions": {
+        "temperature": "23 °C",
+        "solvents": [
+          {
+            "name": "hexanes",
+            "amount": "1.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "TPHN-MOF-MgMe",
+            "amount": "1.0 mg, 0.05 mol % Mg"
+          },
+          {
+            "name": "4-methoxyacetophenone",
+            "amount": "0.174 g, 1.16 mmol"
+          },
+          {
+            "name": "pinacolborane",
+            "amount": "0.164 g, 1.28 mmol"
+          }
+        ],
+        "time": "2 days",
+        "yield": "98.0%",
+        "drying_method": "concentrated in vacuo"
+      }
+    },
+    {
+      "name": "Hydroamination products",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "benzene",
+            "amount": "0.7 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "TPHN-MOF-MgMe",
+            "amount": "1.0 mg, 1 mol % Mg"
+          },
+          {
+            "name": "2,2-diphenyl-4-penten-1-amine",
+            "amount": "23.0 mg, 0.097 mmol"
+          }
+        ],
+        "time": "2 days",
+        "yield": "94.0%",
+        "drying_method": "concentrated in vacuo"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "materials": [
+    {
+      "name": "3D cationic Cu-based MOF {[CuICu4II(XN)4(PTA)4(H2O)4]0.5 SO4·5 H2O·EtOH}n (1)",
+      "synthesis_conditions": {
+        "method": "solvothermal",
+        "ligands": [
+          {
+            "name": "2,4,6-tris(4-pyridyl)pyridine",
+            "abbreviation": "XN"
+          },
+          {
+            "name": "terephthalic acid",
+            "abbreviation": "PTA"
+          }
+        ],
+        "metal_centers": [
+          {
+            "name": "copper",
+            "oxidation_states": ["+1", "+2"]
+          }
+        ],
+        "crystal_system": "tetragonal",
+        "space_group": "P4/nmm",
+        "geometry": [
+          {
+            "Cu1": "slightly distorted square geometry",
+            "Cu2": "Johnson square pyramid geometry"
+          }
+        ],
+        "cage_types": [
+          {
+            "name": "[Cu8]",
+            "description": "prismatic cage",
+            "dimensions": "14.8 X 14.8 X 10.5 c3"
+          },
+          {
+            "name": "[Cu18]",
+            "description": "octagonal prism",
+            "dimensions": "26.6 X 26.6 X 10.5 c3"
+          }
+        ],
+        "interlocking_structure": "quadruply interlocked structure",
+        "topology": "(3,4,4)-connected framework",
+        "stability": {
+          "thermal": "up to 255 88C",
+          "acid_base": "pH 3 to 10",
+          "solvent": "high"
+        },
+        "anion_exchange_capacity": {
+          "CrO42-": "83.2 mg g-1",
+          "ReO4-": "218 mg g-1"
+        },
+        "catalytic_activity": {
+          "reaction": "enamination of b-ketoesters",
+          "conditions": {
+            "temperature": "25 88C",
+            "time": "0.5 h",
+            "catalyst_amount": "5 mg"
+          },
+          "turnover_frequency": "4000 h-1",
+          "recyclability": "at least ten times without obvious loss in catalytic activity"
+        }
+      }
+    }
+  ]
+}

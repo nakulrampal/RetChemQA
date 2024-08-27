@@ -1,0 +1,39 @@
+{
+  "DMOF-TM": {
+    "synthesis_conditions": {
+      "temperature": "120 °C",
+      "solvents": "DMF",
+      "amount_of_solvent": "15 ml",
+      "equipment": "Teflon-lined stainless-steel reactor",
+      "chemicals_used": {
+        "Zn(NO3)2·6H2O": "189 mg",
+        "2,3,5,6-tetramethyl-1,4-benzenedicarboxylic acid (BDC-TM)": "140 mg",
+        "1,4-diazabicyclo[2.2.2]octane (DABCO)": "35 mg"
+      },
+      "time": "48 h",
+      "washing_method": "repeatedly washed with DMF",
+      "drying_method": "allowed to cool to room temperature in air",
+      "yield": "Not specified"
+    },
+    "sample_preparation_for_in_situ_powder_diffraction": {
+      "solvents": "methanol",
+      "grinding": "lightly ground using a mortar and pestle"
+    },
+    "synthesis_procedure_for_single_crystal_DMOF-TM_samples": {
+      "temperature": "100 °C",
+      "solvents": "DMF",
+      "amount_of_solvent": "20 ml",
+      "equipment": "15 ml thick-walled glass pressure vessels",
+      "chemicals_used": {
+        "2,3,4,5-tetramethylterephthtalic acid": "22 mg",
+        "1,4-diazabicyclo[2.2.2]octane (DABCO)": "6 mg",
+        "HCl": "8 μl",
+        "Zn(NO3)2∙6H2O": "30 mg"
+      },
+      "time": "3 days",
+      "washing_method": "washed with fresh DMF, then solvent exchanged with CHCl3",
+      "drying_method": "solvent exchanged with CHCl3 for at least four days prior to data collection",
+      "yield": "Not specified"
+    }
+  }
+}

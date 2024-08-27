@@ -1,0 +1,67 @@
+{
+  "materials": [
+    {
+      "material_id": "3",
+      "synthesis_conditions": {
+        "temperature": "reflux overnight",
+        "solvents": [
+          {
+            "name": "pyridine",
+            "amount": "40 ml"
+          }
+        ],
+        "equipment": "2-neck round bottom flask",
+        "chemicals_used": [
+          {
+            "name": "1,4,5,8-naphthalenetetracarboxydianhydride",
+            "amount": "400 mg, 1.49 mmol"
+          },
+          {
+            "name": "5-aminoquinoline",
+            "amount": "472 mg, 3.27 mmol"
+          }
+        ],
+        "washing_method": "acetone and hexanes",
+        "drying_method": "air",
+        "yield": "279 mg, 36%",
+        "characterization": {
+          "1H NMR": "(TFA-d):  (cid:3) 9.16 (d, J = 5.0 Hz, 2H), 9.04 (d, J = 9.0 Hz, 2H), 8.98 (s, 4H), 8.49 (d, J = 9.0 Hz, 2H), 8.35 (t, J = 9.0 Hz, 2H), 8.12 (d, J = 8.0 Hz, 2H), 8.07 (t, J = 8.0 Hz, 2H)",
+          "MALDI-TOF MS": "obs 521.98; calcd [M+H]+ 521.49",
+          "Elemental Analysis": "calcd. for 3, C32H16N4O4: C, 73.84; H, 3.10; N, 10.76.  Found:  C, 72.98; H, 3.34; N, 11.10"
+        }
+      }
+    },
+    {
+      "material_id": "6",
+      "synthesis_conditions": {
+        "temperature": "80oC",
+        "time": "48 hours",
+        "solvents": [
+          {
+            "name": "DEF",
+            "amount": "5 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "15 mg, 0.05 mmol"
+          },
+          {
+            "name": "H2NDC",
+            "amount": "10 mg, 0.05 mmol"
+          },
+          {
+            "name": "diQuNI",
+            "amount": "6 mg, 0.01 mmol"
+          }
+        ],
+        "yield": "8 mg (30% yield based on Zn)",
+        "characterization": {
+          "Single Crystal X-ray Diffraction": "Single crystals were mounted on a BRUKER APEX2 V2.1-0 diffractometer equipped with a graphite-monochromated MoKa ((cid:2) = 0.71073 Å) radiation source in a cold nitrogen stream. All crystallographic data were corrected for Lorentz and polarization effects (SAINT). The structures were solved by direct methods and refined by the full-matrix least-squares method on F2 with appropriate software implemented in the SHELXTL program package. All the non-hydrogen atoms were refined anisotropically. Hydrogen atoms were added at their geometrically ideal positions. Most of the DMF solvent molecules are severely disordered, which hindered satisfactory development of the model; therefore, the SQUEEZE routine (PLATON) was applied to remove the contributions of electron density from disordered solvent molecules. The outputs from the SQUEEZE calculations are attached to the CIF file.",
+          "Elemental Analysis": "calcd. for 6·5H2O, C56H33N4O14.5Zn2: C, 59.80; H, 2.96; N, 4.98.  Found:  C, 59.41; H, 2.88; N, 5.28"
+        }
+      }
+    }
+  ]
+}

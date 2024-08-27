@@ -1,0 +1,46 @@
+{
+  "materials": [
+    {
+      "name": "PCN-17",
+      "synthesis_conditions": {
+        "temperature": "145 8C",
+        "time": "72 hours",
+        "solvents": [
+          {
+            "name": "DMSO",
+            "amount": "1.2 mL"
+          }
+        ],
+        "additional_solvents": [
+          {
+            "name": "H2O2 (30% aq.)",
+            "amount": "five drops"
+          }
+        ],
+        "equipment": "Pyrex tube",
+        "chemicals_used": [
+          {
+            "name": "H3TATB",
+            "amount": "0.01 g, 2.26 x 10^-5 mol"
+          },
+          {
+            "name": "Yb(NO3)3·6 H2O",
+            "amount": "0.025 g, 5.47 x 10^-5 mol"
+          }
+        ],
+        "heating_rate": "2 K min^-1",
+        "cooling_rate": "0.2 K min^-1",
+        "washing_method": "washed twice with DMSO",
+        "yield": "not specified",
+        "drying_method": "not specified",
+        "final_formula": "Yb4(m4-H2O)(C24H12N3O6)8/3(SO4)2·3 H2O·10 C2H6SO",
+        "analysis": {
+          "C,H,N_analysis": {
+            "calculated": "C 34.71, H 3.47, N 3.85",
+            "found": "C 33.87, H 3.41, N 3.68"
+          }
+        }
+      }
+    }
+  ]
+}

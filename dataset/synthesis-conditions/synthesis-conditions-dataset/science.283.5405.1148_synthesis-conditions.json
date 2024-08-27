@@ -1,0 +1,45 @@
+{
+  "materials": [
+    {
+      "name": "[Cu3(TMA)2(H2O)3]n (HKUST-1)",
+      "synthesis_conditions": {
+        "temperature": "180°C",
+        "solvents": "50:50 H2O:EtOH",
+        "amount_of_solvents": "12 ml",
+        "equipment": "Teflon-lined 23-ml Parr pressure vessel",
+        "chemicals_used": {
+          "cupric_nitrate_trihydrate": "1.8 mM",
+          "trimesic_acid": "1.0 mM"
+        },
+        "time": "12 hours",
+        "yield": "60%",
+        "additional_information": "Gave turquoise crystals up to dimensions of 80 mm."
+      }
+    },
+    {
+      "name": "[Cu3(TMA)2(py)3]n z0.5pyz2H2O",
+      "synthesis_conditions": {
+        "treatment": "with dry pyridine (py), followed by washing with dichloromethane",
+        "yield": "quantitative",
+        "additional_information": "Green derivative, x-ray diffraction pattern similar to HKUST-1."
+      }
+    },
+    {
+      "name": "[Cu3(TMA)2(H2O)3]z2.5(DMF)z2.5(H2O)",
+      "synthesis_conditions": {
+        "solvents": "DMF or DMSO",
+        "temperature": "Room temperature",
+        "yield": ">80%",
+        "additional_information": "Isostructural with HKUST-1, contains axial aqua ligands but contain channel DMF/DMSO and water."
+      }
+    },
+    {
+      "name": "Anhydrous [Er(TMA)]",
+      "synthesis_conditions": {
+        "temperature": "180°C",
+        "method": "Hydrothermally similar to the synthesis of HKUST-1",
+        "thermal_stability": "No weight loss up to 500°C"
+      }
+    }
+  ]
+}

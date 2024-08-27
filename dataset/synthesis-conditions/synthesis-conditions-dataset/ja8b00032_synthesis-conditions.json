@@ -1,0 +1,126 @@
+{
+  "materials": [
+    {
+      "name": "Na[(L1-4 4-)CoIII]",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "30 ml"
+          }
+        ],
+        "equipment": "250 ml round bottom flask with two syringes",
+        "chemicals_used": [
+          {
+            "name": "D1-4",
+            "amount": "3 mmol"
+          },
+          {
+            "name": "Triethylamine",
+            "amount": "0.83 (6 mmol)"
+          },
+          {
+            "name": "Dimethylmalonyl chloride",
+            "amount": "0.42 ml (3.2 mmol)"
+          }
+        ],
+        "time": "Overnight",
+        "washing_method": "Water",
+        "drying_method": "Vacuum",
+        "yield": [
+          {
+            "compound": "H4L1",
+            "yield_percentage": "75%"
+          },
+          {
+            "compound": "H4L2",
+            "yield_percentage": "70%"
+          },
+          {
+            "compound": "H4L3",
+            "yield_percentage": "42%"
+          },
+          {
+            "compound": "H4L4",
+            "yield_percentage": "86%"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Na[(L1-4 4-)CoIII] Electrochemical Properties",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "Phosphate buffer",
+            "amount": "0.1 M"
+          }
+        ],
+        "equipment": "CHI-660E electrochemical workstation",
+        "chemicals_used": [
+          {
+            "name": "Tetra-butylammonium hexafluorophosphate",
+            "amount": "as supporting electrolyte in organic solutions"
+          }
+        ],
+        "time": "Varied",
+        "techniques": [
+          "Cyclic Voltammetry",
+          "Oxygen Evolution",
+          "Electrochemical Spectroscopy"
+        ]
+      }
+    },
+    {
+      "name": "Na[(L1-4 4-)CoIII] EPR Test",
+      "synthesis_conditions": {
+        "temperature": "295K",
+        "solvents": [
+          {
+            "name": "Acetonitrile",
+            "amount": "Anhydrous and degassed"
+          }
+        ],
+        "equipment": "9.05 GHz X-band EPR instrument JES FA200",
+        "chemicals_used": [],
+        "time": "Varied",
+        "techniques": [
+          "EPR Spectroscopy"
+        ]
+      }
+    },
+    {
+      "name": "Na[(L1-4 4-)CoIII] X-ray Photoelectron Spectroscopy (XPS)",
+      "synthesis_conditions": {
+        "equipment": "PHI Quantera SXM X-ray Photoelectron Spectrometer",
+        "techniques": [
+          "XPS"
+        ],
+        "analysis": [
+          {
+            "type": "Binding energies",
+            "details": "Referenced to the adventitious carbon’s C1s energy at 284.8 eV"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Density Functional Theory (DFT) Calculations",
+      "synthesis_conditions": {
+        "software": "Gaussian 09, Revision D.01",
+        "methods": [
+          "UB3LYP/6-31+g(d,p) for geometry optimizations",
+          "UB3LYP/6-311++g(2df,2p) for single-point electronic energies"
+        ],
+        "solvent_model": "SMD continuum solvation model for water",
+        "corrections": [
+          "D3 correction method",
+          "Becke-Jonson (BJ) damping"
+        ],
+        "additional_information": "Experimental solvation free energies for water, proton, and sodium cation were used."
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "materials": [
+    {
+      "name": "[Zn(pvb)2]·DMF (1)",
+      "synthesis_conditions": {
+        "solvents": "DMF",
+        "temperature_range": "110–210 88C",
+        "weight_loss": "12.7%",
+        "transformation": "transformed to [Zn(pvb)2] (2) by the removal of DMF",
+        "transformation_method": "SCSC manner",
+        "comments": "The loss of DMF guest in 1 starts losing very slowly from room temperature and then rapidly in the specified temperature range."
+      }
+    },
+    {
+      "name": "[Zn(pvb)2] (2)",
+      "synthesis_conditions": {
+        "solvents": "solvent mixture of DMA and water",
+        "guest_solvent_retained": "no",
+        "comments": "Crystallized from a solvent mixture of DMA and water, has no guest solvent retained in the lattice."
+      }
+    },
+    {
+      "name": "[Cu(pvb)2]·DMF (3)",
+      "synthesis_conditions": {
+        "synthesis_similarity": "synthesized similar to 1",
+        "isomorphous_and_isostructural_to": "1",
+        "temperature_range": "30–190 88C",
+        "weight_loss": "12.8%",
+        "structural_change_post_desolvation": "no",
+        "post_desolvation_product": "[Cu(pvb)2]·2 H2O (4)",
+        "comments": "The VT-XRPD patterns reveal that the removal of DMF from 3 does not influence any structural change like that in 1."
+      }
+    },
+    {
+      "name": "[Cu(pvb)2]·2 H2O (4)",
+      "synthesis_conditions": {
+        "formation_method": "formed after DMF removal from [Cu(pvb)2]·DMF (3) and exposure to moisture",
+        "structural_comparison_with_solvated_form": "The non-centrosymmetric group Cc was still maintained in the crystal after cooling to room temperature."
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "materials": [
+    {
+      "name": "DPA-MOF",
+      "synthesis_conditions": {
+        "temperature_range_K": "363 to 403",
+        "temperature_effect": "Increasing the synthetic temperature was an approach to raise nucleation rate and facilitate the crystal growth process.",
+        "solvent_dilution_effect": "Diluting the system from 1 to 30 times, based on its primary synthetic condition, reduced the sizes of DPA-MOF from 190 to 45 nm.",
+        "precursors": [
+          "9,10-anthracenyl bis(benzoic acid) (DPA)"
+        ],
+        "metal_source": "Zr6 cluster",
+        "linker": "anthracene-based linkers",
+        "crystal_system": "cubic",
+        "space_group": "Fm(3m",
+        "lattice_parameter_c": "32.9382"
+      }
+    },
+    {
+      "name": "EPO-MOF",
+      "synthesis_conditions": {
+        "method": "photo-oxygenation involving a [4++2]-cycloaddition of 1O2 on electron-rich carbon atoms of the anthracene-based linker",
+        "light_source": "660 nm light-emitting diode (LED)",
+        "photosensitizer": "5,10,15,20-Tetraphenylporphyrin (TPP)",
+        "crystal_system": "cubic",
+        "space_group": "Fm-3 m",
+        "lattice_parameter_c": "32.7767",
+        "restoration_methods": [
+          "UV irradiation",
+          "heating"
+        ]
+      }
+    },
+    {
+      "name": "TCPP@DPA-MOF",
+      "synthesis_conditions": {
+        "core_material": "DPA-MOF",
+        "photosensitizer": "tetrakis(4-carboxyphenyl) porphyrin (TCPP)",
+        "method": "incorporation of TCPP into DPA-MOF through coordination to the Zr6 cluster",
+        "particle_size_nm": "approximately 510",
+        "structure": "core–shell nanoparticles",
+        "reversible_binding_method": "switching Vis/UV irradiation",
+        "oxygen_trapping_and_release": "capable of trapping O2 in water upon visible light irradiation and releasing O2 under 254 nm UV irradiation"
+      }
+    }
+  ]
+}

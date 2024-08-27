@@ -1,0 +1,78 @@
+{
+  "materials": [
+    {
+      "name": "ZJU-50",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "N,N-diethylformamide (DEF)",
+            "amount": "not specified"
+          },
+          {
+            "name": "H2O",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H8L",
+            "amount": "not specified"
+          },
+          {
+            "name": "Cu(NO3)2·2.5 H2O",
+            "amount": "not specified"
+          },
+          {
+            "name": "HCl",
+            "amount": "in the presence of"
+          }
+        ],
+        "time": "3 d",
+        "equipment": "not specified",
+        "yield": "not specified",
+        "drying_method": "not specified",
+        "washing_method": "not specified"
+      }
+    },
+    {
+      "name": "C2H2@ZJU-50a",
+      "synthesis_conditions": {
+        "temperature": "298 K",
+        "pressure": "1 bar",
+        "gas_loading": "C2H2",
+        "loading_method": "Single-crystal X-ray diffraction (SCXRD) studies after loading C2H2 to ZJU-50a",
+        "binding_sites": [
+          {
+            "site": "site-I",
+            "interaction": "strong Coulomb interaction with open CuII site and C-H···O interactions"
+          },
+          {
+            "site": "site-II",
+            "interaction": "interacts with C-H groups from surrounding phenyl rings and ethyl groups through weak supramolecular interactions"
+          },
+          {
+            "site": "site-III",
+            "interaction": "interacts with adjacent C2H2 molecules through C-H···C-H interactions"
+          }
+        ],
+        "gas_cluster": "largest C2H2-gas cluster observed among all the MOFs reported so far"
+      }
+    },
+    {
+      "name": "CO2@ZJU-50a",
+      "synthesis_conditions": {
+        "temperature": "298 K",
+        "pressure": "1 bar",
+        "gas_loading": "CO2",
+        "loading_method": "Single-crystal X-ray diffraction (SCXRD) studies after loading CO2 to ZJU-50a",
+        "binding_sites": [
+          {
+            "site": "open metal sites",
+            "interaction": "each copper site binds with one CO2 molecule"
+          }
+        ]
+      }
+    }
+  ]
+}

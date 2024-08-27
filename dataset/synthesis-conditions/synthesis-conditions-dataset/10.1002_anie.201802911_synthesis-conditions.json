@@ -1,0 +1,111 @@
+{
+  "materials": [
+    {
+      "name": "CPM-311-RR",
+      "synthesis_conditions": {
+        "ligands": [
+          "RR-cam"
+        ],
+        "metal_source": "Indium monomer",
+        "framework": "quartz (qtz) net",
+        "solvents": "Not specified",
+        "chirality_features": [
+          "0-D chirality of RR-cam",
+          "intrinsic 3D chiral qtz net",
+          "1D absolute helicity"
+        ],
+        "topology": "4-connected",
+        "additional_information": "RR-cam acts as crosslinker"
+      }
+    },
+    {
+      "name": "CPM-312 family",
+      "synthesis_conditions": {
+        "ligands": [
+          "RR-cam",
+          "SR-cam",
+          "RS-cam",
+          "SS-cam"
+        ],
+        "metal_source": "Magnesium",
+        "framework": "honeycomb channels with a Mg2+-format backbone",
+        "solvents": "Not specified",
+        "chirality_features": [
+          "RR-cam acts as an auxiliary ligand attached on the wall of the hexagonal channel"
+        ],
+        "topology": "chiral eta net with Mg-HCOO helices (31 or 32)",
+        "additional_information": "The absolute helicity of chain is controlled by the stereochemistry around C1 of camphorates"
+      }
+    },
+    {
+      "name": "CPM-313-RR to CPM-316-RR",
+      "synthesis_conditions": {
+        "ligands": [
+          "RR-cam"
+        ],
+        "metal_source": "Copper paddle-wheel dimers",
+        "framework": "various 4-connected frameworks",
+        "solvents": [
+          {
+            "name": "DMF",
+            "topology": "uon"
+          },
+          {
+            "name": "DMEU",
+            "topology": "qtz"
+          },
+          {
+            "name": "NMF",
+            "topology": "dia"
+          },
+          {
+            "name": "DEA",
+            "topology": "sql"
+          }
+        ],
+        "chirality_features": [
+          "Diastereoisomerization of the chiral linker (transition from cis RS-cam to trans RR-cam) results in greater structural diversity"
+        ],
+        "additional_information": "The relative orientation between adjacent metal nodes is affected, leading to various framework types"
+      }
+    },
+    {
+      "name": "CPM-317-RR",
+      "synthesis_conditions": {
+        "ligands": [
+          "RR-cam"
+        ],
+        "metal_source": "Cobalt",
+        "framework": "V-shaped cobalt dimers connected by eight RR-cam to form the ecu net",
+        "solvents": "Not specified",
+        "chirality_features": "Not specified",
+        "topology": "4-connected",
+        "additional_information": "Not specified"
+      }
+    },
+    {
+      "name": "CPM-331-RS and CPM-332-RR",
+      "synthesis_conditions": {
+        "ligands": [
+          "RS-cam",
+          "RR-cam"
+        ],
+        "metal_source": "Copper",
+        "framework": "square layer structure pillared by 4,4’-bipyridine",
+        "solvents": "Not specified",
+        "chirality_features": "Not specified",
+        "topology": [
+          {
+            "name": "CPM-331-RS",
+            "type": "rob topology with the wavy sheet"
+          },
+          {
+            "name": "CPM-332-RR",
+            "type": "pcu topology with the flat sheet"
+          }
+        ],
+        "additional_information": "CPM-332-RR has a BET surface area of about 216.02 m2 g@1 while CPM-331-RS is 16.43 m2 g@1"
+      }
+    }
+  ]
+}

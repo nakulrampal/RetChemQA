@@ -1,0 +1,105 @@
+{
+  "materials": [
+    {
+      "material_name": "(H2NMe2)2Fe2(Cl2dhbq)3",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "chloranilic acid",
+              "amount": "257 mg"
+            },
+            {
+              "name": "dimethylamine",
+              "amount": "171 μL of a 0.2 M aqueous solution"
+            },
+            {
+              "name": "DMF",
+              "amount": "6 mL"
+            },
+            {
+              "name": "Fe(NO3)3",
+              "amount": "140 μL of a 1 M aqueous solution"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "1.4 mL"
+            }
+          ],
+          "temperature": "120 °C",
+          "time": "18 h",
+          "equipment": "thick-walled borosilicate tube",
+          "atmosphere": "Ar",
+          "washing_method": "DMF and THF washes",
+          "drying_method": "120 °C under reduced pressure",
+          "yield": "15 mg (26%)"
+        }
+      ]
+    },
+    {
+      "material_name": "(H2NMe2)4Fe3(Cl2dhbq)3(SO4)2",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "chloranilic acid",
+              "amount": "168 mg"
+            },
+            {
+              "name": "FeSO4·7H2O",
+              "amount": "345 mg"
+            },
+            {
+              "name": "DMF",
+              "amount": "100 mL"
+            }
+          ],
+          "temperature": "130 °C",
+          "time": "24 h",
+          "equipment": "Schlenk flask",
+          "atmosphere": "Ar",
+          "washing_method": "DMF and THF washes",
+          "drying_method": "120 °C under reduced pressure",
+          "yield": "124 mg (34%)"
+        }
+      ]
+    },
+    {
+      "material_name": "(H2NMe2)1.5Al2(dhbq)3",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "2,5-dihydroxybenzoquinone",
+              "amount": "40 mg"
+            },
+            {
+              "name": "sodium hydroxide",
+              "amount": "40 μL of a 0.2 M aqueous solution"
+            },
+            {
+              "name": "Al(NO3)3·9H2O",
+              "amount": "140 μL of a 1 M aqueous solution"
+            },
+            {
+              "name": "DMF",
+              "amount": "1.4 mL"
+            }
+          ],
+          "temperature": "120 °C",
+          "time": "16 h",
+          "equipment": "thick-walled borosilicate tube",
+          "atmosphere": "air",
+          "washing_method": "DMF washes",
+          "drying_method": "dried under reduced pressure for 20 min",
+          "yield": "25 mg (67%)"
+        }
+      ]
+    }
+  ]
+}

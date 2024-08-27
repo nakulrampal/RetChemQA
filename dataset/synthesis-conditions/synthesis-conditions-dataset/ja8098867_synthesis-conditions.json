@@ -1,0 +1,84 @@
+{
+  "materials": [
+    {
+      "material": "1a",
+      "synthesis_conditions": {
+        "temperature": "-78°C to room temperature",
+        "solvents": [
+          {
+            "name": "toluene",
+            "amount": "10 mL"
+          }
+        ],
+        "equipment": "Schlenk techniques",
+        "chemicals_used": [
+          {
+            "name": "cinchonine",
+            "amount": "0.3g, 1.02 mmol"
+          },
+          {
+            "name": "Me2AlCl",
+            "amount": "0.34 mL of a 1.5 M solution in toluene, 0.51 mmol"
+          }
+        ],
+        "time": "4h",
+        "yield": "ca. 82%",
+        "crystallization_method": "from toluene solution at –10°C",
+        "drying_method": "vacuum dessicator"
+      }
+    },
+    {
+      "material": "1b",
+      "synthesis_conditions": {
+        "temperature": "-78°C to room temperature",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "Schlenk techniques",
+        "chemicals_used": [
+          {
+            "name": "cinchonine",
+            "amount": "0.30 g, 1.02 mmol"
+          },
+          {
+            "name": "Me3Al",
+            "amount": "0.34 mL of a 1.5 M solution in THF, 0.51 mmol"
+          }
+        ],
+        "time": "not specified",
+        "yield": "ca. 86%",
+        "crystallization_method": "from THF solution at –10°C",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "material": "2",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "1a",
+            "amount": "0.500 g, 0.46 mmol"
+          },
+          {
+            "name": "anhydrous ZnCl2",
+            "amount": "0.31 mL of a 1.5 M solution in THF, 0.46 mmol"
+          }
+        ],
+        "time": "6 hours for addition",
+        "yield": "90%",
+        "washing_method": "cold THF",
+        "drying_method": "not specified",
+        "additional_information": "white precipitate of 2 deposited"
+      }
+    }
+  ]
+}

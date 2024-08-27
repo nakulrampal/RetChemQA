@@ -1,0 +1,36 @@
+{
+  "materials": [
+    {
+      "name": "Zr-cal MOF ([Zr6O4(OH)4(FA)6]2(cal)3, FA = formate, cal = 1,3-alt-25,26,27,28-tetrakis[(carboxy)methoxy]calixarene)",
+      "synthesis_conditions": {
+        "temperature": "120 88C",
+        "solvents": [
+          {
+            "name": "dimethylformamide (DMF)",
+            "amount": "5 mL"
+          },
+          {
+            "name": "formic acid",
+            "amount": "1.21 mL"
+          }
+        ],
+        "equipment": "preheated oven",
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "0.772 mmol"
+          },
+          {
+            "name": "H4cal",
+            "amount": "0.257 mmol"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": "washed with ethanol twice",
+        "drying_method": "dried at 60 88C overnight",
+        "yield": "not specified",
+        "additional_notes": "Crystallization took place after the addition of the calixarene linker H4cal. The synthesis was also attempted with acetic (AA) and propionic acid (PA) as modulating agents, leading to structurally identical materials based on PXRD measurements."
+      }
+    }
+  ]
+}

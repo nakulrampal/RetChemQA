@@ -1,0 +1,70 @@
+{
+  "materials": [
+    {
+      "name": "H3BTTc",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": "DMF/H2O",
+        "solvent_ratio": "3:1 (v:v)",
+        "solvent_amount": "300 mL",
+        "chemicals_used": [
+          "tribromobenzene (2.36 g, 7.51 mmol)",
+          "5-carboxythiophene-2-boronic acid (12.9 g, 75.0 mmol)",
+          "K2CO3 (15.6 g, 113 mmol)",
+          "Pd(PPh3)4 (870 mg, 0.752 mmol)"
+        ],
+        "time": "48 h",
+        "washing_method": "successively with H2O, EtOH, and CHCl3",
+        "drying_method": "dried at room temperature in vacuo",
+        "yield": "90%"
+      }
+    },
+    {
+      "name": "La-BTTc",
+      "synthesis_conditions": {
+        "powder_synthesis": {
+          "temperature": "120 °C",
+          "solvents": "DMF",
+          "solvent_amount": "50 mL",
+          "equipment": "100 mL Teflon®-lined autoclave",
+          "chemicals_used": [
+            "La(NO3)3·6H2O (445 mg, 1.03 mmol)",
+            "H3BTTc (468 mg, 1.03 mmol)"
+          ],
+          "time": "48 h",
+          "washing_method": "washed with DMF",
+          "drying_method": "dried at room temperature in vacuo",
+          "yield": "97%"
+        },
+        "single_crystal_synthesis": {
+          "temperature": "120 °C",
+          "solvents": "DMF",
+          "solvent_amount": "1.0 mL (20 mM solution of La(NO3)3·6H2O)",
+          "equipment": "4 mL glass vial",
+          "chemicals_used": [
+            "H3BTTc (20 µmol)"
+          ],
+          "time": "48 h"
+        }
+      }
+    },
+    {
+      "name": "La-BTTc after activation",
+      "synthesis_conditions": {
+        "activation_method": {
+          "solvent_exchange": {
+            "solvent": "EtOH",
+            "solvent_amount": "55 mL",
+            "time": "72 h",
+            "solvent_exchange_frequency": "twice"
+          },
+          "heating": {
+            "temperature": "200 °C",
+            "time": "6 h",
+            "atmosphere": "in vacuo"
+          }
+        }
+      }
+    }
+  ]
+}

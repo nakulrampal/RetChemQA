@@ -1,0 +1,57 @@
+{
+  "materials": [
+    {
+      "name": "Zr-BDC MOF",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "24 hours",
+        "solvents": [
+          {
+            "name": "N,N'-dimethylformamide (DMF)",
+            "amount": "24.9 g, 340 mmol"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "0.053 g, 0.227 mmol"
+          },
+          {
+            "name": "1,4-benzenedicarboxylic acid (H2BDC)",
+            "amount": "0.034 g, 0.227 mmol"
+          }
+        ],
+        "equipment": "sealed container",
+        "drying_method": "air drying at room temperature",
+        "washing_method": "repeatedly washed with DMF"
+      }
+    },
+    {
+      "name": "Zr-BPDC MOF",
+      "synthesis_conditions": {
+        "note": "Synthesized by replacing BDC with equivalent molar amounts of the longer linkers (BPDC). Conditions are assumed to be similar to Zr-BDC MOF."
+      }
+    },
+    {
+      "name": "Zr-TPDC MOF",
+      "synthesis_conditions": {
+        "note": "Synthesized by replacing BDC with equivalent molar amounts of the longer linkers (TPDC). Conditions are assumed to be similar to Zr-BDC MOF."
+      }
+    }
+  ],
+  "solvent_resistance_test": {
+    "solvents_tested": [
+      "water",
+      "DMF",
+      "benzene",
+      "acetone"
+    ],
+    "method": "stirring the desolvated sample in the solvent for 24 hours",
+    "temperature": "room temperature",
+    "observation": "powder XRD patterns remain virtually unaltered by the applied treatment"
+  },
+  "mechanical_resistance_test": {
+    "method": "exposure to increasing mechanical pressure up to 10,000 kg/cm2",
+    "observation": "powder XRD pattern remains virtually unaltered by the applied treatment"
+  }
+}

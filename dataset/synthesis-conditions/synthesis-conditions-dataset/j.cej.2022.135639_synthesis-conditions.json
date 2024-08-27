@@ -1,0 +1,69 @@
+{
+  "materials": [
+    {
+      "name": "Co-TMC4R-BDC",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "TMC4R",
+            "amount": "11 mg",
+            "molar_amount": "0.010 mmol"
+          },
+          {
+            "name": "Co(NO3)2·6H2O",
+            "amount": "12 mg",
+            "molar_amount": "0.041 mmol"
+          },
+          {
+            "name": "1,4-BDC",
+            "amount": "7 mg",
+            "molar_amount": "0.042 mmol"
+          },
+          {
+            "name": "NaOH",
+            "amount": "two drops",
+            "molar_concentration": "0.2 M"
+          },
+          {
+            "solvents": [
+              {
+                "name": "DMF",
+                "volume": "8 mL",
+                "ratio": "2"
+              },
+              {
+                "name": "MeOH",
+                "volume": "8 mL",
+                "ratio": "5"
+              },
+              {
+                "name": "CH3CN",
+                "volume": "8 mL",
+                "ratio": "1"
+              }
+            ]
+          }
+        ],
+        "procedure": "A mixture of TMC4R, Co(NO3)2·6H2O, 1,4-BDC, and 0.2 M NaOH (two drops) was put into a mixed solution of DMF/MeOH/CH3CN (8 mL, 2/5/1, v/v/v) in a Teflon reactor (15 mL) and heated at 90 °C for 3 days. After cooling to room temperature, pink octahedral crystals of Co-TMC4R-BDC were achieved in a 52% yield based on TMC4R.",
+        "yield": "52%",
+        "characterization": {
+          "elemental_analysis": {
+            "calculated": "C 56.97, N 8.30, H 5.18",
+            "found": "C 57.69, N 7.96, H 6.13"
+          },
+          "IR_data": "3446 (m), 2938 (w), 1667 (s), 1594 (s), 1472 (s), 1385 (s), 1253 (m), 1147 (w), 1096 (s), 1053 (w), 1018 (m), 977 (s), 931(m), 810 (m), 751 (m), 723 (m), 665 (w), 584 (w), 500 (w)"
+        }
+      }
+    },
+    {
+      "name": "Co-TMC4R-BDC/GCE",
+      "fabrication": {
+        "procedure": "Bulk Co-TMC4R-BDC sample was fully ground, and then the powder (3.0 mg) was dispersed in 0.5% Nafion solution (1.0 mL) and treated with ultrasound for 15 min to give uniform suspension. Different volumes of Co-TMC4R-BDC suspension (3.0 mg∙mL−1), including 3.0, 4.0, 5.0, 6.0 and 7.0 μL, were dropped onto the polished and clean GCEs (diameter = 3 mm) surface, respectively. Finally, the modified electrodes were dried under an infrared heat lamp. Electrochemical pretreatment was conducted by passing the electrode through several cyclic voltammograms from − 1.0 to 1.0 V for ten times in acetate buffer solution (ABS, pH = 5.0).",
+        "electrochemical_test_methods": {
+          "CVs_and_EIS": "Determined under static conditions in a mixed solution of 0.1 M KCl solution and 5.0 mM [Fe(CN)6]3−/4− with an impedance frequency range of 0.01–10.0 KHz.",
+          "SWASV": "Applied to quantificationally detect Cd2+, Pb2+, Cu2+ and Hg2+ in a quartz beaker with the three-electrode system (frequency: 15 Hz, amplitude: 25 mV, step voltage: 4 mV, quiet time: 2 s). The modified electrode was immersed in 0.2 M ABS (pH = 5.0) containing Cd2+, Pb2+, Cu2+ or Hg2+ in different concentrations. The deposition step was determined at −1.3 V for 360 s with stirring. Then the stripping process was swept from −1.0 to 0.6 V."
+        }
+      }
+    }
+  ]
+}

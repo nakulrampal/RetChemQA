@@ -1,0 +1,46 @@
+{
+  "Dimethyl 5-hydroxy isophthalate": {
+    "Temperature": "reflux for 8 hours",
+    "Solvents": ["Methanol", "Distilled water"],
+    "Amount of each solvent": ["625 mL", "100 mL"],
+    "Equipment": "N/A",
+    "Chemicals used": ["5-hydroxy isophthalic acid (53.40 g, 293.20 mmol)", "Concentrated sulfuric acid (19.5 mL)", "Saturated aqueous sodium bicarbonate (625 mL)"],
+    "Time": "8 hours",
+    "Washing method": "Extracted with dichloromethane (approximately 4 L)",
+    "Drying method": "Dried over anhydrous magnesium sulfate",
+    "Yield": "48.72 g, 231.80 mmol, 79%"
+  },
+  "Dimethyl 5-ethoxy isophthalate": {
+    "Temperature": "reflux for 16 hours",
+    "Solvents": ["Acetone", "Dichloromethane", "Distilled water"],
+    "Amount of each solvent": ["260 mL", "300 mL", "300 mL"],
+    "Equipment": "N/A",
+    "Chemicals used": ["Dimethyl 5-hydroxy isophthalate (11.44 g, 54.43 mmol)", "Potassium carbonate (13.69 g, 99.06 mmol)", "Iodoethane (5.00 mL, 62.50 mmol)"],
+    "Time": "16 hours",
+    "Washing method": "Extracted with dichloromethane (3 x 200 mL), washed separately with brine (100 mL)",
+    "Drying method": "Dried over anhydrous magnesium sulfate",
+    "Yield": "12.44 g, 52.22 mmol, 96%"
+  },
+  "5-ethoxy isophthalic acid": {
+    "Temperature": "reflux for 18 hours",
+    "Solvents": ["Methanol"],
+    "Amount of each solvent": ["250 mL"],
+    "Equipment": "N/A",
+    "Chemicals used": ["Potassium hydroxide (11.99 g, 213.70 mmol)", "Dimethyl 5-ethoxy isophthalate (10.05 g, 42.18 mmol)"],
+    "Time": "18 hours",
+    "Washing method": "Repeatedly washed with distilled water until pH 6-7",
+    "Drying method": "Dried in air for several days",
+    "Yield": "8.55 g, 40.68 mmol, 96%"
+  },
+  "STAM-17-OEt": {
+    "Temperature": "383 K for 3 days",
+    "Solvents": ["Distilled water"],
+    "Amount of each solvent": ["15 mL"],
+    "Equipment": "Stainless-steel autoclave",
+    "Chemicals used": ["Cu(OAc)2.H2O (0.20 g, 1.00 mmol)", "5-ethoxyisophthalic acid (0.21 g, 1.00 mmol)"],
+    "Time": "3 days",
+    "Washing method": "Washed with distilled water and ethanol",
+    "Drying method": "Dried in air",
+    "Yield": "0.24 g, 0.76 mmol, 76%"
+  }
+}

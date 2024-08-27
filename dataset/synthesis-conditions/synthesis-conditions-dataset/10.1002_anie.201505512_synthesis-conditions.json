@@ -1,0 +1,75 @@
+{
+  "COK-69": {
+    "precursors": [
+      "dicyclopentadienyl titanium(IV) dichloride ([Cp2TiIVCl2])",
+      "trans-1,4-cyclohexanedicarboxylic acid (H2cdc)"
+    ],
+    "solvents": [
+      "N,N-dimethylformamide (DMF)"
+    ],
+    "modulators": [
+      "acetic acid"
+    ],
+    "temperature": "110 ˚C",
+    "time": "48 h",
+    "atmosphere": "Ar",
+    "yield": "Not specified",
+    "washing_method": "DMF and methanol",
+    "drying_method": "Heated overnight at 120 ˚C in air",
+    "microwave_conditions": {
+      "temperature": "220 ˚C",
+      "time": "about 10 min"
+    },
+    "additional_information": "Higher quality material obtained from solvothermal reaction compared to microwave irradiation."
+  },
+  "COK-69_R": {
+    "precursors": [
+      "dicyclopentadienyl titanium(IV) dichloride ([Cp2TiIVCl2])",
+      "trans-1,4-cyclohexanedicarboxylic acid (H2cdc)"
+    ],
+    "solvents": [
+      "N,N-dimethylformamide (DMF)"
+    ],
+    "modulators": [
+      "acetic acid"
+    ],
+    "temperature": "110 ˚C",
+    "time": "48 h",
+    "atmosphere": "Ar",
+    "yield": "Not specified",
+    "washing_method": "DMF and methanol",
+    "drying_method": "Heated overnight at 120 ˚C in air",
+    "additional_information": "Upon exposure to air, transformed into off-white COK-69. Synthesis under Ar atmosphere."
+  },
+  "COK-69_variants": {
+    "COK-692OH": {
+      "formula": "[TiIV3(m3-O)O(OH)2(COO)6]",
+      "band_gap": "3.42 eV"
+    },
+    "COK-69H2O": {
+      "formula": "[TiIV3(m3-O)(O)2(H2O)(cdc)3]n",
+      "band_gap": "3.77 eV"
+    },
+    "COK-693OH": {
+      "formula": "[TiIV2TiIII(m3-O)(OH)3(COO)6]",
+      "band_gap": "Comparable to Si"
+    }
+  },
+  "COK-69cp": {
+    "washing_method": "DMF and methanol",
+    "thermal_evacuation": "Thermal evacuation results in structural change",
+    "solvent_immersion": {
+      "low_polarity_solvents": [
+        "toluene",
+        "tetrahydrofuran"
+      ],
+      "temperature": "70 ˚C",
+      "result": "Complete recovery of the open-pore solid"
+    },
+    "BET_surface_area": "29.1 m2 g-1"
+  },
+  "COK-69op": {
+    "void_volume": "37.3 %",
+    "channel_diameter": "4.9 Å"
+  }
+}

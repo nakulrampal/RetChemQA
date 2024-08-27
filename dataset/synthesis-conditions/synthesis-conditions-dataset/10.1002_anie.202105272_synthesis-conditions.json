@@ -1,0 +1,35 @@
+{
+  "materials": [
+    {
+      "name": "SHF-61",
+      "synthesis_conditions": {
+        "temperature": "55 8C",
+        "solvent": "CHCl3",
+        "reaction_with": "acetic anhydride",
+        "method": "Post-synthetic modification",
+        "transformation": "Single-crystal-to-single-crystal",
+        "product": "SHF-62"
+      }
+    },
+    {
+      "name": "SHF-62",
+      "synthesis_conditions": {
+        "temperature": "55 8C",
+        "solvent": "CHCl3",
+        "reaction_with": "acetic anhydride",
+        "method": "Post-synthetic modification",
+        "transformation": "Single-crystal-to-single-crystal",
+        "solvated_forms": [
+          "SHF-62-CHCl3",
+          "SHF-62-DMF"
+        ],
+        "solvent_exchange": "DMF",
+        "characterization_methods": [
+          "single-crystal X-ray diffraction",
+          "1H NMR spectroscopy",
+          "elemental analysis"
+        ]
+      }
+    }
+  ]
+}

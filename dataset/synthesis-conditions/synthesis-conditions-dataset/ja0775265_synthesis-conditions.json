@@ -1,0 +1,60 @@
+{
+  "FMOF-1": {
+    "Synthesis": {
+      "Step 1": {
+        "Reactants": [
+          {
+            "Name": "Sodium salt of the perfluorinated ligand 3,5-bis(trifluoromethyl)-1,2,4-triazolate (NaTz)",
+            "Reference": "ja0775265b00018"
+          },
+          {
+            "Name": "Silver nitrate",
+            "Details": "No specific amount mentioned"
+          }
+        ],
+        "Solvents": [
+          {
+            "Name": "Methanol",
+            "Details": "Used in the reaction"
+          },
+          {
+            "Name": "Acetonitrile/Toluene",
+            "Details": "Used for recrystallization"
+          }
+        ],
+        "Conditions": {
+          "Temperature": "Ambient for reaction, 100 °C for evacuating crystals",
+          "Atmosphere": "Vacuum for evacuating crystals",
+          "Time": "Overnight for evacuating crystals"
+        },
+        "Product": "Colorless crystals of FMOF-1"
+      }
+    },
+    "Activation": {
+      "Temperature": "60 °C",
+      "Atmosphere": "Vacuum",
+      "Time": "1 hr",
+      "Details": "Activated in situ prior to gas adsorption studies"
+    },
+    "Gas Adsorption Experiments": {
+      "High-Pressure H2 Adsorption": {
+        "Equipment": "Model HPVA-100 High Pressure Volumetric Analyzer",
+        "Company": "VTI Corporation",
+        "Location": "Hialeah, FL",
+        "Pressure Range": "Up to ~100 bar",
+        "Sample Amount": "Approximately 300 mg",
+        "Gas Purity": "99.999%",
+        "Temperature": "77 K"
+      },
+      "Low-Pressure H2, N2, O2 Adsorption": {
+        "Equipment": "Model ASAP 2020 Automatic Micropore Physisorption Analyzer",
+        "Company": "Micromeritics Instrument Corporation",
+        "Location": "Norcross, GA",
+        "Pressure Range": "Lower than 0.1 MPa (1 bar)",
+        "Sample Amount": "Approximately 160 mg",
+        "Gas Purity": "99.999%",
+        "Temperature": "77 K"
+      }
+    }
+  }
+}

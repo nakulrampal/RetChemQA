@@ -1,0 +1,63 @@
+{
+  "materials": [
+    {
+      "name": "Monomeric tBuLi·(R,R)-TMCDA",
+      "synthesis_conditions": {
+        "solvents": "n-pentane",
+        "temperature": "-78 °C",
+        "chemicals_used": [
+          "tert-butyllithium",
+          "(R,R)-TMCDA"
+        ],
+        "molar_ratio": "equimolar",
+        "appearance": "colorless needles",
+        "crystal_system": "monoclinic",
+        "space_group": "P21"
+      }
+    },
+    {
+      "name": "a-Lithiated (R,R)-TMCDA",
+      "synthesis_conditions": {
+        "solvents": "n-pentane",
+        "temperature_initial": "-78 °C",
+        "temperature_final": "room temperature",
+        "chemicals_used": [
+          "tBuLi",
+          "(R,R)-TMCDA",
+          "MePh2SiCl"
+        ],
+        "reaction_observation_temperature": "about -30 °C",
+        "product": "compound 5 (silylated reaction product)"
+      }
+    },
+    {
+      "name": "[(R,R)-TMCDA-Li]3",
+      "synthesis_conditions": {
+        "solvents": "n-pentane",
+        "temperature": "-78 °C",
+        "chemicals_used": [
+          "tBuLi",
+          "(R,R)-TMCDA"
+        ],
+        "appearance": "trimer",
+        "crystal_system": "orthorhombic",
+        "space_group": "P212121"
+      }
+    },
+    {
+      "name": "[(tBuLi)2·(N,N’-dimethylpiperazine)]1",
+      "synthesis_conditions": {
+        "solvents": "n-pentane",
+        "temperature": "-30 °C",
+        "chemicals_used": [
+          "tBuLi",
+          "N,N’-dimethylpiperazine"
+        ],
+        "appearance": "colorless needles",
+        "crystal_system": "triclinic",
+        "space_group": "P1¯",
+        "additional_information": "forms a coordination polymer"
+      }
+    }
+  ]
+}

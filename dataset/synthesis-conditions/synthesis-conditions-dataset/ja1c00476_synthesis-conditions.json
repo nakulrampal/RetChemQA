@@ -1,0 +1,95 @@
+{
+  "materials": [
+    {
+      "name": "5,15-Bis(pentafluorophenyl)corrole (1)",
+      "synthesis_conditions": {
+        "solvents": "dichloromethane",
+        "solvent_amounts": "3 L",
+        "chemicals_used": "DDQ (0.72 g, 3.2 mmol, 2.2 eq.), 5,15-bis(pentafluorophenyl)tetrapyrrane (0.95 g, 1.5 mmol)",
+        "equipment": "silica-gel pad",
+        "time": "10 minutes",
+        "temperature": "room temperature",
+        "yield": "41%",
+        "purification_method": "silica gel column chromatography using n-hexane/dichloromethane (v/v = 7/3), recrystallization from dichloromethane/n-hexane"
+      }
+    },
+    {
+      "name": "10-Oxo-5,15-bis(pentafluorophenyl)isocorrole (4)",
+      "synthesis_conditions": {
+        "solvents": "dichloromethane",
+        "solvent_amounts": "200 mL",
+        "chemicals_used": "Corrole 1 (200 mg, 0.32 mmol)",
+        "equipment": "short pad of MnO2 on Celite®",
+        "time": "not specified",
+        "temperature": "not specified",
+        "yield": "71%",
+        "purification_method": "silica gel column chromatography using n-hexane/dichloromethane (v/v = 1/1), recrystallization from dichloromethane/n-hexane"
+      }
+    },
+    {
+      "name": "10-Oxo-5,15-bis(pentafluorophenyl)isocorrole nickel(II) complex (4Ni)",
+      "synthesis_conditions": {
+        "solvents": "toluene",
+        "solvent_amounts": "3 mL",
+        "chemicals_used": "Oxoisocorrole 4 (32 mg, 50 µmol), Ni(acac)2 (64 mg, 0.25 mmol, 5 eq.)",
+        "equipment": "not specified",
+        "time": "1.5 h",
+        "temperature": "120 °C",
+        "yield": "94%",
+        "purification_method": "short pad of silica gel, recrystallization from dichloromethane/n-hexane"
+      }
+    },
+    {
+      "name": "10-Oxo-5,15-bis(pentafluorophenyl)isocorrole palladium(II) complex (4Pd)",
+      "synthesis_conditions": {
+        "solvents": "benzonitrile",
+        "solvent_amounts": "0.75 mL",
+        "chemicals_used": "Oxoisocorrole 4 (16 mg, 25 µmol), PdCl2·(PhCN)2 (29 mg, 75 µmol, 3 eq.)",
+        "equipment": "not specified",
+        "time": "1 h",
+        "temperature": "170 °C",
+        "yield": "87%",
+        "purification_method": "short pad of silica gel, recrystallization from dichloromethane/n-hexane"
+      }
+    },
+    {
+      "name": "10-Oxo-5,15-bis(pentafluorophenyl)isocorrole zinc(II) complex (4Zn)",
+      "synthesis_conditions": {
+        "solvents": "dichloromethane/methanol",
+        "solvent_amounts": "4 mL/1 mL",
+        "chemicals_used": "Oxoisocorrole 4 (16 mg, 25 µmol), Zn(OAc)2 (22 mg, 125 µmol, 5 eq.)",
+        "equipment": "not specified",
+        "time": "1 h",
+        "temperature": "40 °C",
+        "yield": "85%",
+        "purification_method": "short pad of silica gel, recrystallization from dichloromethane/n-hexane"
+      }
+    },
+    {
+      "name": "10-Oxo-5,15-bis(pentafluorophenyl)isocorrole pyridinated zinc(II) complex (4ZnPy)",
+      "synthesis_conditions": {
+        "solvents": "dichloromethane/methanol",
+        "solvent_amounts": "4 mL/1 mL",
+        "chemicals_used": "Oxoisocorrole 4 (16 mg, 25 µmol), Zn(OAc)2 (22 mg, 125 µmol, 5 eq.)",
+        "equipment": "not specified",
+        "time": "1 h",
+        "temperature": "40 °C",
+        "yield": "86%",
+        "purification_method": "short pad of silica gel, recrystallization from dichloromethane/pyridine/n-hexane"
+      }
+    },
+    {
+      "name": "10-Oxo-5,15-bis(pentafluorophenyl)isocorrolato nickel(II) tris(pentafluorophenyl)borane complex (4Ni·B(C6F5)3)",
+      "synthesis_conditions": {
+        "solvents": "benzene-d6, toluene-d8",
+        "solvent_amounts": "not specified",
+        "chemicals_used": "mixture of 4Ni and ca. 1 eq. B(C6F5)3",
+        "equipment": "not specified",
+        "time": "not specified",
+        "temperature": "25 °C, variable temperature for NMR",
+        "yield": "not specified",
+        "purification_method": "not specified"
+      }
+    }
+  ]
+}

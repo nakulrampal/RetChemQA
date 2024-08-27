@@ -1,0 +1,50 @@
+{
+  "materials": [
+    {
+      "name": "Fe-THBQ",
+      "synthesis_conditions": {
+        "precursors": "tetrahydroxybenzoquinone (THBQ) and divalent salts",
+        "structure": "cubic symmetry with the space group Pm3¯",
+        "conductivity": "2.7 x 10^-4 S cm^-1 at 300 K",
+        "Seebeck_coefficient": "-130 mV K^-1",
+        "Weiss_constant": "-219.37 K",
+        "absorption_range": "220 to 1000 nm",
+        "band_gap": "0.63 eV",
+        "morphology": "compact hexagon sheet morphology with side length around 50 nm",
+        "oxidation_states": "mixed-valence Fe",
+        "magnetic_properties": "paramagnetic",
+        "activation_energy": "0.23 eV"
+      }
+    },
+    {
+      "name": "Co-THBQ",
+      "synthesis_conditions": {
+        "precursors": "tetrahydroxybenzoquinone (THBQ) and divalent salts",
+        "structure": "cubic symmetry with the space group Pm3¯",
+        "conductivity": "6 x 10^-8 S cm^-1 at 300 K",
+        "Weiss_constant": "-73.86 K",
+        "absorption_range": "220 to 1000 nm",
+        "band_gap": "1.44 eV",
+        "morphology": "regular octahedron geometry with the scale of several tens of nanometers",
+        "oxidation_states": "CoII",
+        "magnetic_properties": "paramagnetic",
+        "activation_energy": "0.46 eV"
+      }
+    },
+    {
+      "name": "Mn-THBQ",
+      "synthesis_conditions": {
+        "precursors": "tetrahydroxybenzoquinone (THBQ) and divalent salts",
+        "structure": "cubic symmetry with the space group Pm3¯",
+        "conductivity": "3.5 x 10^-8 S cm^-1 at 300 K",
+        "Weiss_constant": "-47.95 K",
+        "absorption_range": "220 to 1000 nm",
+        "band_gap": "1.69 eV",
+        "morphology": "nanosheet morphology with the thickness of 5 nm",
+        "oxidation_states": "MnII",
+        "magnetic_properties": "paramagnetic",
+        "activation_energy": "0.48 eV"
+      }
+    }
+  ]
+}

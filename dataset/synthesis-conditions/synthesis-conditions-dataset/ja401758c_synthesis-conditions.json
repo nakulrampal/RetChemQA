@@ -1,0 +1,153 @@
+{
+  "materials": [
+    {
+      "name": "Ni-PYI1",
+      "synthesis_conditions": {
+        "temperature": "130 °C",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "4.0 mL"
+          },
+          {
+            "name": "acetonitrile",
+            "amount": "2.0 mL"
+          }
+        ],
+        "equipment": "25 mL Teflon-lined reactor",
+        "chemicals_used": [
+          {
+            "name": "Ni2H[BW12O40]·4HCl·5H2O",
+            "amount": "157.8 mg",
+            "molar_amount": "0.05 mmol"
+          },
+          {
+            "name": "4,4'-bipyridine",
+            "amount": "23.4 mg",
+            "molar_amount": "0.15 mmol"
+          },
+          {
+            "name": "L-BCIP",
+            "amount": "24.5 mg",
+            "molar_amount": "0.1 mmol"
+          }
+        ],
+        "time": "three days",
+        "yield": "ca. 60%",
+        "pH": "3.9",
+        "washing_method": "washed with water",
+        "drying_method": "air-dried"
+      }
+    },
+    {
+      "name": "Ni-PYI2",
+      "synthesis_conditions": {
+        "temperature": "130 °C",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "4.0 mL"
+          },
+          {
+            "name": "acetonitrile",
+            "amount": "2.0 mL"
+          }
+        ],
+        "equipment": "25 mL Teflon-lined reactor",
+        "chemicals_used": [
+          {
+            "name": "Ni2H[BW12O40]·4HCl·5H2O",
+            "amount": "157.8 mg",
+            "molar_amount": "0.05 mmol"
+          },
+          {
+            "name": "4,4'-bipyridine",
+            "amount": "23.4 mg",
+            "molar_amount": "0.15 mmol"
+          },
+          {
+            "name": "D-BCIP",
+            "amount": "24.5 mg",
+            "molar_amount": "0.1 mmol"
+          }
+        ],
+        "time": "three days",
+        "yield": "ca. 60%",
+        "pH": "3.9",
+        "washing_method": "washed with water",
+        "drying_method": "air-dried"
+      }
+    },
+    {
+      "name": "Ni-BPY",
+      "synthesis_conditions": {
+        "temperature": "130 °C",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "4.0 mL"
+          },
+          {
+            "name": "acetonitrile",
+            "amount": "2.0 mL"
+          }
+        ],
+        "equipment": "25 mL Teflon-lined reactor",
+        "chemicals_used": [
+          {
+            "name": "Ni2H[BW12O40]·4HCl·5H2O",
+            "amount": "157.8 mg",
+            "molar_amount": "0.05 mmol"
+          },
+          {
+            "name": "4,4'-bipyridine",
+            "amount": "23.4 mg",
+            "molar_amount": "0.15 mmol"
+          }
+        ],
+        "time": "three days",
+        "yield": "ca. 65%",
+        "pH": "3.2",
+        "washing_method": "washed with water",
+        "drying_method": "air-dried"
+      }
+    },
+    {
+      "name": "3,5-di-tert-butyl-4'-vinylbiphenyl",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "toluene",
+            "amount": "10.0 mL"
+          }
+        ],
+        "equipment": "sealed reaction vessel under N2 conditions",
+        "chemicals_used": [
+          {
+            "name": "PdCl2(CH3CN)2",
+            "molar_amount": "0.50% mmol"
+          },
+          {
+            "name": "L (ligand)",
+            "molar_amount": "0.75% mmol"
+          },
+          {
+            "name": "aryl bromide",
+            "molar_amount": "2.50 mmol"
+          },
+          {
+            "name": "arylboronic acid",
+            "molar_amount": "3.75 mmol"
+          },
+          {
+            "name": "K3PO4·3H2O",
+            "molar_amount": "7.50 mmol"
+          }
+        ],
+        "time": "10 h",
+        "purification_method": "flash column chromatography on silica gel eluting with petroleum"
+      }
+    }
+  ]
+}

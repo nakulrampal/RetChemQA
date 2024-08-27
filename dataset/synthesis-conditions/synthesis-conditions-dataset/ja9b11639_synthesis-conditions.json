@@ -1,0 +1,145 @@
+{
+  "materials": [
+    {
+      "name": "ZIF-UC-2 (6-Cl-5-FbIm)",
+      "synthesis_conditions": {
+        "temperature": "403 K",
+        "time": "48 hours",
+        "cooling_rate": "5 K hour-1",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zinc nitrate hexahydrate",
+            "amount": "220 mg, 0.74 mmol"
+          },
+          {
+            "name": "Imidazole",
+            "amount": "1188 mg, 16.42 mmol"
+          },
+          {
+            "name": "6-chloro-5-fluorobenzimidazole",
+            "amount": "297.4 mg, 1.74 mmol"
+          }
+        ],
+        "washing_method": "dichloromethane",
+        "drying_method": "vacuum oven at 450 K overnight"
+      }
+    },
+    {
+      "name": "ZIF-UC-3 (5-Cl-2-mbIm)",
+      "synthesis_conditions": {
+        "temperature": "383 K",
+        "time": "5 days",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "3 mL"
+          },
+          {
+            "name": "N,N-diethylformamide (DEF)",
+            "amount": "4 mL"
+          },
+          {
+            "name": "2.5 mol dm-3 NaOH",
+            "amount": "0.25 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Imidazole",
+            "amount": "60 mg, 0.89 mmol"
+          },
+          {
+            "name": "5-chloro-2-methylbenzimidazole",
+            "amount": "293 mg, 1.76 mmol"
+          },
+          {
+            "name": "Zinc nitrate hexahydrate",
+            "amount": "262 mg, 0.88 mmol"
+          }
+        ],
+        "washing_method": "dichloromethane",
+        "drying_method": "vacuum oven at 450 K overnight"
+      }
+    },
+    {
+      "name": "ZIF-UC-4 (5-FbIm)",
+      "synthesis_conditions": {
+        "temperature": "363 K",
+        "time": "5 days",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "8.3 mL"
+          },
+          {
+            "name": "N,N-diethylformamide (DEF)",
+            "amount": "5.7 mL"
+          },
+          {
+            "name": "NaOH",
+            "amount": "0.52 mL, 2.5 mol dm-3"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Imidazole",
+            "amount": "120 mg, 1.77 mmol"
+          },
+          {
+            "name": "5-fluorobenzimidazole",
+            "amount": "112 mg, 0.82 mmol"
+          },
+          {
+            "name": "Zinc nitrate hexahydrate",
+            "amount": "120 mg, 0.40 mmol"
+          }
+        ],
+        "washing_method": "dichloromethane",
+        "drying_method": "vacuum oven at 450 K overnight"
+      }
+    },
+    {
+      "name": "ZIF-UC-5 (5-ClbIm)",
+      "synthesis_conditions": {
+        "temperature": "363 K",
+        "time": "5 days",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "8.3 mL"
+          },
+          {
+            "name": "N,N-diethylformamide (DEF)",
+            "amount": "5.7 mL"
+          },
+          {
+            "name": "NaOH",
+            "amount": "0.52 mL, 2.5 mol dm-3"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Imidazole",
+            "amount": "120 mg, 1.77 mmol"
+          },
+          {
+            "name": "5-chlorobenzimidazole",
+            "amount": "130 mg, 0.85 mmol"
+          },
+          {
+            "name": "Zinc nitrate hexahydrate",
+            "amount": "120 mg, 0.40 mmol"
+          }
+        ],
+        "washing_method": "dichloromethane",
+        "drying_method": "vacuum oven at 450 K overnight"
+      }
+    }
+  ]
+}

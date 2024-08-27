@@ -1,0 +1,210 @@
+{
+  "materials": [
+    {
+      "name": "NF MOF",
+      "synthesis_conditions": {
+        "temperature": "120 oC",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "3.1 mL"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "0.603 mL"
+          }
+        ],
+        "equipment": "borosilicate glass tube",
+        "chemicals_used": [
+          {
+            "name": "NF linker",
+            "amount": "25 mg"
+          },
+          {
+            "name": "ZrCl4",
+            "amount": "14 mg"
+          }
+        ],
+        "time": "5 days",
+        "washing_method": "rinsed with DMF and CH2Cl2",
+        "drying_method": "dried under reduced pressure (50 mtorr) at room temperature for 12 h",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "BxNF1-x MOF",
+      "synthesis_conditions": {
+        "temperature": "120 oC",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "not specified"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "670 µL"
+          }
+        ],
+        "equipment": "borosilicate glass tube",
+        "chemicals_used": [
+          {
+            "name": "B linker",
+            "amount": "3.43 mL (1.8 mM solution)"
+          },
+          {
+            "name": "NF linker",
+            "amount": "25 mg"
+          },
+          {
+            "name": "ZrCl4",
+            "amount": "18 mg"
+          }
+        ],
+        "time": "5 days",
+        "washing_method": "rinsed with DMF and CH2Cl2",
+        "drying_method": "dried under reduced pressure (50 mtorr) at room temperature for 12 h",
+        "yield": "31.2 mg"
+      }
+    },
+    {
+      "name": "GxNF1-x MOF",
+      "synthesis_conditions": {
+        "temperature": "120 oC",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "not specified"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "670 µL"
+          }
+        ],
+        "equipment": "borosilicate glass tube",
+        "chemicals_used": [
+          {
+            "name": "G linker",
+            "amount": "3.43 mL (1.8 mM solution)"
+          },
+          {
+            "name": "NF linker",
+            "amount": "25 mg"
+          },
+          {
+            "name": "ZrCl4",
+            "amount": "18 mg"
+          }
+        ],
+        "time": "5 days",
+        "washing_method": "rinsed with DMF and CH2Cl2",
+        "drying_method": "dried under reduced pressure (50 mtorr) at room temperature for 12 h",
+        "yield": "26.3 mg"
+      }
+    },
+    {
+      "name": "RxNF1-x MOF",
+      "synthesis_conditions": {
+        "temperature": "120 oC",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "not specified"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "670 µL"
+          }
+        ],
+        "equipment": "borosilicate glass tube",
+        "chemicals_used": [
+          {
+            "name": "R linker",
+            "amount": "3.43 mL (1.8 mM solution)"
+          },
+          {
+            "name": "NF linker",
+            "amount": "25 mg"
+          },
+          {
+            "name": "ZrCl4",
+            "amount": "18 mg"
+          }
+        ],
+        "time": "5 days",
+        "washing_method": "rinsed with DMF and CH2Cl2",
+        "drying_method": "dried under reduced pressure (50 mtorr) at room temperature for 12 h",
+        "yield": "21.9 mg"
+      }
+    },
+    {
+      "name": "Low concentration B/G/R/NF MOF",
+      "synthesis_conditions": {
+        "temperature": "120 oC",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "not specified"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "borosilicate glass tube",
+        "chemicals_used": [
+          {
+            "name": "B/G/R linker",
+            "amount": "varied (1.8 mM solution)"
+          },
+          {
+            "name": "NF linker",
+            "amount": "25 mg"
+          },
+          {
+            "name": "ZrCl4",
+            "amount": "not specified"
+          }
+        ],
+        "time": "5 days",
+        "washing_method": "rinsed with DMF and CH2Cl2",
+        "drying_method": "dried under reduced pressure (50 mtorr) at room temperature for 12 h",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "(RxG1-2xBx)yNF1-y MOF",
+      "synthesis_conditions": {
+        "temperature": "120 oC",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "not specified"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "670 µL"
+          }
+        ],
+        "equipment": "borosilicate glass tube",
+        "chemicals_used": [
+          {
+            "name": "B/G/R linker",
+            "amount": "varied (1.8 mM solution)"
+          },
+          {
+            "name": "NF linker",
+            "amount": "25 mg"
+          },
+          {
+            "name": "ZrCl4",
+            "amount": "18 mg"
+          }
+        ],
+        "time": "5 days",
+        "washing_method": "rinsed with DMF and CH2Cl2",
+        "drying_method": "dried under reduced pressure (50 mtorr) at room temperature for 12 h",
+        "yield": "not specified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "materials": [
+    {
+      "name": "DMOF-Th-1o",
+      "synthesis_conditions": {
+        "temperature": "115°C",
+        "solvents": [
+          {
+            "name": "N, N΄-dimethylformamide (DMF)",
+            "amount": "3 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "1 mL"
+          },
+          {
+            "name": "trifluoroacetic acid",
+            "amount": "0.15 mL"
+          }
+        ],
+        "equipment": "25 mL Teflon-lined stainless steel vessel",
+        "chemicals_used": [
+          {
+            "name": "Th(NO3)4·4H2O",
+            "amount": "15 mg"
+          },
+          {
+            "name": "H2L",
+            "amount": "5 mg"
+          }
+        ],
+        "time": "3 days",
+        "washing_method": "washed with 10 mL DMF for three times",
+        "yield": "76% based on Th",
+        "drying_method": "Not specified",
+        "activation_method": {
+          "description": "100 mg powder samples were immerged in acetone (30 mL) for three days with changing acetone three times every day. Then the samples were transferred to Belsorp-max and 200°C was used to activate the samples about 24 h."
+        }
+      }
+    },
+    {
+      "name": "DMOF-Th-1c",
+      "synthesis_conditions": {
+        "preparation_method": "It was prepared by UV (320 nm) irradiation on the activated powder samples of DMOF-Th-1o for 1 h."
+      }
+    },
+    {
+      "name": "Regenerated DMOF-Th-1o",
+      "synthesis_conditions": {
+        "preparation_method": "It was prepared by visible light (540 nm) irradiation on the powder samples of DMOF-Th-1c for 1 h."
+      }
+    }
+  ]
+}

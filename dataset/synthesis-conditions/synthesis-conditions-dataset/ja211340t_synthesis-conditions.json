@@ -1,0 +1,74 @@
+{
+  "materials": [
+    {
+      "name": "[Cu(bpy-1)2(SiF6)]",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "EtOH/H2O",
+            "ratio": "50:50",
+            "volume_ml": 2
+          },
+          {
+            "name": "CHCl3",
+            "volume_ml": 2
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CuSiF6",
+            "amount_mmol": 0.05,
+            "amount_mg": 10.3
+          },
+          {
+            "name": "4,4’-bipyridyl",
+            "amount_mmol": 0.1,
+            "amount_mg": 15.6
+          }
+        ],
+        "method": "Layering",
+        "time": "1 week",
+        "yield": "Not specified",
+        "crystal_growth_method": "Layering solution",
+        "activation_method": "High vacuum at room temperature after MeOH exchange"
+      }
+    },
+    {
+      "name": "[Cu(bpy-2)2(SiF6)]",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "H2O",
+            "volume_ml": 8
+          },
+          {
+            "name": "MeOH",
+            "volume_ml": 8
+          },
+          {
+            "name": "nitrobenzene",
+            "volume_ml": 0.25
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CuSiF6",
+            "amount_mmol": 0.1,
+            "amount_mg": 20.6
+          },
+          {
+            "name": "1,2-bis(4-pyridyl)ethene",
+            "amount_mmol": 0.2,
+            "amount_mg": 36.4
+          }
+        ],
+        "temperature_C": 85,
+        "time_h": 24,
+        "method": "Solvothermal",
+        "yield": "Not specified",
+        "crystal_growth_method": "Solvothermal reaction",
+        "activation_method": "High vacuum at room temperature after MeOH exchange"
+      }
+    }
+  ]
+}

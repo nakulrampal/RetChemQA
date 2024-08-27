@@ -1,0 +1,56 @@
+{
+  "Co-MOF": {
+    "temperature": "130 °C",
+    "solvents": "DMF/H2O",
+    "amount_of_each_solvent": "1.75 mL DMF, 0.5 mL water",
+    "equipment": "10-mL Teﬂon-lined autoclave",
+    "chemicals_used": "CoCl2·6H2O (18.0 mg), 5-(1H-1,2,4-triazol-1-yl)isophthalic acid (9.0 mg)",
+    "time": "72 h",
+    "washing_method": "water and ethanol",
+    "drying_method": "60 °C"
+  },
+  "Cd-MOF": {
+    "temperature": "180 °C",
+    "solvents": "water/acetic acid",
+    "amount_of_each_solvent": "2.0 mL water, 0.4 mL acetic acid",
+    "equipment": "20-mL Teﬂon-lined autoclave",
+    "chemicals_used": "Cd(CH3COO)2·2H2O (30.0 mg), 5-(1H-1,2,4-triazol-1-yl)isophthalic acid (24.0 mg)",
+    "time": "24 h",
+    "washing_method": "water and ethanol",
+    "drying_method": "60 °C"
+  },
+  "Zn-MOF": {
+    "temperature": "180 °C",
+    "solvents": "water/acetic acid",
+    "amount_of_each_solvent": "2.0 mL water, 0.4 mL acetic acid",
+    "equipment": "20-mL Teﬂon-lined autoclave",
+    "chemicals_used": "ZnCl2 (30.0 mg), 5-(1H-1,2,4-triazol-1-yl)isophthalic acid (24.0 mg)",
+    "time": "24 h",
+    "washing_method": "water and ethanol",
+    "drying_method": "60 °C"
+  },
+  "Co-MOL@GO": {
+    "temperature": "130 °C",
+    "solvents": "DMF/H2O",
+    "amount_of_each_solvent": "1.75 mL DMF, 0.5 mL water, 0.25 mL acetic acid",
+    "equipment": "10 mL Teﬂon-lined autoclave",
+    "chemicals_used": "Co@GO (20 mg), 5-(1H-1,2,4-triazol-1-yl)isophthalic acid (10 mg)",
+    "time": "4 h",
+    "washing_method": "DMF, water, and ethanol",
+    "drying_method": "60 °C",
+    "preparation_steps": [
+      "Immobilization of Co2+ on GO",
+      "Growth of Co-MOL on GO layers"
+    ]
+  },
+  "Cd-MOL@GO": {
+    "temperature": "180 °C",
+    "solvents": "water/acetic acid",
+    "amount_of_each_solvent": "2.0 mL water, 0.4 mL acetic acid",
+    "equipment": "20 mL Teﬂon-lined autoclave",
+    "chemicals_used": "Cd@GO (20 mg), 5-(1H-1,2,4-triazol-1-yl)isophthalic acid (24 mg)",
+    "time": "4 h",
+    "washing_method": "water and ethanol",
+    "drying_method": "60 °C"
+  }
+}

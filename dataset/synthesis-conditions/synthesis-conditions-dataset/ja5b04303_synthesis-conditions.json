@@ -1,0 +1,97 @@
+{
+  "FeNb": {
+    "synthesis_conditions": {
+      "temperature": "296 K",
+      "solvents": "Aqueous solution",
+      "pressure_conditions": [
+        {
+          "pressure": "0.0 GPa",
+          "unit_cell_parameters": {
+            "a": "21.659(5) Å",
+            "c": "9.618(5) Å",
+            "volume": "4512.0(30) Å3"
+          },
+          "Fe-NCN_bond_length": "2.198(3) Å",
+          "average_Fe-Npyrazole_bond_length": "2.171(3) Å",
+          "Nb-Cbridge_bond_length": "2.263(4) Å",
+          "C-N_bond_length": "1.154(5) Å",
+          "Fe-N-C_angle": "164.2(3) degrees"
+        },
+        {
+          "pressure": "0.20 GPa",
+          "unit_cell_parameters": {
+            "a": "21.400(3) Å",
+            "c": "9.438(2) Å",
+            "volume": "4322.4(12) Å3"
+          }
+        },
+        {
+          "pressure": "2.88 GPa",
+          "unit_cell_parameters": {
+            "a": "20.470(4) Å",
+            "c": "9.10(10) Å",
+            "volume": "3813(42) Å3"
+          },
+          "Fe-NCN_bond_length": "1.953(13) Å",
+          "average_Fe-Npyrazole_bond_length": "1.910(60) Å",
+          "Nb-Cbridge_bond_length": "2.123(18) Å",
+          "C-N_bond_length": "1.330(30) Å",
+          "Fe-N-C_angle": "149.0(30) degrees"
+        }
+      ],
+      "reagents": [
+        "K4[NbIV(CN)8]·2H2O",
+        "FeII source",
+        "pyrazole"
+      ],
+      "yield": "Not specified",
+      "drying_method": "Not specified",
+      "washing_method": "Not specified"
+    }
+  },
+  "MnNb": {
+    "synthesis_conditions": {
+      "temperature": "296 K",
+      "solvents": "Aqueous solution",
+      "pressure_conditions": [
+        {
+          "pressure": "0.0 GPa",
+          "unit_cell_parameters": {
+            "a": "21.537(2) Å",
+            "c": "9.417(3) Å",
+            "volume": "4367.9(13) Å3"
+          },
+          "Mn-NCN_bond_length": "2.258(2) Å",
+          "average_Mn-Npyrazole_bond_length": "2.242(2) Å",
+          "Nb-Cbridge_bond_length": "2.260(2) Å",
+          "C-N_bond_length": "1.149(3) Å",
+          "Mn-N-C_angle": "163.2(2) degrees"
+        },
+        {
+          "pressure": "2.42 GPa",
+          "unit_cell_parameters": {
+            "a": "21.2734(17) Å",
+            "c": "9.258(3) Å",
+            "volume": "4189.6(12) Å3"
+          }
+        },
+        {
+          "pressure": "0.0 GPa (after 1.30 GPa)",
+          "unit_cell_parameters": {
+            "a": "21.8286(1) Å",
+            "c": "9.6360(1) Å",
+            "volume": "4591.44(6) Å3"
+          }
+        }
+      ],
+      "reagents": [
+        "K4[NbIV(CN)8]·2H2O",
+        "MnII source",
+        "pyrazole"
+      ],
+      "yield": "Not specified",
+      "drying_method": "Not specified",
+      "washing_method": "Not specified"
+    }
+  }
+}

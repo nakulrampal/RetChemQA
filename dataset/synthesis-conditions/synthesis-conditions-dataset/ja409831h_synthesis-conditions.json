@@ -1,0 +1,80 @@
+{
+  "materials": [
+    {
+      "material": "[enH2]Cu(H2O)2[V2O2F8] (1)",
+      "synthesis_conditions": {
+        "method": "hydrothermal",
+        "starting_materials": [
+          {
+            "chemical": "VO2",
+            "amount": "1.99 mmol",
+            "purity": "99.9%",
+            "supplier": "Aldrich"
+          },
+          {
+            "chemical": "CuO",
+            "amount": "4.02 mmol",
+            "purity": "99.995%",
+            "supplier": "Alfa Aesar"
+          },
+          {
+            "chemical": "48% aqueous HF",
+            "amount": "27.8 mmol",
+            "supplier": "Aldrich"
+          },
+          {
+            "chemical": "ethylenediamine",
+            "amount": "29.9 mmol",
+            "purity": "99%",
+            "supplier": "Aldrich"
+          }
+        ],
+        "equipment": "Teflon pouches in a 125 mL Parr autoclave",
+        "solvent": "distilled water",
+        "solvent_amount": "45 mL",
+        "temperature": "150 °C",
+        "time": "24 h",
+        "cooling_rate": "6 °C/h",
+        "recovery_method": "vacuum filtration"
+      }
+    },
+    {
+      "material": "[Cu(H2O)(2,2′-bpy)]2[V2O2F8] (2)",
+      "synthesis_conditions": {
+        "method": "hydrothermal",
+        "starting_materials": [
+          {
+            "chemical": "VO2",
+            "amount": "1.99 mmol",
+            "purity": "99.9%",
+            "supplier": "Aldrich"
+          },
+          {
+            "chemical": "CuO",
+            "amount": "4.02 mmol",
+            "purity": "99.995%",
+            "supplier": "Alfa Aesar"
+          },
+          {
+            "chemical": "48% aqueous HF",
+            "amount": "27.8 mmol",
+            "supplier": "Aldrich"
+          },
+          {
+            "chemical": "2,2′-dipyridyl",
+            "amount": "2.56 mmol",
+            "purity": "99%",
+            "supplier": "Aldrich"
+          }
+        ],
+        "equipment": "Teflon pouches in a 125 mL Parr autoclave",
+        "solvent": "distilled water",
+        "solvent_amount": "45 mL",
+        "temperature": "150 °C",
+        "time": "24 h",
+        "cooling_rate": "6 °C/h",
+        "recovery_method": "vacuum filtration"
+      }
+    }
+  ]
+}

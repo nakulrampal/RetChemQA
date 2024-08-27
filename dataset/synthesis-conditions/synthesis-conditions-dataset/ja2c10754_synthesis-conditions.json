@@ -1,0 +1,160 @@
+{
+  "materials": [
+    {
+      "label": "3a",
+      "conditions": {
+        "temperature": "130 °C",
+        "solvents": "THF",
+        "amount_of_solvent": "5 mL",
+        "chemicals_used": [
+          {
+            "chemical": "CuCl",
+            "amount": "10 mol %"
+          },
+          {
+            "chemical": "dcpe",
+            "amount": "15 mol %"
+          },
+          {
+            "chemical": "B2(pin)2",
+            "amount": "0.5 mmol"
+          },
+          {
+            "chemical": "styrene (1a)",
+            "amount": "1.5 equiv"
+          },
+          {
+            "chemical": "LiOtBu",
+            "amount": "4.1 equiv"
+          }
+        ],
+        "atmosphere": "CO2 (1 atm)",
+        "time": "24 h",
+        "additional_steps": [
+          {
+            "step": "Methylation",
+            "details": "DMF (2 mL) and MeI (1 mL) were added and the mixture was stirred for 2 h at 80 °C."
+          }
+        ],
+        "yield": "88% NMR yield (75% isolated yield)"
+      }
+    },
+    {
+      "label": "3b",
+      "conditions": {
+        "temperature": "130 °C",
+        "solvents": "THF",
+        "amount_of_solvent": "5 mL",
+        "chemicals_used": [
+          {
+            "chemical": "CuCl",
+            "amount": "10 mol %"
+          },
+          {
+            "chemical": "dcpe",
+            "amount": "15 mol %"
+          },
+          {
+            "chemical": "B2(pin)2",
+            "amount": "0.5 mmol"
+          },
+          {
+            "chemical": "4-alkyl styrenes",
+            "amount": "1.5 equiv"
+          },
+          {
+            "chemical": "LiOtBu",
+            "amount": "4.1 equiv"
+          }
+        ],
+        "atmosphere": "CO2 (1 atm)",
+        "time": "24 h",
+        "additional_steps": [
+          {
+            "step": "Methylation",
+            "details": "DMF (2 mL) and MeI (1 mL) were added and the mixture was stirred for 2 h at 80 °C."
+          }
+        ],
+        "yield": "Good yields for various 4-alkyl styrenes"
+      }
+    },
+    {
+      "label": "3c",
+      "conditions": {
+        "temperature": "130 °C",
+        "solvents": "THF",
+        "amount_of_solvent": "5 mL",
+        "chemicals_used": [
+          {
+            "chemical": "CuCl",
+            "amount": "10 mol %"
+          },
+          {
+            "chemical": "dcpe",
+            "amount": "15 mol %"
+          },
+          {
+            "chemical": "B2(pin)2",
+            "amount": "0.5 mmol"
+          },
+          {
+            "chemical": "4-(tert-butyl)styrene",
+            "amount": "1.5 equiv"
+          },
+          {
+            "chemical": "LiOtBu",
+            "amount": "4.1 equiv"
+          }
+        ],
+        "atmosphere": "CO2 (1 atm)",
+        "time": "24 h",
+        "additional_steps": [
+          {
+            "step": "Methylation",
+            "details": "DMF (2 mL) and MeI (1 mL) were added and the mixture was stirred for 2 h at 80 °C."
+          }
+        ],
+        "yield": "Specific yield not mentioned"
+      }
+    },
+    {
+      "label": "3d",
+      "conditions": {
+        "temperature": "130 °C",
+        "solvents": "THF",
+        "amount_of_solvent": "5 mL",
+        "chemicals_used": [
+          {
+            "chemical": "CuCl",
+            "amount": "10 mol %"
+          },
+          {
+            "chemical": "dcpe",
+            "amount": "15 mol %"
+          },
+          {
+            "chemical": "B2(pin)2",
+            "amount": "0.5 mmol"
+          },
+          {
+            "chemical": "4-methoxystyrene",
+            "amount": "1.5 equiv"
+          },
+          {
+            "chemical": "LiOtBu",
+            "amount": "4.1 equiv"
+          }
+        ],
+        "atmosphere": "CO2 (1 atm)",
+        "time": "24 h",
+        "additional_steps": [
+          {
+            "step": "Methylation",
+            "details": "DMF (2 mL) and MeI (1 mL) were added and the mixture was stirred for 2 h at 80 °C."
+          }
+        ],
+        "yield": "Specific yield not mentioned"
+      }
+    }
+  ]
+}

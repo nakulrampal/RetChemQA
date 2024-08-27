@@ -1,0 +1,103 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "solvents": "methanol",
+        "amount_of_solvent_ml": 10,
+        "chemicals_used": [
+          "MnCl2·4 H2O (0.06 g, 0.3 mmol)",
+          "tBu-saoH2 (0.075 g, 0.3 mmol)",
+          "NaOH (0.02 g, 0.5 mmol)"
+        ],
+        "stirring_time_min": 60,
+        "yield_percentage": 70,
+        "drying_method": "Slow evaporation of the solvents",
+        "equipment": "Nonius KappaCCD diffractometer with MoKa radiation",
+        "crystal_structure_data": {
+          "space_group": "P21/c",
+          "a": "14.8075(3)",
+          "b": "28.5208(6)",
+          "c": "15.6968(4)",
+          "beta": "111.0574(7)",
+          "V": "6186.4(2)",
+          "Z": 4,
+          "density_calcd_g_cm3": 1.220,
+          "lambda": "0.71073",
+          "mu_MoKa_mm-1": 0.701,
+          "F_000": 2408,
+          "GOF": 0.889,
+          "T_K": 273,
+          "final_R1": 0.0621,
+          "wR2": 0.1226
+        }
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "solvents": "methanol",
+        "amount_of_solvent_ml": 10,
+        "chemicals_used": [
+          "Mn(HCOO)2·2 H2O (0.06 g, 0.3 mmol)",
+          "tBu-saoH2 (0.075 g, 0.3 mmol)",
+          "NaOH (0.004 g, 0.1 mmol)"
+        ],
+        "stirring_time_min": 60,
+        "yield_percentage": 30,
+        "drying_method": "Slow evaporation of the solvents",
+        "equipment": "Nonius KappaCCD diffractometer with MoKa radiation",
+        "crystal_structure_data": {
+          "space_group": "P21/c",
+          "a": "15.6891(4)",
+          "b": "28.7759(6)",
+          "c": "14.5171(3)",
+          "beta": "110.4250(10)",
+          "V": "6142.0(2)",
+          "Z": 4,
+          "density_calcd_g_cm3": 1.199,
+          "lambda": "0.71073",
+          "mu_MoKa_mm-1": 0.662,
+          "F_000": 2348,
+          "GOF": 0.921,
+          "T_K": 273,
+          "final_R1": 0.0609,
+          "wR2": 0.1464
+        }
+      }
+    },
+    {
+      "name": "3",
+      "synthesis_conditions": {
+        "solvents": "methanol",
+        "amount_of_solvent_ml": 10,
+        "chemicals_used": [
+          "Mn(ClO4)2·6 H2O (0.08 g, 0.3 mmol)",
+          "tBu-saoH2 (0.075 g, 0.3 mmol)",
+          "NaN3 (0.035 g, 0.5 mmol)"
+        ],
+        "stirring_time_min": 60,
+        "yield_percentage": 50,
+        "drying_method": "Left undisturbed to give dark brown crystals",
+        "equipment": "Nonius KappaCCD diffractometer with MoKa radiation",
+        "crystal_structure_data": {
+          "space_group": "P21/c",
+          "a": "14.0749(2)",
+          "b": "15.0723(2)",
+          "c": "31.7811(5)",
+          "beta": "97.3385(4)",
+          "V": "6686.9(2)",
+          "Z": 4,
+          "density_calcd_g_cm3": 1.161,
+          "lambda": "0.71073",
+          "mu_MoKa_mm-1": 0.615,
+          "F_000": 2484,
+          "GOF": 0.990,
+          "T_K": 180,
+          "final_R1": 0.0625,
+          "wR2": 0.1774
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "materials": [
+    {
+      "name": "Na[Na{(3)Ti}]",
+      "synthesis_conditions": {
+        "solvents": "DMF",
+        "chemicals_used": [
+          "3-H6 (1 equiv)",
+          "[TiO(acac)2] (1 equiv; acac = actylacetonate)",
+          "sodium carbonate (1 equiv)"
+        ],
+        "equipment": "vacuum for solvent removal",
+        "NMR_solvent": "[D6]DMSO",
+        "yield": "not specified",
+        "additional_information": "The presence of a mononuclear titanium complex was shown by X-ray structure analysis."
+      }
+    },
+    {
+      "name": "K2[K2{(3)2(Ti3O2)}]",
+      "synthesis_conditions": {
+        "solvents": "DMF/diethyl ether",
+        "chemicals_used": [
+          "3-H6",
+          "titanium(iv) ions",
+          "potassium ions"
+        ],
+        "equipment": "crystallization",
+        "yield": "not specified",
+        "additional_information": "The complex was formed by K+ templating and possesses two cryptand-type units suitable for binding two of the potassium ions."
+      }
+    },
+    {
+      "name": "K8[(3)4Ti4]",
+      "synthesis_conditions": {
+        "solvents": "[D6]DMSO",
+        "chemicals_used": [
+          "oligomeric complexes “{K2[(3)Ti]}n”"
+        ],
+        "time": "several days",
+        "yield": "not specified",
+        "additional_information": "The structure of a supramolecular tetrahedron was deduced based on NMR spectroscopy and confirmed by FT-ICR-MS."
+      }
+    },
+    {
+      "name": "[Na{(3)Ti}]",
+      "synthesis_conditions": {
+        "solvents": "[D6]DMSO",
+        "chemicals_used": [
+          "K8[(3)4Ti4]",
+          "NaClO4"
+        ],
+        "yield": "not specified",
+        "additional_information": "Transformation of the tetrahedron into the mononuclear compound was monitored by 1H NMR spectroscopy."
+      }
+    }
+  ]
+}

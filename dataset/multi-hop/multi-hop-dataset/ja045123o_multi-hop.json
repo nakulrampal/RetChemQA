@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "DOI": "10.1021/ja045123o",
+      "questions": [
+        {
+          "question": "What are the synthesis conditions for MOF-69A?",
+          "answer": "A solid mixture of Zn(NO3)2·6H2O (24.6 mg, 0.083 mmol) and 4,4‘-biphenyldicarboxylic acid (H2BPDC) (10 mg, 0.041 mmol) was dissolved in DEF (12 mL), 30% H2O2 (0.40 mL), and CH3NH2 (0.20 mL, 70.3 mM in DMF). The mixture was allowed to stand in a capped vial for 7 days at room temperature.",
+          "difficulty": "medium",
+          "type": "factual"
+        },
+        {
+          "question": "What is the crystal system and space group for MOF-69B?",
+          "answer": "The crystal system for MOF-69B is monoclinic, and the space group is C2/c.",
+          "difficulty": "easy",
+          "type": "factual"
+        },
+        {
+          "question": "How was the structure of MOF-74 determined?",
+          "answer": "The structure of MOF-74 was determined using a Bruker SMART APEX CCD diffractometer with Mo-target X-ray tube, at a temperature of 153(2) K. The structure was solved by direct methods and refined using the SHELXTL software package, in the trigonal space group R(-3).",
+          "difficulty": "hard",
+          "type": "factual"
+        },
+        {
+          "question": "What method was used for absorption correction in the analysis of MOF-76?",
+          "answer": "An empirical absorption correction based on the observed faces of the crystal was made using XPREP, followed by an empirical correction for detector and other data errors based on comparison of redundant and equivalent reflections using SADABS.",
+          "difficulty": "medium",
+          "type": "factual"
+        },
+        {
+          "question": "What are the differences in the synthesis conditions between MOF-69A and MOF-69B?",
+          "answer": "The main difference in the synthesis conditions between MOF-69A and MOF-69B is the organic linker used. MOF-69A uses 4,4‘-biphenyldicarboxylic acid (H2BPDC), while MOF-69B uses 2,6-naphthalenedicarboxylic acid (H2NDC). Additionally, the final products were allowed to stand in a capped vial for 7 days at room temperature for both MOFs.",
+          "difficulty": "medium",
+          "type": "reasoning"
+        },
+        {
+          "question": "Based on the synthesis conditions, which MOF, MOF-69A or MOF-69B, is expected to have a larger pore size?",
+          "answer": "The synthesis conditions do not directly indicate which MOF would have a larger pore size. The pore size is more directly related to the structure and the organic linkers used rather than the synthesis conditions described.",
+          "difficulty": "hard",
+          "type": "reasoning"
+        },
+        {
+          "question": "Is the crystal system for MOF-74 trigonal?",
+          "answer": "True",
+          "difficulty": "easy",
+          "type": "True or False"
+        },
+        {
+          "question": "MOF-76 was analyzed using a CCD-based X-ray diffractometer at a temperature of 158(2) K.",
+          "answer": "True",
+          "difficulty": "easy",
+          "type": "True or False"
+        },
+        {
+          "question": "The absorption correction for MOF-79 was applied using the SADABS software.",
+          "answer": "True",
+          "difficulty": "easy",
+          "type": "True or False"
+        },
+        {
+          "question": "MOF-80's structure was solved using the space group P(-1) with Z = 2 for the formula.",
+          "answer": "True",
+          "difficulty": "easy",
+          "type": "True or False"
+        }
+      ]
+    }
+  ]
+}

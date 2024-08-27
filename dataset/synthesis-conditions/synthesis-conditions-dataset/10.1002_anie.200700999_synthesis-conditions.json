@@ -1,0 +1,93 @@
+{
+  "materials": [
+    {
+      "name": "porous coordination network [{(ZnI2)3(2)2}n]",
+      "synthesis_conditions": {
+        "solvents": "nitrobenzene/methanol solvent mixture",
+        "yield": "high yield as nitrobenzene clathrate [{(ZnI2)3(2)2·5.5 (C6H5NO2)}n] (3)"
+      }
+    },
+    {
+      "name": "inclusion complex of (o-HOC6H4)CH=N(m-ClC6H4) (1 a)",
+      "synthesis_conditions": {
+        "method": "single-crystal-to-single-crystal guest exchange from nitrobenzene clathrate 3",
+        "solvent": "saturated solution of 1 a in tBuOH",
+        "temperature": "room temperature",
+        "time": "3 days",
+        "resulting_composition": "[{(ZnI2)3(2)2·1.3 (1 a)·1.0 (tBuOH)}n] (4)"
+      }
+    },
+    {
+      "name": "clathrate complex [{(ZnI2)3(2)2·1.8 (1 a)·0.8 (c-C6H12)}n] (5)",
+      "synthesis_conditions": {
+        "method": "single-crystal-to-single-crystal guest exchange",
+        "solvent": "saturated solution of 1 a in cyclohexane",
+        "resulting_composition": "[{(ZnI2)3(2)2·1.8 (1 a)·0.8 (c-C6H12)}n] (5)"
+      }
+    },
+    {
+      "name": "inclusion complex of (o-HOC6H4)CH=N(p-ClC6H4) (1 b) in [{(ZnI2)3(2)2·1.4 (1 b)·1.0 (tBuOH)}n] (6)",
+      "synthesis_conditions": {
+        "note": "Similarly, thermochromic 1 b turned photochromic through inclusion within the clathrate network."
+      }
+    }
+  ],
+  "elemental_analysis": [
+    {
+      "compound": "4",
+      "calculated": {
+        "C": "34.91",
+        "H": "2.42",
+        "N": "9.52"
+      },
+      "found": {
+        "C": "34.61",
+        "H": "2.68",
+        "N": "9.43"
+      }
+    },
+    {
+      "compound": "5",
+      "calculated": {
+        "C": "37.31",
+        "H": "2.52",
+        "N": "9.35"
+      },
+      "found": {
+        "C": "37.29",
+        "H": "2.57",
+        "N": "9.19"
+      }
+    }
+  ],
+  "crystallographic_data": [
+    {
+      "compound": "4",
+      "details": {
+        "diffractometer": "Bruker APEX-II/CCD",
+        "radiation": "MoKa",
+        "wavelength": "0.71073 G",
+        "temperature": "80 K",
+        "space_group": "C2/c",
+        "final_R_factors": {
+          "R1": "0.0680",
+          "wR2": "0.2088"
+        }
+      }
+    },
+    {
+      "compound": "5",
+      "details": {
+        "radiation_source": "Synchrotron radiation",
+        "wavelength": "0.6890 G",
+        "beamline": "PF-AR (NW2 beamline)",
+        "temperature": "150 K",
+        "space_group": "C2/c",
+        "final_R_factors": {
+          "R1": "0.0364",
+          "wR2": "0.0996"
+        }
+      }
+    }
+  ]
+}

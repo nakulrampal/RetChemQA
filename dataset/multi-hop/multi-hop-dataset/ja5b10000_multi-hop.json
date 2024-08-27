@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What are the synthesis conditions for 1·Gd, 1·Tb, and 1·Dy?",
+      "answer": "An aqueous solution of triethylamine (0.1 mL, 1M) was added to a mixture of 2,2′-bipyridine-4,4′-dicarboxylic acid (24.4 mg, 0.1 mmol), Ln(NO3)3·6H2O (0.2 mmol, Ln = Gd (90.2 mg, 1·Gd), Tb (90.6 mg, 1·Tb), and Dy (91.3 mg, 1·Dy)) in 4 mL ethanol and 4 mL distilled water while stirring. The mixture was sealed in a 25 mL Teflon-lined stainless steel autoclave and kept at 200 °C for three days, then cooled down to room temperature at the rate of 2 °C per hour.",
+      "difficulty": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "What are the crystallographic data of 1·Gd after treatments in various solutions?",
+      "answer": "After treatments in 5M, 10M, 15M NaOH, and 1M HCl aqueous solutions, 1·Gd retains its cubic crystal system and I432 space group. The unit cell parameters (a = b = c) slightly vary with different treatments, indicating the structure does not change significantly.",
+      "difficulty": "Hard",
+      "type": "Factual"
+    },
+    {
+      "question": "How was the magnetocaloric effect of 1·Gd measured and what was the result?",
+      "answer": "The magnetocaloric effect of 1·Gd was evaluated by measuring the magnetization from 2 to 10 K at various magnetic fields. At 2 K, the field-dependent magnetization shows a steady increase with increasing field and reaches complete saturation of 21.16 Nβ under 7 T. The magnetic entropy change, −ΔSm, was calculated, giving a maximum of 66.5 J kg−1 K−1 at 3 K for ΔH = 8 T.",
+      "difficulty": "Hard",
+      "type": "Factual"
+    },
+    {
+      "question": "What was the role of 1·Gd in the cycloaddition reaction of epoxides with CO2?",
+      "answer": "1·Gd acted as a catalyst in the cycloaddition reaction of epoxides with CO2. It facilitated the reaction by activating the epoxides through coordination to the eight-coordinated Lewis acidic Gd3+ sites, while CO2 enriched around the window of the [Gd60] nanocage, accelerating the transformation of CO2.",
+      "difficulty": "Medium",
+      "type": "Reasoning"
+    },
+    {
+      "question": "What experimental evidence supports the heterogeneous nature of the catalysis by 1·Gd in the cycloaddition reaction?",
+      "answer": "The heterogeneous nature of the catalysis by 1·Gd was supported by a catalyst filtration test and ICP analysis of the solution phase. The reaction rate dramatically decreased after the removal of the catalyst, and ICP analysis showed only trace amounts of Gd in the carbonate product, indicating that the reaction was catalyzed by the solid catalyst without significant leaching of Gd3+.",
+      "difficulty": "Hard",
+      "type": "Reasoning"
+    },
+    {
+      "question": "What are the stability characteristics of 1·Gd, 1·Tb, and 1·Dy towards various chemical treatments?",
+      "answer": "1·Gd, 1·Tb, and 1·Dy exhibit exceptional chemical stability towards 0.1 M HCl and 20 M NaOH solutions, retaining their crystallinity and structural integrity. However, 1·Gd shows observable changes in morphology, color, and transparency when soaked in 1 M HCl solution, suggesting decomposition under these conditions.",
+      "difficulty": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "True or False: The [Gd60] nanocage in 1·Gd has windows large enough for CO2 molecules to enter easily.",
+      "answer": "False. The window size of the [Gd60] nanocage is slightly bigger than the size of CO2, making it not easy for CO2 to enter the nanocage, as supported by the indistinctive CO2 adsorption amount of 1·Gd.",
+      "difficulty": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The magnetic studies of 1·Gd, 1·Tb, and 1·Dy revealed that all three compounds exhibit ferromagnetic interactions.",
+      "answer": "False. The magnetic studies revealed antiferromagnetic (AF) interactions between adjacent Gd3+ ions in 1·Gd, and significant magnetic anisotropy in 1·Tb and 1·Dy, which is common in lanthanide compounds.",
+      "difficulty": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the maximum magnetic entropy change (−ΔSm max) observed for 1·Gd and how does it compare to other compounds?",
+      "answer": "The maximum magnetic entropy change (−ΔSm max) observed for 1·Gd was 66.5 J kg−1 K−1 at 3 K for ΔH = 8 T, which is among the largest known values for molecule-based magnetic cooling materials.",
+      "difficulty": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "True or False: The synthesis of 1·Gd, 1·Tb, and 1·Dy involves the use of triethylamine and a Teflon-lined stainless steel autoclave.",
+      "answer": "True. The synthesis of these compounds involves adding triethylamine to a mixture of precursors and then sealing the mixture in a Teflon-lined stainless steel autoclave, followed by heating.",
+      "difficulty": "Easy",
+      "type": "True or False"
+    }
+  ]
+}

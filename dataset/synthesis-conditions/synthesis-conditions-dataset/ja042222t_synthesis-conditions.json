@@ -1,0 +1,374 @@
+{
+  "materials": [
+    {
+      "material": "[Cu(mtz)]∞ (1; Hmtz = 3,5-Dimethyl-1,2,4-triazole)",
+      "conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "aqueous ammonia",
+            "amount": "2.0 mL"
+          },
+          {
+            "name": "acetonitrile",
+            "amount": "5.0 mL"
+          }
+        ],
+        "equipment": "15-mL Teflon-lined reactor",
+        "chemicals_used": [
+          "Cu(OH)2 (0.196 g, 2.0 mmol)",
+          "or Cu2(OH)2CO3 (0.221 g, 2.0 mmol)"
+        ],
+        "time": "60 hrs",
+        "washing_method": "water",
+        "drying_method": "air",
+        "yield": "20−25% based on Cu"
+      }
+    },
+    {
+      "material": "{[Cu(etz)]·H2O}∞ (2; Hetz = 3,5-Diethyl-1,2,4-triazole)",
+      "conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "aqueous ammonia",
+            "amount": "2.0 mL"
+          },
+          {
+            "name": "propionitrile",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "15-mL Teflon-lined reactor",
+        "chemicals_used": [
+          "Cu(OH)2 or Cu2(OH)2CO3 (amount not specified)"
+        ],
+        "time": "60 hrs",
+        "washing_method": "ethanol",
+        "drying_method": "air",
+        "yield": "10−15% based on Cu"
+      }
+    },
+    {
+      "material": "[Cu(ptz)]∞ (3; Hptz = 3,5-Dipropyl-1,2,4-triazole)",
+      "conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "aqueous ammonia",
+            "amount": "2.0 mL"
+          },
+          {
+            "name": "butyronitirle",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "15-mL Teflon-lined reactor",
+        "chemicals_used": [
+          "Cu(OH)2 or Cu2(OH)2CO3 (amount not specified)"
+        ],
+        "time": "60 hrs",
+        "washing_method": "ethanol",
+        "drying_method": "air",
+        "yield": "10−15% based on Cu"
+      }
+    },
+    {
+      "material": "[Cu5CN(btz)4]∞ (4; Hbtz = 3,5-Dibutyl-1,2,4-triazole)",
+      "conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "aqueous ammonia",
+            "amount": "1.0 mL"
+          },
+          {
+            "name": "valeronitrile",
+            "amount": "1.0 mL"
+          },
+          {
+            "name": "THF",
+            "amount": "5.0 mL"
+          }
+        ],
+        "equipment": "15-mL Teflon-lined reactor",
+        "chemicals_used": [
+          "Cu(OH)2 (0.196 g, 2.0 mmol)"
+        ],
+        "time": "60 hrs",
+        "washing_method": "ethanol",
+        "drying_method": "air",
+        "yield": "ca. 5% based on Cu"
+      }
+    },
+    {
+      "material": "[Cu6(phtz)6]∞ (5; Hphtz = 3,5-Diphenyl-1,2,4-triazole)",
+      "conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "aqueous ammonia",
+            "amount": "2.0 mL"
+          },
+          {
+            "name": "benzonitrile",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "15-mL Teflon-lined reactor",
+        "chemicals_used": [
+          "Cu(OH)2 or Cu2(OH)2CO3 (amount not specified)"
+        ],
+        "time": "60 hrs",
+        "washing_method": "ethanol",
+        "drying_method": "air",
+        "yield": "5−10% based on Cu"
+      }
+    },
+    {
+      "material": "[CuI2CuII2(2-pytz)4(2-pa)2]·2H2O (6; 2-Hpytz = 3,5-Di(2-pyridyl)-1,2,4-triazole, 2-Hpa = Pyridine-2-carboxylic acid)",
+      "conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "aqueous ammonia",
+            "amount": "1.0 mL"
+          },
+          {
+            "name": "2-cyanopyridine",
+            "amount": "1.04 g, 10 mmol"
+          }
+        ],
+        "equipment": "15-mL Teflon-lined reactor",
+        "chemicals_used": [
+          "Cu(OH)2 (0.196 g, 2.0 mmol)"
+        ],
+        "time": "60 hrs",
+        "washing_method": "water",
+        "drying_method": "air",
+        "yield": "ca. 2% based on Cu"
+      }
+    },
+    {
+      "material": "{[Cu5(3-pytz)4]·NO3·2H2O}∞ (7; 3-Hpytz = 3,5-Di(3-pyridyl)-1,2,4-triazole)",
+      "conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "aqueous ammonia",
+            "amount": "1.0 mL"
+          },
+          {
+            "name": "3-cyanopyridine",
+            "amount": "1.04 g, 10 mmol"
+          }
+        ],
+        "equipment": "15-mL Teflon-lined reactor",
+        "chemicals_used": [
+          "Cu(NO3)2·3H2O (0.242 g, 1.0 mmol)"
+        ],
+        "time": "60 hrs",
+        "washing_method": "water",
+        "drying_method": "air",
+        "yield": "20−25% based on Cu"
+      }
+    },
+    {
+      "material": "[Cu(4-pytap)2] (8; 4-Hpytap = 2,4-Di(4-pyridyl)-1,3,5-triazapentadiene)",
+      "conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "5.0 mL"
+          }
+        ],
+        "equipment": "15-mL Teflon-lined reactor",
+        "chemicals_used": [
+          "Cu(OH)2 (0.392 g, 4.0 mmol)",
+          "(NH4)2CO3 (0.96 g, 10 mmol)",
+          "4-cyanopyridine (1.04 g, 10 mmol)"
+        ],
+        "time": "60 hrs",
+        "washing_method": "ethanol",
+        "drying_method": "air",
+        "yield": "10−15% based on Cu"
+      }
+    },
+    {
+      "material": "[Ni(4-pytap)2] (8·Ni)",
+      "conditions": {
+        "temperature": "90 to 160 °C",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "5.0 mL"
+          }
+        ],
+        "equipment": "15-mL Teflon-lined reactor",
+        "chemicals_used": [
+          "Ni2(OH)2CO3 (0.422 g, 2.0 mmol)",
+          "4-cyanopyridine (1.04 g, 10 mmol)"
+        ],
+        "time": "60 hrs",
+        "washing_method": "ethanol",
+        "drying_method": "air",
+        "yield": "ca. 5% based on Ni"
+      }
+    },
+    {
+      "material": "[Ni(4-pytap)2]·2H2O (8·Ni·2H2O)",
+      "conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "3.0 mL"
+          }
+        ],
+        "equipment": "15-mL Teflon-lined reactor",
+        "chemicals_used": [
+          "8·Ni (0.051 g, 0.1 mmol)"
+        ],
+        "time": "60 hrs",
+        "washing_method": "water",
+        "drying_method": "air",
+        "yield": "ca. 90%"
+      }
+    },
+    {
+      "material": "{[CuII3CuI6(4-pytap)6(4-pytz)2]·4BF4·8H2O}∞ (9; 4-Hpytz = 3,5-Di(4-pyridyl)-1,2,4-triazole)",
+      "conditions": {
+        "temperature": "95 °C",
+        "solvents": [
+          {
+            "name": "absolute ethanol",
+            "amount": "5.0 mL"
+          }
+        ],
+        "equipment": "15-mL Teflon-lined reactor",
+        "chemicals_used": [
+          "Cu(OAc)2·H2O (0.200 g, 1.0 mmol)",
+          "NH4BF4 (0.420 g, 4.0 mmol)",
+          "4-cyanopyridine (0.52 g, 5.0 mmol)"
+        ],
+        "time": "6 days",
+        "washing_method": "ethanol",
+        "drying_method": "air",
+        "yield": "less than 5% based on Cu"
+      }
+    },
+    {
+      "material": "[Cu6Cl3(4-pytz)3]∞ (10)",
+      "conditions": [
+        {
+          "method": "Method A",
+          "temperature": "120 °C",
+          "solvents": [
+            {
+              "name": "THF",
+              "amount": "3.0 mL"
+            }
+          ],
+          "equipment": "15-mL Teflon-lined reactor",
+          "chemicals_used": [
+            "8 (0.102 g, 0.2 mmol)",
+            "CuCl2·2H2O (0.170 g, 1.0 mmol)"
+          ],
+          "time": "60 hrs",
+          "washing_method": "ethanol",
+          "drying_method": "air",
+          "yield": "ca. 80% for method A based on 8"
+        },
+        {
+          "method": "Method B",
+          "temperature": "120 °C",
+          "solvents": [
+            {
+              "name": "aqueous ammonia",
+              "amount": "2.0 mL"
+            }
+          ],
+          "equipment": "15-mL Teflon-lined reactor",
+          "chemicals_used": [
+            "CuCl2 (0.268 g, 1.0 mmol)",
+            "4-cyanopyridine (1.04 g, 10 mmol)"
+          ],
+          "time": "60 hrs",
+          "washing_method": "ethanol",
+          "drying_method": "air",
+          "yield": "20% for method B based on Cu"
+        }
+      ]
+    },
+    {
+      "material": "[Cu2(OAc)4(4-pya)2] (11; 4-pya = 4-Pyridylamide)",
+      "conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "5.0 mL"
+          }
+        ],
+        "equipment": "15-mL Teflon-lined reactor",
+        "chemicals_used": [
+          "Cu(OAc)2·H2O (0.200 g, 1.0 mmol)",
+          "4-cyanopyridine (1.04 g, 10 mmol)"
+        ],
+        "time": "60 hrs",
+        "washing_method": "THF",
+        "drying_method": "air",
+        "yield": "ca. 15% based on Cu"
+      }
+    },
+    {
+      "material": "[Cu(tz)]∞ (12; Htz = 1,2,4-Triazole)",
+      "conditions": {
+        "temperature": "160 °C",
+        "solvents": [
+          {
+            "name": "aqueous ammonia",
+            "amount": "2.0 mL"
+          },
+          {
+            "name": "triazole",
+            "amount": "0.069 g, 1.0 mmol"
+          }
+        ],
+        "equipment": "15-mL Teflon-lined reactor",
+        "chemicals_used": [
+          "Cu(NO3)2·3H2O (0.242 g, 1.0 mmol)"
+        ],
+        "time": "60 hrs",
+        "washing_method": "water",
+        "drying_method": "air",
+        "yield": "20−25% based on Cu"
+      }
+    },
+    {
+      "material": "[Ag(tz)]∞ (12·Ag)",
+      "conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "aqueous ammonia",
+            "amount": "2.0 mL"
+          },
+          {
+            "name": "triazole",
+            "amount": "0.069 g, 1.0 mmol"
+          }
+        ],
+        "equipment": "15-mL Teflon-lined reactor",
+        "chemicals_used": [
+          "AgNO3 (0.170 g, 1.0 mmol)"
+        ],
+        "time": "60 hrs",
+        "washing_method": "ethanol",
+        "drying_method": "air",
+        "yield": "50−65% based on Ag"
+      }
+    }
+  ]
+}

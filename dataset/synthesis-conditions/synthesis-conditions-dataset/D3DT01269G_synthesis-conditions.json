@@ -1,0 +1,70 @@
+{
+  "materials": [
+    {
+      "name": "Lanthanides (III) (Er/Ho) coordination polymers",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "isopropanol alcohol",
+            "amount": "4 mL"
+          }
+        ],
+        "equipment": "75 mL Pyrex sealed tube",
+        "chemicals_used": [
+          {
+            "name": "holmium(III) nitrate pentahydrate",
+            "amount": "22.0 mg"
+          },
+          {
+            "name": "erbium(III) nitrate pentahydrate",
+            "amount": "22.2 mg"
+          },
+          {
+            "name": "4-aminobenzoic acid",
+            "amount": [
+              "6.86 mg",
+              "20.58 mg",
+              "41.16 mg",
+              "82.28 mg"
+            ]
+          }
+        ],
+        "time": "72 hours",
+        "washing_method": "washed with isopropanol and acetone several times",
+        "drying_method": "activated in a vacuum oven at 100 °C for 24 hours"
+      },
+      "yield": "Not specified",
+      "characterization_techniques": [
+        "Single-crystal X-ray diffraction (SCXRD)",
+        "Powder X-ray diffraction (PXRD)",
+        "Fourier-transform infrared (FT-IR) spectroscopy",
+        "Thermogravimetric analysis (TGA)",
+        "Scanning electron microscopy (SEM) and energy-dispersive X-ray spectroscopy (EDX)",
+        "Transmission electron microscopy (TEM)",
+        "UV–Vis diffuse reflectance spectroscopy (UV–Vis DRS)",
+        "Nuclear magnetic resonance (1H-NMR and 13C-NMR) spectroscopy",
+        "Magnetic field and temperature dependent studies"
+      ],
+      "properties": {
+        "thermal_stability": "Stable up to 400 °C",
+        "chemical_stability": "Stable in various solvents except water and dimethylformamide after 24 hours",
+        "optical_properties": {
+          "band_gap": [
+            {
+              "material": "Ho-CP",
+              "value": "3.21 eV"
+            },
+            {
+              "material": "Er-CP",
+              "value": "3.22 eV"
+            }
+          ]
+        },
+        "magnetic_properties": "Antiferromagnetic at low temperatures",
+        "photocatalytic_activity": "Highly active in CO2 cycloaddition reaction under UV light"
+      },
+      "recycling": "Stable after five consecutive cycles with almost no change in product conversion yields"
+    }
+  ]
+}

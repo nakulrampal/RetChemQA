@@ -1,0 +1,100 @@
+{
+  "materials": [
+    {
+      "name": "Corrole-MOF-1",
+      "synthesis_conditions": [
+        {
+          "temperature": "120 °C",
+          "solvents": [
+            {
+              "name": "N,N-dimethylformamide (DMF)",
+              "amount": "1.0 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "ZrCl4",
+              "amount": "0.054 mmol"
+            },
+            {
+              "name": "H3TCPC",
+              "amount": "0.018 mmol"
+            },
+            {
+              "name": "benzoic acid",
+              "amount": "1.8 mmol"
+            }
+          ],
+          "time": "72 h",
+          "yield": "87%",
+          "washing_method": "filtration",
+          "drying_method": "room temperature"
+        }
+      ]
+    },
+    {
+      "name": "Corrole-MOF-2",
+      "synthesis_conditions": [
+        {
+          "temperature": "120 °C",
+          "solvents": [
+            {
+              "name": "N,N-dimethylformamide (DMF)",
+              "amount": "1.0 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "HfCl4",
+              "amount": "0.054 mmol"
+            },
+            {
+              "name": "H3TCPC",
+              "amount": "0.018 mmol"
+            },
+            {
+              "name": "benzoic acid",
+              "amount": "1.8 mmol"
+            }
+          ],
+          "time": "72 h",
+          "yield": "73%",
+          "washing_method": "filtration",
+          "drying_method": "room temperature"
+        }
+      ]
+    },
+    {
+      "name": "Corrole-MOF-1­(Fe)",
+      "synthesis_conditions": [
+        {
+          "temperature": "120 °C",
+          "solvents": [
+            {
+              "name": "N,N-dimethylformamide (DMF)",
+              "amount": "1.0 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "ZrCl4",
+              "amount": "0.054 mmol"
+            },
+            {
+              "name": "FeTCPCCl",
+              "amount": "0.018 mmol"
+            },
+            {
+              "name": "acetic acid",
+              "amount": "7.87 mmol"
+            }
+          ],
+          "time": "72 h",
+          "yield": "84%",
+          "washing_method": "filtration",
+          "drying_method": "room temperature"
+        }
+      ]
+    }
+  ]
+}

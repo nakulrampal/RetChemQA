@@ -1,0 +1,100 @@
+{
+  "materials": [
+    {
+      "name": "PCMOF-17",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "5-sulfoisophthalic acid sodium salt",
+            "amount": "26.8 mg",
+            "molar_amount": "0.1 mmol"
+          },
+          {
+            "name": "InCl3·XH2O",
+            "amount": "22.1 mg",
+            "molar_amount_based_on_anhydrous": "0.1 mmol"
+          },
+          {
+            "name": "DMF",
+            "amount": "2.5 mL"
+          },
+          {
+            "name": "Ethanol",
+            "amount": "2.5 mL"
+          },
+          {
+            "name": "HNO3",
+            "amount": "50 µL"
+          }
+        ],
+        "procedure": "The mixture was heated at 120 °C for 24 h, and cooled to room temperature over 24 h.",
+        "yield": "78%",
+        "equipment": [
+          {
+            "type": "Teflon capped glass vial",
+            "volume": "20 mL"
+          }
+        ],
+        "temperature": "120 °C",
+        "time": "24 h heating, 24 h cooling",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2.5 mL"
+          },
+          {
+            "name": "Ethanol",
+            "amount": "2.5 mL"
+          }
+        ],
+        "FTIR": "3465.31(m), 3083.39(w), 2784.50(m), 2469.00(m), 1612.18(m), 1565.68(s), 1466.05(s), 1432.84(s), 1359.78(m), 1193.73(m), 1114.02(s), 1034.32(s), 994.46(s), 918.08(m), 888.19(w), 778.60(s), 745.39(s), 712.18(s), 625.83(s), 582.66(s), 456.46(s)"
+      },
+      "impedance_measurements": {
+        "powder_samples": {
+          "conditions": "25˚C to 50˚C, 40% RH",
+          "equipment": "Princeton Applied Research VersaSTAT3 potentiostat/galvanostat, E-Spec BTL-433 humidity-controlled oven",
+          "procedure": "Samples were ground to a powder, loaded in dual-sample 2-probe cells with titanium electrodes, and measured from 1MHz to 0.1Hz."
+        },
+        "single_crystal_samples": {
+          "conditions": "25 °C, 40% RH",
+          "procedure": "Single crystal facets were indexed, Pt wires attached using conductive silver paste, and AC impedance measured in the frequency range 1 Hz to 1 MHz."
+        }
+      },
+      "physical_measurements": {
+        "PXRD": "Bruker D8 Advanced and Rigaku Miniflex II bench top X-Ray diffractometers, Cu-Kα radiation (λ = 1.5406 Å)",
+        "TGA": "Netzsch STA 409 PC TGA analyser under N2 atmosphere, 2°C min-1 heating rate",
+        "FTIR": "Nicolet Nexus-470 FT-IR spectrometer using KBr Pellets",
+        "SEM_EDX": "Zeiss Ultra Plus field-emission scanning electron microscopy (FESEM)-Ultra Plus, Oxford X-max instruments 80mm2"
+      },
+      "crystal_data": {
+        "crystal_system": "Tetragonal",
+        "space_group": "P-421m",
+        "unit_cell_dimensions": {
+          "a": "14.0596(2) Å",
+          "c": "12.2947(3) Å"
+        },
+        "volume": "2430.32(9) Å3",
+        "Z": "2",
+        "density_calculated": "1.121 Mg/m3",
+        "absorption_coefficient": "5.179 mm-1",
+        "F(000)": "836",
+        "crystal_size": "0.100 x 0.080 x 0.080 mm3",
+        "theta_range": "3.595 to 68.242°",
+        "index_ranges": "-16<=h<=14, -16<=k<=16, -14<=l<=13",
+        "reflections_collected": "16024",
+        "independent_reflections": "2334 [R(int) = 0.0326]",
+        "completeness": "99.9 %",
+        "refinement_method": "Full-matrix least-squares on F2",
+        "data_restraints_parameters": "2334 / 75 / 160",
+        "goodness_of_fit_on_F2": "0.996",
+        "final_R_indices": {
+          "I_greater_than_2sigma(I)": "R1 = 0.0681, wR2 = 0.2013",
+          "all_data": "R1 = 0.0719, wR2 = 0.2067"
+        },
+        "absolute_structure_parameter": "0.01(5)",
+        "extinction_coefficient": "0.0022(5)",
+        "largest_diff_peak_and_hole": "1.044 and -0.695 e·Å-3"
+      }
+    }
+  ]
+}

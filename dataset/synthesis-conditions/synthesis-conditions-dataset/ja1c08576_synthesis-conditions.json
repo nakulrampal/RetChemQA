@@ -1,0 +1,168 @@
+{
+  "materials": [
+    {
+      "name": "UiO-66-NH2 coating on fiber",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "DI water",
+            "amount": "200 mL"
+          },
+          {
+            "name": "trifluoroacetic acid (TFA)",
+            "amount": "100 mL"
+          }
+        ],
+        "equipment": "sealed 1 L Pyrex Schott bottle",
+        "chemicals_used": [
+          {
+            "name": "2-aminobenzene-1,4-dicarboxylic acid (BDC-NH2)",
+            "amount": "45 mmol, 8.1 g"
+          },
+          {
+            "name": "ZrOCl2·8H2O",
+            "amount": "30 mmol, 9.7 g"
+          }
+        ],
+        "time": "6 h",
+        "washing_method": "deionized water (2 x 50 mL) and acetone (3 x 50 mL)",
+        "drying_method": "room temperature, and activated at 110 °C for 24 h under dynamic vacuum"
+      }
+    },
+    {
+      "name": "Scaled-up UiO-66-NH2 coating on fiber",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "DI water",
+            "amount": "400 mL"
+          },
+          {
+            "name": "TFA",
+            "amount": "200 mL"
+          }
+        ],
+        "equipment": "sealed 1 L Pyrex Schott bottle",
+        "chemicals_used": [
+          {
+            "name": "2-aminobenzene-1,4-dicarboxylic acid (BDC-NH2)",
+            "amount": "90 mmol, 16.2 g"
+          },
+          {
+            "name": "ZrOCl2·8H2O",
+            "amount": "60 mmol, 19.4 g"
+          }
+        ],
+        "time": "6 h",
+        "washing_method": "deionized water (2 x 500 mL), acetone (3 x 500 mL)",
+        "drying_method": "room temperature, and activated at 110 °C for 24 h under dynamic vacuum"
+      }
+    },
+    {
+      "name": "MOF-808 coating on fiber",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "DI water",
+            "amount": "20 mL"
+          },
+          {
+            "name": "TFA",
+            "amount": "20 mL"
+          }
+        ],
+        "equipment": "80 mL Pyrex Schott bottle",
+        "chemicals_used": [
+          {
+            "name": "benzene-1,3,5-tricarboxylic acid (BTC)",
+            "amount": "0.42 g, 2 mmol"
+          },
+          {
+            "name": "ZrOCl2·8H2O",
+            "amount": "1.45 g, 4.5 mmol"
+          }
+        ],
+        "time": "5 h",
+        "washing_method": "DI water (2 x 50 mL) and acetone (3 x 50 mL)",
+        "drying_method": "room temperature, and activated at 110 °C for 24 h under dynamic vacuum"
+      }
+    },
+    {
+      "name": "UiO-66-NH-Cl single crystal",
+      "synthesis_conditions": {
+        "temperature": "130 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "1 mL"
+          },
+          {
+            "name": "formic acid",
+            "amount": "1.25 mL"
+          }
+        ],
+        "equipment": "20-mL scintillation vial",
+        "chemicals_used": [
+          {
+            "name": "BDC-NH2",
+            "amount": "3.1 mg, 0.017 mmol"
+          },
+          {
+            "name": "zirconyl chloride octahydrate",
+            "amount": "6.3 mg, 0.019 mmol"
+          }
+        ],
+        "time": "4 days",
+        "chlorination_method": "1% NaDCC water solution for 24 hours"
+      }
+    },
+    {
+      "name": "CEES oxidation",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "CD3OH/D2O",
+            "amount": "1 mL, 80/20 V/V"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CEES",
+            "amount": "27 μmol, 3 μL"
+          }
+        ],
+        "chlorine_loading": "1.88%",
+        "molar_ratio": "1/3 for CEES/chlorine",
+        "humidity": "50%",
+        "analysis_method": "NMR"
+      }
+    },
+    {
+      "name": "HD oxidation",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "CD3OH/D2O",
+            "amount": "1 mL, 80/20 V/V"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "HD",
+            "amount": "27 μmol, 3.4 uL"
+          }
+        ],
+        "chlorine_loading": "1.88%",
+        "molar_ratio": "1/3 for HD/chlorine",
+        "humidity": "50%",
+        "analysis_method": "NMR",
+        "safety_note": "HD should only be used in approved labs by specifically trained personnel."
+      }
+    }
+  ]
+}

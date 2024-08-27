@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the primary focus of the research conducted in the article?",
+      "answer": "The primary focus of the research is on the synthesis of a new Zr-MOF (PCN-625) with a csq topological net, similar to well-known PCN-222 and NU-1000, but with porphyrin rings vertical to the pore surfaces, and its application in size-selective catalysis.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the conformation of porphyrin rings in PCN-625 differ from that in PCN-222 and NU-1000, and what is its impact?",
+      "answer": "In PCN-625, the porphyrin rings are vertical to the pore surfaces, unlike in PCN-222 and NU-1000 where they are parallel. This conformation leads to shrunken pore sizes and limits substrate accessibility to active centers, enhancing size-selective catalysis.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: PCN-625 exhibits a lower chemical stability compared to other Zr-MOFs.",
+      "answer": "False. PCN-625 exhibits high chemical stability, comparable to other Zr-MOFs, and is stable under various conditions including water, boiling water, hexane, acetone, methanol, hydrochloric acid, and sodium hydroxide solutions.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does the specific conformation of PCN-625 play in its catalytic performance?",
+      "answer": "The specific vertical conformation of porphyrin rings in PCN-625 plays a crucial role in its catalytic performance by limiting the accessibility of substrates to catalytic metal centers, leading to size- or shape-dependent catalysis.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the structure of PCN-625 determined, and what are its key structural parameters?",
+      "answer": "The structure of PCN-625 was determined using continuous rotation electron diffraction (cRED) collection, revealing a primitive unit cell with hexagonal crystal system and parameters: a = 39.5 Å, b = 38.3 Å, c = 24.1 Å, α = 90.8°, β = 89.8°, and γ = 119.2°.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the BET surface area measurements for PCN-625 and PCN-625(Fe)?",
+      "answer": "The BET surface area measurements for PCN-625 and PCN-625(Fe) indicate their high porosity, with PCN-625 having a surface area of 2658 m2/g and PCN-625(Fe) having 2600 m2/g. This high porosity is crucial for their application in catalysis, allowing for efficient substrate diffusion and interaction with active sites.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The catalytic activity of PCN-625(Fe) is solely due to the presence of Fe within its structure.",
+      "answer": "False. While the presence of Fe within PCN-625(Fe) is crucial for its catalytic activity, the overall performance is also significantly influenced by the MOF's structure, porosity, and the specific vertical conformation of porphyrin rings, which affect substrate accessibility and reaction selectivity.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental techniques were used to synthesize and characterize the ligands and MOFs discussed in the article?",
+      "answer": "The synthesis of ligands and MOFs involved various chemical reactions, including the use of paraformaldehyde, pyrrole, and trifluoroacetic acid. Characterization techniques included 1H NMR, 13C NMR, MALDI-TOF HRMS for ligands, and PXRD, nitrogen sorption isotherms, TGA, and XPS for MOFs.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the recycling performance of PCN-625(Fe) demonstrate its stability and reusability in catalysis?",
+      "answer": "The recycling performance of PCN-625(Fe) demonstrates its stability and reusability in catalysis by showing that it can be recycled up to six times with only a modest loss of reactivity and minimal leaching of active iron species, indicating its robustness and potential for sustainable catalytic applications.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of PCN-625 and its iron variant PCN-625(Fe) requires identical conditions and yields the same product.",
+      "answer": "False. While PCN-625 and its iron variant PCN-625(Fe) share a similar synthetic route, the incorporation of iron into PCN-625 to form PCN-625(Fe) involves additional steps, such as the use of FeCl2·4H2O and specific post-synthetic modifications, resulting in different products with distinct catalytic properties.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

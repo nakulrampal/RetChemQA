@@ -1,0 +1,52 @@
+{
+  "materials": [
+    {
+      "name": "MOF-500",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "time": "24 h",
+        "solvents": [
+          {
+            "name": "N,N'-dimethylformamide (DMF)",
+            "amount": "not specified"
+          },
+          {
+            "name": "triethylamine (TEA)",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Fe2(SO4)3",
+            "amount": "equimolar amounts with H2BPDC"
+          },
+          {
+            "name": "H2BPDC",
+            "amount": "equimolar amounts with Fe2(SO4)3"
+          },
+          {
+            "name": "BPE",
+            "amount": "not specified"
+          }
+        ],
+        "yield": "15 % (based on H2BPDC)",
+        "drying_method": "not specified",
+        "washing_method": "not specified",
+        "equipment": "not specified"
+      }
+    },
+    {
+      "name": "IRMOP-51",
+      "synthesis_conditions": {
+        "temperature": "not specified",
+        "time": "not specified",
+        "solvents": "not specified",
+        "chemicals_used": "not specified",
+        "yield": "not specified",
+        "drying_method": "not specified",
+        "washing_method": "not specified",
+        "equipment": "not specified"
+      }
+    }
+  ]
+}

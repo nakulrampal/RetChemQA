@@ -1,0 +1,52 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "pyridine-2,5-dicarboxylic acid",
+            "amount": "167 mg",
+            "molarity": "1.0 mmol"
+          },
+          {
+            "name": "KOH",
+            "concentration": "1.0 M",
+            "amount": "3.5 mmol"
+          },
+          {
+            "name": "cobalt(II) chloride hexahydrate",
+            "amount": "356 mg",
+            "molarity": "1.5 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "H2O",
+            "amounts": ["2.5 cm3", "4.0 cm3"]
+          }
+        ],
+        "reaction_conditions": {
+          "temperature": "230 ºC",
+          "time": "24 h",
+          "cooling_rate": "0.10 ºC min-1"
+        },
+        "yield": "54%",
+        "yield_amount": "155 mg",
+        "washing_method": "decanted several times with portions of H2O and cleaned further under an optical microscope",
+        "analysis": {
+          "found": {
+            "C": "28.8%",
+            "H": "2.0%",
+            "N": "4.8%"
+          },
+          "requires": {
+            "C": "29.1%",
+            "H": "2.1%",
+            "N": "4.9%"
+          }
+        }
+      }
+    }
+  ]
+}

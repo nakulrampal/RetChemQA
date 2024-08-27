@@ -1,0 +1,43 @@
+{
+  "materials": [
+    {
+      "material": "PTCAPS",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Perylene 3,4,9,10-tetracarboxylic dianhydride (PTCD)",
+            "source": "Aldrich"
+          },
+          {
+            "chemical": "Poly(ethylene glycol)-block-branched-poly(ethyleneimine) (PEG-b-PEI-branched)",
+            "details": "Weight average molecular weight (Mw) of PEG, 5000; Mw of ethyleneimine, 1200",
+            "source": "Synthesized as previously reported"
+          },
+          {
+            "chemical": "HCl",
+            "purpose": "pH adjustment"
+          },
+          {
+            "chemical": "KOH",
+            "purpose": "pH adjustment"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "H2O/ethanol",
+            "ratio": "5/7 v/v",
+            "volume": "4 mL"
+          }
+        ],
+        "temperature": "65 °C",
+        "time": "10 min",
+        "equipment": "Glass bottle",
+        "method": "Magnetic stirring",
+        "cooling": "Naturally to ambient temperature without stirring",
+        "crystallization_time": "10 days",
+        "washing_method": "Filtered and washed three times with ethanol",
+        "drying_method": "Dried at 40 °C under vacuum"
+      }
+    }
+  ]
+}

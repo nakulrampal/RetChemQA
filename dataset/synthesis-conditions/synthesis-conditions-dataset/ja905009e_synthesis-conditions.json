@@ -1,0 +1,86 @@
+{
+  "materials": [
+    {
+      "name": "Z-POMOF1",
+      "synthesis_conditions": {
+        "temperature": "180 °C",
+        "solvents": "H2O",
+        "amount_of_solvent": "9 mL",
+        "equipment": "PTFE lined stainless steel containers",
+        "chemicals_used": [
+          {
+            "chemical": "(NH4)6Mo7O24·4H2O",
+            "amount": "0.618 g, 3.50 mmol"
+          },
+          {
+            "chemical": "molybdenum powder 99.99%",
+            "amount": "0.060 g, 0.62 mmol"
+          },
+          {
+            "chemical": "H3PO3",
+            "amount": "0.020 g, 0.25 mmol"
+          },
+          {
+            "chemical": "ZnCl2",
+            "amount": "0.136 g, 1.00 mmol"
+          },
+          {
+            "chemical": "1,4-benzenedicarboxylic acid",
+            "amount": "0.166 g, 1.00 mmol"
+          },
+          {
+            "chemical": "40 wt % tetrabutylammonium hydroxide solution in water",
+            "amount": "160 μL, 0.24 mmol"
+          }
+        ],
+        "time": "40 h",
+        "initial_pH": "5",
+        "final_pH": "4.7",
+        "cooling_period": "80 h",
+        "yield": "0.113 g, 14% based on H3PO3",
+        "washing_method": "ethanol",
+        "drying_method": "filtration",
+        "additional_information": "The product was isolated by filtration and separated from an amorphous brown powder and white crystals by decantation."
+      }
+    },
+    {
+      "name": "4-electrons reduced PMo12 anion",
+      "synthesis_conditions": {
+        "temperature": "180 °C",
+        "solvents": "H2O",
+        "amount_of_solvent": "9 mL",
+        "equipment": "PTFE lined stainless steel containers",
+        "chemicals_used": [
+          {
+            "chemical": "(NH4)6Mo7O24·4H2O",
+            "amount": "0.618 g, 3.50 mmol"
+          },
+          {
+            "chemical": "molybdenum powder 99.99%",
+            "amount": "0.060 g, 0.62 mmol"
+          },
+          {
+            "chemical": "H3PO3",
+            "amount": "0.020 g, 0.25 mmol"
+          },
+          {
+            "chemical": "ZnCl2",
+            "amount": "0.136 g, 1.00 mmol"
+          },
+          {
+            "chemical": "benzenedicarboxylic acid",
+            "amount": "0.166 g, 1.00 mmol"
+          },
+          {
+            "chemical": "tetraethylammonium hydroxide 20 wt % solution in water",
+            "amount": "172 µL, 0.24 mmol"
+          }
+        ],
+        "initial_pH": "5",
+        "final_pH": "4.7",
+        "yield": "0.100 g",
+        "additional_information": "Dark blue crystals suitable for X-ray diffraction study were collected after filtration."
+      }
+    }
+  ]
+}

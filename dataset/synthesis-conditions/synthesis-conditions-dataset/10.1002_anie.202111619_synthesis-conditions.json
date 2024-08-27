@@ -1,0 +1,115 @@
+{
+  "materials": [
+    {
+      "name": "[Na(18-crown-6)][N(CN)(CP)]",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "dimethoxyethane (DME)",
+              "amount": "not specified"
+            }
+          ],
+          "equipment": "not specified",
+          "chemicals_used": [
+            {
+              "name": "sodium phosphanide (NaPH2)",
+              "amount": "not specified"
+            },
+            {
+              "name": "dimethyl N-cyanocarbonimidate ((MeO)2C=N(CN))",
+              "amount": "not specified"
+            },
+            {
+              "name": "18-crown-6",
+              "amount": "not specified"
+            }
+          ],
+          "time": "24 hours",
+          "washing_method": "not specified",
+          "drying_method": "not specified",
+          "yield": "not specified"
+        },
+        {
+          "step": 2,
+          "temperature": "-78 degrees Celsius",
+          "solvents": "not specified",
+          "equipment": "not specified",
+          "chemicals_used": [
+            {
+              "name": "Li(HMDS)",
+              "amount": "not specified"
+            }
+          ],
+          "time": "not specified",
+          "washing_method": "not specified",
+          "drying_method": "not specified",
+          "yield": "not specified"
+        }
+      ]
+    },
+    {
+      "name": "[Na(18-crown-6)][PH2]",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "not specified",
+          "solvents": "not specified",
+          "equipment": "not specified",
+          "chemicals_used": "not specified",
+          "time": "not specified",
+          "washing_method": "not specified",
+          "drying_method": "not specified",
+          "yield": "multi-gram scale"
+        }
+      ]
+    },
+    {
+      "name": "[Na(18-crown-6)][3]",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "not specified",
+          "solvents": "not specified",
+          "equipment": "not specified",
+          "chemicals_used": [
+            {
+              "name": "[Na(18-crown-6)][2]",
+              "amount": "not specified"
+            },
+            {
+              "name": "Ph3GeCl",
+              "amount": "0.5 equivalents"
+            }
+          ],
+          "time": "not specified",
+          "washing_method": "not specified",
+          "drying_method": "not specified",
+          "yield": "not specified"
+        },
+        {
+          "step": 2,
+          "temperature": "not specified",
+          "solvents": "not specified",
+          "equipment": "not specified",
+          "chemicals_used": [
+            {
+              "name": "[Na(18-crown-6)][2]",
+              "amount": "not specified"
+            },
+            {
+              "name": "Ph3GeCl",
+              "amount": "2:1 ratio"
+            }
+          ],
+          "time": "not specified",
+          "washing_method": "not specified",
+          "drying_method": "not specified",
+          "yield": "not specified"
+        }
+      ]
+    }
+  ]
+}

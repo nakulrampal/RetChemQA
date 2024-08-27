@@ -1,0 +1,172 @@
+{
+  "materials": [
+    {
+      "name": "1a (Gd)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "heptane",
+            "amount": "20 mL",
+            "state": "dry boiling"
+          },
+          {
+            "name": "dichloromethane",
+            "amount": "5 mL"
+          }
+        ],
+        "temperature": [
+          {
+            "step": "heating to reflux",
+            "value": "reflux temperature"
+          },
+          {
+            "step": "cooling",
+            "value": "90 1C"
+          },
+          {
+            "step": "cooling to room temperature",
+            "value": "room temperature"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cu(hfac)2⋅2H2O",
+            "amount": "0.010 g, 0.02 mmol"
+          },
+          {
+            "name": "[Gd(hfac)3(NITPhOEt)2]",
+            "amount": "0.027 g, 0.02 mmol"
+          }
+        ],
+        "time": "2 h",
+        "yield": "18%"
+      }
+    },
+    {
+      "name": "1b (Tb)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "heptane",
+            "amount": "20 mL",
+            "state": "dry boiling"
+          },
+          {
+            "name": "dichloromethane",
+            "amount": "5 mL"
+          }
+        ],
+        "temperature": [
+          {
+            "step": "heating to reflux",
+            "value": "reflux temperature"
+          },
+          {
+            "step": "cooling",
+            "value": "90 1C"
+          },
+          {
+            "step": "cooling to room temperature",
+            "value": "room temperature"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cu(hfac)2⋅2H2O",
+            "amount": "0.010 g, 0.02 mmol"
+          },
+          {
+            "name": "[Tb(hfac)3(NITPhOEt)2]",
+            "amount": "0.027 g, 0.02 mmol"
+          }
+        ],
+        "time": "2 h",
+        "yield": "21%"
+      }
+    },
+    {
+      "name": "2a (Gd)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "heptane",
+            "amount": "20 mL",
+            "state": "dry boiling"
+          },
+          {
+            "name": "dichloromethane",
+            "amount": "5 mL"
+          }
+        ],
+        "temperature": [
+          {
+            "step": "heating to reflux",
+            "value": "reflux temperature"
+          },
+          {
+            "step": "cooling",
+            "value": "90 1C"
+          },
+          {
+            "step": "cooling to room temperature",
+            "value": "room temperature"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cu(hfac)2⋅2H2O",
+            "amount": "0.010 g, 0.02 mmol"
+          },
+          {
+            "name": "[Gd(hfac)3(NITPhOEt)2]",
+            "amount": "0.027 g, 0.02 mmol"
+          }
+        ],
+        "time": "2 h",
+        "yield": "35%"
+      }
+    },
+    {
+      "name": "2b (Tb)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "heptane",
+            "amount": "20 mL",
+            "state": "dry boiling"
+          },
+          {
+            "name": "dichloromethane",
+            "amount": "5 mL"
+          }
+        ],
+        "temperature": [
+          {
+            "step": "heating to reflux",
+            "value": "reflux temperature"
+          },
+          {
+            "step": "cooling",
+            "value": "90 1C"
+          },
+          {
+            "step": "cooling to room temperature",
+            "value": "room temperature"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cu(hfac)2⋅2H2O",
+            "amount": "0.010 g, 0.02 mmol"
+          },
+          {
+            "name": "[Tb(hfac)3(NITPhOEt)2]",
+            "amount": "0.027 g, 0.02 mmol"
+          }
+        ],
+        "time": "2 h",
+        "yield": "33%"
+      }
+    }
+  ]
+}

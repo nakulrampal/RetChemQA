@@ -1,0 +1,39 @@
+{
+  "materials": [
+    {
+      "name": "Thorium fluoride pyridinedicarboxylate (I)",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "HF (40% aq.)",
+            "amount": "0.120 g"
+          },
+          {
+            "name": "H2O",
+            "amount": "5.00 g"
+          },
+          {
+            "name": "DMF (N,N-dimethylformamide)",
+            "amount": "0.049 g"
+          }
+        ],
+        "equipment": "Teflon-lined stainless steel autoclave",
+        "chemicals_used": [
+          {
+            "name": "Th(NO3)4·5H2O",
+            "amount": "0.570 g, 1.0 mmol"
+          },
+          {
+            "name": "NC7H5O4",
+            "amount": "0.279 g, 1.67 mmol"
+          }
+        ],
+        "time": "24 h",
+        "cooling_rate": "3 °C h-1",
+        "yield": "~90% based on thorium",
+        "product_form": "rod-shaped, pale-yellow crystals"
+      }
+    }
+  ]
+}

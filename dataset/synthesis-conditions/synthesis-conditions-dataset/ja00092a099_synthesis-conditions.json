@@ -1,0 +1,118 @@
+{
+  "materials": [
+    {
+      "material_id": "1",
+      "synthesis_conditions": {
+        "atomic_coordinates": [
+          {
+            "atom": "W",
+            "x": 7930.7,
+            "y": 7137.4,
+            "z": 3522.34,
+            "U(eq)": 34
+          },
+          {
+            "atom": "N",
+            "x": 9771,
+            "y": 7080,
+            "z": 6624,
+            "U(eq)": 36
+          }
+        ],
+        "anisotropic_displacement_coefficients": [
+          {
+            "atom": "W",
+            "U11": 25,
+            "U22": 51,
+            "U33": 27,
+            "U12": -5,
+            "U13": 2,
+            "U23": 1
+          },
+          {
+            "atom": "N",
+            "U11": 28,
+            "U22": 45,
+            "U33": 36,
+            "U12": -2,
+            "U13": -3,
+            "U23": 10
+          }
+        ],
+        "H_atom_coordinates": [
+          {
+            "atom": "H(4A)",
+            "x": 9349,
+            "y": 6428,
+            "z": 7747,
+            "U": 80
+          },
+          {
+            "atom": "H(5A)",
+            "x": 10038,
+            "y": 7731,
+            "z": 5316,
+            "U": 80
+          }
+        ]
+      }
+    },
+    {
+      "material_id": "2-(1/2 C6H6)",
+      "synthesis_conditions": {
+        "atomic_coordinates": [
+          {
+            "atom": "W",
+            "x": 7373,
+            "y": 2132,
+            "z": 7270,
+            "U(eq)": 37
+          },
+          {
+            "atom": "W'",
+            "x": 2715,
+            "y": 1845,
+            "z": 7744,
+            "U(eq)": 34
+          }
+        ],
+        "anisotropic_displacement_coefficients": [
+          {
+            "atom": "W",
+            "U11": 44,
+            "U22": 26,
+            "U33": 40,
+            "U12": 2,
+            "U13": 12,
+            "U23": -1
+          },
+          {
+            "atom": "W'",
+            "U11": 40,
+            "U22": 25,
+            "U33": 38,
+            "U12": 0,
+            "U13": 11,
+            "U23": 0
+          }
+        ],
+        "H_atom_coordinates": [
+          {
+            "atom": "H(3A)",
+            "x": 8547,
+            "y": 3837,
+            "z": 6199,
+            "U": 80
+          },
+          {
+            "atom": "H(4A)",
+            "x": 9005,
+            "y": 5328,
+            "z": 6093,
+            "U": 80
+          }
+        ]
+      }
+    }
+  ]
+}

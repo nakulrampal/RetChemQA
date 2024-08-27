@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the primary objective of photocatalytic CO2 reduction as discussed in the text?",
+      "answer": "The primary objective of photocatalytic CO2 reduction is to achieve solar-to-chemical energy conversion by using artificial photosynthetic systems, which not only uses CO2 as C1 feedstock but also allows harvesting energy from sunlight, helping the transition towards a more sustainable energy source.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the limitations of traditional catalysts for CO2 reduction mentioned in the text?",
+      "answer": "Traditional catalysts for CO2 reduction suffer from low efficiency, poor stability, and selectivity.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the Eu-Ru(phen)3-MOF facilitate photocatalytic CO2 reduction according to the text?",
+      "answer": "The Eu-Ru(phen)3-MOF facilitates photocatalytic CO2 reduction by integrating the triangular Ru(phen)3-derived tricarboxylate ligand as photosensitizer into Eu-MOF with Eu2(μ2-H2O) secondary building units (SBUs), which allows for efficient electron transfer from Ru(phen)3-derived tricarboxylate ligand to {Eu(III)}2 catalytic centers, leading to high formate production rate.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of TEOA in the photocatalytic CO2 reduction process as described?",
+      "answer": "TEOA acts as a sacrificial agent in the photocatalytic CO2 reduction process, providing electrons for the reduction process.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "According to the text, what experimental techniques were used to confirm the electron transfer from Ru photocenters to Eu2 oxo-clusters in Eu-Ru(phen)3-MOF?",
+      "answer": "Time-resolved photoluminescence (PL) spectroscopy combined with femtosecond transient optical absorption spectroscopy and in situ electron paramagnetic resonance (EPR) study were used to confirm the electron transfer from Ru photocenters to Eu2 oxo-clusters in Eu-Ru(phen)3-MOF.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The photocatalytic activity tests showed that Eu-Ru(phen)3-MOF was able to produce H2, CH4, and CO in addition to HCOO−.",
+      "answer": "False. The photocatalytic activity tests showed that Eu-Ru(phen)3-MOF has high selectivity in reducing CO2 to formate, and no CO, H2, or CH4 products in the gas or liquid phases were observed.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What evidence is provided in the text to support that the HCOO− product is derived from CO2 in the photocatalytic reaction?",
+      "answer": "The control experiment using 13CO2 as reactant and detecting the generated H13COO− by 13C NMR spectroscopy provided evidence that the HCOO− product is derived from CO2 in the photocatalytic reaction.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The Eu-Ru(phen)3-MOF showed a decrease in photocatalytic activity after three consecutive reactions.",
+      "answer": "False. The Eu-Ru(phen)3-MOF showed no noticeable degradation in photocatalytic activity after three consecutive reactions, indicating its stability.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to probe the active site of Eu-Ru(phen)3-MOF for CO2 adsorption?",
+      "answer": "Density Functional Theory (DFT) calculations were used to probe the active site of Eu-Ru(phen)3-MOF for CO2 adsorption.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Based on the text, what is the proposed mechanism for the photocatalytic reduction of CO2 to HCOOH in Eu-Ru(phen)3-MOF?",
+      "answer": "The proposed mechanism involves visible-light irradiation exciting the [RuII(phen)3] to its triplet MLCT excited state, which then transfers an electron to the [EuIII-H2O-EuIII] unit, forming a reduced [EuII-H2O-EuII] active site that selectively reduces CO2 to HCOOH in a two-electron process.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

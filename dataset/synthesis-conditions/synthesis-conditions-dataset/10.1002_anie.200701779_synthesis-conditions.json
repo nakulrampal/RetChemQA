@@ -1,0 +1,89 @@
+{
+  "materials": [
+    {
+      "name": "Compound 1",
+      "synthesis_conditions": {
+        "temperature": "Reflux temperature for 60 min, then room temperature for evaporation",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "part of 50% aqueous MeOH (10 mL)"
+          },
+          {
+            "name": "MeOH",
+            "amount": "part of 50% aqueous MeOH (10 mL)"
+          }
+        ],
+        "equipment": "Not specified",
+        "chemicals_used": [
+          {
+            "name": "Cu(BF4)2·3 H2O",
+            "amount": "0.5 mmol, 0.145 g"
+          },
+          {
+            "name": "H2muco",
+            "amount": "0.5 mmol, 0.072 g"
+          },
+          {
+            "name": "NaOH",
+            "amount": "1.0 mmol, 0.040 g"
+          },
+          {
+            "name": "phen",
+            "amount": "0.5 mmol, 0.099 g"
+          }
+        ],
+        "time": "60 min for reflux, then slow evaporation at room temperature",
+        "washing_method": "Washed with 50% aqueous MeOH",
+        "drying_method": "Dried",
+        "yield": "0.131 g, 60%",
+        "additional_information": "Elemental analysis and selected IR data provided"
+      }
+    },
+    {
+      "name": "Phase I of Compound 1",
+      "synthesis_conditions": {
+        "temperature": "296 K",
+        "crystal_data": {
+          "space_group": "C2/c",
+          "cell_dimensions": {
+            "a": "19.0949(9)",
+            "b": "22.7667(11)",
+            "c": "13.3952(7) B",
+            "beta": "113.1850(10)°",
+            "volume": "5352.97 B3"
+          },
+          "Z": "4",
+          "density_calculated": "1.627 g cm-3",
+          "absorption_coefficient": "1.282 mm-1",
+          "R1": "0.0481",
+          "wR2": "0.1298",
+          "GOF": "1.040 for I > 2σ(I)"
+        }
+      }
+    },
+    {
+      "name": "Phase II of Compound 1",
+      "synthesis_conditions": {
+        "temperature": "223 K",
+        "crystal_data": {
+          "space_group": "P21/c",
+          "cell_dimensions": {
+            "a": "13.3330(7)",
+            "b": "22.7104(12)",
+            "c": "18.4681(10) B",
+            "beta": "109.127(2)°",
+            "volume": "5283.39 B3"
+          },
+          "Z": "4",
+          "density_calculated": "1.648 g cm-3",
+          "absorption_coefficient": "1.298 mm-1",
+          "R1": "0.0455",
+          "wR2": "0.1036",
+          "GOF": "1.018 for I > 2σ(I)"
+        },
+        "additional_information": "Hydrogen atoms of water molecules were located in Fourier difference but constrained by DFIX."
+      }
+    }
+  ]
+}

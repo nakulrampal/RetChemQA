@@ -1,0 +1,79 @@
+{
+  "materials": [
+    {
+      "name": "MUF-15",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "MeOH",
+            "amount": "6 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.5 mL"
+          }
+        ],
+        "equipment": "25 ml Teflon-lined autoclave",
+        "chemicals_used": [
+          {
+            "name": "Co(OAc)2.4H2O",
+            "amount": "0.125 g"
+          },
+          {
+            "name": "isophthalic acid (H2ipa)",
+            "amount": "0.166 g"
+          }
+        ],
+        "time": "two days",
+        "washing_method": "methanol",
+        "drying_method": "vacuum",
+        "yield": "ca. 0.081 g, 78% based on cobalt",
+        "activation": "heating under high vacuum at 120 °C for 20 h"
+      },
+      "1H_NMR_spectroscopy_analysis": "digested in D2O/NaOD",
+      "PXRD_patterns": "structure remains unchanged after activation at 120 °C under vacuum, after isotherm measurements, after breakthrough experiment and after exposure to an air with a relative humidity of 80% for one week",
+      "TGA_curve": "2.95% weight loss equivalent to calculated weight loss for one coordinated water molecule",
+      "gas_adsorption_measurements": {
+        "temperatures": [
+          "273 K",
+          "288 K",
+          "293 K",
+          "298 K",
+          "308 K",
+          "318 K"
+        ],
+        "gases_tested": [
+          "C2H6",
+          "C2H4",
+          "CO2",
+          "CH4",
+          "C2H2"
+        ],
+        "isosteric_heat_of_adsorption": {
+          "C2H6": "29.2 kJ/mol",
+          "C2H4": "28.2 kJ/mol"
+        },
+        "IAST_selectivity": "C2H6/C2H4 selectivity of around two for all three mixtures"
+      },
+      "breakthrough_separation_experiments": {
+        "mixture_compositions": [
+          "25/75 C2H6/C2H4",
+          "50/50 C2H6/C2H4",
+          "10/90 C2H6/C2H4",
+          "1/99 C2H6/C2H4",
+          "0.1/99.9 C2H6/C2H4"
+        ],
+        "operating_conditions": "1.1 bar and 293 K",
+        "regeneration_method": "placing it under vacuum for around 10–15 min or by purging with helium at 70 °C and 1.1 bar"
+      },
+      "DFT_calculations": {
+        "static_binding_energies": {
+          "C2H6": "-36.7 kJ/mol",
+          "C2H4": "-35.0 kJ/mol"
+        },
+        "method": "DFT-D3 method with PBE functional"
+      }
+    }
+  ]
+}

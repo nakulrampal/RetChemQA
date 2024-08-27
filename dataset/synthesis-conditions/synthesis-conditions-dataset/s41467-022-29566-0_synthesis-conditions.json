@@ -1,0 +1,57 @@
+{
+  "materials": [
+    {
+      "name": "Bismuth subsalicylate (BSS)",
+      "synthesis_conditions": [
+        {
+          "label": "3DED data collection",
+          "temperature": "98 K",
+          "equipment": [
+            "JEOL JEM2100 TEM operating at 200 kV",
+            "Timepix detector from Amsterdam Scientific Instruments",
+            "Gatan 914 cryo-transfer holder"
+          ],
+          "chemicals_used": "BSS crystals from BSS-PB (centrifuged out of suspension and washed with water)",
+          "time": "Data collected while continuously rotating the crystal at 0.45° s−1",
+          "problems_encountered": [
+            "Inadequate data resolution",
+            "Irregular peak shapes",
+            "Twinning",
+            "Diffuse scattering"
+          ],
+          "indexing_results": "A few of the data sets could be indexed to a triclinic unit cell",
+          "structure_solution_attempts": "No reasonable structure model was obtained"
+        },
+        {
+          "label": "3DED data collection and analysis for BSS-SA",
+          "temperature": "98 K",
+          "equipment": [
+            "JEOL JEM2100 TEM operating at 200 kV",
+            "Timepix detector from Amsterdam Scientific Instruments",
+            "Gatan 914 cryo-transfer holder"
+          ],
+          "chemicals_used": "BSS crystals from Sigma-Aldrich (BSS-SA)",
+          "time": "Data collected while continuously rotating the crystal at 0.45° s−1",
+          "indexing_results": "Data sets from 18 crystallites could be indexed with a triclinic unit cell",
+          "structure_solution_attempts": "Initial structure solution attempted on individual 3DED data sets but was unsuccessful",
+          "data_merging_strategy": "Hierarchical clustering analysis performed to merge data sets that were most similar in terms of measured reflection intensities",
+          "final_structure_solution": "Structure solution by direct methods using the data of the large cluster, composed of 12 individual data sets with overall completeness of 84.6%"
+        },
+        {
+          "label": "Laboratory synthesis of BSS",
+          "temperature": "140 °C",
+          "solvents": "Deionized water",
+          "amount_of_each_solvent": "3 mL",
+          "equipment": "5 mL Pyrex tube sealed with a PTFE cap",
+          "chemicals_used": [
+            "72 mg bismuth(III) oxide (Aldrich, 99.999% trace metal basis)",
+            "128 mg salicylic acid (Sigma-Aldrich, ACS reagent, ≥99%)"
+          ],
+          "time": "3 h",
+          "washing_method": "Filtered off, washed with 50 mL of hot deionized water (>95 °C)",
+          "drying_method": "Left to dry in ambient conditions overnight"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "materials": [
+    {
+      "name": "Ag5BHT",
+      "synthesis_info": {
+        "precursors": [
+          {
+            "name": "Benzenehexathiol (BHT)",
+            "amount": "100 mg",
+            "molar_amount": "0.37 mmol"
+          },
+          {
+            "name": "Ag2O",
+            "amount": "213 mg",
+            "molar_amount": "0.92 mmol"
+          }
+        ],
+        "solvent": "Isopropyl alcohol",
+        "amount_solvent": "60 mL",
+        "temperature": "60 °C",
+        "reaction_time": "24 hours",
+        "atmosphere": "Argon",
+        "yield": "273 mg (92%)",
+        "washing_solvents": ["Water", "CH3OH", "Acetone", "Diethyl ether"],
+        "drying_conditions": "80 °C under vacuum for 24 h"
+      },
+      "characterization_methods": [
+        "Elemental analysis",
+        "ICP-OES",
+        "EPMA",
+        "XPS",
+        "UPS",
+        "TGA",
+        "PXRD",
+        "SEM",
+        "TEM",
+        "Raman spectroscopy"
+      ]
+    },
+    {
+      "name": "CuAg4BHT",
+      "synthesis_info": {
+        "precursors": [
+          {
+            "name": "Cu(NO3)2·3H2O",
+            "amount": "470 mg",
+            "molar_amount": "1.94 mmol"
+          },
+          {
+            "name": "Ag5BHT",
+            "amount": "100 mg",
+            "molar_amount": "0.124 mmol"
+          }
+        ],
+        "solvent": "Ethanol",
+        "amount_solvent": "160 mL",
+        "temperature": "80 °C",
+        "reaction_time": "72 hours",
+        "atmosphere": "Argon",
+        "yield": "82 mg (87%)",
+        "washing_solvents": ["Water", "Ethanol", "Acetone", "Diethyl ether"],
+        "drying_conditions": "80 °C under vacuum for 24 h"
+      }
+    },
+    {
+      "name": "CuAg2BHT",
+      "synthesis_info": {
+        "precursors": [
+          {
+            "name": "Ce(NH4)2(NO3)6",
+            "amount": "220 mg",
+            "molar_amount": "0.4 mmol"
+          },
+          {
+            "name": "CuAg4BHT",
+            "amount": "152 mg",
+            "molar_amount": "0.2 mmol"
+          }
+        ],
+        "solvent": "Acetonitrile",
+        "amount_solvent": "150 mL",
+        "reaction_conditions": "Room temperature for 24 hours",
+        "atmosphere": "Argon",
+        "yield": "48 mg (88%)",
+        "washing_solvents": ["Water", "CH3CN", "Acetone", "Diethyl ether"],
+        "drying_conditions": "80 °C under vacuum for 24 h"
+      }
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "materials": [
+    {
+      "material_name": "H4BPTC·Pyridine·MeOH",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "H4BPTC",
+            "amount": "4.70 g",
+            "molarity": "14.2 mmol"
+          },
+          {
+            "chemical": "MeOH",
+            "amount": "100 mL"
+          },
+          {
+            "chemical": "pyridine",
+            "amount": "7 mL"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "MeOH",
+            "amount": "100 mL"
+          }
+        ],
+        "temperature": "room temperature",
+        "time": "1 day",
+        "washing_method": "washed with MeOH",
+        "drying_method": "dried in vacuo",
+        "yield": "4.63 g (74%)",
+        "other_conditions": "solution was allowed to stand at room temperature until colorless crystals formed"
+      }
+    },
+    {
+      "material_name": "{[Ni(cyclam)]2[BPTC]}·2nH2O (1)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "[Ni(cyclam)](ClO4)2",
+            "amount": "0.189 g",
+            "molarity": "0.53 mmol"
+          },
+          {
+            "chemical": "H4BPTC·pyridine·MeOH",
+            "amount": "0.125 g",
+            "molarity": "0.28 mmol"
+          },
+          {
+            "chemical": "H2O/MeOH/TEA",
+            "amount": "2.5 mL/1 mL/0.24 mL"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "H2O/MeOH",
+            "amount": "2.5 mL/1 mL"
+          }
+        ],
+        "temperature": "35 °C",
+        "time": "3 days",
+        "washing_method": "washed with a mixture of H2O and MeOH",
+        "drying_method": "dried in air",
+        "yield": "0.157 g (70%)",
+        "other_conditions": "reaction vessel was tightly closed"
+      }
+    },
+    {
+      "material_name": "{[Ni(cyclam)]2[BPTC]} (2)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "1",
+            "form": "single crystal"
+          }
+        ],
+        "equipment": [
+          {
+            "equipment": "0.5 mm glass capillary",
+            "details": "having an open end, inserted into a 12 mm cell"
+          },
+          {
+            "equipment": "Quantachrome Autosorb-1 instrument"
+          }
+        ],
+        "temperature": "180 °C",
+        "pressure": "10^-5 Torr",
+        "time": "24 h",
+        "other_conditions": "After cooling to room temperature under vacuum, filled with He gas (1.0 atm), capillary was taken out and sealed immediately for X-ray diffraction measurements. For bulk amount, solid 1 (98 mg) was heated in a Schlenk tube at 180 °C under vacuum for 3 h."
+      }
+    },
+    {
+      "material_name": "Ag Nanocomposites",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "1",
+            "amount": "0.067 g",
+            "molarity": "0.076 mmol"
+          },
+          {
+            "chemical": "AgNO3",
+            "amount": "1.3 × 10^-1 M",
+            "molarity": "0.38 mmol",
+            "solvent": "EtOH",
+            "solvent_amount": "3 mL"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "EtOH",
+            "amount": "3 mL"
+          }
+        ],
+        "temperature": "room temperature",
+        "time": "5 min to 16 h",
+        "washing_method": "washed with EtOH",
+        "drying_method": "dried in air",
+        "yield": "Calcd for the solid isolated after 5 min of immersion, {[Ni^III(cyclam)]2[BPTC]}(NO3)2·2Ag^0·H2O·0.5Ag4BPTC (Ni2C44H59N10O19Ag4): C, 33.43; H, 3.76; N, 8.86. Found: C, 32.97; H, 3.78; N, 8.85. ICP data (in HNO3): concentration ratio of Ag/Ni = 154/41.3; mol ratio of Ag/Ni = 2.02."
+      }
+    },
+    {
+      "material_name": "Au Nanocomposites",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "1",
+            "amount": "0.069 g",
+            "molarity": "0.078 mmol"
+          },
+          {
+            "chemical": "NaAuCl4·2H2O",
+            "amount": "3.4 × 10^-2 M",
+            "molarity": "0.20 mmol",
+            "solvent": "EtOH",
+            "solvent_amount": "6 mL"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "EtOH",
+            "amount": "6 mL"
+          }
+        ],
+        "temperature": "room temperature",
+        "time": "5 min to 46 h",
+        "washing_method": "washed with EtOH",
+        "drying_method": "dried in air",
+        "yield": "Calcd for the solid isolated after 5 min of immersion, [Ni^III(cyclam)]2-[BPTC]·2Cl^-·2/3Au^0·H2O (Ni2C36H56N8O9Au0.67Cl2): C, 40.62; H, 5.30; N, 10.53. Found: C, 43.07; H, 5.65; N, 11.33."
+      }
+    }
+  ]
+}

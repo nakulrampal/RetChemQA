@@ -1,0 +1,82 @@
+{
+  "materials": [
+    {
+      "material_id": "1",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "L-phenylalaninehydroxamic acid",
+            "amount": "2 mmol"
+          },
+          {
+            "name": "Cu(O2CCH3)2",
+            "amount": "2 mmol"
+          },
+          {
+            "name": "Ln(NO3)3·6H2O",
+            "amount": "0.4 mmol",
+            "details": "Ln = La, Gd"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "not specified"
+          }
+        ],
+        "yield": "ca. 70%",
+        "other_conditions": [
+          {
+            "condition": "evaporation of solvent"
+          }
+        ]
+      }
+    },
+    {
+      "material_id": "1a",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "adipate",
+            "details": "used for adduct formation with 1"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "not specified",
+            "amount": "not specified"
+          }
+        ],
+        "yield": "not specified",
+        "other_conditions": [
+          {
+            "condition": "formation of adducts with 1"
+          }
+        ]
+      }
+    },
+    {
+      "material_id": "2a",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "terephthalate",
+            "details": "used for adduct formation with 2"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "not specified",
+            "amount": "not specified"
+          }
+        ],
+        "yield": "not specified",
+        "other_conditions": [
+          {
+            "condition": "formation of adducts with 2"
+          }
+        ]
+      }
+    }
+  ]
+}

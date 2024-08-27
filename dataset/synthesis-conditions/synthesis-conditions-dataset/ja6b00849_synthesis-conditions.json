@@ -1,0 +1,151 @@
+{
+  "materials": [
+    {
+      "name": "bpy-MOF",
+      "synthesis_conditions": [
+        {
+          "label": "temperature",
+          "value": "100 °C",
+          "unit": "Celsius"
+        },
+        {
+          "label": "solvent",
+          "value": "DMF"
+        },
+        {
+          "label": "chemicals_used",
+          "value": "ZrCl4, 4,4′-(2,2′-bipyridyl-5,5′-diyl)dibenzoic acid (H2BPP), 4,4′-bis­(carboxyphenyl)-2-nitro-1,1′-biphenyl (H2TPHN)"
+        },
+        {
+          "label": "additional_chemical",
+          "value": "trifluoroacetic acid"
+        },
+        {
+          "label": "time",
+          "value": "5 days"
+        },
+        {
+          "label": "yield",
+          "value": "45%",
+          "unit": "percent"
+        }
+      ]
+    },
+    {
+      "name": "bpy-MOF-CoCl2",
+      "synthesis_conditions": [
+        {
+          "label": "precursor",
+          "value": "bpy-MOF"
+        },
+        {
+          "label": "metal_source",
+          "value": "CoCl2"
+        },
+        {
+          "label": "solvent",
+          "value": "THF"
+        },
+        {
+          "label": "time",
+          "value": "overnight"
+        },
+        {
+          "label": "washing_solvent",
+          "value": "THF"
+        },
+        {
+          "label": "storage_solvent",
+          "value": "THF"
+        }
+      ]
+    },
+    {
+      "name": "bpyv-MOF-CoCl2",
+      "synthesis_conditions": [
+        {
+          "label": "precursor",
+          "value": "bpyv-MOF"
+        },
+        {
+          "label": "metal_source",
+          "value": "CoCl2"
+        },
+        {
+          "label": "solvent",
+          "value": "THF"
+        },
+        {
+          "label": "time",
+          "value": "overnight"
+        },
+        {
+          "label": "washing_solvent",
+          "value": "THF"
+        },
+        {
+          "label": "storage_solvent",
+          "value": "THF"
+        }
+      ]
+    },
+    {
+      "name": "mBPP-MOF-CoCl2",
+      "synthesis_conditions": [
+        {
+          "label": "precursor",
+          "value": "mBPP-MOF"
+        },
+        {
+          "label": "metal_source",
+          "value": "CoCl2"
+        },
+        {
+          "label": "solvent",
+          "value": "THF"
+        },
+        {
+          "label": "time",
+          "value": "overnight"
+        },
+        {
+          "label": "washing_solvent",
+          "value": "THF"
+        },
+        {
+          "label": "storage_solvent",
+          "value": "heptane"
+        }
+      ]
+    },
+    {
+      "name": "mPT-MOF-CoCl2",
+      "synthesis_conditions": [
+        {
+          "label": "precursor",
+          "value": "mPT-MOF"
+        },
+        {
+          "label": "metal_source",
+          "value": "CoCl2"
+        },
+        {
+          "label": "solvent",
+          "value": "THF"
+        },
+        {
+          "label": "time",
+          "value": "overnight"
+        },
+        {
+          "label": "washing_solvent",
+          "value": "THF"
+        },
+        {
+          "label": "storage_solvent",
+          "value": "heptane"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "materials": [
+    {
+      "material_id": "1",
+      "chemical_formula": "[Cu4(R-L1)(H2O)4]·12DEF·2H2O",
+      "synthesis_conditions": {
+        "temperature": "80 oC",
+        "solvents": [
+          {
+            "name": "DEF",
+            "amount": "1.5 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "R-L1-H8",
+            "amount": "10 mg"
+          },
+          {
+            "name": "Cu(NO3)2·2.5H2O",
+            "amount": "10 mg"
+          },
+          {
+            "name": "HCl (3M, aq.)",
+            "amount": "several drops"
+          }
+        ],
+        "time": "2 days",
+        "yield": "67%",
+        "washing_method": "filtration",
+        "drying_method": "air"
+      }
+    },
+    {
+      "material_id": "1'",
+      "chemical_formula": "[Cu4(rac-L1)(H2O)4]·12DEF·2H2O",
+      "synthesis_conditions": {
+        "temperature": "80 oC",
+        "solvents": [
+          {
+            "name": "DEF",
+            "amount": "1.5 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "rac-L-H8",
+            "amount": "10 mg"
+          },
+          {
+            "name": "Cu(NO3)2·2.5H2O",
+            "amount": "10 mg"
+          },
+          {
+            "name": "HCl (3M, aq.)",
+            "amount": "several drops"
+          }
+        ],
+        "time": "2 days",
+        "yield": "59%",
+        "washing_method": "filtration",
+        "drying_method": "air"
+      }
+    },
+    {
+      "material_id": "2",
+      "chemical_formula": "[Cu4(R-L2)(H2O)4]·14DMF·2H2O",
+      "synthesis_conditions": {
+        "temperature": "80 oC",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "1.1 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.55 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "R-L2-H8",
+            "amount": "11 mg"
+          },
+          {
+            "name": "Cu(ClO4)2 • 6H2O",
+            "amount": "17.3 mg"
+          },
+          {
+            "name": "HCl (1M, aq.)",
+            "amount": "110 μL"
+          }
+        ],
+        "time": "18 h",
+        "yield": "60%",
+        "washing_method": "filtration",
+        "drying_method": "air"
+      }
+    },
+    {
+      "material_id": "3",
+      "chemical_formula": "[Cu4(R-L3)(H2O)4]·8DMF·12H2O",
+      "synthesis_conditions": {
+        "temperature": "80 ºC",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "0.1 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.05 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "R-L3-H8",
+            "amount": "1 mg"
+          },
+          {
+            "name": "Cu(ClO4)2·6H2O",
+            "amount": "1.31 mg"
+          },
+          {
+            "name": "HCl (2.0 M, aq.)",
+            "amount": "10µL"
+          }
+        ],
+        "time": "1 day",
+        "yield": "64%",
+        "washing_method": "filtration",
+        "drying_method": "air"
+      }
+    }
+  ]
+}

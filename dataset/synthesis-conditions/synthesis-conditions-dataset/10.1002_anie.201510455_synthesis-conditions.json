@@ -1,0 +1,134 @@
+{
+  "materials": [
+    {
+      "name": "PTC-1",
+      "synthesis_conditions": {
+        "temperature": "solvothermal conditions",
+        "solvents": "isopropyl alcohol",
+        "chemicals_used": [
+          "Ti(OiPr)4",
+          "phenolphosphonate",
+          "acetate"
+        ],
+        "yield": "good yields",
+        "crystal_description": "large, colorless crystals"
+      }
+    },
+    {
+      "name": "PTC-2",
+      "synthesis_conditions": {
+        "ligands": "propanoic acid",
+        "bandgap": "3.60 eV"
+      }
+    },
+    {
+      "name": "PTC-6",
+      "synthesis_conditions": {
+        "ligands": "pivalic acid",
+        "bandgap": "3.45 eV"
+      }
+    },
+    {
+      "name": "PTC-9",
+      "synthesis_conditions": {
+        "ligands": "bromoacetic acid",
+        "bandgap": "3.39 eV"
+      }
+    },
+    {
+      "name": "PTC-12",
+      "synthesis_conditions": {
+        "ligands": "trifluoroacetic acid",
+        "bandgap": "3.31 eV"
+      }
+    },
+    {
+      "name": "PTC-7",
+      "synthesis_conditions": {
+        "ligands": "benzoic acid",
+        "bandgap_comparison": "lower bandgaps than acetate-functionalized PTC-1"
+      }
+    },
+    {
+      "name": "PTC-10",
+      "synthesis_conditions": {
+        "ligands": "2-naphthalenecarboxylic acid",
+        "bandgap_comparison": "significantly lower bandgaps than acetate-functionalized PTC-1"
+      }
+    },
+    {
+      "name": "PTC-8",
+      "synthesis_conditions": {
+        "ligands": "4-bromobenzene carboxylic acid"
+      }
+    },
+    {
+      "name": "PTC-13",
+      "synthesis_conditions": {
+        "ligands": "pentafluorobenzoic acid"
+      }
+    },
+    {
+      "name": "PTC-14",
+      "synthesis_conditions": {
+        "ligands": "m-nitrobenzoic acid",
+        "bandgap": "3.21 eV"
+      }
+    },
+    {
+      "name": "PTC-5",
+      "synthesis_conditions": {
+        "ligands": "phenolphosphonate",
+        "bandgap_comparison": "higher bandgap than benzoic acid-functionalized PTC-7"
+      }
+    },
+    {
+      "name": "PTC-11",
+      "synthesis_conditions": {
+        "ligands": "p-toluenesulfonic acid",
+        "bandgap_comparison": "lower bandgap than benzoic acid-functionalized PTC-7"
+      }
+    },
+    {
+      "name": "PTC-3",
+      "synthesis_conditions": {
+        "ligands": "isonicotinic acid",
+        "metal_incorporation": "Co(NO3)2",
+        "crystal_description": "pink crystals",
+        "bandgap": "3.52 eV",
+        "adsorption_band": "UV light area"
+      }
+    },
+    {
+      "name": "PTC-15",
+      "synthesis_conditions": {
+        "metal_incorporation": "Co2+",
+        "adsorption_band": "450 and 750 nm",
+        "color": "pink"
+      }
+    },
+    {
+      "name": "PTC-16",
+      "synthesis_conditions": {
+        "metal_incorporation": "Cu2+",
+        "adsorption_band": "starting from 500 nm",
+        "color": "blue"
+      }
+    },
+    {
+      "name": "PTC-4",
+      "synthesis_conditions": {
+        "ligands": "tetrazolyl acetic acid",
+        "bandgap": "3.50 eV"
+      }
+    },
+    {
+      "name": "PTC-17",
+      "synthesis_conditions": {
+        "metal_incorporation": "CoCl2",
+        "adsorption_band": "higher wavelength area and significantly higher intensity than PTC-15",
+        "color": "blue"
+      }
+    }
+  ]
+}

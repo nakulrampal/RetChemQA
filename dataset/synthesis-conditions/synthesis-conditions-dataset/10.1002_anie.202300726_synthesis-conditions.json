@@ -1,0 +1,57 @@
+{
+  "materials": [
+    {
+      "name": "PTC-236(Δ) and PTC-236(Λ)",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": ["H2O", "NH3·H2O", "1,4-dioxane"],
+        "equipment": "solvothermal reaction",
+        "chemicals_used": ["ΔΔΔΔ-[Ti4L6] and ΛΛΛΛ-[Ti4L6] cages", "bimb", "Zn(CH3COO)2·2H2O"],
+        "time": "6 h",
+        "yield": "Not specified",
+        "crystal_size_control": "Reaction time",
+        "maximum_crystal_size": "8 mm",
+        "crystal_shape_change": "From hexagonal bipyramid to hexagonal bipyramid columns"
+      }
+    },
+    {
+      "name": "PhH@PTC-236(Λ), PhMe@PTC-236(Λ), oX@PTC-236(Λ), mX@PTC-236(Λ), pX@PTC-236(Λ), TBrPhOH@PTC-236(Λ)",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": ["Ethanol"],
+        "chemicals_used": ["PhH, PhMe, oX, mX, pX, TBrPhOH"],
+        "time": "12 h",
+        "yield": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "crystal_stability": "Maintained original space group of P63"
+      }
+    },
+    {
+      "name": "BEN@PTC-236(Λ), 3,5-DBN@PTC-236(Λ), trans-CIN@PTC-236(Λ), SUN@PTC-236(Λ), GLN@PTC-236(Λ), ADN@PTC-236(Λ), PIN@PTC-236(Λ), SDN@PTC-236(Δ)",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": ["Ethanol"],
+        "chemicals_used": ["Benzonitrile, 3,5-dichlorobenzonitrile, trans-CIN, succinonitrile, glutaronitrile, adiponitrile, pimelonitrile, suberodinitrile"],
+        "time": "12 h",
+        "yield": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "crystal_stability": "Not specified"
+      }
+    },
+    {
+      "name": "(S)-PEOH@PTC-236(Λ), (R)-PEOH@PTC-236(Δ), (S)-PPOH@PTC-236(Δ), (R)-PPOH@PTC-236(Λ), (S)-PBA@PTC-236(Δ), (R)-PBA@PTC-236(Λ), (S)-FPEOH@PTC-236(Λ), (R)-FPEOH@PTC-236(Δ)",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": ["Dichloromethane (CH2Cl2)"],
+        "chemicals_used": ["1-phenethylalcohol (PEOH), 1-phenyl-1-propanol (PPOH), 1-phenyl-1-butanol (PBA), 1-(4-fluorophenyl)ethanol (FPEOH)"],
+        "time": "1 day",
+        "yield": "Not specified",
+        "washing_method": "Filtered and washed with CH2Cl2",
+        "drying_method": "Not specified",
+        "crystal_stability": "Excellent stability in four-pair racemic mixtures"
+      }
+    }
+  ]
+}

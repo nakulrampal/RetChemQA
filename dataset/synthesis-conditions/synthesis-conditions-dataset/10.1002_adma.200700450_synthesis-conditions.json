@@ -1,0 +1,45 @@
+{
+  "materials": [
+    {
+      "material": "[KCo7(OH)3(ip)6(H2O)4]·12H2O (1)",
+      "synthesis_conditions": {
+        "temperature": "160 °C",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "not specified"
+          },
+          {
+            "name": "MeOH",
+            "amount": "5.0 mL"
+          }
+        ],
+        "equipment": "10 mL autoclave lined with Teflon (polytetrafluoroethylene)",
+        "chemicals_used": [
+          {
+            "name": "isophthalic acid",
+            "amount": "0.066 g, 0.40 mmol"
+          },
+          {
+            "name": "Co(OAc)2·5H2O",
+            "amount": "0.060 g, 0.25 mmol"
+          },
+          {
+            "name": "KOH (2 M aqueous solution)",
+            "amount": "0.5 mL"
+          }
+        ],
+        "time": "3 days",
+        "yield": "85 % based on Co(OAc)2·5H2O"
+      }
+    },
+    {
+      "material": "[KCo7(OH)3(ip)6] (1')",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "method": "heating 1 in dry air or vacuum",
+        "note": "The diffraction data for it were collected in dry air in the diffractometer at room temperature."
+      }
+    }
+  ]
+}

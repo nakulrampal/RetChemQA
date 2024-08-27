@@ -1,0 +1,121 @@
+{
+  "materials": [
+    {
+      "name": "Zn3(L)(H2O)2·2H2O (PCMOF-3)",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis of bulk phase",
+          "temperature": "Reflux",
+          "solvents": [
+            {
+              "name": "Water",
+              "amount": "10 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "H6L",
+              "amount": "0.314 mmol"
+            },
+            {
+              "name": "ZnCO3·2Zn(OH)2·0.5H2O",
+              "amount": "0.297 mmol"
+            }
+          ],
+          "time": "2.5 hours",
+          "yield": "172 mg, 0.296 mmol, 99.7%",
+          "washing_method": "Water",
+          "drying_method": "Not specified",
+          "form": "Fine, white powder"
+        },
+        {
+          "step": "Synthesis of single crystals",
+          "solvents": [
+            {
+              "name": "Water",
+              "amount": "10 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Zn(ClO4)·6H2O",
+              "amount": "0.470 mmol"
+            },
+            {
+              "name": "H6L",
+              "amount": "0.154 mmol"
+            }
+          ],
+          "method": "Diffusion of acetone into the solution",
+          "time": "2 days",
+          "form": "Leaf-like crystal aggregates"
+        }
+      ]
+    },
+    {
+      "name": "Zn3(L)(D2O)2·2D2O (isostructural to PCMOF-3)",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation",
+          "method": "Prepared analogously in D2O",
+          "notes": "Specific conditions not detailed, assumed similar to PCMOF-3 but with D2O"
+        }
+      ]
+    }
+  ],
+  "characterization_methods_excluded": true,
+  "impedance_analysis_conditions": [
+    {
+      "equipment": "Solartron (SI model 1260)",
+      "AC_amplitude": "100 mV",
+      "frequency_range": "106 – 0.1 Hz",
+      "temperature": "25 °C",
+      "humidity": [
+        {
+          "value": "98%",
+          "method": "Humidified N2 gas through various saturated salt solutions"
+        },
+        {
+          "value": "44%",
+          "notes": "Conductivity dropped significantly"
+        }
+      ],
+      "conductivity": "3.5 × 10−5 S cm−1 at 98% RH; 4.5 × 10−8 S cm−1 at 44% RH"
+    },
+    {
+      "temperature_range": "5−25 °C",
+      "humidity": "98%",
+      "method": "Pt−C gas-diffusion electrodes",
+      "activation_energy": "0.17 eV"
+    }
+  ],
+  "solid_state_nmr_conditions": [
+    {
+      "nuclei": [
+        "13C",
+        "31P",
+        "2H"
+      ],
+      "equipment": [
+        {
+          "nucleus": "13C",
+          "models": [
+            "Bruker Avance-200",
+            "DSX-400"
+          ]
+        },
+        {
+          "nucleus": "31P",
+          "model": "Bruker DSX-400"
+        },
+        {
+          "nucleus": "2H",
+          "model": "Bruker AMX 300"
+        }
+      ],
+      "temperature_control": "Eurotherm temperature controller",
+      "temperature_range": "77K to room temperature",
+      "notes": "Specific parameters for quadrupole coupling tensors provided for 2H NMR at various temperatures"
+    }
+  ]
+}

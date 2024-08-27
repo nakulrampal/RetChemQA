@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the primary function of the ZnBTCA MOF as described in the text?",
+      "answer": "The primary function of the ZnBTCA MOF is for supramolecular recognition, specifically exploiting adenine–thymine binding within its constrained pores for host–guest chemistry.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the ZnBTCA MOF differ from bio-MOF-1 in terms of nucleobase interaction?",
+      "answer": "ZnBTCA MOF contains open Watson–Crick sites for nucleobase interaction, unlike bio-MOF-1 where the Watson–Crick faces are blocked due to coordination with Zn.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What role do the open Watson–Crick sites in ZnBTCA play in the host–guest chemistry?",
+      "answer": "The open Watson–Crick sites in ZnBTCA contribute to unique host–guest interactions, particularly enabling adenine–thymine binding and exhibiting hysteretic behavior with certain guests.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why was thymine uptake by ZnBTCA significantly higher in CHCl3 compared to DMF?",
+      "answer": "Thymine uptake by ZnBTCA was significantly higher in CHCl3 because individual A–T binding, which ZnBTCA facilitates, can only occur in aprotic solvents like CHCl3, not in polar aprotic solvents like DMF.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What experimental evidence supports the occurrence of adenine–thymine binding in ZnBTCA?",
+      "answer": "Evidence includes IR and Raman spectra showing characteristic peaks of Watson–Crick sites, decreased dye uptake after thymine binding, and altered bond parameters around adenine Watson–Crick sites.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the ZnBTCA framework respond to thymine binding?",
+      "answer": "The ZnBTCA framework responds adaptively to thymine binding, showing lattice twisting, reorientation of channel-connecting gates, and reoriented open Watson–Crick sites pointing toward the channels.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the hysteretic behavior observed in the uptake of PfH+ by ZnBTCA?",
+      "answer": "The hysteretic behavior signifies a unique energetic profile involving weak chemical bonding at the open Watson–Crick sites, which interact with guests bearing amino groups, indicating a complex host–guest interaction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the spatial effect within ZnBTCA influence its host–guest chemistry?",
+      "answer": "The spatial effect, attributed to the microporosity of ZnBTCA, influences host–guest chemistry by demonstrating selective uptake behavior based on the charge and size of the guests, showcasing the importance of spatial constraints.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why do the channels of ZnBTCA facilitate faster uptake of guests compared to bio-MOF-1?",
+      "answer": "The channels of ZnBTCA facilitate faster uptake of guests compared to bio-MOF-1 due to their unique pore-size distribution and the presence of open Watson–Crick sites, which provide distinct sorption kinetics.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What factors contribute to the global adaptive response of ZnBTCA to thymine binding?",
+      "answer": "Factors contributing to the global adaptive response include the reorientation of adenine residues, lattice distortion, and the formation of quadruple-hydrogen-bonding motifs, indicating a complex interaction with thymine.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of uncoordinated carboxyl O sites on the interior surfaces of MOFs affect guest uptake?",
+      "answer": "The presence of uncoordinated carboxyl O sites on the interior surfaces of MOFs, like ZnBTCA, can interact weakly with guests, affecting the uptake priority and kinetics, especially for guests with amino groups.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role does solvent–guest complexation play in the host–guest chemistry of ZnBTCA?",
+      "answer": "Solvent–guest complexation plays a role in obscuring the determination of guests during the binding process and may affect the energetics and dynamics of host–guest interactions within ZnBTCA.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the uptake behavior of ZnBTCA towards PfH+ and MB+ influenced by the presence of open Watson–Crick sites?",
+      "answer": "True. The open Watson–Crick sites in ZnBTCA significantly influence the uptake behavior towards PfH+ and MB+, enabling unique host–guest interactions and hysteretic behavior.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can ZnBTCA adsorb thymine in both CHCl3 and DMF with equal efficiency?",
+      "answer": "False. ZnBTCA can adsorb a significant amount of thymine in CHCl3 but shows almost no uptake in DMF, due to the solvent-specific nature of adenine–thymine binding.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the ZnBTCA framework remain unchanged upon thymine binding?",
+      "answer": "False. The ZnBTCA framework undergoes a global adaptive response upon thymine binding, including lattice twisting and reorientation of adenine residues.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the Watson–Crick faces in bio-MOF-1 accessible for host–guest binding in liquid media?",
+      "answer": "False. In bio-MOF-1, the Watson–Crick faces are blocked due to coordination with Zn, preventing their use for host–guest binding in liquid media.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of amino groups in guests have no significant impact on their uptake by ZnBTCA?",
+      "answer": "False. The presence of amino groups in guests significantly impacts their uptake by ZnBTCA, especially due to interactions with the open Watson–Crick sites.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the hysteretic behavior in the uptake of PfH+ by ZnBTCA attributed solely to electrostatic interactions?",
+      "answer": "False. The hysteretic behavior in the uptake of PfH+ by ZnBTCA is attributed to a unique energetic profile involving weak chemical bonding, not solely to electrostatic interactions.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the kinetic parameters for the adsorption of PfH+ into ZnBTCA indicative of a physisorption process?",
+      "answer": "False. The kinetic parameters for the adsorption of PfH+ into ZnBTCA, including the Arrhenius activation energy, suggest chemisorption might be significant, not merely physisorption.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the adaptive response of ZnBTCA to thymine binding suggest a potential for biomimicry in materials science?",
+      "answer": "True. The global adaptive response of ZnBTCA to thymine binding, including lattice distortion and specific host–guest interactions, suggests a potential for biomimicry in materials science.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

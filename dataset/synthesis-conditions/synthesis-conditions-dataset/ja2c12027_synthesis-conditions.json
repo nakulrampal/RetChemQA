@@ -1,0 +1,116 @@
+{
+  "materials": [
+    {
+      "name": "Rh-1S",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "MeOH",
+            "amount": "6 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(S,S)-L1",
+            "amount": "0.02 mmol, 11.3 mg"
+          },
+          {
+            "name": "Rh-B(OTf)4",
+            "amount": "0.02 mmol, 29.1 mg"
+          }
+        ],
+        "time": "1 day",
+        "temperature": "room temperature",
+        "yield": "35.3 mg, 87%",
+        "washing_method": "diethyl ether",
+        "drying_method": "vacuum",
+        "crystallization_method": "isopropyl ether diffusion",
+        "color": "yellow"
+      }
+    },
+    {
+      "name": "Rh-1R",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "MeOH",
+            "amount": "6 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(R,R)-L1",
+            "amount": "0.02 mmol, 11.3 mg"
+          },
+          {
+            "name": "Rh-B(OTf)4",
+            "amount": "0.02 mmol, 29.1 mg"
+          }
+        ],
+        "time": "1 day",
+        "temperature": "room temperature",
+        "yield": "33.5 mg, 83%",
+        "washing_method": "diethyl ether",
+        "drying_method": "vacuum",
+        "crystallization_method": "isopropyl ether diffusion",
+        "color": "yellow"
+      }
+    },
+    {
+      "name": "Rh-2S",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "MeOH",
+            "amount": "6 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(S,S)-L2",
+            "amount": "0.02 mmol, 13.3 mg"
+          },
+          {
+            "name": "Rh-B(OTf)4",
+            "amount": "0.02 mmol, 29.1 mg"
+          }
+        ],
+        "time": "1 day",
+        "temperature": "room temperature",
+        "yield": "35.9 mg, 85%",
+        "washing_method": "diethyl ether",
+        "drying_method": "vacuum",
+        "crystallization_method": "isopropyl ether diffusion",
+        "color": "yellow"
+      }
+    },
+    {
+      "name": "Rh-2R",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "MeOH",
+            "amount": "6 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(R,R)-L2",
+            "amount": "0.02 mmol, 13.3 mg"
+          },
+          {
+            "name": "Rh-B(OTf)4",
+            "amount": "0.02 mmol, 29.1 mg"
+          }
+        ],
+        "time": "1 day",
+        "temperature": "room temperature",
+        "yield": "37.4 mg, 88%",
+        "washing_method": "diethyl ether",
+        "drying_method": "vacuum",
+        "crystallization_method": "isopropyl ether diffusion",
+        "color": "yellow"
+      }
+    }
+  ]
+}

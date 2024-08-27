@@ -1,0 +1,93 @@
+{
+  "materials": [
+    {
+      "name": "Aluminum formate, Al(HCOO)3 (ALF)",
+      "synthesis": [
+        {
+          "step": "Reflux synthesis",
+          "temperature": "373 K",
+          "time": "48 hours",
+          "solvents": [
+            {
+              "name": "Formic acid",
+              "amount": "100 ml"
+            }
+          ],
+          "chemicals": [
+            {
+              "name": "Aluminum hydroxide",
+              "amount": "1.2 g"
+            }
+          ],
+          "equipment": "250-ml three-neck round-bottom flask",
+          "yield": "95%",
+          "washing_method": "Rinsed with ethanol",
+          "drying_method": "Air-dried"
+        },
+        {
+          "step": "Activation",
+          "temperature": "423 K or 453 K",
+          "time": "24 hours",
+          "atmosphere": "Vacuum or air/ambient",
+          "yield": "Quantitative"
+        }
+      ]
+    },
+    {
+      "name": "MOF-74-Ni",
+      "synthesis": [
+        {
+          "temperature": "353 K",
+          "time": "20 hours",
+          "solvents": [
+            {
+              "name": "Deionized water",
+              "amount": "50 ml"
+            }
+          ],
+          "chemicals": [
+            {
+              "name": "Dihydroxyterephthalic acid",
+              "amount": "1.03 g"
+            },
+            {
+              "name": "Nickel acetate tetrahydrate",
+              "amount": "2.51 g"
+            }
+          ],
+          "equipment": "100-ml round-bottom flask",
+          "washing_method": "Washed with warm deionized water and methanol",
+          "drying_method": "Dried overnight at 80°C"
+        }
+      ]
+    },
+    {
+      "name": "UiO-66-(OH)2",
+      "synthesis": [
+        {
+          "temperature": "378 K",
+          "time": "1 day",
+          "solvents": [
+            {
+              "name": "Water/acetic acid mixture",
+              "amount": "50 ml (20/30, v/v)"
+            }
+          ],
+          "chemicals": [
+            {
+              "name": "2,5-Dihydroxyterephthalic acid",
+              "amount": "1 g"
+            },
+            {
+              "name": "ZrOCl2·8H2O",
+              "amount": "1.7 g"
+            }
+          ],
+          "equipment": "Teflon-lined Parr stainless steel autoclave",
+          "washing_method": "Washed with deionized water and methanol",
+          "drying_method": "Activated under vacuum at 120°C overnight"
+        }
+      ]
+    }
+  ]
+}

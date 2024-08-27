@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for CTH-17?",
+      "answer": "The chemical formula for CTH-17 is [La2(cpb)]·1.5dmf.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the synthesis of CTH-17?",
+      "answer": "CTH-17 was synthesized using a solvothermal method in dimethylformamide (dmf) by either heating in a glass vial or in a Teflon-lined stainless-steel autoclave.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of CTH-17 at 300K?",
+      "answer": "The space group of CTH-17 at 300K is P622.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What phenomenon does CTH-17 display for CO2 loading?",
+      "answer": "CTH-17 displays a marked pressure-triggered gating effect for CO2 loading with a hysteresis of 0.5 bar.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the structure of CTH-17 change with temperature according to SCXRD data?",
+      "answer": "According to SCXRD data, the structure of CTH-17 changes from a chiro-descriptive space group P6122 at 90K to P622 at 300K and 500K, indicating a change in unit cell parameters and possibly a solid-state racemization process.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of dmf molecules in the structure of CTH-17 at 90K?",
+      "answer": "The dmf molecules are coordinated to La3+ ions and are responsible for the long c-axis in the structure of CTH-17 at 90K.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is CTH-17 chemically stable in water at pH 7?",
+      "answer": "Yes, CTH-17 is stable in water at pH 7 for at least 1 hour as the corresponding PXRD pattern remains the same as the as-synthesized products albeit with peak broadening.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the thermal stability assessment of CTH-17 indicate it is stable up to 800 °C?",
+      "answer": "False, the thermal stability assessment of CTH-17 using TGA shows a gradual loss of solvent up to 330 °C and breakdown starting at 380 °C.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the DFT calculations confirm the chiral structure of CTH-17 as the energy minimum?",
+      "answer": "Yes, the DFT calculations confirm the chiral structure of CTH-17 as the energy minimum.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the gate-opening effect observed in CTH-17 unique to CO2 or does it also occur with other gases?",
+      "answer": "The text specifically mentions the gate-opening effect for CO2 loading in CTH-17, but it does not provide information about its occurrence with other gases.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

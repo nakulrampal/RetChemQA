@@ -1,0 +1,102 @@
+{
+  "materials": [
+    {
+      "name": "UPC-80",
+      "synthesis": [
+        {
+          "step": "Synthesis of ligand",
+          "details": {
+            "chemicals_used": [
+              "3,4-diaminobenzoic acid",
+              "terephthaldehyde",
+              "saturated sodium hydrogen sulfite",
+              "ethanol"
+            ],
+            "solvents": [
+              {
+                "name": "ethanol",
+                "amount": "100 mL"
+              }
+            ],
+            "temperature": "95 ℃",
+            "time": "overnight",
+            "yield": "82%",
+            "product": "1,4-bis(5-carboxy-1H-benzimidazole-2yl)benzene (H2bcbb)"
+          }
+        },
+        {
+          "step": "Synthesis of [Tb(bcbb)1.5·DMF·H2O] (UPC-80)",
+          "details": {
+            "chemicals_used": [
+              "ligand (39.84 mg, 0.10 mmol)",
+              "Tb(NO3)3·6H2O (45.30 mg, 0.10 mmol)",
+              "DMF",
+              "H2O"
+            ],
+            "solvents": [
+              {
+                "name": "DMF/H2O",
+                "amount": "8.00 ml",
+                "ratio": "v/v, 3/5"
+              }
+            ],
+            "equipment": "20.00 ml glass vial",
+            "temperature": "120 °C",
+            "time": "24 h",
+            "cooling_rate": "5 °C h−1",
+            "washing_method": "washed with DMF and deionized water",
+            "drying_method": "dried at 60 °C for 24 h",
+            "yield": "70.2%",
+            "product": "UPC-80"
+          }
+        }
+      ],
+      "characterization": [
+        {
+          "technique": "PXRD",
+          "details": "recorded on a Rigaku UltimaIV Advance instrument"
+        },
+        {
+          "technique": "TGA",
+          "details": "measured on Mettler Toledo TGA instrument under N2 atmosphere at the range of 40-900 °C (with a heating rate of 10 °C min-1)"
+        },
+        {
+          "technique": "FT-IR",
+          "details": "performed on Nicolet 330 FTIR Spectrometer within the 4000-400 cm−1 region with KBr pellets"
+        },
+        {
+          "technique": "Elemental analysis",
+          "details": "collected on Elementar Vario EL Cube elemental analyzer"
+        }
+      ],
+      "gas_adsorption_and_separation": {
+        "BET_surface_area": "431 m2/g",
+        "pore_size_distribution": "mainly ranges from 13 to 18 Å",
+        "gas_adsorption_capacity": {
+          "C2H2": "77.28 cm3/g at 298 K",
+          "CO2": "39.23 cm3/g at 298 K",
+          "C2H4": "50.44 cm3/g at 298 K"
+        },
+        "selectivity": {
+          "C2H2/CO2": "6.34",
+          "C2H2/C2H4": "4.78",
+          "C3H6/C3H8": "3.43"
+        },
+        "breakthrough_experiments": {
+          "C2H2/CO2": {
+            "normalized_breakthrough_time": "16.7 min/g",
+            "C2H2_productivity": "1.29 mmol/g"
+          },
+          "C2H2/C2H4": {
+            "normalized_breakthrough_time": "15.8 min/g"
+          }
+        }
+      },
+      "computational_procedures": {
+        "GCMC_simulations": "performed to investigate the adsorption of gas in UPC-80",
+        "DFT_calculations": "carried out to gain the atomic partial charge and the adsorption energy of gas molecules",
+        "radial_distribution_functions": "calculated to reveal the density distribution of characteristic atoms of adsorbate molecules"
+      }
+    }
+  ]
+}

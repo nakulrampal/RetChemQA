@@ -1,0 +1,61 @@
+{
+  "materials": [
+    {
+      "name": "1c",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "dichloromethane",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "celite filtration",
+        "chemicals_used": [
+          {
+            "name": "[Dy(Tppy)F(pyridine)2]PF6",
+            "amount": "0.019 g, 0.021 mmol, 1 eq."
+          },
+          {
+            "name": "Lc",
+            "amount": "0.02 g, 0.04 mmol, 2 eq."
+          }
+        ],
+        "time": "overnight",
+        "yield": "0.021 g, 0.016 mmol, 84%",
+        "FT-IR": [
+          "2486, 1125, 1091, 939, 916, 838, 665, 555 cm−1"
+        ],
+        "elemental_analysis": {
+          "calculated": "C 45.51; H 2.73; N 11.91; S 4.96",
+          "found": "C 44.04; H 3.04; N 11.08; S 4.62"
+        }
+      }
+    },
+    {
+      "name": "1o",
+      "synthesis_conditions": {
+        "photoisomerization": "Compound 1c was irradiated with white light for 30 h, resulting in colorless crystals of 1o.",
+        "FT-IR": [
+          "2476, 1273, 1091, 964, 837, 628, 555, 480 cm−1"
+        ],
+        "elemental_analysis": {
+          "calculated": "C 45.51; H 2.73; N 11.91; S 4.96",
+          "found": "C 44.12; H 3.15; N 11.20; S 4.58"
+        }
+      }
+    },
+    {
+      "name": "[Dy(Tppy)F(pyridine)2]PF6",
+      "synthesis_conditions": {
+        "reference": "Previously reported"
+      }
+    },
+    {
+      "name": "Lo",
+      "synthesis_conditions": {
+        "photoisomerization": "50 mg of Lo were dissolved in dichloromethane (250 mL) and irradiated at 312 nm for 15 min with a power of 4.14 mW‧cm−2. The photoconversion was 95% as estimated by 1H NMR."
+      }
+    }
+  ]
+}

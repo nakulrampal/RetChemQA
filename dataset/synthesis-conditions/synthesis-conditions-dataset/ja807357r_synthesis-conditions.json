@@ -1,0 +1,76 @@
+{
+  "materials": [
+    {
+      "name": "NENU-n (n = 1−6)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Cu(NO3)2·3H2O",
+            "amount": "0.24 g",
+            "molar_amount": "1 mmol"
+          },
+          {
+            "name": "H4SiW12O40·nH2O",
+            "amount": "0.2 g",
+            "for": "1"
+          },
+          {
+            "name": "H4GeW12O40·nH2O",
+            "amount": "0.2 g",
+            "for": "2"
+          },
+          {
+            "name": "H3PW12O40·nH2O",
+            "amount": "0.2 g",
+            "for": "3"
+          },
+          {
+            "name": "H4SiMo12O40·nH2O",
+            "amount": "0.2 g",
+            "for": "4"
+          },
+          {
+            "name": "H3PMo12O40·nH2O",
+            "amount": "0.2 g",
+            "for": "5"
+          },
+          {
+            "name": "H3AsMo12O40·nH2O",
+            "amount": "0.2 g",
+            "for": "6"
+          },
+          {
+            "name": "H3BTC",
+            "amount": "0.21 g",
+            "molar_amount": "1 mmol"
+          },
+          {
+            "name": "(CH3)4NOH",
+            "amount": "0.09 g",
+            "molar_amount": "1 mmol"
+          }
+        ],
+        "solvent": "distilled water",
+        "solvent_amount": "10 mL",
+        "temperature": "180 °C",
+        "time": "24 h",
+        "equipment": "Teflon-lined autoclave",
+        "yield": "60−80% based on Cu",
+        "drying_method": "slow cooling to room temperature"
+      }
+    },
+    {
+      "name": "[Cu12(BTC)8][H3PW12O40] (NENU-3a)",
+      "synthesis_conditions": {
+        "precursor": "NENU-3",
+        "precursor_amount": "2.0012 g",
+        "temperature": "200 °C",
+        "time": "12 h",
+        "equipment": "high vacuum oven",
+        "weight_loss": "13.41%",
+        "yield": "1.7330 g",
+        "drying_method": "solvent-free phase obtained as black crystals"
+      }
+    }
+  ]
+}

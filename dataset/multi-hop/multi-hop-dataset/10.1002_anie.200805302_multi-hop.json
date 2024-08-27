@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the DOI of the paper discussing crystal-structure determination of powdered paramagnetic lanthanide complexes by proton NMR spectroscopy?",
+      "answer": "10.1002/anie.200805302",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which technique is emerging as a powerful tool for the characterization of challenging materials, as mentioned in the paper?",
+      "answer": "Solid-state NMR spectroscopy",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main challenge in applying solid-state NMR spectroscopy methods directly to paramagnetic compounds?",
+      "answer": "Nuclear spin dynamics are profoundly affected by unpaired electrons in paramagnetic compounds.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the protocol proposed in the paper address the structure determination of powdered microcrystalline paramagnetic solids?",
+      "answer": "The protocol uses paramagnetic effects to simultaneously define the conformation of a molecule in the lattice and the intermolecular packing in the solid phase.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the pseudo-contact shift (PCS) and how is it relevant to the study?",
+      "answer": "PCS is a nonzero effect in the NMR spectrum left when a metal possesses an anisotropic magnetic susceptibility tensor, relevant for evaluating the position of a nucleus with respect to the principal axes of the susceptibility tensor anchored on the metal center.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The axial anisotropy of the chemical shift tensor directly relates to the electron-nucleus distance and can help disentangle the spatial dependence of the molecular geometry.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The total hyperfine dipolar Hamiltonian in a crystal lattice can be obtained by summing the dipolar interactions describing each electron-nucleus spin pair over the lattice.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the observation of PCSs in inorganic fragments and microcrystalline paramagnetic proteins suggest about their use in solid-state structure determination?",
+      "answer": "It opens the perspective of using PCSs in solid-state structure determination due to the tensor character of the paramagnetic shift being apparent in the solid state, resulting in increased information content.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The strength of the electron-nucleus interaction cannot be tuned by using lanthanides with increasing effective moments.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Why are 1H nuclei considered a promising alternative for probing local structure in the context of paramagnetic effects?",
+      "answer": "Because they are 100% abundant, have negligible chemical shift anisotropy (CSA), are rarely directly bonded to the metal center, and in solids, they are not affected by Curie broadening.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The method described in the paper cannot determine the absolute position of the 1H atoms in a lattice.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of two resonances in the TEDOR spectrum of complex 1a indicate about the local symmetry of the metal complex?",
+      "answer": "It indicates a local D3 symmetry of the metal complex.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The experimental section of the paper does not provide details on sample preparation and solid-state NMR spectra acquisition and analysis.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the method exploit the particular potential of solid-state NMR spectroscopy for structural investigations?",
+      "answer": "The method provides stronger structural restraints than in analogous solution-state approaches, allowing for a full crystal structure determination of compound 1a in powder form at natural isotopic abundance.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The method described for structure determination relies solely on the reciprocal position of two nuclei.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the RMSD value mentioned in the comparison between the experimentally determined structure and the known crystal structure?",
+      "answer": "The RMSD value indicates the degree of deviation between the experimentally determined structure and the known crystal structure, with a low RMSD suggesting a high level of accuracy in the experimental determination.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The confidence maps generated in the study are used to determine the position of each 1H atom in the unit cell, similar to electron-density maps in X-ray determinations.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does the anisotropic c tensor play in the structural determination process described in the paper?",
+      "answer": "The orientation and anisotropy of the c tensor, along with the position of the metal centers, are crucial for back-calculating the NMR spectrum of a given proton and determining the position of each nucleus with respect to the metal centers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study demonstrates that the positions of the hydrogen sublattice can be identified even when the heavy-atoms positions are not known.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the study contribute to the field of 'NMR crystallography' as mentioned in the conclusion?",
+      "answer": "The study represents a further step forward in the fast-developing field of 'NMR crystallography' by providing unique information on the arrangement of paramagnetic molecules in the solid phase and demonstrating a full crystal structure determination method.",
+      "difficulty": "hard",
+      "type": "factual"
+    }
+  ]
+}

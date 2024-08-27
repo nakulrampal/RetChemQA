@@ -1,0 +1,83 @@
+{
+  "materials": [
+    {
+      "name": "sal-MOF",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": "DMF",
+        "amount_of_solvent": "10 mL of DMF",
+        "equipment": "vial",
+        "chemicals_used": {
+          "H2sal-TPD": "87 mg (0.20 mmol)",
+          "ZrCl4": "54.0 mg (0.23 mmol)",
+          "trifluoroacetic acid": "0.145 mL (3 eq.)"
+        },
+        "time": "24 hours",
+        "yield": "60%",
+        "washing_method": "washed 5 times with DMF"
+      }
+    },
+    {
+      "name": "sal-Fe-MOF",
+      "synthesis_conditions": {
+        "chemicals_used": {
+          "sal-MOF": "20.0 mg",
+          "FeCl2·4H2O": "5.0 mg (25.1 µmol)"
+        },
+        "solvents": "THF",
+        "amount_of_solvent": "2.0 mL of THF",
+        "equipment": "vial",
+        "time": "6 h",
+        "temperature": "room temperature",
+        "yield": {
+          "solvent_weight": "50%",
+          "Fe-loading": "66%"
+        },
+        "washing_method": "washed with THF 4-5 times"
+      }
+    },
+    {
+      "name": "sal-Co-MOF",
+      "synthesis_conditions": {
+        "chemicals_used": {
+          "sal-MOF": "10.0 mg",
+          "CoCl2": "10.0 mg (77.0 µmol)"
+        },
+        "solvents": "THF",
+        "amount_of_solvent": "4.0 mL of THF",
+        "equipment": "vial",
+        "time": "overnight",
+        "temperature": "room temperature",
+        "yield": {
+          "solvent_weight": "54%",
+          "Co-loading": "6%"
+        },
+        "washing_method": "washed with THF 4-5 times"
+      }
+    },
+    {
+      "name": "Fe4(sal)4Cl4(THF)2",
+      "synthesis_conditions": {
+        "chemicals_used": {
+          "FeCl2·4H2O": "79.5 mg (0.4 mmol)",
+          "Hsal": "69.0 mg (0.35 mmol)",
+          "NaOH": "14.0 mg (0.35 mmol)"
+        },
+        "solvents": "ethanol",
+        "amount_of_solvent": "3 mL of degassed ethanol",
+        "equipment": "vial",
+        "time": "1 h",
+        "temperature": "room temperature",
+        "yield": "dark red crystals",
+        "additional_steps": [
+          {
+            "step": "removal of ethanol under vacuum",
+            "solvent_for_crystallization": "tetrahydrofuran",
+            "crystallization_temperature": "-30ºC",
+            "crystallization_time": "3 days"
+          }
+        ]
+      }
+    }
+  ]
+}

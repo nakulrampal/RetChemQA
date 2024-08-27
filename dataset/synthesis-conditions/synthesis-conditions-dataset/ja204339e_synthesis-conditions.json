@@ -1,0 +1,70 @@
+{
+  "materials": [
+    {
+      "name": "5,15-bis(3,5-dicarboxyphenyl)porphine (bdcpp)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "CHCl3",
+            "amount": "300 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "dipyrrolemethane",
+            "amount": "292 mg, 2 mmol"
+          },
+          {
+            "name": "dimethyl 5-formylisophthalate",
+            "amount": "444 mg, 4 mmol"
+          },
+          {
+            "name": "molecular sieves (4A)",
+            "amount": "0.600g"
+          },
+          {
+            "name": "BF3·Et2O",
+            "amount": "0.2 mL"
+          },
+          {
+            "name": "2,3-dichloro-5,6-dicyano-1,4-benzoquinone (DDQ)",
+            "amount": "547 mg, 2.4mmol"
+          }
+        ],
+        "temperature": "room temperature",
+        "time": "3 h initial reaction, further 30 minutes after DDQ addition",
+        "yield": "~12.5 mg, ~1%",
+        "washing_method": "silica gel column eluted with CH2Cl2",
+        "drying_method": "not specified",
+        "equipment": "not specified"
+      }
+    },
+    {
+      "name": "MMPF-1",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "dimethylacetamide (DMA)",
+            "amount": "1.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "bdcpp",
+            "amount": "0.002 g"
+          },
+          {
+            "name": "Cu(NO3)2·2.5H2O",
+            "amount": "0.005 g"
+          }
+        ],
+        "temperature": "85 °C",
+        "time": "24 hours",
+        "yield": "65% based on bdcpp",
+        "washing_method": "washed with DMA",
+        "drying_method": "not specified",
+        "equipment": "sealed in a Pyrex tube under vacuum"
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "materials": [
+    {
+      "name": "Fe2M-MOF (M=Fe, Co, Ni, Zn)",
+      "synthesis_conditions": {
+        "method": "solvothermal reaction",
+        "temperature": "not specified",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "not specified"
+          },
+          {
+            "name": "AcOH",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Fe2M(μ3-O)(CH3COO)6(H2O)3 cluster",
+            "amount": "not specified"
+          },
+          {
+            "name": "tetrakis(1,1’-biphenyl-4-carboxylic acid)-1,4-benzenediamine (H4TPBD)",
+            "amount": "not specified"
+          }
+        ],
+        "yield": [
+          {
+            "material": "Fe2Fe-MOF",
+            "percentage": "76%"
+          },
+          {
+            "material": "Fe2Co-MOF",
+            "percentage": "65%"
+          },
+          {
+            "material": "Fe2Ni-MOF",
+            "percentage": "58%"
+          },
+          {
+            "material": "Fe2Zn-MOF",
+            "percentage": "85%"
+          }
+        ],
+        "time": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "equipment": "not specified"
+      }
+    },
+    {
+      "name": "Fe2Co-N1-MOF",
+      "synthesis_conditions": {
+        "method": "not specified",
+        "temperature": "not specified",
+        "solvents": "not specified",
+        "chemicals_used": [
+          {
+            "name": "4,4’4’’-tricarboxytriphenylamine (TCA) ligand",
+            "amount": "not specified"
+          }
+        ],
+        "yield": "not specified",
+        "time": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "equipment": "not specified"
+      }
+    }
+  ]
+}

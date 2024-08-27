@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the formula of MIL-53(Al)-FA and how does it relate to its water content?",
+      "answer": "The formula of MIL-53(Al)-FA is Al(OH)(fum)·x H2O (x = 3.5; fum = fumarate), indicating that for each aluminum atom, there are approximately 3.5 water molecules in the structure.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the synthesis method of A520 affect its crystallinity compared to the initial recipe?",
+      "answer": "The synthesis method involving a gentle method to gradually increase the pH of the reaction mixture by replacing the direct mixing of fumaric acid and NaOH with a slow decomposition of urea in hot water leads to a polycrystalline solid with much better crystallinity compared to the initial recipe.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What structural feature of MIL-53(Al)-FA contributes to its rigidity compared to MIL-53(Al)-BDC?",
+      "answer": "The rigidity of MIL-53(Al)-FA compared to MIL-53(Al)-BDC is attributed to the more rigid character of the fumarate linker, which prevents rotation around the axis of the chains, unlike the rotation possible with the aromatic ring of terephthalate in MIL-53(Al)-BDC.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the BET area difference between MIL-53(Al)-FA and BASF Basolite A520?",
+      "answer": "The BET area of MIL-53(Al)-FA being slightly higher than BASF Basolite A520 by about 70 m2 g-1 emphasizes the absence of a significant amount of inorganic impurities for MIL-53(Al)-FA.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of defects in A520 influence its catalytic activity for ethanol dehydration?",
+      "answer": "The presence of structural defects in A520 leads to a different selectivity in ethanol dehydration, with a higher formation of acetaldehyde indicating the presence of Lewis acid sites associated with defects.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What role does the microwave-assisted synthesis play in the formation of Al fumarate solids?",
+      "answer": "Microwave-assisted synthesis, especially using a mild base like urea, increases the crystallinity and formation rate of the Al fumarate phase by preventing the precipitation into the hydroxide, leading to a very high space–time yield.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of dehydration on the crystallinity of MIL-53(Al)-FA?",
+      "answer": "Dehydration of MIL-53(Al)-FA leads to a large broadening effect of the Bragg peaks and a small contraction of the channel along the fumarate direction, indicating a loss of crystallinity that is reversible upon rehydration.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the synthesis modification of A520 contribute to the structural determination of the solid?",
+      "answer": "The synthesis modification of A520, which resulted in a more crystalline sample, allowed for the proposal of a structural model reminiscent of the MIL-53(Al)-BDC architecture, supported by XRPD and computational approaches.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What evidence supports the similarity in structure between MIL-53(Al)-FA and MIL-53(Al)-BDC?",
+      "answer": "Evidence supporting the similarity in structure includes similar 27Al MAS NMR spectra, the presence of bridging OH groups observed in both 1H MAS NMR and IR spectra, and DFT calculations that align with experimental findings.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the optimized synthesis of MIL-53(Al)-FA affect its catalytic properties compared to the commercial A520?",
+      "answer": "The optimized synthesis of MIL-53(Al)-FA results in a material with a much smaller concentration of defect sites, leading to a different selectivity in ethanol dehydration, particularly a higher selectivity for diethyl ether over acetaldehyde.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the impact of the structural defects on the catalytic activity of A520 and MIL-53(Al)-FA?",
+      "answer": "Structural defects, such as missing linkers leading to open Al sites, impact the catalytic activity by influencing the product distribution in ethanol dehydration, with defects in A520 leading to higher acetaldehyde formation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of water molecules in the pores of MIL-53(Al)-FA influence its structure?",
+      "answer": "The presence of water molecules in the pores of MIL-53(Al)-FA forms hydrogen bonds with the framework, contributing to the stability and rigidity of the structure, as evidenced by DFT predictions and experimental data.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the synthesis of MIL-53(Al)-FA using microwave irradiation more effective than hydrothermal conditions?",
+      "answer": "True. The microwave synthesis of MIL-53(Al)-FA is more effective, leading to a higher space–time yield compared to synthesis under hydrothermal conditions.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the commercial A520 sample exhibit a higher degree of defects compared to the optimized MIL-53(Al)-FA sample?",
+      "answer": "True. The commercial A520 sample possesses a higher degree of defects, affecting its catalytic selectivity in ethanol dehydration.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the dehydration process of MIL-53(Al)-FA accompanied by a drastic shift of the Bragg peaks?",
+      "answer": "False. Unlike the parent terephthalate form, MIL-53(Al)-FA exhibits a rigid character during dehydration, with no drastic shift of the Bragg peaks.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the rotation of the linker around the axis of the chains occur in MIL-53(Al)-FA?",
+      "answer": "False. The rotation of the linker, possible with the aromatic ring in MIL-53(Al)-BDC, cannot take place for the fumarate conjugated system in MIL-53(Al)-FA.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the BET area of MIL-53(Al)-FA significantly lower than that of BASF Basolite A520?",
+      "answer": "False. The BET area of MIL-53(Al)-FA is slightly higher than that of BASF Basolite A520, indicating a lower presence of inorganic impurities.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of water molecules in MIL-53(Al)-FA lead to a decrease in its porosity?",
+      "answer": "False. The presence of water molecules in MIL-53(Al)-FA does not decrease its porosity; instead, it contributes to the stability and structure of the framework.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the crystallinity loss observed in MIL-53(Al)-FA upon dehydration permanent?",
+      "answer": "False. The crystallinity loss observed in MIL-53(Al)-FA upon dehydration is reversible upon rehydration, indicating the material's stability.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the structural defects in A520 responsible for its higher selectivity for acetaldehyde in ethanol dehydration?",
+      "answer": "True. The structural defects in A520, such as missing linkers leading to open Al sites, are responsible for its higher selectivity for acetaldehyde in ethanol dehydration.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

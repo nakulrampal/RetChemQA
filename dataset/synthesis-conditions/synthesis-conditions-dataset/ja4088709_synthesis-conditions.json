@@ -1,0 +1,217 @@
+{
+  "materials": [
+    {
+      "name": "4,4'-[1,4-(xylene)diyl]bis-(1-(2-cyanoethyl)-1,2,4-triazolium) dibromide",
+      "id": "1",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "1,4-bis(bromomethyl)-benzene",
+            "amount": "10.0 g",
+            "molar_amount": "0.0378 mol"
+          },
+          {
+            "name": "1,2,4-triazole-1-propanenitrile",
+            "amount": "20.0 g",
+            "molar_amount": "0.164 mol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "35 mL"
+          },
+          {
+            "name": "diethyl ether",
+            "amount": "35 mL"
+          }
+        ],
+        "temperature": "reflux",
+        "time": "1 h",
+        "yield": "93.8%",
+        "washing_method": "acetonitrile wash",
+        "drying_method": "reduced pressure"
+      }
+    },
+    {
+      "name": "4,4′-(1,4-(xylene)diyl)bis(1,2,4-triazole)",
+      "id": "L, 2",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "potassium hydroxide",
+            "amount": "7.96 g",
+            "molar_amount": "0.142 mol"
+          },
+          {
+            "name": "compound 1",
+            "amount": "18.0 g",
+            "molar_amount": "0.0355 mol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "200 mL"
+          }
+        ],
+        "temperature": "room temperature",
+        "time": "2 h",
+        "yield": "83.7%",
+        "washing_method": "water and acetonitrile wash",
+        "drying_method": "reduced pressure"
+      }
+    },
+    {
+      "name": "[Cu(L)(ClO4)] • DMF • H2O",
+      "id": "3",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Copper(II) perchlorate hexahydrate",
+            "amount": "0.0272 g",
+            "molar_amount": "0.0735 mmol"
+          },
+          {
+            "name": "L",
+            "amount": "0.0177 g",
+            "molar_amount": "0.0735 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "1 mL"
+          },
+          {
+            "name": "DMF",
+            "amount": "2 mL"
+          }
+        ],
+        "temperature": "85 °C",
+        "time": "24 h",
+        "yield": "34.4%",
+        "washing_method": "water and acetone wash"
+      }
+    },
+    {
+      "name": "[Cu2(L)2(ClO4)2] • 4DMF • H2O",
+      "id": "4",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Copper(II) perchlorate hexahydrate",
+            "amount": "0.0545 g",
+            "molar_amount": "0.147 mmol"
+          },
+          {
+            "name": "L",
+            "amount": "0.0177 g",
+            "molar_amount": "0.0735 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "3 mL"
+          }
+        ],
+        "temperature": "85 °C",
+        "time": "36 h",
+        "yield": "41.4%",
+        "washing_method": "DMF and acetone wash"
+      }
+    },
+    {
+      "name": "[Cu(L)(ClO4)] • DMA • H2O",
+      "id": "5",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Copper(II) perchlorate hexahydrate",
+            "amount": "0.136 g",
+            "molar_amount": "0.368 mmol"
+          },
+          {
+            "name": "L",
+            "amount": "0.0177 g",
+            "molar_amount": "0.0735 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "1 mL"
+          },
+          {
+            "name": "DMA",
+            "amount": "2 mL"
+          }
+        ],
+        "temperature": "85 °C",
+        "time": "2 weeks",
+        "notes": "Colorless needles formed that could not be isolated in bulk."
+      }
+    },
+    {
+      "name": "[Cu(L)(ClO4)] • NMP • H2O",
+      "id": "6",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Copper(II) perchlorate hexahydrate",
+            "amount": "0.136 g",
+            "molar_amount": "0.368 mmol"
+          },
+          {
+            "name": "L",
+            "amount": "0.0177 g",
+            "molar_amount": "0.0735 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "1 mL"
+          },
+          {
+            "name": "NMP",
+            "amount": "2 mL"
+          }
+        ],
+        "temperature": "85 °C",
+        "time": "2 weeks",
+        "yield": "68.9%",
+        "washing_method": "water and acetone wash"
+      }
+    },
+    {
+      "name": "[Cu2(L)2(ClO4)2] • 3NMP",
+      "id": "7",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Copper(II) perchlorate hexahydrate",
+            "amount": "0.0136 g",
+            "molar_amount": "0.0367 mmol"
+          },
+          {
+            "name": "L",
+            "amount": "0.0177 g",
+            "molar_amount": "0.0735 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "NMP",
+            "amount": "3 mL"
+          }
+        ],
+        "temperature": "85 °C",
+        "time": "3 days",
+        "yield": "19.9%",
+        "washing_method": "NMP and acetone wash"
+      }
+    }
+  ]
+}

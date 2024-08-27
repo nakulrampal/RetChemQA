@@ -1,0 +1,434 @@
+{
+  "materials": [
+    {
+      "name": "Mg2(dobdc)",
+      "synthesis_conditions": [
+        {
+          "temperature": "120 °C",
+          "solvents": [
+            {
+              "name": "deionized water",
+              "amount": "75 mL"
+            },
+            {
+              "name": "N,N-dimethylformamide (DMF)",
+              "amount": "1150 mL"
+            },
+            {
+              "name": "ethanol",
+              "amount": "75 mL"
+            }
+          ],
+          "equipment": "oven",
+          "chemicals_used": [
+            {
+              "name": "Mg(NO3)2∙6H2O",
+              "amount": "12.0 g"
+            },
+            {
+              "name": "H4dobdc",
+              "amount": "2.93 g"
+            }
+          ],
+          "time": "8 h",
+          "washing_method": "methanol",
+          "drying_method": "activated under flowing N2 at 180 °C for 24 h, then under high vacuum at 180 °C for 24 h",
+          "yield": "68%",
+          "characterization": [
+            {
+              "technique": "Powder X-ray diffraction",
+              "details": "methanol-solvated Mg2(dobdc)"
+            },
+            {
+              "technique": "N2 adsorption isotherm",
+              "details": "at 77 K, Langmuir surface area 1914 m2/g"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mg2(m-dobdc)",
+      "synthesis_conditions": [
+        {
+          "temperature": "180 °C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "150 mL"
+            },
+            {
+              "name": "methanol",
+              "amount": "150 mL"
+            }
+          ],
+          "equipment": "oven",
+          "chemicals_used": [
+            {
+              "name": "Mg(NO3)2∙6H2O",
+              "amount": "data not provided"
+            },
+            {
+              "name": "H4m-dobdc",
+              "amount": "data not provided"
+            }
+          ],
+          "time": "multiple soaking steps",
+          "washing_method": "methanol",
+          "drying_method": "activated under flowing N2 at 180 °C for 24 h, then under high vacuum at 180 °C for 24 h",
+          "yield": "data not provided",
+          "characterization": [
+            {
+              "technique": "Powder X-ray diffraction",
+              "details": "methanol-solvated Mg2(m-dobdc)"
+            },
+            {
+              "technique": "N2 adsorption isotherm",
+              "details": "at 77 K, Langmuir surface area 1887 m2/g"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mg2(dobpdc)",
+      "synthesis_conditions": [
+        {
+          "temperature": "120 °C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "45 mL"
+            },
+            {
+              "name": "methanol",
+              "amount": "55 mL"
+            }
+          ],
+          "equipment": "oven",
+          "chemicals_used": [
+            {
+              "name": "Mg(NO3)2·6H2O",
+              "amount": "5.75 g"
+            },
+            {
+              "name": "H4dobpdc",
+              "amount": "4.95 g"
+            }
+          ],
+          "time": "14 h",
+          "washing_method": "methanol",
+          "drying_method": "activated under flowing N2 at 180 °C for 24 h, then under high vacuum at 180 °C for 24 h",
+          "yield": "data not provided",
+          "characterization": [
+            {
+              "technique": "Powder X-ray diffraction",
+              "details": "methanol-solvated Mg2(dobpdc)"
+            },
+            {
+              "technique": "N2 adsorption isotherm",
+              "details": "at 77 K, Langmuir surface area 3934 m2/g"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Co2(dobdc)",
+      "synthesis_conditions": [
+        {
+          "temperature": "100 °C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "250 mL"
+            },
+            {
+              "name": "methanol",
+              "amount": "250 mL"
+            }
+          ],
+          "equipment": "oven",
+          "chemicals_used": [
+            {
+              "name": "Co(NO3)2∙6H2O",
+              "amount": "19.4 g"
+            },
+            {
+              "name": "H4dobdc",
+              "amount": "3.96 g"
+            }
+          ],
+          "time": "24 h",
+          "washing_method": "methanol",
+          "drying_method": "activated under flowing N2 at 180 °C for 24 h, then under high vacuum at 180 °C for 24 h",
+          "yield": "53%",
+          "characterization": [
+            {
+              "technique": "Powder X-ray diffraction",
+              "details": "methanol-solvated Co2(dobdc)"
+            },
+            {
+              "technique": "N2 adsorption isotherm",
+              "details": "at 77 K, Langmuir surface area 1387 m2/g"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Co2(m-dobdc)",
+      "synthesis_conditions": [
+        {
+          "temperature": "120 °C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "150 mL"
+            },
+            {
+              "name": "methanol",
+              "amount": "150 mL"
+            }
+          ],
+          "equipment": "oven",
+          "chemicals_used": [
+            {
+              "name": "CoCl2",
+              "amount": "1.30 g"
+            },
+            {
+              "name": "H4m-dobdc",
+              "amount": "792 mg"
+            }
+          ],
+          "time": "multiple soaking steps",
+          "washing_method": "methanol",
+          "drying_method": "activated under flowing N2 at 180 °C for 24 h, then under high vacuum at 180 °C for 24 h",
+          "yield": "33%",
+          "characterization": [
+            {
+              "technique": "Powder X-ray diffraction",
+              "details": "methanol-solvated Co2(m-dobdc)"
+            },
+            {
+              "technique": "N2 adsorption isotherm",
+              "details": "at 77 K, Langmuir surface area 1486 m2/g"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ni2(dobdc)",
+      "synthesis_conditions": [
+        {
+          "temperature": "120 °C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "175 mL"
+            },
+            {
+              "name": "methanol",
+              "amount": "21 mL"
+            }
+          ],
+          "equipment": "oven",
+          "chemicals_used": [
+            {
+              "name": "Ni(NO3)2∙6H2O",
+              "amount": "5.23 g"
+            },
+            {
+              "name": "H4dobdc",
+              "amount": "1.42 g"
+            }
+          ],
+          "time": "14 h",
+          "washing_method": "methanol",
+          "drying_method": "activated under flowing N2 at 180 °C for 24 h, then under high vacuum at 180 °C for 24 h",
+          "yield": "33%",
+          "characterization": [
+            {
+              "technique": "Powder X-ray diffraction",
+              "details": "methanol-solvated Ni2(dobdc)"
+            },
+            {
+              "technique": "N2 adsorption isotherm",
+              "details": "at 77 K, Langmuir surface area 1464 m2/g"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ni2(m-dobdc)",
+      "synthesis_conditions": [
+        {
+          "temperature": "120 °C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "162 mL"
+            },
+            {
+              "name": "methanol",
+              "amount": "88 mL"
+            }
+          ],
+          "equipment": "oven",
+          "chemicals_used": [
+            {
+              "name": "NiCl2",
+              "amount": "1.30 g"
+            },
+            {
+              "name": "H4m-dobdc",
+              "amount": "792 mg"
+            }
+          ],
+          "time": "14 h",
+          "washing_method": "methanol",
+          "drying_method": "activated under flowing N2 at 180 °C for 24 h, then under high vacuum at 180 °C for 24 h",
+          "yield": "64%",
+          "characterization": [
+            {
+              "technique": "Powder X-ray diffraction",
+              "details": "methanol-solvated Ni2(m-dobdc)"
+            },
+            {
+              "technique": "N2 adsorption isotherm",
+              "details": "at 77 K, Langmuir surface area 1561 m2/g"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zn2(dobdc)",
+      "synthesis_conditions": [
+        {
+          "temperature": "120 °C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "125 mL"
+            },
+            {
+              "name": "ethanol",
+              "amount": "125 mL"
+            }
+          ],
+          "equipment": "oven",
+          "chemicals_used": [
+            {
+              "name": "Zn(NO3)2∙6H2O",
+              "amount": "2.23 g"
+            },
+            {
+              "name": "H4dobdc",
+              "amount": "495 mg"
+            }
+          ],
+          "time": "14 h",
+          "washing_method": "methanol",
+          "drying_method": "activated under flowing N2 at 180 °C for 24 h, then under high vacuum at 180 °C for 24 h",
+          "yield": "64%",
+          "characterization": [
+            {
+              "technique": "Powder X-ray diffraction",
+              "details": "methanol-solvated Zn2(dobdc)"
+            },
+            {
+              "technique": "N2 adsorption isotherm",
+              "details": "at 77 K, Langmuir surface area 1170 m2/g"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cu3(btc)2",
+      "synthesis_conditions": [
+        {
+          "temperature": "80 °C",
+          "solvents": [
+            {
+              "name": "ethanol",
+              "amount": "50 mL"
+            }
+          ],
+          "equipment": "oven",
+          "chemicals_used": [
+            {
+              "name": "Cu(NO3)2∙2.5H2O",
+              "amount": "2.33 g"
+            },
+            {
+              "name": "1,3,5-benzenetricarboxylic acid",
+              "amount": "0.68 g"
+            },
+            {
+              "name": "N,N-dimethylformamide",
+              "amount": "2 mL"
+            }
+          ],
+          "time": "7 days",
+          "washing_method": "ethanol",
+          "drying_method": "activated under flowing N2 at 150 °C for 8 h, then under high vacuum at 150 °C for 24 h",
+          "yield": "24%",
+          "characterization": [
+            {
+              "technique": "Powder X-ray diffraction",
+              "details": "ethanol-solvated Cu3(btc)2"
+            },
+            {
+              "technique": "N2 adsorption isotherm",
+              "details": "at 77 K, Langmuir surface area 2192 m2/g"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CD-MOF-1",
+      "synthesis_conditions": [
+        {
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "deionized water",
+              "amount": "15 mL"
+            }
+          ],
+          "equipment": "N/A",
+          "chemicals_used": [
+            {
+              "name": "γ-cyclodextrin",
+              "amount": "1.00 g"
+            },
+            {
+              "name": "potassium hydroxide",
+              "amount": "346 mg"
+            }
+          ],
+          "time": "7 days",
+          "washing_method": "methanol",
+          "drying_method": "activated under flowing N2 at room temperature for 24 h, then under high vacuum at room temperature for 24 h",
+          "yield": "72%",
+          "characterization": [
+            {
+              "technique": "Powder X-ray diffraction",
+              "details": "diethyl ether-solvated CD-MOF-1"
+            },
+            {
+              "technique": "N2 adsorption isotherm",
+              "details": "at 77 K, Langmuir surface area 1247 m2/g"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

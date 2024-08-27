@@ -1,0 +1,92 @@
+{
+  "materials": [
+    {
+      "name": "ZIF-1001",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "3 days",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          "Zn(NO3)2 · 6 H2O",
+          "benzotriazolate (bTZ)",
+          "benzimidazolate (bIM)"
+        ],
+        "washing_method": "washed with fresh DMF",
+        "drying_method": "solvent exchanged with CH3OH (6 × 10 mL each day for 5 days) and evacuated for 12 h at 120 °C",
+        "yield": "not specified",
+        "additional_information": "synthetic input mole ratios of bTZ:bIM greater than 1.5 : 1"
+      }
+    },
+    {
+      "name": "ZIF-1002",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "3 days",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          "Zn(NO3)2 · 6 H2O",
+          "benzotriazolate (bTZ)",
+          "5-methylbenzimidazolate (mbIM)"
+        ],
+        "washing_method": "washed with fresh DMF",
+        "drying_method": "solvent exchanged with CH3OH (6 × 10 mL each day for 5 days) and evacuated for 12 h at 120 °C",
+        "yield": "not specified",
+        "additional_information": "synthetic input mole ratios of bTZ:mbIM greater than 1.5 : 1"
+      }
+    },
+    {
+      "name": "ZIF-1003",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "3 days",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          "Zn(NO3)2 · 6 H2O",
+          "benzotriazolate (bTZ)",
+          "5-bromobenzimidazolate (bbIM)"
+        ],
+        "washing_method": "washed with fresh DMF",
+        "drying_method": "solvent exchanged with CH3OH (6 × 10 mL each day for 5 days) and evacuated for 12 h at 120 °C",
+        "yield": "not specified",
+        "additional_information": "synthetic input mole ratios of bTZ:bbIM greater than 1.5 : 1"
+      }
+    },
+    {
+      "name": "ZIF-1004",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "3 days",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          "Zn(NO3)2 · 6 H2O",
+          "benzotriazolate (bTZ)",
+          "5-chlorobenzimidazolate (cbIM)"
+        ],
+        "washing_method": "washed with fresh DMF",
+        "drying_method": "solvent exchanged with CH3OH (6 × 10 mL each day for 5 days) and evacuated for 12 h at 120 °C",
+        "yield": "not specified",
+        "additional_information": "synthetic input mole ratios of bTZ:cbIM greater than 1.5 : 1"
+      }
+    }
+  ]
+}

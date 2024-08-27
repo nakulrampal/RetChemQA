@@ -1,0 +1,118 @@
+{
+  "materials": [
+    {
+      "name": "2,6-Bis(4'-pyridyl)-tetrathiafulvalene (Py2TTF)",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "Acetic acid",
+            "amount": "150 mL"
+          },
+          {
+            "name": "Isopropanol",
+            "amount": "300 mL"
+          },
+          {
+            "name": "Dichloromethane",
+            "amount": "180 mL"
+          },
+          {
+            "name": "P(OEt)3",
+            "amount": "25 mL"
+          },
+          {
+            "name": "Toluene",
+            "amount": "25 mL"
+          }
+        ],
+        "equipment": "Convection oven",
+        "chemicals_used": [
+          "4-Acetyl pyridine",
+          "HBr (48%)",
+          "Br2/CH3COOH",
+          "KOH",
+          "CS2",
+          "4-bromoacetylpyridine",
+          "Triethylamine",
+          "K-O-isopropyl xanthate",
+          "H2SO4 (98%)",
+          "NaHCO3 (0.1 M)"
+        ],
+        "time": [
+          "Stirring at 0 °C for 15 min",
+          "Stirring at room temperature for 1 h",
+          "Stirring at 0 °C for 1 h",
+          "Stirring for 4 h",
+          "Heating at 80 °C for 1 h",
+          "Reflux under N2 for 6 h"
+        ],
+        "washing_method": "Washed with diethyl ether, H2O, DCM",
+        "drying_method": "Dried under N2",
+        "yield": "1.96 g (18.3%)",
+        "comments": "The synthesis involves multiple steps including bromination, formation of K-O-isopropyl xanthate, and cyclization."
+      }
+    },
+    {
+      "name": "[Cd2(Py2TTF)2(bpdc)2]·5DMF (1)",
+      "synthesis_conditions": {
+        "temperature": "Heated to 130 ℃ for 10 minutes and further heated at 80 ℃",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "4 mL"
+          },
+          {
+            "name": "EtOH",
+            "amount": "0.75 mL"
+          }
+        ],
+        "equipment": "21 mL solvothermal vial, convection oven",
+        "chemicals_used": [
+          "Cd(NO3)2·4H2O",
+          "Py2TTF",
+          "Biphenyl-4,4’-dicaryboxylic acid (bpdc)"
+        ],
+        "time": "4 days",
+        "yield": "20 mg (30.4%)",
+        "comments": "The mixture was covered with aluminium foil and dissolved in DMF and EtOH before heating. Loss of crystallinity was observed upon exposure to air at room temperature over a period of ca. 12 hours."
+      }
+    },
+    {
+      "name": "[Cd2(Py4C12S8H4)(bpdc)2]·3DMF (3)",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": "DMF",
+        "equipment": "Microscope lamp",
+        "chemicals_used": "Single crystals of 1",
+        "time": "15 min of light irradiation",
+        "comments": "Single crystals of 1 were irradiated with white light (25 W) using the beam from a microscope to form 3. Bulk 3 was formed by placing a sample of 1 in direct sunlight for 2 days or under a UV lamp (20 W) for 1 h."
+      }
+    },
+    {
+      "name": "[Cd2(Py2TTF)2(bdc)2]·DMF (4)",
+      "synthesis_conditions": {
+        "temperature": "Heated in a solvothermal oven at 80 ℃",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "4 mL"
+          },
+          {
+            "name": "EtOH",
+            "amount": "0.75 mL"
+          }
+        ],
+        "equipment": "Solvothermal oven",
+        "chemicals_used": [
+          "Cd(NO3)2·4H2O",
+          "Py2TTF",
+          "1,4-benzenedicarboxylate (bdc)"
+        ],
+        "time": "72 h",
+        "yield": "11.2 mg (11.3%)",
+        "comments": "The mixture was sonicated for 5 min before heating."
+      }
+    }
+  ]
+}

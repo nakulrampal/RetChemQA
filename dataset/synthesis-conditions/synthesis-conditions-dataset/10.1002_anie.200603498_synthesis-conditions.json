@@ -1,0 +1,68 @@
+{
+  "materials": [
+    {
+      "name": "{1·0.5 MeCN·6 H2O}1",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "MeCN",
+            "amount": "10 mL"
+          }
+        ],
+        "equipment": "magnetic stirrer",
+        "chemicals_used": [
+          {
+            "name": "[Mn3O(O2CMe)6(py)3]·py",
+            "amount": "0.200 g, 0.235 mmol"
+          },
+          {
+            "name": "H2pd",
+            "amount": "0.085 mL, 1.176 mmol"
+          },
+          {
+            "name": "NaClO4",
+            "amount": "0.058 g, 0.470 mmol"
+          }
+        ],
+        "molar_ratio": "1:5:2",
+        "time": "several weeks",
+        "washing_method": "washed with MeCN",
+        "drying_method": "dried in vacuum",
+        "yield": "23 %"
+      }
+    },
+    {
+      "name": "{2·6 H2O}1",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "MeCN",
+            "amount": "20 mL"
+          }
+        ],
+        "equipment": "magnetic stirrer",
+        "chemicals_used": [
+          {
+            "name": "[Mn3O(O2CMe)6(py)3]·py",
+            "amount": "same as {1·0.5 MeCN·6 H2O}1 but with twice the amount of solvent"
+          },
+          {
+            "name": "H2mpd",
+            "amount": "not specified, but implied to be used instead of H2pd"
+          },
+          {
+            "name": "NaClO4",
+            "amount": "1:1 ratio with [Mn3O(O2CMe)6(py)3]·py"
+          }
+        ],
+        "molar_ratio": "1:5:1",
+        "time": "several weeks",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "25 %"
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "materials": [
+    {
+      "name": "[Cd(C6O6)(bpym)(H2O)]·H2O (1)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "8 mL total (4 mL for Na2C6O6 solution + 4 mL for Cd(NO3)2·4 H2O and bpym solution)"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "sodium rhodizonate (Na2C6O6)",
+            "amount": "21.4 mg, 0.1 mmol"
+          },
+          {
+            "name": "Cd(NO3)2·4 H2O",
+            "amount": "30.9 mg, 0.1 mmol"
+          },
+          {
+            "name": "2,2’-bipyrimidine (bpym)",
+            "amount": "15.8 mg, 0.1 mmol"
+          }
+        ],
+        "time": "several days",
+        "yield": "about 23 %",
+        "drying_method": "crystallization",
+        "pH": "~4.4"
+      }
+    },
+    {
+      "name": "[Mn(C6O6)(bpym)(H2O)]·2 H2O (2)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "6 mL total (2 mL for Na2C6O6 solution + 4 mL for MnCl2 and bpym solution)"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "sodium rhodizonate (Na2C6O6)",
+            "amount": "21.4 mg, 0.1 mmol"
+          },
+          {
+            "name": "MnCl2",
+            "amount": "19.7 mg, 0.1 mmol"
+          },
+          {
+            "name": "2,2’-bipyrimidine (bpym)",
+            "amount": "15.8 mg, 0.1 mmol"
+          }
+        ],
+        "time": "several days",
+        "yield": "about 34 %",
+        "drying_method": "crystallization",
+        "pH": "~4.4"
+      }
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "materials": [
+    {
+      "name": "Compound 1",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": "DMF",
+        "amount_of_each_solvent": "10 mL",
+        "equipment": "20 mL Pyrex vial",
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "23 mg"
+          },
+          {
+            "name": "Isonicotinic acid (INA)",
+            "amount": "49 mg"
+          },
+          {
+            "name": "Cu(NO3)2∙2.5H2O",
+            "amount": "46.5 mg"
+          }
+        ],
+        "time": "12 h",
+        "washing_method": "Washed with fresh DMF three times",
+        "yield": "63.4%"
+      }
+    },
+    {
+      "name": "Compound 1'",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": "DMF",
+        "amount_of_each_solvent": "20 mL",
+        "equipment": "20 mL Pyrex vial",
+        "chemicals_used": [
+          {
+            "name": "Crystals of compound 1",
+            "amount": "100 mg"
+          },
+          {
+            "name": "H2L1",
+            "amount": "100 mg"
+          }
+        ],
+        "time": "48 h",
+        "washing_method": "Washed with fresh DMF three times",
+        "yield": "79.3%"
+      }
+    },
+    {
+      "name": "Compound 2",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": "DMF",
+        "amount_of_each_solvent": "10 mL",
+        "equipment": "20 mL Pyrex vial",
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "23 mg"
+          },
+          {
+            "name": "3-pyridinyl acrylic acid",
+            "amount": "60 mg"
+          },
+          {
+            "name": "Cu(NO3)2∙2.5H2O",
+            "amount": "46.5 mg"
+          }
+        ],
+        "time": "12 h",
+        "washing_method": "Washed with fresh DMF three times",
+        "yield": "43%"
+      }
+    },
+    {
+      "name": "Compound 2'",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": "DMF",
+        "amount_of_each_solvent": "20 mL",
+        "equipment": "20 mL Pyrex vial",
+        "chemicals_used": [
+          {
+            "name": "Compound 2",
+            "amount": "100 mg"
+          },
+          {
+            "name": "H2L2",
+            "amount": "100 mg"
+          }
+        ],
+        "time": "48 h",
+        "washing_method": "Washed with fresh DMF three times",
+        "yield": "53.6%"
+      }
+    },
+    {
+      "name": "POMx@Compound 1",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": "DMF",
+        "amount_of_each_solvent": "10 mL",
+        "equipment": "20 mL Pyrex vial",
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "23 mg"
+          },
+          {
+            "name": "Isonicotinic acid (INA)",
+            "amount": "49 mg"
+          },
+          {
+            "name": "Cu(NO3)2∙2.5H2O",
+            "amount": "46.5 mg"
+          },
+          {
+            "name": "POM",
+            "amount": "10/15/20 mg"
+          }
+        ],
+        "time": "12 h",
+        "washing_method": "Washed with fresh DMF three times"
+      }
+    },
+    {
+      "name": "POMx@Compound 1'",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": "DMF",
+        "amount_of_each_solvent": "20 mL",
+        "equipment": "20 mL Pyrex vial",
+        "chemicals_used": [
+          {
+            "name": "Crystals of POMx@compound 1",
+            "amount": "100 mg"
+          },
+          {
+            "name": "H2L1",
+            "amount": "100 mg"
+          }
+        ],
+        "time": "48 h",
+        "washing_method": "Washed with fresh DMF three times"
+      }
+    },
+    {
+      "name": "CdSeS/ZnS@Compound 1",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": "DMF",
+        "amount_of_each_solvent": "10 mL",
+        "equipment": "20 mL Pyrex vial",
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "23 mg"
+          },
+          {
+            "name": "Isonicotinic acid (INA)",
+            "amount": "49 mg"
+          },
+          {
+            "name": "Cu(NO3)2∙2.5H2O",
+            "amount": "46.5 mg"
+          },
+          {
+            "name": "CdSeS/ZnS quantum dots",
+            "amount": "5/10 mg"
+          }
+        ],
+        "time": "12 h",
+        "washing_method": "Washed with fresh DMF three times"
+      }
+    },
+    {
+      "name": "CdSeS/ZnS@Compound 1'",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": "DMF",
+        "amount_of_each_solvent": "20 mL",
+        "equipment": "20 mL Pyrex vial",
+        "chemicals_used": [
+          {
+            "name": "Crystals of CdSeS/ZnS@compound 1",
+            "amount": "100 mg"
+          },
+          {
+            "name": "H2L1",
+            "amount": "100 mg"
+          }
+        ],
+        "time": "48 h",
+        "washing_method": "Washed with fresh DMF three times"
+      }
+    },
+    {
+      "name": "MOP-1@Compound 1",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": "DMF",
+        "amount_of_each_solvent": "10 mL",
+        "equipment": "20 mL Pyrex vial",
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "23 mg"
+          },
+          {
+            "name": "Isonicotinic acid (INA)",
+            "amount": "49 mg"
+          },
+          {
+            "name": "Cu(NO3)2∙2.5H2O",
+            "amount": "46.5 mg"
+          },
+          {
+            "name": "MOP-1",
+            "amount": "100/200/400/800 μL"
+          }
+        ],
+        "time": "12 h",
+        "washing_method": "Washed with fresh DMF three times"
+      }
+    },
+    {
+      "name": "MOP-1@Compound 1'",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": "DMF",
+        "amount_of_each_solvent": "20 mL",
+        "equipment": "20 mL Pyrex vial",
+        "chemicals_used": [
+          {
+            "name": "Crystals of MOP-1@compound 1",
+            "amount": "100 mg"
+          },
+          {
+            "name": "H2L1",
+            "amount": "100 mg"
+          }
+        ],
+        "time": "48 h",
+        "washing_method": "Washed with fresh DMF three times"
+      }
+    }
+  ]
+}

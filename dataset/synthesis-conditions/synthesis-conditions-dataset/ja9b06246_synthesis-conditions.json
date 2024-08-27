@@ -1,0 +1,119 @@
+{
+  "materials": [
+    {
+      "name": "Ni2Cl2BTDD",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "N,N’-dimethylformamide (DMF)",
+            "amount": "200 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "200 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H2BTDD",
+            "amount": "200 mg"
+          },
+          {
+            "name": "nickel chloride hydrate",
+            "amount": "1.65 mmol"
+          },
+          {
+            "name": "concentrated hydrochloric acid",
+            "amount": "128 mL"
+          }
+        ],
+        "time": "2 days",
+        "washing_method": "DMF and methanol",
+        "drying_method": "dynamic vacuum at 150°C for 24 hours",
+        "yield": "Not specified",
+        "additional_information": "Increased acid concentration and temperature compared to literature methods."
+      }
+    },
+    {
+      "name": "Ni2(OH)2BTDD",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "as-synthesized Ni2Cl2BTDD",
+            "amount": "Not specified"
+          },
+          {
+            "name": "KOH",
+            "amount": "10 eq. per Cl–"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "deionized water",
+            "amount": "Not specified"
+          }
+        ],
+        "time": "overnight",
+        "washing_method": "DMF and methanol",
+        "drying_method": "100°C under dynamic vacuum",
+        "yield": "Not specified",
+        "additional_information": "KOH dissolved in deionized water added to a suspension of MOF in deionized water to form a 0.05 M hydroxide solution."
+      }
+    },
+    {
+      "name": "Ni2F2BTDD",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "as-synthesized Ni2Cl2BTDD",
+            "amount": "0.751 mmol"
+          },
+          {
+            "name": "CsF",
+            "amount": "5.7 g (25 eq. per Cl–)"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "80 mL"
+          }
+        ],
+        "time": "12 hours",
+        "temperature": "room temperature",
+        "washing_method": "DMF and methanol",
+        "drying_method": "100 °C under dynamic vacuum",
+        "yield": "Not specified",
+        "additional_information": "Stirred for 12 hours at room temperature."
+      }
+    },
+    {
+      "name": "Ni2Br2BTDD",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "activated Ni2F2BTDD",
+            "amount": "100 mg"
+          },
+          {
+            "name": "trimethylsilyl bromide (TMS-Br)",
+            "amount": "0.066 mL (1.05 eq. per F–)"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "dry, degassed benzene",
+            "amount": "5 mL"
+          }
+        ],
+        "time": "overnight",
+        "temperature": "Not specified",
+        "washing_method": "benzene",
+        "drying_method": "100 °C under dynamic vacuum",
+        "yield": "Not specified",
+        "additional_information": "Left overnight, then filtered on a frit and the solids were washed with benzene."
+      }
+    }
+  ]
+}

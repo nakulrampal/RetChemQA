@@ -1,0 +1,36 @@
+{
+  "materials": [
+    {
+      "name": "CPM-7",
+      "synthesis_conditions": {
+        "method": "solvothermal reaction",
+        "temperature": "120°C",
+        "time": "three days",
+        "solvents": [
+          {
+            "name": "diethylformamide (DEF)",
+            "amount": "not specified"
+          },
+          {
+            "name": "methanol",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "not specified"
+          },
+          {
+            "name": "2,5-furandicarboxylic acid (H2FDA)",
+            "amount": "not specified"
+          }
+        ],
+        "washing_method": "immersed crystals in methanol for three days",
+        "drying_method": "degassed at 160°C for 24 hours",
+        "yield": "not specified",
+        "equipment": "not specified"
+      }
+    }
+  ]
+}

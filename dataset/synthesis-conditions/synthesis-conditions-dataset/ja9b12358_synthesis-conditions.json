@@ -1,0 +1,210 @@
+{
+  "materials": [
+    {
+      "name": "CP1",
+      "synthesis_conditions": {
+        "temperature": "140 °C",
+        "solvents": "DMF/H2O (v/v = 1 : 4) with three drops of CH3OH and one drop of concentrated HNO3",
+        "amount_of_solvent": "1.5 mL",
+        "chemicals_used": [
+          {
+            "name": "CdSO4·8H2O",
+            "amount": "250.0 mg, 0.32 mmol"
+          },
+          {
+            "name": "1,3-bpeb",
+            "amount": "6.0 mg, 0.021 mmol"
+          },
+          {
+            "name": "H3L1",
+            "amount": "9.7 mg, 0.046 mmol"
+          }
+        ],
+        "time": "5 h",
+        "yield": "11.5 mg (90.3% based on 1,3-bpeb)"
+      }
+    },
+    {
+      "name": "CP2",
+      "synthesis_conditions": {
+        "temperature": "140 °C",
+        "solvents": "DMF/H2O (v/v = 1 : 4) with three drops of CH3OH and one drop of concentrated HNO3",
+        "amount_of_solvent": "1.5 mL",
+        "chemicals_used": [
+          {
+            "name": "CdSO4·8H2O",
+            "amount": "250.0 mg, 0.32 mmol"
+          },
+          {
+            "name": "1,3-bpeb",
+            "amount": "6.0 mg, 0.021 mmol"
+          },
+          {
+            "name": "HL2",
+            "amount": "8.7 mg, 0.046mmol"
+          }
+        ],
+        "time": "5 h",
+        "yield": "15.6 mg (95.3% based on 1,3-bpeb)"
+      }
+    },
+    {
+      "name": "CP3",
+      "synthesis_conditions": {
+        "temperature": "140 °C",
+        "solvents": "DMF/H2O (v/v = 1 : 4) with three drops of CH3OH and one drop of concentrated HNO3",
+        "amount_of_solvent": "1.5 mL",
+        "chemicals_used": [
+          {
+            "name": "CdSO4·8H2O",
+            "amount": "250.0 mg, 0.32 mmol"
+          },
+          {
+            "name": "1,3-bpeb",
+            "amount": "6.0 mg, 0.021 mmol"
+          },
+          {
+            "name": "HL3",
+            "amount": "6.3 mg, 0.046 mmol"
+          }
+        ],
+        "time": "5 h",
+        "yield": "13.0 mg (90.0% based on 1,3-bpeb)"
+      }
+    },
+    {
+      "name": "CP4",
+      "synthesis_conditions": {
+        "temperature": "140 °C",
+        "solvents": "DMF/H2O (v/v = 1 : 4) with three drops of CH3OH and one drop of concentrated HNO3",
+        "amount_of_solvent": "1.5 mL",
+        "chemicals_used": [
+          {
+            "name": "CdSO4·8H2O",
+            "amount": "250.0 mg, 0.32 mmol"
+          },
+          {
+            "name": "1,3-bpeb",
+            "amount": "6.0 mg, 0.021 mmol"
+          },
+          {
+            "name": "HL4",
+            "amount": "8.4 mg, 0.046 mmol"
+          }
+        ],
+        "time": "5 h",
+        "yield": "13.6 mg (85.0% based on 1,3-bpeb)"
+      }
+    },
+    {
+      "name": "Isomer 1",
+      "synthesis_conditions": {
+        "solvents": "HNO3 and H2O",
+        "amount_of_solvent": "20 mL H2O, 0.5 mL concentrated HNO3",
+        "chemicals_used": [
+          {
+            "name": "Sample of CP1 irradiated under UV light",
+            "amount": "200 mg"
+          },
+          {
+            "name": "4M NaOH solution",
+            "amount": "5 mL"
+          },
+          {
+            "name": "CH2Cl2",
+            "amount": "30 mL"
+          }
+        ],
+        "yield": "90.1%"
+      }
+    },
+    {
+      "name": "Isomer 2",
+      "synthesis_conditions": {
+        "solvents": "HNO3 and H2O",
+        "amount_of_solvent": "20 mL H2O, 0.5 mL concentrated HNO3",
+        "chemicals_used": [
+          {
+            "name": "Sample of CP2 irradiated under visible light",
+            "amount": "200 mg"
+          },
+          {
+            "name": "4M NaOH solution",
+            "amount": "5 mL"
+          },
+          {
+            "name": "CH2Cl2",
+            "amount": "30 mL"
+          }
+        ],
+        "yield": "91.3%"
+      }
+    },
+    {
+      "name": "Isomer 3α",
+      "synthesis_conditions": {
+        "solvents": "HNO3 and H2O",
+        "amount_of_solvent": "20 mL H2O, 0.5 mL concentrated HNO3",
+        "chemicals_used": [
+          {
+            "name": "Sample of CP2 irradiated under UV light at -50°C",
+            "amount": "200 mg"
+          },
+          {
+            "name": "4M NaOH solution",
+            "amount": "5 mL"
+          },
+          {
+            "name": "CH2Cl2",
+            "amount": "30 mL"
+          }
+        ],
+        "yield": "92.1%"
+      }
+    },
+    {
+      "name": "Isomer 3β",
+      "synthesis_conditions": {
+        "solvents": "HNO3 and H2O",
+        "amount_of_solvent": "20 mL H2O, 0.5 mL concentrated HNO3",
+        "chemicals_used": [
+          {
+            "name": "Sample of CP3 irradiated under UV light at -196°C",
+            "amount": "200 mg"
+          },
+          {
+            "name": "4M NaOH solution",
+            "amount": "5 mL"
+          },
+          {
+            "name": "CH2Cl2",
+            "amount": "30 mL"
+          }
+        ],
+        "yield": "93.5%"
+      }
+    },
+    {
+      "name": "Isomer 3γ",
+      "synthesis_conditions": {
+        "solvents": "HNO3 and H2O",
+        "amount_of_solvent": "20 mL H2O, 0.5 mL concentrated HNO3",
+        "chemicals_used": [
+          {
+            "name": "Sample of CP4 irradiated under UV light at room temperature",
+            "amount": "200 mg"
+          },
+          {
+            "name": "4M NaOH solution",
+            "amount": "5 mL"
+          },
+          {
+            "name": "CH2Cl2",
+            "amount": "30 mL"
+          }
+        ],
+        "yield": "95.8%"
+      }
+    }
+  ]
+}

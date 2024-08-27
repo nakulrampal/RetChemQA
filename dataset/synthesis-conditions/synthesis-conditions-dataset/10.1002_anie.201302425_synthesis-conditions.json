@@ -1,0 +1,91 @@
+{
+  "materials": [
+    {
+      "name": "Trefoil Knot (TK)",
+      "synthesis_conditions": {
+        "temperature": "70 8C",
+        "solvents": [
+          {
+            "name": "isopropanol (iPrOH)",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "diaminobipyridine (DAB)",
+            "form": "hydrotrifluoroacetate salt"
+          },
+          {
+            "name": "diformylpyridine (DFP)"
+          },
+          {
+            "name": "zinc acetate Zn(OAc)2"
+          }
+        ],
+        "time": "4 hours",
+        "washing_method": "washed with iPrOH and dichloromethane",
+        "drying_method": "not specified",
+        "yield": "56 %",
+        "additional_information": "precipitate collected by filtration"
+      }
+    },
+    {
+      "name": "[2]Catenane ([2]C)",
+      "synthesis_conditions": {
+        "temperature": "not directly specified, implied to be the same as TK (70 8C)",
+        "solvents": [
+          {
+            "name": "isopropanol (iPrOH)",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "diaminobipyridine (DAB)",
+            "form": "hydrotrifluoroacetate salt"
+          },
+          {
+            "name": "diformylpyridine (DFP)"
+          },
+          {
+            "name": "zinc acetate Zn(OAc)2"
+          }
+        ],
+        "time": "not specified, implied to be after TK synthesis",
+        "washing_method": "not specified",
+        "drying_method": "slow evaporation of iPrOH",
+        "yield": "22 %",
+        "additional_information": "tiny cubic crystals produced"
+      }
+    },
+    {
+      "name": "Solomon Link (SL)",
+      "synthesis_conditions": {
+        "temperature": "70 8C",
+        "solvents": [
+          {
+            "name": "isopropanol (iPrOH)",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "diaminobipyridine (DAB)",
+            "form": "hydrotrifluoroacetate salt"
+          },
+          {
+            "name": "diformylpyridine (DFP)"
+          },
+          {
+            "name": "zinc acetate Zn(OAc)2"
+          }
+        ],
+        "time": "detected after 30 minutes and in all subsequent aliquots",
+        "washing_method": "not applicable",
+        "drying_method": "not applicable",
+        "yield": "not isolated, only detected by mass spectrometry",
+        "additional_information": "transient appearance followed by disassembly"
+      }
+    }
+  ]
+}

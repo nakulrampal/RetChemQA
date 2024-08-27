@@ -1,0 +1,85 @@
+{
+  "materials": [
+    {
+      "name": "LIFM-66",
+      "synthesis_conditions": {
+        "ligands": [
+          "H4ETTC",
+          "BTB (benzene tribenzoate)"
+        ],
+        "metal_source": "ZrOCl2·8 H2O or ZrCl4",
+        "structure": "pillar-layered",
+        "framework_density_g_cm3": "0.525",
+        "pressure_tolerance_Ton": "1.5",
+        "thermal_stability_C": "480",
+        "BET_surface_area_m2_g": "3388",
+        "pore_size_A": "11.4",
+        "total_pore_volume_cm3_g": "1.38"
+      }
+    },
+    {
+      "name": "LIFM-114",
+      "synthesis_conditions": {
+        "ligands": [
+          "H4ETTC"
+        ],
+        "metal_source": "ZrOCl2·8 H2O or ZrCl4",
+        "structure": "two-fold interpenetrating scu network with breathing behavior",
+        "framework_density_g_cm3": "0.847",
+        "pressure_tolerance_Ton": "1.5",
+        "thermal_stability_C": "500",
+        "BET_surface_area_m2_g": "1198",
+        "pore_size_A": "11.1",
+        "total_pore_volume_cm3_g": "0.49"
+      }
+    },
+    {
+      "name": "LIFM-223",
+      "synthesis_conditions": {
+        "ligands": [
+          "H4ETTC"
+        ],
+        "metal_source": "ZrOCl2·8 H2O or ZrCl4",
+        "structure": "3D structure with one-dimensional triangular channel",
+        "framework_density_g_cm3": "0.607",
+        "pressure_tolerance_Ton": "1.6",
+        "thermal_stability_C": "500",
+        "BET_surface_area_m2_g": "2144",
+        "pore_size_A": "10.5",
+        "total_pore_volume_cm3_g": "0.89"
+      }
+    },
+    {
+      "name": "PCN-94",
+      "synthesis_conditions": {
+        "ligands": [
+          "H4ETTC"
+        ],
+        "metal_source": "ZrOCl2·8 H2O or ZrCl4",
+        "structure": "ftw topology",
+        "framework_density_g_cm3": "0.548",
+        "pressure_tolerance_Ton": "0.6",
+        "thermal_stability_C": "420",
+        "BET_surface_area_m2_g": "3377",
+        "pore_size_A": "12.7",
+        "total_pore_volume_cm3_g": "1.32"
+      }
+    },
+    {
+      "name": "PCN-128",
+      "synthesis_conditions": {
+        "ligands": [
+          "H4ETTC"
+        ],
+        "metal_source": "ZrOCl2·8 H2O or ZrCl4",
+        "structure": "csq-a network",
+        "framework_density_g_cm3": "0.567",
+        "pressure_tolerance_Ton": "1.0",
+        "thermal_stability_C": "400",
+        "BET_surface_area_m2_g": "2541",
+        "pore_size_A": "12.4, 43.7",
+        "total_pore_volume_cm3_g": "1.90"
+      }
+    }
+  ]
+}

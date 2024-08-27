@@ -1,0 +1,93 @@
+{
+  "materials": [
+    {
+      "name": "bis(4-amino-3,5-dinitropyrazolyl)methane (6)",
+      "synthesis_conditions": {
+        "temperature": "90 88C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide",
+            "amount": "15 mL"
+          }
+        ],
+        "equipment": null,
+        "chemicals_used": [
+          {
+            "name": "Sodium 3,5-dinitro-4-aminopyrazolate monohydrate",
+            "amount": "4.29 g, 22 mmol"
+          },
+          {
+            "name": "diiodomethane",
+            "amount": "2.68 g, 805 mL, 10 mmol"
+          }
+        ],
+        "time": "16 h",
+        "washing_method": "water (100 mL) and a little sodium thiosulfate solution",
+        "drying_method": "air",
+        "yield": "89 %"
+      }
+    },
+    {
+      "name": "bis(3,4,5-trinitropyrazolyl)methane (7)",
+      "synthesis_conditions": {
+        "temperature": "0 88C to room temperature",
+        "solvents": [
+          {
+            "name": "concentrated H2SO4",
+            "amount": "5 mL"
+          },
+          {
+            "name": "50 % H2O2",
+            "amount": "7.5 mL"
+          },
+          {
+            "name": "H2SO4",
+            "amount": "25 mL"
+          }
+        ],
+        "equipment": null,
+        "chemicals_used": [
+          {
+            "name": "bis(4-amino-3,5-dinitropyrazolyl)methane (6)",
+            "amount": "1.00 g, 2.80 mmol"
+          }
+        ],
+        "time": "3 h + overnight",
+        "washing_method": "water (100 g)",
+        "drying_method": "air",
+        "yield": "86 %"
+      }
+    },
+    {
+      "name": "bis(4-diazo-5-nitro-3-oxopyrazolyl)methane (8)",
+      "synthesis_conditions": {
+        "temperature": "0 88C to ambient temperature",
+        "solvents": [
+          {
+            "name": "sulfuric acid",
+            "amount": "15 mL"
+          },
+          {
+            "name": "water",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": null,
+        "chemicals_used": [
+          {
+            "name": "bis(4-amino-3,5-dinitropyrazolyl)methane (6)",
+            "amount": "3 mmol, 1.075 g"
+          },
+          {
+            "name": "sodium nitrite",
+            "amount": "9 mmol, 0.621 g"
+          }
+        ],
+        "time": "2 h + 4 h",
+        "washing_method": "ice and cold water",
+        "drying_method": "reduced pressure after ethyl acetate extraction",
+        "yield": "87 %"
+      }
+    }
+  ]
+}

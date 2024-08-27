@@ -1,0 +1,140 @@
+{
+  "materials": [
+    {
+      "name": "LH2",
+      "synthesis_conditions": {
+        "temperature": "4 °C",
+        "solvents": [
+          {
+            "name": "dry methanol",
+            "amount": "50 mL"
+          },
+          {
+            "name": "water",
+            "amount": "50 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "5-aminoisophthalic acid",
+            "amount": "0.90 g, 5 mmol"
+          },
+          {
+            "name": "4-pyridinecarboxaldehyde",
+            "amount": "0.49 mL, 5.2 mmol"
+          },
+          {
+            "name": "Triethylamine",
+            "amount": "2.8 mL, 20 mmol"
+          },
+          {
+            "name": "NaBH4",
+            "details": "excess, added slowly at 4 °C"
+          },
+          {
+            "name": "AcOH",
+            "details": "used to acidify solution to pH 5−6"
+          }
+        ],
+        "time": [
+          {
+            "step": "reaction",
+            "duration": "1 h"
+          },
+          {
+            "step": "addition of NaBH4",
+            "duration": "2 h"
+          }
+        ],
+        "yield": "1.2 g, 88%",
+        "drying_method": "concentrated in vacuo",
+        "washing_method": "dissolved in water, acidified, and filtered"
+      }
+    },
+    {
+      "name": "{[Mn(L)(H2O)](H2O)1.5(DMF)}n (1)",
+      "synthesis_conditions": {
+        "temperature": "130 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "3 mL"
+          },
+          {
+            "name": "water",
+            "amount": "1 mL"
+          }
+        ],
+        "equipment": "Teflon-lined autoclave",
+        "chemicals_used": [
+          {
+            "name": "LH2",
+            "amount": "1 mmol"
+          },
+          {
+            "name": "MnCl2·4H2O",
+            "amount": "1 mmol"
+          }
+        ],
+        "time": "36 h",
+        "yield": "~60%",
+        "drying_method": "cooling to room temperature",
+        "notes": "Acetate or sulfate salt of Mn(II) can be used instead of chloride salt"
+      }
+    },
+    {
+      "name": "{[Mn(L)(MeCN)](MeCN)1.5}n (2)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "details": "mother crystal immersed in acetonitrile"
+          }
+        ],
+        "time": "4 h",
+        "notes": "Transformation from mother crystal 1 to 2 in single-crystal to single-crystal fashion"
+      }
+    },
+    {
+      "name": "{[Mn(L)(ACN)](ACN)}n (3)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "acrylonitrile",
+            "details": "mother crystal immersed in acrylonitrile"
+          }
+        ],
+        "notes": "Transformation from mother crystal 1 to 3 in single-crystal to single-crystal fashion"
+      }
+    },
+    {
+      "name": "{[Mn(L)(AN)](AN)}n (4)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "allylnitrile",
+            "details": "mother crystal immersed in allylnitrile"
+          }
+        ],
+        "notes": "Transformation from mother crystal 1 to 4 in single-crystal to single-crystal fashion"
+      }
+    },
+    {
+      "name": "{[Mn(L)(cis-CTN)](cis-CTN)}n (5)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "40:60 (v/v) cis-CTN/trans-CTN mixture",
+            "details": "mother crystal immersed in mixture"
+          }
+        ],
+        "time": "8 h",
+        "notes": "Only cis form replaces the coordinated water molecule. Transformation from mother crystal 1 to 5 in single-crystal to single-crystal fashion"
+      }
+    }
+  ]
+}

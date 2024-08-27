@@ -1,0 +1,123 @@
+{
+  "materials": [
+    {
+      "name": "Zn-ox-mtz",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "ZnCO3",
+            "amount": "0.125 g"
+          },
+          {
+            "name": "oxalic acid",
+            "amount": "0.09 g"
+          },
+          {
+            "name": "3-methyl-1H-1,2,4-triazole",
+            "amount": "0.415 g"
+          },
+          {
+            "name": "H2O",
+            "amount": "4 mL"
+          },
+          {
+            "name": "BuOH",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "20 ml Teflon autoclave",
+        "temperature": "180 °C",
+        "time": "3 days",
+        "atmosphere": "convection oven",
+        "yield": "Not specified"
+      },
+      "crystallography": {
+        "crystal_system": "monoclinic",
+        "space_group": "P21/c",
+        "a": "8.6166(2) Å",
+        "b": "7.8948(1) Å",
+        "c": "10.5066(2) Å",
+        "alpha": "90°",
+        "beta": "96.968(2)°",
+        "gamma": "90°",
+        "volume": "709.45(2) Å3",
+        "Z": "4",
+        "density": "1.961 g cm-3",
+        "F(000)": "420.0",
+        "mu": "4.558 mm-1",
+        "GOF_on_F2": "1.149",
+        "R1_wR2_I_greater_2sigma(I)": "0.0387, 0.1001",
+        "R1_wR2_all_data": "0.0442, 0.1018",
+        "CCDC_number": "2248518"
+      },
+      "gas_sorption": {
+        "CO2_sorption_195K": {
+          "isotherm": "Figures S3 and S4",
+          "BET_surface_area": "Figures S5 and S6",
+          "comments": "CO2 sorption capacity is 100.16 cm3 g-1"
+        }
+      },
+      "PXRD_patterns": {
+        "as_synthesized": "Figure S2",
+        "after_sorption": "Figure S8",
+        "after_breakthrough_experiments": "Figure S11",
+        "exposed_to_air_5_months": "Figure S12"
+      },
+      "SEM_images": "Figure S13",
+      "TG_curve": "Figure S15",
+      "CO2_uptake_profiles_comparison": "Figure S17",
+      "comparison_with_other_materials": {
+        "CO2_C2H2_uptake_ratio_and_CO2_uptake": "Figure S18",
+        "equimolar_CO2_C2H2_selectivity_and_CO2_uptake": "Figure S19"
+      },
+      "GCMC_simulations": "Figure S22",
+      "breakthrough_experiments": {
+        "equimolar_CO2_C2H2_mixtures": "Not specified",
+        "mass_of_crystallites": "1.8867 g",
+        "framework_density": "Not specified",
+        "total_pressure": "1 bar",
+        "temperature": "298 K",
+        "composition_of_entering_gas_phase_mixture": "50/50",
+        "total_flow_rate": "2 mL min-1"
+      },
+      "transient_breakthrough_simulations": "Not specified",
+      "separation_factor_and_gas_purity_productivity": "Not specified"
+    },
+    {
+      "name": "Zn-ox-trz",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "zinc oxalate",
+            "amount": "0.66 g"
+          },
+          {
+            "name": "1,2,4-triazole",
+            "amount": "0.5 g"
+          },
+          {
+            "name": "methanol",
+            "amount": "6.6 mL"
+          }
+        ],
+        "equipment": "20 mL Teflon autoclave",
+        "temperature": "180 °C",
+        "time": "2 days",
+        "atmosphere": "convection oven",
+        "yield": "Not specified"
+      },
+      "PXRD_patterns": {
+        "as_synthesized": "Figure S1",
+        "after_sorption": "Figure S9",
+        "after_breakthrough_experiments": "Figure S10"
+      },
+      "SEM_images": "Figure S14",
+      "TG_curve": "Figure S16",
+      "CO2_uptake_profiles_comparison": "Figure S17",
+      "comparison_with_other_materials": {
+        "CO2_C2H2_uptake_ratio_and_CO2_uptake": "Figure S18",
+        "equimolar_CO2_C2H2_selectivity_and_CO2_uptake": "Figure S19"
+      }
+    }
+  ]
+}

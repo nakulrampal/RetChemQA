@@ -1,0 +1,100 @@
+{
+  "materials": [
+    {
+      "name": "P11",
+      "synthesis_conditions": {
+        "temperature": "85°C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2.0 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cd(NO3)2·4H2O",
+            "amount": "15.4 mg"
+          },
+          {
+            "name": "biphenyl-3,4′,5-tricarboxylate (H3BPT)",
+            "amount": "14.8 mg"
+          },
+          {
+            "name": "meso-tetra(N-methyl-4-pyridyl) porphine tetratosylate (TMPyP)",
+            "amount": "15.0 mg"
+          }
+        ],
+        "time": "12 h",
+        "yield": "46% based on Cd",
+        "washing_method": "MeOH"
+      }
+    },
+    {
+      "name": "P11-Cu",
+      "synthesis_conditions": {
+        "initial_material": "P11",
+        "solvents": [
+          {
+            "name": "Cu(NO3)2 in MeOH",
+            "concentration": "0.05M"
+          }
+        ],
+        "time": "10 days",
+        "yield": "89% based on TMPyP",
+        "washing_method": "MeOH"
+      }
+    },
+    {
+      "name": "P11-4/1",
+      "synthesis_conditions": {
+        "initial_material": "P11",
+        "solvents": [
+          {
+            "name": "mixed MeOH solution of Cd(NO3)2/Cu(NO3)2",
+            "mole_ratio": "4:1",
+            "total_metal_ion_concentration": "0.05 M"
+          }
+        ],
+        "time": "10 days",
+        "yield": "90% based on TMPyP",
+        "washing_method": "MeOH"
+      }
+    },
+    {
+      "name": "P11-8/1",
+      "synthesis_conditions": {
+        "initial_material": "P11",
+        "solvents": [
+          {
+            "name": "mixed MeOH solution of Cd(NO3)2/Cu(NO3)2",
+            "mole_ratio": "8:1",
+            "total_metal_ion_concentration": "0.05 M"
+          }
+        ],
+        "time": "10 days",
+        "yield": "95% based on TMPyP",
+        "washing_method": "MeOH"
+      }
+    },
+    {
+      "name": "P11-16/1",
+      "synthesis_conditions": {
+        "initial_material": "P11",
+        "solvents": [
+          {
+            "name": "mixed MeOH solution of Cd(NO3)2/Cu(NO3)2",
+            "mole_ratio": "16:1",
+            "total_metal_ion_concentration": "0.05 M"
+          }
+        ],
+        "time": "10 days",
+        "yield": "93% based on TMPyP",
+        "washing_method": "MeOH"
+      }
+    }
+  ]
+}

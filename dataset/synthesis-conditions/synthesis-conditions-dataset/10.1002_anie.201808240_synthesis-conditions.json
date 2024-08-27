@@ -1,0 +1,45 @@
+{
+  "materials": [
+    {
+      "name": "DUT-60",
+      "synthesis_conditions": {
+        "precursors": [
+          {
+            "name": "Zn4O(CH3COO)6",
+            "amount": "15.0 mg",
+            "molar_amount": "0.024 mmol"
+          },
+          {
+            "name": "H3bbc",
+            "amount": "20.2 mg",
+            "molar_amount": "0.030 mmol"
+          },
+          {
+            "name": "H2bcpbd",
+            "amount": "9.0 mg",
+            "molar_amount": "0.030 mmol"
+          }
+        ],
+        "solvent": "N,N-diethylformamide (DEF)",
+        "solvent_amount": "10.5 mL",
+        "temperature": "373 K",
+        "atmosphere": "argon",
+        "equipment": "stirring setup",
+        "time": "30 min",
+        "cooling": "slowly cooled down to room temperature",
+        "yield": "96.4 % based on H2bcpbd",
+        "washing_method": "solvent exchange with dry acetone",
+        "drying_method": "supercritical-CO2 drying",
+        "product_form": "fine white powder",
+        "structural_data": {
+          "crystal_system": "cubic",
+          "space_group": "Pm3¯n",
+          "unit_cell_volume": "77 579(6) c3",
+          "Z": "6",
+          "Rw": "8.83 %",
+          "Rp": "5.67 %"
+        }
+      }
+    }
+  ]
+}

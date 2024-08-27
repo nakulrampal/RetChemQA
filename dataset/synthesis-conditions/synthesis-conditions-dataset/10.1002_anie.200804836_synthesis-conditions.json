@@ -1,0 +1,51 @@
+{
+  "materials": [
+    {
+      "name": "hybridized crystal 1/2",
+      "synthesis_conditions": {
+        "temperature": "393 K",
+        "solvents": [
+          {
+            "name": "toluene",
+            "amount": "2.5 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "2.5 mL"
+          }
+        ],
+        "equipment": "not specified",
+        "chemicals_used": [
+          {
+            "name": "CuSO4·5 H2O",
+            "amount": "21.0 mg"
+          },
+          {
+            "name": "1,4-naphthalene dicarboxilic acid",
+            "amount": "18.2 mg"
+          },
+          {
+            "name": "dabco",
+            "amount": "4.67 mg"
+          }
+        ],
+        "time": "48 h",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "93 %"
+      }
+    },
+    {
+      "name": "core crystal 1",
+      "synthesis_conditions": {
+        "reference": "prepared according to literature procedures"
+      }
+    },
+    {
+      "name": "shell crystal 2",
+      "synthesis_conditions": {
+        "reference": "prepared according to literature procedures"
+      }
+    }
+  ]
+}

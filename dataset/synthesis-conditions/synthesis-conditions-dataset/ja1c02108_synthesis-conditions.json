@@ -1,0 +1,174 @@
+{
+  "materials": [
+    {
+      "name": "2-bromoimidazole-4, 5-dicarbonitrile",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "1 M NaOH solution",
+            "amount": "80 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "4, 5-dicyanoimidazole",
+            "amount": "30 mmol (3.54g)"
+          },
+          {
+            "name": "bromine",
+            "amount": "107 mmol (5.5 mL)"
+          }
+        ],
+        "time": "overnight",
+        "yield": "80%",
+        "washing_method": "water",
+        "drying_method": "filtration",
+        "characterization": {
+          "13C NMR": "125 MHz, DMSO-d6, δ (ppm) 126.73, 118.15, 112.06"
+        }
+      }
+    },
+    {
+      "name": "2-methylimidazole-4, 5-dicarbonitrile",
+      "synthesis_conditions": {
+        "temperature": "80 ℃",
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "50 mL"
+          },
+          {
+            "name": "EtOH",
+            "amount": "50 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Triethyl orthoacetate",
+            "amount": "3.24 mL"
+          },
+          {
+            "name": "diaminomaleonitrile",
+            "amount": "1.753 g"
+          }
+        ],
+        "time": "two days",
+        "yield": "80%",
+        "washing_method": "recrystallization in MeOH",
+        "characterization": {
+          "1H NMR": "300 MHz, DMSO-d6, δ (ppm) 2.39(s)"
+        }
+      }
+    },
+    {
+      "name": "NKMOF-8-Br and NKMOF-8-Me powders",
+      "synthesis_conditions": {
+        "temperature": "ambient",
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "50 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "2-bromoimidazole- or 2-methylimidazole-4, 5-dicarbonitrile",
+            "amount": "1.06 mmol"
+          },
+          {
+            "name": "CuI",
+            "amount": "equal molar ratio"
+          },
+          {
+            "name": "trimethylamine",
+            "amount": "10 mmol (1.5 mL)"
+          }
+        ],
+        "time": "one minute",
+        "yield": ">95%",
+        "washing_method": "acetonitrile",
+        "drying_method": "oven at 80 ℃"
+      }
+    },
+    {
+      "name": "NKMOF-8-Br crystals",
+      "synthesis_conditions": {
+        "temperature": "100 ℃",
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "2-bromoimidazole-4, 5-dicarbonitrile",
+            "amount": "0.3 mmol (58 mg)"
+          },
+          {
+            "name": "CuI",
+            "amount": "0.3 mmol (57 mg)"
+          }
+        ],
+        "time": "one day",
+        "yield": "65%",
+        "equipment": "35 mL Teflon-lined autoclave"
+      }
+    },
+    {
+      "name": "NKMOF-8-Me crystals",
+      "synthesis_conditions": {
+        "temperature": "80 ℃",
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "2 mL"
+          },
+          {
+            "name": "Formic acid",
+            "amount": "0.3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "NKMOF-8-Me powder",
+            "amount": "50 mg"
+          }
+        ],
+        "time": "slow volatilization",
+        "yield": "20%"
+      }
+    },
+    {
+      "name": "Scale-up synthesis of NKMOF-8-Br and NKMOF-8-Me powders",
+      "synthesis_conditions": {
+        "temperature": "ambient",
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "800 mL + 150 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CuI",
+            "amount": "34 mmol"
+          },
+          {
+            "name": "2-bromoimidazole- or 2-methylimidazole-4, 5-dicarbonitrile",
+            "amount": "34 mmol"
+          },
+          {
+            "name": "trimethylamine",
+            "amount": "10 mL"
+          }
+        ],
+        "time": "three minutes",
+        "yield": "91% for NKMOF-8-Br; 90% for NKMOF-8-Me",
+        "washing_method": "acetonitrile",
+        "drying_method": "oven at 80 ℃"
+      }
+    }
+  ]
+}

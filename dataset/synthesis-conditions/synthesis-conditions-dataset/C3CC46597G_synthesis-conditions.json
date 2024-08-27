@@ -1,0 +1,108 @@
+{
+  "materials": [
+    {
+      "name": "[Cu2(μ-OH)2(bdim)]·5.4H2O (1)",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "MeOH",
+            "amount": "1.0 mL"
+          },
+          {
+            "name": "Aqueous ammonia/methanol",
+            "ratio": "1/1",
+            "amount": "1 mL"
+          },
+          {
+            "name": "Benzene",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "Layering method",
+        "chemicals_used": [
+          {
+            "name": "H2bdim",
+            "amount": "1×10-5 mol"
+          },
+          {
+            "name": "[Cu(NH3)2]OH",
+            "amount": "1×10-5 mol"
+          }
+        ],
+        "time": "About 4 months",
+        "yield": "Low (~20%)"
+      }
+    },
+    {
+      "name": "[Cu2(μ-OCH3)2(bdim)]·C6H6 (2)",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "MeOH",
+            "amount": "1.0 mL"
+          },
+          {
+            "name": "Aqueous ammonia/methanol",
+            "ratio": "1/1",
+            "amount": "1 mL"
+          },
+          {
+            "name": "Benzene",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "Layering method",
+        "chemicals_used": [
+          {
+            "name": "H2bdim",
+            "amount": "1×10-5 mol"
+          },
+          {
+            "name": "[Cu(NH3)2]OH",
+            "amount": "1×10-5 mol"
+          }
+        ],
+        "time": "About 4 months",
+        "yield": "Low (~20%)"
+      }
+    },
+    {
+      "name": "Bulk microcrystalline powder of 1",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "MeOH",
+            "amount": "20 mL"
+          },
+          {
+            "name": "Methanol/benzene",
+            "ratio": "1/1",
+            "amount": "40 mL"
+          }
+        ],
+        "equipment": "Stirring",
+        "chemicals_used": [
+          {
+            "name": "Cu(OH)2",
+            "amount": "0.18 g, 1.85 mmol"
+          },
+          {
+            "name": "H2bdim",
+            "amount": "0.15 g, 0.95 mmol"
+          },
+          {
+            "name": "NaOH",
+            "concentration": "6 mol/L",
+            "amount": "20 mL"
+          }
+        ],
+        "time": "5 days",
+        "washing_method": "Filtered and successively washed by H2O and MeOH twice, then successively soaked in MeOH and H2O for two days",
+        "yield": "85%"
+      }
+    }
+  ]
+}

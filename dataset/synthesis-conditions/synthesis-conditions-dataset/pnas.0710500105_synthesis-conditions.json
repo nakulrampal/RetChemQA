@@ -1,0 +1,247 @@
+{
+  "materials": [
+    {
+      "material": "(4-(2-iodophenyl)but-1-ynyl)triisopropylsilane",
+      "synthesis_conditions": {
+        "temperature_start": "-78°C",
+        "temperature_end": "room temperature",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "not specified"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "nBuLi",
+            "amount": "1.39 ml, 3.47 mmol"
+          },
+          {
+            "name": "chlorodiphenylphosphine",
+            "amount": "0.68 ml, 3.8 mmol"
+          }
+        ],
+        "time": [
+          {
+            "step": "stirring after nBuLi addition",
+            "duration": "30 min"
+          },
+          {
+            "step": "stirring after chlorodiphenylphosphine addition",
+            "duration": "20 min"
+          }
+        ],
+        "washing_method": "extracted twice with Et2O",
+        "drying_method": "dried with anhydrous MgSO4",
+        "yield": "880 mg, 54%"
+      }
+    },
+    {
+      "material": "S1",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "acetone",
+            "amount": "2.5 ml"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "Me2SAuCl",
+            "amount": "99 mg, 0.34 mmol"
+          },
+          {
+            "name": "5",
+            "amount": "158 mg, 0.34 mmol"
+          }
+        ],
+        "time": "10 min",
+        "yield": "220 mg, 93%"
+      }
+    },
+    {
+      "material": "S2",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "d3-acetonitrile",
+            "amount": "0.4 ml"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "S1",
+            "amount": "37 mg, 0.053 mmol"
+          },
+          {
+            "name": "AgSbF6",
+            "amount": "18 mg, 0.053 mmol"
+          }
+        ],
+        "yield": "not explicitly stated, implied complete conversion"
+      }
+    },
+    {
+      "material": "S2 crystals",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "DCM",
+            "amount": "not specified"
+          },
+          {
+            "name": "hexanes",
+            "amount": "not specified"
+          }
+        ],
+        "yield": "49mg, 98%"
+      }
+    },
+    {
+      "material": "S3",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "CH2Cl2",
+            "amount": "0.5 ml"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "5",
+            "amount": "23 mg, 0.049 mmol"
+          },
+          {
+            "name": "AgSbF6",
+            "amount": "17 mg, 0.049 mmol"
+          }
+        ],
+        "time": "10 min",
+        "yield": "42 mg, quantitative"
+      }
+    },
+    {
+      "material": "S4",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "acetone",
+            "amount": "1.5 ml"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "Me2SAuCl",
+            "amount": "58 mg, 0.20 mmol"
+          },
+          {
+            "name": "S3",
+            "amount": "66 mg, 0.20 mmol"
+          }
+        ],
+        "time": "10 min",
+        "yield": "105 mg, 94%"
+      }
+    },
+    {
+      "material": "S5",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "d3-acetonitrile",
+            "amount": "0.4 ml"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "S4",
+            "amount": "37 mg, 0.053 mmol"
+          },
+          {
+            "name": "AgSbF6",
+            "amount": "18 mg, 0.053 mmol"
+          }
+        ],
+        "yield": "not explicitly stated, implied complete conversion"
+      }
+    },
+    {
+      "material": "4",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "DCM",
+            "amount": "not specified"
+          },
+          {
+            "name": "diethyl ether",
+            "amount": "not specified"
+          },
+          {
+            "name": "hexanes",
+            "amount": "not specified"
+          }
+        ],
+        "yield": "not explicitly stated, implied complete conversion"
+      }
+    },
+    {
+      "material": "S6",
+      "synthesis_conditions": {
+        "temperature": "reflux",
+        "solvents": [
+          {
+            "name": "acetone",
+            "amount": "25 ml"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "hex-3-ynyl p-toluene sulfonate",
+            "amount": "1.47 g, 6.21 mmol"
+          },
+          {
+            "name": "4-methoxybenzenethiol",
+            "amount": "802 μL, 6.51 mmol"
+          },
+          {
+            "name": "potassium carbonate",
+            "amount": "1.03 g, 7.45 mmol"
+          }
+        ],
+        "time": "3 h",
+        "yield": "1.37 g, quantitative"
+      }
+    },
+    {
+      "material": "S7",
+      "synthesis_conditions": {
+        "temperature_start": "0°C",
+        "temperature_end": "room temperature",
+        "solvents": [
+          {
+            "name": "acetonitrile:water",
+            "ratio": "1:1",
+            "amount": "15 ml"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "crude S6",
+            "amount": "1.2 g, 5.4 mmol"
+          },
+          {
+            "name": "Oxone",
+            "amount": "2.3 g, 3.8 mmol"
+          }
+        ],
+        "time": "2 h",
+        "yield": "1.1 g, 89%"
+      }
+    }
+  ]
+}

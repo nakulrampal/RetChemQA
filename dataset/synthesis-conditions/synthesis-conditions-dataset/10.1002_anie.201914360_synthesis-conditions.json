@@ -1,0 +1,41 @@
+{
+  "materials": [
+    {
+      "name": "FeAg",
+      "synthesis_conditions": [
+        {
+          "step": "Initial state and pressure application",
+          "details": {
+            "initial_state": "yellow HS state",
+            "pressure_transmitting_medium": "methanol/ethanol mixture",
+            "pressure_applied": "0.7 GPa",
+            "color_change": "yellow to red",
+            "comments": "Conversion to LS form by increasing pressure"
+          }
+        },
+        {
+          "step": "X-ray diffraction data collection (LS state)",
+          "details": {
+            "pressure": "0.5 GPa",
+            "temperature": "323 K",
+            "equipment": "Oxford Cryosystems Cryostream Plus low-temperature device",
+            "color": "red",
+            "state_retained": "LS",
+            "comments": "Data collected after lowering the applied pressure to 0.5 GPa and increasing the temperature to 323 K"
+          }
+        },
+        {
+          "step": "Heating and cooling (HS state)",
+          "details": {
+            "heating_temperature": "368 K",
+            "pressure": "0.5 GPa",
+            "cooling_temperature": "323 K",
+            "color": "yellow",
+            "state_retained": "HS",
+            "comments": "A spin-transition from LS to HS occurred upon heating the sample to 368 K at 0.5 GPa. Diffraction data were collected after cooling the sample to 323 K"
+          }
+        }
+      ]
+    }
+  ]
+}

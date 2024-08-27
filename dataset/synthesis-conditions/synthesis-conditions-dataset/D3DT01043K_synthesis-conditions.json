@@ -1,0 +1,86 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "3 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "2 mL"
+          },
+          {
+            "name": "methanol/water",
+            "ratio": "1:1",
+            "amount": "4 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Ni(ClO4)2·6H2O",
+            "amount": "0.0037 g",
+            "moles": "0.01 mmol"
+          },
+          {
+            "name": "Py–NOH",
+            "amount": "0.0037 g",
+            "moles": "0.03 mmol"
+          },
+          {
+            "name": "(NEt4)[FeIII(Tp*)(CN)3]",
+            "amount": "0.0112 g",
+            "moles": "0.02 mmol"
+          }
+        ],
+        "yield": "68%",
+        "time": "one week",
+        "washing_method": "filtration",
+        "drying_method": "MeOH/H2O wash"
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "3 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "2 mL"
+          },
+          {
+            "name": "methanol/water",
+            "ratio": "1:1",
+            "amount": "4 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Fe(ClO4)2·6H2O",
+            "amount": "0.0025 g",
+            "moles": "0.01 mmol"
+          },
+          {
+            "name": "Py–NOH",
+            "amount": "0.0037 g",
+            "moles": "0.03 mmol"
+          },
+          {
+            "name": "(NEt4)[FeIII(Tp*)(CN)3]",
+            "amount": "0.0112 g",
+            "moles": "0.02 mmol"
+          }
+        ],
+        "yield": "72%",
+        "time": "six days",
+        "washing_method": "filtration",
+        "drying_method": "MeOH/H2O wash"
+      }
+    }
+  ]
+}

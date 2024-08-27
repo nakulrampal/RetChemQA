@@ -1,0 +1,64 @@
+{
+  "materials": [
+    {
+      "name": "Open-framework material [Ni2(l-asp)2(bipy)]·guests (1)",
+      "synthesis_conditions": {
+        "temperature": "150 8C",
+        "solvents": ["water", "methanol"],
+        "solvent_ratio": "Not specified",
+        "equipment": "Not specified",
+        "chemicals_used": ["Ni(l-asp)·3 H2O", "4,4’-bipyridine (bipy)"],
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "Solvothermal reaction"
+      }
+    },
+    {
+      "name": "Racemic structure [Ni2(l,d-asp)2(bipy)]·2 H2O (2)",
+      "synthesis_conditions": {
+        "temperature": "Not specified",
+        "solvents": ["water"],
+        "solvent_ratio": "Higher water concentrations",
+        "equipment": "Not specified",
+        "chemicals_used": ["Ni(l-asp)·3 H2O", "4,4’-bipyridine (bipy)"],
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "Solvothermal reaction; racemization of the starting amino acid occurs at higher water concentrations"
+      }
+    },
+    {
+      "name": "Desolvated material [Ni2(l-asp)2(bipy)]",
+      "synthesis_conditions": {
+        "temperature": "Room temperature to 200 8C under nitrogen flow",
+        "solvents": "Not applicable",
+        "solvent_ratio": "Not applicable",
+        "equipment": "Not specified",
+        "chemicals_used": "Derived from [Ni2(l-asp)2(bipy)]·1.28 CH3OH·0.72 H2O",
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Weight loss of 8.48 % attributed to the removal of methanol and water molecules",
+        "additional_information": "Thermogravimetric analysis"
+      }
+    },
+    {
+      "name": "Structure with 1,2-propanediol [Ni2(l,d-asp)2(bipy)]·CH2(OH)CH(OH)CH3 (3)",
+      "synthesis_conditions": {
+        "temperature": "Not specified",
+        "solvents": ["1,2-propanediol"],
+        "solvent_ratio": "Not specified",
+        "equipment": "Not specified",
+        "chemicals_used": ["Ni(l-asp)·3 H2O", "4,4’-bipyridine (bipy)"],
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "Solvothermal synthesis; results in racemization of the aspartate anion"
+      }
+    }
+  ]
+}

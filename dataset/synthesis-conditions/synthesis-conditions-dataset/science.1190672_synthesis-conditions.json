@@ -1,0 +1,41 @@
+{
+  "materials": [
+    {
+      "name": "metal-dipeptide framework [Zn(Gly-Ala)2]·(solvent)",
+      "synthesis_conditions": {
+        "temperature": "85°C",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "90%"
+          },
+          {
+            "name": "aqueous NaOH",
+            "amount": "10%"
+          }
+        ],
+        "equipment": "sealed 40 mL rubber-lined capped scintillation vials",
+        "chemicals_used": [
+          {
+            "name": "zinc nitrate hexahydrate",
+            "amount": "0.25 mmol"
+          },
+          {
+            "name": "Gly-Ala",
+            "amount": "0.5 mmol"
+          }
+        ],
+        "time": "1 hour",
+        "yield": "75%",
+        "washing_method": "filtered and washed with methanol",
+        "drying_method": "stored in the mother-liquor or under an inert atmosphere such as in a dry box"
+      }
+    },
+    {
+      "name": "desolvated metal-dipeptide framework [Zn(Gly-Ala)2]",
+      "synthesis_conditions": {
+        "description": "The solvent in [Zn(Gly-Ala)2]·(solvent) can be removed reversibly to give a desolvated material stable to 250°C."
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "materials": [
+    {
+      "name": "Ni-MOF crystals",
+      "synthesis_method": "solvothermal",
+      "precursors": [
+        "Ni(NO3)·6H2O",
+        "1,3,5-benzenetricarboxylic acid (H3BTC)"
+      ],
+      "solvents": [
+        {
+          "name": "DMF",
+          "volume": "20 mL"
+        },
+        {
+          "name": "CH3OH",
+          "volume": "20 mL"
+        },
+        {
+          "name": "H2O",
+          "volume": "20 mL"
+        }
+      ],
+      "reaction_conditions": {
+        "temperature": "120 ℃",
+        "time": "10 h"
+      },
+      "post_synthesis_treatments": [
+        {
+          "washing": "deionized water and methanol"
+        },
+        {
+          "drying": "80 ℃ for 12 h"
+        }
+      ]
+    },
+    {
+      "name": "NiCo-MOF-X",
+      "synthesis_method": "solvothermal",
+      "precursors": [
+        "Ni-MOF",
+        "Co(NO3)·6H2O"
+      ],
+      "solvents": [
+        {
+          "name": "DMF",
+          "volume": "10 mL"
+        },
+        {
+          "name": "CH3OH",
+          "volume": "10 mL"
+        },
+        {
+          "name": "H2O",
+          "volume": "10 mL"
+        }
+      ],
+      "reaction_conditions": {
+        "temperature": "120 ℃",
+        "time": "16 h"
+      },
+      "variants": [
+        {
+          "name": "NiCo-MOF-0",
+          "details": "prepared under the same condition of NiCo-MOF-2 without Co(NO3)·6H2O"
+        },
+        {
+          "name": "NiCo-MOF-2 12 h",
+          "details": "prepared under the same conditions as NiCo-MOF-2 with only the reaction times changed by 12 h"
+        },
+        {
+          "name": "NiCo-MOF-2 20 h",
+          "details": "prepared under the same conditions as NiCo-MOF-2 with only the reaction times changed by 20 h"
+        }
+      ]
+    }
+  ]
+}

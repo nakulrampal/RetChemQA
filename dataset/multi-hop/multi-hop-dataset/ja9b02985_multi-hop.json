@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula and formula weight of complex 1?",
+      "answer": "Empirical formula: C70H86Cl4F12N12O14Rh4S4, Formula weight: 2229.18",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of crystal system and space group does complex 2 belong to?",
+      "answer": "Crystal system: Triclinic, Space group: P-1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the unit cell dimensions for the Borromean ring structure 3-BR?",
+      "answer": "a = 22.109(4) Å, b = 32.573(6) Å, c = 23.984(5) Å, β = 101.330(4)°",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the density and absorption coefficient of complex 5 compare to those of complex 7?",
+      "answer": "Complex 5: Density = 1.640 Mg/m3, Absorption coefficient = 5.250 mm-1; Complex 7: Density = 1.588 Mg/m3, Absorption coefficient = 0.854 mm-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the relationship between the concentration of Borromean ring 3-BR and time during the dilution experiment?",
+      "answer": "The relationship follows the rate law of first order reaction, with a conversion reaction rate coefficient k = 0.00324/min at 298K",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Based on the DFT computational details, what is the Gibbs-free energy change for the formation of the Borromean structure from three monomers?",
+      "answer": "The Gibbs-free energy change for the formation of the Borromean structure from three monomers at 298.15 K is -58.8 kcal/mol",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the formation of Borromean rings 3-BR from monomeric rings 3-MONO energetically favorable according to DFT calculations?",
+      "answer": "True, the formation of Borromean rings 3-BR from monomeric rings 3-MONO is energetically favorable with a Gibbs-free energy change of -58.8 kcal/mol",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the crystal structure of complex 6 undergo a single-crystal-to-single-crystal transformation when reacting with NBD?",
+      "answer": "True, the crystal structure of complex 6 undergoes a single-crystal-to-single-crystal transformation when reacting with NBD, as evidenced by the gradual color change from red to light yellow",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the final R index for complex 2 after refinement and how does it compare to that of complex 5?",
+      "answer": "Final R index for complex 2: R1 = 0.0534, wR2 = 0.1405; Complex 5: R1 = 0.0614, wR2 = 0.1698. The final R index for complex 2 is lower than that of complex 5, indicating a better fit for complex 2",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the translational and rotational entropy changes be considered negligible in the Gibbs-free energy calculation for the formation of Borromean rings according to the DFT computational details?",
+      "answer": "True, assuming that the vibrational contribution to the Gibbs-free energy change is cancelled forming the Borromean from the three monomers, the translational and rotational entropy changes can be considered negligible",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

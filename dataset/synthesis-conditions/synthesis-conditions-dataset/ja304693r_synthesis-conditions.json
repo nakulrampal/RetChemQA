@@ -1,0 +1,32 @@
+{
+  "materials": [
+    {
+      "material": "1",
+      "synthesis_conditions": {
+        "chemicals_used": {
+          "zinc_oxide": "81 mg, 1 mmol",
+          "1,2,4-triazole (TzH)": "138 mg, 2 mmol",
+          "phosphoric_acid": "85%, 134 μL, 2 mmol"
+        },
+        "solvents": "methanol",
+        "equipment": "10 mL Teflon jar with two steel-cored 10 mm teflon balls, Retch MM200 grinder mill",
+        "grinding": {
+          "time": "60 min",
+          "frequency": "25 Hz"
+        },
+        "washing_method": "washed with methanol",
+        "drying_method": "evacuated at 100 °C overnight",
+        "yield": "dry pure-phase 1"
+      }
+    },
+    {
+      "material": "Deuterated 1",
+      "synthesis_conditions": {
+        "chemicals_used": {
+          "D3PO4/D2O": "85% instead of normal phosphoric acid"
+        },
+        "notes": "Follow the same procedure as for the synthesis of 1."
+      }
+    }
+  ]
+}

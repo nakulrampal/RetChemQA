@@ -1,0 +1,97 @@
+{
+  "materials": [
+    {
+      "material_name": "Complex a of [Mn(hfac)2·1]",
+      "synthesis_conditions": {
+        "temperature": "-100 °C",
+        "solvents": [
+          {
+            "solvent_name": "n-heptane",
+            "amount": "50 mL, reduced to 30 mL by distillation"
+          },
+          {
+            "solvent_name": "CH2Cl2",
+            "amount": "30 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "chemical_name": "[Mn(hfac)2·2H2O]",
+            "amount": "0.27 g"
+          },
+          {
+            "chemical_name": "1",
+            "amount": "0.1 g"
+          }
+        ],
+        "equipment": "glass fiber",
+        "time": "Data collection: 18 exposures @ 30.0 minutes each",
+        "yield": "IR (KBr) 2068 cm-1",
+        "crystallography_details": {
+          "crystal_system": "orthorhombic",
+          "space_group": "Pbca",
+          "lattice_params": {
+            "a": "21.792(2) Å",
+            "b": "18.511(5) Å",
+            "c": "13.358(4) Å",
+            "volume": "5388(3) Å^3"
+          },
+          "z_value": "8",
+          "density_calculated": "1.640 g/cm^3",
+          "absorption_coefficient": "6.1 cm^-1",
+          "refinement": {
+            "R": "0.062",
+            "Rw": "0.061"
+          }
+        }
+      }
+    },
+    {
+      "material_name": "Complex b of [Mn(hfac)2·1]",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "solvent_name": "CH2Cl2",
+            "amount": "Not specified"
+          },
+          {
+            "solvent_name": "MeOH",
+            "amount": "Not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "chemical_name": "[Mn(hfac)2·2H2O]",
+            "amount": "Not specified"
+          },
+          {
+            "chemical_name": "1",
+            "amount": "Not specified"
+          }
+        ],
+        "equipment": "glass fiber",
+        "time": "Data collection: 20 exposures @ 45.0 minutes each",
+        "yield": "IR (KBr) 2067 cm-1",
+        "crystallography_details": {
+          "crystal_system": "monoclinic",
+          "space_group": "C2/c",
+          "lattice_params": {
+            "a": "13.69(2) Å",
+            "b": "13.669(3) Å",
+            "c": "20.864(5) Å",
+            "beta": "96.184(4)°",
+            "volume": "3881(3) Å^3"
+          },
+          "z_value": "4",
+          "density_calculated": "1.454 g/cm^3",
+          "absorption_coefficient": "4.4 cm^-1",
+          "refinement": {
+            "R": "0.065",
+            "Rw": "0.079"
+          }
+        }
+      }
+    }
+  ]
+}

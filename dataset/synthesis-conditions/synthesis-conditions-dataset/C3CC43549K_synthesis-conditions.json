@@ -1,0 +1,86 @@
+{
+  "materials": [
+    {
+      "name": "ligand (S)-H4L",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "90 ℃",
+          "solvents": [
+            {
+              "name": "1,4-dioxane/H2O",
+              "amount": "63 mL",
+              "ratio": "9/1"
+            }
+          ],
+          "chemicals_used": [
+            "(S)-3,3'-Di-tert-butyl-5,5'-dibromo-6,6'-dimethylbiphenyl-2,2'-diol (1g, 2 mmol)",
+            "dimethyl-5-(pinacolboryl)isophthalate (1.7 g, 5.6 mmol)",
+            "K3PO4 (1.9 g, 9 mmol)",
+            "Pd(dppf)2Cl2 (80 mg, 0.1 mmol)"
+          ],
+          "time": "10 h",
+          "atmosphere": "N2",
+          "yield": "88%",
+          "washing_method": "extracted with EtOAc/H2O",
+          "drying_method": "dried over Na2SO4 and removed under reduced pressure"
+        },
+        {
+          "step": 2,
+          "temperature": "70 ℃",
+          "solvents": [
+            {
+              "name": "THF-MeOH-H2O",
+              "amount": "15mL:15mL:5mL"
+            }
+          ],
+          "chemicals_used": [
+            "(S)-3,3'-Di-tert-butyl-5,5'-di(3,5-dimethoxycarboxyphenyl-1-yl)-6,6'-dimethylbiphenyl-2,2'-diol (1.3 g, 1.8mmol)",
+            "LiOH•H2O (0.77 g, 18mmol)"
+          ],
+          "time": "10 h",
+          "yield": "86%",
+          "washing_method": "extracted with Et2O/H2O",
+          "drying_method": "dried over Na2SO4 and evaporated under reduced pressure"
+        }
+      ]
+    },
+    {
+      "name": "1 and the apohost-1",
+      "synthesis_conditions": [
+        {
+          "temperature": "100 ℃",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "5 mL"
+            },
+            {
+              "name": "H2O",
+              "amount": "1.5 mL"
+            },
+            {
+              "name": "HOAc",
+              "amount": "1 mL"
+            }
+          ],
+          "chemicals_used": [
+            "DyCl3 (0.01 mmol)",
+            "NaCl (0.01 mmol)",
+            "(S)-H4L (0.02 mmol)"
+          ],
+          "time": "3 days",
+          "yield": "82% based on Dy",
+          "washing_method": "washed with ether",
+          "drying_method": "dried in air"
+        },
+        {
+          "step": "Guest exchange",
+          "temperature": "120 ℃",
+          "time": "4 h",
+          "method": "guest molecules exchanged with ether then evacuated"
+        }
+      ]
+    }
+  ]
+}

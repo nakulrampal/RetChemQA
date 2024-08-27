@@ -1,0 +1,180 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis of the Single Crystals",
+          "chemicals_used": [
+            {
+              "name": "Zn(NO3)2·6H2O",
+              "amount": "72.3 mg",
+              "molar_amount": "2.5 × 10−1 mmol"
+            },
+            {
+              "name": "1,4-naphthalenedicarboxylic acid",
+              "amount": "54.0 mg",
+              "molar_amount": "2.5 × 10−1 mmol"
+            },
+            {
+              "name": "4,4′-bipyridyl",
+              "amount": "21.0 mg",
+              "molar_amount": "1.25 × 10−1 mmol"
+            },
+            {
+              "name": "N,N-dimethylformamide (DMF)",
+              "amount": "5 mL"
+            }
+          ],
+          "temperature": "80 °C",
+          "time": "2 days",
+          "drying_method": "cooling",
+          "yield": "single crystals harvested"
+        },
+        {
+          "step": "Synthesis of the Powder Crystals",
+          "chemicals_used": [
+            {
+              "name": "Zn(NO3)2·6H2O",
+              "amount": "148.5 mg",
+              "molar_amount": "5.0 × 10−1 mmol"
+            },
+            {
+              "name": "1,4-naphthalenedicarboxylic acid",
+              "amount": "108.0 mg",
+              "molar_amount": "5.0 × 10−1 mmol"
+            },
+            {
+              "name": "4,4′-bipyridyl",
+              "amount": "42.0 mg",
+              "molar_amount": "2.5 × 10−1 mmol"
+            },
+            {
+              "name": "N,N-dimethylformamide (DMF)",
+              "amount": "10 mL"
+            }
+          ],
+          "temperature": "120 °C",
+          "time": "3 h",
+          "equipment": "microwave instrument (Biotage, Initiator)"
+        }
+      ]
+    },
+    {
+      "name": "2-box",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis of 2-box",
+          "chemicals_used": [
+            {
+              "name": "1,4-Benzenedicarboxylic acid",
+              "amount": "16.6 mg",
+              "molar_amount": "1.0 × 10−1 mmol"
+            },
+            {
+              "name": "N,N-dimethylformamide (DMF)",
+              "amount": "2 mL"
+            },
+            {
+              "name": "Powder crystals of 1",
+              "amount": "8.0 mg",
+              "molar_amount": "2.0 × 10−2 mmol"
+            }
+          ],
+          "temperature": "80 °C",
+          "equipment": "microwave reactor (Biotage, Initiator)"
+        },
+        {
+          "step": "Synthesis of 2-box in Millimeter Scale",
+          "chemicals_used": [
+            {
+              "name": "Zn(NO3)2·6H2O",
+              "amount": "5.94 mg",
+              "molar_amount": "2.0 × 10−2 mmol"
+            },
+            {
+              "name": "1,4-benzenedicarboxylic acid",
+              "amount": "3.32 mg",
+              "molar_amount": "2.0 × 10−2 mmol"
+            },
+            {
+              "name": "4,4′-bipyridyl",
+              "amount": "1.68 mg",
+              "molar_amount": "1.0 × 10−2 mmol"
+            },
+            {
+              "name": "N,N-dimethylformamide (DMF)",
+              "amount": "1 mL"
+            }
+          ],
+          "temperature": "120 °C",
+          "time": "2 days",
+          "yield": "2-box with the millimeter scale obtained"
+        },
+        {
+          "step": "Synthesis of 2-micro",
+          "chemicals_used": [
+            {
+              "name": "Zn(NO3)2·6H2O",
+              "amount": "11.9 mg",
+              "molar_amount": "4.0 × 10−2 mmol"
+            },
+            {
+              "name": "H2bdc",
+              "amount": "5.3 mg",
+              "molar_amount": "3.2 × 10−2 mmol"
+            },
+            {
+              "name": "H2ndc",
+              "amount": "1.7 mg",
+              "molar_amount": "0.8 × 10−2 mmol"
+            },
+            {
+              "name": "4,4′-bipyridyl",
+              "amount": "1.6 mg",
+              "molar_amount": "1.0 × 10−2 mmol"
+            },
+            {
+              "name": "N,N-dimethylformamide (DMF)",
+              "amount": "2 mL"
+            },
+            {
+              "name": "Methanol",
+              "amount": "1 mL"
+            }
+          ],
+          "temperature": "90 °C",
+          "time": "2 days",
+          "yield": "A largest crystal (10 μm) was picked up for the single-crystal X-ray structure analysis"
+        }
+      ]
+    },
+    {
+      "name": "IR-MOF box",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis of IR-MOF box",
+          "chemicals_used": [
+            {
+              "name": "2-Aminobenzene-1,4-dicarboxylic acid",
+              "amount": "18.1 mg",
+              "molar_amount": "0.1 mmol"
+            },
+            {
+              "name": "DMF and ethanol",
+              "amount": "2 mL",
+              "ratio": "1:1"
+            },
+            {
+              "name": "Microcrystals of MOF-5",
+              "amount": "5.0 mg"
+            }
+          ],
+          "temperature": "60 °C",
+          "time": "2 h",
+          "equipment": "microwave reactor (Biotage, Initiator)"
+        }
+      ]
+    }
+  ]
+}

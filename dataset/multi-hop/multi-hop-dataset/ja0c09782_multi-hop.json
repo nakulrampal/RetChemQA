@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the significance of the Zr6 node in the structure of NU-1000?",
+      "answer": "The Zr6 node in the structure of NU-1000 is significant because it forms the basis of the metal-organic framework, contributing to its stability and providing sites for catalytic activity, including the potential for grafting catalytic clusters and exposing Lewis-acidic Zr(IV) sites.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of formate ions affect the catalytic activity of NU-1000?",
+      "answer": "The presence of formate ions in NU-1000 occupies coordination sites on the Zr6 nodes that would otherwise be available for catalytic activity. Removing these formate ions increases the number of active sites on the nodes, potentially boosting the overall catalytic activity of the framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role does water play in the structure and function of NU-1000 and its derivatives?",
+      "answer": "Water plays a crucial role in the structure and function of NU-1000 and its derivatives by affecting the hydrogen bonding and the lability of aqua ligands on the Zr6 nodes. This influences the framework's stability, pore contraction behavior, and the ease of removing aqua ligands to expose catalytic sites.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can NU-1000 be recycled for catalytic applications, and if so, how does its performance change over multiple cycles?",
+      "answer": "NU-1000 can be recycled for catalytic applications, as demonstrated in hydrolysis experiments. Its performance tends to decrease slightly after the first cycle due to physical loss of catalyst and potential product inhibition, but can be partially restored by treatment with N-ethylmorpholine, indicating some loss in activity but overall recyclability.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the impact of replacing DMF with non-formate-generating solvents during the activation of NU-1000?",
+      "answer": "Replacing DMF with non-formate-generating solvents during the activation of NU-1000 effectively removes modulators and avoids the introduction of formate ions, leading to the formation of NU-1000-FF-Cl with a more accessible node structure for catalytic activity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The removal of formate ions from NU-1000 results in a decrease in its BET surface area.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The presence of chloride ions in NU-1000-FF-Cl significantly enhances its catalytic activity compared to its chloride-free version.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method is used to remove chloride ions from NU-1000-FF-Cl to obtain NU-1000-FF?",
+      "answer": "Chloride ions are removed from NU-1000-FF-Cl to obtain NU-1000-FF by treating it with weak organic bases such as TEA in ethanol, which facilitates the removal of chloride and conversion of aqua ligands to hydroxo ligands.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the activation temperature affect the dehydration and pore contraction behavior of NU-1000-FF?",
+      "answer": "The activation temperature affects the dehydration and pore contraction behavior of NU-1000-FF by determining the ease with which aqua ligands can be removed from the Zr6 nodes. Lower activation temperatures facilitate the removal of aqua ligands, leading to reversible pore contraction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The structural integrity and crystallinity of NU-1000 are compromised after multiple cycles of catalytic activity.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

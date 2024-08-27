@@ -1,0 +1,84 @@
+{
+  "materials": [
+    {
+      "name": "1-(R)",
+      "synthesis_conditions": {
+        "atmosphere": "Ar",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "3 mL for MnCl2·4H2O, 3 mL for (R)-mpm, 3 mL for K4[Nb(CN)8]·2H2O"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "MnCl2·4H2O",
+            "amount": "10.7 mg, 0.05 mmol"
+          },
+          {
+            "name": "(R)-mpm",
+            "amount": "67.5 mg, 0.5 mmol"
+          },
+          {
+            "name": "K4[Nb(CN)8]·2H2O",
+            "amount": "12.3 mg, 0.025 mmol"
+          }
+        ],
+        "yield": "ca. 15 mg",
+        "crystal_growth_method": "spontaneous crystallization",
+        "drying_method": "dried on air",
+        "IR_frequencies": [
+          "2145m",
+          "2133s",
+          "2128vs",
+          "2118s"
+        ],
+        "elemental_analysis": {
+          "C": "Found: 44.61%",
+          "H": "Found: 4.52%",
+          "N": "Found: 17.03%"
+        }
+      }
+    },
+    {
+      "name": "1-(S)",
+      "synthesis_conditions": {
+        "atmosphere": "Ar",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "3 mL for MnCl2·4H2O, 3 mL for (S)-mpm, 3 mL for K4[Nb(CN)8]·2H2O"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "MnCl2·4H2O",
+            "amount": "10.7 mg, 0.05 mmol"
+          },
+          {
+            "name": "(S)-mpm",
+            "amount": "67.5 mg, 0.5 mmol"
+          },
+          {
+            "name": "K4[Nb(CN)8]·2H2O",
+            "amount": "12.3 mg, 0.025 mmol"
+          }
+        ],
+        "yield": "ca. 15 mg",
+        "crystal_growth_method": "spontaneous crystallization",
+        "drying_method": "dried on air",
+        "IR_frequencies": [
+          "2145m",
+          "2133s",
+          "2128vs",
+          "2118s"
+        ],
+        "elemental_analysis": {
+          "C": "Found: 44.64%",
+          "H": "Found: 4.54%",
+          "N": "Found: 17.10%"
+        }
+      }
+    }
+  ]
+}

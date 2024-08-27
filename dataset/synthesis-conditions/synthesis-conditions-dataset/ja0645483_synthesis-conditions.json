@@ -1,0 +1,459 @@
+{
+  "materials": [
+    {
+      "name": "[Co(4-pyrdpm)3AgBF4] (MOF-Co/AgBF4-1)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "benzene",
+            "amount": "variable"
+          },
+          {
+            "name": "acetonitrile",
+            "amount": "~1.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[Co(4-pyrdpm)3]",
+            "amount": "1.3 mM"
+          },
+          {
+            "name": "AgBF4",
+            "amount": "1.3 mM"
+          }
+        ],
+        "time": "7−15 days",
+        "yield": "1.7 mg (36%)",
+        "drying_method": "slow evaporation",
+        "other_conditions": "stored in the dark"
+      }
+    },
+    {
+      "name": "[Fe(4-pyrdpm)3AgOTf] (MOF-Fe/AgOTf-1)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "1.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[Fe(4-pyrdpm)3]",
+            "amount": "2.6 mM"
+          },
+          {
+            "name": "AgOTf",
+            "amount": "2.6 mM"
+          }
+        ],
+        "time": "7−15 days",
+        "yield": "4.6 mg (32%)",
+        "drying_method": "slow evaporation",
+        "other_conditions": "stored in the dark"
+      }
+    },
+    {
+      "name": "[Co(4-pyrdpm)3AgPF6] (MOF-Co/AgPF6-1)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "1.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[Co(4-pyrdpm)3]",
+            "amount": "1.7 mM"
+          },
+          {
+            "name": "AgPF6",
+            "amount": "1.7 mM"
+          }
+        ],
+        "time": "7−15 days",
+        "yield": "4.8 mg (80%)",
+        "drying_method": "slow evaporation",
+        "other_conditions": "stored in the dark"
+      }
+    },
+    {
+      "name": "[Fe(4-pyrdpm)3AgPF6] (MOF-Fe/AgPF6-1)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "1.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[Fe(4-pyrdpm)3]",
+            "amount": "1.7 mM"
+          },
+          {
+            "name": "AgPF6",
+            "amount": "1.7 mM"
+          }
+        ],
+        "time": "7−15 days",
+        "yield": "3.9 mg (65%)",
+        "drying_method": "slow evaporation",
+        "other_conditions": "stored in the dark"
+      }
+    },
+    {
+      "name": "[Co(4-pyrdpm)3AgSbF6] (MOF-Co/AgSbF6-1)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "1.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[Co(4-pyrdpm)3]",
+            "amount": "0.43 mM"
+          },
+          {
+            "name": "AgSbF6",
+            "amount": "0.43 mM"
+          }
+        ],
+        "time": "7−15 days",
+        "yield": "0.9 mg (49%)",
+        "drying_method": "slow evaporation",
+        "other_conditions": "stored in the dark"
+      }
+    },
+    {
+      "name": "[Fe(4-pyrdpm)3AgSbF6] (MOF-Fe/AgSbF6-1)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "1.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[Fe(4-pyrdpm)3]",
+            "amount": "1.4 mM"
+          },
+          {
+            "name": "AgSbF6",
+            "amount": "1.4 mM"
+          }
+        ],
+        "time": "7−15 days",
+        "yield": "3.4 mg (32%)",
+        "drying_method": "slow evaporation",
+        "other_conditions": "stored in the dark"
+      }
+    },
+    {
+      "name": "[Co(4-pyrdpm)3Fe(4-pyrdpm)3(AgOTf)2] (MOF-CoFe/AgOTf-1)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "benzene",
+            "amount": "variable"
+          },
+          {
+            "name": "acetonitrile",
+            "amount": "~1.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[Fe(4-pyrdpm)3]",
+            "amount": "0.88 mM"
+          },
+          {
+            "name": "[Co(4-pyrdpm)3]",
+            "amount": "0.88 mM"
+          },
+          {
+            "name": "AgOTf",
+            "amount": "1.75 mM"
+          }
+        ],
+        "time": "7−15 days",
+        "yield": "2.8 mg (42%)",
+        "drying_method": "slow evaporation",
+        "other_conditions": "stored in the dark"
+      }
+    },
+    {
+      "name": "[Co(4-pyrdpm)3Fe(4-pyrdpm)3(AgBF4)2] (MOF-CoFe/AgBF4-1)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "benzene",
+            "amount": "variable"
+          },
+          {
+            "name": "acetonitrile",
+            "amount": "~1.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[Fe(4-pyrdpm)3]",
+            "amount": "0.88 mM"
+          },
+          {
+            "name": "[Co(4-pyrdpm)3]",
+            "amount": "0.88 mM"
+          },
+          {
+            "name": "AgBF4",
+            "amount": "1.75 mM"
+          }
+        ],
+        "time": "7−15 days",
+        "yield": "5.5 mg (87%)",
+        "drying_method": "slow evaporation",
+        "other_conditions": "stored in the dark"
+      }
+    },
+    {
+      "name": "[Co(4-quindpm)3]",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "CDCl3",
+            "amount": "300 MHz, 25 °C"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "5-(4-quinolyl)dipyrromethane",
+            "amount": "100 mg, 0.37 mmol"
+          }
+        ],
+        "yield": "48% (51 mg)",
+        "drying_method": "film from CH2Cl2"
+      }
+    },
+    {
+      "name": "[Fe(4-quindpm)3]",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "CDCl3",
+            "amount": "100 MHz, 25 °C"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "5-(4-quinolyl)dipyrromethane",
+            "amount": "250 mg, 0.92 mmol"
+          }
+        ],
+        "yield": "41% (110 mg)",
+        "drying_method": "film from CH2Cl2"
+      }
+    },
+    {
+      "name": "[Fe(4-quindpm)3AgOTf] (MOF-Fe/AgOTf-3)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "1.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[Fe(4-quindpm)3]",
+            "amount": "0.75 mM"
+          },
+          {
+            "name": "AgOTf",
+            "amount": "0.75 mM"
+          }
+        ],
+        "time": "7−15 days",
+        "yield": "1.3 mg (38%)",
+        "drying_method": "slow evaporation",
+        "other_conditions": "stored in the dark"
+      }
+    },
+    {
+      "name": "[4-(Pyridin-4-ylethynyl)benzaldehyde]",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "CH2Cl2",
+            "amount": "75 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "4-(ethynyl)benzaldehyde",
+            "amount": "0.33 g, 2.5 mmol"
+          },
+          {
+            "name": "4-bromopyridine hydrochloride",
+            "amount": "0.64 g, 3.3 mmol"
+          },
+          {
+            "name": "Pd(PPh3)2Cl2",
+            "amount": "89 mg, 0.13 mmol"
+          },
+          {
+            "name": "CuI",
+            "amount": "24 mg, 0.13 mmol"
+          },
+          {
+            "name": "dry diethylamine",
+            "amount": "25 mL"
+          }
+        ],
+        "time": "24 h",
+        "yield": "58% (0.31 g)",
+        "drying_method": "evaporated to dryness"
+      }
+    },
+    {
+      "name": "[5-(4-Pyridin-4-ylethynylphenyl)dipyrromethane]",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "CDCl3",
+            "amount": "400 MHz, 25 °C"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[4-(pyridin-4-ylethynyl)benzaldehyde]",
+            "amount": "0.31 g, 1.5 mmol"
+          }
+        ],
+        "yield": "40% (0.19 g)",
+        "drying_method": "isolated as a pale-yellow solid"
+      }
+    },
+    {
+      "name": "[Co(4-papyrdpm)3]",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "CDCl3",
+            "amount": "400 MHz, 25 °C"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "5-(4-pyridin-4-ylethynylphenyl)dipyrromethane",
+            "amount": "0.50 g, 1.55 mmol"
+          }
+        ],
+        "yield": "38% (0.20 g)",
+        "drying_method": "KBr pellet"
+      }
+    },
+    {
+      "name": "[Co(4-papyrdpm)3AgOTf] (MOF-Co/AgOTf-4)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "1.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[Co(4-papyrdpm)3]",
+            "amount": "1.7 mM"
+          },
+          {
+            "name": "AgOTf",
+            "amount": "1.7 mM"
+          }
+        ],
+        "time": "7−15 days",
+        "yield": "6.1 mg (69%)",
+        "drying_method": "slow evaporation",
+        "other_conditions": "stored in the dark"
+      }
+    },
+    {
+      "name": "[Co(4-papyrdpm)3AgBF4] (MOF-Co/AgBF4-4)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "1.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[Co(4-papyrdpm)3]",
+            "amount": "1.7 mM"
+          },
+          {
+            "name": "AgBF4",
+            "amount": "1.7 mM"
+          }
+        ],
+        "time": "7−15 days",
+        "yield": "7.5 mg (89%)",
+        "drying_method": "slow evaporation",
+        "other_conditions": "stored in the dark"
+      }
+    },
+    {
+      "name": "[Co(4-papyrdpm)3AgPF6] (MOF-Co/AgPF6-4)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "1.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[Co(4-papyrdpm)3]",
+            "amount": "1.7 mM"
+          },
+          {
+            "name": "AgPF6",
+            "amount": "1.7 mM"
+          }
+        ],
+        "time": "7−15 days",
+        "yield": "6.9 mg (77%)",
+        "drying_method": "slow evaporation",
+        "other_conditions": "stored in the dark"
+      }
+    },
+    {
+      "name": "Anion-Exchange Studies",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "benzene/acetonitrile mixture",
+            "amount": "4:1"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "tetrabutylammonium tetrafluoroborate",
+            "amount": "30 mM"
+          },
+          {
+            "name": "tetrabutylammonium hexafluorophosphate",
+            "amount": "26 mM"
+          }
+        ],
+        "time": "24 h",
+        "other_conditions": "gently shaken"
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "materials": [
+    {
+      "name": "Zn2(ZnTCPP)",
+      "synthesis_conditions": {
+        "step_1": {
+          "description": "Preparation of a two-dimensional Zn2(ZnTCPP) framework",
+          "reference": "Figure 1"
+        }
+      }
+    },
+    {
+      "name": "DPB-BI",
+      "synthesis_conditions": {
+        "description": "Four-step synthesis",
+        "reference": "Supporting Information (Scheme S1, Figures S1, S3, S4)"
+      }
+    },
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "solvent": "N,N-dimethylformamide (DMF)",
+        "solvent_amount": "Not specified",
+        "chemicals_used": [
+          "DPB-BI",
+          "Zn2(ZnTCPP)"
+        ],
+        "method": "Coordinative immobilization of DPB-BI through immersion of the Zn2(ZnTCPP) crystals into DMF solutions of DPB-BI",
+        "product": "[Zn2(ZnTCPP)(DPB-BI)0.86-(DMF)1.14]·(DMF)8.86(H2O)20"
+      }
+    },
+    {
+      "name": "1’’",
+      "synthesis_conditions": {
+        "solvent": "N,N-diethylformamide (DEF)",
+        "solvent_amount": "Not specified",
+        "chemicals_used": [
+          "DPB-BI",
+          "Zn2(ZnTCPP)"
+        ],
+        "method": "Coordinative immobilization of DPB-BI through immersion of the Zn2(ZnTCPP) crystals into DEF solutions of DPB-BI",
+        "product": "[Zn2(ZnTCPP)(DPB-BI)0.64(DEF)0.36]·(DEF)6.94·(H2O)12.55"
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "method": "Solvothermal preparation",
+        "product": "Pb2(TCPP)·4DMF",
+        "reference": "Figure 2; Supporting Information, Figure S7"
+      }
+    },
+    {
+      "name": "BI@2",
+      "synthesis_conditions": {
+        "method": "Soaking Pb2(TCPP)·4DMF in BI solution for 3 days",
+        "time": "3 days",
+        "chemicals_used": [
+          "BI",
+          "Pb2(TCPP)·4DMF"
+        ],
+        "result": "BI inclusion and formation of BI@2"
+      }
+    }
+  ]
+}

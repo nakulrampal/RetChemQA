@@ -1,0 +1,60 @@
+{
+  "materials": [
+    {
+      "material_name": "Zn2(Atz)2(ox)·(H2O)0.5, 1·(H2O)0.5",
+      "synthesis_conditions": {
+        "temperature": "180oC",
+        "solvents": ["methanol", "water"],
+        "amount_of_each_solvent": ["5 mL of methanol", "5 mL of water"],
+        "equipment": null,
+        "chemicals_used": ["0.1g of ZnCO3.2Zn(OH)2", "0.1 g of H2C2O4", "0.4g of 3-amino-1,2,4-triazole"],
+        "time": "3 days",
+        "washing_method": null,
+        "drying_method": null,
+        "yield": null,
+        "additional_notes": "The synthesis conditions produced larger crystals with most being twinned and possessing truncated-diamond morphology, while untwined crystals were cube-shaped."
+      }
+    },
+    {
+      "material_name": "Single crystal of 1",
+      "synthesis_conditions": {
+        "activation_and_loading_conditions": {
+          "equipment": "Micromeritics ASAP 2020 gas analysis system",
+          "temperature": "Evacuated for 72 hrs at 10-3 mbar followed by heating at 80 oC under vacuum for 80 min",
+          "solvents": null,
+          "chemicals_used": null,
+          "time": "72 hrs evacuation, 80 min heating",
+          "additional_notes": "After complete activation, the sample was backfilled with CO2 (850 mbar, 293 K) and allowed to equilibrate for an hour before being flame sealed."
+        },
+        "x-ray_diffraction_conditions": {
+          "equipment": "Bruker AXS diffractometer with Cu K radiation ( = 1.54078 Å) and equipped with APEX II CCD detector and a monocap extension",
+          "temperature": "Data collected at 123, 173, 195, and 293 K",
+          "additional_notes": "Intensity data collection was performed in the ω-ϕ scanning mode. The diffraction spots were measured in full with high accuracy, scaled, corrected for Lorentz-polarization correction, and integrated using SAINT."
+        }
+      }
+    },
+    {
+      "material_name": "Thermal analysis of 1",
+      "synthesis_conditions": {
+        "equipment": "Netzsch STA 449C apparatus",
+        "temperature_range": "25 to 450 oC",
+        "heating_rate": "5 oC /min",
+        "atmosphere": "N2 atmosphere",
+        "additional_notes": null
+      }
+    },
+    {
+      "material_name": "Adsorption Measurements for 1",
+      "synthesis_conditions": {
+        "equipment": "Accelerated Surface Area & Porosimetry System (ASAP) 2020 supplied by Micromeritics Instruments Inc.",
+        "sample_preparation": {
+          "sample_amount": "~100 mg",
+          "activation_conditions": "Heated under vacuum (~10-6 mbar) in two stages, initially to 60 °C at 1°C/min for 2 hrs then to 100 °C at 1°C/min for 12 hrs",
+          "outgas_rate": "Less than 2 μbar/hr",
+          "additional_notes": "After heating, the sample was backfilled with N2 before being transferred to the analysis port where it was evacuated for at least a further 240 min before the analysis was started."
+        },
+        "analysis_conditions": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula and molecular weight of the compound synthesized as an orange solid with a melting point of 158-163 °C?",
+      "answer": "C20H21ClN2Sn, 521.64",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the yield percentage of SnClDIPY (2) when synthesized from dipyrromethene 1 and SnCl2?",
+      "answer": "74%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What change in fluorescence quantum yield occurs when SnClDIPY (2) is converted to [SnDIPY]OTf (4)?",
+      "answer": "The fluorescence quantum yield increases from 0.04 to 0.42.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the reaction of SnClDIPY (2) with AgOTf lead to a change in its fluorescence properties?",
+      "answer": "The reaction with AgOTf converts SnClDIPY (2) to [SnDIPY]OTf (4), increasing its fluorescence quantum yield.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the fluorescence emission of [SnDIPY]OTf (4) be reversed back to its original state, and if so, how?",
+      "answer": "Yes, the fluorescence emission can be reversed back to its original state by treating [SnDIPY]OTf (4) with Bu4NCl.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the structure of [SnDIPY]OTf (4) in the crystalline state polymeric?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the conversion of SnClDIPY (2) to [SnDIPY]OTf (4) involve a change in the electronic structure of the dipyrromethene moiety?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of AgOTf in the synthesis of [SnDIPY]OTf (4) from SnClDIPY (2)?",
+      "answer": "AgOTf acts as a reagent to convert SnClDIPY (2) to [SnDIPY]OTf (4) by replacing the chloride ligand with a triflate group.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What basis set was used for Sn in the DFT calculations of the model compounds?",
+      "answer": "LanL2DZ basis set with the polarization function of d symmetry and diffuse function of p symmetry.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Was the fluorescence quantum yield of [SnDIPY]OTf (4) determined using an absolute quantum yield measurement system?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the synthesis of SnClDIPY (2) involve the use of n-BuLi at -78 °C?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the method used for the crystal structure determination of SnClDIPY (2) and [SnDIPY]OTf (4)?",
+      "answer": "The intensity data were collected on Rigaku/MSC Mercury CCD with Mo/Kα radiation, and the structures were solved by the direct method and refined by full-matrix least squares on F2 using SHELXS97.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the fluorescence emission of [SnDIPY]OTf (4) stronger than that of SnClDIPY (2)?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the lone-pair (n) orbital of the divalent tin atom in SnClDIPY's fluorescence properties?",
+      "answer": "The lone-pair (n) orbital of the divalent tin atom in SnClDIPY is energetically close to the π orbital, which is considered to cause fluorescence quenching.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the energy difference between the HOMO and HOMO-1 orbitals in SnClDIPY compare to that in Sn+DIPY?",
+      "answer": "In SnClDIPY, the energy difference between the HOMO and HOMO-1 is only 0.44 eV, whereas in Sn+DIPY, the energy difference between the n orbital (HOMO-6) and the dipyrromethene π orbital (HOMO-2) is increased to 2.02 eV.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the reaction of SnClDIPY (2) with other metal triflates, such as Cu(OTf)2 and Zn(OTf)2, result in similar increases in fluorescence emission as with AgOTf?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to perform geometry optimizations for the model compounds described in the study?",
+      "answer": "Density functional theory using B3LYP functional was used for geometry optimizations.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Was the fluorescence quantum yield of SnClDIPY (2) lower than that of BODIPY?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of n-BuLi in the synthesis of SnClDIPY (2)?",
+      "answer": "n-BuLi was used to generate an in situ lithium dipyrrinato, which then reacted with SnCl2 to synthesize SnClDIPY (2).",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the fluorescence emission of [SnDIPY]OTf (4) reversible, and does this reversibility suggest potential applications as a molecular sensor?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

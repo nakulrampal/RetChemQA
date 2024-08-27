@@ -1,0 +1,184 @@
+{
+  "materials": [
+    {
+      "name": "CMOF-1",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "0.3 mL"
+          },
+          {
+            "name": "ethanol",
+            "amount": "15 μL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "L1-H2",
+            "amount": "2 mg",
+            "mmol": "0.0033 mmol"
+          },
+          {
+            "name": "Zn(NO3)2•6H2O",
+            "amount": "3 mg",
+            "mmol": "0.01 mmol"
+          }
+        ],
+        "time": "4 days",
+        "yield": "11%",
+        "solvent_content": {
+          "DMF": "40.4%",
+          "H2O": "0.9%"
+        },
+        "crystal_color_and_shape": "Brown cube",
+        "crystal_size": "0.30×0.30×0.30 mm"
+      }
+    },
+    {
+      "name": "CMOF-2",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "DEF",
+            "amount": "0.3 mL"
+          },
+          {
+            "name": "ethanol",
+            "amount": "30 μL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "L1-H2",
+            "amount": "2 mg",
+            "mmol": "0.0033 mmol"
+          },
+          {
+            "name": "Zn(NO3)2•6H2O",
+            "amount": "3 mg",
+            "mmol": "0.01 mmol"
+          }
+        ],
+        "time": "4 days",
+        "yield": "13%",
+        "solvent_content": {
+          "DEF": "52.3%",
+          "H2O": "1.7%"
+        },
+        "crystal_color_and_shape": "Brown cube",
+        "crystal_size": "0.29×0.23×0.19 mm"
+      }
+    },
+    {
+      "name": "CMOF-3",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "0.2 mL"
+          },
+          {
+            "name": "ethanol",
+            "amount": "10 μL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "L2-H2",
+            "amount": "1 mg",
+            "mmol": "0.0015 mmol"
+          },
+          {
+            "name": "Zn(NO3)2•6H2O",
+            "amount": "1 mg",
+            "mmol": "0.0034 mmol"
+          }
+        ],
+        "time": "4 days",
+        "yield": "27%",
+        "solvent_content": {
+          "DMF": "57.5%"
+        },
+        "crystal_color_and_shape": "Brown cube",
+        "crystal_size": "0.40×0.40×0.40 mm"
+      }
+    },
+    {
+      "name": "CMOF-4",
+      "synthesis_conditions": {
+        "temperature": "60 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "3 mL"
+          },
+          {
+            "name": "ethanol",
+            "amount": "2 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "L2-H2",
+            "amount": "10 mg",
+            "mmol": "0.015 mmol"
+          },
+          {
+            "name": "Zn(NO3)2•6H2O",
+            "amount": "10 mg",
+            "mmol": "0.034 mmol"
+          }
+        ],
+        "time": "12 days",
+        "yield": "54%",
+        "solvent_content": {
+          "DEF": "52.3%",
+          "EtOH": "14.9%",
+          "H2O": "0.9%"
+        },
+        "crystal_color_and_shape": "Brown cube",
+        "crystal_size": "0.40×0.40×0.40 mm"
+      }
+    },
+    {
+      "name": "CMOF-5",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "0.3 mL"
+          },
+          {
+            "name": "ethanol",
+            "amount": "0.1 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "L3-H2",
+            "amount": "1 mg",
+            "mmol": "0.0013 mmol"
+          },
+          {
+            "name": "Zn(NO3)2•6H2O",
+            "amount": "1 mg",
+            "mmol": "0.0034 mmol"
+          }
+        ],
+        "time": "4 days",
+        "yield": "35%",
+        "solvent_content": {
+          "DMF": "47.3%",
+          "EtOH": "8.7%"
+        },
+        "crystal_color_and_shape": "Brown cube",
+        "crystal_size": "0.60×0.60×0.60 mm"
+      }
+    }
+  ]
+}

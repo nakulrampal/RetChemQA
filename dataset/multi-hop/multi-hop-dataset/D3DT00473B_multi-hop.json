@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the adenine-based Zn-MOF discussed in the paper?",
+      "answer": "{[Zn3.5(AIPA)2(Ade)3(H2O)2]n",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the main applications of the Zn-MOF according to the study?",
+      "answer": "The Zn-MOF is used for the detection and treatment of toxic pollutants in aqueous media, specifically for detecting explosives and antibiotics, and for the treatment of antibiotics in water through adsorption and photocatalytic degradation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What synthesis method was used for the Zn-MOF, and what were the main reactants?",
+      "answer": "The hydrothermal method was used for the synthesis of Zn-MOF, with adenine (Ade), 5-aminoisophthalic acid (AIPA), and Zn(NO3)2·6H2O as the main reactants.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the Zn-MOF detect specific pollutants according to the study?",
+      "answer": "The Zn-MOF detects specific pollutants through a balance between competitive absorption of excitation energy, resonance energy transfer (RET), and photoinduced electron transfer (PET), along with intermolecular interactions between the pollutants and the MOF's functional groups.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role do the linkers play in the multifunctional behavior of the Zn-MOF?",
+      "answer": "The linkers, adenine and 5-aminoisophthalic acid, provide multiple coordination sites and free functional groups that enable the Zn-MOF to selectively detect and treat pollutants without the need for any postsynthetic modifications.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Zn-MOF was found to be chemically stable in different solvents and pH ranges.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the luminescent nature of the Zn-MOF in pollutant detection?",
+      "answer": "The luminescent nature of the Zn-MOF, with a strong fluorescence emission at 403 nm, is significant for the detection of pollutants as it allows for the identification of specific classes of explosives and antibiotics in an aqueous medium through fluorescence quenching mechanisms.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Zn-MOF's photocatalytic degradation capability was limited to only one type of antibiotic.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental techniques were used to confirm the phase purity and stability of the Zn-MOF?",
+      "answer": "Powder X-ray diffraction (PXRD) patterns were used to confirm the phase purity, and the chemical stability in different solvents and pH ranges was also confirmed by PXRD.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The Zn-MOF can be reused for multiple cycles of photocatalytic degradation without significant loss in efficiency.",
+      "answer": "True, but the percentage of degradation decreases in subsequent cycles, likely due to the adsorbate blocking the sites for effective degradation.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the Zn-MOF's structure contribute to its multifunctional behavior?",
+      "answer": "The Zn-MOF's structure, featuring adenine and 5-aminoisophthalic acid linkers, provides multiple coordination sites and free functional groups. This structural design enables selective detection and treatment of pollutants, highlighting the crucial role of the linkers in its multifunctional behavior.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What pollutants were specifically detected by the Zn-MOF in the study?",
+      "answer": "The Zn-MOF specifically detected nitrophenol explosives, tetracyclines, and nitrofurans among the explored pollutants.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The detection mechanism of Zn-MOF for pollutants is solely based on resonance energy transfer (RET).",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of competitive excitation energy absorption in the Zn-MOF's detection mechanism?",
+      "answer": "Competitive excitation energy absorption plays a role in the Zn-MOF's detection mechanism by allowing the MOF to absorb excitation light energy competitively with the pollutants, which, along with RET and PET, contributes to the selective detection of specific pollutants.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Zn-MOF's ability to treat antibiotics in water is limited to adsorption processes only.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the photocatalytic degradation capability of the Zn-MOF enhance its pollutant treatment efficiency?",
+      "answer": "The photocatalytic degradation capability of the Zn-MOF enhances its pollutant treatment efficiency by enabling the MOF to not only adsorb but also degrade antibiotics in water under visible light, offering a comprehensive approach to water treatment.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental evidence supports the Zn-MOF's selectivity towards specific pollutants?",
+      "answer": "Experimental evidence supporting the Zn-MOF's selectivity towards specific pollutants includes fluorescence quenching phenomena observed with nitrophenol explosives, tetracyclines, and nitrofurans, and the negligible effect of other common analytes on the MOF's emission intensity.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The Zn-MOF's detection and treatment capabilities are enhanced by postsynthetic modifications.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational studies were conducted to understand the Zn-MOF's detection mechanism?",
+      "answer": "Computational studies, including density functional theory (DFT) calculations, were conducted to understand the Zn-MOF's detection mechanism. These studies helped establish the role of photoinduced electron transfer (PET) and the energy transfer processes in the selective detection of pollutants.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The Zn-MOF's structure and functionality are significantly altered after multiple uses in pollutant treatment.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

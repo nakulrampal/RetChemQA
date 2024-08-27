@@ -1,0 +1,126 @@
+{
+  "materials": [
+    {
+      "name": "Λ-CMOF-5 and Δ-CMOF-5",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "NMP",
+            "amount": "4 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "1 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2∙6H2O",
+            "amount": "60 mg, 0.2 mmol"
+          },
+          {
+            "name": "H2BDC",
+            "amount": "33 mg, 0.2 mmol"
+          },
+          {
+            "name": "L-proline/D-proline",
+            "amount": "23 mg, 0.2 mmol"
+          }
+        ],
+        "time": "2 days",
+        "yield": "84% based on Zn",
+        "chemical_formula": "[Zn4O(C8H4O4)3](C5H9NO)9.5",
+        "elemental_analysis": {
+          "calculated": "C, 50.17; H, 5.74; N, 7.77",
+          "found": "C, 50.14; H, 5.39; N, 8.02"
+        }
+      }
+    },
+    {
+      "name": "[Zn(BDC)(NMP)]",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "NMP",
+            "amount": "4 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "1 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2∙6H2O",
+            "amount": "60 mg, 0.2 mmol"
+          },
+          {
+            "name": "H2BDC",
+            "amount": "33 mg, 0.2 mmol"
+          }
+        ],
+        "time": "2 days",
+        "chemical_formula": "[Zn(C8H4O4)(C5H9NO)]"
+      }
+    },
+    {
+      "name": "as-MOF-5",
+      "synthesis_conditions": {
+        "temperature": "135 °C",
+        "solvents": [
+          {
+            "name": "DEF",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2∙6H2O",
+            "amount": "60 mg, 0.2 mmol"
+          },
+          {
+            "name": "H2BDC",
+            "amount": "33 mg, 0.2 mmol"
+          }
+        ],
+        "time": "2 days"
+      }
+    },
+    {
+      "name": "Solvent exchange of CMOF-5",
+      "synthesis_conditions": {
+        "solvents": [
+          "2-propanol",
+          "hexane",
+          "tetrahydrofuran",
+          "acetone",
+          "methanol",
+          "acetonitrile",
+          "dimethylformamide",
+          "dichloromethane",
+          "ethyl acetate",
+          "ethanol",
+          "cyclohexane"
+        ],
+        "time": "24h"
+      }
+    },
+    {
+      "name": "Phase transformation of as-MOF-5",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "dichloromethane",
+            "time": "4h"
+          },
+          {
+            "name": "NMP",
+            "time": "6h"
+          }
+        ]
+      }
+    }
+  ]
+}

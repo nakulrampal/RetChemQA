@@ -1,0 +1,39 @@
+{
+  "materials": [
+    {
+      "name": "[Zn3L2(DMPU)2] (FIR-6)",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "48 h",
+        "solvents": "DMPU",
+        "chemicals_used": {
+          "H3L": "60 mg, 0.1 mmol",
+          "Zn(NO3)2·6H2O": "60 mg, 0.2 mmol"
+        },
+        "equipment": "20 ml vial",
+        "pressure": "autogenous pressure",
+        "washing_method": "washed with DMF several times",
+        "yield": "70% based on H3L",
+        "drying_method": "filtration"
+      }
+    },
+    {
+      "name": "[Zn3L2(DMPU)(bpp)]·10DMPU (FIR-7)",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "48 h",
+        "solvents": "DMPU",
+        "chemicals_used": {
+          "H3L": "60 mg, 0.1 mmol",
+          "bpp": "20 mg, 0.1 mmol",
+          "Zn(NO3)2·6H2O": "60 mg, 0.2 mmol"
+        },
+        "equipment": "20 ml vial",
+        "pressure": "autogenous pressure",
+        "washing_method": "washed with DMF several times",
+        "yield": "65% based on H3L",
+        "drying_method": "filtration"
+      }
+    }
+  ]
+}

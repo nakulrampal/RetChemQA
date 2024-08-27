@@ -1,0 +1,282 @@
+{
+  "materials": [
+    {
+      "material": "1.(EtOH)",
+      "temperature": "293(2) K",
+      "chemicals_used": [
+        "Co(bpy)1.5(NO3)2⋅(EtOH)"
+      ],
+      "solvents": [
+        "ethanol"
+      ],
+      "yield": "",
+      "crystal_system": "Orthorhombic",
+      "space_group": "Ccca",
+      "unit_cell_dimensions": {
+        "a": "12.220(4) Å",
+        "b": "19.151(7) Å",
+        "c": "17.460(6) Å",
+        "alpha": "90°",
+        "beta": "90°",
+        "gamma": "90°"
+      },
+      "volume": "4086(3) Å3",
+      "Z": "8",
+      "density_calculated": "1.506 Mg/m3",
+      "absorption_coefficient": "0.889 mm-1",
+      "F(000)": "1904",
+      "crystal_size": "0.48 x 0.37 x 0.28 mm3",
+      "theta_range": "2.13 to 28.01°",
+      "index_ranges": "-15<=h<=15, -24<=k<=24, -22<=l<=22",
+      "reflections_collected": "18470",
+      "independent_reflections": "2448 [R(int) = 0.0265]",
+      "completeness": "98.9 %",
+      "absorption_correction": "Empirical",
+      "max_min_transmission": "0.780 and 0.584",
+      "refinement_method": "Full-matrix least-squares on F2",
+      "data_restraints_parameters": "2448 / 7 / 143",
+      "goodness_of_fit_on_F2": "1.062",
+      "final_R_indices": "[I>2sigma(I)] R1 = 0.0444, wR2 = 0.1277",
+      "R_indices_all_data": "R1 = 0.0562, wR2 = 0.1391",
+      "largest_diff_peak_and_hole": "0.412 and -0.369 e.Å-3"
+    },
+    {
+      "material": "1",
+      "temperature": "375(2) K",
+      "chemicals_used": [
+        "Co(bpy)1.5(NO3)2"
+      ],
+      "solvents": [],
+      "yield": "",
+      "crystal_system": "Orthorhombic",
+      "space_group": "Ccca",
+      "unit_cell_dimensions": {
+        "a": "11.905(2) Å",
+        "b": "19.325(3) Å",
+        "c": "17.425(3) Å",
+        "alpha": "90°",
+        "beta": "90°",
+        "gamma": "90°"
+      },
+      "volume": "4009.1(12) Å3",
+      "Z": "8",
+      "density_calculated": "1.383 Mg/m3",
+      "absorption_coefficient": "0.895 mm-1",
+      "F(000)": "1696",
+      "crystal_size": "0.50 x 0.50 x 0.45 mm3",
+      "theta_range": "2.32 to 27.97°",
+      "index_ranges": "-15<=h<=15, -25<=k<=25, -22<=l<=22",
+      "reflections_collected": "15127",
+      "independent_reflections": "2363 [R(int) = 0.0315]",
+      "completeness": "97.5 %",
+      "absorption_correction": "Empirical",
+      "max_min_transmission": "0.421 and 0.668",
+      "refinement_method": "Full-matrix least-squares on F2",
+      "data_restraints_parameters": "2363 / 6 / 128",
+      "goodness_of_fit_on_F2": "1.046",
+      "final_R_indices": "[I>2sigma(I)] R1 = 0.0448, wR2 = 0.1212",
+      "R_indices_all_data": "R1 = 0.0521, wR2 = 0.1287",
+      "largest_diff_peak_and_hole": "0.468 and -0.346 e.Å-3"
+    },
+    {
+      "material": "1.(MeOH)",
+      "temperature": "300(2) K",
+      "chemicals_used": [
+        "Co(bpy)1.5(NO3)2⋅(MeOH)"
+      ],
+      "solvents": [
+        "methanol"
+      ],
+      "yield": "",
+      "crystal_system": "Orthorhombic",
+      "space_group": "Ccca",
+      "unit_cell_dimensions": {
+        "a": "12.0529(15) Å",
+        "b": "19.227(2) Å",
+        "c": "17.480(2) Å",
+        "alpha": "90°",
+        "beta": "90°",
+        "gamma": "90°"
+      },
+      "volume": "4050.7(9) Å3",
+      "Z": "8",
+      "density_calculated": "1.473 Mg/m3",
+      "absorption_coefficient": "0.895 mm-1",
+      "F(000)": "1840",
+      "crystal_size": "0.39 x 0.26 x 0.24 mm3",
+      "theta_range": "2.12 to 27.98°",
+      "index_ranges": "-15<=h<=15, -25<=k<=25, -21<=l<=21",
+      "reflections_collected": "12053",
+      "independent_reflections": "2335 [R(int) = 0.0214]",
+      "completeness": "95.3 %",
+      "absorption_correction": "Empirical",
+      "max_min_transmission": "0.807 and 0.624",
+      "refinement_method": "Full-matrix least-squares on F2",
+      "data_restraints_parameters": "2335 / 8 / 143",
+      "goodness_of_fit_on_F2": "1.053",
+      "final_R_indices": "[I>2sigma(I)] R1 = 0.0560, wR2 = 0.1526",
+      "R_indices_all_data": "R1 = 0.0752, wR2 = 0.1707",
+      "largest_diff_peak_and_hole": "0.595 and -0.411 e.Å-3"
+    },
+    {
+      "material": "1.(ACN)",
+      "temperature": "320(2) K",
+      "chemicals_used": [
+        "Co(bpy)1.5(NO3)2⋅(ACN)"
+      ],
+      "solvents": [
+        "acetonitrile"
+      ],
+      "yield": "",
+      "crystal_system": "Orthorhombic",
+      "space_group": "Ccca",
+      "unit_cell_dimensions": {
+        "a": "12.699(13) Å",
+        "b": "19.21(2) Å",
+        "c": "17.76(2) Å",
+        "alpha": "90°",
+        "beta": "90°",
+        "gamma": "90°"
+      },
+      "volume": "4333(9) Å3",
+      "Z": "8",
+      "density_calculated": "1.457 Mg/m3",
+      "absorption_coefficient": "0.841 mm-1",
+      "F(000)": "1952",
+      "crystal_size": "0.50 x 0.50 x 0.45 mm3",
+      "theta_range": "2.24 to 27.74°",
+      "index_ranges": "-16<=h<=16, -24<=k<=24, -23<=l<=23",
+      "reflections_collected": "12987",
+      "independent_reflections": "2350 [R(int) = 0.0524]",
+      "completeness": "91.7 %",
+      "absorption_correction": "Empirical",
+      "max_min_transmission": "0.685 and 0.359",
+      "refinement_method": "Full-matrix least-squares on F2",
+      "data_restraints_parameters": "2350 / 0 / 140",
+      "goodness_of_fit_on_F2": "1.093",
+      "final_R_indices": "[I>2sigma(I)] R1 = 0.0683, wR2 = 0.1709",
+      "R_indices_all_data": "R1 = 0.0943, wR2 = 0.1945",
+      "largest_diff_peak_and_hole": "0.645 and -0.541 e.Å-3"
+    },
+    {
+      "material": "1.(MeCN)",
+      "temperature": "300(2) K",
+      "chemicals_used": [
+        "Co(bpy)1.5(NO3)2⋅(MeCN)"
+      ],
+      "solvents": [
+        "acetonitrile"
+      ],
+      "yield": "",
+      "crystal_system": "Orthorhombic",
+      "space_group": "Ccca",
+      "unit_cell_dimensions": {
+        "a": "11.984(8) Å",
+        "b": "19.230(13) Å",
+        "c": "17.372(12) Å",
+        "alpha": "90°",
+        "beta": "90°",
+        "gamma": "90°"
+      },
+      "volume": "4003(5) Å3",
+      "Z": "8",
+      "density_calculated": "1.521 Mg/m3",
+      "absorption_coefficient": "0.905 mm-1",
+      "F(000)": "1872",
+      "crystal_size": "0.40 x 0.35 x 0.30 mm3",
+      "theta_range": "2.12 to 28.01°",
+      "index_ranges": "-15<=h<=15, -24<=k<=24, -22<=l<=22",
+      "reflections_collected": "15690",
+      "independent_reflections": "2384 [R(int) = 0.0176]",
+      "completeness": "98.4 %",
+      "absorption_correction": "Empirical",
+      "max_min_transmission": "0.762 and 0.525",
+      "refinement_method": "Full-matrix least-squares on F2",
+      "data_restraints_parameters": "2384 / 10 / 132",
+      "goodness_of_fit_on_F2": "1.104",
+      "final_R_indices": "[I>2sigma(I)] R1 = 0.0714, wR2 = 0.1899",
+      "R_indices_all_data": "R1 = 0.0841, wR2 = 0.1996",
+      "largest_diff_peak_and_hole": "0.557 and -0.702 e.Å-3"
+    },
+    {
+      "material": "1.(THF)",
+      "temperature": "310(2) K",
+      "chemicals_used": [
+        "Co(bpy)1.5(NO3)2⋅(THF)"
+      ],
+      "solvents": [
+        "tetrahydrofuran"
+      ],
+      "yield": "",
+      "crystal_system": "Orthorhombic",
+      "space_group": "Ccca",
+      "unit_cell_dimensions": {
+        "a": "13.116(5) Å",
+        "b": "19.085(7) Å",
+        "c": "17.934(7) Å",
+        "alpha": "90°",
+        "beta": "90°",
+        "gamma": "90°"
+      },
+      "volume": "4489(3) Å3",
+      "Z": "8",
+      "density_calculated": "1.448 Mg/m3",
+      "absorption_coefficient": "0.814 mm-1",
+      "F(000)": "2016",
+      "crystal_size": "0.53 x 0.31 x 0.30 mm3",
+      "theta_range": "2.13 to 28.02°",
+      "index_ranges": "-16<=h<=16, -25<=k<=25, -23<=l<=23",
+      "reflections_collected": "20360",
+      "independent_reflections": "2594 [R(int) = 0.0461]",
+      "completeness": "95.2 %",
+      "absorption_correction": "Empirical",
+      "max_min_transmission": "0.783 and 0.418",
+      "refinement_method": "Full-matrix least-squares on F2",
+      "data_restraints_parameters": "2594 / 4 / 132",
+      "goodness_of_fit_on_F2": "1.075",
+      "final_R_indices": "[I>2sigma(I)] R1 = 0.0944, wR2 = 0.2571",
+      "R_indices_all_data": "R1 = 0.1295, wR2 = 0.2962",
+      "largest_diff_peak_and_hole": "1.353 and -0.881 e.Å-3"
+    },
+    {
+      "material": "1.(DCM)",
+      "temperature": "305(2) K",
+      "chemicals_used": [
+        "Co(bpy)1.5(NO3)2⋅(DCM)"
+      ],
+      "solvents": [
+        "dichloromethane"
+      ],
+      "yield": "",
+      "crystal_system": "Monoclinic",
+      "space_group": "P2/n",
+      "unit_cell_dimensions": {
+        "a": "11.3720(16) Å",
+        "b": "17.486(3) Å",
+        "c": "11.3736(16) Å",
+        "alpha": "90°",
+        "beta": "114.319(2)°",
+        "gamma": "90°"
+      },
+      "volume": "2060.9(5) Å3",
+      "Z": "4",
+      "density_calculated": "1.618 Mg/m3",
+      "absorption_coefficient": "1.136 mm-1",
+      "F(000)": "1016",
+      "crystal_size": "0.48 x 0.38 x 0.25 mm3",
+      "theta_range": "1.16 to 28.01°",
+      "index_ranges": "-14<=h<=13, -22<=k<=22, -14<=l<=14",
+      "reflections_collected": "18284",
+      "independent_reflections": "4826 [R(int) = 0.0214]",
+      "completeness": "96.8 %",
+      "absorption_correction": "Empirical",
+      "max_min_transmission": "0.753 and 0.561",
+      "refinement_method": "Full-matrix least-squares on F2",
+      "data_restraints_parameters": "4826 / 6 / 275",
+      "goodness_of_fit_on_F2": "1.080",
+      "final_R_indices": "[I>2sigma(I)] R1 = 0.0455, wR2 = 0.1236",
+      "R_indices_all_data": "R1 = 0.0505, wR2 = 0.1290",
+      "largest_diff_peak_and_hole": "0.654 and -0.622 e.Å-3"
+    }
+  ]
+}

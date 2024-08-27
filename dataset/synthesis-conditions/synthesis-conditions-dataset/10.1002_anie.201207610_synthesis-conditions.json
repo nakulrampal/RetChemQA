@@ -1,0 +1,35 @@
+{
+  "materials": [
+    {
+      "name": "[Eu2L3(H2O)4]·3 DMF (1)",
+      "synthesis_conditions": {
+        "temperature": "80 8C",
+        "solvents": "DMF/H2O",
+        "solvent_ratio": "4:1 v/v",
+        "equipment": "sealed scintillation vial",
+        "chemicals_used": "Eu(NO3)3, H2L",
+        "time": "three days",
+        "yield": "high yield",
+        "washing_method": "soaking in distilled water for three days",
+        "drying_method": "not specified",
+        "additional_information": "The crystal structure of 1 is shown in Figure 1. Each Eu center adopts a bicapped trigonal-prismatic geometry with six oxygen donors from carboxylate groups and two from coordinated water molecules occupying the eight coordination sites. Adjacent pairs of Eu centers are quadruply bridged by carboxylates to form one-dimensional (1D) chains along the a-axis. Each 1D chain is linked to four adjacent chains through L ligands, extending the structure into a 3D framework with solvent channels along the a-axis, where DMF molecules are located."
+      }
+    },
+    {
+      "name": "water-exchanged framework 2",
+      "synthesis_conditions": {
+        "preparation_method": "soaking the crystals of 1 in distilled water for three days",
+        "drying_method": "not specified",
+        "additional_information": "The nC=O band of DMF at 1660 cm-1 was not longer evident in the FTIR spectrum of 2 and nitrogen was no longer detected in elemental analysis. Powder X-ray diffraction shows that 2 is crystalline."
+      }
+    },
+    {
+      "name": "3-H2O and 3-D2O",
+      "synthesis_conditions": {
+        "preparation_method": "soaking compound 1 in H2O and D2O, respectively, and subsequently drying under vacuum",
+        "drying_method": "under vacuum",
+        "additional_information": "The difference between 2 and 3 is that 2 is air dried while 3 is dried under vacuum which is necessary before it can be transferred into the glovebox. Keeping in mind the two water molecules per Eu center in the crystal structure of 2, the 0.5 coordinated water molecules per Eu found in 3-H2O/D2O sample is likely the direct consequence of the drying process."
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "materials": [
+    {
+      "name": "NOTT-300-solvate",
+      "synthesis_conditions": {
+        "temperature": "210 °C for 3 days",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "10.0 ml"
+          }
+        ],
+        "equipment": "23 ml autoclave",
+        "chemicals_used": [
+          {
+            "name": "H4L1",
+            "amount": "0.06 g, 0.182 mmol"
+          },
+          {
+            "name": "Al(NO3)3.9H2O",
+            "amount": "0.34 g, 0.906 mmol"
+          },
+          {
+            "name": "piperazine",
+            "amount": "0.10 g, 1.26 mmol"
+          },
+          {
+            "name": "HNO3",
+            "amount": "2.8 M, 2.0 ml"
+          }
+        ],
+        "yield": "0.095 g (75%)",
+        "washing_method": "washed with water",
+        "drying_method": "dried in air",
+        "time": "3 days",
+        "additional_information": "The slurry was transferred into the autoclave, sealed, and heated."
+      }
+    },
+    {
+      "name": "NOTT-300",
+      "synthesis_conditions": {
+        "drying_method": "heated to remove water molecules",
+        "additional_information": "Desolvated and activated material obtained from NOTT-300-solvate by heating."
+      }
+    },
+    {
+      "name": "NOTT-300.3.2CO2",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "CO2",
+            "loading": "1.592(12) CO2 per Al"
+          }
+        ],
+        "additional_information": "The occupancy of the first CO2 site was determined to be 0.865(9) and the second CO2 site 0.727(7), leading to a total refined CO2 stoichiometry of 1.592(12), in excellent agreement with the experimental value of 1.6 CO2 per Al."
+      }
+    },
+    {
+      "name": "NOTT-300.4SO2",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "SO2",
+            "loading": "1.98(2) molecules of SO2 per Al"
+          }
+        ],
+        "additional_information": "Two independent SO2 sites were found, each with half occupancy. The SO2 content was refined giving a stoichiometry of 1.98(2) molecules of SO2 per Al, slightly higher than the experimental value of 1.7 SO2 per Al."
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "materials": [
+    {
+      "material": "In(2,5-PDC)2(HTMDP)(EtOH)(H2O)2 (1)",
+      "synthesis_conditions": {
+        "chemicals_used": "2,5-H2PDC (14.5 mg, 0.087 mmol), In(NO3)3·2H2O (15.0 mg, 0.044 mmol), EtOH (1 mL), H2O (1 mL), TMDP (0.1 mL, 0.95 M in DMF), HNO3 (0.2 mL, 0.35 M in H2O)",
+        "temperature": "85 °C",
+        "time": "12 h",
+        "yield": "62%",
+        "drying_method": "air-dried",
+        "solvents": "EtOH, H2O, DMF",
+        "amount_of_each_solvent": {
+          "EtOH": "1 mL",
+          "H2O": "1 mL",
+          "DMF": "in TMDP 0.1 mL, 0.95 M; in HNO3 0.2 mL, 0.35 M"
+        },
+        "equipment": "vial"
+      }
+    },
+    {
+      "material": "In6(2,5-PDC)12(1,2-H2DACH)2(DMF)5(EtOH)5(H3O)2 (2)",
+      "synthesis_conditions": {
+        "chemicals_used": "2,5-H2PDC (14.5 mg, 0.087 mmol), In(NO3)3·2H2O (15.0 mg, 0.044 mmol), EtOH (1 mL), DMF (2 mL), 1,2-DACH (0.1 mL, 0.4 M in DMF), HNO3 (0.25 mL, 0.35 M in DMF)",
+        "temperature": "85 °C",
+        "time": "12 h",
+        "yield": "73%",
+        "drying_method": "air-dried",
+        "solvents": "EtOH, DMF",
+        "amount_of_each_solvent": {
+          "EtOH": "1 mL",
+          "DMF": "2 mL"
+        },
+        "equipment": "vial"
+      }
+    }
+  ]
+}

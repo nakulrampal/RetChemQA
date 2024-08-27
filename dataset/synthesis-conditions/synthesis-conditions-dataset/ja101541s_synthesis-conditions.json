@@ -1,0 +1,98 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "temperature": "160 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "5 mL"
+          }
+        ],
+        "equipment": "24 mL Teflon-lined autoclave",
+        "chemicals_used": [
+          {
+            "name": "Cd(NO3)2·4H2O",
+            "amount": "0.123 g, 0.4 mmol"
+          },
+          {
+            "name": "2-aminoterephthalic acid",
+            "amount": "0.054 g, 0.3 mmol"
+          },
+          {
+            "name": "4,4’-bipy",
+            "amount": "0.047 g, 0.3 mmol"
+          }
+        ],
+        "time": "72 h",
+        "yield": "Not specified",
+        "washing_method": "Ultrasonic and washed by DMF, acetone, ethanol, and distilled water",
+        "drying_method": "Not specified"
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "temperature": "105 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "Not specified"
+          }
+        ],
+        "equipment": "24 mL Teflon-lined autoclave",
+        "chemicals_used": [
+          {
+            "name": "Cd(NO3)2·4H2O",
+            "amount": "0.123 g, 0.4 mmol"
+          },
+          {
+            "name": "2-aminoterephthalic acid",
+            "amount": "0.054 g, 0.3 mmol"
+          },
+          {
+            "name": "4,4’-bipy",
+            "amount": "0.047 g, 0.3 mmol"
+          }
+        ],
+        "time": "24 h",
+        "yield": "~160 mg, 56.9%",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified"
+      }
+    },
+    {
+      "name": "3",
+      "synthesis_conditions": {
+        "temperature": "Not specified",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "18 mL"
+          }
+        ],
+        "equipment": "24 mL Teflon-lined autoclave",
+        "chemicals_used": [
+          {
+            "name": "Cd(NO3)2·4H2O",
+            "amount": "Not specified"
+          },
+          {
+            "name": "2-aminoterephthalic acid",
+            "amount": "Not specified"
+          },
+          {
+            "name": "4,4’-bipy",
+            "amount": "Not specified"
+          }
+        ],
+        "time": "5 h",
+        "yield": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "additional_information": "Do not shake the reactor or/and stir the reactants before starting the reaction."
+      }
+    }
+  ]
+}

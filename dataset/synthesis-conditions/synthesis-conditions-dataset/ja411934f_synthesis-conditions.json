@@ -1,0 +1,115 @@
+{
+  "materials": [
+    {
+      "name": "Sc2BDC3",
+      "synthesis_conditions": {
+        "temperature": "493 K",
+        "time": "48 hours",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "10 mL"
+          },
+          {
+            "name": "pyridine",
+            "amount": "0.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Sc(NO3)3·4H2O",
+            "amount": "0.34 g"
+          },
+          {
+            "name": "H2BDC",
+            "amount": "0.170 g"
+          },
+          {
+            "name": "H2O2 (30 wt% in H2O)",
+            "amount": "0.25 mL"
+          }
+        ],
+        "equipment": "Teflon-lined steel autoclave",
+        "washing_method": "Buchner filtration",
+        "drying_method": "dried in air"
+      }
+    },
+    {
+      "name": "Sc2(NO2-BDC)3",
+      "synthesis_conditions": {
+        "temperature": "463 K",
+        "time": "72 hours",
+        "solvents": [],
+        "chemicals_used": [
+          {
+            "name": "Sc(NO3)3·4H2O, NO2-BDC and water",
+            "molar_ratio": "1:1.5:600"
+          }
+        ],
+        "equipment": "Teflon-lined steel autoclave",
+        "washing_method": "Buchner filtration"
+      }
+    },
+    {
+      "name": "Sc2BDC3 (High-pressure single-crystal X-ray diffraction experiments)",
+      "synthesis_conditions": {
+        "equipment": "modified Merrill-Bassett diamond anvil cell (DAC) with 600 µm culet diamonds and a tungsten gasket",
+        "solvents": [
+          {
+            "name": "methanol (MeOH)",
+            "role": "hydrostatic medium"
+          },
+          {
+            "name": "Fluorinert (FC-77)",
+            "role": "hydrostatic medium"
+          }
+        ],
+        "pressure": [
+          {
+            "value": "0.14 GPa",
+            "medium": "Fluorinert FC-77"
+          },
+          {
+            "value": "0.40 GPa",
+            "medium": "Fluorinert FC-77",
+            "note": "amorphization observed"
+          },
+          {
+            "value": "0.3 to 3.0 GPa",
+            "medium": "methanol",
+            "note": "methanol molecules forced into the pores"
+          }
+        ],
+        "additional_information": "Raman spectroscopy performed to confirm amorphization and reversibility"
+      }
+    },
+    {
+      "name": "Sc2(NO2-BDC)3 (High-pressure single-crystal X-ray diffraction experiments)",
+      "synthesis_conditions": {
+        "equipment": "modified Merrill-Bassett diamond anvil cell (DAC) with 600 µm culet diamonds and a tungsten gasket",
+        "solvents": [
+          {
+            "name": "methanol (MeOH)",
+            "role": "hydrostatic medium"
+          },
+          {
+            "name": "Fluorinert (FC-77)",
+            "role": "hydrostatic medium"
+          }
+        ],
+        "pressure": [
+          {
+            "value": "0.3 to 2.6 GPa",
+            "medium": "Fluorinert FC-77",
+            "note": "phase transition observed at 0.8 GPa to Sc2(NO2-BDC)3-HP"
+          },
+          {
+            "value": "0.2 to 1.2 GPa",
+            "medium": "methanol",
+            "note": "data quality decreased substantially above 0.9 GPa"
+          }
+        ]
+      }
+    }
+  ]
+}

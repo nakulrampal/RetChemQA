@@ -1,0 +1,38 @@
+{
+  "materials": [
+    {
+      "material": "[Pb(adda)(DMF)]n",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "90°C",
+          "solvents": [
+            {
+              "name": "DMF/ethanol/H2O",
+              "amount": "6 mL",
+              "ratio": "3:2:1 (V/V/V)"
+            }
+          ],
+          "equipment": "25 mL Teflon-lined stainless-steel vessel",
+          "chemicals_used": [
+            {
+              "name": "PbCl2",
+              "amount": "0.15 mmol, 42 mg"
+            },
+            {
+              "name": "H2adda",
+              "amount": "0.15 mmol, 50 mg"
+            }
+          ],
+          "time": "48 h",
+          "yield": "73%",
+          "drying_method": "dried in air"
+        },
+        {
+          "step": "Preparation of polymer film",
+          "description": "The crystals of [Pb(adda)(DMF)]n were ground to microcrystals with a size less than 50 µm. 1 g crystallite of samples were added to polyacrylate (5 mL), and then the mixture was adequately blended by ultrasonication and bubbles were removed in the evacuated chamber. The flexible Pb-MOF film with a thickness of 200 µm was gained by knife coating the mixture on the polyethylene terephthalate (PET) substrate."
+        }
+      ]
+    }
+  ]
+}

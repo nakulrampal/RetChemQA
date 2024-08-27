@@ -1,0 +1,72 @@
+{
+  "materials": [
+    {
+      "name": "Zincobyric acid (Znby)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "aqueous",
+            "amount": "2.3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Hby",
+            "amount": "2 mg"
+          },
+          {
+            "name": "Zn(OAc)2",
+            "concentration": "0.5 mm",
+            "amount": "2.3 mL"
+          }
+        ],
+        "pH": "6",
+        "time": "80 min",
+        "yield": "83%"
+      }
+    },
+    {
+      "name": "Zincobalamin (Znbl)",
+      "synthesis_conditions": {
+        "temperature": "0 88C",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "1.9 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Znby",
+            "amount": "5 mg"
+          },
+          {
+            "name": "B12-nucleotide moiety",
+            "amount": "3.3 meq"
+          },
+          {
+            "name": "HOBt",
+            "amount": "20 meq"
+          },
+          {
+            "name": "EDC*HCl",
+            "amount": "23 meq"
+          }
+        ],
+        "time": "4 h",
+        "yield": "75%",
+        "additional_steps": [
+          {
+            "step_description": "chromatography and crystallization",
+            "solvents": [
+              {
+                "name": "aqueous acetonitrile"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

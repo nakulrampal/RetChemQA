@@ -1,0 +1,31 @@
+{
+  "materials": [
+    {
+      "name": "Colorless block crystals of [Zn(bdc)(3-F-spy)] (1)",
+      "synthesis_conditions": {
+        "temperature": "145 ˚C",
+        "solvents": "DMF–H2O mixed solvents",
+        "time": "12 h",
+        "chemicals_used": [
+          "ZnSO4·7 H2O",
+          "H2bdc",
+          "3-F-spy"
+        ],
+        "equipment": "solvothermal reaction setup"
+      }
+    },
+    {
+      "name": "1-PVA composite membrane",
+      "synthesis_conditions": {
+        "description": "The composite membrane was formed by combining 1 and PVA, exploiting hydrogen-bonding interactions between the OH groups of PVA and the F atoms of 3-F-spy ligands in 1.",
+        "thickness": "ca. 3 mm",
+        "characterization_methods": [
+          "SEM",
+          "PXRD",
+          "IR"
+        ],
+        "additional_information": "The SEM image with EDX of 1-PVA composite membrane indicated the formation of a homogeneous composite membrane. The PXRD patterns of the 1-PVA membrane matched the combined patterns of PVA and 1. In the IR of 1-PVA, the O@H stretching vibration was shifted to the lower wavenumber at 3250 cm@1 compared with that of pure PVA (3404 cm@1), suggesting the formation of stronger O@H···F bonding interactions between the OH groups of PVA and the F atoms of 3-F-spy ligands in 1."
+      }
+    }
+  ]
+}

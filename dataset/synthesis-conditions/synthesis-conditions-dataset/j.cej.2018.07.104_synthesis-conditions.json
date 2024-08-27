@@ -1,0 +1,77 @@
+{
+  "materials": [
+    {
+      "name": "TIFSIX-2-Ni-i",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "4.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "4,4'-dipyridylacetylene",
+            "amount": "0.286 mmol"
+          },
+          {
+            "name": "Ni(BF4)2·xH2O",
+            "amount": "0.26 mmol"
+          },
+          {
+            "name": "(NH4)2TiF6",
+            "amount": "0.26 mmol"
+          }
+        ],
+        "yield": "67.8%",
+        "time": "4 h",
+        "temperature": "room temperature",
+        "method": "A methanol solution of 4,4'-dipyridylacetylene and a methanol solution of Ni(BF4)2·xH2O and (NH4)2TiF6 were mixed at room temperature, then the mixtures were settled for 4 h. The obtained sample was exchanged with methanol for 1 day."
+      },
+      "characterization": {
+        "PXRD": {
+          "equipment": "SHIMADZU XRD-6000 diffractometer",
+          "details": "Cu Kα λ = 1.540598 Ǻ, operating power of 40 KV, 30mA, scan speed of 4.0°/min, range of 2θ from 5° to 60°."
+        },
+        "single_crystal_XRD": {
+          "equipment": "Bruker APEX-II CCD diffractometer",
+          "details": "Mo Kα radiation (λ = 0.71073 Ǻ) at 123K."
+        },
+        "SEM": {
+          "equipment": "SU 8000",
+          "details": "acceleration voltage of 3 kV, magnification of 15000, working distance of 7400 um, emission current of 13700 nA."
+        },
+        "gas_adsorption_measurements": {
+          "equipment": "Micromeritics ASAP 2020",
+          "details": "Sample was evacuated at room temperature for 1-2 days until the pressure dropped below 7μm Hg. Sorption isotherms were collected at 273~313 K on activated samples."
+        },
+        "stability_measurements": {
+          "TGA": {
+            "equipment": "TGA Q500 V20.13 Build 39",
+            "details": "Under nitrogen atmosphere, flow rate of 60 mL/min nitrogen gas or air, temperature range of 50°C to 650°C with a ramp of 20°C /min."
+          },
+          "VTPXRD": {
+            "equipment": "Empyrean X-ray diffractometer",
+            "details": "CuKα radiation (1.5406 Å), continuous scan from 5 to 60° with a minimum step size of 0.01° at different temperatures."
+          },
+          "accelerated_stability_measurements": {
+            "details": "Exposed to air with a temperature of 20°C to 25°C and a humidity of 65–75% for several days. Characterized by PXRD and surface area measurements."
+          }
+        },
+        "calculation_of_isosteric_heat_of_adsorption": {
+          "details": "Using a virial-type expression and dual-site Langmuir-Freundlich equation for fitting the single-component C2H2 and C2H4 adsorption isotherm data."
+        },
+        "IAST_calculations_of_adsorption_selectivity": {
+          "details": "Dual-site Langmuir-Freundlich equation used for fitting the single-component C2H2 and C2H4 adsorption isotherm data. Selectivity calculated by IAST."
+        },
+        "DFT-D_calculations": {
+          "details": "Performed using the Quantum-Espresso package. A semi-empirical addition of dispersive forces to conventional DFT-D was included to account for van der Waals interactions."
+        },
+        "column_breakthrough_experiments_for_C2H2_C2H4_gas_mixture": {
+          "equipment": "Dynamic gas breakthrough equipment",
+          "details": "Stainless-steel column (4.6 mm inner diameter × 50 mm), weight of TIFSIX-2-Ni-i powder was 0.303 g, activated with He flow (15 mL/min) for 12 h at room temperature (25 °C). Mixed gas (C2H2/C2H4: 1/99, v/v) flow introduced at 1.25 mL/min. Outlet gas monitored using gas chromatography (GC-8A, SHIMADZU) with a flame ionization detector (FID)."
+        }
+      }
+    }
+  ]
+}

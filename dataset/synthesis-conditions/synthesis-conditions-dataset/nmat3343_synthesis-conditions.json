@@ -1,0 +1,85 @@
+{
+  "NOTT-202": {
+    "temperature": "90 °C",
+    "solvents": "DMF/CH3CN",
+    "amount_of_each_solvent": "3.0 ml (2:1 v/v)",
+    "chemicals_used": [
+      {
+        "name": "H4L",
+        "amount": "0.030 g",
+        "mmol": "0.047 mmol"
+      },
+      {
+        "name": "In(NO3)3",
+        "amount": "0.014 g",
+        "mmol": "0.047 mmol"
+      },
+      {
+        "name": "HNO3",
+        "description": "two drops of 6 M solution"
+      }
+    ],
+    "yield": "0.05 g (70%)",
+    "washing_method": "washed with DMF",
+    "drying_method": "dried in air",
+    "crystal_data": {
+      "color": "colourless",
+      "shape": "tabular",
+      "size": "0.10 x 0.05 x 0.04 mm",
+      "space_group": "F 222",
+      "a": "16.512(7) Å",
+      "b": "25.952(11) Å",
+      "c": "30.569(12) Å",
+      "V": "13,100(9) Å^3",
+      "M": "2,442.42",
+      "T": "120(2) K",
+      "Z": "4",
+      "Dcalc": "1.238 g cm^-3",
+      "mu": "0.386 mm^-1",
+      "F(000)": "5,134",
+      "R1": "0.0776",
+      "wR2": "0.193",
+      "GOF": "0.99",
+      "difference_map_extrema": "0.75 and -1.39 e Å^-3"
+    }
+  },
+  "NOTT-202a": {
+    "desolvation_temperature": "100 °C",
+    "vacuum_pressure": "10^-7 mm Hg",
+    "duration": "1 day",
+    "BET_surface_area": "2,220 m^2 g^-1",
+    "total_micropore_volume": "0.953 cm^3 g^-1",
+    "H2_adsorption_capacity": {
+      "77 K": {
+        "1.0 bar": "1.52 wt%",
+        "20 bar": "4.35 wt%"
+      }
+    },
+    "CO2_adsorption_capacity": "20 mmol g^-1 at 195 K and 1.0 bar",
+    "selectivity_data": {
+      "195 K": {
+        "CO2/CH4": "23.7:1 (adsorption), 102:1 (desorption)",
+        "CO2/N2": "285:1 (adsorption), 1,220:1 (desorption)",
+        "CO2/O2": "145:1 (adsorption), 622:1 (desorption)",
+        "CO2/Ar": "138:4 (adsorption), 592:14 (desorption)"
+      },
+      "273 K": {
+        "CO2/CH4": "2.92:1",
+        "CO2/N2": "26.7:1",
+        "CO2/O2": "27.3:1",
+        "CO2/Ar": "22.6:1"
+      },
+      "293 K": {
+        "CO2/CH4": "1.41:1",
+        "CO2/N2": "4.25:1",
+        "CO2/O2": "3.00:1",
+        "CO2/Ar": "6.51:1"
+      }
+    }
+  },
+  "NOTT-214": {
+    "temperature": "High-temperature synthesis",
+    "yield": "Below ~5%",
+    "description": "A new phase isolated from the high-temperature synthesis of NOTT-202, showing the same topology as NOTT-202 but is fourfold interpenetrated with a significantly reduced porosity."
+  }
+}

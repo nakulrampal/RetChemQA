@@ -1,0 +1,69 @@
+{
+  "materials": [
+    {
+      "material": "1",
+      "synthesis": [
+        {
+          "step": "Preparation of material",
+          "details": {
+            "chemicals_used": "2-methylpyrazine vapor (0.58 g, 6.2 mmol), copper(II) acetate monohydrate (0.30 g, 1.5 mmol), 4-fluorobenzene (2.23 g, 15.9 mmol)",
+            "solvents": "methanol (200 mL)",
+            "yield": "38% (443 mg)",
+            "crystal_size": "100-500 µm",
+            "drying_method": "vacuum-dry",
+            "drying_temperature": "298 K"
+          }
+        },
+        {
+          "step": "Preparation of single-crystal membrane",
+          "details": {
+            "equipment": "aluminum sheet, epoxy resin",
+            "crystal_surface_area": [
+              "2.4 × 10-2 mm2 for (100)",
+              "8 × 10-3 mm2 for (010)",
+              "8 × 10-3 mm2 for (110)"
+            ],
+            "crystal_thickness": [
+              "0.15 mm along [100]",
+              "0.08 mm for [010]",
+              "0.08 mm for [110]"
+            ]
+          }
+        },
+        {
+          "step": "X-ray structural analysis",
+          "details": {
+            "equipment": "Bruker Smart APEX CCD area diffractometer",
+            "temperature": "90 K",
+            "radiation": "graphite-monochromated Mo Kα radiation (λ= 0.71073 Å)",
+            "absorption_corrections": "Empirical absorption corrections using the SADABS program",
+            "analysis_method": [
+              "direct methods (SHELXS-97)",
+              "full-matrix least-squares calculations on F2 (SHELXL-97) using the SHELX-TL program package"
+            ],
+            "hydrogen_atoms": "fixed at calculated positions by riding model approximation"
+          }
+        },
+        {
+          "step": "Gas adsorption measurement",
+          "details": {
+            "equipment": "Belsorp-HP Measurement System (BEL JAPAN, Inc.)",
+            "temperature": "293 K",
+            "drying_temperature": "353 K for 2 hours",
+            "adsorbate_gases": "H2, N2, Ar, O2, CO, CH4, CO2"
+          }
+        },
+        {
+          "step": "Gas permeation measurement",
+          "details": {
+            "equipment": "GTR-20XAYU Analyzer (GTR Tech Corporation)",
+            "method": "differential pressure method",
+            "temperature": "293 K",
+            "differential_pressure": "150 kPa",
+            "monitoring_method": "gas chromatography with a thermal conductivity detector (TCD) on a GC-2014 Gas Chromatograph (Shimadzu Corporation)"
+          }
+        }
+      ]
+    }
+  ]
+}

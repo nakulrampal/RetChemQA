@@ -1,0 +1,230 @@
+{
+  "materials": [
+    {
+      "material_name": "1P",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "5 ml"
+          },
+          {
+            "name": "methanol",
+            "amount": "10 ml"
+          },
+          {
+            "name": "ethanol",
+            "amount": "for dissolving L and (-)-cam"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ZnSO4.7H2O",
+            "amount": "140 mg, 0.5 mmol"
+          },
+          {
+            "name": "L",
+            "amount": "105 mg, 0.5 mmol"
+          },
+          {
+            "name": "(-)-camphoric acid",
+            "amount": "100 mg, 0.5 mmol"
+          }
+        ],
+        "yield": "Approximately 74%",
+        "time": "1 week",
+        "drying_method": "Air drying",
+        "washing_method": "Not specified",
+        "equipment": "Not specified"
+      }
+    },
+    {
+      "material_name": "1M",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "5 ml"
+          },
+          {
+            "name": "methanol",
+            "amount": "10 ml"
+          },
+          {
+            "name": "ethanol",
+            "amount": "for dissolving L and (+)-cam"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ZnSO4.7H2O",
+            "amount": "140 mg, 0.5 mmol"
+          },
+          {
+            "name": "L",
+            "amount": "105 mg, 0.5 mmol"
+          },
+          {
+            "name": "(+)-camphoric acid",
+            "amount": "100 mg, 0.5 mmol"
+          }
+        ],
+        "yield": "Approximately 72%",
+        "time": "1 week",
+        "drying_method": "Air drying",
+        "washing_method": "Not specified",
+        "equipment": "Not specified"
+      }
+    },
+    {
+      "material_name": "2P",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "5 ml"
+          },
+          {
+            "name": "methanol",
+            "amount": "10 ml"
+          },
+          {
+            "name": "ethanol",
+            "amount": "for dissolving L and (-)-cam"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CoSO4.7H2O",
+            "amount": "140 mg, 0.5 mmol"
+          },
+          {
+            "name": "L",
+            "amount": "105 mg, 0.5 mmol"
+          },
+          {
+            "name": "(-)-camphoric acid",
+            "amount": "100 mg, 0.5 mmol"
+          }
+        ],
+        "yield": "Approximately 75%",
+        "time": "1 week",
+        "drying_method": "Air drying",
+        "washing_method": "Not specified",
+        "equipment": "Not specified"
+      }
+    },
+    {
+      "material_name": "2M",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "5 ml"
+          },
+          {
+            "name": "methanol",
+            "amount": "10 ml"
+          },
+          {
+            "name": "ethanol",
+            "amount": "for dissolving L and (+)-cam"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CoSO4.7H2O",
+            "amount": "140 mg, 0.5 mmol"
+          },
+          {
+            "name": "L",
+            "amount": "105 mg, 0.5 mmol"
+          },
+          {
+            "name": "(+)-camphoric acid",
+            "amount": "100 mg, 0.5 mmol"
+          }
+        ],
+        "yield": "Approximately 75%",
+        "time": "1 week",
+        "drying_method": "Air drying",
+        "washing_method": "Not specified",
+        "equipment": "Not specified"
+      }
+    },
+    {
+      "material_name": "Conglomerate 1",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "5 ml"
+          },
+          {
+            "name": "methanol",
+            "amount": "10 ml"
+          },
+          {
+            "name": "ethanol",
+            "amount": "for dissolving L"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ZnSO4.7H2O",
+            "amount": "140 mg, 0.5 mmol"
+          },
+          {
+            "name": "L",
+            "amount": "105 mg, 0.5 mmol"
+          }
+        ],
+        "yield": "Approximately 68%",
+        "time": "1 week",
+        "drying_method": "Air drying",
+        "washing_method": "Not specified",
+        "equipment": "Not specified"
+      }
+    },
+    {
+      "material_name": "Conglomerate 2",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "5 ml"
+          },
+          {
+            "name": "methanol",
+            "amount": "10 ml"
+          },
+          {
+            "name": "ethanol",
+            "amount": "for dissolving L"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CoSO4.7H2O",
+            "amount": "140 mg, 0.5 mmol"
+          },
+          {
+            "name": "L",
+            "amount": "105 mg, 0.5 mmol"
+          }
+        ],
+        "yield": "Approximately 70%",
+        "time": "1 week",
+        "drying_method": "Air drying",
+        "washing_method": "Not specified",
+        "equipment": "Not specified"
+      }
+    }
+  ]
+}

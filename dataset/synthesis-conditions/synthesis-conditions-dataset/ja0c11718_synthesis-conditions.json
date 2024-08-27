@@ -1,0 +1,145 @@
+{
+  "materials": [
+    {
+      "name": "N,N′-1,4-butylenebis(acetamide) (bba)",
+      "synthesis_conditions": {
+        "temperature": "180 °C",
+        "solvents": [
+          {
+            "name": "acetonitrile (MeCN)",
+            "amount": "1.6 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "1.1 mL"
+          }
+        ],
+        "equipment": "Teflon autoclave",
+        "chemicals_used": [
+          {
+            "name": "CuO",
+            "amount": "495 mg"
+          },
+          {
+            "name": "1,4-diaminobutane",
+            "amount": "1.0 mL"
+          }
+        ],
+        "time": "at least 3 h",
+        "drying_method": "sublimation (50–60 °C, high vacuum, 2–4 h)",
+        "yield": "60%",
+        "washing_method": "thoroughly washed with chloroform",
+        "additional_steps": [
+          "passed through a thin layer of silica",
+          "solvent removed under reduced pressure"
+        ]
+      }
+    },
+    {
+      "name": "Co(hmba)3[Co(NCS)4]",
+      "synthesis_conditions": {
+        "temperature": "ambient to warm",
+        "solvents": [
+          {
+            "name": "ethanol (EtOH)",
+            "amount": "2 mL"
+          },
+          {
+            "name": "ethyl acetate (EtOAc)",
+            "amount": "10 mL"
+          },
+          {
+            "name": "nitromethane",
+            "amount": "12 mL"
+          }
+        ],
+        "equipment": "20-mL scintillation vial, 100-mL round-bottom flask",
+        "chemicals_used": [
+          {
+            "name": "Co(NCS)2",
+            "amount": "58.3 mg"
+          },
+          {
+            "name": "N,N′-1,6-hexamethlyenebis(acetamide) (hmba)",
+            "amount": "200.3 mg"
+          },
+          {
+            "name": "2,2-dimethoxypropane (DMP)",
+            "amount": "1 mL"
+          }
+        ],
+        "time": "2–4 days",
+        "drying_method": "dried and stored in fresh Et2O",
+        "washing_method": "thoroughly washed with diethyl ether (Et2O)"
+      }
+    },
+    {
+      "name": "Mn(hmba)3[MnCl4]",
+      "synthesis_conditions": {
+        "temperature": "ambient to warm",
+        "solvents": [
+          {
+            "name": "methanol (MeOH)",
+            "amount": "2 mL"
+          },
+          {
+            "name": "ethanol (EtOH)",
+            "amount": "1 mL"
+          },
+          {
+            "name": "ethyl acetate (EtOAc)",
+            "amount": "13.5 mL"
+          },
+          {
+            "name": "nitromethane",
+            "amount": "12 mL"
+          }
+        ],
+        "equipment": "20-mL scintillation vial, 100-mL round-bottom flask",
+        "chemicals_used": [
+          {
+            "name": "MnBr2·4H2O",
+            "amount": "143.4 mg"
+          },
+          {
+            "name": "N,N′-1,6-hexamethlyenebis(acetamide) (hmba)",
+            "amount": "300.4 mg"
+          }
+        ],
+        "time": "1–2 h",
+        "drying_method": "dried and sealed under a N2 atmosphere",
+        "washing_method": "filtered, washed thoroughly with Et2O"
+      }
+    },
+    {
+      "name": "Mn(bba)3[MnCl4]",
+      "synthesis_conditions": {
+        "temperature": "60 °C",
+        "solvents": [
+          {
+            "name": "methanol (MeOH)",
+            "amount": "1 mL"
+          },
+          {
+            "name": "acetonitrile (MeCN)",
+            "amount": "6 mL"
+          }
+        ],
+        "equipment": "20-mL scintillation vial",
+        "chemicals_used": [
+          {
+            "name": "MnCl2",
+            "amount": "25.1 mg"
+          },
+          {
+            "name": "N,N′-1,4-butylenebis(acetamide) (bba)",
+            "amount": "103.3 mg"
+          }
+        ],
+        "time": "overnight",
+        "drying_method": "dried under flowing N2",
+        "washing_method": "washed thoroughly with Et2O"
+      }
+    }
+  ]
+}

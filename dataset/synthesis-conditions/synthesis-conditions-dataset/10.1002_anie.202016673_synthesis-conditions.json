@@ -1,0 +1,82 @@
+{
+  "materials": [
+    {
+      "name": "PCP-ipa",
+      "synthesis_conditions": {
+        "solvents": "mixed DMF/MeOH solutions",
+        "chemicals_used": [
+          "Co(NO3)2·6 H2O",
+          "dpg",
+          "ipa (isophthalic acid)"
+        ],
+        "equipment": "solvothermal reaction",
+        "crystal_structure": {
+          "space_group": "orthorhombic Amm2"
+        },
+        "pore_size": "4.4 - 4.8 Å2",
+        "thermal_stability": "up to ca. 280 °C"
+      }
+    },
+    {
+      "name": "PCP-bdc",
+      "synthesis_conditions": {
+        "solvents": "mixed DMF/MeOH solutions",
+        "chemicals_used": [
+          "Co(NO3)2·6 H2O",
+          "dpg",
+          "bdc (terephthalic acid)"
+        ],
+        "equipment": "solvothermal reaction",
+        "crystal_structure": {
+          "space_group": "triclinic P1¯"
+        },
+        "pore_size": "4.4 - 5.3 Å2",
+        "thermal_stability": "up to ca. 280 °C"
+      }
+    },
+    {
+      "name": "PCP-NH2-bdc",
+      "synthesis_conditions": {
+        "solvents": "mixed DMF/MeOH solutions",
+        "chemicals_used": [
+          "Co(NO3)2·6 H2O",
+          "dpg",
+          "NH2-bdc (2-aminoterephthalic acid)"
+        ],
+        "equipment": "solvothermal reaction",
+        "crystal_structure": {
+          "space_group": "not specified",
+          "additional_info": "isostructural variants of PCP-bdc"
+        },
+        "pore_size": "4.4 - 5.3 Å2",
+        "thermal_stability": "up to ca. 280 °C",
+        "CO2_uptake_at_195K": "ca. 101 mL g-1",
+        "C2H2_uptake_at_195K": "ca. 65 mL g-1",
+        "CO2_uptake_at_298K": "ca. 68 mL g-1 (3.03 mmol g-1)",
+        "CO2_C2H2_uptake_ratio_at_298K": "1.59"
+      }
+    },
+    {
+      "name": "PCP-NH2-ipa",
+      "synthesis_conditions": {
+        "solvents": "mixed DMF/MeOH solutions",
+        "chemicals_used": [
+          "Co(NO3)2·6 H2O",
+          "dpg",
+          "NH2-ipa (5-aminoisophthalic acid)"
+        ],
+        "equipment": "solvothermal reaction",
+        "crystal_structure": {
+          "space_group": "not specified",
+          "additional_info": "isostructural variants of PCP-ipa"
+        },
+        "pore_size": "4.4 - 4.8 Å2",
+        "thermal_stability": "up to ca. 280 °C",
+        "CO2_uptake_at_195K": "ca. 99 mL g-1",
+        "C2H2_uptake_at_195K": "ca. 74 mL g-1",
+        "CO2_uptake_at_298K": "ca. 72 mL g-1 (3.21 mmol g-1)",
+        "CO2_C2H2_uptake_ratio_at_298K": "1.66"
+      }
+    }
+  ]
+}

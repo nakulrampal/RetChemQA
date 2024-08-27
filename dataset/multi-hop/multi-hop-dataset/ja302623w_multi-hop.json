@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula and formula weight of NU-111 as reported in the X-ray crystallography analysis?",
+      "answer": "The empirical formula of NU-111 is C28H8Cu2O10 and the formula weight is 631.42.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Based on the synthesis conditions, what temperature and solvents are used for the solvothermal reactions to produce NU-111?",
+      "answer": "The solvothermal reactions for producing NU-111 are carried out at 80 °C using DMF/EtOH/HCl as solvents.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield percentage of NU-111 after 48 hours of synthesis under specified conditions?",
+      "answer": "The yield percentage of NU-111 after 48 hours of synthesis is 75%.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How is the phase purity of NU-111 established, and what analysis technique is used?",
+      "answer": "The phase purity of NU-111 is established via powder X-ray diffraction (PXRD) measurements, comparing the simulated PXRD pattern with the experimental one.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the experimental BET surface area of NU-111, and how does it compare to the computationally simulated isotherm?",
+      "answer": "The experimental BET surface area of NU-111 is 5000 ± 80 m²/g, which is in excellent agreement with the computationally simulated isotherm of 4915 m²/g.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What modifications are made to the commercial Sieverts system for high-pressure hydrogen adsorption measurements of NU-111?",
+      "answer": "Modifications include adding a manifold for hydrogen or helium introduction, supplementing the temperature-control system to include the sample support arm and chamber assembly, and ensuring temperature stability for accurate measurements.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of supercritical CO2 drying in the activation process of NU-111, and what are the conditions?",
+      "answer": "Supercritical CO2 drying is used to remove guest solvent molecules without collapsing the porous structure of NU-111, performed at 40 ºC after ethanol exchange.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of NU-111 involves a solvothermal reaction with Cu(NO3)2.2.5H2O and LH6(3) in DMF/EtOH/HCl at 120 °C.",
+      "answer": "False. The synthesis of NU-111 involves a solvothermal reaction at 80 °C, not 120 °C.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The experimental BET surface area of NU-111 is significantly lower than the computationally simulated isotherm.",
+      "answer": "False. The experimental BET surface area of NU-111 is in excellent agreement with the computationally simulated isotherm.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The phase purity of NU-111 is confirmed using NMR spectroscopy.",
+      "answer": "False. The phase purity of NU-111 is established via powder X-ray diffraction (PXRD) measurements.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of using Feynman-Hibbs corrections in the molecular simulations of hydrogen adsorption in NU-111?",
+      "answer": "Feynman-Hibbs corrections are significant for accounting for quantum diffraction effects in hydrogen adsorption simulations at low temperatures, such as 77 K, ensuring more accurate simulation results.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the experimental pore size distribution of NU-111, calculated from Ar adsorption experiments, compare with geometric calculations based on the crystal structure?",
+      "answer": "The experimental pore size distribution of NU-111, calculated from Ar adsorption experiments, shows peaks at 14, 17, 19, and 24 Å, which is in excellent agreement with a geometric calculation based on the crystal structure.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of NU-111 does not require any post-synthesis activation steps.",
+      "answer": "False. The synthesis of NU-111 is followed by activation steps, including supercritical CO2 drying.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the Feynman-Hibbs potential in the molecular simulations of NU-111 for hydrogen adsorption?",
+      "answer": "The Feynman-Hibbs potential is used to incorporate quantum diffraction effects in the molecular simulations of hydrogen adsorption in NU-111 at low temperatures, improving the accuracy of the simulations.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The experimental BET surface area of NU-111 is determined solely based on nitrogen adsorption isotherms at room temperature.",
+      "answer": "False. The experimental BET surface area of NU-111 is determined based on nitrogen adsorption isotherms at 77 K.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

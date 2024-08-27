@@ -1,0 +1,76 @@
+{
+  "materials": [
+    {
+      "name": "1,4-benzenedi(4′-pyrazolyl) (H2BDP)",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "7.0 mL + 10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "phosphorus oxychloride",
+            "amount": "7.0 mL"
+          },
+          {
+            "name": "p-phenylenediacetic acid",
+            "amount": "2.0 g"
+          },
+          {
+            "name": "NaClO4",
+            "amount": "9.5 g"
+          },
+          {
+            "name": "NaOH",
+            "amount": "0.01 M, 50 mL"
+          },
+          {
+            "name": "HCl",
+            "amount": "1.2 M"
+          },
+          {
+            "name": "hydrazine monohydrate",
+            "amount": "4.0 mL"
+          }
+        ],
+        "time": "18 h",
+        "yield": "0.90 g (45%)"
+      }
+    },
+    {
+      "name": "Co(BDP)·2DEF·H2O",
+      "synthesis_conditions": {
+        "temperature": "130 °C",
+        "solvents": [
+          {
+            "name": "N,N′-diethylformamide (DEF)",
+            "amount": "2.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Co(CF3SO3)2",
+            "amount": "120 mg"
+          },
+          {
+            "name": "H2BDP",
+            "amount": "60 mg"
+          }
+        ],
+        "time": "6 days",
+        "yield": "0.13 g (95%)"
+      }
+    },
+    {
+      "name": "1d",
+      "synthesis_conditions": {
+        "drying_method": "evacuated by heating at 170 °C under dynamic vacuum",
+        "time": "2 days",
+        "additional_information": "Desolvation of Co(BDP)·2DEF·H2O to form Co(BDP)"
+      }
+    }
+  ]
+}

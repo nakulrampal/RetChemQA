@@ -1,0 +1,76 @@
+{
+  "materials": [
+    {
+      "name": "[Zn(4-Fb)2(tkpvb)]n (1)",
+      "synthesis_conditions": {
+        "method": "Solvothermal reaction",
+        "temperature": "Not specified",
+        "solvents": "DMF/H2O mixture",
+        "chemicals_used": [
+          "Zn(NO3)2·6 H2O",
+          "1,2,4,5-tetrakis(4-pyridylvinyl)benzene (tkpvb)",
+          "4-fluorobenzoic acid (4-HFb)"
+        ],
+        "time": "Not specified",
+        "yield": "Not specified",
+        "washing_method": "Standard workup",
+        "drying_method": "Not specified",
+        "equipment": "Not specified",
+        "amount_of_each_solvent": "Not specified"
+      }
+    },
+    {
+      "name": "[Znn(4-Fb)2n(poly-bpbpvpcb)] (2 a)",
+      "synthesis_conditions": {
+        "method": "Photopolymerization",
+        "temperature": "293 K",
+        "solvents": "Not applicable",
+        "chemicals_used": [
+          "Single crystals of [Zn(4-Fb)2(tkpvb)]n (1)"
+        ],
+        "time": "1 h",
+        "yield": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "equipment": "LED lamp (λ = 365 nm, 80 W)",
+        "amount_of_each_solvent": "Not applicable"
+      }
+    },
+    {
+      "name": "1-PVA composite film",
+      "synthesis_conditions": {
+        "method": "Dispersion in PVA solution",
+        "temperature": "Not specified",
+        "solvents": "PVA solution",
+        "chemicals_used": [
+          "Well-ground powder of [Zn(4-Fb)2(tkpvb)]n (1) with size ca. 800 nm"
+        ],
+        "time": "Not specified",
+        "yield": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "equipment": "Teflon mold",
+        "amount_of_each_solvent": "Not specified",
+        "additional_information": "Weight ratio of 1 to PVA is 1 : 2, thickness of 60 μm"
+      }
+    },
+    {
+      "name": "Isostructural forms of 2 a (2 b, 2 c, 2 d, 2 e, 2 f and 2 g)",
+      "synthesis_conditions": {
+        "method": "Photopolymerization with different wavelengths",
+        "temperature": "Not specified",
+        "solvents": "Not applicable",
+        "chemicals_used": [
+          "Crystals of [Zn(4-Fb)2(tkpvb)]n (1)"
+        ],
+        "time": "Not specified",
+        "yield": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "equipment": "Not specified",
+        "amount_of_each_solvent": "Not applicable",
+        "additional_information": "Irradiated at 334, 385, 400, 420, 450, and 475 nm to yield isostructural forms"
+      }
+    }
+  ]
+}

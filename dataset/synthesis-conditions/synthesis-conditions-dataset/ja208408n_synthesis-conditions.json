@@ -1,0 +1,58 @@
+{
+  "FMOF-1": {
+    "Synthesis": {
+      "Step 1": {
+        "Chemicals": "silver(I) 3,5-bis(trifluoromethyl)-1,2,4-triazolate (AgTz)",
+        "Product": "FMOF-1"
+      },
+      "Step 2": {
+        "Process": "Annealing FMOF-1",
+        "Temperature": "ca. 300 °C",
+        "Time": "overnight",
+        "Product": "FMOF-2"
+      }
+    },
+    "Vapor Adsorption Experiments": {
+      "Equipment": "TA Instruments Q5000 SA and VTI-SA high sensitivity thermogravimetric dynamic vapor sorption analyzers",
+      "Sample Weight": "~10 mg",
+      "Temperature": "25 °C",
+      "Relative Humidity/Pressure": "0% to 98%",
+      "Increment": "10%"
+    },
+    "Crystallographic Details": {
+      "Equipment": "Bruker SMATR APEX2 CCD-based X-ray diffractometer",
+      "Temperature": "100(2) K",
+      "Wavelength": "0.71073 Å",
+      "Solvents": "Toluene, Acetonitrile (MeCN)",
+      "Yield": "~5%"
+    },
+    "Water Stability Analysis": {
+      "Methods": ["Water adsorption isotherms", "Single crystal X-ray diffraction", "Infrared spectroscopy"],
+      "Equipment for IR": "Nicolet 6700 FT-IR spectrometer",
+      "Frequency Range for IR": "350 to 4000 cm-1",
+      "Resolution for IR": "4 cm-1"
+    },
+    "Thermogravimetric Analysis (TGA)": {
+      "Equipment": "TGA-Q50 thermogravimetric analyzer",
+      "Atmosphere": "Air",
+      "Temperature Range": "30 to 400 °C"
+    }
+  },
+  "FMOF-2": {
+    "Synthesis": {
+      "Process": "Annealing FMOF-1 and reassembling from toluene/acetonitrile",
+      "Temperature": "ca. 300 °C",
+      "Time": "overnight",
+      "Solvents": "Toluene, Acetonitrile (MeCN)",
+      "Yield": "~5%"
+    }
+  },
+  "Water-Soaked FMOF-1": {
+    "Crystal Structure Analysis": {
+      "Equipment": "Bruker SMATR APEX2 CCD-based X-ray diffractometer",
+      "Temperature": "100(2) K",
+      "Wavelength": "0.71073 Å",
+      "Observation": "No water molecules are included in the channel and cage voids of FMOF-1"
+    }
+  }
+}

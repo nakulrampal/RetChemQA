@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the role of pyridine in the synthesis of FJI-H27?",
+      "answer": "Pyridine serves as a coordination template for chiral generation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the amount of pyridine affect the chiral generation of FJI-H27?",
+      "answer": "Increasing the amount of pyridine leads from no induction to partial induction and finally to complete induction of chirality in FJI-H27.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What happens when the reaction temperature is changed in the synthesis of FJI-H27?",
+      "answer": "Changing the reaction temperature can further tune the chiral generation process, from no induction to partial induction to complete induction.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the intermediate FJI-H28 in understanding the chiral generation mechanism?",
+      "answer": "FJI-H28 contains the chiral generation transition state, providing insight into how pyridine induces the origin of chirality.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How can the chiral orientation and distribution of bulk FJI-H27 samples be controlled?",
+      "answer": "By using targeted modification on pyridine template, such as introducing a chiral group, the chiral orientation and distribution of bulk FJI-H27 samples can be controlled.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the relationship between FJI-H16, FJI-H27, and FJI-H28 in terms of chiral induction?",
+      "answer": "FJI-H16 represents the product of failure of chiral induction, FJI-H27 is the product of successful chiral induction, and FJI-H28 can be considered as a product of incomplete induction.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of using (S)-4-(1-Hydroxyethyl)pyridine and (R)-4-(1-Hydroxyethyl)pyridine as templates on the chiral orientation of FJI-H27?",
+      "answer": "Using (S)-4-(1-Hydroxyethyl)pyridine leads to positive CD signals indicating FJI-H27 (P) crystals, while (R)-4-(1-Hydroxyethyl)pyridine leads to negative CD signals indicating FJI-H27 (M) crystals.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the introduction of chiral inducers affect the degree of enantiomeric excess of FJI-H27 samples?",
+      "answer": "The introduction of chiral inducers significantly increases the degree of enantiomeric excess of bulk FJI-H27 samples compared to those induced by achiral pyridine.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of temperature in the kinetic-control assembly process for the formation of FJI-H27?",
+      "answer": "Lowering the temperature promotes the kinetic-control assembly process leading to the formation of FJI-H27, while increasing the temperature inhibits it, resulting in the formation of FJI-H16.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the steric resistance of pyridine derivatives affect the chiral induction process?",
+      "answer": "Pyridine derivatives with larger steric resistance have weaker coordination ability, which is not conducive to the chiral induction process.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What demonstrates that FJI-H27 is a kinetic-control product while FJI-H16 is the thermodynamic-control product?",
+      "answer": "DFT calculations showing that FJI-H16 is more stable than FJI-H27 imply that FJI-H27 is a kinetic-control product and FJI-H16 is the thermodynamic-control product.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the chiral generation mechanism proposed for FJI-H27 explain the unpredictable chiral orientation of bulk samples?",
+      "answer": "The chiral generation mechanism involves a template-driven kinetic-control assembly process without selectivity, leading to unpredictable chiral orientation of bulk FJI-H27 samples.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is pyridine composed of the final chiral product FJI-H27?",
+      "answer": "False, pyridine is not composed of the final chiral product FJI-H27.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can a tiny amount of pyridine induce the chiral generation of FJI-H27?",
+      "answer": "False, a tiny amount of pyridine (< 0.12 mmol) cannot induce the chiral generation of FJI-H27.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does triethylamine serve as a template to induce the formation of FJI-H27?",
+      "answer": "False, triethylamine, which has weaker coordination ability than pyridine, cannot induce the formation of FJI-H27.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the chiral generation process of FJI-H27 driven by a thermodynamic-control assembly process?",
+      "answer": "False, the chiral generation process of FJI-H27 is driven by a template involved kinetic-control assembly process.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the chiral generation mechanism of FJI-H27 involve spontaneous chiral symmetry breaking?",
+      "answer": "False, the chiral generation mechanism of FJI-H27 is different from traditional spontaneous chiral symmetry breaking.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the chiral orientation of bulk FJI-H27 samples be controlled by using achiral pyridine?",
+      "answer": "False, the chiral orientation of bulk FJI-H27 samples cannot be controlled by using achiral pyridine.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is FJI-H28 the final chiral product in the synthesis process?",
+      "answer": "False, FJI-H28 is not the final chiral product but an intermediate containing the chiral generation transition state.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the addition of pyridine always lead to the formation of FJI-H27?",
+      "answer": "False, the addition of pyridine leads to the formation of FJI-H27 only when the amount and reaction conditions are suitable.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

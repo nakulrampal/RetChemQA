@@ -1,0 +1,78 @@
+{
+  "materials": [
+    {
+      "name": "copper(I) trifluoromethylthiolate complexes [(bpy)CuI(SCF3)] (1 a), [(dmbpy)CuI(SCF3)] (1 b), and [(dtbpy)CuI(SCF3)] (1 c), and dimeric complexes [{(phen)CuI(SCF3)}2] (1 d) and [{(Me2phen)CuI(SCF3)}2] (1 e)",
+      "synthesis_conditions": {
+        "temperature": "80 8C",
+        "solvents": "CH3CN",
+        "amount_of_solvent": "30 mL",
+        "equipment": "oven-dried resealable Schlenk tube with a Teflon screw valve",
+        "chemicals_used": {
+          "CuIIF2": "714 mg, 7.0 mmol",
+          "S8": "224 mg, 7.0 mmol",
+          "CF3SiMe3": "2.98 g, 21.0 mmol",
+          "2,2’-bipyridine": "1.09 g, 7.0 mmol (for 1 a)"
+        },
+        "time": "10 h",
+        "washing_method": "washed with Et2O (3 x 15 mL)",
+        "drying_method": "dried",
+        "yield": "42–49 % based on Cu",
+        "additional_steps": {
+          "step_1": {
+            "description": "The solid was redissolved in 6 mL of CH3CN and 2,2’-bipyridine in 15 mL of Et2O was added. The solution was kept at -25 8C for 24 h.",
+            "solvents": "CH3CN and Et2O",
+            "temperature": "-25 8C",
+            "time": "24 h"
+          }
+        }
+      }
+    },
+    {
+      "name": "4-(trifluoromethylthio)toluene",
+      "synthesis_conditions": {
+        "temperature": "110 8C",
+        "solvents": "CH3CN",
+        "amount_of_solvent": "1.0 mL",
+        "equipment": "under N2 atmosphere",
+        "chemicals_used": {
+          "Cu complex (1 a, 1 b, or 1 c)": "0.15 mmol",
+          "4-iodotoluene": "0.15 mmol"
+        },
+        "time": "15 h",
+        "yield": "84 % for 1 a, 88 % for 1 b, 97 % for 1 c",
+        "reaction_conditions_variation": {
+          "solvent_variation": {
+            "toluene": "69 % yield",
+            "THF": "21 % yield",
+            "DMSO": "3 % yield",
+            "CH2Cl2": "8 % yield",
+            "DMF": "4 % yield",
+            "NMP": "8 % yield"
+          },
+          "temperature_variation": {
+            "150 8C": "lower yield",
+            "90 8C": "lower yield"
+          },
+          "time_variation": {
+            "7 h": "51 % yield"
+          }
+        }
+      }
+    },
+    {
+      "name": "various aryl and heteroaryl trifluoromethylthioethers",
+      "synthesis_conditions": {
+        "temperature": "110 8C",
+        "solvents": "CH3CN",
+        "amount_of_solvent": "1.2 mL",
+        "equipment": "flame-dried 5 mL test tube with Teflon screw cap equipped with a magnetic stir bar",
+        "chemicals_used": {
+          "[(bpy)CuSCF3] (1 a)": "80 mg, 0.25 mmol",
+          "aryl halides": "0.25 mmol"
+        },
+        "time": "15 h",
+        "yield": "Good to excellent yields (76–90 % for neutral alkyl- and aryl-substituted aromatic iodides, 84 % for para-acetyl substituted iodoarenes, 82 % for ortho-acetyl substituted iodoarenes, 57–81 % for iodoarenes with electron-deficient or electron-donating groups, 75 % for chlorine functionality on aryl iodide, 71–84 % for heteroaryl iodides and bromides)"
+      }
+    }
+  ]
+}

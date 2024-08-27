@@ -1,0 +1,57 @@
+{
+  "materials": [
+    {
+      "name": "α-CD and KAuBr4 co-precipitate",
+      "synthesis_conditions": [
+        {
+          "temperature": "0, 4, 10, 15, 20 °C",
+          "solvents": [
+            {
+              "name": "H2O",
+              "amount": "2 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "KAuBr4",
+              "amount": "0.02 mmol, 11.1 mg"
+            },
+            {
+              "name": "α-CD",
+              "amount": "0.04 mmol, 38.9 mg"
+            }
+          ],
+          "equipment": "4 mL vials",
+          "time": "10 h",
+          "yield": "78 to 94%",
+          "analysis_method": "UV-Vis spectrophotometry",
+          "additional_information": "The co-precipitation yields and solubilities of α•K•Br at different temperatures were obtained indirectly by analyzing the concentrations of [AuBr4]− ions remaining in the filtrates with UV-Vis spectrophotometry based on the absorbance of [AuBr4]− at λmax = ~380 nm."
+        },
+        {
+          "temperature": "20 °C",
+          "solvents": [
+            {
+              "name": "H2O",
+              "amount": "2 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "KAuBr4",
+              "amount": "0.02 mmol, 11.1 mg"
+            },
+            {
+              "name": "α-CD",
+              "amount": "0.02, 0.04, 0.06, 0.08, and 0.10 mmol"
+            }
+          ],
+          "equipment": "4 mL vials",
+          "time": "10 h",
+          "yield": "32% for 1:1 mixture, average 80% for 1:2, 1:3, 1:4, and 1:5 mixtures",
+          "analysis_method": "UV-Vis spectrophotometry",
+          "additional_information": "The co-precipitation yields of α•K•Br were obtained indirectly by analyzing the concentrations of [AuBr4]− remaining in the filtrates with UV-Vis spectrophotometry based on the absorbance of [AuBr4]− at λmax = ~380 nm."
+        }
+      ]
+    }
+  ]
+}

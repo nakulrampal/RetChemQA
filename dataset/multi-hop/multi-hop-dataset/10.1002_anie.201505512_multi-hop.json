@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the significance of using titanocene dichloride in the synthesis of COK-69?",
+      "answer": "Titanocene dichloride is used as a hydrolytically more robust organometallic Ti precursor for the formation of porous titanium carboxylates, allowing more precise control over the solvolysis of the metal precursor and leading to the formation of COK-69, a new, breathing titanium(IV) trans-1,4-cyclohexanedicarboxylate framework.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the structure of COK-69 compare to that of MIL-88 in terms of topology and flexibility?",
+      "answer": "COK-69 and MIL-88 share the same underlying acs topology featuring trigonal-bipyramidal cages and one-dimensional hexagonal channels. However, COK-69 exhibits a rare breathing behavior due to the conformational flexibility of its cdc2¢ linker, unlike the rigid terephthalate linkers in MIL-88.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What experimental evidence supports the presence of TiIII species in photoreduced COK-69?",
+      "answer": "The presence of TiIII species in photoreduced COK-69 is supported by EPR spectroscopy, which shows a clear signal with g parameters corresponding to a TiIII species, and by 2H MAS NMR spectroscopy, which indicates the formation of Ti-OD groups upon photoreduction.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What role does the cyclohexanedicarboxylate linker play in the breathing behavior of COK-69?",
+      "answer": "The cyclohexanedicarboxylate linker, due to its inherent flexibility, allows the COK-69 framework to exhibit a breathing behavior. This flexibility enables the linker to adopt different conformations (e,e' or a,a'), which in turn leads to structural changes in the framework upon guest removal or adsorption.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the porosity of COK-69 be determined directly by gas adsorption?",
+      "answer": "No, the porosity of guest-loaded COK-69op cannot be directly determined by gas adsorption due to the contraction of the framework upon evacuation. Instead, the void volume of the framework is estimated using software.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the synthesis of COK-69 affected by the atmosphere used during the reaction?",
+      "answer": "Yes, the synthesis of COK-69_R, a reduced form of COK-69, requires flushing the reactor with Ar prior to the reaction, indicating that the atmosphere used during the synthesis affects the outcome.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of COK-69 involves the in situ preformation of cyclopentadienyl-capped Ti3(m3-O) clusters.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: COK-69 and MIL-88 have different underlying topologies.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The presence of hydrogen-bond-donating groups is generally favorable in inducing the recovery of COK-69op.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The photoreduction mechanism of COK-69 likely involves the transformation of an oxo group into a hydroxy group.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The flexibility of the cyclohexanedicarboxylate linker in COK-69 results from rotation about the axis through the oxygen atoms of each carboxylate group.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The porosity of COK-69 for N2 is significantly increased after guest removal.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The electronic structure of COK-69 does not change upon photoreduction.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of acetic acid in the synthesis of COK-69?",
+      "answer": "Acetic acid acts as a synthesis modulator in the formation of COK-69, likely influencing the reaction environment or the precursor reactivity to facilitate the formation of the desired MOF structure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the use of microwave irradiation affect the synthesis of COK-69?",
+      "answer": "Microwave irradiation allows the synthesis of COK-69 to be scaled up and significantly reduces the synthesis time to about 10 minutes, although a higher quality material is obtained from the solvothermal reaction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental techniques were used to investigate the photoactive properties of COK-69?",
+      "answer": "The photoactive properties of COK-69 were investigated using proton-coupled electron-transfer experiments and molecular modeling to determine its electronic structure and band gap.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the impact of solvent polarity on the breathing behavior of COK-69?",
+      "answer": "Solvents of low polarity, such as toluene or tetrahydrofuran, can induce the recovery of the open-pore solid COK-69op, while polar solvents, such as acetonitrile or dimethyl sulfoxide, are incapable of reopening the evacuated material.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the trinuclear [TiIV3(m3-O)(O)2(COO)6] cluster in COK-69?",
+      "answer": "The trinuclear [TiIV3(m3-O)(O)2(COO)6] cluster in COK-69 is significant because it is an unprecedented cluster in MOF chemistry, closely resembling motifs based on trivalent cations in well-known MOFs, and opens the road to the synthesis of new structures with titanium.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of cyclopentadienyl ligands affect the formation of COK-69?",
+      "answer": "The cyclopentadienyl ligands in the precursor [Cp2TiIVCl2] induce and direct the formation of Ti3(m3-O) clusters during the synthesis of COK-69, shielding the titanium cations from fast and more extensive hydrolysis.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What factors influence the guest-induced breathing mechanism of COK-69?",
+      "answer": "The guest-induced breathing mechanism of COK-69 is influenced by the molecular shape and size of the solvent, the presence of hydrogen-bond-donating groups, and the polarity of the solvent.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

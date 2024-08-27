@@ -1,0 +1,62 @@
+{
+  "materials": [
+    {
+      "name": "[Cu2(maa)4]·2 H2O",
+      "synthesis_conditions": {
+        "temperature": "reflux",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "not specified",
+        "chemicals_used": [
+          {
+            "name": "[Cu2(OH)2CO3]",
+            "amount": "2.211 g, 10 mmol"
+          },
+          {
+            "name": "2-methylacrylic acid",
+            "amount": "3.442 g, 40 mmol"
+          }
+        ],
+        "time": "2 h",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "approximately 87 %"
+      }
+    },
+    {
+      "name": "[Cu4(bpp)4(maa)8(H2O)2]·2 H2O",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "10 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "10 mL"
+          }
+        ],
+        "equipment": "not specified",
+        "chemicals_used": [
+          {
+            "name": "bpp",
+            "amount": "0.040 g, 0.200 mmol"
+          },
+          {
+            "name": "Cu2(maa)4·2 H2O",
+            "amount": "0.050 g, 0.100 mmol"
+          }
+        ],
+        "time": "several days",
+        "washing_method": "washed with ethanol",
+        "drying_method": "dried in air",
+        "yield": "65 %"
+      }
+    }
+  ]
+}

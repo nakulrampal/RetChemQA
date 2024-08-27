@@ -1,0 +1,118 @@
+{
+  "materials": [
+    {
+      "name": "MOF-818",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": "N,N-dimethylformamide (DMF)",
+        "amount_of_solvent": "10 mL",
+        "equipment": "20 mL Pyrex vial",
+        "chemicals_used": [
+          {
+            "name": "ZrOCl2·8H2O",
+            "amount": "42.5 mg"
+          },
+          {
+            "name": "Cu(NO3)2·3H2O",
+            "amount": "124.0 mg"
+          },
+          {
+            "name": "H2PyC",
+            "amount": "32.5 mg"
+          },
+          {
+            "name": "trifluoroacetic acid",
+            "amount": "120 μL"
+          }
+        ],
+        "time": "10 hours",
+        "washing_method": "DMF for 3 days, acetone for 3 days",
+        "drying_method": "supercritical CO2",
+        "yield": "24.0% based on the PyC linker",
+        "activation_procedure": "degassed under vacuum at 150 °C for 12 hours"
+      }
+    },
+    {
+      "name": "MOF-919-Fe",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": "N,N-dimethylformamide (DMF)",
+        "amount_of_solvent": "10 mL",
+        "equipment": "20 mL Pyrex vial",
+        "chemicals_used": [
+          {
+            "name": "FeCl3·6H2O",
+            "amount": "35.5 mg"
+          },
+          {
+            "name": "Cu(NO3)2·3H2O",
+            "amount": "114.5 mg"
+          },
+          {
+            "name": "H2PyC",
+            "amount": "54.0 mg"
+          }
+        ],
+        "time": "12 hours",
+        "yield": "63.7% based on the PyC linker",
+        "activation_procedure": "dried under vacuum at room temperature for 2 hours and then at 150 °C for 12 hours"
+      }
+    },
+    {
+      "name": "MOF-919-Sc",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": "N,N-dimethylformamide (DMF)",
+        "amount_of_solvent": "10 mL",
+        "equipment": "20 mL Pyrex vial",
+        "chemicals_used": [
+          {
+            "name": "ScCl3·6H2O",
+            "amount": "76.2 mg"
+          },
+          {
+            "name": "Cu(NO3)2·3H2O",
+            "amount": "135.6 mg"
+          },
+          {
+            "name": "H2PyC",
+            "amount": "34.8 mg"
+          }
+        ],
+        "time": "15 hours",
+        "yield": "44.0% based on the PyC linker",
+        "activation_procedure": "dried under vacuum at room temperature for 2 hours and then at 150 °C for 12 hours"
+      }
+    },
+    {
+      "name": "MOF-919-Al",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": "N,N-dimethylformamide (DMF)",
+        "amount_of_solvent": "10 mL",
+        "equipment": "20 mL Pyrex vial",
+        "chemicals_used": [
+          {
+            "name": "AlCl3·6H2O",
+            "amount": "43.1 mg"
+          },
+          {
+            "name": "Cu(NO3)2·3H2O",
+            "amount": "207.1 mg"
+          },
+          {
+            "name": "H2PyC",
+            "amount": "39.0 mg"
+          },
+          {
+            "name": "trifluoroacetic acid",
+            "amount": "50 μL"
+          }
+        ],
+        "time": "10 hours",
+        "yield": "91.0% based on the PyC linker",
+        "activation_procedure": "dried under vacuum at room temperature for 2 hours and then at 150 °C for 12 hours"
+      }
+    }
+  ]
+}

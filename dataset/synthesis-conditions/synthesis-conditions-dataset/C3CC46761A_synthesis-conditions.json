@@ -1,0 +1,36 @@
+{
+  "materials": [
+    {
+      "name": "ZTOF-2",
+      "synthesis_conditions": {
+        "temperature": [
+          "80 °C for 1 day",
+          "100 °C for 3 – 4 days"
+        ],
+        "solvents": [
+          "DMF (1.30 mL)",
+          "dichloromethane (for washing)"
+        ],
+        "equipment": "glass tube (flame-sealed)",
+        "chemicals_used": {
+          "Zn(NO3)2·6H2O": "45.0 mg, 0.15 mmol",
+          "Ti(OiPr)4": "12.8 µL, 0.04 mmol",
+          "H3ondc": "46.4 mg, 0.20 mmol",
+          "dabco": "4.8 mg, 0.04 mmol"
+        },
+        "time": [
+          "2 h stirring in open air",
+          "1 day at 80 °C",
+          "3 – 4 days at 100 °C"
+        ],
+        "washing_method": "thoroughly washed with DMF, then soaked in dichloromethane",
+        "drying_method": "drying under vacuum overnight",
+        "yield": "15 mg, 30 %",
+        "additional_information": {
+          "calculated_percentages": "C, 45.54; H, 3.52; N, 3.02; Ti, 4.13; Zn, 16.91",
+          "found_percentages": "C, 45.78; H, 3.10; N, 2.96; Ti, 4.45; Zn, 17.15%"
+        }
+      }
+    }
+  ]
+}

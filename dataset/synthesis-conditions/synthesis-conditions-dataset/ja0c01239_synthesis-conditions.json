@@ -1,0 +1,130 @@
+{
+  "materials": [
+    {
+      "name": "TiO2",
+      "synthesis_conditions": [
+        {
+          "temperature": "150 °C",
+          "time": "24 h",
+          "solvents": [
+            {
+              "name": "deionized water",
+              "amount": "1.1 mL"
+            },
+            {
+              "name": "HF(aq)",
+              "concentration": "48% wt. in H2O",
+              "amount": "varied"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "TiO2",
+              "source": "Aldrich",
+              "purity": "99.9+%"
+            },
+            {
+              "name": "CuO",
+              "source": "Sigma-Aldrich",
+              "purity": "≥99.0%"
+            },
+            {
+              "name": "2,2′-bipyridine (bpy)",
+              "source": "Sigma-Aldrich",
+              "purity": "≥99%"
+            }
+          ],
+          "equipment": "125 mL Teflon-lined Parr autoclave",
+          "yield": "not specified",
+          "washing_method": "vacuum filtration",
+          "drying_method": "not specified",
+          "ph": "varied by adjusting HF amount"
+        }
+      ]
+    },
+    {
+      "name": "ZrO2",
+      "synthesis_conditions": [
+        {
+          "temperature": "150 °C",
+          "time": "24 h",
+          "solvents": [
+            {
+              "name": "deionized water",
+              "amount": "1.1 mL"
+            },
+            {
+              "name": "HF(aq)",
+              "concentration": "48% wt. in H2O",
+              "amount": "varied"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "ZrO2",
+              "source": "Alfa Aesar",
+              "purity": "99.978%"
+            },
+            {
+              "name": "CuO",
+              "source": "Sigma-Aldrich",
+              "purity": "≥99.0%"
+            },
+            {
+              "name": "2,2′-bipyridine (bpy)",
+              "source": "Sigma-Aldrich",
+              "purity": "≥99%"
+            }
+          ],
+          "equipment": "125 mL Teflon-lined Parr autoclave",
+          "yield": "not specified",
+          "washing_method": "vacuum filtration",
+          "drying_method": "not specified",
+          "ph": "varied by adjusting HF amount"
+        }
+      ]
+    },
+    {
+      "name": "HfO2",
+      "synthesis_conditions": [
+        {
+          "temperature": "150 °C",
+          "time": "24 h",
+          "solvents": [
+            {
+              "name": "deionized water",
+              "amount": "1.1 mL"
+            },
+            {
+              "name": "HF(aq)",
+              "concentration": "48% wt. in H2O",
+              "amount": "varied"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "HfO2",
+              "source": "Aldrich",
+              "purity": "98%"
+            },
+            {
+              "name": "CuO",
+              "source": "Sigma-Aldrich",
+              "purity": "≥99.0%"
+            },
+            {
+              "name": "2,2′-bipyridine (bpy)",
+              "source": "Sigma-Aldrich",
+              "purity": "≥99%"
+            }
+          ],
+          "equipment": "125 mL Teflon-lined Parr autoclave",
+          "yield": "not specified",
+          "washing_method": "vacuum filtration",
+          "drying_method": "not specified",
+          "ph": "varied by adjusting HF amount"
+        }
+      ]
+    }
+  ]
+}

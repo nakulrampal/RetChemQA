@@ -1,0 +1,118 @@
+{
+  "materials": [
+    {
+      "name": "L1",
+      "synthesis_conditions": {
+        "temperature": "room temperature, then 4°C",
+        "solvents": [
+          {
+            "name": "ethanol",
+            "amount": "70 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "NaOH",
+            "amount": "1.26 g, 32 mmol"
+          },
+          {
+            "name": "thiophenol",
+            "amount": "3.4 g, 31 mmol"
+          },
+          {
+            "name": "1,4-dichlorobut-2-yne",
+            "amount": "1.89 g, 15 mmol"
+          }
+        ],
+        "time": "overnight",
+        "washing_method": "water until NaCl fully removed",
+        "drying_method": "methanol",
+        "yield": "3.46 g, 87%"
+      }
+    },
+    {
+      "name": "L2",
+      "synthesis_conditions": {
+        "temperature": "room temperature, then refluxed for two hours",
+        "solvents": [
+          {
+            "name": "ethanol",
+            "amount": "100 mL"
+          },
+          {
+            "name": "CH2Cl2",
+            "amount": "50 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "KOH",
+            "amount": "5.9 g, 105 mmol"
+          },
+          {
+            "name": "cyclohexanethiol",
+            "amount": "13 mL, 106 mmol"
+          },
+          {
+            "name": "1,4-dichlorobut-2-yne",
+            "amount": "4.88 mL, 50 mmol"
+          }
+        ],
+        "time": "overnight",
+        "washing_method": "water (3 × 20 mL)",
+        "drying_method": "sodium sulfate, then vacuum",
+        "yield": "12.021 g, 86%"
+      }
+    },
+    {
+      "name": "CP1",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "10 mL"
+          },
+          {
+            "name": "chloroform",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "AgNO3",
+            "amount": "572 mg, 2 mmol"
+          },
+          {
+            "name": "L1",
+            "amount": "270 mg, 1 mmol"
+          }
+        ],
+        "time": "2 h",
+        "yield": "406 mg, 67%"
+      }
+    },
+    {
+      "name": "CP2",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "20 mL + 5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "AgNO3",
+            "amount": "850 mg, 5 mmol"
+          },
+          {
+            "name": "L2",
+            "amount": "564 mg, 2 mmol"
+          }
+        ],
+        "time": "2 h",
+        "yield": "532 mg, 59%"
+      }
+    }
+  ]
+}

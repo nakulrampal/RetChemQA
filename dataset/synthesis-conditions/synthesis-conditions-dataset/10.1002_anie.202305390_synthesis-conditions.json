@@ -1,0 +1,52 @@
+{
+  "materials": [
+    {
+      "name": "NKMOF-9",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            "potassium tricyanomethanide (KC4N3)",
+            "NaN3",
+            "MnCl2·4H2O",
+            "water",
+            "ethyl alcohol"
+          ],
+          "equipment": "not specified",
+          "temperature": "not specified",
+          "time": "not specified",
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "not specified"
+            },
+            {
+              "name": "ethyl alcohol",
+              "amount": "not specified"
+            }
+          ],
+          "yield": "not specified",
+          "drying_method": "not specified",
+          "washing_method": "not specified"
+        }
+      ]
+    },
+    {
+      "name": "NKMOF-9 a",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "description": "NKMOF-9 a was obtained by heating NKMOF-9 to remove guest molecules.",
+          "temperature": "180 °C",
+          "equipment": "under a dynamic vacuum",
+          "time": "not specified",
+          "solvents": [],
+          "chemicals_used": [],
+          "yield": "not specified",
+          "drying_method": "not specified",
+          "washing_method": "not specified"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "materials": [
+    {
+      "name": "[Zn2(µ-O2C-p-Tol)2(O2C-p-Tol)2 (µ-bpe)2] (1)",
+      "synthesis_conditions": {
+        "solvents": ["water", "acetone"],
+        "amount_of_solvents": {
+          "water": "10.0 ml",
+          "acetone": "10 ml"
+        },
+        "chemicals_used": {
+          "Zn(NO3)2·6H2O": "29.8 mg, 0.1 mmol",
+          "para-toluic acid": "27.2 mg, 0.2 mmol",
+          "bpe": "18.2 mg, 0.1 mmol",
+          "NaOH": "0.4 ml"
+        },
+        "time": "2 days",
+        "method": "Slow evaporation",
+        "yield": "Not specified",
+        "drying_method": "Not specified",
+        "washing_method": "Not specified"
+      }
+    },
+    {
+      "name": "[Zn2(µ-O2C-p-Tol)2(O2C-p-Tol)2(µ-bpe)2] (2) and [Zn2(O2C-p-Tol)4(µ-bpe)] (3)",
+      "synthesis_conditions": {
+        "solvents": ["water", "acetone"],
+        "amount_of_solvents": {
+          "water": "5.0 ml",
+          "acetone": "5.0 ml"
+        },
+        "chemicals_used": {
+          "Zn(CH3COO)2·6H2O": "22 mg, 0.1 mmol",
+          "p-toluic acid": "27.2 mg, 0.2 mmol",
+          "bpe": "18.2 mg, 0.1 mmol",
+          "NaOH": "8 drops"
+        },
+        "time": "1 day for 2, overnight for 3",
+        "method": "Slow evaporation",
+        "yield": "Not specified",
+        "drying_method": "Not specified",
+        "washing_method": "Not specified"
+      }
+    },
+    {
+      "name": "[Zn2(µ-O2C-p-Tol)2(O2C-p-Tol)2(rctt-tpcb)] (4)",
+      "synthesis_conditions": {
+        "precursor": "[Zn2(µ-O2C-p-Tol)2(O2C-p-Tol)2 (µ-bpe)2] (1)",
+        "method": "UV irradiation",
+        "equipment": "Luzchem photoreactor",
+        "wavelength": "350 nm",
+        "time": "2 h",
+        "yield": "Not specified",
+        "drying_method": "Not specified",
+        "washing_method": "Not specified"
+      }
+    },
+    {
+      "name": "[Zn2(µ-O2C-p-Tol)2(O2C-p-Tol)2 (rctt-tpcb)] (5)",
+      "synthesis_conditions": {
+        "precursor": "[Zn2(µ-O2C-p-Tol)2(O2C-p-Tol)2(µ-bpe)2] (2)",
+        "method": "UV irradiation",
+        "equipment": "Luzchem photoreactor",
+        "wavelength": "350 nm",
+        "time": "1.5 h",
+        "yield": "Not specified",
+        "drying_method": "Not specified",
+        "washing_method": "Not specified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "question": "What is the role of ionic liquids in the synthesis of coordination polymers according to the text?",
+      "answer": "Ionic liquids act as solvent and structure directing agent in the preparation of crystalline solids.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the use of a chiral ionic liquid influence the chirality of the resulting solid?",
+      "answer": "The use of a chiral ionic liquid induces chirality in the resulting solid, despite the solid being built from only nonchiral building blocks.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What evidence supports the chiral induction in the synthesis of SIMOF-1?",
+      "answer": "The formation of SIMOF-1 with homochiral material under ionothermal conditions using 1-butyl 3-methylimidazolium L-aspartate and the opposite chirality induced by D-aspartate.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the Flack parameter in determining the chirality of SIMOF-1?",
+      "answer": "The Flack parameter indicates the absolute structure of the crystal, with values near zero suggesting the model has the correct absolute configuration and all crystals have the same chirality.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the synthesis of BMIm L-aspartate ionic liquid differ from BMImBr?",
+      "answer": "BMIm L-aspartate is prepared through ion exchange reactions involving BMImOH and L-aspartic acid, whereas BMImBr is synthesized following published methods without specifying the exact process.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What structural feature of SIMOF-1 contributes to its chirality?",
+      "answer": "The chirality in SIMOF-1's structure results from the 4_1 axis in the symmetry, leading to a helical arrangement of pseudotetrahedral units with the same handedness.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the chiral component in the ionic liquid during the synthesis of SIMOF-1?",
+      "answer": "The chiral component of the ionic liquid, such as L-aspartate, induces chirality in the resulting solid SIMOF-1 by influencing the long-range asymmetric distribution of ions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the synthesis of chiral cations considered more challenging than preparing chiral anions?",
+      "answer": "The synthesis of chiral cations is synthetically more challenging due to the complexity of altering the structure of the cation compared to the simpler process of ion exchange for creating chiral anions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the synthesis condition for SIMOF-1a differ from that of SIMOF-1?",
+      "answer": "The synthesis condition for SIMOF-1a differs by using 1-butyl-3-methylimidazolium D-aspartate instead of L-aspartate, resulting in a material with opposite chirality.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What would be the expected outcome if a nonchiral ionic liquid was used under the same synthesis conditions as SIMOF-1?",
+      "answer": "Using a nonchiral ionic liquid under the same synthesis conditions would likely result in the formation of an achiral compound, similar to the synthesis of SIMOF-2.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the structure of SIMOF-2 compare to that of SIMOF-1 in terms of chirality?",
+      "answer": "SIMOF-2, formed under the same synthesis conditions but with a nonchiral ionic liquid, is achiral, contrasting with the homochiral nature of SIMOF-1.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the implication of all Flack parameters being near zero for the crystals of SIMOF-1?",
+      "answer": "It implies that all crystals of SIMOF-1 have the same chirality, confirming the homochiral nature of the bulk material.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the chiral ionic liquid component occluded within the structure of SIMOF-1?",
+      "answer": "False, the chiral ionic liquid component is not occluded within the structure of SIMOF-1; it influences chirality without being physically incorporated.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can chiral solids be formed from achiral building blocks without a chiral center in the building units?",
+      "answer": "True, chiral solids can be formed from achiral building blocks, but factors other than a chiral center in the building units must influence the formation.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the synthesis of SIMOF-1a using D-aspartate an example of chiral induction?",
+      "answer": "True, the synthesis of SIMOF-1a using D-aspartate is an example of chiral induction, resulting in a material with opposite chirality to SIMOF-1.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesis of SIMOF-1 require a chiral organic bridging ligand?",
+      "answer": "False, the synthesis of SIMOF-1 does not require a chiral organic bridging ligand; it relies on the chiral ionic liquid for chirality induction.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the ionic liquid cation strongly held inside the pores of SIMOF-1's structure?",
+      "answer": "True, the ionic liquid cation is strongly held inside the pores in SIMOF-1's structure, making it difficult to remove without causing structural collapse.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesis of SIMOF-2 involve the use of a chiral ionic liquid?",
+      "answer": "False, the synthesis of SIMOF-2 involves the use of a nonchiral ionic liquid, resulting in an achiral compound.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the probability of all 10 crystals of SIMOF-1 being of the same chirality high if the bulk material was a racemic mixture?",
+      "answer": "False, if the bulk material was a racemic mixture, the probability of all 10 crystals being of the same chirality would be small (1 in 2^10).",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

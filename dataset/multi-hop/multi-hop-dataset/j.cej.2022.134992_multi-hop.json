@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the main goal of the study described in the paper?",
+      "answer": "The main goal of the study is to improve gene editing efficiency using a cocatalysis approach with a Zr6(μ3-O)4(μ3-OH)4-cluster-containing metal–organic framework (MOF) that can package Cpf1-encoding plasmids and deliver them into cellular cytosols, enhancing the hydrolysis of phosphate ester bonds crucial for gene editing.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the two genes crucial to oncogenesis that were targeted for editing in the study?",
+      "answer": "The two genes crucial to oncogenesis targeted for editing in the study are VEGFA and DNMT1.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does the MOF-based cocatalysis approach compare to using ZIF-8 as a CRISPR vehicle in terms of gene editing efficiency?",
+      "answer": "The MOF-based cocatalysis approach resulted in significantly higher gene editing efficiency, with editing efficiency of VEGFA and DNMT1 being 5-fold and 7-fold higher, respectively, than when using ZIF-8 as the CRISPR vehicle.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the Zr6(μ3-O)4(μ3-OH)4 cluster in the MOF structure regarding gene editing?",
+      "answer": "The Zr6(μ3-O)4(μ3-OH)4 cluster in the MOF structure acts as a cocatalyst that can pre-activate and hydrolyze the phosphate ester bonds between different DNA bases, assisting the working complex of Cpf1/crRNA to cut genetic loci more effectively.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study demonstrated that the MOF-based cocatalysis approach is less effective than traditional CRISPR delivery vehicles in enhancing gene editing efficiency.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to assess the gene editing efficiency in the study?",
+      "answer": "The gene editing efficiency was assessed using T7 endonuclease 1 (T7E1) assay and Sanger sequencing chromatogram.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The MOF-based cocatalysis approach only serves as a physical carrier for delivering Cpf1-encoding plasmids without any additional functional benefits.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the observed effect of adding the inhibitor 2,6-pyridinedicarboxylic acid (PDA) to the V + D@NPCN-8908 treated cells?",
+      "answer": "Adding the inhibitor 2,6-pyridinedicarboxylic acid (PDA) to the V + D@NPCN-8908 treated cells decreased the gene editing efficiency in a dose-dependent manner, suggesting the assisting effect of NPCN-8908 in gene editing is attributed to the Zr-oxo clusters.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the outcome of the preclinical animal model study using the VEGFA and DNMT1 dual gene therapy via the cocatalysis approach?",
+      "answer": "The preclinical animal model study showed that V + D@NPCN-8908 potently suppressed tumor growth by 62%, three-fold higher than V + D@ZIF-8, confirming the gene-editing effectiveness and therapeutic potential of the cocatalysis approach.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study's findings suggest that the MOF-based CRISPR gene-editing cocatalysis nanosystem has no potential for clinical translation.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

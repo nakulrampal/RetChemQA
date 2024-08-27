@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the highest value observed for the enthalpy of hydrogen adsorption on a porous material, according to the text?",
+      "answer": "12.3 kJ mol−1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the enthalpy of adsorption change with increasing amount adsorbed for H2 and D2 on M′MOF 1?",
+      "answer": "The enthalpy of adsorption decreases with increasing amount adsorbed up to ∼1.9 mmol g−1, and then it remains virtually unchanged in the range 1.9–3.6 mmol g−1.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What model provides the most accurate description of the H2 and D2 adsorption isotherms on M′MOF 1, according to the supporting information?",
+      "answer": "Virial method 1 provides the most accurate description.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What are the kinetic parameters k1 and k2 indicative of in the context of H2 and D2 adsorption on M′MOF 1?",
+      "answer": "The kinetic parameters k1 and k2 correspond to two different kinetic processes, with k1 being the slow component corresponding to diffusion along the narrowest pores and k2 being the fast component corresponding to diffusion through larger pores.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What quantum effect is observed for both H2 and D2 adsorption in M′MOF 1, and how does it affect their adsorption kinetics?",
+      "answer": "Quantum kinetic molecular sieving is observed, where the adsorption kinetics of D2 are faster than those of H2 due to quantum effects, with H2 experiencing a higher barrier to diffusion along the pores because of its higher zero-point energy.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the de Broglie wavelength in the context of H2 and D2 adsorption on M′MOF 1?",
+      "answer": "The de Broglie wavelength becomes relevant when the differences between the sizes of H2 or D2 and the pores in M′MOF 1 are similar to the de Broglie wavelength, indicating quantum effects that influence diffusion along pores.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the ratio of nD2/nH2 change with pressure increments for adsorption on M′MOF 1 at 77.3 K and 87.3 K?",
+      "answer": "The ratio of nD2/nH2 decreases with increasing pressure over the ranges 6.64–3.48 and 5.88–2.96 for H2 and D2 adsorption at 77.3 K, and the ratios are lower at 87.3 K, indicating the effect of temperature on quantum effects.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What does the comparison between experimental standard deviations and model predictions for isotherm data suggest about the accuracy of the models used?",
+      "answer": "The comparison suggests that Virial method 1 is more accurate than the Langmuir-Freundlich model and Virial method 2, as it has lower average errors and deviations closer to the experimental standard deviations.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The enthalpy of adsorption for D2 is consistently higher than for H2 across all surface coverages on M′MOF 1.",
+      "answer": "False. The enthalpy of adsorption for D2 is slightly higher than for H2 at low surface coverage, but this difference is within the experimental uncertainty and not consistent across all surface coverages.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of two linear regions in the virial graphs for H2 adsorption at 87.3 K indicate about the adsorption process on M′MOF 1?",
+      "answer": "The presence of two linear regions in the virial graphs indicates that there are two distinct adsorption processes occurring, with a change in gradient corresponding to two H2 molecules being bound to each open Cu center.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

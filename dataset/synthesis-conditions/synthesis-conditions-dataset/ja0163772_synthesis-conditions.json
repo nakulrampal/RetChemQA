@@ -1,0 +1,256 @@
+{
+  "materials": [
+    {
+      "label": "1a-g",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "2 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "nitrate or perchlorate salts of Ln(III)",
+            "amount": "0.25 mmol"
+          },
+          {
+            "name": "2,2‘-diethoxy-1,1‘-binaphthalene-6,6‘-bisphosphonic acid (L-H4)",
+            "amount": "0.5 mmol"
+          },
+          {
+            "name": "6M HCl",
+            "amount": "0.3 mL"
+          }
+        ],
+        "yield": "variable",
+        "time": "2 days",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "equipment": "sealed container"
+      }
+    },
+    {
+      "label": "1f",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "2 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Gd(NO3)3 6H2O",
+            "amount": "0.0564 g, 0.125 mmol"
+          },
+          {
+            "name": "2,2‘-diethoxy-1,1‘-binaphthalene-6,6‘-bisphosphonic acid",
+            "amount": "0.134 g, 0.25 mmol"
+          },
+          {
+            "name": "6M HCl",
+            "amount": "0.3 mL"
+          }
+        ],
+        "yield": "44.7%",
+        "time": "2 days",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "equipment": "sealed container"
+      }
+    },
+    {
+      "label": "(R)-diethyl-2,2’-diethoxy-1,1’-binaphthalene-6,6-diphosphonate",
+      "synthesis_conditions": {
+        "temperature": "reflux under nitrogen",
+        "solvents": [
+          {
+            "name": "anhydrous toluene",
+            "amount": "100 mL"
+          },
+          {
+            "name": "distilled triethylamine",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(R)-6,6’-dibromo-2,2’-diethoxy -1,1’-binaphthalene",
+            "amount": "14g, 24.1 mmol"
+          },
+          {
+            "name": "diethyl phosphite",
+            "amount": "8.97g, 65 mmol"
+          },
+          {
+            "name": "tetrakis(triphenylphosphine)palladium",
+            "amount": "0.9g, 0.78 mmol"
+          }
+        ],
+        "yield": "67%",
+        "time": "48 hours",
+        "washing_method": "washed twice with 100 mL of deionized water",
+        "drying_method": "dried over MgSO4 and evaporated to dryness",
+        "equipment": "not specified"
+      }
+    },
+    {
+      "label": "(R)-2,2’-diethoxy-1,1’-binaphthalene-6,6’-bisphosphonic acid",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "distilled methylene chloride",
+            "amount": "50 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "50 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(R)-diethyl-2,2’-diethoxy-1,1’-binaphthalene-6,6-diphosphonate",
+            "amount": "1.6g , 2.61 mmol"
+          },
+          {
+            "name": "trimethylsilyl bromide",
+            "amount": "2.1g, 14 mmol"
+          }
+        ],
+        "yield": "98%",
+        "time": "24 hours",
+        "washing_method": "not specified",
+        "drying_method": "removed under reduced pressure",
+        "equipment": "not specified"
+      }
+    },
+    {
+      "label": "Catalytic Cyanosilylation Reactions",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "anhydrous methylene chloride",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "trimethylsilyl cyanide",
+            "amount": "variable"
+          },
+          {
+            "name": "aldehyde (benzaldehyde, propionaldehyde, 1-naphthaldehyde)",
+            "amount": "1 mmol"
+          },
+          {
+            "name": "1e",
+            "amount": "0.1 mmol"
+          },
+          {
+            "name": "1M HCl",
+            "amount": "5 mL"
+          }
+        ],
+        "yield": "variable",
+        "time": "16 hours",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "equipment": "not specified"
+      }
+    },
+    {
+      "label": "Catalytic Ring Opening of Cyclic Anhydrides",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "anhydrous tetrahydrofuran",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "meso-2,3-dimethylsuccinic anhydride",
+            "amount": "0.128 g, 1 mmol"
+          },
+          {
+            "name": "1e",
+            "amount": "0.160 g, 0.111 mmol"
+          },
+          {
+            "name": "dry MeOH",
+            "amount": "0.4 mL, 10 mmol"
+          }
+        ],
+        "yield": "81%",
+        "time": "16 hours",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "equipment": "not specified"
+      }
+    },
+    {
+      "label": "Catalytic Diels-Alder Reactions",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "not specified",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "methyl acrylate",
+            "amount": "0.086 g, 1mmol"
+          },
+          {
+            "name": "cyclopentadiene",
+            "amount": "1.6 ml, 20 mmol"
+          },
+          {
+            "name": "1e",
+            "amount": "0.065 g, 0.045 mmol"
+          }
+        ],
+        "yield": "86%",
+        "time": "12 hours",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "equipment": "not specified"
+      }
+    },
+    {
+      "label": "Enantioselective Separation of trans-1,2-Diaminocyclohexane",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "methanol and triethylamine (99:1 v:v)",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "racemic trans-1,2-diaminocyclohexane",
+            "amount": "0.100 g (0.88 mmol)"
+          },
+          {
+            "name": "1e (ammonia treated)",
+            "amount": "0.904 g, 0.63 mmol"
+          }
+        ],
+        "yield": "not applicable",
+        "time": "not specified",
+        "washing_method": "flash chromatography",
+        "drying_method": "not specified",
+        "equipment": "flash chromatography setup"
+      }
+    }
+  ]
+}

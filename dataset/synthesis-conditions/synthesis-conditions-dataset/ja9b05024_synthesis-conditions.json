@@ -1,0 +1,86 @@
+{
+  "materials": [
+    {
+      "material_name": "[Mn]K",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "chemical": "[Mn-H]H2",
+              "amount": "95.0 mg, 179 µmol, 1.0 eq."
+            },
+            {
+              "chemical": "imine 1a",
+              "amount": "48.6 mg, 268 µmol, 1.5 eq."
+            },
+            {
+              "chemical": "KOtBu",
+              "amount": "0.2 M in thf; 1.79 mL, 358 µmol, 2.0 eq."
+            }
+          ],
+          "solvent": "thf",
+          "solvent_amount": "210 µL",
+          "temperature": "50 °C",
+          "time": "overnight",
+          "atmosphere": "N/A",
+          "special_details": "The solution turned from yellow to dark green. Crystals were collected after several days.",
+          "yield": "41 % (74.0 µmol, 42.0 mg)",
+          "appearance": "dark green powder"
+        }
+      ]
+    },
+    {
+      "material_name": "[Mn-H]HK",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "chemical": "[Mn-H]H2",
+              "amount": "53.1 mg, 100 µmol, 1.0 eq."
+            },
+            {
+              "chemical": "KH",
+              "amount": "4.01 mg, 100 µmol, 1.0 eq."
+            }
+          ],
+          "solvent": "thf",
+          "solvent_amount": "4 mL",
+          "temperature": "room temperature",
+          "time": "10 minutes",
+          "atmosphere": "N/A",
+          "special_details": "The solvent was removed under vacuum while keeping the temperature below 0 °C.",
+          "yield": "62 % (61.5 µmol, 35 mg)",
+          "appearance": "orange powder"
+        }
+      ]
+    },
+    {
+      "material_name": "[Mn-H]K2",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "chemical": "[Mn-H]H2",
+              "amount": "53.1 mg, 100 µmol, 1.0 eq."
+            },
+            {
+              "chemical": "KH",
+              "amount": "8.02 mg, 200 µmol, 2.0 eq."
+            }
+          ],
+          "solvent": "thf",
+          "solvent_amount": "4 mL",
+          "temperature": "room temperature",
+          "time": "30 minutes",
+          "atmosphere": "N/A",
+          "special_details": "The solvent was removed under vacuum while keeping the temperature below 0 °C.",
+          "yield": "54 % (54.4 µmol, 37 mg)",
+          "appearance": "orange powder"
+        }
+      ]
+    }
+  ]
+}

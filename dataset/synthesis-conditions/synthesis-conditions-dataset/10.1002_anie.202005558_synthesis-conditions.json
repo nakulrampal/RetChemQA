@@ -1,0 +1,39 @@
+{
+  "materials": [
+    {
+      "name": "STA-28",
+      "synthesis_conditions": {
+        "templates": [
+          "1,10-phenanthroline",
+          "methylated analogues of 1,10-phenanthroline"
+        ],
+        "metal_sources": [
+          "iron (II) acetate",
+          "FeCl3"
+        ],
+        "calcination_temperature": "600 8C",
+        "calcination_time": "10 h",
+        "pore_volume_after_calcination": "0.15 cm3 g-1",
+        "alternative_stabilization_method": "adsorption of hexane",
+        "pore_volume_after_alternative_stabilization": "0.21 cm3 g-1",
+        "final_pore_volume": "0.26 cm3 g-1"
+      }
+    },
+    {
+      "name": "FeAlPO STA-28",
+      "synthesis_conditions": {
+        "templates": [
+          "4-methyl-phen"
+        ],
+        "metal_sources": [
+          "iron (II) acetate",
+          "FeCl3"
+        ],
+        "Fe_to_Al_plus_Fe_ratio": "up to 0.155",
+        "calcination_temperature": "600 8C",
+        "calcination_time": "10 h",
+        "pore_volume_after_calcination": "0.26 cm3 g-1"
+      }
+    }
+  ]
+}

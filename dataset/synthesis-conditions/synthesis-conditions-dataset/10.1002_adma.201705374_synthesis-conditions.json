@@ -1,0 +1,73 @@
+{
+  "materials": [
+    {
+      "name": "SIFSIX-1-Cu",
+      "synthesis_conditions": {
+        "references": "[1] and [27]",
+        "activation": "Evacuated at room temperature until the pressure dropped below 7 µm Hg",
+        "gas_adsorption_isotherms_temperature_range": "273–313 K",
+        "gas_adsorption_isotherms_equipment": "ASAP 2050 Analyzer Micrometities",
+        "breakthrough_tests_equipment": "Stainless steel column (4.6 mm inner diameter × 50 mm)",
+        "breakthrough_tests_weight_packed": "0.23 g",
+        "breakthrough_tests_gas_velocity": "2.0 mL min−1",
+        "breakthrough_tests_regeneration": "Purged with He (15 mL min−1) for 12 h at 25 °C",
+        "breakthrough_tests_gas_chromatography": "GC-2010 plus, SHIMADZU with a flame ionization detector (FID)",
+        "breakthrough_tests_gas_chromatography_conditions": "Capillary column (Agilent GS-GASPRO, φ 0.32 × 60 m) at 323 K with a He flow rate of 4 mL min−1"
+      }
+    },
+    {
+      "name": "SIFSIX-2-Cu-i",
+      "synthesis_conditions": {
+        "references": "[1] and [27]",
+        "activation": "Evacuated at room temperature until the pressure dropped below 7 µm Hg",
+        "gas_adsorption_isotherms_temperature_range": "273–313 K",
+        "gas_adsorption_isotherms_equipment": "ASAP 2050 Analyzer Micrometities",
+        "breakthrough_tests_equipment": "Stainless steel column (4.6 mm inner diameter × 50 mm)",
+        "breakthrough_tests_weight_packed": "0.21 g",
+        "breakthrough_tests_gas_velocity": "2.0 mL min−1",
+        "breakthrough_tests_regeneration": "Purged with He (15 mL min−1) for 12 h at 25 °C",
+        "breakthrough_tests_gas_chromatography": "GC-2010 plus, SHIMADZU with a flame ionization detector (FID)",
+        "breakthrough_tests_gas_chromatography_conditions": "Capillary column (Agilent GS-GASPRO, φ 0.32 × 60 m) at 323 K with a He flow rate of 4 mL min−1"
+      }
+    },
+    {
+      "name": "SIFSIX-3-Ni",
+      "synthesis_conditions": {
+        "references": "[1] and [27]",
+        "activation": "Degased at 100 °C for 15 h under dynamic pressure below 6 µm Hg",
+        "gas_adsorption_isotherms_temperature_range": "273–313 K",
+        "gas_adsorption_isotherms_equipment": "ASAP 2050 Analyzer Micrometities",
+        "breakthrough_tests_equipment": "Stainless steel column (4.6 mm inner diameter × 50 mm)",
+        "breakthrough_tests_weight_packed": "0.64 g",
+        "breakthrough_tests_gas_velocity": "2.0 mL min−1",
+        "breakthrough_tests_regeneration": "Purged with He (20 mL min−1) for 48 h at 393 K",
+        "breakthrough_tests_gas_chromatography": "GC-2010 plus, SHIMADZU with a flame ionization detector (FID)",
+        "breakthrough_tests_gas_chromatography_conditions": "Capillary column (Agilent GS-GASPRO, φ 0.32 × 60 m) at 323 K with a He flow rate of 4 mL min−1"
+      }
+    },
+    {
+      "name": "SIFSIX-3-Zn",
+      "synthesis_conditions": {
+        "references": "[1] and [27]",
+        "activation": "Degased at 100 °C for 15 h under dynamic pressure below 6 µm Hg",
+        "gas_adsorption_isotherms_temperature_range": "273–313 K",
+        "gas_adsorption_isotherms_equipment": "ASAP 2050 Analyzer Micrometities"
+      }
+    },
+    {
+      "name": "NBOFFIVE-1-Ni",
+      "synthesis_conditions": {
+        "references": "[1] and [27]",
+        "activation": "Degased at 100 °C for 15 h under dynamic pressure below 6 µm Hg",
+        "gas_adsorption_isotherms_temperature_range": "273–313 K",
+        "gas_adsorption_isotherms_equipment": "ASAP 2050 Analyzer Micrometities",
+        "breakthrough_tests_equipment": "Stainless steel column (4.6 mm inner diameter × 50 mm)",
+        "breakthrough_tests_weight_packed": "0.63 g",
+        "breakthrough_tests_gas_velocity": "2.0 mL min−1",
+        "breakthrough_tests_regeneration": "Purged with He (15 mL min−1) for 12 h at 25 °C",
+        "breakthrough_tests_gas_chromatography": "GC-2010 plus, SHIMADZU with a flame ionization detector (FID)",
+        "breakthrough_tests_gas_chromatography_conditions": "Capillary column (Agilent GS-GASPRO, φ 0.32 × 60 m) at 323 K with a He flow rate of 4 mL min−1"
+      }
+    }
+  ]
+}

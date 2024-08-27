@@ -1,0 +1,48 @@
+{
+  "materials": [
+    {
+      "name": "Bulk crystals of [Fe(μ-bib)2(SCN)2]n (1)",
+      "synthesis_conditions": {
+        "method": "Layering method",
+        "reactants": [
+          "FeCl2·4 H2O",
+          "bib (4,4’-bis(1-imidazolyl)-bibenzene)",
+          "KSCN"
+        ],
+        "atmosphere": "N2",
+        "post_treatment": "Dried",
+        "notes": "Colorless bulk crystals of 1 can be readily oxidized to brown form o-1 upon prolonged exposure to air at room temperature."
+      }
+    },
+    {
+      "name": "Ultrathin metal–organic layer (MOL) catalyst",
+      "synthesis_conditions": {
+        "method": "Mechanical exfoliation",
+        "starting_material": "Readily oxidized bulk crystals (o-1)",
+        "steps": [
+          "Grinding",
+          "Organic-solvent-assisted ultrasonic treatment"
+        ],
+        "characterization": [
+          {
+            "technique": "TEM",
+            "findings": "Free-standing nanolayer morphology observed."
+          },
+          {
+            "technique": "PXRD",
+            "findings": "Patterns consistent with as-synthesized bulk o-1 and calculated from crystal data, implying structure maintenance."
+          },
+          {
+            "technique": "IR spectra",
+            "findings": "No functional groups change during the exfoliation."
+          },
+          {
+            "technique": "AFM",
+            "findings": "Uniform thickness of 4.2 ± 0.3 nm, corresponding to about ten iron-organic layers."
+          }
+        ],
+        "notes": "High-quality MOL nanolayers with uniform thickness and large area were successfully obtained."
+      }
+    }
+  ]
+}

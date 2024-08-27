@@ -1,0 +1,82 @@
+{
+  "materials": [
+    {
+      "name": "1·2H2O",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "ethanol/water",
+            "ratio": "50/50"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "iron(II) perchlorate hydrate",
+            "amount": "21.3 mg",
+            "molarity": "0.05 mmol"
+          },
+          {
+            "name": "potassium tetracyanonickelate(II)",
+            "amount": "12.9 mg",
+            "molarity": "0.05 mmol"
+          },
+          {
+            "name": "pyrazine",
+            "amount": "4.0 mg",
+            "molarity": "0.05 mmol"
+          }
+        ],
+        "method": "slow diffusion",
+        "time": "several months",
+        "temperature": "room temperature",
+        "yield": "dichroic red-yellow crystals",
+        "bulk_sample_synthesis": {
+          "method": "fast mixing and stirring",
+          "time": "1 day",
+          "temperature": "room temperature",
+          "yield": "fine orange-yellow powders"
+        },
+        "elemental_analysis": {
+          "found": {
+            "C": "28.74",
+            "N": "24.63",
+            "H": "2.17"
+          },
+          "calculated": {
+            "C": "28.71",
+            "N": "25.11",
+            "H": "2.41"
+          }
+        },
+        "purity_confirmation": "PXRD"
+      }
+    },
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "method": "heating under vacuum",
+        "temperature": "80 °C",
+        "time": "21 h",
+        "from_material": "1·2H2O"
+      }
+    },
+    {
+      "name": "1·xGuest",
+      "synthesis_conditions": {
+        "method": "adding a few drops of solvent to 1",
+        "time": "approximately 12 h",
+        "solvents": [
+          "N2",
+          "O2",
+          "CO2",
+          "methanol (Me)",
+          "ethanol (Et)",
+          "acetone (Ac)",
+          "acetonitrile (Acn)",
+          "toluene (Tol)"
+        ],
+        "sealed_under_solvent": true
+      }
+    }
+  ]
+}

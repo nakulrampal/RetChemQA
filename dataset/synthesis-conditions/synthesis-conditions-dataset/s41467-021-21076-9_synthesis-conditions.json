@@ -1,0 +1,70 @@
+{
+  "materials": [
+    {
+      "name": "MOF-NiBr2",
+      "synthesis_conditions": {
+        "temperature": "105 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "volume": "2.0 ml"
+          },
+          {
+            "name": "CHCl3",
+            "volume": "1.0 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "TPVA",
+            "amount": "3.0 mg"
+          },
+          {
+            "name": "NiBr2",
+            "amount": "5.0 mg"
+          }
+        ],
+        "equipment": "glass pressure tube",
+        "time": "48 h",
+        "sonication_time": "1.5 h",
+        "yield": "not specified",
+        "washing_method": "ethanol",
+        "drying_method": "vacuum overnight",
+        "additional_information": "Sonication of solvents before adding TPVA and NiBr2 is essential. An excess of the metal salt was used to ensure full coordination and enhance morphological uniformity."
+      }
+    },
+    {
+      "name": "MOF-NiBr2 (without sonication)",
+      "synthesis_conditions": {
+        "temperature": "105 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "volume": "2.0 ml"
+          },
+          {
+            "name": "CHCl3",
+            "volume": "1.0 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "TPVA",
+            "amount": "3.0 mg"
+          },
+          {
+            "name": "NiBr2",
+            "amount": "5.0 mg"
+          }
+        ],
+        "equipment": "glass pressure tube",
+        "time": "48 h",
+        "sonication_time": "none",
+        "yield": "not specified",
+        "washing_method": "ethanol",
+        "drying_method": "vacuum overnight",
+        "additional_information": "This synthesis was performed without sonication of solvents, leading to monodomain hexagonal prism crystals instead of multidomain structures."
+      }
+    }
+  ]
+}

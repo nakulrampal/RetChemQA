@@ -1,0 +1,30 @@
+{
+  "materials": [
+    {
+      "name": "FJU-23-H2O",
+      "synthesis_conditions": {
+        "temperature": "85°C",
+        "solvents": ["DMF", "H2O"],
+        "solvent_amounts": ["3 ml", "2 ml"],
+        "equipment": "23-ml glass jar",
+        "chemicals_used": ["Zn(NO3)2·6H2O (0.1 mmol, 0.0297 g)", "H2L (0.1 mmol, 0.0233 g)"],
+        "time": "24 hours",
+        "yield": "42%",
+        "drying_method": "room temperature"
+      }
+    },
+    {
+      "name": "FJU-23-D2O",
+      "synthesis_conditions": {
+        "temperature": "85°C",
+        "solvents": ["DMF", "D2O"],
+        "solvent_amounts": ["3 ml", "2 ml"],
+        "equipment": "23-ml glass jar",
+        "chemicals_used": ["Zn(NO3)2·6H2O (0.1 mmol, 0.0297 g)", "H2L (0.1 mmol, 0.0233 g)"],
+        "time": "24 hours",
+        "yield": "15.6%",
+        "drying_method": "room temperature"
+      }
+    }
+  ]
+}

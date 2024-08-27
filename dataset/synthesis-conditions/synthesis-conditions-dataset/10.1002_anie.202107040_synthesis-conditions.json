@@ -1,0 +1,55 @@
+{
+  "materials": [
+    {
+      "name": "RR-AlaTA, SS-AlaTA, RRR-AlaTME, SSS-AlaTME, RS-AlaTA",
+      "synthesis_conditions": {
+        "solvents": [
+          "DMF/water",
+          "DMSO/water",
+          "EtOH/water",
+          "MeOH/water"
+        ],
+        "solvent_ratio": "1:1 (v/v in all cases)",
+        "gelation_studies": "formed gel in mixed aqueous solvents",
+        "minimum_gel_concentrations": "similar for individual enantiomers, slightly higher for RS-AlaTA",
+        "thermal_stability": "RR- and SS-AlaTA similar and higher than RS-AlaTA; trimesic amides higher than terephthalate",
+        "morphologies": "fibrous networks, thickness 0.2 to 1.6 mm",
+        "rheology_experiments": "similar mechanical strength for enantiomeric gel networks, slightly higher than RS-AlaTA; trimesic gels stiffer"
+      }
+    },
+    {
+      "name": "MOM-1 a, MOM-1 b",
+      "synthesis_conditions": {
+        "gelator": "RR-AlaTA, SS-AlaTA",
+        "ligand": "N-(4-pyridyl)nicotinamide (4PNA)",
+        "metal_node": "copper(II) chloride",
+        "solvent": "DMF/water",
+        "time": "4-5 days",
+        "crystallization_method": "gel phase synthesis",
+        "structural_analysis": "X-ray crystallography",
+        "space_group": "P3121 for MOM-1 a, P3221 for MOM-1 b",
+        "chirality_induction": "due to helicity of 4PNA induced by metal coordination"
+      }
+    },
+    {
+      "name": "MOM-2 a, MOM-2 b",
+      "synthesis_conditions": {
+        "gelator": "RR-AlaTA, SS-AlaTA",
+        "ligand": "N-(4-pyridyl)nicotinamide (4PNA)",
+        "metal_node": "copper(II) bromide",
+        "solvent": "DMF/water",
+        "structural_analysis": "X-ray crystallography",
+        "space_group": "P3121 for MOM-2 a, P3221 for MOM-2 b",
+        "isostructural_with": "MOM-1 a and MOM-1 b"
+      }
+    },
+    {
+      "name": "RR-ValTA, SS-ValTA, RRR-ValTME, SSS-ValTME",
+      "synthesis_conditions": {
+        "analogue": "valine derivatives",
+        "enantioselectivity": "similar to AlaTA and AlaTME gels",
+        "enhanced_enantioselectivity": "for trimesic gelators due to additional chiral center"
+      }
+    }
+  ]
+}

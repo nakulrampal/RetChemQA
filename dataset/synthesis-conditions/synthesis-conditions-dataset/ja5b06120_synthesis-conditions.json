@@ -1,0 +1,43 @@
+{
+  "materials": [
+    {
+      "name": "FeF3C10H8N2",
+      "synthesis_conditions": {
+        "temperature": "200 °C",
+        "solvents": [
+          {
+            "name": "aqueous hydrofluoric acid",
+            "amount": "0.8 mL (~21.6 mmol) of 46.0~48.0%"
+          },
+          {
+            "name": "pure water",
+            "amount": "45 mL"
+          }
+        ],
+        "equipment": [
+          {
+            "type": "Teflon pouch",
+            "details": "sealed with a sealer in Teflon pouches and placed into a 125 mL Parr autoclave"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Iron(III) oxide",
+            "amount": "0.100 g (0.626 mmol)",
+            "purity": "99.9%"
+          },
+          {
+            "name": "anhydrous 4,4’-bipyridyl",
+            "amount": "0.400 g (2.561 mmol)"
+          }
+        ],
+        "time": "24 hours",
+        "cooling_rate": "slowly cooled to ambient temperature for 30 hours",
+        "yield": "36.3% (based on Fe2O3)",
+        "washing_method": "recovered in air after vacuum filtration",
+        "drying_method": "Not specified",
+        "additional_information": "Hydrofluoric acid is toxic and corrosive and must be handled with extreme caution."
+      }
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "materials": [
+    {
+      "material": "[(Me3Si)2N]2(µ-SPh)Pr(µ-SPh)Li(THF)2",
+      "id": "4",
+      "synthesis_conditions": {
+        "solvents": ["THF", "hexane"],
+        "solvent_amounts": ["30 mL", "10 mL"],
+        "chemicals_used": ["1", "HSPh"],
+        "chemical_amounts": ["1.45 g, 1.65 mmol", "1.27 mmol"],
+        "temperature": "room temperature",
+        "time": "overnight",
+        "yield": "23%",
+        "washing_method": "washed thoroughly with hexane (20 mL)",
+        "drying_method": "vacuum evaporation",
+        "additional_steps": [
+          {
+            "step_description": "extraction with toluene",
+            "solvent": "toluene",
+            "solvent_amount": "8 mL × 2",
+            "temperature": "–18 °C",
+            "time": "several days"
+          }
+        ]
+      }
+    },
+    {
+      "material": "Li[{(Me3Si)2N}4(µ4-Cl)Nd4(µ-SPh)8]·C6H6",
+      "id": "5·C6H6",
+      "synthesis_conditions": {
+        "solvents": ["hexane"],
+        "solvent_amounts": ["10 mL"],
+        "chemicals_used": ["2", "HSPh"],
+        "chemical_amounts": ["0.991 g, 1.12 mmol", "1.3 mmol"],
+        "temperature": "room temperature",
+        "yield": "39%",
+        "additional_steps": [
+          {
+            "step_description": "similar procedures to those used in the preparation of 1 and 4"
+          }
+        ]
+      }
+    },
+    {
+      "material": "[(Me3Si)2N]4(µ4-Cl)Sm4(µ-SPh)4(µ3-Cl)4Li(THF)",
+      "id": "6",
+      "synthesis_conditions": {
+        "solvents": ["hexane"],
+        "solvent_amounts": ["10 mL"],
+        "chemicals_used": ["[(Me3Si)2N]3Sm(µ-Cl)Li(THF)3", "HSPh"],
+        "chemical_amounts": ["1.17 g, 1.31 mmol", "1.31 mmol"],
+        "temperature": "room temperature",
+        "yield": "30%",
+        "additional_steps": [
+          {
+            "step_description": "similar procedures to those used in the preparation of 1 and 4"
+          }
+        ]
+      }
+    },
+    {
+      "material": "[{((Me3Si)2N)2Pr(µ‘-Cl)Li(THF)3}(µ-Cl)]2",
+      "id": "7",
+      "synthesis_conditions": {
+        "solvents": ["hexane"],
+        "solvent_amounts": ["10 mL"],
+        "temperature": "2 °C",
+        "time": "several days",
+        "yield": "11%"
+      }
+    },
+    {
+      "material": "[{((Me3Si)2N)2Sm(µ‘-Cl)Li(THF)2}(µ3-Cl)]2",
+      "id": "8",
+      "synthesis_conditions": {
+        "temperature": "105-107 °C",
+        "yield": "9%"
+      }
+    }
+  ]
+}

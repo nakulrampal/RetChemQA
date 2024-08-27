@@ -1,0 +1,101 @@
+{
+  "materials": [
+    {
+      "name": "CALF-20",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis of CALF20 single crystals",
+          "chemicals_used": [
+            {
+              "name": "2,5-dihydroxy-1,4-benzoquinone",
+              "amount": "0.05 g"
+            },
+            {
+              "name": "ethanol",
+              "amount": "6.0 mL",
+              "concentration": "50%"
+            },
+            {
+              "name": "Zn(NO3)2·6H2O",
+              "amount": "0.18 g"
+            },
+            {
+              "name": "1,2,4-triazole",
+              "amount": "0.05 g"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "ethanol",
+              "amount": "6.0 mL",
+              "concentration": "50%"
+            }
+          ],
+          "equipment": "Teflon autoclave",
+          "temperature": "180 °C",
+          "time": "48 hours",
+          "cooling": "slowly cooled to room temperature in 12 hours"
+        },
+        {
+          "step": "Synthesis of CALF20 powder",
+          "chemicals_used": [
+            {
+              "name": "zinc oxalate",
+              "amount": "6.60 g"
+            },
+            {
+              "name": "1,2,4-triazole",
+              "amount": "5.00 g"
+            },
+            {
+              "name": "methanol",
+              "amount": "66.0 mL"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "methanol",
+              "amount": "66.0 mL"
+            }
+          ],
+          "equipment": "Teflon autoclave",
+          "temperature": "180 °C",
+          "time": "48 hours",
+          "yield": "70%",
+          "washing_method": "washed with 40.0 mL of methanol"
+        },
+        {
+          "step": "Structuring of CALF20",
+          "chemicals_used": [
+            {
+              "name": "polysulfone",
+              "amount": "0.75 g"
+            },
+            {
+              "name": "N-methyl-2-pyrrolidone",
+              "amount": "6.26 g"
+            },
+            {
+              "name": "pluronic F127",
+              "amount": "0.25 g"
+            },
+            {
+              "name": "powder CALF20",
+              "amount": "9 g"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "N-methyl-2-pyrrolidone",
+              "amount": "6.26 g"
+            }
+          ],
+          "equipment": "water tank",
+          "method": "phase inversion method",
+          "particle_density": "570 kg/m3",
+          "particle_size": "1.0-3.0 mm"
+        }
+      ]
+    }
+  ]
+}

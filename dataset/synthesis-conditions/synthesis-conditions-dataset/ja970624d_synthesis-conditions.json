@@ -1,0 +1,91 @@
+{
+  "materials": [
+    {
+      "material_name": "Complex a of [Cu(hfac)2·1]",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "chemical": "Cu(hfac)2",
+              "solvent": "CH2Cl2−MeOH",
+              "amount": "1:1 molar ratio"
+            },
+            {
+              "chemical": "1",
+              "solvent": "CH2Cl2",
+              "amount": "1:1 molar ratio"
+            }
+          ],
+          "temperature": "room temperature",
+          "time": "not specified",
+          "equipment": "not specified",
+          "yield": "not specified",
+          "washing_method": "recrystallization",
+          "washing_solvent": "MeOH",
+          "drying_method": "not specified",
+          "crystal_description": "yellow-green plates",
+          "IR": "2072 cm-1"
+        }
+      ]
+    },
+    {
+      "material_name": "Complex b of [Cu(hfac)2·1]",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "chemical": "[Cu(hfac)2·H2O]",
+              "amount": "0.25 g"
+            },
+            {
+              "chemical": "1",
+              "solvent": "CH2Cl2",
+              "amount": "0.1 g"
+            }
+          ],
+          "solvents": [
+            {
+              "solvent": "n-heptane",
+              "amount": "50 mL, reduced to 30 mL"
+            }
+          ],
+          "temperature": "heated then cooled under dry nitrogen atmosphere",
+          "time": "not specified",
+          "equipment": "not specified",
+          "yield": "not specified",
+          "washing_method": "recrystallization",
+          "washing_solvent": "MeOH−CH2Cl2−benzene",
+          "drying_method": "reduced pressure",
+          "crystal_description": "dark green bricks",
+          "IR": "2072 cm-1"
+        }
+      ]
+    },
+    {
+      "material_name": "Copper 1:2 Complex [Cu(hfac)2·22]",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "chemical": "Cu(hfac)2",
+              "solvent": "CH2Cl2−MeOH−n-hexane",
+              "amount": "two molar equivalents of 2"
+            }
+          ],
+          "temperature": "room temperature",
+          "time": "not specified",
+          "equipment": "not specified",
+          "yield": "not specified",
+          "washing_method": "not specified",
+          "washing_solvent": "not specified",
+          "drying_method": "not specified",
+          "crystal_description": "orange bricks",
+          "IR": "2064 cm-1"
+        }
+      ]
+    }
+  ]
+}

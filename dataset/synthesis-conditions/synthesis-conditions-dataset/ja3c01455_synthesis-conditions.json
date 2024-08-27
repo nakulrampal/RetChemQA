@@ -1,0 +1,85 @@
+{
+  "materials": [
+    {
+      "name": "IMIDFE",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Ferrocene",
+            "amount": "55.8 mg",
+            "molarity": "0.3 mmol"
+          },
+          {
+            "name": "Imidazole",
+            "amount": "40.8 mg",
+            "molarity": "0.6 mmol"
+          }
+        ],
+        "solvents": "None (solvent-free reaction)",
+        "temperature": "150 °C",
+        "time": "4 days",
+        "equipment": "Layering tube (4 mm diameter) sealed under vacuum",
+        "atmosphere": "Vacuum",
+        "yield": "Not specified",
+        "washing_method": "Unreacted precursors were extracted with acetonitrile",
+        "drying_method": "Not specified",
+        "phase_purity": "Established by X-ray powder diffraction"
+      }
+    },
+    {
+      "name": "MUV-24(lla)",
+      "synthesis_conditions": {
+        "precursor": "IMIDFE",
+        "temperature_initial": "40 °C",
+        "temperature_final": "300 °C",
+        "time_initial": "15 min",
+        "heating_rate": "10 °C s–1",
+        "equipment": "Differential scanning calorimeter (DSC)",
+        "atmosphere": "N2",
+        "yield": "Not specified",
+        "phase_purity": "Established by X-ray powder diffraction"
+      }
+    },
+    {
+      "name": "MUV-24(zni)",
+      "synthesis_conditions": {
+        "precursor": "IMIDFE",
+        "temperature_initial": "40 °C",
+        "temperature_final": "430 °C",
+        "time_initial": "15 min",
+        "heating_rate": "10 °C s–1",
+        "equipment": "Differential scanning calorimeter (DSC)",
+        "atmosphere": "N2",
+        "yield": "Not specified",
+        "phase_purity": "Established by X-ray powder diffraction"
+      }
+    },
+    {
+      "name": "MUV-24(coi)",
+      "synthesis_conditions": {
+        "precursor": "MUV-24(zni)",
+        "temperature": "Room temperature",
+        "time": "Approximately 4 hours",
+        "equipment": "Layering tube (4 mm diameter) sealed under vacuum",
+        "atmosphere": "Vacuum",
+        "yield": "Not specified",
+        "phase_purity": "Not specified",
+        "additional_information": "Transformation of zni phase into coi phase"
+      }
+    },
+    {
+      "name": "ag-MUV-24",
+      "synthesis_conditions": {
+        "precursor": "IMIDFE",
+        "temperature_initial": "40 °C",
+        "temperature_final": "500 °C",
+        "time_initial": "15 min",
+        "heating_rate": "10 °C s–1",
+        "equipment": "Differential scanning calorimeter (DSC)",
+        "atmosphere": "N2",
+        "yield": "Not specified",
+        "phase_purity": "Absence of crystalline phases established by X-ray powder diffraction"
+      }
+    }
+  ]
+}

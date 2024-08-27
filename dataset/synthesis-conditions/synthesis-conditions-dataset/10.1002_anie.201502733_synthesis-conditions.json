@@ -1,0 +1,68 @@
+{
+  "materials": [
+    {
+      "name": "polyMOFs",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation of polymer ligands",
+          "temperature": "Not specified",
+          "solvents": [
+            {
+              "name": "acetone",
+              "amount": "Varied"
+            },
+            {
+              "name": "DMSO",
+              "amount": "Varied"
+            }
+          ],
+          "chemicals_used": [
+            "dibromoalkanes Br(CH2)xBr",
+            "H2bdc units"
+          ],
+          "time": "Not specified",
+          "equipment": "Not specified",
+          "yield": "Not specified",
+          "molecular_weight_range": "12,500 g mol-1 to 17,600 g mol-1",
+          "polydispersity_index_values": "2.0 to 2.6"
+        },
+        {
+          "step": "Synthesis of polyMOFs",
+          "temperature": "60 to 100 88C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "Not specified"
+            }
+          ],
+          "chemicals_used": [
+            "pbdc-xa polymer ligands",
+            "Zn(NO3)2·6 H2O"
+          ],
+          "time": "Not specified",
+          "equipment": "Not specified",
+          "yield": "Not specified",
+          "additional_information": "The morphology and particle size of the resulting materials was determined by SEM."
+        },
+        {
+          "step": "Lower temperature synthesis",
+          "temperature": "80 88C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "Not specified"
+            }
+          ],
+          "chemicals_used": [
+            "pbdc-7a",
+            "pbdc-8a"
+          ],
+          "time": "Not specified",
+          "equipment": "Not specified",
+          "yield": "Not specified",
+          "additional_information": "Produced crystalline films, showing an intergrown network of crystallites."
+        }
+      ]
+    }
+  ]
+}

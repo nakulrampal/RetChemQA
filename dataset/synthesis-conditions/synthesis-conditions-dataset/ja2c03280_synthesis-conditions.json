@@ -1,0 +1,122 @@
+{
+  "materials": [
+    {
+      "name": "MFM-190(F)",
+      "synthesis_conditions": {
+        "temperature": "80°C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "50 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "5 mL"
+          },
+          {
+            "name": "MeCN",
+            "amount": "10 mL"
+          },
+          {
+            "name": "DMSO",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "4",
+            "amount": "0.1 g",
+            "molar_amount": "0.24 mmol"
+          },
+          {
+            "name": "Cu(NO3)2.2.5H2O",
+            "amount": "0.2 g",
+            "molar_amount": "1.07 mmol"
+          }
+        ],
+        "time": "4 days",
+        "yield": "~42%",
+        "washing_method": "DMF, acetone",
+        "drying_method": "air"
+      }
+    },
+    {
+      "name": "MFM-190(NO2)",
+      "synthesis_conditions": {
+        "temperature": "80°C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "17 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "9 mL"
+          },
+          {
+            "name": "MeCN",
+            "amount": "6 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "7",
+            "amount": "0.10 g",
+            "molar_amount": "0.22 mmol"
+          },
+          {
+            "name": "CuCl2",
+            "amount": "0.18 mg",
+            "molar_amount": "1.34 mmol"
+          }
+        ],
+        "time": "2 days",
+        "yield": "~40%",
+        "washing_method": "DMF, acetone",
+        "drying_method": "air"
+      }
+    },
+    {
+      "name": "MFM-190(CH3)",
+      "synthesis_conditions": {
+        "temperature": "80°C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "34 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "18 mL"
+          },
+          {
+            "name": "MeCN",
+            "amount": "12 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "11",
+            "amount": "0.20 mg",
+            "molar_amount": "0.48 mmol"
+          },
+          {
+            "name": "CuCl2",
+            "amount": "0.38 mg",
+            "molar_amount": "2.83 mmol"
+          }
+        ],
+        "time": "2 days",
+        "yield": "~45%",
+        "washing_method": "DMF",
+        "drying_method": "air"
+      }
+    },
+    {
+      "name": "MFM-100, MFM-101, MFM-102, MFM-190(H) (ZJU-5), MFM-126",
+      "synthesis_conditions": {
+        "note": "Prepared according to literature procedures."
+      }
+    }
+  ]
+}

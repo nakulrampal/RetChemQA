@@ -1,0 +1,62 @@
+{
+  "materials": [
+    {
+      "name": "CSTAR-NO3",
+      "synthesis_conditions": {
+        "temperature": "105 °C",
+        "time": "2 days",
+        "solvents": [
+          {
+            "name": "DMF/CHCl3",
+            "volume_ratio": "3:1 v/v",
+            "sonication": "sonicated solvents"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cu(NO3)2",
+            "molar_ratio": "2:1 with AdDB"
+          },
+          {
+            "name": "AdDB",
+            "amount": "3.0 mg",
+            "concentration": "0.9 mM"
+          }
+        ],
+        "equipment": "glass pressure tube",
+        "yield": "not specified",
+        "washing_method": "washed with ethanol",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "CSTAR-SO4",
+      "synthesis_conditions": {
+        "temperature": "105 °C",
+        "time": "2 days",
+        "solvents": [
+          {
+            "name": "DMF/CHCl3",
+            "volume_ratio": "3:1 v/v",
+            "sonication": "sonicated solvents"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CuSO4",
+            "molar_ratio": "2:1 with AdDB"
+          },
+          {
+            "name": "AdDB",
+            "amount": "3.0 mg",
+            "concentration": "0.9 mM"
+          }
+        ],
+        "equipment": "glass pressure tube",
+        "yield": "not specified",
+        "washing_method": "washed with ethanol",
+        "drying_method": "not specified"
+      }
+    }
+  ]
+}

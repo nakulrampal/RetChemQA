@@ -1,0 +1,55 @@
+{
+  "materials": [
+    {
+      "material": "CV",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "Room Temperature",
+          "chemicals_used": "4,4′-bipyridine (1.6 g, 10.0 mmol), acrylic acid (12 mL, 150.0 mmol)",
+          "solvent": "chloroform (15 mL)",
+          "time": "24 h",
+          "washing_method": "ultrasonically with acetone and methanol in sequence",
+          "drying_method": "75 °C",
+          "yield": "pale yellow powder",
+          "characterization": [
+            {
+              "technique": "1H NMR",
+              "details": "400 MHz, D2O, δ = 2.88 (t, J = 6.52 Hz, 4H), 4.82 (t, J = 6.52 Hz, 4H), 8.42 (d, J = 6.96 Hz, 4H), 9.03 (d, J = 6.96 Hz, 4H)"
+            },
+            {
+              "technique": "ESI-MS",
+              "details": "H2O, 301 [M + H]+"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "material": "{[Pb3Cl6(CV)] H2O}n (1)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "70 °C",
+          "chemicals_used": "PbCl2 (280 mg, 1 mmol), CV (300 mg, 1 mmol)",
+          "solvent": "water (20 mL)",
+          "time": "several minutes",
+          "method": "stirred, filtered, allowed to volatilize in the dark",
+          "drying_time": "3 d",
+          "yield": "ca. 51% based on Pb",
+          "yield_details": "pale yellow, needle-like crystals",
+          "characterization": [
+            {
+              "technique": "PXRD",
+              "details": "phase purity confirmed"
+            },
+            {
+              "technique": "FT-IR",
+              "details": "KBr, 4000–400 cm−1, bands at 3445 (m), 3089 (w), 3043 (w), 2963­(m), 1630 (m), 1539 (m), 1498 (w), 1430 (m), 1402 (m), 1349 (w), 1306 (w), 1261 (s), 1197 (w), 1163 (w), 1097 (s), 1020 (s), 948 (w), 865 (w), 800 (s), 676 (w), 586 (w), 561 (w), 533 (w)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

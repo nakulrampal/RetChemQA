@@ -1,0 +1,84 @@
+{
+  "materials": [
+    {
+      "material": "Lithiated Cyanamide (PhNCNLi - HMPA)2",
+      "synthesis_conditions": {
+        "temperature_initial": "-78 C",
+        "temperature_final": "room temperature",
+        "solvents": [
+          {
+            "name": "toluene",
+            "amount": "not specified"
+          },
+          {
+            "name": "hexane",
+            "amount": "not specified",
+            "note": "used for nBuLi solution"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "aminothiatriazole (AH; R = Ph)",
+            "amount": "equimolar with HMPA"
+          },
+          {
+            "name": "HMPA",
+            "amount": "equimolar with AH"
+          },
+          {
+            "name": "LiOH, MeOLi, LiNH2, iPr2NLi",
+            "form": "solids",
+            "note": "one equivalent added"
+          },
+          {
+            "name": "nBuLi",
+            "form": "solution in hexane",
+            "note": "one equivalent added"
+          }
+        ],
+        "time": "not specified",
+        "yield": "20-60%",
+        "additional_steps": [
+          {
+            "step_description": "Crystallization",
+            "conditions": {
+              "temperature": "refrigeration"
+            }
+          }
+        ],
+        "notes": "Crystals of (B)Li . H2O . HMPA are isolated initially with LiOH; subsequent treatment with additional LiOH/HMPA or nBuLi/HMPA affords the desired product."
+      }
+    },
+    {
+      "material": "a,a-Dichloroglycyl Peptides",
+      "synthesis_conditions": {
+        "temperature": "-20 C",
+        "storage_time": "several days",
+        "chemicals_used": [
+          {
+            "name": "2-phenyl-5(4H)-oxazolone (1)"
+          },
+          {
+            "name": "N-sulfenylsuccinimides (e.g., 2)",
+            "note": "reacts with 1 to give 4,4-di(isopropylthio)oxazolones 3"
+          },
+          {
+            "name": "Boc-Val-Gly-OH",
+            "note": "used for peptide azlactone synthesis"
+          },
+          {
+            "name": "DMAP",
+            "form": "catalytic quantities",
+            "note": "used for reaction of oxazolones 3 with amino acid esters"
+          },
+          {
+            "name": "sulfuryl chloride",
+            "note": "used for exchanging alkylthio residues for chlorine substituents in compounds 4"
+          }
+        ],
+        "yield": "37% for peptide azlactone 3b, 69-72% for compounds 4",
+        "notes": "Oxazolones 3 can be stored at approximately -20 C for several days without decomposition. The five-membered ring of 4,4-disubstituted oxazolones 3 opens to give N-acyl peptides 4."
+      }
+    }
+  ]
+}

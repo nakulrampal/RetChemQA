@@ -1,0 +1,89 @@
+{
+  "materials": [
+    {
+      "name": "Ca(squarate)",
+      "synthesis": [
+        {
+          "step": "Synthesis via hydrothermal route",
+          "chemicals_used": [
+            {
+              "name": "Calcium carbonate",
+              "amount": "1.51 mmol, 0.151 g"
+            },
+            {
+              "name": "Squaric acid",
+              "amount": "1.51 mmol, 0.172 g"
+            },
+            {
+              "name": "Water",
+              "amount": "20 mL"
+            }
+          ],
+          "equipment": "25 mL Teflon-lined reactor",
+          "temperature": "120 °C",
+          "time": "24 h",
+          "washing_method": "Washed with water",
+          "drying_method": "Degassed under ultrahigh vacuum (4 μmHg) at 100 °C for 12 h",
+          "yield": "Not specified"
+        }
+      ],
+      "characterization": [
+        {
+          "technique": "Powder X-ray diffraction (PXRD)",
+          "details": "PANalytical X’Pert diffractometer with Cu Kα emission radiation (λ = 0.154 nm) at a range of 8–40° (2θ) with a step size of 0.026°"
+        },
+        {
+          "technique": "Single crystal diffraction",
+          "details": "Bruker Smart Apex II diffractometer with graphite-monochromated Cu Kα radiation at 173 K"
+        },
+        {
+          "technique": "Scanning electron microscope (SEM)",
+          "details": "Hitachi SU-70 after gold sputtering"
+        },
+        {
+          "technique": "Thermal gravimetric analysis (TGA)",
+          "details": "Pyris 1 TGA instrument from 50 to 600 °C in N2 atmosphere at a constant rate of 10 °C/min"
+        },
+        {
+          "technique": "Adsorption-desorption isotherms of CO2",
+          "details": "Micromeritics ASAP 2460 adsorption apparatus at 195 K"
+        }
+      ],
+      "adsorption_measurements_and_breakthrough_experiments": [
+        {
+          "gases_tested": [
+            "C2H6",
+            "C2H4",
+            "C2H2"
+          ],
+          "temperatures": [
+            "283 K",
+            "298 K",
+            "313 K"
+          ],
+          "pressure": "Up to 1.0 bar",
+          "sample_preparation": "Degassed under ultrahigh vacuum (4 μmHg) at 100 °C for 12 h",
+          "breakthrough_experiments_details": "Binary C2H2/C2H4 and C2H4/C2H6 mixtures were carried out in a stainless steel HPLC column (1 cm I.D. × 15 cm) with 10.57 g degassed sample filled in at a constant flow rate of 1.20 mL/min at 298 K and 100 kPa"
+        }
+      ],
+      "single_component_adsorption_isotherm": {
+        "model_used": "Dual-site Langmuir-Freundlich (DSLF) model",
+        "fitting_parameters": "Not specified",
+        "correlation_coefficients": "Up to 0.9999"
+      },
+      "adsorption_selectivity_for_binary_mixtures": {
+        "method": "Ideal adsorbed solution theory (IAST) combined with the DSLF model",
+        "selectivity_C2H2_C2H4": "8.1 at 100 kPa and 298 K",
+        "selectivity_C2H4_C2H6": "5.9 at 100 kPa and 298 K"
+      },
+      "isosteric_heats_of_adsorption": {
+        "Qst_C2H2": "37.6 kJ/mol",
+        "Qst_C2H4": "33.9 kJ/mol",
+        "Qst_C2H6": "28.4 kJ/mol"
+      },
+      "density_functional_theory_calculations": {
+        "details": "DMol3 in the Materials Studio package, GGA with PBE and DNP basis set, semi-empirical dispersion correction included"
+      }
+    }
+  ]
+}

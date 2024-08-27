@@ -1,0 +1,63 @@
+{
+  "materials": [
+    {
+      "name": "UiO-67",
+      "synthesis_conditions": {
+        "chemicals_used": {
+          "zirconium_chloride": "2.0 g",
+          "distilled_water": "0.93 mL",
+          "DMF": "33.3 mL",
+          "benzoic_acid": "3.14 g",
+          "4,4’-biphenyldicarboxylic_acid": "2.92 g"
+        },
+        "equipment": [
+          "round bottom flask",
+          "stirring plate",
+          "condenser"
+        ],
+        "temperature": "130 °C",
+        "time": "overnight",
+        "washing_method": "washed with hot DMF and acetone",
+        "drying_method": "dried overnight at 150 °C"
+      }
+    },
+    {
+      "name": "MIL-140C",
+      "synthesis_conditions": {
+        "chemicals_used": {
+          "zirconium_chloride": "1.0 g",
+          "DMF": "16.6 mL",
+          "benzoic_acid": "1.57 g",
+          "4,4’-biphenyldicarboxylic_acid": "1.46 g"
+        },
+        "equipment": [
+          "50 mL autoclave",
+          "stirring"
+        ],
+        "temperature": "220 °C",
+        "time": "overnight",
+        "washing_method": "washed with hot DMF and acetone",
+        "drying_method": "dried overnight at 150 °C"
+      }
+    },
+    {
+      "name": "Mixed phase UiO-67 and MIL-140C",
+      "synthesis_conditions": {
+        "chemicals_used": {
+          "zirconium_chloride": "1 eq",
+          "DMF": "50 eq",
+          "benzoic_acid": "3 eq",
+          "4,4’-biphenyldicarboxylic_acid": "1 eq",
+          "water": "3 eq, 4 eq, 5 eq"
+        },
+        "equipment": [
+          "same as pure UiO-67 synthesis"
+        ],
+        "temperature": "same as pure UiO-67 synthesis",
+        "time": "same as pure UiO-67 synthesis",
+        "washing_method": "same as pure UiO-67 synthesis",
+        "drying_method": "same as pure UiO-67 synthesis"
+      }
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "materials": [
+    {
+      "material": "(±)-α,α′-Di-tert-butylsuccinic acid (4)",
+      "synthesis_conditions": {
+        "temperature": "80 ºC for 5 min",
+        "solvents": [
+          {
+            "name": "sulfuric acid",
+            "amount": "5 mL"
+          }
+        ],
+        "equipment": "heated",
+        "chemicals_used": [
+          {
+            "name": "Diethyl !,!'-di-tert-butylsuccinate",
+            "amount": "4.194 g, 0.0146 mol"
+          }
+        ],
+        "yield": "0.234 g (1.1 mmol), 94%",
+        "melting_point": "149-152 ºC"
+      }
+    },
+    {
+      "material": "(±)-α,α′-Di-tert-butylsuccinic [18O]acid (4-18O)",
+      "synthesis_conditions": {
+        "temperature": "45 ºC",
+        "solvents": [
+          {
+            "name": "water-18O",
+            "amount": "50 µL"
+          }
+        ],
+        "equipment": "heated",
+        "chemicals_used": [
+          {
+            "name": "(±)-α,α′-Di-tert-butylsuccinic anhydride",
+            "amount": "32.1 mg, 0.151 mmol"
+          },
+          {
+            "name": "Na18OH solution",
+            "preparation": "prepared by the addition of sodium hydride to H218O"
+          }
+        ],
+        "yield": "29.3 mg (0.126 mmol), 83.4 %",
+        "melting_point": "151-152 ºC"
+      }
+    },
+    {
+      "material": "Potassium hydrogen (±)-α,α′-di-tert-butylsuccin[18O]ate (5-18O)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "1 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Di-tert-butylsuccinic [18O]acid",
+            "amount": "29.3 mg, 0.126 mmol"
+          },
+          {
+            "name": "potassium acetate",
+            "amount": "12.4 mg, 0.126 mmol"
+          }
+        ],
+        "yield": "34.0 mg (0.126 mmol), 99.6%"
+      }
+    },
+    {
+      "material": "Hydrogen (±)-α,α′-di-tert-butylsuccinate, tetramethylammonium salt",
+      "synthesis_conditions": {
+        "temperature": "92-95 ºC",
+        "solvents": [
+          {
+            "name": "Me4NOH(aq) solution",
+            "amount": "126 µL of a 25% w/w"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(±)-α,α′-Di-tert-butylsuccinic acid",
+            "amount": "80.7 mg, 0.35 mmol"
+          }
+        ],
+        "yield": "100 mg (0.33 mmol), 94%"
+      }
+    },
+    {
+      "material": "Hydrogen (±)-α,α′-di-tert-butylsuccinate, tetraethylammonium salt",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "Et4NOH(aq) solution",
+            "amount": "53 µL of a 35% w/w"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(±)-α,α′-Di-tert-butylsuccinic acid",
+            "amount": "29 mg, 0.126 mmol"
+          }
+        ],
+        "yield": "45.2 mg (0.120 mmol), 95%"
+      }
+    },
+    {
+      "material": "Hydrogen (±)-α,α′-di-tert-butylsuccinate, tetrapropylammonium salt",
+      "synthesis_conditions": {
+        "temperature": "150-151 ºC",
+        "solvents": [
+          {
+            "name": "Pr4NOH(aq) solution",
+            "amount": "190 µL of a 1.0 M"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(±)-α,α′-Di-tert-butylsuccinic acid",
+            "amount": "43.4 mg, 0.189 mmol"
+          }
+        ],
+        "yield": "35 mg (0.084 mmol), 45%"
+      }
+    },
+    {
+      "material": "Hydrogen (±)-α,α′-di-tert-butylsuccinate, tetrabutylammonium salt",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "Bu4NOH(aq) solution",
+            "amount": "230 ml of a 1M"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(±)-α,α′-Di-tert-butylsuccinic anhydride",
+            "amount": "49.0 mg, 0.23 mmol"
+          }
+        ]
+      }
+    },
+    {
+      "material": "Hydrogen (±)-α,α′-di-tert-butylsuccinate, tetrabutylphosphonium salt",
+      "synthesis_conditions": {
+        "temperature": "176-178 ºC",
+        "solvents": [
+          {
+            "name": "Bu4POH(aq) solution",
+            "amount": "150 ml of a 40wt %"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(±)-α,α′-Di-tert-butylsuccinic anhydride",
+            "amount": "46.6 mg, 0.22 mmol"
+          }
+        ]
+      }
+    },
+    {
+      "material": "Magnesium and calcium bis(hydrogen (±)-α,α′-di-tert-butylsuccinate)",
+      "synthesis_conditions": {
+        "temperature": "90ºC",
+        "solvents": [
+          {
+            "name": "water",
+            "preparation": "heated with one molar equivalent of MgO or MgCl2 + NaOH in aqueous isopropanol"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(±)-α,α′-Di-tert-butylsuccinic acid"
+          }
+        ]
+      }
+    },
+    {
+      "material": "Dicesium (±)-α,α′-di-tert-butylsuccinate",
+      "synthesis_conditions": {
+        "temperature": "90ºC",
+        "solvents": [
+          {
+            "name": "water",
+            "preparation": "heated with one molar equivalent of Cs2CO3"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(±)-α,α′-Di-tert-butylsuccinic acid"
+          }
+        ]
+      }
+    }
+  ]
+}

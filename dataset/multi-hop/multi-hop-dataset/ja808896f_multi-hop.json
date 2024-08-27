@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are the names of the three mesh-adjustable molecular sieves discussed in the text?",
+      "answer": "MAMS-2, MAMS-3, and MAMS-4",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What common feature do MAMS-2, MAMS-3, and MAMS-4 share according to their synthesis conditions?",
+      "answer": "They are all synthesized using solvothermal reactions with a predesigned amphiphilic ligand, BBPDC, and different metal nitrates (Zn(NO3)2, Co(NO3)2, and Cu(NO3)2).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Based on the synthesis conditions, what is the role of temperature in the molecular sieving effect observed in MAMS-2, MAMS-3, and MAMS-4?",
+      "answer": "Temperature plays a crucial role in tuning the molecular sieving effect, as there exists a linear relationship between mesh size and temperature, allowing for selective adsorption of gases.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the choice of metal (Zn, Co, Cu) affect the α and D0 constants in the linear relationship between mesh size and temperature for the MAMS?",
+      "answer": "The choice of metal (Zn, Co, Cu) does not affect the α and D0 constants in the linear relationship between mesh size and temperature, indicating that these constants are independent of the metal choice.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental technique was used to confirm the framework integrity of MAMS-3 and MAMS-4 at different temperatures?",
+      "answer": "Powder X-ray diffraction (PXRD) was used to confirm the framework integrity of MAMS-3 and MAMS-4 at different temperatures.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The molecular sieving effect in MAMS-2, MAMS-3, and MAMS-4 is attributed to the simple thermal expansion of the framework.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the tert-butyl groups in the gating mechanism of MAMS-2, MAMS-3, and MAMS-4?",
+      "answer": "The tert-butyl groups serve as gates at the interface between hydrophobic and hydrophilic channels, controlling the entry of gas molecules into the hydrophobic cages based on temperature-induced changes in van der Waals interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Changing the tert-butyl group to other functional groups such as a methyl or isopropyl group would not affect the D0 and α values in the linear relationship between mesh size and temperature.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the estimated gate opening size at 77 K based on gas adsorption data?",
+      "answer": "The estimated gate opening size at 77 K is 3.4 Å.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: MAMS-2, MAMS-3, and MAMS-4 can separate any two gases with kinetic diameters in the range of 2.9−4.6 Å.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to activate MAMS-2 for gas adsorption studies, and what was the effect of different activation conditions?",
+      "answer": "MAMS-2 was activated at 300 °C under a dynamic vacuum to remove DMF guest molecules and coordinated aqua ligands, with different activation conditions affecting its ability for gas adsorption.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The unit cell parameters of MAMS-2, MAMS-3, and MAMS-4 remain constant when the temperature changes from 113 to 273 K.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What gases were MAMS-2, MAMS-3, and MAMS-4 found to be selective for at 77 K?",
+      "answer": "At 77 K, MAMS-2, MAMS-3, and MAMS-4 exhibit highly selective adsorption of H2 over CO, N2, or O2.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The hydrophilic channels in MAMS-2, MAMS-3, and MAMS-4 serve as the main storage space for gas molecules.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the relationship between gate opening size and temperature for MAMS-2, MAMS-3, and MAMS-4, and how does it affect gas separation?",
+      "answer": "The relationship between gate opening size and temperature for MAMS-2, MAMS-3, and MAMS-4 is linear, allowing for precise temperature tuning to separate gases based on their kinetic diameters.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The PXRD patterns of activated MAMS-3 and MAMS-4 show peak shifts when temperature changes, indicating changes in framework integrity.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the hydrophilic channels in the gas adsorption mechanism of MAMS-2, MAMS-3, and MAMS-4?",
+      "answer": "The hydrophilic channels act as passages allowing gas molecules to enter the hydrophobic cages, with activation of these channels being a prerequisite for gas adsorption.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption data at 77 K suggests that all gas molecules except hydrogen are rejected by the new MAMSs due to the size of the hydrophilic channels.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental evidence supports the notion that the hydrophobic cages are the main storage space for gas molecules in MAMS-2, MAMS-3, and MAMS-4?",
+      "answer": "The significant uptake of H2 at 77 K, compared to very low uptake of other gases, supports that hydrophobic cages are the main storage space, as only H2 can enter these cages at this temperature.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The linear relationship between mesh size and temperature for MAMS-2, MAMS-3, and MAMS-4 is influenced by the choice of metal used in their synthesis.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

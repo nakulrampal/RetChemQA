@@ -1,0 +1,57 @@
+{
+  "materials": [
+    {
+      "name": "Zn8(Ad)4(BPDC)6O · 2(NH2(CH3)2)+, 8DMF, 11H2O",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Adenine",
+            "amount": "0.125 mmol"
+          },
+          {
+            "chemical": "4, 4'-biphenyl dicarboxylic acid (BPDC)",
+            "amount": "0.25 mmol"
+          },
+          {
+            "chemical": "Zinc acetate dihydrate",
+            "amount": "0.375 mmol"
+          },
+          {
+            "chemical": "Nitric acid",
+            "amount": "1 mmol"
+          },
+          {
+            "chemical": "DMF",
+            "amount": "13.5 mL"
+          },
+          {
+            "chemical": "Water",
+            "amount": "1 mL"
+          }
+        ],
+        "temperature": "130 °C",
+        "time": "24 h",
+        "equipment": "20.0 mL vial",
+        "washing_method": "Washed with DMF (3 mL x 3)",
+        "drying_method": "Dried under Ar gas (30 min)",
+        "yield": "0.914 g, 86 % based on adenine"
+      }
+    },
+    {
+      "name": "Zn8(Ad)4(BPDC)6O · 3.5(procainamide-H+), 1.5Cl-, 16.5H2O",
+      "synthesis_conditions": {
+        "procainamide_loading": {
+          "chemical": "Procainamide hydrochloride",
+          "solvent": "D.I. water",
+          "concentration": "0.1M",
+          "steps": [
+            "Rinsed with DMF (2x)",
+            "Soaked in procainamide HCl solution (10 min) followed by solution removal",
+            "Repeated soaking in procainamide HCl solution (24 h) every 24 hours for 15 days"
+          ]
+        },
+        "yield": "0.22 g procainamide/g material"
+      }
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "Co2Cl2(bbta)": {
+    "temperature": "298 K",
+    "solvents": "aqueous ammonia",
+    "solvent_amounts": "100 mL",
+    "time": "24 h",
+    "washing_method": "Soaked in aqueous ammonia three times, then soaked in water at room temperature for 3 days, changing water every 24 h",
+    "drying_method": "Heated at 160 °C under vacuum for 12 h",
+    "yield": "Not specified",
+    "chemicals_used": [
+      {
+        "name": "Co2Cl2(bbta)",
+        "amount": "100.0 mg",
+        "mmol": "0.3226 mmol"
+      },
+      {
+        "name": "1 M aqueous ammonia",
+        "amount": "100 mL"
+      }
+    ],
+    "elemental_analysis": {
+      "C": {
+        "calculated": "23.25%",
+        "found": "24.08%"
+      },
+      "H": {
+        "calculated": "1.30%",
+        "found": "1.00%"
+      },
+      "N": {
+        "calculated": "27.11%",
+        "found": "27.38%"
+      },
+      "Co": {
+        "calculated": "27.03%",
+        "found": "26.6(4)%"
+      },
+      "Cl": {
+        "calculated": "0%",
+        "found": "<0.01%"
+      },
+      "Cl/Co": {
+        "calculated": "0",
+        "found": "< 0.00037"
+      }
+    }
+  },
+  "Co2(OH)2(bbta)": {
+    "gas_adsorption": {
+      "temperature": "195 K",
+      "capacity_at_25_mbar": "3 mmol g-1",
+      "capacity_at_1_bar": "7.57 mmol g-1",
+      "differential_enthalpy_of_adsorption": "-49 ± 2 kJ mol-1",
+      "differential_entropy_of_adsorption": "186 ± 7 J mol-1 K-1",
+      "O2_N2_selectivity_at_195_K": "42",
+      "O2_N2_selectivity_at_223_K": "14",
+      "O2_working_capacity_from_0.21_to_0.05_bar_at_195_K": "1.5 mmol g-1"
+    },
+    "structural_characterization": {
+      "neutron_powder_diffraction_temperature": "8 K",
+      "Co-N_bond_lengths": [
+        "2.066(17) Å",
+        "2.102(4) Å"
+      ],
+      "unit_cell_volume_change_on_O2_dosing_at_195_K": "-8.6%",
+      "Co-ligand_bond_distances_after_O2_dosing": [
+        "1.956(5) Å",
+        "1.932(10)/1.956(14) Å"
+      ],
+      "O2_adsorption_sites": "Cobalt(III)-superoxo species",
+      "O2_adsorption_site_occupancy_at_195_K": "75(1)%"
+    },
+    "spectroscopic_characterization": {
+      "DRIFTS_O2_adsorption_temperature": "195 K",
+      "O2_adsorption_peak_shifts": {
+        "16O2": "1151 cm-1",
+        "18O2": "1094 cm-1"
+      },
+      "superoxo_overtone_shifts": {
+        "16O2": "2288 cm-1",
+        "18O2": "2182 cm-1"
+      }
+    },
+    "magnetic_characterization": {
+      "molar_magnetic_susceptibility_at_300_K": "4.84 emu K mol-1",
+      "molar_magnetic_susceptibility_at_2_K": "0.274 emu K mol-1",
+      "Curie-Weiss_constant": "-81.0 K",
+      "spin_density_changes_on_O2_adsorption": {
+        "Co": "From 2.67 to 0.07",
+        "O2": "From 1.8 to 0.79"
+      }
+    },
+    "hydrogen_bond_stabilization": {
+      "O-H_O_distance": "2.886(8) Å",
+      "O-H_O_angle": "108°",
+      "hydrogen_bond_strength": "Moderate-strength"
+    },
+    "negative_cooperativity": {
+      "Hill_coefficient": "0.262",
+      "O2_binding_mechanism": "Negatively cooperative"
+    }
+  }
+}

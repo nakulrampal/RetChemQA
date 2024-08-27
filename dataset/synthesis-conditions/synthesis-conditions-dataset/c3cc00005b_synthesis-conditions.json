@@ -1,0 +1,82 @@
+{
+  "materials": [
+    {
+      "name": "[CuCl2(L)(HCONMe2)]",
+      "synthesis_conditions": {
+        "solvents": [
+          "Methanol",
+          "Ethanol",
+          "N,N-dimethylformamide (HCONMe2)"
+        ],
+        "solvent_amounts": [
+          "5 mL",
+          "5 mL",
+          "Not specified"
+        ],
+        "chemicals_used": [
+          "CuCl2 (67 mg, 0.5 mmol)",
+          "L (113 mg, 0.5 mmol)"
+        ],
+        "equipment": "Not specified",
+        "temperature": "Not specified",
+        "time": "3 days",
+        "yield": "80%",
+        "washing_method": "Not specified",
+        "drying_method": "Vacuum",
+        "other_conditions": "Diethyl ether was vapor-diffused into the HCONMe2 solution of the crude product"
+      }
+    },
+    {
+      "name": "[CuCl2(L)(Me2SO)]∙Me2SO",
+      "synthesis_conditions": {
+        "solvents": [
+          "Methanol",
+          "Ethanol",
+          "Dimethyl sulfoxide (Me2SO)"
+        ],
+        "solvent_amounts": [
+          "5 mL",
+          "5 mL",
+          "Not specified"
+        ],
+        "chemicals_used": [
+          "CuCl2 (67 mg, 0.5 mmol)",
+          "L (113 mg, 0.5 mmol)"
+        ],
+        "equipment": "Not specified",
+        "temperature": "Not specified",
+        "time": "4 days",
+        "yield": "83%",
+        "washing_method": "Not specified",
+        "drying_method": "Vacuum",
+        "other_conditions": "Acetone was vapor-diffused into the Me2SO solution of the crude product"
+      }
+    },
+    {
+      "name": "bis(4-pyridyl)methylvinylsilane (L)",
+      "synthesis_conditions": {
+        "solvents": [
+          "Dry diethyl ether"
+        ],
+        "solvent_amounts": [
+          "60 mL"
+        ],
+        "chemicals_used": [
+          "4-bromopyridine (33 mmol)",
+          "n-Butyllithium (35 mmol, 2.5 M solution in n-hexane)",
+          "Dichloromethylvinylsilane (16 mmol)"
+        ],
+        "equipment": "Not specified",
+        "temperature": [
+          "-78 °C during n-Butyllithium addition",
+          "0 °C during dichloromethylvinylsilane addition"
+        ],
+        "time": "12 h",
+        "yield": "63%",
+        "washing_method": "Washed with water",
+        "drying_method": "Dried over MgSO4",
+        "other_conditions": "The reaction was carried out under nitrogen gas"
+      }
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "materials": [
+    {
+      "material": "1",
+      "synthesis_conditions": {
+        "temperature": "60 °C",
+        "time": "10 min",
+        "solvents": [
+          {
+            "name": "aqueous solution",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "oxalic acid dihydrate",
+            "amount": "0.2 mmol"
+          },
+          {
+            "name": "FeCl3",
+            "amount": "0.2 mmol"
+          },
+          {
+            "name": "EtNH3Cl",
+            "amount": "0.1 mmol"
+          }
+        ],
+        "yield": "about 50%",
+        "analytical_data": {
+          "calculated": {
+            "C": "15.74",
+            "H": "2.86",
+            "N": "3.06"
+          },
+          "found": {
+            "C": "15.02",
+            "H": "3.05",
+            "N": "3.55"
+          }
+        },
+        "crystal_data": {
+          "temperature": "100 K",
+          "system": "monoclinic",
+          "a": "9.2095(5) Å",
+          "b": "14.7120(8) Å",
+          "c": "12.5178(6) Å",
+          "beta": "109.01(3)",
+          "U": "1603.4(2) Å3",
+          "space_group": "Cc (no. 9)",
+          "Z": "4",
+          "refinement": {
+            "reflections": "3146",
+            "parameters": "212",
+            "R1": "0.0331",
+            "wR2": "0.0824"
+          }
+        },
+        "IR_spectrum": [
+          "3584 and 3147 (OH and H2O)",
+          "1670 νas(O-C-O)",
+          "1397 and 1310 νs(O-C-O)",
+          "1135 (Fe-OH)",
+          "801m νas(Fe-O-Fe)"
+        ],
+        "UV_spectrum": [
+          "λ 330, 460 and 520 nm"
+        ]
+      }
+    },
+    {
+      "material": "2",
+      "synthesis_conditions": {
+        "temperature": "ambient",
+        "time": "3 days",
+        "transformation_from": "1",
+        "additional_information": "Crystals of 1 allowed to stand in air at ambient temperature for 3 days undergo an irreversible transformation to yield 2, this process being accompanied by a color change from yellow to deep red.",
+        "alternative_method": "Directly obtained from a solution at pH ca. 3 by addition of NaHCO3.",
+        "crystal_data": {
+          "temperature": "100 K",
+          "system": "orthorhombic",
+          "a": "14.754(3) Å",
+          "b": "23.596(4) Å",
+          "c": "9.273(2) Å",
+          "U": "3228(1) Å3",
+          "space_group": "Fdd2 (no. 43)",
+          "Z": "8",
+          "refinement": {
+            "reflections": "1145",
+            "parameters": "95",
+            "R1": "0.0473",
+            "wR2": "0.1272"
+          }
+        },
+        "IR_spectrum": [
+          "3601 and 3053 (H2O)",
+          "1659 νas(O-C-O)",
+          "1397 and 1309s νs(O-C-O)",
+          "799 νas(Fe-O-Fe)"
+        ],
+        "UV_spectrum": [
+          "λ 350, 470 and 550 nm"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What are the synthesis conditions for 5-methylbenzo-1,3,2-dithiazolyl (MBDTA)?",
+      "answer": "A solution of 3,4-dimercaptotoluene in CH2Cl2 was added to a solution of sulphuryl chloride in CH2Cl2, refluxed, then added to a solution of trimethylsilylazide in CH2Cl2 at 0 °C. After stirring, filtering, and washing, 5-methylbenzo-1,3,2-dithiazolylium chloride and silver powder were stirred in acetonitrile overnight, filtered, and the solvent removed to give a black solid. Sublimation at 50–55 °C/10-3 Torr afforded black rhombs of MBDTA.",
+      "difficulty": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "How is MIL53(Al) synthesized?",
+      "answer": "MIL53(Al) is synthesized by mixing AlCl3.6H2O, terephthalic acid in deionised water in a Teflon-lined Parr bomb, heated at 150oC to give a white crystalline precipitate, washed with deionised water and DMF, then heated in DMF in a Teflon lined Parr bomb at 150oC overnight to afford MIL53(Al).DMF, washed and activated by heating at 150oC under vacuum for 3 days.",
+      "difficulty": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method is used to load radicals BDTA and MBDTA into MIL53(Al)?",
+      "answer": "The loading of radicals BDTA and MBDTA into MIL53(Al) was performed by sublimation under vacuum at approximately 50oC in a Schlenk tube.",
+      "difficulty": "Easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the UV/vis transmission spectra differences between MIL53(Al)@MBDTA and MIL53(Al)@BDTA samples compared to pure BDTA and MBDTA samples?",
+      "answer": "The differences in the UV/vis transmission spectra indicate an alteration in the packing of the radicals within the MIL53(Al) pores, suggesting that the environment within the pores affects the arrangement and possibly the interactions between the radical molecules.",
+      "difficulty": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The EPR spectroscopy results for MIL53(Al)@MBDTA and MIL53(Al)@BDTA show identical isotropic singlet EPR spectra.",
+      "answer": "False. While both spectra are isotropic singlets, they reveal significant differences in both intensity and line width, indicating differences in the structural arrangement of the radicals within the MIL53(Al) framework.",
+      "difficulty": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of an isotropic 1:1:1 triplet EPR spectrum after adding CH2Cl2 to MIL53(Al)@MBDTA or MIL53(Al)@BDTA indicate?",
+      "answer": "The presence of an isotropic 1:1:1 triplet EPR spectrum indicates the regeneration of the dithiazolyl radical from the porous material, confirming the retention of the radical in the framework without degradation.",
+      "difficulty": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The PXRD analysis of MIL53(Al)@MBDTA and MIL53(Al)@BDTA materials exhibit powder patterns identical to that of empty or hydrated MIL53(Al).",
+      "answer": "False. The PXRD analysis reveals that both MIL53(Al)@MBDTA and MIL53(Al)@BDTA materials exhibit clearly distinct powder patterns from that of the empty or hydrated MIL53(Al), indicative of a change in structure.",
+      "difficulty": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the change in unit cell dimensions and space group of the MIL53(Al) framework for both inclusion materials indicate?",
+      "answer": "The change in unit cell dimensions and space group indicates that the inclusion of the radical within the channels of the host framework of MIL53(Al) resulted in a structural modification, affecting the symmetry and possibly the functionality of the material.",
+      "difficulty": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adoption of a π*−π* dimer motif in MIL53(Al)@BDTA but not in MIL53(Al)@MBDTA is contradicted by EPR studies.",
+      "answer": "False. The EPR studies support the adoption of a π*−π* dimer motif in MIL53(Al)@BDTA but not in MIL53(Al)@MBDTA, consistent with the structural analysis.",
+      "difficulty": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the enhanced stability of the radical within MIL53(Al)@BDTA and MIL53(Al)@MBDTA compared to pure radicals suggest about the host-guest interaction?",
+      "answer": "The enhanced stability suggests that the host-guest interaction within the MIL53(Al) framework provides a protective environment that stabilizes the radicals, preventing degradation that occurs when the radicals are not within the framework.",
+      "difficulty": "Hard",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "materials": [
+    {
+      "material": "Ag2[HBTC][im] (1)",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis of single crystals",
+          "temperature": "120°C",
+          "time": "72 h",
+          "chemicals_used": [
+            {
+              "name": "AgNO3",
+              "amount": "0.11 g, 0.65 mmol"
+            },
+            {
+              "name": "1,3,5-benzenetricarboxylic acid (H3BTC)",
+              "amount": "0.067 g, 0.32 mmol"
+            },
+            {
+              "name": "imidazole",
+              "amount": "0.022 g, 0.32 mmol"
+            },
+            {
+              "name": "H2O",
+              "amount": "10 mL"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "H2O",
+              "amount": "10 mL"
+            }
+          ],
+          "equipment": "25 mL Teflon-lined stainless steel autoclave",
+          "yield": "30%",
+          "other_conditions": "Cooled to room temperature after heating"
+        },
+        {
+          "step": "Synthesis of nanoparticles",
+          "temperature": "120°C",
+          "time": "1 h",
+          "chemicals_used": [
+            {
+              "name": "polyethylene glycol",
+              "amount": "0.5 g"
+            },
+            {
+              "name": "AgNO3",
+              "amount": "same as single crystals synthesis"
+            },
+            {
+              "name": "H3BTC",
+              "amount": "same as single crystals synthesis"
+            },
+            {
+              "name": "imidazole",
+              "amount": "same as single crystals synthesis"
+            },
+            {
+              "name": "H2O/acetonitrile/petroleum ether",
+              "amount": "9 mL, ratio 1:1:1"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "H2O/acetonitrile/petroleum ether",
+              "amount": "9 mL, ratio 1:1:1"
+            }
+          ],
+          "equipment": "25 mL Teflon-lined stainless steel autoclave",
+          "other_conditions": "Vigorous magnetic stirring for 20 min before heating, centrifuged and dried at 60°C for 12 h after heating"
+        }
+      ]
+    },
+    {
+      "material": "1-PLA electrospun fibrous mat",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation of electrospun fibrous mat",
+          "temperature": "Not specified",
+          "time": "5 h",
+          "chemicals_used": [
+            {
+              "name": "PLA pellets",
+              "amount": "1.05 g"
+            },
+            {
+              "name": "dichloromethane (DCM) solvent",
+              "amount": "15 g"
+            },
+            {
+              "name": "Compound 1",
+              "amount": "1 wt%, 2.5 wt%, 5 wt%"
+            },
+            {
+              "name": "polyvinylpyrrolidone (PVP)",
+              "amount": "Not specified"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "dichloromethane (DCM) solvent",
+              "amount": "15 g"
+            }
+          ],
+          "equipment": [
+            "Electrospinning unit",
+            "15 cm rotating collector"
+          ],
+          "other_conditions": "Voltage of 20~30 kV, flow rate of 2.0 mL h−1, spinneret diameter of 1 mm, distance between needle and collector of 15 cm"
+        }
+      ]
+    }
+  ],
+  "proteomic_analysis": [
+    {
+      "step": "Proteome sample preparation",
+      "chemicals_used": [
+        {
+          "name": "lysis buffer",
+          "amount": "1% (v/v) protease inhibitor cocktail in 8 M urea"
+        },
+        {
+          "name": "Dithiothreitol (DTT)",
+          "amount": "Not specified"
+        },
+        {
+          "name": "Iodoacetamide (IAA)",
+          "amount": "Not specified"
+        },
+        {
+          "name": "Phosphate buffer (PB)",
+          "amount": "pH 8.0, 50 mM"
+        },
+        {
+          "name": "trypsin",
+          "amount": "1:50 enzyme/protein ratio"
+        }
+      ],
+      "equipment": "Bioruptor Pico Ultrasonicator (Diagenode)",
+      "temperature": "56°C for DTT incubation",
+      "time": "1 h for DTT incubation, 30 min for IAA incubation, overnight for trypsin digestion"
+    },
+    {
+      "step": "LC−MS/MS analysis",
+      "equipment": [
+        "ultra-HPLC EASY-nLC 1000 system (Thermo Fisher Scientific)",
+        "Q Exactive mass spectrometer (Thermo Fisher Scientific)"
+      ],
+      "other_conditions": "Separation gradient and data acquisition details provided"
+    },
+    {
+      "step": "Data processing",
+      "software": "MaxQuant environment v.1.6.1.0",
+      "database": "E.coli protein database (UniProt Proteome, release 2018_07)",
+      "other_conditions": "Search parameters and quantification method details provided"
+    }
+  ]
+}

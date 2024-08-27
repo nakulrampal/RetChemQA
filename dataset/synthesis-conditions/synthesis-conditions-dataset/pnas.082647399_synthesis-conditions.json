@@ -1,0 +1,86 @@
+{
+  "materials": [
+    {
+      "name": "3,6-Di-pyrazin-2-yl-[1,2,4,5] Tetrazine (dpztz)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "tetrahydrofuran",
+            "amount": "75 cm3"
+          },
+          {
+            "name": "water",
+            "amount": "~80 cm3"
+          },
+          {
+            "name": "EtOH",
+            "purpose": "recrystallization"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "pyrazine-2-carbonitrile",
+            "amount": "12.63g, 0.12 mol"
+          },
+          {
+            "name": "conc. HCl",
+            "amount": "15 cm3"
+          },
+          {
+            "name": "hydrazine monohydrate",
+            "amount": "35 cm3, 0.72 mol"
+          },
+          {
+            "name": "conc. acetic acid",
+            "amount": "25 cm3"
+          },
+          {
+            "name": "sodium nitrite",
+            "amount": "30 g, 0.44 mol"
+          }
+        ],
+        "equipment": "reflux",
+        "time": "14 h",
+        "temperature": {
+          "initial": "room temperature",
+          "during_reaction": "reflux temperature",
+          "cooling": "-10°C"
+        },
+        "yield": "3.55 g, 25%"
+      }
+    },
+    {
+      "name": "{[Ag2(dpztz)3](PF6)2} 1",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "MeCN",
+            "amount": "5 cm3"
+          },
+          {
+            "name": "diethyl ether",
+            "purpose": "crystallization"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "AgPF6",
+            "amount": "7.6 mg, 0.030 mmol"
+          },
+          {
+            "name": "dpztz",
+            "amount": "3.7 mg, 0.015 mol"
+          }
+        ],
+        "method": "vapor diffusion of diethyl ether into reaction solution"
+      }
+    },
+    {
+      "name": "Compounds 2-4",
+      "synthesis_conditions": {
+        "method": "analogous to 1",
+        "reagent_ratio": "4:1 AgX (X = PF6, BF4, SbF6) to dpztz"
+      }
+    }
+  ]
+}

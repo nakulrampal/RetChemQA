@@ -1,0 +1,73 @@
+{
+  "materials": [
+    {
+      "name": "JLU-Liu23",
+      "synthesis_conditions": {
+        "temperature": "105 °C",
+        "time": "12 h",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "0.75 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "1,3-bis(2-benzimidazol)benzene (H2bbimb)",
+            "amount": "0.003 g, 0.01 mmol"
+          },
+          {
+            "name": "CuI",
+            "amount": "0.008 g, 0.04 mmol"
+          },
+          {
+            "name": "1,4-diazabicyclo[2.2.2]-octane",
+            "amount": "0.01 g, 0.089 mmol"
+          },
+          {
+            "name": "HNO3",
+            "description": "2.7 M in DMF"
+          }
+        ],
+        "equipment": "20 mL vial",
+        "yield": "73% based on CuI",
+        "washing_method": "DMF solvent under sonication",
+        "drying_method": "air-dried"
+      }
+    },
+    {
+      "name": "JLU-Liu23P",
+      "synthesis_conditions": {
+        "chiral_inducing_agents": [
+          {
+            "name": "(+)-cinchonine",
+            "amount": "10 mg, 0.034 mmol"
+          },
+          {
+            "name": "(R)-Binol",
+            "amount": "10 mg, 0.035 mmol"
+          }
+        ],
+        "washing_method": "DMF solvent under sonication",
+        "drying_method": "air-dried"
+      }
+    },
+    {
+      "name": "JLU-Liu23M",
+      "synthesis_conditions": {
+        "chiral_inducing_agents": [
+          {
+            "name": "(-)-cinchonidine",
+            "amount": "10 mg, 0.034 mmol"
+          },
+          {
+            "name": "(S)-Binol",
+            "amount": "10 mg, 0.035 mmol"
+          }
+        ],
+        "washing_method": "DMF solvent under sonication",
+        "drying_method": "air-dried"
+      }
+    }
+  ]
+}

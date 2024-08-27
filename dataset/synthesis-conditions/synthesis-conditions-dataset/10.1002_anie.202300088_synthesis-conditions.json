@@ -1,0 +1,56 @@
+{
+  "materials": [
+    {
+      "name": "1Dy",
+      "synthesis_conditions": {
+        "solvents": "acetonitrile",
+        "chemicals_used": [
+          "depma",
+          "4-hpy",
+          "Dy(NO3)3·6H2O",
+          "KSCN"
+        ],
+        "product_form": "yellow-green block crystals",
+        "crystallization_method": "Single-crystal X-ray diffraction",
+        "crystallization_temperature": "300 K",
+        "space_group": "P21/m",
+        "yield": "Not explicitly mentioned",
+        "additional_information": "The structure enables the photocycloaddition reaction of anthracene units to proceed in a SC-SC fashion forming 2Dy with a yield of over 90%."
+      }
+    },
+    {
+      "name": "2Dy",
+      "synthesis_conditions": {
+        "precursor": "1Dy",
+        "irradiation": {
+          "wavelength": "395 nm UV light",
+          "power_density": "100 mW cm-2",
+          "duration": "half an hour"
+        },
+        "product_form": "yellow crystals",
+        "crystallization_temperature": "300 K",
+        "space_group": "P21/m",
+        "yield": "90.3%",
+        "additional_information": "2Dy can be converted back to 1Dy by thermal annealing at 120 °C for 10 min, in a SC-SC fashion."
+      }
+    },
+    {
+      "name": "1Dy@Y",
+      "synthesis_conditions": {
+        "dilution": "Diluted sample of 1Dy",
+        "additional_information": "Shows reversible photochemical reaction under UV light irradiation."
+      }
+    },
+    {
+      "name": "2Dy@Y",
+      "synthesis_conditions": {
+        "precursor": "1Dy@Y",
+        "irradiation": {
+          "wavelength": "395 nm UV light",
+          "duration": "5 hours"
+        },
+        "additional_information": "The photo-dimerized sample shows narrower hysteresis loop below 3 K, suggesting a declined blocking temperature."
+      }
+    }
+  ]
+}

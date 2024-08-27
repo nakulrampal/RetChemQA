@@ -1,0 +1,74 @@
+{
+  "materials": [
+    {
+      "name": "CPM-5",
+      "synthesis_conditions": {
+        "temperature": "120 oC",
+        "time": "5 days",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "1.0 g"
+          },
+          {
+            "name": "DMF",
+            "amount": "4.0 g"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "In(NO3)3·xH2O",
+            "amount": "0.20 g"
+          },
+          {
+            "name": "H3btc",
+            "amount": "0.17 g"
+          }
+        ],
+        "equipment": "Teflon-lined stainless steel autoclave (23 mL)",
+        "washing_method": "water and ethanol",
+        "drying_method": "room-temperature",
+        "yield": "Not specified",
+        "additional_information": "Anal. Calcd (Found %) for C95H139In9N8O86: C, 30.0 (29.5); H, 3.68 (2.95); N, 2.95 (2.96)."
+      }
+    },
+    {
+      "name": "CPM-5'",
+      "synthesis_conditions": {
+        "temperature": "Similar to CPM-5",
+        "time": "Similar to CPM-5",
+        "solvents": "Similar to CPM-5",
+        "chemicals_used": [
+          {
+            "name": "4,4'-bipyridine",
+            "amount": "0.08g"
+          }
+        ],
+        "equipment": "Similar to CPM-5",
+        "washing_method": "Similar to CPM-5",
+        "drying_method": "Similar to CPM-5",
+        "yield": "Not specified",
+        "additional_information": "Prepared by a procedure similar to that of CPM-5."
+      }
+    },
+    {
+      "name": "CPM-6",
+      "synthesis_conditions": {
+        "temperature": "Similar to CPM-5",
+        "time": "Similar to CPM-5",
+        "solvents": [
+          {
+            "name": "NMF (N-methylformamide)",
+            "amount": "Used in place of DMF"
+          }
+        ],
+        "chemicals_used": "Similar to CPM-5",
+        "equipment": "Similar to CPM-5",
+        "washing_method": "Similar to CPM-5",
+        "drying_method": "Similar to CPM-5",
+        "yield": "Not specified",
+        "additional_information": "Prepared by a procedure similar to that of CPM-5."
+      }
+    }
+  ]
+}

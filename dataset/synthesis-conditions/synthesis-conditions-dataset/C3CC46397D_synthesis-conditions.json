@@ -1,0 +1,54 @@
+{
+  "materials": [
+    {
+      "material": "Sm(NO3)3·6H2O, Eu(NO3)3·6H2O, Gd(NO3)3·6H2O",
+      "synthesis_conditions": {
+        "preparation_method": "prepared by the corresponding oxide with nitric acid"
+      }
+    },
+    {
+      "material": "Complexes 1-3",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Ln(NO3)3·6H2O (0.1 mmol) (Ln = Sm, Eu, and Gd)",
+          "2,2’-diphenyldicarboxylic acid (0.15 mmol)",
+          "1H-imidazo[4,5-f][1,10]-phenanthroline (0.1 mmol)",
+          "H2O (10 mL)",
+          "NaOH aqueous solution (1 mol/L, 0.30 mL)"
+        ],
+        "equipment": "Teflon-lined reactor",
+        "temperature": "120 °C",
+        "time": "3 days",
+        "cooling_method": "slow cooling to room temperature",
+        "yield": [
+          "62% for 1",
+          "52% for 2",
+          "60% for 3"
+        ],
+        "drying_method": "Not specified",
+        "washing_method": "Not specified"
+      }
+    },
+    {
+      "material": "Gd99.34Eu0.66 doped complex",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Gd(NO3)3·6H2O",
+          "Eu(NO3)3·6H2O",
+          "2,2’-diphenyldicarboxylic acid",
+          "1H-imidazo[4,5-f][1,10]-phenanthroline",
+          "H2O",
+          "NaOH aqueous solution"
+        ],
+        "equipment": "Teflon-lined reactor",
+        "temperature": "120 °C",
+        "time": "3 days",
+        "cooling_method": "slow cooling to room temperature",
+        "yield": "Not specified",
+        "drying_method": "Not specified",
+        "washing_method": "Not specified",
+        "additional_information": "The content of Eu was confirmed by inductively coupled plasma (ICP) spectroscopy."
+      }
+    }
+  ]
+}

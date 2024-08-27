@@ -1,0 +1,44 @@
+{
+  "UiO-67": {
+    "synthesis_conditions": {
+      "modulators": [
+        {
+          "name": "l-proline",
+          "amount": "5 equivalents with respect to the linker"
+        },
+        {
+          "name": "HCl",
+          "amount": "1 equivalent with respect to the linker",
+          "note": "known as a synthetic promoter"
+        }
+      ],
+      "method": "solvothermal synthesis",
+      "crystal_size": "~50 mm diameter",
+      "space_group": "cubic Fm-3m",
+      "unit_cell_dimension": "a ~ 26.85 Å",
+      "cage_diameter_octahedral": "16 Å",
+      "cage_diameter_tetrahedral": "12 Å"
+    }
+  },
+  "UiO-abdc": {
+    "synthesis_conditions": {
+      "modulators": [
+        {
+          "name": "l-proline",
+          "amount": "5 equivalents with respect to the linker"
+        },
+        {
+          "name": "HCl",
+          "amount": "1 equivalent with respect to the linker",
+          "note": "known as a synthetic promoter"
+        }
+      ],
+      "method": "solvothermal synthesis",
+      "crystal_size": "~50 mm diameter",
+      "space_group": "cubic Fm-3m",
+      "unit_cell_dimension": "a ~ 29.32 Å",
+      "cage_diameter_octahedral": "19 Å",
+      "cage_diameter_tetrahedral": "15 Å"
+    }
+  }
+}

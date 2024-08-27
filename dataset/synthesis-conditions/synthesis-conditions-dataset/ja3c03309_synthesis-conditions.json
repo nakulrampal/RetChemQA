@@ -1,0 +1,41 @@
+{
+  "materials": [
+    {
+      "name": "DUT-67",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "N,N-dimethylacetamide (DMAC), anhydrous formic acid (FA)",
+        "solvent_ratio": "DMAC:FA = 8:5 (v:v)",
+        "metal_sources": ["ZrCl4", "ZrOCl2·8H2O"],
+        "metal_to_ligand_ratios": ["1.5:1", "1:1"],
+        "ligand": "2,5-thiophenedicarboxylic acid (H2TDC)",
+        "time": "3–96 hours",
+        "washing_method": "washed with DMF and methanol",
+        "drying_method": "dried under 120 °C for 12 hours",
+        "yield": "53–73%",
+        "post_synthetic_modifications": [
+          {
+            "method": "HCl treatment",
+            "conditions": {
+              "solvent": "mixed solution of DMF and 1.25 M hydrochloric acid (HCl) (1:1, v:v)",
+              "temperature": "80 °C",
+              "time": "6 hours",
+              "washing_method": "washed with DMF and deionized water alternately for three times",
+              "drying_method": "immersed in fresh acetone to exchange DMF and water from pores"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "DUT-67-HCl",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": "mixed solution of DMF and 1.25 M hydrochloric acid (HCl) (1:1, v:v)",
+        "time": "6 hours",
+        "washing_method": "washed with DMF and deionized water alternately for three times",
+        "drying_method": "immersed in fresh acetone to exchange DMF and water from pores"
+      }
+    }
+  ]
+}

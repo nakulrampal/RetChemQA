@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the primary focus of the research article with DOI 10.1021/jacs.9b10268?",
+      "answer": "The primary focus of the research article is on exploiting the dynamic opening of apertures in a partially fluorinated metal–organic framework (MOF) named FMOFCu for enhancing hydrogen (H2) desorption temperature and isotope separation, specifically for deuterium extraction from a hydrogen isotope mixture.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What unique structural feature of FMOFCu contributes to its efficiency in hydrogen isotope separation?",
+      "answer": "The unique structural feature of FMOFCu that contributes to its efficiency in hydrogen isotope separation is its trimodal pore system with large tubular cavities connected through smaller cavities with bottleneck apertures of sizes 3.6 Å and 2.5 Å, and a third hidden cavity connected by an even smaller aperture. This structure allows for a gate-opening effect depending on the temperature, making the cavities successively accessible for hydrogen with increasing temperature.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the temperature affect the gate-opening effect in FMOFCu and its ability to separate hydrogen isotopes?",
+      "answer": "The temperature affects the gate-opening effect in FMOFCu by causing the two apertures (3.6 Å and 2.5 Å) to become more accessible to hydrogen molecules with increasing temperature. This thermally induced gate-opening allows for efficient separation of hydrogen isotopes, with the cavities becoming accessible for hydrogen and enabling the optimization of the kinetic quantum sieving (KQS) effect, leading to high selectivity in isotope separation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the selectivity values of 14 at 25 K and 4 at 77 K mentioned in the article?",
+      "answer": "The selectivity values of 14 at 25 K and 4 at 77 K mentioned in the article signify the efficiency of FMOFCu in separating deuterium (D2) from a hydrogen isotope mixture. A selectivity of 14 at 25 K indicates a highly efficient separation process at lower temperatures, while a selectivity of 4 at 77 K demonstrates that the MOF can still effectively separate hydrogen isotopes even at higher temperatures, showcasing the material's potential for practical applications in isotope separation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental techniques were used to characterize the structure and properties of FMOFCu?",
+      "answer": "The experimental techniques used to characterize the structure and properties of FMOFCu included scanning electron microscopy (SEM) for examining surface morphology, differential thermal analysis (DTA) and thermogravimetry (TG) for studying the thermolysis process and phase transformation, powder X-ray diffraction (XRD) for structural analysis, Fourier transform infrared spectroscopy (FT-IR) for identifying functional groups, and cryogenic adsorption experiments for analyzing gas adsorption properties.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The research demonstrated that FMOFCu's ability to separate hydrogen isotopes is independent of temperature.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The presence of fluorine atoms in the structure of FMOFCu plays a crucial role in enhancing hydrogen adsorption.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What potential applications of FMOFCu are highlighted by the research findings?",
+      "answer": "The research findings highlight the potential applications of FMOFCu in gas storage and separation, particularly in the efficient separation of hydrogen isotopes, which is crucial for industrial and scientific research applications such as neutron scattering techniques, nonradioactive isotope tracing, and as a fuel source for nuclear fusion reactors.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the trimodal pore structure of FMOFCu contribute to its high desorption temperature for physisorbed hydrogen?",
+      "answer": "The trimodal pore structure of FMOFCu, with its bottleneck apertures and hidden cavity that opens upon thermal activation, creates a strong diffusion barrier for hydrogen molecules. This barrier requires higher temperatures to overcome, leading to high desorption temperatures for physisorbed hydrogen, comparable to those achieved by MOFs with strong adsorption sites, despite FMOFCu not having such sites.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The research suggests that FMOFCu's structure undergoes significant changes upon gas adsorption and desorption.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "materials": [
+    {
+      "material": "Co-TA",
+      "synthesis_condition": [
+        {
+          "step": "Synthesis",
+          "chemicals": [
+            {
+              "name": "Co(CH3COO)2·4H2O",
+              "amount": "0.3 mmol"
+            },
+            {
+              "name": "TTPA",
+              "amount": "0.1 mmol"
+            },
+            {
+              "name": "IPA",
+              "amount": "0.3 mmol"
+            },
+            {
+              "solvents": [
+                {
+                  "name": "EtOH",
+                  "amount": "2 mL"
+                },
+                {
+                  "name": "distilled water",
+                  "amount": "6 mL"
+                }
+              ]
+            }
+          ],
+          "equipment": "Teflon-lined stainless-steel autoclave (20 mL)",
+          "temperature": "140 °C",
+          "time": "3 days",
+          "washing_method": "EtOH",
+          "drying_method": "Not specified",
+          "yield": "Not specified"
+        }
+      ]
+    },
+    {
+      "material": "Co3O4/NC",
+      "synthesis_condition": [
+        {
+          "step": "Pyrolysis",
+          "chemicals": [
+            {
+              "name": "Co-TA",
+              "amount": "500 mg"
+            }
+          ],
+          "equipment": "quartz crucible",
+          "temperature": "700 °C",
+          "time": "2 h",
+          "atmosphere": "N2",
+          "ramp_rate": "2 °C/min"
+        },
+        {
+          "step": "Acid Etching",
+          "chemicals": [
+            {
+              "name": "3 M HCl solution",
+              "amount": "Not specified"
+            }
+          ],
+          "time": "24 h",
+          "washing_method": "distilled water until neutral"
+        },
+        {
+          "step": "Second Pyrolysis",
+          "temperature": "350 °C",
+          "time": "4 h",
+          "atmosphere": "air",
+          "ramp_rate": "2 °C/min",
+          "washing_method": "distilled water and ethanol",
+          "drying_method": "60 °C"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "materials": [
+    {
+      "material": "Complex 1 [VOL]·2H2O",
+      "synthesis_conditions": {
+        "temperature": "Reflux",
+        "solvents": [
+          {
+            "solvent": "Methanol",
+            "amount": "Not specified"
+          }
+        ],
+        "equipment": "Not specified",
+        "chemicals_used": [
+          {
+            "chemical": "2-methyl-1,2-propanediamine",
+            "amount": "0.519 mL, 5 mmol"
+          },
+          {
+            "chemical": "o-vanillin",
+            "amount": "1.521 g, 10 mmol"
+          },
+          {
+            "chemical": "VO(acac)2",
+            "amount": "1.326 g, 5 mmol"
+          },
+          {
+            "chemical": "Triethylamine",
+            "amount": "1.4 mL, 10 mmol"
+          }
+        ],
+        "time": "30 min",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "1.56 g (68%)",
+        "characterization": {
+          "IR": "ν(CvN) = 1613 cm−1, ν(VvO) = 975 cm−1"
+        }
+      }
+    },
+    {
+      "material": "Complex 1·K [(VOL)KPF6]2",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "solvent": "Acetonitrile",
+            "amount": "20 mL"
+          }
+        ],
+        "equipment": "Not specified",
+        "chemicals_used": [
+          {
+            "chemical": "Complex 1",
+            "amount": "0.229 g, 0.5 mmol"
+          },
+          {
+            "chemical": "KPF6",
+            "amount": "0.092 g, 0.5 mmol"
+          }
+        ],
+        "time": "Few days",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "0.16 g (52%)",
+        "characterization": {
+          "IR": "ν(CvN) = 1611 cm−1, ν(PF6) = 840 cm−1, ν(VvO) = 992 cm−1"
+        }
+      }
+    },
+    {
+      "material": "Complex 1·Ba [(VOL)Ba(ClO4)2(H2O)]n",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "solvent": "Acetonitrile",
+            "amount": "20 mL"
+          }
+        ],
+        "equipment": "Not specified",
+        "chemicals_used": [
+          {
+            "chemical": "Complex 1",
+            "amount": "0.229 g, 0.5 mmol"
+          },
+          {
+            "chemical": "Ba(ClO4)2",
+            "amount": "0.168 g, 0.5 mmol"
+          }
+        ],
+        "time": "Few days",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "0.22 g (57%)",
+        "characterization": {
+          "IR": "ν(CvN) = 1610 cm−1, ν(ClO4) = 1082 cm−1, ν(VvO) = 997 cm−1"
+        }
+      }
+    }
+  ]
+}

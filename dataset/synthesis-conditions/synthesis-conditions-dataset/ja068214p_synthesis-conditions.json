@@ -1,0 +1,95 @@
+{
+  "compounds": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "temperature": "100°C",
+        "solvents": "acetonitrile",
+        "amount_of_solvent": "15 ml",
+        "equipment": "Teflon container",
+        "chemicals_used": [
+          {
+            "chemical": "Mn(OAc)2.4H2O",
+            "amount": "0.29 g, 1.20 mmol"
+          },
+          {
+            "chemical": "phenylstibonic acid",
+            "amount": "0.30 g, 1.20 mmol"
+          },
+          {
+            "chemical": "triethyl amine",
+            "amount": "0.33 ml, 2.40 mmol"
+          }
+        ],
+        "time": "slowly cooling to room temperature",
+        "yield": "0.13 g, 39 % based on phenyl stibonic acid"
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": "acetonitrile",
+        "amount_of_solvent": "15 ml",
+        "equipment": "100 ml round bottomed flask",
+        "chemicals_used": [
+          {
+            "chemical": "Mn(OAc)2.4H2O",
+            "amount": "0.24 g, 1.00 mmol"
+          },
+          {
+            "chemical": "phenylstibonic acid",
+            "amount": "0.25 g, 1.00 mmol"
+          },
+          {
+            "chemical": "NaOMe",
+            "amount": "0.21 g, 4.00 mmol"
+          },
+          {
+            "chemical": "pyridine",
+            "amount": "0.10 ml"
+          }
+        ],
+        "time": "12 h",
+        "yield": "0.10 g, 35 % based on phenyl stibonic acid"
+      }
+    },
+    {
+      "name": "3",
+      "synthesis_conditions": {
+        "temperature": "100°C",
+        "solvents": "acetonitrile",
+        "amount_of_solvent": "15 ml",
+        "equipment": "Teflon container",
+        "chemicals_used": [
+          {
+            "chemical": "Zn(OAc)2.2H2O",
+            "amount": "0.76 g, 3.46 mmol"
+          },
+          {
+            "chemical": "4-Cl-C6H4-SbO3H2",
+            "amount": "1.00 g, 3.53 mmol"
+          },
+          {
+            "chemical": "triethyl amine",
+            "amount": "0.96 ml, 6.92 mmol"
+          }
+        ],
+        "time": "slow evaporation of the filtrate after a month",
+        "yield": "0.55 g, 38 % based on 4-Cl-C6H4-SbO3H2"
+      }
+    },
+    {
+      "name": "4",
+      "synthesis_conditions": {
+        "notes": "The synthesis conditions for compound 4 are not explicitly detailed in the provided text. However, it is mentioned that compound 4 is a polymer and the synthesis involves solvothermal conditions similar to compounds 1, 2, and 3."
+      }
+    },
+    {
+      "name": "5",
+      "synthesis_conditions": {
+        "notes": "The synthesis conditions for compound 5 are not explicitly detailed in the provided text. It is mentioned as a tetramer and the synthesis likely involves similar conditions to the other compounds."
+      }
+    }
+  ]
+}

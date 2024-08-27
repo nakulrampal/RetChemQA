@@ -1,0 +1,98 @@
+{
+  "materials": [
+    {
+      "material": "Compound 2",
+      "synthesis_conditions": [
+        {
+          "step": "Optimized Conditions for the Synthesis",
+          "temperature": "150 °C",
+          "time": "4 days",
+          "solvents": [
+            {
+              "name": "distilled water",
+              "amount": "not specified"
+            }
+          ],
+          "equipment": "23 mL Teflon-lined autoclave",
+          "chemicals_used": [
+            {
+              "name": "NiCl2",
+              "amount": "2.5 mL of a 2 M solution"
+            },
+            {
+              "name": "(Et3NH)(l-HAsp)",
+              "amount": "2.0 mL of a 2 M solution"
+            },
+            {
+              "name": "Et3N",
+              "amount": "0.83 mL"
+            }
+          ],
+          "molar_ratio": "NiCl2:H2Asp:Et3N = 1.25:1:2.5",
+          "final_pH": "7.3",
+          "yield": "70% based on Ni",
+          "washing_method": "washed with distilled water",
+          "drying_method": "dried in air"
+        },
+        {
+          "step": "Crystal Growth",
+          "initial_conditions": [
+            {
+              "molar_ratio": "NiCl2:H2Asp:Et3N = 1:1:2",
+              "pH_initial": "6.5"
+            },
+            {
+              "molar_ratio": "NiCl2:H2Asp:Et3N = 1:1:2",
+              "concentration": "initial NiCl2 solution from 2 M to 4 M",
+              "temperature": "150 °C",
+              "time": "8 days"
+            }
+          ],
+          "observations": [
+            {
+              "description": "initially forms a blue precipitate",
+              "result": "prevents growth of sizable crystals"
+            },
+            {
+              "description": "initially remains as a clear solution",
+              "result": "starts forming large blue crystals of [NiAsp(H2O)2]·H2O"
+            },
+            {
+              "description": "increasing concentration of initial NiCl2 solution",
+              "result": "forms a blue solution with a small amount of oil-like blue precipitate"
+            }
+          ],
+          "temperature_range": "140-180 °C",
+          "crystal_size": "largest crystals 0.010 × 0.010 × 0.24 mm"
+        },
+        {
+          "step": "Study of the Transformation of 1 to 2",
+          "conditions": [
+            {
+              "description": "increasing pH by addition of 0.25 equiv of Et3N per Ni",
+              "pH_final": "6.1",
+              "result": "formation of 1 and 2 in ca. 2:1 ratio"
+            },
+            {
+              "description": "further addition of 0.25 equiv of Et3N per Ni",
+              "pH_final": "7.2",
+              "result": "mixture of 2 and Ni(OH)2"
+            },
+            {
+              "description": "adding 0.25 equiv of Et3N per Ni and a small amount of water to a sample of 1",
+              "temperature": "150 °C",
+              "equipment": "Teflon-lined autoclave",
+              "result": "2 formed as a mixture with an unidentified amorphous phase"
+            },
+            {
+              "description": "adding 1 M solution of (Et3NH)2(NiAsp2) to a sample of 1",
+              "temperature": "100 °C",
+              "time": "overnight",
+              "result": "mixture of 2 and [NiAsp(H2O)2]·H2O"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "materials": [
+    {
+      "name": "Co-MOF and Ni-MOF",
+      "synthesis_conditions": {
+        "activation_temperature": "110 °C",
+        "activation_time": "36 h",
+        "activation_atmosphere": "vacuum",
+        "activation_details": "heated under vacuum to ensure removal of coordinated water molecules"
+      }
+    },
+    {
+      "name": "NO-loaded Co-MOF",
+      "synthesis_conditions": {
+        "dehydration_temperature": "110 °C",
+        "dehydration_time": "2 h",
+        "initial_vacuum_dehydration_time": "1 h",
+        "initial_vacuum_dehydration_temperature": "room temperature",
+        "NO_exposure_pressure": "1 atm",
+        "NO_exposure_time": "overnight",
+        "color_change": "from brown/red to black",
+        "color_change_after_moisture_exposure": "reverts to brown/red",
+        "loading_method": "flushed three times with nitric oxide",
+        "PXRD_equipment": "Stoe StadiP diffractometer",
+        "PXRD_radiation": "iron Kα",
+        "Rietveld_refinement_software": "GSAS with the EXPGUI interface",
+        "Rietveld_refinement_details": {
+          "scale_factor": "refined",
+          "zero_point": "refined",
+          "lattice_parameters": "refined",
+          "peak_profile": "using the profile developed by Finger et al.",
+          "atomic_coordinates": "for cobalt and oxygen atoms refined",
+          "isotropic_thermal_parameter_for_cobalt": "refined",
+          "March-Dollase_correction": "applied",
+          "nitric_oxide_occupancy": "set to 2/3",
+          "final_refinement_converged_to": {
+            "wRp": "0.0784",
+            "Rp": "0.0582",
+            "R(F2)": "0.2166"
+          }
+        }
+      }
+    }
+  ]
+}

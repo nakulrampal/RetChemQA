@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the primary advantage of the PSMO strategy in the synthesis of PCN-426-Fe(III) and PCN-426-Cr(III)?",
+      "answer": "The primary advantage of the PSMO strategy is the substantial improvement in ligand exchange rates, which is an up to 10^5-fold increase from Fe^3+ to Fe^2+ and an as large as 10^16-fold improvement from Cr^3+ to Cr^2+ due to the electron configuration changes from d^3 to d^4. This strategy also alleviates the challenges of partial exchange and kinetic inertness.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the stability of PCN-426-Cr(III) compare to PCN-426-Fe(III) when exposed to different pH conditions?",
+      "answer": "PCN-426-Cr(III) exhibits higher stability than PCN-426-Fe(III), as its crystallinity remains intact from pH = 12 to extremely acidic conditions (4 M HCl) for at least 12 hours, while PCN-426-Fe(III) is stable in aqueous solutions with pH values from 4 to 10.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the key steps required to overcome the challenges of incomplete exchange and low exchange rate in the preparation of high-valence MOFs by metathesis?",
+      "answer": "The key steps required are: (1) selecting template MOFs with labile metal-ligand bonds; and (2) exchanging with metal ions that can be oxidized to high oxidation state while preserving the coordination environment around the metal ion.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the drawbacks of direct metal metathesis with M^3+ species in the synthesis of MOFs?",
+      "answer": "The drawbacks of direct metal metathesis with M^3+ species are: (1) Fe^3+ and Cr^3+ have very low ligand exchange rates and display kinetic inertness; and (2) larger hydrolysis equilibrium constants produce more acidic environments destroying the integrity of the MOFs.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of supercritical drying method in the activation of PCN-426-Mg, PCN-426-Fe(III), and PCN-426-Cr(III) samples for gas sorption experiments?",
+      "answer": "The supercritical drying method is used to eliminate surface tension and gain access to the internal surfaces in the framework by first exchanging the solvent with liquid CO2 and then heating above the carbon dioxide critical point. This prevents pore collapse in the framework that would otherwise occur upon direct removal of solvent, enabling the samples to exhibit permanent porosity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The PSMO strategy involves a stepwise synthesis of MOFs via post-synthetic metathesis with low-valence metal ions followed by oxidation of metal nodes.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: Direct metal metathesis with M^3+ species is a viable synthetic route toward stable high-valence MOFs.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: PCN-426-Mg exhibits permanent porosity after activation.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The crystallinity of PCN-426-Cr(III) remains intact even in extremely acidic conditions (4 M HCl) for at least 12 hours.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The PSMO strategy does not improve the stability and porosity of the frameworks compared to the original Mg-MOF template.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What are the advantages of using the PSMO strategy in the synthesis of robust MOFs?",
+      "answer": "The advantages of using the PSMO strategy include: (1) making the metal metathesis much faster and more complete due to substantial improvement in ligand exchange rates; (2) conducting metal metathesis with less destruction of crystallinity as Fe^2+ and Cr^2+ interact more weakly with the carboxylate ligand than hard Lewis acids; (3) providing milder conditions where the framework template remains intact during the exchange; and (4) the subsequent air oxidation being a gentle but effective post-synthetic treatment.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the BET surface area of PCN-426-Cr(III) compare to PCN-426-Fe(III)?",
+      "answer": "The BET surface area of PCN-426-Cr(III) is 3155 m^2/g, which is higher than that of PCN-426-Fe(III), which is 2132 m^2/g. This difference can be attributed to the higher exchange rate of Cr ion, which makes the metal exchange process complete within a short period of time and minimizes the loss of crystallinity.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What challenges does the PSMO strategy overcome in the synthesis of high-valence MOFs?",
+      "answer": "The PSMO strategy overcomes the challenges of incomplete exchange and low exchange rate, which are commonly encountered in the preparation of high-valence MOFs by metathesis. It achieves this by using a stepwise synthesis approach, starting with low-oxidation-state but kinetically labile metal ions and then oxidizing them to a high oxidation state.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The PSMO strategy results in MOFs that are less stable and less porous than the original Mg-MOF template.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: PCN-426-Cr(III) exhibits higher N2 uptake than PCN-426-Fe(III) due to its higher exchange rate and stability.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the supercritical drying method in the activation of PCN-426-Mg, PCN-426-Fe(III), and PCN-426-Cr(III) samples?",
+      "answer": "The supercritical drying method is significant because it eliminates surface tension and gains access to the internal surfaces in the framework by first exchanging the solvent with liquid CO2 and then heating above the carbon dioxide critical point. This method prevents pore collapse in the framework that would otherwise occur upon direct removal of solvent, enabling the samples to exhibit permanent porosity and be suitable for gas sorption experiments.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The PSMO strategy does not require the selection of template MOFs with labile metal-ligand bonds.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: Direct metal metathesis with M^3+ species leads to complete metal exchange and preservation of the MOF framework.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The PSMO strategy involves a one-step synthesis of MOFs without the need for subsequent oxidation of metal nodes.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: PCN-426-Mg exhibits higher stability in water than PCN-426-Fe(III) and PCN-426-Cr(III).",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

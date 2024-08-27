@@ -1,0 +1,212 @@
+{
+  "materials": [
+    {
+      "material": "ZnPC-2",
+      "synthesis_conditions": [
+        {
+          "temperature": "140 °C",
+          "solvents": [
+            {
+              "name": "isopropanol",
+              "amount": "5 mL"
+            },
+            {
+              "name": "deionized water",
+              "amount": "5 mL"
+            }
+          ],
+          "equipment": "Teflon-lined stainless steel autoclave (15 mL)",
+          "chemicals_used": [
+            {
+              "name": "H4pbdc",
+              "amount": "0.051 g",
+              "molarity": "0.2 mmol"
+            },
+            {
+              "name": "triethylamine",
+              "amount": "0.082 g",
+              "molarity": "0.8 mmol"
+            },
+            {
+              "name": "Zn(CH3COO)2·2H2O",
+              "amount": "0.065 g",
+              "molarity": "0.3 mmol"
+            }
+          ],
+          "time": "72 h",
+          "yield": "67 mg, yield: 93% based on Zn"
+        }
+      ]
+    },
+    {
+      "material": "Hpyr@ZnPC-2",
+      "synthesis_conditions": [
+        {
+          "temperature": "140 °C",
+          "solvents": [
+            {
+              "name": "isopropanol",
+              "amount": "5 mL"
+            },
+            {
+              "name": "deionized water",
+              "amount": "5 mL"
+            }
+          ],
+          "equipment": "Teflon-lined stainless steel autoclave (15 mL)",
+          "chemicals_used": [
+            {
+              "name": "H4pbdc",
+              "amount": "0.051 g",
+              "molarity": "0.2 mmol"
+            },
+            {
+              "name": "pyrrolidine",
+              "amount": "72 mg"
+            },
+            {
+              "name": "Zn(CH3COO)2·2H2O",
+              "amount": "0.065 g",
+              "molarity": "0.3 mmol"
+            }
+          ],
+          "time": "72 h",
+          "yield": "72 mg, yield: 86% based on Zn"
+        }
+      ]
+    },
+    {
+      "material": "MZnPC-2 (M = Mg, Mn, Co, Cu)",
+      "synthesis_conditions": [
+        {
+          "temperature": "140 °C",
+          "solvents": [
+            {
+              "name": "isopropanol",
+              "amount": "5 mL"
+            },
+            {
+              "name": "deionized water",
+              "amount": "5 mL"
+            }
+          ],
+          "equipment": "25 mL Teflon-lined autoclave",
+          "chemicals_used": [
+            {
+              "name": "H4pbdc",
+              "amount": "0.050 g",
+              "molarity": "0.2 mmol"
+            },
+            {
+              "name": "pyrrolidine",
+              "amount": "0.057 g",
+              "molarity": "0.8 mmol"
+            },
+            {
+              "name": "Zn(CH3COO)2·2H2O",
+              "amount": "0.044 g",
+              "molarity": "0.2 mmol"
+            },
+            {
+              "name": "MgCl2·6H2O",
+              "amount": "0.020 g",
+              "molarity": "0.1 mmol"
+            }
+          ],
+          "time": "72 h",
+          "yield": "52 mg, yield: 91% based on Zn"
+        }
+      ]
+    },
+    {
+      "material": "FeZnPC-2",
+      "synthesis_conditions": [
+        {
+          "temperature": "140 °C",
+          "solvents": [
+            {
+              "name": "isopropanol",
+              "amount": "5 mL"
+            },
+            {
+              "name": "deionized water",
+              "amount": "5 mL"
+            }
+          ],
+          "equipment": "25 mL Teflon-lined autoclave",
+          "chemicals_used": [
+            {
+              "name": "H4pbdc",
+              "amount": "0.050 g",
+              "molarity": "0.2 mmol"
+            },
+            {
+              "name": "pyrrolidine",
+              "amount": "0.057 g",
+              "molarity": "0.8 mmol"
+            },
+            {
+              "name": "Zn(CH3COO)2·2H2O",
+              "amount": "0.044 g",
+              "molarity": "0.2 mmol"
+            },
+            {
+              "name": "FeSO4·7H2O",
+              "amount": "0.020 g",
+              "molarity": "0.1 mmol"
+            },
+            {
+              "name": "ascorbic acid",
+              "amount": "0.017 g",
+              "molarity": "0.1 mmol"
+            }
+          ],
+          "time": "72 h",
+          "yield": "62 mg, yield: 83% based on Zn"
+        }
+      ]
+    },
+    {
+      "material": "ZnPC-2-im",
+      "synthesis_conditions": [
+        {
+          "temperature": "140 °C",
+          "solvents": [
+            {
+              "name": "N, N-dimethylformamide",
+              "amount": "4 mL"
+            },
+            {
+              "name": "isopropanol",
+              "amount": "4 mL"
+            },
+            {
+              "name": "H2O",
+              "amount": "4 mL"
+            }
+          ],
+          "equipment": "25 mL Teflon-lined autoclave",
+          "chemicals_used": [
+            {
+              "name": "Zn(CH3COO)2·2H2O",
+              "amount": "0.032 g",
+              "molarity": "0.15 mmol"
+            },
+            {
+              "name": "H4pbdc",
+              "amount": "0.025 g",
+              "molarity": "0.1 mmol"
+            },
+            {
+              "name": "imidazole",
+              "amount": "0.007 g",
+              "molarity": "0.1 mmol"
+            }
+          ],
+          "time": "72 h",
+          "yield": "31 mg, yield: 78% based on Zn"
+        }
+      ]
+    }
+  ]
+}

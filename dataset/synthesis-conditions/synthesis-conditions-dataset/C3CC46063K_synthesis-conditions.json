@@ -1,0 +1,95 @@
+{
+  "Complex 1": {
+    "Temperature": "Room temperature",
+    "Solvents": ["Distilled water", "DMF", "CH3CN"],
+    "Amount of each solvent": {
+      "Distilled water and DMF mixture": "5 mL (V:V = 1:1)",
+      "Water and CH3CN mixture": "Ratio of 1:2",
+      "CH3CN": "5 mL"
+    },
+    "Chemicals used": {
+      "K4[WIV(CN)8]": "0.1 mmol, 54.8 mg",
+      "18-Crown-6": "0.4 mmol, 105.6 mg (optional)",
+      "[Ni(L)(H2O)2][ClO4]2": "0.2 mmol, 103.4 mg"
+    },
+    "Time": "About one week",
+    "Washing method": "Filtration",
+    "Drying method": "Dried in air",
+    "Yield": "47.6 mg (ca. 52%)"
+  },
+  "Complex 2": {
+    "Temperature": "Room temperature",
+    "Solvents": ["CH3CN", "DMF"],
+    "Amount of each solvent": "5 mL (V:V = 1:1)",
+    "Chemicals used": {
+      "K4[W(CN)8]": "0.1 mmol, 54.8 mg",
+      "18-Crown-6": "0.4 mmol, 105.6 mg",
+      "[Ni(L)(H2O)2][ClO4]2": "0.2 mmol, 103.4 mg"
+    },
+    "Time": "About one week",
+    "Washing method": "Filtration",
+    "Drying method": "Dried in air",
+    "Yield": "6.5 mg (ca. 6%)"
+  },
+  "Complex 3": {
+    "Temperature": "Room temperature",
+    "Solvents": ["CH3CN", "Water"],
+    "Amount of each solvent": {
+      "CH3CN": "5 mL",
+      "Water": "0.5 mL"
+    },
+    "Chemicals used": {
+      "K4[WIV(CN)8]": "0.1 mmol, 54.8 mg",
+      "18-Crown-6": "0.2 mmol, 105.6 mg",
+      "[Ni(L)(H2O)2][ClO4]2": "0.2 mmol, 103.4 mg"
+    },
+    "Time": "Several days",
+    "Washing method": "Manually collected",
+    "Drying method": "Not specified",
+    "Stability": "Transforms to Complex 1 after several days"
+  },
+  "Water-controlled two-steps single-crystal transformations": {
+    "Initial condition": "Complex 2",
+    "Intermediate condition": "Mixture of complexes 2 and 3",
+    "Final condition": "Complex 3",
+    "Transformation time": {
+      "To intermediate": "3 days",
+      "To final": "4 days"
+    },
+    "Amount of water added": "Very little (ca. 0.5 mL)"
+  },
+  "Water-controlled one-step single-crystal transformation": {
+    "Initial condition": "Complex 2",
+    "Intermediate condition": "Mixture of complexes 1 and 2",
+    "Final condition": "Complex 1",
+    "Transformation time": {
+      "To intermediate": "1 day",
+      "To final": "2 days"
+    },
+    "Amount of water added": "About 5 mL"
+  },
+  "Water-controlled quick amorphous to single-crystal transformation": {
+    "Solvents": ["Anhydrous CH3CN", "DMF"],
+    "Amount of each solvent": "5 mL (V:V = 1:1)",
+    "Amount of water added": "About 5 mL",
+    "Time": "About two days",
+    "Chemicals used": {
+      "K4[W(CN)8]": "0.1 mmol, 54.8 mg",
+      "18-Crown-6": "0.4 mmol, 105.6 mg",
+      "[Ni(L)(H2O)2][ClO4]2": "0.2 mmol, 103.4 mg"
+    },
+    "Result": "Uniform needle-like crystals complex 1"
+  },
+  "Water-controlled slow amorphous to single-crystal transformation": {
+    "Solvents": ["Anhydrous CH3CN", "DMF"],
+    "Amount of each solvent": "5 mL (V:V = 1:1)",
+    "Amount of water added": "About 0.5 mL",
+    "Time": "About four days to start depositing, one week for final structure",
+    "Chemicals used": {
+      "K4[W(CN)8]": "0.1 mmol, 54.8 mg",
+      "18-Crown-6": "0.4 mmol, 105.6 mg",
+      "[Ni(L)(H2O)2][ClO4]2": "0.2 mmol, 103.4 mg"
+    },
+    "Result": "Uniform small needle-like crystals complex 1 with small quantity of amorphous unknown samples"
+  }
+}

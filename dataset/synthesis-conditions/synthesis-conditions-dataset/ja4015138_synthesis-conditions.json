@@ -1,0 +1,247 @@
+{
+  "materials": [
+    {
+      "material_id": "9",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "nitrilotriacetic acid",
+            "amount": "5.71g",
+            "molar_amount": "29.9 mmol"
+          },
+          {
+            "name": "tert-butylamine",
+            "amount": "8.80g",
+            "molar_amount": "120 mmol"
+          },
+          {
+            "name": "triphenylphosphite",
+            "amount": "27.5g",
+            "molar_amount": "88.6 mmol"
+          },
+          {
+            "name": "ether",
+            "solvent": true
+          },
+          {
+            "name": "chloroform",
+            "solvent": true
+          },
+          {
+            "name": "KH",
+            "amount": "0.14g",
+            "molar_amount": "3.4 mmol"
+          },
+          {
+            "name": "[Co(DMSO)6](ClO4)2",
+            "amount": "0.74g",
+            "molar_amount": "1.02mmol"
+          },
+          {
+            "name": "anhydrous DMF",
+            "solvent": true
+          },
+          {
+            "name": "anhydrous diethyl ether",
+            "solvent": true
+          }
+        ],
+        "yield": "20%",
+        "time": [
+          {
+            "step": "stirring nitrilotriacetic acid with tert-butylamine",
+            "duration": "2h"
+          },
+          {
+            "step": "heating after adding triphenylphosphite",
+            "duration": "18h"
+          },
+          {
+            "step": "stirring KH with tris((N-tert-butylcarbamoyl)methyl)amine in DMF",
+            "duration": "until gas evolution ceases"
+          },
+          {
+            "step": "stirring after adding [Co(DMSO)6](ClO4)2",
+            "duration": "2h"
+          },
+          {
+            "step": "crystal formation",
+            "duration": "two weeks"
+          }
+        ],
+        "temperature": [
+          {
+            "step": "reaction mixture with triphenylphosphite",
+            "temperature": "90-110ºC"
+          }
+        ],
+        "atmosphere": "Ar",
+        "techniques": [
+          "Schlenk techniques",
+          "slow diffusion"
+        ],
+        "washing_method": [
+          "with ether",
+          "with water",
+          "with saturated sodium bicarbonate solution"
+        ],
+        "drying_method": "over MgSO4",
+        "characterization": {
+          "1H NMR": [
+            {
+              "solvent": "CDCl3",
+              "peaks": [
+                {
+                  "shift": "7.10",
+                  "multiplicity": "s",
+                  "protons_count": 3
+                },
+                {
+                  "shift": "3.16",
+                  "multiplicity": "s",
+                  "protons_count": 6
+                },
+                {
+                  "shift": "1.36",
+                  "multiplicity": "s",
+                  "protons_count": 27
+                }
+              ]
+            }
+          ],
+          "FT-IR": [
+            "3500-3200",
+            "1667s",
+            "1604s",
+            "1568s",
+            "1128s",
+            "941m",
+            "569w",
+            "555w",
+            "453w"
+          ],
+          "elemental_analysis": {
+            "C": "48.02",
+            "H": "7.62",
+            "N": "12.74"
+          }
+        }
+      }
+    },
+    {
+      "material_id": "10",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "N-methylhydrazine",
+            "amount": "4.66g",
+            "molar_amount": "100 mmol"
+          },
+          {
+            "name": "SPCl3",
+            "amount": "2.86g",
+            "molar_amount": "17 mmol"
+          },
+          {
+            "name": "chloroform",
+            "solvent": true
+          },
+          {
+            "name": "4(5)-imidazolecarboxaldehyde",
+            "amount": "150mg",
+            "molar_amount": "1.56 mmol"
+          },
+          {
+            "name": "P(S)N(CH3)NH2]3",
+            "amount": "100mg",
+            "molar_amount": "0.50 mmol"
+          },
+          {
+            "name": "Co(NO3)2·6H2O",
+            "amount": "144mg",
+            "molar_amount": "0.50 mmol"
+          },
+          {
+            "name": "distilled methanol",
+            "solvent": true
+          },
+          {
+            "name": "diethyl ether",
+            "solvent": true
+          }
+        ],
+        "yield": "66%",
+        "time": [
+          {
+            "step": "stirring N-methylhydrazine with SPCl3",
+            "duration": "2h"
+          },
+          {
+            "step": "stirring after adding Co(NO3)2·6H2O",
+            "duration": "3h"
+          }
+        ],
+        "temperature": [
+          {
+            "step": "reaction mixture with SPCl3",
+            "temperature": "ice bath"
+          }
+        ],
+        "atmosphere": "room temperature",
+        "techniques": [
+          "slow diffusion"
+        ],
+        "washing_method": [
+          "with ether",
+          "with water",
+          "with saturated sodium bicarbonate solution"
+        ],
+        "drying_method": "over MgSO4",
+        "characterization": {
+          "1H NMR": [
+            {
+              "solvent": "CDCl3",
+              "peaks": [
+                {
+                  "shift": "3.70",
+                  "multiplicity": "broad",
+                  "protons_count": 6
+                },
+                {
+                  "shift": "2.94",
+                  "multiplicity": "d",
+                  "protons_count": 9,
+                  "coupling_constant": "10 Hz"
+                }
+              ]
+            }
+          ],
+          "FT-IR": [
+            "3400-2800",
+            "1609m",
+            "1541m",
+            "1516m",
+            "1464m",
+            "1384s",
+            "1325s",
+            "1216m",
+            "1165s",
+            "1088m",
+            "972s",
+            "859s",
+            "772m",
+            "622m",
+            "520m",
+            "493w"
+          ],
+          "elemental_analysis": {
+            "C": "29.50",
+            "H": "3.47",
+            "N": "31.67",
+            "S": "5.07"
+          }
+        }
+      }
+    }
+  ]
+}

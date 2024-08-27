@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula and crystal system of trisPyM according to the crystallographic data?",
+      "answer": "The empirical formula of trisPyM is C16H6Cl6N3, and its crystal system is Monoclinic.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the absorption and emission peak wavelengths of trisPyM in CH2Cl2?",
+      "answer": "The absorption peak wavelength of trisPyM in CH2Cl2 is 350 nm, and the emission peak wavelength is 700 nm.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the half-life of trisPyM in CH2Cl2 compare to its half-life in n-hexane?",
+      "answer": "The half-life of trisPyM in CH2Cl2 (2.22 x 10^4 s) is slightly shorter than its half-life in n-hexane (2.38 x 10^4 s).",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the method used to evaluate the rate constant of internal conversion (k_i→j^IC) for PyBTM, bisPyTM, and trisPyM?",
+      "answer": "The rate constant of internal conversion (k_i→j^IC) for PyBTM, bisPyTM, and trisPyM is evaluated within the effective mode approximation at T = 0 K, using the Lorentzian function with a broadening factor for describing the density of final vibronic states.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the dimensionless diagonal VCC (g_j,ξ) in the calculation of the rate constant of internal conversion?",
+      "answer": "The dimensionless diagonal VCC (g_j,ξ) represents the geometrical displacement between electronic states along the direction of the effective mode, contributing to the rate of internal conversion by indicating the extent of vibronic coupling.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The emission intensity of trisPyM at 667 nm decreases under continuous excitation with a picosecond diode laser at 79 K.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental technique is used to measure the magnetic susceptibilities of trisZn?",
+      "answer": "The magnetic susceptibilities of trisZn are measured using a SQUID magnetometer.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the effective mode in the evaluation of the rate constant of internal conversion?",
+      "answer": "The effective mode maximizes vibronic coupling in a single-mode direction, contributing predominantly to the rate of internal conversion by representing the steepest descent direction to the minimum point on the energy surface of the final electronic state.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The photostability of trisPyM improves as the number of pyridyl moieties in the TTM skeleton increases.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the off-diagonal VCC (V_ij,α) in the context of internal conversion?",
+      "answer": "The off-diagonal VCC (V_ij,α) represents the interaction between electronic and nuclear motions for non-identical electronic states, playing a crucial role in facilitating internal conversion by enabling the transition between different electronic states through vibronic coupling.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

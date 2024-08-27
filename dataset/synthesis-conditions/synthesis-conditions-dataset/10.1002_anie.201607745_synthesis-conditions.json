@@ -1,0 +1,45 @@
+{
+  "materials": [
+    {
+      "name": "CALF-33-Et2H",
+      "synthesis_conditions": {
+        "temperature": "120 88C",
+        "solvents": [
+          {
+            "name": "ethanol",
+            "amount": "not specified"
+          },
+          {
+            "name": "water",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "hydrothermal vessel",
+        "chemicals_used": [
+          "Cu(NO3)2",
+          "H3L1-Et3",
+          "1,3-diisopropylbenzene"
+        ],
+        "time": "not specified",
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "additional_information": "The in situ hydrolysis of a single PME to a hydrogen phosphonate was confirmed by 31P{1H} NMR. The ratio of ester hydrolysis can be controlled based on the synthetic conditions to either retain all of the esters, hydrolyze selectively one third of the esters, or any stage between these two points."
+      }
+    },
+    {
+      "name": "CALF-33-Et3",
+      "synthesis_conditions": {
+        "temperature": "not specified",
+        "solvents": "not specified",
+        "equipment": "not specified",
+        "chemicals_used": "not specified",
+        "time": "not specified",
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "additional_information": "Synthesized by slight variation of the amount of water in the preparation of CALF-33-Et2H. Synthetic conditions necessary to form single crystals resulted in partial hydrolysis of the ligand, hence ethyl ester groups were added to the CALF-33-Et2H model in silico."
+      }
+    }
+  ]
+}

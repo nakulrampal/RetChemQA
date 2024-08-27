@@ -1,0 +1,78 @@
+{
+  "materials": [
+    {
+      "name": "[Zn(Gly-Thr)2]·CH3OH",
+      "synthesis_conditions": {
+        "precursors": [
+          "zinc nitrate",
+          "Gly-l-Thr"
+        ],
+        "solvent": "methanol",
+        "solvent_amount": "not specified",
+        "additional_reagents": [
+          {
+            "name": "aqueous NaOH",
+            "purpose": "basification"
+          }
+        ],
+        "temperature": "not specified",
+        "equipment": "not specified",
+        "time": "not specified",
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "[Zn(Gly-Thr)2]·(H2O)2",
+      "synthesis_conditions": {
+        "precursors": [
+          "Gly-Thr",
+          "zinc hydroxide"
+        ],
+        "solvent": "water",
+        "solvent_amount": "not specified",
+        "temperature": "not specified",
+        "equipment": "not specified",
+        "time": "not specified",
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "Desolvated [Zn(Gly-Thr)2] (1')",
+      "synthesis_conditions": {
+        "precursors": [
+          "[Zn(Gly-Thr)2]·CH3OH"
+        ],
+        "solvent": "none",
+        "solvent_amount": "not applicable",
+        "additional_reagents": "none",
+        "temperature": "100°C",
+        "equipment": "dynamic vacuum (10^-6 mbar)",
+        "time": "overnight",
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "vacuum drying"
+      }
+    },
+    {
+      "name": "Exfoliated [Zn(Gly-Thr)2] nanosheets",
+      "synthesis_conditions": {
+        "precursors": [
+          "dried [Zn(Gly-Thr)2]"
+        ],
+        "solvent": "acetone",
+        "solvent_amount": "1 g L^-1",
+        "additional_reagents": "none",
+        "temperature": "ambient",
+        "equipment": "sonicator",
+        "time": "not specified",
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "deposition on Si wafer"
+      }
+    }
+  ]
+}

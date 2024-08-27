@@ -1,0 +1,63 @@
+{
+  "materials": [
+    {
+      "name": "α-UPP",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "UO2(NO3)2·6H2O (2.00 g, 4.0 mmol, Strem Chemicals)",
+          "48% HF (1.20 mL, 34 mmol, Aldrich)",
+          "H2O3PC6H5 (5.06 g, 32 mmol, Aldrich)"
+        ],
+        "solvents": [
+          {
+            "name": "deionized water",
+            "amount": [
+              "40 mL",
+              "60 mL"
+            ]
+          }
+        ],
+        "molar_ratio": "U:P:F = 1:8:8.5",
+        "total_volume": "approximately 140 mL",
+        "equipment": "plastic beaker",
+        "seeding": "seeded with previously grown small crystals",
+        "yield": "0.55 g or 20%",
+        "time": [
+          "next day, blossoms of thin yellow needles appeared",
+          "after three more days, they were isolated"
+        ],
+        "washing_method": "washed with deionized water",
+        "drying_method": "air-dried",
+        "notes": "This procedure is a slight modification of a procedure published earlier. The less concentrated reactants used here yielded a better crystalline product. If the crystals of the α-phase are not isolated from the mother liquor in approximately 5 days after preparing the solution, the luminescent crystals of the β-phase start precipitating as well, thus contaminating the desired nonluminescent product. The mother liquor left standing for several days either at room temperature or at an elevated temperature (55 °C) produced block-shaped crystals of the β-phase."
+      }
+    },
+    {
+      "name": "β-UPP",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "UO2(NO3)2·6H2O (2.00 g, 4.0 mmol)",
+          "48% HF (1.40 mL, 40 mmol)",
+          "H2O3PC6H5 (5.06 g, 32 mmol)"
+        ],
+        "solvents": [
+          {
+            "name": "deionized water",
+            "amount": [
+              "40 mL",
+              "60 mL"
+            ]
+          }
+        ],
+        "molar_ratio": "U:P:F = 1:8:10",
+        "equipment": "plastic beaker",
+        "temperature": "55 °C",
+        "yield": "large (up to 3 mm), block-like crystals, stable in air over a long period of time",
+        "time": [
+          "next day, tiny luminescent cube-like crystals appeared on the walls of the beaker and on the bottom",
+          "after 10 days, this procedure yielded large crystals"
+        ],
+        "notes": "No nonluminescent needles of α-UPP were observed in the beaker. For a single-crystal analysis, small crystals were isolated after only about 2 days."
+      }
+    }
+  ]
+}

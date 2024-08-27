@@ -1,0 +1,80 @@
+{
+  "materials": [
+    {
+      "name": "ZNU-2",
+      "synthesis_conditions": [
+        {
+          "step": "Crystal cultivation",
+          "solvents": [
+            {
+              "name": "MeOH",
+              "amount": "not specified"
+            },
+            {
+              "name": "aqueous solution",
+              "amount": "not specified"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Tripa",
+              "amount": "not specified"
+            },
+            {
+              "name": "CuTiF6",
+              "amount": "not specified"
+            }
+          ],
+          "equipment": "not specified",
+          "temperature": "not specified",
+          "time": "not specified",
+          "washing_method": "not specified",
+          "drying_method": "not specified",
+          "yield": "not specified"
+        },
+        {
+          "step": "Stability test",
+          "temperature": "not specified",
+          "time": "not specified",
+          "method": "PXRD patterns under different conditions"
+        },
+        {
+          "step": "Gas adsorption experiments",
+          "temperature": "77 K (N2 gas adsorption); 298 K (C3H4 and C3H6 adsorption measurements)",
+          "time": "not specified",
+          "equipment": "not specified",
+          "chemicals_used": [
+            {
+              "name": "N2",
+              "amount": "not specified"
+            },
+            {
+              "name": "C3H4",
+              "amount": "not specified"
+            },
+            {
+              "name": "C3H6",
+              "amount": "not specified"
+            }
+          ],
+          "BET_surface_area": "1380 m2 g-1",
+          "pore_volume": "0.575 cm3 g-1",
+          "C3H4_uptake": "7.7 mmol g-1 at 1.0 bar and 298 K",
+          "C3H6_uptake": "5.3 mmol g-1 at 1.0 bar and 298 K",
+          "C3H4_uptake_at_1kPa": "3.9 mmol g-1",
+          "C3H6_uptake_at_1kPa": "0.61 mmol g-1"
+        },
+        {
+          "step": "Breakthrough experiments",
+          "temperature": "298 K",
+          "flow_rate": "4 mL min-1",
+          "C3H4_C3H6_mixture_ratios_tested": ["10/90", "50/50", "1/99"],
+          "C3H6_productivity": "25.5 mol kg-1 from 10/90 mixture; 42.0 mol kg-1 from 1/99 mixture",
+          "C3H4_recovery": "4.1 mol kg-1 of > 99% purity from 50/50 mixture",
+          "humidity_conditions": "65%",
+          "cycles": "10 cycles without capacity loss"
+        }
+      ]
+    }
+  ]
+}

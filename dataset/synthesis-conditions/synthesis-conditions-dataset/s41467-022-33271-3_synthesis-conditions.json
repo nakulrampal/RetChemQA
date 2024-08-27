@@ -1,0 +1,117 @@
+{
+  "materials": [
+    {
+      "name": "Cu(bpy)NP",
+      "synthesis": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "3 mL"
+          },
+          {
+            "name": "Methanol",
+            "amount": "30 mL"
+          }
+        ],
+        "equipment": "Stirring",
+        "chemicals_used": [
+          {
+            "name": "Cu(NO3)2·3H2O",
+            "amount": "0.25 mmol, 60 mg"
+          },
+          {
+            "name": "Sodium nitroprusside",
+            "amount": "0.25 mmol, 75 mg"
+          },
+          {
+            "name": "4,4’-bipyridine (bpy)",
+            "amount": "0.2 mmol, 35 mg"
+          }
+        ],
+        "time": "48 h",
+        "yield": "67%",
+        "drying_method": "Vacuum oven at 333 K overnight"
+      },
+      "single_crystals_synthesis": {
+        "method": "Slow diffusion",
+        "solvents": [
+          {
+            "name": "Methanol",
+            "amount": "0.4 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.4 mL"
+          },
+          {
+            "name": "Methanol/H2O (1:1)",
+            "amount": "1.2 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Sodium nitroprusside (NP)",
+            "amount": "0.003 mmol, 0.89 mg"
+          },
+          {
+            "name": "4,4’-bipyridine (bpy)",
+            "amount": "0.002 mmol, 0.35 mg"
+          },
+          {
+            "name": "Cu(NO3)2·3H2O",
+            "amount": "0.003 mmol, 0.72 mg"
+          }
+        ],
+        "time": "1 week",
+        "conditions": "Room temperature in the dark"
+      },
+      "characterization": {
+        "PXRD": "Consistent with simulated pattern",
+        "TGA": "Weight loss of 2.9% at 220 °C",
+        "BET_surface_area": "459 m2 g-1",
+        "total_pore_volume": "0.45 cm3 g-1",
+        "pore_size": "6.6 Å",
+        "N2_adsorption": "BET surface area of 121 m2 g-1 at 77 K"
+      },
+      "gas_adsorption": {
+        "temperatures": [
+          "273 K",
+          "298 K",
+          "323 K"
+        ],
+        "gases": [
+          "C2H2",
+          "CO2",
+          "C2H4"
+        ],
+        "C2H2_capacity": "50.7 cm3 g-1 at 298 K and 1.0 bar",
+        "CO2_capacity": "40.8 cm3 g-1 at 298 K and 1.0 bar",
+        "C2H4_capacity": "25.1 cm3 g-1 at 298 K and 1.0 bar",
+        "C2H2_uptake_at_0.01_bar": "22.4 cm3 g-1 at 298 K"
+      },
+      "dynamic_breakthrough_experiments": {
+        "C2H2_CO2_separation": {
+          "flow_rate": "2.0 mL min-1",
+          "separation_selectivity": "3.9",
+          "C2H2_purity": "Above 99%"
+        },
+        "C2H2_C2H4_separation": {
+          "flow_rate": "2.0 mL min-1",
+          "C2H4_productivity": "20.57 mmol g-1",
+          "C2H4_purity": "99.9%"
+        },
+        "ternary_gas_mixture_separation": {
+          "mixture": "C2H2/CO2/C2H4 (25/25/50, v/v/v)",
+          "flow_rate": "2.0 mL min-1"
+        },
+        "cycling_and_regeneration": "No noticeable decay in residual time over five cycles"
+      },
+      "theoretical_studies": {
+        "DFT_calculations": "Charge transfer analysis and binding energy calculations",
+        "GCMC_simulations": "Agreement with experimental isotherms",
+        "binding_sites": "C2H2 bound by three [Fe(CN)5(NO)]2− anions"
+      }
+    }
+  ]
+}

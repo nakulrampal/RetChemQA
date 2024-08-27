@@ -1,0 +1,60 @@
+{
+  "materials": [
+    {
+      "name": "a-[ZnTe(bda)0.5] and a-[ZnTe(hda)0.5]",
+      "synthesis_conditions": {
+        "temperature": "200-210°C",
+        "solvents": "alkyldiamines",
+        "equipment": "solventothermal reaction setup",
+        "chemicals_used": [
+          "ZnF2 (99%, Alfa Aesar)",
+          "Zn(NO3)2·6 H2O (97%, Alfa Aesar)",
+          "Te (99.5%, Strem)",
+          "1,4-butanediamine (bda, 99%, Alfa Aesar)",
+          "1,6-hexanediamine (hda, 98%, Alfa Aesar)"
+        ],
+        "product_form": "colorless plate-like crystals",
+        "characterization_methods": "single-crystal X-ray diffraction"
+      }
+    },
+    {
+      "name": "[ZnTe(ptda)0.5]",
+      "synthesis_conditions": {
+        "temperature": "200-210°C",
+        "solvents": "alkyldiamines",
+        "equipment": "solventothermal reaction setup",
+        "chemicals_used": [
+          "ZnF2 (99%, Alfa Aesar)",
+          "Zn(NO3)2·6 H2O (97%, Alfa Aesar)",
+          "Te (99.5%, Strem)",
+          "1,5-pentanediamine (ptda, 95%, TCI)"
+        ],
+        "product_form": "colorless plate-like crystals",
+        "characterization_methods": "single-crystal X-ray diffraction"
+      }
+    },
+    {
+      "name": "d-[ZnTe(hda)0.5]",
+      "synthesis_conditions": {
+        "temperature": "200-210°C",
+        "solvents": "alkyldiamines",
+        "equipment": "solventothermal reaction setup",
+        "chemicals_used": [
+          "ZnF2 (99%, Alfa Aesar)",
+          "Zn(NO3)2·6 H2O (97%, Alfa Aesar)",
+          "Te (99.5%, Strem)",
+          "1,6-hexanediamine (hda, 98%, Alfa Aesar)"
+        ],
+        "product_form": "colorless plate-like crystals",
+        "characterization_methods": "single-crystal X-ray diffraction"
+      }
+    },
+    {
+      "name": "g-[ZnTe(bda)0.5] and g-[ZnTe(hda)0.5]",
+      "synthesis_conditions": {
+        "phase_transition_temperatures": "about 130 K for 1!1 a and about 225 K for 4!4 a",
+        "notes": "Phase transitions observed upon slow cooling to 100 K and subsequent slow warming to room temperature. Phase transitions were reversible."
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Materials": [
+    {
+      "Material": "ZNU-6",
+      "Synthesis": {
+        "Chemicals_used": [
+          {
+            "Chemical": "Tri(pyridin-4-yl)amine (TPA)",
+            "Purity": "99%"
+          },
+          {
+            "Chemical": "Cu(NO3)2·3H2O",
+            "Purity": "99%"
+          },
+          {
+            "Chemical": "(NH4)2GeF6",
+            "Purity": "99.99%"
+          }
+        ],
+        "Solvents": [
+          "MeOH",
+          "H2O"
+        ],
+        "Procedure": "To a 5 mL long thin tube was added a 1 mL of aqueous solution with Cu(NO3)2·3H2O (~1.3 mg) and (NH4)2GeF6 (~1.0 mg). 2 mL of MeOH/H2O mixture (v:v = 1:1) was slowly layered above the solution, followed by a 1 mL of MeOH solution of TPA (~1.0 mg). The tube was sealed and left undisturbed at 298 K. After ~1 week, purple single crystals were obtained.",
+        "Temperature": "298 K",
+        "Yield": "Not specified",
+        "Time": "~1 week",
+        "Equipment": "5 mL long thin tube"
+      },
+      "Gas_loading_ZNU-6": {
+        "Procedure": "The crystalline sample of ZNU-6 was filled into a glass tube and heated at 120 °C under vacuum for 24 h. After the sample cooling down, CO2, C2H2, or C2H4 was introduced into the sample respectively with Builder SSA 7000 (Beijing) instrument until the pressure reach to 1 bar at 298 K and the state is maintained for another hour. Then, the crystals were picked out, covered with the degassed oil, and single crystal X-ray diffraction measurements were then carried out at 298 K as soon as possible.",
+        "Temperature": "120 °C for heating, measurements at 298 K",
+        "Pressure": "1 bar",
+        "Time": "24 h for heating, additional 1 h for gas introduction"
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "materials": [
+    {
+      "material": "K2[Ho48(IN)46(m3-OH)84(m4-OH)4(m5-O)2(OAc)4(H2O)14(CO3)Br2](cid:3)2HIN(cid:3)20H2O (1)",
+      "synthesis_conditions": {
+        "temperature": "170 °C",
+        "time": "7 days",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "8 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Ho2O3",
+            "amount": "0.1887 g, 0.5 mmol"
+          },
+          {
+            "name": "Mn(OAc)2·4H2O",
+            "amount": "0.0354 g, 0.15 mmol"
+          },
+          {
+            "name": "HIN",
+            "amount": "0.2459 g, 2.00 mmol"
+          },
+          {
+            "name": "KBr",
+            "amount": "0.0071 g, 0.06 mmol"
+          },
+          {
+            "name": "HCOOH (88%)",
+            "amount": "0.0293 g, 0.64 mmol"
+          }
+        ],
+        "pH_adjustment": {
+          "method": "adjusted with HNO3 (65%)",
+          "pH_value": "3.2"
+        },
+        "stirring_time": "12 h",
+        "equipment": "25 mL Teflon-lined autoclave",
+        "yield": "27.3% based on Ho",
+        "elemental_analysis": {
+          "C": {
+            "calculated": "21.68%",
+            "found": "21.62%"
+          },
+          "H": {
+            "calculated": "2.22%",
+            "found": "2.28%"
+          },
+          "N": {
+            "calculated": "4.09%",
+            "found": "4.12%"
+          }
+        },
+        "IR_frequencies": [
+          "3432(s)",
+          "1605(vs)",
+          "1549(vs)",
+          "1418(vs)",
+          "1146(w)",
+          "769(m)",
+          "678(m)",
+          "560(m)"
+        ]
+      }
+    }
+  ]
+}

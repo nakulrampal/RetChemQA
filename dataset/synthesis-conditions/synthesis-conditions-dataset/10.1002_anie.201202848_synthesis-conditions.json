@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "name": "1-(hydroxyethyl)-4-(N,N-dimethylamino)pyridinium cation (C+)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "2-iodoethanol",
+          "4-(N,N-dimethylamino)pyridine"
+        ],
+        "reaction": "nucleophilic substitution of the iodine atom of 2-iodoethanol by 4-(N,N-dimethylamino)pyridine"
+      }
+    },
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "tris(oxalato)chromate(III)",
+          "manganese(II) ions",
+          "1-(hydroxyethyl)-4-(N,N-dimethylamino)pyridinium (C+)"
+        ],
+        "reaction": "metathesis of the ammonium cation by C+ in the tris(oxalato)chromate(III) precursor salt",
+        "solvents": "water/alcohol mixtures",
+        "notes": "Formation of an anionic coordination network, the charge of which is compensated by the insertion of C+."
+      }
+    }
+  ]
+}

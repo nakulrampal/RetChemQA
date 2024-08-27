@@ -1,0 +1,32 @@
+{
+  "materials": [
+    {
+      "name": "MTAF-4",
+      "synthesis_conditions": {
+        "temperature": "135 oC",
+        "solvents": [
+          {
+            "name": "N,N'-dimethylformamide (DMF)",
+            "amount": "10.0 mL"
+          }
+        ],
+        "equipment": "20 mL vial",
+        "chemicals_used": [
+          {
+            "name": "4-(1,2,3-triazol-4-yl)-benzoate (tab)",
+            "amount": "50 mg"
+          },
+          {
+            "name": "Zn(ClO4)2·6H2O",
+            "amount": "190 mg"
+          }
+        ],
+        "time": "72 hours",
+        "yield": "70% based on tab ligand",
+        "drying_method": "dried on the Schlenk line for overnight at room temperature",
+        "washing_method": "exchanged with methanol for 3 days",
+        "degas_method": "degased using the 'outgas' function of ASAP 2020 for 3 hours at 150 oC"
+      }
+    }
+  ]
+}

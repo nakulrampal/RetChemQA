@@ -1,0 +1,92 @@
+{
+  "materials": [
+    {
+      "name": "Zn-cbpp ([Zn(cbpp)(HCOO)]n, Hcbpp = 1-[4-carboxylbenzyl]-3-[pyrzin-2-yl]pyrazole)",
+      "synthesis_conditions": {
+        "method": "solvothermal",
+        "temperature": "85°C",
+        "time": "5 days",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "3 mL"
+          },
+          {
+            "name": "acetonitrile",
+            "amount": "6 mL"
+          },
+          {
+            "name": "DMF",
+            "amount": "6 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "0.6 mmol"
+          },
+          {
+            "name": "Hcbpp",
+            "amount": "0.3 mmol"
+          }
+        ],
+        "equipment": "50-mL Teflon-lined autoclave",
+        "drying_method": "oven at 60°C"
+      }
+    },
+    {
+      "name": "Perovskite films with Zn-cbpp modification",
+      "synthesis_conditions": {
+        "method": "spin-coating and calcination",
+        "temperature": "100°C",
+        "time": "60 min",
+        "solvents": [
+          {
+            "name": "DMF/DMSO mixed solvent",
+            "ratio": "4:1"
+          },
+          {
+            "name": "chlorobenzene",
+            "amount": "200 µL",
+            "step": "during spin-coating"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "PbI2",
+            "amount": "1.1 mmol"
+          },
+          {
+            "name": "PbBr2",
+            "amount": "0.2 mmol"
+          },
+          {
+            "name": "FAI",
+            "amount": "1 mmol"
+          },
+          {
+            "name": "MABr",
+            "amount": "0.2 mmol"
+          },
+          {
+            "name": "CsI solution (1.5 m in DMSO)",
+            "amount": "57.5 µL"
+          },
+          {
+            "name": "Zn-cbpp",
+            "amounts": ["1 mg", "2 mg", "3 mg"],
+            "note": "added to lead salt solutions"
+          }
+        ],
+        "equipment": "spin-coater",
+        "additional_steps": [
+          {
+            "step": "annealing",
+            "temperature": "100°C",
+            "time": "60 min"
+          }
+        ]
+      }
+    }
+  ]
+}

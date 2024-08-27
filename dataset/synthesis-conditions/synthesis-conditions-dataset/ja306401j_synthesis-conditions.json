@@ -1,0 +1,111 @@
+{
+  "materials": [
+    {
+      "name": "tetrakis(m-pyridyloxymethylene)methane (mtpm)",
+      "synthesis_steps": [
+        {
+          "step_description": "Preparation of pentaerythrityl tetratosylate",
+          "solvents": [
+            {
+              "name": "dry pyridine",
+              "amount": "35 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "pentaerythritol",
+              "amount": "3.94 g, 0.029 mol"
+            },
+            {
+              "name": "tosyl chloride",
+              "amount": "25.0 g, 0.13 mol"
+            }
+          ],
+          "conditions": {
+            "temperature": "room temperature",
+            "time": "48 h"
+          },
+          "yield": "21.3 g, 99.5%"
+        },
+        {
+          "step_description": "Preparation of tetrakis(m-pyridyloxymethylene)methane (mtpm)",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "125 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "pentaerythrityl tetratosylate",
+              "amount": "5.0 g, 6.65 mmol"
+            },
+            {
+              "name": "3-hydroxypyridine",
+              "amount": "2.53 g, 26.6 mmol"
+            },
+            {
+              "name": "K2CO3",
+              "amount": "3.68 g, 26.6 mmol"
+            }
+          ],
+          "conditions": {
+            "temperature": "reflux for 24 h"
+          },
+          "yield": "2.28 g, 67.6%"
+        }
+      ]
+    },
+    {
+      "name": "Cu(mtpm)Cl2·20H2O (1·20H2O)",
+      "synthesis_steps": [
+        {
+          "step_description": "Synthesis of Cu(mtpm)Cl2·20H2O",
+          "solvents": [
+            {
+              "name": "water",
+              "chemical": "CuCl2·2H2O",
+              "amount_chemical": "23.8 mg, 0.14 mmol"
+            },
+            {
+              "name": "methanol",
+              "chemical": "mtpm",
+              "amount_chemical": "71.1 mg, 0.14 mmol"
+            }
+          ],
+          "conditions": {
+            "temperature": "room temperature"
+          },
+          "yield": "87 mg (93%)"
+        }
+      ]
+    },
+    {
+      "name": "Cu(mtpm)Cl(tosyl)·nH2O",
+      "synthesis_steps": [
+        {
+          "step_description": "Anion exchange experiments",
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "10 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "1·H2O",
+              "amount": "15 mg, 0.025 mmol"
+            },
+            {
+              "name": "sodium tosylate",
+              "amount": "6 equiv, 0.16 mmol"
+            }
+          ],
+          "conditions": {
+            "time": "24 h"
+          }
+        }
+      ]
+    }
+  ]
+}

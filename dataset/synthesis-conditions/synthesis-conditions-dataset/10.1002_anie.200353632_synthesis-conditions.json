@@ -1,0 +1,70 @@
+{
+  "Zwitterionic Silver Complexes": {
+    "2 a–BF4": {
+      "temperature": "room temperature",
+      "solvent": "THF",
+      "amount_of_solvent": "30 mL",
+      "chemicals_used": [
+        "AgBF4 (11 mmol)",
+        "1 a (10 mmol)"
+      ],
+      "time": "3 h",
+      "washing_method": "washed with THF",
+      "drying_method": "dried under a reduced pressure",
+      "yield": "96 %",
+      "appearance": "air stable white solid",
+      "melting_point": "94.9 8C"
+    },
+    "2 a–NO3": {
+      "temperature": "room temperature",
+      "solvent": "MeOH",
+      "amount_of_solvent": "30 mL",
+      "chemicals_used": [
+        "AgNO3 (11 mmol)",
+        "1 a (10 mmol)"
+      ],
+      "time": "3 h",
+      "washing_method": "filtered to remove unconverted AgNO3",
+      "drying_method": "dried under vacuum",
+      "yield": "97 %",
+      "appearance": "air-stable white solid",
+      "melting_point": "119.9 8C"
+    },
+    "2 a–ClO4": {
+      "yield": "98 %",
+      "melting_point": "103.4 8C"
+    },
+    "2 b–BF4": {
+      "yield": "97 %",
+      "melting_point": "104.0 8C"
+    },
+    "2 c–BF4": {
+      "yield": "97 %",
+      "melting_point": "77.4 8C"
+    }
+  },
+  "Membrane Preparation": {
+    "solution_preparation": {
+      "zwitterionic_silver_complex_amount": "2.0 mmol",
+      "solvent": "H2O",
+      "amount_of_solvent": "0.5 mL"
+    },
+    "support_material": "polyester microporous membrane",
+    "support_dimensions": "0.1 mm, 47 mm",
+    "drying_conditions": {
+      "initial_drying": "room temperature for 12 h under a stream of nitrogen",
+      "final_drying": "vacuum oven at 40 8C for 24 h"
+    }
+  },
+  "Separation Process": {
+    "temperature": "room temperature",
+    "feed_mixture": "isoprene/n-pentane (50:50 wt. %)",
+    "sweep_gas": "Helium gas",
+    "sweep_gas_flow_rate": "10 mL min-1",
+    "feed_mixture_volume": "10 mL",
+    "feed_mixture_ratio": "v/v = 50:50",
+    "permeate_collection_temperature": "-20 8C",
+    "permeate_collection_solvent": "n-heptane",
+    "analysis_method": "gas chromatography"
+  }
+}

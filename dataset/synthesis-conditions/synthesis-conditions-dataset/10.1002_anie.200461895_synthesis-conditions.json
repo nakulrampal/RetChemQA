@@ -1,0 +1,38 @@
+{
+  "materials": [
+    {
+      "name": "CPL-1",
+      "synthesis_conditions": {
+        "temperature": "90 K to 110 K",
+        "pressure": "102 kPa",
+        "solvents": "Not specified",
+        "equipment": "Large Debye-Scherrer camera installed at SPring-8 BL02B2, imaging plate as a detector",
+        "chemicals_used": "Hydrogen gas, [Cu2(pzdc)2(pyz)]n (pzdc = pyrazine-2,3-dicarboxylate, pyz = pyrazine)",
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "0.3 molecules per Cu atom",
+        "additional_information": {
+          "wavelength_of_incident_X-ray": "0.800 Å",
+          "cell_parameters_with_H2_gas": {
+            "space_group": "P21/c",
+            "a": "4.7101(1) Å",
+            "b": "20.0289(2) Å",
+            "c": "10.7704(1) Å",
+            "beta": "95.472(2)°"
+          },
+          "cell_parameters_without_H2_gas": {
+            "a": "4.7154(1) Å",
+            "b": "19.8268(2) Å",
+            "c": "10.7124(2) Å",
+            "beta": "95.065(2)°"
+          },
+          "CCDC_numbers": {
+            "CPL-1_with_adsorbed_hydrogen": "CCDC-249301",
+            "CPL-1_without_adsorbed_hydrogen": "CCDC-249302"
+          }
+        }
+      }
+    }
+  ]
+}

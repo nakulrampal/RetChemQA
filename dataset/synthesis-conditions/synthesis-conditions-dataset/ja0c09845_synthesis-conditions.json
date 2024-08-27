@@ -1,0 +1,167 @@
+{
+  "materials": [
+    {
+      "name": "Piperazinium Iodide (PI)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Piperazine",
+            "amount": "2.15 g",
+            "molarity": "25 mmol"
+          },
+          {
+            "name": "Ethanol",
+            "amount": "30 mL",
+            "solvent": true
+          },
+          {
+            "name": "57% hydroiodic acid solution in water",
+            "amount": "6.0 mL",
+            "molarity": "50 mmol"
+          }
+        ],
+        "steps": [
+          "Piperazine was dissolved in ethanol in a flask.",
+          "Hydroiodic acid solution was added dropwise under ice water bath and reacted for 0.5 h.",
+          "After evaporating the solvent, the crude product was washed by ethyl acetate three times to obtain a white needle-like crystal."
+        ],
+        "yield": "4.32 g, 81%",
+        "characterization": [
+          {
+            "technique": "1H NMR",
+            "details": "δ 6.02 (br, 2H), 2.89 (s, 8H)"
+          },
+          {
+            "technique": "Elemental Analysis",
+            "details": "C 22.44%, H 5.18%, N 13.09%"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Piperazinium Diiodide (PDI)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Piperazine",
+            "amount": "2.15 g",
+            "molarity": "25 mmol"
+          },
+          {
+            "name": "Ethanol",
+            "amount": "30 mL",
+            "solvent": true
+          },
+          {
+            "name": "57% hydroiodic acid solution in water",
+            "amount": "12.0 mL",
+            "molarity": "100 mmol"
+          }
+        ],
+        "steps": [
+          "Piperazine was dissolved in ethanol in a flask.",
+          "Hydroiodic acid solution was added dropwise under ice water bath and reacted for 1 h.",
+          "After the evaporation of solvent, the crude product was washed by ethyl acetate three times to obtain a white solid."
+        ],
+        "yield": "7.68 g, 90%",
+        "characterization": [
+          {
+            "technique": "1H NMR",
+            "details": "δ 8.76 (s, 2H), 3.29 (s, 8H)"
+          },
+          {
+            "technique": "Elemental Analysis",
+            "details": "C 14.05%, H 3.54%, N 8.19%"
+          }
+        ]
+      }
+    },
+    {
+      "name": "(PI)2PbI2•2DMSO and (PDI)2PbI2 Single Crystals",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "PbI2",
+            "molarity": "1.0 M"
+          },
+          {
+            "name": "PI or PDI",
+            "molarity": "1.0 M"
+          },
+          {
+            "name": "Dimethyl sulfoxide (DMSO)"
+          },
+          {
+            "name": "Tetrahydrofuran (THF)",
+            "amount": "2 mL",
+            "antisolvent": true
+          }
+        ],
+        "steps": [
+          "PbI2 and PI (or PDI) were dissolved in DMSO and stirred overnight.",
+          "The solution was filtered and transferred into a vial.",
+          "The vial was placed into a sealed bottle filled with THF.",
+          "Single crystals were grown along with the slow diffusion of the vapor of the anti-solvent THF into the solution."
+        ],
+        "characterization": [
+          {
+            "technique": "Single Crystal Analysis",
+            "details": "CCDC 1935315 and CCDC 2009125 contain the supplementary crystallographic data."
+          }
+        ]
+      }
+    },
+    {
+      "name": "Perovskite Solar Cells",
+      "synthesis_conditions": {
+        "substrate_preparation": [
+          "ITO glass was washed and treated with UV ozone."
+        ],
+        "hole_transport_layer": [
+          "PTAA was spin-coated onto the cleaned ITO."
+        ],
+        "perovskite_layer": [
+          "1.4 M perovskite precursor solution was prepared and spin-coated onto the PTAA-coated ITO substrate.",
+          "Chlorobenzene was used as an anti-solvent during the spin-coating process."
+        ],
+        "surface_treatment": [
+          "PI or PDI solution was spin-coated onto the perovskite film.",
+          "The film was washed by IPA and annealed."
+        ],
+        "electron_transport_layer": [
+          "C60, BCP, and silver electrode were sequentially evaporated under high vacuum."
+        ],
+        "characterization": [
+          {
+            "technique": "SEM",
+            "details": "Morphology was recorded."
+          },
+          {
+            "technique": "Photoluminescence",
+            "details": "Steady-state and time-resolved PL were conducted."
+          },
+          {
+            "technique": "UV-Vis Absorption",
+            "details": "Spectra were collected."
+          },
+          {
+            "technique": "XPS and UPS",
+            "details": "Characterization was conducted."
+          },
+          {
+            "technique": "XRD and GIXRD",
+            "details": "Characterization was conducted."
+          },
+          {
+            "technique": "J-V Characteristics",
+            "details": "Measured under simulated sunlight."
+          },
+          {
+            "technique": "EQE",
+            "details": "External quantum efficiency was measured."
+          }
+        ]
+      }
+    }
+  ]
+}

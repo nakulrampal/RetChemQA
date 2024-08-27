@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What is the impact of guest molecules on the flexibility of Zn2bdc2dabco$X(guest) frameworks under high pressure?",
+      "answer": "The nature and quantity of the guest species dictate the flexibility of the framework. Introduction of EtOH results in square-shaped channels, indicating weak host-guest interactions. Compression in EtOH leads to a phase transition to a more voluminous phase with rhombus-shaped, 'super-filled' pores. DMF-occupied frameworks undergo a body-centered to primitive phase transition mediated by DMF intrusion into the pores. Benzene-occupied frameworks do not undergo phase transitions but show direct compression with negative linear compressibility.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of ethanol (EtOH) as a guest molecule affect the structure of Zn2bdc2dabco under pressure?",
+      "answer": "The presence of EtOH leads to square-shaped channels at lower pressures, indicating weak host-guest interactions. Upon compression in an EtOH medium, the framework undergoes a phase transition above 0.69 GPa to a phase with rhombus-shaped, 'super-filled' pores, driven by the increased cumulative strength of host-guest interactions due to 'super-filling' with EtOH.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What structural transition occurs in Zn2bdc2dabco$4(DMF) under high pressure and what mediates this transition?",
+      "answer": "Zn2bdc2dabco$4(DMF) undergoes a phase transition from I4/mcm to P4/mmm at 0.33 GPa when compressed in a DMF medium. This transition is mediated by pressure-induced intrusion of DMF into the framework pores, leading to disordering of the DMF guest and a change in framework symmetry.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the benzene-occupied Zn2bdc2dabco framework undergo any phase transitions under high pressure?",
+      "answer": "No, the benzene-occupied Zn2bdc2dabco framework does not undergo any phase transitions under high pressure. Instead, it shows direct compression with negative linear compressibility, indicating strong host-guest interactions that maintain the rhombus-shaped channels.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the phase transition observed in Zn2bdc2dabco frameworks under high pressure?",
+      "answer": "The phase transition observed in Zn2bdc2dabco frameworks under high pressure is significant because it demonstrates the ability to tune the structural response and flexibility of MOFs through guest molecule interactions. This tunability offers potential for designing MOFs with bespoke functionality, such as increased storage capacity through 'super-filling' of pores or optimized performance in applications like pressure sensors and actuators.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The DMF-occupied Zn2bdc2dabco framework becomes amorphous when compressed in a non-penetrating medium.",
+      "answer": "False. The DMF-occupied Zn2bdc2dabco framework undergoes a phase transition when compressed in a DMF medium, but it does not become amorphous when compressed in a non-penetrating medium like Fluorinert® FC-70; it shows direct compression up to a certain pressure before losing crystallinity.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The structural response of Zn2bdc2dabco frameworks to high pressure is independent of the guest molecule present.",
+      "answer": "False. The structural response of Zn2bdc2dabco frameworks to high pressure is highly dependent on the nature and quantity of the guest molecule present, as demonstrated by the different behaviors observed with EtOH, DMF, and benzene as guest molecules.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role do host-guest interactions play in the high-pressure behavior of Zn2bdc2dabco frameworks?",
+      "answer": "Host-guest interactions play a crucial role in determining the high-pressure behavior of Zn2bdc2dabco frameworks. Weak interactions, as seen with EtOH, require 'super-filling' for a phase transition, while stronger interactions with DMF and benzene influence the framework's flexibility and resistance to phase transitions, directly affecting the framework's structural response to compression.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the phase transition in Zn2bdc2dabco$4(DMF) affect the framework's structure?",
+      "answer": "The phase transition in Zn2bdc2dabco$4(DMF) from I4/mcm to P4/mmm results in disordering of the DMF guest and a change in the framework's symmetry. This transition, mediated by DMF intrusion, maintains the bent geometry of the bdc2dabco linkers, indicating that host-guest interactions are preserved despite the structural change.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The presence of benzene in Zn2bdc2dabco frameworks leads to a phase transition similar to that observed with EtOH under high pressure.",
+      "answer": "False. Unlike with EtOH, the presence of benzene in Zn2bdc2dabco frameworks does not lead to a phase transition under high pressure. Instead, the framework shows direct compression and maintains its rhombus-shaped channels, indicating a different mechanism of host-guest interaction.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

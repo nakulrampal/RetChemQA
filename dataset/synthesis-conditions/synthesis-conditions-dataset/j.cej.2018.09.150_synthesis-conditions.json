@@ -1,0 +1,87 @@
+{
+  "materials": [
+    {
+      "material": "Zn(II) Schiff base complexes ([Zn(L1)2](ClO4)2 (1), [Zn(μ-fumarate)(L1)]n (2), [ZnL1(N3)2] (3) and [ZnL2(N3)2] (4)",
+      "synthesis_conditions": [
+        {
+          "step": "General",
+          "solvents": [
+            {
+              "solvent": "methanol",
+              "amount": "various amounts specified for different complexes"
+            },
+            {
+              "solvent": "water",
+              "amount": "for sodium salt of fumaric acid and sodium azide solutions"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "chemical": "Zn(ClO4)2·6H2O",
+              "amount": "0.19 g (0.5 mmol) for complex 1"
+            },
+            {
+              "chemical": "Zn(OAc)2·2H2O",
+              "amount": "0.11 g (0.5 mmol) for complex 2"
+            },
+            {
+              "chemical": "sodium salt of fumaric acid",
+              "amount": "1.2 mmol, 0.19 g for complex 2"
+            },
+            {
+              "chemical": "sodium azide",
+              "amount": "1 mmol, 0.07 g for complexes 3 and 4"
+            }
+          ],
+          "temperature": "room temperature",
+          "time": "1 hour for complex 1, 45 min for complex 2, not specified for complexes 3 and 4",
+          "yield": [
+            {
+              "complex": "1",
+              "yield_percentage": "72%"
+            },
+            {
+              "complex": "2",
+              "yield_percentage": "62%"
+            },
+            {
+              "complex": "3",
+              "yield_percentage": "85%"
+            },
+            {
+              "complex": "4",
+              "yield_percentage": "82%"
+            }
+          ],
+          "equipment": "not specified",
+          "washing_method": "filtered",
+          "drying_method": "slow evaporation of the filtrate into the air",
+          "additional_notes": "Ligands L1 and L2 were synthesized using previously reported methods and used without further purification."
+        }
+      ]
+    },
+    {
+      "material": "Ligands L1 and L2",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis of ligands",
+          "chemicals_used": [
+            {
+              "chemical": "N1,N1-dimethyl-N2-(1-(pyridine-2-yl)ethylidene)ethane-1,2-diamine for L1",
+              "amount": "not specified"
+            },
+            {
+              "chemical": "N1,N1-diethyl-N2-(1-(pyridine-2-yl)ethylidene)ethane-1,2-diamine for L2",
+              "amount": "not specified"
+            }
+          ],
+          "method": "Generalized protocol reported in literature",
+          "references": [
+            "G. Sheldrick, A short history of SHELX, Acta Crystallographica Section A 64 (2008) 112-122.",
+            "S.H. Rahaman, H. Chowdhury, D. Bose, R. Ghosh, C.-H. Hung, B.K. Ghosh, Synthesis, structure and properties of mononuclear cobalt(II) and cobalt(III) pseudohalide complexes containing N-donor Schiff bases: Synthetic control of metal oxidation levels, Polyhedron 24 (2005) 1755-1763."
+          ]
+        }
+      ]
+    }
+  ]
+}

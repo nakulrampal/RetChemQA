@@ -1,0 +1,36 @@
+{
+  "materials": [
+    {
+      "name": "cyanide-bridged Fe-Co complex",
+      "synthesis_conditions": [
+        {
+          "step": "General synthesis",
+          "chemicals_used": [
+            {
+              "name": "[FeTp(CN)3]-",
+              "role": "building block"
+            },
+            {
+              "name": "1,4-Bis-(1H-imidazol-1-yl)benzene (Bib)",
+              "role": "rigid organic linker"
+            }
+          ],
+          "product": "[FeTp(CN)3]2Co-(Bib)2}·5 H2O (1)",
+          "notes": "Designed to exhibit colossal PTE and NTE at different temperature regions accompanied with hysteretic magnetic transitions."
+        },
+        {
+          "step": "Temperature-dependent structural analysis",
+          "temperature_range": "90-350 K",
+          "equipment": "Single-crystal X-ray diffraction (SXRD)",
+          "notes": "Four stages of linear thermal expansion of volume observed. Colossal PTE behavior between 180 and 240 K with a volumetric thermal expansion coefficient of 1498 MK@1. NTE behavior between 300 and 350 K with a volumetric thermal expansion coefficient of -489 MK@1."
+        },
+        {
+          "step": "Temperature-dependent magnetic analysis",
+          "temperature_range": "2-360 K",
+          "equipment": "dc field of 2000 Oe",
+          "notes": "Thermally induced hysteretic magnetic transition observed. Sharp decrease in cT values from 240 K with T1/2ﬂ = 226 K and a sharp increase in cT observed with T1/2› = 327 K."
+        }
+      ]
+    }
+  ]
+}

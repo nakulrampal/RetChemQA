@@ -1,0 +1,129 @@
+{
+  "materials": [
+    {
+      "name": "IISERP-MOF2",
+      "synthesis_conditions": [
+        {
+          "method": "solvothermal",
+          "temperature": "150°C",
+          "time": "72hrs",
+          "solvents": [
+            {
+              "name": "dimethyl formamide (DMF)",
+              "amount": "6 ml"
+            },
+            {
+              "name": "acetonitrile (ACN)",
+              "amount": "4 ml"
+            }
+          ],
+          "chemicals": [
+            {
+              "name": "Nickel(II) acetate tetra hydrate",
+              "amount": "0.249g"
+            },
+            {
+              "name": "4-Pyridine carboxylic acid (4-Pyc)",
+              "amount": "0.244g"
+            },
+            {
+              "name": "triethylamine",
+              "amount": "75 µl"
+            }
+          ],
+          "equipment": "20mL teflon lined Parr stainless steel autoclave",
+          "yield": "83%",
+          "washing_method": "water, methanol, acetone",
+          "drying_method": "air dried"
+        },
+        {
+          "method": "solvothermal",
+          "temperature": "150°C",
+          "time": "72hrs",
+          "solvents": [
+            {
+              "name": "dimethyl formamide (DMF)",
+              "amount": "50 ml"
+            },
+            {
+              "name": "acetonitrile (ACN)",
+              "amount": "25 ml"
+            }
+          ],
+          "chemicals": [
+            {
+              "name": "Nickel acetate tetra hydrate",
+              "amount": "7.5g"
+            },
+            {
+              "name": "4-Pyridine carboxylic acid (4-Pyc)",
+              "amount": "7.35g"
+            },
+            {
+              "name": "triethylamine",
+              "amount": "1 ml"
+            }
+          ],
+          "equipment": "123mL teflon lined Parr stainless steel autoclave",
+          "yield": "~85%",
+          "washing_method": "Not specified",
+          "drying_method": "air dried"
+        }
+      ],
+      "characterization_methods": [
+        {
+          "name": "Powder X-ray diffraction",
+          "equipment": "Rigaku Miniflex-600"
+        },
+        {
+          "name": "Thermogravimetric Analysis",
+          "equipment": "NETSZCH TGA-DSC system",
+          "conditions": "N2 gas flow (20ml/min), RT to 550°C at 2K/min"
+        },
+        {
+          "name": "IR spectroscopy",
+          "equipment": "Nicolet ID5 attenuated total reflectance IR spectrometer"
+        }
+      ],
+      "adsorption_studies": [
+        {
+          "gases": ["CO2", "N2"],
+          "temperature": ["195K", "273K", "303K", "313K", "333K"],
+          "equipment": ["Micromeritics ASAP 2020HD", "Micromeritics 3-FLEX"]
+        }
+      ],
+      "stability_tests": [
+        {
+          "method": "exposure to humid CO2",
+          "conditions": "RH: 85% for 48hrs"
+        },
+        {
+          "method": "exposure to steam",
+          "conditions": ">85% RH for ~7days"
+        },
+        {
+          "method": "shelf-life test",
+          "conditions": "stored in a vial for over 6 months"
+        }
+      ],
+      "breakthrough_measurements": [
+        {
+          "conditions": "0.295g sample, 1ml/min flow rate, 15 psi, 85% N2 and 15% CO2 mixture"
+        },
+        {
+          "conditions": "100mg sample, 50% RH, 1ml/min flow rate, 15 psi, 85% N2 and 15% CO2 mixture"
+        }
+      ],
+      "computational_analysis": [
+        {
+          "method": "GCMC simulations",
+          "details": "Examined CO2 interactions with the framework"
+        },
+        {
+          "method": "Parasitic Energy calculations",
+          "details": "Used to describe the energy necessary to regenerate a scrubber after CO2 adsorption"
+        }
+      ]
+    }
+  ]
+}

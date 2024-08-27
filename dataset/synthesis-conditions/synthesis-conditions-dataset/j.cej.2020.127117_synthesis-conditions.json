@@ -1,0 +1,136 @@
+{
+  "materials": [
+    {
+      "name": "NAU3",
+      "synthesis_conditions": {
+        "temperature": "150°C",
+        "time": "72 hours",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "7.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "bte",
+            "amount": "0.062 g",
+            "molarity": "0.30 mmol"
+          },
+          {
+            "name": "Cu(CH3COO)2·H2O",
+            "amount": "0.060 g",
+            "molarity": "0.30 mmol"
+          },
+          {
+            "name": "(NH4)6Mo7O24·4H2O",
+            "amount": "0.12 g",
+            "molarity": "0.10 mmol"
+          }
+        ],
+        "yield": "52%",
+        "ph": "4.5",
+        "equipment": "Teflon reactor (20 mL)"
+      }
+    },
+    {
+      "name": "NAU4",
+      "synthesis_conditions": {
+        "temperature": "150°C",
+        "time": "72 hours",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "7.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "bte",
+            "amount": "0.062 g",
+            "molarity": "0.30 mmol"
+          },
+          {
+            "name": "Cu(CH3COO)2·H2O",
+            "amount": "0.060 g",
+            "molarity": "0.30 mmol"
+          },
+          {
+            "name": "phosphotungstic acid",
+            "amount": "0.28 g",
+            "molarity": "0.10 mmol"
+          }
+        ],
+        "yield": "45%",
+        "ph": "4.5",
+        "equipment": "Teflon reactor (20 mL)"
+      }
+    },
+    {
+      "name": "NAU5",
+      "synthesis_conditions": {
+        "temperature": "180°C",
+        "time": "72 hours",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "7.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "bte",
+            "amount": "0.062 g",
+            "molarity": "0.30 mmol"
+          },
+          {
+            "name": "Cu(CH3COO)2·H2O",
+            "amount": "0.060 g",
+            "molarity": "0.30 mmol"
+          },
+          {
+            "name": "silicotungstic acid",
+            "amount": "0.28 g",
+            "molarity": "0.10 mmol"
+          }
+        ],
+        "yield": "68%",
+        "ph": "5.0",
+        "equipment": "Teflon reactor (20 mL)"
+      }
+    },
+    {
+      "name": "NAU6",
+      "synthesis_conditions": {
+        "temperature": "170°C",
+        "time": "72 hours",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "7.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "bte",
+            "amount": "0.062 g",
+            "molarity": "0.30 mmol"
+          },
+          {
+            "name": "Zn(CH3COO)2·2H2O",
+            "amount": "0.079 g",
+            "molarity": "0.3 mmol"
+          },
+          {
+            "name": "silicotungstic acid",
+            "amount": "0.28 g",
+            "molarity": "0.10 mmol"
+          }
+        ],
+        "yield": "65%",
+        "ph": "4.5",
+        "equipment": "Teflon reactor (20 mL)"
+      }
+    }
+  ]
+}

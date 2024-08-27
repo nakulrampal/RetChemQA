@@ -1,0 +1,71 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "temperature": "100 1C",
+        "solvents": [
+          {
+            "name": "dimethyl sulfoxide (DMSO)",
+            "amount": "8 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "1 mL"
+          }
+        ],
+        "equipment": "20 mL glass vial",
+        "chemicals_used": [
+          {
+            "name": "Cu(NO)2·2.5H2O",
+            "amount": "116 mg, 0.5 mmol"
+          },
+          {
+            "name": "H4ADDI",
+            "amount": "101 mg, 0.2 mmol"
+          }
+        ],
+        "time": "6 days",
+        "washing_method": "washed with DMSO and acetone",
+        "drying_method": "dried in air",
+        "yield": "43%"
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "temperature": "85 1C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylacetamide (DMA)",
+            "amount": "3 mL"
+          }
+        ],
+        "equipment": "20 mL glass vial",
+        "chemicals_used": [
+          {
+            "name": "Cu(NO)2·2.5H2O",
+            "amount": "46 mg, 0.2 mmol"
+          },
+          {
+            "name": "H2ADDB",
+            "amount": "83 mg, 0.2 mmol"
+          },
+          {
+            "name": "HBF4 (48% aqueous solution)",
+            "amount": "3 drops"
+          }
+        ],
+        "time": "3 days",
+        "additional_steps": [
+          {
+            "description": "The resulting dark-yellow solution was allowed to stand at room temperature for 6 days to obtain dark-green block crystals."
+          }
+        ],
+        "washing_method": "washed with DMA",
+        "drying_method": "dried in air",
+        "yield": "52%"
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "materials": [
+    {
+      "name": "organocesium carbanionic tetramic acids",
+      "synthesis_conditions": [
+        {
+          "step": "Initial Ugi reaction",
+          "temperature": "room temperature",
+          "solvents": "DMF",
+          "chemicals_used": [
+            "p-methoxyaniline (1 a)",
+            "ethyl glyoxalate (2)",
+            "2,6-dimethylphenylisonitrile (3 a)",
+            "cyanoacetic acid (4)"
+          ],
+          "equipment": "not specified",
+          "time": "not specified",
+          "yield": "not specified"
+        },
+        {
+          "step": "Dieckmann condensation",
+          "temperature": "room temperature",
+          "solvents": "DMF",
+          "chemicals_used": [
+            "cesium carbonate"
+          ],
+          "equipment": "not specified",
+          "time": "not specified",
+          "yield": "89% purity as judged by Area % under the curve, UV 254 nm, eluent: 90% H2O, 10% acetonitrile, LC/MS",
+          "washing_method": "solvent evaporation followed by column chromatography",
+          "drying_method": "not specified"
+        }
+      ]
+    },
+    {
+      "name": "alternate succint routes to tetramic acids",
+      "synthesis_conditions": [
+        {
+          "step": "Initial Ugi reaction",
+          "temperature": "not specified",
+          "solvents": "not specified",
+          "chemicals_used": [
+            "ethyl glyoxylate (2) replaced with methylacetoacetate (8)"
+          ],
+          "equipment": "not specified",
+          "time": "not specified",
+          "yield": "not specified"
+        },
+        {
+          "step": "Formation of cyclic imide and base-promoted formation of tetramic acid",
+          "temperature": "not specified",
+          "solvents": "not specified",
+          "chemicals_used": [
+            "cesium carbonate"
+          ],
+          "equipment": "not specified",
+          "time": "not specified",
+          "yield": "not specified",
+          "washing_method": "similar to Scheme 1",
+          "drying_method": "not specified"
+        }
+      ]
+    },
+    {
+      "name": "library of analogous organocesium tetramic acids",
+      "synthesis_conditions": [
+        {
+          "step": "Sequential Ugi/three-step one-pot cascade",
+          "temperature": "not specified",
+          "solvents": "not specified",
+          "chemicals_used": [
+            "not specified"
+          ],
+          "equipment": "not specified",
+          "time": "not specified",
+          "yield": [
+            "52%",
+            "41%",
+            "40%",
+            "36%",
+            "41%",
+            "46%",
+            "31%",
+            "40%",
+            "49%"
+          ],
+          "washing_method": "not specified",
+          "drying_method": "not specified"
+        }
+      ]
+    }
+  ]
+}

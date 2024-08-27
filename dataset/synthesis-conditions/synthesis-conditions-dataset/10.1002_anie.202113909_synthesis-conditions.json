@@ -1,0 +1,77 @@
+{
+  "materials": [
+    {
+      "name": "Mg2(DOBDC)",
+      "synthesis_conditions": {
+        "temperature": "125 °C",
+        "time": "20 hours",
+        "solvents": "DMF/ethanol/water mixture",
+        "chemicals_used": "Mg(NO3)2 salts and H4DOBDC",
+        "equipment": "not specified"
+      }
+    },
+    {
+      "name": "Co2(DOBDC)",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "time": "24 hours",
+        "solvents": "DMF/ethanol/water mixture",
+        "chemicals_used": "Co(NO3)2 salts and H4DOBDC",
+        "equipment": "not specified"
+      }
+    },
+    {
+      "name": "CO@Mg2(DOBDC)",
+      "synthesis_conditions": {
+        "activation_temperature": "250 °C",
+        "activation_time": "3 hours",
+        "gas_exposure_temperature": "77 K",
+        "gas_exposure": "CO",
+        "storage_conditions": "room temperature under a CO atmosphere",
+        "washing_method": "ethyl acetate and methanol using a Soxhlet apparatus",
+        "drying_method": "not specified",
+        "yield": "56 % for aminocarbonylation reaction, 49 % for carbonylative Suzuki–Miyaura coupling"
+      }
+    },
+    {
+      "name": "CO@Co2(DOBDC)",
+      "synthesis_conditions": {
+        "CO_absorption_capacity": "5.95 mmol g-1 at 1.2 bar (298 K)",
+        "storage_conditions": "sealed ampule for one week at room temperature",
+        "yield": "67 % for aminocarbonylation reaction, 45 % for carbonylative Suzuki–Miyaura coupling"
+      }
+    },
+    {
+      "name": "Rh3(BTC)2",
+      "synthesis_conditions": {
+        "reference": "reported procedure",
+        "yield": "22 % for carbonylative Suzuki–Miyaura coupling without PdCl2 as the catalyst"
+      }
+    },
+    {
+      "name": "Cu2.38Rh0.62(BTC)2",
+      "synthesis_conditions": {
+        "reference": "literature procedure",
+        "yield": "No product formation without PdCl2; used as a control"
+      }
+    },
+    {
+      "name": "NO@Co2(DOBDC)",
+      "synthesis_conditions": {
+        "NO_adsorption_capacity": "6 mmol g-1 at 1 bar, 298 K",
+        "activation_temperature": "180 °C",
+        "activation_time": "4 hours",
+        "gas_exposure": "NO at room temperature",
+        "yield": "88 % for aromatization reaction with the presence of water and air"
+      }
+    },
+    {
+      "name": "CO@Pd-Co2(DOBDC)",
+      "synthesis_conditions": {
+        "Pd nanoparticle impregnation": "literature procedure",
+        "Pd atomic percentage": "4.4 %",
+        "yield": "42 % for carbonylative Suzuki–Miyaura coupling without PdCl2 catalyst"
+      }
+    }
+  ]
+}

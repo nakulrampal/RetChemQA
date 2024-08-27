@@ -1,0 +1,135 @@
+{
+  "materials": [
+    {
+      "name": "1,10-Phenanthroline-5,6-dione",
+      "synthesis_conditions": {
+        "temperature": "reflux for 3 h",
+        "solvents": [
+          {
+            "name": "H2SO4",
+            "amount": "10 mL"
+          },
+          {
+            "name": "HNO3",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "1,10-phenanthroline",
+            "amount": "1 g"
+          },
+          {
+            "name": "KBr",
+            "amount": "1 g"
+          }
+        ],
+        "yield": "96%",
+        "washing_method": "poured over 500 mL of ice and neutralized with sodium hydroxide, extraction with CHCl3",
+        "drying_method": "drying with Na2SO4 and removal of solvent"
+      }
+    },
+    {
+      "name": "1,10-Phenanthroline-5,6-diol",
+      "synthesis_conditions": {
+        "temperature": "boiling water bath for about 2 min",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "15 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "1,10-phenanthroline-5,6-dione",
+            "amount": "0.5 g"
+          },
+          {
+            "name": "hydrazine sulfate",
+            "amount": "1.1 g"
+          }
+        ],
+        "yield": "83%",
+        "washing_method": "washed with ethanol thoroughly"
+      }
+    },
+    {
+      "name": "15-Crown-5 ether 5,6-phenanthroline (L)",
+      "synthesis_conditions": {
+        "temperature": "80 °C overnight",
+        "solvents": [
+          {
+            "name": "dry DMF",
+            "amount": "42 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "1,10-phenanthroline-5,6-diol",
+            "amount": "0.7 g"
+          },
+          {
+            "name": "sodium hydride",
+            "amount": "0.266 g"
+          },
+          {
+            "name": "tetraethyleneglycol-ditosylate",
+            "amount": "1.685 g"
+          }
+        ],
+        "yield": "30%",
+        "washing_method": "extracted with CH2Cl2, stirred with activated carbon, purified through basic alumina",
+        "drying_method": "evaporation to dryness in vacuum"
+      }
+    },
+    {
+      "name": "ReI(L)(CO)3(Cl)",
+      "synthesis_conditions": {
+        "temperature": "reflux",
+        "solvents": [
+          {
+            "name": "xylene",
+            "amount": "1.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Re(CO)5Cl",
+            "amount": "15 mg"
+          },
+          {
+            "name": "L",
+            "amount": "30 mg"
+          }
+        ],
+        "yield": "75%",
+        "washing_method": "washed with xylene",
+        "drying_method": "recrystallization from CH2Cl2 by addition of diethyl ether"
+      }
+    },
+    {
+      "name": "ReI(L)(CO)3(AcCN)–MHPW12O40",
+      "synthesis_conditions": {
+        "temperature": "stirred for 6 h",
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "6 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ReI(L)(CO)3(Cl)",
+            "amount": "7 mg"
+          },
+          {
+            "name": "H3PW12O40",
+            "amount": "28.5 mg"
+          }
+        ],
+        "washing_method": "washed with CHCl3",
+        "drying_method": "dried under vacuum"
+      }
+    }
+  ]
+}

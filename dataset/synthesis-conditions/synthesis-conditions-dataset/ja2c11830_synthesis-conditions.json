@@ -1,0 +1,208 @@
+{
+  "materials": [
+    {
+      "name": "NU-600",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "N,N-diethylformamide (DEF)",
+            "amount": "2 mL"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "0.7 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zirconium chloride",
+            "amount": "0.04 mmol, 9.32 mg"
+          },
+          {
+            "name": "H4TCPB-Br2",
+            "amount": "0.01 mmol, 7.42 mg"
+          }
+        ],
+        "time": "1 day",
+        "washing_method": "washed with N,N-dimethylformamide (DMF, 5 mL × 3) and acetone (5 mL × 3)",
+        "drying_method": "thermally activated at 120 °C overnight under dynamic vacuum",
+        "yield": "around 60% based on the H4TCPB-Br2 linker"
+      }
+    },
+    {
+      "name": "NU-603",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "N,N-diethylformamide (DEF)",
+            "amount": "2 mL"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "0.7 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zirconium chloride",
+            "amount": "0.04 mmol, 9.32 mg"
+          },
+          {
+            "name": "H4TCPB-Br2",
+            "amount": "0.01 mmol, 7.42 mg"
+          },
+          {
+            "name": "1,4-dicarboxybenzene (H2BDC)",
+            "amount": "0.01 mmol, 1.67 mg"
+          }
+        ],
+        "time": "3 days",
+        "washing_method": "washed with DMF (5 mL × 3) and acetone (5 mL × 3)",
+        "drying_method": "thermally activated at 120 °C overnight under dynamic vacuum",
+        "yield": "around 55% based on the H4TCPB-Br2 linker"
+      }
+    },
+    {
+      "name": "NU-604",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "N,N-diethylformamide (DEF)",
+            "amount": "2 mL"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "0.7 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zirconium chloride",
+            "amount": "0.04 mmol, 9.32 mg"
+          },
+          {
+            "name": "H4TCPB-Br2",
+            "amount": "0.01 mmol, 7.42 mg"
+          },
+          {
+            "name": "biphenyl-4,4'-dicarboxylic acid (H2BPDC)",
+            "amount": "0.01 mmol, 2.16 mg"
+          }
+        ],
+        "time": "3 days",
+        "washing_method": "washed with DMF (5 mL × 3) and acetone (5 mL × 3)",
+        "drying_method": "thermally activated at 120 °C overnight under dynamic vacuum",
+        "yield": "around 52% based on the H4TCPB-Br2 linker"
+      }
+    },
+    {
+      "name": "NU-605",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "N,N-diethylformamide (DEF)",
+            "amount": "2 mL"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "0.7 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zirconium chloride",
+            "amount": "0.04 mmol, 9.32 mg"
+          },
+          {
+            "name": "H4TCPB-Br2",
+            "amount": "0.01 mmol, 7.42 mg"
+          },
+          {
+            "name": "1,4-dicarboxybenzene (H2BDC)",
+            "amount": "0.01 mmol, 1.67 mg"
+          },
+          {
+            "name": "biphenyl-4,4'-dicarboxylic acid (H2BPDC)",
+            "amount": "0.01 mmol, 2.16 mg"
+          }
+        ],
+        "time": "5 days",
+        "washing_method": "washed with DMF (5 mL × 3) and acetone (5 mL × 3)",
+        "drying_method": "thermally activated at 120 °C overnight under dynamic vacuum",
+        "yield": "around 50% based on the H4TCPB-Br2 linker"
+      }
+    },
+    {
+      "name": "NU-604-(OH)2",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "N,N-diethylformamide (DEF)",
+            "amount": "2 mL"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "0.7 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zirconium chloride",
+            "amount": "0.04 mmol, 9.32 mg"
+          },
+          {
+            "name": "H4TCPB-Br2",
+            "amount": "0.01 mmol, 7.42 mg"
+          },
+          {
+            "name": "3,3'-dihydroxy-biphenyl-4,4'-dicarboxylic acid [H2BPDC-(OH)2]",
+            "amount": "0.01 mmol, 2.74 mg"
+          }
+        ],
+        "time": "3 days",
+        "drying_method": "thermally activated at 120 °C overnight under dynamic vacuum"
+      }
+    },
+    {
+      "name": "NU-605-(OH)4",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "N,N-diethylformamide (DEF)",
+            "amount": "2 mL"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "0.7 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zirconium chloride",
+            "amount": "0.04 mmol, 9.32 mg"
+          },
+          {
+            "name": "H4TCPB-Br2",
+            "amount": "0.01 mmol, 7.42 mg"
+          },
+          {
+            "name": "2,5-dihydroxy-1,4-dicarboxybenzene [H2BDC-(OH)2]",
+            "amount": "0.01 mmol, 1.98 mg"
+          },
+          {
+            "name": "H2BPDC-(OH)2",
+            "amount": "0.01 mmol, 2.74 mg"
+          }
+        ],
+        "time": "5 days",
+        "drying_method": "thermally activated at 120 °C overnight under dynamic vacuum"
+      }
+    }
+  ]
+}

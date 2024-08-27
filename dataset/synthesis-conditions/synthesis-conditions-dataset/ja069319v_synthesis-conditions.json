@@ -1,0 +1,90 @@
+{
+  "materials": [
+    {
+      "name": "Tb1",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation of [(n-C4H9)4N]2[V6O13{(CH2O)3C(NHCH2C6H4-4-COOH}2] (TBA2[H21])",
+          "solvents": [
+            {
+              "name": "dimethyl acetamide (DMA)",
+              "amount": "240 ml"
+            }
+          ],
+          "temperature": "85 °C",
+          "time": "24 h",
+          "atmosphere": "O2",
+          "yield": "29.2 % based on vanadium"
+        },
+        {
+          "step": "Preparation of [Tb(bpdo)2(H1)](cid:1)1.5DMF(cid:1)3.0EG] (Tb1)",
+          "solvents": [
+            {
+              "name": "DMF/EG",
+              "ratio": "1:1",
+              "layer": "bottom"
+            },
+            {
+              "name": "DMF/EG",
+              "ratio": "2:1",
+              "layer": "middle"
+            },
+            {
+              "name": "DMF",
+              "layer": "top"
+            }
+          ],
+          "temperature": "Room temperature",
+          "time": "5 days",
+          "yield": "43%"
+        }
+      ],
+      "washing_method": "Washed with MeOH and ether",
+      "drying_method": "Air-dried",
+      "solvent_exchange": [
+        {
+          "solvent": "acetonitrile",
+          "time": "4 days",
+          "frequency": "solvent replaced every 24 h"
+        }
+      ],
+      "catalytic_studies": [
+        {
+          "reaction": "PrSH oxidation",
+          "conditions": [
+            {
+              "temperature": "45 °C",
+              "atmosphere": "air",
+              "time": "70h"
+            },
+            {
+              "temperature": "45 °C",
+              "atmosphere": "dioxygen",
+              "time": "30 days"
+            }
+          ]
+        },
+        {
+          "reaction": "Tetrahydrothiophene (THT) oxidation",
+          "conditions": [
+            {
+              "temperature": "50 °C",
+              "solvent": "acetonitrile",
+              "time": "70h"
+            }
+          ]
+        }
+      ],
+      "gas_adsorption_isotherms": [
+        {
+          "gas": "N2",
+          "temperature": "77 K"
+        },
+        {
+          "gas": "CO2",
+          "temperature": "273 K"
+        }
+      ]
+    }
+  ]
+}

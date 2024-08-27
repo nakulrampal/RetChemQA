@@ -1,0 +1,47 @@
+{
+  "materials": [
+    {
+      "name": "AEMOF-1·DMAc",
+      "synthesis_conditions": {
+        "temperature": "120 8C",
+        "solvents": "DMAc/H2O",
+        "solvent_ratio": "9:1 v/v",
+        "equipment": "Teflon-lined stainless steel autoclave",
+        "chemicals_used": [
+          "Mg(OAc)2·4 H2O",
+          "H4dhtp"
+        ],
+        "amount_of_chemicals": [
+          "0.08 g, 0.37 mmol",
+          "0.12 g, 0.61 mmol"
+        ],
+        "time": "20 h",
+        "yield": "0.09 g"
+      }
+    },
+    {
+      "name": "AEMOF-1’",
+      "synthesis_conditions": {
+        "initial_treatment_with": "MeOH",
+        "initial_treatment_time": "12 h",
+        "drying_temperature": "50 8C",
+        "drying_method": "under vacuum",
+        "drying_time": "3–4 h"
+      }
+    },
+    {
+      "name": "AEMOF-1·6 H2O",
+      "synthesis_conditions": {
+        "treatment_with": "water (5 % v/v in ca. 2 mL of THF)",
+        "treatment_time": "ca. 2 h"
+      }
+    },
+    {
+      "name": "AEMOF-1·xEtOH",
+      "synthesis_conditions": {
+        "treatment_with": "EtOH (absolute)",
+        "treatment_time": "ca. 2 h"
+      }
+    }
+  ]
+}

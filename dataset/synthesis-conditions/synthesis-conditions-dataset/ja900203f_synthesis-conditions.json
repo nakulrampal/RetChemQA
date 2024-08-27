@@ -1,0 +1,125 @@
+{
+  "materials": [
+    {
+      "name": "(5,15-Dipyridyl-10,20-bis(pentafluorophenyl))porphyrin (2)",
+      "synthesis_conditions": {
+        "temperature": "reflux for 2 hours",
+        "solvents": [
+          {
+            "name": "propionic acid",
+            "amount": "200 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "for rinsing and recrystallization"
+          },
+          {
+            "name": "aqueous NH4OH",
+            "amount": "200 mL, 1:1 v/v mixture with methanol for pouring reaction mixture"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "5-pentafluorophenyl dipyrromethane",
+            "amount": "3.12 g, 10 mmol"
+          },
+          {
+            "name": "4-pyridine carboxaldehyde",
+            "amount": "1.07 g, 10 mmol"
+          }
+        ],
+        "yield": "625 mg, 16 %",
+        "drying_method": "recrystallized in CH2Cl2/MeOH (1:4 v/v)"
+      }
+    },
+    {
+      "name": "[Zn2(Zn-2)(1)]n (ZnPO-MOF)",
+      "synthesis_conditions": [
+        {
+          "step": "Initial synthesis",
+          "temperature": "100 °C",
+          "time": "48 h",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "25 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Porphyrin 2",
+              "amount": "182 mg, 0.228 mmol"
+            },
+            {
+              "name": "the tetraacid 1",
+              "amount": "255 mg, 0.456 mmol"
+            },
+            {
+              "name": "Zn(NO3)2•6H2O",
+              "amount": "150 mg, 0.503 mmol"
+            }
+          ],
+          "yield": "328 mg, 70% after accounting for solvent weight"
+        },
+        {
+          "step": "Crystal synthesis for X-ray diffraction",
+          "temperature": "100 °C",
+          "time": "60 h",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "34 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Porphyrin 2",
+              "amount": "160 mg, 0.201 mmol"
+            },
+            {
+              "name": "the tetraacid 1",
+              "amount": "223 mg, 0.399 mmol"
+            },
+            {
+              "name": "Zn(NO3)2•6H2O",
+              "amount": "131 mg, 0.440 mmol"
+            }
+          ],
+          "equipment": "Teflon-lined bomb (Parr)"
+        }
+      ]
+    },
+    {
+      "name": "Acyl transfer reactions",
+      "synthesis_conditions": {
+        "temperature": "60 °C",
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "7 mL + 1 mL for stock solutions"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "N-acetylimidazole (NAI) stock",
+            "amount": "1 mL, 60 mM"
+          },
+          {
+            "name": "2-, 3-, and 4-PC stock",
+            "amount": "1 mL, 90 mM"
+          },
+          {
+            "name": "biphenyl stock",
+            "amount": "1 mL, 25 mM"
+          },
+          {
+            "name": "ZnPO-MOF catalyst",
+            "amount": "9.3 mg, 10 mol%"
+          }
+        ],
+        "time": "Periodically sampled",
+        "equipment": "8-dram screw-cap vial, heating block, shaker (Thermolyne Maxi-Mix III)"
+      }
+    }
+  ]
+}

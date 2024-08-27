@@ -1,0 +1,59 @@
+{
+  "materials": [
+    {
+      "name": "[Cu(μ-pym2S2)(μ-Cl)]n · nMeOH (1)",
+      "synthesis_conditions": {
+        "solvents": ["methanol", "acetonitrile"],
+        "solvent_amounts": ["6 mL of methanol", "4 mL of methanol and 4 mL of acetonitrile"],
+        "chemicals_used": ["CuCl2 · 2H2O", "pym2S2"],
+        "chemical_amounts": ["0.051 g, 0.299 mmol", "0.084 g, 0.299 mmol"],
+        "method": "slow diffusion",
+        "time": "two weeks",
+        "yield": "61%",
+        "drying_method": "slow evaporation of the solvent using an argon flow"
+      }
+    },
+    {
+      "name": "[Cu(μ-pym2S2)(μ-Cl)]n · nH2O (2)",
+      "synthesis_conditions": {
+        "starting_material": "[Cu(μ-pym2S2)(μ-Cl)]n · nMeOH (1)",
+        "solvent": "water",
+        "solvent_amount": "2 mL",
+        "method": "stirring",
+        "time": "30 minutes",
+        "alternative_methods": [
+          "placing the crystals in water for 1 h",
+          "exposure to atmospheric water vapor for 2 h"
+        ],
+        "yield": "99%",
+        "washing_method": "washed with ether"
+      }
+    },
+    {
+      "name": "[Cu(μ-pym2S2)(μ-Cl)]n · ½EtOH (3)",
+      "synthesis_conditions": {
+        "starting_material": "[Cu(μ-pym2S2)(μ-Cl)]n · nMeOH (1)",
+        "solvent": "ethanol",
+        "solvent_amount": "2 mL",
+        "method": "stirring",
+        "time": "1 day",
+        "yield": "99%",
+        "washing_method": "washed with diethylether"
+      }
+    },
+    {
+      "name": "[Cu4(μ3-Cl)4(μ-pymS2)4] (4)",
+      "synthesis_conditions": {
+        "solvents": ["ethanol", "acetonitrile"],
+        "solvent_ratio": "1:1",
+        "solvent_amounts": ["6 mL of ethanol", "8 mL ethanol:CH3CN"],
+        "chemicals_used": ["CuCl2 •2H2O", "pym2S2"],
+        "chemical_amounts": ["0.048 g, 0.282 mmol", "0.062 g, 0.282 mmol"],
+        "method": "slow diffusion",
+        "time": "3 weeks",
+        "yield": "44%",
+        "drying_method": "washed with diethylether and dried on air"
+      }
+    }
+  ]
+}

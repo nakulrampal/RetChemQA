@@ -1,0 +1,77 @@
+{
+  "materials": [
+    {
+      "name": "MOF-5_n",
+      "synthesis_conditions": {
+        "chemicals_used": {
+          "Zn(NO3)2·6H2O": "0.29 g, 1 mmol",
+          "1,4-benzenedicarboxylic acid (H2BDC)": "0.08 g, 0.5 mmol",
+          "N,N‘-dimethylformamide (DMF)": "9.5 g, 130 mmol"
+        },
+        "temperature": "120 °C",
+        "time": "21 h",
+        "equipment": "oven",
+        "solvent": "DMF",
+        "amount_of_solvent": "9.5 g, 130 mmol",
+        "washing_method": "repeatedly washed with DMF",
+        "drying_method": "dried at room temperature",
+        "storage": "stored in a vacuum desiccator to avoid water adsorption"
+      }
+    },
+    {
+      "name": "MOF-5_m_Zn",
+      "crystal_data_and_structure_refinement": {
+        "identification_code": "mof-5_zn",
+        "empirical_formula": "C24 H12 O13 Zn4",
+        "formula_weight": "769.82",
+        "temperature": "293(2) K",
+        "wavelength": "0.71073 A",
+        "crystal_system_space_group": "Trigonal, R -3 m",
+        "unit_cell_dimensions": {
+          "a": "18.406(3) A",
+          "b": "18.406(3) A",
+          "c": "44.750(9) A",
+          "alpha": "90 deg.",
+          "beta": "90 deg.",
+          "gamma": "120 deg."
+        },
+        "volume": "13129(4) A^3",
+        "Z_calculated_density": "6, 0.584 Mg/m^3",
+        "absorption_coefficient": "1.103 mm^-1",
+        "F(000)": "2280",
+        "crystal_size": "0.08 x 0.08 x 0.08 mm",
+        "theta_range_for_data_collection": "2.21 to 19.05 deg.",
+        "limiting_indices": "-16<=h<=16, -16<=k<=16, -40<=l<=40",
+        "reflections_collected_unique": "16367 / 1344 [R(int) = 0.1506]",
+        "completeness_to_theta": "99.4 %",
+        "absorption_correction": "Empirical",
+        "max_and_min_transmission": "0.9169 and 0.9169",
+        "refinement_method": "Full-matrix least-squares on F^2",
+        "data_restraints_parameters": "1344 / 0 / 79",
+        "goodness-of-fit_on_F^2": "1.100",
+        "final_R_indices": {
+          "I>2sigma(I)": "R1 = 0.0823, wR2 = 0.2240",
+          "all_data": "R1 = 0.1100, wR2 = 0.2401"
+        },
+        "largest_diff_peak_and_hole": "0.595 and -0.938 e.A^-3"
+      },
+      "atomic_coordinates_and_displacement_parameters": "Provided in the source",
+      "bond_lengths_and_angles": "Provided in the source",
+      "anisotropic_displacement_parameters": "Provided in the source"
+    },
+    {
+      "name": "MOF-5_m_int_rt",
+      "crystal_data_and_structure_refinement": "Provided in the source",
+      "atomic_coordinates_and_displacement_parameters": "Provided in the source",
+      "bond_lengths_and_angles": "Provided in the source",
+      "anisotropic_displacement_parameters": "Provided in the source"
+    },
+    {
+      "name": "MOF-5_m_int_300c",
+      "crystal_data_and_structure_refinement": "Provided in the source",
+      "atomic_coordinates_and_displacement_parameters": "Provided in the source",
+      "bond_lengths_and_angles": "Provided in the source",
+      "anisotropic_displacement_parameters": "Provided in the source"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "materials": [
+    {
+      "name": "Sc2BDC3·CO2",
+      "synthesis_conditions": {
+        "pressure": "2 kbar",
+        "temperature": "Not specified",
+        "solvents": "Liquefied CO2",
+        "equipment": "Modified Merrill–Basset diamond anvil cell (DAC)",
+        "chemicals_used": "Single crystal of Sc2BDC3",
+        "time": "Not specified",
+        "yield": "6.2 mmol g−1"
+      }
+    },
+    {
+      "name": "Sc2BDC3·CH4",
+      "synthesis_conditions": [
+        {
+          "pressure": "3 kbar",
+          "temperature": "Cryogenically cooled",
+          "solvents": "Liquefied CH4",
+          "equipment": "Standard Merrill–Bassett DAC",
+          "chemicals_used": "Single crystal of Sc2BDC3",
+          "time": "Not specified",
+          "yield": "7.8 mmol g−1"
+        },
+        {
+          "pressure": "13 kbar",
+          "temperature": "Not specified",
+          "solvents": "Liquefied CH4",
+          "equipment": "Standard Merrill–Bassett DAC",
+          "chemicals_used": "Single crystal of Sc2BDC3",
+          "time": "Not specified",
+          "yield": "10.2 mmol g−1",
+          "phase_transition": "Fddd to Fdd2"
+        },
+        {
+          "pressure": "25 kbar",
+          "temperature": "Not specified",
+          "solvents": "Liquefied CH4",
+          "equipment": "Standard Merrill–Bassett DAC",
+          "chemicals_used": "Single crystal of Sc2BDC3",
+          "time": "Not specified",
+          "yield": "Not specified",
+          "phase_transition": "Fdd2 to P21/c"
+        }
+      ]
+    }
+  ]
+}

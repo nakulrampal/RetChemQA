@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What are the synthesis conditions for Co24(Me-bdc)24(dabco)6?",
+      "answer": "Cu(NO3)2·H2O (0.116 g, 0.50 mmol), 5-methylbenzene-1,3-dicarboxylic acid (H2Me-BDC) (0.090 g, 0.50 mmol), ethanol (3 mL), and N,N’-dimethylacetamide (15 mL) were added to a 20 mL scintillation vial and sealed with a Teflon lined cap. The solution was then heated in an oven at 365 K. After one hour, 1,4-diazabicyclo[2.2.2]octane (dabco) (0.056 g, 0.50 mmol) was added to the hot reaction mixture and the solution heated for an additional 24 hours. A light blue precipitate was isolated via vacuum filtration. Solvent exchange was completed by soaking the product in fresh DMA at 373 K for three days with the solvent replaced every 12 hours. The DMA washed solid was isolated by centrifugation and soaked in chloroform at 333 K for three days with the solvent replaced every 12 hours. Activated material was obtained by flowing nitrogen over the sample for 48 hours followed by evacuation at 348 K.",
+      "difficulty": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "What method was used for the synthesis of Fe24(OH-bdc)24(dabco)6?",
+      "answer": "In an N2 glovebox, FeCl2 (0.200 g, 1.578 mmol) and H2OH-BDC (0.288 g, 1.581 mmol) were dissolved in 12 mL DMF in a capped 20 mL scintillation vial and heated at 393 K for two hours. Dabco (0.177 g, 1.578 mmol) was then dissolved in 4 mL acetonitrile and layered on top the DMF solution. The reaction was allowed to stand for one week, after which the reaction mixture was gently swirled and decanted to remove suspended product from larger, higher-density impurities. The light-yellow solid was then isolated by centrifugation and soaked in DMF at room temperature for three days, replacing the solvent with fresh DMF every 8 hours. After DMF washing, the solid was washed with benzene by a similar procedure. Over the course of benzene washes, the solid turns a lime-green color.",
+      "difficulty": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "How was the activated material for Co24(Me-bdc)24(dabco)6 obtained?",
+      "answer": "The activated material for Co24(Me-bdc)24(dabco)6 was obtained by flowing nitrogen over the sample for 48 hours followed by evacuation at 348 K after solvent exchange processes with DMA and chloroform.",
+      "difficulty": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "What are the key differences in methane adsorption sites between Co24(Me-bdc)24(dabco)6 and Fe24(Me-bdc)24(dabco)6 as determined by neutron powder diffraction?",
+      "answer": "For both Co24(Me-bdc)24(dabco)6 and Fe24(Me-bdc)24(dabco)6, methane adsorption sites include the open metal site, the center of the triangular window, and the corners of the square window. However, the main difference lies in the lattice parameter (a ≈ 40.3 Å for Fe24(Me-bdc)24(dabco)6 vs. a ≈ 39.9 Å for Co24(Me-bdc)24(dabco)6) which could lead to observed differences in CD4 interactions in the pore windows. For instance, the square window site for Fe24(Me-bdc)24(dabco)6 appears to have multiple orientations while it only has one orientation for Co24(Me-bdc)24(dabco)6. Similarly, the triangular site for Co24(Me-bdc)24(dabco)6 appears to have multiple positions while Fe24(Me-bdc)24(dabco)6 only has one.",
+      "difficulty": "Hard",
+      "type": "Reasoning"
+    },
+    {
+      "question": "What is the role of the methyl group on the bdc linker in methane adsorption as observed in the neutron diffraction studies?",
+      "answer": "The methyl group on the bdc linker appears to have interactions with the adsorbed methane, indicating its importance in methane adsorption. This demonstrates the significance of ligand functionalization in designing metal-organic frameworks for gas adsorption applications.",
+      "difficulty": "Medium",
+      "type": "Reasoning"
+    },
+    {
+      "question": "How does the presence of excess solvent affect the occupancy of methane adsorption sites in Fe24(Me-bdc)24(dabco)6 and Co24(Me-bdc)24(dabco)6?",
+      "answer": "The presence of excess solvent affects the occupancy of methane adsorption sites in Fe24(Me-bdc)24(dabco)6 and Co24(Me-bdc)24(dabco)6 by potentially competing with methane for adsorption sites. This is indicated by the observation that the metal site and central triangular window site occupancies do not change upon higher methane loadings, suggesting that these sites are fully occupied at low loadings possibly due to competing adsorption from excess solvent.",
+      "difficulty": "Hard",
+      "type": "Reasoning"
+    },
+    {
+      "question": "What is the significance of the triangular pocket in methane adsorption as determined by neutron diffraction studies?",
+      "answer": "The triangular pocket is identified as an ideal site for methane adsorption, with the central site in the triangular window appearing to be energetically favorable for methane adsorption. This highlights the importance of the geometric arrangement of the metal-organic framework in facilitating efficient gas adsorption.",
+      "difficulty": "Medium",
+      "type": "Reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of Fe24(OH-bdc)24(dabco)6 involves a one-pot solvothermal reaction.",
+      "answer": "False. The synthesis of Fe24(OH-bdc)24(dabco)6 as described involves a multi-step process including dissolving reactants in DMF, heating, adding dabco, and subsequent solvent exchanges, not a one-pot solvothermal reaction.",
+      "difficulty": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The activated material for Co24(Me-bdc)24(dabco)6 is obtained by heating the sample under vacuum.",
+      "answer": "True. The activated material for Co24(Me-bdc)24(dabco)6 is obtained by flowing nitrogen over the sample for 48 hours followed by evacuation at 348 K, which involves heating under vacuum.",
+      "difficulty": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The methyl group on the bdc linker does not interact with adsorbed methane according to neutron diffraction studies.",
+      "answer": "False. According to neutron diffraction studies, the methyl group on the bdc linker appears to have interactions with the adsorbed methane, indicating its importance in methane adsorption.",
+      "difficulty": "Easy",
+      "type": "True or False"
+    }
+  ]
+}

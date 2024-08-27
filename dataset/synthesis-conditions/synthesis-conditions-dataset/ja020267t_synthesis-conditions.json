@@ -1,0 +1,172 @@
+{
+  "materials": [
+    {
+      "material": "9,9-Dichloro-9-germafluorene (4b)",
+      "synthesis_conditions": {
+        "temperature": "-78 °C to room temperature",
+        "solvents": [
+          {
+            "name": "Et2O",
+            "amount": "150 mL"
+          }
+        ],
+        "equipment": "Schlenk flask",
+        "chemicals_used": [
+          {
+            "name": "2,2‘-dibromobiphenyl",
+            "amount": "10.0 g, 32.1 mmol"
+          },
+          {
+            "name": "n-BuLi",
+            "amount": "1.6 M in hexane, 42 mL, 67.2 mmol"
+          },
+          {
+            "name": "GeCl4",
+            "amount": "10 g, 46.6 mmol"
+          }
+        ],
+        "time": "overnight",
+        "yield": "7.01 g (73.9%)"
+      }
+    },
+    {
+      "material": "Dipotassio-9-germafluorenyl Dianion (3b)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "100 mL"
+          },
+          {
+            "name": "hexane",
+            "amount": "10 mL"
+          }
+        ],
+        "equipment": "Schlenk flask",
+        "chemicals_used": [
+          {
+            "name": "9,9-dichloro-9-germafluorene, 4b",
+            "amount": "3.01 g, 10.2 mmol"
+          },
+          {
+            "name": "sodium/potassium alloy",
+            "amount": "3.00 g, 76.7 mmol of K; 0.50 g, 21.7 mmol of Na"
+          },
+          {
+            "name": "18-crown-6",
+            "amount": "5.00 g, 18.9 mmol"
+          }
+        ],
+        "time": "6 h"
+      }
+    },
+    {
+      "material": "9,9-Bis(trimethylsilyl)-9-germafluorene (5)",
+      "synthesis_conditions": {
+        "temperature": "0 °C",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "100 mL"
+          }
+        ],
+        "equipment": "Schlenk flask",
+        "chemicals_used": [
+          {
+            "name": "Dipotassio-9-germafluorenyl Dianion (3b)",
+            "amount": "from 4b (1.00 g, 3.38 mmol) and K (1.00 g, 25.6 mmol)"
+          },
+          {
+            "name": "Me3SiCl",
+            "amount": "excess"
+          }
+        ],
+        "yield": "1.18 g (94.2%)"
+      }
+    },
+    {
+      "material": "Dipotassio-9,9‘-digerma-9,9‘-bifluorenyl Dianion (6); 9,9‘-Digerma-9,9‘-bifluorene (7)",
+      "synthesis_conditions": {
+        "temperature": "-20 °C",
+        "solvents": [
+          {
+            "name": "DME",
+            "amount": "150 mL"
+          },
+          {
+            "name": "hexane",
+            "amount": "10 mL"
+          }
+        ],
+        "equipment": "Schlenk flask",
+        "chemicals_used": [
+          {
+            "name": "Dipotassio-9-germafluorenyl Dianion (3b)",
+            "amount": "saturated solution"
+          },
+          {
+            "name": "MeOH",
+            "amount": "for reaction with 6"
+          }
+        ],
+        "time": "2 months"
+      }
+    },
+    {
+      "material": "Dipotassio-9,9‘-bifluorenyl Dianion (9)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "Et2O",
+            "amount": "50 mL"
+          },
+          {
+            "name": "THF",
+            "amount": "100 mL"
+          }
+        ],
+        "equipment": "Schlenk flask",
+        "chemicals_used": [
+          {
+            "name": "9-bromofluorene",
+            "amount": "5.00 g, 20.4 mmol"
+          },
+          {
+            "name": "n-BuLi",
+            "amount": "1.6 M in hexane, 12.8 mL, 20.5 mmol"
+          },
+          {
+            "name": "Potassium",
+            "amount": "2.00 g, 51.2 mmol"
+          }
+        ],
+        "time": "overnight"
+      }
+    },
+    {
+      "material": "9,9‘-Dimethyl-9,9‘-bifluorene (10)",
+      "synthesis_conditions": {
+        "temperature": "0 °C",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "Schlenk flask",
+        "chemicals_used": [
+          {
+            "name": "Dipotassio-9,9‘-bifluorenyl Dianion (9)",
+            "amount": "not specified"
+          },
+          {
+            "name": "MeI",
+            "amount": "excess"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the synthesis condition for FeNi-MIL-88B?",
+      "answer": "A mixture of iron­(III) chloride hexahydrate (FeCl3·6H2O, 3.6 g, 13.3 mmol), nickel­(II) nitrate hexahydrate (Ni­(NO3)2·6H2O, 2.0 g, 6.7 mmol), and 2-aminoterephthalic acid (H2bdc-NH2, 3.6 g, 20 mmol) was dissolved in DMF (200 mL) and sonicated for 20 min. Subsequently, aqueous sodium hydroxide solution (8 mL, 1 M) was dropwise added under stirring. The solution was sonicated for 40 min, transferred into a 500 mL vial sealed with a screw cap, and heated at 100 °C for 12 h. The brown solid was collected by centrifuge, washed by DMF and MeOH several times, and dried in the air at room temperature overnight.",
+      "difficulty": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "How does the synthesis condition of FeNi-MIL-88B differ from that of Fe-MIL-88B-tpy?",
+      "answer": "The synthesis condition of FeNi-MIL-88B involves the use of iron­(III) chloride hexahydrate, nickel­(II) nitrate hexahydrate, and 2-aminoterephthalic acid, heated at 100 °C for 12 h. For Fe-MIL-88B-tpy, the process starts with FeNi-MIL-88B and tpy (2,4,6-tris(4-pyridyl)pyridine), which are transferred into DMF and heated at 190 °C for 14 h. The key differences are the additional use of tpy in the synthesis of Fe-MIL-88B-tpy and the higher heating temperature (190 °C) compared to the synthesis of FeNi-MIL-88B (100 °C).",
+      "difficulty": "Hard",
+      "type": "Reasoning"
+    },
+    {
+      "question": "What are the BET surface areas for capsular-MOF and solid-MOF, and how do they compare?",
+      "answer": "The BET surface area for capsular-MOF is 1157 m2/g, and for solid-MOF, it is 1010 m2/g. The capsular-MOF has a higher BET surface area compared to the solid-MOF, indicating a more porous structure that could potentially offer better catalytic properties or gas adsorption capabilities.",
+      "difficulty": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "What is the significance of the BET surface area in the context of MOFs?",
+      "answer": "The BET surface area is a measure of the porosity and surface area available in a material, which is crucial for applications like catalysis, gas storage, and adsorption. In the context of Metal-Organic Frameworks (MOFs), a higher BET surface area indicates more active sites and larger surface for interactions, making the MOF more effective for its intended application.",
+      "difficulty": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "True or False: The synthesis of Fe-MIL-88B-tpy requires a lower temperature than FeNi-MIL-88B.",
+      "answer": "False. The synthesis of Fe-MIL-88B-tpy requires a higher temperature (190 °C) compared to FeNi-MIL-88B (100 °C).",
+      "difficulty": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does tpy play in the synthesis of Fe-MIL-88B-tpy?",
+      "answer": "tpy (2,4,6-tris(4-pyridyl)pyridine) acts as an additional ligand in the synthesis of Fe-MIL-88B-tpy, contributing to the formation of a distinct structure compared to FeNi-MIL-88B. It likely influences the framework's porosity, surface area, and potentially its catalytic properties by altering the coordination environment and the overall structure of the MOF.",
+      "difficulty": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "How does the loading of sulfur and iodine into capsular-MOF compare to solid-MOF?",
+      "answer": "The loading of sulfur into capsular-MOF is 2.00 g/g, and for iodine, it is 2.57 g/g. In contrast, solid-MOF has a sulfur loading of 0.72 g/g and iodine loading of 1.38 g/g. This indicates that capsular-MOF has a significantly higher capacity for loading both sulfur and iodine compared to solid-MOF, likely due to its higher porosity and surface area.",
+      "difficulty": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "What is the open-circuit potential and peak power density of the Zn-air battery using FeNiP/NCH as the catalyst?",
+      "answer": "The open-circuit potential of the Zn-air battery using FeNiP/NCH as the catalyst is 1.48 V, and the peak power density is 250 mW/cm2. This indicates a strong performance of FeNiP/NCH as a catalyst in Zn-air batteries, showcasing its efficiency in electrochemical reactions.",
+      "difficulty": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "True or False: The FeNiP/NCH catalyst shows a higher peak power density in Zn-air batteries compared to Pt/C.",
+      "answer": "True. The FeNiP/NCH catalyst shows a higher peak power density of 250 mW/cm2 in Zn-air batteries compared to Pt/C, which has a peak power density of 131 mW/cm2. This demonstrates the superior performance of FeNiP/NCH over the traditional Pt/C catalyst in this application.",
+      "difficulty": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the open-circuit potential and peak power density in evaluating the performance of Zn-air batteries?",
+      "answer": "The open-circuit potential indicates the voltage at which the battery can operate without any external load, while the peak power density measures the maximum power output per unit area of the battery. Both metrics are crucial for evaluating the performance of Zn-air batteries, as they indicate the efficiency, energy density, and overall capability of the battery to deliver power for applications.",
+      "difficulty": "Medium",
+      "type": "Factual"
+    }
+  ]
+}

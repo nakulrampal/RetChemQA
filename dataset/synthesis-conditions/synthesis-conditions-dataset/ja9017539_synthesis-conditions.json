@@ -1,0 +1,39 @@
+{
+  "materials": [
+    {
+      "material_name": "Co(OAc)2·4H2O",
+      "synthesis_conditions": {
+        "temperature": "180 °C",
+        "solvents": "water",
+        "amount_of_solvent": "10 mL",
+        "equipment": "PTFE-lined stainless steel autoclave",
+        "chemicals_used": [
+          {
+            "chemical": "Co(OAc)2·4H2O",
+            "amount": "0.252 g",
+            "molarity": "1 mM"
+          },
+          {
+            "chemical": "4,4′-oxybis(benzoic acid)",
+            "amount": "0.26 g",
+            "molarity": "1 mM"
+          },
+          {
+            "chemical": "pyrazine",
+            "amount": "0.081 g",
+            "molarity": "1 mM"
+          },
+          {
+            "chemical": "NaOH",
+            "amount": "0.08 g",
+            "molarity": "2 mM"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": "washed with deionized water under vacuum",
+        "drying_method": "dried at ambient conditions",
+        "yield": "~70% based on Co"
+      }
+    }
+  ]
+}

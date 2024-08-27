@@ -1,0 +1,73 @@
+{
+  "materials": [
+    {
+      "name": "LIFM-101",
+      "synthesis": {
+        "temperature": "100 °C",
+        "time": "50 h",
+        "solvents": [
+          {
+            "name": "DMF/H2O",
+            "volume_ratio": "v/v = 1:1",
+            "amount": "4 mL"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "Cd(NO3)2·4H2O",
+            "amount": "0.050 mmol, 0.015 g"
+          },
+          {
+            "name": "HPI2C",
+            "amount": "0.025 mmol, 0.012 g"
+          }
+        ],
+        "equipment": "20 mL Teflon-lined stainless steel vessel",
+        "yield": "Not specified",
+        "washing_method": "washed with a small amount of DMF",
+        "drying_method": "dried under a vacuum",
+        "crystal_system": "monoclinic",
+        "space_group": "P21/c",
+        "crystal_color": "colorless",
+        "crystal_shape": "needle"
+      }
+    },
+    {
+      "name": "HPI2C",
+      "synthesis": {
+        "steps": [
+          {
+            "step": 1,
+            "conditions": {
+              "temperature": "110 °C",
+              "time": "2 h",
+              "solvent": "acetic acid"
+            }
+          },
+          {
+            "step": 2,
+            "conditions": {
+              "temperature": "110 °C",
+              "time": "10 h",
+              "solvent": "acetic acid",
+              "chemicals": [
+                {
+                  "name": "benzil",
+                  "amount": "Not specified"
+                },
+                {
+                  "name": "ammonium acetate",
+                  "amount": "Not specified"
+                }
+              ]
+            }
+          }
+        ],
+        "crystal_system": "triclinic",
+        "space_group": "P-1",
+        "crystal_color": "colorless",
+        "crystal_shape": "needle"
+      }
+    }
+  ]
+}

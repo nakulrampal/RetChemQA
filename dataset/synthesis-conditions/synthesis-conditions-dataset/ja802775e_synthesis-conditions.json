@@ -1,0 +1,132 @@
+{
+  "materials": [
+    {
+      "name": "H5bupa",
+      "synthesis_conditions": {
+        "temperature": "reflux overnight",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "100 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "bis[(N'-tert-butylureayl)-N-ethyl]amine",
+            "amount": "5.79 g, 19.2 mmol"
+          },
+          {
+            "name": "N-[6-(bromomethyl)-2-pyridyl]pivalamide",
+            "amount": "5.32 g, 19.6 mmol"
+          },
+          {
+            "name": "Et3N",
+            "amount": "3.05 mL, 21.5 mmol"
+          }
+        ],
+        "yield": "71%",
+        "washing_method": "washed with H2O (3 x 100 mL) and brine (1 x 100 mL)",
+        "drying_method": "dried over anhydrous sodium sulfate, filtered, and concentrated under reduced pressure"
+      }
+    },
+    {
+      "name": "K[MnIIH2bupa] or K[1]",
+      "synthesis_conditions": {
+        "temperature": "stirred until H2 evolution ceased",
+        "solvents": [
+          {
+            "name": "anhydrous DMA",
+            "amount": "7 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H5bupa",
+            "amount": "0.397 g, 0.807 mmol"
+          },
+          {
+            "name": "solid KH",
+            "amount": "0.100 g, 2.49 mmol"
+          },
+          {
+            "name": "Mn(OAc)2",
+            "amount": "0.139 g, 0.803 mmol"
+          }
+        ],
+        "yield": "84%",
+        "washing_method": "washed with Et2O",
+        "drying_method": "dried under vacuum"
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": [
+        {
+          "method": "A",
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "anhydrous DMA",
+              "amount": "3 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "K[1]",
+              "amount": "78 mg, 130 µmol"
+            },
+            {
+              "name": "dry O2",
+              "amount": "3.2 mL, 130 µmol"
+            }
+          ],
+          "time": "30 min"
+        },
+        {
+          "method": "B",
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "anhydrous DMA",
+              "amount": "3 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "K[1]",
+              "amount": "78 mg, 130 µmol"
+            },
+            {
+              "name": "diphenylhydrazine",
+              "amount": "12 mg, 65 µmol"
+            },
+            {
+              "name": "dry O2",
+              "amount": "3.2 mL, 130 µmol"
+            }
+          ],
+          "time": "10 min"
+        }
+      ]
+    },
+    {
+      "name": "cyclohexanone",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "chemicals_used": [
+          {
+            "name": "2 (prepared by method B)",
+            "details": "allowed to stir for 30 min"
+          },
+          {
+            "name": "cyclohexanecarboxaldehyde",
+            "amount": "1 equiv"
+          }
+        ],
+        "time": "3 hrs",
+        "washing_method": "washed with Et2O (3 x 3 mL)",
+        "yield": "unoptimized yield of 40%"
+      }
+    }
+  ]
+}

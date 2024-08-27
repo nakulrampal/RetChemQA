@@ -1,0 +1,63 @@
+{
+  "materials": [
+    {
+      "name": "Octacalcium phosphate (OCP)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Ca(CH3COO)2 · H2O",
+          "Na2HPO4 · 12H2O",
+          "NaH2PO4 · H2O"
+        ],
+        "solvent": "double distilled water",
+        "temperature": "30 °C",
+        "time": "72 hours",
+        "washing_method": "repeatedly washed with double distilled water",
+        "drying_method": "dried at 37 °C",
+        "equipment": "stirring"
+      }
+    },
+    {
+      "name": "Calcium alendronate monohydrate (CaAL · H2O) loaded on OCP",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "sodium alendronate trihydrate"
+        ],
+        "solvent": "double distilled water",
+        "amount_of_solvent": "25 ml",
+        "alendronate_concentrations": [
+          "4 mM",
+          "8 mM",
+          "16 mM",
+          "20 mM"
+        ],
+        "temperature": "30 °C",
+        "time": "72 hours",
+        "equipment": "stirring",
+        "amount_of_OCP": "50 mg",
+        "washing_method": "repeatedly washed with double distilled water",
+        "drying_method": "dried at 37 °C"
+      }
+    },
+    {
+      "name": "Direct synthesis of calcium alendronate monohydrate (DS)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "sodium alendronate trihydrate",
+          "NaOH",
+          "CaCl2"
+        ],
+        "solvent": "water",
+        "amount_of_solvent": [
+          "50 ml for sodium alendronate trihydrate",
+          "10 ml for NaOH 1.0 M",
+          "10 ml for CaCl2 1.0 M"
+        ],
+        "temperature": "90 °C",
+        "time": "2 hours",
+        "equipment": "stirring",
+        "washing_method": "repeatedly washed with double distilled water",
+        "drying_method": "dried at 37 °C"
+      }
+    }
+  ]
+}

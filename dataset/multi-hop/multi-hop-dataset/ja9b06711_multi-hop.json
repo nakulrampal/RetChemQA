@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of HUST-1?",
+      "answer": "C32H16N8O16Zr3",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the synthesis conditions for HUST-2?",
+      "answer": "HUST-2 is synthesized by adding 20 mg NiCl2·6H2O to the CH3CN (3 mL) solution, then immersing 5 mg HUST-1 in a small bowl into the solution, and heating at 353 K for seven days.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the crystal system of HUST-4 compare to that of HUST-1?",
+      "answer": "Both HUST-4 and HUST-1 have an orthorhombic crystal system.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of trifluoroacetic acid in the synthesis of HUST-1?",
+      "answer": "Trifluoroacetic acid is added to the DMF solution of H2L and ZrCl4 in the synthesis of HUST-1, suggesting it acts as a catalyst or modulator in the reaction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the volume of the unit cell for HUST-3 larger than that of HUST-2?",
+      "answer": "False, the volume of the unit cell for HUST-3 (12996 Å3) is smaller than that of HUST-2 (13583.6 Å3).",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What method is used for the X-ray structural determination of HUST-1 to HUST-4?",
+      "answer": "The structures of HUST-1 to HUST-4 were solved by direct methods and refined anisotropically with SHELXTL using a full-matrix least squares procedure based on F2 values.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What changes occur in the PXRD patterns of HUST-1 when immersed in different concentrations of HCl solution?",
+      "answer": "The PXRD patterns of HUST-1 show changes when immersed in different concentrations of HCl solution, indicating alterations in the material's structure or composition due to the acid treatment.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can HUST-3 be synthesized using NiBr2·3H2O under room temperature conditions?",
+      "answer": "False, HUST-3 is synthesized by heating at 353 K for seven days, not under room temperature conditions.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the 'SQUEEZE' procedure in the refinement of HUST-1 to HUST-4 structures?",
+      "answer": "The 'SQUEEZE' procedure is used to account for highly disordered solvent molecules in the crystal structures of HUST-1 to HUST-4, which cannot be explicitly modeled.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the synthesis of UiO-67-Ni involve post-synthetic metalation?",
+      "answer": "True, the synthesis of UiO-67-Ni involves incubating UiO-67-bpy with NiCl2·6H2O overnight, indicating a post-synthetic metalation process.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

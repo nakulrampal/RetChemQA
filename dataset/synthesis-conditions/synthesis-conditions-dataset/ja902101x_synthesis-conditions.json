@@ -1,0 +1,134 @@
+{
+  "materials": [
+    {
+      "material": "1",
+      "synthesis_conditions": [
+        {
+          "method": "solvothermal",
+          "temperature": "160°C",
+          "duration": "72 hours",
+          "cooling_rate": "cooled to room temperature in 48 hours",
+          "solvents": [
+            {
+              "name": "dioxane",
+              "amount": "8 ml"
+            }
+          ],
+          "equipment": "Teflon-lined stainless steel vessel (25 mL)",
+          "yield": "about 67%",
+          "chemicals_used": [
+            {
+              "name": "CoCl2·6H2O",
+              "amount": "1.0 mmol"
+            }
+          ],
+          "hydration_method": "exposed to air with humidity higher than 40% or by hydration of 2",
+          "elemental_analysis": {
+            "calculated": {
+              "C": "18.92",
+              "H": "4.76",
+              "Cl": "27.92"
+            },
+            "found": {
+              "C": "19.06",
+              "H": "4.80",
+              "Cl": "27.82"
+            }
+          },
+          "IR": [
+            "3368vs",
+            "3227vs",
+            "3009s",
+            "2939s",
+            "2904m",
+            "2878m",
+            "2759w",
+            "2750w",
+            "1621s",
+            "1453m",
+            "1439w",
+            "1376w",
+            "1300m",
+            "1256s",
+            "1211w",
+            "1107s",
+            "1085m",
+            "1070s",
+            "1041w",
+            "895m",
+            "866vs"
+          ]
+        }
+      ]
+    },
+    {
+      "material": "2",
+      "synthesis_conditions": [
+        {
+          "method": "solvothermal",
+          "temperature": "160°C",
+          "duration": "36 hours",
+          "cooling_rate": "cooled to room temperature within 2 hours",
+          "solvents": [
+            {
+              "name": "dioxane",
+              "amount": "8 ml"
+            }
+          ],
+          "equipment": "Teflon-lined stainless steel vessel (25 mL)",
+          "yield": "about 87%",
+          "chemicals_used": [
+            {
+              "name": "CoCl2·6H2O",
+              "amount": "1.0 mmol"
+            }
+          ],
+          "dehydration_method": "exposed to air with low humidity lower than 30% or by dehydration of 1 at 100°C for 10 minutes",
+          "elemental_analysis": {
+            "calculated": {
+              "C": "22.04",
+              "H": "3.70",
+              "Cl": "32.53"
+            },
+            "found": {
+              "C": "21.59",
+              "H": "3.74",
+              "Cl": "31.94"
+            }
+          },
+          "IR": [
+            "3488s",
+            "3426s",
+            "3185w",
+            "3005w",
+            "2994w",
+            "2958w",
+            "2928m",
+            "2902w",
+            "2888w",
+            "2867w",
+            "2765vw",
+            "2753vw",
+            "2706vw",
+            "2794vw",
+            "1644w",
+            "1600s",
+            "1457m",
+            "1444w",
+            "1377vw",
+            "1366vw",
+            "1298w",
+            "1252m",
+            "1103s",
+            "1091w",
+            "1074s",
+            "1045w",
+            "901m",
+            "873vs",
+            "862vs"
+          ]
+        }
+      ]
+    }
+  ]
+}

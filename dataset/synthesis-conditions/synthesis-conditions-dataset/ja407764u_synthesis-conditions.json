@@ -1,0 +1,81 @@
+{
+  "materials": [
+    {
+      "label": "2-borono-4-(trifluoromethyl)benzoic acid 1b",
+      "chemicals_used": [
+        "Mg(TMP)2",
+        "tert-butyl 4-(trifluoromethyl)benzoate",
+        "B(OMe)3",
+        "1N HCl",
+        "ethyl acetate",
+        "NaCl",
+        "Na2SO4",
+        "CH2Cl2",
+        "trifluoroacetic acid"
+      ],
+      "solvents": [
+        "THF",
+        "ethyl acetate",
+        "CH2Cl2"
+      ],
+      "temperature": "0 °C to room temperature",
+      "yield": "61%",
+      "characterization": {
+        "1H NMR": "(400 MHz, (CD3)2CO) δ 8.07 (1H, br), 7.95 (1H, br), 7.78 (1H, d, J = 8.0 Hz)",
+        "13C NMR": "(100 MHz, (CD3)2CO) δ 170.0, 145.6, 139.0, 133.8 (q, 2J(13C, 19F) = 29.5 Hz), 128.8, 126.3, 125.4 (q, 1J(13C, 19F) = 274.5 Hz)",
+        "IR": "(neat) 3363, 2484, 2072, 1713, 1119 cm-1",
+        "HRMS(ESI)": "exact mass calcd for C10H9BF3O4 (as ArB(OMe)2): m/z 261.0542 ([M – H]–, found: m/z 261.0546 ([M – H]–)"
+      }
+    },
+    {
+      "label": "(S)-1,1-bis(2-biphenyl)-2-phenylethanediol 5e",
+      "chemicals_used": [
+        "2-bromobiphenyl",
+        "tBuLi",
+        "(S)-methyl mandelate",
+        "TFA",
+        "NaBH4",
+        "NH4Cl",
+        "AcOEt"
+      ],
+      "solvents": [
+        "Et2O",
+        "MeOH"
+      ],
+      "temperature": "-78 °C to room temperature",
+      "yield": "42%",
+      "characterization": {
+        "1H NMR": "(400 MHz, CDCl3) δ 7.25-7.05 (14H, m), 6.94 (3H, dd, J = 7.5 Hz, 1.21 Hz), 6.80 (4H, m), 6.64 (1H, br), 6.01 (1H, br), 5.59 (1H, d, J = 7.5 Hz), 3.01 (1H, d, J = 7.5 Hz), 2.90 (1H, s)",
+        "13C NMR": "(100 MHz, CDCl3) δ 142.7, 142.6, 142.3, 142.2, 141.8, 140.3, 140.0, 132.6, 131.7, 129.8, 128.9,128.7, 128.3, 127.9, 127.7, 127.5, 127.4, 127.3, 126.8, 126.7, 126.5, 126.4, 126.3, 126.2, 82.6, 77.3",
+        "IR": "(neat) 3522, 3057, 1472, 1440 cm-1",
+        "HRMS(ESI)": "exact mass calcd for C32H26O2Na: m/z 465.1825 ([M + Na]+), found: m/z 465.1820 ([M +Na]+)",
+        "Optical Rotation": "[α]18D –114.1 (c = 1.04, CHCl3)"
+      }
+    },
+    {
+      "label": "N-Boc imines and N-Bn imines",
+      "note": "The synthesis conditions for N-Boc imines and N-Bn imines are described in the general procedures for the asymmetric trans-aziridination of N-Boc imines (Table 2) and N-Bn imines (Table 3), respectively. These procedures involve the use of 2-boronobenzoic acid 1a or 2-borono-4-(trifluoromethyl)benzoic acid 1b, chiral diol 5e, molecular sieves, and CH2Cl2 as the solvent. The reactions were conducted at temperatures ranging from room temperature to -20 °C."
+    },
+    {
+      "label": "Catalyst complex 8",
+      "chemicals_used": [
+        "2-boronobenzoic acid 1a",
+        "(S)-1,1-bis(2-biphenyl)-2-phenylethanediol 5e"
+      ],
+      "solvents": [
+        "Et2O",
+        "hexane",
+        "CH2Cl2"
+      ],
+      "temperature": "Room temperature",
+      "yield": "Quantitative",
+      "characterization": {
+        "1H NMR": "(400 MHz, CDCl3) δ 8.00 (1H, m), 7.48 (2H, m), 7.34-6.92 (18H, m), 6.82 (2H, t, J = 7.7 Hz), 6.65 (1H, t, J = 7.7 Hz), 6.55 (1H, d, J = 8.9 Hz), 6.29 (2H, d, J = 6.0 Hz), 5.94 (1H, s)",
+        "13C NMR": "(100 MHz, CDCl3) δ 172.9, 143.4, 143.1, 142.6, 142.0, 138.9, 138.8, 137.9, 133.3, 133.2, 133.1, 132.4, 130.9, 129.9, 129.8, 129.5, 128.3, 128.0, 127.6, 127.1, 126.9, 126.5, 126.4, 126.2, 126.0, 125.6, 125.3, 92.0, 85.0",
+        "IR": "(neat) 3057, 1688, 1342, 1060 cm-1",
+        "HRMS(ESI)": "exact mass calcd for C39H28BO4: m/z 571.2082 ([M – H]–), found: m/z 571.2097 ([M – H]–)",
+        "Optical Rotation": "[α]18D –98.0 (c = 0.65, CHCl3)"
+      }
+    }
+  ]
+}

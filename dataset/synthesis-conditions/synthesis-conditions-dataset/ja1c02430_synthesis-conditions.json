@@ -1,0 +1,52 @@
+{
+  "materials": [
+    {
+      "name": "2,7-Di­(pyridin-4-yl)-9H-fluoren-9-one (FDP-O)",
+      "synthesis_conditions": {
+        "chemicals_used": "pyridin-4-ylboronic acid (0.61 g, 5.0 mmol), 2,7-dibromo-9H-fluoren-9-one (0.68 g, 2.0 mmol), tetrakis­(triphenylphosphine)palladium (0) (0.13 g, 0.18 mmol), Na2CO3 (1 M, 6.0 mL) aqueous solution, 1,2-dimethoxyethane (10 mL), ethanol (EtOH, 4.5 mL)",
+        "equipment": "microwave",
+        "temperature": "160 °C",
+        "time": "1 h",
+        "solvent": "1,2-dimethoxyethane, ethanol",
+        "yield": "0.76 g, 82%",
+        "washing_method": "water, EtOAc",
+        "drying_method": "vacuum"
+      }
+    },
+    {
+      "name": "4,4′-(9-Hydrazineylidene-9H-fluorene-2,7-diyl)­dipyridine (FDP-N-NH2)",
+      "synthesis_conditions": {
+        "chemicals_used": "FDP-O (1.13 g, 3.38 mmol), hydrazine monohydrate (1.0 mL, 19.6 mmol), ethanol (EtOH, 150 mL)",
+        "equipment": "reflux",
+        "temperature": "reflux temperature",
+        "time": "overnight",
+        "solvent": "ethanol",
+        "yield": "0.97 g, 82%",
+        "washing_method": "ethanol",
+        "drying_method": "vacuum"
+      }
+    },
+    {
+      "name": "4,4′-(9-Diazo-9H-fluorene-2,7-diyl)­dipyridine (FDP-N2)",
+      "synthesis_conditions": {
+        "chemicals_used": "FDP-N-NH2 (0.10 g, 0.289 mmol), KOH (saturated solution in THF/EtOH 1:1), MgSO4, Celite",
+        "equipment": "automated flash column chromatography",
+        "solvent": "EtOAc",
+        "yield": "0.080 g, 81%"
+      }
+    },
+    {
+      "name": "[Zn­(ip)­(FDP-N2)] (MaNa-1)",
+      "synthesis_conditions": {
+        "chemicals_used": "FDP-N2 (45 mg 0.13 mmol), H2ip (24 mg, 0.14 mmol), Zn­(NO3)2·6H2O (60 mg, 0.20 mmol), DMF (6 mL)",
+        "equipment": "stirring",
+        "temperature": "30 °C",
+        "time": "1 day",
+        "solvent": "DMF",
+        "yield": "16.3 mg, 22%",
+        "washing_method": "MeOH",
+        "drying_method": "vacuum at room temperature for 2 days"
+      }
+    }
+  ]
+}

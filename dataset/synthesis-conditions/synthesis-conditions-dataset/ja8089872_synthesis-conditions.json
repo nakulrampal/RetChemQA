@@ -1,0 +1,43 @@
+{
+  "materials": [
+    {
+      "name": "MAF-2",
+      "synthesis_conditions": {
+        "temperature": "300 °C",
+        "stability": "Thermally stable up to 300 °C and chemically stable toward air and moisture",
+        "yield": "High yield",
+        "description": "MAF-2 consists of a flexible NbO-type cuprous triazolate scaffold and a bcu pore system with large cavities (the NbO cages) interconnected by small, dynamic apertures."
+      }
+    },
+    {
+      "name": "MAF-2·C2H2",
+      "synthesis_conditions": {
+        "temperature": "123 K",
+        "pressure": "10−20 atm for saturation adsorption complexes at room temperature; controlled by backfilled pressures for partial or full loading (123 or 195 K)",
+        "guest_molecule": "C2H2",
+        "unit_cell_deformations": "Anisotropic unit-cell distortions are evident for MAF-2·C2H2 (Δa/c = −1.5%, ΔV = −1.0%)",
+        "binding_interactions": "Strongest host−guest interactions are C−H···N contacts between C2H2 and the 1,2-nitrogens of etz",
+        "hexameric_arrangement": "Outer ends of six C2H2 molecules interact with each other by C−H···C contacts in a T-shaped conformation to form an S6 cyclic hexamer"
+      }
+    },
+    {
+      "name": "MAF-2·CO2",
+      "synthesis_conditions": {
+        "temperature": "123 K",
+        "pressure": "10−20 atm for saturation adsorption complexes at room temperature; controlled by backfilled pressures for partial or full loading (123 or 195 K)",
+        "guest_molecule": "CO2",
+        "unit_cell_deformations": "Anisotropic unit-cell distortions are evident for MAF-2·CO2 (Δa/c = −0.4%, ΔV = −0.6%)",
+        "binding_interactions": "CO2 is well embedded inside the pocket and forms short contacts with the 1,2-nitrogens of etz by its electropositive carbon",
+        "hexameric_arrangement": "CO2 molecules are well separated around a void inside the cage, indicating weak guest−guest interaction and loose structure"
+      }
+    },
+    {
+      "name": "Partial loading structures of MAF-2 with C2H2 or CO2",
+      "synthesis_conditions": {
+        "temperature": "195 K",
+        "pressure_range": "0.04 < x < 0.42",
+        "description": "Framework deformations started from very low loadings and almost completed at x ≈ 0.2. Thermal parameters of framework atoms decrease as uptake increase."
+      }
+    }
+  ]
+}

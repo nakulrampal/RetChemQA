@@ -1,0 +1,44 @@
+{
+  "materials": [
+    {
+      "name": "{[Gd2(TCNQ)5(H2O)9][Gd(TCNQ)4(H2O)3]}·4 H2O",
+      "synthesis_conditions": [
+        {
+          "step": "Crystal formation",
+          "details": {
+            "solvents": ["deionized water"],
+            "chemicals_used": ["GdCl3·6 H2O", "Li[TCNQ]"],
+            "ratio": "1:1",
+            "technique": "Slow diffusion",
+            "atmosphere": "deoxygenated",
+            "equipment": "Schlenk tube"
+          }
+        },
+        {
+          "step": "Bulk material preparation",
+          "details": {
+            "solvents": ["deionized water"],
+            "amount_of_solvent": "20 mL",
+            "chemicals_used": ["GdCl3·6 H2O (220 mg, 0.59 mmol)", "Li[TCNQ] (125 mg, 0.59 mmol)"],
+            "mixing_method": "Stirred for 30 min",
+            "resting_time": "overnight",
+            "washing_method": "vacuum filtration, washed with copious amounts of H2O",
+            "drying_method": "dried under vacuum",
+            "yield": "162 mg (31%)"
+          }
+        }
+      ]
+    }
+  ],
+  "experimental_techniques": {
+    "magnetic_susceptibility_measurements": {
+      "temperature_range": "1.8–300 K",
+      "magnetic_field": "1000 G",
+      "equipment": "Quantum Design MPMS-2 SQUID magnetometer",
+      "sample_mass": "2.89 mg"
+    },
+    "AC_magnetic_susceptibility_measurements": {
+      "oscillating_frequency": "125 Hz"
+    }
+  }
+}

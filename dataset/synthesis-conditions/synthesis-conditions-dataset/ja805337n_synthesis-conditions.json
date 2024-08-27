@@ -1,0 +1,100 @@
+{
+  "materials": [
+    {
+      "name": "L",
+      "synthesis_conditions": {
+        "temperature": "reflux",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "100 mL for t-BuOK solution, 50 mL for 5 and 2,2’-thiodiethanol solution"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "t-BuOK",
+            "amount": "0.746 g, 6.56 mmol"
+          },
+          {
+            "name": "5",
+            "amount": "1.00 g, 0.821 mmol"
+          },
+          {
+            "name": "2,2’-thiodiethanol",
+            "amount": "0.301 g, 2.46 mmol"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": "extracted with CH2Cl2 (3×50 mL), washed with water",
+        "drying_method": "dried over anhydrous MgSO4",
+        "yield": "16%",
+        "additional_steps": [
+          {
+            "step_description": "10% HCl (10 mL) was added after cooling to room temperature and the solvent was removed under reduced pressure."
+          },
+          {
+            "step_description": "The crude product was chromatographed on silica gel using ethyl acetate and n-hexane (1:9) as eluent, and recrystallized from CH2Cl2/n-hexane (1:30, v/v)."
+          }
+        ]
+      }
+    },
+    {
+      "name": "[(Cu4I4)L(CH3CN)2]n (1)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "3 mL"
+          },
+          {
+            "name": "dichloromethane",
+            "amount": "3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Copper(I) iodide",
+            "amount": "6.15 mg, 32.3 mmol"
+          },
+          {
+            "name": "L",
+            "amount": "10.0 mg, 12.9 mmol"
+          }
+        ],
+        "yield": "80%"
+      }
+    },
+    {
+      "name": "{[(Cu4I6)LK2](2CH2Cl2)(CH3CN)}n (2)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "3 mL"
+          },
+          {
+            "name": "dichloromethane",
+            "amount": "3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Copper(I) iodide",
+            "amount": "6.15 mg, 32.3 mmol"
+          },
+          {
+            "name": "Potassium iodide",
+            "amount": "5.36 mg, 32.3 mmol"
+          },
+          {
+            "name": "L",
+            "amount": "10.0 mg, 12.9 mmol"
+          }
+        ],
+        "yield": "85%"
+      }
+    }
+  ]
+}

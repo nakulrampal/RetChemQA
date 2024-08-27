@@ -1,0 +1,100 @@
+{
+  "materials": [
+    {
+      "name": "Cu(OPTz)",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "toluene",
+            "amount": "400 mL"
+          }
+        ],
+        "equipment": "flask",
+        "chemicals_used": [
+          {
+            "name": "Dimethyl 5-iodoisophthalate",
+            "amount": "20.0 g, 62.5 mmol"
+          },
+          {
+            "name": "10H-phenothiazine",
+            "amount": "10.4 g, 52.0 mmol"
+          },
+          {
+            "name": "tri-tert-butylphosphonium tetrafluoroborate",
+            "amount": "1.06 g, 3.64 mmol"
+          },
+          {
+            "name": "sodium tert-butoxide",
+            "amount": "7.50 g, 78.0 mmol"
+          },
+          {
+            "name": "palladium(II) acetate",
+            "amount": "584 mg, 2.60 mmol"
+          }
+        ],
+        "time": "16 h",
+        "washing_method": "filtered through Celite®, diluted with AcOEt (200 mL) and washed with water",
+        "drying_method": "dried over Na2SO4, filtered and evaporated under reduced pressure",
+        "yield": "~56%",
+        "additional_steps": [
+          {
+            "step_description": "Purification by column chromatography (SiO2, AcOEt/n-hexane with the ratio changing from 3 to 6%)",
+            "chemicals_used": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cu(OPTz) activated phase (1a)",
+      "synthesis_conditions": {
+        "temperature": "393 K",
+        "solvents": [],
+        "equipment": "",
+        "chemicals_used": [],
+        "time": "",
+        "washing_method": "washed with DMF (50 mL, 3 times) and methanol (50 mL, 1 time)",
+        "drying_method": "dried in air",
+        "yield": "",
+        "additional_steps": [
+          {
+            "step_description": "Solvent exchange with methanol at 60 °C for 3 days, every 24 h the methanol was replaced by new one",
+            "chemicals_used": []
+          },
+          {
+            "step_description": "Dried under vacuum at 60 °C for 3 h",
+            "chemicals_used": []
+          },
+          {
+            "step_description": "Activated again in-situ on BELmax or BEL18 gas sorption apparatuses at 120 °C for 2 h",
+            "chemicals_used": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "C2H4-adsorbed phase of 1a",
+      "synthesis_conditions": {
+        "temperature": "320 K",
+        "solvents": [],
+        "equipment": "BELSORP-max or BELSORP-18PLUS automated volumetric sorption analysers",
+        "chemicals_used": [
+          {
+            "name": "C2H4",
+            "amount": "1 bar"
+          }
+        ],
+        "time": "varied",
+        "washing_method": "",
+        "drying_method": "",
+        "yield": "",
+        "additional_steps": [
+          {
+            "step_description": "Adsorption rate measured and fitted automatically with BEL-Dyna software according to the Crank theory",
+            "chemicals_used": []
+          }
+        ]
+      }
+    }
+  ]
+}

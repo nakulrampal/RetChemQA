@@ -1,0 +1,43 @@
+{
+  "materials": [
+    {
+      "name": "[(Ni2L2)(bptc)]·6 H2O·3 DEF",
+      "synthesis_conditions": {
+        "solvents": "DEF/H2O/TEA",
+        "solvent_ratio": "2:3:0.16 (v/v)",
+        "solvent_details": {
+          "DEF": "N,N-diethylformamide",
+          "TEA": "triethylamine"
+        },
+        "yield": "violet crystals",
+        "comments": "Insoluble in water and common organic solvents such as MeOH, EtOH, MeCN, chloroform, acetone, toluene, dimethylformamide, and dimethylsulfoxide."
+      }
+    },
+    {
+      "name": "[(Ni2L4)(bptc)]·14 H2O",
+      "synthesis_conditions": {
+        "solvents": "DEF/H2O",
+        "solvent_ratio": "1:4 (v/v)",
+        "yield": "afforded 2",
+        "comments": "Insoluble in water and common organic solvents such as MeOH, EtOH, MeCN, chloroform, acetone, toluene, dimethylformamide, and dimethylsulfoxide."
+      }
+    },
+    {
+      "name": "[(Ni2L2)(bptc)]·3 MeCN (1MeCN)",
+      "synthesis_conditions": {
+        "method": "immersion of 1 in anhydrous MeCN",
+        "time": "not specified",
+        "additional_step": "removed the MeCN guests by heating at 100 8C under vacuum for 6 h",
+        "resulting_material": "[(Ni2L2)(bptc)] (SNU-M10)"
+      }
+    },
+    {
+      "name": "[(Ni2L4)(bptc)] (SNU-M11)",
+      "synthesis_conditions": {
+        "method": "heating 2 at 100 8C under vacuum",
+        "time": "12 h",
+        "comments": "Desolvated solid from 2"
+      }
+    }
+  ]
+}

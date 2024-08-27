@@ -1,0 +1,66 @@
+{
+  "materials": [
+    {
+      "name": "[2-Li.C2H50H]",
+      "synthesis_conditions": {
+        "temperature": "20°C",
+        "solvents": [
+          {
+            "name": "ethanol",
+            "amount": "2 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "1 (phenylnitromethane)",
+            "amount": "100 mg, 0.73 mmol"
+          },
+          {
+            "name": "lithium ethoxide",
+            "amount": "0.87 mmol"
+          }
+        ],
+        "time": "2 h",
+        "concentration_steps": "solution was concentrated in vacuum to ca. 1 mL",
+        "crystallization_time": "12 h",
+        "yield": "0.11 g (78%)",
+        "product_form": "colorless, needle-shaped crystals"
+      }
+    },
+    {
+      "name": "cyanomethylenetriphenylphosphoranes 7",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "benzene",
+            "details": "used for deprotonation"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "cyanomethylene-triphenylphosphorane 3",
+            "details": "deprotonated to give salt 5"
+          },
+          {
+            "name": "sodium bis(trimethylsilyl)amide 4",
+            "details": "used for deprotonation"
+          },
+          {
+            "name": "halogen compounds 6",
+            "details": "reacts with compound 5 to give cyanomethylenetriphenylphosphoranes 7"
+          }
+        ],
+        "product_form": "yellow, air- and moisture-sensitive powder",
+        "spectroscopic_investigation": {
+          "IR_spectrum": "nitrile band appears at 6=2000 cm-1",
+          "31P-NMR_signal": "6=-22.5",
+          "13C-NMR_signal": {
+            "ylidic_C_atom": "6=6.60",
+            "Jpc": "94.6 Hz"
+          }
+        },
+        "reaction_details": "Compound 5 reacts with halogen compounds 6 to give cyanomethylenetriphenylphosphoranes 7"
+      }
+    }
+  ]
+}

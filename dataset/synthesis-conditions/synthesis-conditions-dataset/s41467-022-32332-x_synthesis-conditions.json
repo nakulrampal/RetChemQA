@@ -1,0 +1,77 @@
+{
+  "ZIF-65(Zn)-I": {
+    "synthesis_conditions": {
+      "temperature": "100 °C",
+      "solvents": "dimethylformamide (DMF)",
+      "amount_of_each_solvent": "15 mL",
+      "equipment": "30 mL Teflon-lined autoclave",
+      "chemicals_used": {
+        "Zinc acetate dehydrate": "0.110 g, 0.5 mmol",
+        "2-nitroimidazole (nIm)": "0.141 g, 1.25 mmol"
+      },
+      "time": "48 h"
+    }
+  },
+  "ZIF-65(Zn)-II": {
+    "activation_conditions": {
+      "methanol_exchange_and_activation": {
+        "solvents": "methanol (MeOH)",
+        "time": "24 h",
+        "solvent_change_intervals": "12 h",
+        "activation_methods": [
+          {
+            "method": "heating",
+            "temperature": "50 °C",
+            "time": "12 h"
+          },
+          {
+            "method": "vacuuming",
+            "temperature": "150 °C",
+            "time": "12 h"
+          }
+        ]
+      },
+      "ethanol_exchange_and_activation": {
+        "solvents": "ethanol (EtOH)",
+        "time": "36 h",
+        "solvent_change_intervals": "12 h",
+        "activation_method": {
+          "method": "vacuuming",
+          "temperature": "50 °C",
+          "time": "1 h"
+        }
+      }
+    }
+  },
+  "ZIF-65(Zn)-III": {
+    "preparation_conditions": {
+      "obtained_via": "MeOH exchange and activation of the as-synthesized sample",
+      "specific_guest_molecules_adsorption": [
+        {
+          "guest_molecule": "n-decane (n-C10)",
+          "method": "immersing the ZIF-65(Zn)-II sample in n-C10"
+        },
+        {
+          "guest_molecule": "n-butanol (n-C4OH)",
+          "method": "n-C4OH vapor adsorption in ZIF-65(Zn)-II"
+        }
+      ]
+    }
+  },
+  "ZIF-65(Zn)-I_Cubic_I-43m": {
+    "preparation_conditions": {
+      "synthesis_method": "using DMF as the reaction solvent",
+      "specific_guest_molecules_adsorption": [
+        {
+          "guest_molecule": "isobutanol (i-C4OH)",
+          "method": "immersing the ZIF-65(Zn)-II sample in i-C4OH"
+        }
+      ]
+    }
+  },
+  "ZIF-65(Zn)-I_Cubic_P-43m": {
+    "preparation_conditions": {
+      "obtained_via": "EtOH exchange and activation of the as-synthesized sample"
+    }
+  }
+}

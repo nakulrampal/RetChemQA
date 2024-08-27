@@ -1,0 +1,101 @@
+{
+  "materials": [
+    {
+      "material_name": "(NBu4)2FeIII2(dhbq)3 (1)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "120 °C",
+          "solvents": [
+            {
+              "name": "deionized water",
+              "amount": "3.0 mL"
+            }
+          ],
+          "equipment": "thick-walled borosilicate tube, oven",
+          "chemicals_used": [
+            {
+              "name": "2,5-diaminobenzoquinone",
+              "amount": "20.0 mg (0.144 mmol)"
+            },
+            {
+              "name": "Fe(SO4)·7H2O",
+              "amount": "121 mg (0.434 mmol)"
+            },
+            {
+              "name": "tetrabutylammonium bromide",
+              "amount": "250 mg (0.775 mmol)"
+            },
+            {
+              "name": "concentrated HCl",
+              "purpose": "pH adjustment to 3.0"
+            }
+          ],
+          "time": "24 h",
+          "drying_method": "heating at 150 °C under reduced pressure for 1 h",
+          "yield": "21.0 mg, 43%",
+          "washing_method": "vacuum filtration inside a N2-atmosphere glovebag"
+        }
+      ]
+    },
+    {
+      "material_name": "Na0.9(NBu4)1.8FeIII2(dhbq)3 (2)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "THF",
+              "amount": "3.0 mL"
+            }
+          ],
+          "equipment": "Ar-atmosphere glovebox, mortar and pestle",
+          "chemicals_used": [
+            {
+              "name": "1 (microcrystalline powder)",
+              "amount": "50 mg (0.049 mmol)"
+            },
+            {
+              "name": "Na-naphthalenide (prepared from naphthalene and sodium metal in THF)",
+              "amount": "6.3 mg (0.049 mmol) of naphthalene over sodium metal in 2.0 mL of THF"
+            }
+          ],
+          "time": "12 h",
+          "washing_method": "vacuum filtration, washed with 2 × 2.0 mL of THF",
+          "drying_method": "dried for 1 h under reduced pressure",
+          "yield": "46.0 mg, 96%"
+        }
+      ]
+    },
+    {
+      "material_name": "Na3.2(NBu4)1.8Fe2(dhbq)3",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "THF",
+              "amount": "3.0 mL"
+            }
+          ],
+          "equipment": "Ar-atmosphere glovebox, mortar and pestle",
+          "chemicals_used": [
+            {
+              "name": "1 (microcrystalline powder)",
+              "amount": "53.3 mg (0.053 mmol)"
+            },
+            {
+              "name": "Na-naphthalenide (prepared from naphthalene and sodium metal in THF)",
+              "amount": "27.0 mg (0.211 mmol) of naphthalene over sodium metal in 2.0 mL of THF"
+            }
+          ],
+          "time": "12 h",
+          "washing_method": "vacuum filtration, washed with 2 × 2.0 mL of THF",
+          "drying_method": "dried for 1 h under reduced pressure"
+        }
+      ]
+    }
+  ]
+}

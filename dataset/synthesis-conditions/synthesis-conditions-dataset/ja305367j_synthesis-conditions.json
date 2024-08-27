@@ -1,0 +1,68 @@
+{
+  "materials": [
+    {
+      "name": "Zn–BCIP1",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": "DMF and ethanol",
+        "amount_of_each_solvent": "15 mL mixed solvents",
+        "equipment": "screw-capped vial",
+        "chemicals_used": "4,4′,4″-tricarboxytriphenylamine (H3TCA; 94 mg, 0.25 mmol), Zn(NO3)2·6H2O (292 mg, 1 mmol), l-BCIP (150 mg, 1 mmol)",
+        "time": "3 days",
+        "yield": "60%",
+        "washing_method": "filtration"
+      }
+    },
+    {
+      "name": "Zn–BCIP2",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": "DMF and ethanol",
+        "amount_of_each_solvent": "15 mL mixed solvents",
+        "equipment": "screw-capped vial",
+        "chemicals_used": "4,4′,4″-tricarboxytriphenylamine (H3TCA; 94 mg, 0.25 mmol), Zn(NO3)2·6H2O (292 mg, 1 mmol), d-BCIP (150 mg, 1 mmol)",
+        "time": "3 days",
+        "yield": "65%",
+        "washing_method": "filtration"
+      }
+    },
+    {
+      "name": "Zn–PYI1",
+      "synthesis_conditions": {
+        "temperature": "165 °C",
+        "solvents": "DMF",
+        "equipment": "microwave irradiation",
+        "chemicals_used": "Zn–BCIP in DMF",
+        "time": "about 4 h",
+        "yield": "> 95%"
+      }
+    },
+    {
+      "name": "Ho–TCA",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": "DMF and ethanol",
+        "amount_of_each_solvent": "15 mL mixed solvents",
+        "equipment": "screw-capped vial",
+        "chemicals_used": "4,4′,4″-tricarboxytriphenylamine (H3TCA; 94 mg, 0.25 mmol), Ho(NO3)3·6H2O (459 mg, 1 mmol)",
+        "time": "3 days",
+        "yield": "70%",
+        "washing_method": "filtration"
+      }
+    },
+    {
+      "name": "Bulky aldehyde (E)-3-(3-oxoprop-1-enyl)phenyl 3,5-di-tert-butylbenzoate (1d)",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": "CH2Cl2",
+        "amount_of_each_solvent": "5 mL CH2Cl2 + 2 mL CH2Cl2",
+        "equipment": "N/A",
+        "chemicals_used": "3,5-di-tert-butylbenzoic acid (234 mg, 1.0 mmol), DCC (228 mg, 1.05 mmol), DMAP (122 mg, 1.0 mmol), 3-(3-hydroxyphenyl)propanal (150 mg, 1.0 mmol)",
+        "time": "1 h + 12 h",
+        "washing_method": "filtered through Celite, washed with CH2Cl2, 5% NaHCO3, brine",
+        "drying_method": "dried over anhydrous Na2SO4",
+        "yield": "50%"
+      }
+    }
+  ]
+}

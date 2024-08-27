@@ -1,0 +1,60 @@
+{
+  "materials": [
+    {
+      "name": "ZIF-8",
+      "synthesis_conditions": {
+        "method_reference": "Huang et al.",
+        "degassing_temperature": "425 K",
+        "degassing_heating_rate": "5 K min-1",
+        "degassing_duration": "4 h",
+        "N2_adsorption_temperature": "77 K",
+        "N2_adsorption_instrument": "Micromeritics ASAP 2020",
+        "XRD_sample_preparation": {
+          "environment": "quartz capillaries",
+          "condition": "outgassed under high vacuum",
+          "N2_loading": {
+            "relative_pressure": "0.4 P/P0"
+          }
+        },
+        "XRD_data_collection_temperature": "77 K",
+        "XRD_station": "station I11 at the Diamond light source",
+        "Rietveld_refinement_basis": "ambient pressure coordinates of Moggach et al.",
+        "N2_molecules_per_unit_cell": "52"
+      }
+    },
+    {
+      "name": "ZIF-8AP",
+      "synthesis_conditions": {
+        "GCMC_simulation_details": {
+          "framework_atoms": "fixed at crystallographic positions",
+          "interatomic_interactions_model": "Lennard-Jones (LJ) 12-6 potential",
+          "electrostatic_interactions": "included between N2 molecules",
+          "framework_atoms_parameters_source": "UFF force field",
+          "N2_model": "TraPPE potential",
+          "mixing_rules": "Lorentz-Berthelot",
+          "interaction_cutoff": "18 Å",
+          "Monte_Carlo_steps": "10^7",
+          "equilibration_percentage": "40%",
+          "fugacity_calculation": "Peng-Robinson equation of state"
+        }
+      }
+    },
+    {
+      "name": "ZIF-8HP",
+      "synthesis_conditions": {
+        "GCMC_simulation_details": {
+          "framework_atoms": "fixed at crystallographic positions",
+          "interatomic_interactions_model": "Lennard-Jones (LJ) 12-6 potential",
+          "electrostatic_interactions": "included between N2 molecules",
+          "framework_atoms_parameters_source": "UFF force field",
+          "N2_model": "TraPPE potential",
+          "mixing_rules": "Lorentz-Berthelot",
+          "interaction_cutoff": "18 Å",
+          "Monte_Carlo_steps": "10^7",
+          "equilibration_percentage": "40%",
+          "fugacity_calculation": "Peng-Robinson equation of state"
+        }
+      }
+    }
+  ]
+}

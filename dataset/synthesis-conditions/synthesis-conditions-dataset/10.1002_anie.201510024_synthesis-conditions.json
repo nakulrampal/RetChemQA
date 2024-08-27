@@ -1,0 +1,30 @@
+{
+  "materials": [
+    {
+      "name": "[CH3CH2NH3][Cu(HCOO)3]",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation of LTHD phase",
+          "method": "solution method",
+          "phase": "LTHD",
+          "color": "green-blue",
+          "comments": "The blue HTLD phase was obtained by thermal treatment of LTHD."
+        },
+        {
+          "step": "Thermal treatment to obtain HTLD phase",
+          "temperature": "357 K",
+          "phase_transition": "from LTHD to HTLD",
+          "method": "heating",
+          "comments": "The backward transition could not happen on cooling down to 2 K under ambient or lower pressure."
+        },
+        {
+          "step": "Pressure-driven backward transition to LTHD",
+          "pressure_range": "0.1 ~ 1.8 GPa",
+          "method": "compression",
+          "phase": "HTLD to LTHD",
+          "comments": "Once the pressed sample was heated, it changed to HTLD again."
+        }
+      ]
+    }
+  ]
+}

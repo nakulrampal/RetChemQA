@@ -1,0 +1,109 @@
+{
+  "materials": [
+    {
+      "name": "H2Me2-(S,S)-hismox",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "dichloromethane",
+            "amount": "350 mL + 150 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "dihydrochloride form of the methyl ester derivative of the enantiopure (L)-histidine",
+            "amount": "14.52 g, 60 mmol"
+          },
+          {
+            "name": "triethylamine",
+            "amount": "16.8 mL, 120 mmol"
+          },
+          {
+            "name": "oxalyl chloride",
+            "amount": "2.54 mL, 30.0 mmol"
+          }
+        ],
+        "temperature": "0 °C",
+        "time": "5 hours",
+        "yield": "10.48 g, 89%"
+      }
+    },
+    {
+      "name": "(Bu4N)2{Cu2[(S,S)-hismox](OH)2} . 4H2O",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "75 mL"
+          },
+          {
+            "name": "25% methanolic solution",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H2Me2-(S,S)-hismox",
+            "amount": "11.78 g, 30 mmol"
+          },
+          {
+            "name": "Bu4NOH",
+            "amount": "150 mmol"
+          },
+          {
+            "name": "CuCl2 . 2H2O",
+            "amount": "10.23 g, 60 mmol"
+          }
+        ],
+        "temperature": "not specified",
+        "time": "not specified",
+        "yield": "15.20 g, 47%"
+      }
+    },
+    {
+      "name": "Ca6II{CuII24[(S,S)-hismox]12(OH2)3} · 212H2O (1)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(Bu4N)2{Cu2[(S,S)-hismox](OH)2} . 4H2O",
+            "amount": "0.11 g, 0.1 mmol"
+          },
+          {
+            "name": "CaCl2",
+            "amount": "0.005 g, 0.025 mmol"
+          }
+        ],
+        "temperature": "0 °C",
+        "time": "not specified",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "(CH3NH3+)12{CuII24[(S,S)-hismox]12(OH2)3} · 178H2O (2)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "H2O/CH3OH (1:1) solutions",
+            "amount": "saturated"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CH3NH3Cl",
+            "amount": "saturated solution"
+          }
+        ],
+        "temperature": "not specified",
+        "time": "72 hours",
+        "method": "soaking crystals of 1 in CH3NH3Cl solution",
+        "yield": "not specified"
+      }
+    }
+  ]
+}

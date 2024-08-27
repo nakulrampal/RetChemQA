@@ -1,0 +1,53 @@
+{
+  "materials": [
+    {
+      "name": "a,g-hybrid peptides P1 and P2",
+      "synthesis_conditions": {
+        "method": "solution phase synthesis",
+        "protocols": "standard protocols as reported earlier",
+        "purification": "column chromatography",
+        "crystallization_solvents": "aqueous methanol",
+        "references": "[17]"
+      }
+    },
+    {
+      "name": "silver ion coordinated P1",
+      "synthesis_conditions": {
+        "precursors": "peptide P1, AgBF4",
+        "solvents": {
+          "peptide_solution": "methanol",
+          "metal_salt_solution": "aqueous"
+        },
+        "method": "slow diffusion of peptide solution in methanol into aqueous solution of metal salts",
+        "crystal_structure": "2:2 macrocycle of peptide and silver ions"
+      }
+    },
+    {
+      "name": "silver ion coordinated P2",
+      "synthesis_conditions": {
+        "precursors": "peptide P2, AgBF4",
+        "solvents": {
+          "peptide_solution": "methanol",
+          "metal_salt_solution": "aqueous"
+        },
+        "method": "slow diffusion of peptide solution in methanol into aqueous solution of metal salts",
+        "crystal_structure": "retained its 12-helix structure"
+      }
+    },
+    {
+      "name": "metal-helix framework from P2",
+      "synthesis_conditions": {
+        "scale": "gram scale",
+        "precursors": "peptide P2, AgBF4",
+        "method": "crystallization in the presence of AgBF4",
+        "post_synthesis": {
+          "grinding": "single crystals were ground to obtain powder",
+          "application": "CO2 capture at 195 K"
+        },
+        "characterization": {
+          "PXRD": "confirmed no change in the metal-helix framework"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "materials": [
+    {
+      "name": "ZAG-4",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Zn(Oac)2 · 2H2O",
+            "amount": "0.1 mmol"
+          },
+          {
+            "name": "ddi H2O",
+            "amount": "2 mL"
+          },
+          {
+            "name": "glacial acetic acid",
+            "purpose": "pH adjustment to ~1.8"
+          },
+          {
+            "name": "1,4-butanebis(phosphonic acid)",
+            "amount": "0.2 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "ddi H2O",
+            "amount": "2 mL"
+          },
+          {
+            "name": "ethanol",
+            "purpose": "washing"
+          }
+        ],
+        "equipment": "20 mL glass scintillation vial",
+        "time": "two days",
+        "temperature": "room temperature",
+        "washing_method": "filtered and washed with ethanol",
+        "drying_method": "dried at room temperature"
+      }
+    }
+  ]
+}

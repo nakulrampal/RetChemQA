@@ -1,0 +1,72 @@
+{
+  "materials": [
+    {
+      "name": "[Ag4(tmp)3{O2C(CF2)3CF3}4(EtOH)2]n (1)",
+      "synthesis_conditions": {
+        "temperature": "approximately 5 8C",
+        "solvents": [
+          {
+            "name": "ethanol",
+            "amount": "not specified"
+          },
+          {
+            "name": "dichloromethane",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          "Ag2CO3",
+          "nonafluoropentanoic acid",
+          "tetramethylpyrazine"
+        ],
+        "yield": "38%",
+        "equipment": "not specified",
+        "time": "one day",
+        "washing_method": "not specified",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "[Ag4(tmp)3{O2C(CF2)3CF3}4]n (2)",
+      "synthesis_conditions": {
+        "temperature": "320 K for 48 h",
+        "solvents": "not applicable",
+        "chemicals_used": "Compound 1",
+        "yield": "not specified",
+        "equipment": "not specified",
+        "time": "48 h",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "additional_information": "single-crystal-to-single-crystal transformation"
+      }
+    },
+    {
+      "name": "[Ag4(tmp)2{O2C(CF2)3CF3}4]n (3)",
+      "synthesis_conditions": {
+        "temperature": "not specified",
+        "solvents": "not specified",
+        "chemicals_used": "not specified",
+        "yield": "not specified",
+        "equipment": "not specified",
+        "time": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "additional_information": "formed as a minor product in the synthesis of 1"
+      }
+    },
+    {
+      "name": "Re-exposure to EtOH vapor",
+      "synthesis_conditions": {
+        "temperature": "313 K for 24 h",
+        "solvents": "EtOH vapor",
+        "chemicals_used": "Compound 2",
+        "yield": "not specified",
+        "equipment": "oven, small vial within a larger sealed vial containing EtOH",
+        "time": "24 h",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "additional_information": "used to investigate the reversibility of the process from 1 to 2"
+      }
+    }
+  ]
+}

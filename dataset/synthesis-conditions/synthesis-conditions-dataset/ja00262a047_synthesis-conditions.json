@@ -1,0 +1,45 @@
+{
+  "materials": [
+    {
+      "name": "Gold Hexamer",
+      "synthesis_conditions": {
+        "temperature": "25°C",
+        "equipment": [
+          {
+            "name": "Enraf-Nonius ACD4 diffractometer",
+            "details": "equipped with MoKa radiation and a graphite monochromator"
+          }
+        ],
+        "method_details": [
+          {
+            "step": "Data collection",
+            "details": "carried out by w-2θ scans designed to yield I = 25σ(I) for each reflection, subject to a maximum scan time of 60 sec. Scan rates varied 1.0-4.0° min⁻¹."
+          },
+          {
+            "step": "Data measurement",
+            "details": "Data having 1°<θ<22° in quadrant h, k, ± l were measured and corrected for background, Lorentz, polarization, and absorption effects."
+          },
+          {
+            "step": "Absorption corrections",
+            "details": "based on ψ scans of reflections near χ=90°, and the minimum relative transmission coefficient was 77.66%."
+          },
+          {
+            "step": "Structure solution",
+            "details": "solved by direct methods using MULTAN"
+          },
+          {
+            "step": "Refinement",
+            "details": "refined by full matrix least squares based on F², with data for which I>3σ(I) and weights w = σ(Fo²), using the Enraf-Nonius SDP. Au and S atoms were refined anisotropically, C atoms isotropically, and aromatic H atoms were placed in calculated positions with B = 8.0Å². Methyl H atoms were not located."
+          }
+        ],
+        "chemicals_used": [],
+        "yield": "",
+        "washing_method": "",
+        "drying_method": "",
+        "time": "",
+        "solvents": "",
+        "amount_of_each_solvent": ""
+      }
+    }
+  ]
+}

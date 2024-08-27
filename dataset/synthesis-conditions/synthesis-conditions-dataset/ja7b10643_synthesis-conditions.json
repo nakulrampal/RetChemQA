@@ -1,0 +1,155 @@
+{
+  "materials": [
+    {
+      "material": "6,13-Dicarboxy-1,4,8,11-tetra­aza­cyclo­tetra­decane)-copper­(II) Perchlorate [CuL­(ClO4)2] (1)",
+      "synthesis": {
+        "literature_source": "Xin, L.; Curtis, N. F.; Weatherburn, D. C. Transition Met. Chem. 1992, 17, 147-154.",
+        "modifications": "Minor modifications",
+        "solvents": [
+          {
+            "name": "0.1 M HClO4 solution",
+            "amount": "10 mL"
+          },
+          {
+            "name": "60% HClO4",
+            "amount": "3 mL"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "[Cu­(tetac­H4)]­(ClO4)2",
+            "amount": "630 mg, 0.99 mmol"
+          }
+        ],
+        "temperature": "Reflux for 1 h, then room temperature",
+        "time": "Overnight refrigeration",
+        "yield": "0.38 g, 46%"
+      }
+    },
+    {
+      "material": "6,13-Dicarboxy-1,4,8,11-tetra­aza­cyclo­tetra­decane (L) (2)",
+      "synthesis": {
+        "chemicals": [
+          {
+            "name": "[CuL­(ClO4)2]",
+            "amount": "0.32 g, 0.58 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "37% HCl",
+            "amount": "20 mL"
+          }
+        ],
+        "temperature": "Reflux",
+        "time": "1 h",
+        "washing_method": "Washed with ethanol",
+        "drying_method": "Dried under vacuum",
+        "yield": "0.16 g, 95%"
+      }
+    },
+    {
+      "material": "6,13-Dicarboxy-1,4,8,11-tetra­aza­cyclo­tetra­decane)-nickel­(II) Perchlorate [NiL­(ClO4)2]·2H2O (3)",
+      "synthesis": {
+        "chemicals": [
+          {
+            "name": "NiCl2·6H2O",
+            "amount": "70 mg, 0.295 mmol"
+          },
+          {
+            "name": "L",
+            "amount": "70 mg, 0.242 mmol"
+          },
+          {
+            "name": "NaOH",
+            "amount": "0.02 g, 0.5 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "5 mL"
+          },
+          {
+            "name": "60% HClO4",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "20 mL vial",
+        "temperature": "100 °C oven for 6 h",
+        "time": "Overnight refrigeration",
+        "yield": "38 mg, 26.9%"
+      }
+    },
+    {
+      "material": "VPI-100 (Cu)",
+      "synthesis": {
+        "chemicals": [
+          {
+            "name": "ZrCl4",
+            "amount": "14 mg, 0.06 mmol"
+          },
+          {
+            "name": "[CuL­(ClO4)2]",
+            "amount": "33 mg, 0.06 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "dry dimethyl­formamide (DMF)",
+            "amount": "4 mL"
+          },
+          {
+            "name": "formic acid",
+            "amount": "0.44 mL (200 equiv.)"
+          }
+        ],
+        "equipment": "8 mL vial",
+        "temperature": [
+          "80 °C oven for 1 h",
+          "120 °C oven for 24 h"
+        ],
+        "washing_method": "Washed with fresh DMF (3 × 1 mL) and acetone (3 × 1 mL)",
+        "drying_method": "Dried under vacuum at 60 °C",
+        "yield": "32 mg, 86%"
+      }
+    },
+    {
+      "material": "VPI-100 (Ni)",
+      "synthesis": {
+        "chemicals": [
+          {
+            "name": "ZrCl4",
+            "amount": "14 mg, 0.06 mmol"
+          },
+          {
+            "name": "NiCl2·6H2O",
+            "amount": "14 mg, 0.06 mmol"
+          },
+          {
+            "name": "free-base ligand 2",
+            "amount": "17.3 mg, 0.06 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "dry dimethyl­formamide (DMF)",
+            "amount": "4 mL total in two steps"
+          },
+          {
+            "name": "formic acid",
+            "amount": "0.44 mL (200 equiv.)"
+          }
+        ],
+        "equipment": "8 mL vial",
+        "temperature": [
+          "80 °C oven for 1 h",
+          "120 °C oven for 24 h"
+        ],
+        "washing_method": "Washed with fresh DMF (3 × 1 mL) and acetone (3 × 1 mL)",
+        "drying_method": "Dried under vacuum at 60 °C",
+        "yield": "22 mg, 60%"
+      }
+    }
+  ]
+}

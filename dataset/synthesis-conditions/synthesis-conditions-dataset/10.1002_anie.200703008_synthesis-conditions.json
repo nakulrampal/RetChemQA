@@ -1,0 +1,90 @@
+{
+  "materials": [
+    {
+      "name": "Compound 1",
+      "synthesis_conditions": {
+        "method": "hydrothermal",
+        "temperature": "190 8C",
+        "time": "3 days",
+        "chemicals_used": [
+          {"name": "Cu(NO3)2·3 H2O", "amount": "0.1559 g"},
+          {"name": "4,4’-bipyridine", "amount": "0.1665 g"},
+          {"name": "d-(+)-camphoric acid", "amount": "0.0995 g"},
+          {"name": "distilled water", "amount": "8.1038 g"}
+        ],
+        "equipment": "23-mL teflon cup",
+        "washing_method": "ethanol and distilled water",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "Compound 2",
+      "synthesis_conditions": {
+        "method": "solvothermal",
+        "temperature": "100 8C",
+        "time": "24 h",
+        "chemicals_used": [
+          {"name": "d-Camphoric acid", "amount": "0.0500 g"},
+          {"name": "dimethylamine (40 % w/w aqueous solution)", "amount": "0.1034 g"},
+          {"name": "Cd(NO3)2·4 H2O", "amount": "0.0792 g"},
+          {"name": "DMF", "amount": "1.8129 g"},
+          {"name": "C2H5OH", "amount": "0.7824 g"}
+        ],
+        "washing_method": "ethanol and distilled water",
+        "yield": "76 %"
+      }
+    },
+    {
+      "name": "Compound 3",
+      "synthesis_conditions": {
+        "method": "solvothermal",
+        "temperature": "100 8C",
+        "time": "2 days",
+        "chemicals_used": [
+          {"name": "d-Camphoric acid", "amount": "0.0517 g"},
+          {"name": "dimethylamine (40 % w/w aqueous solution)", "amount": "0.0945 g"},
+          {"name": "Cd(NO3)2·4H2O", "amount": "0.0859 g"},
+          {"name": "DMF", "amount": "1.9428 g"},
+          {"name": "C2H5OH", "amount": "1.4963 g"},
+          {"name": "pyridine", "amount": "0.0701 g"}
+        ],
+        "washing_method": "ethanol and distilled water",
+        "yield": "89 %"
+      }
+    },
+    {
+      "name": "Compound 4",
+      "synthesis_conditions": {
+        "method": "solvothermal",
+        "temperature": "160 8C",
+        "time": "7 days",
+        "chemicals_used": [
+          {"name": "d-Camphoric acid", "amount": "0.1081 g"},
+          {"name": "Co(NO3)2·6H2O", "amount": "0.1623 g"},
+          {"name": "DMF", "amount": "1.5223 g"},
+          {"name": "butanol", "amount": "1.5921 g"},
+          {"name": "pyridine", "amount": "0.0672 g"}
+        ],
+        "washing_method": "ethanol and distilled water",
+        "yield": "89 %"
+      }
+    },
+    {
+      "name": "Compound 5",
+      "synthesis_conditions": {
+        "method": "solvothermal",
+        "temperature": "100 8C",
+        "time": "10 days",
+        "chemicals_used": [
+          {"name": "d-Camphoric acid", "amount": "0.1050 g"},
+          {"name": "(S)-(+)-2-methylpiperazine", "amount": "0.0263 g"},
+          {"name": "Cd(NO3)2·4 H2O", "amount": "0.1501 g"},
+          {"name": "DMF", "amount": "1.8366 g"},
+          {"name": "C2H5OH", "amount": "0.9524 g"}
+        ],
+        "washing_method": "ethanol and distilled water",
+        "yield": "86 %"
+      }
+    }
+  ]
+}

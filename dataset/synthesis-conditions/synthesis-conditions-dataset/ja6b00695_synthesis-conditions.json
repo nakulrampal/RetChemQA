@@ -1,0 +1,66 @@
+{
+  "materials": [
+    {
+      "name": "CIAC-115",
+      "synthesis": {
+        "temperature": "130 °C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "5 ml"
+          },
+          {
+            "name": "methanol (MeOH)",
+            "amount": "5 ml"
+          }
+        ],
+        "equipment": "20 ml Teflon-lined autoclave",
+        "chemicals_used": [
+          "p-tert-butylthiacalix[4]arene (H4TC4A, 0.1 g, 0.14 mmol)",
+          "NiCl2·6H2O (0.1 g, 0.42 mmol)",
+          "5-(pyridin-4-yl)isophthalic acid (H2PIP, 0.048 g, 0.2 mmol)",
+          "tetramethylammonium hydroxide solution (25%, 0.5 ml)"
+        ],
+        "time": "3 days",
+        "yield": "ca. 60% base on H4TC4A",
+        "washing_method": "mixture of 1:1 MeOH:DMF",
+        "drying_method": "dried in air",
+        "elemental_analysis": {
+          "calculated": "C 51.67, H 6.54, N 9.46",
+          "found": "C 50.96, H 5.99, N 7.12"
+        }
+      }
+    },
+    {
+      "name": "CIAC-116",
+      "synthesis": {
+        "temperature": "130 °C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "5 ml"
+          },
+          {
+            "name": "methanol (MeOH)",
+            "amount": "5 ml"
+          }
+        ],
+        "equipment": "20 ml Teflon-lined autoclave",
+        "chemicals_used": [
+          "p-tert-butylthiacalix[4]arene (H4TC4A, 0.1 g, 0.14 mmol)",
+          "CoCl2·6H2O (0.1 g, 0.42 mmol)",
+          "5-(pyridin-4-yl)isophthalic acid (H2PIP, 0.048 g, 0.2 mmol)",
+          "tetramethylammonium hydroxide solution (25%, 0.5 ml)"
+        ],
+        "time": "3 days",
+        "yield": "ca. 30 % based on H4TC4A",
+        "washing_method": "mixture of 1:1 MeOH:DMF",
+        "drying_method": "dried in air",
+        "elemental_analysis": {
+          "calculated": "C 50.39, H 5.00, N 5.34",
+          "found": "C 48.95, H 5.17, N 5.51"
+        }
+      }
+    }
+  ]
+}

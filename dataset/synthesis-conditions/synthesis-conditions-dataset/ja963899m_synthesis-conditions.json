@@ -1,0 +1,77 @@
+{
+  "materials": [
+    {
+      "name": "Mn(III/IV) dimer",
+      "synthesis_conditions": {
+        "solvents": "buffered aqueous solution",
+        "pH_range": "3-6",
+        "temperature": "not specified",
+        "chemicals_used": [
+          {
+            "name": "oxone",
+            "amount": "0.023 M"
+          },
+          {
+            "name": "Mn(dpa)2]-",
+            "concentration": "0.25 mM"
+          }
+        ],
+        "equipment": "not specified",
+        "time": "not specified",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "Na[Mn(dpa)2]·2H2O",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "2.5 ml"
+          },
+          {
+            "name": "water",
+            "amount": "two drops"
+          },
+          {
+            "name": "methanol",
+            "amount": "10 ml"
+          }
+        ],
+        "temperature": "25°C",
+        "chemicals_used": [
+          {
+            "name": "[(bpy)2MnOOMn(bpy)2(CI04)3",
+            "amount": "0.29 mmol"
+          },
+          {
+            "name": "dipicolinic acid",
+            "amount": "2.2 mmol"
+          },
+          {
+            "name": "NaOH",
+            "amount": "2.3 mmol"
+          }
+        ],
+        "equipment": "not specified",
+        "time": [
+          {
+            "stage": "stirring",
+            "duration": "ten min"
+          },
+          {
+            "stage": "further stirring",
+            "duration": "two hr"
+          }
+        ],
+        "yield": "25%",
+        "drying_method": "evaporation at room temperature",
+        "washing_method": [
+          "2 ml acetonitrile",
+          "two 5 ml portions of ethyl ether",
+          "four 5 ml portions of hexanes"
+        ]
+      }
+    }
+  ]
+}

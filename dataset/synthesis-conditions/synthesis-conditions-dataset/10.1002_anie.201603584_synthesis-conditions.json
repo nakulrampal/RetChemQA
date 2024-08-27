@@ -1,0 +1,47 @@
+{
+  "materials": [
+    {
+      "name": "bis(pyridin-4-ylmethyl)-3’H-cyclopropa-[1,2](C60-Ih)[5,6]fullerene-3’,3’-dicarboxylate (BPCF)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "toluene",
+            "condition": "saturated solution"
+          },
+          {
+            "name": "methanol/benzonitrile/benzene",
+            "condition": "solution"
+          },
+          {
+            "name": "acetonitrile/benzene",
+            "condition": "solution"
+          }
+        ],
+        "purification_method": "without HPLC",
+        "additional_information": "Purification was accomplished without HPLC. More experimental details can be found in the Supporting Information."
+      }
+    },
+    {
+      "name": "[Zn2(ZnTCPP)(BPCF)0.23-(DEF)0.77]·2(EtOH)·0.2H2O (1)",
+      "synthesis_conditions": {
+        "temperature": "80-88°C",
+        "time": "16 h",
+        "chemicals_used": [
+          {
+            "name": "H4TCPP",
+            "note": "porphyrin-containing ligands"
+          },
+          {
+            "name": "BPCF",
+            "note": "fullerene-containing ligands"
+          },
+          {
+            "name": "zinc nitrate"
+          }
+        ],
+        "solvent": "not explicitly mentioned",
+        "additional_information": "Employment of the same synthetic scheme for incorporation of the parent fullerene C60 (i.e., without pyridyl groups) within porphyrin layers was not successful. More synthetic details can be found in the Supporting Information."
+      }
+    }
+  ]
+}

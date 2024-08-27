@@ -1,0 +1,141 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "temperature": "573 K",
+        "solvents": [
+          {
+            "name": "nitrobenzene/methanol",
+            "ratio": "8:1",
+            "amount": "36 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ZnI2",
+            "amount": "0.24 mmol"
+          },
+          {
+            "name": "TPT",
+            "amount": "0.16 mmol"
+          }
+        ],
+        "yield": "68%",
+        "drying_method": "filtration"
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "temperature": "573 K",
+        "solvents": [
+          {
+            "name": "nitrobenzene/methanol",
+            "ratio": "8:1",
+            "amount": "36 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ZnBr2",
+            "amount": "0.24 mmol"
+          },
+          {
+            "name": "TPT",
+            "amount": "0.16 mmol"
+          }
+        ],
+        "yield": "Not specified",
+        "drying_method": "filtration"
+      }
+    },
+    {
+      "name": "3",
+      "synthesis_conditions": {
+        "temperature": "573 K",
+        "solvents": [
+          {
+            "name": "nitrobenzene/methanol",
+            "ratio": "8:1",
+            "amount": "36 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ZnCl2",
+            "amount": "0.24 mmol"
+          },
+          {
+            "name": "TPT",
+            "amount": "0.16 mmol"
+          }
+        ],
+        "yield": "68%",
+        "drying_method": "filtration"
+      }
+    },
+    {
+      "name": "3c",
+      "synthesis_conditions": {
+        "temperature": "Not specified",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "8 mL"
+          },
+          {
+            "name": "nitrobenzene/methanol",
+            "ratio": "32 mL/4 mL",
+            "amount": "Not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ZnCl2",
+            "amount": "0.24 mmol"
+          },
+          {
+            "name": "TPT",
+            "amount": "0.16 mmol"
+          }
+        ],
+        "yield": "41%",
+        "drying_method": "microscope isolation"
+      }
+    },
+    {
+      "name": "3b",
+      "synthesis_conditions": {
+        "temperature": [
+          "573 K for 60 hr",
+          "723 K for 4 hr"
+        ],
+        "solvents": "Not specified",
+        "chemicals_used": [
+          {
+            "name": "3",
+            "amount": "200 mg"
+          }
+        ],
+        "yield": "43%",
+        "drying_method": "microscope separation"
+      }
+    },
+    {
+      "name": "2c",
+      "synthesis_conditions": {
+        "temperature": "723 K for 4 hr",
+        "solvents": "Not specified",
+        "chemicals_used": [
+          {
+            "name": "2",
+            "amount": "210 mg"
+          }
+        ],
+        "yield": "52%",
+        "drying_method": "microscope separation"
+      }
+    }
+  ]
+}

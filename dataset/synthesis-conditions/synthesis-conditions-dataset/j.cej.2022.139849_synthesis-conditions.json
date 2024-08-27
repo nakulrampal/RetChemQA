@@ -1,0 +1,106 @@
+{
+  "materials": [
+    {
+      "name": "MOF-11",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "H4ATC",
+            "amount": "0.070 g",
+            "purity": "99%"
+          },
+          {
+            "name": "Cu(NO3)2·3H2O",
+            "amount": "0.532 g",
+            "purity": "98%"
+          },
+          {
+            "name": "NaOH solution",
+            "amount": "15 mL",
+            "concentration": "15 M"
+          }
+        ],
+        "equipment": "Teflon-lined autoclave",
+        "temperature": "473 K",
+        "time": "18 h",
+        "washing_method": "methanol",
+        "drying_method": "methanol exchange for 2 days"
+      },
+      "characterization": {
+        "PXRD": {
+          "equipment": "X′Pert PRO PANalytical diffractometer",
+          "conditions": "Cu Kα, 45 kV and 40 mA, 2θ = 5–50°"
+        },
+        "TGA": {
+          "equipment": "TGA-550 (TA instrument) analyzer",
+          "conditions": "N2 gas flow, 30 °C to 800 °C, heating rate of 10 °C min−1"
+        },
+        "SEM": {
+          "equipment": "Zeiss Gemini 300 Field Emission Scanning Electron Microscope"
+        },
+        "radiation_stability_test": {
+          "conditions": "γ irradiation, dose rate of 2.03 kGy h−1 for about 10 h"
+        }
+      },
+      "gas_sorption_measurements": {
+        "equipment": "surface characterization analyzer (Micrometritics 3Flex)",
+        "preparation": "degassed at 150 °C for 18 h",
+        "conditions": [
+          {
+            "gas": "N2",
+            "temperature": "77 K"
+          },
+          {
+            "gas": "Xe, Kr, Ar, N2, O2",
+            "temperatures": ["308 K", "298 K", "283 K", "273 K"]
+          },
+          {
+            "gas": "Xe",
+            "temperatures": ["232 K", "217 K", "200 K", "170 K"]
+          }
+        ]
+      },
+      "single_crystal_X-ray_diffraction": {
+        "equipment": "Agilent Supernova CCD diffractometer",
+        "conditions": [
+          {
+            "temperature": "300 K",
+            "gas": "N2 or Xe",
+            "pressure": "1 bar",
+            "time": "2 h"
+          },
+          {
+            "temperature": "200 K",
+            "gas": "Xe",
+            "pressure": "1 bar",
+            "time": "2 h"
+          },
+          {
+            "temperature": "170 K",
+            "gas": "Xe",
+            "pressure": "1 bar",
+            "time": "2 h"
+          }
+        ]
+      },
+      "breakthrough_measurements": {
+        "equipment": "home-built dynamic gas breakthrough equipment",
+        "sample_amount": "∼210 mg",
+        "column_conditions": "activated at 423 K under vacuum for 12 h, purged by helium gas (2.5 mL min−1) for 2 h, temperature maintained at 298 K",
+        "gas_mixtures": [
+          {
+            "composition": "Xe (400 ppm) and Kr (40 ppm) balanced with air",
+            "flow_rate": "2.5 mL/min",
+            "temperature": "298 K"
+          },
+          {
+            "composition": "Xe/Kr (20:80, v/v)",
+            "flow_rate": "2.5 mL/min",
+            "temperature": "298 K"
+          }
+        ],
+        "regeneration": "sweeping He gas (10 mL min−1) at room temperature for 40 min or in high vacuum at room temperature for 60 min"
+      }
+    }
+  ]
+}

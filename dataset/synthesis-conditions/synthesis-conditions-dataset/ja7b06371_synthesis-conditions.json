@@ -1,0 +1,64 @@
+{
+  "materials": [
+    {
+      "name": "S1",
+      "synthesis_conditions": {
+        "temperature": "ambient room conditions",
+        "solvents": "nanopure water",
+        "equipment": [
+          "Edinburgh Analytical Instruments spectrofluorimeter (FL/FS 920)",
+          "square quartz cuvettes with 10mm path length"
+        ],
+        "chemicals_used": "S1 stock solution",
+        "excitation_wavelength": [
+          "301 nm",
+          "320 nm"
+        ],
+        "emission_wavelength_range": "325 nm to 550 nm",
+        "slit_settings": "1.8 nm",
+        "dwell_time": "0.35 sec",
+        "pH": "3 (adjusted by 6 M HClaq.)",
+        "fluorescence_maximum": "364-374 nm",
+        "data_analysis_method": "previously published methods"
+      }
+    },
+    {
+      "name": "S2",
+      "synthesis_conditions": {
+        "temperature": "ambient room conditions",
+        "solvents": "nanopure water",
+        "equipment": [
+          "Edinburgh Analytical Instruments spectrofluorimeter (FL/FS 920)",
+          "square quartz cuvettes with 10mm path length"
+        ],
+        "chemicals_used": "S2 stock solution",
+        "excitation_wavelength": "310 nm",
+        "emission_wavelength_range": "320 nm to 500 nm",
+        "slit_settings": "2.0 nm",
+        "dwell_time": "0.35 sec",
+        "pH": "3 (adjusted by 6 M HClaq.)",
+        "fluorescence_maximum": "344 nm",
+        "data_analysis_method": "previously published methods"
+      }
+    },
+    {
+      "name": "S3",
+      "synthesis_conditions": {
+        "temperature": "ambient room conditions",
+        "solvents": "nanopure water",
+        "equipment": [
+          "Edinburgh Analytical Instruments spectrofluorimeter (FL/FS 920)",
+          "square quartz cuvettes with 10mm path length"
+        ],
+        "chemicals_used": "S3 stock solution",
+        "excitation_wavelength": "300 nm",
+        "emission_wavelength_range": "330 nm to 500 nm",
+        "slit_settings": "0.7 nm",
+        "dwell_time": "0.35 sec",
+        "pH": "3 (adjusted by 6 M HClaq.)",
+        "fluorescence_maximum": "375-382 nm",
+        "data_analysis_method": "previously published methods"
+      }
+    }
+  ]
+}

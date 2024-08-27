@@ -1,0 +1,117 @@
+{
+  "materials": [
+    {
+      "name": "NTHU-7",
+      "synthesis_conditions": {
+        "temperature": "160 8C",
+        "solvents": [
+          {
+            "name": "water-containing deep eutectic solvent of choline chloride/oxalic acid dihydrate",
+            "ratio": "1:1",
+            "amount": "5.3 g, 20 mmol"
+          }
+        ],
+        "equipment": "23 mL teflon-lined autoclave",
+        "chemicals_used": [
+          {
+            "name": "4,4’-trimethylenedipyridine (tmdp)",
+            "amount": "0.4 g, 2 mmol"
+          },
+          {
+            "name": "gallium oxide",
+            "amount": "0.187 g, 1 mmol"
+          },
+          {
+            "name": "phosphorous acid",
+            "amount": "0.41 g, 5 mmol"
+          }
+        ],
+        "time": "1 day",
+        "yield": "56 % based on Ga"
+      }
+    },
+    {
+      "name": "tmdpp-NTHU-7",
+      "synthesis_conditions": {
+        "temperature": "160 8C",
+        "solvents": [
+          {
+            "name": "water-containing deep eutectic solvent of choline chloride/oxalic acid dihydrate",
+            "ratio": "1:1",
+            "amount": "5.3 g, 20 mmol"
+          }
+        ],
+        "equipment": "23 mL teflon-lined autoclave",
+        "chemicals_used": [
+          {
+            "name": "4,4’-trimethylenedipiperidine (tmdpp)",
+            "amount": "0.4 g, 2 mmol"
+          },
+          {
+            "name": "gallium oxide",
+            "amount": "0.187 g, 1 mmol"
+          },
+          {
+            "name": "phosphorous acid",
+            "amount": "0.41 g, 5 mmol"
+          }
+        ],
+        "time": "1 day",
+        "yield": "97 % based on Ga"
+      }
+    },
+    {
+      "name": "Na-NTHU-7, K-NTHU-7, Rb-NTHU-7, and Cs-NTHU-7",
+      "synthesis_conditions": {
+        "temperature": "160 8C",
+        "solvents": [
+          {
+            "name": "water-containing deep eutectic solvent of choline chloride/oxalic acid dihydrate",
+            "ratio": "1:1",
+            "amount": "5.3 g, 20 mmol"
+          }
+        ],
+        "equipment": "23 mL teflon-lined autoclave",
+        "chemicals_used": [
+          {
+            "name": "alkali-metal hydroxides (NaOH, KOH, RbOH, and CsOH)",
+            "note": "substituted in turn for organic amine"
+          },
+          {
+            "name": "gallium oxide",
+            "amount": "0.187 g, 1 mmol"
+          },
+          {
+            "name": "phosphorous acid",
+            "amount": "0.41 g, 5 mmol"
+          }
+        ],
+        "time": "1 day",
+        "note": "Four further alkaline analogues successfully prepared"
+      }
+    },
+    {
+      "name": "NTHU-7L and Ch-NTHU-7L",
+      "synthesis_conditions": {
+        "temperature": "160 8C",
+        "solvents": [
+          {
+            "name": "water-containing deep eutectic solvent of choline chloride/oxalic acid dihydrate",
+            "ratio": "1:1",
+            "amount": "5.3 g, 20 mmol"
+          }
+        ],
+        "equipment": "23 mL teflon-lined autoclave",
+        "chemicals_used": [
+          {
+            "name": "HF",
+            "amount": "0.05 mL, 1.15 mmol",
+            "note": "introduced into the reaction mixture for the preparation of NTHU-7 or tmdpp-NTHU-7"
+          }
+        ],
+        "time": "1 day",
+        "note": "Lamellar crystals of NTHU-7L were obtained as a major-phase product. Another layer polymorph was obtained for Ch-NTHU-7L without tmdpp."
+      }
+    }
+  ]
+}

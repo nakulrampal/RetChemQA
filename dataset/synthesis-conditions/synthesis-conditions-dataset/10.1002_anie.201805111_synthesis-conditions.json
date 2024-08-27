@@ -1,0 +1,98 @@
+{
+  "materials": [
+    {
+      "name": "[Zn(5-Me-ip)(bpy)]n (CID-Me)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Zn2+",
+          "4,4'-bipyridine (bpy)",
+          "5-methylisophthalic acid (5-Me-ip)"
+        ],
+        "temperature": [
+          "195 K",
+          "300 K"
+        ],
+        "equipment": [],
+        "solvents": [],
+        "time": [],
+        "yield": [],
+        "washing_method": [],
+        "drying_method": [],
+        "other_conditions": [
+          "The size of the pore window at 195 K is 2.4 X 1.5 c2",
+          "The size of the pore window at 300 K is approximately 2.5 X 1.6 c2",
+          "The sizes of the cavities of CID-Me are approximately 5.9 X 7.0 X 2.9 c3 at 195 K and approximately 5.9 X 7.1 X 3.1 c3 at 300 K"
+        ]
+      }
+    },
+    {
+      "name": "[Zn(5-Me-ip)(bpy-d8)]n",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Deuterated 4,4'-bipyridyl (bpy-d8)"
+        ],
+        "temperature": [
+          "195 K",
+          "233 K",
+          "273 K",
+          "296 K"
+        ],
+        "equipment": [
+          "2H solid-state NMR"
+        ],
+        "solvents": [],
+        "time": [],
+        "yield": [],
+        "washing_method": [],
+        "drying_method": [],
+        "other_conditions": [
+          "Rotations of PY1 and PY2 were monitored",
+          "Spectra at 195 and 233 K suggest static modes of both PY1 and PY2",
+          "Spectra at 273 and 296 K show three sets of doublets with a splitting of 16.0, 43.3, and 126.5 kHz"
+        ]
+      }
+    },
+    {
+      "name": "[Zn(5-Me-ip-d6)(bpy)]n",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Deuterated 5-methylisophthalate (5-Me-ip-d6)"
+        ],
+        "temperature": [],
+        "equipment": [
+          "2H solid-state NMR spectroscopy"
+        ],
+        "solvents": [],
+        "time": [],
+        "yield": [],
+        "washing_method": [],
+        "drying_method": [],
+        "other_conditions": [
+          "The rotation of PY1 and the wobbling of the ring dynamically expand the pore windows"
+        ]
+      }
+    },
+    {
+      "name": "CID-Me under CO2 atmosphere",
+      "synthesis_conditions": {
+        "chemicals_used": [],
+        "temperature": [
+          "304 K"
+        ],
+        "equipment": [
+          "13C magic angle spinning NMR (MAS-NMR) spectroscopy",
+          "1H-13C cross polarization MAS (CP-MAS) NMR spectroscopy"
+        ],
+        "solvents": [],
+        "time": [],
+        "yield": [],
+        "washing_method": [],
+        "drying_method": [],
+        "other_conditions": [
+          "Investigation of adsorbed CO2",
+          "13C MAS-NMR spectrum at 304 K shows four peaks at 119.8 (C1), 124.2 (C4), 124.5 (C2), and 127.7 (C3) ppm, which are assigned to CO2"
+        ]
+      }
+    }
+  ]
+}

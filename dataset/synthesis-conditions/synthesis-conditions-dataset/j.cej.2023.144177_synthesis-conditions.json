@@ -1,0 +1,62 @@
+{
+  "materials": [
+    {
+      "name": "Zn-QCDM",
+      "synthesis": {
+        "temperature": "60 - 75°C",
+        "solvent": "methanol",
+        "chemicals_used": [
+          {
+            "name": "quinoline-8-carboxaldehyde",
+            "amount": "0.1572 g (1 mmol)"
+          },
+          {
+            "name": "diaminomaleonitrile",
+            "amount": "0.1081 g (1 mmol)"
+          },
+          {
+            "name": "zinc acetate",
+            "amount": "0.03 mmol"
+          }
+        ],
+        "yield": "94%",
+        "steps": [
+          "Mix quinoline-8-carboxaldehyde and diaminomaleonitrile in methanol and heat to 60 - 75°C with continuous stirring.",
+          "Reflux for 1 h, filter, and wash with methanol three times to obtain QCDM.",
+          "Disperse QCDM in methanol, add zinc acetate solution dropwise under stirring, filter, and allow solvent to evaporate slowly in refrigerator for 2 weeks to form Zn-QCDM crystals."
+        ]
+      }
+    },
+    {
+      "name": "Zn-HNDM",
+      "synthesis": {
+        "temperature": "60 - 75°C",
+        "solvent": "methanol",
+        "chemicals_used": [
+          {
+            "name": "2-hydroxy-1-naphthaldehyde",
+            "amount": "0.1722 g (1 mmol)"
+          },
+          {
+            "name": "diaminomaleonitrile",
+            "amount": "0.0541 g (0.5 mmol)"
+          },
+          {
+            "name": "zinc acetate",
+            "amount": "0.0917 g (0.5 mmol)"
+          },
+          {
+            "name": "HCl solution",
+            "amount": "1 - 2 mmol"
+          }
+        ],
+        "yield": "90%",
+        "steps": [
+          "Mix 2-hydroxy-1-naphthaldehyde and diaminomaleonitrile in methanol and heat to 60 - 75°C under stirring.",
+          "Add zinc acetate solution dropwise to the hot solution, followed by gradual addition of HCl solution.",
+          "Filter and wash with methanol three times after cooling to room temperature to obtain Zn-HNDM."
+        ]
+      }
+    }
+  ]
+}

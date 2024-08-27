@@ -1,0 +1,47 @@
+{
+  "materials": [
+    {
+      "name": "{Cu12Nb120}",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "pH": "8.6",
+        "chemicals_used": [
+          "CuCl2 · 2 H2O",
+          "K7HNb6O19 · 13 H2O",
+          "KNO3",
+          "Na2B4O7 · 10 H2O",
+          "phenylphosphonic acid",
+          "Hatz (amino-1,2,4-triazole)",
+          "en (ethylenediamine)"
+        ],
+        "product": "H63[Cu(en)2]10.5[1 a] · solvents (1)",
+        "crystal_structure": "triclinic space group P�1",
+        "molecular_weight": "over 20 000",
+        "motifs_included": [
+          "three tricyclic Nb24 clusters",
+          "one hexacyclic Nb48 cluster",
+          "one Cu12 unit"
+        ]
+      }
+    },
+    {
+      "name": "{Cd16Nb128}",
+      "synthesis_conditions": {
+        "temperature": "Not explicitly mentioned",
+        "pH": "10.1",
+        "chemicals_used": [
+          "CdCl2 · 2.5 H2O",
+          "Similar reaction conditions to {Cu12Nb120} but with Cd instead of Cu"
+        ],
+        "product": "H54K12[Cu(en)2]4[2 a] · solvents (2)",
+        "crystal_structure": "monoclinic space group C2",
+        "molecular_weight": "over 22 000",
+        "motifs_included": [
+          "two Nb24 clusters",
+          "two pentacyclic 40-nuclearity {Nb40O115(H2O)5} clusters",
+          "one inorganic–organic hybrid {Cd16(atz)10(μ2-H2O)2(μ3-H2O)4(H2O)6} (Cd16)"
+        ]
+      }
+    }
+  ]
+}

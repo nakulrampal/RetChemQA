@@ -1,0 +1,89 @@
+{
+  "materials": [
+    {
+      "material_name": "trifluoromethylthiolation reagent (1)",
+      "synthesis_conditions": {
+        "description": "Compound 1 was synthesized according to the literature procedure and exhibited identical spectral properties to those reported.",
+        "reference": "[1a]",
+        "characterization_techniques": ["1H NMR", "13C NMR", "19F NMR", "elemental analysis"]
+      }
+    },
+    {
+      "material_name": "1-cyanatobenziodoxoles (4)",
+      "synthesis_conditions": {
+        "description": "When reagent 3 was treated with silver cyanate, a mixture of isomeric 1-cyanatobenziodoxoles was obtained, with the major product arising from reaction at the nitrogen atom.",
+        "solvent": "Not specified",
+        "reactants": ["silver cyanate", "reagent 3"],
+        "product": "1-cyanatobenziodoxoles (4)",
+        "characterization_techniques": ["single crystal X-ray analysis"]
+      }
+    },
+    {
+      "material_name": "compound (5)",
+      "synthesis_conditions": {
+        "description": "The reaction of 3 with silver thiocyanate yielded a single compound that did not contain the expected benziodoxole scaffold.",
+        "solvent": "Not specified",
+        "reactants": ["silver thiocyanate", "reagent 3"],
+        "product": "compound (5)",
+        "characterization_techniques": ["single crystal X-ray analysis"]
+      }
+    },
+    {
+      "material_name": "solid trifluoromethylthiolation reagent (6)",
+      "synthesis_conditions": {
+        "steps": [
+          {
+            "step": 1,
+            "description": "Aryl iodide reacted with arylboronic acid in the presence of Pd(OAc)2, SPhos, and K3PO4 in toluene at 110°C for 18 hours.",
+            "temperature": "110°C",
+            "time": "18 hours",
+            "solvents": ["toluene"],
+            "chemicals_used": ["Ar'I (1 equiv)", "ArB(OH)2 (1.5 equiv)", "Pd(OAc)2 (2 mol %)", "SPhos (4 mol %)", "K3PO4 (2 equiv)"]
+          },
+          {
+            "step": 2,
+            "description": "The product from step 1 was treated with pTsOH in CH3CN, followed by KI and NaNO2 in H2O for 5 hours.",
+            "time": "5 hours",
+            "solvents": ["CH3CN", "H2O"],
+            "chemicals_used": ["pTsOH (3 equiv)", "KI (2.5 equiv)", "NaNO2 (2 equiv)"]
+          },
+          {
+            "step": 3,
+            "description": "MeMgBr was added to the product from step 2 in Et2O at 40°C for 5 hours.",
+            "temperature": "40°C",
+            "time": "5 hours",
+            "solvents": ["Et2O"],
+            "chemicals_used": ["MeMgBr (4 equiv)"]
+          },
+          {
+            "step": 4,
+            "description": "tBuOCl was added to the product from step 3 in THF/CH2Cl2 (2:1) for 2 hours.",
+            "time": "2 hours",
+            "solvents": ["THF/CH2Cl2 (2:1)"],
+            "chemicals_used": ["tBuOCl (4 equiv)"]
+          },
+          {
+            "step": 5,
+            "description": "AgSCF3 was reacted with the product from step 4 in THF at 50°C for 1 hour.",
+            "temperature": "50°C",
+            "time": "1 hour",
+            "solvents": ["THF"],
+            "chemicals_used": ["AgSCF3 (1 equiv)"]
+          }
+        ],
+        "characterization_techniques": ["1H NMR", "X-ray diffraction analysis"]
+      }
+    },
+    {
+      "material_name": "guest molecule 1 in MOF",
+      "synthesis_conditions": {
+        "description": "The MOF material was prepared by slow diffusion of a solution of ZnI2 in methanol into the solution of 2,4,6-tri(4-pyridyl)-1,3,5-triazine in a mixture of nitrobenzene and methanol. Soaking the resulting crystals in cyclohexane at 50°C for two weeks allowed for the majority of nitrobenzene in the pores of the MOF to be exchanged with more labile cyclohexane molecules. A consecutive soak of the crystals in the analyte provided X-ray quality crystals of the host–guest complex 1@MOF.",
+        "temperature": "50°C",
+        "time": "Two weeks",
+        "solvents": ["methanol", "nitrobenzene", "cyclohexane"],
+        "chemicals_used": ["ZnI2", "2,4,6-tri(4-pyridyl)-1,3,5-triazine"],
+        "characterization_techniques": ["X-ray crystallographic structural analysis"]
+      }
+    }
+  ]
+}

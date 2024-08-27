@@ -1,0 +1,77 @@
+{
+  "materials": [
+    {
+      "material": "κ-(BETS)2Mn[N(CN)2]3",
+      "synthesis_conditions": [
+        {
+          "step": "Electrocrystallization",
+          "solvents": [
+            {
+              "name": "1,1,2-trichloroethane",
+              "amount": "not specified"
+            },
+            {
+              "name": "ethanol",
+              "amount": "not specified"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "BETS",
+              "amount": "not specified"
+            },
+            {
+              "name": "Mn[N(CN)2]2 salt",
+              "amount": "not specified"
+            }
+          ],
+          "equipment": "not specified",
+          "time": "not specified",
+          "temperature": "not specified",
+          "yield": "not specified"
+        },
+        {
+          "step": "Resistance measurements",
+          "method": "Four-probe d.c. and a.c. (10-300 Hz frequency)",
+          "sample_size": "1 x 0.4 x 0.04 mm3",
+          "direction": [
+            "along the plane of conducting layers",
+            "perpendicular to them"
+          ],
+          "equipment": "not specified",
+          "temperature": "not specified"
+        },
+        {
+          "step": "Magnetic measurements",
+          "method": "SQUID magnetometer MPMS XL7 Quantum Design",
+          "sample_mass": "95 µg",
+          "magnetic_fields": "up to 7 T",
+          "direction": "parallel to the b-axis",
+          "additional_equipment": "home made cantilever beam torquemeter for fields up to 15 T"
+        }
+      ]
+    },
+    {
+      "material": "Mn[N(CN)2]2",
+      "synthesis_conditions": [
+        {
+          "step": "Metathesis reaction",
+          "chemicals_used": [
+            {
+              "name": "MnClO4·6H2O",
+              "amount": "not specified"
+            },
+            {
+              "name": "Na[N(CN)2]",
+              "amount": "not specified"
+            }
+          ],
+          "equipment": "not specified",
+          "time": "not specified",
+          "temperature": "not specified",
+          "yield": "Found: C = 26.0, N = 44.5, Mn = 29.9, Cl – absent. Mn[N(CN)2]2 requires: C = 25.7, N = 44.9, Mn = 29.4%"
+        }
+      ]
+    }
+  ]
+}

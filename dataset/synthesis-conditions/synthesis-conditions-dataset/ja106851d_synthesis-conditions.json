@@ -1,0 +1,56 @@
+{
+  "materials": [
+    {
+      "name": "[Zn2(oba)2(bpy)]·DMA (1)",
+      "synthesis_conditions": {
+        "chemicals_used": {
+          "Zn(NO3)2.4H2O": "0.116g, 0.5mmol",
+          "4,4’-oxybisbenzoicacid": "0.129g, 0.5mmol",
+          "4,4’-bipyridine": "0.074g,0.5mmol"
+        },
+        "solvent": "N,N’-dimethylacetamide (DMA)",
+        "solvent_amount": "10ml",
+        "equipment": "20ml glass vial",
+        "temperature": "100 °C",
+        "time": "48 hrs",
+        "washing_method": "washed with DMA",
+        "drying_method": "drying in air",
+        "yield": "60%"
+      }
+    },
+    {
+      "name": "Thin layers for photoluminescence study",
+      "synthesis_conditions": {
+        "substrate": "Quartz (or glass) slides",
+        "substrate_preparation": "rinsed with de-ionized water and ethanol",
+        "layer_formation_method": "sprinkling ground powder of the sample onto the glued surface of the slide",
+        "notes": "New slides with a thin layer were used for each of the quenching experiment."
+      }
+    },
+    {
+      "name": "PL study of the analytes in the vapor phase",
+      "synthesis_conditions": {
+        "analytes_preparation": {
+          "solid_samples": "1g placed in small (20ml) open glass vials inside capped (500ml) glass bottles for several days",
+          "liquid_samples": "1ml taken and the same procedure followed"
+        },
+        "notes": "The original fluorescence spectra of the thin layers were collected before placing the glass slide with the thin layer into the bottles containing the analytes."
+      }
+    },
+    {
+      "name": "Electrochemical measurements",
+      "synthesis_conditions": {
+        "equipment": "CHI600A potentiostat",
+        "working_electrode": "ITO electrode",
+        "counter_electrode": "platinum wire",
+        "reference_electrode": "Ag/AgCl (0.1M KCl) electrode",
+        "electrolytes": [
+          "25% acetone and 75% 0.1M LiCl in water",
+          "0.1M tetrabutylammonium hexafluorophosphate in acetonitrile"
+        ],
+        "method": "cyclic voltammetry",
+        "notes": "The reduction potentials for all compounds were calculated from the voltammograms and corrected with the reduction potentials of ferrocene as internal standard."
+      }
+    }
+  ]
+}

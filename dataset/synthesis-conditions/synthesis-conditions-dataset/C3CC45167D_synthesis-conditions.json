@@ -1,0 +1,66 @@
+{
+  "materials": [
+    {
+      "name": "homoleptic sodium magnesiate [NaMg(CH2SiMe3)3] (1)",
+      "synthesis_conditions": {
+        "solvents": "hexane",
+        "solvent_amounts": "10 mL for reaction, 4 mL THF added later",
+        "chemicals_used": "[NaMg(CH2SiMe3)3] (1), NHPh2",
+        "amounts_of_chemicals_used": "0.62g (2 mmol) of 1, 1.01 g (6 mmol) of NHPh2",
+        "equipment": "Schlenk techniques",
+        "time": "1 hour stirring, 24 hours in freezer",
+        "temperature": "Room temperature for reaction, -28 °C for crystallization",
+        "yield": "80%",
+        "product": "[(THF)NaMg(NPh2)3(THF)] [3-(THF)2]"
+      }
+    },
+    {
+      "name": "[(THF)3NaMg{(tBuN)C(NPh2)(=O)}3] [4-(THF)3]",
+      "synthesis_conditions": {
+        "solvents": "THF",
+        "solvent_amounts": "4 mL",
+        "chemicals_used": "[(THF)NaMg(NPh2)3(THF)] [3-(THF)2], tBuN=C=O",
+        "amounts_of_chemicals_used": "0.69 g (1 mmol) of 3-(THF)2, 0.34 ml (3 mmol) of tBuN=C=O",
+        "equipment": "Schlenk techniques",
+        "time": "1 hour",
+        "temperature": "Room temperature",
+        "yield": "62%",
+        "product": "[(THF)3NaMg{(tBuN)C(NPh2)(=O)}3] [4-(THF)3]"
+      }
+    },
+    {
+      "name": "ureas 2a-k",
+      "synthesis_conditions": {
+        "solvents": "Toluene, dichloromethane for work-up",
+        "solvent_amounts": "2 mL for reaction, 100 mL dichloromethane for work-up",
+        "chemicals_used": "sodium magnesiate 1, relevant amine and isocyanate",
+        "amounts_of_chemicals_used": "0.0062 mg (0.02 mmol, 2 mol%) of 1, 1.1 mmol of amine, 1 mmol of isocyanate",
+        "equipment": "Schlenk techniques",
+        "time": "30 minutes",
+        "temperature": "Room temperature",
+        "yield": "Varies, up to 99%",
+        "product": "ureas 2a-k",
+        "additional_steps": [
+          {
+            "washing_method": "Washing with water (3 x 10 mL)",
+            "drying_method": "Drying over magnesium sulfate, solvent removed under reduced pressure"
+          }
+        ]
+      }
+    },
+    {
+      "name": "isocyanurates 5a-d",
+      "synthesis_conditions": {
+        "solvents": "THF",
+        "solvent_amounts": "4 mL",
+        "chemicals_used": "relevant isocyanate, sodium magnesiate 3-(THF)2",
+        "amounts_of_chemicals_used": "4 mmol of isocyanate, 0.14g (0.20 mmol, 5 mol%) of 3-(THF)2",
+        "equipment": "Schlenk techniques",
+        "time": "15 minutes",
+        "temperature": "Room temperature",
+        "yield": "Varies, up to 83%",
+        "product": "isocyanurates 5a-d"
+      }
+    }
+  ]
+}

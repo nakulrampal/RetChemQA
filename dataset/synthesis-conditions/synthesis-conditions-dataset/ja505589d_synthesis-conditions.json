@@ -1,0 +1,196 @@
+{
+  "materials": [
+    {
+      "name": "Zn(NO3)2·6H2O",
+      "source": "Ward’s Science",
+      "purity": "technical grade"
+    },
+    {
+      "name": "tetrakis(4-carboxyphenyl)porphyrin",
+      "source": "Frontier Scientific",
+      "purity": "97%"
+    },
+    {
+      "name": "2-methylthiophene",
+      "source": "Matrix Scientific",
+      "purity": "98%"
+    },
+    {
+      "name": "n-chlorosuccinimide",
+      "source": "Sigma-Aldrich",
+      "purity": "98%"
+    },
+    {
+      "name": "glutaryl dichloride",
+      "source": "Acros Organics",
+      "purity": "97%"
+    },
+    {
+      "name": "TiCl4",
+      "source": "Alfa Aesar",
+      "purity": "99%"
+    },
+    {
+      "name": "zinc dust",
+      "source": "Macron",
+      "purity": "95%"
+    },
+    {
+      "name": "4-bromopyridine hydrochloride",
+      "source": "Matrix Scientific",
+      "purity": "98%"
+    },
+    {
+      "name": "tri-n-butylborate",
+      "source": "Strem Chemicals",
+      "purity": "98%"
+    },
+    {
+      "name": "glacial acetic acid",
+      "source": "BDH",
+      "purity": "ACS grade"
+    },
+    {
+      "name": "N, N-diethylformamide (DEF)",
+      "source": "TCI America",
+      "purity": "> 99%"
+    },
+    {
+      "name": "N,N-dimethylformamide",
+      "source": "BDH",
+      "purity": "ACS grade"
+    },
+    {
+      "name": "n-butyllithium solution",
+      "source": "Sigma-Aldrich",
+      "purity": "2.5 M in hexanes"
+    },
+    {
+      "name": "benzene",
+      "source": "Fischer Scientific",
+      "purity": "ACS grade"
+    },
+    {
+      "name": "CS2",
+      "source": "Sigma-Aldrich",
+      "purity": "99.9%"
+    },
+    {
+      "name": "ethylene glycol",
+      "source": "Amresco",
+      "purity": "HPLC grade"
+    },
+    {
+      "name": "Pd(PPh3)4",
+      "source": "Alfa Aesar",
+      "purity": "99.8%"
+    },
+    {
+      "name": "hexanes",
+      "source": "Fischer Scientific",
+      "purity": "ACS certified"
+    },
+    {
+      "name": "HNO3",
+      "source": "Fischer Scientific",
+      "purity": "ACS grade"
+    },
+    {
+      "name": "ethyl ether",
+      "source": "J. T. Baker® Chemicals",
+      "purity": "ACS grade"
+    },
+    {
+      "name": "ethyl acetate",
+      "source": "EMD Chemicals",
+      "purity": "HPLC grade"
+    },
+    {
+      "name": "CH2Cl2",
+      "source": "BDH",
+      "purity": "ACS grade"
+    },
+    {
+      "name": "CDCl3",
+      "source": "Cambridge Isotopes"
+    },
+    {
+      "name": "DMSO-d6",
+      "source": "Cambridge Isotopes"
+    }
+  ],
+  "synthesis": [
+    {
+      "name": "Zn3C100.75H126.5N12O21.55S1.7 (1)",
+      "synthesis_steps": [
+        {
+          "step_description": "Zn(NO3)2·6H2O and H4TCPP were dissolved in DEF/EtOH and sonicated. BPMTC in DEF and HNO3 were added, sonicated, and heated at 80 °C for 14 hours.",
+          "temperature": "80 °C",
+          "solvents": [
+            {
+              "name": "DEF",
+              "amount": "2.1 mL"
+            },
+            {
+              "name": "EtOH",
+              "amount": "0.5 mL"
+            }
+          ],
+          "time": "14 hours",
+          "yield": "24%"
+        }
+      ],
+      "washing_method": "Washed with DMF",
+      "drying_method": "Dried under vacuum",
+      "characterization_methods": [
+        "IR",
+        "1H NMR spectroscopy",
+        "Elemental analysis",
+        "Single-crystal X-ray diffraction"
+      ]
+    }
+  ],
+  "digestion_procedure": [
+    {
+      "description": "1 was washed with DMF, filtered, dried, dissolved in DMSO and HCl for 1H NMR and mass-spectrometry analysis."
+    }
+  ],
+  "xray_crystal_structure_determination": [
+    {
+      "compound": "BPMTC⋅0.5(C3H6O)",
+      "crystal_system": "Monoclinic",
+      "space_group": "P21/n",
+      "temperature": "296(2) K"
+    },
+    {
+      "compound": "Zn3C75H55.35N6.85O9.15S1.7·(C5H11NO)5.15(H2O)7.25 (1)",
+      "crystal_system": "Tetragonal",
+      "space_group": "P4/nmm",
+      "temperature": "150(2) K"
+    }
+  ],
+  "fluorescence_spectroscopy": [
+    {
+      "description": "Steady-state emission spectra were acquired using a Perkin Elmer LS55 fluorescence spectrometer and an Ocean Optics JAZ spectrometer."
+    }
+  ],
+  "fluorescence_lifetimes_measurement": [
+    {
+      "description": "Measured using a Mini-τ lifetime spectrometer with a 360-nm picosecond-pulsed-light-emitting diode."
+    }
+  ],
+  "other_physical_measurements": [
+    {
+      "methods": [
+        "FT-IR spectroscopy",
+        "NMR spectroscopy",
+        "Powder X-ray diffraction",
+        "Thermogravimetric analysis",
+        "Electrospray ionization mass-spectrometry",
+        "Diffuse reflectance spectroscopy",
+        "Energy dispersive X-ray spectroscopy",
+        "Epifluorescence microscopy"
+      ]
+    }
+  ]
+}

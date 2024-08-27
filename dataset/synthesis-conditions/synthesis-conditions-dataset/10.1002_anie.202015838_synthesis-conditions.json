@@ -1,0 +1,81 @@
+{
+  "materials": [
+    {
+      "name": "P1, P2, P5, P6, P7",
+      "synthesis_conditions": {
+        "method": "slow evaporation",
+        "solvents": "various solvent combinations",
+        "additional_information": "gave single crystals"
+      }
+    },
+    {
+      "name": "P3",
+      "synthesis_conditions": {
+        "method": "2D-NMR technique",
+        "solvent": "CD3OH",
+        "temperature": "298 K",
+        "additional_information": "solution conformation determined"
+      }
+    },
+    {
+      "name": "P1",
+      "synthesis_conditions": {
+        "metal_ion": "Ag+",
+        "metal_salt": "AgBF4",
+        "solvent": "ethanol",
+        "method": "sonication",
+        "stoichiometry": "1:1 concentration of AgBF4 and peptide P1",
+        "additional_information": "transforms into a transparent peptide silver metallogel"
+      }
+    },
+    {
+      "name": "P2",
+      "synthesis_conditions": {
+        "metal_ions_tested": ["Ag+", "Cu2+", "Ni2+", "Zn2+", "Fe2+"],
+        "metal_ion_for_gelation": "Cu2+",
+        "metal_salt": "CuCl2, 2 H2O",
+        "stoichiometry": "1:1 equivalent of peptide and metal ions",
+        "additional_information": "forms gels only with copper ions"
+      }
+    },
+    {
+      "name": "P3",
+      "synthesis_conditions": {
+        "metal_ions_tested": ["Ag+", "Cu2+", "Ni2+", "Zn2+", "Fe2+"],
+        "metal_ions_for_gelation": ["Ag+", "Cu2+"],
+        "metal_salts": ["AgBF4", "CuCl2, 2 H2O"],
+        "additional_information": "forms metallogels with both Ag+ and Cu2+ ions"
+      }
+    },
+    {
+      "name": "P4",
+      "synthesis_conditions": {
+        "metal_ions_for_gelation": ["Ag+", "Cu2+"],
+        "additional_information": "similar to P3, forms metallogels with Ag+ and Cu2+ ions"
+      }
+    },
+    {
+      "name": "P5-P7",
+      "synthesis_conditions": {
+        "metal_ions_tested": ["Ag+", "Cu2+", "Ni2+", "Zn2+", "Fe2+"],
+        "additional_information": "did not give metallogels with any of the tested metal ions"
+      }
+    },
+    {
+      "name": "P3-AgBF4 complex",
+      "synthesis_conditions": {
+        "method": "incubation in gel state at room temperature in the absence of visible light",
+        "result": "yield shiny single crystals in the gel matrix",
+        "additional_information": "X-ray diffraction used to understand the secondary structure"
+      }
+    },
+    {
+      "name": "P3-AgPF6 complex",
+      "synthesis_conditions": {
+        "method": "incubation in gel state at room temperature",
+        "result": "transformation from gel to sol",
+        "additional_information": "X-ray diffraction reveals 12-helix conformation"
+      }
+    }
+  ]
+}

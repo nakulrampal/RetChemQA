@@ -1,0 +1,140 @@
+{
+  "materials": [
+    {
+      "label": "Zr-NU-1000, Powder (1)",
+      "synthesis_conditions": [
+        {
+          "ambient_atmosphere": true,
+          "light_exposure": "minimal",
+          "chemicals_used": [
+            {
+              "chemical": "ZrOCl2·8H2O",
+              "amount": "35 mg",
+              "molarity": "0.15 mmol",
+              "supplier": "Sigma-Aldrich"
+            },
+            {
+              "chemical": "TFA",
+              "amount": "40 µL",
+              "molarity": "0.52 mmol",
+              "supplier": "Fisher Chemical™"
+            },
+            {
+              "chemical": "benzoic acid",
+              "amount": "1 g",
+              "molarity": "8.19 mmol",
+              "supplier": "Sigma-Aldrich"
+            },
+            {
+              "chemical": "DEF",
+              "amount": "3 mL",
+              "supplier": "TCI America™"
+            }
+          ],
+          "activation": "static heating at 100 °C for 1 h, followed by 120 °C for 20.5 h",
+          "washing": [
+            "DMF",
+            "EtOH"
+          ],
+          "drying": "supercritical CO2 activation, followed by thermal evacuation at 120 °C for 18 h"
+        }
+      ]
+    },
+    {
+      "label": "Zr-NU-1000-SO4-130 °C, Powder (2)",
+      "synthesis_conditions": [
+        {
+          "ambient_atmosphere": true,
+          "light_exposure": "minimal",
+          "chemicals_used": [
+            {
+              "chemical": "H2SO4",
+              "amount": "98.08 mg",
+              "molarity": "0.965 mmol",
+              "supplier": "Fisher Chemical™"
+            },
+            {
+              "chemical": "DCM",
+              "supplier": "Fisher Chemical™"
+            },
+            {
+              "chemical": "acetone",
+              "supplier": "Fisher Chemical™"
+            }
+          ],
+          "activation": "sulfation with 0.05 M H2SO4 (aq) for 24 h, followed by washing with water, acetone, and DCM, drying in vacuum oven at 85 °C for 2 h, and thermal evacuation on an SVP at 130 °C for 15 h"
+        }
+      ]
+    },
+    {
+      "label": "Zr-NU-1000-SO4-DCM, Single Crystals (2a)",
+      "synthesis_conditions": [
+        {
+          "ambient_atmosphere": true,
+          "light_exposure": "minimal",
+          "chemicals_used": [
+            {
+              "chemical": "H2SO4",
+              "amount": "147.12 mg",
+              "molarity": "1.45 mmol",
+              "supplier": "Sigma-Aldrich"
+            },
+            {
+              "chemical": "EtOH",
+              "supplier": "Fisher Chemical™"
+            }
+          ],
+          "activation": "sulfation with 0.05 M H2SO4 (aq) for 24 h, followed by washing with water, acetone, and DCM, soaking in DCM, and drying using supercritical CO2 activation"
+        }
+      ]
+    },
+    {
+      "label": "Zr-NU-1000-SO4-scCO2, Single Crystals (2b)",
+      "synthesis_conditions": [
+        {
+          "ambient_atmosphere": true,
+          "light_exposure": "minimal",
+          "activation": "generated upon thermal evacuation of 2a on an SVP at 130 °C for 15 h"
+        }
+      ]
+    },
+    {
+      "label": "Zr-NU-1000-SO4-hydrated, Single Crystals (2d)",
+      "synthesis_conditions": [
+        {
+          "ambient_atmosphere": true,
+          "activation": "exposure of 2c to Millipore water overnight at room temperature"
+        }
+      ]
+    },
+    {
+      "label": "Zr-NU-1000-SO4-hydrated-scCO2, Single Crystals (2e)",
+      "synthesis_conditions": [
+        {
+          "ambient_atmosphere": true,
+          "activation": "exposure of 2c to Millipore water overnight, followed by washing with EtOH and drying using supercritical CO2 activation"
+        }
+      ]
+    },
+    {
+      "label": "Zr-NU-1000-SO4-250 °C, Powder (11)",
+      "synthesis_conditions": [
+        {
+          "ambient_atmosphere": true,
+          "light_exposure": "minimal",
+          "activation": "sulfation with 0.05 M H2SO4 (aq) for 24 h, followed by washing with water, acetone, and DCM, drying in vacuum oven at 85 °C for 2 h, and thermal evacuation on an SVP at 250 °C for 12 h, followed by 120 °C for 3 h"
+        }
+      ]
+    },
+    {
+      "label": "Zr-NU-1000-SO4-80 °C, Powder (12)",
+      "synthesis_conditions": [
+        {
+          "ambient_atmosphere": true,
+          "light_exposure": "minimal",
+          "activation": "sulfation with 0.05 M H2SO4 (aq) for 24 h, followed by washing with water, acetone, and DCM, drying in vacuum oven at 85 °C for 2 h, and thermal evacuation on an SVP at 80 °C for 15 h"
+        }
+      ]
+    }
+  ]
+}

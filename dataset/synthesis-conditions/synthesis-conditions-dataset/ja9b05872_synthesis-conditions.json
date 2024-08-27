@@ -1,0 +1,116 @@
+{
+  "materials": [
+    {
+      "name": "Co24(Me-bdc)24(dabco)6",
+      "synthesis_conditions": {
+        "temperature": "365 K",
+        "solvents": [
+          {
+            "name": "ethanol",
+            "amount": "3 mL"
+          },
+          {
+            "name": "N,N'-dimethylacetamide (DMA)",
+            "amount": "15 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cu(NO3)2·H2O",
+            "amount": "0.116 g, 0.50 mmol"
+          },
+          {
+            "name": "5-methylbenzene-1,3-dicarboxylic acid (H2Me-BDC)",
+            "amount": "0.090 g, 0.50 mmol"
+          },
+          {
+            "name": "1,4-diazabicyclo[2.2.2]octane (dabco)",
+            "amount": "0.056 g, 0.50 mmol"
+          }
+        ],
+        "time": "24 hours",
+        "washing_method": {
+          "first_solvent": {
+            "name": "DMA",
+            "temperature": "373 K",
+            "duration": "3 days",
+            "replacement_frequency": "every 12 hours"
+          },
+          "second_solvent": {
+            "name": "chloroform",
+            "temperature": "333 K",
+            "duration": "3 days",
+            "replacement_frequency": "every 12 hours"
+          }
+        },
+        "drying_method": "flowing nitrogen over the sample for 48 hours followed by evacuation at 348 K"
+      }
+    },
+    {
+      "name": "Fe24(OH-bdc)24(dabco)6",
+      "synthesis_conditions": {
+        "temperature": "393 K",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "12 mL"
+          },
+          {
+            "name": "acetonitrile",
+            "amount": "4 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "FeCl2",
+            "amount": "0.200 g, 1.578 mmol"
+          },
+          {
+            "name": "H2OH-BDC",
+            "amount": "0.288 g, 1.581 mmol"
+          },
+          {
+            "name": "dabco",
+            "amount": "0.177 g, 1.578 mmol"
+          }
+        ],
+        "time": "1 week",
+        "washing_method": {
+          "first_solvent": {
+            "name": "DMF",
+            "temperature": "room temperature",
+            "duration": "3 days",
+            "replacement_frequency": "every 8 hours"
+          },
+          "second_solvent": {
+            "name": "benzene",
+            "temperature": "room temperature",
+            "duration": "3 days",
+            "replacement_frequency": "every 8 hours"
+          }
+        }
+      }
+    },
+    {
+      "name": "Cr24(tBu-bdc)24",
+      "characterization": {
+        "TGA": "50°C to 600°C at a 2°C/min heating rate under a nitrogen atmosphere",
+        "IR_spectra": "Recorded with a Bruker Tensor 27 instrument"
+      }
+    },
+    {
+      "name": "Mo24(tBu-bdc)24",
+      "characterization": {
+        "TGA": "50°C to 600°C at a 2°C/min heating rate under a nitrogen atmosphere",
+        "IR_spectra": "Recorded with a Bruker Tensor 27 instrument"
+      }
+    },
+    {
+      "name": "Ru24(tBu-bdc)24Cl12",
+      "characterization": {
+        "TGA": "50°C to 600°C at a 2°C/min heating rate under a nitrogen atmosphere",
+        "IR_spectra": "Recorded with a Bruker Tensor 27 instrument"
+      }
+    }
+  ]
+}

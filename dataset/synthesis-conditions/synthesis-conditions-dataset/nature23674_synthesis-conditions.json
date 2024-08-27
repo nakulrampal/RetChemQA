@@ -1,0 +1,110 @@
+{
+  "Fe2Cl2(bbta)": {
+    "synthesis_conditions": {
+      "chemicals_used": [
+        {
+          "name": "FeCl2",
+          "amount": "200 mg, 1.58 mmol"
+        },
+        {
+          "name": "H2bbta",
+          "amount": "125 mg, 0.781 mmol"
+        },
+        {
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "40 ml"
+            },
+            {
+              "name": "methanol",
+              "amount": "10 ml"
+            }
+          ]
+        }
+      ],
+      "equipment": "Schlenk flask",
+      "temperature": "100 °C",
+      "time": "24 h",
+      "washing_method": {
+        "steps": [
+          {
+            "solvent": "DMF",
+            "temperature": "120 °C",
+            "duration": "12 h",
+            "repetitions": 5
+          },
+          {
+            "solvent": "methanol",
+            "temperature": "60 °C",
+            "duration": "12 h",
+            "repetitions": 5
+          }
+        ]
+      },
+      "drying_method": {
+        "temperature": "180 °C",
+        "vacuum": "dynamic",
+        "duration": "7 days"
+      },
+      "yield": "200 mg (75%)"
+    }
+  },
+  "Fe2Cl2(btdd)": {
+    "synthesis_conditions": {
+      "chemicals_used": [
+        {
+          "name": "FeCl2",
+          "amount": "200 mg, 1.58 mmol"
+        },
+        {
+          "name": "H2btdd",
+          "amount": "100 mg, 0.376 mmol"
+        },
+        {
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "20 ml"
+            },
+            {
+              "name": "methanol",
+              "amount": "20 ml"
+            }
+          ]
+        }
+      ],
+      "equipment": "Schlenk flask",
+      "temperature": "100 °C",
+      "time": "4 days",
+      "washing_method": {
+        "steps": [
+          {
+            "solvent": "DMF",
+            "temperature": "120 °C",
+            "duration": "8 h",
+            "repetitions": 2
+          },
+          {
+            "solvent": "DMF",
+            "temperature": "140 °C",
+            "duration": "8 h",
+            "repetitions": 2
+          },
+          {
+            "solvent": "methanol",
+            "temperature": "60 °C",
+            "duration": "8 h",
+            "repetitions": 5
+          }
+        ]
+      },
+      "drying_method": {
+        "temperature": "100 °C",
+        "vacuum": "dynamic",
+        "duration": "36 h"
+      },
+      "yield": "140 mg (83%)"
+    }
+  }
+}

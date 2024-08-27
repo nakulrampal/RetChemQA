@@ -1,0 +1,71 @@
+{
+  "materials": [
+    {
+      "material_name": "1",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "chemical": "[Ru2(O2CPh-o-Cl)4(THF)2]",
+              "amount": "97 mg",
+              "molar_amount": "0.1 mmol"
+            },
+            {
+              "chemical": "TCNQ(OMe)2",
+              "amount": "13 mg",
+              "molar_amount": "0.05 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "solvent": "CH2Cl2",
+              "amount": "20 mL"
+            },
+            {
+              "solvent": "nitrobenzene",
+              "amount": "20 mL"
+            }
+          ],
+          "atmosphere": "N2",
+          "method": "slow diffusion",
+          "time": "1 week",
+          "yield": "74%",
+          "characterization": [
+            {
+              "technique": "Elemental analysis",
+              "results": "C 42.90, H 2.29, N 3.05"
+            },
+            {
+              "technique": "IR",
+              "results": "ν(CN), 2193, 2158, 2106 cm−1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "material_name": "1-dry",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "method": "drying under N2 atmosphere",
+          "time": "24 h or more",
+          "alternative_method": "heating at 150 °C for 30 min",
+          "note": "drying at ambient temperatures is preferred to avoid defects"
+        }
+      ]
+    },
+    {
+      "material_name": "1'",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "method": "exposure to CH2Cl2 vapor",
+          "time": "72 h",
+          "note": "nearly 100% of the CH2Cl2 molecules were present, indicating nearly complete conversion back to 1"
+        }
+      ]
+    }
+  ]
+}

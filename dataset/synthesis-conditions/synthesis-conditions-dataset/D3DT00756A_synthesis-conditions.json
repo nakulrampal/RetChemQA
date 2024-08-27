@@ -1,0 +1,70 @@
+{
+  "materials": [
+    {
+      "name": "BBDF",
+      "synthesis_conditions": {
+        "temperature": "120 ºC",
+        "solvents": "DMF",
+        "amount_of_solvent": "100 mL",
+        "equipment": "flame-dried Schlenk flask",
+        "chemicals_used": [
+          {
+            "name": "2,7-dibromo-9,9-dimethyl-9H-fluorene",
+            "amount": "3.52 g, 10 mmol"
+          },
+          {
+            "name": "benzimidazole",
+            "amount": "5.90 g, 50 mmol"
+          },
+          {
+            "name": "K2CO3",
+            "amount": "10.00 g, 72 mmol"
+          },
+          {
+            "name": "CuI",
+            "amount": "0.44 g, 2.3 mmol"
+          }
+        ],
+        "time": "72 h",
+        "washing_method": "extracted three times with CH2Cl2 (100 mL), washed with distilled water",
+        "drying_method": "dried with anhydrous MgSO4",
+        "yield": "2.3 g (54%)",
+        "additional_steps": [
+          {
+            "step_description": "Evaporation under vacuum, addition of 100 mL distilled water, purification by flash column chromatography on silica gel eluting with CH2Cl2/MeOH (20: 1)"
+          },
+          {
+            "step_description": "Recrystallization in mixed solvent of DMF and H2O"
+          }
+        ]
+      }
+    },
+    {
+      "name": "{[Zn(BBDF)(ATP)]·2DMF·3H2O}n (1)",
+      "synthesis_conditions": {
+        "temperature": "90 ºC",
+        "solvents": "DMF–H2O",
+        "amount_of_solvent": "8 mL, 1:1 v/v",
+        "equipment": "10 mL glass vial",
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "0.1 mmol, 28 mg"
+          },
+          {
+            "name": "BBDF",
+            "amount": "0.1 mmol, 43 mg"
+          },
+          {
+            "name": "H2ATP",
+            "amount": "0.1 mmol, 18 mg"
+          }
+        ],
+        "time": "72 hours",
+        "washing_method": "washed several times with DMF and H2O",
+        "yield": "55% based on Zn2+",
+        "additional_information": "Solution was ultrasonicated for 10 minutes before heating"
+      }
+    }
+  ]
+}

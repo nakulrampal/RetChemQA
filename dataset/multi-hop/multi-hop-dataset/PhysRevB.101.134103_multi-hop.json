@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the MOF studied in the paper?",
+      "answer": "[Fe(tvp)2(NCS)2] · 2BzCHO",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What phenomenon does the MOF [Fe(tvp)2(NCS)2] · 2BzCHO exhibit upon adsorption of benzaldehyde guest molecules?",
+      "answer": "A complex sequence of phase transitions and spin-crossover behavior",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the two common control parameters mentioned for influencing the stability of HS and LS states in transition-metal complexes?",
+      "answer": "Temperature and pressure",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does the inclusion of benzaldehyde affect the spin-crossover behavior of the MOF system?",
+      "answer": "The inclusion of benzaldehyde induces various types of SCO behavior towards the low-spin state.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study used both Raman spectroscopy and synchrotron x-ray diffraction to investigate the MOF's structural and electronic changes.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to interpret the experimental Raman data?",
+      "answer": "Density functional theory (DFT) calculations",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The guest molecules remain in the pores of the MOF during all temperature scans from 77 K to room temperature.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What type of molecular simulations were carried out to explore the structure of guest molecules confined within the MOF?",
+      "answer": "Molecular dynamics (MD) simulations",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the temperature range between 160 and 220 K in the context of the MOF's spin-crossover behavior?",
+      "answer": "It marks the apparent continuous evolution between high-spin and low-spin states, with a change of slope around 170 K.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study found that the guest molecules adopt a sandwich conformation within the MOF, favoring π-π interactions.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of synchrotron x-ray diffraction in the study?",
+      "answer": "It was used for characterizing the different structural phases of the MOF-SCO, to determine the long-range order and the symmetry lowering as a function of the temperature.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How did the study confirm the reliability of the DFT approach?",
+      "answer": "By comparing the calculated Fe-N bond lengths in both HS and LS states with the experimental x-ray diffraction results, showing close agreement.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study suggests that the inclusion of guest molecules in host MOF materials does not significantly influence the properties of bistable-spin states.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was observed in the Raman spectra around 1020 cm−1 and 1200 cm−1?",
+      "answer": "The spectra provided a way to study separately the fraction of the molecule in the HS state and in the LS state, with significant differences in spectral signatures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study concludes that the spin-crossover phenomenon in the MOF is entirely independent of the structural phase transitions.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of Monte Carlo (MC) simulations in the study?",
+      "answer": "MC simulations were performed to generate initial configurations of the guest molecules for the molecular dynamics simulations.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study found that the guest molecules are highly ordered within the MOF pores at all temperatures.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main finding regarding the host-guest interactions within the MOF?",
+      "answer": "The study highlighted the importance of hydrogen bonding between host and guest molecules, which influences the anchoring of guest molecules on the wall of MOF-SCO.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study exclusively used experimental methods to investigate the MOF's properties.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the appearance of a plateau at xHS = 1/4 in the magnetic susceptibility curve indicate?",
+      "answer": "It indicates the formation of a periodic spin-state concentration waves, forming during a 'Devil’s staircase'-type spin crossover.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

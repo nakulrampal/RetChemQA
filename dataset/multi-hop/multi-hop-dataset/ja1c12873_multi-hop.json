@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What are the synthesis conditions for ZJU-74-Ni and ZJU-74-Pd?",
+      "answer": "ZJU-74-Ni was synthesized according to previously reported literature. ZJU-74-Pd was synthesized by layering an aqueous solution of K2[Pd(CN)4]·3H2O with a methanol/aqueous solution of Co(NO3)2·6H2O and pyrazine, followed by a slow diffusion process for two weeks at room temperature.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How were the gas adsorption isotherms for ZJU-74a-Ni and ZJU-74a-Pd measured?",
+      "answer": "The gas adsorption isotherms were measured using a Micromeritics ASAP 2020 surface area analyzer. The samples were first solvent-exchanged with dry acetone, evacuated at room temperature for 24 hours, and further at 363 K for 12 hours before measurements.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to calculate the heats of adsorption (Qst) for gases in ZJU-74a-Ni and ZJU-74a-Pd?",
+      "answer": "The heats of adsorption (Qst) were calculated using a virial-type expression based on temperature-independent parameters and the universal gas constant, employing the equation Qst = -R * sum(Na_i * i), where R is the universal gas constant.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the Xe uptake and Xe/Kr selectivity achieved by ZJU-74a-Pd in the breakthrough experiments?",
+      "answer": "In the breakthrough experiments, ZJU-74a-Pd achieved a Xe uptake of 4.63 mmol cm-3 and a Kr productivity of 214 mL g-1, indicating high selectivity for Xe over Kr.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the structure of ZJU-74-Pd compare to that of ZJU-74-Ni in terms of unit cell parameters?",
+      "answer": "Both ZJU-74-Pd and ZJU-74-Ni crystallize in the tetragonal space group P4/mmm. ZJU-74-Pd has a slightly larger unit cell volume (350.510 Å3) compared to ZJU-74-Ni (370.71 Å3), indicating slight structural differences between the two materials.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What computational method was used to identify the primary binding sites for Xe and Kr molecules in ZJU-74a-Ni and ZJU-74a-Pd?",
+      "answer": "Grand Canonical Monte Carlo (GCMC) simulations were performed to identify the primary binding sites for Xe and Kr molecules in ZJU-74a-Ni and ZJU-74a-Pd, considering the framework and gas molecules as rigid during the simulation.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the dual-site Langmuir-Freundlich parameter fits for gases in ZJU-74a-Ni and ZJU-74a-Pd?",
+      "answer": "The dual-site Langmuir-Freundlich parameter fits for gases in ZJU-74a-Ni and ZJU-74a-Pd provide insights into the adsorption behavior of gases on two different types of sites within the MOFs, indicating the materials' capacity and affinity for gas adsorption at specific sites.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Based on the provided data, which MOF, ZJU-74a-Ni or ZJU-74a-Pd, demonstrates a higher selectivity for Xe over Kr?",
+      "answer": "ZJU-74a-Pd demonstrates a higher selectivity for Xe over Kr with a selectivity of 103.4, compared to ZJU-74a-Ni which has a selectivity of 74.1.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of open metal sites in ZJU-74a-Ni and ZJU-74a-Pd contribute to their gas adsorption properties?",
+      "answer": "The presence of open metal sites in ZJU-74a-Ni and ZJU-74a-Pd contributes to their gas adsorption properties by providing strong binding sites for gas molecules, particularly for polarizable gases like xenon, leading to high adsorption capacities and selectivities.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of ZJU-74-Pd requires a slow diffusion process over two weeks at room temperature.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

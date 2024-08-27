@@ -1,0 +1,34 @@
+{
+  "materials": [
+    {
+      "name": "ZIF-L",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "deionized water",
+            "amount": "40 mL"
+          }
+        ],
+        "equipment": "stirring",
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "0.59 g",
+            "purity": "98%"
+          },
+          {
+            "name": "2-methylimidazole (Hmim)",
+            "amount": "1.30 g",
+            "purity": "99%"
+          }
+        ],
+        "time": "4 h",
+        "washing_method": "repeated centrifugation (at 6000 rpm for 20 min) and washed by water for three times",
+        "drying_method": "dried in an oven at 70 ˚C overnight",
+        "yield": "over 80% based on the amount of zinc nitrate used",
+        "additional_information": "Hmim to zinc ions molar ratio of 8"
+      }
+    }
+  ]
+}

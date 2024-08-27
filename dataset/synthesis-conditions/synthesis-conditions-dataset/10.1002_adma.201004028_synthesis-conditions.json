@@ -1,0 +1,96 @@
+{
+  "materials": [
+    {
+      "name": "MAF-4",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "10 mL"
+          },
+          {
+            "name": "aqueous ammonia",
+            "amount": "10 mL",
+            "concentration": "25%"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Hmim",
+            "amount": "0.164 g",
+            "molarity": "2.0 mmol"
+          },
+          {
+            "name": "Zn(NO3)2 · 6H2O",
+            "amount": "0.297 g",
+            "molarity": "1.0 mmol"
+          }
+        ],
+        "time": "5 h",
+        "washing_method": "methanol",
+        "drying_method": "air at 90 °C",
+        "yield": "> 80%",
+        "additional_information": "Elemental analysis calculated for C8H10.2N4O0.1Zn (MAF-4 · 0.1H2O): C, 41.89; H, 4.48; N, 24.43; experimental: C, 42.02; H, 4.53; N, 24.51."
+      }
+    },
+    {
+      "name": "MAF-7",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "10 mL"
+          },
+          {
+            "name": "aqueous ammonia",
+            "amount": "10 mL",
+            "concentration": "25%"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Hmtz",
+            "amount": "0.168 g",
+            "molarity": "2.0 mmol"
+          },
+          {
+            "name": "Zn(NO3)2 · 6H2O",
+            "amount": "0.297 g",
+            "molarity": "1.0 mmol"
+          }
+        ],
+        "time": "Similar to MAF-4",
+        "yield": "> 80%",
+        "additional_information": "Elemental analysis calculated for C6H19N6O5.5Zn (MAF-7 · 5.5H2O): C, 29.76; H, 3.91; N, 34.70; experimental: C, 21.86; H, 5.76; N, 25.65."
+      }
+    },
+    {
+      "name": "MAF-47-x",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Hmim/Hmtz mixture",
+            "amount": "total 2.0 mmol",
+            "ratios": [
+              "0.5/1.5",
+              "1.0/1.0",
+              "1.5/0.5"
+            ]
+          }
+        ],
+        "yield": "> 80%",
+        "additional_information": [
+          "Elemental analysis calculated for MAF-47-0.23 · 0.8H2O: C, 31.86; H, 4.16; N, 31.87; experimental: C, 32.13; H, 4.70; N, 32.21.",
+          "Elemental analysis calculated for MAF-47-0.49 · 0.5H2O: C, 35.28; H, 4.23; N, 29.59; experimental: C, 35.67; H, 4.60; N, 29.94.",
+          "Elemental analysis calculated for MAF-47-0.76 · 0.3H2O: C, 38.69; H, 4.37; N, 26.88; experimental: C, 39.05; H, 4.65; N, 27.21."
+        ]
+      }
+    }
+  ]
+}

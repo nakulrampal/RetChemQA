@@ -1,0 +1,55 @@
+{
+  "Compound 1": {
+    "chemicals_used": [
+      "guanosine monophosphate (GMP, 2)",
+      "sodium molybdate"
+    ],
+    "reaction_conditions": {
+      "acidification": "Yes"
+    },
+    "notes": "Compound Na2[(HGMP)2Mo5O15]·7 H2O (1) was formed by the condensation reaction of guanosine monophosphate (GMP, 2) and sodium molybdate upon acidification."
+  },
+  "Solution Stability Analysis": {
+    "techniques_used": [
+      "31P NMR spectroscopy",
+      "IMS-MS analysis"
+    ],
+    "solvent": "water",
+    "pH": "acidic",
+    "observations": {
+      "31P NMR spectroscopy": "The 31P resonance appears as a multiplet, confirming the persistence of the P@O@R bonds of 1 in water.",
+      "IMS-MS analysis": "Revealed a series of oligomeric peaks, which may be assigned to a [(GMP)2(Mo5O15)1(K)W(Na)X(H)Y(H2O)Z]m series, further corroborating the persistence of 1 in solution and its tendency to self-associate."
+    }
+  },
+  "Circular Dichroism Analysis": {
+    "temperature": "Room temperature to 5 88C",
+    "pH": "1.2",
+    "concentration": "4 mm",
+    "observations": {
+      "room_temperature": "Only a weak signal observed",
+      "upon_cooling": "A distinctive pattern emerges with maxima around 210 and 260 nm, showing the formation of a more structured framework."
+    }
+  },
+  "AFM Analysis": {
+    "substrate": "freshly cleaved mica surface",
+    "observations": {
+      "fiber_height": "around 3.5 nm",
+      "note": "The height of 3.5 nm is consistent with the helicoidal diameter measured in the crystal structure (3.20 nm)."
+    }
+  },
+  "Low-Molecular-Weight Gelator (LMWG) Properties": {
+    "test_method": "tube inversion method",
+    "critical_gelation_concentration": "0.009 m at pH 1.2",
+    "weight_percentage": "1.28 wt %"
+  },
+  "Interactions with DNA": {
+    "compounds_tested": [
+      "double-stranded (ds) and single-stranded (ss) plasmid DNA (pGLO)",
+      "inorganic Strandberg anion Na6Mo5P2O23 (5)"
+    ],
+    "observations": {
+      "ds-DNA": "No effect on DNA migration during electrophoresis",
+      "ss-DNA": "A new band was observed for ss-DNA with compound 1, but not with compound 5"
+    }
+  }
+}

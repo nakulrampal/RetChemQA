@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the impact of substituents on the formation of Zr-MOFs with different topologies?",
+      "answer": "The steric hindrance of the substituents at different positions dictates the resulting MOF structures, with different ligand rotamers giving rise to structures with flu, scu, and csq topologies.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the synthesis condition affect the topology of Zr-MOFs synthesized using ligands L3, L4, and L5?",
+      "answer": "When benzoic acid is added to adjust the pH of the reaction mixture, PCN-606 can be obtained as the main product along with a small amount of PCN-605 as an impurity. However, when trifluoroacetic acid is used, PCN-608 can be obtained with a small amount of PCN-606 as a byproduct, indicating the acidity of the reaction mixture plays a vital role in the selective synthesis of Zr-MOFs with different topologies.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The introduction of a bulky cyclopentyloxyl group significantly increases the energy of L7 in PCN-605 and PCN-606, leading to the exclusive formation of PCN-608 using L7 under all attempted synthetic conditions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does the mixed linker strategy play in the synthesis of Zr-MOFs?",
+      "answer": "The mixed linker strategy restricts the rotation of linkers, thereby obtaining the preferred product with the desired functional groups. It provides a new level of control toward the MOF structures by carefully designing and selecting the appropriate ligands.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the dihedral angle between the two inner phenyl rings affect the formation of PCN-605?",
+      "answer": "PCN-605 can be easily obtained by introducing bulky substituents at the R1 position on the linkers, as verified by the case of L2. This is because substituting the H group by a bulkier group in the R1 position increases the dihedral angle between the two inner phenyl rings, influencing the formation of PCN-605.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The porosity of the PCN-605, PCN-606, and PCN-608 series are estimated by N2 sorption isotherms, with PCN-605 and 606 exhibiting flexible behaviors as reflected by the shifted XRD peaks upon desolvation, whereas PCN-608 is a rigid framework.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the dihedral angles between the outer phenyl rings and the inner phenyl rings in determining the structure of Zr-MOFs?",
+      "answer": "The dihedral angles between the outer phenyl rings and the inner phenyl rings are different in the scu and csq net frameworks, leading to the formation of two different structures. This difference in dihedral angles affects the pocket size formed by the outer phenyl rings, which can accommodate larger substituents at the R2 position, influencing the resulting MOF structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The geometry and connectivity of a linker often dictate the structure of the resulting MOF, and adjustments to linker geometry, length, and functional-group can tune the size, shape, and internal surface properties of a MOF for targeted applications.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the synthesis of PCN-605-H and PCN-605-OH demonstrate the effect of substituents on MOF topology?",
+      "answer": "The synthesis of PCN-605-H and PCN-605-OH demonstrates that substituting the H group by a bulkier OH group in the R1 position increases the dihedral angle between the two inner phenyl rings, which influences the formation of MOFs with flu topology. This showcases how the steric hindrance of substituents can dictate the resulting MOF structure.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The design and prediction of MOF structures can be easily implemented owing to their modular building units with definite geometries and connectivities.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What is the main objective of the study presented in the article?",
+      "answer": "The main objective of the study is to present the water sorption properties of a porous aluminum carboxylate metal-organic framework, KMF-1, which exhibits step-like sorption isotherms, high volumetric and specific energy capacities under cooling conditions, high coefficients of performance for cooling and heating, low driving temperature below 70 °C, high cycling stability, and remarkable heat storage capacity. These properties make KMF-1 an ideal multi-purpose water adsorbent for thermal energy storage and efficient exploitation for both cooling and heating applications.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the key features that make KMF-1 an ideal material for adsorption-driven heat transfer technology?",
+      "answer": "KMF-1 is ideal for adsorption-driven heat transfer technology due to its step-like sorption isotherms, record volumetric working capacity, specific energy capacity under cooling conditions, very high coefficients of performance for cooling and heating, low driving temperature allowing the exploitation of solar heat, high cycling stability, and remarkable heat storage capacity.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does the synthesis yield and space-time yield of KMF-1 compare to Co-CUK-1?",
+      "answer": "The synthesis yield of KMF-1 is 93% with a space-time yield of 68 kg/m3 day-1, which is higher than Co-CUK-1's synthesis yield of 67% and space-time yield of 24 kg/m3 day-1.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What computational approach was used in the design of KMF-1, and what was the objective of this design?",
+      "answer": "A joint computational predictive and experimental approach was used in the design of KMF-1. The objective was to achieve a steep water adsorption isotherm at a relative pressure intermediate between P/P° = 0.05 and P/P° = 0.17, while maintaining a high water saturation capacity. This was done by selecting the 2,5-pyrroledicarboxylate (PyDC) linker to fine-tune the hydrophilicity of the pore environment and introduce polar -NH functional groups.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the coefficients of performance (COP) for cooling (COPC) and heating (COPH) achieved by KMF-1, and how do they compare to Co-CUK-1?",
+      "answer": "KMF-1 achieves a COP for cooling (COPC) of 0.75 and a COP for heating (COPH) of 1.74. These values are comparable to Co-CUK-1, with KMF-1's COPC being slightly lower than Co-CUK-1's COPC of 0.82, but its COPH is as high as Co-CUK-1's COPH of 1.76.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental and computational methods were used to characterize the water adsorption properties of KMF-1?",
+      "answer": "The water adsorption properties of KMF-1 were characterized using intelligent gravimetric analyzer (IGA) for measuring water-sorption isotherms, thermogravimetric analysis (TGA) for cycling tests, and Grand Canonical Monte Carlo (GCMC) simulations for predicting water adsorption isotherms and analyzing the adsorption mechanism.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of KMF-1 requires a high temperature of 200°C.",
+      "answer": "False. The synthesis of KMF-1 was achieved hydrothermally with the use of green chemicals, aqueous solvent under atmospheric reflux condition, and a mild temperature of 120 °C.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: KMF-1 shows a significant hysteresis in its water adsorption-desorption isotherms.",
+      "answer": "False. The adsorption-desorption isotherms of KMF-1 do not show any hysteresis, indicating a fully reversible water adsorption-desorption behavior.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: KMF-1's water adsorption rate is slower than that of Co-CUK-1.",
+      "answer": "False. The adsorption rate for KMF-1 is 2 times faster than for Co-CUK-1 at 30°C and RH 35%, and KMF-1 also outperforms Co-CUK-1 in the desorption step.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis yield of KMF-1 is lower than that of MOF-303.",
+      "answer": "False. The synthesis yield of KMF-1 is 93%, which is higher than MOF-303's yield of 30%.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

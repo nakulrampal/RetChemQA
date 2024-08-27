@@ -1,0 +1,62 @@
+{
+  "materials": [
+    {
+      "name": "SIFSIX-1-Cu",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": "Previously described in refs. [19] and [24]",
+          "SO2_adsorption_capacity_at_298K_and_1.01_bar": "11.01 mmol g−1",
+          "SO2_adsorption_capacity_at_0.002_bar": "1.80 mmol g−1",
+          "SO2/N2_selectivity": "2510–3145",
+          "SO2/CO2_selectivity": "54–70",
+          "breakthrough_time_for_SO2_on_SO2/N2_mixture": "1800 min g−1",
+          "regeneration_method": "He flow at 313 K",
+          "cycling_breakthrough_tests": "4 cycles without decline"
+        }
+      ]
+    },
+    {
+      "name": "SIFSIX-2-Cu-i",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": "Previously described in refs. [19] and [24]",
+          "SO2_adsorption_capacity_at_298K_and_0.01_bar": "4.16 mmol g−1",
+          "SO2_adsorption_capacity_at_0.002_bar": "2.31 mmol g−1",
+          "SO2/CO2_selectivity": "86–89",
+          "SO2/N2_selectivity": "1285–3103",
+          "breakthrough_time_for_SO2_on_SO2/N2_mixture": "Exceeded SIFSIX-1-Cu and SIFSIX-3-Ni",
+          "regeneration_method": "He flow at 313 K",
+          "cycling_breakthrough_tests": "6 cycles without decline"
+        }
+      ]
+    },
+    {
+      "name": "SIFSIX-3-Zn",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": "Previously described in refs. [19] and [24]",
+          "SO2_adsorption_capacity_at_0.002_bar": "0.98 mmol g−1"
+        }
+      ]
+    },
+    {
+      "name": "SIFSIX-3-Ni",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": "Previously described in refs. [19] and [24]",
+          "SO2_adsorption_capacity_at_0.002_bar": "1.39 mmol g−1",
+          "breakthrough_time_for_SO2_on_SO2/N2_mixture": "Included in tests"
+        }
+      ]
+    },
+    {
+      "name": "SIFSIX-2-Cu",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": "Previously described in refs. [19] and [24]",
+          "SO2_adsorption_capacity_at_298K_and_1.01_bar": "6.50 mmol g−1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "materials": [
+    {
+      "name": "Cu1.9Zn0.1(TNDS)(DBTD)",
+      "synthesis_conditions": {
+        "solvent": "N,N-dimethylformamide (DMF)",
+        "solvent_volume": "1.00 mL",
+        "solvent_concentration": "40.0 mM",
+        "temperature": "room temperature",
+        "duration": "7 days",
+        "washing_solvent": "DMF",
+        "washing_volume": "2 x 2.00 mL",
+        "yield": "92%",
+        "yield_amount": "12.0 mg",
+        "yield_moles": "9.12 µmol",
+        "drying_method": "air",
+        "drying_duration": "30 minutes",
+        "soxhlet_extraction_solvent": "DMF and ethanol (9:1 v/v)",
+        "soxhlet_extraction_duration": "72 hours",
+        "transmetallation_percentage": "93%"
+      }
+    },
+    {
+      "name": "Cu2.0(BPMTC)(DBTD)",
+      "synthesis_conditions": {
+        "solvent": "N,N-dimethylformamide (DMF)",
+        "solvent_volume": "1.00 mL",
+        "solvent_concentration": "40.0 mM",
+        "temperature": "room temperature",
+        "duration": "7 days",
+        "washing_solvent": "DMF",
+        "washing_volume": "2 x 2.00 mL",
+        "yield": "89%",
+        "yield_amount": "11.4 mg",
+        "yield_moles": "9.09 µmol",
+        "drying_method": "air",
+        "drying_duration": "30 minutes",
+        "soxhlet_extraction_solvent": "DMF and ethanol (9:1 v/v)",
+        "soxhlet_extraction_duration": "72 hours",
+        "transmetallation_percentage": "100%"
+      }
+    },
+    {
+      "name": "Cu1.2Zn0.8(DPB-CHO)(DBTD)",
+      "synthesis_conditions": {
+        "solvent": "N,N-dimethylformamide (DMF)",
+        "solvent_volume": "1.00 mL",
+        "solvent_concentration": "30.0 mM",
+        "temperature": "room temperature",
+        "duration": "7 days",
+        "washing_solvent": "DMF",
+        "washing_volume": "2 x 2.00 mL",
+        "yield": "91%",
+        "yield_amount": "4.28 mg",
+        "yield_moles": "3.89 µmol",
+        "drying_method": "air",
+        "drying_duration": "30 minutes",
+        "soxhlet_extraction_solvent": "DMF and ethanol (9:1 v/v)",
+        "soxhlet_extraction_duration": "72 hours",
+        "transmetallation_percentage": "59%"
+      }
+    },
+    {
+      "name": "Cu(BCMTC)(MeOH)",
+      "synthesis_conditions": {
+        "solvent": "Methanol (MeOH) and water",
+        "solvent_volume": "4.00 mL MeOH + 0.100 mL H2O",
+        "temperature": "60 °C",
+        "duration": "30 minutes",
+        "additional_reagents": [
+          {
+            "name": "NaOH",
+            "volume": "10.0 µL",
+            "concentration": "0.100 M"
+          },
+          {
+            "name": "ethylenediamine",
+            "volume": "94.0 µL H2O + 6.00 µL"
+          }
+        ],
+        "yield": "18%",
+        "yield_amount": "8.21 mg",
+        "yield_moles": "6.57 µmol",
+        "drying_method": "air",
+        "drying_duration": "30 minutes"
+      }
+    }
+  ]
+}

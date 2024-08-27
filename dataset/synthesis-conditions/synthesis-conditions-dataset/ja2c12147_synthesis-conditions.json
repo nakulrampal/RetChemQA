@@ -1,0 +1,61 @@
+{
+  "materials": [
+    {
+      "name": "UCFMOF-2",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvent": "N,N-diethylformamide (DEF)",
+        "equipment": "microwave reactor",
+        "time": "1 h",
+        "chemicals_used": "Ti8O8(tBuCO2)16, H2BPDC",
+        "yield": "89.3%"
+      }
+    },
+    {
+      "name": "UCFMOF-3",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "solvent": "N,N-dimethylformamide (DMF)",
+        "equipment": "isothermal oven",
+        "time": "4 d",
+        "chemicals_used": "Ti8O8(tBuCO2)16, H2TPDC",
+        "yield": "71.5%"
+      }
+    },
+    {
+      "name": "UCFMOF-4",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "solvent": "N,N-dimethylformamide (DMF)",
+        "equipment": "isothermal oven",
+        "time": "4 d",
+        "chemicals_used": "Ti8O8(tBuCO2)16, H2QPDC",
+        "yield": "53.2%"
+      }
+    },
+    {
+      "name": "UCFMTV-3-x%",
+      "synthesis_conditions": {
+        "temperature": "Not specified",
+        "solvent": "Not specified",
+        "equipment": "Not specified",
+        "time": "Not specified",
+        "chemicals_used": "Ti8O8(tBuCO2)16, H2TPDC, DATP",
+        "yield": "Varies with x%",
+        "notes": "Crystal formation up to 40 mol% DATP content"
+      }
+    },
+    {
+      "name": "UCFMTV-4-x%",
+      "synthesis_conditions": {
+        "temperature": "Not specified",
+        "solvent": "Not specified",
+        "equipment": "Not specified",
+        "time": "Not specified",
+        "chemicals_used": "Ti8O8(tBuCO2)16, H2QPDC, DAQP",
+        "yield": "Varies with x%",
+        "notes": "Crystal formation up to 40 mol% DAQP content"
+      }
+    }
+  ]
+}

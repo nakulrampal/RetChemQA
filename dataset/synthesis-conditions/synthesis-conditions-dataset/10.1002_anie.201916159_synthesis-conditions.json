@@ -1,0 +1,81 @@
+{
+  "materials": [
+    {
+      "name": "CUB-20",
+      "synthesis_conditions": {
+        "temperature": "85 88C",
+        "solvent": "DEF",
+        "chemicals_used": [
+          "H2cdc",
+          "H3btb",
+          "Zn(NO3)2·6 H2O"
+        ],
+        "molar_ratio": "H3btb and H2cdc optimized for phase-pure UMCM-1",
+        "equipment": "solvothermal reaction setup",
+        "time": "not specified",
+        "yield": "large, prismatic crystals",
+        "crystal_morphology": "needle-like",
+        "stability": "sensitive to moisture"
+      }
+    },
+    {
+      "name": "CUB-21",
+      "synthesis_conditions": {
+        "temperature": "85 88C",
+        "solvent": "DEF",
+        "chemicals_used": [
+          "H2cdc",
+          "H3hmtt",
+          "Zn(NO3)2·6 H2O"
+        ],
+        "equipment": "solvothermal reaction setup",
+        "time": "not specified",
+        "yield": "crystals of plate morphology",
+        "crystal_morphology": "plate-like",
+        "stability": "high amount of H3hmtt relative to cdc, indicating an additional phase present in the bulk crystalline product"
+      }
+    },
+    {
+      "name": "CUB-30",
+      "synthesis_conditions": {
+        "temperature": "85 88C",
+        "solvent": "DEF",
+        "chemicals_used": [
+          "H2cdc",
+          "H3hmtt",
+          "H2bpdc",
+          "Zn(NO3)2·6 H2O"
+        ],
+        "equipment": "solvothermal reaction setup",
+        "time": "not specified",
+        "yield": "large, colourless prism crystals",
+        "crystal_morphology": "prism-like",
+        "stability": "remarkable stability to moisture",
+        "surface_area": "2930 m2 g@1",
+        "pore_volume": "1.54 cm3 g@1"
+      }
+    },
+    {
+      "name": "CUB-31",
+      "synthesis_conditions": {
+        "temperature": "85 88C",
+        "solvent": "DEF",
+        "chemicals_used": [
+          "H2cdc",
+          "H2bdc",
+          "H3hmtt",
+          "H2bpdc",
+          "Zn(NO3)2·6 H2O"
+        ],
+        "molar_ratio": "H2cdc and H2bdc in a 1:1 molar ratio",
+        "equipment": "solvothermal reaction setup",
+        "time": "not specified",
+        "yield": "large, colorless crystals with the same morphology as CUB-30",
+        "crystal_morphology": "prism-like",
+        "stability": "remarkable stability relative humidity",
+        "surface_area": "3260 m2 g@1",
+        "pore_volume": "1.68 cm3 g@1"
+      }
+    }
+  ]
+}

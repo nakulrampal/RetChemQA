@@ -1,0 +1,112 @@
+{
+  "materials": [
+    {
+      "name": "DMA-rho-ZMOF",
+      "synthesis_conditions": [
+        {
+          "temperature": "120 °C",
+          "solvents": [
+            {
+              "name": "N,N′-dimethylformamide (DMF)",
+              "amount": "4 mL"
+            }
+          ],
+          "equipment": "40-mL Parr acid digestion vessel",
+          "chemicals_used": [
+            {
+              "name": "4,5-Imidazoledicarboxylic acid (H3ImDC)",
+              "amount": "0.029 g, 0.174 mmol"
+            },
+            {
+              "name": "In(NO3)3·2H2O",
+              "amount": "0.030 g, 0.087 mmol"
+            }
+          ],
+          "time": "3 days",
+          "yield": "0.043 g [82% based on In(NO3)3·2H2O]"
+        }
+      ],
+      "washing_method": "several times with the mother liquor, then with a mixture of ethanol (EtOH) and water (0.75:0.25)",
+      "drying_method": "air-dried"
+    },
+    {
+      "name": "Na-rho-ZMOF",
+      "synthesis_conditions": [
+        {
+          "solvents": [
+            {
+              "name": "EtOH/water",
+              "ratio": "0.75:0.25"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "NaNO3",
+              "concentration": "1 M"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Li-rho-ZMOF",
+      "synthesis_conditions": [
+        {
+          "solvents": [
+            {
+              "name": "EtOH/water",
+              "ratio": "0.75:0.25"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "LiNO3",
+              "concentration": "1 M"
+            }
+          ],
+          "time": "18 h",
+          "washing_method": "several times with an EtOH/water (0.75:0.25) solution to remove excess salt"
+        }
+      ]
+    },
+    {
+      "name": "Mg-rho-ZMOF",
+      "synthesis_conditions": [
+        {
+          "solvents": [
+            {
+              "name": "EtOH/water",
+              "ratio": "0.75:0.25"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Mg(NO3)2",
+              "concentration": "0.75 M"
+            }
+          ],
+          "time": "15 h",
+          "washing_method": "to remove excess salt"
+        }
+      ]
+    },
+    {
+      "name": "Hydrogen Sorption",
+      "synthesis_conditions": [
+        {
+          "solvents": [
+            {
+              "name": "CH3CN"
+            }
+          ],
+          "time": [
+            "soaking for 12 h",
+            "evacuated at room temperature for 12 h",
+            "evacuated at 115 °C for 6 h"
+          ],
+          "equipment": "Quantachrome Autosorb-1"
+        }
+      ]
+    }
+  ]
+}

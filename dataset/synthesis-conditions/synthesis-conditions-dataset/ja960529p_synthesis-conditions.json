@@ -1,0 +1,59 @@
+{
+  "materials": [
+    {
+      "material": "[Zn2FeII(O2CCH3)6(py)2]",
+      "synthesis_conditions": {
+        "temperature": "-20 °C",
+        "solvents": ["CH3CN/AcOH (10:1 or 2:1 v/v)", "CH2Cl2/AcOH (10:1)"],
+        "chemicals_used": ["basic iron acetate [Fe3O(O2CCH3)6(py)3]·py", "Zn"],
+        "time": "30 min",
+        "yield": "65%"
+      }
+    },
+    {
+      "material": "[FeII(O2CCH3)2(py)4]",
+      "synthesis_conditions": {
+        "temperature": "-20 °C",
+        "solvents": ["py/AcOH (10:1 or 5:1)"],
+        "chemicals_used": ["basic iron acetate [Fe3O(O2CCH3)6(py)3]·py"],
+        "time": "6 h",
+        "yield": "80%"
+      }
+    },
+    {
+      "material": "[FeII2(O2CCH3)4(py)3]n",
+      "synthesis_conditions": {
+        "temperature": "10 °C",
+        "solvents": ["py/AcOH", "Et2O"],
+        "chemicals_used": ["basic iron acetate [Fe3O(O2CCH3)6(py)3]·py"],
+        "yield": "40%"
+      }
+    },
+    {
+      "material": "[Zn(O2CCH3)2(py)2]",
+      "synthesis_conditions": {
+        "solvents": ["py or py/AcOH (10:1, 5:1)"],
+        "chemicals_used": ["Zn(O2CCH3)2·2H2O"],
+        "notes": "Crystallizes from py or py/AcOH"
+      }
+    },
+    {
+      "material": "[Zn2(O2CCH3)4(py)2]",
+      "synthesis_conditions": {
+        "temperature": "2:1 py/AcOH",
+        "solvents": ["py/AcOH"],
+        "chemicals_used": ["basic iron acetate [Fe3O(O2CCH3)6(py)3]·py", "Zn"],
+        "yield": "75%"
+      }
+    },
+    {
+      "material": "[Fe2.22(2)Zn0.78(2)O(O2CCH3)6(py)3]·py",
+      "synthesis_conditions": {
+        "temperature": "-20 °C",
+        "solvents": ["py"],
+        "chemicals_used": ["basic iron acetate [Fe3O(O2CCH3)6(py)3]·py", "Zn"],
+        "yield": "95%"
+      }
+    }
+  ]
+}

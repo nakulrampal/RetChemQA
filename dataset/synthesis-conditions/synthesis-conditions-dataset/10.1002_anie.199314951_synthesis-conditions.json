@@ -1,0 +1,80 @@
+{
+  "materials": [
+    {
+      "name": "beta-Na,Hg",
+      "synthesis_conditions": {
+        "temperature": "50 C",
+        "time": "30 days",
+        "quenching_medium": "dry-ice/methanol",
+        "atmosphere": "inert",
+        "composition": "Na0.85Hg",
+        "method": "annealed",
+        "equipment": [
+          "agate mortar",
+          "X-ray capillaries"
+        ],
+        "additional_details": "Samples with a net composition of Na0.85Hg are annealed at T = 50 C for 30 days and then quenched in a mixture of dry-ice/methanol. The regulus is crushed under an inert atmosphere in an agate mortar, and the crystals picked under the microscope are wedged into X-ray capillaries."
+      }
+    },
+    {
+      "name": "alpha-Na,Hg",
+      "synthesis_conditions": {
+        "space_group": "R5m (no.166)",
+        "Z": "3",
+        "a": "5.404(1) A",
+        "c": "13.420(4) A",
+        "V": "340.7 cm-3",
+        "cell_parameters": {
+          "a_rhombohedral": "5.454(1) A",
+          "alpha_rhombohedral": "59.4 degrees"
+        },
+        "equipment": "CAD-4 diffractometer",
+        "temperature": "42 C",
+        "radiation": "MoKalpha",
+        "crystal_size": "0.21 x 0.18 x 0.25 mm-3",
+        "unique_reflections_observed": "287",
+        "R": "0.089 (all reflections)",
+        "absorption_correction": "empirical, Y-scan",
+        "maximum_minimum_residual_electron_density": "+-1.5 e A-3",
+        "atomic_positions": {
+          "Nal(3b)": "0, 0, 0.5",
+          "Na1a(6c)": "0, 0, 0.401",
+          "Na1b(18h)": "0.032, -0.032, 0.071",
+          "Nalc(18h)": "0.425, 0.575, 0.145",
+          "Nald(18h)": "0.103, -0.103, 0.059",
+          "Na2(6c)": "0.0, 0.245",
+          "Hg(3a)": "0, 0, 0"
+        },
+        "additional_details": "The program system NRCVAX was used for all structure calculations."
+      }
+    },
+    {
+      "name": "Succinatodisilver(1)",
+      "synthesis_conditions": {
+        "method": "slow diffusion",
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "10 mL, 0.1 M for AgNO3",
+            "purpose": "for AgNO3 solution"
+          },
+          {
+            "name": "water",
+            "amount": "10 mL, 0.1 M for succinic acid",
+            "purpose": "for succinic acid solution"
+          }
+        ],
+        "medium": "silica gel",
+        "pH": "5.6",
+        "reactants": [
+          "Ag+ ions",
+          "succinate anions"
+        ],
+        "crystal_growth_time": "2 days",
+        "crystal_description": "Pale yellow prismatic crystals elongated along the c axis",
+        "additional_details": "A sodium silicate solution (e = 1.1) was slowly added to an aqueous solution of succinic acid (10 mL, 0.1 M) until the pH reached 5.6. The resulting gelling solution was poured into a test tube and was allowed to stand for about 24 h. Then, an aqueous solution of AgNO3 (10 mL, 0.1 M) was carefully added at the top of the gel."
+      }
+    }
+  ]
+}

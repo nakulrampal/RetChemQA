@@ -1,0 +1,116 @@
+{
+  "materials": [
+    {
+      "name": "H2bdp (bdp2− = 1,4-benzenedipyrazolate)",
+      "synthesis_conditions": [
+        {
+          "method": "Suzuki-Miyaura coupling",
+          "reference": "Choi, H. J.; Dincă, M.; Long, J. R. J. Am. Chem. Soc. 2008, 130, 7848."
+        }
+      ]
+    },
+    {
+      "name": "H2bpeb (bpeb2− = 1,4-bis(pyrazolide-4-ylethynyl)benzene)",
+      "synthesis_conditions": [
+        {
+          "method": "Suzuki-Miyaura coupling modification",
+          "chemicals_used": [
+            {
+              "name": "1-Boc-4-iodopyrazole",
+              "amount": "5.5 g",
+              "molarity": "18.7 mmol"
+            },
+            {
+              "name": "bis(triphenylphosphine)palladium(II) dichloride",
+              "amount": "0.6 g",
+              "molarity": "0.85 mmol"
+            },
+            {
+              "name": "copper(I) iodide",
+              "amount": "0.19 g",
+              "molarity": "1 mmol"
+            },
+            {
+              "name": "triethylamine",
+              "amount": "40 mL"
+            },
+            {
+              "name": "tetrahydrofuran (THF)",
+              "amount": "50 mL"
+            },
+            {
+              "name": "1,4-diethynylbenzene",
+              "amount": "1.07 g",
+              "molarity": "8.5 mmol"
+            }
+          ],
+          "solvents": [
+            "ethyl acetate",
+            "dichloromethane"
+          ],
+          "washing_method": "saturated solution of ammonium chloride",
+          "drying_method": "vacuum overnight",
+          "reference": "Padial, N. M.; Quartapelle Procopio, E.; Montoro, C.; López, E.; Oltra, J. E.; Colombo, V.; Maspero, A.; Masciocchi, N.; Galli, S.; Senkovska, I.; Kaskel, S.; Barea, E.; Navarro, J. A. R. Angew. Chem., Int. Ed. 2013, 52, 8290."
+        }
+      ]
+    },
+    {
+      "name": "Fe2(bdp)3",
+      "synthesis_conditions": [
+        {
+          "method": "reported literature method",
+          "reference": "Herm, Z. R.; Wiers, B. M.; Mason, J. A.; van Baten, J. M.; Hudson, M. R.; Zajdel, P.; Brown, C. M.; Masciocchi, N.; Krishna, R.; Long, J. R. Science 2013, 340, 960."
+        }
+      ]
+    },
+    {
+      "name": "Fe2(bpeb)3",
+      "synthesis_conditions": [
+        {
+          "method": "analogous to Fe2(bdp)3 synthesis",
+          "chemicals_used": [
+            {
+              "name": "H2bpeb",
+              "amount": "0.5 g",
+              "molarity": "1.94 mmol"
+            },
+            {
+              "name": "Fe(acac)3",
+              "amount": "2.05 g",
+              "molarity": "5.8 mmol"
+            }
+          ],
+          "solvents": [
+            "N,N-dimethylformamide (DMF)"
+          ],
+          "washing_method": "DMF, dichloromethane, THF",
+          "drying_method": "vacuum at 180 °C for 48 hours",
+          "reference": "Galli, S.; Maspero, A.; Giacobbe, C.; Palmisano, G.; Nardo, L.; Comotti, A.; Bassanetti, I.; Sozzani, P.; Masciocchi, N. J. Mater. Chem. A 2014, 2, 12208."
+        }
+      ]
+    },
+    {
+      "name": "Chemical reduction of Fe2(bdp)3 and Fe2(bpeb)3",
+      "synthesis_conditions": [
+        {
+          "method": "alkali naphthalenide solution in THF",
+          "chemicals_used": [
+            {
+              "name": "naphthalene",
+              "molarity": "10% excess"
+            },
+            {
+              "name": "alkali metal",
+              "molarity": "20% excess"
+            },
+            {
+              "name": "tetrahydrofuran (THF)"
+            }
+          ],
+          "activation_method": "vacuum at 120 °C for 3–4 hours",
+          "reference": "Aubrey, M. L.; Wiers, B. M.; Andrews, S. C.; Sakurai, T.; Reyes-Lillo, S. E.; Hamed, S. M.; Yu, C.-J.; Darago, L. E.; Mason, J. A.; Baeg, J.-O.; Grandjean, F.; Long, G. J.; Seki, S.; Neaton, J. B.; Yang, P.; Long, J. R. Nat. Mater. 2018, 17, 625."
+        }
+      ]
+    }
+  ]
+}

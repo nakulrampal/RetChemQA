@@ -1,0 +1,34 @@
+{
+  "materials": [
+    {
+      "name": "COZ-1",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          "N,N-dimethylformamide (DMF)",
+          "ethanol"
+        ],
+        "solvent_amounts": [
+          "4 mL DMF",
+          "2 mL ethanol"
+        ],
+        "chemicals_used": [
+          "CuI",
+          "dabco",
+          "triethylamine",
+          "hypoxanthine"
+        ],
+        "chemical_amounts": {
+          "CuI": "0.38 g",
+          "dabco": "0.056 g",
+          "hypoxanthine": "0.117 g",
+          "triethylamine": "0.5 mL"
+        },
+        "time": "15 days",
+        "yield": "25%",
+        "equipment": "15 mL vial",
+        "method_details": "A mixture of CuI, dabco, hypoxanthine, DMF, and ethanol was placed in a 15 mL vial and stirred for 10 min, then triethylamine was added. The vial was sealed and heated."
+      }
+    }
+  ]
+}

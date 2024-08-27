@@ -1,0 +1,191 @@
+{
+  "materials": [
+    {
+      "name": "H2-Mn-DOBDC•DMF2 (Single crystal)",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2.5 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Mn(NO3)2.4H2O",
+            "amount": "63 mg"
+          },
+          {
+            "name": "2,5-dihydroxyterephthalic acid",
+            "amount": "50 mg"
+          },
+          {
+            "name": "Triethylamine",
+            "amount": "50 µl"
+          }
+        ],
+        "equipment": "Glass vial",
+        "time": "4 days",
+        "yield": "Not specified"
+      }
+    },
+    {
+      "name": "H2-Mn-DOBDC•DMF2 (bulk crystalline powder)",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "160 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Mn(NO3)2.4H2O",
+            "amount": "2.5 g"
+          },
+          {
+            "name": "2,5-dihydroxyterephthalic acid",
+            "amount": "2 g"
+          },
+          {
+            "name": "Triethylamine",
+            "amount": "2 ml"
+          }
+        ],
+        "equipment": "Glass vial",
+        "time": "30 min",
+        "yield": "69 %"
+      }
+    },
+    {
+      "name": "H2-Mg-DOBDC•DMF2",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "16 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Mg(NO3)2.6H2O",
+            "amount": "0.256 g"
+          },
+          {
+            "name": "2,5-dihydroxyterephthalic acid",
+            "amount": "0.200 g"
+          },
+          {
+            "name": "Triethylamine",
+            "amount": "30 µL"
+          }
+        ],
+        "equipment": "Teflon solvothermal reactor",
+        "time": "72 h",
+        "yield": "57%"
+      }
+    },
+    {
+      "name": "Mn-CPO-27 (Mn2-DOBDC)",
+      "synthesis_conditions": {
+        "temperature": "Room temperature to 70 °C",
+        "solvents": [
+          {
+            "name": "Methanol",
+            "amount": "11 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "2,5-dihydroxyterephthalic acid",
+            "amount": "198 mg"
+          },
+          {
+            "name": "NaOH",
+            "amount": "160 mg"
+          },
+          {
+            "name": "Mn(NO3)2.4H2O",
+            "amount": "3 mmol"
+          }
+        ],
+        "equipment": "Glass vial",
+        "time": "1 day to overnight",
+        "yield": "63%"
+      }
+    },
+    {
+      "name": "H2-M-DOBDC (Desolvated)",
+      "synthesis_conditions": {
+        "temperature": "200 °C",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "Not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H2-M-DOBDC•DMF2",
+            "amount": "100 mg"
+          }
+        ],
+        "equipment": "Vacuum oven",
+        "time": "32 h",
+        "yield": "Not specified"
+      }
+    },
+    {
+      "name": "Li2-Mn-DOBDC",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H2-Mn-DOBDC",
+            "amount": "125 mg"
+          },
+          {
+            "name": "LiOCH3",
+            "amount": "5.5 mL"
+          }
+        ],
+        "equipment": "Glass vial",
+        "time": "72 h",
+        "yield": "81%"
+      }
+    },
+    {
+      "name": "Li2-Mg-DOBDC",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H2-Mg-DOBDC",
+            "amount": "125 mg"
+          },
+          {
+            "name": "LiOCH3",
+            "amount": "5.5 mL"
+          }
+        ],
+        "equipment": "Glass vial",
+        "time": "72 h",
+        "yield": "86%"
+      }
+    }
+  ]
+}

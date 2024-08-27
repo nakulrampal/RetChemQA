@@ -1,0 +1,94 @@
+{
+  "MFM-520": {
+    "synthesis": {
+      "chemicals_used": "H4L ligand, {[Zn2(L)·4H2O]}∞ (MFM-520-solvate) and [Zn2(L)]∞ (activated MFM-520)",
+      "equipment": "Not specified",
+      "temperature": "Not specified",
+      "solvents": "Not specified",
+      "time": "Not specified",
+      "yield": "Not specified",
+      "washing_method": "Not specified",
+      "drying_method": "Not specified"
+    },
+    "stability_tests": {
+      "methods": [
+        "PXRD patterns measurement",
+        "N2 adsorption isotherms at 77 K"
+      ],
+      "solvents_for_stability_test": [
+        "Boiling water",
+        "Different concentrations of nitric acid solution"
+      ]
+    },
+    "gas_adsorption_isotherms": {
+      "gases_tested": [
+        "CH4",
+        "N2",
+        "CO",
+        "H2",
+        "O2",
+        "CO2",
+        "NO2"
+      ],
+      "temperatures_tested": [
+        "273K",
+        "283K",
+        "298K",
+        "303K",
+        "308K",
+        "313K",
+        "318K",
+        "323K",
+        "333K"
+      ],
+      "equipment": "Hiden Isochema IGA-003 system, Hiden Xemis system"
+    },
+    "gas_separation_breakthrough_experiment": {
+      "gases_tested": [
+        "NO2/N2 (Dry and Wet conditions)",
+        "NO2/CO2",
+        "NO2/SO2"
+      ],
+      "temperature": "298K",
+      "pressure": "1 bar",
+      "flow_rate": [
+        "16 mL min-1",
+        "18 mL min-1",
+        "26 mL min-1"
+      ],
+      "equipment": "Hiden Isochema IGA-003 with ABR attachments and a Hiden Analytical mass spectrometer"
+    },
+    "release_of_trapped_NO2_and_conversion_to_nitric_acid": {
+      "method": "Soaking NO2-loaded MFM-520 in water under stirring in air",
+      "temperature": "Room temperature",
+      "time": "10 minutes",
+      "pH_value_of_system": "1.06",
+      "concentration_of_HNO3_solution": "0.09 M"
+    },
+    "in_situ_synchrotron_single_crystal_X-ray_diffraction": {
+      "temperature_range": "273K to 373K",
+      "beamline": "11.3.1 of Advance Light Source",
+      "radiation_wavelength": "0.7749 Å"
+    },
+    "inelastic_neutron_scattering_INS": {
+      "temperature": "10 ± 0.1 K",
+      "spectrometer": "VISION at Spallation Neutron Source, Oak Ridge National Laboratory",
+      "sample_preparation": "Degassed at 10-7 mbar at 393 K for 1 day"
+    },
+    "DFT_modelling_and_simulation": {
+      "software": "Vienna Ab Initio Simulation Package (VASP)",
+      "methods": [
+        "Projector Augmented Wave (PAW) method",
+        "Perdew-Burke-Ernzerhof (PBE) implementation of the Generalized Gradient Approximation (GGA)"
+      ],
+      "energy_cut-off": "800eV",
+      "functional_for_dispersion_corrections": "optB86b-vdW"
+    },
+    "electron_paramagnetic_resonance_spectroscopy": {
+      "spectrometer": "Bruker EMX spectrometer at X-band (~9.5 GHz)",
+      "modulation_amplitude": "0.4 mT",
+      "microwave_power": "~2.0 mW",
+      "sample_preparation": "Activated at 393 K under dynamic vacuum (10-5 mbar) for 12 h"
+    }
+  }
+}

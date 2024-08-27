@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What is the primary difference in the hydrolytic stability mechanism between STAM-17-OEt and HKUST-1?",
+      "answer": "STAM-17-OEt exhibits better hydrolytic stability through a mechanism where 'sacrificial' bonds in its coordination environment break upon rehydration, allowing it to recover its hydrated structure without structural degradation. In contrast, HKUST-1 lacks these sacrificial bonds, leading to indiscriminate breaking of coordination bonds and loss of crystallinity under the same conditions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of 'sacrificial' bonds in STAM-17-OEt contribute to its hydrolytic stability?",
+      "answer": "The 'sacrificial' bonds in STAM-17-OEt act as weak, breakable interactions that, upon rehydration, break preferentially, allowing the framework to revert to its original hydrated form without compromising the structural integrity of the metal-linker framework bonds.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental evidence supports the improved hydrolytic stability of STAM-17-OEt compared to HKUST-1?",
+      "answer": "Experimental evidence includes the unchanged mass and infrared spectra of STAM-17-OEt after exposure to moisture and humidity cycling, indicating no structural degradation, unlike HKUST-1 which shows significant mass change and structural breakdown under similar conditions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What role do weak interactions play in the dehydration and rehydration process of STAM-17-OEt?",
+      "answer": "In the dehydration process of STAM-17-OEt, weak interactions form between Cu centers and adjacent paddlewheel clusters. Upon rehydration, these weak bonds break, allowing the framework to revert to its hydrated form, utilizing the energy from water adsorption to break these bonds rather than the structural bonds.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The hydrolytic stability of STAM-17-OEt is primarily due to the electronic effects from the ligand's side chain.",
+      "answer": "False. The hydrolytic stability of STAM-17-OEt is primarily due to the presence of weak, sacrificial bonds in its structure, not the electronic effects from the ligand's side chain, as demonstrated by the similar stability of STAM-1-CO2Me which has a different electronic structure.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the structural change upon dehydration and rehydration of STAM-17-OEt compare to that of HKUST-1?",
+      "answer": "Upon dehydration, STAM-17-OEt undergoes a structural change that involves the formation of weak interactions, which are reversible upon rehydration. HKUST-1, however, undergoes structural degradation upon interaction with water due to the lack of such reversible weak interactions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the 'crumple zone' mechanism in STAM-17-OEt's structure?",
+      "answer": "The 'crumple zone' mechanism in STAM-17-OEt's structure allows it to absorb and redirect the energy from water adsorption to break weak, sacrificial bonds rather than critical structural bonds, thereby maintaining its structural integrity in the presence of moisture.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption capacity of STAM-17-OEt for ammonia decreases after exposure to moisture.",
+      "answer": "False. The adsorption capacity of STAM-17-OEt for ammonia slightly increases or remains constant even after exposure to moisture, indicating its improved performance and stability in humid conditions compared to HKUST-1.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental techniques were used to demonstrate the hydrolytic stability of STAM-17-OEt?",
+      "answer": "Techniques used include dynamic vapor sorption (DVS) for monitoring mass changes upon moisture exposure, humidity cycling experiments, infrared spectroscopy for structural analysis, and ammonia micro-breakthrough testing for adsorption capacity.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The structural integrity of HKUST-1 remains unchanged after prolonged exposure to water.",
+      "answer": "False. HKUST-1 undergoes significant structural degradation and loss of crystallinity after prolonged exposure to water, unlike STAM-17-OEt which maintains its structural integrity.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

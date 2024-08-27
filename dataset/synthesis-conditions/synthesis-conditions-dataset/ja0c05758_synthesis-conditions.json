@@ -1,0 +1,48 @@
+{
+  "materials": [
+    {
+      "name": "PCN-808",
+      "synthesis_conditions": {
+        "temperature": "120 ºC",
+        "solvents": ["DMF"],
+        "amount_of_each_solvent": ["3 mL"],
+        "chemicals_used": ["ZrCl4 (20 mg)", "H4TPTB (10 mg)", "benzoic acid (800 mg)"],
+        "time": "72 h",
+        "yield": "58 %"
+      }
+    },
+    {
+      "name": "PCN-808-BPDC",
+      "synthesis_conditions": {
+        "temperature": "100 oC",
+        "solvents": ["DMF"],
+        "amount_of_each_solvent": ["40 mL"],
+        "chemicals_used": ["PCN-808 (100 mg)", "H2BPDC (200 mg)"],
+        "time": "24 h",
+        "yield": "97 %"
+      }
+    },
+    {
+      "name": "PCN-808-BDBR",
+      "synthesis_conditions": {
+        "temperature": "100 oC",
+        "solvents": ["DMF"],
+        "amount_of_each_solvent": ["40 mL"],
+        "chemicals_used": ["PCN-808 (100 mg)", "H2BDBR (80 mg)"],
+        "time": "24 h",
+        "yield": "94 %"
+      }
+    },
+    {
+      "name": "UiO-67-Ru",
+      "synthesis_conditions": {
+        "temperature": "100 ºC",
+        "solvents": ["DMF"],
+        "amount_of_each_solvent": ["1.5 mL"],
+        "chemicals_used": ["ZrCl4 (10 mg)", "H2BPDC (9 mg)", "H2BDBR (2 mg)", "acetic acid (82 µL)"],
+        "time": "24 h",
+        "yield": "75 %"
+      }
+    }
+  ]
+}

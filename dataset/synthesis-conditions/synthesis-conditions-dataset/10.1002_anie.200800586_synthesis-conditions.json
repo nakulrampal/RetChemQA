@@ -1,0 +1,104 @@
+{
+  "materials": [
+    {
+      "name": "Racemic L",
+      "synthesis_conditions": {
+        "yield": "70%",
+        "method": "Suzuki coupling",
+        "reactants": [
+          "4-pyridylboronic acid",
+          "tris(iododuryl)borane"
+        ],
+        "solvents": [],
+        "temperature": "Not specified",
+        "time": "Not specified",
+        "equipment": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "characterization_techniques": [
+          "1H NMR spectroscopy",
+          "13C NMR spectroscopy",
+          "ESI mass spectrometry"
+        ]
+      }
+    },
+    {
+      "name": "Compounds [MX2L]·G",
+      "synthesis_conditions": {
+        "yield": "Good yields",
+        "method": "Heating a mixture",
+        "reactants": [
+          "MX2·n H2O",
+          "L"
+        ],
+        "solvents": [
+          {
+            "name": "DMSO",
+            "amount": "1 mL"
+          },
+          {
+            "name": "MeOH",
+            "amount": "2 mL"
+          },
+          {
+            "name": "Toluene",
+            "amount": "0.5 mL"
+          }
+        ],
+        "temperature": "80°C",
+        "time": "Two days",
+        "equipment": "Small vial, sealed",
+        "washing_method": "Washed with diethyl ether",
+        "drying_method": "Dried in air",
+        "characterization_techniques": [
+          "Microanalysis",
+          "IR spectroscopy",
+          "Thermogravimetry (TGA)"
+        ]
+      }
+    },
+    {
+      "name": "1 a–1 f, 2, 3",
+      "synthesis_conditions": {
+        "yield": [
+          "1 a: 70%",
+          "1 b: 81%",
+          "1 c: 72%",
+          "1 d: 68%",
+          "1 e: 71%",
+          "1 f: 78%",
+          "2: 86%",
+          "3: 80%"
+        ],
+        "method": "Heating a mixture",
+        "reactants": [
+          "MX2·n H2O (0.005 mmol)",
+          "L (0.005 mmol)"
+        ],
+        "solvents": [
+          {
+            "name": "DMSO",
+            "amount": "1 mL"
+          },
+          {
+            "name": "CH3OH",
+            "amount": "2 mL"
+          },
+          {
+            "name": "Toluene",
+            "amount": "0.5 mL"
+          }
+        ],
+        "temperature": "80°C",
+        "time": "Two days",
+        "equipment": "Small vial, sealed",
+        "washing_method": "Washed with diethyl ether",
+        "drying_method": "Dried in air",
+        "characterization_techniques": [
+          "Elemental analysis",
+          "IR spectroscopy"
+        ]
+      }
+    }
+  ]
+}

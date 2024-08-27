@@ -1,0 +1,77 @@
+{
+  "materials": [
+    {
+      "material": "Compound 2",
+      "synthesis_conditions": {
+        "temperature": "-78 °C to room temperature",
+        "solvents": [
+          {
+            "name": "Dry diethyl ether",
+            "amount": "30 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "Hexamethyldisilylazane",
+            "amount": "2.0 mL, 9.6 mmol"
+          },
+          {
+            "name": "n-Butyl lithium",
+            "amount": "7.2 mL, 1.6M, 11.52 mmol"
+          },
+          {
+            "name": "4-Pyridinecarbonitrile",
+            "amount": "1.002 g, 9.62 mmol"
+          },
+          {
+            "name": "Sulfur dichloride",
+            "amount": "1.2 mL, 19.2 mmol"
+          }
+        ],
+        "time": "45 minutes to overnight",
+        "washing_method": "Dry diethyl ether (3 x 10 mL)",
+        "drying_method": "Vacuum",
+        "yield": "0.252 g, 1.385 mmol, 14%",
+        "characterization": [
+          "ESI-MS: m/z 182.9915",
+          "EPR (9.878 GHz, CH2Cl2): 3515 G (pentet, an = 5.0 G), g = 2.008"
+        ]
+      }
+    },
+    {
+      "material": "Coordination Polymer 3",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "Tetrahydrofuran (THF)",
+            "amount": "5.0 mL"
+          },
+          {
+            "name": "Hexane",
+            "amount": "Approximately 5 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "Radical 2",
+            "amount": "0.020 g, 0.110 mmol"
+          },
+          {
+            "name": "Co(TPP)",
+            "amount": "0.072 g, 0.107 mmol"
+          }
+        ],
+        "time": "Approximately two days",
+        "washing_method": "Hexane",
+        "drying_method": "Air-dried",
+        "yield": "0.022 g, 0.022 mmol, 20.6%",
+        "characterization": [
+          "TOF MS (ES+): m/z 853.1500",
+          "IR (powder cm–1): 3052 m, 3023 m, 2995 m, 2922 m, 2851 m, 1691 w, 1597 w, 1435 w, 1350 w, 1313 w, 155 w, 1139 m br, 1070 m, 1052 m, 1007 s, 793 s, 751 s, 700 s, 581 w",
+          "UV-vis (CH2Cl2) [λmax, nm (ε, M–1 cm–1)]: 417 (1.62 × 105), 520 (1.03 × 104), 650 (2.31 × 103)"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "materials": [
+    {
+      "name": "Tb(III) and Dy(III) coordination centers",
+      "synthesis_conditions": {
+        "temperature": "60 °C (reflux)",
+        "solvent": "Methanol",
+        "chemicals_used": [
+          {
+            "chemical": "[Ln2(tmh)6]",
+            "amount": "0.21 g, 0.15 mmol"
+          },
+          {
+            "chemical": "4,4’-bpy",
+            "amount": "15 mg, 0.10 mmol (for dinuclear complexes), 90 mg, 0.60 mmol (for coordination polymers)"
+          }
+        ],
+        "time": "24 h",
+        "equipment": "Rotary evaporator",
+        "yield": "Tb-dinuclear: 0.190 g (92%), Dy-dinuclear: 0.150 g (71%), Tb-polymer: 0.188 g (89%)",
+        "washing_method": "Recrystallized from methanol",
+        "drying_method": "Under air for 1 h",
+        "characterization": [
+          "Single-crystal X-ray diffraction",
+          "Powder X-ray diffraction",
+          "IR spectroscopy",
+          "Elemental analysis"
+        ]
+      }
+    },
+    {
+      "name": "Connected Tb(III) crystal-Dy(III) crystal",
+      "synthesis_conditions": {
+        "transformation_trigger": "Pyridine vapor",
+        "transformation_conditions": "Exposed to pyridine vapor for 10 min, followed by drying under air for 1 h",
+        "characterization": [
+          "Powder X-ray diffraction",
+          "IR spectroscopy",
+          "Elemental analysis"
+        ],
+        "notes": "The transformation leads to a unique in situ crystal-to-crystal surface connection at the molecular level."
+      }
+    }
+  ]
+}

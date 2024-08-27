@@ -1,0 +1,91 @@
+{
+  "materials": [
+    {
+      "material": "1",
+      "synthesis_conditions": [
+        {
+          "temperature": "293(2) K",
+          "solvents": "Not specified",
+          "equipment": "CAD diffractometer",
+          "radiation": "graphite monochromated Mo Kα radiation (λ = 0.71069 Å)",
+          "crystal_size_mm": "0.30 x 0.22 x 0.20",
+          "scan_method": "ω scan",
+          "scan_interval_deg": "0.8 + 0.35tg(θ)",
+          "max_time_per_reflection_s": "70",
+          "theta_range_deg": "3 to 26",
+          "index_ranges": "-10<=h<=10, 0<=k<=14, 0<=l<=12",
+          "reflections_collected": "1845",
+          "independent_reflections": "1845 [R(int) = 0.0000]",
+          "crystal_decay_percent": "0",
+          "absorption_correction": "Psi-scan",
+          "no_azimut_reflections": "3",
+          "max_and_min_transmission": "0.904 and 1.0",
+          "refinement_method": "Full-matrix Least-squares on F^2",
+          "obs_reflection_criterion": "> 1 sigma(I)",
+          "data_restraints_parameters": "1643 / 0 / 187",
+          "goodness_of_fit_on_F^2": "1.096",
+          "final_R_indices": "[Fo>4σ(Fo)] R1 = 0.0255, wR2 = 0.0649; [All data] R1 = 0.0319, wR2 = 0.0748",
+          "largest_diff_peak_and_hole_e_A^-3": "0.407 and -0.636"
+        }
+      ]
+    },
+    {
+      "material": "2a",
+      "synthesis_conditions": [
+        {
+          "temperature": "293(2) K",
+          "solvents": "Not specified",
+          "equipment": "CAD diffractometer",
+          "radiation": "graphite monochromated Mo Kα radiation (λ = 0.71069 Å)",
+          "crystal_size_mm": "0.20 x 0.12 x 0.32",
+          "scan_method": "ω scan",
+          "scan_interval_deg": "1.2 + 0.35tg(θ)",
+          "max_time_per_reflection_s": "70",
+          "theta_range_deg": "3 to 25",
+          "index_ranges": "0<=h<=13, -13<=k<=15, -12<=l<=30",
+          "reflections_collected": "16538",
+          "independent_reflections": "605 [R(int) = 0.0330]",
+          "crystal_decay_percent": "5",
+          "absorption_correction": "Psi-scan",
+          "no_azimut_reflections": "30",
+          "max_and_min_transmission": "0.827 and 1.0",
+          "refinement_method": "Full-matrix Least-squares on F^2",
+          "obs_reflection_criterion": "> 1. sigma(I)",
+          "data_restraints_parameters": "605 / 59 / 91",
+          "goodness_of_fit_on_F^2": "1.107",
+          "final_R_indices": "[Fo>4σ(Fo)] R1 = 0.0267, wR2 = 0.0577; [All data] R1 = 0.0685, wR2 = 0.0692",
+          "largest_diff_peak_and_hole_e_A^-3": "0.315 and -0.437"
+        }
+      ]
+    },
+    {
+      "material": "3",
+      "synthesis_conditions": [
+        {
+          "temperature": "293(2) K",
+          "solvents": "Not specified",
+          "equipment": "CAD diffractometer",
+          "radiation": "graphite monochromated Mo Kα radiation (λ = 0.71069 Å)",
+          "crystal_size_mm": "0.14 x 0.09 x 0.08",
+          "scan_method": "ω scan",
+          "scan_interval_deg": "0.8 + 0.35tg(θ)",
+          "max_time_per_reflection_s": "70",
+          "theta_range_deg": "3 to 25",
+          "index_ranges": "-9<=h<=9, -12<=k<=12, 0<=l<=12",
+          "reflections_collected": "2791",
+          "independent_reflections": "2791 [R(int) = 0.0000]",
+          "crystal_decay_percent": "2",
+          "absorption_correction": "Psi-scan",
+          "no_azimut_reflections": "30",
+          "max_and_min_transmission": "0.915 and 1.0",
+          "refinement_method": "Full-matrix Least-squares on F^2",
+          "obs_reflection_criterion": "> 1.0 sigma(I)",
+          "data_restraints_parameters": "1982 / 0 / 244",
+          "goodness_of_fit_on_F^2": "1.105",
+          "final_R_indices": "[Fo>4σ(Fo)] R1 = 0.0417, wR2 = 0.0864; [All data] R1 = 0.0953, wR2 = 0.1129",
+          "largest_diff_peak_and_hole_e_A^-3": "0.390 and -0.345"
+        }
+      ]
+    }
+  ]
+}

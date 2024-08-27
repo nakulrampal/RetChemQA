@@ -1,0 +1,150 @@
+{
+  "materials": [
+    {
+      "name": "Tetrakis(4-bromophenyl)methane",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "Ethanol",
+            "amount": "200 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Tetraphenylmethane",
+            "amount": "2.25 g (7.02 mmol)"
+          },
+          {
+            "name": "Bromine",
+            "amount": "4.0 mL (77.8 mmol)"
+          }
+        ],
+        "time": "5 h",
+        "yield": "99.6%",
+        "washing_method": "Saturated aqueous NaHSO3 solution (80 mL×3)",
+        "drying_method": "50℃ under vacuum"
+      }
+    },
+    {
+      "name": "Tetrakis[4-(1-imidazolyl)phenyl]methane (tipm)",
+      "synthesis_conditions": {
+        "temperature": "Microwave irradiation (700 W) for 90 s",
+        "solvents": [
+          {
+            "name": "Water",
+            "amount": "10 mL"
+          },
+          {
+            "name": "MeOH",
+            "amount": "for recrystallization"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Tetrakis(4-bromophenyl)methane",
+            "amount": "0.64 g (1 mmol)"
+          },
+          {
+            "name": "Imidazole",
+            "amount": "0.70 g (10 mmol)"
+          },
+          {
+            "name": "K2CO3",
+            "amount": "0.83 g (6 mmol)"
+          },
+          {
+            "name": "CuI",
+            "amount": "0.08 g (0.4 mmol)"
+          },
+          {
+            "name": "Ethylenediaminetetraacetic acid (EDTA)",
+            "amount": "0.12 g (0.4 mmol)"
+          },
+          {
+            "name": "NH3·H2O (25~28%)",
+            "amount": "0.5 mL"
+          }
+        ],
+        "time": "5 h",
+        "yield": "50%",
+        "washing_method": "Water",
+        "drying_method": "Under vacuum"
+      }
+    },
+    {
+      "name": "SCU-101",
+      "synthesis_conditions": [
+        {
+          "temperature": "120 oC",
+          "solvents": [
+            {
+              "name": "DMF, ethanol, and water",
+              "amount": "2.5 mL (v/v/v: 4/1/20)"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Tipm ligands",
+              "amount": "0.029 g (0.05 mmol)"
+            },
+            {
+              "name": "Ni(NO3)2·6H2O",
+              "amount": "0.029 g (0.1 mmol)"
+            }
+          ],
+          "time": "3 days",
+          "yield": "~10% based on Ni"
+        },
+        {
+          "temperature": "100 oC",
+          "solvents": [
+            {
+              "name": "DMF, ethanol, and water",
+              "amount": "120 mL (v/v/v: 4/1/20)"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Tipm ligands",
+              "amount": "0.585 g (1 mmol)"
+            },
+            {
+              "name": "Ni(NO3)2·6H2O",
+              "amount": "0.291 g (1 mmol)"
+            },
+            {
+              "name": "Oxalic acid",
+              "amount": "0.09 g (1 mmol)"
+            }
+          ],
+          "time": "3 days",
+          "yield": "56% based on Ni"
+        }
+      ]
+    },
+    {
+      "name": "SCU-101-Tc/SCU-101-Re",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "Aqueous solution",
+            "amount": "1 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "SCU-101 solids",
+            "amount": "3.4 mg"
+          },
+          {
+            "name": "NH4TcO4 or NH4ReO4",
+            "amount": "10 mM"
+          }
+        ],
+        "time": "12 h"
+      }
+    }
+  ]
+}

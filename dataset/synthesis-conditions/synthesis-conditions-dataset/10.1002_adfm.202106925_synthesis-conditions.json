@@ -1,0 +1,54 @@
+{
+  "materials": [
+    {
+      "name": "ZnMOF-Solv",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": "N,N′-diethylformamide (DEF)/water",
+        "solvent_ratio": "v/v = 1/1",
+        "equipment": "solvothermal reaction",
+        "chemicals_used": "TCPE and Zn(NO3)2∙6H2O",
+        "time": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified",
+        "additional_information": "Single crystal X-ray diffraction (SCXRD) analysis reveals that ZnMOF-Solv crystallizes in the C2/c space group of the monoclinic system."
+      }
+    },
+    {
+      "name": "ZnMOF",
+      "synthesis_conditions": {
+        "activation_method": "soaking in methanol for 12 h and followed by drying",
+        "luminescence_origin": "TCPE ligand",
+        "environmental_tolerance": "high tolerance towards acidic and alkali environment",
+        "BET_surface_area": "786.7186 m2 g−1",
+        "N2_uptake": "395 cm3 g−1"
+      }
+    },
+    {
+      "name": "CoMOF-Solv",
+      "synthesis_conditions": {
+        "chemicals_used": "TCPE and Co(NO3)2∙6H2O",
+        "solvents": "not specified",
+        "temperature": "not specified",
+        "equipment": "solvothermal reaction",
+        "time": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified",
+        "additional_information": "CoMOF-Solv is synthesized by changing Zn(NO3)2∙6H2O to Co(NO3)2∙6H2O. The PXRD result of CoMOF-Solv is nearly identical to the simulated data indicating that CoMOF-Solv is a pure phase and possesses the same 3D porous topology as ZnMOF-Solv."
+      }
+    },
+    {
+      "name": "CoMOF",
+      "synthesis_conditions": {
+        "activation_method": "soaked in methanol for 12 h and then dried",
+        "UV-Vis_absorption_peak": "557 nm",
+        "color": "purple",
+        "BET_surface_area": "823.2633 m2 g−1",
+        "fluorescence_behavior": "does not emit fluorescence",
+        "additional_information": "CoMOF does not emit fluorescence as Co2+ is reported to be an effective fluorescence quencher."
+      }
+    }
+  ]
+}

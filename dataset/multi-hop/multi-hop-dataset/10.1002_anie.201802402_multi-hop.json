@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are the main components used in the synthesis of PCM-101?",
+      "answer": "PCM-101 is synthesized using tris(p-carboxylato)triphenylphosphine (P{C6H4-4-CO2H}3; tctpH3) and 4,4’-bipyridine (bipy) ligands coordinated to [M3(OH)]5+ nodes (M = Co, Ni).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the post-synthetic metalation of PCM-101 with AuCl and CuBr affect its structure and properties?",
+      "answer": "Post-synthetic metalation with AuCl causes a large distortion of the PCM-101 framework, changing its metric symmetry, while metalation with CuBr inserts Cu2Br2 squares into P2 pockets with retention of host lattice symmetry. These modifications influence the material's catalytic activity and gas sorption properties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the catalytic activity of metalated PCM-101 higher than its molecular counterparts for the hydroaddition of 4-pentyn-1-ol?",
+      "answer": "True. The metalated PCMs (CuBr-PCM-101 and AuCl-PCM-101) were significantly more active than their molecular counterparts under identical reaction conditions.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role do the high-symmetry [M3(m3-OH)]5+ clusters play in the structure of PCM-101?",
+      "answer": "The high-symmetry [M3(m3-OH)]5+ clusters act as octahedral nodes, with three equatorial cluster sites occupied by bipy-N donors, contributing to the formation of 2D bilayer sheets that are fused into 3D arrays via 4,4’-bipy inter-layer pillars.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the synthesis method of PCM-101 address the limitations of previous MOF synthesis strategies?",
+      "answer": "The synthesis of PCM-101 merges two strategies by using monophosphines to spontaneously assemble PCMs with bidentate (P2) coordination sites, offering a simpler, more versatile, and scalable method compared to previous approaches.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the post-synthetic metalation of PCM-101 maintain the crystallinity of the material?",
+      "answer": "True. Post-synthetic metalation of PCM-101 maintains long-range order, allowing for full structural analysis by single crystal X-ray diffraction (SCXRD), which is rare among MOFs.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of AuCl metalation on the symmetry and pore structure of PCM-101?",
+      "answer": "AuCl metalation of PCM-101 results in a distortion of the host lattice, causing tilting of the pores and a change in the coordination bond angles, which leads to a lowering of cell symmetry from the orthorhombic space group Immm to Pnnm.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the incorporation of CuBr into PCM-101 compare to unsupported small molecule analogues?",
+      "answer": "The incorporation of CuBr into PCM-101 compresses the Cu2Br2 dimers along the P@Cu···Cu@P vector compared to unsupported small molecule analogues, indicating that the MOF applies steric pressure to the cluster.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the catalytic activity of PCM-101 dependent on the presence of metalated sites?",
+      "answer": "True. The catalytic activity of PCM-101 in the hydroaddition of 4-pentyn-1-ol is significantly enhanced by the presence of metalated sites (CuBr and AuCl), while un-metalated PCM-101 shows no measurable activity.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental evidence supports the conclusion that catalysis occurs inside the pores of PCM-101?",
+      "answer": "The modest increase in catalytic activity observed after increasing the surface area-to-volume ratio by ball milling, and the similarity in overall conversions to molecular catalysts, suggest that catalysis predominantly occurs inside the pores of PCM-101.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the post-synthetic metalation of PCM-101 with AuCl lead to the formation of Au2Cl2 dimers?",
+      "answer": "False. The structure of AuCl-PCM-101 suggests that isolated AuCl groups are the dominant species, as the distances between Au and Cl centers in a putative dimer are too long to constitute meaningful aurophilic interactions.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of grinding on the catalytic performance of AuCl-PCM-101?",
+      "answer": "Grinding AuCl-PCM-101 to increase the surface area-to-volume ratio results in only a modest increase in catalytic activity, suggesting that the catalytic reactions predominantly occur inside the micropores rather than at the crystallite surfaces.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the thermal stability of PCM-101 affect its application in catalysis?",
+      "answer": "PCM-101 is thermally stable up to 340°C, and the desolvated materials prepared using CoII or NiII are permanently porous, which is beneficial for its application in heterogeneous catalysis under mild conditions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the structural integrity of PCM-101 compromised upon post-synthetic metalation?",
+      "answer": "False. The structural integrity of PCM-101 is maintained upon post-synthetic metalation, as evidenced by the retention of long-range order and the ability to perform full structural analysis by SCXRD.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What factors contribute to the observed decrease in catalytic activity of AuCl-PCM-101 upon recycling?",
+      "answer": "The observed decrease in catalytic activity of AuCl-PCM-101 upon recycling is attributed to a 10% decrease in total Au content, as revealed by ICP-OES analysis, indicating loss of active sites.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the synthesis of PCM-101 involve the use of pre-functionalized building blocks?",
+      "answer": "False. The synthesis of PCM-101 does not rely on pre-functionalized building blocks but instead uses monophosphines to spontaneously assemble PCMs with bidentate coordination sites, merging two previous strategies for MOF synthesis.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the P···P separation distance in the design of PCM-101?",
+      "answer": "The P···P separation distance in PCM-101 is significant because it dictates the arrangement of phosphine lone pairs in accessible trans-bis(phosphine) coordination pockets, which are crucial for post-synthetic metalation and catalytic activity.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the gas sorption analysis of PCM-101 contribute to its characterization?",
+      "answer": "Gas sorption analysis of PCM-101, using N2 and CO2, provides information on its BET surface areas and pore volumes, confirming its permanent porosity and contributing to the understanding of its structural and functional properties.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the post-synthetic metalation process of PCM-101 conducted at elevated temperatures?",
+      "answer": "False. The post-synthetic coordination of soft metals to the P: sites in PCM-101, such as with AuCl and CuBr, proceeds at room temperature, demonstrating the material's versatility for metalation under mild conditions.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What challenges does the synthesis of PCM-101 address in the context of MOF development?",
+      "answer": "The synthesis of PCM-101 addresses challenges such as the need for a simpler, more versatile, and scalable method for MOF synthesis, the incorporation of structurally well-defined metal sites by design, and the maintenance of crystallinity for full structural determination.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

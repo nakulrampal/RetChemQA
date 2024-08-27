@@ -1,0 +1,100 @@
+{
+  "materials": [
+    {
+      "name": "ZPF-2-Co",
+      "synthesis": [
+        {
+          "step": 1,
+          "details": {
+            "chemicals_used": [
+              "5-fluoropyrimidin-2-olate (F-pymo)",
+              "Co2+ salt",
+              "NaOH"
+            ],
+            "solvents": [
+              {
+                "name": "deionized water",
+                "amount": "10 mL"
+              }
+            ],
+            "temperature": "room temperature",
+            "equipment": "none specified",
+            "time": "5 min",
+            "yield": "not specified",
+            "washing_method": "centrifugation and washed with deionized water",
+            "drying_method": "none specified"
+          }
+        },
+        {
+          "step": 2,
+          "details": {
+            "chemicals_used": [
+              "CoAc2·4H2O",
+              "5-fluoro-2-hydroxypyrimidine"
+            ],
+            "solvents": [
+              {
+                "name": "H2O/MeOH",
+                "amount": "solution (7/3)"
+              }
+            ],
+            "temperature": "room temperature",
+            "equipment": "none specified",
+            "time": "3 days",
+            "yield": "not specified",
+            "washing_method": "none specified",
+            "drying_method": "none specified"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Powder ZPF-2-Co for water harvesting",
+      "synthesis": [
+        {
+          "step": 1,
+          "details": {
+            "chemicals_used": [
+              "as-synthesized and activated ZPF-2-Co"
+            ],
+            "solvents": "none",
+            "temperature": "373K under vacuum",
+            "equipment": "vacuum for 12h",
+            "time": "12h",
+            "yield": "not specified",
+            "washing_method": "none",
+            "drying_method": "vacuum at 373K"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Polymer-ZPF-2-Co actuators",
+      "synthesis": [
+        {
+          "step": 1,
+          "details": {
+            "chemicals_used": [
+              "PVA",
+              "Glycerol",
+              "dimethicone",
+              "ZPF-2-Co"
+            ],
+            "solvents": [
+              {
+                "name": "water",
+                "amount": "10.0 g"
+              }
+            ],
+            "temperature": "room temperature",
+            "equipment": "draw-down coating method with a coating apparatus",
+            "time": "drying time not specified, activation under vacuum at 80 ºC for 6 h",
+            "yield": "not specified",
+            "washing_method": "none",
+            "drying_method": "activated under vacuum at 80 ºC for 6 h"
+          }
+        }
+      ]
+    }
+  ]
+}

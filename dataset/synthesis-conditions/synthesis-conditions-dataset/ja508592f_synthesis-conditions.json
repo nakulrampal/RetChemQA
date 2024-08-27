@@ -1,0 +1,36 @@
+{
+  "materials": [
+    {
+      "name": "RSMOF-1",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "indium nitrate monohydrate (In(NO3)3·H2O)",
+              "amount": "61.4 mg"
+            },
+            {
+              "name": "2-amino-1,4-benzenedicarboxylic acid (NH2-BDC)",
+              "amount": "77.1 mg"
+            },
+            {
+              "name": "1,4-diazabicyclo[2.2.2]octane (DABCO)",
+              "amount": "20.0 mg"
+            },
+            {
+              "name": "N,N-dimethylformamide (DMF)",
+              "amount": "5.0 g"
+            }
+          ],
+          "equipment": "Teflon-lined stainless steel autoclave",
+          "temperature": "120 °C",
+          "time": "3 days",
+          "washing_method": "thoroughly washed with DMF",
+          "yield": "~70%",
+          "crystal_morphology": "hexagonal prismatic"
+        }
+      ]
+    }
+  ]
+}

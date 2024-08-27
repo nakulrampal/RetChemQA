@@ -1,0 +1,102 @@
+{
+  "Compounds": [
+    {
+      "Name": "Compound 1",
+      "Synthesis Conditions": {
+        "Temperature": "120 °C",
+        "Solvents": [
+          {
+            "Name": "DMF",
+            "Amount": "2 mL"
+          },
+          {
+            "Name": "H2O",
+            "Amount": "0.5 mL"
+          },
+          {
+            "Name": "Ethanol",
+            "Amount": "0.5 mL"
+          },
+          {
+            "Name": "CH3COOH",
+            "Amount": "0.4 mL"
+          }
+        ],
+        "Chemicals Used": [
+          {
+            "Name": "H4TTFTB",
+            "Amount": "0.013 g, 0.034 mmol"
+          },
+          {
+            "Name": "In(NO3)3·4.5H2O",
+            "Amount": "0.020 g, 0.052 mmol"
+          }
+        ],
+        "Time": "72 h",
+        "Washing Method": "Washed with DMF and CH3COCH3 three times",
+        "Yield": "82.57% (based on H4TTFTB)"
+      }
+    },
+    {
+      "Name": "Compound 2",
+      "Synthesis Conditions": {
+        "Temperature": "60 °C for 72 h, then 120 °C for 72 h",
+        "Solvents": [
+          {
+            "Name": "DMF",
+            "Amount": "2 mL"
+          },
+          {
+            "Name": "H2O",
+            "Amount": "0.5 mL"
+          },
+          {
+            "Name": "Ethanol",
+            "Amount": "0.5 mL"
+          },
+          {
+            "Name": "CH3COOH",
+            "Amount": "0.3 mL initially, additional 0.3 mL added before heating to 120 °C"
+          }
+        ],
+        "Chemicals Used": [
+          {
+            "Name": "H4TTFTB",
+            "Amount": "0.013 g, 0.034 mmol"
+          },
+          {
+            "Name": "In(NO3)3·4.5H2O",
+            "Amount": "0.020 g, 0.052 mmol"
+          }
+        ],
+        "Time": "144 h total",
+        "Washing Method": "Washed with DMF and CH3COCH3 three times",
+        "Yield": "43.79% (based on H4TTFTB)"
+      }
+    },
+    {
+      "Name": "I3-@1",
+      "Synthesis Conditions": {
+        "Method": "Soaked crystals of Compound 1 in a solution of I2 in cyclohexane (0.1 M) at room temperature",
+        "Time": "12 h",
+        "Washing Method": "Washed with cyclohexane"
+      }
+    },
+    {
+      "Name": "I3-@2",
+      "Synthesis Conditions": {
+        "Method": "Soaked crystals of Compound 2 in a solution of I2 in cyclohexane (0.1 M) at room temperature",
+        "Time": "12 h",
+        "Washing Method": "Washed with cyclohexane"
+      }
+    },
+    {
+      "Name": "[Me4N]+@2, [Et4N]+@2, and [Bu4N]+@2",
+      "Synthesis Conditions": {
+        "Method": "Crystals of Compound 2 were immersed in 0.01 mol L-1 [Me4N]Cl, [Et4N]Cl, or [Bu4N]Cl DMF solution, respectively",
+        "Time": "10 days, solution changed every 12 h",
+        "Washing Method": "Immersed in fresh DMF for one day to remove the guest cations"
+      }
+    }
+  ]
+}

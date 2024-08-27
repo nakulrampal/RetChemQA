@@ -1,0 +1,147 @@
+{
+  "materials": [
+    {
+      "name": "UiO-68-BTTB",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": "DMF",
+        "amount_of_solvent": "4 mL",
+        "chemicals_used": [
+          "ZrOCl2 · 8H2O (21.0 mg, 0.066 mmol)",
+          "organic linker (0.075 mmol)",
+          "acetate acid (600 μL)"
+        ],
+        "time": "24 hours",
+        "equipment": "20 mL vial, oil bath, mild stir",
+        "size": "about 300 nm"
+      }
+    },
+    {
+      "name": "UiO-68-MBTB",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": "DMF",
+        "amount_of_solvent": "4 mL",
+        "chemicals_used": [
+          "ZrOCl2 · 8H2O (21.0 mg, 0.066 mmol)",
+          "organic linker (0.075 mmol)",
+          "acetate acid (175 μL)"
+        ],
+        "time": "24 hours",
+        "equipment": "20 mL vial, oil bath, mild stir",
+        "size": "about 500 nm"
+      }
+    },
+    {
+      "name": "UiO-68-BTMB",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": "DMF",
+        "amount_of_solvent": "4 mL",
+        "chemicals_used": [
+          "ZrOCl2 · 8H2O (21.0 mg, 0.066 mmol)",
+          "organic linker (0.075 mmol)",
+          "acetate acid (250 μL)"
+        ],
+        "time": "24 hours",
+        "equipment": "20 mL vial, oil bath, mild stir",
+        "size": "about 250 nm"
+      }
+    },
+    {
+      "name": "UiO-68-BSMB",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": "DMF",
+        "amount_of_solvent": "4 mL",
+        "chemicals_used": [
+          "ZrOCl2 · 8H2O (21.0 mg, 0.066 mmol)",
+          "organic linker (0.075 mmol)",
+          "acetate acid (250 μL)"
+        ],
+        "time": "24 hours",
+        "equipment": "20 mL vial, oil bath, mild stir",
+        "size": "about 300 nm"
+      }
+    },
+    {
+      "name": "UiO-68-NSMB",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": "DMF",
+        "amount_of_solvent": "4 mL",
+        "chemicals_used": [
+          "ZrOCl2 · 8H2O (21.0 mg, 0.066 mmol)",
+          "organic linker (0.075 mmol)",
+          "acetate acid (300 μL)"
+        ],
+        "time": "24 hours",
+        "equipment": "20 mL vial, oil bath, mild stir",
+        "size": "about 200 nm"
+      }
+    },
+    {
+      "name": "UiO-68-BTTBA",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": "DMF",
+        "amount_of_solvent": "4 mL",
+        "chemicals_used": [
+          "ZrOCl2 · 8H2O (21.0 mg, 0.066 mmol)",
+          "organic linker (0.075 mmol)",
+          "acetate acid (200 μL)"
+        ],
+        "time": "24 hours",
+        "equipment": "20 mL vial, oil bath, mild stir",
+        "size": "Difficult to obtain octagon-shaped morphology"
+      }
+    },
+    {
+      "name": "HIAM-4022",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "DMF",
+        "amount_of_solvent": "3 mL",
+        "chemicals_used": [
+          "H4BTHTC (10 mg)",
+          "ZrCl4 (23.3 mg)",
+          "trifluoroacetic acid (0.1 mL)",
+          "4-aminobenzoic acid (0.8 g)"
+        ],
+        "time": "4 days",
+        "equipment": "5 mL vial, preheated oven",
+        "shape": "Light yellow hexagonal prism-shaped single crystals"
+      }
+    },
+    {
+      "name": "nano-HIAM-4022",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": "DMF",
+        "amount_of_solvent": "3 mL",
+        "chemicals_used": [
+          "H4BTHTC (10 mg)",
+          "ZrOCl2 · 8H2O (20 mg)",
+          "formic acid (300 μL to 700 μL)"
+        ],
+        "time": "30 min",
+        "size_control": "150 nm to 3 μm based on formic acid volume"
+      }
+    },
+    {
+      "name": "series of csq-type nano-LMOFs",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": "DMF",
+        "amount_of_solvent": "3 mL",
+        "chemicals_used": [
+          "linker (10 mg)",
+          "ZrOCl2 · 8H2O (20 mg)",
+          "formic acid (varied volume)"
+        ],
+        "time": "30 min",
+        "size_control": "100 nm to 300 nm based on formic acid volume"
+      }
+    }
+  ]
+}

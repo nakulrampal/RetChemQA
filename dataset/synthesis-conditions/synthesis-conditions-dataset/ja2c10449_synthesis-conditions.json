@@ -1,0 +1,118 @@
+{
+  "materials": [
+    {
+      "name": "N,N′-ethylenebis(acetamide) (eba)",
+      "synthesis_conditions": {
+        "temperature": "0 °C to room temperature",
+        "solvents": [
+          {
+            "name": "dichloromethane (DCM)",
+            "amount": "30 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ethylenediamine",
+            "amount": "0.66 mL, 9.9 mmol"
+          },
+          {
+            "name": "acetic anhydride",
+            "amount": "2.1 mL, 22 mmol"
+          },
+          {
+            "name": "triethylamine",
+            "amount": "4.2 mL, 30 mmol"
+          }
+        ],
+        "time": "2 h",
+        "yield": "1.02 g, 72%"
+      }
+    },
+    {
+      "name": "M(eba)3[M′X4]",
+      "synthesis_conditions": [
+        {
+          "name": "Mn(eba)3[MnCl4]",
+          "temperature": "60 °C to ambient temperature",
+          "solvents": [
+            {
+              "name": "methanol (MeOH)",
+              "amount": "5 mL"
+            },
+            {
+              "name": "acetonitrile (MeCN)",
+              "amount": "8 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "MnCl2",
+              "amount": "50.2 mg, 0.4 mmol"
+            },
+            {
+              "name": "eba",
+              "amount": "90 mg, 0.6 mmol"
+            }
+          ],
+          "time": "0.5 h",
+          "washing_method": "diethyl ether (Et2O)",
+          "drying_method": "flowing N2"
+        },
+        {
+          "name": "Mn(eba)3[ZnCl4]",
+          "temperature": "60 °C to ambient temperature",
+          "solvents": [
+            {
+              "name": "methanol (MeOH)",
+              "amount": "2 mL"
+            },
+            {
+              "name": "ethanol (EtOH)",
+              "amount": "2 mL"
+            },
+            {
+              "name": "acetonitrile (MeCN)",
+              "amount": "8 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "MnCl2",
+              "amount": "25.1 mg, 0.2 mmol"
+            },
+            {
+              "name": "ZnCl2",
+              "amount": "54.5 mg, 0.4 mmol"
+            },
+            {
+              "name": "eba",
+              "amount": "90 mg, 0.6 mmol"
+            }
+          ],
+          "time": "0.5 h",
+          "washing_method": "diethyl ether (Et2O)",
+          "drying_method": "flowing N2"
+        }
+      ]
+    },
+    {
+      "name": "1-Mn/Co(Zn)",
+      "synthesis_conditions": {
+        "temperature": "200 °C",
+        "solvents": [],
+        "chemicals_used": [
+          {
+            "name": "Mn(eba)3[ZnCl4]",
+            "amount": "10 mg, 0.014 mmol"
+          },
+          {
+            "name": "Co(eba)3[ZnCl4]",
+            "amount": "10 mg, 0.014 mmol"
+          }
+        ],
+        "time": "Not specified",
+        "drying_method": "quench cooling to −35 °C under N2 atmosphere"
+      }
+    }
+  ]
+}

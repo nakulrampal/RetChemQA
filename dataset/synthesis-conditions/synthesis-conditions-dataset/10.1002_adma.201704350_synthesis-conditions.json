@@ -1,0 +1,61 @@
+{
+  "materials": [
+    {
+      "name": "MCF-61 or 1",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "ethanol",
+        "amount_of_solvent": "60 mL",
+        "equipment": "100 mL Teflon reactor",
+        "chemicals_used": {
+          "NiCl2·6H2O": "0.238 g, 1 mmol",
+          "tpt": "0.208 g, 0.67 mmol",
+          "dimethyl oxalate": "0.12 g, 1 mmol"
+        },
+        "time": "72 h",
+        "cooling_rate": "5 °C h−1",
+        "washing_method": "washed by ethanol",
+        "drying_method": "dried under vacuum",
+        "yield": "≈85%"
+      }
+    },
+    {
+      "name": "MCF-62 or 2",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": "ethanol",
+        "amount_of_solvent": "60 mL",
+        "equipment": "100 mL Teflon reactor",
+        "chemicals_used": {
+          "NiCl2·6H2O": "0.238 g, 1 mmol",
+          "tppa": "0.318 g, 0.67 mmol",
+          "dimethyl oxalate": "0.12 g, 1 mmol"
+        },
+        "time": "72 h",
+        "cooling_rate": "5 °C h−1",
+        "washing_method": "washed by ethanol",
+        "drying_method": "dried under vacuum",
+        "yield": "≈80%"
+      }
+    },
+    {
+      "name": "MCF-63 or 3",
+      "synthesis_conditions": {
+        "temperature": "140 °C",
+        "solvents": "ethanol",
+        "amount_of_solvent": "60 mL",
+        "equipment": "100 mL Teflon reactor",
+        "chemicals_used": {
+          "NiCl2·6H2O": "0.238 g, 1 mmol",
+          "tppt": "0.361 g, 0.67 mmol",
+          "dimethyl oxalate": "0.12 g, 1 mmol"
+        },
+        "time": "72 h",
+        "cooling_rate": "5 °C h−1",
+        "washing_method": "washed by ethanol",
+        "drying_method": "dried under vacuum",
+        "yield": "≈80%"
+      }
+    }
+  ]
+}

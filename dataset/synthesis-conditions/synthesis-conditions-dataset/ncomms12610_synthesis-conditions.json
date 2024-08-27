@@ -1,0 +1,126 @@
+{
+  "materials": [
+    {
+      "label": "UiO-68",
+      "temperature": "120 ºC",
+      "solvents": [
+        {
+          "name": "DMF",
+          "amount": "0.8 mL"
+        },
+        {
+          "name": "trifluoroacetic acid",
+          "amount": "15.4 µL"
+        }
+      ],
+      "equipment": "1 dram vial",
+      "chemicals_used": [
+        {
+          "name": "ZrCl4",
+          "amount": "1.30 mg"
+        },
+        {
+          "name": "1,4-bis(4-carboxyphenyl)benzene",
+          "amount": "1.6 mg"
+        }
+      ],
+      "time": "3 days",
+      "yield": "95%",
+      "drying_method": "vacuo",
+      "characterization_methods": [
+        "Powder X-ray diffraction",
+        "TGA",
+        "ICP-MS"
+      ]
+    },
+    {
+      "label": "UiO-CoCl",
+      "temperature": "-30 ºC to room temperature",
+      "solvents": [
+        {
+          "name": "THF",
+          "amount": "3 mL"
+        }
+      ],
+      "equipment": "vial",
+      "chemicals_used": [
+        {
+          "name": "nBuLi",
+          "amount": "33 µL"
+        },
+        {
+          "name": "CoCl2",
+          "amount": "6.0 mg"
+        }
+      ],
+      "time": "overnight",
+      "washing_method": "THF",
+      "yield": "100% Co-loading",
+      "drying_method": "vacuo",
+      "characterization_methods": [
+        "Powder X-ray diffraction",
+        "TGA",
+        "ICP-MS"
+      ]
+    },
+    {
+      "label": "UiO-FeBr",
+      "temperature": "-30 ºC to room temperature",
+      "solvents": [
+        {
+          "name": "THF",
+          "amount": "3 mL"
+        }
+      ],
+      "equipment": "vial",
+      "chemicals_used": [
+        {
+          "name": "nBuLi",
+          "amount": "33 µL"
+        },
+        {
+          "name": "FeBr2(THF)2",
+          "amount": "16.5 mg"
+        }
+      ],
+      "time": "overnight",
+      "washing_method": "THF",
+      "yield": "100% Fe-loading",
+      "drying_method": "vacuo",
+      "characterization_methods": [
+        "Powder X-ray diffraction",
+        "TGA",
+        "ICP-MS"
+      ]
+    },
+    {
+      "label": "Zr6O4(OCoCl)4O4(OMc)12",
+      "temperature": "room temperature",
+      "solvents": [
+        {
+          "name": "THF",
+          "amount": "2 mL"
+        }
+      ],
+      "equipment": "vial",
+      "chemicals_used": [
+        {
+          "name": "nBuLi",
+          "amount": "150 µL"
+        },
+        {
+          "name": "CoCl2",
+          "amount": "48.3 mg"
+        }
+      ],
+      "time": "overnight",
+      "washing_method": "Et2O",
+      "yield": "48%",
+      "drying_method": "vacuo",
+      "characterization_methods": [
+        "ICP-MS",
+        "HRMS"
+      ]
+    }
+  ]
+}

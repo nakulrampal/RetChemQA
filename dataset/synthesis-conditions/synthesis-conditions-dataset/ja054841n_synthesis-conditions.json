@@ -1,0 +1,42 @@
+{
+  "materials": [
+    {
+      "name": "MOF based on exo-tetradentate ligand and Co(II) center",
+      "synthesis_conditions": [
+        {
+          "step": "1",
+          "chemicals_used": [
+            {
+              "name": "4,4‘-tppcp",
+              "amount": "0.115 g",
+              "molarity": "2.0 mmol"
+            },
+            {
+              "name": "Co(O2CMe)2·4H2O",
+              "amount": "0.05 g",
+              "molarity": "2.0 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "MeOH",
+              "amount": "20 mL"
+            },
+            {
+              "name": "toluene",
+              "amount": "40 mL"
+            }
+          ],
+          "reaction_conditions": {
+            "temperature": "Room temperature",
+            "time": "2 weeks"
+          },
+          "product": {
+            "name": "[Co(O2CMe)2(4,4‘-tppcp)]·2MeOH·toluene",
+            "yield": "70%"
+          }
+        }
+      ]
+    }
+  ]
+}

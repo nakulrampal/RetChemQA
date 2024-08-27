@@ -1,0 +1,58 @@
+{
+  "materials": [
+    {
+      "name": "optically pure AIEgen MOF",
+      "synthesis_conditions": {
+        "temperature": "95 8C",
+        "time": "24 h",
+        "solvents": "mixed solvent (DMF/ethanol/H2O)",
+        "chemicals_used": [
+          {
+            "name": "TPyPE",
+            "role": "achiral AIEgen"
+          },
+          {
+            "name": "Cam",
+            "role": "chiral camphoric acid"
+          },
+          {
+            "name": "Cd(NO3)2.4H2O",
+            "role": "metal ion source"
+          }
+        ],
+        "equipment": "solvothermal reaction setup",
+        "yield": "Colorless transparent, hexagonal crystals",
+        "crystal_size": "100 to 300 mm",
+        "additional_information": "Scanning electronic microscopy (SEM) showed the size of the crystals."
+      }
+    },
+    {
+      "name": "d-MOF",
+      "synthesis_conditions": {
+        "crystal_structure": "chiral hexagonal space group, P6222",
+        "crystal_parameters": {
+          "a": "16.5556",
+          "b": "16.5556",
+          "c": "47.8604",
+          "alpha": "90",
+          "beta": "90",
+          "gamma": "120",
+          "volume": "11360.5"
+        },
+        "packing_pattern": "hexagonal",
+        "optical_microscopy": "diffraction pattern at the macroscopic scale, hexagonal nature of the crystals"
+      }
+    },
+    {
+      "name": "l-MOF",
+      "synthesis_conditions": {
+        "crystal_structure": "chiral hexagonal space group, P6422",
+        "crystal_parameters": {
+          "packing_manner": "left-handed for CdII ions, l-Cam, and TPyPE",
+          "mirror_relation": "mirrors of those in d-MOF"
+        },
+        "powder_XRD": "similar layered packing mode as d-MOF"
+      }
+    }
+  ]
+}

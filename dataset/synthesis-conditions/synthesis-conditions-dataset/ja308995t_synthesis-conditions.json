@@ -1,0 +1,69 @@
+{
+  "materials": [
+    {
+      "material_name": "Zn(NO3)2·6H2O and H4TBAPy in DMF, dioxane, and H2O mixture",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "solvent_name": "DMF",
+            "amount": "2.5 mL"
+          },
+          {
+            "solvent_name": "dioxane",
+            "amount": "1.25 mL"
+          },
+          {
+            "solvent_name": "H2O",
+            "amount": "1.25 mL"
+          }
+        ],
+        "equipment": "12 mL sealed vial",
+        "chemicals_used": [
+          {
+            "chemical_name": "Zn(NO3)2·6H2O",
+            "amount": "9 mg",
+            "molarity": "0.030 mmol"
+          },
+          {
+            "chemical_name": "H4TBAPy",
+            "amount": "10 mg",
+            "molarity": "0.015 mmol"
+          },
+          {
+            "chemical_name": "HCl",
+            "amount": "10 μL"
+          }
+        ],
+        "time": "72 h",
+        "cooling_rate": "0.2 °C/min",
+        "yield": "41% based on Zn",
+        "washing_method": "filtered and washed with 10 mL of the same mixture of solvents used for the synthesis",
+        "drying_method": "Not specified",
+        "additional_information": "The resulting yellow block crystals were obtained after cooling to 30 °C."
+      }
+    },
+    {
+      "material_name": "Desolvated phase 1′",
+      "synthesis_conditions": {
+        "temperature": "110 °C",
+        "equipment": "dynamic vacuum (10−5 mbar)",
+        "time": "overnight",
+        "additional_information": "The desolvated phase 1′ was obtained from 1 by outgassing, resulting in a color change from pale- to dark-yellow."
+      }
+    },
+    {
+      "material_name": "Regenerated phase of 1",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "solvent_name": "dioxane",
+            "state": "liquid or vapor"
+          }
+        ],
+        "time": "overnight",
+        "additional_information": "The regenerated phase of 1 was obtained by exposing 1′ to air and dioxane vapor or immersing it in liquid dioxane."
+      }
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "materials": [
+    {
+      "material_id": "1",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "DEF",
+            "amount": "3 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "1 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "R-L-H4",
+            "amount": "20 mg"
+          },
+          {
+            "name": "Cu(NO3)2·2.5H2O",
+            "amount": "40 mg"
+          }
+        ],
+        "additional_steps": [
+          {
+            "step": "Addition of HCl",
+            "details": "several drops of HCl (3M, aq.)"
+          }
+        ],
+        "time": "3 days",
+        "yield": "63%",
+        "drying_method": "filtration",
+        "solvent_content": {
+          "DEF": "48.4%",
+          "H2O": "13.6%"
+        }
+      }
+    },
+    {
+      "material_id": "2",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "3 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "1 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "R-L-H4",
+            "amount": "20 mg"
+          },
+          {
+            "name": "Cu(NO3)2·2.5H2O",
+            "amount": "40 mg"
+          }
+        ],
+        "additional_steps": [
+          {
+            "step": "Addition of HCl",
+            "details": "several drops of HCl (3M, aq.)"
+          }
+        ],
+        "time": "3 days",
+        "yield": "94%",
+        "drying_method": "filtration",
+        "solvent_content": {
+          "DMF": "46.2%",
+          "H2O": "15.2%"
+        }
+      }
+    },
+    {
+      "material_id": "3",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "3 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "1 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "rac-L-H4",
+            "amount": "20 mg"
+          },
+          {
+            "name": "Cu(NO3)2·2.5H2O",
+            "amount": "40 mg"
+          }
+        ],
+        "additional_steps": [
+          {
+            "step": "Addition of HCl",
+            "details": "several drops of HCl (3M, aq.)"
+          }
+        ],
+        "time": "3 days",
+        "yield": "81%",
+        "drying_method": "filtration",
+        "solvent_content": {
+          "DMF": "36.4%",
+          "H2O": "6.4%"
+        }
+      }
+    },
+    {
+      "material_id": "4",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "DEF",
+            "amount": "3 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "1 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "rac-L-H4",
+            "amount": "20 mg"
+          },
+          {
+            "name": "Cu(NO3)2·2.5H2O",
+            "amount": "40 mg"
+          }
+        ],
+        "additional_steps": [
+          {
+            "step": "Addition of HCl",
+            "details": "several drops of HCl (3M, aq.)"
+          }
+        ],
+        "time": "3 days",
+        "yield": "71%",
+        "drying_method": "filtration",
+        "solvent_content": {
+          "DEF": "48.1%",
+          "H2O": "13.6%"
+        }
+      }
+    }
+  ]
+}

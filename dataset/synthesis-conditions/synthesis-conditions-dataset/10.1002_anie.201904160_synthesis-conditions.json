@@ -1,0 +1,49 @@
+{
+  "materials": [
+    {
+      "name": "JNU-1",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "chemicals_used": "Zn3(OH)2(btca)2, H2btca = benzotriazole-5-carboxylic acid",
+          "reference": "[14]",
+          "notes": "Synthesized according to the reported procedure"
+        },
+        {
+          "step": "Activation",
+          "temperature": "200 88C",
+          "time": "36 h",
+          "method": "high vacuum",
+          "notes": "Sample was activated without any prior solvent exchange"
+        }
+      ],
+      "characterization_methods_excluded": [
+        "PXRD",
+        "TGA",
+        "N2 sorption isotherms"
+      ],
+      "additional_information": "JNU-1 is stable in water over a pH range of 2 to 12 and thermally stable up to 450 88C in a N2 atmosphere. It has a BET surface area of 818 m2 g@1."
+    },
+    {
+      "name": "C2H2@JNU-1",
+      "synthesis_conditions": [
+        {
+          "step": "Preloading with C2H2",
+          "temperature": "Room temperature",
+          "time": "6 h",
+          "atmosphere": "C2H2 atmosphere",
+          "notes": "Desolvated JNU-1 crystals were put in a C2H2 atmosphere"
+        },
+        {
+          "step": "SCXRD data collection",
+          "temperature": "150 K",
+          "notes": "SCXRD data were collected after preloading with C2H2"
+        }
+      ],
+      "characterization_methods_excluded": [
+        "SCXRD"
+      ],
+      "additional_information": "C2H2 molecules were found to simultaneously bond to two open ZnII centers."
+    }
+  ]
+}

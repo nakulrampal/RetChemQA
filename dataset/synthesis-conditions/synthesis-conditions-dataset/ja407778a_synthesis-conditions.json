@@ -1,0 +1,33 @@
+{
+  "materials": [
+    {
+      "name": "MgH2DOBDC(DMF)2 (MgC14H18N2O8, 2)",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": ["DMF", "EtOH"],
+        "amount_of_each_solvent": ["15 ml DMF", "1 ml EtOH"],
+        "equipment": "20 mL scintillation vial",
+        "chemicals_used": [
+          "MgCl2 (200 mg, 2.10 mmol)",
+          "H4DOBDC (70.0 mg, 0.353 mmol)"
+        ],
+        "time": "overnight",
+        "yield": "40%",
+        "drying_method": "Not specified",
+        "washing_method": "Not specified"
+      }
+    },
+    {
+      "name": "1,1 TPE",
+      "synthesis_conditions": {
+        "reference": "Shustova, N. B.; McCarthy, B. D.; Dincă, M. J. Am. Chem. Soc. 2011, 133, 20126–20129."
+      }
+    },
+    {
+      "name": "H4DHBDC",
+      "synthesis_conditions": {
+        "reference": "Sikkema, D. J.; Reichwein, A. M. Process for dicarboxylating dihydric phenols 6,040,478 March 21, 2000."
+      }
+    }
+  ]
+}

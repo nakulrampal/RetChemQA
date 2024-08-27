@@ -1,0 +1,114 @@
+{
+  "materials": [
+    {
+      "material": "1",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "1.0 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "4.0 mL"
+          }
+        ],
+        "equipment": "sealed glass vial",
+        "chemicals_used": [
+          {
+            "name": "MnCl2·4H2O",
+            "amount": "0.20 mmol, 0.039 g"
+          },
+          {
+            "name": "H2ADC",
+            "amount": "0.050 mmol, 0.013 g"
+          }
+        ],
+        "time": "5 days",
+        "yield": "0.049 g (49%) based on MnCl2·4H2O",
+        "drying_method": "dried in air",
+        "photo_irradiation": "250-W Xe-lamp irradiation at room temperature for 180 min"
+      }
+    },
+    {
+      "material": "2",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "1.0 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "4.0 mL"
+          }
+        ],
+        "equipment": "sealed glass vial",
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "0.20 mmol, 0.059 g"
+          }
+        ],
+        "time": "5 days",
+        "yield": "0.045 g (44%) based on Zn(NO3)2·6H2O",
+        "drying_method": "dried in air",
+        "photo_irradiation": "250-W Xe-lamp irradiation at room temperature for 180 min"
+      }
+    },
+    {
+      "material": "3",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "1.0 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "4.0 mL"
+          }
+        ],
+        "equipment": "sealed glass vial",
+        "chemicals_used": [
+          {
+            "name": "Ni(NO3)2·6H2O",
+            "amount": "0.20 mmol, 0.058 g"
+          }
+        ],
+        "time": "5 days",
+        "yield": "0.048 g (47%) based on Ni(NO3)2·6H2O",
+        "drying_method": "dried in air"
+      }
+    },
+    {
+      "material": "4",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "1.0 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "4.0 mL"
+          }
+        ],
+        "equipment": "sealed glass vial",
+        "chemicals_used": [
+          {
+            "name": "Co(NO3)2·6H2O",
+            "amount": "0.20 mmol, 0.058 g"
+          }
+        ],
+        "time": "5 days",
+        "yield": "0.040 g (40%) based on Co(NO3)2·6H2O",
+        "drying_method": "dried in air"
+      }
+    }
+  ]
+}

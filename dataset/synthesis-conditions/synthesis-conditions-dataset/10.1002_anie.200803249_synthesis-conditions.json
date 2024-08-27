@@ -1,0 +1,38 @@
+{
+  "materials": [
+    {
+      "name": "BBDTA·InBr4",
+      "synthesis_conditions": [
+        {
+          "step": "Initial synthesis",
+          "chemicals_used": [
+            {
+              "name": "BBDTA·FeCl4·CH3CN",
+              "amount": "2.05 g"
+            },
+            {
+              "name": "tetra(n-butyl)ammonium bromide",
+              "amount": "2.10 g"
+            },
+            {
+              "name": "acetonitrile",
+              "amount": "200 mL",
+              "role": "solvent"
+            },
+            {
+              "name": "InBr3",
+              "amount": "1.4 g"
+            }
+          ],
+          "equipment": "N/A",
+          "temperature": "Room temperature for initial mixing, reaction carried out under nitrogen atmosphere",
+          "time": "Four hours",
+          "washing_method": "Washed three times with dichloromethane",
+          "drying_method": "Dried under vacuum",
+          "yield": "Not specified",
+          "additional_notes": "Single crystals were grown from an acetonitrile solution at -3 8C."
+        }
+      ]
+    }
+  ]
+}

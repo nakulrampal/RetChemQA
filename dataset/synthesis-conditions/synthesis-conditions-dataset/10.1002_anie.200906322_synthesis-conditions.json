@@ -1,0 +1,64 @@
+{
+  "materials": [
+    {
+      "name": "Lithium Isonicotinate DMF Solvate",
+      "synthesis_conditions": {
+        "solvents": ["Methanol", "Dimethylformamide (DMF)"],
+        "amount_of_solvents": {
+          "Methanol": "15 mL",
+          "Dimethylformamide (DMF)": "40 mL"
+        },
+        "chemicals_used": {
+          "Isonicotinic acid": "1.680 g",
+          "LiOH·H2O": "0.573 g"
+        },
+        "temperature": {
+          "Boiling methanol": "Not specified",
+          "Evaporation": "145 8C"
+        },
+        "equipment": "Not specified",
+        "time": "Not specified",
+        "washing_method": "Washed with a little DMF",
+        "drying_method": "Dried briefly in vacuum",
+        "yield": "1.97 g (87 %)",
+        "additional_steps": [
+          {
+            "step_description": "Removal of DMF under vacuum",
+            "temperature": "110 8C",
+            "time": "Two hours"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Lithium Isonicotinate Morpholine Solvate",
+      "synthesis_conditions": {
+        "solvents": ["Not specified"],
+        "chemicals_used": {
+          "Morpholine": "Not specified"
+        },
+        "temperature": "Not specified",
+        "equipment": "Suitable for X-ray diffraction studies",
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified"
+      }
+    },
+    {
+      "name": "Lithium Isonicotinate N-Methylpyrrolidinone Solvate",
+      "synthesis_conditions": {
+        "solvents": ["Not specified"],
+        "chemicals_used": {
+          "N-Methylpyrrolidinone": "Not specified"
+        },
+        "temperature": "Not specified",
+        "equipment": "Suitable for X-ray diffraction studies",
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified"
+      }
+    }
+  ]
+}

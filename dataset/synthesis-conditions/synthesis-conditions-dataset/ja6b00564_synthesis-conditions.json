@@ -1,0 +1,163 @@
+{
+  "materials": [
+    {
+      "name": "compound 1",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "EtOH",
+            "amount": "50 mL"
+          },
+          {
+            "name": "10% NaOH",
+            "amount": "7 mL"
+          }
+        ],
+        "temperature": "85 oC",
+        "time": "6 hours",
+        "yield": "88%",
+        "drying_method": "drying under an N2 atmosphere",
+        "form": "white powder",
+        "characterization": {
+          "1H NMR": "(400 MHz, (CD3)2SO): δ = 12.45 (br s, 1.47H), 11.54 (s, 1.97H), 7.88 (t, J = 8, 1.00H), 7.51 (d, J = 4, 1.93H), 2.76-2.68 (m, 8.10H), 1.18 (t, J = 8, 6.02H), 1.12 (t, J = 8, 6.08H)",
+          "13C NMR": "(100 MHz, (CD3)2SO): δ = 162.8, 150.0, 133.2, 131.1, 125.0, 119.7, 118.7, 109.9, 17.9, 17.8, 16.6, 16.2",
+          "HR-MS": "(ESI): C23H27N3O4 calcd for m/z = 410.2074, found m/z = 410.2072 [M + H]+"
+        }
+      }
+    },
+    {
+      "name": "compound 3",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "dichloromethane/methanol",
+            "amount": "50/1 as eluent"
+          }
+        ],
+        "yield": "85%",
+        "form": "yellow solid",
+        "characterization": {
+          "1H NMR": "(400 MHz, Me2CO-d6): δ = 7.90 (q, J = 8, 1.40H), 7.64 (d, J = 4, 2.76H), 4.31 (q, J = 4, 4.00H), 2.90-2.79 (m, 14.17H), 1.35 (t, J = 8, 5.52H), 1.27 (t, J = 8, 7.15H), 1.17 (t, J = 8, 5.70H)",
+          "ESI-MS": "466.2 [M + H]+"
+        }
+      }
+    },
+    {
+      "name": "compound 4",
+      "synthesis": {
+        "yield": "57%",
+        "form": "colorless crystalline material",
+        "characterization": {
+          "1H NMR": "(400 MHz, CDCl3): δ = 9.80 (s, 0.89H), 7.54-7.46 (m, 2.00H), 7.28-7.24 (m, 1.31H), 4.35 (q, J = 8, 1.94H), 2.79-2.68 (m, 3.96H), 1.37 (t, J = 8, 3.03H), 1.21-1.14 (m, 6.04H)",
+          "13C NMR": "(100 MHz, CDCl3): δ =161.1, 150.7, 141.7, 138.9, 134.3, 128.5, 126.2, 125.2, 119.5, 118.2, 60.1, 53.3, 17.9, 15.9, 15.2, 14.4",
+          "HR-MS": "(ESI): C16H19BrN2O10 calcd for m/z = 373.0522, found m/z = 373.0524 [M + Na]+"
+        }
+      }
+    },
+    {
+      "name": "compound 5",
+      "synthesis": {
+        "form": "orange solid",
+        "characterization": {
+          "1H NMR": "(400 MHz, CDCl3): δ = 8.99 (s, 0.95H), 4.26 (q, J=8, 2.00H), 2.76 (q, J = 4, 2.06H), 2.44 (q, J = 8, 2.20H), 1.32 (t, J = 8, 3.10H), 1.17 (t, J = 8, 3.35H), 1.04 (t, J = 8, 2.97H)",
+          "13C NMR": "(100 MHz, CDCl3): δ = 133.3, 125.9, 123.9, 118.6, 59.9, 18.3, 17.5, 16.1, 15.7, 14.4",
+          "HR-MS": "(ESI): C22H32N2O4 calcd for m/z = 411.2254, found m/z = 411.2258 [M + Na]+"
+        }
+      }
+    },
+    {
+      "name": "cage-1",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "methanol and dimethyl formamide",
+            "ratio": "mixed solvent"
+          }
+        ],
+        "form": "colorless plates",
+        "crystal_data": {
+          "CCDC_deposition_number": "1447411",
+          "crystal_system": "triclinic",
+          "space_group": "P -1",
+          "unit_cell_dimensions": {
+            "a": "15.916(5) Å",
+            "b": "18.830(6) Å",
+            "c": "19.364(6) Å",
+            "alpha": "105.094(4)°",
+            "beta": "103.903(4)°",
+            "gamma": "91.781(5)°"
+          },
+          "volume": "5412(3) Å3",
+          "Z": "1",
+          "density_calculated": "1.356 Mg/m3",
+          "absorption_coefficient": "1.616 mm-1",
+          "F(000)": "2320",
+          "crystal_size": "0.16 x 0.08 x 0.05 mm",
+          "theta_range_for_data_collection": "2.875 to 74.089°",
+          "index_ranges": "-18<=h<=19, -21<=k<=23, -23<=l<=22",
+          "reflections_collected": "41174",
+          "independent_reflections": "21005 [R(int) = 0.0199]",
+          "completeness_to_theta": "99.1 %",
+          "absorption_correction": "Semi-empirical from equivalents",
+          "max_and_min_transmission": "1.00 and 0.921",
+          "refinement_method": "Full-matrix least-squares on F2",
+          "data_restraints_parameters": "21005 / 365 / 1444",
+          "goodness_of_fit_on_F2": "0.977",
+          "final_R_indices": {
+            "I_greater_than_2sigma(I)": "R1 = 0.0338, wR2 = 0.0831",
+            "all_data": "R1 = 0.0428, wR2 = 0.0880"
+          },
+          "extinction_coefficient": "n/a",
+          "largest_diff_peak_and_hole": "0.601 and -0.502 e.Å-3"
+        }
+      }
+    },
+    {
+      "name": "cage-2",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "DMF",
+            "method": "vapor diffusion of n-hexanes"
+          }
+        ],
+        "form": "colorless prisms",
+        "crystal_data": {
+          "CCDC_deposition_number": "1447412",
+          "crystal_system": "monoclinic",
+          "space_group": "P 21/n",
+          "unit_cell_dimensions": {
+            "a": "14.7663(12) Å",
+            "b": "26.944(2) Å",
+            "c": "24.182(2) Å",
+            "alpha": "90°",
+            "beta": "101.593(3)°",
+            "gamma": "90°"
+          },
+          "volume": "9424.9(13) Å3",
+          "Z": "4",
+          "density_calculated": "1.385 Mg/m3",
+          "absorption_coefficient": "1.081 mm-1",
+          "F(000)": "4122",
+          "crystal_size": "0.32 x 0.16 x 0.08 mm",
+          "theta_range_for_data_collection": "3.019 to 27.484°",
+          "index_ranges": "-17<=h<=19, -34<=k<=34, -31<=l<=31",
+          "reflections_collected": "145206",
+          "independent_reflections": "21571 [R(int) = 0.0766]",
+          "completeness_to_theta": "99.8 %",
+          "absorption_correction": "Semi-empirical from equivalents",
+          "max_and_min_transmission": "1.00 and 0.755",
+          "refinement_method": "Full-matrix least-squares on F2",
+          "data_restraints_parameters": "21571 / 1008 / 1184",
+          "goodness_of_fit_on_F2": "1.084",
+          "final_R_indices": {
+            "I_greater_than_2sigma(I)": "R1 = 0.0544, wR2 = 0.0936",
+            "all_data": "R1 = 0.0757, wR2 = 0.1000"
+          },
+          "extinction_coefficient": "n/a",
+          "largest_diff_peak_and_hole": "0.578 and -0.536 e.Å-3"
+        }
+      }
+    }
+  ]
+}

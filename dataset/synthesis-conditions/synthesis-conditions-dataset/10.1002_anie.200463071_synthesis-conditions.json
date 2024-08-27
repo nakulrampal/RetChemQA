@@ -1,0 +1,60 @@
+{
+  "Cucurbituril Polymers": {
+    "CB6": {
+      "synthesis_conditions": {
+        "temperature": "110 8C",
+        "yield": "40-45%",
+        "chemicals_used": [
+          "glycoluril",
+          "formaldehyde"
+        ],
+        "drying_method": "drying at 110 8C"
+      }
+    },
+    "Compound 1": {
+      "synthesis_conditions": {
+        "solvent": "0.2 m aqueous NaCl",
+        "equipment": "slow vapor diffusion of ethanol",
+        "time": "one week",
+        "temperature": "room temperature",
+        "drying_method": "dried in air at room temperature",
+        "yield": "60-70%"
+      }
+    },
+    "Compound 2": {
+      "synthesis_conditions": {
+        "solvent": "0.2 m aqueous NaCl",
+        "chemicals_used": [
+          "CuCl2",
+          "I2sal",
+          "Hqs"
+        ],
+        "amount_of_each_solvent": {
+          "CuCl2": "0.05 mmol",
+          "I2sal": "0.05 mmol",
+          "Hqs": "0.05 mmol"
+        },
+        "pH": "6",
+        "time": "two weeks",
+        "yield": "40-50% based on CB6"
+      }
+    },
+    "Compound 3": {
+      "synthesis_conditions": {
+        "solvent": "0.2 m aqueous NaCl",
+        "chemicals_used": [
+          "CuCl2",
+          "Ibz",
+          "Hqs"
+        ],
+        "amount_of_each_solvent": {
+          "CuCl2": "0.05 mmol",
+          "Ibz": "0.05 mmol",
+          "Hqs": "0.05 mmol"
+        },
+        "time": "two weeks",
+        "yield": "40-50% based on CB6"
+      }
+    }
+  }
+}

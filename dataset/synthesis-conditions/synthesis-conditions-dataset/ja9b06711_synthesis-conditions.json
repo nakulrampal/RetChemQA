@@ -1,0 +1,160 @@
+{
+  "materials": [
+    {
+      "name": "4,4’-(4-Amino-4H-1,2,4-triazole-3,5-diyl)dibenzoic acid (H2L)",
+      "synthesis_conditions": {
+        "temperature": "373 K",
+        "solvents": [
+          {
+            "name": "ethylene glycol",
+            "amount": "8 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "4-Cyanobenzoic acid",
+            "amount": "2.20 g"
+          },
+          {
+            "name": "hydrazine dihydrochloride",
+            "amount": "2.10 g"
+          },
+          {
+            "name": "hydrazine hydrate",
+            "amount": "2.95 g"
+          }
+        ],
+        "time": "3 h",
+        "yield": "2.0 g, 90%"
+      }
+    },
+    {
+      "name": "[Zr6O4(OH)8(H2O)4(L)4]n (HUST-1)",
+      "synthesis_conditions": {
+        "temperature": "393 K",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "trifluoroacetic acid",
+            "amount": "0.155 mL"
+          },
+          {
+            "name": "H2L",
+            "amount": "16 mg"
+          },
+          {
+            "name": "ZrCl4",
+            "amount": "12 mg"
+          }
+        ],
+        "time": "three days",
+        "yield": "55% based on ZrCl4"
+      }
+    },
+    {
+      "name": "{[Zr6O4(OH)8(H2O)4(L)4]·[Ni7Cl11(OH)3(H2O)4]2}n (HUST-2)",
+      "synthesis_conditions": {
+        "temperature": "353 K",
+        "solvents": [
+          {
+            "name": "CH3CN",
+            "amount": "3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "NiCl2·6H2O",
+            "amount": "20 mg"
+          },
+          {
+            "name": "HUST-1",
+            "amount": "5 mg"
+          }
+        ],
+        "time": "seven days"
+      }
+    },
+    {
+      "name": "{[Zr6O4(OH)8(H2O)4(L)4]·[Ni3(OH)(H2O)9]2·Br5}n (HUST-3)",
+      "synthesis_conditions": {
+        "temperature": "353 K",
+        "solvents": [
+          {
+            "name": "CH3CN",
+            "amount": "3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "NiBr2·3H2O",
+            "amount": "20 mg"
+          },
+          {
+            "name": "HUST-1",
+            "amount": "5 mg"
+          }
+        ],
+        "time": "seven days"
+      }
+    },
+    {
+      "name": "[Zr6O4(OH)8(H2O)4(L)4]n (HUST-4)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "CH3CN",
+            "amount": "3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "NiCl2·6H2O",
+            "amount": "20 mg"
+          },
+          {
+            "name": "HUST-1",
+            "amount": "5 mg"
+          }
+        ],
+        "time": "seven days"
+      }
+    },
+    {
+      "name": "UiO-67-Ni",
+      "synthesis_conditions": {
+        "temperature": "120 ºC",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "30 mg"
+          },
+          {
+            "name": "H2BPYDC",
+            "amount": "10 mg"
+          },
+          {
+            "name": "trifluoroacetic acid",
+            "amount": "0.5 mL"
+          },
+          {
+            "name": "NiCl2·6H2O",
+            "amount": "20 mg"
+          }
+        ],
+        "time": "72 h + overnight incubation"
+      }
+    }
+  ]
+}

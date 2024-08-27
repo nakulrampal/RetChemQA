@@ -1,0 +1,42 @@
+{
+  "materials": [
+    {
+      "name": "ZIF8",
+      "synthesis_conditions": {
+        "method": "solvothermal",
+        "reference": "ref [2]"
+      }
+    },
+    {
+      "name": "ZIF8 with various D2 loadings",
+      "synthesis_conditions": {
+        "method": "Rietveld refinements",
+        "equipment": "GSAS package",
+        "details": "Fourier difference method used for determining D2 sites, followed by refinement of fractional coordinates and other parameters without constraints.",
+        "temperature": "3.5K",
+        "D2_loading": [
+          "3 D2 per 6 Zn",
+          "16 D2 per 6 Zn",
+          "28 D2 per 6 Zn"
+        ],
+        "Uiso_parameters_variation": "Noted with different D2 doses",
+        "lattice_constant_variation": "Slight decrease with increasing gas loading"
+      }
+    },
+    {
+      "name": "DFT calculations of H2 binding energies",
+      "synthesis_conditions": {
+        "method": "Density Functional Theory (DFT)",
+        "software": "PWscf package",
+        "pseudopotentials": "Vanderbilt-type ultra-soft",
+        "exchange_correlation": "Perdew-Zunger",
+        "cutoff_energy": "408 eV",
+        "k-point_mesh": "1x1x1",
+        "total_energy_convergence": "Within 0.5meV/atom",
+        "structure_optimization": "Primitive cell of ZIF8 containing 138 atoms",
+        "H2_binding_energy_calculation": "EB = E (ZIF8) + E (H2) - E (ZIF8+H2)",
+        "H2_orientation_variation": "Within 0.2 Å, about 20 meV variation in binding energy"
+      }
+    }
+  ]
+}

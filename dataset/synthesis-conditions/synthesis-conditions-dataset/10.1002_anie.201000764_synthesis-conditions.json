@@ -1,0 +1,63 @@
+{
+  "materials": [
+    {
+      "name": "3,4,5-trinitro-1H-pyrazole (TNP)",
+      "synthesis_conditions": [
+        {
+          "method": "Oxidation of aminodinitropyrazoles",
+          "details": {
+            "precursors": ["4-amino-3,5-dinitropyrazole (7)", "5(3)-amino-3(5),4-dinitropyrazole (8)"],
+            "oxidizing_agent": "diperoxysulfuric acid (H2S2O8)",
+            "solvent": "Not specified",
+            "temperature": "Not specified",
+            "yield": ["93% from 7", "37% from 8"],
+            "purification": "Selective extraction with dichloromethane"
+          }
+        },
+        {
+          "method": "Diazotization",
+          "details": {
+            "precursors": ["5(3)-amino-3(5),4-dinitropyrazole (8)"],
+            "solvent": "20% sulfuric acid",
+            "temperature": "Not specified",
+            "yield": "80%",
+            "product_appearance": "red, sticky gum"
+          }
+        },
+        {
+          "method": "Direct nitration of 3,5-dinitropyrazole",
+          "details": {
+            "precursors": ["3,5-dinitropyrazole"],
+            "nitrating_reagent": "nitronium ions, acetyl nitrate",
+            "temperature": "0 8C–20 8C",
+            "yield": "Not specified"
+          }
+        },
+        {
+          "method": "Direct nitration with superelectrophile",
+          "details": {
+            "precursors": ["3,5-dinitropyrazole"],
+            "nitrating_reagent": "20–30% sulfuric oleum mixed with nitric acid",
+            "temperature": "100 8C",
+            "yield": "94%"
+          }
+        }
+      ]
+    },
+    {
+      "name": "N-methyl-3,4,5-trinitropyrazole (11) and N-amino-3,4,5-trinitropyrazole (12)",
+      "synthesis_conditions": [
+        {
+          "method": "Electrophilic reactions on sodium trinitropyrazolate 6’",
+          "details": {
+            "precursors": ["sodium trinitropyrazolate 6’"],
+            "reagents": ["Pic-O-NH2 = 2,4,6-trinitrophenyl-O-hydroxylamine"],
+            "solvent": "Not specified",
+            "temperature": "Not specified",
+            "yield": "Not specified"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "materials": [
+    {
+      "name": "tris-sarcosine calcium chloride (TSCC)",
+      "synthesis_conditions": [
+        {
+          "temperature": "130 K",
+          "description": "Tris-sarcosine calcium chloride exhibits a second-order displacive phase transition near this temperature."
+        },
+        {
+          "temperature": "64 K",
+          "description": "A phase transition is marked by very strong mechanical losses and a large specific heat anomaly."
+        },
+        {
+          "temperature": "48.0 K",
+          "description": "Dielectric and polarization anomalies are reproducible but much smaller."
+        },
+        {
+          "temperature": "20 K to 100 K",
+          "description": "A smooth evolution of displacement parameters is seen, with no direct evidence of further phase transitions."
+        },
+        {
+          "temperature": "Below 64 K",
+          "description": "The polarization does not vanish; instead, it increases an additional 10% as temperature lowers."
+        },
+        {
+          "chemicals_used": "Br or I substitution",
+          "description": "Substitution can lower the critical temperature to a quantum critical point at 0 K."
+        },
+        {
+          "solvents": "Not specified",
+          "amount_of_each_solvent": "Not specified",
+          "equipment": "Not specified",
+          "time": "Not specified",
+          "washing_method": "Not specified",
+          "drying_method": "Not specified",
+          "yield": "Not specified"
+        }
+      ]
+    },
+    {
+      "name": "TSCC with 3% Br",
+      "synthesis_conditions": [
+        {
+          "temperature": "76 K",
+          "description": "Raman data show a strong decrease in intensity of the lowest-frequency modes near 65 cm−1 and increase in their splitting, and the appearance of an intense new mode near 115 cm−1."
+        },
+        {
+          "temperature": "70 K",
+          "description": "A mode near 500 cm−1 splits into a doublet ∼25 cm−1 apart."
+        }
+      ]
+    }
+  ]
+}

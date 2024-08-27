@@ -1,0 +1,51 @@
+{
+  "materials": [
+    {
+      "name": "IRMOF-3",
+      "synthesis_conditions": {
+        "temperature": "35 to 100 °C",
+        "solvents": "DMF, CHCl3",
+        "amount_of_solvents": {
+          "DMF": "200 mL",
+          "CHCl3": "12 mL for washing, 12 mL for soaking"
+        },
+        "equipment": "scintillation vials, programmable oven, sand bath",
+        "chemicals_used": "Zn(NO3)2·4H2O (6.00 g, 22.9 mmol), 2-aminobenzenedicarboxylic acid (1.50 g, 8.30 mmol)",
+        "time": "18 h",
+        "washing_method": "washed with dry DMF (3 × 12 mL) followed by one rinse with 12 mL of CHCl3, then soaked in CHCl3 for 3 days",
+        "drying_method": "dried at 75 °C under vacuum for 12 h",
+        "yield": "approximately 55−60 mg per vial (∼50%)"
+      }
+    },
+    {
+      "name": "IRMOF-3-AM2 to IRMOF-3-AM19",
+      "synthesis_conditions": [
+        {
+          "method": "Method 1",
+          "description": "Postsynthetic Modification Using Dry IRMOF-3",
+          "temperature": "room temperature",
+          "solvents": "CDCl3",
+          "amount_of_solvents": "1.0 mL",
+          "chemicals_used": "alkyl anhydride (2 equiv, 0.20 mmol for n = 1 to 15; 0.8 equiv, 0.08 mmol for n = 18)",
+          "time": "5 days",
+          "washing_method": "washed with CH2Cl2 (3 × 2 mL) and soaked in CH2Cl2 for 3 days",
+          "drying_method": "dried at 90 °C under vacuum for 8 h"
+        },
+        {
+          "method": "Method 2",
+          "description": "Postsynthetic Modification Using Wet IRMOF-3",
+          "temperature": "room temperature",
+          "solvents": "CHCl3",
+          "amount_of_solvents": {
+            "for n = 1, 2, 3": "8 mL",
+            "for n = 4, 5, 6, 8, 12, 15, 18": "4 mL"
+          },
+          "chemicals_used": "alkyl anhydride (2 equiv, 0.4 mmol for n = 1 to 15; 0.8 equiv, 0.16 mmol for n = 18)",
+          "time": "3 days",
+          "washing_method": "washed with CHCl3 (3 × 5 mL) before soaking in 5 mL of pure CHCl3 for 3 days",
+          "drying_method": "stored in the last CHCl3 solution until needed"
+        }
+      ]
+    }
+  ]
+}

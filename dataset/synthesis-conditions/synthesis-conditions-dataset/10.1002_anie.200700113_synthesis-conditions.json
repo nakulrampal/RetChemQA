@@ -1,0 +1,43 @@
+{
+  "materials": [
+    {
+      "name": "1,3,5-trimethyl-1,3,5-triazacyclohexane (TMTAC) lithiated product",
+      "synthesis_conditions": {
+        "solvent": "hexane",
+        "temperature_range": "-78°C to ambient temperature",
+        "base_used": ["n-BuLi", "sec-BuLi", "t-BuLi"],
+        "best_yield_conditions": {
+          "base": "t-BuLi",
+          "solvent": "hexane"
+        },
+        "product_composition": "two equivalents of a deprotonated species and one equivalent of the free base TMTAC",
+        "characterization_methods": ["elemental analysis", "1H NMR", "7Li NMR", "13C NMR"]
+      }
+    },
+    {
+      "name": "2-lithio-1,3-dimethyl-1,3-diazacyclohexane",
+      "synthesis_conditions": {
+        "base_used": "t-BuLi",
+        "reaction_occurrence": "selectively at the position between the two N atoms",
+        "characterization_methods": ["NMR", "MS spectra"],
+        "notes": "Single crystals cocrystallized with t-BuLi were obtained for structural analysis."
+      }
+    },
+    {
+      "name": "2-(hydroxydiphenylmethyl)-1,3,5-trimethyl-1,3,5-triazacyclohexane",
+      "synthesis_conditions": {
+        "precursors": ["1", "benzophenone"],
+        "reaction_conditions": "careful hydrolysis",
+        "characterization_methods": ["crystal structure analysis"]
+      }
+    },
+    {
+      "name": "1,1,2,2-tetraphenylethane",
+      "synthesis_conditions": {
+        "precursors": ["1", "bromodiphenylmethane"],
+        "reaction_conditions": "reductive coupling",
+        "yield": "72%"
+      }
+    }
+  ]
+}

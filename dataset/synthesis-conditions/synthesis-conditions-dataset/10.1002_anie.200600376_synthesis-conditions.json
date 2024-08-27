@@ -1,0 +1,62 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "method": "Layering method",
+        "chemicals_used": [
+          "bpe",
+          "Ag(O2CCF3)·H2O"
+        ],
+        "solvents": [
+          "CH3OH",
+          "H2O",
+          "CH3CN"
+        ],
+        "solvent_amounts": {
+          "CH3OH": "1 mL",
+          "H2O": "1 mL",
+          "CH3CN": "3 mL"
+        },
+        "yield": "0.07 g, 26 %",
+        "IR_spectra": "n˜ = 1661(m), 1604 (m), 1461(s), 1377(m), 1203(m), 1112(m), 1071(w), 829(m), 717 cm-1 (m)",
+        "1H_NMR": "d = 8.61 (d, 4 H; Py-H), 7.65 (d, 4 H; Py-H), 7.56 ppm (s, 4 H; CH=CH)",
+        "C_H_N_analysis": {
+          "calculated": "C 41.71, H 2.50, N 6.95",
+          "found": "C 41.67, H 2.36, N 6.78"
+        },
+        "UV_irradiation_time": "8 h"
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "method": "Slow evaporation",
+        "chemicals_used": [
+          "bpe",
+          "Ag(O2CCF3)·2 H2O"
+        ],
+        "solvents": [
+          "methanol",
+          "H2O",
+          "CH3CN"
+        ],
+        "solvent_amounts": {
+          "methanol": "5 mL",
+          "H2O": "5 mL",
+          "CH3CN": "15 mL"
+        },
+        "yield": "0.08 g, 26 %",
+        "IR_spectra": "n˜ = 1661(m), 1602(m), 1461(s), 1377(m), 1203(m), 1112(m), 1071(w), 829(m), 717 cm-1 (m)",
+        "1H_NMR": "d = 8.61 (s, 4 H; Py-H), 7.65 (d, 4 H; Py-H), 7.56 ppm (s, 4 H; CH=CH)",
+        "C_H_N_analysis": {
+          "calculated_for_C14H12F3N2O3Ag": "C 39.93, H 2.83, N 6.65",
+          "found": "C 39.14, H 2.92, N 6.54",
+          "calculated_for_desolvated_2": "C 41.71, H 2.50, N 6.95",
+          "found_for_desolvated_2": "C 41.67, H 2.47, N 6.78"
+        },
+        "UV_irradiation_time": "8 h"
+      }
+    }
+  ]
+}

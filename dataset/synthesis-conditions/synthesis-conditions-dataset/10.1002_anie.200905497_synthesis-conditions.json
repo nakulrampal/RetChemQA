@@ -1,0 +1,61 @@
+{
+  "materials": [
+    {
+      "name": "[Cu3L3]·H2O",
+      "synthesis_conditions": {
+        "temperature": "40 8C for 16 h",
+        "solvents": [
+          {
+            "name": "dry tetrahydrofuran",
+            "amount": "40 mL for H2L solution, 10 mL for Na2CO3 suspension, 40 mL for copper(II) chloride dihydrate solution"
+          }
+        ],
+        "equipment": "stirrer, rotary evaporator, filtration setup",
+        "chemicals_used": [
+          {
+            "name": "H2L",
+            "amount": "0.162 g, 0.4 mmol"
+          },
+          {
+            "name": "Na2CO3",
+            "amount": "ca. 1.0 g, 0.01 mol"
+          },
+          {
+            "name": "copper(II) chloride dihydrate",
+            "amount": "0.068 g, 0.4 mmol"
+          }
+        ],
+        "time": "16 h",
+        "washing_method": "washed with cold acetonitrile (20 mL) followed by diethyl ether (20 mL)",
+        "drying_method": "dried under vacuum over P2O5",
+        "yield": "80 %"
+      }
+    },
+    {
+      "name": "[Cu3L3(hmt)]n",
+      "synthesis_conditions": {
+        "temperature": "reflux, then cooled to room temperature",
+        "solvents": [
+          {
+            "name": "warm THF",
+            "amount": "20 mL for hexamethylenetetramine solution, 40 mL for [Cu3L3]·H2O solution"
+          }
+        ],
+        "equipment": "stirrer, filtration setup",
+        "chemicals_used": [
+          {
+            "name": "hexamethylenetetramine",
+            "amount": "0.014 g, 0.1 mmol"
+          },
+          {
+            "name": "[Cu3L3]·H2O",
+            "amount": "0.142 g, 0.1 mmol"
+          }
+        ],
+        "washing_method": "washed with cold THF (20 mL), then with diethyl ether",
+        "drying_method": "dried under vacuum",
+        "yield": "95 %"
+      }
+    }
+  ]
+}

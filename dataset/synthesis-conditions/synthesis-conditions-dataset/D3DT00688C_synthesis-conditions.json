@@ -1,0 +1,28 @@
+{
+  "materials": [
+    {
+      "name": "C10H6NO2Cd(NO3)·2H2O",
+      "synthesis_conditions": {
+        "method": "aqueous solution evaporation method",
+        "reagents": [
+          {
+            "name": "isoquinoline-1-carboxylic acid (C10H7NO2)",
+            "amount": "0.030 g",
+            "molarity": "0.2 mmol"
+          },
+          {
+            "name": "cadmium nitrate tetrahydrate (Cd(NO3)2·4H2O)",
+            "amount": "2.500 g",
+            "molarity": "10 mmol"
+          }
+        ],
+        "solvent": "deionized water",
+        "solvent_amount": "10 mL",
+        "temperature": "25 °C",
+        "time": "several days",
+        "equipment": "plastic beaker",
+        "yield_verification": "XRD patterns"
+      }
+    }
+  ]
+}

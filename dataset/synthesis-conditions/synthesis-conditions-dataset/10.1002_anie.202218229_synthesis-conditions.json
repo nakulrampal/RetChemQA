@@ -1,0 +1,62 @@
+{
+  "materials": [
+    {
+      "name": "PCE",
+      "synthesis_conditions": {
+        "method": "transesterification polycondensation",
+        "temperature": "increased temperatures",
+        "solvent": "Acetonitrile",
+        "chemicals_used": [
+          "straight-chain diol segments",
+          "carbonate monomers",
+          "trifluoroacetic anhydride"
+        ],
+        "molar_ratio": "trifluoroacetyl group to carbonate ~2%",
+        "weight_ratio_elemental_F": "0.5–1.0%",
+        "yield": "Mw > 10,000"
+      }
+    },
+    {
+      "name": "POE",
+      "synthesis_conditions": {
+        "method": "transesterification polycondensation",
+        "temperature": "increased temperatures",
+        "solvent": "Acetonitrile",
+        "chemicals_used": [
+          "straight-chain diol segments",
+          "oxalate monomers",
+          "trifluoroacetic anhydride"
+        ],
+        "molar_ratio": "trifluoroacetyl group to oxalate ~2%",
+        "weight_ratio_elemental_F": "0.5–1.0%",
+        "yield": "Mw > 10,000"
+      }
+    },
+    {
+      "name": "PME",
+      "synthesis_conditions": {
+        "method": "transesterification polycondensation",
+        "temperature": "increased temperatures",
+        "solvent": "Acetonitrile",
+        "chemicals_used": [
+          "straight-chain diol segments",
+          "malonate monomers",
+          "trifluoroacetic anhydride"
+        ],
+        "molar_ratio": "trifluoroacetyl group to malonate ~2%",
+        "weight_ratio_elemental_F": "0.5–1.0%",
+        "yield": "Mw > 10,000"
+      }
+    },
+    {
+      "name": "DM-C5-PME-F",
+      "synthesis_conditions": {
+        "method": "modification of PME",
+        "chemicals_used": [
+          "dimethyl-group in malonate"
+        ],
+        "notes": "Introduced to suppress enol isomerization, resulting in slightly lower temperature operation (40 °C) compared to POE due to slightly higher conductivity than POE at 25–45 °C but lower at 50–70 °C."
+      }
+    }
+  ]
+}

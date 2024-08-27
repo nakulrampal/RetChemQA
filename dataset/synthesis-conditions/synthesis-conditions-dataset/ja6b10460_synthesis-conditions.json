@@ -1,0 +1,104 @@
+{
+  "materials": [
+    {
+      "name": "H2N(p-BrArMes2)",
+      "synthesis_conditions": {
+        "solvents": "CH2Cl2, Et2O",
+        "chemicals_used": "[N(nBu)4][Br3], H2NArMes2",
+        "yield": "97%",
+        "NMR_1H": "400.1 MHz, CDCl3, 20 ˚C",
+        "NMR_13C": "125.7 MHz, CDCl3, 20 ˚C",
+        "FTIR": "CDCl3, KBr windows, 20 ˚C",
+        "HR-MS": "predicted for [M+H]+ = C24H27NBr, 408.1321, found m/z = 408.1323"
+      }
+    },
+    {
+      "name": "H2N(p-(BPin)ArMes2)",
+      "synthesis_conditions": {
+        "solvents": "dioxane",
+        "chemicals_used": "H2N(ArMes2-p-Br), PdCl2(dppf), B2Pin2, KOAc",
+        "yield": "88%",
+        "NMR_1H": "400.1 MHz, CDCl3, 20 ˚C",
+        "NMR_13C": "125.7 MHz, CDCl3, 20 ˚C",
+        "FTIR": "CDCl3, KBr windows, 20 ˚C",
+        "HR-MS": "predicted for [M+H]+ = C30H39NBO2, 456.3704, found m/z = 456.3074"
+      }
+    },
+    {
+      "name": "[H2NArMes]2",
+      "synthesis_conditions": {
+        "solvents": "dioxane, H2O",
+        "chemicals_used": "H2N(ArMes2-p-Br), H2N(p-(BPin)ArMes2), Pd2dba3, PCy3, Ba(OH)2",
+        "yield": "86%",
+        "NMR_1H": "400.1 MHz, CDCl3, 20 ˚C",
+        "NMR_13C": "125.7 MHz, CDCl3, 20 ˚C",
+        "FTIR": "CDCl3, KBr windows, 20 ˚C",
+        "HR-MS": "predicted for [M+H]+ = C48H53N2, 657.4203, found m/z = 657.4201"
+      }
+    },
+    {
+      "name": "[HC(O)HNArMes2]2",
+      "synthesis_conditions": {
+        "solvents": "CH2Cl2, THF",
+        "chemicals_used": "[H2NArMes]2, formic acid, acetic anhydride",
+        "yield": "93%",
+        "NMR_1H": "400.1 MHz, CDCl3, 20 ˚C",
+        "NMR_13C": "125.7 MHz, CDCl3, 20 ˚C",
+        "FTIR": "CDCl3, KBr windows, 20 ˚C",
+        "HR-MS": "predicted for [M+H]+ = C50H53O2N2, 713.4102, found m/z = 713.4102"
+      }
+    },
+    {
+      "name": "[CNArMes2]2",
+      "synthesis_conditions": {
+        "solvents": "CH2Cl2, MeCN",
+        "chemicals_used": "[HC(O)HNArMes2]2, diisopropylamine, POCl3",
+        "yield": "90%",
+        "NMR_1H": "400.1 MHz, CDCl3, 20 C˚",
+        "NMR_13C": "125.7 MHz, CDCl3 and C6D6, 20 ˚C",
+        "FTIR": "CDCl3 and C6D6, KBr windows, 20 ˚C",
+        "HR-MS": "predicted for [M+H]+ = C48H49N2, 676.3890, found m/z = 676.3886",
+        "Melting_point": "200 ºC"
+      }
+    },
+    {
+      "name": "Cu-ISOCN-1",
+      "synthesis_conditions": {
+        "solvents": "THF",
+        "chemicals_used": "[Cu(MeCN)4]PF6, [CNArMes2]2",
+        "temperature": "80 ˚C",
+        "time": "16 h",
+        "equipment": "pressure tube",
+        "yield": "Not specified",
+        "washing_method": "THF",
+        "drying_method": "dynamic vacuum"
+      }
+    },
+    {
+      "name": "Cu-ISOCN-2",
+      "synthesis_conditions": {
+        "solvents": "THF",
+        "chemicals_used": "Cu-ISOCN-1",
+        "temperature": "100 ˚C",
+        "time": "5 days",
+        "equipment": "pressure tube",
+        "yield": "Not specified",
+        "washing_method": "THF",
+        "drying_method": "dynamic vacuum"
+      }
+    },
+    {
+      "name": "Cu-ISOCN-3",
+      "synthesis_conditions": {
+        "solvents": "THF",
+        "chemicals_used": "[Cu(MeCN)4]PF6, [CNArMes2]2",
+        "temperature": "100 ˚C",
+        "time": "48 h",
+        "equipment": "pressure tube",
+        "yield": "Not specified",
+        "washing_method": "THF",
+        "drying_method": "dynamic vacuum"
+      }
+    }
+  ]
+}

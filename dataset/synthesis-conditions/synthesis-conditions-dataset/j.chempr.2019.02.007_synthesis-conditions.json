@@ -1,0 +1,90 @@
+{
+  "materials": [
+    {
+      "name": "dptz-CuTiF6",
+      "synthesis": {
+        "method": "slow diffusion",
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "not specified"
+          },
+          {
+            "name": "aqueous solution",
+            "amount": "not specified"
+          }
+        ],
+        "reactants": [
+          {
+            "name": "dptz ligand",
+            "amount": "not specified"
+          },
+          {
+            "name": "Cu(NO3)2·2.5H2O",
+            "amount": "not specified"
+          },
+          {
+            "name": "(NH4)2TiF6",
+            "amount": "not specified"
+          }
+        ],
+        "time": "1 week",
+        "temperature": "room temperature",
+        "yield": "not specified"
+      },
+      "characterization": {
+        "SC-XRD": "Bruker X8 PROSPECTOR APEX2 CCD diffractometer, Cu Kα radiation (λ = 1.54178 Å)",
+        "PXRD": "PANalytical X’Pert PRO diffractometer, Cu Kα (λ = 1.5418 Å)",
+        "TGA": "TA Q500 apparatus, under O2 flow (25 mL min−1), heating rate of 5°C min−1",
+        "VT-PXRD": "PANalytical X’Pert MPD-PRO X-ray diffractometer, Anton-Parr CHC+ variable-temperature stage",
+        "VH-PXRD": "PANalytical X’Pert MPD-PRO X-ray diffractometer, MHG Modular Humidity Generator",
+        "Water sorption analysis": "VTI-SA+ analyzer (TA Instruments), at 25°C",
+        "TG-DSC": "SENSYS evo TG-DSC instrument (Setaram Instrumentation), sample activated under N2 flow at 55°C for 12 h"
+      }
+    },
+    {
+      "name": "dptz-CuSiF6",
+      "synthesis": {
+        "method": "layering",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "4 mL"
+          },
+          {
+            "name": "ethylene glycol",
+            "amount": "4 mL"
+          }
+        ],
+        "reactants": [
+          {
+            "name": "CuSiF6·nH2O",
+            "amount": "10.6 mg, 0.05 mmol"
+          },
+          {
+            "name": "dptz",
+            "amount": "25.6 mg, 0.1 mmol"
+          }
+        ],
+        "time": "2 weeks",
+        "temperature": "not specified",
+        "yield": "50%"
+      },
+      "characterization": {
+        "SC-XRD": "Bruker X8 PROSPECTOR APEX2 CCD diffractometer, Cu Kα radiation (λ = 1.54178 Å)",
+        "PXRD": "PANalytical X’Pert PRO diffractometer, Cu Kα (λ = 1.5418 Å)",
+        "TGA": "TA Q500 apparatus, under O2 flow (25 mL min−1), heating rate of 5°C min−1",
+        "VT-PXRD": "PANalytical X’Pert MPD-PRO X-ray diffractometer, Anton-Parr CHC+ variable-temperature stage",
+        "VH-PXRD": "PANalytical X’Pert MPD-PRO X-ray diffractometer, MHG Modular Humidity Generator",
+        "Water sorption analysis": "VTI-SA+ analyzer (TA Instruments), at 25°C",
+        "TG-DSC": "SENSYS evo TG-DSC instrument (Setaram Instrumentation), sample activated under N2 flow at 55°C for 12 h"
+      }
+    },
+    {
+      "name": "dptz-CuTiF6 (CO2)",
+      "characterization": {
+        "SC-XRD": "Bruker D8 VENTURE PHOTON II CPAD diffractometer, Cu Kα radiation (λ = 1.54178 Å), at 195 K"
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "materials": [
+    {
+      "name": "Y-bptc",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": ["DMF", "H2O"],
+        "solvent_amounts": ["5 mL DMF", "2 mL H2O"],
+        "equipment": "20 mL glass vial",
+        "chemicals_used": ["Y(NO3)3·6H2O (38.3 mg, 0.1 mmol)", "2-fluorobenzoic acid (1.0 g, 4.1 mmol)", "H4bptc (16.5 mg, 0.05 mmol)"],
+        "time": "3 days",
+        "washing_method": "washed by DMF (3 × 5 mL)",
+        "drying_method": "dried at 200 °C under vacuum",
+        "yield": "not specified",
+        "additional_information": "solvent-exchanged sample was immersed in 5 mL acetone for 1 week, solvent replaced twice a day"
+      }
+    },
+    {
+      "name": "Y-abtc",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": ["DMF", "H2O"],
+        "solvent_amounts": ["5 mL DMF", "2 mL H2O"],
+        "equipment": "20 mL glass vial",
+        "chemicals_used": ["Y(NO3)3·6H2O (38.3 mg, 0.1 mmol)", "2-fluorobenzoic acid (1.5 g, 6 mmol)", "H4abtc (17.5 mg, 0.05 mmol)"],
+        "time": "3 days",
+        "washing_method": "washed by DMF (3 × 5 mL)",
+        "drying_method": "dried at 200 or 300 °C under vacuum",
+        "yield": "not specified",
+        "additional_information": "solvent-exchanged sample was immersed in 5 mL methanol for 1 week, solvent replaced twice a day"
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "materials": [
+    {
+      "name": "NU-1000",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "1,3,6,8-tetrakis(p-benzoic acid)pyrene (H4TBAPy) linkers",
+            "source": "reported before"
+          },
+          {
+            "chemical": "ZrCl4",
+            "amount": "105 mg",
+            "purity": "≥99.5%"
+          },
+          {
+            "chemical": "benzoic acid",
+            "amount": "3 g",
+            "purity": "≥99.5%"
+          },
+          {
+            "chemical": "DEF (N,N-diethylformamide)",
+            "amount": "9 mL",
+            "purity": "≥98.5 %"
+          },
+          {
+            "chemical": "TFA (trifluoroacetic acid)",
+            "amount": "225 μL",
+            "purity": "99%"
+          }
+        ],
+        "solvents_used": [
+          {
+            "solvent": "DEF",
+            "amount": "15 mL"
+          }
+        ],
+        "equipment": [
+          {
+            "type": "oven",
+            "temperature": "120 °C",
+            "time": "1 day"
+          }
+        ],
+        "washing_method": "DMF",
+        "activation_method": "HCl",
+        "drying_method": "oven at 80 °C overnight"
+      }
+    },
+    {
+      "name": "NiCB@NU-1000",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "NiCB (nickel bis(dicarbollide))",
+            "amount": "24 mg",
+            "molarity": "0.074 mmol"
+          },
+          {
+            "chemical": "NU-1000",
+            "amount": "80 mg",
+            "molarity": "0.037 mmol"
+          },
+          {
+            "solvent": "DMF",
+            "amount": "16 mL"
+          }
+        ],
+        "time": "3 days",
+        "temperature": "room temperature",
+        "washing_method": "acetone, three times",
+        "drying_method": "oven at 80 °C overnight"
+      }
+    },
+    {
+      "name": "Mn-AIM-NU-1000 and Mn-AIM-NiCB@NU-1000",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Bis(ethylcyclopentadienyl)manganese (Mn(CpEt)2)",
+            "source": "Strem",
+            "purity": ">98%"
+          }
+        ],
+        "equipment": [
+          {
+            "type": "ALD (Atomic Layer Deposition) chamber",
+            "temperature": "125 °C",
+            "time": "30 min"
+          }
+        ],
+        "ALD_sequence": [
+          {
+            "precursor": "Mn(CpEt)2",
+            "sequence": "1–120–120",
+            "cycles": "30"
+          },
+          {
+            "precursor": "water vapor",
+            "sequence": "0.015–120–120",
+            "cycles": "30"
+          }
+        ],
+        "resulting_material": "dark brown powders"
+      }
+    }
+  ]
+}

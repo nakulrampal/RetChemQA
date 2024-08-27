@@ -1,0 +1,42 @@
+{
+  "materials": [
+    {
+      "name": "Sc2(BDC-NH2)3",
+      "synthesis_conditions": {
+        "technique": "solvothermal",
+        "crystal_size": "80 x 20 x 20 mm3",
+        "symmetry": "orthorhombic Fddd",
+        "crystal_faces": "{011} and {001}",
+        "channel_diameter": "approximately 4 A",
+        "equipment": [
+          {
+            "type": "Linkam cell",
+            "path_length": "approximately 10 mm"
+          },
+          {
+            "type": "Bruker Hyperion 3000 IR microscope",
+            "coupled_with": "Vertex 80 V interferometer"
+          }
+        ],
+        "temperature_range": "298–373 K",
+        "gas_flow": "10% CO2 in helium",
+        "microFTIR_settings": {
+          "objective_condenser": "15 x",
+          "scans_per_point": "512",
+          "time_per_point": "80 seconds",
+          "resolution": "2 cm-1"
+        },
+        "pre_heating_temperature": "400 K",
+        "spectra_conditions": {
+          "NH2_stretches": {
+            "asymmetric": "3513 cm-1",
+            "symmetric": "3396 cm-1"
+          },
+          "CO2_adsorbed_asymmetric_stretch": "2333 cm-1"
+        },
+        "desorption_rate": "99% complete within a few tens of seconds",
+        "diffusivity": "lower limit of 3 x 10-10 m2 s-1"
+      }
+    }
+  ]
+}

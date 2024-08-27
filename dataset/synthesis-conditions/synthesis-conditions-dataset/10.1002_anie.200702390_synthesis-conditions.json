@@ -1,0 +1,32 @@
+{
+  "materials": [
+    {
+      "name": "[{Zn2(1,4-bdc)2(dabco)}n] (1)",
+      "synthesis_conditions": {
+        "drying_method": "drying in vacuum",
+        "drying_temperature": "393 K",
+        "drying_time": "16 h",
+        "verification_method": "XRPD measurements"
+      }
+    },
+    {
+      "name": "[{[Zn2(1,4-bdc)2(dabco)]·4.5 IPA}n] (1·4.5 IPA)",
+      "synthesis_conditions": {
+        "preparation_method": "exposing [{Zn2(1,4-bdc)2(dabco)}n] (1) to propan-2-ol",
+        "preparation_time": "4 days"
+      }
+    },
+    {
+      "name": "[{[Zn2(1,4-bdc)2(dabco)]·3 IPA}n] (1·3 IPA)",
+      "synthesis_conditions": {
+        "preparation_method": "interrupting the propan-2-ol adsorption measurement on [{Zn2(1,4-bdc)2(dabco)}n] (1)"
+      }
+    },
+    {
+      "name": "[{[Zn2(1,4-bdc)2(dabco)]·4 DMF·1/2H2O}n] (1·4 DMF·1/2 H2O)",
+      "synthesis_conditions": {
+        "preparation_method": "reported procedure"
+      }
+    }
+  ]
+}

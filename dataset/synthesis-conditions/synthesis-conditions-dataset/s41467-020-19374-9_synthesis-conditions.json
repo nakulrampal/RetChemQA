@@ -1,0 +1,36 @@
+{
+  "materials": [
+    {
+      "name": "SCU-103",
+      "synthesis": {
+        "method": "solvothermal",
+        "temperature": "140 °C",
+        "time": "3 days",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "3 mL"
+          },
+          {
+            "name": "deionized water",
+            "amount": "1.5 mL"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "Ni(NO3)2·6H2O",
+            "amount": "0.058 g"
+          },
+          {
+            "name": "tris[4-(1H-imidazol-1-yl)-phenyl]amine (tipa)",
+            "amount": "0.086 g"
+          }
+        ],
+        "equipment": "20 mL Teﬂon-lined stainless steel autoclave",
+        "yield": "0.065 g; 60.8%"
+      },
+      "washing_method": "ethanol",
+      "drying_method": "air-dried"
+    }
+  ]
+}

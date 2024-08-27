@@ -1,0 +1,96 @@
+{
+  "materials": [
+    {
+      "name": "ZU-61 (Ni(4,4’-bipyridylacetylene)2NbOF5)n",
+      "synthesis_conditions": {
+        "temperature": "65 °C",
+        "solvents": [
+          {
+            "name": "ethylene glycol",
+            "amount": "40 mL"
+          },
+          {
+            "name": "aqueous solution of NiNbOF5",
+            "amount": "20 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "4,4’-bipyridine",
+            "amount": "0.35 g"
+          },
+          {
+            "name": "NiNbOF5",
+            "amount": "0.41 g"
+          }
+        ],
+        "time": "1 h",
+        "washing_method": "methanol",
+        "equipment": "stirring"
+      }
+    },
+    {
+      "name": "ZU-61-Cu (Cu(4,4’-bipyridylacetylene)2NbOF5)n",
+      "synthesis_conditions": {
+        "temperature": "65 °C",
+        "solvents": [
+          {
+            "name": "ethylene glycol",
+            "amount": "40 mL"
+          },
+          {
+            "name": "aqueous solution of NiNbOF5",
+            "amount": "20 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "4,4’-bipyridine",
+            "amount": "0.35 g"
+          },
+          {
+            "name": "NiNbOF5",
+            "amount": "0.39 g"
+          }
+        ],
+        "time": "1 h",
+        "washing_method": "methanol",
+        "equipment": "stirring"
+      }
+    },
+    {
+      "name": "SIFSIX-1-Cu (Cu(4,4’-bipyridine)2SiF6•8H2O)n",
+      "synthesis_conditions": {
+        "temperature": "65 °C",
+        "solvents": [
+          {
+            "name": "ethylene glycol",
+            "amount": "40 mL"
+          },
+          {
+            "name": "aqueous solution",
+            "amount": "20 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "4,4’-bipyridine",
+            "amount": "0.35 g"
+          },
+          {
+            "name": "Cu(BF4)2•xH2O",
+            "amount": "266 mg"
+          },
+          {
+            "name": "(NH4)2SiF6",
+            "amount": "199 mg"
+          }
+        ],
+        "time": "3 h",
+        "washing_method": "methanol",
+        "drying_method": "methanol exchange for 3 days",
+        "equipment": "stirring"
+      }
+    }
+  ]
+}

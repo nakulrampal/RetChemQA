@@ -1,0 +1,144 @@
+{
+  "materials": [
+    {
+      "name": "4-bromo-3,5-dimethylbenzylbromide",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "150 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "4-bromo-3,5-dimethylbenzylbromide",
+            "amount": "4.2 g, 15.2 mmol"
+          },
+          {
+            "name": "4-bromo-3,5-dimethylaniline",
+            "amount": "5.9 g, 30.0 mmol"
+          }
+        ],
+        "time": "24 hr",
+        "temperature": "room temperature",
+        "washing_method": "acetonitrile",
+        "drying_method": "rotary evaporator",
+        "yield": "2.8 g, 70%"
+      }
+    },
+    {
+      "name": "LMIM",
+      "synthesis_conditions": [
+        {
+          "step": "Ring closing metathesis",
+          "solvents": [
+            {
+              "name": "CH3NO2/CH2Cl2",
+              "amount": "1:9"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Grubbs’ first-generation catalyst",
+              "amount": "not specified"
+            }
+          ],
+          "time": "48 h",
+          "temperature": "reflux"
+        },
+        {
+          "step": "Suzuki coupling",
+          "solvents": [
+            {
+              "name": "DMF/toluene",
+              "amount": "not specified"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "catalytic Pd­(PPh3)4",
+              "amount": "not specified"
+            }
+          ],
+          "time": "12 h",
+          "temperature": "110 °C"
+        },
+        {
+          "step": "Hydrogenation",
+          "solvents": [
+            {
+              "name": "CH3OH",
+              "amount": "not specified"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "10% Pd/C, H2 (or D2)",
+              "amount": "not specified"
+            }
+          ],
+          "time": "3 h",
+          "temperature": "RT"
+        }
+      ]
+    },
+    {
+      "name": "UWDM-2",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "1.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2•6H2O",
+            "amount": "6.0 mg, 0.02 mmol"
+          },
+          {
+            "name": "LMIM",
+            "amount": "7.4 mg, 0.01 mmol"
+          },
+          {
+            "name": "azobenzene-4,4'-dicarboxylic acid (ADC)",
+            "amount": "5.4 mg, 0.02 mmol"
+          }
+        ],
+        "time": "48 h",
+        "temperature": "90 °C",
+        "desolvation_method": "soaking in dichloromethane for 24 h, dried under vacuum for 3 h",
+        "yield": "11.0 mg, 78%"
+      }
+    },
+    {
+      "name": "UWDM-3",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "1.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2•6H2O",
+            "amount": "6.0 mg, 0.02 mmol"
+          },
+          {
+            "name": "LMIM",
+            "amount": "7.4 mg, 0.01 mmol"
+          },
+          {
+            "name": "biphenyl-4,4′-dicarboxylic acid (BPDC)",
+            "amount": "4.8 mg, 0.02 mmol"
+          }
+        ],
+        "time": "48 h",
+        "temperature": "90 °C",
+        "desolvation_method": "soaking in dichloromethane for 24 h, dried under vacuum for 3 h",
+        "yield": "9.6 mg, 71%"
+      }
+    }
+  ]
+}

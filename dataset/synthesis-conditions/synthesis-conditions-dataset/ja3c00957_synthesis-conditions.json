@@ -1,0 +1,138 @@
+{
+  "materials": [
+    {
+      "name": "USTC-9(Fe)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "DMF",
+              "amount": "2 mL"
+            },
+            {
+              "name": "HNO3",
+              "amount": "150 μL"
+            },
+            {
+              "name": "TFA",
+              "amount": "140 μL"
+            },
+            {
+              "name": "FeCl3·6H2O",
+              "amount": "12 mg, 0.044 mmol"
+            },
+            {
+              "name": "H2TmCPP",
+              "amount": "5 mg, 0.006 mmol"
+            }
+          ],
+          "temperature": "160 °C",
+          "time": "10 h",
+          "equipment": "oven",
+          "yield": "5.7 mg, 87%"
+        }
+      ],
+      "washing_method": "DMF and acetone",
+      "drying_method": "oven under 85 °C"
+    },
+    {
+      "name": "USTC-9(In)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "DMF",
+              "amount": "2 mL"
+            },
+            {
+              "name": "HNO3",
+              "amount": "300 μL"
+            },
+            {
+              "name": "In(OH)3",
+              "amount": "10 mg, 0.060 mmol"
+            },
+            {
+              "name": "H2TmCPP",
+              "amount": "10 mg, 0.013 mmol"
+            }
+          ],
+          "temperature": "120 °C",
+          "time": "2 days",
+          "equipment": "oven",
+          "yield": "6.2 mg, 48%"
+        }
+      ],
+      "washing_method": "DMF and acetone",
+      "drying_method": "oven under 85 °C"
+    },
+    {
+      "name": "PCN-600",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "DMF",
+              "amount": "8 mL"
+            },
+            {
+              "name": "TFA",
+              "amount": "1.2 mL"
+            },
+            {
+              "name": "Fe3O(OOCCH3)6 cluster",
+              "amount": "40 mg, 0.068 mmol"
+            },
+            {
+              "name": "TCPP-Fe",
+              "amount": "40 mg, 0.047 mmol"
+            }
+          ],
+          "temperature": "150 °C",
+          "time": "12 h",
+          "equipment": "oven"
+        }
+      ],
+      "washing_method": "careful washing",
+      "drying_method": "supercritical CO2 drying"
+    },
+    {
+      "name": "USTC-9(Fe2Mn)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "DMF",
+              "amount": "2 mL"
+            },
+            {
+              "name": "HNO3",
+              "amount": "150 μL"
+            },
+            {
+              "name": "TFA",
+              "amount": "140 μL"
+            },
+            {
+              "name": "Fe2MnO(OOCCH3)6",
+              "amount": "12 mg, 0.022 mmol"
+            },
+            {
+              "name": "H2TmCPP",
+              "amount": "5 mg, 0.006 mmol"
+            }
+          ],
+          "temperature": "160 °C",
+          "time": "10 h",
+          "equipment": "oven"
+        }
+      ],
+      "washing_method": "DMF and acetone",
+      "drying_method": "oven under 85 °C"
+    }
+  ]
+}

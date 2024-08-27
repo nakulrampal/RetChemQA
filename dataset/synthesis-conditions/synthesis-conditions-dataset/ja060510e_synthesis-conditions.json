@@ -1,0 +1,41 @@
+{
+  "materials": [
+    {
+      "name": "[{CoII(pyrimidine)(H2O)}2{CoII(H2O)2}{WV(CN)8}2](pyrimidine)2·2H2O",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation",
+          "temperature": "Room temperature",
+          "solvents": [
+            {
+              "name": "Water",
+              "amount": "2.5 cm3"
+            },
+            {
+              "name": "Mixed aqueous solution",
+              "amount": "2.5 cm3"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "CsI3[WV(CN)8]·2H2O",
+              "amount": "0.258 g"
+            },
+            {
+              "name": "CoIICl2·6H2O",
+              "amount": "0.112 g"
+            },
+            {
+              "name": "Pyrimidine",
+              "amount": "0.050 g"
+            }
+          ],
+          "washing_method": "Water",
+          "drying_method": "Air",
+          "equipment": "H-shaped tube (for single crystal preparation)",
+          "yield": "Calculated: Co, 12.73%; W, 26.46%; C, 27.67%; H, 2.03%; N, 24.20%. Found: Co, 12.55%; W, 26.44%; C, 27.75%; H, 1.92%; N, 24.48%."
+        }
+      ]
+    }
+  ]
+}

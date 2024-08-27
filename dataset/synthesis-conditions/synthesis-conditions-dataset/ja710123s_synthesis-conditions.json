@@ -1,0 +1,39 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": [
+        {
+          "step": "Solvothermal reaction",
+          "details": {
+            "temperature": "85 °C",
+            "solvents": [
+              {
+                "name": "N,N-dimethylformamide",
+                "amount": "1.5 mL"
+              },
+              {
+                "name": "ethanol",
+                "amount": "0.5 mL"
+              }
+            ],
+            "chemicals_used": [
+              {
+                "name": "5-tetrazolylisophthalic acid (H3TZI)",
+                "amount": "0.056 mmol"
+              },
+              {
+                "name": "Cu(NO3)2·2.5H2O",
+                "amount": "0.08 mmol"
+              }
+            ],
+            "time": "12 h",
+            "yield": "Pure blue crystals",
+            "washing_method": "Not specified",
+            "drying_method": "Not specified"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": "CH3CN/H2O",
+        "amount_of_each_solvent": "2 mL, v/v = 1:2",
+        "equipment": "glass tube",
+        "chemicals_used": "Py3P (13.4 mg, 0.05 mmol), CuI (19 mg, 0.1 mmol)",
+        "time": "12 h",
+        "yield": "27.7 mg (85.5% based on Cu)",
+        "washing_method": "washed with CH3CN",
+        "drying_method": "dried at 75 °C overnight, degassed under vacuum (1 × 10−3 mmHg) and 120 °C for 12 h"
+      }
+    },
+    {
+      "name": "1·VOCs Crystals",
+      "synthesis_conditions": {
+        "preparation": "Single crystals of 1 were placed under vacuum for 2 h, then immersed in VOCs vapors for 2 h to give a series of isomorphous crystalline inclusion complexes."
+      }
+    }
+  ]
+}

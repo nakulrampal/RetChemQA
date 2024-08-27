@@ -1,0 +1,141 @@
+{
+  "materials": [
+    {
+      "name": "H6L ligand",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "30 mL"
+          },
+          {
+            "name": "THF",
+            "amount": "35 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "4-carboxyphenylboronic acid",
+            "amount": "3.670 g (20 mmol)"
+          },
+          {
+            "name": "H2SO4 (98 %)",
+            "amount": "0.15 mL"
+          },
+          {
+            "name": "hexaphenylbenzene",
+            "amount": "1.0 g (2 mmol)"
+          },
+          {
+            "name": "Br2",
+            "amount": "4 mL"
+          },
+          {
+            "name": "Na2CO3",
+            "amount": "10 mL of 2 M solution"
+          },
+          {
+            "name": "Pd(PPh3)4",
+            "amount": "50 mg"
+          },
+          {
+            "name": "NaOH",
+            "amount": "10 mL of 5 N solution"
+          }
+        ],
+        "temperature": [
+          {
+            "step": "refluxing mixture of 4-carboxyphenylboronic acid",
+            "value": "reflux temperature for 30 h"
+          },
+          {
+            "step": "heating mixture for synthesis of 5",
+            "value": "85 °C for 5 days"
+          },
+          {
+            "step": "refluxing mixture for synthesis of 6",
+            "value": "reflux temperature for 16 h"
+          }
+        ],
+        "time": [
+          {
+            "step": "refluxing mixture of 4-carboxyphenylboronic acid",
+            "value": "30 h"
+          },
+          {
+            "step": "heating mixture for synthesis of 5",
+            "value": "5 days"
+          },
+          {
+            "step": "refluxing mixture for synthesis of 6",
+            "value": "16 h"
+          }
+        ],
+        "yield": [
+          {
+            "step": "synthesis of 2",
+            "value": "99 %"
+          },
+          {
+            "step": "synthesis of 4",
+            "value": "96 %"
+          },
+          {
+            "step": "synthesis of 5",
+            "value": "76 %"
+          },
+          {
+            "step": "synthesis of 6",
+            "value": "99 %"
+          }
+        ],
+        "washing_method": [
+          {
+            "step": "washing synthesized 5",
+            "solvent": "THF and water",
+            "amount": "40 mL each"
+          }
+        ],
+        "drying_method": [
+          {
+            "step": "drying synthesized 2 and 6",
+            "method": "oven drying"
+          }
+        ]
+      }
+    },
+    {
+      "name": "pbz-MOF-1",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "3 mL"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "1 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H6L",
+            "amount": "6 mg"
+          },
+          {
+            "name": "ZrCl4",
+            "amount": "8 mg"
+          }
+        ],
+        "temperature": "120 °C",
+        "time": "36 hours",
+        "equipment": "20 mL glass scintillation vial",
+        "activation_method": "acetone exchange followed by overnight drying under vacuum at room temperature",
+        "yield": "Not specified",
+        "crystal_size": "0.06 × 0.06 × 0.08 mm",
+        "crystal_shape": "Octahedron",
+        "crystal_color": "colorless"
+      }
+    }
+  ]
+}

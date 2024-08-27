@@ -1,0 +1,113 @@
+{
+  "materials": [
+    {
+      "name": "Network 1",
+      "synthesis_conditions": {
+        "temperature": "Not specified",
+        "solvents": "nitrobenzene and methanol",
+        "equipment": "Not specified",
+        "chemicals_used": "ZnI2, TPT (2,4,6-tris(4-pyridyl)triazine)",
+        "time": "Not specified",
+        "yield": "Not specified"
+      }
+    },
+    {
+      "name": "S3-Encapsulating Porous Coordination Network (2)",
+      "synthesis_conditions": {
+        "temperature": "533 K",
+        "solvents": "vacuo",
+        "amount_of_each_solvent": "14 mL vessel",
+        "equipment": "H-tube glass",
+        "chemicals_used": "0.151g (0.095 mmol) of Network 1, 0.09 g (2.8 mmol) of sulfur",
+        "time": "6 hours",
+        "yield": "90%",
+        "analysis": "XRPD, elemental analysis"
+      }
+    },
+    {
+      "name": "Network 3",
+      "synthesis_conditions": {
+        "temperature": "Not specified",
+        "solvents": "Not specified",
+        "equipment": "Not specified",
+        "chemicals_used": "Not specified",
+        "time": "Not specified",
+        "yield": "Not specified",
+        "analysis": "XRPD, elemental analysis"
+      }
+    },
+    {
+      "name": "Network 3 (NH4Cl reacted)",
+      "synthesis_conditions": {
+        "temperature": "473 K",
+        "solvents": "vacuo",
+        "amount_of_each_solvent": "Not specified",
+        "equipment": "glass tube",
+        "chemicals_used": "0.10g (0.060 mmol) of Network 2, 34 mg (0.063 mmol) of NH4Cl",
+        "time": "6 hours",
+        "yield": "76%",
+        "analysis": "XRPD"
+      }
+    },
+    {
+      "name": "Network 4",
+      "synthesis_conditions": {
+        "temperature": "653 K",
+        "solvents": "vacuo",
+        "equipment": "H-tube glass",
+        "chemicals_used": "Not specified",
+        "time": "Not specified",
+        "yield": "70%",
+        "analysis": "XRPD, elemental analysis"
+      }
+    },
+    {
+      "name": "Network 2 to 3 transformation (NH4Br)",
+      "synthesis_conditions": {
+        "temperature": "573 K",
+        "solvents": "vacuo",
+        "equipment": "glass tube",
+        "chemicals_used": "0.10g (0.060 mmol) of Network 2, 7.5 mg (0.077 mmol) of NH4Br",
+        "time": "6 hours",
+        "yield": "85%",
+        "analysis": "XRPD"
+      }
+    },
+    {
+      "name": "Network 2 to 3 transformation (NH4Cl)",
+      "synthesis_conditions": {
+        "temperature": "473 K",
+        "solvents": "vacuo",
+        "equipment": "glass tube",
+        "chemicals_used": "0.10g (0.060 mmol) of Network 2, 34 mg (0.063 mmol) of NH4Cl",
+        "time": "6 hours",
+        "yield": "76%",
+        "analysis": "XRPD"
+      }
+    },
+    {
+      "name": "Network 2 to 3 transformation (dry HCl and NH3)",
+      "synthesis_conditions": {
+        "temperature": "473 K",
+        "solvents": "dry HCl, NH3",
+        "equipment": "Not specified",
+        "chemicals_used": "200 mg (0.126 mmol) of Network 2",
+        "time": "1 hour with dry HCl, 3 hours with NH3",
+        "yield": "Not specified",
+        "analysis": "XRPD"
+      }
+    },
+    {
+      "name": "Network 2 to 3 transformation (NH3 and dry HCl)",
+      "synthesis_conditions": {
+        "temperature": "473 K",
+        "solvents": "NH3, dry HCl",
+        "equipment": "Not specified",
+        "chemicals_used": "200 mg (0.126 mmol) of Network 2",
+        "time": "2 hours with NH3, 1 hour with dry HCl",
+        "yield": "Not specified",
+        "analysis": "XRPD"
+      }
+    }
+  ]
+}

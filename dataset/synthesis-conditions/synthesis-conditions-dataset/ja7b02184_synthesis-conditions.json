@@ -1,0 +1,206 @@
+{
+  "materials": [
+    {
+      "name": "L1-Me2",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "50 °C",
+          "solvents": [
+            {
+              "name": "TEA",
+              "amount": "160 ml"
+            }
+          ],
+          "equipment": "N/A",
+          "chemicals_used": [
+            {
+              "name": "Methyl 4-ethynylbenzoate",
+              "amount": "2.497 g, 15.59 mmol, 2.5 eq"
+            },
+            {
+              "name": "1,4-diiodobenzene",
+              "amount": "2.059 g. 6.24 mmol, 1.0 eq"
+            },
+            {
+              "name": "bis(triphenylphosphine)palladium(II) dichloride",
+              "amount": "0.295 g, 0.42 mmol"
+            },
+            {
+              "name": "copper(I) iodide",
+              "amount": "0.072 g, 0.38 mmol"
+            }
+          ],
+          "time": "overnight",
+          "washing_method": "washed with hexane, water, and DCM",
+          "drying_method": "dried under vacuum",
+          "yield": "2.445 g, 6.20 mmol, 99%"
+        }
+      ]
+    },
+    {
+      "name": "L1-H2",
+      "synthesis_conditions": [
+        {
+          "step": "Saponification",
+          "temperature": "85 °C",
+          "solvents": [
+            {
+              "name": "1:1 MeOH/THF",
+              "amount": "350 ml"
+            },
+            {
+              "name": "water",
+              "amount": "300 ml"
+            }
+          ],
+          "equipment": "N/A",
+          "chemicals_used": [
+            {
+              "name": "L1-Me2",
+              "amount": "1.892 g, 4.80 mmol, 1.0 eq"
+            },
+            {
+              "name": "Potassium hydroxide",
+              "amount": "2.693 g, 48.00 mmol, 10.0 eq"
+            }
+          ],
+          "time": "overnight",
+          "washing_method": "washed with water until pH neutral, then with DCM",
+          "drying_method": "dried under vacuum",
+          "yield": "0.931 g, 2.54 mmol, 53%"
+        }
+      ]
+    },
+    {
+      "name": "Zr-L2",
+      "synthesis_conditions": [
+        {
+          "step": "Bulk synthesis",
+          "temperature": "120 °C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "10 ml"
+            }
+          ],
+          "equipment": "50 ml PYREX reagent bottle",
+          "chemicals_used": [
+            {
+              "name": "L-proline",
+              "amount": "0.130 g, 1.13 mmol, 5 eq"
+            },
+            {
+              "name": "L2-H2",
+              "amount": "0.089 g, 0.23 mmol, 1 eq"
+            },
+            {
+              "name": "zirconium chloride",
+              "amount": "0.052 g, 0.22 mmol, 1 eq"
+            },
+            {
+              "name": "Concentrated HCl",
+              "amount": "0.02 ml"
+            }
+          ],
+          "time": "24 hours",
+          "washing_method": "centrifuged with fresh DMF and acetone",
+          "drying_method": "dried under vacuum",
+          "yield": "0.104 g, 0.034 mmol, 93%"
+        },
+        {
+          "step": "Single crystal synthesis",
+          "temperature": "100 °C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "5 ml"
+            }
+          ],
+          "equipment": "50 ml PYREX reagent bottle",
+          "chemicals_used": [
+            {
+              "name": "L-proline",
+              "amount": "0.052 g, 0.45 mmol, 4 eq"
+            },
+            {
+              "name": "L2-H2",
+              "amount": "0.044 g, 0.11 mmol, 1 eq"
+            },
+            {
+              "name": "zirconium chloride",
+              "amount": "0.026 g, 0.11 mmol, 1 eq"
+            },
+            {
+              "name": "Concentrated HCl",
+              "amount": "0.01 ml"
+            }
+          ],
+          "time": "48 hours",
+          "washing_method": "N/A",
+          "drying_method": "N/A",
+          "yield": "N/A"
+        }
+      ]
+    },
+    {
+      "name": "Zr-L1",
+      "synthesis_conditions": [
+        {
+          "step": "Activation",
+          "temperature": "N/A",
+          "solvents": [
+            {
+              "name": "CHCl3",
+              "amount": "N/A"
+            }
+          ],
+          "equipment": "50 ml PYREX reagent bottle",
+          "chemicals_used": [],
+          "time": "3 days",
+          "washing_method": "exchanged for fresh CHCl3 at least 3 times",
+          "drying_method": "dried under vacuum",
+          "yield": "N/A"
+        }
+      ]
+    },
+    {
+      "name": "Zr-L5",
+      "synthesis_conditions": [
+        {
+          "step": "Bulk synthesis",
+          "temperature": "120 °C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "10 ml"
+            }
+          ],
+          "equipment": "50 ml PYREX reagent bottle",
+          "chemicals_used": [
+            {
+              "name": "Benzoic acid",
+              "amount": "0.618 g, 5.06 mmol, 30 eq"
+            },
+            {
+              "name": "zirconium chloride",
+              "amount": "0.039 g, 0.17 mmol, 1 eq"
+            },
+            {
+              "name": "L5-H2",
+              "amount": "0.074 g, 0.17 mmol, 1 eq"
+            },
+            {
+              "name": "Concentrated HCl",
+              "amount": "0.015 ml"
+            }
+          ],
+          "time": "24 hours",
+          "washing_method": "centrifuged with fresh DMF and acetone",
+          "drying_method": "dried under vacuum",
+          "yield": "0.085 g, 0.026 mmol, 92%"
+        }
+      ]
+    }
+  ]
+}

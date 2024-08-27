@@ -1,0 +1,103 @@
+{
+  "materials": [
+    {
+      "name": "H2L1",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation",
+          "solvents": ["MeOH", "H2SO4", "AcOH", "Ac2O", "H2O", "DMF"],
+          "chemicals_used": ["CrO3", "4-carboxyphenylboronic acid", "[PdBr2(dppf)]", "Na2CO3"],
+          "amount_of_solvent": {
+            "MeOH": "variable",
+            "H2SO4": "variable",
+            "AcOH": "variable",
+            "Ac2O": "variable",
+            "H2O": "variable",
+            "DMF": "variable"
+          }
+        }
+      ]
+    },
+    {
+      "name": "[Zn4O(L1)3-(OH2)2]·4 DMF (1)",
+      "synthesis_conditions": [
+        {
+          "temperature": "100 8C",
+          "solvents": ["DMF"],
+          "chemicals_used": ["Zn(NO3)2·6 H2O", "H2L1"],
+          "time": "24 h",
+          "washing_method": "Not specified",
+          "drying_method": "Heated for 1 h at 100 8C under vacuum"
+        }
+      ]
+    },
+    {
+      "name": "[Zn4O(L1)1.2(L2)1.8(OH2)2]·16 H2O (2)",
+      "synthesis_conditions": [
+        {
+          "step": "Post-synthetic modification",
+          "solvents": ["DMF"],
+          "chemicals_used": ["2,4-dinitrophenylhydrazine (DPH)"],
+          "time": "1 week",
+          "washing_method": "Soaked in and washed with DMF",
+          "drying_method": "Not specified",
+          "yield": "50 %–60 % conversion of aldehyde tags to hydrazone groups"
+        }
+      ]
+    },
+    {
+      "name": "H2L3",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation",
+          "solvents": ["DMF", "MeOH", "H2SO4"],
+          "chemicals_used": ["MeI", "K2CO3", "4-carboxyphenylboronic acid", "[PdBr2(dppf)]", "Na2CO3"],
+          "amount_of_solvent": {
+            "DMF": "variable",
+            "MeOH": "variable",
+            "H2SO4": "variable"
+          }
+        }
+      ]
+    },
+    {
+      "name": "[Zn4O(L3)3] (3)",
+      "synthesis_conditions": [
+        {
+          "temperature": "100 8C",
+          "solvents": ["DMF"],
+          "chemicals_used": ["Zn(NO3)2·6 H2O", "H2L3"],
+          "time": "24 h",
+          "washing_method": "Soaked in portions of fresh DMF, washed with DMF",
+          "drying_method": "Not specified"
+        }
+      ]
+    },
+    {
+      "name": "[Zn4O(L1)x(L3)3-x] (4)",
+      "synthesis_conditions": [
+        {
+          "solvents": ["Not specified"],
+          "chemicals_used": ["Zn(NO3)2·6 H2O", "H2L1", "H2L3"],
+          "ratio": "1:1 ratio of H2L1 and H2L3",
+          "resulting_ratio": "H2L1:H2L3 ratio of 10:90",
+          "formula": "[Zn4O(L1)0.3(L3)2.7]"
+        }
+      ]
+    },
+    {
+      "name": "[Zn4O(L2)0.3(L3)2.7] (5)",
+      "synthesis_conditions": [
+        {
+          "step": "Post-synthetic modification of 4",
+          "solvents": ["DMF"],
+          "chemicals_used": ["DPH"],
+          "time": "1 week",
+          "washing_method": "Not specified",
+          "drying_method": "Not specified",
+          "result": "All aldehyde tags in 4 have reacted with DPH"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "materials": [
+    {
+      "name": "Cu[Ni(pdt)2]",
+      "synthesis_conditions": {
+        "solvents": "acetonitrile",
+        "solvent_amounts_ml": ["270 mL", "75 mL"],
+        "chemicals_used": [
+          {
+            "chemical": "Na2[Ni(pdt)2]",
+            "amount": "0.630 g",
+            "molarity": "1.62 mmol"
+          },
+          {
+            "chemical": "CuI",
+            "amount": "0.309 g",
+            "molarity": "1.62 mmol"
+          }
+        ],
+        "temperature": "90 °C",
+        "equipment": "Micromeritics ASAP 2420 instrument",
+        "time": "overnight",
+        "yield": "0.453 g (69%)",
+        "drying_method": "high vacuum",
+        "washing_method": "filtered on 0.22-μm nylon filter paper in air"
+      }
+    },
+    {
+      "name": "Cu[Ni(pdt)2] with C2H2",
+      "synthesis_conditions": {
+        "gas_adsorption": {
+          "gases": ["C2H2"],
+          "pressures_mbar": ["20 mbar", "92 mbar", "291 mbar", "591 mbar", "1077 mbar"],
+          "temperature": "298 K"
+        }
+      }
+    },
+    {
+      "name": "Cu[Ni(pdt)2] with C2H4",
+      "synthesis_conditions": {
+        "gas_adsorption": {
+          "gases": ["C2H4"],
+          "pressures_mbar": ["24 mbar", "88 mbar", "273 mbar", "589 mbar", "985 mbar"],
+          "temperature": "298 K"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "materials": [
+    {
+      "name": "ZIF-4-CNx",
+      "synthesis_conditions": {
+        "method": "solvothermal",
+        "precursors": [
+          "Zn(NO3)2∙6H2O (4.0 mmol)",
+          "imidazole (Him)",
+          "4-cyano-imidazole (HCNim, total amount of the linkers 13.2 mmol)"
+        ],
+        "solvent": "N,N-dimethylformamide (DMF, 90 mL)",
+        "temperature": "100 °C",
+        "time": "7 days",
+        "equipment": "12 mL borosilicate glass vials, preheated oven",
+        "washing_method": "washed with DMF and dichloromethane (DCM)",
+        "activation_method": "evacuated at 100 °C (for ~48 h) under approx. 10-4 kPa"
+      }
+    },
+    {
+      "name": "ZIF-4-dCNx",
+      "synthesis_conditions": {
+        "method": "mechanochemical",
+        "precursors": [
+          "ZnO (1.98 mmol, nano powder 40 - 100 nm)",
+          "Zn(O2CCH3)2∙2H2O (0.02 mmol)",
+          "imidazole (Him) and 4,5-dicyano-imidazole (HdCNim, total amount 4.0 mmol)"
+        ],
+        "solvent": "N,N-dimethylformamide (DMF, 150 µL)",
+        "equipment": "10 mL stainless steel grinding jar, Retsch MM400 mixer mill",
+        "milling_conditions": "30 Hz for 30 mins",
+        "activation_method": "dried at 175 °C under dynamic vacuum (approx. 10-4 kPa) for 3 h"
+      }
+    },
+    {
+      "name": "ZIF-62",
+      "synthesis_conditions": {
+        "method": "solvothermal",
+        "precursors": [
+          "Zn(NO3)2∙6H2O (4.0 mmol)",
+          "imidazole (Him, 12.14 mmol)",
+          "benzimidazole (Hbim 1.06 mmol)"
+        ],
+        "solvent": "N,N-dimethylformamide (DMF, 90 mL)",
+        "temperature": "100 °C",
+        "time": "7 days",
+        "equipment": "12 mL borosilicate glass vials, preheated oven",
+        "washing_method": "washed with DMF and dichloromethane (DCM)",
+        "activation_method": "evacuated at 100 °C (for ~48 h) under approx. 10-4 kPa"
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "materials": [
+    {
+      "name": "Carbasalatum Calcicum (CC)",
+      "synthesis_conditions": {
+        "description": "The well-established synthetic procedure yields CC as a white powder containing well-developed square platelets.",
+        "recrystallization_conditions": [
+          {
+            "method": "slow diffusion",
+            "solvents": "various poor solvents",
+            "outcome": "unsuccessful except with acetone, which produced colorless cuboctahedra identified as ASA"
+          },
+          {
+            "method": "slow evaporation",
+            "solution": "supersaturated (> 25%) aqueous solution",
+            "time": "a few hours",
+            "outcome": "no crystals if allowed to go to completion; deacetylization of ASA almost complete"
+          }
+        ],
+        "optical_microscopy_conditions": {
+          "method": "adding CC to water in a Petri dish until crystals floated on the surface",
+          "observation": "grains disappeared and two new habitats nucleated; thickish joists first and sturdy laths about half a minute later",
+          "time_for_coexistence": "about 90 seconds",
+          "result": "crystals of the furtive form (AC) could be isolated and were stable enough in air for analysis"
+        }
+      }
+    },
+    {
+      "name": "Acetylsalicylatum Calcicum (AC)",
+      "synthesis_conditions": {
+        "description": "Formed during the degradation of CC in pure water, isolated as a furtive intermediate species.",
+        "structure": "catena-bis(m2,h2-acetylsalicylato)-diaquo-calcium dihydrate",
+        "crystal_structure": {
+          "columns": "edge-sharing CaO8 polyhedra",
+          "stabilization": "extensive hydrogen-bonding interactions",
+          "hydrogen_bond_lengths": "1.77–2.00 H",
+          "hydrogen_bond_angles": "160–166 degrees"
+        },
+        "data_collection_time": "three to four days",
+        "additional_notes": "A small decay in intensity occurred, possibly due to moisture adsorption."
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What are the synthesis conditions for ZIF-78?",
+      "answer": "ZIF-78 was synthesized using 2-nitroimidazole (nIm) and 5-nitrobenzimidazole (nbIm) in a solvothermal reaction with zinc nitrate tetrahydrate in DMF at 100 °C for 96 hours.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the pore size of ZIF-82 compare to ZIF-78?",
+      "answer": "ZIF-82 has a larger pore diameter (12.3 Å) compared to ZIF-78 (7.1 Å), indicating ZIF-82 has larger pores.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the thermal stability of ZIF-78 higher than that of ZIF-79?",
+      "answer": "True. The TGA traces indicate that ZIF-78 maintains its structure up to 400 °C, similar to ZIF-79, but the initial weight loss due to solvent removal is less in ZIF-78, suggesting slightly better thermal stability.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of 2-nitroimidazole in the synthesis of ZIF-78 and ZIF-82?",
+      "answer": "2-nitroimidazole acts as a linker in the synthesis of both ZIF-78 and ZIF-82, contributing to the formation of their frameworks by connecting zinc atoms.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can ZIF-82 retain its structure after being exposed to boiling water for 7 days?",
+      "answer": "True. The PXRD patterns after exposure to boiling water for 7 days show that ZIF-82 retains its structure, indicating high chemical stability.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area of ZIF-82, and how does it compare to that of ZIF-78?",
+      "answer": "The BET surface area of ZIF-82 is 1300 m2/g, which is significantly higher than that of ZIF-78, which has a surface area of 620 m2/g.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What experimental technique was used to confirm the porosity of ZIF-78?",
+      "answer": "Nitrogen adsorption isotherms at 77 K were used to confirm the porosity of ZIF-78, showing a Type I isotherm behavior.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the CO2 uptake capacity of ZIF-78 compare to BPL carbon?",
+      "answer": "ZIF-78 takes up 3 times as much CO2 as BPL carbon, indicating a significantly higher CO2 uptake capacity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the CO2/CH4 selectivity of ZIF-82 higher than that of ZIF-78?",
+      "answer": "True. The calculated selectivities and dynamic breakthrough studies show that ZIF-82 has higher CO2/CH4 selectivity compared to ZIF-78.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the GME topology in the context of ZIFs?",
+      "answer": "The GME topology, found in ZIFs like ZIF-78 and ZIF-82, allows for the creation of materials with wide channels and varied pore metrics, making them highly suitable for gas separation applications.",
+      "difficulty": "hard",
+      "type": "factual"
+    }
+  ]
+}

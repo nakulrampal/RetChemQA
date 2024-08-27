@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the chemical formula of the homochiral 3D MOF discussed in the text?",
+      "answer": "[{Co2(L)(bpe)(H2O)}·5H2O]n",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the synthesis of the ligand H4L?",
+      "answer": "Hydrothermal reaction",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of NaOH in the preparation of MOF 1?",
+      "answer": "NaOH acts as a base in the hydrothermal reaction for the preparation of MOF 1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the coordination environment of Co(II) change from MOF 1 to MOF 3?",
+      "answer": "The coordination number of the cobalt center changes from 6 (octahedral) in MOF 1 to 5 (trigonal bipyramidal) in MOF 3.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What triggers the two-step reversible SCSC transformation in the discussed MOF?",
+      "answer": "The two-step reversible SCSC transformation is triggered by the desorption/adsorption of free and coordinated water molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the crystal structure of MOF 1 identical to MOF 1' after rehydration?",
+      "answer": "Yes, the crystal structure of MOF 1 is identical to MOF 1' after rehydration.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the removal of free water molecules significantly change the chiral backbone of MOF 1?",
+      "answer": "No, the removal of free water molecules does not trigger an obvious change in the chiral backbone of MOF 1.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the water spirals in the ferroelectric properties of the MOF?",
+      "answer": "The water spirals are of critical importance to the inherent ferroelectricity of the MOF, contributing significantly to its spontaneous polarization.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the intermediate phase [Co2(L)(bpe)(H2O)]n be stabilized during the SCSC transformation?",
+      "answer": "No, the intermediate phase [Co2(L)(bpe)(H2O)]n cannot be stabilized and quickly reverts to the hydrated form in air.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental technique was used to measure the ferroelectric properties of the MOF?",
+      "answer": "The ferroelectric properties were measured using a ferroelectric tester to observe the P-E hysteresis loops.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What changes occur in the unit-cell volume from MOF 1 to MOF 3?",
+      "answer": "The unit-cell volume slightly decreases from MOF 1 to MOF 3, with a corresponding increase in the void due to the loss of aqua ligand.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the dielectric constant of MOF 1 temperature-dependent?",
+      "answer": "Yes, the dielectric constant of MOF 1 shows temperature dependence, with pronounced maxima close to 320 K.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to study the spontaneous polarization of water molecules within the MOF?",
+      "answer": "The ONIOM method, combining density functional theory (DFT) and universal force field (UFF), was used for the computational study.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the dipole moment of water molecules in the groove contribute to the total dipole moment of the MOF?",
+      "answer": "The dipole moment of water molecules in the groove contributes significantly to the total dipole moment of the MOF, indicating their major role in spontaneous polarization.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the MOF retain its polar robust network after reversible SCSC via cyclic dehydration/rehydration?",
+      "answer": "Yes, the MOF retains its polar robust network after reversible SCSC via cyclic dehydration/rehydration.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of the external electric field on the polarization of water molecules in the MOF?",
+      "answer": "The external electric field increases the dipole moment of water molecules in the groove, enhancing the polarization of the MOF.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the hydrogen bonds between guest water molecules reconstructed after rehydration?",
+      "answer": "Yes, the hydrogen bonds between guest water molecules are reconstructed after rehydration, forming homomorphous water spirals.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does the chiral backbone play in the ferroelectric properties of the MOF?",
+      "answer": "The chiral backbone, along with the water spirals, plays a crucial role in the ferroelectric properties of the MOF by contributing to its spontaneous polarization.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the conformation of bpe ligands restored to its original state after the SCSC transformation cycle?",
+      "answer": "Yes, the conformation of bpe ligands is nearly restored to its original state after the SCSC transformation cycle.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the ordered helical water chains in the MOF's electric polarity?",
+      "answer": "The ordered helical water chains are significant for the MOF's electric polarity, as they induce spontaneous polarization and contribute to its ferroelectric properties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

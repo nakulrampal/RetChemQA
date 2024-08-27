@@ -1,0 +1,72 @@
+{
+  "materials": [
+    {
+      "material": "UWCM-10",
+      "synthesis_method": "Solvent-Assisted Linker Exchange (SALE)",
+      "temperature": "65 °C",
+      "solvents": [
+        {
+          "name": "DMF",
+          "amount": "18.8 mL"
+        },
+        {
+          "name": "triethylamine",
+          "amount": "1.2 mL"
+        }
+      ],
+      "chemicals_used": [
+        {
+          "name": "H2DCPT",
+          "amount": "133 mg, 0.41 mmol"
+        },
+        {
+          "name": "PCN-57",
+          "amount": "30 mg, 0.01 mmol"
+        }
+      ],
+      "time": "48 h",
+      "washing_method": [
+        "DMF (5 mL)",
+        "20:1 DMF/triethylamine (3 x 5.25 mL)",
+        "ethanol (2 x 5 mL)",
+        "DCM (5 mL)"
+      ],
+      "drying_method": "under vacuum at 120 ⁰C for 12 h",
+      "yield": "not specified"
+    },
+    {
+      "material": "UWDM-10",
+      "synthesis_method": "Solvent-Assisted Linker Exchange (SALE)",
+      "temperature": "65 °C",
+      "solvents": [
+        {
+          "name": "DMF",
+          "amount": "18.8 mL"
+        },
+        {
+          "name": "triethylamine",
+          "amount": "1.2 mL"
+        }
+      ],
+      "chemicals_used": [
+        {
+          "name": "H2DCPT",
+          "amount": "186 mg, 0.41 mmol"
+        },
+        {
+          "name": "UWDM-8",
+          "amount": "63 mg, 0.018 mmol"
+        }
+      ],
+      "time": "48 h",
+      "washing_method": [
+        "DMF (5 mL)",
+        "20:1 DMF/triethylamine (3 x 5.25 mL)",
+        "ethanol (2 x 5 mL)",
+        "DCM (5 mL)"
+      ],
+      "drying_method": "under vacuum at 120 ⁰C for 12 h",
+      "yield": "not specified"
+    }
+  ]
+}

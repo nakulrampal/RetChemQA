@@ -1,0 +1,101 @@
+{
+  "materials": [
+    {
+      "name": "P1-MOF (I)",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "90 °C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "0.8 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "H3L",
+              "amount": "7.8 mg"
+            },
+            {
+              "name": "ZrCl4",
+              "amount": "5.8 mg"
+            },
+            {
+              "name": "benzoic acid",
+              "amount": "50 mg"
+            }
+          ],
+          "time": "3 days",
+          "yield": "34%",
+          "other_conditions": [
+            {
+              "label": "atmosphere",
+              "value": "nitrogen"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "P1-MOF·Rh",
+      "synthesis_conditions": [
+        {
+          "step": "Postsynthetic metalation",
+          "chemicals_used": [
+            {
+              "name": "P1-MOF",
+              "amount": "1.4 mg"
+            },
+            {
+              "name": "[RhCl(nbd)]2",
+              "amount": "89 μL"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "THF",
+              "amount": "2.0 mL"
+            }
+          ],
+          "other_conditions": [
+            {
+              "label": "metal loading",
+              "value": "0.0444 μmol Rh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "P1-MOF·Ir",
+      "synthesis_conditions": [
+        {
+          "step": "Postsynthetic metalation",
+          "chemicals_used": [
+            {
+              "name": "P1-MOF",
+              "amount": "3.1 mg"
+            },
+            {
+              "name": "[Ir(OMe)(cod)]2",
+              "amount": "198 μL"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "THF",
+              "amount": "2.0 mL"
+            }
+          ],
+          "other_conditions": [
+            {
+              "label": "metal loading",
+              "value": "0.185 μmol Ir"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

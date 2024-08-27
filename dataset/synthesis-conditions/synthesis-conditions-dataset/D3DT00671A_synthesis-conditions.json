@@ -1,0 +1,86 @@
+{
+  "materials": [
+    {
+      "name": "Ligand L1 (C18H14N4O2)",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "CH2Cl2",
+            "amount": "40 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Isophthaloyl dichloride",
+            "amount": "0.20 g, 0.99 mmol"
+          },
+          {
+            "name": "4-Aminopyridine",
+            "amount": "0.19 g, 1.97 mmol"
+          },
+          {
+            "name": "Et3N",
+            "amount": "0.5 mL"
+          }
+        ],
+        "time": "24 hours",
+        "yield": "0.29 g, 94%",
+        "washing_method": "Washed with CH2CI2 (10 mL), methanol (10 mL), and water (10 mL)",
+        "drying_method": "Dried under vacuum overnight"
+      }
+    },
+    {
+      "name": "MOF 1 [Cu1/2(L1)(NO3-)·DMF]",
+      "synthesis_conditions": {
+        "temperature": "60 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "8 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "N,N'-bis-4-pyridinyl-isophthalamide",
+            "amount": "0.02 g, 0.06 mmol"
+          },
+          {
+            "name": "Cu(NO3)2·3H2O",
+            "amount": "0.03 g, 0.13 mmol"
+          }
+        ],
+        "time": "6 hours",
+        "yield": "77%"
+      }
+    },
+    {
+      "name": "MOF 2 [Ni1/2L1Cl]",
+      "synthesis_conditions": {
+        "temperature": "60 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "4 mL"
+          },
+          {
+            "name": "Methanol",
+            "amount": "Not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "N,N'-bis-4-pyridinyl-isophthalamide",
+            "amount": "0.02 g, 0.06 mmol"
+          },
+          {
+            "name": "NiCl2·6H2O",
+            "amount": "0.03 g, 0.13 mmol"
+          }
+        ],
+        "time": "24 hours",
+        "yield": "68%"
+      }
+    }
+  ]
+}

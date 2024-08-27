@@ -1,0 +1,82 @@
+{
+  "materials": [
+    {
+      "name": "ZIF-7",
+      "synthesis_conditions": {
+        "temperature": "230 °C for activation, room temperature (~25 °C) for synthesis",
+        "solvents": [
+          {
+            "name": "ethanol",
+            "amount": "40 mL"
+          },
+          {
+            "name": "aqueous NH3",
+            "amount": "2.8 g, 28–30%"
+          }
+        ],
+        "equipment": "50 mL round-bottom flask, 100 mL round-bottom flask",
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "0.900 g, 3.00 mmol, 1 eq"
+          },
+          {
+            "name": "benzimidazole",
+            "amount": "0.72 g, 6.0 mmol, 2 eq."
+          }
+        ],
+        "time": "0.5 h stirring at room temperature, 48 h activation, 72 h immersion in ethanol",
+        "washing_method": "filtered through filter paper and washed with excess fresh ethanol",
+        "drying_method": "vacuum drying on the filter paper for 5 min, activated overnight (~16 h) at 100 °C under dynamic vacuum",
+        "yield": "Not specified",
+        "additional_steps": [
+          {
+            "step": "Activation",
+            "details": "under dynamic vacuum at 230 °C for 48 h"
+          },
+          {
+            "step": "Immersion",
+            "details": "in fresh, excess ethanol for 72 h"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Activated CdIF-13",
+      "synthesis_conditions": {
+        "temperature": "130 °C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide",
+            "amount": "10 mL"
+          },
+          {
+            "name": "dichloromethane",
+            "amount": "15 mL for washing, 15 mL for solvent exchange"
+          }
+        ],
+        "equipment": "20 mL scintillation vial, temperature-programmable oven",
+        "chemicals_used": [
+          {
+            "name": "Cd(ClO4)2·xH2O",
+            "amount": "Not specified"
+          },
+          {
+            "name": "benzimidazole",
+            "amount": "Not specified"
+          }
+        ],
+        "time": "24 h heating, 24 h solvent exchange",
+        "washing_method": "vacuum filtration and washed with excess N,N-dimethylformamide",
+        "drying_method": "dried under active vacuum at room temperature",
+        "yield": "Not specified",
+        "additional_steps": [
+          {
+            "step": "Solvent exchange",
+            "details": "repeated 3 times with fresh dichloromethane"
+          }
+        ]
+      }
+    }
+  ]
+}

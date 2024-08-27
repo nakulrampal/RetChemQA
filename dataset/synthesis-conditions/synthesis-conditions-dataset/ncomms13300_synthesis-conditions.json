@@ -1,0 +1,108 @@
+{
+  "ZIF-8-V": {
+    "synthesis_method": "slow evaporation",
+    "chemicals_used": [
+      {
+        "name": "trimethylamine",
+        "amount": "3 ml"
+      },
+      {
+        "name": "cyclohexane",
+        "amount": "not specified"
+      },
+      {
+        "name": "DMF (dimethylformamide)",
+        "amount": "2 ml"
+      },
+      {
+        "name": "Zn(NO3)2·6H2O",
+        "amount": "0.033 mmol"
+      },
+      {
+        "name": "2-vinyl-imidazole",
+        "amount": "0.1 mmol"
+      }
+    ],
+    "synthesis_conditions": {
+      "temperature": "room temperature",
+      "time": "7 days",
+      "atmosphere": "not specified"
+    },
+    "washing_method": "not specified",
+    "drying_method": "not specified"
+  },
+  "ZIF-8-V_powder": {
+    "synthesis_method": "slow evaporation",
+    "chemicals_used": [
+      {
+        "name": "2-vinyl-imidazole",
+        "amount": "0.094 g, 1.0 mmol"
+      },
+      {
+        "name": "Zn(NO3)2·6H2O",
+        "amount": "0.149 g, 0.50 mmol"
+      },
+      {
+        "name": "DMF (dimethylformamide)",
+        "amount": "15 ml"
+      },
+      {
+        "name": "triethylamine",
+        "amount": "5 ml"
+      },
+      {
+        "name": "cyclohexane",
+        "amount": "200 ml"
+      }
+    ],
+    "synthesis_conditions": {
+      "temperature": "room temperature",
+      "time": "48 h",
+      "atmosphere": "mixture of triethylamine and cyclohexane"
+    },
+    "washing_method": "methanol (3×25 ml)",
+    "drying_method": "vacuum at room temperature"
+  },
+  "ZIF-8-VF": {
+    "synthesis_method": "thiol-ene click reaction",
+    "chemicals_used": [
+      {
+        "name": "activated ZIF-8-V powder",
+        "amount": "0.10 g"
+      },
+      {
+        "name": "(triﬂuoromethyl)benzene",
+        "amount": "10 ml"
+      },
+      {
+        "name": "1H,1H,2H,2H-perﬂuorodecanethiol",
+        "amount": "10 v/v %"
+      },
+      {
+        "name": "azobisisobutyronitrile (catalytic amount)",
+        "amount": "not specified"
+      }
+    ],
+    "synthesis_conditions": {
+      "temperature": "60 °C",
+      "time": "10 h",
+      "atmosphere": "N2"
+    },
+    "washing_method": "methanol (3×25 ml)",
+    "drying_method": "vacuum at room temperature"
+  },
+  "MOF-5-V": {
+    "synthesis_method": "not specified",
+    "chemicals_used": [],
+    "synthesis_conditions": {},
+    "washing_method": "not specified",
+    "drying_method": "not specified"
+  },
+  "MOF-5-VF": {
+    "synthesis_method": "not specified",
+    "chemicals_used": [],
+    "synthesis_conditions": {},
+    "washing_method": "not specified",
+    "drying_method": "not specified"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "FeNi-M'MOF": {
+    "synthesis": {
+      "temperature": "room temperature",
+      "solvents": [
+        {
+          "name": "water",
+          "amount": "not specified"
+        },
+        {
+          "name": "methanol",
+          "amount": "not specified"
+        }
+      ],
+      "chemicals_used": [
+        "K2[Ni(CN)4]",
+        "Fe2+",
+        "pyz (pyrazine)"
+      ],
+      "time": "30 minutes",
+      "equipment": "not specified",
+      "yield": "not specified",
+      "washing_method": "not specified",
+      "drying_method": "not specified",
+      "additional_information": "The powder X-ray diffraction (PXRD) of products indicated that those products have a good crystallinity and match well with the simulated XRD pattern, indicating the purity of FeNi-M'MOF. The resultant FeNi-M'MOF was further validated by elemental analysis (EA), thermogravimetry analysis (TGA), energy dispersive spectroscopy (EDS), and X-ray photoelectron spectroscopy (XPS) analysis."
+    },
+    "stability": {
+      "water_stability": "excellent, retains crystallinity after soaking in water for 30 days",
+      "thermal_stability": "considerable, up to 200 8C"
+    },
+    "adsorption_properties": {
+      "C2H2": {
+        "uptake_capacity_at_298K_1bar": "133 cm3 cm-3 (4.29 mmol g-1)",
+        "uptake_capacity_at_273K_1bar": "145 cm3 cm-3",
+        "isosteric_heat_of_adsorption_Qst": "27–32.8 kJ mol-1"
+      },
+      "CO2": {
+        "uptake_capacity_at_298K_1bar": "84 cm3 cm-3 (2.72 mmol g-1)",
+        "uptake_capacity_at_273K_1bar": "102 cm3 cm-3",
+        "isosteric_heat_of_adsorption_Qst": "about 24.5 kJ mol-1"
+      }
+    },
+    "separation_performance": {
+      "C2H2_CO2_selectivity_at_298K_100kPa": "24",
+      "C2H2_capture_amount_from_50_50_C2H2_CO2_mixture_at_298K_1bar": "4.54 mol L-1",
+      "breakthrough_simulation_results": {
+        "CO2_purity": "99.95%",
+        "C2H2_capture_amount": "4.54 mol L-1",
+        "retention_time_CO2": "24 min",
+        "retention_time_C2H2": "40 min",
+        "captured_C2H2": "4.10 mol L-1",
+        "separation_factor": "1.7"
+      }
+    }
+  }
+}

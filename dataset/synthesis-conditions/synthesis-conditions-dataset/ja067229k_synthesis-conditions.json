@@ -1,0 +1,67 @@
+{
+  "materials": [
+    {
+      "material": "ZntBu2 (1)",
+      "synthesis_conditions": {
+        "temperature": "30°C",
+        "pressure": "5 × 10^-2 Torr",
+        "method": "sublimation",
+        "yield": "high yield according to the literature procedure"
+      }
+    },
+    {
+      "material": "ZntBu2[1,2-bis(4-pyridyl)ethane] (2)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "5 mL"
+          },
+          {
+            "name": "toluene",
+            "solubility": "sparingly soluble"
+          }
+        ],
+        "temperature": "-78°C to room temperature",
+        "chemicals_used": [
+          {
+            "name": "1,2-bis(4-pyridyl)ethane",
+            "amount": "0.138 g, 0.75 mmol"
+          },
+          {
+            "name": "ZntBu2 in THF",
+            "amount": "0.135 g, 0.75 mmol"
+          }
+        ],
+        "time": "4 hours",
+        "yield": "0.253 g, 93%",
+        "NMR_data": "1H NMR (400 MHz, THF-d8): δ = 0.97 (s, 18H, Zn-C(CH3)3), 2.70 (s, 4H, -(CH2)2-), 6.90 (d, 4H, Ar), 8.30 (d, 4H, Ar) ppm."
+      }
+    },
+    {
+      "material": "ZntBu2[1,2-bis(4-pyridyl)ethylene] (3)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "5 mL"
+          }
+        ],
+        "temperature": "-78°C to room temperature",
+        "chemicals_used": [
+          {
+            "name": "1,2-bis(4-pyridyl)ethylene",
+            "amount": "0.136 g, 0.75 mmol"
+          },
+          {
+            "name": "ZntBu2 in THF",
+            "amount": "0.135 g, 0.75 mmol"
+          }
+        ],
+        "time": "4 hours",
+        "yield": "0.244 g, 90%",
+        "NMR_data": "1H NMR (400 MHz, toluene-d8): δ = 1.26 (s, 18H, Zn-C(CH3)3), 6.48 (s, 2H, -(CH)2-), 6.70 (d, 4H, Ar), 8.36 (d, 4H, Ar) ppm."
+      }
+    }
+  ]
+}

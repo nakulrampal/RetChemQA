@@ -1,0 +1,94 @@
+{
+  "materials": [
+    {
+      "name": "FJI-H8",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "3,30,5,50-tetra(3,5-dicarboxyphenyl)-4,40-dimethoxy-biphenyl (H8tddb)",
+              "amount": "10 mg"
+            },
+            {
+              "name": "Cu(NO3)2",
+              "amount": "30 mg"
+            },
+            {
+              "solvents": [
+                {
+                  "name": "N,N-diethylformamide",
+                  "amount": "1.5 ml"
+                },
+                {
+                  "name": "water",
+                  "amount": "0.45 ml"
+                }
+              ]
+            },
+            {
+              "name": "HCl",
+              "amount": "25 ml"
+            }
+          ],
+          "temperature": "85 °C",
+          "time": "12 h",
+          "equipment": "25 ml pyrex vial",
+          "yield": "6 mg (46% based on H8tddb)"
+        }
+      ],
+      "washing_method": "filtered and washed with N,N-diethylformamide",
+      "drying_method": "Not specified",
+      "activation_method": "degassed under dynamic vacuum at 80 °C for 10 h after solvent exchange with methanol and then dichloromethane for 3 days each",
+      "crystal_data": {
+        "crystal_system": "tetragonal",
+        "space_group": "P42/nnm",
+        "a": "17.9257(3) Å",
+        "c": "28.0627(7) Å",
+        "volume": "9017.4(4) Å3",
+        "Z": "16",
+        "density_calculated": "0.876 g cm-3",
+        "absorption_coefficient": "1.452 mm-1",
+        "F(000)": "2392",
+        "crystal_size": "0.1×0.05×0.05 mm3",
+        "theta_range": "3.814 to 67.927 º",
+        "limiting_indices": "-20<= h <= 21, -12 <= k <= 21, -34<= l <= 34",
+        "reflections_collected_unique": "18677 / 4709 [R(int) = 0.0387]",
+        "completeness": "98.5 %",
+        "absorption_correction": "multi-scan",
+        "data_restraints_params": "18677/0/174",
+        "refinement_method": "Full-matrix least squares on F2",
+        "goodness_of_fit_on_F2": "1.002",
+        "final_R_indices": {
+          "I>2σ(I)": "R1 = 0.0488, wR2 = 0.1206",
+          "all_data": "R1 = 0.0648, wR2 = 0.1255"
+        }
+      },
+      "low_pressure_gas_sorption_measurements": {
+        "N2_adsorption": {
+          "temperature": "77 K",
+          "isotherm_type": "reversible type I",
+          "saturated_adsorption_amount": "531 cm3 (STP) g-1",
+          "BET_surface_area": "2025±15 m2 g-1",
+          "total_pore_volume": "0.82 cm3 g-1",
+          "micropores_distribution_around": "12 Å"
+        },
+        "C2H2_adsorption": {
+          "temperatures": ["273 K", "295 K", "303 K", "308 K"],
+          "uptake_at_273K_1atm": "277 cm3 (STP) g-1",
+          "uptake_at_295K_1atm": "224 cm3 (STP) g-1",
+          "uptake_at_303K_1atm": "206 cm3 (STP) g-1",
+          "uptake_at_308K_1atm": "200 cm3 (STP) g-1",
+          "loss_after_5_cycles_at_295K": "3.8%"
+        }
+      },
+      "isosteric_heat_of_acetylene_adsorption": "32.0 kJ mol-1",
+      "open_metal_site_density": "3.59 mmol g-1",
+      "acetylene_storage_capacity_by_open_metal_sites_at_295K_1atm": "87 cm3",
+      "acetylene_storage_capacity_by_pore_space_at_295K_1atm": "137 cm3",
+      "volumetric_acetylene_uptake_at_295K_1atm": "196 cm3 (STP) cm-3",
+      "safe_acetylene_storage_density_in_bulk_material_at_295K_1atm": "0.23 g cm-3",
+      "imaginary_state_of_acetylene_corresponding_pressure": "21.3 MPa"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis of [Pt(dach)(bpy)]4(NO3)8",
+          "temperature": "refluxed for 4 weeks",
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "70 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Pt(dach)(NO3)2",
+              "amount": "650 mg, 1.50 mmol"
+            },
+            {
+              "name": "bpy·2HNO3",
+              "amount": "423 mg, 1.50 mmol"
+            }
+          ],
+          "yield": "not specified",
+          "time": "4 weeks"
+        },
+        {
+          "step": "Synthesis of [Pt(dach)(bpy)Br]4(SO4)4·32H2O",
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "methanol",
+              "amount": "50 mL"
+            },
+            {
+              "name": "water",
+              "amount": "40 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Br2",
+              "amount": "excess"
+            },
+            {
+              "name": "tetrabutylannmonium sulfate solution",
+              "amount": "15 mL, 50wt.% in H2O"
+            }
+          ],
+          "yield": "60% from Pt(dach)(NO3)2",
+          "time": "not specified"
+        }
+      ],
+      "characterization_methods": [
+        {
+          "method": "1H NMR",
+          "details": "DMSO-d6 and D2O used as solvents"
+        },
+        {
+          "method": "FTIR",
+          "details": "KBr pellets on Thermo Fisher NEXUS 670 FTIR"
+        },
+        {
+          "method": "Thermogravimetric analysis",
+          "details": "TG-DTA 2000SA (Bruker AXS), heating rate of 3 K per min in N2 flow"
+        },
+        {
+          "method": "Adsorption/desorption isotherms",
+          "details": "BELSORP-max (MicrotracBEL), for H2O (298 K) and N2 (77 K)"
+        },
+        {
+          "method": "Diffuse reflectance spectroscopy",
+          "details": "JASCO Model ISN-470, diluted in CaF2 powder"
+        },
+        {
+          "method": "Raman spectroscopy",
+          "details": "JASCO Model NRS-1000, He-Ne laser (632 nm)"
+        },
+        {
+          "method": "Single-crystal X-ray crystallography",
+          "details": "Bruker SMART APEX II CCD detector, Mo Kα radiation (λ = 0.71073 Å) at 100 K"
+        },
+        {
+          "method": "Differential scanning calorimetry",
+          "details": "DSC3500 Sirius (NETZSCH), N2 flow, heating/cooling rate of 3 K per min"
+        },
+        {
+          "method": "Impedance measurements",
+          "details": "Solartron SI 1260 Impedance/Gain-Phase Analyser and 1296 Dielectric Interface, frequency range of 1–1 × 106 Hz"
+        },
+        {
+          "method": "Solid-state 1H NMR measurements",
+          "details": "AVANCE II+ 400 NMR spectrometer (Bruker Biospin K. K.), UltraShieldTM 400 WB 9.4 T superconducting magnet"
+        },
+        {
+          "method": "PFG NMR measurements",
+          "details": "Diff 50 diffusion probe (Bruker Biospin K. K.)"
+        },
+        {
+          "method": "Quantum mechanical molecular dynamics (QM-MD) simulations",
+          "details": "Divide-and-conquer density-functional tight-binding molecular dynamics simulation technique"
+        }
+      ]
+    }
+  ]
+}

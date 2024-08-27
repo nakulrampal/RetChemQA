@@ -1,0 +1,43 @@
+{
+  "materials": [
+    {
+      "name": "Y5(C3N3O3)(OH)12 (YCY)",
+      "synthesis_conditions": {
+        "method": "hydrothermal reaction",
+        "characterization_techniques": [
+          "3D electronic diffraction (ED)"
+        ],
+        "SHG_response": "2.5 times that of KDP",
+        "UV_cutoff": "approximately 225 nm",
+        "birefringence": "0.15 at 800 nm",
+        "particle_size": "25–45 μm",
+        "density_of_anions": "0.00282 Å^3"
+      }
+    },
+    {
+      "name": "Yb5(C3N3O3)(OH)12 (YbCY)",
+      "synthesis_conditions": {
+        "method": "hydrothermal reaction",
+        "characterization_techniques": [
+          "3D electronic diffraction (ED)"
+        ],
+        "SHG_response": "3.8 times that of KDP",
+        "UV_cutoff": "approximately 230 nm",
+        "density_of_anions": "0.00288 Å^3"
+      }
+    },
+    {
+      "name": "Lu5(C3N3O3)(OH)12 (LuCY)",
+      "synthesis_conditions": {
+        "method": "hydrothermal reaction",
+        "characterization_techniques": [
+          "3D electronic diffraction (ED)"
+        ],
+        "SHG_response": "4.2 times that of KDP",
+        "UV_cutoff": "approximately 235 nm",
+        "birefringence": "0.15 at 800 nm",
+        "density_of_anions": "0.00291 Å^3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "materials": [
+    {
+      "name": "UTSA-300⊃H2O",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "ZnSiF6·xH2O",
+            "amount": "0.4 mmol, 82.8 mg"
+          },
+          {
+            "name": "dps (4,4′-dipyridylsulfide)",
+            "amount": "0.8 mmol, 150.6 mg"
+          }
+        ],
+        "equipment": "20 mL vial",
+        "temperature": "room temperature",
+        "time": "12 h",
+        "yield": "67% based on Zn"
+      }
+    },
+    {
+      "name": "UTSA-300",
+      "activation": {
+        "solvent_exchange": "methanol",
+        "exchange_cycles": 6,
+        "drying_method": "vacuum",
+        "drying_temperature": "room temperature",
+        "drying_time": "24 h"
+      }
+    },
+    {
+      "name": "UTSA-300a",
+      "transformation_from": "UTSA-300",
+      "method": "activation/desolvation",
+      "details": "The guest molecules in UTSA-300⊃H2O can also be easily removed at room temperature under high vacuum, which gave an activated phase of UTSA-300a showing a different PXRD pattern with obvious shifts from the as-synthesized one."
+    }
+  ]
+}

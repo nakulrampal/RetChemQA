@@ -1,0 +1,128 @@
+{
+  "materials": [
+    {
+      "name": "Pr-PCMOF-5 and Ce-PCMOF-5",
+      "synthesis_conditions": {
+        "temperature": "24 hours at room temperature",
+        "solvents": [
+          {
+            "name": "0.9 M H2SO4 solution",
+            "amount": "3.3 mL"
+          },
+          {
+            "name": "water",
+            "amount": "for dissolving H8L"
+          }
+        ],
+        "equipment": "glass vial",
+        "chemicals_used": [
+          {
+            "name": "Pr2(CO3)3·nH2O",
+            "amount": "255 mg"
+          },
+          {
+            "name": "H2SO4 solution",
+            "amount": "3.3 mL of 0.9 M"
+          },
+          {
+            "name": "H8L",
+            "amount": "251 mg"
+          }
+        ],
+        "time": "24 hours",
+        "washing_method": "filtered and washed with water",
+        "yield": "47%",
+        "drying_method": "air-dried",
+        "additional_notes": "Adjustments to the H2SO4:Ln3+ ratio were made from 5:1 up to 10:1, however failed to yield single crystals."
+      }
+    },
+    {
+      "name": "Ce-PCMOF-5",
+      "synthesis_conditions": {
+        "temperature": "24 hours at room temperature",
+        "solvents": [
+          {
+            "name": "1.8M H2SO4 solution",
+            "amount": "1.5 mL"
+          },
+          {
+            "name": "water",
+            "amount": "for dissolving H8L"
+          }
+        ],
+        "equipment": "glass vial",
+        "chemicals_used": [
+          {
+            "name": "Ce2(CO3)3·nH2O",
+            "amount": "130 mg"
+          },
+          {
+            "name": "H2SO4 solution",
+            "amount": "1.5 mL of 1.8M"
+          },
+          {
+            "name": "H8L",
+            "amount": "250 mg"
+          }
+        ],
+        "time": "24 hours",
+        "washing_method": "filtered and washed with water",
+        "yield": "79%",
+        "drying_method": "air-dried"
+      }
+    },
+    {
+      "name": "Ln-PCMOF-5 series (Ln = La, Ce, Pr, Nd, Sm, Eu, Gd)",
+      "synthesis_conditions": {
+        "temperature": "24 hours at room temperature",
+        "solvents": [
+          {
+            "name": "H2SO4 solution",
+            "amount": "varied"
+          },
+          {
+            "name": "water",
+            "amount": "for dissolving H8L"
+          }
+        ],
+        "equipment": "glass vial",
+        "chemicals_used": [
+          {
+            "name": "Ln2(CO3)3·nH2O",
+            "amount": "varied"
+          },
+          {
+            "name": "H2SO4 solution",
+            "amount": "varied"
+          },
+          {
+            "name": "H8L",
+            "amount": "varied"
+          }
+        ],
+        "time": "24 hours",
+        "washing_method": "filtered and washed with water",
+        "yield": "varied",
+        "drying_method": "air-dried",
+        "additional_notes": "Adjustments to the H2SO4:Ln3+ ratio were made from 5:1 up to 10:1, however failed to yield single crystals."
+      }
+    },
+    {
+      "name": "La-PCMOF-5",
+      "synthesis_conditions": {
+        "ball_milling": {
+          "equipment": "Fritsch Pulverisette 6 planetary ball mill",
+          "speed": "200 rpm",
+          "medium": "zirconia beads",
+          "solvent": "9:1 isopropyl alcohol:water solution",
+          "time": "5 min"
+        },
+        "post_treatment": {
+          "method": "filtered under vacuum, and air-dried",
+          "temperature": "95% RH",
+          "time": "before AC impedance analysis"
+        }
+      }
+    }
+  ]
+}

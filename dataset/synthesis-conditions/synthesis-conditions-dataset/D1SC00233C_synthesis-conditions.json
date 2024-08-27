@@ -1,0 +1,67 @@
+{
+  "materials": [
+    {
+      "name": "Ac(H2O)6(1)(O2CMe)3(1)",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "Acetic acid/acetate buffered solutions",
+            "amount": "0.1 to 15 M",
+            "pH": "5.5"
+          }
+        ],
+        "time": "Not specified",
+        "yield": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "chemicals_used": [
+          {
+            "name": "Acetic acid",
+            "amount": "Not specified"
+          },
+          {
+            "name": "Ammonium acetate",
+            "amount": "Not specified"
+          }
+        ],
+        "equipment": "Not specified"
+      }
+    },
+    {
+      "name": "(NH4)2M(O2CMe)5 (M = Eu3+, Am3+, Cm3+)",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "Ammonium hydroxide, NH4OH(aq)",
+            "amount": "14.5 M"
+          },
+          {
+            "name": "Water",
+            "amount": "To wash residue"
+          },
+          {
+            "name": "Aqueous solution of ammonium acetate",
+            "amount": "10 M"
+          }
+        ],
+        "time": "2.5 weeks",
+        "yield": "~26%",
+        "washing_method": "Water",
+        "drying_method": "Slow evaporation",
+        "chemicals_used": [
+          {
+            "name": "Ammonium hydroxide, NH4OH(aq)",
+            "amount": "14.5 M"
+          },
+          {
+            "name": "Ammonium acetate",
+            "amount": "10 M"
+          }
+        ],
+        "equipment": "Crystallization vials"
+      }
+    }
+  ]
+}

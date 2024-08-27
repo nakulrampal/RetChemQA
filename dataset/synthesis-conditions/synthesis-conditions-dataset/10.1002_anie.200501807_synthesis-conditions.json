@@ -1,0 +1,52 @@
+{
+  "materials": [
+    {
+      "name": "1·3.5 DMF·3 H2O",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Cu(CH3COO)2·H2O",
+          "1,5-bis(2-hydroxybenzaldehyde)thiocarbohydrazone",
+          "triethylamine",
+          "ethanol",
+          "DMF"
+        ],
+        "amount_of_solvent": {
+          "ethanol": "20 mL",
+          "DMF/ethanol": "22 mL (1:10 ratio)"
+        },
+        "temperature": "100 8C",
+        "time": "1 h",
+        "washing_method": "diethyl ether",
+        "drying_method": "air",
+        "yield": "19 %",
+        "recrystallization_solvent": "anhydrous DMF",
+        "recrystallization_conditions": "from 1·3.5 DMF·3 H2O"
+      }
+    },
+    {
+      "name": "2·6 DMSO·1.32 H2O",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Cu(CH3COO)2·H2O",
+          "1,5-bis(2-hydroxybenzaldehyde)thiocarbohydrazone",
+          "triethylamine",
+          "ethanol",
+          "DMF",
+          "DMSO"
+        ],
+        "amount_of_solvent": {
+          "ethanol": "20 mL",
+          "DMF/ethanol": "22 mL (1:10 ratio)",
+          "DMSO": "5 mL"
+        },
+        "temperature": "100 8C",
+        "time": "1 h",
+        "washing_method": "diethyl ether",
+        "drying_method": "air",
+        "yield": "Not specified",
+        "recrystallization_solvent": "DMSO",
+        "recrystallization_conditions": "from the green-brown crude product"
+      }
+    }
+  ]
+}

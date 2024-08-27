@@ -1,0 +1,111 @@
+{
+  "materials": [
+    {
+      "name": "[Cu(BTDAT)(MeOH)]",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis of single crystals",
+          "temperature": "Room temperature",
+          "solvents": [
+            {
+              "name": "Methanol (MeOH)",
+              "amount": "2 mL"
+            },
+            {
+              "name": "N,N-Dimethylformamide (DMF)",
+              "amount": "2 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Cu(NO3)2·3H2O",
+              "amount": "12.1 mg, 0.05 mmol"
+            },
+            {
+              "name": "Na(BTDAT)",
+              "amount": "16.1 mg, 0.05 mmol"
+            }
+          ],
+          "time": "1 week",
+          "yield": "Not specified",
+          "washing_method": "Not specified",
+          "drying_method": "Not specified"
+        },
+        {
+          "step": "Synthesis of bulk powder",
+          "temperature": "60 °C",
+          "solvents": [
+            {
+              "name": "Methanol (MeOH)",
+              "amount": "20 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Cu(NO3)2·3H2O",
+              "amount": "24.3 mg, 0.1 mmol"
+            },
+            {
+              "name": "Na(BTDAT)",
+              "amount": "32.2 mg, 0.1 mmol"
+            }
+          ],
+          "time": "24 hours",
+          "yield": "8.3 mg (40.0 %)",
+          "washing_method": "Washed with methanol (3 x 10 mL)",
+          "drying_method": "Air dried"
+        }
+      ],
+      "characterization_methods": [
+        {
+          "method": "Single Crystal X-ray Diffraction",
+          "details": "Oxford Diffraction SuperNova diffractometer, λ = 1.54184 Å, T = 100 K"
+        },
+        {
+          "method": "Powder X-ray Diffraction",
+          "details": "PANalytical X'Pert Pro diffractometer, Cu-Kα radiation, λ = 1.5406 Å"
+        },
+        {
+          "method": "Thermogravimetric Analysis",
+          "details": "TA Instruments Discovery TGA Thermogravimetric Analyser, up to 500 °C under N2"
+        },
+        {
+          "method": "Pressed-Pellet Conductivity Measurements",
+          "details": "Quantum Design Physical Property Measurement System, 10 mA current, 195-300 K"
+        },
+        {
+          "method": "Single Crystal Conductivity Measurement",
+          "details": "Custom-built devices, Keithley 2401 sourcemeter, room temperature"
+        },
+        {
+          "method": "Spectroscopy",
+          "details": "Solid state diffuse reflectance Vis-NIR spectra, Agilent CARY5000 Spectrometer"
+        },
+        {
+          "method": "Spectral Deconvolutions",
+          "details": "GRAMS32 software, Gaussian-shaped components"
+        },
+        {
+          "method": "Electron Paramagnetic Resonance (EPR)",
+          "details": "Bruker EMXnano X-band spectrometer, room temperature"
+        },
+        {
+          "method": "EPR Spectroelectrochemistry",
+          "details": "Bruker EMXnano X-band spectrometer, 0.1 M [(n-C4H9)4N]PF6/CH3CN"
+        },
+        {
+          "method": "Electrochemistry",
+          "details": "Basi Epsilon electrochemical analyser, glassy carbon working electrode"
+        },
+        {
+          "method": "Solid-State UV-Vis-NIR Spectroscopy",
+          "details": "Agilent CARY5000 Spectrophotometer, Harrick Omni-Diff Probe"
+        },
+        {
+          "method": "UV/Vis/NIR Spectroelectrochemistry",
+          "details": "Optically Semi-Transparent Thin-Layer Electrosynthetic (OSTLE) cell"
+        }
+      ]
+    }
+  ]
+}

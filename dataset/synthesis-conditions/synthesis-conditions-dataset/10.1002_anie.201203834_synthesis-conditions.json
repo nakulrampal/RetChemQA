@@ -1,0 +1,57 @@
+{
+  "materials": [
+    {
+      "name": "PCP {[Zn(1,4-ndc)(bcbpy)]·(0.5 DMF)(3.5 H2O)}n (1(0.5 DMF·3.5 H2O))",
+      "synthesis_conditions": {
+        "temperature": "223 K for X-ray crystallography",
+        "solvents": "N,N'-dimethylformamide (DMF)",
+        "amount_of_solvent": "0.5 DMF·3.5 H2O",
+        "equipment": "Single-crystal X-ray crystallography",
+        "chemicals_used": [
+          "Zn(NO3)2·6 H2O",
+          "1,4-naphthalenedicarboxylic acid (1,4-H2ndc)",
+          "1,1-bis(4-carboxybenzyl)-4,4’-bipyridinium bis(hexafluorophosphate) (H2bcbpy·2 PF6)"
+        ],
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "The crystal structure determined at 223 K; Zn2+ ion is tetrahedrally coordinated by two 1,4-ndc ligands and two bcbpy ligands."
+      }
+    },
+    {
+      "name": "1(0.5 acetone·3.5 H2O)",
+      "synthesis_conditions": {
+        "temperature": "278 K for X-ray crystallography",
+        "solvents": "Acetone",
+        "amount_of_solvent": "0.5 acetone·3.5 H2O",
+        "equipment": "Single-crystal X-ray crystallography",
+        "chemicals_used": [
+          "1(0.5 DMF·3.5 H2O) immersed in acetone"
+        ],
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "The crystal structure determined at 278 K; acetone exchanged with DMF."
+      }
+    },
+    {
+      "name": "Guest-free 1",
+      "synthesis_conditions": {
+        "temperature": "463 K for 12 hours under vacuum for degassing",
+        "solvents": "None (degassing treatment)",
+        "amount_of_solvent": "Not applicable",
+        "equipment": "Vacuum degassing",
+        "chemicals_used": [
+          "1(0.5 acetone·3.5 H2O)"
+        ],
+        "time": "12 hours",
+        "washing_method": "Not specified",
+        "drying_method": "Vacuum degassing",
+        "yield": "Not specified",
+        "additional_information": "N2 sorption isotherm at 77 K examined after degassing; adsorbs gas-phase acetone at 298 K."
+      }
+    }
+  ]
+}

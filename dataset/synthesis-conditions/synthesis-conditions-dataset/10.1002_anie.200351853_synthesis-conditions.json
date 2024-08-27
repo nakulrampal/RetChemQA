@@ -1,0 +1,105 @@
+{
+  "materials": [
+    {
+      "name": "1 Ag",
+      "synthesis_conditions": {
+        "method": "slow diffusion",
+        "atmosphere": "argon",
+        "solvents": [
+          {
+            "name": "aqueous solutions",
+            "amounts": [
+              "2 mL",
+              "2 mL",
+              "2 mL"
+            ]
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Fe(BF4)2·6 H2O",
+            "amount": "0.185 mmol"
+          },
+          {
+            "name": "pyrimidine",
+            "amount": "0.374 mmol"
+          },
+          {
+            "name": "K[Ag(CN)2]",
+            "amount": "0.374 mmol"
+          }
+        ],
+        "equipment": "H-shaped vessel",
+        "time": "three weeks",
+        "yield": "approximately 50 %",
+        "elemental_analysis": {
+          "calculated": {
+            "C": "19.54",
+            "H": "1.61",
+            "N": "17.09"
+          },
+          "found": {
+            "C": "20.05",
+            "H": "1.98",
+            "N": "16.76"
+          }
+        }
+      }
+    },
+    {
+      "name": "1 Au",
+      "synthesis_conditions": {
+        "method": "mixing and evaporation",
+        "atmosphere": "argon",
+        "solvents": [
+          {
+            "name": "aqueous solution",
+            "amounts": [
+              "4 mL",
+              "4 mL",
+              "6 mL"
+            ]
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "FeCl2",
+            "amount": "0.087 mmol"
+          },
+          {
+            "name": "pyrimidine",
+            "amount": "0.173 mmol"
+          },
+          {
+            "name": "K[Au(CN)2]",
+            "amount": "0.173 mmol"
+          }
+        ],
+        "time": "one week",
+        "yield": "approximately 70 %",
+        "elemental_analysis": {
+          "calculated": {
+            "C": "14.34",
+            "H": "1.20",
+            "N": "12.54"
+          },
+          "found": {
+            "C": "14.95",
+            "H": "1.50",
+            "N": "12.03"
+          }
+        }
+      }
+    },
+    {
+      "name": "2 Ag and 2 Au",
+      "synthesis_conditions": {
+        "method": "dehydration",
+        "temperature": "380 K",
+        "time": "30 min",
+        "equipment": "SQUID sample holder",
+        "additional_information": "dehydration confirmed by thermogravimetric analysis"
+      }
+    }
+  ]
+}

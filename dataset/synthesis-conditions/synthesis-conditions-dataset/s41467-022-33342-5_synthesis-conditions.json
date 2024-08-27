@@ -1,0 +1,72 @@
+{
+  "VCl2(pyz)2": {
+    "synthesis_conditions": {
+      "temperature": "200 °C",
+      "solvents": "Acetonitrile",
+      "equipment": [
+        "25 mL Teflon-lined stainless-steel autoclave reactor",
+        "Soda glass ampule (for single-crystals)"
+      ],
+      "chemicals_used": {
+        "VCl2": "0.2 g (1.7 mmol)",
+        "pyrazine": "2.0 g (25 mmol)"
+      },
+      "time": "12 h",
+      "washing_method": "Washed with 20 mL of acetonitrile",
+      "drying_method": "Dried in vacuo",
+      "yield": "80-85%",
+      "elemental_analysis": {
+        "C": "Calcd: 34.1, Found: 33.8",
+        "H": "Calcd: 2.86, Found: 2.84",
+        "N": "Calcd: 19.9, Found: 19.7",
+        "Cl": "Calcd: 25.1, Found: 25.4",
+        "V": "Calcd: 18.1, Found: 17.9"
+      }
+    },
+    "oxidation_state": "VII",
+    "magnetic_properties": {
+      "high_temperature_value": "χT = 1.03 cm3 K mol–1",
+      "magnetic_ordering": "Antiferromagnetic",
+      "transition_temperature": "∼120 K",
+      "superexchange_interaction": "J/kB = –28 K"
+    },
+    "electronic_conductivity": "∼10–10 S cm–1 at room temperature"
+  },
+  "TiCl2(pyz)2": {
+    "synthesis_conditions": {
+      "temperature": "200 °C",
+      "solvents": "Acetonitrile",
+      "equipment": [
+        "25 mL Teflon-lined stainless-steel autoclave reactor"
+      ],
+      "chemicals_used": {
+        "TiCl2": "0.2 g (1.7 mmol)",
+        "pyrazine": "2.0 g (25 mmol)"
+      },
+      "time": "12 h",
+      "washing_method": "Washed with 20 mL of acetonitrile",
+      "drying_method": "Dried in vacuo",
+      "yield": "80-85%",
+      "elemental_analysis": {
+        "C": "Calcd: 34.5, Found: 34.1",
+        "H": "Calcd: 2.89, Found: 3.12",
+        "N": "Calcd: 20.1, Found: 19.8",
+        "Cl": "Calcd: 25.4, Found: 24.8",
+        "Ti": "Calcd: 17.2, Found: 16.7"
+      }
+    },
+    "oxidation_state": "TiIII",
+    "magnetic_properties": {
+      "high_temperature_value": "χT ∼ 0.1 cm3 K mol–1",
+      "temperature_independent_paramagnetism": "2.9 × 10–4 cm3 mol–1",
+      "paramagnetic_contribution": "1% of S = 1/2 impurities"
+    },
+    "electronic_conductivity": "5.3 S cm–1 at room temperature",
+    "magnetoresistance": "Large and positive at low temperature, reaching 25% at 1.8 K and ±9 T",
+    "specific_heat": {
+      "Sommerfeld_coefficient": "γ = 18.0(3) mJ mol–1 K–2",
+      "Wilson_ratio": "1.2"
+    },
+    "ground_state": "Correlated Fermi liquid metallic state"
+  }
+}

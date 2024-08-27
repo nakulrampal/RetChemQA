@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the metal-organic framework discussed in the paper?",
+      "answer": "[Zn3(pypz)3(btc)]·guest",
+      "difficulty": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the primary components used in the synthesis of MAF-38?",
+      "answer": "Zn(NO3)2·6 H2O, Hpypz, H3btc, and N,N-dimethylformamide (DMF)",
+      "difficulty": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the trigonal window connecting the small and large cages in MAF-38 according to computational simulations?",
+      "answer": "It serves as the primary adsorption site for CH4 with a high binding energy of 28.2 kJ mol¢1.",
+      "difficulty": "Hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the methane adsorption capacity of MAF-38 compare to HKUST-1 at 65 bar?",
+      "answer": "The volumetric methane uptakes of MAF-38 at 65 bar are similar to the current record holder HKUST-1.",
+      "difficulty": "Hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the pore size/shape and strong organic binding sites in MAF-38 for methane storage?",
+      "answer": "They synergistically reinforce host–guest and guest–guest interactions to give exceptionally high adsorption enthalpy and efficient utilization of the pore space.",
+      "difficulty": "Hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the theoretical pore volume of MAF-38 and how does it compare to the pore volume determined from N2 adsorption isotherm at 77 K?",
+      "answer": "The theoretical pore volume of MAF-38 is 0.855 cm3 g¢1, and the pore volume determined from N2 adsorption isotherm at 77 K is 0.808 cm3 g¢1.",
+      "difficulty": "Hard",
+      "type": "factual"
+    },
+    {
+      "question": "What synthesis method was used to obtain MAF-38?",
+      "answer": "Solvothermal reaction.",
+      "difficulty": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the development of new porous structures with novel methane binding sites important for methane storage?",
+      "answer": "To maximize host–methane and methane–methane cooperation for achieving high methane uptake at ambient conditions.",
+      "difficulty": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of open metal sites (OMSs) typically affect methane binding affinity in MOFs?",
+      "answer": "OMSs usually improve the methane binding affinity by providing strong adsorption sites.",
+      "difficulty": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the working capacity of MAF-38 at 35 bar and how is it defined?",
+      "answer": "The working capacity of MAF-38 at 35 bar is 14.1 wt % or 150 cm3(STP) cm¢3, defined as the difference in total uptakes between the lower limit pressure of 5 bar and a higher pressure such as 35 bar.",
+      "difficulty": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What computational methods were used to study the methane adsorption mechanism of MAF-38?",
+      "answer": "GCMC simulations and periodic density functional theory (PDFT) optimizations.",
+      "difficulty": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the adsorption enthalpy of MAF-38 compare to Ni-MOF-74 at zero coverage?",
+      "answer": "At zero coverage, the adsorption enthalpy of MAF-38 is similar to that of Ni-MOF-74, which is 21.4 kJ mol¢1.",
+      "difficulty": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the crystallography density of MAF-38 used to calculate the volumetric isotherms?",
+      "answer": "True",
+      "difficulty": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does MAF-38 achieve a higher methane packing density inside the pore than liquid methane?",
+      "answer": "True",
+      "difficulty": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the volumetric methane uptakes of MAF-38 at all measured pressures much higher than for all other MOFs?",
+      "answer": "False",
+      "difficulty": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the activation of MAF-38 achieved by heating at 120 88C after exchanging the guest with CH3OH?",
+      "answer": "True",
+      "difficulty": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the paper claim that MAF-38 is functionalized by open metal sites (OMSs)?",
+      "answer": "False",
+      "difficulty": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the guest-free MAF-38 stable up to 350 88C?",
+      "answer": "True",
+      "difficulty": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the secondary and ternary CH4 adsorption sites in MAF-38 located outside the cages?",
+      "answer": "False",
+      "difficulty": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the paper suggest that the development of new adsorbent materials for gas-storage applications is unnecessary?",
+      "answer": "False",
+      "difficulty": "Easy",
+      "type": "True or False"
+    }
+  ]
+}

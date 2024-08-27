@@ -1,0 +1,45 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": [
+        {
+          "temperature": "90 8C",
+          "solvents": ["DMF", "EtOH"],
+          "solvent_amounts": ["2:1 volumetric mixture", "6 mL total mixture volume"],
+          "chemicals_used": ["5-(prop-2-ynyloxy)isophthalic acid", "Cu(NO3)2·3 H2O"],
+          "chemical_amounts": ["44 mg (0.2 mmol)", "24.2 mg (0.1 mmol)"],
+          "time": "35 h",
+          "yield": "75 %",
+          "drying_method": "room temperature",
+          "other_conditions": "Alternatively, synthesized at room temperature for 30 h using a mixture of DMF (4 mL) and EtOAc (2 mL)"
+        }
+      ]
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": [
+        {
+          "temperature": "room temperature",
+          "solvents": ["DMF"],
+          "time": "2 days",
+          "other_conditions": "Formed from a less crystalline and flakelike form by changing the solvent volumetric ratio (DMF/EtOH) from 2:1 to 1:1 and placing in DMF"
+        }
+      ]
+    },
+    {
+      "name": "3",
+      "synthesis_conditions": [
+        {
+          "temperature": "120 8C",
+          "solvents": ["H2O"],
+          "solvent_amounts": ["5 mL"],
+          "time": "1 h",
+          "yield": "92 %",
+          "drying_method": "room temperature",
+          "other_conditions": "Formed from 1 or 2 when heated in water"
+        }
+      ]
+    }
+  ]
+}

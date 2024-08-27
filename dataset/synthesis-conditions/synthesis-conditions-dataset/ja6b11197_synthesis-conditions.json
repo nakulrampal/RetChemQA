@@ -1,0 +1,60 @@
+{
+  "materials": [
+    {
+      "name": "CAN-[Zn(Im)2]",
+      "synthesis_conditions": {
+        "temperature": "40 °C",
+        "solvents": [
+          {
+            "name": "DBF",
+            "amount": "8 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Im",
+            "amount": "2.0 mmol, 0.136 g"
+          },
+          {
+            "name": "Zn(OAc)2·2H2O",
+            "amount": "0.4 mmol, 0.088 g"
+          }
+        ],
+        "equipment": "20 mL Teflon-lined stainless-steel autoclave",
+        "time": "3 d",
+        "yield": "0.09 g",
+        "washing_method": "washed three times using acetone",
+        "drying_method": "dried under ambient conditions",
+        "activation_method": "immersed in dry acetone for 48 h, separated by centrifugation, dried at ambient temperature, activated using the 'degas' function of the surface area analyzer for 2 h at 50 °C"
+      }
+    },
+    {
+      "name": "AFI-[Zn(Im)2]",
+      "synthesis_conditions": {
+        "temperature": "60 °C",
+        "solvents": [
+          {
+            "name": "DPF",
+            "amount": "15 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zn(OAc)2·2H2O",
+            "amount": "1.0 mmol, 0.220 g"
+          },
+          {
+            "name": "Im",
+            "amount": "4.0 mmol, 0.272 g"
+          }
+        ],
+        "equipment": "20 mL Teflon-lined stainless-steel autoclave",
+        "time": "3 d",
+        "yield": "0.21 g",
+        "washing_method": "washed three times using acetone",
+        "drying_method": "dried under ambient conditions",
+        "activation_method": "immersed in dry acetone for 48 h, separated by centrifugation, dried at ambient temperature, activated using the 'degas' function of the surface area analyzer for 2 h at 50 °C"
+      }
+    }
+  ]
+}

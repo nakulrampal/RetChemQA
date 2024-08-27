@@ -1,0 +1,45 @@
+{
+  "materials": [
+    {
+      "material_id": "1",
+      "synthesis_conditions": {
+        "precursors": [
+          "[Cu(II)2(OAc)4(H2O)2]",
+          "HQ (1.2 equiv)"
+        ],
+        "solvent": "ethanol",
+        "reaction_conditions": "Slow evaporation",
+        "yield": "95%",
+        "product_form": "air-stable red plates"
+      }
+    },
+    {
+      "material_id": "2",
+      "synthesis_conditions": {
+        "starting_material": "1",
+        "additional_reagents": [
+          "pyridine",
+          "chloroform"
+        ],
+        "solvent": "ethanol",
+        "reaction_conditions": "Slow evaporation",
+        "time": "one month",
+        "yield": "41%",
+        "product_form": "red prisms",
+        "notes": "chloroform acts as a supplier of chloride anions"
+      }
+    },
+    {
+      "material_id": "3",
+      "synthesis_conditions": {
+        "starting_material": "1",
+        "additional_reagents": [
+          "4,4‘-bipyridine",
+          "excess HQ"
+        ],
+        "yield": "35%",
+        "product_form": "air-stable red plates"
+      }
+    }
+  ]
+}

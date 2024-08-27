@@ -1,0 +1,139 @@
+{
+  "materials": [
+    {
+      "name": "[Cu2(bdc)2(bpy)]n (1)",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation of Single Crystal",
+          "temperature": "40 °C",
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "100 mL"
+            },
+            {
+              "name": "1:1 mixture of water and ethanol",
+              "amount": "50 mL"
+            },
+            {
+              "name": "1:2 mixture of water and ethanol",
+              "amount": "50 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Cu(ClO4)2·6H2O",
+              "amount": "1 mmol, 370 mg"
+            },
+            {
+              "name": "Na2bdc",
+              "amount": "1 mmol, 210 mg"
+            },
+            {
+              "name": "bpy",
+              "amount": "0.5 mmol, 78 mg"
+            }
+          ],
+          "time": "2 weeks",
+          "washing_method": "ethanol",
+          "drying_method": "vacuum for 30 min"
+        },
+        {
+          "step": "Preparation of Meso-Sized Crystals (1-meso50-300)",
+          "solvents": [
+            {
+              "name": "methanol",
+              "amount": "32 mL for terephthalic acid solution, 12.5 mL for Cu(OAc)2·H2O solution, 10 mL for bpy solution"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "terephthalic acid",
+              "amount": "33.6 mg"
+            },
+            {
+              "name": "Cu(OAc)2·H2O",
+              "amount": "40 mg"
+            },
+            {
+              "name": "acetic acid",
+              "amount": "115, 230, 345, 460, 575 µL for r = 10, 20, 30, 40, and 50, respectively"
+            },
+            {
+              "name": "bpy",
+              "amount": "15.6 mg"
+            }
+          ],
+          "time": "5 days",
+          "washing_method": "methanol by three dispersion-sonication-centrifugation cycles",
+          "drying_method": "room temperature under a vacuum"
+        }
+      ]
+    },
+    {
+      "name": "[Cu2(bdc)2(bpe)]n (2)",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation of Single Crystal",
+          "temperature": "25 °C",
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "100 mL for Cu(ClO4)2·6H2O solution, 50 mL for Na2bdc solution"
+            },
+            {
+              "name": "ethanol",
+              "amount": "50 mL for bpe solution"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Cu(ClO4)2·6H2O",
+              "amount": "1 mmol, 370 mg"
+            },
+            {
+              "name": "Na2bdc",
+              "amount": "1 mmol, 210 mg"
+            },
+            {
+              "name": "bpe",
+              "amount": "0.5 mmol, 91 mg"
+            }
+          ],
+          "time": "2 weeks",
+          "washing_method": "ethanol"
+        },
+        {
+          "step": "Preparation of Meso-Sized Crystals (2-meso50, 300, 700)",
+          "solvents": [
+            {
+              "name": "methanol",
+              "amount": "32 mL for terephthalic acid solution, 12.5 mL for Cu(OAc)2·H2O solution, 10 mL for bpe solution"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "terephthalic acid",
+              "amount": "33.6 mg"
+            },
+            {
+              "name": "Cu(OAc)2·H2O",
+              "amount": "40 mg"
+            },
+            {
+              "name": "acetic acid",
+              "amount": "115, 575, 863 µL for r = 10, 50, and 75, respectively"
+            },
+            {
+              "name": "bpe",
+              "amount": "18.0 mg"
+            }
+          ],
+          "time": "5 days",
+          "washing_method": "methanol by three dispersion-sonication-centrifugation cycles, then dipped with dichloromethane for 12 hrs",
+          "drying_method": "70 °C under a vacuum"
+        }
+      ]
+    }
+  ]
+}

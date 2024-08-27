@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the general procedure for the oxidative hydroxylation of arylboronic acids into phenols using JNU-204 as a photocatalyst?",
+      "answer": "A solution of arylboronic acid, Et3N, JNU-204 in CH3CN/H2O (4:1) is stirred under 30W blue LED for 48 hours at room temperature. After completion, the solvent is evaporated, and the crude residue is purified by flash column chromatography to afford the phenol product.",
+      "difficulty": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "How is the stability of JNU-204 tested in different solvents and pH conditions?",
+      "answer": "The stability of JNU-204 is tested by treating it with different organic solvents and aqueous solutions at different pH values, followed by comparing the PXRD patterns before and after treatment.",
+      "difficulty": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "What is the role of N-bromosuccinimide (NBS) in the photocatalytic oxidation/[3+2] cycloaddition/oxidative aromatization reaction using JNU-204?",
+      "answer": "N-bromosuccinimide (NBS) is added to the reaction mixture after the initial photocatalytic oxidation/[3+2] cycloaddition under blue LED irradiation. NBS likely serves as a brominating agent that facilitates the oxidative aromatization step, leading to the formation of the final N-heterocyclic product.",
+      "difficulty": "Hard",
+      "type": "Reasoning"
+    },
+    {
+      "question": "What experimental evidence supports the involvement of superoxide radical anion (O2•−) in the photocatalytic hydroxylation of arylboronic acids using JNU-204?",
+      "answer": "The involvement of superoxide radical anion (O2•−) is supported by mechanistic studies where the reaction yield significantly decreases in the presence of 1,4-benzoquinone (BQ), a known O2•− quencher, indicating that O2•− is a key intermediate in the reaction.",
+      "difficulty": "Hard",
+      "type": "Reasoning"
+    },
+    {
+      "question": "What is the estimated band gap energy of JNU-204 based on UV–Visible diffuse reflectance spectra and Tauc plot analysis?",
+      "answer": "The band gap energy (Eg) of JNU-204 is estimated to be about 2.35 eV based on the Tauc plot method from the UV–Visible diffuse reflectance spectrum.",
+      "difficulty": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "How does the photocatalytic activity of JNU-204 compare to other MOFs and organic linkers in the synthesis of pyrrolo[2,1-a]isoquinoline-containing heterocycles?",
+      "answer": "JNU-204 demonstrates superior photocatalytic activity in the synthesis of pyrrolo[2,1-a]isoquinoline-containing heterocycles with excellent yields and recyclability, compared to other MOFs and organic linkers like Zn(BPB), Zr-BTDB-fcu-MOF, and [Cd2(DPBT)(BDC)], which show lower yields under similar conditions.",
+      "difficulty": "Hard",
+      "type": "Reasoning"
+    },
+    {
+      "question": "What is the significance of the wuk topology in the structure of JNU-204?",
+      "answer": "The wuk topology in JNU-204's structure signifies a unique arrangement of its metal-organic framework, characterized by a 6-c net with a minimal transitivity, which contributes to its exceptional stability, porosity, and photocatalytic properties.",
+      "difficulty": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "True or False: The photocatalytic oxidation of enamines using JNU-204 involves a radical pathway.",
+      "answer": "False. The photocatalytic oxidation of enamines using JNU-204 involves singlet oxygen (1O2) as the reactive oxygen species, as indicated by the significant decrease in yield when a known 1O2 quencher (DABCO) is used, ruling out a radical pathway.",
+      "difficulty": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What method is used to estimate the optical band gap of JNU-204?",
+      "answer": "The optical band gap of JNU-204 is estimated using the Tauc plot method from UV–Visible diffuse reflectance spectra.",
+      "difficulty": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "True or False: The photocatalytic activity of JNU-204 can be recycled and reused multiple times without significant loss in activity.",
+      "answer": "True. Recycling experiments demonstrate that JNU-204 maintains high photocatalytic activity for hydroxylation of arylboronic acids, oxidation of enamines, and oxysulfonylation of alkynes after multiple cycles.",
+      "difficulty": "Medium",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "materials": [
+    {
+      "name": "0-D NC",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "CH3CN",
+            "amount": "5 mL"
+          },
+          {
+            "name": "DMF",
+            "amount": "4 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[Ag–StBu]n complex",
+            "amount": "~0.3 mmol"
+          },
+          {
+            "name": "AgCF3COO",
+            "amount": "~0.2 mmol"
+          },
+          {
+            "name": "PPh4Cl",
+            "amount": "~0.04 mmol"
+          }
+        ],
+        "time": "~2 h",
+        "yield": "47.8% (based on Ag)",
+        "crystallization_method": "Slow evaporation at room temperature in the dark under ambient conditions",
+        "crystallization_time": "9–12 days"
+      }
+    },
+    {
+      "name": "1-D NCF",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "CH3CN",
+            "amount": "5 mL"
+          },
+          {
+            "name": "DMF",
+            "amount": "4 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[Ag–StBu]n complex",
+            "amount": "~0.34 mmol"
+          },
+          {
+            "name": "AgCF3COO",
+            "amount": "~0.26 mmol"
+          },
+          {
+            "name": "bpy",
+            "amount": "~0.38 mmol"
+          },
+          {
+            "name": "PPh4Cl",
+            "amount": "~0.06 mmol"
+          }
+        ],
+        "time": "~2 h",
+        "yield": "35.6% (based on Ag)",
+        "crystallization_method": "Slow evaporation at RT in the dark under ambient conditions",
+        "crystallization_time": "1 week"
+      }
+    },
+    {
+      "name": "2-D NCF",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "CH3CN",
+            "amount": "5 mL"
+          },
+          {
+            "name": "DMF",
+            "amount": "4 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[Ag–StBu]n complex",
+            "amount": "0.3 mmol"
+          },
+          {
+            "name": "AgCF3COO",
+            "amount": "0.2 mmol"
+          },
+          {
+            "name": "bpy",
+            "amount": "0.3 mmol"
+          },
+          {
+            "name": "PPh4Cl",
+            "amount": "0.04 mmol"
+          }
+        ],
+        "time": "~2 h",
+        "yield": "55.6% (based on Ag)",
+        "crystallization_method": "Slow evaporation at RT in the dark under ambient conditions",
+        "crystallization_time": "1 week"
+      }
+    }
+  ]
+}

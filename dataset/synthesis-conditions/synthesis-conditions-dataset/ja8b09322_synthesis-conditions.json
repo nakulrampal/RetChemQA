@@ -1,0 +1,31 @@
+{
+  "materials": [
+    {
+      "material_name": "1-8H2O",
+      "synthesis_conditions": {
+        "chemicals_used": "0.5 mmol (100 mg) of MnCl2·4H2O, 1.0 mmol (68 mg) of imidazole, 0.1 mmol (56 mg) of potassium octacyanotungstate­(IV) dihydrate",
+        "solvents": "20 mL of water",
+        "time": "24 h",
+        "yield": "30 mg, ca. 40%",
+        "purity_confirmation": "elemental analysis",
+        "elemental_analysis": {
+          "calculated": "C 21.48, H 3.09, N 21.50",
+          "found": "C 21.68, H 2.76, N 21.47"
+        }
+      }
+    },
+    {
+      "material_name": "1",
+      "synthesis_conditions": {
+        "starting_material": "1-8H2O",
+        "drying_method": "drying over P4O10 for 24 h under vacuum",
+        "vacuum": "10−2 mbar",
+        "temperature": "room temperature",
+        "elemental_analysis": {
+          "calculated": "C 26.33, H 1.26, N 26.35",
+          "found": "C 25.71, H 1.36, N 26.44"
+        }
+      }
+    }
+  ]
+}

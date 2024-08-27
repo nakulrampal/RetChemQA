@@ -1,0 +1,78 @@
+{
+  "materials": [
+    {
+      "name": "Li[B(DPC)2]",
+      "synthesis_conditions": {
+        "temperature": "refluxing",
+        "solvent": "toluene",
+        "chemicals_used": [
+          "H2-DPC",
+          "boric acid",
+          "LiOtBu"
+        ],
+        "yield": "73%",
+        "drying_method": "drying",
+        "form": "analytically pure white solid"
+      }
+    },
+    {
+      "name": "Li[B(DPC)(oxalato)]",
+      "synthesis_conditions": {
+        "temperature": "refluxing",
+        "solvent": "toluene",
+        "chemicals_used": [
+          "H2-DPC",
+          "oxalic acid",
+          "boric acid",
+          "LiOtBu"
+        ],
+        "yield": "86%",
+        "drying_method": "drying",
+        "form": "white solid",
+        "crystal_growth_method": "vapor diffusion of hexanes into a THF solution"
+      }
+    },
+    {
+      "name": "Li[B(DPC)F2]",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "H2-DPC",
+          "Me3SiCl",
+          "LiBF4"
+        ],
+        "yield": "54%",
+        "drying_method": "filtration and drying under vacuum",
+        "form": "analytically pure white solid"
+      }
+    },
+    {
+      "name": "H[P(DPC)3]",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "H2-DPC",
+          "PCl5"
+        ],
+        "solvent": "toluene",
+        "yield": "97.1%",
+        "washing_method": "washing the solid with diethyl ether",
+        "drying_method": "drying for 24 hours under vacuum",
+        "form": "white solid"
+      }
+    },
+    {
+      "name": "Li[P(DPC)3]",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "H[P(DPC)3]",
+          "LitOBu"
+        ],
+        "solvent": "THF",
+        "time": "18 h",
+        "yield": "96.4%",
+        "drying_method": "filtration and drying",
+        "form": "white precipitate",
+        "crystal_growth_method": "vapor diffusion of EtOH into DMF solution"
+      }
+    }
+  ]
+}

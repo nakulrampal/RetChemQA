@@ -1,0 +1,48 @@
+{
+  "materials": [
+    {
+      "name": "3,4′-tpcb and Cu(BF4)2·H2O in organic solvents",
+      "synthesis_conditions": {
+        "solvents": ["Acetonitrile (CH3CN)", "Dimethylformamide (DMF)", "Dimethyl sulfoxide (DMSO)", "Methanol (MeOH)", "Nitromethane (MeNO2)"],
+        "temperature": "Room temperature",
+        "time": "10-12 hours for gel formation",
+        "comments": "Gel formation observed at different wt % of gelator in various solvents. Precipitate (ppt) or solution formation noted in some conditions."
+      }
+    },
+    {
+      "name": "Hydrogel from 3,4′-tpcb and Cu(BF4)2·H2O",
+      "synthesis_conditions": {
+        "solvents": ["Anhydrous Acetonitrile (< 0.150 mL) and doubly-deionized water"],
+        "temperature": "Room temperature",
+        "time": "3-4 hours for gel formation",
+        "comments": "Gel formation observed at wt % gelator values of 2.0, 1.8, 1.6, and 1.4."
+      }
+    }
+  ],
+  "x-ray_analysis": {
+    "compound": "[Cu2(hfac)4(3,4′-tpcb)]∞",
+    "equipment": "Nonius Kappa CCD single-crystal X-ray diffractometer",
+    "temperature": "190(1) K",
+    "radiation": "MoKα (λ = 0.71073 Å)",
+    "comments": "Structure contains highly disordered solvent molecules. Solvent model treated with SQUEEZE routine of PLATON."
+  },
+  "rheology": {
+    "equipment": "Haake Rheostress 1 controlled stress rheometer",
+    "temperature": "25°C",
+    "shear_rate_range": "0 to 100 sec-1",
+    "comments": "Thixotropic behavior observed with yield values ranging from 8 to 12 Pa for the gels."
+  },
+  "tem_studies": {
+    "equipment": "JEOL 1230 TEM",
+    "voltage": "80.0 kV",
+    "comments": "SAED diffraction performed using JEOL 2100F TEM at 200 kV to show amorphous nature of NMOP."
+  },
+  "afm_studies": {
+    "equipment": "Commercial AFM (MFP 3D, Asylum Research)",
+    "comments": "40 individual spherically-shaped nanoparticles studied. Height-to-diameter ratio of 0.36 ± 0.01 determined."
+  },
+  "stxm_studies": {
+    "equipment": "STXM instrument on beamline 5.3.2 of the Advanced Light Source (Berkeley, CA)",
+    "comments": "C and N K-edge NEXAFS spectra collected for approximately 15 individual nanoparticles. Spectra similar to pyridine, indicating coordination of pyridyl groups to Cu(II) ions."
+  }
+}

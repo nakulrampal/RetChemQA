@@ -1,0 +1,82 @@
+{
+  "materials": [
+    {
+      "material": "Zinc(II) Catenate RuZn",
+      "synthesis_conditions": {
+        "chemicals": [
+          {
+            "name": "Zn(NO3)2·3H2O",
+            "amount": "3.8 mg",
+            "molar_amount": "0.016 mmol"
+          },
+          {
+            "name": "MeOH",
+            "amount": "2 mL",
+            "solvent": true
+          },
+          {
+            "name": "free catenand Ru",
+            "amount": "28 mg",
+            "molar_amount": "0.0148 mmol"
+          },
+          {
+            "name": "CH2Cl2",
+            "amount": "5 mL",
+            "solvent": true
+          },
+          {
+            "name": "KPF6",
+            "excess": true
+          },
+          {
+            "name": "H2O",
+            "excess": true
+          }
+        ],
+        "temperature": "room temperature",
+        "time": "overnight",
+        "equipment": "stirring",
+        "yield": "23 mg, 74%",
+        "washing_method": "washed with H2O",
+        "drying_method": "dried under vacuum overnight",
+        "purification_method": "column chromatography on silica gel (MeCN−H2O, 9:1, containing 0−1% saturated aqueous KNO3)"
+      }
+    },
+    {
+      "material": "Silver(I) Catenate RuAg",
+      "synthesis_conditions": {
+        "chemicals": [
+          {
+            "name": "AgBF4",
+            "amount": "4.7 mg",
+            "molar_amount": "0.024 mmol"
+          },
+          {
+            "name": "acetone",
+            "amount": "2 mL",
+            "solvent": true
+          },
+          {
+            "name": "Ru",
+            "amount": "30.3 mg",
+            "molar_amount": "0.016 mmol"
+          },
+          {
+            "name": "CH2Cl2",
+            "solvent": true
+          },
+          {
+            "name": "saturated aqueous KPF6",
+            "excess": true
+          }
+        ],
+        "temperature": "room temperature",
+        "time": "2 h",
+        "equipment": "stirred under Ar in the dark",
+        "yield": "35 mg, quantitative",
+        "washing_method": "washed with H2O",
+        "drying_method": "dried under vacuum overnight"
+      }
+    }
+  ]
+}

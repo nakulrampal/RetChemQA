@@ -1,0 +1,28 @@
+{
+  "materials": [
+    {
+      "material_id": "1",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "zinc chloride",
+            "amount": "1 mmol"
+          },
+          {
+            "chemical": "dimethylformamide (DMF)",
+            "amount": "5 mL"
+          },
+          {
+            "chemical": "water",
+            "amount": "0.5 mL"
+          }
+        ],
+        "temperature": "125 °C",
+        "equipment": "Teflon lined autoclave",
+        "time": "overnight",
+        "cooling_method": "slow cooling to room temperature over 3−4 hours",
+        "additional_information": "In situ hydrolysis of DMF produces formic acid and dimethyl ammonium cation, which are the building blocks for the material. Longer room temperature crystallization over a period of a few months produced perfect cube-shaped transparent crystals. Synthesis conditions have been optimized and the synthesis is reproducible as a pure single phase compound."
+      }
+    }
+  ]
+}

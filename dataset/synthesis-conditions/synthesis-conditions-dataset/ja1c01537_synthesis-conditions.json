@@ -1,0 +1,110 @@
+{
+  "materials": [
+    {
+      "material": "1-PhH",
+      "synthesis": [
+        {
+          "step": 1,
+          "chemicals": [
+            {
+              "name": "[Ru2(2,4-F2PhCO2)4(THF)2]",
+              "amount": "39.0 mg",
+              "molar_ratio": "0.04 mmol"
+            },
+            {
+              "name": "TCNQ(EtO)2",
+              "amount": "5.9 mg",
+              "molar_ratio": "0.02 mmol"
+            },
+            {
+              "name": "benzene (PhH)",
+              "amount": "20 mL"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "benzene (PhH)",
+              "amount": "2 mL"
+            }
+          ],
+          "conditions": {
+            "temperature": "room temperature",
+            "time": "1 week"
+          },
+          "yield": "32%",
+          "characterization": [
+            {
+              "technique": "IR",
+              "details": "ν­(CN), 2185, 2142 cm−1"
+            }
+          ],
+          "crystallography": {
+            "CCDC": "2061725"
+          }
+        },
+        {
+          "step": 2,
+          "description": "Crystals of [{Ru2(2,4-F2PhCO2)4}2TCNQ(EtO)2] (1) were prepared by heating 1-PhH at 400 K under vacuum for 12 h.",
+          "conditions": {
+            "temperature": "400 K",
+            "time": "12 h",
+            "atmosphere": "vacuum"
+          },
+          "characterization": [
+            {
+              "technique": "IR",
+              "details": "ν­(CN), 2180, 2159, 2064, 2039 cm−1"
+            }
+          ],
+          "crystallography": {
+            "CCDC": "2061723"
+          }
+        }
+      ]
+    },
+    {
+      "material": "1-PX",
+      "synthesis": [
+        {
+          "description": "Solvated crystals of [{Ru2(2,4-F2PhCO2)4}2TCNQ(EtO)2]·2PX (1-PX) were stabilized by the presence of two interstitial PX solvents.",
+          "crystallography": {
+            "CCDC": "2061726"
+          }
+        }
+      ]
+    },
+    {
+      "material": "1-DCE",
+      "synthesis": [
+        {
+          "description": "Solvated crystals of [{Ru2(2,4-F2PhCO2)4}2TCNQ(EtO)2]·2DCE (1-DCE) were stabilized by the presence of two interstitial DCE solvents.",
+          "crystallography": {
+            "CCDC": "2061728"
+          }
+        }
+      ]
+    },
+    {
+      "material": "1-DCM",
+      "synthesis": [
+        {
+          "description": "Solvated crystals of [{Ru2(2,4-F2PhCO2)4}2TCNQ(EtO)2]·2DCM (1-DCM) were stabilized by the presence of two interstitial DCM solvents.",
+          "crystallography": {
+            "CCDC": "2061727"
+          }
+        }
+      ]
+    },
+    {
+      "material": "1-CS2",
+      "synthesis": [
+        {
+          "description": "Solvated crystals of [{Ru2(2,4-F2PhCO2)4}2TCNQ(EtO)2]·2CS2 (1-CS2) were stabilized by the presence of two interstitial CS2 solvents.",
+          "crystallography": {
+            "CCDC": "2061729"
+          }
+        }
+      ]
+    }
+  ]
+}

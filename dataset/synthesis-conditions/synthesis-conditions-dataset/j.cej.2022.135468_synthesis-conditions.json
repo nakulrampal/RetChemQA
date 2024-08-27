@@ -1,0 +1,57 @@
+{
+  "materials": [
+    {
+      "material": "2",
+      "synthesis": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "N,N-dimethyformamide",
+            "amount": "1 mL"
+          },
+          {
+            "name": "water",
+            "amount": "1 mL"
+          },
+          {
+            "name": "ethanol",
+            "amount": "1 mL"
+          }
+        ],
+        "equipment": "23 mL Teflon-lined autoclave",
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "0.030 g, 0.100 mmol"
+          },
+          {
+            "name": "oxalic acid",
+            "amount": "0.026 g, 0.200 mmol"
+          },
+          {
+            "name": "EVBr2",
+            "amount": "0.038 g, 0.100 mmol"
+          }
+        ],
+        "time": "3 days",
+        "yield": "ca. 55% based on Zn",
+        "washing_method": "ethanol",
+        "drying_method": "ambient conditions",
+        "elemental_analysis": {
+          "C": {
+            "found": "35.74%",
+            "calculated": "35.74%"
+          },
+          "H": {
+            "found": "3.63%",
+            "calculated": "3.72%"
+          },
+          "N": {
+            "found": "4.22%",
+            "calculated": "4.18%"
+          }
+        }
+      }
+    }
+  ]
+}

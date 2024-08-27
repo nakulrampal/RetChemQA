@@ -1,0 +1,103 @@
+{
+  "materials": [
+    {
+      "name": "H2BDC-HBI",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "EtOH",
+            "amount": "50 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "methyl-2-((1-ethoxyethylidene)amino)acetate",
+            "amount": "1.43 g, 8.99 mmol"
+          },
+          {
+            "name": "H2BDC-CHO",
+            "amount": "1.00 g, 3.70 mmol"
+          }
+        ],
+        "time": "4 h",
+        "yield": "64%",
+        "washing_method": "water, dichloromethane, hexane",
+        "drying_method": "under vacuum"
+      }
+    },
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "DEF/EtOH mixture",
+            "amount": "1.4/0.6 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "6.2 mg, 21 µmol"
+          },
+          {
+            "name": "H2BDC-CHO",
+            "amount": "5.0 mg, 19 µmol"
+          }
+        ],
+        "time": "24 h",
+        "yield": "55%"
+      }
+    },
+    {
+      "name": "2-PSM",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "for washing"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "methyl-2-((1-ethoxyethylidene)amino)acetate",
+            "amount": "0.30 g daily for 3 days"
+          },
+          {
+            "name": "1",
+            "amount": "10 mg, 5.8 µmol"
+          }
+        ],
+        "time": "72 h",
+        "conversion": "64%"
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "DEF/EtOH mixture",
+            "amount": "1.4/0.6 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "6.2 mg, 21 µmol"
+          },
+          {
+            "name": "H2BDC-HBI",
+            "amount": "5.0 mg, 12 µmol"
+          }
+        ],
+        "time": "24 h",
+        "yield": "64%",
+        "notes": "Transesterification reaction observed (-OCH3 → -OCH2CH3 conversion)"
+      }
+    }
+  ]
+}

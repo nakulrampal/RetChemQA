@@ -1,0 +1,73 @@
+{
+  "materials": [
+    {
+      "name": "3D-Co",
+      "synthesis_conditions": {
+        "temperature": "140 88C",
+        "solvents": ["ethanol", "water"],
+        "amount_of_solvents": {
+          "ethanol": "mixed with water, exact ratio not specified",
+          "water": "mixed with ethanol, exact ratio not specified"
+        },
+        "chemicals_used": ["Co(CH3COO)2", "2,3-dihydroxy-1,4-benzenedicarboxylic acid (H4dhbdc)"],
+        "equipment": "not specified",
+        "time": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified",
+        "additional_information": "afforded as orange rectangle-shaped crystals"
+      }
+    },
+    {
+      "name": "2D-Co-NS",
+      "synthesis_conditions": {
+        "temperature": "not specified",
+        "solvents": ["water"],
+        "amount_of_solvents": {
+          "water": "pH 13, exact amount not specified"
+        },
+        "equipment": "glassy-carbon electrode with Nafion binder or directly grown onto a Co film",
+        "chemicals_used": ["3D-Co"],
+        "time": "about 35 min for electrochemical transformation",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified",
+        "additional_information": "transformation occurs in electrolyte solution saturated with O2; ultrathin nanosheets with wrinkled morphologies"
+      }
+    },
+    {
+      "name": "2D-Co",
+      "synthesis_conditions": {
+        "temperature": "100 88C",
+        "solvents": ["neutral electrolyte solution"],
+        "amount_of_solvents": {
+          "neutral electrolyte solution": "saturated with O2, exact amount not specified"
+        },
+        "equipment": "not specified",
+        "chemicals_used": ["3D-Co"],
+        "time": "5 days",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified",
+        "additional_information": "intermediate phase of the chemical exfoliation"
+      }
+    },
+    {
+      "name": "Fe:2D-Co-NS@Ni",
+      "synthesis_conditions": {
+        "temperature": "not specified",
+        "solvents": ["water"],
+        "amount_of_solvents": {
+          "water": "pH 13, exact amount not specified"
+        },
+        "equipment": "Ni foam",
+        "chemicals_used": ["3D-Co", "FeSO4"],
+        "time": "35 min for electrolysis",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified",
+        "additional_information": "3D-Co directly grown onto Ni foam, transformed to Fe doped 2D-Co-NS by electrolysis"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "materials": [
+    {
+      "material_name": "1",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "chemicals_used": [
+            {
+              "chemical": "[Fe­(H2L^N3O2NH2)­Cl2]",
+              "amount": "0.125 g, 0.31 mmol"
+            },
+            {
+              "chemical": "K­[Cr­(L^N3O2Ph)­(CN)2]",
+              "amount": "0.336 g, 0.62 mmol"
+            },
+            {
+              "chemical": "MeOH",
+              "amount": "30 mL"
+            },
+            {
+              "chemical": "H2O",
+              "amount": "1.8 mL"
+            }
+          ],
+          "procedure": "K­[Cr­(L^N3O2Ph)­(CN)2] dissolved in MeOH was slowly added to a solution of [Fe­(H2L^N3O2NH2)­Cl2] in MeOH and H2O. The mixture was stirred overnight at room temperature.",
+          "yield": "215 mg (46%)",
+          "crystallization_method": "Slow interdiffusion in a Schlenk tube of MeOH solutions of [Fe­(H2L^N3O2NH2)­Cl2] and K­[Cr­(L^N3O2Ph)­(CN)2].",
+          "washing_method": "Washed with MeOH followed by Et2O",
+          "drying_method": "Not specified",
+          "characterization": [
+            {
+              "technique": "IR",
+              "details": "IR (KBr, cm−1): 2919 (m), 2850 (w), 2135 (w with shoulder at 2159), 1671 (s), 1634 (w), 1604 (w), 1586 (w), 1519 (s), 1495 (sh), 1455 (w), 1425 (m), 1384 (s), 1343 (sh), 1307 (w), 1274 (w), 1191 (w), 1173 (w), 1160 (w), 1138 (w), 1120 (w), 1094 (w), 1071 (w), 1050 (m), 1026 (w), 1011 (w), 994 (m), 935 (w), 906 (m), 846 (m), 808 (w), 761 (w), 739 (sh), 714 (m), 683 (m), 645 (w)"
+            },
+            {
+              "technique": "Elemental analysis",
+              "details": "Elemental analysis (%) calcd. for C65.5H74Cr2FeN21O12: C 52.19; H 4.95; N 19.51; found: C 52.65; H 4.46; N 19.72"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "material_name": "2",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "chemicals_used": [
+            {
+              "chemical": "K­[Cr­(L^N3O2Ph)­(CN)2]",
+              "amount": "0.167 g, 0.31 mmol"
+            },
+            {
+              "chemical": "[Fe­(H2L^N3O2NH2)­Cl2]",
+              "amount": "0.250 g, 0.62 mmol"
+            },
+            {
+              "chemical": "NH4PF6",
+              "amount": "0.4 g, 2.45 mmol"
+            },
+            {
+              "chemical": "MeOH",
+              "amount": "41 mL"
+            },
+            {
+              "chemical": "H2O",
+              "amount": "1.5 mL"
+            }
+          ],
+          "procedure": "K­[Cr­(L^N3O2Ph)­(CN)2] in MeOH was added dropwise to a solution of [Fe­(H2L^N3O2NH2)­Cl2] and NH4PF6 in MeOH and H2O. The mixture was stirred overnight at room temperature.",
+          "yield": "140 mg (45% based on Cr)",
+          "crystallization_method": "A solution of [Fe­(H2L^N3O2NH2)­Cl2] and NH4PF6 in MeOH and H2O was placed in a Schlenk tube and layered with MeOH. A solution of [Cr­(L^N3O2Ph)­(CN)2]K in MeOH was added on top.",
+          "washing_method": "Washed with MeOH followed by Et2O",
+          "drying_method": "Not specified",
+          "characterization": [
+            {
+              "technique": "IR",
+              "details": "IR (KBr, cm−1): 2919 (m), 2850 (w), 2138 (w), 1670 (s), 1634 (w), 1604 (w), 1586 (w), 1540 (sh), 1520 (s), 1495 (sh), 1430 (w), 1384 (s), 1300 (w), 1275 (w), 1261 (w), 1194 (w), 1175 (w), 1163 (w), 1120 (w), 1094 (m), 1068 (w), 1051 (m), 1023 (w), 998 (sh),898 (sh), 838 (s), 813 (sh), 764 (w), 743 (w), 712 (m), 692 (m)"
+            },
+            {
+              "technique": "Elemental analysis",
+              "details": "Elemental analysis (%) calcd. for C36H36.5CrF6FeN14O5.25P: C 43.14; H 3.67; N 19.57; found: C 43.26; H 3.73; N 19.65"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

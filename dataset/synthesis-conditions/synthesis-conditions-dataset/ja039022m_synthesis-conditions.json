@@ -1,0 +1,65 @@
+{
+  "materials": [
+    {
+      "name": "[ZnF(AmTAZ)]·Solvents",
+      "synthesis_conditions": [
+        {
+          "temperature": "160 °C",
+          "solvents": [
+            {
+              "name": "ethanol",
+              "amount": "4 mL"
+            },
+            {
+              "name": "water",
+              "amount": "6 mL"
+            }
+          ],
+          "equipment": "23 mL Teflon liner, Parr autoclave, programmable furnace",
+          "chemicals_used": [
+            {
+              "name": "AmTAZAc",
+              "amount": "0.13 g (1 mmol)"
+            },
+            {
+              "name": "zinc(II) tetrafluoroborate hydrate",
+              "amount": "0.12 g (0.5 mmol)"
+            },
+            {
+              "name": "zinc(II) fluoride tetrahydrate",
+              "amount": "0.09 g (0.5 mmol)"
+            }
+          ],
+          "time": "30 h at 160 °C, then 10 h at 70 °C",
+          "yield": "60%",
+          "drying_method": "Cooled to 70 °C at 0.5 °C/min before furnace was shut off",
+          "additional_notes": "Colorless needle-shaped crystals formed."
+        }
+      ]
+    },
+    {
+      "name": "ZnO",
+      "synthesis_conditions": [
+        {
+          "temperature": "800 °C",
+          "equipment": "alumina boat, high-temperature tube furnace",
+          "atmosphere": "flowing air",
+          "time": "2 h",
+          "additional_notes": "White product identified as crystalline ZnO with the wurtzite structure."
+        }
+      ]
+    },
+    {
+      "name": "ZnCN2",
+      "synthesis_conditions": [
+        {
+          "temperature": "800 °C",
+          "equipment": "alumina boat, high-temperature tube furnace",
+          "atmosphere": "flowing N2",
+          "time": "2 h",
+          "additional_notes": "N2 flow started 2 h before heating to expel trace oxygen. Resulting product identified as zinc(II) cyanamide."
+        }
+      ]
+    }
+  ]
+}

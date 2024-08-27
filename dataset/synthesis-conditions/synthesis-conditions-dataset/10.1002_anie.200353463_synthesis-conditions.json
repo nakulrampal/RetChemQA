@@ -1,0 +1,103 @@
+{
+  "materials": [
+    {
+      "name": "[CuI2(m2-BQ)(m2-OAc)2]",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "dimetallic copper(ii) acetate",
+            "amount": "2 g"
+          },
+          {
+            "name": "hydroquinone (HQ)",
+            "amount": "2.2 g"
+          }
+        ],
+        "solvent": "ethanol",
+        "solvent_amount": "100 mL",
+        "temperature": "room temperature",
+        "time": "not specified",
+        "yield": "not specified",
+        "notes": "Red solution obtained"
+      }
+    },
+    {
+      "name": "[CuI2(m3-BQ)(m2-OAc)(m3-OAc)]n (b phase)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "form": "thin and thick plates",
+        "notes": "Obtained from the same solution as [CuI2(m2-BQ)(m2-OAc)2]"
+      }
+    },
+    {
+      "name": "[CuI2(m4-BQ)(m2-OAc)2]n (a phase)",
+      "synthesis_conditions": {
+        "temperature": "60 °C",
+        "form": "red columns",
+        "notes": "Obtained from the same solution as [CuI2(m2-BQ)(m2-OAc)2] but at a higher temperature"
+      }
+    },
+    {
+      "name": "[CuI2(m2-BQ)(m3-OAc)2]n (g phase)",
+      "synthesis_conditions": {
+        "temperature": "60 °C",
+        "form": "red columns",
+        "notes": "Main product with red plates of b phase as a minor product"
+      }
+    },
+    {
+      "name": "Pure a phase",
+      "synthesis_conditions": {
+        "temperature": "30 °C",
+        "chemicals_used": [
+          {
+            "name": "[CuII2(OAc)4(H2O)2]",
+            "amount": "250 mm"
+          },
+          {
+            "name": "HQ",
+            "amount": "1m"
+          }
+        ],
+        "solvent": "ethanol",
+        "yield": "82 %"
+      }
+    },
+    {
+      "name": "Pure b phase",
+      "synthesis_conditions": {
+        "temperature": "40 °C",
+        "chemicals_used": [
+          {
+            "name": "[CuII2(OAc)4(H2O)2]",
+            "amount": "50 mm"
+          },
+          {
+            "name": "HQ",
+            "amount": "200 mm"
+          }
+        ],
+        "solvent": "ethanol",
+        "yield": "34 %"
+      }
+    },
+    {
+      "name": "Pure g phase",
+      "synthesis_conditions": {
+        "temperature": "reflux",
+        "chemicals_used": [
+          {
+            "name": "[CuII2(OAc)4(H2O)2]",
+            "amount": "50 mm"
+          },
+          {
+            "name": "HQ",
+            "amount": "200 mm"
+          }
+        ],
+        "solvent": "ethanol",
+        "yield": "87 %"
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "materials": [
+    {
+      "name": "Dy(BTC)(H2O).DMF (1)",
+      "synthesis_conditions": {
+        "temperature": "85 ℃",
+        "time": "16h",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "10mL"
+          },
+          {
+            "name": "distilled water",
+            "amount": "2mL"
+          },
+          {
+            "name": "cyclohexanol",
+            "amount": "2mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Dy(NO3)3.6H2O",
+            "amount": "45mg"
+          },
+          {
+            "name": "H3BTC",
+            "amount": "0.02mg"
+          },
+          {
+            "name": "dibutylamine",
+            "amount": "two drops"
+          },
+          {
+            "name": "HNO3 (2 mol.L-1)",
+            "amount": "three drops"
+          }
+        ],
+        "yield": "ca. 53%",
+        "washing_method": "washed with DMF and methanol",
+        "drying_method": "dried at room temperature"
+      }
+    },
+    {
+      "name": "Dy(BTC) (2)",
+      "synthesis_conditions": {
+        "temperature": "240 ℃",
+        "time": "12h",
+        "equipment": "under vacuum",
+        "method": "heating 1 under vacuum"
+      }
+    },
+    {
+      "name": "Rehydrated phase 1a",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "water and DMF mixture",
+            "ratio": "1:1"
+          }
+        ],
+        "time": "2h",
+        "temperature": "room temperature",
+        "method": "steeping 2 in the mixture of water and DMF"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "materials": [
+    {
+      "name": "JLU-Liu1",
+      "synthesis_conditions": {
+        "temperature": "115 1C",
+        "time": "24 h",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "2 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "4-PmBC",
+            "amount": "0.005 g, 0.025 mmol"
+          },
+          {
+            "name": "CuSO4.5H2O",
+            "amount": "0.003 g, 0.0125 mmol"
+          }
+        ],
+        "equipment": "20 mL vial",
+        "yield": "76% based on CuSO4.5H2O",
+        "washing_method": "immersed in methanol, acetone, dichloromethane, and acetonitrile solvents for 24 hours",
+        "drying_method": "activated at 80 1C for 10 h",
+        "activation_method": "immersed in methanol, acetone, dichloromethane, and acetonitrile solvents for 24 hours, then activated at 80 1C for 10 h"
+      }
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "materials": [
+    {
+      "name": "H3bppz",
+      "synthesis": {
+        "chemicals_used": [
+          "3,5-bis(5-methyl-2-pyridyl)pyrazole",
+          "KMnO4",
+          "HCl"
+        ],
+        "solvents": [
+          "deionized water"
+        ],
+        "temperature": "reflux for 6 h",
+        "yield": "25.81%",
+        "characterization": {
+          "1H_NMR": "400 MHz, DMSO-d6",
+          "13C_NMR": "101 MHz, DMSO-d6",
+          "elemental_analysis": "C 56.63, H 3.68, N 18.12"
+        }
+      }
+    },
+    {
+      "name": "FICN-7",
+      "synthesis": {
+        "chemicals_used": [
+          "H3bppz",
+          "ZrCl4",
+          "DMF",
+          "trifluoroacetic acid"
+        ],
+        "temperature": "120 °C for 3 days",
+        "yield": "86% based on the H3bppz ligand",
+        "equipment": "sealed vial",
+        "characterization": {
+          "SCXRD": "orthorhombic, space group Pnnm",
+          "PXRD": "matches with simulated pattern",
+          "SEM": "rhombic dodecahedron shape",
+          "TGA": "32% weight loss before 350 °C",
+          "ICP-OES": "Zr/Fe ratio analysis",
+          "XPS": "Fe 2p3/2 peak at 710.1 eV and 2p1/2 peak at 723.2 eV",
+          "UV-Vis": "absorption bands between 450 and 550 nm",
+          "Raman": "aromatic C–C and C–N stretching peaks",
+          "FT-IR": "νC–N and δN–H vibration modes of the pyrazole ring"
+        }
+      }
+    },
+    {
+      "name": "FICN-7-Fe2(Cl)",
+      "synthesis": {
+        "chemicals_used": [
+          "FeCl2·4H2O",
+          "THF"
+        ],
+        "solvents": [
+          "DMF",
+          "THF"
+        ],
+        "amount_of_each_solvent": {
+          "DMF": "2 mL × 3 for washing",
+          "THF": "4 mL for reaction, 2 mL × 5 for washing"
+        },
+        "temperature": "room temperature",
+        "time": "overnight",
+        "washing_method": "centrifuged and washed with THF 5 times",
+        "drying_method": "dried in a glovebox",
+        "yield": "Zr/Fe ratio is 1.1, corresponding to 1.4 Fe per bppz3− linker",
+        "characterization": {
+          "PXRD": "matches with solvated FICN-7",
+          "ICP-OES": "Zr/Fe ratio analysis",
+          "XPS": "Fe 2p3/2 peak at 710.1 eV and 2p1/2 peak at 723.2 eV",
+          "UV-Vis": "absorption bands between 450 and 550 nm",
+          "Raman": "aromatic C–C and C–N stretching peaks",
+          "FT-IR": "νC–N and δN–H vibration modes of the pyrazole ring",
+          "EDS": "uniform distribution of Zr and Fe elements",
+          "XAS": "Fe K-edge analysis"
+        }
+      }
+    },
+    {
+      "name": "FICN-7-Fe1(Cl)",
+      "synthesis": {
+        "chemicals_used": [
+          "FeCl2·4H2O",
+          "THF"
+        ],
+        "solvents": [
+          "DMF",
+          "THF"
+        ],
+        "amount_of_each_solvent": {
+          "DMF": "2 mL × 3 for washing",
+          "THF": "4 mL for reaction, 2 mL × 5 for washing"
+        },
+        "temperature": "room temperature",
+        "time": "overnight",
+        "washing_method": "centrifuged and washed with THF 5 times",
+        "drying_method": "dried in a glovebox",
+        "yield": "Zr/Fe ratio is 1.7, suggesting mononuclear configuration",
+        "characterization": {
+          "PXRD": "matches with solvated FICN-7",
+          "ICP-OES": "Zr/Fe ratio analysis",
+          "XPS": "Fe 2p3/2 peak at 710.1 eV and 2p1/2 peak at 723.2 eV",
+          "UV-Vis": "absorption bands between 450 and 550 nm",
+          "Raman": "aromatic C–C and C–N stretching peaks",
+          "FT-IR": "νC–N and δN–H vibration modes of the pyrazole ring",
+          "EDS": "uniform distribution of Zr and Fe elements",
+          "XAS": "Fe K-edge analysis"
+        }
+      }
+    }
+  ]
+}

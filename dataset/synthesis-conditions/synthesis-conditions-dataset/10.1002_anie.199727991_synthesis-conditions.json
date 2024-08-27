@@ -1,0 +1,60 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "reactants": "Anhydrous barium iodide",
+        "solvents": "Water",
+        "temperature": "Room temperature",
+        "product_form": "Colorless crystals",
+        "yield": "Not specified",
+        "notes": "Reacted in air"
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": [
+        {
+          "reactants": "BaI2(μ-OH2)2 (0.5 g, 1.17 mmol)",
+          "solvents": "Dried and freshly distilled acetone (30 mL)",
+          "temperature": "-30°C",
+          "time": "48 h",
+          "product_form": "Pale yellow cubic crystals",
+          "yield": "Not specified",
+          "notes": "Crystals decomposed above -10°C and quickly lost solvent molecules on contact with air"
+        },
+        {
+          "reactants": "Dry BaI2",
+          "solvents": "Technical grade acetone",
+          "temperature": "-30°C",
+          "product_form": "Desired product",
+          "yield": "Not specified",
+          "notes": "Another synthetic pathway"
+        }
+      ]
+    },
+    {
+      "name": "3",
+      "synthesis_conditions": {
+        "reactants": "BaI2 (0.5 g, 1.28 mmol) (dried in high vacuum at 500°C)",
+        "solvents": "Dried and freshly distilled THF (50 mL)",
+        "temperature": "-30°C",
+        "time": "After concentration to half the volume and layering with diethyl ether (10 mL)",
+        "product_form": "Pale yellow blocks",
+        "yield": "Not specified",
+        "notes": "Sensitive to air and reacts at room temperature under elimination of solvent molecules"
+      }
+    },
+    {
+      "name": "4",
+      "synthesis_conditions": {
+        "reactants": "BaI2 (0.4 g, 1 mmol; dried as in 3)",
+        "solvents": "Dried and freshly distilled THF (30 mL)",
+        "temperature": "-30°C",
+        "product_form": "Pale yellow rhombs",
+        "yield": "Not specified",
+        "notes": "Decomposed rapidly above this temperature"
+      }
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "materials": [
+    {
+      "material_name": "hexapyridylsumanene (HexP, 2)",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation of 2,3,5,6,8,9-hexabromosumanene (1’)",
+          "chemicals_used": [
+            {
+              "name": "Sumanene 1",
+              "amount": "50 mg",
+              "molarity": "0.19 mmol"
+            },
+            {
+              "name": "Fe Powder",
+              "amount": "11.2 mg",
+              "molarity": "0.20 mmol"
+            },
+            {
+              "name": "Br2",
+              "amount": "300 µL",
+              "molarity": "5.82 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "nitrobenzene",
+              "amount": "2.1 mL"
+            }
+          ],
+          "temperature": "25 °C then 80 °C",
+          "time": "17 h then 6 h",
+          "yield": "54%",
+          "product": "2,3,5,6,8,9-hexabromosumanene 1’"
+        },
+        {
+          "step": "Synthesis of 2,3,5,6,8,9-hexa(pyridin-4-yl)sumanene (HexP, 2)",
+          "chemicals_used": [
+            {
+              "name": "K2CO3 aqueous solution",
+              "amount": "0.24 mL",
+              "molarity": "2.0 M"
+            },
+            {
+              "name": "arylboronic acid",
+              "amount": "29.6 mg",
+              "molarity": "0.24 mmol"
+            },
+            {
+              "name": "Pd(PPh3)4",
+              "amount": "7.0 mg",
+              "molarity": "0.003 mmol"
+            },
+            {
+              "name": "1’",
+              "amount": "14.8 mg",
+              "molarity": "20 µmol"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "THF",
+              "amount": "3.0 mL"
+            }
+          ],
+          "temperature": "70 °C",
+          "time": "17 h",
+          "yield": "72.6%",
+          "product": "2,3,5,6,8,9-hexa(pyridin-4-yl)sumanene (HexP, 2)"
+        }
+      ]
+    },
+    {
+      "material_name": "2-Zn",
+      "synthesis_conditions": [
+        {
+          "solvents": [
+            {
+              "name": "methanol",
+              "amount": "0.5 mL"
+            },
+            {
+              "name": "CHCl3 or PhNO2",
+              "amount": "0.5 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Zn(NO3)2·6H2O",
+              "amount": "1.19 mg",
+              "molarity": "4.0 µmol"
+            },
+            {
+              "name": "2 (HexP)",
+              "amount": "0.72 mg",
+              "molarity": "1.0 µmol"
+            }
+          ],
+          "temperature": "20 °C",
+          "atmosphere": "air",
+          "method": "triple-layered solution growth"
+        }
+      ]
+    },
+    {
+      "material_name": "2-Cd",
+      "synthesis_conditions": [
+        {
+          "solvents": [
+            {
+              "name": "methanol",
+              "amount": "0.2 mL"
+            },
+            {
+              "name": "PhCl",
+              "amount": "0.5 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Cd(NO3)2·4H2O",
+              "amount": "2.36 mg",
+              "molarity": "10.0 µmol"
+            },
+            {
+              "name": "2 (HexP)",
+              "amount": "0.72 mg",
+              "molarity": "1.0 µmol"
+            }
+          ],
+          "temperature": "20 °C",
+          "atmosphere": "air",
+          "method": "triple-layered solution growth"
+        }
+      ]
+    }
+  ]
+}

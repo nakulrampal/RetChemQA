@@ -1,0 +1,68 @@
+{
+  "materials": [
+    {
+      "name": "Th(NDC)2",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "383 K",
+          "solvents": [
+            {
+              "name": "N,N-dimethylformamide (DMF)",
+              "amount": "5 mL"
+            }
+          ],
+          "equipment": "50 mL Parr autoclave",
+          "chemicals_used": [
+            {
+              "name": "Th(NO3)4·5H2O",
+              "amount": "0.1 mmol (57.0 mg)"
+            },
+            {
+              "name": "2,6-naphtalenedicarboxylic acid (2,6-NDCA)",
+              "amount": "0.3 mmol (64.8 mg)"
+            }
+          ],
+          "time": "7 days",
+          "washing_method": "washed three times in DMF",
+          "drying_method": "dried at room temperature in air",
+          "yield": "61.5 mg, 93.1%"
+        },
+        {
+          "step": 2,
+          "temperature": "383 K",
+          "solvents": [
+            {
+              "name": "H2O",
+              "amount": "5 mL"
+            }
+          ],
+          "equipment": "50 mL Parr autoclave",
+          "chemicals_used": [
+            {
+              "name": "Th(NO3)4·5H2O",
+              "amount": "0.1 mmol (57.0 mg)"
+            },
+            {
+              "name": "2,6-naphtalenedicarboxylic acid (2,6-NDCA)",
+              "amount": "0.3 mmol (64.8 mg)"
+            }
+          ],
+          "time": "7 days",
+          "washing_method": "washed three times in DMF",
+          "drying_method": "dried at room temperature in air",
+          "yield": "59.9 mg, 90.7%",
+          "additional_information": "This method afforded suitable crystals for X-ray single-crystal diffraction."
+        }
+      ],
+      "characterization_methods_excluded": [
+        "X-ray diffraction data",
+        "Vibrational data (FT-Raman and IR spectra)",
+        "TGA Analysis",
+        "UV-Vis Spectroscopy",
+        "BET analysis",
+        "Computational details"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "materials": [
+    {
+      "name": "Ag48T and Ag48M",
+      "synthesis_conditions": [
+        {
+          "step": "Method 1",
+          "chemicals_used": [
+            {
+              "name": "[CySAg]n",
+              "amount": "11 mg",
+              "molar_amount": "0.05 mmol"
+            },
+            {
+              "name": "(nBu4N)4W10O32",
+              "amount": "5 mg",
+              "molar_amount": "0.016 mmol"
+            },
+            {
+              "name": "AgNO3",
+              "solvent": "DMF",
+              "amount": "17 mg",
+              "molar_amount": "0.1 mmol",
+              "solvent_amount": "0.5 mL"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "methanol",
+              "amount": "6 mL",
+              "ratios": ["10:2:1", "12:0:1", "6:6:1"]
+            },
+            {
+              "name": "dichloromethane",
+              "ratios": ["10:2:1", "12:0:1", "6:6:1"]
+            },
+            {
+              "name": "DMF",
+              "ratios": ["10:2:1", "12:0:1", "6:6:1"]
+            }
+          ],
+          "temperature": "65 °C",
+          "time": "2000 minutes",
+          "yield": [
+            {
+              "form": "Ag48M",
+              "amount": "17.0%"
+            },
+            {
+              "form": "Ag48T",
+              "amount": "21.3%"
+            },
+            {
+              "form": "Ag48M/Ag48T mixture"
+            }
+          ]
+        },
+        {
+          "step": "Method 2",
+          "chemicals_used": [
+            {
+              "name": "Na2WO4·2H2O",
+              "amount": "5 mg",
+              "molar_amount": "0.015 mmol"
+            }
+          ],
+          "notes": "Similar procedure to Method 1, replacing (nBu4N)4W10O32 with Na2WO4·2H2O."
+        }
+      ],
+      "reversible_transformation": {
+        "description": "Reversible transformation between Ag48T and Ag48M by altering solvent ratios and undergoing solvothermal reaction."
+      }
+    },
+    {
+      "name": "Ag48P and Ag48C",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            {
+              "name": "[CySAg]n",
+              "amount": "11 mg",
+              "molar_amount": "0.05 mmol"
+            },
+            {
+              "name": "(nBu4N)4W10O32",
+              "amount": "5 mg",
+              "molar_amount": "0.016 mmol"
+            },
+            {
+              "name": "AgTsO",
+              "amount": "27.9 mg",
+              "molar_amount": "0.1 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "methanol",
+              "amount": "6 mL",
+              "ratios": ["6:0", "5:1"]
+            },
+            {
+              "name": "dichloromethane",
+              "ratios": ["6:0", "5:1"]
+            }
+          ],
+          "temperature": "65 °C",
+          "time": "2000 minutes",
+          "yield": [
+            {
+              "form": "Ag48P",
+              "amount": "23.0%"
+            },
+            {
+              "form": "Ag48C",
+              "amount": "15.7%"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

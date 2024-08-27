@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What are the synthesis conditions for Ru-TBP nanoplates?",
+      "answer": "Ru-TBP nanoplates were synthesized by adding 0.5 mL of RuCl3·xH2O solution (1.2 mg/mL in DMF), 0.5 mL of H4TBP solution (2.0 mg/mL in DMF), and 50 μL of acetic acid to a 4 mL glass vial, which was then kept in a 120 °C oven for 2 days.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the Ru oxidation state in Ru-TBP and Ru-TBP-Zn determined?",
+      "answer": "The Ru oxidation state in Ru-TBP and Ru-TBP-Zn was determined by comparing the edge feature in XANES analyses with RuCl3, showing adsorption peak at around 22125 eV, indicating a +3 oxidation state.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to confirm the structural stability of Ru-TBP and Ru-TBP-Zn during HER?",
+      "answer": "The structural stability of Ru-TBP and Ru-TBP-Zn during HER was confirmed by showing the same PXRD patterns as freshly prepared MOFs after photocatalysis and minimal leaching of Ru, indicating their structural stability.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The HER catalytic activity of Ru-TBP-Zn is higher than that of Ru-TBP due to the better photosensitizing ability of the TBP-Zn ligand.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of using triethanolamine (TEOA) in the photocatalytic HER experiments?",
+      "answer": "TEOA was used as a sacrificial electron donor in the photocatalytic HER experiments to regenerate the oxidized porphyrin ligands, completing the catalytic cycle.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the energy required to drive photocatalytic HER by Ru2 SBUs in Ru-TBP-Zn estimated?",
+      "answer": "The energy required to drive photocatalytic HER by Ru2 SBUs in Ru-TBP-Zn was estimated using the Nernst equation, considering the proton reduction potential under different conditions, resulting in an estimated energy of 0.93 eV.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The photocatalytic HER mechanism in Ru-TBP-Zn involves electron transfer from excited TBP-Zn to Ru2 SBUs.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of cyclic voltammetry (CV) in the study of Ru-TBP-Zn?",
+      "answer": "Cyclic voltammetry (CV) was used to study the HER process by observing the reduction peak of Ru2-PD and Ru-TBP-Zn, providing insight into the reduction of Ru2 SBUs before catalyzing proton reduction.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The luminescence quenching of Me4TBP-Zn by Ru2-PD supports an oxidative quenching mechanism for photocatalytic HER.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What evidence supports the hypothesis that Ru nanoparticles (NPs) do not play a role in HER catalyzed by Ru-TBP and Ru-TBP-Zn?",
+      "answer": "The evidence supporting this hypothesis includes similar H2 generation rates in six consecutive reactions for both Ru-TBP and Ru-TBP-Zn, and XANES spectra showing no change in Ru valence states or formation of Ru NPs after photocatalysis.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

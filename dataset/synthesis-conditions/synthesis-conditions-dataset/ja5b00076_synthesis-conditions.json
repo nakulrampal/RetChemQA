@@ -1,0 +1,120 @@
+{
+  "materials": [
+    {
+      "name": "CPM-99(H2)",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "N,N-diethylformamide (DEF)",
+        "amount_of_solvent": "75 mL",
+        "equipment": "oven",
+        "chemicals_used": [
+          {
+            "name": "ZrOCl2·xH2O",
+            "amount": "0.15 g"
+          },
+          {
+            "name": "TCBPP-H2",
+            "amount": "0.15 g"
+          },
+          {
+            "name": "benzoic acid",
+            "amount": "7.5 g"
+          }
+        ],
+        "time": "5 days",
+        "yield": "47% based on TCBPP-H2"
+      }
+    },
+    {
+      "name": "CPM-99(Zn)",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "N,N-diethylformamide (DEF)",
+        "amount_of_solvent": "75 mL",
+        "equipment": "oven",
+        "chemicals_used": [
+          {
+            "name": "ZrOCl2·xH2O",
+            "amount": "0.15 g"
+          },
+          {
+            "name": "TCBPP-Zn",
+            "amount": "0.15 g"
+          },
+          {
+            "name": "benzoic acid",
+            "amount": "7.5 g"
+          }
+        ],
+        "time": "5 days",
+        "yield": "48% based on TCBPP-Zn"
+      }
+    },
+    {
+      "name": "CPM-99(Co)",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "N,N-diethylformamide (DEF)",
+        "amount_of_solvent": "75 mL",
+        "equipment": "oven",
+        "chemicals_used": [
+          {
+            "name": "ZrOCl2·xH2O",
+            "amount": "0.15 g"
+          },
+          {
+            "name": "TCBPP-Co",
+            "amount": "0.15 g"
+          },
+          {
+            "name": "benzoic acid",
+            "amount": "7.5 g"
+          }
+        ],
+        "time": "5 days",
+        "yield": "43% based on TCBPP-Co"
+      }
+    },
+    {
+      "name": "CPM-99(Fe)",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "N,N-diethylformamide (DEF)",
+        "amount_of_solvent": "75 mL",
+        "equipment": "oven",
+        "chemicals_used": [
+          {
+            "name": "ZrOCl2·xH2O",
+            "amount": "0.15 g"
+          },
+          {
+            "name": "TCBPP-Fe",
+            "amount": "0.15 g"
+          },
+          {
+            "name": "benzoic acid",
+            "amount": "7.5 g"
+          }
+        ],
+        "time": "5 days",
+        "yield": "53% based on TCBPP-Fe"
+      }
+    },
+    {
+      "name": "CPM-99(X)/C",
+      "synthesis_conditions": {
+        "temperature": "600, 700, 800, 900 °C",
+        "equipment": "tube furnace under an argon atmosphere",
+        "chemicals_used": [
+          {
+            "name": "CPM-99(X)",
+            "note": "X = H2, Zn, Co, Fe"
+          }
+        ],
+        "time": "4 hrs",
+        "atmosphere": "argon",
+        "note": "The suffixal 700 refers to heating temperature in the pyrolysis stage."
+      }
+    }
+  ]
+}

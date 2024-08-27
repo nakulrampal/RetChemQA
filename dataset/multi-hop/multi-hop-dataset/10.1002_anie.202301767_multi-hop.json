@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the chemical formula of the metal-organic framework (MOF) reported as an electrocatalyst for electrochemical CO2 reduction reactions (eCO2RR) to CH4?",
+      "answer": "(DMA)4[Sn2(THO)2]",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the main types of Sn-based electrocatalysts mentioned, and which type does the reported MOF belong to?",
+      "answer": "The main types are Sn oxides and sulfides, monometallic and multimetallic Sn catalysts, and single-atom catalysts (SAC). The reported MOF belongs to a new category with isolated and distorted octahedral SnO6 2(cid:0) active sites.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the coordination geometry and microenvironment of the SnIV ion in Sn-THO affect the product selectivity of the eCO2RR process?",
+      "answer": "The special coordination geometry and environment of the SnIV ion in Sn-THO favor the formation of key *OCOH species to produce CH4 and greatly inhibit the formation of *OCHO and *COOH species to produce HCOOH and CO, respectively, leading to a high FECH4.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of dimethylammonium (DMA) cations in the structure of the reported MOF?",
+      "answer": "The presence of two dimethylammonium (DMA) cations per H6THO ligand indicates their role in the structural formation of the MOF, contributing to its stability and functionality as an electrocatalyst.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What experimental techniques were used to confirm the presence of SnIV ions in the reported MOF?",
+      "answer": "X-ray photoelectron spectra (XPS), Energy dispersive X-ray spectroscopy (EDX), and X-ray absorption near-edge structure (XANES) spectra were used to confirm the presence of SnIV ions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the reported MOF's ability to maintain its tin oxidation state, morphology, and structure after catalysis?",
+      "answer": "This ability signifies the MOF's high electrochemical stability, making it a promising candidate for long-term operation in electrochemical CO2 reduction reactions.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the reported MOF compare to traditional Sn-based catalysts in terms of product selectivity for eCO2RR?",
+      "answer": "Unlike traditional Sn-based catalysts that usually produce formate or CO, the reported MOF shows an unexpected and high performance for eCO2RR to produce CH4, highlighting the influence of metal ion coordination geometry on product selectivity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What factors contribute to the high chemical stability of the reported MOF in aqueous solution?",
+      "answer": "The high chemical stability is attributed to the interpenetrating structure of the MOF and the rigidity of the ligand.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the reported MOF considered a significant advancement in the field of electrocatalysis for CO2 reduction?",
+      "answer": "Its exceptional selectivity for CH4 production, surpassing most reported copper-based and all non-Cu metal-based catalysts, along with its robustness and long-term operational stability, mark a significant advancement.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role does the distorted octahedral geometry of SnO6 2(cid:0) active sites play in the eCO2RR process?",
+      "answer": "The distorted octahedral geometry favors the formation of key *OCOH species over *OCHO and *COOH, directing the reaction pathway towards CH4 production rather than formate or CO.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the reported MOF's performance in eCO2RR to CH4 compare to that of copper-based and other non-Cu metal-based catalysts?",
+      "answer": "The reported MOF surpasses most copper-based and all non-Cu metal-based catalysts in terms of CH4 partial current density, showcasing its exceptional performance.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental evidence supports the claim that the carbon source of the reduction product is indeed from the reactant CO2?",
+      "answer": "13C isotopic labeling experiments and GC-mass spectrometry analysis, showing peaks assigned to 13CH4 and 13CO, provide evidence that the carbon source of the reduction product is from CO2.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the reported MOF's selectivity for CH4 production a result of its unique metal coordination geometry?",
+      "answer": "True. The unique metal coordination geometry and microenvironment significantly influence the product selectivity towards CH4 production.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the reported MOF maintain its structure and functionality after long-term operation in eCO2RR?",
+      "answer": "True. The MOF maintains its tin oxidation state, morphology, and structure after catalysis, indicating its robustness and suitability for long-term operation.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are dimethylammonium (DMA) cations responsible for the catalytic activity of the reported MOF?",
+      "answer": "False. While DMA cations play a role in the structural formation of the MOF, the catalytic activity is primarily attributed to the isolated and distorted octahedral SnO6 2(cid:0) active sites.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the reported MOF produce formate as the main product in eCO2RR?",
+      "answer": "False. Unlike traditional Sn-based catalysts, the reported MOF shows an exceptional selectivity for CH4 production, not formate.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the reported MOF's high chemical stability in aqueous solution attributed solely to the dimethylammonium (DMA) cations?",
+      "answer": "False. The high chemical stability is attributed to the interpenetrating structure of the MOF and the rigidity of the ligand, not solely to the DMA cations.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the reported MOF exhibit a higher partial current density for CH4 production compared to all non-Cu metal-based catalysts?",
+      "answer": "True. The MOF surpasses most reported copper-based and all non-Cu metal-based catalysts in terms of CH4 partial current density.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the reported MOF's exceptional performance in eCO2RR to CH4 due to the presence of SnOX clusters?",
+      "answer": "False. The MOF's performance is attributed to its isolated and distorted octahedral SnO6 2(cid:0) active sites, and no Sn or SnOX cluster was generated after catalysis.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the reported MOF's ability to maintain its structure after catalysis indicate its potential for recyclability and long-term use?",
+      "answer": "True. The MOF's ability to maintain its tin oxidation state, morphology, and structure after catalysis indicates its robustness and potential for recyclability and long-term use.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "materials": [
+    {
+      "name": "PCN-8908",
+      "synthesis": {
+        "temperature": "hydrothermal reactions",
+        "solvents": null,
+        "amount_of_each_solvent": null,
+        "equipment": null,
+        "chemicals_used": [
+          "methane-tetrakis(p-terphenylcarboxylate) (MTTC)",
+          "Zr6(μ3-O)4(μ3-OH)4 cluster"
+        ],
+        "time": null,
+        "washing_method": null,
+        "drying_method": null,
+        "yield": null,
+        "other_conditions": [
+          "morphologically homogenous crystals with the size of approximately 100 µm",
+          "solved single crystal structure in the orthorhombic space group Ima2",
+          "lattice parameters a = 51.3448(3) Å, b = 27.9655(9) Å, c = 26.9359(9) Å",
+          "PXRD data fitted well with the simulated one based on its single crystal data",
+          "N2 gas adsorption at 77 K showed BET area of 3120 m2 g−1 and pore size approximately 1.7 nm",
+          "TGA showed 77.03% of weight loss under continuous air flow",
+          "XPS showed binding energy of Zr 3d5/2 orbital in the framework shifted by 0.7 eV compared to the original salt"
+        ]
+      }
+    },
+    {
+      "name": "NPCN-8908",
+      "synthesis": {
+        "temperature": null,
+        "solvents": null,
+        "amount_of_each_solvent": null,
+        "equipment": null,
+        "chemicals_used": null,
+        "time": null,
+        "washing_method": null,
+        "drying_method": null,
+        "yield": null,
+        "other_conditions": [
+          "synthesized under optimized conditions",
+          "DLS showed average diameter of the nanoparticle approximately 165 nm"
+        ]
+      }
+    },
+    {
+      "name": "plasmid@NPCN-8908",
+      "synthesis": {
+        "temperature": null,
+        "solvents": null,
+        "amount_of_each_solvent": null,
+        "equipment": null,
+        "chemicals_used": null,
+        "time": null,
+        "washing_method": null,
+        "drying_method": null,
+        "yield": null,
+        "other_conditions": [
+          "biomineralized",
+          "average diameter of 191 nm and zeta potential decreased from +23 mV of pure nanoparticle to +6 mV of the plasmid complex",
+          "PXRD pattern analysis revealed that the crystallinity is retained after biomineralization",
+          "maximum plasmid loading content calculated to be 4.8 wt%",
+          "release behavior investigated at pH = 7.4 and 5.5, showing almost no plasmid released at pH = 7.4 after 3 days, whereas 90% plasmid released at pH = 5.5 after just 12 h"
+        ]
+      }
+    }
+  ]
+}

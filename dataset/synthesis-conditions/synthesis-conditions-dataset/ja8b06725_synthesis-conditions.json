@@ -1,0 +1,44 @@
+{
+  "materials": [
+    {
+      "name": "ZnFDCA",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": "N,N-dimethylformamide (DMF)/ethanol",
+        "solvent_amounts": "5.5 mL, 1:4.5, v/v",
+        "additives": "HNO3 (0.64 mol L-1, 0.5 mL)",
+        "equipment": "Pyrex glass tube",
+        "chemicals_used": {
+          "Zn(NO3)2·6H2O": "0.12 mmol",
+          "2,5-furandicarboxylic acid (H2FDC)": "0.12 mmol",
+          "adenine (Ade)": "0.12 mmol"
+        },
+        "time": "72 hours",
+        "cooling_rate": "2.5 °C/h",
+        "yield": "ca. 90% based on adenine",
+        "washing_method": "filtered off and dried",
+        "drying_method": "vacuum oven at 160 °C for 12 h"
+      }
+    },
+    {
+      "name": "ZnFDCA-NH2",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": "DMF/ethanol",
+        "solvent_amounts": "5 mL, 1:4, v/v",
+        "additives": "HNO3 (0.64 mol L-1, 0.6 mL)",
+        "equipment": "Pyrex glass tube",
+        "chemicals_used": {
+          "Zn(NO3)2·6H2O": "0.04 mmol",
+          "2,5-furandicarboxylic acid (H2FDC)": "0.04 mmol",
+          "2,6-diaminopurine (Ade-NH2)": "0.04 mmol"
+        },
+        "time": "72 hours",
+        "cooling_rate": "2.5 °C/h",
+        "yield": "ca. 81% based on Ade-NH2",
+        "washing_method": "filtered off and dried",
+        "drying_method": "vacuum oven at 160 °C for 12 h"
+      }
+    }
+  ]
+}

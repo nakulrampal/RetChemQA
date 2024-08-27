@@ -1,0 +1,92 @@
+{
+  "materials": [
+    {
+      "name": "NNU-32",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "CuI",
+            "amount": "190 mg",
+            "molar_amount": "1 mmol"
+          },
+          {
+            "name": "H2bptb",
+            "amount": "135 mg",
+            "molar_amount": "0.5 mmol"
+          },
+          {
+            "name": "DMF",
+            "amount": "10 mL"
+          }
+        ],
+        "equipment": "Teflon-lined stainless steel container",
+        "temperature": "180 °C",
+        "time": "72 h",
+        "atmosphere": "ambient",
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "room temperature"
+      }
+    },
+    {
+      "name": "NNU-33(S)",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "CuSO4·5H2O",
+            "amount": "15 mg",
+            "molar_amount": "0.06 mmol"
+          },
+          {
+            "name": "H2bptb",
+            "amount": "5 mg",
+            "molar_amount": "0.0135 mmol"
+          },
+          {
+            "name": "Triethylamine",
+            "amount": "three drops"
+          },
+          {
+            "name": "DMA",
+            "amount": "5 mL"
+          }
+        ],
+        "equipment": "Pyrex vial",
+        "temperature": "150 °C",
+        "time": "72 h",
+        "atmosphere": "ambient",
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "room temperature"
+      }
+    },
+    {
+      "name": "NNU-33(I)",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "NNU-33(S) crystals",
+            "amount": "100 mg"
+          },
+          {
+            "name": "1 M KOH solution",
+            "amount": "100 mL"
+          }
+        ],
+        "equipment": "not specified",
+        "temperature": "not specified",
+        "time": "10 h",
+        "atmosphere": "not specified",
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "NNU-33(H)",
+      "synthesis": {
+        "description": "NNU-33(H) is obtained through the in situ dynamic crystal structure transition from NNU-33(S) to NNU-33(H) with substitution of hydroxyl radicals for sulfate radicals during the electrocatalytic process."
+      }
+    }
+  ]
+}

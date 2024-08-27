@@ -1,0 +1,178 @@
+{
+  "materials": [
+    {
+      "name": "NU-700",
+      "synthesis_conditions": {
+        "temperature": "120 ℃",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "1 mL"
+          },
+          {
+            "name": "formic acid (HCOOH)",
+            "amount": "400 μL"
+          }
+        ],
+        "equipment": "1.5-dram vial",
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "10 mg"
+          },
+          {
+            "name": "L1",
+            "amount": "10 mg"
+          }
+        ],
+        "time": "2 days",
+        "yield": "65% based on L1"
+      }
+    },
+    {
+      "name": "NU-405",
+      "synthesis_conditions": {
+        "temperature": "120 ℃",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "1 mL"
+          },
+          {
+            "name": "acetic acid (HAc)",
+            "amount": "500 μL"
+          }
+        ],
+        "equipment": "1.5-dram vial",
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "10 mg"
+          },
+          {
+            "name": "L1",
+            "amount": "10 mg"
+          }
+        ],
+        "time": "1 day",
+        "yield": "77% based on L1"
+      }
+    },
+    {
+      "name": "NU-1800",
+      "synthesis_conditions": {
+        "temperature": "120 ℃",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "1 mL"
+          },
+          {
+            "name": "acetic acid (HAc)",
+            "amount": "0.12 mL"
+          }
+        ],
+        "equipment": "1.5-dram vial",
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "5 mg"
+          },
+          {
+            "name": "L2",
+            "amount": "5 mg"
+          }
+        ],
+        "time": "3 days",
+        "yield": "84% based on L2"
+      }
+    },
+    {
+      "name": "NU-913-HAc",
+      "synthesis_conditions": {
+        "temperature": "120 ℃",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "4 mL"
+          },
+          {
+            "name": "acetic acid (HAc)",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "6-dram vial",
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "60 mg"
+          },
+          {
+            "name": "L3",
+            "amount": "30 mg"
+          }
+        ],
+        "time": "2 days",
+        "yield": "60% based on L3"
+      }
+    },
+    {
+      "name": "NU-913-TFA",
+      "synthesis_conditions": {
+        "temperature": "120 ℃",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "10 mL"
+          },
+          {
+            "name": "trifluoroacetic acid (TFA)",
+            "amount": "1 mL"
+          }
+        ],
+        "equipment": "6-dram vial",
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "60 mg"
+          },
+          {
+            "name": "L3",
+            "amount": "30 mg"
+          }
+        ],
+        "time": "2 days",
+        "yield": "75% based on L3"
+      }
+    },
+    {
+      "name": "NU-602",
+      "synthesis_conditions": {
+        "temperature": "120 ℃",
+        "solvents": [
+          {
+            "name": "N,N-diethylformamide (DEF)",
+            "amount": "1 mL"
+          },
+          {
+            "name": "acetic acid (HAc)",
+            "amount": "500 μL"
+          }
+        ],
+        "equipment": "1.5-dram vial",
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "10 mg"
+          },
+          {
+            "name": "L3",
+            "amount": "10 mg"
+          }
+        ],
+        "time": "2 days",
+        "yield": "89% based on L3"
+      }
+    }
+  ]
+}

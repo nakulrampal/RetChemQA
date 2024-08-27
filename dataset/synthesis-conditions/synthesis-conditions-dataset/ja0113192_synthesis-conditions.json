@@ -1,0 +1,279 @@
+{
+  "materials": [
+    {
+      "material": "1a·8H2O",
+      "synthesis": {
+        "temperature": "hot",
+        "solvents": [
+          {
+            "name": "aqueous solution",
+            "amount": "20 mL"
+          },
+          {
+            "name": "ethylene glycol solution",
+            "amount": "40 mL"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "Cu(BF4)2·xH2O",
+            "amount": "266 mg, 1.12 mmol"
+          },
+          {
+            "name": "(NH4)2SiF6",
+            "amount": "199 mg, 1.12 mmol"
+          },
+          {
+            "name": "4,4‘-bpy",
+            "amount": "350 mg, 2.24 mmol"
+          }
+        ],
+        "washing_method": "MeOH",
+        "drying_method": "air",
+        "yield": "579 mg, 88%",
+        "additional_information": "This compound easily released the guest H2O molecules to form a partially dehydrated compound. The crystals suitable for the X-ray analysis were obtained by diffusing an EtOH solution of 4,4‘-bpy to an aqueous solution of Cu(BF4)2·xH2O and (NH4)SiF6 in a straight glass tube. Purple crystals of 1a·8H2O were obtained together with sky-blue crystals of 1b after a few weeks."
+      }
+    },
+    {
+      "material": "1b",
+      "synthesis": {
+        "temperature": "hot",
+        "solvents": [
+          {
+            "name": "aqueous solution",
+            "amount": "10 mL"
+          },
+          {
+            "name": "aqueous solution",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "Cu(BF4)2·xH2O",
+            "amount": "237 mg, 1.00 mmol"
+          },
+          {
+            "name": "(NH4)2SiF6",
+            "amount": "178 mg, 1.00 mmol"
+          },
+          {
+            "name": "4,4‘-bpy",
+            "amount": "312 mg, 2.00 mmol"
+          }
+        ],
+        "washing_method": "acetone",
+        "drying_method": "air",
+        "yield": "362 mg, 61%",
+        "additional_information": "The crystals suitable for the X-ray analysis were obtained by the same method as 1a·8H2O."
+      }
+    },
+    {
+      "material": "2a·8H2O and 2b",
+      "synthesis": {
+        "temperature": "similar to 1a·8H2O and 1b",
+        "yield": "65 and 62%, respectively",
+        "additional_information": "These compounds were prepared by a procedure similar to that of 1a·8H2O and 1b."
+      }
+    },
+    {
+      "material": "3·2H2O·4EtOH",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "EtOH solution",
+            "amount": "10 mL"
+          },
+          {
+            "name": "aqueous solution",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "4,4‘-bpy",
+            "amount": "390 mg, 2.50 mmol"
+          },
+          {
+            "name": "Cu(BF4)2·xH2O",
+            "amount": "237 mg, 1.00 mmol"
+          },
+          {
+            "name": "NH4PF6",
+            "amount": "326 mg, 2.00 mmol"
+          }
+        ],
+        "washing_method": "EtOH",
+        "drying_method": "air",
+        "yield": "85 mg, 10%",
+        "additional_information": "Purple single crystals of 3·2H2O·4EtOH were obtained after a few days and collected. They were washed with EtOH and dried in air."
+      }
+    },
+    {
+      "material": "4·2H2O·4EtOH",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "EtOH solution",
+            "amount": "10 mL"
+          },
+          {
+            "name": "aqueous solution",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "4,4‘-bpy",
+            "amount": "390 mg, 2.50 mmol"
+          },
+          {
+            "name": "Cu(ClO4)2·6H2O",
+            "amount": "370 mg, 1.00 mmol"
+          },
+          {
+            "name": "NH4PF6",
+            "amount": "326 mg, 2.00 mmol"
+          }
+        ],
+        "washing_method": "EtOH",
+        "drying_method": "air",
+        "yield": "131 mg, 17%",
+        "additional_information": "Purple single crystals of 4·2H2O·4EtOH were obtained after a few days and collected. They were washed with EtOH and dried in air."
+      }
+    },
+    {
+      "material": "5·2PF6·2H2O",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "EtOH solution",
+            "amount": "20 mL"
+          },
+          {
+            "name": "aqueous solution",
+            "amount": "20 mL"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "4,4‘-bpy",
+            "amount": "312 mg, 2.00 mmol"
+          },
+          {
+            "name": "Cu(NO3)2·3H2O",
+            "amount": "242 mg, 1.00 mmol"
+          },
+          {
+            "name": "NH4PF6",
+            "amount": "326 mg, 2 mmol"
+          }
+        ],
+        "washing_method": "EtOH",
+        "drying_method": "air",
+        "yield": "150 mg, 23%",
+        "additional_information": "Purple single crystals were obtained after a few days and collected. They were washed with EtOH and dried in air."
+      }
+    },
+    {
+      "material": "6·2MeCN",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "MeCN solution",
+            "amount": "10 mL"
+          },
+          {
+            "name": "aqueous solution",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "4,4‘-bpy",
+            "amount": "312 mg, 2.00 mmol"
+          },
+          {
+            "name": "Cu(BF4)2·xH2O",
+            "amount": "237 mg, 1.00 mmol"
+          },
+          {
+            "name": "NH4PF6",
+            "amount": "326 mg, 2.00 mmol"
+          }
+        ],
+        "washing_method": "MeCN",
+        "drying_method": "air",
+        "yield": "132 mg, 17%",
+        "additional_information": "Purple single crystals of 6·2MeCN were obtained after a few days and collected. They were washed with MeCN and dried in air."
+      }
+    },
+    {
+      "material": "7",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "MeOH solution",
+            "amount": "10 mL"
+          },
+          {
+            "name": "MeOH solution",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "4,4‘-bpy",
+            "amount": "312 mg, 2.00 mmol"
+          },
+          {
+            "name": "Cu(BF4)2·xH2O",
+            "amount": "237 mg, 1.00 mmol"
+          },
+          {
+            "name": "NH4PF6",
+            "amount": "326 mg, 2.00 mmol"
+          }
+        ],
+        "washing_method": "MeOH",
+        "drying_method": "air",
+        "yield": "144 mg, 22%"
+      }
+    },
+    {
+      "material": "8·2H2O",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "MeOH solution",
+            "amount": "10 mL"
+          },
+          {
+            "name": "aqueous solution",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "4,4‘-bpy",
+            "amount": "156 mg, 1.00 mmol"
+          },
+          {
+            "name": "CuSO4·5H2O",
+            "amount": "250 mg, 1.00 mmol"
+          }
+        ],
+        "washing_method": "H2O and MeOH",
+        "drying_method": "vacuum",
+        "yield": "363 mg, 89%",
+        "additional_information": "The obtained sky-blue powder was filtered, washed with H2O and MeOH, and dried under vacuum for 2 h to give the microcrystals."
+      }
+    },
+    {
+      "material": "9",
+      "synthesis": {
+        "additional_information": "This compound was obtained by the anion-exchange reaction with 1b. An excess amount of NH4PF6 was added to 1b in an aqueous solution. After 3 days, a solution color changed from sky-blue to purple, and the resultant precipitate was filtered, washed with H2O and acetone, and dried under vacuum for 2 h."
+      }
+    }
+  ]
+}

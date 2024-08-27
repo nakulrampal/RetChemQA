@@ -1,0 +1,58 @@
+{
+  "materials": [
+    {
+      "name": "C6H6@MAF-42-lp",
+      "synthesis_conditions": {
+        "temperature": "160 °C",
+        "solvents": ["aqueous ammonia", "methanol", "benzene"],
+        "amount_of_each_solvent": {
+          "aqueous_ammonia": "4 ml",
+          "methanol": "3.0 ml",
+          "benzene": "1.0 ml"
+        },
+        "equipment": "15-ml Teflon-lined stainless reactor",
+        "chemicals_used": ["H2btm", "[Cu(NH3)2]OH"],
+        "time": "72 h",
+        "yield": "ca 83%",
+        "drying_method": "air dried"
+      }
+    },
+    {
+      "name": "MAF-42",
+      "synthesis_conditions": {
+        "temperature": "260 °C",
+        "equipment": "high vacuum",
+        "time": "24 h",
+        "drying_method": "high vacuum",
+        "additional_information": "Guest-free MAF-42 obtained by heating C6H6@MAF-42-lp"
+      }
+    },
+    {
+      "name": "Oxidized samples (O53, O74, O100)",
+      "synthesis_conditions": {
+        "temperature": "418 K",
+        "equipment": "O2 flow",
+        "time": "Variable, up to 8000 min for complete oxidation",
+        "yield": "quantitative",
+        "additional_information": "Oxidation degree can be controlled by heating time"
+      }
+    },
+    {
+      "name": "Reduced sample of O100",
+      "synthesis_conditions": {
+        "solvents": ["aqueous ammonia", "water", "benzene"],
+        "amount_of_each_solvent": {
+          "aqueous_ammonia": "2 mL",
+          "water": "2.0 mL",
+          "benzene": "1.0 mL"
+        },
+        "chemicals_used": ["hydrazine"],
+        "equipment": "15-mL Teflon-lined stainless reactor",
+        "temperature": "100 °C",
+        "time": "12 h",
+        "yield": "ca. 98%",
+        "additional_information": "Used to reduce oxidized sample back to C6H6@MAF-42-lp"
+      }
+    }
+  ]
+}

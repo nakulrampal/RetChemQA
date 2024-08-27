@@ -1,0 +1,81 @@
+{
+  "materials": [
+    {
+      "name": "[Ag(pytz)(NO3)]n",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "MeCN",
+            "amount": "3 mL"
+          },
+          {
+            "name": "CH2Cl2",
+            "amount": "10 mL"
+          }
+        ],
+        "equipment": "not specified",
+        "chemicals_used": [
+          {
+            "name": "AgNO3",
+            "amount": "0.0365 g, 0.2 mmol"
+          },
+          {
+            "name": "pytz",
+            "amount": "0.0505 g, 0.214 mmol"
+          }
+        ],
+        "time": "two days",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "[Ag(pytz)(PF6)(MeCN)]n",
+      "synthesis_conditions": {
+        "temperature": "not specified",
+        "solvents": [
+          {
+            "name": "not specified",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "not specified",
+        "chemicals_used": [
+          {
+            "name": "AgPF6",
+            "amount": "0.0522 g, 0.207 mmol"
+          }
+        ],
+        "time": "similar to [Ag(pytz)(NO3)]n",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "[Ag(pytz)(BF4)(MeCN)]n",
+      "synthesis_conditions": {
+        "temperature": "not specified",
+        "solvents": [
+          {
+            "name": "not specified",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "not specified",
+        "chemicals_used": [
+          {
+            "name": "AgBF4",
+            "amount": "0.0406 g, 0.209 mmol"
+          }
+        ],
+        "time": "similar to [Ag(pytz)(NO3)]n",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified"
+      }
+    }
+  ]
+}

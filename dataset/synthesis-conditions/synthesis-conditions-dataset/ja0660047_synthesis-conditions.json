@@ -1,0 +1,47 @@
+{
+  "materials": [
+    {
+      "name": "1⊃MeOH",
+      "synthesis_conditions": {
+        "temperature": "293 K",
+        "solvents": [
+          {
+            "name": "MeOH",
+            "amount": "50 ml for layering solution",
+            "amount_bulk": "100 ml for bulk product"
+          }
+        ],
+        "equipment": "Schlenk technique under N2 atmosphere",
+        "chemicals_used": [
+          {
+            "name": "LiTCNQ",
+            "amount": "0.2 mmol, 42 mg for single crystal; 0.3 mmol, 69.6 mg for bulk"
+          },
+          {
+            "name": "bpy",
+            "amount": "0.2 mmol, 31 mg for single crystal; 0.3 mmol, 51.5 mg for bulk"
+          },
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "0.2 mmol, 59.5 mg for single crystal; 0.3 mmol, 98.3 mg for bulk"
+          }
+        ],
+        "time": "A few weeks for single crystal formation",
+        "washing_method": "Washed with fresh MeOH",
+        "drying_method": "Not specified",
+        "yield": "Approximately 10%"
+      }
+    },
+    {
+      "name": "1⊃benzene",
+      "synthesis_conditions": {
+        "guest_exchange_method": "Single crystal of 1⊃MeOH was immersed into about 2 ml of benzene for ten seconds, resulting in a color change from yellow to red.",
+        "characterization_methods": {
+          "XRPD": "Indicates 1⊃MeOH dissimilar to that of 1⊃benzene.",
+          "1H NMR": "No peak assigned to TCNQ and bpy, indicating no dissolution of the crystal.",
+          "ESR": "Broad singlet observed, total integrated intensity of the peaks corresponded to 0.1% of the amount of the TCNQ moiety in the sample."
+        }
+      }
+    }
+  ]
+}

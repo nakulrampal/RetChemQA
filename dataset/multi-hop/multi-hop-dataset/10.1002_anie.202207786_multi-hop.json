@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the primary goal of the linker scissoring strategy in MOF synthesis?",
+      "answer": "The primary goal of the linker scissoring strategy in MOF synthesis is to precisely shape MOFs through surface conformational pairing, allowing for controlled growth on specific MOF facets to achieve desired shapes.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the addition of bidentate linkers influence the shape of PCN-608?",
+      "answer": "The addition of bidentate linkers influences the shape of PCN-608 by capping specific facets and controlling the growth direction, leading to the formation of either nanoplates or nanorods depending on the linker used.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What role do the LB-1 and LB-2 modulators play in the synthesis of PCN-NPs and PCN-NRs?",
+      "answer": "LB-1 modulators cap the {001} facets and slow down growth along [001] directions to form PCN-NPs, while LB-2 modulators slow down growth along [010], [-110], and [100] directions to form PCN-NRs with higher aspect ratios.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the aspect ratio of PCN-NRs change with the molar ratio of LB-2 ligand?",
+      "answer": "The aspect ratio of PCN-NRs increases with the molar ratio of LB-2 ligand, indicating that higher concentrations of LB-2 lead to longer nanorods.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of the linker scissoring strategy on the separation performance of MOF-based gas chromatography stationary phases?",
+      "answer": "The linker scissoring strategy affects the separation performance by controlling the shape and thus the diffusion paths of MOFs, with PCN-NRs showing better performance for weak thermodynamic interaction materials and NU-NPs for strong interaction materials.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Why do PCN-NPs exhibit poor separation performance compared to PCN-NRs in gas chromatography?",
+      "answer": "PCN-NPs exhibit poor separation performance due to shorter diffusion paths that limit the balance between thermodynamic interactions and kinetic diffusions, leading to random diffusion and less efficient separation.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the relationship between the shape of MOFs and their gas separation performance?",
+      "answer": "The shape of MOFs, controlled by the linker scissoring strategy, directly influences their gas separation performance by affecting the balance between thermodynamic interactions and kinetic diffusions, with different shapes offering optimal performance for different types of interactions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the linker scissoring strategy demonstrate universality in MOF synthesis?",
+      "answer": "The universality of the linker scissoring strategy is demonstrated by its successful application in controlling the shapes of both PCN and NU-MOFs, indicating its effectiveness across different MOF systems.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What factors contribute to the different separation performances of PCN-NPs and PCN-NRs?",
+      "answer": "The different separation performances of PCN-NPs and PCN-NRs are contributed by their shapes affecting diffusion lengths and the balance between thermodynamic interactions and kinetic diffusions, with PCN-NRs offering better performance due to longer diffusion paths.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why do NU-NPs exhibit better separation performance than NU-NRs for materials with strong thermodynamic interactions?",
+      "answer": "NU-NPs exhibit better separation performance than NU-NRs for materials with strong thermodynamic interactions because their shorter diffusion paths are sufficient to balance the strong interactions and kinetic diffusions, leading to more efficient separation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the concentration of LB-1 modulators affect the thickness of PCN-NPs?",
+      "answer": "The concentration of LB-1 modulators negatively correlates with the thickness of PCN-NPs, meaning higher concentrations of LB-1 lead to thinner nanoplates.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What challenges does the linker scissoring strategy address in MOF synthesis?",
+      "answer": "The linker scissoring strategy addresses the challenges of precisely controlling MOF shapes without introducing phase impurities and overcoming the limitations of designability and determinacy in forming MOF shapes.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The linker scissoring strategy can only be applied to PCN-608 MOFs.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The addition of LB-2 modulators always results in the formation of nanoplates.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The aspect ratio of PCN-NRs is negatively correlated with the molar ratio of LB-2 modulator.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: PCN-NPs and PCN-NRs exhibit the same separation performance in gas chromatography.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The linker scissoring strategy leads to MOFs with controlled shapes by capping specific facets with bidentate modulators.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The separation performance of MOF-based stationary phases is unaffected by the shape of the MOFs.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: Higher concentrations of LB-1 modulators lead to thicker PCN-NPs.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The linker scissoring strategy is ineffective in controlling the aspect ratio of PCN-NRs.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

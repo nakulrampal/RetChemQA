@@ -1,0 +1,83 @@
+{
+  "materials": [
+    {
+      "name": "derivatives 10-18",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvent": "CH2Cl2",
+        "mixture_ratio": "1:1 mixtures of the molecular clip A and linkers 1-9",
+        "crystallization_method": "pentane diffusion into CH2Cl2 crude solutions",
+        "form": "air-stable polycrystalline powders",
+        "yield": "good yields",
+        "solubility": "readily soluble in chlorinated solvents",
+        "NMR_solvent": "CD2Cl2",
+        "infrared_spectra": {
+          "n(C/N)_coordinated_groups": "2275 cm-1",
+          "n(C/N)_free_FA_linkers": "2245 cm-1"
+        }
+      }
+    },
+    {
+      "name": "derivative 10",
+      "synthesis_conditions": {
+        "description": "tetracationic metallacycle resulting from the coordination of two equivalents of the short FA linker 1 to two molecular clips A",
+        "structure": "compact discrete cyclic assembly without free space or guest molecules inside the metallacycle"
+      }
+    },
+    {
+      "name": "derivatives 11 and 12",
+      "synthesis_conditions": {
+        "description": "1D CPs obtained selectively when linkers 2 and 3 were treated with A",
+        "structure": "zig-zag 1D CPs with coordination at two consecutive CuI2(B)2 fragments by two linkers having a relatively divergent orientation"
+      }
+    },
+    {
+      "name": "derivative 13",
+      "synthesis_conditions": {
+        "description": "discrete “open” tetrametallic supramolecular assembly obtained with linker 4",
+        "note": "Attempts to force full substitution of the acetonitrile ligands of the CuI metal centers of A by treating it with a large excess of ligand 4 always resulted in the isolation of derivative 13 upon crystallization."
+      }
+    },
+    {
+      "name": "derivatives 14a and 14b",
+      "synthesis_conditions": {
+        "description": "obtained from the reaction of A with linker 5",
+        "forms": {
+          "14a": "1D CP with 'gauche' conformation and divergent relative orientation of aliphatic fragments",
+          "14b": "compact metallacycle with mostly parallel aliphatic fragments in an 'eclipsed' configuration"
+        },
+        "yield": "nearly equal amounts and in overall good yield"
+      }
+    },
+    {
+      "name": "derivatives 15, 16, and 17",
+      "synthesis_conditions": {
+        "description": "compact metallacycles obtained selectively from linkers 6, 7, and 8 respectively",
+        "structure": {
+          "15 and 16": "aliphatic fragments mostly parallel with a gross 'eclipsed' configuration",
+          "17": "aliphatic backbones present a roughly 'gauche' configuration with opposite orientations toward the center of the metallacycle, including a narrow cavity"
+        }
+      }
+    },
+    {
+      "name": "derivative 18",
+      "synthesis_conditions": {
+        "description": "1D CP formed selectively with the NC@(CH2)12@CN ditopic linker 9",
+        "structure": "comparable organization to assemblies 11, 12, and 14a but with extended solid-state organization forming dimers in the solid state"
+      }
+    },
+    {
+      "name": "derivatives 19 and 20",
+      "synthesis_conditions": {
+        "description": "new discrete compact supramolecular assemblies obtained by treating bimetallic preassembled CuI precursors E and F with linkers 6 and 4 respectively",
+        "yield": {
+          "20": "moderate yield"
+        },
+        "structure": {
+          "19": "similar organization to the free precursor E with comparable metric parameters to assembly 15",
+          "20": "comprises three FA linkers 4 and two CuI2(dppm)2 fragments, each linker coordinated to one metal center of each of the CuI2(dppm)2 fragments"
+        }
+      }
+    }
+  ]
+}

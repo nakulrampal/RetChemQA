@@ -1,0 +1,53 @@
+{
+  "materials": [
+    {
+      "name": "pTSPA",
+      "synthesis_conditions": {
+        "temperature": "-78 °C",
+        "solvents": ["dry CO2 gas"],
+        "equipment": ["lithiation of the dibromide precursor pTSPB"],
+        "yield": "79%"
+      }
+    },
+    {
+      "name": "TSiMOF",
+      "synthesis_conditions": {
+        "temperature": "60 °C",
+        "solvents": ["DMF", "CH3OH"],
+        "solvent_amounts": ["1:1 molar ratio with bpe and Zn(NO3)2·6 H2O"],
+        "chemicals_used": ["pTSPA", "bpe (1,2-di(pyridin-4-yl)ethene)", "Zn(NO3)2·6 H2O"],
+        "time": "48 h",
+        "drying_method": "activation",
+        "yield": "colorless block crystals"
+      }
+    },
+    {
+      "name": "eTSiMOF",
+      "synthesis_conditions": {
+        "method": "exfoliated into novel 2D micro/nanosheets by a freeze–thaw approach",
+        "thickness": "ca. 35–100 nm",
+        "thermal_stability": "over 300 °C",
+        "porosity": "Type-Ι isotherm",
+        "BET_surface_area": "ca. 215 m2 g-1",
+        "main_pore_size_distribution": "1.59 nm"
+      }
+    },
+    {
+      "name": "Zn-TSiMOF",
+      "synthesis_conditions": {
+        "method": "fabricated into MOF films on Zn metal plates",
+        "time": "12 h",
+        "additional_conditions": ["using the acidified Zn plate or added Zn(NO3)2 as metal source"],
+        "water_contact_angle": "150.8°"
+      }
+    },
+    {
+      "name": "Zn2-TSiMOF",
+      "synthesis_conditions": {
+        "method": "fabricated into MOF films on Zn metal plates with added Zn(NO3)2 as metal source",
+        "time": "12 h",
+        "water_contact_angle": "146.2°"
+      }
+    }
+  ]
+}

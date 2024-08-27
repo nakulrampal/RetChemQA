@@ -1,0 +1,106 @@
+{
+  "materials": [
+    {
+      "name": "3,5-Dimethyl-4-carboxypyrazole (H2dmcapz)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "50 mL"
+          },
+          {
+            "name": "water",
+            "amount": "50 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ethyl diacetoacetate",
+            "amount": "5 mL (26 mmol)"
+          },
+          {
+            "name": "hydrazine (50-60% hydrated)",
+            "amount": "2 mL"
+          },
+          {
+            "name": "HCl (37%)",
+            "amount": "3 mL"
+          },
+          {
+            "name": "solid NaOH",
+            "amount": "until pH 7-9"
+          }
+        ],
+        "temperature": "reflux for 30 minutes; reflux in aqueous NaOH overnight",
+        "yield": "2.1 g, 58%"
+      }
+    },
+    {
+      "name": "[Zn4O(dmcapz)3] (1)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "ethanol:water",
+            "ratio": "1:24",
+            "amount": "400 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H2dmcapz",
+            "amount": "4.2 g (30 mmol)"
+          },
+          {
+            "name": "triethylamine",
+            "amount": "8.3 mL (60 mmol)"
+          },
+          {
+            "name": "Zn(NO3)2·4H2O",
+            "amount": "7.83 g (30 mmol)"
+          }
+        ],
+        "temperature": "reflux for 4 h",
+        "yield": "6.0 g, 91.8%"
+      }
+    },
+    {
+      "name": "[Zn3(OH)2(dmcapz)2] (2)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "20 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[Zn4O(dmcapz)3] (1)",
+            "amount": "200 mg"
+          }
+        ],
+        "temperature": "80 °C for 8 h",
+        "yield": "after 8 h, white microcrystalline powder was recovered"
+      }
+    },
+    {
+      "name": "Mechanical Stress Tests on [Zn4O(dmcapz)3] (1), [Cu3(btc)2] HKUST-1, and [Cr3F(H2O)2O(bdc)3] MIL-101(Cr)",
+      "synthesis_conditions": {
+        "equipment": "pellets fabricated with 100 mg of the original sample",
+        "pressure_applied": "up to 0.2 GPa",
+        "characterization_methods": [
+          "XRPD",
+          "N2 adsorption isotherm at 77 K"
+        ]
+      }
+    },
+    {
+      "name": "Dynamic Gas Adsorption Experiments on [Zn4O(dmcapz)3] (1), [Cu3(btc)2] HKUST-1, and CarboxenTM",
+      "synthesis_conditions": {
+        "equipment": "Gas Chromatograph and a 15 cm-column",
+        "temperature_range": "313 K-513 K",
+        "gas_flow": "10 mL min-1 He flux containing 130 ppm of benzene",
+        "additional_information": "For [Zn4O(dmcapz)3] (1) and HKUST-1, particles were aggregated with starch in water suspension at 343 K for 2 minutes before testing"
+      }
+    }
+  ]
+}

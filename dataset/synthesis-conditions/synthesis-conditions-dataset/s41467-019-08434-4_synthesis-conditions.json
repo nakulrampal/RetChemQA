@@ -1,0 +1,41 @@
+{
+  "materials": [
+    {
+      "name": "Zr-PDI",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "10 mL"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "0.45 mL"
+          }
+        ],
+        "equipment": "20 mL bottle with cap",
+        "chemicals_used": [
+          {
+            "name": "P-2COOH",
+            "amount": "13.8 mg, 0.018 mmol"
+          },
+          {
+            "name": "ZrCl4",
+            "amount": "4.3 mg, 0.018 mmol"
+          }
+        ],
+        "time": "3 days",
+        "washing_method": "washed with chloroform for three times",
+        "drying_method": "dried at vacuum",
+        "yield": "58% (based on P-2COOH)"
+      }
+    },
+    {
+      "name": "Zr-PDI(cid:129)−",
+      "synthesis_conditions": {
+        "additional_information": "Upon irradiation with blue light (455 nm) in the presence of TEA vapor, the red Zr-PDI powder turned black in 10 min. The absorption spectrum of Zr-PDI(cid:129)− displays three new peaks at 778, 917, and 1008 nm, characteristic peaks of PDI(cid:129)− produced by PET."
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "materials": [
+    {
+      "name": "FJI-H16",
+      "synthesis_conditions": {
+        "temperature": "85-88°C",
+        "time": "3 days",
+        "solvents": [
+          {
+            "name": "DEF/EtOH solution",
+            "amount": null
+          }
+        ],
+        "chemicals_used": [
+          "Zn(NO3)2",
+          "Cd(NO3)2",
+          "H3BTB"
+        ],
+        "equipment": "Solvothermal reaction"
+      }
+    },
+    {
+      "name": "FJI-H27",
+      "synthesis_conditions": {
+        "temperature": "85-88°C",
+        "time": "3 days",
+        "solvents": [
+          {
+            "name": "DEF/EtOH solution",
+            "amount": null
+          }
+        ],
+        "chemicals_used": [
+          "Zn(NO3)2",
+          "Cd(NO3)2",
+          "H3BTB",
+          "pyridine"
+        ],
+        "equipment": "Solvothermal reaction",
+        "additional_information": "The amount of pyridine affects the formation of FJI-H27, with a range from no induction (<0.12 mmol pyridine) to partial induction (0.19 mmol pyridine) to complete induction (>0.37 mmol pyridine)."
+      }
+    },
+    {
+      "name": "FJI-H28",
+      "synthesis_conditions": {
+        "temperature": "65°C",
+        "solvents": [
+          {
+            "name": "DEF",
+            "amount": null
+          }
+        ],
+        "chemicals_used": [
+          "Zn(NO3)2",
+          "Cd(NO3)2",
+          "H3BTB",
+          "pyridine"
+        ],
+        "equipment": "Solvothermal reaction",
+        "additional_information": "FJI-H28 is identified as a key intermediate in the chiral generation process."
+      }
+    },
+    {
+      "name": "FJI-H27 (M) or (P)",
+      "synthesis_conditions": {
+        "temperature": "55-88°C",
+        "solvents": [
+          {
+            "name": "DEF/EtOH solution",
+            "amount": null
+          }
+        ],
+        "chemicals_used": [
+          "Zn(NO3)2",
+          "Cd(NO3)2",
+          "H3BTB",
+          "pyridine"
+        ],
+        "equipment": "Solvothermal reaction",
+        "additional_information": "The chiral orientation and distribution of bulk FJI-H27 samples can be controlled by targeted modification of pyridine."
+      }
+    }
+  ]
+}

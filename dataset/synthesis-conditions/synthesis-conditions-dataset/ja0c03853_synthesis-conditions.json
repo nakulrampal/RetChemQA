@@ -1,0 +1,98 @@
+{
+  "materials": [
+    {
+      "name": "ZnGlyPyr•(DMF)",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": "DMF (10 mL)",
+        "chemicals_used": [
+          {
+            "chemical": "H2GlyPyr",
+            "amount": "50 mg",
+            "molarity": "0.296 mmol"
+          },
+          {
+            "chemical": "Zn(NO3)2•6H2O",
+            "amount": "104 mg",
+            "molarity": "0.35 mmol"
+          }
+        ],
+        "time": "48 h",
+        "yield": "73.5 mg (77.6%)",
+        "washing_method": "washed with warm DMF",
+        "drying_method": "briefly dried in air"
+      }
+    },
+    {
+      "name": "ZnAlaPyr•(DMF)",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "DMF (5 mL)",
+        "chemicals_used": [
+          {
+            "chemical": "L-H2AlaPyr",
+            "amount": "20 mg",
+            "molarity": "0.109 mmol"
+          },
+          {
+            "chemical": "Zn(NO3)2•6H2O",
+            "amount": "39 mg",
+            "molarity": "0.131 mmol"
+          },
+          {
+            "chemical": "HCl (aq.)",
+            "amount": "2M, 0.06 mL"
+          }
+        ],
+        "time": "96 h",
+        "yield": "22.2 mg (65%)",
+        "washing_method": "washed with warm DMF",
+        "drying_method": "briefly dried in air"
+      }
+    },
+    {
+      "name": "ZnGlyPyr with various solvents",
+      "synthesis_conditions": {
+        "solvent_exchange_procedure": "The as-synthesized ZnGlyPyr•(DMF) was exchanged with 20 mL of another pure solvent under stirring for 24 h at room temperature."
+      }
+    },
+    {
+      "name": "ZnAlaPyr with various solvents",
+      "synthesis_conditions": {
+        "solvent_exchange_procedure": "The as-synthesized ZnAlaPyr•(DMF) was exchanged with 20 mL of another pure solvent under stirring for 24 h at room temperature."
+      }
+    },
+    {
+      "name": "Desolvated ZnGlyPyr",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "time": "16 h",
+        "drying_method": "under high vacuum (10-6 mbar)"
+      }
+    },
+    {
+      "name": "Desolvated ZnAlaPyr",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "time": "16 h",
+        "drying_method": "under high vacuum (10-6 mbar)"
+      }
+    },
+    {
+      "name": "ZnGlyPyr with CO2 adsorption",
+      "synthesis_conditions": {
+        "temperature": "195 K",
+        "pressure_variations": "vacuum to 1000 mbar of CO2",
+        "time": "equilibration for at least 30 mins prior to measurement at any one pressure"
+      }
+    },
+    {
+      "name": "ZnAlaPyr with CO2 adsorption",
+      "synthesis_conditions": {
+        "temperature": "195 K",
+        "pressure_variations": "vacuum to 1000 mbar of CO2",
+        "time": "equilibration for at least 30 mins prior to measurement at any one pressure"
+      }
+    }
+  ]
+}

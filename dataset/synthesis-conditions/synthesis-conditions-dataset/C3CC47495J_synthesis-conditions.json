@@ -1,0 +1,64 @@
+{
+  "ZIF-8_crystals_synthesis": {
+    "chemicals_used": {
+      "zinc_nitrate_tetrahydrate": "0.210 g",
+      "2-methylimidazole": "0.060 g",
+      "DMF": "18 ml"
+    },
+    "equipment": "20-ml vial, programmable oven",
+    "temperature": "140°C",
+    "time": "24 h",
+    "cooling_rate": "0.4°C/min",
+    "washing_method": "washed with DMF, then exchanged with methanol for 24 hours"
+  },
+  "ZIF-8_membrane_fabrication": {
+    "substrate_preparation": {
+      "materials": "alumina substrates",
+      "cleaning_method": "washed with water",
+      "drying_temperature": "140°C"
+    },
+    "growth_cycles": {
+      "metal_ions_solution_immersion_time": "90 seconds",
+      "organic_ligand_solution_immersion_time": "120 seconds",
+      "washing": "washed with fresh solvent",
+      "number_of_cycles": "150 cycles for homogeneous deposition",
+      "drying_method": "allowed to dry slowly in ambient air overnight"
+    }
+  },
+  "Characterization_methods": {
+    "X-ray_powder_diffraction": {
+      "equipment": "Panalytical X’pert PRO MPD X-ray Diffractometer",
+      "radiation": "Cu Kα radiation (λ = 0.15418 nm, 45 kV, 40 mA)"
+    },
+    "Gas_sorption_measurements": {
+      "equipment": "Autosorb-1C (Quantachrome Instruments)",
+      "temperature_control": "liquid nitrogen bath at 77 K",
+      "BET_model_application_pressure_range": "0.015 to 0.046 P/P0"
+    },
+    "SEM": {
+      "equipment": "FEI Quanta 600 field emission scanning electron microscope",
+      "accelerating_voltage": "30 kV"
+    }
+  },
+  "Permeability_analysis": {
+    "Pure_Gas_Permeation_Measurements": {
+      "equipment": "constant-volume/variable-pressure (CV/VP) apparatus",
+      "feed_pressure": "2 bar",
+      "temperature": "35°C",
+      "permeability_coefficient_calculation": "based on steady-state rate of permeate pressure rise"
+    },
+    "Mixed_Gas_Permeation_Measurements": {
+      "feed_gas_mixtures": ["50/50 C3H6/C3H8", "75/25 CH4/n-C4H10"],
+      "feed_pressure": "2.7 bar (40 psi)",
+      "temperature": "35°C",
+      "permeability_coefficient_calculation": "based on molar fractions in the permeate and feed"
+    }
+  },
+  "Adsorption_and_kinetics": {
+    "equipment": "Rubotherm gravimetric-densimetric apparatus",
+    "temperature_range": "77 K to 423 K",
+    "pressure_range": "0 to 20 MPa",
+    "sample_preparation": "outgassed at 423 K at a residual pressure 10-6 mbar",
+    "adsorption_experiments": "performed using probe molecules such as H2, N2, O2, CH4, CO2, C2H4, C2H6, C3H6, C3H8, and n-C4H10 at 308 K"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What are the synthesis conditions for 1S·NB and 1R·NB?",
+      "answer": "A 5 mL methanol solution of 0.4 mmol of Co(NO3)2·6H2O (120 mg) and 0.4 mmol of enantiopure mandelic acid (S isomer for 1S and R isomer for 1R, 60.8 mg) was layered above a 5 mL nitrobenzene (NB) solution of 0.3 mmol of bpy (46.8 mg). A 5 mL 1:1 methanol/nitrobenzene buffer solution was layered between the top and bottom layers to allow slow diffusion for 7 days. Red rectangular prismatic crystals were obtained in approximately 50% yield.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How were the solvent-exchanged variants 1S·guest and 1R·guest synthesized?",
+      "answer": "Crystals of as-synthesized 1S·NB and 1R·NB were exchanged with DCM daily for 5 days, affording 1S·DCM and 1R·DCM. Desolvated 1S and 1R were obtained from 1S·DCM and 1R·DCM, respectively, under vacuum. 1S·CH and 1R·CH were prepared by immersing crystals of 1S and 1R, respectively, in cyclohexane (CH) for 7 days. Single crystals of 1S·PPex were prepared by soaking 1S·DCM in racemic PP for 7 days. Another variant, 1S·PPex′, was prepared by soaking desolvated 1S in racemic PP in the presence of 200 μL of 90% MeOH/H2O for 5 days.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the effect of temperature on the resolution of PP by 1S·DCM and 1R·DCM?",
+      "answer": "When the resolution of PP was conducted at 40 °C, the ee values remained at approximately 26% from 1 day to 5 days. However, the loading of PP started to decrease after only 3 days, indicating that 5 days at room temperature are optimal conditions for conducting separations since slow amorphization thereafter reduces the loading.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of 1S·NB and 1R·NB involves the use of enantiopure mandelic acid.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role do DCM and water/methanol molecules play in the enantioselectivity of 1S towards racemic PP?",
+      "answer": "DCM and water/methanol molecules play an important role in affecting the shape of the binding sites for PP. Specifically, the DCM molecule compresses the width of the cavity and prevents the phenyl group from aligning perpendicular to the bc plane, while the water/methanol molecule reduces the length of the cavity and prevents the phenyl group from lying parallel to the bc plane. This results in higher enantioselectivity for the third PP in 1S·PPex′.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The highest ee value observed for the resolution of PP by 1S and 1R was 60%.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the crystallographic studies conducted on 1S·PPex and 1S·PPex′?",
+      "answer": "The crystallographic studies conducted on 1S·PPex and 1S·PPex′ provided insight into the nature of the interactions between various guest molecules and the pore surfaces of 1S and 1R. These studies revealed how the orientation and interactions of PP molecules within the binding sites contribute to the enantioselectivity observed in the resolution of racemic PP.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of 1S·NB and 1R·NB does not require a buffer solution.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the presence of additives affect the resolution of PP by desolvated 1S and 1R?",
+      "answer": "The presence of MeOH/H2O as additives in the resolution of PP by desolvated 1S and 1R showed that as the amount of MeOH/H2O was increased, the ee values remained largely unchanged, but the loading of PP decreased. This indicates competition for the PP guest binding sites from MeOH/H2O, accelerated amorphization, or both. The highest ee value (60%) was observed with 200 μL of 90% MeOH/H2O, but the loading was only 33%.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of solvent-exchanged variants 1S·guest and 1R·guest involves a layering technique.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

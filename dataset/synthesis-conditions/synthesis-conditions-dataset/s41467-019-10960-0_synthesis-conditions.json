@@ -1,0 +1,36 @@
+{
+  "CAU-23": {
+    "synthesis_conditions": {
+      "temperature": "reflux conditions at ambient pressure",
+      "solvents": "distilled water",
+      "amount_of_solvent": "100 mL for Na2TDC solution, 18.75 mL of aqueous aluminum chloride solution (1 mol/L), 12.5 mL of aqueous sodium aluminate solution (0.5 mol/L)",
+      "equipment": "N/A",
+      "chemicals_used": {
+        "H2TDC": "4.30 g (25 mmol)",
+        "sodium hydroxide": "2.0 g (50 mmol)",
+        "aluminum chloride": "18.75 mL of aqueous solution (1 mol/L)",
+        "sodium aluminate": "12.5 mL of aqueous solution (0.5 mol/L)"
+      },
+      "time": "6 h under reflux, then filtered off and dried at 100 °C for 4 h",
+      "washing_method": "200 mL water under stirring and reflux, then filtration",
+      "drying_method": "dried at 100 °C for 4 h",
+      "yield": "4.5 g (84% based on H2TDC)"
+    },
+    "characterization_techniques_excluded": true,
+    "water_sorption_properties": {
+      "temperature": ["25 °C", "40 °C", "60 °C"],
+      "water_uptake_capacity": ["0.375 gH2O/gsorbent at p/p0 = 0.33 (25 °C)", "0.351 gH2O/gsorbent at p/p0 = 0.29 (40 °C)", "0.331 gH2O/gsorbent at p/p0 = 0.33 (60 °C)"]
+    },
+    "stability_tests": {
+      "cycling_stability_test": "5000 water sorption cycles between 20 and 120 °C in a saturated water atmosphere",
+      "results": "No degradation of crystallinity or water uptake capacity observed"
+    },
+    "adsorption_driven_chiller_applications": {
+      "driving_temperature": "<60 °C",
+      "water_uptake_capacity": "0.37 gH2O/gsorbent",
+      "cooling_temperature": "10 °C",
+      "back_cooling_heat_rejection_temperature": "30 °C",
+      "coefficient_of_performance_for_cooling": "0.8"
+    }
+  }
+}

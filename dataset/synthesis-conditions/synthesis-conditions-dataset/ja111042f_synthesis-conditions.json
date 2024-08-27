@@ -1,0 +1,145 @@
+{
+  "materials": [
+    {
+      "name": "5,15-Dipyridyl-10,20-bis(pentafluorophenyl)porphyrinato manganese (III) chloride [L2-Mn(Cl)]",
+      "synthesis_conditions": {
+        "temperature": "170 °C",
+        "solvents": [
+          {
+            "name": "glacial acetic acid",
+            "amount": "60 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "5,15-Dipyridyl-10,20-bis(pentafluorophenyl)porphyrin",
+            "amount": "500 mg, 0.63 mmol"
+          },
+          {
+            "name": "manganese acetate tetrahydrate",
+            "amount": "1.54 g, 6.3 mmol"
+          },
+          {
+            "name": "Lithium chloride",
+            "amount": "1.33 g, 31.5 mmol"
+          }
+        ],
+        "time": "1 hour",
+        "yield": "73%",
+        "additional_steps": [
+          {
+            "step": "Recrystallization",
+            "solvent": "DMF",
+            "method": "slow addition of water"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Meso-tetrakis(4-carboxyphenyl)porphyrinato aluminum(III) hydroxide [L1-Al(OH)]",
+      "synthesis_conditions": {
+        "temperature": "Room temperature, then 60 °C",
+        "solvents": [
+          {
+            "name": "dry methylene chloride",
+            "amount": "20 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "20 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "meso-tetrakis(4-carboxyphenyl)porphyrin tetramethyl ester",
+            "amount": "200 mg, 0.24 mmol"
+          },
+          {
+            "name": "Trimethylaluminum",
+            "amount": "0.5 mL of a 2M solution in toluene"
+          },
+          {
+            "name": "NaOH",
+            "amount": "0.5 g in 5 mL H2O"
+          }
+        ],
+        "time": "1 hour, then overnight",
+        "yield": "76%",
+        "additional_steps": [
+          {
+            "step": "Purification",
+            "method": "column of neutral alumina eluted with 5 vol% MeOH in CH2Cl2"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Meso-tetrakis(4-carboxyphenyl)porphyrinato palladium(II) (L1-Pd)",
+      "synthesis_conditions": {
+        "temperature": "155 °C",
+        "solvents": [
+          {
+            "name": "dimethylformamide",
+            "amount": "17 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "meso-tetrakis(4-carboxyphenyl)porphyrin",
+            "amount": "270 mg, 0.341 mmol"
+          },
+          {
+            "name": "Palladium dichloride",
+            "amount": "242 mg, 1.36 mmol"
+          }
+        ],
+        "time": "15 min",
+        "yield": "98%",
+        "additional_steps": [
+          {
+            "step": "Purification",
+            "method": "diluted with tetrahydrofuran and ether, filtered, washed with water"
+          }
+        ]
+      }
+    },
+    {
+      "name": "General procedure for the synthesis of [Zn2(L1-M1)(L2-M2)]n (M1M2-RPM)",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2 mL"
+          },
+          {
+            "name": "EtOH/HNO3 mixture",
+            "amount": "2 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "L1-M1",
+            "amount": "variable"
+          },
+          {
+            "name": "L2-M2",
+            "amount": "variable"
+          },
+          {
+            "name": "Zn(NO3)2•6H2O",
+            "amount": "17.8 mg, 0.06 mmol"
+          }
+        ],
+        "time": "2 h, then 20 h",
+        "yield": "variable",
+        "additional_steps": [
+          {
+            "step": "Washing",
+            "method": "DMF until clear"
+          }
+        ]
+      }
+    }
+  ]
+}

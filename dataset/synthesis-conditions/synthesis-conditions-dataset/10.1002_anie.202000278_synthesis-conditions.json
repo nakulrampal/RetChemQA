@@ -1,0 +1,83 @@
+{
+  "materials": [
+    {
+      "name": "Co2(m-DOBDC)",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "Not specified",
+          "solvents": "Not specified",
+          "equipment": "Not specified",
+          "chemicals_used": "Not specified",
+          "time": "Not specified",
+          "yield": "Not specified"
+        }
+      ]
+    },
+    {
+      "name": "[Co2(5-alkyl-m-DOBDC)(H3O+·X@)]",
+      "synthesis_conditions": [
+        {
+          "step": "Dual-PSM with CH3I",
+          "temperature": "100 88C",
+          "solvents": "Not specified",
+          "amount_of_solvent": "Not specified",
+          "equipment": "4 mL vial inside a 20 mL vial",
+          "chemicals_used": "CH3I",
+          "time": "Varied, monitored by 1H NMR",
+          "yield": "Not specified",
+          "additional_information": "Conversion percentage of m-DOBDC into 5-methyl-m-DOBDC calculated by comparing integrals of peaks in 1H NMR spectra."
+        },
+        {
+          "step": "Dual-PSM with C2H5I and C3H7I",
+          "temperature": "Not specified",
+          "solvents": "Not specified",
+          "amount_of_solvent": "Not specified",
+          "equipment": "Not specified",
+          "chemicals_used": "C2H5I and C3H7I",
+          "time": "C2H5I: 80% conversion after 24h; C3H7I: 74% conversion after 120h",
+          "yield": "Not specified",
+          "additional_information": "Conversion ratios for CH3I and C2H5I were 80% after 24 and 48h, respectively."
+        },
+        {
+          "step": "Dual-PSM with C3H7Br and C3H7Cl",
+          "temperature": "Not specified",
+          "solvents": "Not specified",
+          "amount_of_solvent": "Not specified",
+          "equipment": "Not specified",
+          "chemicals_used": "C3H7Br and C3H7Cl",
+          "time": "Not specified",
+          "yield": "Lower conversion ratios than C3H7I",
+          "additional_information": "Poor crystallinity following exposure; C3H7Br initially reacted faster than C3H7I."
+        },
+        {
+          "step": "Dual-PSM with formaldehyde",
+          "temperature": "60 88C",
+          "solvents": "Not specified",
+          "amount_of_solvent": "Not specified",
+          "equipment": "Not specified",
+          "chemicals_used": "Formaldehyde",
+          "time": "Not specified",
+          "yield": "Not specified",
+          "additional_information": "Hydroxy group can be inserted onto the C5 atom of m-DOBDC4@ without proton generation."
+        }
+      ]
+    },
+    {
+      "name": "HCOH@Co2(m-DOBDC)",
+      "synthesis_conditions": [
+        {
+          "step": "Substitution reaction with formaldehyde",
+          "temperature": "100 88C",
+          "solvents": "Not specified",
+          "amount_of_solvent": "Not specified",
+          "equipment": "Not specified",
+          "chemicals_used": "Formaldehyde",
+          "time": "24h",
+          "yield": "Not specified",
+          "additional_information": "MOF crystals retained their shapes during acid-assisted decomposition, Co2+ was leached."
+        }
+      ]
+    }
+  ]
+}

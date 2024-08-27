@@ -1,0 +1,51 @@
+{
+  "materials": [
+    {
+      "name": "Ag3(OH)(H2O)2(Tipa)2.5[Mo2O7]·4.5H2O (1)",
+      "synthesis_conditions": {
+        "temperature": "170 °C",
+        "time": "72 h",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Tipa",
+            "amount": "0.044 g",
+            "molarity": "0.1 mmol"
+          },
+          {
+            "name": "AgNO3",
+            "amount": "0.051 g",
+            "molarity": "0.3 mmol"
+          },
+          {
+            "name": "(NH4)6Mo7O24·4H2O",
+            "amount": "0.0618 g",
+            "molarity": "0.05 mmol"
+          }
+        ],
+        "yield": "15% based on Tipa",
+        "equipment": "hydrothermal conditions",
+        "analysis": {
+          "elemental_analysis": {
+            "calculated": {
+              "C": "43.37",
+              "H": "3.53",
+              "N": "13.11"
+            },
+            "found": {
+              "C": "43.18",
+              "H": "3.46",
+              "N": "13.30"
+            }
+          },
+          "IR_spectrum": "3441 (m), 3126 (w), 2926 (w), 1631 (w), 1516 (s), 1286 (m), 1245 (m), 1123 (m), 1060 (s), 961 (w), 876 (m), 826 (m), 788 (m), 651 (m), 536 (m)"
+        }
+      }
+    }
+  ]
+}

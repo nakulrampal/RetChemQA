@@ -1,0 +1,60 @@
+{
+  "materials": [
+    {
+      "name": "PCN-160-imine",
+      "synthesis_conditions": {
+        "temperature": "Not specified",
+        "solvents": "Not specified",
+        "equipment": "Not specified",
+        "chemicals_used": "Zr6 clusters, CBAB linker (4-carboxybenzylidene-4-aminobenzoate)",
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "other_conditions": "Constructed according to the literature"
+      }
+    },
+    {
+      "name": "PCN-160-CoCl2",
+      "synthesis_conditions": {
+        "temperature": "75-88°C",
+        "solvents": "DMF solution of INA and CoCl2",
+        "equipment": "Not specified",
+        "chemicals_used": "INA, CoCl2",
+        "time": "Sampled every hour until Co occupancy reached 100%",
+        "washing_method": "Solution decanted and replaced for next step",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "other_conditions": "CBAB linker in PCN-160-imine exchanged with Co-isonicotinate moiety"
+      }
+    },
+    {
+      "name": "PCN-161-CoCl2",
+      "synthesis_conditions": {
+        "temperature": "Not specified",
+        "solvents": "DMF solution of INA and Zr4+",
+        "equipment": "Not specified",
+        "chemicals_used": "INA, Zr4+",
+        "time": "2 hours for structural transformation to complete",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "other_conditions": "New Zr6 cluster formed at the center of the octahedral cage of PCN-160-CoCl2 after treatment"
+      }
+    },
+    {
+      "name": "PCN-161 structures with various MX2(py)4 units",
+      "synthesis_conditions": {
+        "temperature": "Identical modification conditions as PCN-161-CoCl2",
+        "solvents": "Not specified",
+        "equipment": "Not specified",
+        "chemicals_used": "MX2 (M = Co2+ or Fe2+; X = OH@, Cl@, Br@, I@, NCS@ or NCSe@)",
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "other_conditions": "Single crystals of the PCN-161 structures with Co(OH)2(INA)4, CoCl2(INA)4, CoBr2(INA)4, CoI2(INA)4, Co(NCS)2(INA)4, Co(NCSe)2(INA)4, FeCl2(INA)4, FeBr2(INA)4, FeI2(INA)4, and Fe(NCS)2(INA)4 were successfully obtained"
+      }
+    }
+  ]
+}

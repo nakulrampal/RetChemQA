@@ -1,0 +1,85 @@
+{
+  "materials": [
+    {
+      "name": "Compound 2",
+      "synthesis_conditions": {
+        "temperature_initial": "0 °C",
+        "temperature_final": "room temperature",
+        "solvent": "THF",
+        "chemicals_used": [
+          {
+            "name": "Compound 1",
+            "amount": "1.42 g",
+            "molarity": "8 mmol"
+          },
+          {
+            "name": "LiAlH4",
+            "amount": "0.15 g",
+            "molarity": "4 mmol"
+          }
+        ],
+        "time": "12 h",
+        "washing_method": "n-hexane",
+        "washing_volume": "30 mL",
+        "yield": "80%",
+        "drying_method": "vacuum",
+        "recrystallization_solvent": "n-hexane"
+      }
+    },
+    {
+      "name": "Compound 3",
+      "synthesis_conditions": {
+        "temperature_initial": "0 °C",
+        "temperature_final": "room temperature",
+        "solvent_initial": "THF",
+        "solvent_final": "toluene",
+        "chemicals_used": [
+          {
+            "name": "Compound 1",
+            "amount": "2.33 g",
+            "molarity": "13.15 mmol"
+          },
+          {
+            "name": "LiAlH4",
+            "amount": "0.20 g",
+            "molarity": "5.26 mmol"
+          }
+        ],
+        "time_initial": "2 h",
+        "time_final": "3 h",
+        "heating_method": "reflux",
+        "precipitation_temperature": "-20 °C",
+        "yield": "80%",
+        "drying_method": "vacuum"
+      }
+    },
+    {
+      "name": "Compound 6",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvent_initial": "toluene",
+        "solvent_final": "n-hexane/toluene (1:1)",
+        "chemicals_used": [
+          {
+            "name": "Compound 5",
+            "amount": "1.10 g",
+            "molarity": "4.10 mmol"
+          },
+          {
+            "name": "Na(AIHEt3)",
+            "amount": "2 mL",
+            "molarity": "4.00 mmol",
+            "solvent": "toluene/THF (20/1)"
+          }
+        ],
+        "time": "36 h",
+        "additional_heating_time": "1 h",
+        "heating_method": "reflux",
+        "precipitation_temperature": "-22 °C",
+        "yield": "65%",
+        "drying_method": "vacuo",
+        "recrystallization_time": "16 h"
+      }
+    }
+  ]
+}

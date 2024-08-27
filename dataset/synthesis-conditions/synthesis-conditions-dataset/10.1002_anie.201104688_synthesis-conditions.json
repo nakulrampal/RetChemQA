@@ -1,0 +1,81 @@
+{
+  "materials": [
+    {
+      "name": "tp-PMBB-1",
+      "synthesis_conditions": {
+        "method": "hydrothermal synthesis",
+        "details": "For structural and synthetic details, see the Supporting Information."
+      }
+    },
+    {
+      "name": "tp-PMBB-1-snx-1",
+      "synthesis_conditions": {
+        "precursors": [
+          "AgNO3 or AgBF4",
+          "nitrate salt of tp-PMBB-1"
+        ],
+        "solvents": [
+          {
+            "name": "PEG(400)/H2O",
+            "ratio": "1:1"
+          },
+          {
+            "name": "PEG(400)/H2O",
+            "ratio": "4:1"
+          }
+        ],
+        "method": "layering",
+        "product_appearance": "light green hexagonal crystals",
+        "additional_information": "Layering AgNO3 or AgBF4 dissolved in 1:1 PEG(400)/H2O onto a solution of the nitrate salt of tp-PMBB-1 in 4:1 PEG(400)/H2O."
+      }
+    },
+    {
+      "name": "tp-PMBB-1-snw-1",
+      "synthesis_conditions": {
+        "precursors": [
+          "AgNO3 or AgBF4",
+          "nitrate salt of tp-PMBB-1"
+        ],
+        "solvents": [
+          {
+            "name": "PEG(400)/H2O",
+            "ratio": "1:1"
+          },
+          {
+            "name": "PEG(400)/H2O",
+            "ratio": "4:1"
+          }
+        ],
+        "method": "layering",
+        "product_appearance": "light green octahedral crystals",
+        "additional_information": "Layering AgNO3 or AgBF4 dissolved in 1:1 PEG(400)/H2O onto a solution of the nitrate salt of tp-PMBB-1 in 4:1 PEG(400)/H2O. Pure tp-PMBB-1-snw-1 could not be isolated."
+      }
+    },
+    {
+      "name": "tp-PMBB-1-stp-1",
+      "synthesis_conditions": {
+        "precursors": [
+          "Cd(NO3)2",
+          "nitrate salt of tp-PMBB-1"
+        ],
+        "solvents": [
+          {
+            "name": "DMF/MeCN",
+            "ratio": "1/2"
+          },
+          {
+            "name": "DMF/MeCN",
+            "ratio": "2/1"
+          },
+          {
+            "name": "DMF",
+            "ratio": "separation layer"
+          }
+        ],
+        "method": "layering",
+        "product_appearance": "dark green needle-shaped hexagonal crystals",
+        "additional_information": "Layering a solution of Cd(NO3)2 (DMF/MeCN = 1/2) onto a solution of the nitrate salt of tp-PMBB-1 in DMF/MeCN = 2/1 with a separation layer of DMF/MeCN = 1/1."
+      }
+    }
+  ]
+}

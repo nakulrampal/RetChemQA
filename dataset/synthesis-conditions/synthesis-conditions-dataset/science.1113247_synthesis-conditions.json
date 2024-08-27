@@ -1,0 +1,47 @@
+{
+  "materials": [
+    {
+      "name": "MOF-5",
+      "synthesis_conditions": {
+        "temperature": "100°C",
+        "solvents": [
+          {
+            "name": "N,N-diethylformamide",
+            "amount": "10 mL"
+          }
+        ],
+        "equipment": "20 mL scintillation vial",
+        "chemicals_used": [
+          {
+            "name": "zinc nitrate tetrahydrate",
+            "amount": "210 mg, 0.80 mmol"
+          },
+          {
+            "name": "terephthalic acid",
+            "amount": "45 mg, 0.27 mmol"
+          }
+        ],
+        "time": "18 h",
+        "washing_method": "washed with N,N-diethylformamide, then immersed in chloroform",
+        "drying_method": "evacuated slowly to < 10-3 Torr",
+        "yield": "not specified"
+      }
+    }
+  ],
+  "characterization_techniques": {
+    "thermal_gravimetric_analysis": {
+      "temperature_range": "ramped to 700°C at 5°C/min",
+      "atmosphere": "dinitrogen flow"
+    },
+    "crystallography": {
+      "equipment": "Bruker Proteum M diffractometer system",
+      "temperature_control": "Oxford Cryosystems HeliX cryostat",
+      "data_processing_software": [
+        "SAINT",
+        "SADABS",
+        "SHELXTL"
+      ],
+      "refinement_details": "isotropic atomic displacement parameters, N2 bond length restrained to 1.0976 Å"
+    }
+  }
+}

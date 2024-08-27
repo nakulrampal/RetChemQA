@@ -1,0 +1,110 @@
+{
+  "materials": [
+    {
+      "name": "Cd6Ag4(SPh)16(DMF)4 (1)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "AgNO3",
+            "amount": "51 mg",
+            "molarity": "0.3 mmol"
+          },
+          {
+            "name": "Cd(SPh)2",
+            "amount": "198 mg",
+            "molarity": "0.6 mmol"
+          },
+          {
+            "name": "DMF",
+            "amount": "5 mL"
+          }
+        ],
+        "temperature": "room temperature",
+        "time": "overnight",
+        "yield": "135 mg (56 % based on Cd(SPh)2)",
+        "analysis": {
+          "calculated": {
+            "C": "41.24",
+            "H": "3.46",
+            "N": "1.78"
+          },
+          "found": {
+            "C": "41.17",
+            "H": "3.54",
+            "N": "1.76"
+          }
+        },
+        "IR": [
+          {
+            "bond": "C−H",
+            "wavenumber": "3054 cm−1",
+            "intensity": "m"
+          },
+          {
+            "bond": "C=O",
+            "wavenumber": "1640 cm−1",
+            "intensity": "s"
+          },
+          {
+            "bond": "C−S",
+            "wavenumber": "685 cm−1",
+            "intensity": "s"
+          }
+        ]
+      }
+    },
+    {
+      "name": "{[Cd6Ag4(SPh)16](bpe)2}n (2)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "1",
+            "amount": "97 mg",
+            "molarity": "0.03 mmol"
+          },
+          {
+            "name": "trans-1,2-bis(4-pyridyl)ethylene (bpe)",
+            "amount": "18 mg",
+            "molarity": "0.1 mmol"
+          },
+          {
+            "name": "DMF",
+            "amount": "3 mL"
+          }
+        ],
+        "temperature": "room temperature",
+        "time": "overnight",
+        "yield": "72 mg (65 % based on 1)",
+        "analysis": {
+          "calculated": {
+            "C": "45.21",
+            "H": "3.11",
+            "N": "1.73"
+          },
+          "found": {
+            "C": "45.02",
+            "H": "3.24",
+            "N": "1.72"
+          }
+        },
+        "IR": [
+          {
+            "bond": "C−H",
+            "wavenumber": "3055 cm−1",
+            "intensity": "m"
+          },
+          {
+            "bond": "C=C",
+            "wavenumber": "1603 cm−1",
+            "intensity": "s"
+          },
+          {
+            "bond": "C−S",
+            "wavenumber": "684 cm−1",
+            "intensity": "s"
+          }
+        ]
+      }
+    }
+  ]
+}

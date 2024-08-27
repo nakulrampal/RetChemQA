@@ -1,0 +1,95 @@
+{
+  "MIL-177-LT": {
+    "temperature": "120 °C",
+    "solvents": "Formic acid",
+    "amount_of_solvent": "40 mL",
+    "equipment": "100 mL round bottom flask",
+    "chemicals_used": [
+      {
+        "name": "H4mdip",
+        "amount": "1 g",
+        "mmol": "2.9 mmol"
+      },
+      {
+        "name": "Ti(iPrO)4",
+        "amount": "2 mL",
+        "mmol": "0.66 mmol"
+      },
+      {
+        "name": "Formic acid",
+        "amount": "40 mL"
+      }
+    ],
+    "time": "72 hours",
+    "washing_method": "Washed with water (1L×3)",
+    "drying_method": "Air-dry",
+    "yield": "Not specified",
+    "additional_information": "FeCl3 anhydrous solid (807 mg, 4.95 mmol, 0.75 equivalents to Ti precursor) was added for Fe doping."
+  },
+  "MIL-177-HT": {
+    "temperature": "280 °C",
+    "solvents": "None specified",
+    "amount_of_solvent": "Not applicable",
+    "equipment": "Not specified",
+    "chemicals_used": [
+      {
+        "name": "MIL-177-LT compound",
+        "amount": "Not specified"
+      }
+    ],
+    "time": "Not specified",
+    "washing_method": "Not specified",
+    "drying_method": "Not specified",
+    "yield": "Not specified",
+    "additional_information": "MIL-177-HT was obtained by heating MIL-177-LT compound at 280 °C."
+  },
+  "Fe doped MIL-177-LT": {
+    "temperature": "120 °C",
+    "solvents": "Formic acid",
+    "amount_of_solvent": "40 mL",
+    "equipment": "100 mL round bottom flask",
+    "chemicals_used": [
+      {
+        "name": "H4mdip",
+        "amount": "1 g",
+        "mmol": "2.9 mmol"
+      },
+      {
+        "name": "Ti(iPrO)4",
+        "amount": "2 mL",
+        "mmol": "0.66 mmol"
+      },
+      {
+        "name": "Formic acid",
+        "amount": "40 mL"
+      },
+      {
+        "name": "FeCl3 anhydrous",
+        "amount": "807 mg",
+        "mmol": "4.95 mmol"
+      }
+    ],
+    "time": "72 hours",
+    "washing_method": "Washed with water (1L×3)",
+    "drying_method": "Air-dry",
+    "yield": "Not specified",
+    "additional_information": "FeCl3 was used for doping to achieve a Fe content of 13% (atomic ratio in comparison with Ti in the MOF structure)."
+  },
+  "Fe doped MIL-177-HT": {
+    "temperature": "280 °C",
+    "solvents": "None specified",
+    "amount_of_solvent": "Not applicable",
+    "equipment": "Not specified",
+    "chemicals_used": [
+      {
+        "name": "Fe doped MIL-177-LT compound",
+        "amount": "Not specified"
+      }
+    ],
+    "time": "Not specified",
+    "washing_method": "Not specified",
+    "drying_method": "Not specified",
+    "yield": "Not specified",
+    "additional_information": "Fe doped MIL-177-HT was obtained by heating Fe doped MIL-177-LT compound at 280 °C."
+  }
+}

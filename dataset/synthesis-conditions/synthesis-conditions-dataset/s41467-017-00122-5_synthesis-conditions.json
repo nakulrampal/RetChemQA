@@ -1,0 +1,57 @@
+{
+  "materials": [
+    {
+      "name": "PCP 1",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "sealed glass vial",
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "5 mM, 29.7 mg"
+          },
+          {
+            "name": "bis(pyridyl)dithienylethene (LO)",
+            "amount": "200 mg, 20 mM"
+          },
+          {
+            "name": "1,4-benzenedicarboxylic acid (H2bdc)",
+            "amount": "5 mM, 18 mg"
+          }
+        ],
+        "time": "1 week",
+        "washing_method": "washed with DMF",
+        "drying_method": "dried in vacuo at room temperature",
+        "yield": "45 mg, 20%"
+      }
+    },
+    {
+      "name": "PCP 1'",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "equipment": "vacuum",
+        "time": "1 day",
+        "description": "PCP 1 was dried under vacuum at 120 °C for 1 day to afford PCP 1'"
+      }
+    },
+    {
+      "name": "PCP 2",
+      "synthesis_conditions": {
+        "equipment": "portable LED UV (ZUV-C20H; OMRON Corporation)",
+        "description": "A single-crystal of 1 was irradiated by UV light (365 nm UV-LED) for 30 min at room temperature, affording a single-crystal of photoirradiated PCP 2 through a SCSC transformation"
+      }
+    },
+    {
+      "name": "PCP 2'",
+      "synthesis_conditions": {
+        "description": "Similar to PCP 2, PCP 2' was obtained by irradiating PCP 1' by UV light for 1 day"
+      }
+    }
+  ]
+}

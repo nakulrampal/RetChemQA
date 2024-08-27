@@ -1,0 +1,146 @@
+{
+  "materials": [
+    {
+      "name": "Ligand 1",
+      "synthesis_conditions": {
+        "temperature": "-78 °C to RT",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "70 mL"
+          },
+          {
+            "name": "CCl4",
+            "amount": "200 mL"
+          },
+          {
+            "name": "THF / Et2O",
+            "amount": "Not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "t-BuLi",
+            "amount": "19.7 mL, 34 mmol"
+          },
+          {
+            "name": "ZnCl2",
+            "amount": "7.5 g, 55 mmol"
+          },
+          {
+            "name": "Pd(PPh3)4",
+            "amount": "0.66 g, 0.57 mmol"
+          },
+          {
+            "name": "5-bromo-2-iodopyridine",
+            "amount": "4.0 g, 14 mmol"
+          },
+          {
+            "name": "NBS",
+            "amount": "9.6 g, 54 mmol"
+          },
+          {
+            "name": "benzoyl peroxide",
+            "amount": "60 mg, 0.25 mmol"
+          },
+          {
+            "name": "allyl magnesium bromide",
+            "amount": "30 mL, 30 mmol"
+          }
+        ],
+        "time": [
+          "1 h",
+          "20 min",
+          "24 h",
+          "2 h",
+          "2 h"
+        ],
+        "yield": "75 %, 51 %, 99 %, 96 %, 60 %",
+        "washing_method": "Saturated Na4EDTA in ammonia solution",
+        "drying_method": "Na2SO4",
+        "purification_method": "Flash chromatography, sonication in methanol, size exclusion chromatography"
+      }
+    },
+    {
+      "name": "Circular Hexameric Helicate [2](PF6)12",
+      "synthesis_conditions": {
+        "temperature": "170 °C",
+        "solvents": [
+          {
+            "name": "ethylene glycol",
+            "amount": "4.7 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "FeSO4",
+            "amount": "18 mg, 64 μmol"
+          },
+          {
+            "name": "KPF6",
+            "amount": "Excess"
+          }
+        ],
+        "time": "24 h",
+        "yield": "75 %",
+        "washing_method": "Water, methanol, CH2Cl2",
+        "drying_method": "Not specified",
+        "purification_method": "Filtration onto celite, solvent removal"
+      }
+    },
+    {
+      "name": "Star of David Catenate [4](PF6)12",
+      "synthesis_conditions": {
+        "temperature": "60 °C",
+        "solvents": [
+          {
+            "name": "anhydrous nitromethane",
+            "amount": "1.9 mL"
+          },
+          {
+            "name": "anhydrous dichloroethane",
+            "amount": "1.9 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Hoveyda-Grubbs 2nd generation catalyst",
+            "amount": "2.3 mg, 3.7 μmol"
+          },
+          {
+            "name": "KPF6",
+            "amount": "Excess"
+          }
+        ],
+        "time": "24 h",
+        "yield": "92 %",
+        "washing_method": "Chloroform, water, methanol",
+        "drying_method": "Not specified",
+        "purification_method": "Filtration onto celite, solvent removal"
+      }
+    },
+    {
+      "name": "Demetallated Star of David Catenand 5",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "H2O/MeCN",
+            "amount": "1:1 ratio"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Na4EDTA",
+            "amount": "Saturated"
+          }
+        ],
+        "time": "4 h",
+        "yield": "60 % for 5, 38 % for 6",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "purification_method": "Size exclusion chromatography"
+      }
+    }
+  ]
+}

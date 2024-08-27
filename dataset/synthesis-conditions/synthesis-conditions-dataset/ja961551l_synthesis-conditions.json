@@ -1,0 +1,104 @@
+{
+  "materials": [
+    {
+      "material": "Polyrotaxane 2",
+      "synthesis_conditions": {
+        "temperature": "Not specified",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "20 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "0.2 M solution"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cucurbituril",
+            "amount": "1.00 g, 0.86 mmol"
+          },
+          {
+            "name": "N,N‘-bis(4-pyridylmethyl)-1,4-diaminobutane dihydrochloride (1·2HCl)",
+            "amount": "0.207 g, 0.60 mmol"
+          },
+          {
+            "name": "Cu(NO3)2",
+            "amount": "0.2 M solution"
+          }
+        ],
+        "time": "Overnight stirring, then 1 week for crystal formation",
+        "yield": "44%",
+        "drying_method": "Vacuum for 2 days",
+        "crystal_data": {
+          "formula": "CuC52H66N32O27·5H2O",
+          "fw": "1887.13",
+          "crystal_system": "triclinic",
+          "space_group": "P1",
+          "unit_cell_dimensions": {
+            "a": "14.690(2) Å",
+            "b": "14.923(2) Å",
+            "c": "19.665(3) Å",
+            "alpha": "84.96(1)°",
+            "beta": "74.98(1)°",
+            "gamma": "68.90(1)°"
+          },
+          "volume": "3884.4(9) Å3",
+          "Z": "2",
+          "density_calculated": "1.613 Mg/m3",
+          "absorption_coefficient": "4.01 cm-1",
+          "F(000)": "1974",
+          "crystal_size": "0.5 x 0.4 x 0.2 mm",
+          "theta_range": "1.53 to 21.99°",
+          "reflections_collected": "8965",
+          "independent_reflections": "8965 (Rint = 0.0881)",
+          "refinement_method": "Full-matrix least-squares on F2",
+          "data_restraints_parameters": "8965 / 0 / 1114",
+          "goodness_of_fit_on_F2": "1.127",
+          "final_R_indices": "[I>2sigma(I)] = 0.100, wR2 (all data) = 0.269",
+          "largest_diff_peak_and_hole": "0.630 and -0.459 e.Å-3"
+        }
+      }
+    },
+    {
+      "material": "Rotaxane 3",
+      "synthesis_conditions": {
+        "temperature": "Not specified",
+        "solvents": "Not specified",
+        "chemicals_used": "Not specified",
+        "time": "Not specified",
+        "yield": "Not specified",
+        "drying_method": "Not specified",
+        "crystal_data": {
+          "formula": "[MnCl3(H2O)]2(C16H24N4)·C36H36N24O12",
+          "fw": "1781.03",
+          "crystal_system": "triclinic",
+          "space_group": "P1̄",
+          "unit_cell_dimensions": {
+            "a": "11.6967(2) Å",
+            "b": "12.9124(2) Å",
+            "c": "13.3946(1) Å",
+            "alpha": "112.3895(7)°",
+            "beta": "100.7180(4)°",
+            "gamma": "96.2288(4)°"
+          },
+          "volume": "1801.71(4) Å3",
+          "Z": "1",
+          "density_calculated": "1.641 Mg/m3",
+          "absorption_coefficient": "6.68 cm-1",
+          "F(000)": "921",
+          "crystal_size": "0.25 x 0.20 x 0.10 mm",
+          "theta_range": "1.70 to 23.66°",
+          "reflections_collected": "4592",
+          "independent_reflections": "4592 (Rint = 0.0727)",
+          "refinement_method": "Full-matrix least-squares on F2",
+          "data_restraints_parameters": "4592 / 0 / 535",
+          "goodness_of_fit_on_F2": "0.968",
+          "final_R_indices": "[I>2sigma(I)] = 0.078, wR2 (all data) = 0.221",
+          "largest_diff_peak_and_hole": "Not specified"
+        }
+      }
+    }
+  ]
+}

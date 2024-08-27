@@ -1,0 +1,79 @@
+{
+  "materials": [
+    {
+      "name": "Complex 1",
+      "synthesis_conditions": {
+        "temperature": "20°C",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "not specified"
+          },
+          {
+            "name": "PEG300",
+            "amount": "30%-70%"
+          },
+          {
+            "name": "NH4Cl",
+            "amount": "0.1M"
+          }
+        ],
+        "pH": "9.5",
+        "method": "vapour-diffusion with hanging drops",
+        "chemicals_used": [
+          {
+            "name": "C4TsTc sodium salt",
+            "concentration": "4.4 mM"
+          },
+          {
+            "name": "H2MPyP chloride salt",
+            "concentration": "5.5 mM"
+          }
+        ],
+        "crystal_dimensions": "0.4mm x 0.1mm x 0.1mm",
+        "equipment": "Linbro multiwell tissue plates, MarResearch CCD detector, synchrotron X-ray source",
+        "wavelength": "1.000 Å",
+        "space_group": "I41/a",
+        "additional_information": "Flash-freezing and synchrotron radiation required for data collection"
+      }
+    },
+    {
+      "name": "Complex 2",
+      "synthesis_conditions": {
+        "preparation_method": "Adding 0.6 µL of a solution 0.2 M of ZnCl2 to a drop containing crystals of Complex 1",
+        "time_before_data_collection": "20 hours",
+        "temperature": "100 K",
+        "solvents": [
+          {
+            "name": "mother solution of Complex 1",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "MarResearch CCD detector, synchrotron X-ray source",
+        "wavelength": "1.000 Å",
+        "space_group": "I41/a",
+        "crystal_dimensions": "0.1×0.1×0.1 mm3",
+        "additional_information": "Crystals damaged and color change observed upon addition of ZnCl2"
+      }
+    },
+    {
+      "name": "Complex 3",
+      "synthesis_conditions": {
+        "preparation_method": "Adding 0.6 µL of a solution 0.2 M of NiCl2 to a drop containing crystals of Complex 1",
+        "time_before_data_collection": "20 hours",
+        "temperature": "100 K",
+        "solvents": [
+          {
+            "name": "mother solution of Complex 1",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "MarResearch CCD detector, synchrotron X-ray source",
+        "wavelength": "1.000 Å",
+        "space_group": "I41/amd",
+        "crystal_dimensions": "0.1×0.1×0.1 mm3",
+        "additional_information": "Crystals damaged and color change observed upon addition of NiCl2"
+      }
+    }
+  ]
+}

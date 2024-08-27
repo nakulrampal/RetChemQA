@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the complex synthesized in the study?",
+      "answer": "{[Cu(pyrdc)(bpp)](5H2O)}n",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the guest molecules that were studied for adsorption properties in the synthesized complex?",
+      "answer": "O2, N2, CO2, MeOH, and EtOH",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What triggers the structural transformation from a porous to a nonporous phase in the synthesized framework?",
+      "answer": "Dehydration triggers the structural transformation from a porous to a nonporous phase.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the ligand bpp in the structure of the synthesized complex?",
+      "answer": "The bpp ligand acts as a pillar connecting two layers, forming a 2D pillared-bilayer structure with 3D water-filled channels.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the synthesized complex demonstrate selective adsorption?",
+      "answer": "The synthesized complex demonstrates selective adsorption through a gate-opening phenomenon for certain adsorbates at specific vapor pressures, facilitated by structural transformation and hydrogen-bonding interactions.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What experimental techniques were used to characterize the synthesized complex and its properties?",
+      "answer": "Elemental analysis, thermal gravimetry analysis (TGA), IR spectroscopy, X-ray powder diffraction (XRPD), and adsorption isotherms were used to characterize the synthesized complex and its properties.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the reversible single-crystal-to-single-crystal transformation observed in the study?",
+      "answer": "The reversible single-crystal-to-single-crystal transformation is significant because it demonstrates the dynamic behavior of the framework, allowing for guest-induced structural changes while retaining crystallinity, which is crucial for applications in molecular sensing and actuators.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the structural transformation affect the adsorption properties of the synthesized complex?",
+      "answer": "The structural transformation from a nonporous to a porous phase upon exposure to certain adsorbates enhances the adsorption properties, allowing for selective guest inclusion and demonstrating a gate-opening phenomenon.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is CO2 adsorbed by the dehydrated form of the synthesized complex but not O2 or N2?",
+      "answer": "CO2 is adsorbed due to its size and the strong CO2-host interaction facilitated by the structural transformation to a microporous phase, whereas O2 and N2 do not exhibit inclusion due to their kinetic diameters and lack of strong interaction with the host.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role does the hydrogen-bonding interaction play in the adsorption of MeOH and EtOH by the synthesized complex?",
+      "answer": "Hydrogen-bonding interactions, particularly with the pendent carboxylate moiety of the pyrdc ligands, facilitate the adsorption of MeOH and EtOH by lowering the gate-opening pressure and enabling selective accommodation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the crystal structure change upon dehydration and rehydration?",
+      "answer": "Upon dehydration, the crystal structure transforms to an acentric and polar space group with a reduced cell volume, and upon rehydration, it regenerates to the original centric space group with an increased cell volume, demonstrating reversible structural transformation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the impact of the conformational flexibility of the bpp ligand on the framework's structure?",
+      "answer": "The conformational flexibility of the bpp ligand, particularly its bending conformation, contributes to the dynamic behavior of the framework, allowing for structural transformations and the formation of water-filled channels.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesized complex retains its crystallinity throughout the dehydration and rehydration processes.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesized complex shows selective adsorption for all gases studied.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesized complex undergoes a nonporous to porous phase transition upon exposure to water vapor.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesized complex's adsorption properties are unaffected by structural transformations.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesized complex demonstrates a gate-closing phenomenon upon dehydration.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesized complex's adsorption of CO2 is due to its smaller kinetic diameter compared to O2 and N2.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesized complex can adsorb MeOH and EtOH due to their large size and strong hydrogen-bonding ability.",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesized complex's structural transformation is irreversible.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

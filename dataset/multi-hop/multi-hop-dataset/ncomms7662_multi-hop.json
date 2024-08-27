@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What experimental setup was used for the in situ reaction monitoring at the ESRF beamline ID15B?",
+      "answer": "A modified MM200 Retsch mill operating at 30 Hz was used for the in situ reaction monitoring at the ESRF beamline ID15B. The mill had a custom-modified sample holder to enable access of the incident beam, and each reaction was conducted in a 14 ml volume jar using two stainless-steel balls of 7-mm diameter.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the purpose of adding crystalline silicon to the reaction mixture during the mechanochemical synthesis?",
+      "answer": "Crystalline silicon was added to the reaction mixture as an internal scattering standard during the mechanochemical synthesis. However, its addition unexpectedly led to the in situ recrystallization of the initial amorphous phase after about 30 minutes of milling.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The amorphous material obtained from the mechanochemical reaction could be stored without recrystallization.",
+      "answer": "True. The amorphous material, designated as amorph-Zn(MeIm)2, could be dried in vacuum at room temperature or 40°C and stored in a vial without recrystallization.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How was the structure of kat-Zn(MeIm)2 determined?",
+      "answer": "The structure of kat-Zn(MeIm)2 was solved by global optimization in direct space using the program Topas, from PXRD data collected on a Bruker D8 Discovery X-ray diffractometer. The structure revealed a new polymorph of Zn(MeIm)2 with a previously unknown framework topology named katsenite.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the effect of milling amorph-Zn(MeIm)2 with N,N-dimethylformamide?",
+      "answer": "Milling amorph-Zn(MeIm)2 with N,N-dimethylformamide led to the recrystallization of the amorphous phase into ZIF-8, indicating that amorph-Zn(MeIm)2 could be rearranged back into the open SOD topology by wet milling in a suitable environment.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The addition of aqueous acetic acid was mandatory for the mechanically induced collapse of the ZIF-8 structure.",
+      "answer": "False. Slow amorphization also took place with pure water as the grinding liquid, indicating that the weak acid facilitated, but was not mandatory for, the mechanically induced collapse of the ZIF-8 structure.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the significance of the discovery of the katsenite phase in the context of mechanochemical reactivity?",
+      "answer": "The discovery of the katsenite phase was significant because it provided the first direct observation of an amorphization–recrystallization mechanism in mechanosynthesis and the first evidence of a metastable, structurally unusual intermediate in a mechanochemical process. It highlighted the potential of in situ and real-time monitoring for discovering new phases and unexpected transformations.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The mechanochemical synthesis of dia-Zn(MeIm)2 was achieved by milling ZnO and HMeIm with 1.25 M aqueous acetic acid for 90 minutes.",
+      "answer": "True. Reproducible mechanochemical synthesis of dia-Zn(MeIm)2 was achieved by milling ZnO and HMeIm with 1.25 M aqueous acetic acid for 90 minutes.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of ab initio calculations in the study?",
+      "answer": "Ab initio calculations were performed to evaluate the structural and electronic properties of all participating crystalline phases and to correctly evaluate their relative stabilities. These calculations were crucial for understanding the order of stability of the compounds involved in the mechanochemical reactions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study demonstrated that the mechanochemical reaction environment can give rise to unusual reactivity or intermediate phases different from those normally accessible using conventional chemistry.",
+      "answer": "True. The study demonstrated that the mechanochemical reaction environment can indeed give rise to unusual reactivity or intermediate phases different from those normally accessible using conventional chemistry, as evidenced by the discovery of the katsenite phase.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

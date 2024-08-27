@@ -1,0 +1,50 @@
+{
+  "Gd-IHEP-7": {
+    "synthesis": {
+      "precursor_ligand": "1,1’-bis(3,5-dicarboxyphenyl)-4,4’-bipyridinium (H4bcbp·2 Cl)",
+      "reduction_in_situ": "bcbpC3- in the crystal lattice",
+      "EPR_signal": "g = 2.002",
+      "XPS_spectrum": {
+        "N_1s_core-level_peaks": [
+          "401.9 eV",
+          "400.2 eV"
+        ],
+        "assigned_to": [
+          "positively charged N atoms",
+          "neutral charge N atoms"
+        ]
+      },
+      "crystal_structure": {
+        "crystallizes_in": "triclinic space group P1¯",
+        "asymmetric_unit": "one Gd3+ cation, one bcbpC3- ligand and two coordinated H2O molecules",
+        "Gd3+_coordination": "nine-coordinate, by seven carboxyl O atoms from five bcbp3- ligands and the O atoms from two H2O molecules"
+      },
+      "3D_porous_structure": {
+        "formation": "Adjacent double-layer 2D planes are connected by hydrogen bonds to form the 3D porous structure"
+      }
+    }
+  },
+  "Gd-IHEP-8": {
+    "synthesis": {
+      "transformation_condition": "heating to 120 8C in air",
+      "result": "Gd-IHEP-7 loses a coordinating water molecule, resulting in a rearrangement of the coordination environment of Gd3+ to generate Gd-IHEP-8",
+      "EPR_and_XPS_measurements": "nature of the radical-containing ligand bcbpC3- remains essentially invariant during the transformation",
+      "crystal_structure": {
+        "crystallizes_in": "triclinic space group P1¯",
+        "asymmetric_unit": "one Gd3+ cation, one bcbpC3- ligand and one coordinated H2O molecule",
+        "Gd3+_coordination": "decreases from nine to eight, with the other seven coordination sites occupied by carboxyl oxygen atoms from six ligands"
+      },
+      "3D_framework": {
+        "formation": "Neighboring 2D networks interconnect to one another by bcbpC3- ligands to form the 3D framework"
+      }
+    }
+  },
+  "general_information": {
+    "stability": "Both Gd-IHEP-7 and Gd-IHEP-8 are unusually stable in air and water owing to favorable radical–radical interactions",
+    "photocatalytic_activity": {
+      "Gd-IHEP-7": "128 mmol h-1 g-1",
+      "Gd-IHEP-8": "220 mmol h-1 g-1"
+    },
+    "mechanisms_for_photocatalytic_nitrogen_fixation": "Hydrogen bonds between intermediates and O atoms around metal nodes are key in the mechanisms for photocatalytic nitrogen fixation of both RMOF materials"
+  }
+}

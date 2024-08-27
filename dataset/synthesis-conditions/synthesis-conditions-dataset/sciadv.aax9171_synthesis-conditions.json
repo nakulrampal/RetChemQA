@@ -1,0 +1,71 @@
+{
+  "materials": [
+    {
+      "name": "SIFSIX-18-Ni",
+      "synthesis_conditions": [
+        {
+          "step": "Hydrothermal treatment",
+          "temperature": "Not specified",
+          "solvents": "Water",
+          "amount_of_solvent": "5 mL",
+          "equipment": "Not specified",
+          "chemicals_used": "NiSiF6.xH2O (930 mg, 3 mmol), ligand 18 (Me4bpz = 3,3′,5,5′-tetramethyl-4,4′-bipyrazole, 6 mmol)",
+          "time": "72 hours",
+          "washing_method": "Filtered under vacuum and washed thrice with methanol (ca. 20 mL each time)",
+          "drying_method": "Air drying, then heated at 55 °C for 24 hours",
+          "yield": "Not specified",
+          "additional_notes": "Activation achieved by degassing the methanol-exchanged sample on a SmartVacPrep using dynamic vacuum and heating for 4 hours (sample heated from RT to 348 K with a ramp rate of 5 K)"
+        }
+      ]
+    },
+    {
+      "name": "Mg-MOF-74",
+      "synthesis_conditions": [
+        {
+          "reference": "Literature procedures"
+        }
+      ]
+    },
+    {
+      "name": "ZIF-8",
+      "synthesis_conditions": [
+        {
+          "reference": "Literature procedures"
+        }
+      ]
+    },
+    {
+      "name": "SIFSIX-3-Ni",
+      "synthesis_conditions": [
+        {
+          "reference": "Literature procedures"
+        }
+      ]
+    },
+    {
+      "name": "NbOFFIVE-1-Ni",
+      "synthesis_conditions": [
+        {
+          "reference": "Literature procedures"
+        }
+      ]
+    },
+    {
+      "name": "TIFSIX-3-Ni",
+      "synthesis_conditions": [
+        {
+          "reference": "Literature procedures"
+        }
+      ]
+    },
+    {
+      "name": "3,3',5,5'-tetramethyl-1H,1'H-4,4'-bipyrazole (18)",
+      "synthesis_conditions": [
+        {
+          "reference": "Reported procedure",
+          "note": "Used as a precursor for SIFSIX-18-Ni synthesis"
+        }
+      ]
+    }
+  ]
+}

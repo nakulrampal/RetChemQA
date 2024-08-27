@@ -1,0 +1,76 @@
+{
+  "materials": [
+    {
+      "material": "periodic copolymers",
+      "synthesis_conditions": {
+        "temperature": "70 °C",
+        "solvents": [
+          {
+            "solvent": "Acrylonitrile (A)",
+            "amount": "1 mL"
+          },
+          {
+            "solvent": "Methanol",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "30-mL flask under nitrogen atmosphere",
+        "chemicals_used": [
+          {
+            "chemical": "2,2′-azobis(isobutyronitrile) (AIBN)",
+            "amount": "3 mg"
+          },
+          {
+            "chemical": "Styrene-3,5-dicarboxylic acid (S)",
+            "amount": "not specified"
+          },
+          {
+            "chemical": "Cu(NO3)2•3H2O",
+            "amount": "5.03 g, 20.8 mmol"
+          },
+          {
+            "chemical": "Pyridine",
+            "amount": "1.68 mL, 20.8 mmol"
+          }
+        ],
+        "time": "48 h",
+        "washing_method": "with ethanol",
+        "drying_method": "drying under reduced pressure at room temperature",
+        "yield": "35 mg (for P1)",
+        "additional_information": "Gram scale synthesis of P1 was conducted using 5.40 g of 1S, generating 1.09 g of P1. Polymerization of A in 1S with different loading amounts of monomer was also performed after the co-introduction of acetonitrile into the host."
+      }
+    },
+    {
+      "material": "P2",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "solvent": "Methyl vinyl ketone (M)",
+            "amount": "not specified"
+          },
+          {
+            "solvent": "Ethyl acetate",
+            "amount": "for washing"
+          }
+        ],
+        "equipment": "not specified",
+        "chemicals_used": [
+          {
+            "chemical": "2,2′-azobis(isobutyronitrile) (AIBN)",
+            "amount": "not specified"
+          },
+          {
+            "chemical": "Styrene-3,5-dicarboxylic acid (S)",
+            "amount": "not specified"
+          }
+        ],
+        "time": "not specified",
+        "washing_method": "with ethyl acetate",
+        "drying_method": "drying under reduced pressure at room temperature",
+        "yield": "not specified",
+        "additional_information": "The composition of P2 was determined to be M/S = 76/24, as determined by 1H NMR spectroscopy."
+      }
+    }
+  ]
+}

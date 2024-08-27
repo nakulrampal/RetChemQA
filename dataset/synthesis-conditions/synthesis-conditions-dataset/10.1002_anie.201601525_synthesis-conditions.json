@@ -1,0 +1,51 @@
+{
+  "materials": [
+    {
+      "name": "1,8-bis(2-phenylethynyl)naphthalene (bpen) to 7-iodo-12-phenylindeno[2,1-a]phenalene (ipp)",
+      "conditions": {
+        "temperature": "mild conditions",
+        "solvent": "solvent-free",
+        "equipment": "small glass vial within a larger vial containing solid iodine crystals",
+        "chemicals_used": "iodine vapor",
+        "time": "several days",
+        "drying_method": "briefly dried in air",
+        "yield": "quantitative"
+      }
+    },
+    {
+      "name": "7-iodo-12-phenylindeno[2,1-a]phenalene (ipp) to 12-hydroxy-7-iodo-2-phenylindeno[2,1-a]phenalen-1(12H)-one (hipp)",
+      "conditions": {
+        "solvent": "solvent-free",
+        "chemicals_used": "molecular oxygen derived from air",
+        "time": "sequential reaction after cyclization",
+        "yield": "more than 35 %"
+      }
+    },
+    {
+      "name": "CMF containing cyclohexane",
+      "conditions": {
+        "precursor_framework_solvents": "methanol and nitrobenzene",
+        "method": "solvent-exchange route",
+        "loading_method": "immersing the crystals loaded with cyclohexane into a concentrated solution of bpen in chloroform",
+        "time_for_color_change": "two days"
+      }
+    },
+    {
+      "name": "CMF·0.75 bpen·2.25 CHCl3·H2O",
+      "conditions": {
+        "composition": "[(ZnI2)3(tpt)2]·0.75 bpen·2.25 CHCl3·H2O",
+        "loading": "0.75 bpen, remainder of the pores being occupied by chloroform",
+        "interactions": "weak C¢H···p hydrogen bond and p–p stacking interactions"
+      }
+    },
+    {
+      "name": "[(ZnI2)3(tpt)2]·0.75 ipp·0.25 CHCl3·2 I2",
+      "conditions": {
+        "analysis_techniques": "combination of analytical techniques",
+        "composition_determined_by": "1H NMR spectroscopy, column chromatography, high-resolution mass spectrometry",
+        "solvent": "solvent-free",
+        "chemicals_used": "iodine vapor, molecular oxygen"
+      }
+    }
+  ]
+}

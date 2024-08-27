@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula and formula weight of compound 1?",
+      "answer": "C22 H14 Ag F6 N4 O2 Sb, 709.99",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature and using what wavelength was the X-ray intensity data for compound 3 measured?",
+      "answer": "298(2) K, 0.71073 A",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the crystal system and space group for compound 4?",
+      "answer": "Monoclinic, C2/c",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the synthesis temperature affect the conformation of the ligand L in compounds 1 and 2?",
+      "answer": "At 0ºC, ligand L adopts the trans-conformation in compound 1, while at 30ºC, it adopts the cis-conformation in compound 2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the relationship between the synthesis temperature and the dimensionality of the resulting coordination polymers?",
+      "answer": "Lower temperatures (0ºC) lead to 3D porous networks (compound 1) and highly corrugated 2D sheets (compound 3), while higher temperatures (30ºC) result in 2D porous networks (compound 2) and 1D nanosized tubes (compound 4).",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is it true that the synthesis of compounds 1-4 involves a temperature-dependent approach to control the ligand conformation?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the crystal system of compound 2 change with temperature?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the BF4- anions in compound 3 involved in hydrogen bonding?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the synthesis of compound 4 carried out at a temperature of 0ºC?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Do the ligands in compound 3 adopt a cis-conformation?",
+      "answer": "False, in compound 3, the ligands adopt a trans-conformation.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the final R index for compound 1 higher than that for compound 2?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesis of compound 2 result in a 3D porous network?",
+      "answer": "False, compound 2 has a 2D porous network.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of temperature in the synthesis of compounds 1-4?",
+      "answer": "Temperature controls the conformation of the ligand L, which in turn influences the dimensionality and topology of the resulting coordination polymers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the choice of counterion (SbF6- vs BF4-) affect the structures of the synthesized compounds?",
+      "answer": "The choice of counterion, combined with the synthesis temperature, leads to different structural motifs: SbF6- results in 3D and 2D structures at 0ºC and 30ºC respectively, while BF4- leads to 2D sheets and 1D tubes under the same conditions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the ligand L's conformation in determining the structure of the coordination polymers?",
+      "answer": "The conformation of ligand L (cis or trans) dictates the orientation of coordination donors, which directly influences the formation of 1D, 2D, or 3D structures in the coordination polymers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the crystallographic dimensions of the square channels in compound 1?",
+      "answer": "Approximately 10 × 10 Å",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the internal dimensions of the 1D tubes in compound 4?",
+      "answer": "Approximately 8.2 × 12 Å",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the calculated density of compound 3?",
+      "answer": "1.904 Mg/m^3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the DFT calculations in the synthesis of compounds 1-4?",
+      "answer": "DFT calculations were used to examine the thermodynamics of the different ligand conformations, indicating that the trans-conformation is more stable in solution and that higher temperatures enhance the transformation to the cis-conformation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the synthesis approach used for compounds 1-4 applicable to other flexible ligands and transition metals?",
+      "answer": "True, the temperature-dependent synthesis approach demonstrated for compounds 1-4 is being explored for new metal-organic frameworks with other flexible ligands and transition metals.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

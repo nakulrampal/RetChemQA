@@ -1,0 +1,42 @@
+{
+  "materials": [
+    {
+      "name": "Cd2(TCNQ)3.5(H2O)2",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "solvents": [
+            {
+              "name": "Methanol",
+              "amount": "1 mL"
+            },
+            {
+              "name": "Water",
+              "amount": "10 mL"
+            },
+            {
+              "name": "Ethanol",
+              "amount": "10 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Cd(NO3)2·4H2O",
+              "amount": "0.0308 g, 0.1 mmol"
+            },
+            {
+              "name": "LiTCNQ",
+              "amount": "0.021 g, 0.1 mmol"
+            }
+          ],
+          "equipment": "Layering method",
+          "time": "1 week",
+          "washing_method": "Washed with acetonitrile",
+          "yield": "3.1 mg (6% based on Cd)",
+          "temperature": "Room temperature for synthesis, 110 K for X-ray crystallography",
+          "additional_notes": "Dark purple crystals were harvested by filtration."
+        }
+      ]
+    }
+  ]
+}

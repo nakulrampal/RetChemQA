@@ -1,0 +1,68 @@
+{
+  "NNU-55-Co": {
+    "temperature": "120 °C",
+    "solvents": "DMF-H2O",
+    "amount_of_each_solvent": "3:1, 4 ml",
+    "equipment": "10 ml vial",
+    "chemicals_used": {
+      "5-Azabenzimidazole (5-AD)": "0.017 mmol",
+      "Co (CH3COO)2·6H2O": "0.14 mmol",
+      "nitric acid solution": "50 μl"
+    },
+    "time": "7 days",
+    "yield": "58% (base on 5-AD)",
+    "CCDC_number": "2081042"
+  },
+  "NNU-55-Ni": {
+    "temperature": "120 °C",
+    "solvents": "DMF-H2O",
+    "amount_of_each_solvent": "3:1, 4 ml",
+    "equipment": "10 ml vial",
+    "chemicals_used": {
+      "5-Azabenzimidazole (5-AD)": "0.017 mmol",
+      "Ni (CH3COO)2·6H2O": "0.14 mmol",
+      "nitric acid solution": "50 μl"
+    },
+    "time": "7 days",
+    "yield": "48% (base on 5-AD)"
+  },
+  "Photocatalytic_CO2RR": {
+    "temperature": "25 °C",
+    "solvents": "CH3CN/H2O",
+    "amount_of_each_solvent": "10 ml CH3CN, 100 μl H2O",
+    "equipment": "25 ml quartz reactor",
+    "chemicals_used": {
+      "NNU-55-Ni": "20 mg",
+      "[Ru(bpy)3]Cl2·6H2O": "0.013 mmol",
+      "TEOA": "23 mmol"
+    },
+    "time": "16 h",
+    "light_source": "Xe lamp (λ ≥ 420 nm, 300 W)",
+    "CO2_partial_pressure": "1 atm",
+    "CO_yield": "85.3 μmol",
+    "H2_yield": "21.0 μmol",
+    "CO_selectivity": "81.0%"
+  },
+  "Tandem_Reaction": {
+    "temperature": "65 °C",
+    "solvents": {
+      "1,4-dioxane": "3 ml",
+      "alcohol": "3 ml",
+      "phenol": "3.2 g, 34.1 mmol"
+    },
+    "equipment": {
+      "A_chamber": "25 ml",
+      "B_chamber": "10 ml"
+    },
+    "chemicals_used": {
+      "aryl_iodide": "0.5 mmol",
+      "Pd(PPh3)4": "6 mol%",
+      "Et3N": "139 μl, 1 mmol",
+      "amine_or_aryl_boronic_acid": "1 mmol"
+    },
+    "time": "16 h",
+    "CO_conversion_to_DEET": "85%",
+    "DEET_yield": "84.4 mg",
+    "CO_conversion_to_amide/ketone/ester": "44-78%"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "materials": [
+    {
+      "material_name": "1,3-Bis(4-carboxyphenyl)imidazolium Chloride (H2L+Cl–)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "4-Aminobenzoic acid",
+            "amount": "10 g",
+            "molar_equivalent": "2.0 equiv"
+          },
+          {
+            "chemical": "Dry methanol",
+            "amount": "30 mL"
+          },
+          {
+            "chemical": "Formic acid",
+            "amount": "4 drops"
+          },
+          {
+            "chemical": "30% aqueous solution of glyoxal",
+            "amount": "5.3 mL",
+            "molar_equivalent": "1.0 equiv"
+          }
+        ],
+        "solvent": "Dry methanol",
+        "temperature": "ambient temperature",
+        "time": "24 h",
+        "yield": "65%",
+        "melting_point": ">300 °C",
+        "washing_method": "washed with cold methanol",
+        "drying_method": "dried in air"
+      }
+    },
+    {
+      "material_name": "1,3-Bis(4-carboxyphenyl)imidazolium Chloride (H2L+Cl–)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Compound L1",
+            "amount": "5 g",
+            "molar_equivalent": "16.89 mmol"
+          },
+          {
+            "chemical": "Anhydrous THF",
+            "amount": "10 mL"
+          },
+          {
+            "chemical": "Paraformaldehyde",
+            "amount": "635 mg",
+            "molar_equivalent": "21.16 mmol, 1.25 equiv"
+          },
+          {
+            "chemical": "12 N HCl",
+            "amount": "2.1 mL",
+            "molar_equivalent": "25.33 mmol, 1.5 equiv"
+          },
+          {
+            "chemical": "Dioxane",
+            "amount": "4 mL"
+          }
+        ],
+        "solvent": "Anhydrous THF",
+        "temperature": "0 °C to room temperature",
+        "time": "4 h",
+        "yield": "70%",
+        "melting_point": ">300 °C",
+        "washing_method": "washed with Et2O",
+        "drying_method": "dried in vacuum"
+      }
+    },
+    {
+      "material_name": "[{(Zn0.25)8(O)}Zn6(L)12(H2O)29(DMF)69(NO3)2]n (1)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "H2L+Cl–",
+            "amount": "1 mmol"
+          },
+          {
+            "chemical": "Zn(NO3)2·6H2O",
+            "amount": "4 mmol"
+          },
+          {
+            "chemical": "DMF",
+            "amount": "3 mL"
+          }
+        ],
+        "equipment": "Teflon-lined autoclave",
+        "temperature": "120 °C",
+        "time": "48 h",
+        "cooling_rate": "10 °C/h to room temperature",
+        "yield": "~40%",
+        "drying_method": "Not specified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "materials": [
+    {
+      "name": "MIL-47",
+      "synthesis_conditions": {
+        "temperature": "473 K",
+        "time": "96 h",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "14 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "VCl3",
+            "amount": "1.22 g"
+          },
+          {
+            "name": "terephthalic acid",
+            "amount": "0.32 g"
+          }
+        ],
+        "washing_method": "water",
+        "drying_method": "calcination under air",
+        "drying_temperature": "573 K",
+        "drying_time": "21.5 h"
+      }
+    },
+    {
+      "name": "MIL-53(Al)",
+      "synthesis_conditions": {
+        "temperature": "493 K",
+        "time": "72 h",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "3.62 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Al(NO3)3·9H2O",
+            "amount": "1.88 g"
+          },
+          {
+            "name": "terephthalic acid",
+            "amount": "0.41 g"
+          }
+        ],
+        "washing_method": "water",
+        "drying_method": "calcination",
+        "drying_temperature": "603 K",
+        "drying_time": "72 h"
+      }
+    },
+    {
+      "name": "[Cu3(BTC)2]",
+      "synthesis_conditions": {
+        "notes": "Synthesized according to the procedure in Patent WO 049892 A1, 2004."
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "materials": [
+    {
+      "name": "2",
+      "synthesis": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "350 µl"
+          },
+          {
+            "name": "ethanol",
+            "washing_method": "washed with ethanol three times"
+          }
+        ],
+        "equipment": [
+          "mortar",
+          "Rigaku RINT 2000 Ultima diffractometer",
+          "Rigaku TG8120"
+        ],
+        "chemicals_used": [
+          {
+            "name": "zinc oxide",
+            "amount": "162 mg, 2 mmol"
+          },
+          {
+            "name": "phosphoric acid (85% solution)",
+            "amount": "4.0 mmol"
+          },
+          {
+            "name": "1,2,4-triazole",
+            "amount": "276 mg, 4 mmol"
+          }
+        ],
+        "time": "grinded for 10 min",
+        "drying_method": "dried at 80 °C overnight",
+        "yield": "ICP-AES and EA results: Zn 16%, P 12%, C 12%, N 20%"
+      }
+    },
+    {
+      "name": "3",
+      "synthesis": {
+        "phosphoric_acid_amount": "4.4 mmol"
+      }
+    },
+    {
+      "name": "4",
+      "synthesis": {
+        "phosphoric_acid_amount": "4.8 mmol"
+      }
+    },
+    {
+      "name": "5",
+      "synthesis": {
+        "phosphoric_acid_amount": "5.2 mmol",
+        "yield": "ICP-AES and EA results: Zn 15%, P 13%, C 11%, N 18%"
+      }
+    },
+    {
+      "name": "1s",
+      "synthesis": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "phosphoric acid (85% solution)",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": [
+          "mortar",
+          "closed-cycle helium cryostat",
+          "JNM-ECA600",
+          "Bruker solid-state NMR instrument ADVANCE III 400 MHz"
+        ],
+        "chemicals_used": [
+          {
+            "name": "zinc oxide",
+            "amount": "not specified"
+          },
+          {
+            "name": "1,2,4-triazole",
+            "amount": "not specified"
+          }
+        ],
+        "time": "maintained at room temperature for 1 week",
+        "characterization": [
+          "single crystal neutron diffraction",
+          "solid-state NMR measurements"
+        ]
+      }
+    }
+  ]
+}

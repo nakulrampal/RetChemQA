@@ -1,0 +1,166 @@
+{
+  "materials": [
+    {
+      "name": "MOF 2",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation",
+          "details": {
+            "chemicals_used": [
+              {
+                "name": "(NH4)2FeII(SO4)2·6H2O",
+                "amount": "5.8 mg",
+                "molar_amount": "0.015 mmol"
+              },
+              {
+                "name": "H2O/CH3OH solution",
+                "ratio": "1:1"
+              }
+            ],
+            "equipment": "Teflon cup, microwave oven",
+            "temperature": "220 °C",
+            "time": "10 min",
+            "atmosphere": "open air",
+            "washing_method": "H2O/CH3OH solution several times",
+            "drying_method": "air-dried",
+            "yield": "C, 23.61; H, 5.61; N, 4.29%"
+          }
+        },
+        {
+          "step": "Multigram-scale procedure",
+          "details": {
+            "chemicals_used": [
+              {
+                "name": "(NH4)2FeII(SO4)2·6H2O",
+                "amount": "0.46 mg",
+                "molar_amount": "1.2 mmol"
+              },
+              {
+                "name": "H2O/CH3OH solution",
+                "ratio": "1:1"
+              }
+            ],
+            "equipment": "Teflon cup, microwave oven",
+            "temperature": "220 °C",
+            "time": "10 min",
+            "atmosphere": "open air",
+            "washing_method": "H2O/CH3OH solution several times",
+            "drying_method": "air-dried",
+            "yield": "C, 23.51; H, 5.65; N, 4.31%"
+          }
+        }
+      ]
+    },
+    {
+      "name": "FeIII–nZrO2",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation",
+          "details": {
+            "chemicals_used": [
+              {
+                "name": "ZrOCl2·8H2O",
+                "amount": "23.5 mmol"
+              },
+              {
+                "name": "FeCl3·6H2O",
+                "amount": "appropriate for 10 wt % Fe"
+              },
+              {
+                "name": "Urea",
+                "amount": "27 mmol"
+              },
+              {
+                "name": "Milli-Q water",
+                "amount": "35 mL"
+              }
+            ],
+            "equipment": "Teflon cup, microwave oven",
+            "temperature": "220 °C",
+            "time": "10 min",
+            "washing_method": "washed and centrifuged several times",
+            "drying_method": "rotatory evaporation"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nano-ZrO2",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation",
+          "details": {
+            "chemicals_used": [
+              {
+                "name": "ZrOCl2·8H2O",
+                "amount": "23.5 mmol"
+              },
+              {
+                "name": "Milli-Q water",
+                "amount": "35 mL"
+              }
+            ],
+            "equipment": "Teflon cup, microwave oven",
+            "temperature": "220 °C",
+            "time": "10 min",
+            "washing_method": "washed and centrifuged several times",
+            "drying_method": "rotatory evaporation"
+          }
+        }
+      ]
+    },
+    {
+      "name": "nFe2O3–nZrO2",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation",
+          "details": {
+            "chemicals_used": [
+              {
+                "name": "Fe­(acac)3",
+                "amount": "appropriate for 1 wt % Fe",
+                "solvent": "acetone",
+                "solvent_amount": "5 mL"
+              }
+            ],
+            "equipment": "not specified",
+            "temperature": "45 °C",
+            "drying_method": "dried overnight at 110 °C",
+            "calcination_temperature": "500 °C",
+            "calcination_time": "2 h"
+          }
+        }
+      ]
+    },
+    {
+      "name": "nFe2O3–nTiO2",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation",
+          "details": {
+            "chemicals_used": [
+              {
+                "name": "FeCl2",
+                "amount": "appropriate for 0.5 wt % Fe",
+                "solvent": "distilled water",
+                "solvent_amount": "15 mL"
+              },
+              {
+                "name": "Citric acid",
+                "amount": "50 mg"
+              },
+              {
+                "name": "Sodium borohydride (NaBH4)",
+                "amount": "120 mg"
+              }
+            ],
+            "equipment": "not specified",
+            "temperature": "250 rpm for 16 h",
+            "washing_method": "rinsed with distilled water followed by acetone",
+            "drying_method": "dried for 24 h under vacuum"
+          }
+        }
+      ]
+    }
+  ]
+}

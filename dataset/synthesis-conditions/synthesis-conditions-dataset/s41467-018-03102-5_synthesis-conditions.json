@@ -1,0 +1,184 @@
+{
+  "PCN-224": {
+    "temperature": "120 °C",
+    "solvents": "DMF",
+    "chemicals_used": [
+      {
+        "name": "ZrCl4",
+        "amount": "30 mg"
+      },
+      {
+        "name": "H4TCPP",
+        "amount": "10 mg"
+      },
+      {
+        "name": "benzoic acid",
+        "amount": "600 mg"
+      }
+    ],
+    "time": "24 h",
+    "washing_method": [
+      "DMF",
+      "water",
+      "1 M HCl in DMF"
+    ],
+    "yield": "Not specified",
+    "drying_method": "Not specified"
+  },
+  "PCN-224(Ni)": {
+    "temperature": "100 °C",
+    "solvents": "DMF",
+    "chemicals_used": [
+      {
+        "name": "PCN-224",
+        "amount": "10 mg"
+      },
+      {
+        "name": "Ni(NO3)2",
+        "amount": "Not specified"
+      }
+    ],
+    "time": "24 h",
+    "washing_method": "DMF",
+    "yield": "70%",
+    "drying_method": "Not specified"
+  },
+  "PCN-224(Ni)-INA": {
+    "temperature": "80 °C",
+    "solvents": "DMF",
+    "chemicals_used": [
+      {
+        "name": "PCN-224(Ni)",
+        "amount": "10 mg"
+      },
+      {
+        "name": "INA",
+        "amount": "30 mg"
+      }
+    ],
+    "time": "24 h",
+    "washing_method": "Not specified",
+    "yield": "Not specified",
+    "drying_method": "Not specified"
+  },
+  "PCN-201(Ni)-Cu": {
+    "temperature": "65 °C",
+    "solvents": "MeCN",
+    "chemicals_used": [
+      {
+        "name": "PCN-224(Ni)-INA",
+        "amount": "Not specified"
+      },
+      {
+        "name": "CuI",
+        "amount": "30 mg"
+      }
+    ],
+    "time": "24 h",
+    "washing_method": "DMF",
+    "yield": "Not specified",
+    "drying_method": "Not specified"
+  },
+  "PCN-201(Ni)-Ni": {
+    "temperature": "65 °C",
+    "solvents": "DMF",
+    "chemicals_used": [
+      {
+        "name": "PCN-224(Ni)-INA",
+        "amount": "Not specified"
+      },
+      {
+        "name": "NiCl2",
+        "amount": "30 mg"
+      }
+    ],
+    "time": "24 h",
+    "washing_method": "DMF",
+    "yield": "Not specified",
+    "drying_method": "Not specified"
+  },
+  "PCN-224(Ni)-DCDPS": {
+    "temperature": "80 °C",
+    "solvents": "DMF",
+    "chemicals_used": [
+      {
+        "name": "PCN-224(Ni)",
+        "amount": "10 mg"
+      },
+      {
+        "name": "DCDPS",
+        "amount": "30 mg"
+      }
+    ],
+    "time": "24 h",
+    "washing_method": "Not specified",
+    "yield": "Not specified",
+    "drying_method": "Not specified"
+  },
+  "PCN-202(Ni)-Hf": {
+    "temperature": "80 °C",
+    "solvents": "DMF",
+    "chemicals_used": [
+      {
+        "name": "PCN-224(Ni)-DCDPS",
+        "amount": "Not specified"
+      },
+      {
+        "name": "HfCl4",
+        "amount": "30 mg"
+      },
+      {
+        "name": "acetic acid",
+        "amount": "0.1 mL"
+      }
+    ],
+    "time": "24 h",
+    "washing_method": "DMF",
+    "yield": "Not specified",
+    "drying_method": "Not specified"
+  },
+  "PCN-202(Ni)-Zr": {
+    "temperature": "80 °C",
+    "solvents": "DMF",
+    "chemicals_used": [
+      {
+        "name": "PCN-224(Ni)-DCDPS",
+        "amount": "Not specified"
+      },
+      {
+        "name": "ZrCl4",
+        "amount": "30 mg"
+      },
+      {
+        "name": "acetic acid",
+        "amount": "0.1 mL"
+      }
+    ],
+    "time": "24 h",
+    "washing_method": "DMF",
+    "yield": "Not specified",
+    "drying_method": "Not specified"
+  },
+  "PCN-201(Fe)-Cu": {
+    "temperature": "Not specified",
+    "solvents": "DMF",
+    "chemicals_used": [
+      {
+        "name": "PCN-224",
+        "amount": "Not specified"
+      },
+      {
+        "name": "FeCl2",
+        "amount": "Not specified"
+      },
+      {
+        "name": "CuI",
+        "amount": "Not specified"
+      }
+    ],
+    "time": "Not specified",
+    "washing_method": "DMF",
+    "yield": "Not specified",
+    "drying_method": "Not specified"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "materials": [
+    {
+      "material_id": "1",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Zn(ClO4)2·6H2O",
+            "amount": "37 mg",
+            "molarity": "0.1 mmol"
+          },
+          {
+            "chemical": "2,4-Di-(4-pyiridyl)-1,3,5-triazine (DPT)",
+            "amount": "24 mg",
+            "molarity": "0.1 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "CH3CN",
+            "amount": "5 mL"
+          },
+          {
+            "solvent": "CHCl3",
+            "amount": "5 mL"
+          }
+        ],
+        "temperature": "ambient temperature",
+        "equipment": "Rigaku RAXIS-RAPID Imaging Plate diffractometer",
+        "radiation": "graphite monochromated Mo Kα radiation",
+        "temperature_details": "-150 ± 1 °C",
+        "max_2theta_value": "60.0°",
+        "yield": "47%",
+        "crystal_data": {
+          "FW": "834.90",
+          "crystal_size": "0.25 mm × 0.10 mm × 0.05 mm",
+          "space_group": "P41212",
+          "a": "12.3804(7) Å",
+          "c": "46.505(2) Å",
+          "V": "7128.0(7) Å3",
+          "Z": "8",
+          "μ": "9.1 cm-1",
+          "Dc": "1.56 g cm-3",
+          "min_max_transmission": "0.82/0.96",
+          "2θ": "< 60.03",
+          "R(Rw)": "0.109 (0.168)",
+          "Rint": "0.121",
+          "independent_reflections": "5978",
+          "total_reflections": "66616",
+          "parameters": "489",
+          "Flack's_parameter": "0.00(2)",
+          "good-of-fit_on_F2": "1.098",
+          "residual_electron_density": "-0.88/1.38 e-/Å"
+        },
+        "synthesis_method": "prepared by layering a solution of Zn(ClO4)2·6H2O in CH3CN carefully onto a solution of DPT in CHCl3. The solution was kept standing to obtain colorless prisms suitable for X-ray diffraction study."
+      }
+    }
+  ]
+}

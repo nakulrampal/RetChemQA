@@ -1,0 +1,58 @@
+{
+  "materials": [
+    {
+      "name": "rctt-HT dimers",
+      "synthesis_conditions": {
+        "template": "pseudorotaxane-like Zn-based MOFs",
+        "precursors": ["trans-4-styrylpyridine (4-spy) derivatives"],
+        "irradiation": "UV light",
+        "comments": "Formation achieved by confining pairs of coordinated 4-spy derivative ligands within hexagonal windows of MOFs and then irradiating them."
+      }
+    },
+    {
+      "name": "4,4’-(2,4-bis(benzo[b]thiophen-3-yl)cyclobutane-1,3-diyl)dipyridine (btcb)",
+      "synthesis_conditions": {
+        "template": "pseudorotaxane-like Zn-based MOFs",
+        "precursors": ["(E)-4-(2-(benzo[b]thiophen-3-yl)vinyl)pyridine (btpy, 1 p)"],
+        "irradiation": "UV light, 365 nm, 40 h",
+        "comments": "btpy ligands bound to Zn centers of Zn(oba)(S-spy) networks situated above and below the network shown."
+      }
+    },
+    {
+      "name": "Substituted cyclobutane products (2 a–2 t)",
+      "synthesis_conditions": {
+        "template": "S-spy%MOF crystals",
+        "irradiation": "UV light, 365 nm, 40 h",
+        "yield": "Almost quantitative yields",
+        "comments": "The network material is then placed in nitric acid, resulting in the destruction of the network and the precipitation of H2oba which may then be filtered and recycled. Upon addition of base to the acidic solution, the substituted cyclobutane precipitates and is isolated by filtration."
+      }
+    },
+    {
+      "name": "4,4’-(2,4-bis(3-methoxyphenyl)cyclobutane-1,3-diyl)dipyridine (pocb, 2 r)",
+      "synthesis_conditions": {
+        "template": "[Zn(oba)(3-OCH3-spy)]2 (C19)",
+        "precursors": ["(E)-4-(3-methoxyphenyl)pyridine (3-OCH3-spy, 1 t)"],
+        "irradiation": "UV light, 365 nm, 40 h",
+        "comments": "The methoxy derivative was obtained by treating (E)-4-(3-hydroxylphenyl)vinyl)pyridine (3-HO-spy, 1 s) with CH3I under mild conditions."
+      }
+    },
+    {
+      "name": "3,3’-(2,4-di(pyridin-4-yl)cyclobutane-1,3-diyl)diphenol (pdcb, 2 s)",
+      "synthesis_conditions": {
+        "precursors": ["4,4’-(2,4-bis(3-methoxyphenyl)cyclobutane-1,3-diyl)dipyridine (pocb, 2 r)"],
+        "demethylation": "HBr or BCl3",
+        "yield": "80 %",
+        "comments": "Demethylation of pocb, 2 r worked efficiently using HBr or BCl3."
+      }
+    },
+    {
+      "name": "Cross photodimerization product 2 t",
+      "synthesis_conditions": {
+        "template": "MOF C20",
+        "precursors": ["trans-4-styrylpyridine (4-spy)", "(E)-3-(2-(pyridin-4-yl)vinyl)benzonitrile (3-CN-spy, 1 d)"],
+        "irradiation": "UV light",
+        "comments": "Pairs of different ligands were combined in order to determine whether a heterodimer could be generated."
+      }
+    }
+  ]
+}

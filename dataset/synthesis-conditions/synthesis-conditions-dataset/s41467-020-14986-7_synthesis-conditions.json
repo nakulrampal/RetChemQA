@@ -1,0 +1,76 @@
+{
+  "materials": [
+    {
+      "material": "1",
+      "synthesis_conditions": {
+        "solvents": ["Water"],
+        "chemicals_used": [
+          {
+            "chemical": "MQCl·H2O",
+            "amount": "899 mg, 4 mmol"
+          },
+          {
+            "chemical": "MnCl2·5H2O",
+            "amount": "432 mg, 2 mmol"
+          },
+          {
+            "chemical": "K3[FeIII(CN)6]",
+            "amount": "659 mg, 2 mmol"
+          }
+        ],
+        "equipment": ["50 mL small beaker", "300 mL big beaker"],
+        "time": "one week",
+        "temperature": "room temperature",
+        "yield": "40%",
+        "washing_method": ["Water", "Ethanol"],
+        "drying_method": "Dried in air for 1 day",
+        "photo_thermo_activation": {
+          "photoactivation": {
+            "equipment": "Xe lamp",
+            "power": "~200 mW cm-2",
+            "temperature": "room temperature"
+          },
+          "thermoactivation": {
+            "temperature": "180 °C"
+          }
+        }
+      }
+    },
+    {
+      "material": "2",
+      "synthesis_conditions": {
+        "solvents": ["Water"],
+        "chemicals_used": [
+          {
+            "chemical": "MQCl·H2O",
+            "amount": "899 mg, 4 mmol"
+          },
+          {
+            "chemical": "ZnCl2",
+            "amount": "273 mg, 2 mmol"
+          },
+          {
+            "chemical": "K3[FeIII(CN)6]",
+            "amount": "659 mg, 2 mmol"
+          }
+        ],
+        "equipment": ["50 mL small beaker", "300 mL big beaker"],
+        "time": "one week",
+        "temperature": "room temperature",
+        "yield": "25%",
+        "washing_method": ["Water", "Ethanol"],
+        "drying_method": "Dried in air for 1 day",
+        "photo_thermo_activation": {
+          "photoactivation": {
+            "equipment": "Xe lamp",
+            "power": "~200 mW cm-2",
+            "temperature": "room temperature"
+          },
+          "thermoactivation": {
+            "temperature": "180 °C"
+          }
+        }
+      }
+    }
+  ]
+}

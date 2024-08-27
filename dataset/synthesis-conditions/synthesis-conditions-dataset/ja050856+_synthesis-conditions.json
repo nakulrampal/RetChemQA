@@ -1,0 +1,59 @@
+{
+  "materials": [
+    {
+      "name": "[Cu(µ-pz)2·H2O], 1",
+      "synthesis_conditions": [
+        {
+          "method": "A",
+          "chemicals_used": "Cu(MeCOO)2·H2O (2.00 g, 10.02 mmol), Hpz (1.40 g, 20.56 mmol), MeCN (210 mL)",
+          "temperature": "room temperature",
+          "solvents": "MeCN",
+          "amount_of_solvents": "210 mL",
+          "time": "30 minutes",
+          "washing_method": "washed with 3 portions of 20 mL of MeCN",
+          "drying_method": "dried in air",
+          "yield": "2.12 g (98%)"
+        },
+        {
+          "method": "B",
+          "chemicals_used": "Copper(II) propionate (0.96 g, 4.6 mmol), Hpz (0.96 g, 14.2 mmol), MeCN (70 mL)",
+          "temperature": "room temperature",
+          "solvents": "MeCN",
+          "amount_of_solvents": "70 mL",
+          "time": "stirred for 2 h and let to stay overnight",
+          "washing_method": "washed with 5 mL of MeCN",
+          "yield": "0.99 g, 98 %"
+        }
+      ]
+    },
+    {
+      "name": "[β-Cu(µ-pz)2], 3",
+      "synthesis_conditions": [
+        {
+          "method": "drying",
+          "chemicals_used": "Compound 1",
+          "temperature": "100 °C or 130 °C",
+          "time": "1 h",
+          "equipment": "vacuum pump (0.1 mm Hg) or without pumping at 130 °C",
+          "description": "Solid compound 1 was dried to obtain a beige solid identified as 3."
+        }
+      ]
+    },
+    {
+      "name": "Compounds 4a-f",
+      "synthesis_conditions": [
+        {
+          "method": "interaction with Lewis bases",
+          "chemicals_used": "Compound 3, various gaseous substances",
+          "temperature": "room temperature",
+          "description": "About 200 mg of 3 were exposed to various reagents through a serum cap or a faucet in a Schlenk tube under vacuum. The sorption was favored by gently shaking the vial for periods varying from a few minutes to days."
+        },
+        {
+          "method": "alternative synthesis for 4c",
+          "chemicals_used": "Anhydrous Cu(MeCOO)2, Hpz, anhydrous MeCN",
+          "description": "Compound 4c was obtained by reacting anhydrous Cu(MeCOO)2 with Hpz in anhydrous MeCN."
+        }
+      ]
+    }
+  ]
+}

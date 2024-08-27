@@ -1,0 +1,42 @@
+{
+  "materials": [
+    {
+      "name": "1·4CH3OH",
+      "synthesis_conditions": {
+        "temperature": "130 °C",
+        "solvents": "CH3OH",
+        "amount_of_solvent": "8 mL",
+        "equipment": "Teflon-lined autoclave",
+        "chemicals_used": [
+          {"name": "DyCl3·6H2O", "amount": "188 mg, 0.5 mmol"},
+          {"name": "2-pyridinethiol 1-oxide (HL)", "amount": "254 mg, 2.0 mmol"},
+          {"name": "triethylamine", "amount": "278.0 μL, 2.0 mmol"},
+          {"name": "NaCl", "amount": "29 mg, 0.5 mmol"}
+        ],
+        "time": "24 h",
+        "yield": "45%",
+        "drying_method": "air drying at room temperature",
+        "crystal_washing_method": "washed with methanol (5 × 4.0 mL)"
+      }
+    },
+    {
+      "name": "2a·sol and 2b·sol",
+      "synthesis_conditions": {
+        "temperature": "130 °C",
+        "solvents": "CH3OH",
+        "amount_of_solvent": "8 mL",
+        "equipment": "Teflon-lined autoclave",
+        "chemicals_used": [
+          {"name": "Dy(NO3)3·6H2O", "amount": "228 mg, 0.5 mmol"},
+          {"name": "2-pyridinethiol 1-oxide (HL)", "amount": "254 mg, 2.0 mmol"},
+          {"name": "NaOH", "amount": "80 mg, 2.0 mmol"},
+          {"name": "KBr", "amount": "100 mg, 0.84 mmol"}
+        ],
+        "time": "24 h",
+        "yield": "31%",
+        "drying_method": "air drying at room temperature",
+        "crystal_washing_method": "washed with methanol (5 × 4.0 mL)"
+      }
+    }
+  ]
+}

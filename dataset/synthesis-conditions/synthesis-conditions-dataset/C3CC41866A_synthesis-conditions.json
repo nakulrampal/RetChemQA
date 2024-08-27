@@ -1,0 +1,57 @@
+{
+  "materials": [
+    {
+      "name": "Cu2(PDDI)",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": "DMF–H2O–MeCN",
+        "solvent_amounts": {
+          "DMF": "6 parts",
+          "H2O": "1 part",
+          "MeCN": "1 part"
+        },
+        "equipment": "screw-capped vial",
+        "chemicals_used": {
+          "Cu(NO3)2·2.5H2O": "30 mg (0.129 mmol)",
+          "H4PDDI": "15 mg (0.037 mmol)",
+          "HCl": "50 µL (37%, aq.)"
+        },
+        "time": "3 days",
+        "yield": "28 mg, 78% based on H4PDDI",
+        "washing_method": "washed with DMF several times",
+        "drying_method": "activated at 100 °C overnight under high vacuum",
+        "activation_method": "exchanged with acetone 10 times and then activated at 100 °C overnight until the outgas rate was less than 5 mmHg min-1"
+      }
+    },
+    {
+      "name": "H4PDDI",
+      "synthesis_conditions": {
+        "steps": [
+          {
+            "name": "Synthesis of Tetramethyl 5,5'-(pyridine-2,5-diyl)diisophthalate (2)",
+            "temperature": "85 °C",
+            "solvents": "1,4-dioxane",
+            "chemicals_used": {
+              "2,5-dibromopyridine": "3.54 g (15 mmol)",
+              "Dimethyl 5-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)isophthalate (1)": "14.41 g (45 mmol)",
+              "K2CO3": "27.8 g (200 mmol)",
+              "Pd(PPh3)2Cl2": "0.30 g (0.4 mmol)"
+            },
+            "time": "24 h",
+            "yield": "5.48 g, 79%"
+          },
+          {
+            "name": "Hydrolysis and Acidification to form H4PDDI (3)",
+            "temperature": "Reflux overnight",
+            "solvents": "THF and H2O",
+            "chemicals_used": {
+              "NaOH": "100 mL of 10 M aqueous solution",
+              "HCl": "added until pH = 3"
+            },
+            "yield": "3.93 g, 96.5%"
+          }
+        ]
+      }
+    }
+  ]
+}

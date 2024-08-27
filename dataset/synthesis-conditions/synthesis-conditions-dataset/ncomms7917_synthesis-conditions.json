@@ -1,0 +1,48 @@
+{
+  "materials": [
+    {
+      "name": "1 (MCF-82)",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": ["ethanol", "water"],
+        "amount_of_each_solvent": {
+          "ethanol": "80 ml",
+          "water": "40 ml"
+        },
+        "equipment": "250-ml scintillation vial",
+        "chemicals_used": [
+          "Cd(NO3)2",
+          "3-(pyridin-4-yl)benzoic acid (H34pba)",
+          "4-(pyridin-4-yl)benzoic acid (H44pba)"
+        ],
+        "time": "24 h",
+        "yield": "Approximately 80%",
+        "drying_method": "Briefly dried in air"
+      }
+    },
+    {
+      "name": "1 (MCF-82)·DMF",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": ["DMF vapor"],
+        "equipment": "Sealed in a test tube",
+        "chemicals_used": ["1 (MCF-82) crystals"],
+        "time": "3 days",
+        "drying_method": "Not specified",
+        "additional_information": "Single crystals of 1·DMF were obtained by exposing 1 to DMF vapor."
+      }
+    },
+    {
+      "name": "1 (MCF-82)·DMA",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": ["DMA vapor"],
+        "equipment": "Sealed in a test tube",
+        "chemicals_used": ["1 (MCF-82) crystals"],
+        "time": "3 days",
+        "drying_method": "Not specified",
+        "additional_information": "Single crystals of 1·DMA were obtained by exposing 1 to DMA vapor."
+      }
+    }
+  ]
+}

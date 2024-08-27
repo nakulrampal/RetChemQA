@@ -1,0 +1,75 @@
+{
+  "materials": [
+    {
+      "name": "MIL-103",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "100°C",
+          "time": "five days",
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "12.5 mL"
+            },
+            {
+              "name": "cyclohexanol",
+              "amount": "12.5 mL",
+              "temperature": "≈ 40°C"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "TbCl3·6H2O",
+              "amount": "0.425 g, 1.14 mmol"
+            },
+            {
+              "name": "H3TBT",
+              "amount": "0.50 g, 1.14 mmol"
+            },
+            {
+              "name": "NaOH solution",
+              "amount": "1 mL of a 2 M solution (2.0 mmol)"
+            }
+          ],
+          "equipment": "125 mL Teflon-lined steel autoclave",
+          "yield": "0.613 g (66%)",
+          "washing_method": "washed several times with water, ethanol, acetone",
+          "drying_method": "dried in air"
+        },
+        {
+          "step": "Alternative synthesis for single crystals",
+          "temperature": "200°C",
+          "time": "96 hours",
+          "cooling_rate": "3.75°C/hr to room temperature",
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "2.5 mL"
+            },
+            {
+              "name": "cyclohexanol",
+              "amount": "2.5 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "TbCl3·6H2O",
+              "amount": "0.085 g"
+            },
+            {
+              "name": "H3BTB",
+              "amount": "0.10 g"
+            },
+            {
+              "name": "NaOH solution",
+              "amount": "0.2 mL of a 2 M solution"
+            }
+          ],
+          "equipment": "23 mL Teflon-lined steel autoclave",
+          "heating_rate": "1.875°C/min"
+        }
+      ]
+    }
+  ]
+}

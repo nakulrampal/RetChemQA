@@ -1,0 +1,61 @@
+{
+  "materials": [
+    {
+      "name": "Li[Mes*P4·BPh3]",
+      "synthesis_conditions": [
+        {
+          "step": "Protonation",
+          "reagents": [
+            {
+              "name": "[Me3NH][BPh4]",
+              "amount": "1.0 equiv"
+            }
+          ],
+          "solvent": "[D8]THF",
+          "temperature": "room temperature",
+          "time": "not specified",
+          "product": "H-substituted bicyclo[1.1.0]tetraphosphabutane 2"
+        },
+        {
+          "step": "Fragmentation with [IDippH][Cl]",
+          "reagents": [
+            {
+              "name": "[IDippH][Cl]",
+              "amount": "1.1 equiv"
+            }
+          ],
+          "solvent": "THF",
+          "temperature": "room temperature",
+          "time": "instant",
+          "product": "phosphinidene adduct 3 and Mes*PH2"
+        },
+        {
+          "step": "Fragmentation with PhNCO",
+          "reagents": [
+            {
+              "name": "PhNCO",
+              "amount": "20 equiv"
+            }
+          ],
+          "solvent": "THF",
+          "temperature": "room temperature",
+          "time": "not specified",
+          "product": "spirophosphoranide Li[7] and tricyclic hexaphosphane Mes*2P6"
+        },
+        {
+          "step": "Fragmentation with 1,3-cyclohexadiene",
+          "reagents": [
+            {
+              "name": "1,3-cyclohexadiene",
+              "amount": "50 equiv"
+            }
+          ],
+          "solvent": "THF",
+          "temperature": "room temperature",
+          "time": "not specified",
+          "product": "cycloaddition product 15"
+        }
+      ]
+    }
+  ]
+}

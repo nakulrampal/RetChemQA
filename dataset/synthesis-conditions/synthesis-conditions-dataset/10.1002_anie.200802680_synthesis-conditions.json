@@ -1,0 +1,47 @@
+{
+  "materials": [
+    {
+      "name": "usf-ZMOF",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "1 mL"
+          },
+          {
+            "name": "CH3CN",
+            "amount": "1 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.5 mL"
+          }
+        ],
+        "equipment": "sealed 20 mL vial",
+        "chemicals_used": [
+          {
+            "name": "4,5-Imidazoledicarboxylic acid",
+            "amount": "0.014 g, 0.087 mmol"
+          },
+          {
+            "name": "In(NO3)3·2 H2O",
+            "amount": "0.015 g, 0.0435 mmol"
+          },
+          {
+            "name": "1,2-diaminocyclohexane (1,2-dach)",
+            "amount": "0.1 mL, 1.75 m in DMF"
+          },
+          {
+            "name": "HNO3",
+            "amount": "0.5 mL, 3.5 m in DMF"
+          }
+        ],
+        "time": "12 h",
+        "yield": "0.023 g, 56 % based on In(NO3)3·2 H2O",
+        "drying_method": "air-dried",
+        "additional_information": "The product was colorless polyhedral crystals."
+      }
+    }
+  ]
+}

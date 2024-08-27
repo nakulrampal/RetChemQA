@@ -1,0 +1,67 @@
+{
+  "materials": [
+    {
+      "name": "CTGU-15",
+      "synthesis_conditions": {
+        "temperature": "120 88C",
+        "time": "24 h",
+        "solvents": "DMA/H2O solution",
+        "chemicals_used": [
+          "Ni(ClO4)2·6 H2O",
+          "TATB (4,4’,4’’-s-triazine-2,4,6-tribenzoic acid)",
+          "BPE (trans-1,2-bis(4-pyridyl)ethylene)"
+        ],
+        "additives": "HBF4",
+        "method": "solvothermal synthesis",
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "CTGU-16",
+      "synthesis_conditions": {
+        "temperature": "not specified",
+        "time": "not specified",
+        "solvents": "not specified",
+        "chemicals_used": "not specified",
+        "additives": "not specified",
+        "method": "similar synthetic strategy as CTGU-15",
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "KB&CTGU-15(1:2)",
+      "synthesis_conditions": {
+        "temperature": "not specified",
+        "time": "not specified",
+        "solvents": "not specified",
+        "chemicals_used": [
+          "CTGU-15",
+          "ketjen black (KB)"
+        ],
+        "ratio": "1:2",
+        "method": "integration of CTGU-15 and ketjen black",
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "CPM-33a",
+      "synthesis_conditions": {
+        "temperature": "not specified",
+        "time": "not specified",
+        "solvents": "not specified",
+        "chemicals_used": "not specified",
+        "additives": "not specified",
+        "method": "prepared according to the literature",
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified"
+      }
+    }
+  ]
+}

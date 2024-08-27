@@ -1,0 +1,84 @@
+{
+  "materials": [
+    {
+      "name": "ZJU-68",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "10 mL"
+          },
+          {
+            "name": "MeCN",
+            "amount": "2 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.05 mL"
+          },
+          {
+            "name": "HBF3",
+            "amount": "0.05 mL"
+          }
+        ],
+        "equipment": "15 mL Teflon-lined stainless-steel bomb",
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "0.34 mmol, 149 mg"
+          },
+          {
+            "name": "H2CPQC",
+            "amount": "0.17 mmol, 50 mg"
+          }
+        ],
+        "time": "24 h",
+        "drying_method": "dried in air",
+        "washing_method": "rinsed three times with fresh DMF (5 mL × 3)"
+      }
+    },
+    {
+      "name": "ZJU-68*DMASM",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "10 mL"
+          },
+          {
+            "name": "MeCN",
+            "amount": "2 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.05 mL"
+          },
+          {
+            "name": "HBF3",
+            "amount": "0.05 mL"
+          }
+        ],
+        "equipment": "15 mL Teflon-lined stainless-steel bomb",
+        "chemicals_used": [
+          {
+            "name": "DMASM iodide",
+            "amount": "0.03 mmol, 11 mg"
+          },
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "0.34 mmol, 149 mg"
+          },
+          {
+            "name": "H2CPQC",
+            "amount": "0.17 mmol, 50 mg"
+          }
+        ],
+        "time": "24 h",
+        "drying_method": "dried in air",
+        "washing_method": "rinsed four times with fresh DMF (5 mL × 4)"
+      }
+    }
+  ]
+}

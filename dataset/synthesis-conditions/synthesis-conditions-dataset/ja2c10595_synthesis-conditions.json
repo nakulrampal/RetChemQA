@@ -1,0 +1,141 @@
+{
+  "materials": [
+    {
+      "name": "ZUL-C3",
+      "synthesis": {
+        "temperature": "393 K",
+        "time": "2 days",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "37.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cu(NO3)2·3H2O",
+            "amount": "543.6 mg (2.25 mmol)"
+          },
+          {
+            "name": "H2bpdc",
+            "amount": "280.8 mg (1.8 mmol)"
+          },
+          {
+            "name": "ted",
+            "amount": "162.6 mg (1.45 mmol)"
+          }
+        ],
+        "washing_method": "washed with 10 mL DMF and 10 mL ethanol for three times each",
+        "drying_method": "dried and degassed under high vacuum (< 10 µmHg) at 393 K for 24 hours"
+      },
+      "single_crystal_synthesis": {
+        "temperature": "393 K",
+        "time": "2 days",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "6.25 mL"
+          },
+          {
+            "name": "pyridine",
+            "amount": "0.15 mL (1.8 mmol)"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CuCl2·2H2O",
+            "amount": "27.7 mg (0.16 mmol)"
+          },
+          {
+            "name": "H2bpdc",
+            "amount": "23.4 mg (0.15 mmol)"
+          },
+          {
+            "name": "ted",
+            "amount": "9 mg (0.08 mmol)"
+          }
+        ]
+      },
+      "characterization_methods": [
+        "Thermal Gravimetric Analysis (TGA)",
+        "Powder X-ray Diffraction (PXRD)",
+        "Variable-temperature X-ray Powder Diffraction (VT-PXRD)",
+        "Single Crystal X-ray Diffraction (SCXRD)"
+      ],
+      "adsorption_measurements": {
+        "equipment": "BELSORP MAX Ⅱ vapor adsorption analyzer",
+        "sample_preparation": "washed with 10 mL DMF and 10 mL ethanol for three times each, dried and degassed under high vacuum (< 10 µmHg) at 393 K for 24 hours",
+        "conditions": [
+          {
+            "temperature": "303 K",
+            "pressure_range": "0-1 torr"
+          },
+          {
+            "temperature": "363 K"
+          },
+          {
+            "temperature": "393 K"
+          },
+          {
+            "temperature": "423 K"
+          }
+        ]
+      },
+      "recyclability_tests": {
+        "temperature": "333 K",
+        "atmosphere": "nitrogen",
+        "cycles": "30",
+        "description": "A continuous total flow of vaporized OX was introduced at a rate of 10 mL/min. After equilibrium, the flow was replaced with pure N2, heated from 333 K to 423 K and kept for 20 minutes for full desorption."
+      },
+      "liquid_phase_adsorption_experiments": {
+        "temperature": "303 K",
+        "sample_amount": "20 mg",
+        "solvent_volume": "1 mL",
+        "mixtures_tested": [
+          "OX/PX",
+          "OX/MX",
+          "OX/EB",
+          "OX/PX/MX/EB"
+        ],
+        "equilibration_time": "1 day",
+        "analysis_method": "1H NMR spectra"
+      },
+      "multicomponent_vapor_phase_breakthrough_experiments": {
+        "column_dimensions": "4.6 mm inner diameter × 30 mm",
+        "sample_preparation": "packed with activated MOF powder",
+        "flow_rate": "15 mL/min",
+        "partial_pressure": "2 torr for each isomer",
+        "temperatures_tested": [
+          "303 K",
+          "423 K"
+        ],
+        "analysis_equipment": "gas chromatograph (GC-2010 pro, SHIMADZU) with a flame ionization detector (FID)"
+      },
+      "adsorption_heats": {
+        "method": "Differential Scanning Calorimetry (DSC)",
+        "equipment": "STD 650 (TA Instruments, Inc.)",
+        "conditions": "Runs were performed by feeding a flow stream of C8 isomers diluted with nitrogen onto about 5 mg of evacuated sample at 303 K."
+      },
+      "density_functional_theory_calculations": {
+        "software": "Materials Studio, CASTEP code",
+        "method": "first-principle density functional theory (DFT) and plane-wave ultrasoft pseudopotential",
+        "exchange_correlation": "generalized gradient approximation (GGA) with Perdew-Burke-Ernzerhof (PBE) exchange correlation",
+        "cutoff_energy": "544 eV",
+        "k-point_mesh": [
+          {
+            "structure": "activated ZUL-C3",
+            "mesh": "3×3×3"
+          },
+          {
+            "structure": "OX-loaded ZUL-C3",
+            "mesh": "3×4×5"
+          },
+          {
+            "structure": "PX-loaded ZUL-C3",
+            "mesh": "4×3×2"
+          }
+        ]
+      }
+    }
+  ]
+}

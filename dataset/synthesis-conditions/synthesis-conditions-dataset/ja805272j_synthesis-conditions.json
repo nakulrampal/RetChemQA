@@ -1,0 +1,79 @@
+{
+  "materials": [
+    {
+      "name": "(Mt2NH2)[In(thb)2].x(DMF) (ATF-1P)",
+      "synthesis_conditions": {
+        "precursors": [
+          {"name": "Thiophene-2,5-dicarboxylic acid (H2thb)", "amount": "0.0426 g", "molarity": "0.25 mmol"},
+          {"name": "cinchonidine", "amount": "0.0474 g", "molarity": "0.16 mmol"},
+          {"name": "In(NO3)3.xH2O", "amount": "0.0450 g", "molarity": "~0.14 mmol"}
+        ],
+        "solvent": "dimethyl formamide (DMF)",
+        "solvent_amount": "4.0205 g",
+        "temperature": "120 oC",
+        "time": "72 h",
+        "washing_method": "ethanol and distilled water",
+        "yield": "about 80% based on In"
+      }
+    },
+    {
+      "name": "(Mt2NH2)[In(thb)2].x(DMF) (ATF-1M)",
+      "synthesis_conditions": {
+        "precursors": [
+          {"name": "Thiophene-2,5-dicarboxylic acid (H2thb)", "amount": "0.0833 g", "molarity": "0.48 mmol"},
+          {"name": "(+)-cinchonine", "amount": "0.0982 g", "molarity": "0.33 mmol"},
+          {"name": "In(NO3)3.xH2O", "amount": "0.0862 g", "molarity": "~0.28 mmol"}
+        ],
+        "solvent": "dimethyl formamide (DMF)",
+        "solvent_amount": "4.1011 g",
+        "temperature": "120 oC",
+        "time": "72 h",
+        "washing_method": "ethanol and distilled water",
+        "yield": "about 80% based on In"
+      }
+    },
+    {
+      "name": "(Mt2NH2)[In(thb)2].x(DMF) (ATF-1)",
+      "synthesis_conditions": {
+        "precursors": [
+          {"name": "Thiophene-2,5-dicarboxylic acid (H2thb)", "amount": "0.0818 g", "molarity": "0.47 mmol"},
+          {"name": "In(NO3)3.xH2O", "amount": "0.0850 g", "molarity": "~0.28 mmol"}
+        ],
+        "solvent": "dimethyl formamide (DMF)",
+        "solvent_amount": "3.0314 g",
+        "temperature": "120 oC",
+        "time": "72 h",
+        "washing_method": "ethanol and distilled water"
+      }
+    },
+    {
+      "name": "(Et2NH2)[In(thb)2].x(DEF) (ATF-2P)",
+      "synthesis_conditions": {
+        "precursors": [
+          {"name": "Thiophene-2,5-dicarboxylic acid (H2thb)", "amount": "0.0807 g", "molarity": "0.47 mmol"},
+          {"name": "cinchonidine", "amount": "0.0921 g", "molarity": "0.31 mmol"},
+          {"name": "In(NO3)3.xH2O", "amount": "0.0883 g", "molarity": "~0.29 mmol"}
+        ],
+        "solvent": "diethyl formamide (DEF)",
+        "solvent_amount": "2.8713 g",
+        "temperature": "120 oC",
+        "time": "72 h",
+        "washing_method": "ethanol and distilled water"
+      }
+    },
+    {
+      "name": "(Et2NH2)[In(thb)2].x(DEF) (ATF-2)",
+      "synthesis_conditions": {
+        "precursors": [
+          {"name": "Thiophene-2,5-dicarboxylic acid (H2thb)", "amount": "0.0869 g", "molarity": "0.50 mmol"},
+          {"name": "In(NO3)3.xH2O", "amount": "0.0734 g", "molarity": "~0.24 mmol"}
+        ],
+        "solvent": "diethyl formamide (DEF)",
+        "solvent_amount": "4.115 g",
+        "temperature": "120 oC",
+        "time": "72 h",
+        "washing_method": "ethanol and distilled water"
+      }
+    }
+  ]
+}

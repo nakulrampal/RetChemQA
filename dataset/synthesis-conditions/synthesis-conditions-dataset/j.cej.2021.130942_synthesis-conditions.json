@@ -1,0 +1,91 @@
+{
+  "materials": [
+    {
+      "name": "Compound a (tetrakis(4-(2-(trimethylsilyl)ethynyl)phenyl)ethane)",
+      "synthesis_conditions": {
+        "temperature": "refluxed for 12 h",
+        "solvents": [
+          {
+            "name": "triethylamine",
+            "amount": "20 mL"
+          }
+        ],
+        "equipment": "under an atmosphere of nitrogen, degassed",
+        "chemicals_used": [
+          "tetrakis(4-bromophenyl)ethene (1.20 g, 1.85 mmol)",
+          "CuI (8.76 mg, 0.05 mmol)",
+          "PdCl2(PPh3)2 (64.7 mg, 0.09 mmol)",
+          "Trimethylsilylacetylene (1.70 g, 17 mmol)"
+        ],
+        "washing_method": "extracted with dichloromethane",
+        "purification_method": "column chromatography (CH2Cl2/petroleum ether = 1:20)",
+        "yield": "90.2%"
+      }
+    },
+    {
+      "name": "Compound b (tetrakis(4-ethynylphenyl)ethane)",
+      "synthesis_conditions": {
+        "temperature": "stirred overnight at room temperature",
+        "solvents": [
+          {
+            "name": "dichloromethane",
+            "amount": "not specified"
+          },
+          {
+            "name": "MeOH/NaOH",
+            "amount": "30 mL/0.54 g"
+          }
+        ],
+        "washing_method": "washed with brine (3 × 30 mL)",
+        "purification_method": "chromatography on silica gel (CH2Cl2/petroleum ether = 1:10)",
+        "yield": "93.1%"
+      }
+    },
+    {
+      "name": "Compound TPEPE (tetrakis(4-(4-(pyridyl)ethynyl)phenyl)ethene)",
+      "synthesis_conditions": {
+        "temperature": "stirred for 12 minutes at 65 ℃",
+        "solvents": [
+          {
+            "name": "Et3N/THF",
+            "amount": "80 mL, 1/2 ratio"
+          },
+          {
+            "name": "tetrahydrofuran",
+            "amount": "60 mL"
+          }
+        ],
+        "equipment": "under N2",
+        "chemicals_used": [
+          "4-iodopyridine (11.8 g, 57.6 mmol)",
+          "CuI (327 mg, 3%mol)",
+          "PdCl2(PPh3)2 (1.20 g, 3% mol)",
+          "Compound 1b (4.92 g, 11.5 mmol)"
+        ],
+        "washing_method": "washed with saturated NaCl solution (30 × 30 mL)",
+        "purification_method": "column chromatography",
+        "yield": "66.3%"
+      }
+    },
+    {
+      "name": "ZJU-X6",
+      "synthesis_conditions": {
+        "temperature": "120 ℃ for 48 h",
+        "solvents": [
+          {
+            "name": "CH3CN/DMSO",
+            "amount": "12 mL, 10/2 ratio"
+          }
+        ],
+        "equipment": "20 mL polytetrafluoroethylene bottle",
+        "chemicals_used": [
+          "tetrakis(4-(4-(pyridyl)ethynyl)phenyl)ethene (10 mg, 0.014 mmol)",
+          "Ni(NO3)2·xH2O (30 mg, 0.1 mmol)"
+        ],
+        "washing_method": "washed with H2O and EtOH",
+        "drying_method": "dried in air at room temperature",
+        "form": "yellow crystals"
+      }
+    }
+  ]
+}

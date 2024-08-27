@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the synthesis condition for ZnGlyPyr•(DMF)?",
+      "answer": "H2GlyPyr (50 mg, 0.296 mmol) and Zn(NO3)2•6H2O (104 mg, 0.35 mmol) were dissolved in DMF (10 mL) and the solution was heated at 100 °C for 48 h.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the desolvated ZnGlyPyr prepared for CO2 adsorption measurements at 195 K?",
+      "answer": "The desolvated ZnGlyPyr was prepared by fully exchanging the as-synthesized ZnGlyPyr with MeOH, followed by thermal evacuation using a high-vacuum line at 100 °C for 16 h.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the unit cell volume change observed in ZnGlyPyr after adsorption of benzene at full chemical potential?",
+      "answer": "The unit cell volume of ZnGlyPyr increased from 7241.4 Å3 under vacuum to 7920.1 Å3 after adsorption of benzene at full chemical potential.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What structural transformation is observed in ZnAlaPyr after CO2 adsorption and subsequent removal at 298 K?",
+      "answer": "After CO2 adsorption and subsequent removal at 298 K, ZnAlaPyr undergoes a structural transformation from a large volume phase to a new small-volume guest-free phase.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of methyl groups in ZnAlaPyr affect its structural response to benzene compared to ZnGlyPyr?",
+      "answer": "The presence of methyl groups in ZnAlaPyr results in a significantly smaller volume structure upon exposure to benzene compared to ZnGlyPyr, due to the reduced pore space and the energetically unfavorable distortion required to accommodate benzene in a similar manner as in ZnGlyPyr.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The desolvated ZnGlyPyr and ZnAlaPyr frameworks exhibit the same unit cell volume after CO2 adsorption at 195 K.",
+      "answer": "False. The desolvated ZnGlyPyr and ZnAlaPyr frameworks exhibit different unit cell volumes after CO2 adsorption at 195 K, with ZnGlyPyr showing a unit cell volume of 6547.6 Å3 at high CO2 loading, while ZnAlaPyr shows a unit cell volume of 6898.63 Å3 at saturated CO2 loading.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to study the in situ CO2 uptake in ZnGlyPyr and ZnAlaPyr?",
+      "answer": "The in situ CO2 uptake in ZnGlyPyr and ZnAlaPyr was studied using synchrotron powder X-ray diffraction (PXRD) on beamline I11 at Diamond Light Source.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The pore segmentation observed in ZnXPyr frameworks upon guest adsorption is a common phenomenon among metal-organic frameworks (MOFs) reported in the Cambridge Structural Database (CSD).",
+      "answer": "False. The pore segmentation observed in ZnXPyr frameworks upon guest adsorption is a unique phenomenon, with only one other material reported in the CSD showing a similar behavior under different synthetic conditions.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to identify the relationship between energy and unit cell volume of ZnGlyPyr and ZnAlaPyr?",
+      "answer": "Density Functional Theory (DFT) simulations were used to identify the relationship between energy and unit cell volume of ZnGlyPyr and ZnAlaPyr, employing the Vienna ab initio Simulation Package (VASP) with the SCAN meta-GGA functional and the rVV10 van der Waals functional.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The structural response of ZnGlyPyr and ZnAlaPyr to guest adsorption involves a simple expansion or contraction of the framework without any significant change in the linker conformation.",
+      "answer": "False. The structural response of ZnGlyPyr and ZnAlaPyr to guest adsorption involves significant changes in the linker conformation, which is strongly coupled to the global pore shape and results in complex transformations such as pore segmentation.",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

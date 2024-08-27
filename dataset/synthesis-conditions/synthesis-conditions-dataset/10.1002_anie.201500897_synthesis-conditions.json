@@ -1,0 +1,46 @@
+{
+  "materials": [
+    {
+      "name": "Compound 1",
+      "synthesis_conditions": {
+        "precursors": "[Fe2(OEt)2(dpm)4], FeCl3, H3pPy, piperidine",
+        "solvents": "ethanol–diethyl ether solution",
+        "temperature": "not specified",
+        "equipment": "not specified",
+        "time": "not specified",
+        "washing_method": "vapor diffusion of ethanol into the reaction mixture",
+        "drying_method": "not specified",
+        "yield": "X-ray quality crystals of 1·2 EtOH",
+        "additional_notes": "Isolated by vapor diffusion of ethanol into the reaction mixture."
+      }
+    },
+    {
+      "name": "Compound 2a",
+      "synthesis_conditions": {
+        "precursors": "[Fe4(pPy)2(dpm)6]·2 EtOH, [Ru2(OAc)4(MeOH)2]",
+        "solvents": "THF, CH2Cl2",
+        "temperature": "not specified",
+        "equipment": "drybox, using anhydrous solvents",
+        "time": "10 days",
+        "washing_method": "washed with n-hexane",
+        "drying_method": "dried",
+        "yield": "64.2%",
+        "additional_notes": "Crystals formed by layering a THF solution of [Ru2(OAc)4(MeOH)2] over a CH2Cl2 solution of 1·2 EtOH with a CH2Cl2 buffer."
+      }
+    },
+    {
+      "name": "Compound 2b",
+      "synthesis_conditions": {
+        "precursors": "Compound 1·2 EtOH, [Ru2(OAc)4(THF)2](BF4)",
+        "solvents": "THF",
+        "temperature": "not specified",
+        "equipment": "slow vapor diffusion of toluene under inert atmosphere",
+        "time": "not specified",
+        "washing_method": "extensively washed with CH2Cl2",
+        "drying_method": "not specified",
+        "yield": "77.6%",
+        "additional_notes": "Synthesized under inert atmosphere in a drybox using anhydrous solvents."
+      }
+    }
+  ]
+}

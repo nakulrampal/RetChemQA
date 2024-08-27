@@ -1,0 +1,148 @@
+{
+  "compounds": [
+    {
+      "name": "[(K(2,2,2-crypt))]4[(SbGe8)-(Ge8Sb)]·3en (1a)",
+      "synthesis_conditions": {
+        "solvent": "ethylenediamine",
+        "solvent_amount_ml": 3,
+        "precursor": "K4Ge9",
+        "precursor_amount_mmol": 0.1,
+        "precursor_amount_g": 0.081,
+        "reactant": "SbPh3",
+        "reactant_amount_mmol": 0.3,
+        "reactant_amount_g": 0.132,
+        "temperature_initial": "room temperature",
+        "temperature_final": "65 - 85 oC",
+        "duration_days": "3 - 7",
+        "crystallization_solvent": "toluene",
+        "crystallization_additive": "2,2,2-crypt",
+        "crystallization_additive_amount_mmol": 0.293,
+        "crystallization_additive_amount_g": 0.11,
+        "yield_percentage": 40
+      }
+    },
+    {
+      "name": "[K(18-crown-6)]4[(SbGe8)-(Ge8Sb)]·4en (1b)",
+      "synthesis_conditions": {
+        "solvent": "ethylenediamine",
+        "solvent_amount_ml": 3,
+        "precursor": "K4Ge9",
+        "precursor_amount_mmol": 0.1,
+        "precursor_amount_g": 0.081,
+        "reactant": "SbPh3",
+        "reactant_amount_mmol": 0.3,
+        "reactant_amount_g": 0.132,
+        "temperature_initial": "room temperature",
+        "temperature_final": "65 - 85 oC",
+        "duration_days": "3 - 7",
+        "crystallization_solvent": "toluene",
+        "crystallization_additive": "18-crown-6",
+        "crystallization_additive_amount_mmol": 0.293,
+        "crystallization_additive_amount_g": 0.077,
+        "yield_percentage": 35
+      }
+    },
+    {
+      "name": "[Rb(18-crown-6)]2[Sb2Ge7]·en (2)",
+      "synthesis_conditions": {
+        "solvent": "ethylenediamine",
+        "solvent_amount_ml": 3,
+        "precursor": "K4Ge9 or Rb4Ge9",
+        "precursor_amount_mmol": 0.1,
+        "precursor_amount_g": "0.081 (K4Ge9) or 0.100 (Rb4Ge9)",
+        "reactant": "SbPh3",
+        "reactant_amount_mmol": 0.3,
+        "reactant_amount_g": 0.132,
+        "temperature": "100 oC",
+        "duration_days": "3 - 5",
+        "crystallization_solvent": "toluene",
+        "crystallization_additive": "18-crown-6",
+        "crystallization_additive_amount_mmol": 0.293,
+        "crystallization_additive_amount_g": 0.077,
+        "yield_percentage": 25
+      }
+    },
+    {
+      "name": "[K(2,2,2-crypt)]2[(SbGe8)-SbPh2] (3)",
+      "synthesis_conditions": {
+        "solvent": "ethylenediamine",
+        "solvent_amount_ml": 3,
+        "precursor": "K4Ge9",
+        "precursor_amount_mmol": 0.1,
+        "precursor_amount_g": 0.081,
+        "reactant": "SbPh3",
+        "reactant_amount_mmol": 0.3,
+        "reactant_amount_g": 0.132,
+        "temperature": "room temperature",
+        "sonication_duration_days": 3,
+        "crystallization_solvent": "toluene",
+        "crystallization_additive": "2,2,2-crypt",
+        "crystallization_additive_amount_mmol": 0.293,
+        "crystallization_additive_amount_g": 0.11,
+        "yield_percentage": 40
+      }
+    },
+    {
+      "name": "[K(18-crown-6)]4[(BiGe8)-(Ge8Bi)]·5en (4)",
+      "synthesis_conditions": {
+        "solvent": "ethylenediamine",
+        "solvent_amount_ml": 3,
+        "precursor": "K4Ge9",
+        "precursor_amount_mmol": 0.1,
+        "precursor_amount_g": 0.081,
+        "reactant": "BiPh3",
+        "reactant_amount_mmol": 0.3,
+        "reactant_amount_g": 0.105,
+        "temperature": "room temperature",
+        "sonication_duration_days": "3 - 7",
+        "crystallization_solvent": "toluene",
+        "crystallization_additive": "18-crown-6",
+        "crystallization_additive_amount_mmol": 0.293,
+        "crystallization_additive_amount_g": 0.077,
+        "yield_percentage": 40
+      }
+    },
+    {
+      "name": "[K(2,2,2-crypt)]2[(SbGe8)-CH=CH2] (5)",
+      "synthesis_conditions": {
+        "solvent": "ethylenediamine",
+        "solvent_amount_ml": 3,
+        "precursor": "K4Ge9",
+        "precursor_amount_mmol": 0.1,
+        "precursor_amount_g": 0.081,
+        "reactant": "SbPh3",
+        "reactant_amount_mmol": 0.3,
+        "reactant_amount_g": 0.132,
+        "temperature_initial": "room temperature",
+        "temperature_final": "65 - 85 oC",
+        "duration_days": "3 - 7",
+        "additional_reactant": "Me3SiC≡CSiMe3",
+        "additional_reactant_amount_mmol": 0.4,
+        "additional_reactant_amount_ml": 0.091,
+        "crystallization_solvent": "toluene",
+        "crystallization_additive": "2,2,2-crypt",
+        "crystallization_additive_amount_mmol": 0.293,
+        "crystallization_additive_amount_g": 0.11,
+        "yield_percentage": 25
+      }
+    },
+    {
+      "name": "[(BiGe8)-CH=CHPh]2-",
+      "synthesis_conditions": {
+        "solvent": "ethylenediamine",
+        "solvent_amount_ml": 3,
+        "precursor": "K4Ge9",
+        "precursor_amount_mmol": 0.1,
+        "precursor_amount_g": 0.081,
+        "reactant": "BiPh3",
+        "reactant_amount_mmol": 0.3,
+        "reactant_amount_g": 0.105,
+        "temperature": "room temperature",
+        "sonication_duration_days": "3 - 7",
+        "additional_reactant": "PhC≡CH",
+        "additional_reactant_amount_mmol": 0.22,
+        "additional_reactant_amount_ml": 0.024
+      }
+    }
+  ]
+}

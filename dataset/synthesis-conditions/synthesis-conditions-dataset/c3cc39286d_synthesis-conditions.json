@@ -1,0 +1,146 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "temperature": "165°C",
+        "time": "50 hours",
+        "cooling_rate": "5°C h-1",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "25 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CdCl2·2.5H2O",
+            "amount": "0.228 g, 1 mmol"
+          },
+          {
+            "name": "1,3-H2bdc",
+            "amount": "0.166 g, 1 mmol"
+          },
+          {
+            "name": "4-spy",
+            "amount": "0.362 g, 2 mmol"
+          },
+          {
+            "name": "NaOH",
+            "amount": "0.080 g, 2 mmol"
+          }
+        ],
+        "yield": "0.466 g (73% yield based on Cd)",
+        "equipment": "50 mL Teflon-lined autoclave"
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "time": "10 hours",
+        "equipment": "Hg lamp (250 W)",
+        "notes": "Single crystals of 1 (1.278 g, 2 mmol, combined product from three Teflon-lined autoclaves) were irradiated to form crystals of 2 in an almost quantitative yield (based on 1)."
+      }
+    },
+    {
+      "name": "HT-ppcb",
+      "synthesis_conditions": {
+        "time": "20 hours",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "50 mL"
+          },
+          {
+            "name": "CH2Cl2",
+            "amount": "30 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Na2(H2edta)·2H2O",
+            "amount": "3.722 g, 10 mmol"
+          },
+          {
+            "name": "NaOH",
+            "amount": "0.800g, 20 mmol"
+          },
+          {
+            "name": "2",
+            "amount": "1.278 g, 2 mmol"
+          }
+        ],
+        "yield": "0.264 g (73% based on 2)",
+        "equipment": "150 mL flask",
+        "notes": "HT-ppcb was further isolated from the yellow powder by column chromatography."
+      }
+    },
+    {
+      "name": "3",
+      "synthesis_conditions": {
+        "temperature": "165°C",
+        "time": "20 hours",
+        "cooling_rate": "5°C h-1",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "25 mL"
+          },
+          {
+            "name": "H2O2 (3%)",
+            "amount": "1.2 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CdCl2·2.5H2O",
+            "amount": "0.114 g, 0.5 mmol"
+          },
+          {
+            "name": "1,3-H2bdc",
+            "amount": "0.083 g, 0.5 mmol"
+          },
+          {
+            "name": "HT-ppcb",
+            "amount": "0.181 g, 0.5 mmol"
+          }
+        ],
+        "yield": "0.141g (41% yield based on Cd)",
+        "equipment": "50 mL Teflon-lined autoclave"
+      }
+    },
+    {
+      "name": "bpbpf",
+      "synthesis_conditions": {
+        "time": "20 hours",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "20 mL"
+          },
+          {
+            "name": "CH2Cl2",
+            "amount": "20 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Na2(H2edta)·2H2O",
+            "amount": "0.372 g, 1 mmol"
+          },
+          {
+            "name": "NaOH",
+            "amount": "0.080 g, 2 mmol"
+          },
+          {
+            "name": "2",
+            "amount": "0.137 g, 0.2 mmol"
+          }
+        ],
+        "yield": "52mg (69%)",
+        "equipment": "100 mL flask",
+        "notes": "bpbpf was isolated as a yellow powder."
+      }
+    }
+  ]
+}

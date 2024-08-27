@@ -1,0 +1,114 @@
+{
+  "materials": [
+    {
+      "name": "Zn4O(PyC)3 (1, H2PyC = 4-pyrazolecarboxylic acid)",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "N,N-diethylformamide (DEF)",
+            "amount": "40 mL"
+          }
+        ],
+        "equipment": "250-mL HDPE plastic bottle",
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "2.38 g, 8.0 mmol"
+          },
+          {
+            "name": "H2PyC",
+            "amount": "0.10 g, 0.89 mmol"
+          }
+        ],
+        "time": "48 hours",
+        "washing_method": "rinsed with 5 mL N,N-dimethylformamide (DMF) for 3 times",
+        "yield": "55% based on H2PyC"
+      }
+    },
+    {
+      "name": "Zn3□1(OH)(PyC)1.5□1.5(OH)(H2O)3.5·(PyC)0.5 (2, □: vacancy)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "deionized water",
+            "amount": "20 mL"
+          }
+        ],
+        "equipment": "glass vial",
+        "chemicals_used": [
+          {
+            "name": "single crystals of as-synthesized 1",
+            "amount": "approximately 100 mg"
+          }
+        ],
+        "time": "24 hours",
+        "washing_method": "rinsed with 5 mL DMF for 3 times"
+      }
+    },
+    {
+      "name": "Zn4-xMxO(PyC)3L (3-M; M = Li, Co, Cd, and La; L = possible terminal ligands and/or compensating ions)",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "DEF solutions of different metal ions",
+            "amount": "5 mL solution of metal salt in DEF (0.12 M LiNO3 for 3-Li, 0.18 M Co(NO3)2·6H2O for 3-Co, 0.12 M CdCl2·2.5H2O for 3-Cd, and 0.54 M La(NO3)3·nH2O for 3-La)"
+          }
+        ],
+        "equipment": "vial",
+        "chemicals_used": [
+          {
+            "name": "single crystals of 2",
+            "amount": "approximately 80 mg"
+          }
+        ],
+        "time": "3 days",
+        "washing_method": "washed with 5 ml DMF for 3 times"
+      }
+    },
+    {
+      "name": "Zn4O(PyC)3-yLy (4-L; 4-CH3 for L = CH3-PyC (3-methylpyrozole-4-carboxylate), and 4-NH2 for L = NH2-PyC (3-aminopyrozole-4-carboxylic acid))",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "DEF solution of L",
+            "amount": "5 mL solution of L in DEF (0.12 M)"
+          }
+        ],
+        "equipment": "vial",
+        "chemicals_used": [
+          {
+            "name": "single crystals of 2",
+            "amount": "approximately 80 mg"
+          }
+        ],
+        "time": "3 days",
+        "washing_method": "washed with 5 ml DMF for 3 times"
+      }
+    },
+    {
+      "name": "Zn4-xCoxO(PyC)3-yLy (5-L; 5-CH3 for L = CH3-PyC, x = 1.01, y= 1.44, and 5-NH2 for L = NH2-PyC, x = 0.78, y = 0.66)",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "DEF mixed solution of L and Co(NO3)2·6H2O",
+            "amount": "5 mL mixed solution of L (0.06 M) and Co(NO3)2·6H2O (0.09 M)"
+          }
+        ],
+        "equipment": "vial",
+        "chemicals_used": [
+          {
+            "name": "single crystals of 2",
+            "amount": "approximately 40 mg"
+          }
+        ],
+        "time": "3 days",
+        "washing_method": "washed with 5 ml DMF for 3 times"
+      }
+    }
+  ]
+}

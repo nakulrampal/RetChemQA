@@ -1,0 +1,50 @@
+{
+  "materials": [
+    {
+      "name": "SNNU-26",
+      "synthesis_conditions": {
+        "pore_size": "4.5 c",
+        "metal_centers": ["Mn", "Co"],
+        "ligands": ["BDC (1,4-terephthalic acid, 6.9 c)"],
+        "C2H2_uptake": {
+          "273K": "149.7 cm3 g@1 (Mn)",
+          "298K": "111.9 cm3 g@1 (Mn)"
+        }
+      }
+    },
+    {
+      "name": "SNNU-27",
+      "synthesis_conditions": {
+        "pore_size": "6.4 c",
+        "metal_centers": ["Mg", "Mn", "Fe", "Co", "Ni", "Zn", "Cd", "Fe2Mg", "Fe2Co"],
+        "ligands": ["TAZBC (4-(1H-tetrazol-5-yl)-benzoic acid, 8.4 c)"],
+        "C2H2_uptake": {
+          "273K": "198.2 cm3 g@1 (Mn)",
+          "298K": "130.2 cm3 g@1 (Mn)"
+        },
+        "C2H2_uptake_optimized": "182.4 cm3 g@1 (Fe, 298K and 1 atm)",
+        "CO2_uptake": "65.3 cm3 g@1 (Fe, 298K and 1 atm)"
+      }
+    },
+    {
+      "name": "SNNU-28",
+      "synthesis_conditions": {
+        "pore_size": "7.1 c",
+        "metal_centers": ["Mn", "Co"],
+        "ligands": ["2,6-NDC (naphthalene-2,6-dicarboxylic acid, 9.1 c)"]
+      }
+    },
+    {
+      "name": "SNNU-29",
+      "synthesis_conditions": {
+        "pore_size": "8.1 c",
+        "metal_centers": ["Mn"],
+        "ligands": ["BDT (1,4-benzeneditetrazole, 9.7 c)"],
+        "C2H2_uptake": {
+          "273K": "Not specified",
+          "298K": "Higher than SNNU-26-Mn"
+        }
+      }
+    }
+  ]
+}

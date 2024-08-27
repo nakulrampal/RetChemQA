@@ -1,0 +1,46 @@
+{
+  "materials": [
+    {
+      "name": "mmen-Mn2(dobpdc)",
+      "synthesis_conditions": [
+        {
+          "step": "initial_structure_solution",
+          "temperature": "100 K",
+          "technique": "simulated annealing",
+          "equipment": "TOPAS-Academic",
+          "chemicals_used": "previously reported crystal structure of Zn2(dobpdc) with Zn atoms replaced by Mn atoms",
+          "additional_information": "Fourier difference maps revealed excess electron density above each Mn site, indicating the presence of mmen groups."
+        },
+        {
+          "step": "Rietveld_refinement",
+          "temperature": "100 K",
+          "technique": "Rietveld method",
+          "equipment": "not specified",
+          "chemicals_used": "not specified",
+          "additional_information": "Maintained rigid bodies for mmen and dobpdc4– during the refinement process. Refined dihedral angles of mmen, position and orientation of mmen and dobpdc4– rigid bodies, rotation angle of the carboxylate, C−C bond distances in the dobpdc4– rigid body, and Mn atomic position."
+        }
+      ]
+    },
+    {
+      "name": "CO2-mmen-Mn2(dobpdc)",
+      "synthesis_conditions": [
+        {
+          "step": "initial_structure_solution",
+          "temperature": "100 K",
+          "technique": "simulated annealing",
+          "equipment": "TOPAS-Academic",
+          "chemicals_used": "previously reported crystal structure of Zn2(dobpdc) with Zn atoms replaced by Mn atoms, and evidence of ammonium carbamate formation upon CO2 adsorption",
+          "additional_information": "Developed a rigid, idealized model for the ammonium carbamate moiety based on reported single crystal structure of methyl(2-(methylammonio)ethyl)-carbamate."
+        },
+        {
+          "step": "Rietveld_refinement",
+          "temperature": "100 K",
+          "technique": "Rietveld method",
+          "equipment": "not specified",
+          "chemicals_used": "not specified",
+          "additional_information": "Maintained rigid bodies initially but independently refined all atomic positions in the final cycles of refinement. Assigned independent isotropic thermal parameters to each C, N, O, and Mn atom, except for dobpdc4– atoms."
+        }
+      ]
+    }
+  ]
+}

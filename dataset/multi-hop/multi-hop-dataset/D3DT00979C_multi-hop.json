@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of the metal-organic framework GNU-1?",
+      "answer": "C26 H19 Cu3 N O15",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature and pressure were the gas sorption properties of GNU-1a investigated?",
+      "answer": "At 273 K and 298 K, and 1 bar pressure.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the adsorption selectivity for C3H8/CH4 and C2H6/CH4 in GNU-1a compare to other MOFs at 298 K and 1 bar?",
+      "answer": "GNU-1a exhibits a C3H8/CH4 selectivity of 330.13 and a C2H6/CH4 selectivity of 17.54, which is comparable or superior to many reported MOFs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the crystal structure of GNU-1 stable under acidic and basic conditions?",
+      "answer": "Yes, except in solutions with pH ≤ 2, GNU-1 maintains structural integrity, indicating robustness against acidic and basic conditions.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to calculate the adsorption density distributions, adsorption sites, and bonding potentials for gases within GNU-1a?",
+      "answer": "Grand Canonical Monte Carlo (GCMC) simulations were used.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the ligand H6bmipia in the structure of GNU-1?",
+      "answer": "H6bmipia, a flexible nonplanar hexacarboxylate ligand with C2 symmetry, is employed to construct the robust microporous framework of GNU-1 with an unprecedented topology.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption isotherms of GNU-1a for C3H8 and C2H6 at 298 K and 1 bar show higher uptake compared to CH4.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the maximum uptake of N2 by GNU-1a at 77 K?",
+      "answer": "The maximum uptake of N2 by GNU-1a at 77 K reaches 348 cm3 g−1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the thermal stability of GNU-1 compare to its chemical stability in water and harsh acid-base solutions?",
+      "answer": "GNU-1 remains structurally stable up to 250 °C, indicating good thermal stability, and it also exhibits excellent chemical stability in water and harsh acid-base solutions except in very strong acids (pH ≤ 2).",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of the organic linker H6bmipia involves a refluxing process at 80 °C.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal system and space group of GNU-1?",
+      "answer": "The crystal system of GNU-1 is orthorhombic, and its space group is Cmce.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the pore-size distribution of GNU-1a, calculated by the Horvath–Kawazoe method, compare to the data obtained from single-crystal structure analysis?",
+      "answer": "The pore-size distribution of GNU-1a, calculated by the Horvath–Kawazoe method, shows a median pore diameter of 5.82 Å, which is consistent with the data obtained from single-crystal structure analysis.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption selectivity of GNU-1a for C3H8/CH4 is significantly higher than for C2H6/CH4.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the dual-site Langmuir-Freundlich model in the context of GNU-1a?",
+      "answer": "The dual-site Langmuir-Freundlich model is significant for accurately fitting the unary isotherm data of CH4, C2H6, and C3H8 in GNU-1a, distinguishing two distinct adsorption sites and providing insights into the adsorption mechanism.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The breakthrough experiments for GNU-1a demonstrate its potential for separating CH4 from C2H6 and C3H8 in a ternary mixture.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

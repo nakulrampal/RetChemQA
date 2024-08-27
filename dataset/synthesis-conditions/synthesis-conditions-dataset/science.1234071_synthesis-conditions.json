@@ -1,0 +1,23 @@
+{
+  "Fe2(BDP)3": {
+    "temperature": "130°C, 160°C, 200°C",
+    "solvents": "N,N-dimethylformamide (DMF)",
+    "amount_of_each_solvent": "Not specified",
+    "equipment": "Schlenk flask, Buchner funnel",
+    "chemicals_used": "Fe(acetylacetonate)3, 1,4-benzenedipyrazole (H2BDP)",
+    "time": "Reaction refluxed under nitrogen for 18 hours, material heated in DMSO at 100°C for 8 hours, washed multiple times with heated DMSO, DMF, and methylene chloride, heated under 10 mTorr vacuum to 180°C for 24 hours",
+    "washing_method": "Washed 5 times with heated DMSO, 6 times with DMF heated to 100°C, 6 times with methylene chloride heated to 70°C",
+    "drying_method": "Heated under 10 mTorr vacuum to 180°C for 24 hours",
+    "yield": "Not specified",
+    "additional_steps": [
+      {
+        "step": "Activation",
+        "details": "Activated by heating at a rate of 1 °C/min from room temperature to a final temperature of 180 °C until the outgas rate at 150 °C was less than 2 µbar/min, which occurred near 48 hours after the start of evacuation"
+      },
+      {
+        "step": "Breakthrough measurements",
+        "details": "A column of 0.491 g of Fe2(BDP)3 was packed into a glass u-tube, with an internal diameter of 0.9525 cm and a height of 11.5 cm. Dry N2 at a rate of 2.5 mL/min was bubbled through a mixture of hexane isomers"
+      }
+    ]
+  }
+}

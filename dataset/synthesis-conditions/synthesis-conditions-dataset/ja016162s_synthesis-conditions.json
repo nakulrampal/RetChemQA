@@ -1,0 +1,100 @@
+{
+  "materials": [
+    {
+      "material_name": "[trans,cis,cis-RuCl2(CO)2(4’-cisDPyP)]2 (5)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvent": "CHCl3",
+        "reaction_time": "5 hours",
+        "purification_method": "column chromatography",
+        "yield": "49%",
+        "NMR_solvent": "CDCl3",
+        "NMR_temperature": "room temperature",
+        "UV_vis_solvent": "CH2Cl2",
+        "FAB_MS": "m/z 1892.1 (M+), calcd for C92H80N12Cl4O4S4Ru2 1890"
+      }
+    },
+    {
+      "material_name": "[trans,cis,cis-RuCl2(CO)2(4’-cisDPyP)]2 (5Zn)",
+      "synthesis_conditions": {
+        "starting_material": "[trans,cis,cis-RuCl2(CO)2(4’-cisDPyP)]2 (5)",
+        "reagents": "Zn(CH3COO)2",
+        "solvent": "CHCl3/MeOH",
+        "reaction_time": "16 hours",
+        "purification_method": "precipitation by addition of n-hexane, filtration, washed with cold methanol and diethyl ether, vacuum-dried",
+        "yield": "75%",
+        "NMR_solvent": "CDCl3",
+        "UV_vis_solvent": "CH2Cl2"
+      }
+    },
+    {
+      "material_name": "[trans,cis,cis-RuCl2(CO)(dmso-S)(4’-cisDPyP)]2 (6)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvent": "CHCl3",
+        "reaction_time": "16 hours",
+        "purification_method": "column chromatography",
+        "yield": "51%",
+        "NMR_solvent": "CDCl3",
+        "NMR_temperature": "room temperature",
+        "UV_vis_solvent": "CH2Cl2",
+        "IR_solvent": "CHCl3",
+        "FAB_MS": "m/z 1790.5 (M+), calcd for C90H68N12Cl4O4S2Ru2 1790"
+      }
+    },
+    {
+      "material_name": "[(5Zn)2(µ-4,4’-bipy)2] (7)",
+      "synthesis_conditions": {
+        "starting_material": "[trans,cis,cis-RuCl2(CO)2(4’-cisDPyP)]2 (5Zn)",
+        "reagents": "4,4’-bipy",
+        "solvent": "CDCl3",
+        "NMR_temperature": "-40 °C",
+        "NMR_solvent": "CDCl3",
+        "UV_vis_solvent": "CH2Cl2"
+      }
+    },
+    {
+      "material_name": "[(5Zn)2(µ-4’-transDPyP-npm)2] (8)",
+      "synthesis_conditions": {
+        "starting_material": "[trans,cis,cis-RuCl2(CO)2(4’-cisDPyP)]2 (5Zn)",
+        "reagents": "4’-transDPyP-npm",
+        "solvent": "CDCl3",
+        "NMR_temperature": "-20 °C",
+        "NMR_solvent": "CDCl3"
+      }
+    },
+    {
+      "material_name": "[(5Zn)2(µ-4’-transDPyP)2] (9)",
+      "synthesis_conditions": {
+        "starting_material": "[trans,cis,cis-RuCl2(CO)2(4’-cisDPyP)]2 (5Zn)",
+        "reagents": "4’-transDPyP",
+        "solvent": "CDCl3",
+        "NMR_temperature": "-55 °C",
+        "NMR_solvent": "CDCl3",
+        "UV_vis_solvent": "CH2Cl2"
+      }
+    },
+    {
+      "material_name": "[(Zn·TPP)2(µ-4’-transDPyP-npm)] (10)",
+      "synthesis_conditions": {
+        "starting_material": "4’-transDPyP-npm",
+        "reagents": "Zn·TPP",
+        "solvent": "CDCl3",
+        "NMR_temperature": "-20 °C",
+        "NMR_solvent": "CDCl3",
+        "formation_constant": "ca. 10^6 M^-2"
+      }
+    },
+    {
+      "material_name": "[(Zn·TPP)2(µ-4’-transDPyP)] (11)",
+      "synthesis_conditions": {
+        "starting_material": "4’-transDPyP",
+        "reagents": "Zn·TPP",
+        "solvent": "CDCl3",
+        "NMR_temperature": "-55 °C",
+        "NMR_solvent": "CDCl3",
+        "formation_constant": "ca. 10^6 M^-2"
+      }
+    }
+  ]
+}

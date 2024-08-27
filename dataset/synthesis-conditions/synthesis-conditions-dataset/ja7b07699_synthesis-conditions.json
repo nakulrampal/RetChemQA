@@ -1,0 +1,109 @@
+{
+  "materials": [
+    {
+      "name": "1,2-bis(4-pyridyl)butadiyne (bpb)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "4-iodepyridine (15.0 g, 73.2 mmol)",
+          "PdCl2(PPh3)2 (1.2 g, 3.1 mmol)",
+          "CuI (0.6 g, 3.1 mmol)",
+          "trimethylsilylacethylene (11.1 g, 109.7 mmol)",
+          "trimethylamine (75 mL)",
+          "KF (8.6 g, 148.0 mmol)",
+          "methanol (150 mL)"
+        ],
+        "solvents": [
+          "THF (450 mL)"
+        ],
+        "equipment": "three way flask under nitrogen atmosphere",
+        "procedure": "Stirred at room temperature for 3 h, then KF and methanol added and stirred in air overnight. Solvents removed, residue purified by silica gel column chromatography and recrystallized using hot EtOH/water.",
+        "yield": "60%",
+        "characterization": [
+          "1H NMR (400 MHz, CDCl3): δ = 8.2 (d, 4H), 8.8 (d, 4H) ppm."
+        ]
+      }
+    },
+    {
+      "name": "2,7-naphtalenedicarboxylic acid",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "2,7-naphtalenedicarboxylate methylether (1.0 g, 4.1 mmol)",
+          "KOH (2.3 g, 4.1 mmol)",
+          "EtOH (18 mL)",
+          "H2O (2 mL)",
+          "3M HCl solution"
+        ],
+        "procedure": "Hydrolyzed using KOH in EtOH and H2O, evaporated, dissolved in water, acidified with HCl until precipitation, filtered and dried.",
+        "yield": "99%"
+      }
+    },
+    {
+      "name": "ZnCID-24",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Zn(NO3)2·6H2O (298 mg, 1.0 mmol)",
+          "isophthalic acid (166 mg, 1.0 mmol)",
+          "bpb (204 mg, 1.0 mmol)",
+          "DMF (40 mL)",
+          "MeOH (10 mL)"
+        ],
+        "equipment": "150 mL screw-top glass vial",
+        "temperature": "80 °C",
+        "time": "24 h",
+        "washing_method": "washed with DMF (50 mL × 2) and MeOH (20 mL × 1)",
+        "drying_method": "immersed in deoxidized MeOH (50 mL) overnight and then degassed under vacuum at 80 °C for 12 h"
+      }
+    },
+    {
+      "name": "ZnCID-25",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Zn(NO3)2·6H2O (298 mg, 1.0 mmol)",
+          "2,7-naphtalenedicarboxylic acid (216 mg, 1.0 mmol)",
+          "bpb (204 mg, 1.0 mmol)",
+          "DMF (40 mL)",
+          "MeOH (10 mL)"
+        ],
+        "equipment": "150 mL screw glass vial",
+        "temperature": "80 °C",
+        "time": "24 h",
+        "washing_method": "washed with DMF (50 mL × 2) and MeOH (20 mL × 1)",
+        "drying_method": "immersed in deoxidized MeOH (50 mL) overnight and then degassed under vacuum at 80 °C for 12 h"
+      }
+    },
+    {
+      "name": "CuCID-24",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Cu(NO3)2·3H2O (242 mg, 1.0 mmol)",
+          "isophthalic acid (166 mg, 1.0 mmol)",
+          "bpb (204 mg, 1.0 mmol)",
+          "DMF (45 mL)",
+          "MeOH (5 mL)"
+        ],
+        "equipment": "150 mL screw glass vial",
+        "temperature": "80 °C",
+        "time": "24 h",
+        "washing_method": "washed with DMF (50 mL × 2) and MeOH (20 mL × 1)",
+        "drying_method": "immersed in deoxidized MeOH (50 mL) overnight and then degassed under vacuum at 80 °C for 12 h"
+      }
+    },
+    {
+      "name": "CoCID-24",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Co(NO3)2·6H2O (291 mg, 1.0 mmol)",
+          "isophthalic acid (166 mg, 1.0 mmol)",
+          "bpb (204 mg, 1.0 mmol)",
+          "DMF (45 mL)",
+          "MeOH (5 mL)"
+        ],
+        "equipment": "150 mL screw glass vial",
+        "temperature": "80 °C",
+        "time": "24 h",
+        "washing_method": "washed with DMF (50 mL × 2) and MeOH (20 mL × 1)",
+        "drying_method": "immersed in deoxidized MeOH (50 mL) overnight and then degassed under vacuum at 80 °C for 12 h"
+      }
+    }
+  ]
+}

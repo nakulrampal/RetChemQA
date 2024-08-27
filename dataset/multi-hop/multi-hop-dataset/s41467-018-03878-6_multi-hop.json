@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What is the significance of using high-pressure crystallography in understanding gas adsorption in ZIF-8?",
+      "answer": "High-pressure crystallography allows for the detailed determination of gas adsorption sites within the ZIF-8 framework by forcing liquefied gases into the pores at room temperature, providing atomistic detail on included guest molecules that is not easily achievable with other gas-loading methods.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the cryogenic high-pressure loading method differ from other gas-loading techniques for studying MOFs?",
+      "answer": "The cryogenic high-pressure loading method differs by using extreme pressures to load liquefied gases into MOFs, such as ZIF-8, at room temperature, offering a new approach to obtaining atomistic details on guest molecules within the framework, which is versatile and straightforward to apply.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the advantages of combining high-pressure crystallography, GCMC simulations, and DFT calculations in studying ZIF-8?",
+      "answer": "Combining these techniques provides a holistic approach to understanding structural and energetic changes upon gas adsorption in ZIF-8, revealing adsorption sites, classifying them by energy, and identifying the energy barrier for phase transitions, thus offering comprehensive insights not achievable by a single method.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the study of gas adsorption in ZIF-8 using high-pressure crystallography considered significant?",
+      "answer": "The study is significant because it increases the number of room temperature gas-loaded MOF structures, contributing significantly to the limited data available in the field, and provides detailed insights into the adsorption process and framework behavior of ZIF-8 under gas loading.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What challenges are associated with determining the number of gas molecules per unit cell using PLATON SQUEEZE compared to atomistic modeling?",
+      "answer": "PLATON SQUEEZE calculates residual electron density differently, including contributions from diffuse electron density scattering, which an atomistic model does not account for, leading to discrepancies in the estimated number of guest molecules per unit cell compared to more accurate atomistic refinements.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The cryogenic high-pressure loading method is the only way to obtain single crystal data of gas-loaded ZIF-8 structures at room temperature.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The phase transition observed in ZIF-8 upon gas loading is classified as a displacive phase transition according to the International Union of Crystallography.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the term 'displacive phase transition' imply in the context of ZIF-8's behavior under gas loading?",
+      "answer": "A displacive phase transition implies that the atomic positions within the ZIF-8 framework change due to gas loading, characterized by small atomic shifts without necessarily altering the lattice parameters, indicating a structural transition.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the use of high-pressure crystallography contribute to the field of gas-loaded MOF structures?",
+      "answer": "High-pressure crystallography contributes by significantly increasing the dataset of gas-loaded MOF structures at room temperature, providing detailed insights into the adsorption sites and framework behavior under gas loading, thus enhancing the understanding of MOFs for potential applications.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The methodology used in PLATON SQUEEZE for estimating the number of guest molecules in the pore of ZIF-8 is expected to yield identical results to atomistic modeling.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

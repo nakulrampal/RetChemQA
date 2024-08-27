@@ -1,0 +1,45 @@
+{
+  "materials": [
+    {
+      "name": "Cr3[(Cr4Cl)3(BTT)8]2 (Cr-BTT)",
+      "synthesis_conditions": {
+        "temperature": "150 88C",
+        "solvents": [
+          {
+            "name": "dimethylformamide (DMF)",
+            "amount": null
+          },
+          {
+            "name": "methanol",
+            "amount": null
+          }
+        ],
+        "equipment": null,
+        "chemicals_used": [
+          "anhydrous CrCl2",
+          "Cr(CO)6",
+          "H3BTT",
+          "trifluoromethanesulfonic acid"
+        ],
+        "time": "overnight",
+        "washing_method": "soaking in fresh DMF, followed by methanol exchange",
+        "drying_method": "heating under a dynamic vacuum",
+        "yield": "high yield",
+        "additional_steps": [
+          {
+            "step_description": "Desolvation",
+            "step_conditions": {
+              "temperature": "150 88C",
+              "time": "overnight",
+              "atmosphere": "dynamic vacuum"
+            }
+          }
+        ],
+        "surface_areas": {
+          "Langmuir": "2300 m2 g-1",
+          "BET": "2030 m2 g-1"
+        }
+      }
+    }
+  ]
+}

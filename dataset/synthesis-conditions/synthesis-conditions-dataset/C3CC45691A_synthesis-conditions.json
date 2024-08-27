@@ -1,0 +1,69 @@
+{
+  "materials": [
+    {
+      "name": "1·5CH3OH·2CH2Cl2",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "CH2Cl2",
+            "amount": "5 mL"
+          },
+          {
+            "name": "MeOH/CH2Cl2",
+            "ratio": "1:15",
+            "amount": "10 mL"
+          },
+          {
+            "name": "MeOH",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "tppm",
+            "amount": "7.32 mg",
+            "molarity": "0.01 mmol"
+          },
+          {
+            "name": "Fe(SCN)2",
+            "amount": "0.01 mmol in 5 mL"
+          }
+        ],
+        "equipment": "tube sealed under nitrogen",
+        "time": "3 weeks",
+        "yield": "determined by elemental and thermogravimetric analysis",
+        "drying_method": "under vacuum at 50 °C for 2 h",
+        "IR": [
+          "3418",
+          "3026",
+          "2046",
+          "1598",
+          "1506",
+          "1419",
+          "1199",
+          "1016",
+          "968",
+          "820"
+        ]
+      }
+    },
+    {
+      "name": "Guest Exchange Samples",
+      "synthesis_conditions": {
+        "method": "immersion of the as-synthesized sample 1·5CH3OH·2CH2Cl2 (~10 mg) in pure solvents (20 mL) for 3 times",
+        "solvents": [
+          "CH3OH",
+          "C2H5OH",
+          "CH2Cl2",
+          "CHCl3",
+          "C2H5OH/CH2Cl2 (v/v = 1:1)",
+          "MeOH/CHCl3 (v/v = 1:1)",
+          "C2H5OH/CHCl3 (v/v = 1:1)",
+          "CH3CN",
+          "CH3COCH3",
+          "C6H12"
+        ]
+      }
+    }
+  ]
+}

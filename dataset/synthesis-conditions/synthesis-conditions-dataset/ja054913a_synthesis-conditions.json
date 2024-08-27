@@ -1,0 +1,66 @@
+{
+  "materials": [
+    {
+      "material": "1",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "aqueous ammonia solution",
+            "amount": "5 mL",
+            "concentration": "25%"
+          },
+          {
+            "name": "aqueous ammonia solution",
+            "amount": "25 mL",
+            "concentration": "25%"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Hatz",
+            "amount": "0.083 g",
+            "molarity": "1.0 mmol"
+          },
+          {
+            "name": "AgCl",
+            "amount": "0.215 g",
+            "molarity": "1.5 mmol"
+          }
+        ],
+        "method": "Slow evaporation",
+        "yield": "ca. 80%",
+        "washing_method": "DI water",
+        "drying_method": "briefly dried in air",
+        "additional_information": "AgCl (0.215 g, 1.5 mmol) can also be replaced by a mixture of AgCl (0.25 mmol) and Ag2O (0.625 mmol) (yield >70%), or a mixture of AgCl (0.25 mmol) and AgNO3 (1.25 mmol) (yield ca. 50%)."
+      }
+    },
+    {
+      "material": "1'",
+      "synthesis_conditions": {
+        "temperature": "103 K",
+        "time": "ca. 8−10 h",
+        "transformation_from": "1",
+        "transformation_conditions": "decreasing the temperature to 103 K",
+        "reversible": "Yes, back to 1 at 293 K"
+      }
+    },
+    {
+      "material": "2",
+      "synthesis_conditions": {
+        "methods": [
+          {
+            "method": "placing 1 in a very slow stream of dry air",
+            "crystal_structure_determination": "better crystal data set obtained"
+          },
+          {
+            "method": "heating 1 at 375 K for 3 h"
+          }
+        ],
+        "transformation_from": "1",
+        "temperature": "375 K",
+        "time": "3 h",
+        "reversible": "Yes, to 1 upon exposure to saturated water vapor for 1 day"
+      }
+    }
+  ]
+}

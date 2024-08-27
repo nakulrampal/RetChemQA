@@ -1,0 +1,107 @@
+{
+  "materials": [
+    {
+      "name": "MOP-18",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "Not specified",
+          "solvents": [
+            {
+              "name": "N,N-dimethylformamide (DMF)",
+              "amount": "10 mL"
+            },
+            {
+              "name": "hexane",
+              "amount": "2 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "5-dodecoxybenzene-1,3-dicarboxylic acid (5-OC12H25-H2mBDC)",
+              "amount": "0.147 g, 0.42 mmol"
+            },
+            {
+              "name": "Cu(CH3CO2)2·H2O",
+              "amount": "0.082 g, 0.41 mmol"
+            },
+            {
+              "name": "octanol",
+              "amount": "a drop"
+            }
+          ],
+          "time": "Not specified",
+          "yield": "95%",
+          "washing_method": "washed with 3 × 5 mL methanol",
+          "drying_method": "Not specified"
+        },
+        {
+          "step": "Solvent exchange",
+          "solvents": [
+            {
+              "name": "DMSO",
+              "amount": "Not specified"
+            },
+            {
+              "name": "BuOH",
+              "amount": "Not specified"
+            },
+            {
+              "name": "isoamyl alcohol",
+              "amount": "Not specified"
+            }
+          ],
+          "time": "a week",
+          "temperature": "room temperature",
+          "notes": "Activation solvent was decanted and freshly replenished three times."
+        }
+      ],
+      "solubility": {
+        "soluble_in": [
+          "DEF",
+          "DMA",
+          "chloroform",
+          "dichloromethene",
+          "THF",
+          "ethyl acetate",
+          "dioxane",
+          "toluene"
+        ],
+        "insoluble_in": [
+          "methanol",
+          "ethanol",
+          "1-butanol",
+          "isoamyl alcohol",
+          "hexane",
+          "cyclohexane",
+          "DMSO"
+        ]
+      },
+      "characterization": {
+        "PXRD": {
+          "simulated_pattern": "Figure S6",
+          "experimental_pattern": "Figure S6"
+        },
+        "TGA": {
+          "description": "First weight loss until 280 °C due to coordinating ligands and guest molecules. Weight loss from 280 to 420 °C due to decomposition of organic links.",
+          "figure": "Figure S7"
+        },
+        "STM": {
+          "description": "STM imaging performed under ambient conditions with typical settings of 400 pA of current and 1320 mV of bias voltage. Significant image drift observed in all STM images.",
+          "figures": [
+            "Figure S8",
+            "Figure S9"
+          ]
+        }
+      },
+      "modeling_x-ray_data": {
+        "description": "Geometry optimization performed using Forcite program in MS Modeling package 4.0. Initial structure included 2 DMF and 2 H2O molecules per asymmetric unit. Final structure after optimization provided.",
+        "figures": [
+          "Figure S4",
+          "Figure S5"
+        ],
+        "table": "Table S8"
+      }
+    }
+  ]
+}

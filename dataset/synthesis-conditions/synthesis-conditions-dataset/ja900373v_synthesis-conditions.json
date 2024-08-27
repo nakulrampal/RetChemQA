@@ -1,0 +1,108 @@
+{
+  "materials": [
+    {
+      "name": "[Zn2(tpa)2(cpb)]·2DMF·H2O (1⊃2DMF·H2O)",
+      "synthesis_conditions": {
+        "temperature": "120˚C",
+        "time": "48 hours",
+        "solvents": [
+          {
+            "name": "N, N-dimethyl formamide (DMF)",
+            "amount": "10 mL"
+          }
+        ],
+        "equipment": "25 mL Teflon-lined autoclave",
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "120×10–3 g, 0.4×10–3 mol"
+          },
+          {
+            "name": "terephthalic acid (H2tpa)",
+            "amount": "67×10–3 g, 0.4×10–3 mol"
+          },
+          {
+            "name": "1-(4-carboxyphenyl)-4,4’-bipyridinium hexafluorophosphate (Hcpb·PF6)",
+            "amount": "93×10–3 g, 0.22×10–3 mol"
+          }
+        ],
+        "washing_method": "washed by DMF",
+        "drying_method": "dried at reduced pressure",
+        "yield": {
+          "elemental_analysis": {
+            "calculated": {
+              "C": "52.07%",
+              "H": "4.03%",
+              "N": "6.23%"
+            },
+            "found": {
+              "C": "52.41%",
+              "H": "3.67%",
+              "N": "6.59%"
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "1⊃2DMF·H2O",
+      "crystallography_conditions": {
+        "temperature": "213 K",
+        "crystal_system": "monoclinic",
+        "space_group": "C2/c",
+        "a": "21.889(5) Å",
+        "b": "10.156(5) Å",
+        "c": "34.909(5) Å",
+        "beta": "90.715(5)˚",
+        "volume": "7760(4) Å3",
+        "Z": "8",
+        "density_calculated": "1.540 g cm-3",
+        "mu": "1.308 cm-1",
+        "2theta_max": "50.0 °",
+        "lambda": "0.71069 Å",
+        "reflections_measured": "26220",
+        "unique_reflections": "6758",
+        "reflections_used": "4311 > 2σ(I)",
+        "parameters": "424",
+        "R": "0.0640",
+        "Rw": "0.1706",
+        "GOF": "0.979"
+      }
+    },
+    {
+      "name": "1⊃2DMF·H2O, 1⊃2MeOH, and 1⊃5MeOH",
+      "lattice_parameters": [
+        {
+          "condition": "1⊃2DMF·H2O",
+          "a": "22.353(1) Å",
+          "b": "10.169(1) Å",
+          "c": "35.433(1) Å",
+          "beta": "92.278(3)˚",
+          "volume": "8048(1) Å3",
+          "Rwp": "0.034",
+          "R": "0.003"
+        },
+        {
+          "condition": "1⊃2MeOH",
+          "a": "22.129(2) Å",
+          "b": "10.298(2) Å",
+          "c": "33.721(2) Å",
+          "beta": "95.561(7)˚",
+          "volume": "7649(1) Å3",
+          "Rwp": "0.021",
+          "R": "0.006"
+        },
+        {
+          "condition": "1⊃5MeOH",
+          "a": "21.983(2) Å",
+          "b": "10.201(5) Å",
+          "c": "37.004(4) Å",
+          "beta": "95.298(9)˚",
+          "volume": "8263(2) Å3",
+          "Rwp": "0.044",
+          "R": "0.002"
+        }
+      ]
+    }
+  ]
+}

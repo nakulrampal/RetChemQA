@@ -1,0 +1,52 @@
+{
+  "materials": [
+    {
+      "name": "SCOF-3(Et)",
+      "synthesis_conditions": [
+        {
+          "temperature": "Room temperature",
+          "solvents": "Ethanol",
+          "amount_of_solvent": "2 mL",
+          "equipment": "H-shaped tube",
+          "chemicals_used": [
+            {
+              "name": "bped",
+              "amount": "34.0 mg",
+              "molarity": "0.156 mmol"
+            },
+            {
+              "name": "Fe(ClO4)2·6H2O",
+              "amount": "20 mg",
+              "molarity": "0.078 mmol"
+            },
+            {
+              "name": "NH4NCS",
+              "amount": "11.9 mg",
+              "molarity": "0.156 mmol"
+            }
+          ],
+          "time": "4 weeks",
+          "yield": "Not specified",
+          "washing_method": "Not specified",
+          "drying_method": "Not specified"
+        }
+      ]
+    },
+    {
+      "name": "SCOF-3",
+      "synthesis_conditions": [
+        {
+          "temperature": "375 K",
+          "solvents": "Not specified",
+          "amount_of_solvent": "Not specified",
+          "equipment": "Not specified",
+          "chemicals_used": "Derived from SCOF-3(Et) by heating",
+          "time": "Not specified",
+          "yield": "Not specified",
+          "washing_method": "Not specified",
+          "drying_method": "Not specified"
+        }
+      ]
+    }
+  ]
+}

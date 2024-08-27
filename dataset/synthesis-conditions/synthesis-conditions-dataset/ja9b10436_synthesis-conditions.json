@@ -1,0 +1,90 @@
+{
+  "materials": [
+    {
+      "name": "Pb3ttc2·2H2O (KGF-1·H2O)",
+      "synthesis": {
+        "chemicals_used": {
+          "Pb(NO3)2": "331.2 mg, 1.0 mmol",
+          "H3ttc": "177.2 mg, 1.0 mmol",
+          "DMSO": "50.0 mL",
+          "water": "50.0 mL"
+        },
+        "procedure": "Pb(NO3)2 was dissolved in distilled water, and H3ttc was dissolved in DMSO. These solutions were mixed and heated at 100 °C for 24 h, cooled, centrifuged, washed with acetone and water, and dried in vacuo overnight to yield a yellow powder.",
+        "yield": "28.8%",
+        "elemental_analysis": {
+          "calculated": "C 7.16, N 8.35, H 0.40",
+          "found": "C 7.16, N 8.28, H 0.38"
+        }
+      },
+      "crystal_structure": {
+        "system": "monoclinic",
+        "space_group": "C 2/c",
+        "parameters": {
+          "a": "18.652(3) Å",
+          "b": "8.2402(12) Å",
+          "c": "13.876(2) Å",
+          "alpha": "90°",
+          "beta": "126.277(9)°",
+          "gamma": "90°",
+          "volume": "1674.2(5) Å3",
+          "Z": "4",
+          "density": "3.976 g/cm3",
+          "absorption_coefficient": "7.627 mm-1",
+          "F(000)": "1744.0"
+        },
+        "crystal_size": "0.02 x 0.02 x 0.01 mm3",
+        "wavelength": "0.41420 Å",
+        "2theta_range": "1.621 to 15.601°",
+        "index_ranges": "-24 ≤ h ≤ 24, -10 ≤ k ≤ 10, -17 ≤ l ≤ 17",
+        "reflections_collected": "17097",
+        "unique_reflections": "1911",
+        "goodness_of_fit": "1.094",
+        "R1_index": {
+          "I_greater_2sigma": "0.0158",
+          "all_data": "0.0158"
+        },
+        "wR2_index": {
+          "I_greater_2sigma": "0.0416",
+          "all_data": "0.0416"
+        },
+        "largest_diff_peak_hole": "N/A"
+      }
+    },
+    {
+      "name": "Pb3ttc2 (KGF-1)",
+      "crystal_structure": {
+        "system": "monoclinic",
+        "space_group": "C 2/c",
+        "parameters": {
+          "a": "18.162(16) Å",
+          "b": "8.278(7) Å",
+          "c": "13.734(13) Å",
+          "alpha": "90°",
+          "beta": "127.187(9)°",
+          "gamma": "90°",
+          "volume": "1645(2) Å3",
+          "Z": "4",
+          "density": "3.917 g/cm3",
+          "absorption_coefficient": "31.386 mm-1",
+          "F(000)": "1680.0"
+        },
+        "crystal_size": "0.05 x 0.05 x 0.03 mm3",
+        "wavelength": "0.71075 Å",
+        "2theta_range": "3.020 to 27.549°",
+        "index_ranges": "-23 ≤ h ≤ 23, -10 ≤ k ≤ 10, -17 ≤ l ≤ 17",
+        "reflections_collected": "9418",
+        "unique_reflections": "1878",
+        "goodness_of_fit": "1.096",
+        "R1_index": {
+          "I_greater_2sigma": "0.0274",
+          "all_data": "0.0285"
+        },
+        "wR2_index": {
+          "I_greater_2sigma": "0.0666",
+          "all_data": "0.0658"
+        },
+        "largest_diff_peak_hole": "1.336/-1.792 e Å-3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "materials": [
+    {
+      "name": "[Cu5(tta)6(CN)2]",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "2 mL"
+          },
+          {
+            "name": "water",
+            "amount": "4 mL"
+          }
+        ],
+        "equipment": "15 mL Teflon-lined stainless steel container",
+        "chemicals_used": [
+          {
+            "name": "CuCl2",
+            "amount": "0.072 g, 0.423 mmol"
+          },
+          {
+            "name": "tetrazole",
+            "amount": "0.063 g, 0.9 mmol"
+          }
+        ],
+        "time": "3 days",
+        "yield": "30 %",
+        "drying_method": "cooling to room temperature and filtering",
+        "additional_information": "The bulk phase purity was confirmed by XRPD."
+      }
+    }
+  ]
+}

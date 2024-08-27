@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of Fe2(DSBDC)(DMF)2·x(DMF)?",
+      "answer": "C7H8N1O3.25SFe",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the crystal system and space group for Fe2(DSBDC)(DMF)2·x(DMF)?",
+      "answer": "The crystal system is Trigonal and the space group is R 3+.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the relationship between the distortion angles θ and δ for the phase change in Fe2(DSBDC)?",
+      "answer": "The relationship between the distortion angles θ and δ for the phase change in Fe2(DSBDC) is θ + 2δ = 360°.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The space group of the distorted lattice of Fe2(DSBDC) is P 1+.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What are the unit cell parameters for the distorted lattice of Fe2(DSBDC) after phase change?",
+      "answer": "The unit cell parameters for the distorted lattice of Fe2(DSBDC) are a = 51.41 Å, b = 37.27 Å, c = 7.19 Å, α = β = 90°, γ = 111.25°.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of the phase change on the hexagon area in Fe2(DSBDC)?",
+      "answer": "The hexagon area is reduced by 9.6% to accommodate the loss of non-coordinating solvent.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The phase change in Fe2(DSBDC) is associated with bond destruction and reconstruction.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used for electronic and structural calculations in the study?",
+      "answer": "Density Functional Theory (DFT) framework was used for electronic and structural calculations.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The highest occupied Kohn-Sham eigenvalue and the electron removal energy are equivalent in the dilute limit for solids.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the relationship θ + 2δ = 360° in the phase change of Fe2(DSBDC)?",
+      "answer": "The relationship θ + 2δ = 360° correlates the distortion angles θ and δ for the phase change in Fe2(DSBDC), indicating a specific geometric change in the lattice structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The space group of Fe2(DSBDC)(DMF)2·x(DMF) changes from R 3+ to P 1+ after the phase change.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of the phase change on the electrical conductivity of Fe2(DSBDC)?",
+      "answer": "The phase change in Fe2(DSBDC) does not directly affect the electrical conductivity discussed in the text, but it is associated with structural changes that could potentially influence conductivity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The phase change in Fe2(DSBDC) is reversible and can be triggered by exposure to air.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of non-coordinating solvent in the phase change of Fe2(DSBDC)?",
+      "answer": "The removal and refilling of non-coordinating solvent in the pores of Fe2(DSBDC) trigger the phase change, leading to a reversible structural transformation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystal lattice of Fe2(DSBDC) elongates in one direction and compresses in the perpendicular direction upon phase change.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational tools were used to simulate the PXRD pattern of Fe2(DSBDC) after phase change?",
+      "answer": "A MatLab program MOF-FIT 2.0 was used to simulate the PXRD pattern of Fe2(DSBDC) after phase change by tuning the distortion angles θ and δ.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The simulated PXRD pattern of Fe2(DSBDC) after phase change perfectly matches the experimental PXRD pattern.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of hexagon distortion on the symmetry of the Fe2(DSBDC) lattice?",
+      "answer": "The hexagon distortion breaks the 3-fold symmetry in the Fe2(DSBDC) lattice, reducing its space group from R 3+ to P 1+.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The density functional theory (DFT) calculations for Fe2(DSBDC) were based on the hybrid exchange-correlation functional (HSE06).",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What assumptions were made in the theoretical derivation of the distorted structure of Fe2(DSBDC)?",
+      "answer": "Assumptions included the persistence of the translational symmetry of the 2D unit cell, rotational variation of the ligand without changing bond lengths and angles, persistence of the edge length of the hexagon, and no interlayer shift in the lattice.",
+      "difficulty": "hard",
+      "type": "factual"
+    }
+  ]
+}

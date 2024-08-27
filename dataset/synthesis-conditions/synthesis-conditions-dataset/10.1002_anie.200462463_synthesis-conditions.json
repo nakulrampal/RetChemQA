@@ -1,0 +1,48 @@
+{
+  "materials": [
+    {
+      "name": "Complex 1",
+      "synthesis_conditions": {
+        "temperature": "160 8C",
+        "time": "160 h",
+        "cooling_rate": "5 K h-1 over a period of 12 h",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "6 mL"
+          },
+          {
+            "name": "EtOH",
+            "amount": "2 mL"
+          },
+          {
+            "name": "water",
+            "amount": "2 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H2pico",
+            "amount": "0.139 g, 1 mmol"
+          },
+          {
+            "name": "NaOH",
+            "amount": "0.080 g, 2 mmol"
+          },
+          {
+            "name": "4,4’-bpy",
+            "amount": "0.117 g, 0.75 mmol"
+          },
+          {
+            "name": "Co(NO3)2·6 H2O",
+            "amount": "0.291 g, 1 mmol"
+          }
+        ],
+        "equipment": "23-mL Teflon-lined autoclave",
+        "yield": "185 mg, 56 % based on Co",
+        "washing_method": "washed with water",
+        "drying_method": "dried in air"
+      }
+    }
+  ]
+}

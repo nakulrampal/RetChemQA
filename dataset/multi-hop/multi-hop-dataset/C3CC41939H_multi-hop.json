@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What are the synthesis conditions for In-IA-2D-1?",
+      "answer": "Solvothermal reaction between isophthalic acid (IA), tetramethyl ammonium chloride, and In(NO3)3.xH2O in N,N'-dimethylformamide (DMF) and H2O at 120 °C for 96 hours.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the difference in the composition of guest molecules between In-IA-2D-1 and In-IA-2D-2?",
+      "answer": "In-IA-2D-1 contains guest H2O and [(CH3)2NH2]+ cations, whereas In-IA-2D-2 contains [(CH3)2NH2]+ cations and solvent (DMF) molecules.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the proton conductivity of In-IA-2D-1 compare to In-IA-2D-2 under humidified conditions at ambient temperature?",
+      "answer": "In-IA-2D-1 shows a higher proton conductivity (3.4 x 10^-3 S cm^-1) than In-IA-2D-2 (4.2 x 10^-4 S cm^-1) at 27 °C and 98% RH.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can In-IA-2D-2 conduct protons under anhydrous conditions?",
+      "answer": "Yes, In-IA-2D-2 shows proton conductivity under anhydrous conditions.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role do [(CH3)2NH2]+ cations play in the proton conductivity of In-IA-2D-1 and In-IA-2D-2?",
+      "answer": "[(CH3)2NH2]+ cations act as a proton carrier and facilitate proton conductivity in both In-IA-2D-1 and In-IA-2D-2.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens to the DMF molecules in In-IA-2D-2 at temperatures beyond 90 °C under anhydrous conditions?",
+      "answer": "Beyond 90 °C, DMF molecules leave the framework of In-IA-2D-2, which is confirmed by TGA and VTSCXRD data.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the proton conductivity of In-IA-2D-2 constant across a range of temperatures under anhydrous conditions?",
+      "answer": "Yes, the anhydrous proton conductivity of In-IA-2D-2 remains constant over a wide range of temperatures.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the highest temperature at which In-IA-2D-1 shows proton conductivity under humidified conditions?",
+      "answer": "In-IA-2D-1 shows proton conductivity up to 65 °C under humidified conditions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the activation energy for low temperature proton conductivity of In-IA-2D-1 and In-IA-2D-2 at 98% RH?",
+      "answer": "The activation energy is 0.61 eV for In-IA-2D-1 and 0.48 eV for In-IA-2D-2 at 98% RH.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the framework of In-IA-2D-2 remain stable after the loss of DMF molecules at high temperatures?",
+      "answer": "Yes, the framework of In-IA-2D-2 remains stable at high temperatures even after the loss of DMF molecules.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

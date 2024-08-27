@@ -1,0 +1,254 @@
+{
+  "data": [
+    {
+      "title": "Multi-hop Q&A on Synthesis Conditions of (Pd.py.porph).2Cd(N03)2.hydrate",
+      "paragraphs": [
+        {
+          "context": "The synthesis conditions and structural analysis of (Pd.py.porph).2Cd(N03)2.hydrate are detailed, including crystallography experiments, data collection, and refinement processes.",
+          "qas": [
+            {
+              "question": "What crystal system does (Pd.py.porph).2Cd(N03)2.hydrate belong to, and what is its space group?",
+              "id": "1",
+              "answers": [
+                {
+                  "text": "Monoclinic, C2/c",
+                  "answer_start": 0
+                }
+              ],
+              "difficulty": "medium",
+              "type": "factual"
+            },
+            {
+              "question": "Considering the synthesis of (Pd.py.porph).2Cd(N03)2.hydrate, what technique was used for intensity data collection?",
+              "id": "2",
+              "answers": [
+                {
+                  "text": "co:20 scan technique",
+                  "answer_start": 0
+                }
+              ],
+              "difficulty": "medium",
+              "type": "factual"
+            },
+            {
+              "question": "What was the final R value after refinement of (Pd.py.porph).2Cd(N03)2.hydrate's structure, and what does it indicate about the quality of the crystal structure model?",
+              "id": "3",
+              "answers": [
+                {
+                  "text": "0.101, indicates the quality of the crystal structure model is acceptable",
+                  "answer_start": 0
+                }
+              ],
+              "difficulty": "hard",
+              "type": "reasoning"
+            },
+            {
+              "question": "True or False: Anisotropic thermal parameters were applied to all atoms in the (Pd.py.porph).2Cd(N03)2.hydrate structure.",
+              "id": "4",
+              "answers": [
+                {
+                  "text": "False",
+                  "answer_start": 0
+                }
+              ],
+              "difficulty": "easy",
+              "type": "True or False"
+            },
+            {
+              "question": "What was the method used to solve the structure of (Pd.py.porph).2Cd(N03)2.hydrate, and how does it contribute to determining the atomic positions?",
+              "id": "5",
+              "answers": [
+                {
+                  "text": "A combination of Patterson map, direct methods, and difference syntheses",
+                  "answer_start": 0
+                }
+              ],
+              "difficulty": "hard",
+              "type": "reasoning"
+            },
+            {
+              "question": "True or False: The presence of solvent water molecules in the lattice of (Pd.py.porph).2Cd(N03)2.hydrate was confirmed through difference maps.",
+              "id": "6",
+              "answers": [
+                {
+                  "text": "True",
+                  "answer_start": 0
+                }
+              ],
+              "difficulty": "easy",
+              "type": "True or False"
+            },
+            {
+              "question": "How many water molecules per Pd atom were indicated by the refinement, and how does this compare to the value found by chemical analysis?",
+              "id": "7",
+              "answers": [
+                {
+                  "text": "~9.0 water molecules per Pd atom, compares favourably with the value of 8.6 found by chemical analysis",
+                  "answer_start": 0
+                }
+              ],
+              "difficulty": "medium",
+              "type": "factual"
+            },
+            {
+              "question": "True or False: Corrections for Lorentz, polarization, and absorption effects were not applied during the synthesis of (Pd.py.porph).2Cd(N03)2.hydrate.",
+              "id": "8",
+              "answers": [
+                {
+                  "text": "False",
+                  "answer_start": 0
+                }
+              ],
+              "difficulty": "easy",
+              "type": "True or False"
+            },
+            {
+              "question": "What was the primary challenge in measuring reflections for (Pd.py.porph).2Cd(N03)2.hydrate, and how was it addressed?",
+              "id": "9",
+              "answers": [
+                {
+                  "text": "Crystals were very small and weakly scattering, addressed by gluing the crystal to a very thin Lindemann glass fibre to minimize background scattering",
+                  "answer_start": 0
+                }
+              ],
+              "difficulty": "hard",
+              "type": "reasoning"
+            },
+            {
+              "question": "True or False: The structure of (Pd.py.porph).2Cd(N03)2.hydrate was initially refined in a non-centrosymmetric space group.",
+              "id": "10",
+              "answers": [
+                {
+                  "text": "False",
+                  "answer_start": 0
+                }
+              ],
+              "difficulty": "easy",
+              "type": "True or False"
+            },
+            {
+              "question": "What was the role of the SHELX-76 system in the synthesis of (Pd.py.porph).2Cd(N03)2.hydrate?",
+              "id": "11",
+              "answers": [
+                {
+                  "text": "Used for the full-matrix least-squares refinement of the structure",
+                  "answer_start": 0
+                }
+              ],
+              "difficulty": "medium",
+              "type": "factual"
+            },
+            {
+              "question": "True or False: The atomic scattering factors for C, H, N, and O used in the analysis of (Pd.py.porph).2Cd(N03)2.hydrate were unique and not incorporated in the SHELX-76 system.",
+              "id": "12",
+              "answers": [
+                {
+                  "text": "False",
+                  "answer_start": 0
+                }
+              ],
+              "difficulty": "easy",
+              "type": "True or False"
+            },
+            {
+              "question": "Considering the synthesis details of (Pd.py.porph).2Cd(N03)2.hydrate, what was the significance of applying a correction for extinction?",
+              "id": "13",
+              "answers": [
+                {
+                  "text": "It indicated that extinction effects were negligible, which is important for the accuracy of the structure analysis",
+                  "answer_start": 0
+                }
+              ],
+              "difficulty": "hard",
+              "type": "reasoning"
+            },
+            {
+              "question": "True or False: The crystal of (Pd.py.porph).2Cd(N03)2.hydrate was C-centred monoclinic with systematic absences consistent with multiple space groups.",
+              "id": "14",
+              "answers": [
+                {
+                  "text": "True",
+                  "answer_start": 0
+                }
+              ],
+              "difficulty": "easy",
+              "type": "True or False"
+            },
+            {
+              "question": "What does the final k value of 1.854 indicate about the refinement process of (Pd.py.porph).2Cd(N03)2.hydrate?",
+              "id": "15",
+              "answers": [
+                {
+                  "text": "Indicates the final adjustment in the weighting scheme during the refinement process",
+                  "answer_start": 0
+                }
+              ],
+              "difficulty": "medium",
+              "type": "factual"
+            },
+            {
+              "question": "True or False: The positions of solvent water molecules in the lattice of (Pd.py.porph).2Cd(N03)2.hydrate were clearly resolved.",
+              "id": "16",
+              "answers": [
+                {
+                  "text": "False",
+                  "answer_start": 0
+                }
+              ],
+              "difficulty": "easy",
+              "type": "True or False"
+            },
+            {
+              "question": "How does the use of a graphite monochromator contribute to the data collection for (Pd.py.porph).2Cd(N03)2.hydrate?",
+              "id": "17",
+              "answers": [
+                {
+                  "text": "It was used with Mo Ka radiation to improve the quality of the data collected",
+                  "answer_start": 0
+                }
+              ],
+              "difficulty": "medium",
+              "type": "factual"
+            },
+            {
+              "question": "True or False: The crystal dimensions and temperature were not critical factors in the synthesis and analysis of (Pd.py.porph).2Cd(N03)2.hydrate.",
+              "id": "18",
+              "answers": [
+                {
+                  "text": "False",
+                  "answer_start": 0
+                }
+              ],
+              "difficulty": "easy",
+              "type": "True or False"
+            },
+            {
+              "question": "What does the presence of ~2.5 lattice water molecules per asymmetric unit suggest about the structure of (Pd.py.porph).2Cd(N03)2.hydrate?",
+              "id": "19",
+              "answers": [
+                {
+                  "text": "Suggests partial site occupation for the solvent molecules, indicating a complex hydration structure",
+                  "answer_start": 0
+                }
+              ],
+              "difficulty": "hard",
+              "type": "reasoning"
+            },
+            {
+              "question": "True or False: The analysis of variance for (Pd.py.porph).2Cd(N03)2.hydrate showed several unusual features.",
+              "id": "20",
+              "answers": [
+                {
+                  "text": "False",
+                  "answer_start": 0
+                }
+              ],
+              "difficulty": "easy",
+              "type": "True or False"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

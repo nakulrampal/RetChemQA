@@ -1,0 +1,50 @@
+{
+  "materials": [
+    {
+      "name": "Hf-UiO-66",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": "dimethylformamide (DMF)",
+        "amount_of_solvent": "5 ml",
+        "chemicals_used": [
+          {
+            "name": "HfCl4",
+            "amount": "150 mg (0.47 mmol)"
+          },
+          {
+            "name": "terephthalic acid",
+            "amount": "87 mg (0.52 mmol)"
+          },
+          {
+            "name": "H2O",
+            "concentration": "0.1 M"
+          }
+        ],
+        "time": "24 h",
+        "equipment": "sealed glass vessel",
+        "drying_method": "cooled to RT, and filtered"
+      }
+    },
+    {
+      "name": "Boron-functionalized UiO-66",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "dimethylformamide (DMF)",
+        "amount_of_solvent": "4 ml",
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "11.7 mg"
+          },
+          {
+            "name": "p-carborane-dicarboxylic acid",
+            "amount": "11.6 mg"
+          }
+        ],
+        "time": "24 h",
+        "equipment": "Teflon liner in an autoclave",
+        "drying_method": "cooled to room temperature and filtered"
+      }
+    }
+  ]
+}

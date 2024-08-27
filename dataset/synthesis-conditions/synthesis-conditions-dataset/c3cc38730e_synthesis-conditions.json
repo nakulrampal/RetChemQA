@@ -1,0 +1,71 @@
+{
+  "materials": [
+    {
+      "name": "[Mg16(PTCA)8(m2-H2O)8(H2O)16(dioxane)8](H2O)13(DMF)26 (1)",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "part of a 2:1:1 mixture solution, total volume 8 mL"
+          },
+          {
+            "name": "dioxane",
+            "amount": "part of a 2:1:1 mixture solution, total volume 8 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "part of a 2:1:1 mixture solution, total volume 8 mL"
+          }
+        ],
+        "equipment": "Teflon-lined autoclave",
+        "chemicals_used": [
+          {
+            "name": "MgCl2·6H2O",
+            "amount": "0.15 mmol (30 mg)"
+          },
+          {
+            "name": "H4PTCA",
+            "amount": "0.06 mmol (23 mg)"
+          },
+          {
+            "name": "HCl",
+            "amount": "1.2 M, 1 drop"
+          }
+        ],
+        "time": "72 h",
+        "cooling_rate": "cooled over a period of 14 h at a rate of 5 °C·h-1",
+        "yield": "60% (based on Mg)",
+        "washing_method": "soaking in methanol for 7 days, decanted every 12 hours",
+        "drying_method": "under high vacuum at room temperature for 5 h",
+        "additional_information": "The initial outgassing process for the sample was carried out under a high vacuum (less than 10-6 mbar) at room temperature for 5 h, and the amount of weight loss (27%) is consistent with that of TG analysis (28%) of 1', indicating all the methanol was removed from the pores."
+      }
+    },
+    {
+      "name": "pyrene-1,3,6,8-tetracarboxylic acid (H4PTCA)",
+      "synthesis_conditions": {
+        "temperature": "reflux",
+        "solvents": [
+          {
+            "name": "aqueous solution of NaOH",
+            "amount": "10 M, 60 mL"
+          },
+          {
+            "name": "ethanol",
+            "amount": "90 mL"
+          }
+        ],
+        "equipment": "250 mL round-bottom flask",
+        "chemicals_used": [
+          {
+            "name": "1,3,6,8-Tetracyanopyrene (TCNP)",
+            "amount": "2.26 g, 7.5 mmol"
+          }
+        ],
+        "time": "1 day",
+        "yield": "65%",
+        "washing_method": "washed with water and ethanol"
+      }
+    }
+  ]
+}

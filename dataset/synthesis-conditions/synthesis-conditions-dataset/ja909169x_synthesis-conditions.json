@@ -1,0 +1,107 @@
+{
+  "materials": [
+    {
+      "name": "bio-MOF-11",
+      "synthesis_conditions": [
+        {
+          "step": "General procedures and experimental protocols",
+          "solvents": [
+            {
+              "name": "N,N-dimethylformamide (DMF)",
+              "amount": "not specified"
+            },
+            {
+              "name": "Pyridine",
+              "amount": "not specified"
+            }
+          ],
+          "equipment": [
+            {
+              "name": "TGA Q500 thermal analysis system",
+              "details": "All TGA experiments were performed under a N2 atmosphere from 25-800 °C at a rate of 1 °C/min"
+            },
+            {
+              "name": "Nicolet Avatar 360 FTIR E.S.D.",
+              "details": "for measuring FT-IR spectra using KBr pellet samples"
+            },
+            {
+              "name": "Bruker AXS D8 Discover powder diffractometer",
+              "details": "for collecting X-Ray powder diffraction patterns at 40 kV, 40 mA for Cu Kα, (λ = 1.5406Å) with a scan speed of 0.20 sec/step and a step size of .02018º"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "adenine",
+              "amount": "not specified"
+            },
+            {
+              "name": "cobalt acetate tetrahydrate",
+              "amount": "not specified"
+            }
+          ]
+        },
+        {
+          "step": "Synthesis of bio-MOF-11",
+          "temperature": "130 °C",
+          "time": "24 h",
+          "solvents": [
+            {
+              "name": "N,N-dimethylformamide (DMF)",
+              "amount": "1 mL (0.05 M stock solution for adenine), 0.25 mL (0.05 M stock solution for cobalt acetate tetrahydrate)"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "adenine",
+              "amount": "0.0375 mmol"
+            },
+            {
+              "name": "cobalt acetate tetrahydrate",
+              "amount": "0.0125 mmol"
+            }
+          ],
+          "yield": "0.0037 g, 30 % based on adenine",
+          "washing_method": "washed with DMF (3 mL x 3)",
+          "drying_method": "dried in air (15 min)"
+        },
+        {
+          "step": "Chloroform-Exchange Experiment for bio-MOF-11",
+          "solvents": [
+            {
+              "name": "Chloroform",
+              "details": "used for soaking the sample"
+            }
+          ],
+          "time": "24 h soaking in chloroform",
+          "washing_method": "rinsed with DMF (3X), soaked in chloroform (2X; 10 min)"
+        },
+        {
+          "step": "Low-Pressure Gas Adsorption Measurements",
+          "temperature": [
+            {
+              "condition": "N2 and H2 adsorption experiments",
+              "value": "77 K (liquid nitrogen) or 87 K (liquid argon)"
+            },
+            {
+              "condition": "CO2 isotherms",
+              "value": "273 K, 298 K, 303 K, 308 K, and 313 K (temperature-controlled water bath)"
+            }
+          ],
+          "equipment": [
+            {
+              "name": "Autosorb 1 by Quantachrome",
+              "details": "for performing sorption isotherm studies"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "N2, CO2, and H2 adsorbates",
+              "details": "of UHP grade"
+            }
+          ],
+          "time": "22-24 hours degassing at 100 °C"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula and formula weight of the 1:2 (AgOTf·(R)-BINAP) complex?",
+      "answer": "The empirical formula is not explicitly provided in the text, but the formula weight for a similar complex, 1:1 (AgOCOCF3·BINAP) complex, is 771.51.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature was the X-ray crystal data for the 1:1 (AgOCOCF3·BINAP) complex collected?",
+      "answer": "The X-ray crystal data for the 1:1 (AgOCOCF3·BINAP) complex was collected at 273 K.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system and space group of the 2:1 (AgOTf·(R)-BINAP) complex?",
+      "answer": "The crystal system is orthorhombic and the space group is P212121 for the 2:1 (AgOTf·(R)-BINAP) complex.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How was the absorption correction applied to the X-ray crystal data of the 1:2 (AgOTf·(R)-BINAP) complex?",
+      "answer": "Absorption correction was applied using SADABS based on redundant diffractions for the 1:2 (AgOTf·(R)-BINAP) complex.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the method used for the refinement of the X-ray crystal data for the 1:1 (AgOCOCF3·BINAP) complex?",
+      "answer": "The refinement method used was full-matrix least squares on F2 for the 1:1 (AgOCOCF3·BINAP) complex.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the differences in the crystal data collection temperatures between the 1:2 (AgOTf·(R)-BINAP) complex and the 1:1 (AgOCOCF3·BINAP) complex?",
+      "answer": "The 1:2 (AgOTf·(R)-BINAP) complex's crystal data collection temperature is not explicitly mentioned, while the 1:1 (AgOCOCF3·BINAP) complex's data was collected at 273 K.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Based on the crystallographic data provided, which complex showed the highest density?",
+      "answer": "The 2:1 (AgOTf·(R)-BINAP) complex showed the highest density at 1.729 Mg/m3.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the space group P212121 associated with the 1:1 (AgOCOCF3·BINAP) complex?",
+      "answer": "False, the space group P212121 is not associated with the 1:1 (AgOCOCF3·BINAP) complex; it is associated with the 2:1 (AgOTf·(R)-BINAP) complex.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The absorption correction for the 2:1 (AgOTf·(R)-BINAP) complex was applied using the same method as for the 1:2 (AgOTf·(R)-BINAP) complex.",
+      "answer": "True, both the 1:2 (AgOTf·(R)-BINAP) complex and the 2:1 (AgOTf·(R)-BINAP) complex had absorption corrections applied using SADABS based on redundant diffractions.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The crystal data for the 1:1 (AgOCOCF3·BINAP) complex was collected at a lower temperature compared to the 2:1 (AgOTf·(R)-BINAP) complex.",
+      "answer": "False, the crystal data for the 1:1 (AgOCOCF3·BINAP) complex was collected at 273 K, which is higher than the 100 K collection temperature for the 2:1 (AgOTf·(R)-BINAP) complex.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "The refinement method for all complexes mentioned involved full-matrix least squares on F2.",
+      "answer": "True, the refinement method for all complexes mentioned involved full-matrix least squares on F2.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The crystal system for the 1:1 (AgOCOCF3·BINAP) complex is orthorhombic.",
+      "answer": "False, the crystal system for the 1:1 (AgOCOCF3·BINAP) complex is monoclinic, not orthorhombic.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The density of the 1:2 (AgOTf·(R)-BINAP) complex is higher than that of the 1:1 (AgOCOCF3·BINAP) complex.",
+      "answer": "False, the density of the 1:2 (AgOTf·(R)-BINAP) complex is not provided, making it impossible to compare directly with the 1:1 (AgOCOCF3·BINAP) complex.",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

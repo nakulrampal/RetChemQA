@@ -1,0 +1,97 @@
+{
+  "materials": [
+    {
+      "name": "[Ag(Py2O)]BF4",
+      "synthesis_conditions": {
+        "solvents": "Methanol",
+        "solvent_amount_ml": 6,
+        "chemicals_used": [
+          {
+            "name": "Py2O",
+            "amount_mg": 52,
+            "molarity_mmol": 0.3
+          },
+          {
+            "name": "AgBF4",
+            "amount_mg": 58,
+            "molarity_mmol": 0.3
+          }
+        ],
+        "yield_percentage": 80,
+        "time_days": 3,
+        "temperature_conditions": "Room temperature",
+        "alternative_solvents": ["Acetone", "Ethanol"]
+      }
+    },
+    {
+      "name": "[Ag(Py2O)]NO3",
+      "synthesis_conditions": {
+        "yield_percentage": 75,
+        "chemicals_used": [
+          {
+            "name": "Py2O",
+            "molarity_mmol": "Not specified"
+          },
+          {
+            "name": "AgNO3",
+            "molarity_mmol": "Not specified"
+          }
+        ]
+      }
+    },
+    {
+      "name": "[Ag(Py2O)]ClO4",
+      "synthesis_conditions": {
+        "yield_percentage": 81,
+        "chemicals_used": [
+          {
+            "name": "Py2O",
+            "molarity_mmol": "Not specified"
+          },
+          {
+            "name": "AgClO4",
+            "molarity_mmol": "Not specified"
+          }
+        ]
+      }
+    },
+    {
+      "name": "[Ag(Py2O)]PF6",
+      "synthesis_conditions": {
+        "yield_percentage": 84,
+        "chemicals_used": [
+          {
+            "name": "Py2O",
+            "molarity_mmol": "Not specified"
+          },
+          {
+            "name": "AgPF6",
+            "molarity_mmol": "Not specified"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Counteranion exchange [Ag(Py2O)]BF4 to [Ag(Py2O)]NO3",
+      "synthesis_conditions": {
+        "solvents": "Water",
+        "solvent_amount_ml": 5,
+        "chemicals_used": [
+          {
+            "name": "NaBF4",
+            "amount_mg": 35,
+            "molarity_mmol": 0.32
+          },
+          {
+            "name": "[Ag(Py2O)]NO3",
+            "amount_mg": 36,
+            "molarity_mmol": 0.1
+          }
+        ],
+        "time_hours": 24,
+        "temperature_conditions": "Room temperature",
+        "washing_method": "Water and methanol"
+      }
+    }
+  ]
+}

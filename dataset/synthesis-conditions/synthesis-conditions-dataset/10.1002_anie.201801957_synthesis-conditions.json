@@ -1,0 +1,30 @@
+{
+  "materials": [
+    {
+      "name": "Pt0_2-MOF",
+      "synthesis_steps": [
+        {
+          "step": 1,
+          "description": "Preparation of a 3D MOF with a ligand derived from the amino acid l-methionine, formula {CaIICuII6[(S,S)-methox]3(OH)2(H2O)}·16 H2O (1), featuring pores decorated with thioalkyl chains."
+        },
+        {
+          "step": 2,
+          "description": "Incorporation of Pt2+ cations by anchoring the metal salt K2-[PtCl4] to 1 through the S atoms of the coordination network, yielding {CaIICuII6[(S,S)-methox]3(OH)2(H2O)}·13 H2O (2).",
+          "chemicals_used": [
+            "K2-[PtCl4]"
+          ]
+        },
+        {
+          "step": 3,
+          "description": "Reduction of 2 with NaBH4 to obtain (Pt0_2)0.5-(PtIICl2)@{CaIICuII6[(S,S)-methox]3(OH)2(H2O)}·15 H2O (3).",
+          "chemicals_used": [
+            "NaBH4"
+          ],
+          "yield": "High loading of platinum atoms (ca. 17 wt % for both 2 and 3), 50 % of which are Pt0_2 units in 3."
+        }
+      ],
+      "characterization_methods_excluded": true,
+      "additional_information": "The obtained Pt0_2-MOF material catalyzes reactions such as room-temperature NH4CN production, the methanation of CO2, and the hydrogenation of ethylene and C6 olefins at < 140 88C."
+    }
+  ]
+}

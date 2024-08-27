@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the research article with DOI 10.1021/jacs.9b07807?",
+      "answer": "The main focus of the research article is on the enhanced gas uptake in a microporous metal–organic framework (MOF) via a sorbate induced-fit mechanism, specifically for gases such as C2H6, C3H6, and C3H8 over a practical temperature and pressure range.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method is used for the synthesis of NKU-FlexMOF-1?",
+      "answer": "The synthesis of NKU-FlexMOF-1 involves a solvothermal reaction of CuCl2·2H2O and ligand H2FPBDC in a mixed solvent of DMF/MeOH with the addition of concentrated HNO3, heated to 80 °C for 48 hours.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How is the gas adsorption capacity of NKU-FlexMOF-1a measured?",
+      "answer": "The gas adsorption capacity of NKU-FlexMOF-1a is measured using a Micrometrics ASAP 2020M volumetric gas adsorption analyzer at various temperatures, with the material being activated by heating to 140 °C under a dynamic vacuum prior to measurements.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What unique property does NKU-FlexMOF-1 exhibit in relation to gas adsorption, and how is it demonstrated?",
+      "answer": "NKU-FlexMOF-1 exhibits a unique property of inversely enhanced adsorption behavior for gases like C2H6, C3H6, and C3H8, where the gas uptake increases with rising temperature over a practical temperature and pressure range. This is demonstrated through temperature-dependent gas sorption isotherms and electronic structure calculations.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What computational methods are used to explore the framework flexibility of NKU-FlexMOF-1a?",
+      "answer": "The framework flexibility of NKU-FlexMOF-1a is explored using first-principles density functional theory (DFT) calculations, including dispersion-corrected DFT (DFT-D) optimizations, lattice dynamics phonon calculations, and nudged elastic band calculations to find the minimum energy path for structural transitions.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the NKU-FlexMOF-1 material stable in aqueous solutions with varying pH levels?",
+      "answer": "Yes, NKU-FlexMOF-1 is stable in aqueous solutions across a wide pH range (3–11), as demonstrated by PXRD patterns, optical microscopy, and SEM images, along with ICP measurements showing only small pH-independent concentrations of Cu2+.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What potential application is suggested for NKU-FlexMOF-1 based on its gas adsorption behavior?",
+      "answer": "Based on its unique gas adsorption behavior, NKU-FlexMOF-1 is suggested to have potential applications in cost and energy-efficient industrial hydrocarbon separation and purification processes, specifically for the separation of C3H6/C3H8 mixtures.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the induced-fit mechanism of NKU-FlexMOF-1 contribute to its gas separation capabilities?",
+      "answer": "The induced-fit mechanism of NKU-FlexMOF-1 contributes to its gas separation capabilities by allowing the framework to adapt its conformation specifically to each sorbate, leading to highly specific sorbate–sorbent interactions and enabling the resolution of chemically similar hydrocarbons through distinct energetics.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The research article provides evidence that NKU-FlexMOF-1 can selectively separate C3H6 from C3H8 at lower temperatures.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The flexibility of NKU-FlexMOF-1 is attributed solely to the rotation of the organic ligands within its structure.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

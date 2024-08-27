@@ -1,0 +1,110 @@
+{
+  "materials": [
+    {
+      "name": "L21",
+      "synthesis_conditions": {
+        "solvents": ["water", "CH2Cl2"],
+        "solvent_amounts": ["100 ml", "300 ml"],
+        "temperature": "0 °C",
+        "time": "30 minutes",
+        "chemicals_used": ["4-aminopyridine (5g)", "NaOCl solution (10%)"],
+        "washing_method": ["CH2Cl2"],
+        "drying_method": "rotary evaporation",
+        "yield": "Not specified"
+      }
+    },
+    {
+      "name": "L32",
+      "synthesis_conditions": {
+        "solvents": ["deionized water", "glacial acetic acid", "pyridine"],
+        "solvent_amounts": ["5 mL", "200 mL"],
+        "temperature": "reflux temperature",
+        "time": "2 h",
+        "chemicals_used": ["4-Cyanopyridine (5.5 g)", "hydrazine monohydrate (25 mL)", "concentrated HCl (5 mL)", "HNO3 (30%)"],
+        "washing_method": "filtration",
+        "drying_method": "recrystallization",
+        "yield": "Not specified"
+      }
+    },
+    {
+      "name": "L42",
+      "synthesis_conditions": {
+        "solvents": ["DMF"],
+        "solvent_amounts": ["50 ml"],
+        "temperature": "reflux temperature",
+        "time": "15 hrs",
+        "chemicals_used": ["1,4,5,8-naphthalenetetracarboxylic dianhydride (1.0 g)", "4-aminopyridine (1.0 g)"],
+        "washing_method": ["DMF", "water", "acetone", "CH2Cl2"],
+        "drying_method": "vacuum",
+        "yield": "Not specified"
+      }
+    },
+    {
+      "name": "L5",
+      "synthesis_conditions": {
+        "steps": [
+          {
+            "solvents": ["THF", "hexanes", "acetone"],
+            "solvent_amounts": ["100 ml"],
+            "temperature": "room temperature",
+            "time": "15 hours",
+            "chemicals_used": ["p-tolylmagnesium bromide (1M, 100 mmol)", "hexabromobenzene (5g, 9.07 mmol)"],
+            "washing_method": ["hexanes", "acetone"],
+            "yield": "70%"
+          },
+          {
+            "solvents": ["water"],
+            "solvent_amounts": ["24 ml"],
+            "temperature": "180 °C",
+            "time": "24 hrs",
+            "chemicals_used": ["product from step 1"],
+            "washing_method": ["THF/CHCl3 (7:3)"],
+            "yield": "75%"
+          }
+        ]
+      }
+    },
+    {
+      "name": "L6",
+      "synthesis_conditions": {
+        "steps": [
+          {
+            "solvents": ["THF", "CCl4", "methanol"],
+            "solvent_amounts": ["100 ml", "60ml"],
+            "temperature": "room temperature",
+            "time": "15 hours",
+            "chemicals_used": ["p-tolylmagnesium bromide (1M, 100 mmol)", "hexabromobenzene (5g, 9.07 mmol)", "bromine (7ml)"],
+            "washing_method": ["methanol"],
+            "yield": "42%"
+          },
+          {
+            "temperature": "180 °C",
+            "time": "24 hrs",
+            "chemicals_used": ["product from step 1"],
+            "yield": "75%"
+          }
+        ]
+      }
+    },
+    {
+      "name": "1-8",
+      "synthesis_conditions": {
+        "solvents": ["DMF"],
+        "solvent_amounts": ["10 ml"],
+        "temperature": "80 °C",
+        "time": "24 hours",
+        "chemicals_used": ["Zn(NO3)2·6H2O (50 mg, 0.17 mmol)", "L5 or L6 (0.09 mmol)", "L1-L4 (0.09 mmol)", "concentrated HCl (one drop)"],
+        "yield": [
+          "60%",
+          "65%",
+          "60%",
+          "50%",
+          "55%",
+          "45%",
+          "50%",
+          "30%"
+        ]
+      }
+    }
+  ]
+}

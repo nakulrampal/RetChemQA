@@ -1,0 +1,155 @@
+{
+  "materials": [
+    {
+      "name": "MOF-808",
+      "synthesis_conditions": {
+        "temperature": "130 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "450 mL"
+          },
+          {
+            "name": "formic acid",
+            "amount": "450 mL"
+          }
+        ],
+        "equipment": "Pyrex media storage bottle",
+        "chemicals_used": [
+          {
+            "name": "ZrOCl2·8H2O",
+            "amount": "9.7 g"
+          },
+          {
+            "name": "H3BTC",
+            "amount": "2.1 g"
+          }
+        ],
+        "time": "2 days",
+        "washing_method": [
+          {
+            "solvent": "DMF",
+            "times_per_day": 3,
+            "duration": "3 days"
+          },
+          {
+            "solvent": "deionized water",
+            "times_per_day": 3,
+            "duration": "3 days"
+          },
+          {
+            "solvent": "acetone",
+            "times_per_day": 3,
+            "duration": "3 days"
+          }
+        ],
+        "drying_method": {
+          "initial_vacuum": "< 0.1 Torr",
+          "initial_temperature": "60 °C",
+          "initial_duration": "3 h",
+          "final_temperature": "120 °C",
+          "final_duration": "24 h"
+        }
+      }
+    },
+    {
+      "name": "MOF-808-FR",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": [
+          {
+            "name": "1 mol L-1 hydrochloric acid (HCl) aqueous solution",
+            "amount": "100 mL"
+          }
+        ],
+        "equipment": "Nalgene HDPE bottle",
+        "chemicals_used": [
+          {
+            "name": "MOF-808",
+            "amount": "5 g"
+          }
+        ],
+        "time": "3 days",
+        "washing_method": [
+          {
+            "solvent": "1 mol L-1 HCl aqueous solutions",
+            "times_per_day": 3,
+            "duration": "3 days"
+          },
+          {
+            "solvent": "deionized water",
+            "times_per_day": 3,
+            "duration": "3 days"
+          },
+          {
+            "solvent": "acetone",
+            "times_per_day": 3,
+            "duration": "3 days"
+          }
+        ],
+        "drying_method": {
+          "initial_vacuum": "< 0.1 Torr",
+          "initial_temperature": "60 °C",
+          "initial_duration": "3 h",
+          "final_temperature": "120 °C",
+          "final_duration": "24 h"
+        }
+      }
+    },
+    {
+      "name": "MOF-808-AA",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": [
+          {
+            "name": "amino acid solution",
+            "amount": "varies"
+          }
+        ],
+        "equipment": "20 mL scintillation vial",
+        "chemicals_used": [
+          {
+            "name": "MOF-808-FR",
+            "amount": "ca. 100 mg"
+          },
+          {
+            "name": "amino acids",
+            "amount": "varies"
+          }
+        ],
+        "time": "3 days",
+        "washing_method": [
+          {
+            "solvent": "amino acid solutions",
+            "times_per_day": 3,
+            "duration": "3 days"
+          },
+          {
+            "solvent": "deionized water",
+            "times_per_day": 3,
+            "duration": "3 days"
+          },
+          {
+            "solvent": "buffer solution",
+            "times_per_day": 2,
+            "duration": "1 day"
+          },
+          {
+            "solvent": "acetone",
+            "times_per_day": 2,
+            "duration": "1 day"
+          }
+        ],
+        "drying_method": {
+          "initial_vacuum": "< 0.1 Torr",
+          "initial_temperature": "30 °C",
+          "initial_duration": "2 h",
+          "second_temperature": "70 °C",
+          "second_duration": "2 h",
+          "final_temperature": "140 °C",
+          "final_duration": "20 h"
+        }
+      }
+    }
+  ]
+}

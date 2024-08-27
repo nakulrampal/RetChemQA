@@ -1,0 +1,413 @@
+{
+  "materials": [
+    {
+      "name": "S1",
+      "synthesis_conditions": {
+        "temperature": "reflux",
+        "solvents": [
+          {
+            "name": "butan-2-one",
+            "amount": "75 mL"
+          }
+        ],
+        "chemicals_used": [
+          "4-hydroxybenzylalcohol (1.32 g, 10.6 mmol)",
+          "6-bromohex-1-ene (1.73 g, 10.6 mmol)",
+          "potassium carbonate (7.32 g, 53.0 mmol)",
+          "sodium iodide (catalytic amount)"
+        ],
+        "yield": "70%",
+        "washing_method": "washed with water (2 x 25 mL), followed by a saturated aqueous solution of sodium chloride (25 mL)",
+        "drying_method": "dried over anhydrous magnesium sulfate",
+        "purification_method": "column chromatography (CH2Cl2)"
+      }
+    },
+    {
+      "name": "L2",
+      "synthesis_conditions": {
+        "temperature": "reflux",
+        "solvents": [
+          {
+            "name": "anhydrous THF",
+            "amount": "35 mL"
+          }
+        ],
+        "chemicals_used": [
+          "S1 (1.11 g, 5.38 mmol)",
+          "2, 6-bis(bromomethyl)pyridine (0.713 g, 2.69 mmol)",
+          "sodium hydride (0.174 g, 7.25 mmol, 60% dispersion in oil)"
+        ],
+        "yield": "70%",
+        "washing_method": "washed with water (2 x 25 mL), and a saturated aqueous solution of sodium chloride (25 mL)",
+        "drying_method": "dried over anhydrous magnesium sulfate",
+        "purification_method": "column chromatography (95:5 CH2Cl2:EtOAc)"
+      }
+    },
+    {
+      "name": "S2",
+      "synthesis_conditions": {
+        "temperature": "reflux",
+        "solvents": [
+          {
+            "name": "butan-2-one",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          "4-hydroxybenzaldehyde (1.62 g, 13.3 mmol)",
+          "1,10-dibromodecane (2.00 g, 6.66 mmol)",
+          "potassium carbonate (9.20 g, 66.6 mmol)",
+          "sodium iodide (catalytic amount)"
+        ],
+        "yield": "75%",
+        "recrystallization_solvent": "methanol"
+      }
+    },
+    {
+      "name": "S3",
+      "synthesis_conditions": {
+        "temperature": "reflux",
+        "solvents": [
+          {
+            "name": "chloroform",
+            "amount": "50 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          "S2 (1.80 g, 4.70 mmol)",
+          "sodium borohydride (1.78 g, 47.0 mmol)"
+        ],
+        "yield": "73%",
+        "quenching_method": "quenched with 1 M hydrochloric acid",
+        "washing_method": "extracted with dichloromethane (3 x 50 mL)",
+        "drying_method": "dried over anhydrous magnesium sulfate"
+      }
+    },
+    {
+      "name": "L5",
+      "synthesis_conditions": {
+        "temperature": "reflux",
+        "solvents": [
+          {
+            "name": "anhydrous THF",
+            "amount": "1 L"
+          }
+        ],
+        "chemicals_used": [
+          "S3 (1.29 g, 3.34 mmol)",
+          "2,6-bis(bromomethyl)pyridine (0.885 g, 3.34 mmol)",
+          "sodium hydride (0.176 g, 7.35 mmol, 60% oil suspension)"
+        ],
+        "yield": "60%",
+        "washing_method": "washed with water (25 mL)",
+        "drying_method": "dried over anhydrous magnesium sulfate",
+        "purification_method": "column chromatography (95:5 CH2Cl2:EtOAc)"
+      }
+    },
+    {
+      "name": "H2L4",
+      "synthesis_conditions": [
+        {
+          "solvents": [
+            {
+              "name": "anhydrous dichloromethane",
+              "amount": "2950 mL"
+            }
+          ],
+          "chemicals_used": [
+            "1,10-bis[p-aminomethyl)phenoxy]decane (5.00 g, 13.0 mmol)",
+            "triethylamine (2.93 g, 29.0 mmol)",
+            "2,6-pyridinedicarbonyl dichloride (2.65 g, 13.0 mmol)"
+          ],
+          "yield": "57%",
+          "purification_method": "column chromatography (50:50 CH2Cl2:EtOAc) and recrystallization from acetonitrile"
+        },
+        {
+          "chemicals_used": [
+            "L4Pd(CH3CN) (0.050 g, 7.6x10-2 mmol)",
+            "potassium cyanide (0.05 g, 0.77 mmol)"
+          ],
+          "yield": "95%",
+          "purification_method": "column chromatography (50:50 CH2Cl2:EtOAc)"
+        }
+      ]
+    },
+    {
+      "name": "L4Pd(CH3CN)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "anhydrous acetonitrile",
+            "amount": "50 mL"
+          }
+        ],
+        "chemicals_used": [
+          "H2L4 (1.55 g, 3.00 mmol)",
+          "palladium(II) acetate (0.674 g, 3.00 mmol)"
+        ],
+        "yield": "93%",
+        "washing_method": "washed with acetonitrile (25 mL)"
+      }
+    },
+    {
+      "name": "L1PdL2",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "anhydrous dichloromethane",
+            "amount": "25 mL"
+          }
+        ],
+        "chemicals_used": [
+          "L2 (0.520 g, 1.01 mmol)",
+          "L1Pd(CH3CN) (0.687 g, 1.00 mmol)"
+        ],
+        "yield": "93%",
+        "purification_method": "column chromatography (95:5 CH2Cl2:EtOAc)"
+      }
+    },
+    {
+      "name": "L3Pd",
+      "synthesis_conditions": [
+        {
+          "steps": [
+            {
+              "description": "RCM using first-generation Grubbs' catalyst",
+              "chemicals_used": [
+                "L1PdL2 (0.452 g, 0.390 mmol)",
+                "first-generation Grubbs' catalyst (0.064 g, 7.8x10-2 mmol)"
+              ],
+              "solvents": [
+                {
+                  "name": "anhydrous dichloromethane",
+                  "amount": "150 mL"
+                }
+              ],
+              "purification_method": "column chromatography (96:4 CH2Cl2:EtOAc)"
+            },
+            {
+              "description": "Hydrogenation",
+              "chemicals_used": [
+                "10% w/w Pd-C (0.050 g)"
+              ],
+              "solvents": [
+                {
+                  "name": "THF",
+                  "amount": "50 mL"
+                }
+              ],
+              "yield": "75% over 2 steps"
+            }
+          ]
+        },
+        {
+          "description": "Synthesis from H2L3 using palladium(II) acetate",
+          "chemicals_used": [
+            "H2L3 (0.050 g, 5.0x10-2 mmol)",
+            "palladium(II) acetate (0.011 g, 5.0x10-2 mmol)"
+          ],
+          "yield": "85%"
+        }
+      ]
+    },
+    {
+      "name": "H2L3",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "dichloromethane",
+            "amount": "10 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          "L3Pd (0.100 g, 9.00x10-2 mmol)",
+          "potassium cyanide (0.091 g, 1.4 mmol)"
+        ],
+        "yield": "94%",
+        "washing_method": "dispersed in water (25 mL) and washed with dichloromethane (3 x 25 mL)",
+        "drying_method": "dried over anhydrous magnesium sulfate",
+        "purification_method": "column chromatography (85:15 CH2Cl2:EtOAc)"
+      }
+    },
+    {
+      "name": "L4Pd(endo-L2) and L4Pd(exo-L2)",
+      "synthesis_conditions": {
+        "temperature": "reflux",
+        "solvents": [
+          {
+            "name": "anhydrous dichloromethane",
+            "amount": "150 mL"
+          }
+        ],
+        "chemicals_used": [
+          "L2 (0.300 g, 5.82x10-1 mmol)",
+          "L4Pd(CH3CN) (0.384 g, 5.82x10-1mmol)"
+        ],
+        "yield": "89% for the mixture",
+        "separation_method": "preparative thin layer chromatography (98.5:1.5 CH2Cl2:MeOH)"
+      }
+    },
+    {
+      "name": "H2L4, L5, and H2L6 from L4Pd(endo-L2) and L4Pd(exo-L2) mixture",
+      "synthesis_conditions": {
+        "steps": [
+          {
+            "description": "RCM using first-generation Grubbs' catalyst",
+            "chemicals_used": [
+              "L4PdL2 (0.362 g, 3.19 x10-1 mmol)",
+              "first-generation Grubbs' catalyst (0.030 g, 3.6x10-2 mmol)"
+            ],
+            "solvents": [
+              {
+                "name": "anhydrous dichloromethane",
+                "amount": "150 mL"
+              }
+            ]
+          },
+          {
+            "description": "Hydrogenation using PdEnCat™",
+            "chemicals_used": [
+              "PdEnCat™ (0.080 g, 3.2 x10-2 mmol)"
+            ],
+            "solvents": [
+              {
+                "name": "THF",
+                "amount": "20 mL"
+              }
+            ]
+          },
+          {
+            "description": "Demetalation using potassium cyanide",
+            "chemicals_used": [
+              "potassium cyanide (0.311 g, 4.79 mmol)"
+            ],
+            "solvents": [
+              {
+                "name": "dichloromethane",
+                "amount": "10 mL"
+              },
+              {
+                "name": "methanol",
+                "amount": "10 mL"
+              }
+            ],
+            "yield": "73% for H2L4, 13% for L5, and 25% for H2L6 over three steps",
+            "purification_method": "column chromatography (99:1 CH2Cl2:MeOH)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "L1PdL5",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "anhydrous dichloromethane",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          "L5 (0.279 g, 5.70 x10-1 mmol)",
+          "L1Pd(CH3CN) (0.392 g, 5.70 x10-1 mmol)"
+        ],
+        "yield": "69%",
+        "purification_method": "column chromatography (95:5 CH2Cl2:EtOAc)"
+      }
+    },
+    {
+      "name": "L6Pd",
+      "synthesis_conditions": [
+        {
+          "steps": [
+            {
+              "description": "RCM using first-generation Grubbs' catalyst",
+              "chemicals_used": [
+                "L1PdL5 (0.352 g, 3.10x10-1 mmol)",
+                "first-generation Grubbs' catalyst (0.030 g, 3.6x10-2 mmol)"
+              ],
+              "solvents": [
+                {
+                  "name": "anhydrous dichloromethane",
+                  "amount": "150 mL"
+                }
+              ]
+            },
+            {
+              "description": "Hydrogenation",
+              "chemicals_used": [
+                "10% w/w Pd-C (0.050 g)"
+              ],
+              "solvents": [
+                {
+                  "name": "THF",
+                  "amount": "20 mL"
+                }
+              ],
+              "yield": "78% over 2 steps"
+            }
+          ]
+        },
+        {
+          "description": "Synthesis from H2L6 using palladium(II) acetate",
+          "chemicals_used": [
+            "H2L6 (0.050 g, 5.0x10-2 mmol)",
+            "palladium(II) acetate (0.011 g, 5.0x10-2 mmol)"
+          ],
+          "yield": "79%"
+        }
+      ]
+    },
+    {
+      "name": "L4PdL5",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "anhydrous dichloromethane",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          "L5 (0.110 g, 2.25x10-1 mmol)",
+          "L4Pd(CH3CN) (0.149 g, 2.25x10-1 mmol)"
+        ],
+        "yield": "78%",
+        "purification_method": "column chromatography (97.5:2.5 CH2Cl2:MeOH)"
+      }
+    },
+    {
+      "name": "H2L6 from L6Pd",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "dichloromethane",
+            "amount": "10 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          "L6Pd (0.210 g, 1.90x10-1 mmol)",
+          "potassium cyanide (0.190 g, 2.92 mmol)"
+        ],
+        "yield": "97%",
+        "purification_method": "column chromatography (85:15 CH2Cl2:EtOAc)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "materials": [
+    {
+      "name": "(H2dab)[Zn2(ox)3]·6H2O (1·6H2O)",
+      "synthesis_conditions": {
+        "temperature": "130 ºC",
+        "solvent": "distilled water",
+        "solvent_amount": "10 ml",
+        "equipment": "50 ml PTFE bottle in autoclave",
+        "chemicals_used": [
+          {
+            "name": "ZnO",
+            "amount": "10 mmol, 814 mg"
+          },
+          {
+            "name": "H2(ox)·2H2O",
+            "amount": "20 mmol, 2521 mg"
+          },
+          {
+            "name": "1,4-diaminobutane (dab)",
+            "amount": "10 mmol, 1.0 ml"
+          }
+        ],
+        "time": "24 h heating + 168 h cooling to room temperature",
+        "washing_method": "distilled water",
+        "yield": "2815 mg, 95%",
+        "elemental_analysis": {
+          "calculated": {
+            "C": "20.25%",
+            "H": "4.42%",
+            "N": "4.72%"
+          },
+          "found": {
+            "C": "20.27%",
+            "H": "4.37%",
+            "N": "4.72%"
+          }
+        }
+      }
+    },
+    {
+      "name": "1·2H2O",
+      "synthesis_conditions": {
+        "method": "Drying 1·6H2O slowly under slightly reduced pressure"
+      }
+    },
+    {
+      "name": "1·4MeOH",
+      "synthesis_conditions": {
+        "method": "Exposure to vapor of MeOH (97%) overnight after drying at 80 °C in vacuum over 20 h"
+      }
+    },
+    {
+      "name": "1·3EtOH",
+      "synthesis_conditions": {
+        "method": "Exposure to vapor of EtOH (96%) overnight after drying at 80 °C in vacuum over 20 h"
+      }
+    }
+  ]
+}

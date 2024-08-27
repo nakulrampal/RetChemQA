@@ -1,0 +1,76 @@
+{
+  "materials": [
+    {
+      "name": "(NH4)2(adp)[Zn2(ox)3]·3H2O",
+      "synthesis_conditions": {
+        "method": "hydrothermal",
+        "temperature": "130 °C",
+        "duration": "24 h",
+        "cooling_rate": "slowly cooled to room temperature over 168 h",
+        "precipitate_washing": "washed with distilled water",
+        "yield": "2891 mg, 92%",
+        "chemicals_used": [
+          {
+            "name": "ZnO",
+            "amount": "10 mmol, 814 mg"
+          },
+          {
+            "name": "H2(ox)·2H2O",
+            "amount": "20 mmol, 2521 mg"
+          },
+          {
+            "name": "adipamide",
+            "amount": "10 mmol, 1442 mg"
+          },
+          {
+            "name": "distilled water",
+            "amount": "550 mmol, 10 ml"
+          }
+        ],
+        "equipment": "50 ml PTFE bottle in an autoclave",
+        "elemental_analysis": {
+          "calculated": {
+            "C": "23.51%",
+            "H": "3.62%",
+            "N": "4.57%"
+          },
+          "found": {
+            "C": "23.45%",
+            "H": "3.54%",
+            "N": "4.53%"
+          }
+        }
+      },
+      "single_crystal_X-ray_structure_analysis": {
+        "equipment": "Rigaku AFC7R diffractometer with graphite-monochromated Mo-Kα radiation (λ = 0.71069 Å) and a CCD detector",
+        "temperature": "113 K",
+        "method": "direct method (SIR2004) and refined on F2 using full-matrix least-squares methods with SHELXL-97",
+        "details": "All non-hydrogen atoms were refined with anisotropic thermal factors. One oxygen site was refined as 50% occupancy."
+      },
+      "IR_spectroscopy": {
+        "equipment": "Thermo Nicolet NEXUS 670 FT–IR spectrometer with compacted KBr pellets",
+        "observations": [
+          {
+            "compound": "(NBu4)[MnCr(ox)3]",
+            "ν(C=O)_mode_ox_ion": "1628 cm–1"
+          },
+          {
+            "compound": "air-dried sample of 1",
+            "ν(C=O)_mode_carboxylic_acid_group": "1736 cm–1"
+          }
+        ]
+      },
+      "ac_impedance_measurements": {
+        "equipment": "Agilent 4294A Precision Impedance Analyzer",
+        "method": "compacted pellet of a powder sample with two gold electrodes attached to both ends with four end terminals (quasi-four-probe method)",
+        "conditions": "98% RH",
+        "temperature_range": [
+          "25°C",
+          "28°C",
+          "31°C",
+          "34°C"
+        ]
+      }
+    }
+  ]
+}

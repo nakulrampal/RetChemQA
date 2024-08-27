@@ -1,0 +1,125 @@
+{
+  "materials": [
+    {
+      "material": "A",
+      "synthesis_conditions": [
+        {
+          "temperature": "reflux",
+          "solvents": [
+            {
+              "name": "methanol",
+              "amount": "160 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "NiCl2·6H2O",
+              "amount": "4.76 g, 20.0 mmol"
+            },
+            {
+              "name": "N,N‘-bis(2-aminoethyl)-1,3-propanediamine",
+              "amount": "3.30 g, 20.0 mmol"
+            },
+            {
+              "name": "p-xylylenediamine",
+              "amount": "1.38 g, 10.0 mmol"
+            },
+            {
+              "name": "37% aqueous formaldehyde",
+              "amount": "7.17 g, 88.3 mmol"
+            }
+          ],
+          "time": "5 days",
+          "yield": "25%",
+          "drying_method": "dried in air"
+        }
+      ]
+    },
+    {
+      "material": "BOF-1 (1)",
+      "synthesis_conditions": [
+        {
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "7 mL"
+            },
+            {
+              "name": "DMSO/pyridine",
+              "amount": "10 mL, 2:1 v/v"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "A",
+              "amount": "0.600 g, 0.767 mmol"
+            },
+            {
+              "name": "Na3BTC",
+              "amount": "0.461 g, 1.67 mmol"
+            }
+          ],
+          "yield": "78%",
+          "drying_method": "dried briefly in air"
+        }
+      ]
+    },
+    {
+      "material": "1'",
+      "synthesis_conditions": [
+        {
+          "method": "Single-crystal 1 was allowed to stand in air for 2 h to result in 1'."
+        }
+      ]
+    },
+    {
+      "material": "2",
+      "synthesis_conditions": [
+        {
+          "temperature": "75 °C",
+          "time": "1.5 h",
+          "method": "The crystal 1 was dried in a programmable oven."
+        }
+      ]
+    },
+    {
+      "material": "3 and 4",
+      "synthesis_conditions": [
+        {
+          "solvents": [
+            {
+              "name": "pyridine",
+              "amount": "for 3"
+            },
+            {
+              "name": "benzene",
+              "amount": "for 4"
+            }
+          ],
+          "time": "24 h",
+          "method": "Crystal 1 was immersed in the solvent for 24 h."
+        }
+      ]
+    },
+    {
+      "material": "5",
+      "synthesis_conditions": [
+        {
+          "solvents": [
+            {
+              "name": "DMSO/H2O",
+              "amount": "1:1 v/v, 2.00 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "I2",
+              "amount": "0.0136 M"
+            }
+          ],
+          "time": "10 h"
+        }
+      ]
+    }
+  ]
+}

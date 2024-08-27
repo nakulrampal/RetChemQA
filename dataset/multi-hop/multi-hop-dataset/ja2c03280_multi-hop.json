@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the highest reversible SO2 adsorption capacity among the materials studied, and which material exhibits it?",
+      "answer": "The highest reversible SO2 adsorption capacity is 18.7 mmol g−1, exhibited by MFM-101.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Which MOF has been identified to have the highest dynamic selectivity for SO2/CO2 mixture?",
+      "answer": "Ph-2MVIm-Br has the highest dynamic selectivity for SO2/CO2 mixture with a value of 47335f.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of open metal sites in MOFs influence their SO2 adsorption capacity?",
+      "answer": "The presence of open metal sites in MOFs, such as in MFM-190(F) and MFM-170, significantly enhances their SO2 adsorption capacity, indicating that open metal sites play a crucial role in the high and reversible adsorption of SO2.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Compare the SO2 adsorption capacity of MFM-190(F) and MIL-101(Cr)-4F(1%) at 298 K and 1 bar.",
+      "answer": "MFM-190(F) has an SO2 adsorption capacity of 18.3 mmol g−1, while MIL-101(Cr)-4F(1%) has a slightly higher capacity of 18.4 mmol g−1 at 298 K and 1 bar.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the SO2 adsorption in MFM-190(CH3) reversible, and how does its capacity compare to MFM-190(F)?",
+      "answer": "The SO2 adsorption in MFM-190(CH3) is indicated as reversible (denoted by an asterisk), with a capacity of 15.9 mmol g−1, which is slightly lower than MFM-190(F)'s capacity of 18.3 mmol g−1.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role do functional groups play in the SO2 adsorption performance of MOFs, based on the comparison between MFM-190(F), MFM-190(NO2), and MFM-190(CH3)?",
+      "answer": "Functional groups significantly influence the SO2 adsorption performance of MOFs. MFM-190(F) with a fluoro-functionalization shows the highest SO2 adsorption capacity, indicating that the nature of the functional group can enhance the framework's stability and provide additional binding sites for SO2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: MFM-101 exhibits the highest reversible SO2 adsorption capacity among all the materials listed in Table S3.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: All MOFs with open metal sites have higher SO2 adsorption capacities than those without.",
+      "answer": "False. While MOFs with open metal sites generally show high SO2 adsorption capacities, there are exceptions, and not all MOFs with open metal sites have higher capacities than those without, as seen in the comparison across different materials.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of water on the structural integrity of MFM-190(F) based on PXRD analysis?",
+      "answer": "MFM-190(F) suffers from structural degradation upon soaking in water, indicating that it is not stable in the presence of water.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The dynamic selectivity for SO2/CO2 mixture is always higher in MOFs with open metal sites.",
+      "answer": "False. The dynamic selectivity for SO2/CO2 mixture is not always higher in MOFs with open metal sites, as selectivity depends on various factors including the pore environment and the presence of functional groups, not just the open metal sites.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

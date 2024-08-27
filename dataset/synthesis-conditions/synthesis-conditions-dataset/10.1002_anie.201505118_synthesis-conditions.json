@@ -1,0 +1,61 @@
+{
+  "materials": [
+    {
+      "material_id": "1",
+      "synthesis_conditions": {
+        "temperature": "110 88C",
+        "solvent": "water",
+        "molar_ratio": "Cd(NO3)2·4 H2O:terephthalonitrile:NaN3 = 1:1:2.5",
+        "time": "72 h",
+        "yield": "67 %",
+        "equipment": "hydrothermal conditions",
+        "chemicals_used": [
+          "Cd(NO3)2·4 H2O",
+          "terephthalonitrile",
+          "NaN3"
+        ]
+      }
+    },
+    {
+      "material_id": "2",
+      "synthesis_conditions": {
+        "yield": "71 %",
+        "solvent": "water",
+        "chemicals_used": [
+          "Cd(Ac)2·2 H2O",
+          "terephthalonitrile",
+          "NaN3"
+        ],
+        "equipment": "hydrothermal conditions",
+        "molar_ratio": "Not explicitly mentioned, but implies sufficient quantities of NaN3 for complete reaction with terephthalonitrile"
+      }
+    },
+    {
+      "material_id": "3",
+      "synthesis_conditions": {
+        "solvent": "water",
+        "chemicals_used": [
+          "Cd(NO3)2·6H2O",
+          "terephthalonitrile",
+          "NaN3"
+        ],
+        "molar_ratio": "1:1:1",
+        "equipment": "hydrothermal conditions",
+        "additional_information": "Attempt to capture reaction intermediate containing CdII and HBNT by in situ ligand synthesis"
+      }
+    },
+    {
+      "material_id": "4",
+      "synthesis_conditions": {
+        "solvent": "water",
+        "chemicals_used": [
+          "Cu(NO3)2·6 H2O",
+          "terephthalonitrile",
+          "NaN3"
+        ],
+        "equipment": "hydrothermal conditions",
+        "additional_information": "Formation under the same conditions as 3 but with Cu(NO3)2·6 H2O leading to complex 4"
+      }
+    }
+  ]
+}

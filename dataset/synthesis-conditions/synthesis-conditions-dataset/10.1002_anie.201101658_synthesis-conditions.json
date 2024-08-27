@@ -1,0 +1,66 @@
+{
+  "materials": [
+    {
+      "name": "Li(TCNQ) and 4,4’-bpy",
+      "synthesis_conditions": {
+        "solvents": "methanol",
+        "solvent_amounts": {
+          "methanol": "unknown"
+        },
+        "chemicals_used": [
+          "Li(TCNQ)",
+          "4,4’-bipyridine (4,4’-bpy)"
+        ],
+        "equipment": "unknown",
+        "time": "24 h",
+        "washing_method": "unknown",
+        "drying_method": "unknown",
+        "yield": "unknown",
+        "temperature": "unknown",
+        "additional_information": "Layered on a methanol solution of M-(NO3)2·6H2O (M = Mn for 1 and Zn for 2)."
+      }
+    },
+    {
+      "name": "{[Mn(4,4’-bpy)(h1-TCNQ)2-(CH3OH)2]TCNQ}·0.5 H2O (1)",
+      "synthesis_conditions": {
+        "solvents": "methanol",
+        "solvent_amounts": {
+          "methanol": "3 mL + 7 mL for LiTCNQ solution + 3 mL for Mn(NO3)2·6 H2O solution"
+        },
+        "chemicals_used": [
+          "4,4’-bipyridine (0.016 g, 0.1 mmol)",
+          "LiTCNQ (0.021 g, 0.1 mmol)",
+          "Mn(NO3)2·6 H2O (0.018 g, 0.1 mmol)"
+        ],
+        "equipment": "5 dram vial",
+        "time": "24 h",
+        "washing_method": "washed with methanol",
+        "drying_method": "dried in air",
+        "yield": "ca. 50 %",
+        "temperature": "unknown",
+        "additional_information": "Black platelet crystals harvested after 24 h."
+      }
+    },
+    {
+      "name": "{[Zn(4,4’-bpy)(h1-TCNQ)2(CH3OH)2]TCNQ} (2)",
+      "synthesis_conditions": {
+        "solvents": "methanol",
+        "solvent_amounts": {
+          "methanol": "1 mL + 4 mL for LiTCNQ solution + 3 mL for Zn(NO3)2·6 H2O solution"
+        },
+        "chemicals_used": [
+          "4,4’-bipyridine (0.016 g, 0.1 mmol)",
+          "LiTCNQ (0.0105 g, 0.05 mmol)",
+          "Zn(NO3)2·6 H2O (0.018 g, 0.1 mmol)"
+        ],
+        "equipment": "6 mm diameter glass tubes",
+        "time": "24 h",
+        "washing_method": "filtered and washed with CH3OH",
+        "drying_method": "dried in air",
+        "yield": "ca. 60 %",
+        "temperature": "unknown",
+        "additional_information": "Black platelet crystals appeared after 24 h."
+      }
+    }
+  ]
+}

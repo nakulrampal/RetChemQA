@@ -1,0 +1,41 @@
+{
+  "F-Zn(ii)": {
+    "synthesis_conditions": {
+      "temperature": "60 °C",
+      "solvents": [
+        {
+          "name": "water",
+          "amount": "not specified"
+        },
+        {
+          "name": "NaOH",
+          "amount": "equivalent to two equivalents of L-phenylalanine"
+        }
+      ],
+      "equipment": "not specified",
+      "chemicals_used": [
+        {
+          "name": "L-phenylalanine",
+          "amount": "one equivalent"
+        },
+        {
+          "name": "ZnCl2",
+          "amount": "one equivalent"
+        }
+      ],
+      "time": "not specified",
+      "washing_method": "with deionized water and ethanol several times",
+      "drying_method": "used for the catalytic studies",
+      "yield": "not specified",
+      "additional_information": "Needle-like white crystals started growing at the liquid–air interface."
+    },
+    "characterization_techniques": {
+      "UV-vis_absorption_spectroscopy": "used to determine the binding stoichiometry within the spontaneous F-Zn(II) crystallization process",
+      "FTIR_spectroscopy": "used to support the coordination of phenylalanine carboxylic and amino groups to Zn(ii)",
+      "SEM": "used to take images of the crystals",
+      "TGA": "used to confirm the high thermal stability of the complex",
+      "Powder_XRD": "used to confirm that the crystal structure within the ground powder form is identical to that of the single crystals",
+      "EDS": "used to identify the presence of Zn along with carbon (C) and oxygen (O) atoms"
+    }
+  }
+}

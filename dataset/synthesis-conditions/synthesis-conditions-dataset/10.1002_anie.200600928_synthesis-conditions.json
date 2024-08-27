@@ -1,0 +1,73 @@
+{
+  "materials": [
+    {
+      "material_id": "7",
+      "synthesis_conditions": {
+        "temperature_initial": "-40 degrees Celsius",
+        "temperature_final": "room temperature",
+        "solvents": [
+          {
+            "name": "diethyl ether",
+            "purpose": "extraction"
+          },
+          {
+            "name": "THF",
+            "purpose": "recrystallization"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "GeBr",
+            "state": "solution",
+            "description": "dark red solution"
+          },
+          {
+            "name": "Na2[Fe(CO)4]",
+            "reagent": "Collman's reagent",
+            "description": "used for reaction"
+          }
+        ],
+        "yield": "Not explicitly mentioned",
+        "drying_method": "Removal of solvent in vacuum",
+        "washing_method": "Not explicitly mentioned"
+      }
+    },
+    {
+      "material_id": "8",
+      "synthesis_conditions": {
+        "temperature_initial": "-78 degrees Celsius",
+        "temperature_final": "+78 degrees Celsius",
+        "solvents": [
+          {
+            "name": "diethyl ether",
+            "purpose": "extraction"
+          },
+          {
+            "name": "dioxane",
+            "purpose": "crystal precipitation"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "GeBr",
+            "state": "solution",
+            "concentration": "0.29 M",
+            "solvent_ratio": "CH3CN/THF/nBu3N 2:2:1",
+            "volume": "14 mL",
+            "amount": "4.06 mmol"
+          },
+          {
+            "name": "Na2[Fe(CO)4]·1.5 C4H8O2",
+            "amount": "1.2 g",
+            "amount_moles": "3.46 mmol"
+          }
+        ],
+        "yield": "10 % for orange-red crystals of 8",
+        "drying_method": "Removal of solvent in vacuum",
+        "washing_method": "Not explicitly mentioned",
+        "recrystallization_solvent": "THF",
+        "recrystallization_product": "black crystals of 7"
+      }
+    }
+  ]
+}

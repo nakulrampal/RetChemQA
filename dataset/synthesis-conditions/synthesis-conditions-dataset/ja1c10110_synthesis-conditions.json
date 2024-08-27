@@ -1,0 +1,139 @@
+{
+  "materials": [
+    {
+      "name": "TBCP-MOF",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "DMF",
+        "amount_of_each_solvent": "2 mL",
+        "equipment": "Pyrex tube",
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "10 mg"
+          },
+          {
+            "name": "benzoic acid",
+            "amount": "200 mg"
+          },
+          {
+            "name": "TBCP linker",
+            "amount": "13.5 mg"
+          }
+        ],
+        "time": "24 h",
+        "yield": "75%",
+        "washing_method": "DMF for 3 days, refreshed 3 times every day, then replaced with acetone for 3 times during 1 day",
+        "drying_method": "120 °C under vacuum for 6 h"
+      }
+    },
+    {
+      "name": "TBML-MOF",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "DEF",
+        "amount_of_each_solvent": "1.0 mL",
+        "equipment": "Pyrex tube",
+        "chemicals_used": [
+          {
+            "name": "TBML",
+            "amount": "8.2 mg"
+          },
+          {
+            "name": "ZrCl4",
+            "amount": "7.4 mg"
+          },
+          {
+            "name": "benzoic acid",
+            "amount": "270 mg"
+          }
+        ],
+        "time": "24 h",
+        "yield": "68%",
+        "washing_method": "DMF for 3 days, refreshed 3 times every day, then replaced with acetone for 3 times during 1 day",
+        "drying_method": "120 °C under vacuum for 6 h"
+      }
+    },
+    {
+      "name": "TML-MOF",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "DEF",
+        "amount_of_each_solvent": "1.0 mL",
+        "equipment": "Pyrex tube",
+        "chemicals_used": [
+          {
+            "name": "TML",
+            "amount": "8.2 mg"
+          },
+          {
+            "name": "ZrCl4",
+            "amount": "7.4 mg"
+          },
+          {
+            "name": "benzoic acid",
+            "amount": "270 mg"
+          }
+        ],
+        "time": "24 h",
+        "yield": "45%",
+        "washing_method": "DMF for 3 days, refreshed 3 times every day, then replaced with acetone for 3 times during 1 day",
+        "drying_method": "120 °C under vacuum for 6 h"
+      }
+    },
+    {
+      "name": "TM-MOF",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "DEF",
+        "amount_of_each_solvent": "1.0 mL",
+        "equipment": "Pyrex tube",
+        "chemicals_used": [
+          {
+            "name": "TM",
+            "amount": "8.2 mg"
+          },
+          {
+            "name": "ZrCl4",
+            "amount": "7.4 mg"
+          },
+          {
+            "name": "benzoic acid",
+            "amount": "270 mg"
+          }
+        ],
+        "time": "24 h",
+        "yield": "42%",
+        "washing_method": "DMF for 3 days, refreshed 3 times every day, then replaced with acetone for 3 times during 1 day",
+        "drying_method": "120 °C under vacuum for 6 h"
+      }
+    },
+    {
+      "name": "TNP-MOF",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "DEF",
+        "amount_of_each_solvent": "1.0 mL",
+        "equipment": "Pyrex tube",
+        "chemicals_used": [
+          {
+            "name": "TNP",
+            "amount": "8.5 mg"
+          },
+          {
+            "name": "ZrCl4",
+            "amount": "5.0 mg"
+          },
+          {
+            "name": "benzoic acid",
+            "amount": "100 mg"
+          }
+        ],
+        "time": "24 h",
+        "yield": "60%",
+        "washing_method": "DMF for 3 days, refreshed 3 times every day, then replaced with acetone for 3 times during 1 day",
+        "drying_method": "120 °C under vacuum for 6 h"
+      }
+    }
+  ]
+}

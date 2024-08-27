@@ -1,0 +1,41 @@
+{
+  "KMF-1": {
+    "temperature": "120 °C",
+    "solvents": "Water",
+    "amount_of_each_solvent": "27 mL for dissolving Al2(SO4)3·18H2O, additional 27 mL for mixture solution with 2,5-pyrroledicarboxylic and NaOH",
+    "equipment": "Hydrothermal synthesis under atmospheric reflux condition",
+    "chemicals_used": {
+      "Al2(SO4)3·18H2O": "3.333 g",
+      "2,5-pyrroledicarboxylic": "1.551 g",
+      "NaOH": "0.8 g"
+    },
+    "time": "12 h",
+    "washing_method": "Purified with deionized water and ethanol",
+    "drying_method": "Not specified",
+    "yield": ">93%",
+    "additional_information": {
+      "STY": "68 kg m−3 day−1",
+      "particle_sizes": "0.4 and 1 μm",
+      "crystal_structure": {
+        "hydrated_form": {
+          "space_group": "I41md",
+          "unit_cell_parameters": {
+            "a": "21.1772(2) Å",
+            "c": "10.70115(17) Å"
+          }
+        },
+        "anhydrous_form": {
+          "space_group": "I41/amd",
+          "unit_cell_parameters": {
+            "a": "21.225(2) Å",
+            "c": "10.6424(16) Å"
+          }
+        }
+      },
+      "pore_volume": "Theoretically 0.56 cm3 g−1",
+      "BET_area": "1130 m2 g−1",
+      "thermal_stability": "Up to 300 °C",
+      "hydrothermal_stability": "Stable in boiling water and in a wide range of acidic and basic aqueous solutions (1 < pH < 12) at room temperature for 1 day"
+    }
+  }
+}

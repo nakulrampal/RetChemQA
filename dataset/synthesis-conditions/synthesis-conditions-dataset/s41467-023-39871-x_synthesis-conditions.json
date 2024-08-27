@@ -1,0 +1,59 @@
+{
+  "materials": [
+    {
+        "name": "USTC-700",
+        "synthesis_conditions": {
+            "temperature": "120 °C",
+            "solvents": "diluted hydrochloric acid (HCl, 3 M)",
+            "amount_of_solvent": "10 mL for lab scale, 500 mL for scale-up",
+            "equipment": "round bottom flask",
+            "chemicals_used": {
+                "squaric_acid": "114 mg (1 mmol) for lab scale, 5.7 g (50 mmol) for scale-up",
+                "titanium_precursor": "1 mmol, various precursors tested including TiO(acac)2, TiOSO4, Ti(OBu)4, Ti(iPrO)4",
+                "HCl": "3 M"
+            },
+            "time": "24 h",
+            "washing_method": "washed with EtOH",
+            "drying_method": "air dry",
+            "yield": "not specified",
+            "additional_information": "Scale-up synthesis using TiOSO4 under reflux condition in diluted HCl"
+        },
+        "stability_tests": {
+            "thermal_stability": {
+                "method": "temperature-dependent PXRD",
+                "conditions": "10 K to 548 K",
+                "results": "good thermal stability and zero thermal expansion property observed"
+            },
+            "chemical_stability": {
+                "method": "PXRD after treatment",
+                "conditions": [
+                    "boiling water for more than 48 h",
+                    "concentrated HCl (12 M)",
+                    "concentrated HNO3 (15 M)",
+                    "concentrated H2SO4 (18 M)",
+                    "concentrated H3PO4 (18 M)",
+                    "aqua regia",
+                    "basic buffer solution with pH 12"
+                ],
+                "results": "good chemical stability under various aqueous conditions"
+            },
+            "mechanical_stability": {
+                "method": "PXRD after compression",
+                "conditions": "pressure up to 24 tonne cm-2",
+                "results": "high mechanical stability with nearly no crystallinity change"
+            },
+            "radiolytic_stability": {
+                "method": "CO2 sorption isotherms and PXRD after gamma irradiation",
+                "conditions": "gamma irradiation with various doses up to 1 mGy",
+                "results": "maintains structural integrity and pore character after exposure to gamma irradiation"
+            }
+        },
+        "hydrogen_isotope_separation_performance": {
+            "D2_H2_selectivity": "7.3 to 9.5 depending on exposure temperature and time",
+            "D2_uptake": "varies with temperature, 4.6% higher than H2 at 77 K and 11.8% larger at 30 K",
+            "exposure_conditions": "1:1 H2/D2 mixture at 10 mbar for 10 to 120 min at temperatures of 30 K, 40 K, and 50 K",
+            "additional_information": "The selectivity increases with longer exposure time at 30 K due to thermodynamics equilibrium"
+        }
+    }
+  ]
+}

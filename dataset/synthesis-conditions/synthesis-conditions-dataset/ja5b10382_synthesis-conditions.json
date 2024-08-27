@@ -1,0 +1,70 @@
+{
+  "materials": [
+    {
+      "name": "(Me2NH2)2[Fe2L3]·2H2O·6DMF (1)",
+      "synthesis_conditions": {
+        "temperature": "130 ºC",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "60 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Fe(BF4)·6H2O",
+            "amount": "0.23 g, 0.68 mmol"
+          },
+          {
+            "name": "chloranilic acid",
+            "amount": "0.14 g, 0.67 mmol"
+          }
+        ],
+        "time": "2 days",
+        "washing_method": "DMF washing and decanting (5 × 15 mL), then soaking in DMF (2 × 100 mL) at 50 ºC for 2 days",
+        "yield": "0.10 g, 0.077 mmol, 35%",
+        "additional_information": "FT-IR and elemental analysis data provided."
+      }
+    },
+    {
+      "name": "(Me2NH2)2[Fe2L3] (1a)",
+      "synthesis_conditions": {
+        "activation_method": "Soaking in THF (12 × 20 mL) for 4 days and then heating for 36 hours at 120 ºC under reduced pressure",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "used for soaking"
+          }
+        ],
+        "yield": "Not explicitly mentioned",
+        "additional_information": "FT-IR and elemental analysis data provided."
+      }
+    },
+    {
+      "name": "(Me2NH2)2[Zn2L3]·2H2O·6DMF (2)",
+      "synthesis_conditions": {
+        "temperature": "130 ºC",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "30 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)·6H2O",
+            "amount": "0.080 g, 0.27 mmol"
+          },
+          {
+            "name": "chloranilic acid",
+            "amount": "0.064 g, 0.31 mmol"
+          }
+        ],
+        "time": "2 days",
+        "washing_method": "Soaking in DMF (2 × 20 mL) at 50 ºC for 2 days",
+        "yield": "0.039 g, 0.030 mmol, 29%",
+        "additional_information": "FT-IR and elemental analysis data provided."
+      }
+    }
+  ]
+}

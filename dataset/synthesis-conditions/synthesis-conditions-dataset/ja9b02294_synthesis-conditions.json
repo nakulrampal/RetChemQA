@@ -1,0 +1,137 @@
+{
+  "materials": [
+    {
+      "name": "Spiro-1",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "DMF",
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "52 mg"
+          },
+          {
+            "name": "H4L1",
+            "amount": "60 mg"
+          },
+          {
+            "name": "anhydrous formic acid",
+            "amount": "5 mL"
+          }
+        ],
+        "time": "3 days",
+        "yield": "48%",
+        "washing_method": "DMF and acetone",
+        "drying_method": "dried in air"
+      }
+    },
+    {
+      "name": "Spiro-2",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "DMF",
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "28 mg"
+          },
+          {
+            "name": "H4L2",
+            "amount": "30 mg"
+          },
+          {
+            "name": "anhydrous formic acid",
+            "amount": "1.2 mL"
+          }
+        ],
+        "time": "3 days",
+        "yield": "62%",
+        "washing_method": "DMF and EtOH",
+        "drying_method": "dried in air"
+      }
+    },
+    {
+      "name": "Spiro-1 catalyzed acetalization reaction",
+      "synthesis_conditions": {
+        "temperature": "60 °C",
+        "solvents": "CHCl3",
+        "chemicals_used": [
+          {
+            "name": "activated Spiro-1",
+            "amount": "5 mg"
+          },
+          {
+            "name": "2-aminobenzamide",
+            "amount": "0.1 mmol"
+          },
+          {
+            "name": "anhydrous MgSO4",
+            "amount": "100 mg"
+          },
+          {
+            "name": "arylaldehydes",
+            "amount": "0.15 mmol"
+          }
+        ],
+        "time": "until reaction completed",
+        "yield": "varies",
+        "washing_method": "not specified",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "Spiro-1 catalyzed Friedel-Crafts reaction",
+      "synthesis_conditions": {
+        "temperature": "40 °C",
+        "solvents": "1,2-dichloroethane",
+        "chemicals_used": [
+          {
+            "name": "activated Spiro-1",
+            "amount": "5 mg"
+          },
+          {
+            "name": "N-sulfonyl aldimines",
+            "amount": "0.1 mmol"
+          },
+          {
+            "name": "indole",
+            "amount": "0.3 mmol"
+          }
+        ],
+        "time": "until reaction completed",
+        "yield": "varies",
+        "washing_method": "not specified",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "Spiro-1 catalyzed iso-Pictet-Spengler Reaction",
+      "synthesis_conditions": {
+        "temperature": "60 °C",
+        "solvents": "CHCl3",
+        "chemicals_used": [
+          {
+            "name": "activated Spiro-1",
+            "amount": "8 mg"
+          },
+          {
+            "name": "o-aminobenzylindole",
+            "amount": "0.1 mmol"
+          },
+          {
+            "name": "anhydrous MgSO4",
+            "amount": "100 mg"
+          },
+          {
+            "name": "trifluoromethyl ketones",
+            "amount": "0.15 mmol"
+          }
+        ],
+        "time": "until reaction completed",
+        "yield": "varies",
+        "washing_method": "not specified",
+        "drying_method": "not specified"
+      }
+    }
+  ]
+}

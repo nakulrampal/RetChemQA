@@ -1,0 +1,101 @@
+{
+  "materials": [
+    {
+      "name": "2,5-Diamino-3,6-Dibromo-1,4-Benzoquinone (H2BrL′)",
+      "synthesis_conditions": {
+        "chemicals_used": "2,3,5,6-tetrabromo-1,4-benzoquinone (p-bromanil, 25 g, 59 mmol), ethanol (150 mL), NH4OH (30%, 200 mL)",
+        "temperature": "Reflux temperature",
+        "time": "12 h",
+        "yield": "9.4 g (54%)",
+        "solvents": "Ethanol",
+        "amount_of_each_solvent": "150 mL",
+        "washing_method": "Water (200 mL), ethanol (200 mL), diethyl ether (200 mL)",
+        "drying_method": "Reduced pressure"
+      }
+    },
+    {
+      "name": "2,5-Diamino-3,6-Dichloro-1,4-Benzoquinone (H2ClL′)",
+      "synthesis_conditions": {
+        "chemicals_used": "2,3,5,6-tetrachloro-1,4-benzoquinone (p-chloranil, 23 g, 94 mmol), methoxyethyl acetate (90 mL), ammonium hydroxide (30%, 36 mL)",
+        "temperature": "80 °C",
+        "time": "1 h + 24 h at room temperature",
+        "yield": "19 g (98%)",
+        "solvents": "Methoxyethyl acetate",
+        "amount_of_each_solvent": "90 mL",
+        "washing_method": "Water (100 mL), acetone (50 mL)",
+        "drying_method": "Reduced pressure"
+      }
+    },
+    {
+      "name": "(Me2NH2)2[Zn2L3] (1)",
+      "synthesis_conditions": {
+        "source": "Prepared according to a literature procedure"
+      }
+    },
+    {
+      "name": "(Me2NH2)2[Mn2L3] (4)",
+      "synthesis_conditions": {
+        "chemicals_used": "Mn(NO3)2∙4H2O (4.0 g, 16 mmol), chloranilic acid (H2L, 6.6 g, 32 mmol), DMF (80 mL), H2O (2.3 mL)",
+        "temperature": "130 °C",
+        "time": "16 h",
+        "yield": "3.1 g (47%)",
+        "solvents": "DMF, H2O",
+        "amount_of_each_solvent": "DMF (80 mL), H2O (2.3 mL)",
+        "washing_method": "DMF (50 mL) decanting-replenishing 10 times, CH2Cl2 (50 mL) decanting-replenishing 5 times",
+        "drying_method": "100 °C under dynamic vacuum (4 mTorr) for 16.5 hours"
+      }
+    },
+    {
+      "name": "(Et4N)2[Zn2L1.3BrL′1.7]∙0.57DMF∙0.14Et2O (2)",
+      "synthesis_conditions": {
+        "chemicals_used": "(NEt4)OH (0.828 mL, 40% wt. in H2O, 2.25 mmol), 2,5-diamino-3,6-dibromobenzoquinone (H2BrL′, 665 mg, 2.25 mmol), DMF (15 mL)",
+        "temperature": "75 °C",
+        "time": "48 h",
+        "yield": "60 mg (98%)",
+        "solvents": "DMF",
+        "amount_of_each_solvent": "15 mL",
+        "washing_method": "DMF (5 mL) decanting-replenishing 10 times, Et2O (5 mL) decanting-replenishing 5 times",
+        "drying_method": "100 °C under dynamic vacuum (4 mTorr) for 16.5 hours"
+      }
+    },
+    {
+      "name": "(Et4N)2[Zn2L1.1ClL′1.9]∙0.64CH2Cl2 (3)",
+      "synthesis_conditions": {
+        "chemicals_used": "(NEt4)OH (0.828 mL, 40% wt. in H2O, 2.25 mmol), 2,5-diamino-3,6-dichlorobenzoquinone (H2ClL′, 466 mg, 2.25 mmol), DMF (15 mL)",
+        "temperature": "75 °C",
+        "time": "48 h",
+        "yield": "50 mg (97%)",
+        "solvents": "DMF",
+        "amount_of_each_solvent": "15 mL",
+        "washing_method": "DMF (5 mL) decanting-replenishing 10 times, CH2Cl2 (5 mL) decanting-replenishing 5 times",
+        "drying_method": "100 °C under dynamic vacuum (4 mTorr) for 2 hours"
+      }
+    },
+    {
+      "name": "(Et4N)2[Mn2L1.8BrL′1.2]∙0.65DMF (5)",
+      "synthesis_conditions": {
+        "chemicals_used": "(NEt4)OH (0.828 mL, 40% wt. in H2O, 2.25 mmol), 2,5-diamino-3,6-dibromobenzoquinone (H2BrL′, 665 mg, 2.25 mmol), DMF (15 mL)",
+        "temperature": "75 °C",
+        "time": "48 h",
+        "yield": "53 mg (97%)",
+        "solvents": "DMF",
+        "amount_of_each_solvent": "15 mL",
+        "washing_method": "DMF (5 mL) decanting-replenishing 10 times, CH2Cl2 (5 mL) decanting-replenishing 5 times",
+        "drying_method": "80 °C under dynamic vacuum (49 mTorr) for 12 hours"
+      }
+    },
+    {
+      "name": "(Et4N)2[Mn2L1.5ClL′1.5] (6)",
+      "synthesis_conditions": {
+        "chemicals_used": "(NEt4)OH (0.828 mL, 40% wt. in H2O, 2.25 mmol), 2,5-diamino-3,6-dichlorobenzoquinone (H2ClL′, 466 mg, 2.25 mmol), DMF (15 mL)",
+        "temperature": "75 °C",
+        "time": "48 h",
+        "yield": "48 mg (97%)",
+        "solvents": "DMF",
+        "amount_of_each_solvent": "15 mL",
+        "washing_method": "DMF (5 mL) decanting-replenishing 10 times, CH2Cl2 (5 mL) decanting-replenishing 5 times",
+        "drying_method": "100 °C under dynamic vacuum (5 mTorr) for 13 hours"
+      }
+    }
+  ]
+}

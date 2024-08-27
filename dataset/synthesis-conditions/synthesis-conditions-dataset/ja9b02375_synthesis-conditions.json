@@ -1,0 +1,50 @@
+{
+  "materials": [
+    {
+      "name": "VT-MOF-1",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "Room temperature",
+          "solvents": [
+            {
+              "name": "CH2Cl2/isopropanol",
+              "ratio": "2/3 mL"
+            },
+            {
+              "name": "DMF",
+              "amount": "3 mL"
+            },
+            {
+              "name": "methanol/isopropanol",
+              "ratio": "3/6 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "L",
+              "amount": "70 mg"
+            },
+            {
+              "name": "3,5-di-tert-butyl-1,2-catechol",
+              "amount": "88 mg"
+            },
+            {
+              "name": "Co(OAc)2",
+              "amount": "52 mg"
+            }
+          ],
+          "time": "2 weeks",
+          "yield": "Not specified",
+          "washing_method": "Not specified",
+          "drying_method": "Not specified"
+        },
+        {
+          "step": "Solvent-loaded samples preparation",
+          "description": "Pristine crystal samples (20 mg) were immersed in 20 mL of pure solvent (hexane, isopropanol, tert-butanol, n-butanol) in a vial at room temperature. The solvent was exchanged every 8 hours for three days. The solid sample was then filtered."
+        }
+      ],
+      "characterization_methods_excluded": true
+    }
+  ]
+}

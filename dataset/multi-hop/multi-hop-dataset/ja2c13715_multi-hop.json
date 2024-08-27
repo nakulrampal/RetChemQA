@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the primary focus of the research article with DOI 10.1021/jacs.2c13715?",
+      "answer": "The primary focus is on engineering metal–organic frameworks (MOFs) for the selective separation of hexane isomers using three-dimensional linkers.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the synthesis of NU-2002 single crystals?",
+      "answer": "NU-2002 single crystals were synthesized via hydrothermal synthesis using AlCl3·6H2O and BPDCA (bicyclo[1.1.1]pentane-1,3-dicarboxylic acid) in a stainless-steel Parr vessel at 200 °C for 3 days.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the NU-2002 MOF's structure contribute to its ability to separate hexane isomers?",
+      "answer": "The NU-2002 MOF's structure, with its increased linker dimensionality and one-dimensional, corrugated channels, limits structural breathing and provides precise control over pore size, which is critical for the selective separation of hexane isomers based on their sizes and shapes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental technique was used to confirm the structure of NU-2002 powder matched the single crystal structure?",
+      "answer": "Powder X-ray diffraction (PXRD) was used to confirm that the structure of the NU-2002 powder matched the pattern simulated from single crystal X-ray diffraction (SCXRD).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the variable-temperature X-ray diffraction studies conducted on NU-2002?",
+      "answer": "The variable-temperature X-ray diffraction studies demonstrated that NU-2002 does not exhibit significant temperature-dependent structural transformations, unlike MIL-53, confirming that the incorporation of the 3D BPDCA linker limits global structural breathing, which is advantageous for maintaining consistent pore sizes for selective separation processes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of NU-2002 single crystals required the use of hydrofluoric acid.",
+      "answer": "False. The synthesis of NU-2002 single crystals did not require the use of hydrofluoric acid, making the method less hazardous and more environmentally benign.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does the pore size distribution play in the separation capabilities of NU-2002 for hexane isomers?",
+      "answer": "The pore size distribution, with a pore size of 4.7 Å, suggests that NU-2002's ultra-microporous structure is critical for the separation of hexane isomers, as it allows for the selective adsorption of isomers based on their kinetic diameters and shapes, despite the algorithmic limitations in accurately predicting the accommodation of all isomers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption of guest molecules in NU-2002 results in significant structural changes.",
+      "answer": "False. Single crystal X-ray diffraction analysis of NU-2002 soaked in solutions of each hexane isomer showed that adsorption of guest molecules does not trigger significant structural changes, indicating the framework's rigidity and consistent pore size under isothermal conditions.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the NU-2002 MOF compare to MIL-53 in terms of structural flexibility and separation capabilities?",
+      "answer": "NU-2002, with its increased linker dimensionality, exhibits limited structural flexibility compared to MIL-53, which undergoes significant structural breathing. This stability in NU-2002's structure, along with precise control over pore size, enhances its separation capabilities for hexane isomers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What computational methods were used to further understand the separation mechanism of NU-2002 for hexane isomers?",
+      "answer": "Molecular simulations using the TraPPE force field and Grand Canonical Monte Carlo (GCMC) simulations were employed to analyze the adsorption behavior of hexane isomers in NU-2002, providing insights into the effects of framework flexibility and the preferred adsorption of certain isomers at high pressures.",
+      "difficulty": "hard",
+      "type": "factual"
+    }
+  ]
+}

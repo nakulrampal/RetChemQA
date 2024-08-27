@@ -1,0 +1,95 @@
+{
+  "materials": [
+    {
+      "name": "9H-carbazole-3,6-dicarboxylic acid (H2CDC)",
+      "synthesis_conditions": {
+        "temperature": "room temperature to 100 oC",
+        "solvents": [
+          "chlorobenzene",
+          "2 M aqueous KOH",
+          "5 M aqueous HCl"
+        ],
+        "solvent_amounts": [
+          "120 mL",
+          "150 mL",
+          "25 mL"
+        ],
+        "chemicals_used": [
+          "carbazole",
+          "trichloroacetonitrile",
+          "anhydrous aluminum chloride",
+          "hydrogen chloride",
+          "active carbon"
+        ],
+        "time": [
+          "2 h",
+          "30 min",
+          "2 h",
+          "2 h",
+          "3 h",
+          "2 h"
+        ],
+        "yield": "60%",
+        "drying_method": "dried at 80 oC"
+      }
+    },
+    {
+      "name": "Compound 1",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": "DMA/EtOH",
+        "solvent_amounts": "15 mL",
+        "solvent_ratio": "1:1",
+        "chemicals_used": [
+          "H2CDC",
+          "Cu(NO3)2·6H2O"
+        ],
+        "equipment": "capped vial (20 mL)",
+        "time": "1 day",
+        "washing_method": "washed with 1:1 EtOH/DMA (2 × 3 mL), acetone (2 × 3 mL)",
+        "drying_method": "dried in air",
+        "yield": "60 mg"
+      }
+    },
+    {
+      "name": "Compound 2",
+      "synthesis_conditions": {
+        "solvents": "DEF",
+        "layering_solvents": [
+          "EtOH",
+          "MeCN"
+        ],
+        "time": "15 days"
+      }
+    },
+    {
+      "name": "Compound 3",
+      "synthesis_conditions": {
+        "solvents": "DEF",
+        "additional_chemicals": "pyridine",
+        "time": "5 days"
+      }
+    },
+    {
+      "name": "Compound 4",
+      "synthesis_conditions": {
+        "solvents": [
+          "DEF",
+          "ethanol"
+        ],
+        "additional_chemicals": "4,4′-bipyridine",
+        "time": "15 days",
+        "yield": "14 mg"
+      }
+    },
+    {
+      "name": "Compound 5",
+      "synthesis_conditions": {
+        "solvents": "DEF",
+        "additional_chemicals": "pyridine",
+        "time": "10 days",
+        "yield": "3 mg"
+      }
+    }
+  ]
+}

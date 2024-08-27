@@ -1,0 +1,48 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": ["DMF", "H2O"],
+        "amount_of_each_solvent": ["4 mL", "4 mL"],
+        "equipment": "23-mL Parr Teflon-lined vessel",
+        "chemicals_used": ["Y(NO3)·6H2O (191.5 mg, 0.5mmol)", "H3BTC (52.5 mg, 0.25 mmol)"],
+        "time": "24 hours",
+        "yield": "85% (based on H3BTC)"
+      }
+    },
+    {
+      "name": "1a",
+      "synthesis_conditions": {
+        "washing_method": [
+          "Soaked in methanol for 24 hours, extract discarded, fresh methanol added for another 24 hours to remove H2O solvates",
+          "Treated with dichloromethane similarly to remove methanol solvates"
+        ],
+        "drying_method": "Dried under vacuum (< 10-3 torr) at 350°C overnight",
+        "sample_preparation_for_measurement": [
+          "Dried again using the 'outgas' function of the surface area analyzer at 350 °C until the outgas rate was less than 2 mTorr/min (0.27 Pa/min)",
+          "A sample of 70 mg was used for N2 adsorption measurement, maintained at 77 K with liquid nitrogen",
+          "For hydrogen storage measurement, high-purity hydrogen (99.9995%) and a 75 mg sample were used"
+        ],
+        "high_pressure_gas_adsorption_measurements": {
+          "sample_preparation": "Crystals of 1 were loaded into a sample holder under an argon atmosphere, evacuated under a pressure of less than 10-4 Torr at 350 °C for at least 24 hrs",
+          "measurement_temperature": ["77 K", "87 K"],
+          "measurement_pressure_range": "0-40 bar",
+          "gases_used": ["UHP-grade hydrogen and helium (99.999% purity)"]
+        },
+        "neutron_diffraction_experiments": {
+          "equipment": "High Resolution Neutron Powder Diffractometer BT-1 at the NIST Center for Neutron Research (NCNR)",
+          "sample_preparation": [
+            "Initial sample activation was performed in a quartz tube with a packless bellows valve attached, evacuated using a turbo pump (10-5 Torr) and heated to 350 °C with a ramp speed of ca. 1 °C per minute for 30 hrs",
+            "Sample was cooled, pulverized using an agate mortar and pestle, transferred to a cylindrical vanadium can equipped with a capillary gas line and a packless valve, and sealed with an indium O-ring",
+            "Sample was further degassed in situ for ca. 30 mins under high vacuum (8.5 × 10-7 to 7.5 × 10-6 Torr)"
+          ],
+          "measurement_temperature": "4 K",
+          "measurement_time": "ca. 5 hrs",
+          "deuterium_loading": "A known amount of hydrogen (deuterium) gas was loaded into the sample (2.5753 grams), maintained at a temperature of 77 K until no pressure drop was observed for at least 1 min"
+        }
+      }
+    }
+  ]
+}

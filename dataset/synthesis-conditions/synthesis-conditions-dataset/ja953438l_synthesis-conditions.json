@@ -1,0 +1,41 @@
+{
+  "materials": [
+    {
+      "name": "Ag(4,4‘-bpy)·NO3",
+      "synthesis_conditions": {
+        "temperature": [
+          "140 °C for 5 h",
+          "cooled gradually to 110 °C for 3 h",
+          "further cooling to 90 °C for 4 h",
+          "cooled down to room temperature"
+        ],
+        "solvents": [
+          "deionized water"
+        ],
+        "amount_of_solvents": [
+          "5 mL"
+        ],
+        "equipment": [
+          "stainless steel bomb"
+        ],
+        "chemicals_used": [
+          "AgNO3 (0.050 g, 0.29 mmol)",
+          "4,4‘-bpy (0.050 g, 0.32 mmol)"
+        ],
+        "time": [
+          "5 h at 140 °C",
+          "3 h cooling to 110 °C",
+          "4 h cooling to 90 °C",
+          "cooling to room temperature"
+        ],
+        "washing_method": [
+          "washed with deionized water and ethanol"
+        ],
+        "drying_method": [
+          "air-dried"
+        ],
+        "yield": "0.083 g (86% yield based on silver nitrate)"
+      }
+    }
+  ]
+}

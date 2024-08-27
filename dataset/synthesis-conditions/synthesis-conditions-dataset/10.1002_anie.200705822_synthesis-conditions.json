@@ -1,0 +1,56 @@
+{
+  "materials": [
+    {
+      "name": "1(Solvents)",
+      "synthesis_conditions": {
+        "temperature": "120 8C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "40 mL"
+          }
+        ],
+        "equipment": "round-bottomed flask",
+        "chemicals_used": [
+          {
+            "name": "Cd(NO3)2·4 H2O",
+            "amount": "1.0 g, 3.24 mmol"
+          },
+          {
+            "name": "H2bpndc",
+            "amount": "0.88 g, 3.26 mmol"
+          },
+          {
+            "name": "bpy",
+            "amount": "0.50 g, 3.20 mmol"
+          }
+        ],
+        "time": "1 day",
+        "washing_method": "washed with ethanol",
+        "drying_method": "dried in a vacuum at 120 8C",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "derived_from": "1(Solvents)",
+        "additional_steps": [
+          {
+            "step_description": "Drying of 1(Solvents) to obtain guest-free solid 1",
+            "temperature": "120 8C",
+            "equipment": "vacuum"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "1(Solvents)",
+            "amount": "not specified"
+          }
+        ],
+        "time": "not specified",
+        "yield": "not specified"
+      }
+    }
+  ]
+}

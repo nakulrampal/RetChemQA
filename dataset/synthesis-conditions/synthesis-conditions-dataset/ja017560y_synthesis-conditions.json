@@ -1,0 +1,109 @@
+{
+  "materials": [
+    {
+      "name": "[Ni2(C26H52N10)]Cl4•H2O (A)",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "160 mL"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "NiCl2•6H2O",
+            "amount": "4.76 g, 20.0 mmol"
+          },
+          {
+            "name": "N,N’-bis(2-aminoethyl)-1,3-propanediamine",
+            "amount": "3.30 g, 20.0 mmol"
+          },
+          {
+            "name": "p-xylylenediamine",
+            "amount": "1.38 g, 10.0 mmol"
+          },
+          {
+            "name": "37% aqueous formaldehyde",
+            "amount": "7.17 g, 88.3 mmol"
+          }
+        ],
+        "equipment": "stirrer, reflux setup",
+        "time": "5 days",
+        "temperature": "reflux",
+        "yield": "25%"
+      }
+    },
+    {
+      "name": "[Ni2(C26H52N10)](PF6)4•2H2O (A-PF6)",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "H2O/DMSO",
+            "amount": "3:1 v/v, 20 mL"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "A",
+            "amount": "0.584 g, 0.747 mmol"
+          },
+          {
+            "name": "NH4PF6",
+            "amount": "1.42 g, 8.71 mmol"
+          }
+        ],
+        "yield": "87%"
+      }
+    },
+    {
+      "name": "[Ni2(C26H52N10)]3[BTC]4·6C5H5N·36H2O (1)",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "7 mL"
+          },
+          {
+            "name": "DMSO/pyridine",
+            "amount": "10 mL, 2:1 v/v"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "A",
+            "amount": "0.600 g, 0.767 mmol"
+          },
+          {
+            "name": "Na3BTC",
+            "amount": "0.461 g, 1.67 mmol"
+          }
+        ],
+        "yield": "78%"
+      }
+    },
+    {
+      "name": "[Ni2(C26H52N10)]3[BTC]4·30H2O (1’)",
+      "synthesis": {
+        "conditions": "Single crystal 1 was allowed to stand in the air for 2 h"
+      }
+    },
+    {
+      "name": "[Ni2(C26H52N10)]3[BTC]4·4H2O (2)",
+      "synthesis": {
+        "conditions": "The crystals 1 were dried at 75°C for 1.5 h"
+      }
+    },
+    {
+      "name": "[Ni2(C26H52N10)]3[BTC]4·20C5H5N·6H2O (3)",
+      "synthesis": {
+        "conditions": "Single-crystal 1 was immersed in pyridine within a glass capillary for 24 h"
+      }
+    },
+    {
+      "name": "[Ni2(C26H52N10)]3[BTC]4·14C6H6·19H2O (4)",
+      "synthesis": {
+        "conditions": "Single-crystal 1 was immersed in benzene within a capillary for 24 h"
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "materials": [
+    {
+      "name": "CuI-MFU-4l",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "60 °C",
+          "solvents": [
+            {
+              "name": "N,N-dimethylacetamide (DMA)",
+              "amount": "20 mL"
+            }
+          ],
+          "equipment": "20 mL borosilicate vial on a hot plate well",
+          "chemicals_used": [
+            {
+              "name": "CuCl2",
+              "amount": "0.275 g, 2.05 mmol, 20 eq"
+            },
+            {
+              "name": "activated MFU-4l",
+              "amount": "0.125 g, 0.100 mmol"
+            }
+          ],
+          "time": "20 h",
+          "washing_method": "Soaked in fresh DMA at 60 °C for 12 h, repeated once. Then soaked in MeOH at 60 °C, decanted and replaced with fresh MeOH three times over 2 days.",
+          "drying_method": "Dried in vacuo at 60 °C in the glovebox",
+          "yield": "Not specified",
+          "additional_notes": "The resulting green solid slowly became brown in color. The vial was then sealed and transferred to a wet, O2-free glovebox filled with a Praxair Hydrostar (5% H2 in N2) gas mixture."
+        },
+        {
+          "step": "Post-synthesis modification",
+          "temperature": "Room temperature",
+          "solvents": [
+            {
+              "name": "MeOH",
+              "amount": "20 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "lithium formate hydrate",
+              "amount": "0.400 g, 5.71 mmol"
+            }
+          ],
+          "time": "1 h",
+          "washing_method": "Soaked in fresh MeOH at room temperature, repeated four times over 24 h.",
+          "drying_method": "Dried in the glovebox in vacuo at 80 °C",
+          "yield": "Not specified",
+          "additional_notes": "Yields CuII-MFU-4l-formate as a light green powder."
+        },
+        {
+          "step": "Autoreduction to CuI-MFU-4l",
+          "temperature": "Heated in vacuo at 100 °C for 12 h, then ramped at 2 °C/min to 180 °C, held for 3 h.",
+          "equipment": "Micromeritics ASAP2020 instrument",
+          "chemicals_used": [],
+          "time": "Approximately 15 hours",
+          "additional_notes": "Between 120–180 °C, extensive offgassing occurs, and the sample changes in color from light green to beige."
+        }
+      ]
+    }
+  ]
+}

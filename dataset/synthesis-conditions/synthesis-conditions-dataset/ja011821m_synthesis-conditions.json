@@ -1,0 +1,280 @@
+{
+  "materials": [
+    {
+      "material": "1,1-Dichloro-1-silafluorene (4)",
+      "conditions": {
+        "solvents": [
+          {
+            "name": "Et2O",
+            "amount": "130 mL"
+          }
+        ],
+        "temperature": [
+          "-78 °C",
+          "room temperature"
+        ],
+        "chemicals": [
+          {
+            "name": "2,2‘-dibromobiphenyl",
+            "amount": "12.0 g, 38.5 mmol"
+          },
+          {
+            "name": "n-BuLi",
+            "amount": "1.6 M in hexane, 50 mL, 80 mmol"
+          },
+          {
+            "name": "SiCl4",
+            "amount": "20 mL, 174 mmol"
+          }
+        ],
+        "yield": "6.78 g (70.6%)",
+        "time": "overnight",
+        "temperature_reaction": "-95 °C for 4 h then room temperature overnight",
+        "drying_method": "vacuum",
+        "purification_method": "distillation using a Kugelrohr under vacuum",
+        "recrystallization_solvent": "hexane"
+      }
+    },
+    {
+      "material": "Dipotassio-1-silafluorene (3b)",
+      "conditions": {
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "200 mL"
+          },
+          {
+            "name": "DME",
+            "amount": "150 mL"
+          },
+          {
+            "name": "hexane",
+            "amount": "20 mL"
+          }
+        ],
+        "temperature": [
+          "room temperature",
+          "67 °C"
+        ],
+        "chemicals": [
+          {
+            "name": "1,1-dichloro-1-silafluorene, 4",
+            "amount": "6.78 g, 27.0 mmol"
+          },
+          {
+            "name": "potassium metal",
+            "amount": "8.00 g, 204 mmol"
+          },
+          {
+            "name": "18-crown-6",
+            "amount": "7.20 g, 27.2 mmol"
+          }
+        ],
+        "time": [
+          "3h at room temperature",
+          "12 h at 67 °C"
+        ],
+        "purification_method": "crystallization from DME/hexane in the presence of 18-crown-6",
+        "temperature_crystallization": "-20 °C"
+      }
+    },
+    {
+      "material": "Reaction of 3b with Me3SiCl",
+      "conditions": {
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "150 mL"
+          }
+        ],
+        "temperature": "0 °C",
+        "chemicals": [
+          {
+            "name": "Me3SiCl",
+            "amount": "excess"
+          }
+        ],
+        "yield": "3.84 g, 98.6%",
+        "purification_method": "flash chromatography on silica gel (elution with hexane)"
+      }
+    },
+    {
+      "material": "Reaction of 3b with EtBr",
+      "conditions": {
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "100 mL"
+          }
+        ],
+        "temperature": "room temperature",
+        "chemicals": [
+          {
+            "name": "EtBr",
+            "amount": "excess"
+          }
+        ],
+        "yield": "1.08 g, 81.4%",
+        "purification_method": "recrystallization from hexane"
+      }
+    },
+    {
+      "material": "Reaction of 3b with MeI",
+      "conditions": {
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "100 mL"
+          }
+        ],
+        "temperature": "room temperature",
+        "chemicals": [
+          {
+            "name": "MeI",
+            "amount": "excess"
+          }
+        ],
+        "yield": [
+          "0.71 g, 42% (1,1-dimethyl-1-silafluorene 12)",
+          "0.28 g, 18% (dimer 13)",
+          "0.15 g, 9.3% (disiloxane 14)"
+        ],
+        "purification_method": "preparative GPC (toluene elution)"
+      }
+    },
+    {
+      "material": "Reaction of 3b with Benzaldehyde",
+      "conditions": {
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "200 mL"
+          }
+        ],
+        "temperature": [
+          "-78 °C",
+          "room temperature"
+        ],
+        "chemicals": [
+          {
+            "name": "benzaldehyde",
+            "amount": "1.69 g, 15.9 mmol"
+          }
+        ],
+        "yield": [
+          "1.65 g, 96.8% (1,2-diphenyl-1,2-ethanediol)",
+          "0.81 g, 55.9% (oligosilafluorene 15)"
+        ],
+        "time": "overnight",
+        "quenching_method": "excess methanol",
+        "neutralization_method": "dilute aqueous HCl",
+        "purification_method": "preparative GPC column (toluene elution)"
+      }
+    },
+    {
+      "material": "1,1-Dipotassio-1,1'-bis(silafluorene) (16) from Oxidation of 3b",
+      "conditions": {
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "150 mL"
+          },
+          {
+            "name": "hexane",
+            "amount": "20 mL"
+          }
+        ],
+        "temperature": "-20 °C",
+        "time": "two months",
+        "purification_method": "crystallization",
+        "oxidation_method": "slow oxidation in THF/hexane solution"
+      }
+    },
+    {
+      "material": "Diradical Dianion Salts 17 and 18 from Thermal Decomposition of 3b",
+      "conditions": {
+        "solvents": [
+          {
+            "name": "DME",
+            "amount": "100 mL"
+          },
+          {
+            "name": "hexane",
+            "amount": "20 mL"
+          }
+        ],
+        "temperature": "60−70 °C",
+        "chemicals": [
+          {
+            "name": "K",
+            "amount": "5.00 g, 127 mmol"
+          },
+          {
+            "name": "18-crown-6",
+            "amount": "3.00 g, 11.35 mmol"
+          }
+        ],
+        "time": [
+          "12 h",
+          "one week"
+        ],
+        "purification_method": "crystallization",
+        "oxidation_method": "trapping reactions with I2, MeOH, or EtOD"
+      }
+    },
+    {
+      "material": "1,1-Dimethyl-1-silafluorene (12)",
+      "conditions": {
+        "solvents": [
+          {
+            "name": "Et2O",
+            "amount": "150 mL"
+          }
+        ],
+        "temperature": [
+          "-78 °C",
+          "room temperature"
+        ],
+        "chemicals": [
+          {
+            "name": "2,2‘-dibromobiphenyl",
+            "amount": "12.0 g, 38.5 mmol"
+          },
+          {
+            "name": "n-BuLi",
+            "amount": "1.6 M in hexane, 50 mL, 80 mmol"
+          },
+          {
+            "name": "Me2SiCl2",
+            "amount": "10.0 g, 77.5 mmol"
+          }
+        ],
+        "yield": "7.60 g (94.1%)",
+        "time": "overnight",
+        "drying_method": "vacuum",
+        "purification_method": "distillation using Kugelrohr under vacuum",
+        "recrystallization_solvent": "hexane"
+      }
+    },
+    {
+      "material": "Reaction of 12 with Lithium",
+      "conditions": {
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "50 mL"
+          }
+        ],
+        "temperature": "room temperature",
+        "chemicals": [
+          {
+            "name": "lithium metal",
+            "amount": "0.25 g, 36.0 mmol"
+          }
+        ],
+        "time": "one week",
+        "oxidation_method": "oxidation with I2"
+      }
+    }
+  ]
+}

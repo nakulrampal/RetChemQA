@@ -1,0 +1,111 @@
+{
+  "materials": [
+    {
+      "name": "pbdc-xa (x = 9, 10, 11, 12)",
+      "synthesis_conditions": {
+        "temperature": "100 °C for 24 h, then 80 °C for 8 h",
+        "solvents": [
+          {
+            "name": "DMSO",
+            "amount": "33 mL"
+          },
+          {
+            "name": "water",
+            "amount": "50 mL"
+          },
+          {
+            "name": "1:1 mixture of water and DMSO",
+            "amount": "30 mL total"
+          }
+        ],
+        "equipment": "Beckman Coulter Allegra X-22R Centrifuge",
+        "chemicals_used": [
+          "Diethyl 2,5-dihydroxyterephthalate",
+          "appropriate dibromoalkane",
+          "potassium carbonate",
+          "KOH",
+          "1.0 M HCl solution"
+        ],
+        "yield": "~70% for polyether, ~50% for hydrolysis reactions",
+        "washing_method": "acetone (3×35 mL) and MeOH (3×35 mL)",
+        "drying_method": "oven dried at 60 °C overnight"
+      }
+    },
+    {
+      "name": "MOF 1'",
+      "synthesis_conditions": {
+        "temperature": "85 °C for 48 h",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2.0 mL"
+          },
+          {
+            "name": "EtOH",
+            "amount": "0.1 mL"
+          }
+        ],
+        "chemicals_used": [
+          "BA-bdc (2,5-bis(allyloxy)-1,4-benzenedicarboxylic acid)",
+          "4,4'-bipyridine",
+          "Zn(NO3)2·6H2O"
+        ]
+      }
+    },
+    {
+      "name": "Zn-pbdc-xa(bpy) (x = 8, 9, 12)",
+      "synthesis_conditions": {
+        "temperature": "85 °C for 48 h",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2.0 mL"
+          },
+          {
+            "name": "EtOH",
+            "amount": "0.1 mL"
+          }
+        ],
+        "chemicals_used": [
+          "polymer ligand",
+          "4,4'-bipyridine",
+          "Zn(NO3)2·6H2O"
+        ]
+      }
+    },
+    {
+      "name": "MOF 2",
+      "synthesis_conditions": {
+        "temperature": "120 °C for 24 h",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          "BA-bdc",
+          "1,2-Bis(4-pyridyl)ethane",
+          "Zn(NO3)2·6H2O"
+        ]
+      }
+    },
+    {
+      "name": "Zn-pbdc-xa(bpe) (x = 7, 8, 9, 10, 11, 12)",
+      "synthesis_conditions": {
+        "temperature": "120 °C for 24 h",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          "polymer ligand",
+          "1,2-Bis(4-pyridyl)ethane",
+          "Zn(NO3)2·6H2O"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "materials": [
+    {
+      "name": "Photoluminescent Uranium Organic Framework",
+      "synthesis_conditions": {
+        "reaction": "Hydrothermal",
+        "chemicals_used": [
+          "uranyl nitrate",
+          "oxalic acid",
+          "succinic acid",
+          "tetramethylammonium bromide"
+        ],
+        "product": "(TMA)2[(UO2)4(ox)4L] (1, TMA+ = tetramethylammonium cation, ox = oxalate, L = succinate)",
+        "crystal_properties": "large greenish block crystals",
+        "crystal_system": "monoclinic",
+        "space_group": "P21/n",
+        "asymmetric_unit_contents": [
+          "two crystallographically independent UO2 2+ ions",
+          "two ox ligands",
+          "a half of L ligand",
+          "a TMA+ cation"
+        ],
+        "coordination_geometry": "pentagonal bipyramidal",
+        "framework_description": "3D framework constructed by connection via organic moieties in L ligand",
+        "pore_contents": "TMA+ cations located in the pores balancing the anionic charge of the framework"
+      }
+    },
+    {
+      "name": "Photoluminescence Quenching and Recovery",
+      "synthesis_conditions": {
+        "irradiation_experiments": [
+          {
+            "type": "X-ray",
+            "equipment": "RS-2000 Pro Biological Irradiator with Cu Ka radiation source"
+          },
+          {
+            "type": "g-ray",
+            "equipment": "Gamma cell 1000 Elite/3000 Elan Irradiator with 137Cs source"
+          }
+        ],
+        "quenching_observation": "Significant photoluminescence quenching after exposure to 40 Gy of X-ray or 60 Gy of g-ray",
+        "recovery_method": "Heating the irradiated sample at 200 88C for 12 h",
+        "recovery_result": "Complete recovery of quenched photoluminescence"
+      }
+    },
+    {
+      "name": "Radiation-Induced Radical Stabilization",
+      "synthesis_conditions": {
+        "radical_generation": "C=O double bond in the carboxylate group partially breaks forming an oxygen-based radical",
+        "radical_stabilization": "Substantially stabilized in the conjugated uranyl oxalate-carboxylate sheet",
+        "EPR_analysis": "Confirms the radicals generated and their long-term stability at room temperature"
+      }
+    },
+    {
+      "name": "Radiation Dosimeter Sensitivity and Detection Limit",
+      "synthesis_conditions": {
+        "sensitivity": "After exposure to only 0.12 Gy g-ray, the emission of 1 decreased about 20.3%",
+        "detection_limit": {
+          "g-ray": "1.64 X 10@4 Gy",
+          "X-ray": "5.2 X 10@4 Gy"
+        },
+        "recyclability": "Demonstrated by multiple cycles of irradiation/heating procedure"
+      }
+    }
+  ]
+}

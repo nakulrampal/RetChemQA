@@ -1,0 +1,46 @@
+{
+  "materials": [
+    {
+      "name": "[Zn2Ca(BTC)2(H2O)2](DMF)2",
+      "synthesis_conditions": {
+        "temperature": "95 °C",
+        "solvents": [
+          {
+            "name": "DMF/H2O",
+            "ratio": "9:1",
+            "amount": "20 mL"
+          },
+          {
+            "name": "deionized water",
+            "amount": "1 mL"
+          }
+        ],
+        "equipment": "25 mL Parr acid digestion autoclave",
+        "chemicals_used": [
+          {
+            "name": "benzene-1,3,5-tricaboxylic acid (H3BTC)",
+            "amount": "0.2 mmol, 41 mg"
+          },
+          {
+            "name": "Zn(NO3)2.6H2O",
+            "amount": "0.2 mmol, 59 mg"
+          },
+          {
+            "name": "Ca(OH)2",
+            "amount": "0.1 mmol, 7.4 mg"
+          }
+        ],
+        "time": {
+          "heating": "48 h",
+          "cooling": "to 25 °C",
+          "heating_rate": "3 °C/min",
+          "cooling_rate": "0.5 °C/min"
+        },
+        "washing_method": "rinsed with ethanol, washed with DMF",
+        "drying_method": "heated at 160 ºC for 4 h, 200 ºC for 4 h, and 300 ºC for 6 h in vacuum",
+        "yield_conditions": "colorless needle crystals",
+        "additional_information": "Exposed to atmosphere air, the solvent-free sample immediately adsorbs water from air. The re-adsorbed water can be easily removed by heating to 120 °C in vacuum for 2 h."
+      }
+    }
+  ]
+}

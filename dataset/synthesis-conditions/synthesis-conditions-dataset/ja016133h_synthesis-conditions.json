@@ -1,0 +1,93 @@
+{
+  "materials": [
+    {
+      "name": "Tetrakis[4-(N-tert-butyl-N-oxyamino)phenyl]methane (tetranitroxide)",
+      "synthesis_conditions": [
+        {
+          "step": "1",
+          "temperature": "-78 °C to room temperature",
+          "solvents": [
+            {
+              "name": "THF",
+              "amount": "50 mL"
+            },
+            {
+              "name": "hexane",
+              "amount": "4 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "tetrakis(4-bromophenyl)methane",
+              "amount": "1.3 g, 2 mmol"
+            },
+            {
+              "name": "n-butyllithium",
+              "amount": "2.5 M, 10 mmol"
+            },
+            {
+              "name": "2-methyl-2-nitrosopropane",
+              "amount": "800 mg, 4.5 mmol"
+            }
+          ],
+          "time": "12 h",
+          "additional_steps": [
+            {
+              "step": "2",
+              "temperature": "room temperature",
+              "solvents": [
+                {
+                  "name": "CH2Cl2",
+                  "amount": "100 mL"
+                }
+              ],
+              "chemicals_used": [
+                {
+                  "name": "NaIO4",
+                  "amount": "900 mg, 4 mmol"
+                }
+              ],
+              "time": "30 min"
+            }
+          ],
+          "washing_method": "water, dried over Na2SO4",
+          "drying_method": "evaporated",
+          "yield": "300 mg, 23%",
+          "melting_point": "220−225 °C"
+        }
+      ]
+    },
+    {
+      "name": "{[Mn(hfac)2]2(tetranitroxide)}n",
+      "synthesis_conditions": [
+        {
+          "step": "1",
+          "temperature": "boiling",
+          "solvents": [
+            {
+              "name": "heptane",
+              "amount": "10 mL"
+            },
+            {
+              "name": "dichloromethane",
+              "amount": "a few drops"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Mn(hfac)2·2H2O",
+              "amount": "50 mg, 0.01 mmol"
+            },
+            {
+              "name": "tetranitroxide",
+              "amount": "33 mg, 0.005 mmol"
+            }
+          ],
+          "time": "10 days",
+          "method": "slow interdiffusion",
+          "crystal_description": "Small dark crystals"
+        }
+      ]
+    }
+  ]
+}

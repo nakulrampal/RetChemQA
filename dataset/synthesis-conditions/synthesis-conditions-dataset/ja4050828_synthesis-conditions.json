@@ -1,0 +1,84 @@
+{
+  "materials": [
+    {
+      "name": "NU-1000",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "DEF",
+            "amount": "8 mL"
+          },
+          {
+            "name": "DMF",
+            "amount": "8 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "70 mg"
+          },
+          {
+            "name": "benzoic acid",
+            "amount": "2700 mg"
+          },
+          {
+            "name": "H4TBAPy",
+            "amount": "40 mg"
+          }
+        ],
+        "temperature": [
+          "80°C for 1h",
+          "120°C for 48h"
+        ],
+        "activation_method": "HCl activation",
+        "activation_details": {
+          "solvent": "DMF",
+          "HCl_volume": "0.5 mL",
+          "temperature": "100°C for 24h"
+        },
+        "yield": "54% (DMF synthesized)"
+      }
+    },
+    {
+      "name": "Zn-AIM",
+      "synthesis_conditions": {
+        "precursor": "diethylzinc (ZnEt2)",
+        "temperature": "140°C",
+        "timing_sequence": "1–120–120 seconds",
+        "ALD_cycles": "5"
+      }
+    },
+    {
+      "name": "Al-AIM",
+      "synthesis_conditions": {
+        "precursor": "trimethylaluminum (AlMe3)",
+        "temperature": "120°C",
+        "timing_sequence": "0.015–1–1 seconds",
+        "ALD_cycles": "20"
+      }
+    },
+    {
+      "name": "Zn-NU-1000",
+      "synthesis_conditions": {
+        "precursor": "diethylzinc (ZnEt2)",
+        "solvent": "toluene",
+        "amount": "4.0 mL of 1.1 M solution",
+        "exposure_time": "24h at room temperature",
+        "washing_solvent": "n-pentane",
+        "activation_temperature": "120°C under vacuum for 12h"
+      }
+    },
+    {
+      "name": "Al-NU-1000",
+      "synthesis_conditions": {
+        "precursor": "trimethylaluminum (AlMe3)",
+        "solvent": "toluene",
+        "amount": "2.2 mL of 2 M solution",
+        "exposure_time": "24h at room temperature",
+        "washing_solvent": "n-pentane",
+        "activation_temperature": "120°C under vacuum for 12h"
+      }
+    }
+  ]
+}

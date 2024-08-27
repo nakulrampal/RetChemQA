@@ -1,0 +1,64 @@
+{
+  "materials": [
+    {
+      "name": "La1.5HOTP",
+      "synthesis_conditions": {
+        "temperature": "135 °C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylacetamide",
+            "amount": "0.7 mL"
+          },
+          {
+            "name": "water",
+            "amount": "6 mL"
+          }
+        ],
+        "equipment": "glass pressure tube",
+        "chemicals_used": [
+          {
+            "name": "H6HOTP",
+            "amount": "19.5 mg"
+          },
+          {
+            "name": "La(NO3)3•6H2O",
+            "amount": "4,156.9 mg"
+          }
+        ],
+        "time": "72 h",
+        "washing_method": "deionized water and methanol",
+        "drying_method": "air drying under methanol, dichloromethane, or diethyl ether"
+      }
+    },
+    {
+      "name": "Nd1.5HOTP",
+      "synthesis_conditions": {
+        "temperature": "135 °C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylacetamide",
+            "amount": "0.7 mL"
+          },
+          {
+            "name": "water",
+            "amount": "6 mL"
+          }
+        ],
+        "equipment": "glass pressure tube",
+        "chemicals_used": [
+          {
+            "name": "H6HOTP",
+            "amount": "19.5 mg"
+          },
+          {
+            "name": "Nd(NO3)3•6H2O",
+            "amount": "4,208.1 mg"
+          }
+        ],
+        "time": "72 h",
+        "washing_method": "deionized water and methanol",
+        "drying_method": "air drying under methanol, dichloromethane, or diethyl ether"
+      }
+    }
+  ]
+}

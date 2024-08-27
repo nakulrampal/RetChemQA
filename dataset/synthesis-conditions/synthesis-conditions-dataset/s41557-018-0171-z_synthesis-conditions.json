@@ -1,0 +1,127 @@
+{
+  "materials": [
+    {
+      "name": "MOF-808",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2 ml"
+          },
+          {
+            "name": "formic acid",
+            "amount": "4 ml"
+          }
+        ],
+        "equipment": "20 ml scintillation vial",
+        "chemicals_used": [
+          {
+            "name": "ZrOCl2·8H2O",
+            "amount": "0.032 g"
+          },
+          {
+            "name": "H3BTC",
+            "amount": "0.022 g"
+          }
+        ],
+        "time": "three days",
+        "washing_method": "immersed in anhydrous DMF for three days followed by water for three days",
+        "drying_method": "solvent exchanged into chloroform and removed under dynamic vacuum for 24 h at room temperature, 8 h at 80 °C, and 16 h at 120 °C",
+        "yield": "81% based on Zr"
+      }
+    },
+    {
+      "name": "MOF-808-SO4",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "0.05 M sulfuric acid in H2O",
+            "amount": "for immersion"
+          },
+          {
+            "name": "anhydrous acetone",
+            "amount": "for solvent exchange"
+          },
+          {
+            "name": "chloroform",
+            "amount": "for final solvent exchange"
+          }
+        ],
+        "equipment": "not specified",
+        "chemicals_used": [
+          {
+            "name": "MOF-808",
+            "amount": "50 mg"
+          }
+        ],
+        "time": "24 hours for immersion, three days for each solvent exchange",
+        "washing_method": "washed with H2O, then solvent exchanged with anhydrous acetone and chloroform",
+        "drying_method": "removed under dynamic vacuum for 24 h at room temperature, 8 h at 80 °C, and 16 h at 120 °C",
+        "yield": "not specified",
+        "additional_information": "formate ions on the zirconium clusters are exchanged for sulfate ions"
+      }
+    },
+    {
+      "name": "MOF-808-SeO4",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "0.05 M selenic acid in H2O",
+            "amount": "for immersion"
+          },
+          {
+            "name": "anhydrous acetone",
+            "amount": "for solvent exchange"
+          },
+          {
+            "name": "chloroform",
+            "amount": "for final solvent exchange"
+          }
+        ],
+        "equipment": "not specified",
+        "chemicals_used": [
+          {
+            "name": "MOF-808",
+            "amount": "50 mg"
+          }
+        ],
+        "time": "24 hours for immersion, three days for each solvent exchange",
+        "washing_method": "washed with H2O, then solvent exchanged with anhydrous acetone and chloroform",
+        "drying_method": "removed under dynamic vacuum for 24 h at room temperature, 8 h at 80 °C, and 16 h at 120 °C",
+        "yield": "not specified",
+        "additional_information": "formate ions on the zirconium clusters are exchanged for selenate ions"
+      }
+    },
+    {
+      "name": "Sulfated Zirconia",
+      "synthesis_conditions": {
+        "temperature": "100 °C for drying, 550 °C for calcination",
+        "solvents": [
+          {
+            "name": "NH4OH (28%)",
+            "amount": "10 mL"
+          },
+          {
+            "name": "aqueous H2SO4 (0.05 M)",
+            "amount": "10 mL"
+          }
+        ],
+        "equipment": "not specified",
+        "chemicals_used": [
+          {
+            "name": "ZrOCl2·8H2O",
+            "amount": "1 g"
+          }
+        ],
+        "time": "overnight for NH4OH stirring, 2 h for H2SO4 stirring, 24 h for drying",
+        "washing_method": "washed in deionized water",
+        "drying_method": "dried at 100 °C for 24 h, calcined at 550 °C for 2 h",
+        "yield": "sulfur loading was 3.45%",
+        "additional_information": "Zr(OH)4 is prepared from ZrOCl2·8H2O before sulfation"
+      }
+    }
+  ]
+}

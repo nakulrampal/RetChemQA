@@ -1,0 +1,125 @@
+{
+  "materials": [
+    {
+      "material": "CTP3Na6",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "chemical": "Dibenzyl-N,N-diisopropyl phosphoramidite",
+              "amount": "3.70 g",
+              "molarity": "10.7 mmol"
+            },
+            {
+              "chemical": "cis,cis-1,3,5-cyclohexanetriol",
+              "amount": "300 mg",
+              "molarity": "1.78 mmol"
+            },
+            {
+              "chemical": "1-H-tetrazole",
+              "amount": "1.12 g",
+              "molarity": "16.0 mmol"
+            },
+            {
+              "chemical": "m-CPBA",
+              "amount": "2.77 g",
+              "molarity": "16.05 mmol"
+            }
+          ],
+          "solvent": "CH2Cl2",
+          "solvent_amount": "3 mL",
+          "temperature": "0 °C to room temperature",
+          "time": "3h at 0°C, then overnight",
+          "atmosphere": "N/A",
+          "equipment": "N/A",
+          "yield": "1.4 g, 86%",
+          "product": "23"
+        },
+        {
+          "step": 2,
+          "chemicals_used": [
+            {
+              "chemical": "23",
+              "amount": "1.4 g"
+            },
+            {
+              "chemical": "H2 (1 atom)"
+            },
+            {
+              "chemical": "Pd/Carbon catalyst"
+            },
+            {
+              "chemical": "1 N NaOH",
+              "molarity": "6 equivalents"
+            }
+          ],
+          "solvent": "MeOH",
+          "solvent_amount": "5 mL",
+          "temperature": "room temperature",
+          "time": "10h",
+          "atmosphere": "H2",
+          "equipment": "N/A",
+          "yield": "939 mg, 86%",
+          "product": "CTP3Na6"
+        }
+      ]
+    },
+    {
+      "material": "CDP2Na4",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "chemical": "Dibenzyl-N,N-diisopropyl phosphoramidite",
+              "amount": "5.0 g",
+              "molarity": "14.0 mmol"
+            },
+            {
+              "chemical": "cis/trans-1,3,-cyclohexanediol",
+              "amount": "420 mg",
+              "molarity": "3.60 mmol"
+            },
+            {
+              "chemical": "1-H-tetrazole",
+              "amount": "1.50 g",
+              "molarity": "22.0 mmol"
+            },
+            {
+              "chemical": "m-CPBA",
+              "amount": "5.0 g",
+              "molarity": "22.0 mmol"
+            }
+          ],
+          "solvent": "THF/CH2Cl2",
+          "solvent_amount": "8 mL",
+          "temperature": "0 °C to room temperature",
+          "time": "4h at 0°C, then overnight",
+          "atmosphere": "N/A",
+          "equipment": "N/A",
+          "yield": "cis-25: 732 mg, 32%; trans-25: 544 mg, 23%",
+          "product": "cis-25 and trans-25"
+        },
+        {
+          "step": 2,
+          "chemicals_used": [
+            {
+              "chemical": "cis-25",
+              "amount": "65 mg",
+              "molarity": "0.01 mmol"
+            }
+          ],
+          "solvent": "N/A",
+          "solvent_amount": "N/A",
+          "temperature": "N/A",
+          "time": "N/A",
+          "atmosphere": "N/A",
+          "equipment": "N/A",
+          "yield": "36 mg, 81%",
+          "product": "CDP2Na4"
+        }
+      ]
+    }
+  ]
+}

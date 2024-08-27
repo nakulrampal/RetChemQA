@@ -1,0 +1,65 @@
+{
+  "PCN-426-Mg": {
+    "synthesis_conditions": {
+      "temperature": "100 °C",
+      "time": "24 h",
+      "solvents": "DMF, EtOH, H2O",
+      "solvent_ratio": "v:v:v= 4:1:1",
+      "amount_of_solvent": "15 mL",
+      "chemicals_used": {
+        "Mg(NO3)2·6H2O": "100 mg",
+        "TMQPTC": "30 mg"
+      },
+      "yield": "48%",
+      "crystal_system": "Cubic",
+      "space_group": "Fm-3m"
+    }
+  },
+  "PCN-426-Fe(III)": {
+    "synthesis_conditions": {
+      "precursor": "PCN-426-Mg",
+      "washing_solvent": "dry DMF",
+      "washing_method": "washed several times",
+      "nitrogen_bubbling_time": "15 min",
+      "chemicals_used": {
+        "FeCl2": "100 mg (0.16 mol/L)"
+      },
+      "color_change": "from colorless to purple in 30 min, complete exchange after 3 h",
+      "oxidation_method": "bubbled with oxygen for 15 min",
+      "final_color": "dark brown",
+      "yield": "Not specified",
+      "crystal_system": "Cubic",
+      "space_group": "Fm-3m"
+    }
+  },
+  "PCN-426-Cr(III)": {
+    "synthesis_conditions": {
+      "precursor": "PCN-426-Mg",
+      "washing_solvent": "dry DMF",
+      "washing_method": "washed several times",
+      "nitrogen_bubbling_time": "15 min",
+      "chemicals_used": {
+        "CrCl2": "Not specified"
+      },
+      "color_change": "from colorless to brown after metathesis, to dark blue upon oxidation",
+      "oxidation_method": "bubbled with oxygen for 15 min",
+      "final_color": "dark blue",
+      "yield": "Not specified",
+      "crystal_system": "Cubic",
+      "space_group": "Fm-3m"
+    }
+  },
+  "general_information": {
+    "washing_method": "washed with DMF",
+    "activation_method": "activated by supercritical carbon dioxide",
+    "porosity_determination": "N2 adsorption isotherms",
+    "BET_surface_area": {
+      "PCN-426-Fe(III)": "2132 m2/g (Langmuir surface area of 2623 m2/g)",
+      "PCN-426-Cr(III)": "3155 m2/g (Langmuir surface area of 3883 m2/g)"
+    },
+    "stability": {
+      "PCN-426-Fe(III)": "stable in water after 1 day, stable in aqueous solutions with pH values 4–10",
+      "PCN-426-Cr(III)": "stable from pH = 12 to extremely acidic conditions (4 M HCl) for at least 12 h"
+    }
+  }
+}

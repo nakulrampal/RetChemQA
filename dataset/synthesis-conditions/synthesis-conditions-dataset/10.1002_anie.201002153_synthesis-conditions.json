@@ -1,0 +1,89 @@
+{
+  "materials": [
+    {
+      "name": "Rb12Si17 (1 a) and K6Rb6Si17 (1 b)",
+      "synthesis_conditions": {
+        "temperature": "900 8C",
+        "equipment": "sealed tantalum containers encapsulated in evacuated fused silica tubes",
+        "time": "1 h",
+        "cooling_rate": "0.1 8C min-1",
+        "chemicals_used": [
+          {
+            "element": "Rb",
+            "amount": "stoichiometric"
+          },
+          {
+            "element": "Si",
+            "amount": "stoichiometric"
+          }
+        ],
+        "drying_method": "slowly cooled down to room temperature"
+      }
+    },
+    {
+      "name": "K2Rb2Si4 (1 c)",
+      "synthesis_conditions": {
+        "temperature": "600 8C",
+        "equipment": "similar to 1 a and 1 b",
+        "time": "not specified",
+        "cooling_rate": "0.2 8C min-1",
+        "chemicals_used": [
+          {
+            "element": "stoichiometric amounts of the elements",
+            "amount": "not specified"
+          }
+        ],
+        "drying_method": "cooled down to room temperature"
+      }
+    },
+    {
+      "name": "Rb4Si9(NH3)5 (2)",
+      "synthesis_conditions": {
+        "solvents": "liquid ammonia",
+        "temperature": "-78 8C storage temperature",
+        "time": "several weeks",
+        "yield": "approximately 20 %",
+        "chemicals_used": [
+          {
+            "name": "Rb12Si17 (1 a) or K6Rb6Si17 (1 b)",
+            "amount": "225 mg, 0.15 mmol"
+          },
+          {
+            "name": "[2.2.2]crypt",
+            "amount": "100 mg, 0.27 mmol"
+          },
+          {
+            "name": "iPr3PCuCl or Cy3PCuCl",
+            "amount": "57 mg, 0.15 mmol or 39 mg, 0.15 mmol"
+          }
+        ],
+        "washing_method": "not specified",
+        "drying_method": "kept at -70 8C"
+      }
+    },
+    {
+      "name": "[Rb([18]crown-6)]2Rb1.54K0.46[(MesCu)2Si4](NH3)12 (3)",
+      "synthesis_conditions": {
+        "solvents": "liquid ammonia",
+        "temperature": "-78 8C reaction temperature, -70 8C storage temperature",
+        "time": "seven weeks",
+        "chemicals_used": [
+          {
+            "name": "K6Rb6Si17 (1 b)",
+            "amount": "92 mg; 0.075 mmol"
+          },
+          {
+            "name": "[18]crown-6",
+            "amount": "36 mg; 0.135 mmol"
+          },
+          {
+            "name": "MesCu",
+            "amount": "14 mg; 0.075 mmol"
+          }
+        ],
+        "washing_method": "not specified",
+        "drying_method": "decomposes immediately after warming up due to loss of ammonia"
+      }
+    }
+  ]
+}

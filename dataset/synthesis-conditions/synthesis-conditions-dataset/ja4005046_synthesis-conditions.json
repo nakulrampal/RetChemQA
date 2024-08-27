@@ -1,0 +1,146 @@
+{
+  "materials": [
+    {
+      "name": "(O2H3)Sc-MOF",
+      "synthesis_conditions": [
+        {
+          "temperature": "200 °C",
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "6 mL"
+            },
+            {
+              "name": "acetone",
+              "washing_method": "washed with water and acetone"
+            }
+          ],
+          "equipment": "Teflon-lined stainless steel autoclave",
+          "chemicals_used": [
+            "3,5-DSBNa2 (0.052 g, 0.16 mmol)",
+            "Sc(NO3)3·6H2O (0.05 g, 0.16 mmol)",
+            "sodium hydroxide (aqueous 1 M solution, added dropwise to adjust the pH to ∼3.5)"
+          ],
+          "time": "1 day",
+          "yield": "67%",
+          "drying_method": "air-dried",
+          "elemental_analysis": {
+            "calculated": {
+              "C": "21.04",
+              "H": "1.76",
+              "S": "16.05"
+            },
+            "found": {
+              "C": "21.13",
+              "H": "1.65",
+              "S": "15.75"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "(μ-OH)3Sc-MOF",
+      "synthesis_conditions": [
+        {
+          "temperature": "220 °C",
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "6 mL"
+            }
+          ],
+          "equipment": "Teflon-lined stainless steel autoclave",
+          "chemicals_used": [
+            "3,5-DSBNa2 (0.052 g, 0.16 mmol)",
+            "Sc(NO3)3·6H2O (0.05 g, 0.16 mmol)",
+            "sodium hydroxide (aqueous 1 M solution, added dropwise to adjust the pH to ∼2.8)"
+          ],
+          "time": "different reaction times",
+          "detection_method": "powder X-ray diffraction",
+          "notes": "Due to the small amount of compound produced, this product could be only detected by powder X-ray diffraction; a few crystals of the (OH)3Sc-MOF were hand-selected and analyzed by single-crystal X-ray diffraction and IR spectroscopy."
+        }
+      ]
+    },
+    {
+      "name": "(μ-OH)6Sc-MOF",
+      "synthesis_conditions": [
+        {
+          "temperature": "200 °C",
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "6 mL"
+            },
+            {
+              "name": "acetone",
+              "washing_method": "washed with water and acetone"
+            }
+          ],
+          "equipment": "Teflon-lined stainless steel autoclave",
+          "chemicals_used": [
+            "3,5-DSBNa2 (0.052 g, 0.16 mmol)",
+            "Sc(NO3)3·6H2O (0.05 g, 0.16 mmol)",
+            "sodium hydroxide (aqueous 1 M solution, added dropwise to adjust the pH to ∼4)"
+          ],
+          "time": "15 h",
+          "yield": "51%",
+          "drying_method": "air-dried",
+          "elemental_analysis": {
+            "calculated": {
+              "C": "15.73",
+              "H": "2.06",
+              "S": "11.99"
+            },
+            "found": {
+              "C": "15.78",
+              "H": "1.92",
+              "S": "12.08"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "(Phen)Sc-MOF",
+      "synthesis_conditions": [
+        {
+          "temperature": "170 °C",
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "6 mL"
+            },
+            {
+              "name": "acetone",
+              "washing_method": "washed with water and acetone"
+            }
+          ],
+          "equipment": "Teflon-lined stainless steel autoclave",
+          "chemicals_used": [
+            "3,5-DSBNa2 (0.052 g, 0.16 mmol)",
+            "phenanthroline (0.05 g, 0.32 mmol)",
+            "Sc(NO3)3·6H2O (0.05 g, 0.16 mmol)"
+          ],
+          "time": "8 days",
+          "yield": "83%",
+          "drying_method": "air-dried",
+          "elemental_analysis": {
+            "calculated": {
+              "C": "42.19",
+              "H": "2.78",
+              "N": "5.18",
+              "S": "11.84"
+            },
+            "found": {
+              "C": "42.14",
+              "H": "2.48",
+              "N": "5.24",
+              "S": "11.45"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

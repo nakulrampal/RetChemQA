@@ -1,0 +1,118 @@
+{
+  "CVMOF-AB": {
+    "temperature": "120 ºC",
+    "solvents": ["DMF", "trifluoroacetic acid"],
+    "solvent_amounts": ["20 mL", "1.0 mL"],
+    "chemicals_used": ["ZrCl4", "LA", "LB"],
+    "chemical_amounts": ["100 mg, 0.43 mmol", "93 mg, 0.80 mmol", "33 mg, 0.20 mmol"],
+    "time": "72 h",
+    "washing_method": "washed 3 times with fresh DMF",
+    "mole_fraction_LB": "53%"
+  },
+  "CVMOF-BC": {
+    "temperature": "120 ºC",
+    "solvents": ["DMF", "trifluoroacetic acid"],
+    "solvent_amounts": ["20 mL", "2.5 mL"],
+    "chemicals_used": ["ZrCl4", "LB", "LC"],
+    "chemical_amounts": ["100 mg, 0.43 mmol", "20 mg, 0.12 mmol", "80 mg, 0.42 mmol"],
+    "time": "72 h",
+    "washing_method": "washed 3 times with fresh DMF",
+    "mole_fraction_LC": "68%"
+  },
+  "CVMOF-CD": {
+    "temperature": "120 ºC",
+    "solvents": ["DMF", "trifluoroacetic acid"],
+    "solvent_amounts": ["20 mL", "2.0 mL"],
+    "chemicals_used": ["ZrCl4", "LC", "LD"],
+    "chemical_amounts": ["100 mg, 0.43 mmol", "76 mg, 0.35 mmol", "36 mg, 0.15 mmol"],
+    "time": "72 h",
+    "washing_method": "washed 3 times with fresh DMF",
+    "mole_fraction_LD": "48%"
+  },
+  "CVMOF-D1.4E0.6": {
+    "temperature": "120 ºC",
+    "solvents": ["DMF", "trifluoroacetic acid"],
+    "solvent_amounts": ["20 mL", "2.0 mL"],
+    "chemicals_used": ["ZrCl4", "LD", "LE"],
+    "chemical_amounts": ["100 mg, 0.43 mmol", "73 mg, 0.30 mmol", "53 mg, 0.20 mmol"],
+    "time": "72 h",
+    "washing_method": "washed 3 times with fresh DMF",
+    "mole_fraction_LE": "21%"
+  },
+  "CVMOF-DE": {
+    "temperature": "120 ºC",
+    "solvents": ["DMF", "trifluoroacetic acid"],
+    "solvent_amounts": ["20 mL", "2.0 mL"],
+    "chemicals_used": ["ZrCl4", "LD", "LE"],
+    "chemical_amounts": ["100 mg, 0.43 mmol", "60 mg, 0.25 mmol", "67 mg, 0.25 mmol"],
+    "time": "72 h",
+    "washing_method": "washed 3 times with fresh DMF",
+    "mole_fraction_LE": "40%"
+  },
+  "CVMOF-D0.6E1.4": {
+    "temperature": "120 ºC",
+    "solvents": ["DMF", "trifluoroacetic acid"],
+    "solvent_amounts": ["20 mL", "2.0 mL"],
+    "chemicals_used": ["ZrCl4", "LD", "LE"],
+    "chemical_amounts": ["100 mg, 0.43 mmol", "36 mg, 0.15 mmol", "93 mg, 0.35 mmol"],
+    "time": "72 h",
+    "washing_method": "washed 3 times with fresh DMF",
+    "mole_fraction_LE": "63%"
+  },
+  "CVMOF-EF": {
+    "temperature": "120 ºC",
+    "solvents": ["DMF", "trifluoroacetic acid"],
+    "solvent_amounts": ["20 mL", "2.0 mL"],
+    "chemicals_used": ["ZrCl4", "LE", "LF"],
+    "chemical_amounts": ["100 mg, 0.43 mmol", "67 mg, 0.25 mmol", "67 mg, 0.25 mmol"],
+    "time": "72 h",
+    "washing_method": "washed 3 times with fresh DMF",
+    "mole_fraction_LF": "57%"
+  },
+  "CVMOF-FG": {
+    "temperature": "120 ºC",
+    "solvents": ["DMF", "trifluoroacetic acid"],
+    "solvent_amounts": ["20 mL", "1.0 mL"],
+    "chemicals_used": ["ZrCl4", "LF", "LG"],
+    "chemical_amounts": ["100 mg, 0.43 mmol", "44 mg, 0.16 mmol", "50 mg, 0.16 mmol"],
+    "time": "72 h",
+    "washing_method": "washed 3 times with fresh DMF",
+    "mole_fraction_LG": "85%"
+  },
+  "CVMOF-DF": {
+    "temperature": "120 ºC",
+    "solvents": ["DMF", "trifluoroacetic acid"],
+    "solvent_amounts": ["20 mL", "2.0 mL"],
+    "chemicals_used": ["ZrCl4", "LD", "LF"],
+    "chemical_amounts": ["100 mg, 0.43 mmol", "60 mg, 0.25 mmol", "67 mg, 0.25 mmol"],
+    "time": "72 h",
+    "washing_method": "washed 3 times with fresh DMF"
+  },
+  "CVMOF-EG": {
+    "temperature": "120 ºC",
+    "solvents": ["DMF", "trifluoroacetic acid"],
+    "solvent_amounts": ["20 mL", "1.0 mL"],
+    "chemicals_used": ["ZrCl4", "LE", "LG"],
+    "chemical_amounts": ["100 mg, 0.43 mmol", "44 mg, 0.16 mmol", "50 mg, 0.16 mmol"],
+    "time": "72 h",
+    "washing_method": "washed 3 times with fresh DMF"
+  },
+  "CVMOF-B1.4C0.6": {
+    "temperature": "120 ºC",
+    "solvents": ["DMF", "trifluoroacetic acid"],
+    "solvent_amounts": ["20 mL", "2.5 mL"],
+    "chemicals_used": ["ZrCl4", "LB", "LC"],
+    "chemical_amounts": ["100 mg, 0.43 mmol", "63 mg, 0.38 mmol", "35 mg, 0.16 mmol"],
+    "time": "72 h",
+    "washing_method": "washed 3 times with fresh DMF"
+  },
+  "CVMOF-B0.6C1.4": {
+    "temperature": "120 ºC",
+    "solvents": ["DMF", "trifluoroacetic acid"],
+    "solvent_amounts": ["20 mL", "2.5 mL"],
+    "chemicals_used": ["ZrCl4", "LB", "LC"],
+    "chemical_amounts": ["100 mg, 0.43 mmol", "27 mg, 0.16 mmol", "82 mg, 0.38 mmol"],
+    "time": "72 h",
+    "washing_method": "washed 3 times with fresh DMF"
+  }
+}

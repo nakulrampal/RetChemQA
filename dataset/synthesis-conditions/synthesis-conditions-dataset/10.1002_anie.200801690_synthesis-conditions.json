@@ -1,0 +1,197 @@
+{
+  "materials": [
+    {
+      "name": "endo-6 aa",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvent": "toluene",
+        "amount_of_solvent": "not specified",
+        "equipment": "not specified",
+        "chemicals_used": [
+          {
+            "name": "monophos 1",
+            "amount": "5 mol %"
+          },
+          {
+            "name": "AgClO4",
+            "amount": "not specified"
+          },
+          {
+            "name": "Et3N",
+            "amount": "5 mol %"
+          },
+          {
+            "name": "methyl benzylideniminoglycinate (5 aa)",
+            "amount": "not specified"
+          },
+          {
+            "name": "tert-butyl acrylate",
+            "amount": "not specified"
+          }
+        ],
+        "time": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified",
+        "additional_conditions": [
+          {
+            "label": "e.r. value",
+            "value": "76:24"
+          }
+        ]
+      }
+    },
+    {
+      "name": "endo-6 aa with phosphoramidite 2 and AgClO4",
+      "synthesis_conditions": {
+        "temperature": "-20 8C",
+        "solvent": "toluene",
+        "amount_of_solvent": "1 mL",
+        "equipment": "not specified",
+        "chemicals_used": [
+          {
+            "name": "AgClO4",
+            "amount": "10.4 mg, 0.05 mmol"
+          },
+          {
+            "name": "chiral ligand 2",
+            "amount": "27 mg, 0.05 mmol"
+          },
+          {
+            "name": "iminoester",
+            "amount": "1 mmol"
+          },
+          {
+            "name": "dipolarophile",
+            "amount": "1 mmol"
+          },
+          {
+            "name": "base",
+            "amount": "5 mol %"
+          }
+        ],
+        "time": "until reaction completion",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified",
+        "additional_conditions": [
+          {
+            "label": "e.r. value",
+            "value": "90:10"
+          }
+        ]
+      }
+    },
+    {
+      "name": "endo-6 ba",
+      "synthesis_conditions": {
+        "temperature": "-20 8C",
+        "solvent": "not specified",
+        "amount_of_solvent": "not specified",
+        "equipment": "not specified",
+        "chemicals_used": [
+          {
+            "name": "methyl benzylideneiminoglycinate (5 ba)",
+            "amount": "not specified"
+          },
+          {
+            "name": "tert-butyl acrylate",
+            "amount": "not specified"
+          },
+          {
+            "name": "phosphoramidite 2:AgClO4",
+            "amount": "5 mol %"
+          },
+          {
+            "name": "base",
+            "amount": "not specified"
+          }
+        ],
+        "time": "overnight",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "81%",
+        "additional_conditions": [
+          {
+            "label": "e.r. value",
+            "value": "> 99:1"
+          }
+        ]
+      }
+    },
+    {
+      "name": "endo-10",
+      "synthesis_conditions": {
+        "temperature": "25 8C",
+        "solvent": "not specified",
+        "amount_of_solvent": "not specified",
+        "equipment": "not specified",
+        "chemicals_used": [
+          {
+            "name": "methyl benzylideneiminoglycinate (5 aa)",
+            "amount": "not specified"
+          },
+          {
+            "name": "N-methylmaleimide (NMM)",
+            "amount": "not specified"
+          },
+          {
+            "name": "phosphoramidite 2 and AgClO4",
+            "amount": "not specified"
+          },
+          {
+            "name": "base",
+            "amount": "DABCO"
+          }
+        ],
+        "time": "6 hours",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "80%",
+        "additional_conditions": [
+          {
+            "label": "e.r. value",
+            "value": "> 99:1"
+          }
+        ]
+      }
+    },
+    {
+      "name": "endo-14 and endo-15",
+      "synthesis_conditions": {
+        "temperature": "-20 8C",
+        "solvent": "not specified",
+        "amount_of_solvent": "not specified",
+        "equipment": "not specified",
+        "chemicals_used": [
+          {
+            "name": "leucine (8) and phenylalanine (9) derived iminoesters",
+            "amount": "not specified"
+          },
+          {
+            "name": "tert-butyl acrylate",
+            "amount": "3 equivalents"
+          },
+          {
+            "name": "phosphoramidite 2 and AgClO4",
+            "amount": "not specified"
+          },
+          {
+            "name": "base",
+            "amount": "Et3N"
+          }
+        ],
+        "time": "2-3 days",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "80% for endo-14, 77% for endo-15",
+        "additional_conditions": [
+          {
+            "label": "e.r. value",
+            "value": "92:8 for endo-14, 99:1 for endo-15"
+          }
+        ]
+      }
+    }
+  ]
+}

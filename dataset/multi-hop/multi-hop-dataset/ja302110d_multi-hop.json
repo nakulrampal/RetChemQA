@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for the chiral porous MOF discussed in the text?",
+      "answer": "[Cd2(L)(H2O)2]·6.5DMF·3EtOH",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of BINOL in the MOF's ability to sense amino alcohols?",
+      "answer": "BINOL moieties in the MOF facilitate H-bonding with amino alcohols, leading to fluorescence quenching and enabling sensitive and enantioselective detection.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the MOF achieve higher detection sensitivity for amino alcohols compared to homogeneous systems?",
+      "answer": "The MOF achieves higher detection sensitivity through a preconcentration effect, where analytes are absorbed and concentrated inside the MOF channels.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the fixed dihedral angle between two naphthyl rings of the BINOL moiety in the MOF?",
+      "answer": "The fixed dihedral angle contributes to the enhanced enantioselectivity for fluorescence quenching by providing conformational rigidity to the BINOL groups.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What experimental technique was used to determine the concentration of amino alcohols inside the MOF channels?",
+      "answer": "Gas chromatography (GC) analysis was used to determine the concentration of amino alcohols inside the MOF channels.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Why was L-Me4 used as a homogeneous control in the fluorescence quenching experiments?",
+      "answer": "L-Me4 was used as a homogeneous control due to the poor solubility of L-H4 in acetonitrile, allowing for a comparison of quenching efficiency between the MOF and a soluble form of the ligand.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the relationship between the MOF's porosity and its ability to sense amino alcohols?",
+      "answer": "The MOF's high porosity allows for the preconcentration of amino alcohols within its channels, enhancing both sensitivity and enantioselectivity in sensing due to the confinement effect and the conformational rigidity of the BINOL groups.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the synthesis temperature affect the formation of the MOF?",
+      "answer": "The synthesis temperature of 80°C for 3 days is critical for the formation of the MOF, as it allows for the proper crystallization and assembly of the MOF structure from its components.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the MOF's fluorescence quenching mechanism be attributed solely to collisional quenching?",
+      "answer": "No, the fluorescence quenching mechanism of the MOF is not solely due to collisional quenching but involves hydrogen bonding between the quencher and BINOL, leading to a poorly emissive proton-transfer-assisted charge-transfer excited state.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the preconcentration step in the MOF enantioselective?",
+      "answer": "False, the preconcentration step in the MOF is not enantioselective, as demonstrated by experiments showing similar concentration factors for both enantiomers of amino alcohols and racemic mixtures showing no enantiomeric excess.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the MOF maintain its structural integrity after exposure to amino alcohols and light?",
+      "answer": "True, PXRD patterns confirm that the MOF maintains its structural integrity after exposure to amino alcohols and light, supporting its stability during fluorescence sensing experiments.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is nitrogen adsorption a suitable method for probing the porosity of the MOF in this study?",
+      "answer": "False, nitrogen adsorption did not effectively probe the porosity of the MOF due to framework distortion upon solvent removal, which is a common phenomenon for MOFs with large open channels.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the MOF's fluorescence quenching be used to quantify the enantiomeric excess (ee) of amino alcohols?",
+      "answer": "True, the fluorescence quenching of the MOF can be linearly correlated with the enantiomeric excess of amino alcohols, allowing for rapid determination of ee values.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the MOF exhibit higher sensitivity towards amino alcohol quenchers compared to all previously studied homogeneous BINOL-based systems?",
+      "answer": "True, the MOF shows higher sensitivity towards amino alcohol quenchers than all previously studied homogeneous BINOL-based systems, capable of sensing at the micromolar concentration level.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the MOF's ability to sense amino alcohols dependent on the presence of DMF and EtOH solvents within its structure?",
+      "answer": "False, the MOF's ability to sense amino alcohols is not directly dependent on the presence of DMF and EtOH solvents within its structure, but rather on the structural features and porosity that facilitate quencher preconcentration and interaction.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the MOF's fluorescence quenching response to amino alcohols follow Stern-Volmer behavior?",
+      "answer": "True, the quenching of the MOF's fluorescence by amino alcohols is highly efficient and follows Stern-Volmer behavior in the 0–4 μM concentration range.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the MOF's enantioselectivity towards amino alcohols attributed to the fixed dihedral angle of the BINOL moiety?",
+      "answer": "True, the fixed dihedral angle of the BINOL moiety immobilized in the MOF structure contributes to the higher enantioselectivity by reducing the non-enantioselective entropic term of the analyte association process.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

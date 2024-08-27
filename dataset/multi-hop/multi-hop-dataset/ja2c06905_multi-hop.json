@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of synthesizing 17,20-diiodo-2,3,5,6,8,9,11,12,14,15-hexahydrobenzo[b][1,4,7,10,13,16]tetraoxacyclo-dodecine (VI)?",
+      "answer": "The synthesis of compound VI is a step in the preparation of H2TPDC-18C6, which is used for postsynthetic installation in metal-organic frameworks (MOFs) for the purpose of enhancing their functionality, such as improving their ability to capture and retain radionuclides.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the incorporation of terephthalic acid (TA) into Zr-MOFs affect their structure according to PXRD patterns?",
+      "answer": "The incorporation of terephthalic acid (TA) into Zr-MOFs does not significantly alter their crystalline structure, as evidenced by the preservation of framework crystallinity in the PXRD patterns after postsynthetic linker installation of TA.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method is used to quantify the amount of cerium cations present in the supernatant solution during leaching experiments?",
+      "answer": "The amount of cerium cations present in the supernatant solution during leaching experiments is quantified using UV-vis spectroscopy, specifically by monitoring the intensity of the band centered at 653 nm, which corresponds to the arsenazo (III)-cerium complex.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the double-exponent model in describing the leaching kinetics of cerium cations from MOFs?",
+      "answer": "The double-exponent model is significant in describing the leaching kinetics of cerium cations from MOFs as it provides a more accurate representation of the release process by accounting for two independent first-order leaching rate constants, reflecting the complex nature of the leaching behavior.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the Weibull model not applicable for describing the cerium cation release process from MOFs?",
+      "answer": "The Weibull model is not applicable for describing the cerium cation release process from MOFs because it is designed to describe the dissolution/release process from a solid into solution, which does not accurately represent the release mechanism occurring within the MOF structures.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What role does the compound H2TPDC-18C6 play in the modification of metal-organic frameworks?",
+      "answer": "The compound H2TPDC-18C6 plays a role in the modification of metal-organic frameworks (MOFs) by serving as a capping linker that can be postsynthetically installed into the MOF structure, potentially enhancing the MOF's functionality, such as its ability to selectively capture and retain specific ions or molecules.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The adsorption kinetics of cerium cations onto MOFs can be accurately described using the first-order model.",
+      "answer": "True. The first-order model provides a high goodness of fit (R2 > 0.98) for describing the adsorption kinetics of cerium cations onto MOFs, indicating its accuracy in representing the adsorption process.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental technique is employed to analyze the local structure around cerium atoms in MOFs?",
+      "answer": "Extended X-ray absorption fine structure (EXAFS) is employed to analyze the local structure around cerium atoms in MOFs, providing insights into the coordination environment and distances between cerium and surrounding atoms.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of urea-18C6@Davisil affect the surface area of Davisil materials?",
+      "answer": "The presence of urea-18C6@Davisil reduces the surface area of Davisil materials, as indicated by the decrease in surface area values measured through N2 adsorption and desorption isotherms when comparing urea-18C6@Davisil to the original Davisil supports.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the impact of high cerium loading on the leaching behavior of UiO-67 compared to low cerium loading?",
+      "answer": "High cerium loading results in a different leaching behavior for UiO-67 compared to low cerium loading, as indicated by the appearance of a plateau in the leaching kinetic curves at high cerium concentration, suggesting that all available coordination sites (defects) are occupied by cerium more rapidly, preventing further metal readsorption.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

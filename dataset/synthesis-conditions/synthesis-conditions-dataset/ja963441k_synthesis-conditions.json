@@ -1,0 +1,91 @@
+{
+  "materials": [
+    {
+      "material_id": "8",
+      "synthesis_conditions": {
+        "temperature": "297(2) K",
+        "wavelength": "0.71073 A",
+        "crystal_system": "Monoclinic",
+        "space_group": "C2/m",
+        "unit_cell_dimensions": {
+          "a": "37.934(6) A",
+          "b": "15.812(3) A",
+          "c": "10.133(1) A",
+          "beta": "91.47(1)°"
+        },
+        "volume": "6075(14) A^3",
+        "z": "2",
+        "density_calculated": "1.321 Mg/m^3",
+        "absorption_coefficient": "35.60 mm^-1",
+        "independent_reflections": "3798 [R(int) = 0.0498]",
+        "refinement_method": "Full-matrix least-squares on F^2",
+        "data_restraints_parameters": "3795 / 30 / 95",
+        "goodness_of_fit_on_F2": "1.085",
+        "final_R_indices": {
+          "I_greater_than_2_sigma(I)": "R1 = 0.1283, wR2 = 0.3532",
+          "all_data": "R1 = 0.2424, wR2 = 0.4413"
+        },
+        "extinction_coefficient": "0.0003(2)",
+        "largest_diff_peak_and_hole": "1.630 and -1.226 e.A^-3"
+      }
+    },
+    {
+      "material_id": "9",
+      "synthesis_conditions": {
+        "temperature": "240C",
+        "wavelength": "0.71073 A",
+        "crystal_system": "Monoclinic",
+        "space_group": "P21/c",
+        "unit_cell_dimensions": {
+          "a": "21.474(3) A",
+          "b": "14.163(2) A",
+          "c": "17.112(2) A",
+          "beta": "98.3(1)°"
+        },
+        "volume": "5149.6(12) A^3",
+        "z": "4",
+        "density_calculated": "1.608 g.cm^-3",
+        "absorption_coefficient": "5.815 mm^-1",
+        "independent_reflections": "7257 (R(int) = 0.0863)",
+        "refinement_method": "Full-matrix least-squares on F^2",
+        "data_restraints_parameters": "3486/28/30",
+        "goodness_of_fit_on_F2": "1.028",
+        "final_R_indices": {
+          "I_greater_than_2_sigma(I)": "R1 = 0.0814, wR2 = 0.1939",
+          "all_data": "R1 = 0.1652, wR2 = 0.2507"
+        }
+      }
+    },
+    {
+      "material_id": "10",
+      "synthesis_conditions": {
+        "temperature": "293(2) K",
+        "wavelength": "0.71073 A",
+        "crystal_system": "Triclinic",
+        "space_group": "P-1",
+        "unit_cell_dimensions": {
+          "a": "8.8985(9) A",
+          "b": "9.590(1) A",
+          "c": "13.771(1) A",
+          "alpha": "104.474(1)°",
+          "beta": "106.781(2)°",
+          "gamma": "100.067(2)°"
+        },
+        "volume": "1050.0(2) A^3",
+        "z": "1",
+        "density_calculated": "1.943 Mg/m^3",
+        "absorption_coefficient": "3.7.126",
+        "independent_reflections": "2598 (Rint = 0.0350)",
+        "refinement_method": "Full-matrix least-squares on F^2",
+        "data_restraints_parameters": "2592 / 0 / 275",
+        "goodness_of_fit_on_F2": "1.064",
+        "final_R_indices": {
+          "I_greater_than_2_sigma(I)": "R1 = 0.0262, wR2 = 0.0633",
+          "all_data": "R1 = 0.0283, wR2 = 0.0820"
+        },
+        "extinction_coefficient": "0.0000(4)",
+        "largest_diff_peak_and_hole": "0.903 and -0.693"
+      }
+    }
+  ]
+}

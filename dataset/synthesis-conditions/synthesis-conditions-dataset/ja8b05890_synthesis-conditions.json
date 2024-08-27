@@ -1,0 +1,117 @@
+{
+  "materials": [
+    {
+      "name": "MUV-2",
+      "synthesis_conditions": [
+        {
+          "step": "General methods and materials",
+          "details": {
+            "solvents": [
+              {
+                "name": "ethanol",
+                "amount": "not specified"
+              }
+            ],
+            "equipment": [
+              {
+                "type": "Bruker DPX300 spectrometer",
+                "details": "for 1H NMR spectra recording"
+              },
+              {
+                "type": "FT-IR Nicolet 5700 spectrometer",
+                "details": "for infrared spectra recording"
+              },
+              {
+                "type": "Mettler Toledo TGA/SDTA 851 apparatus",
+                "details": "for thermogravimetric analysis"
+              },
+              {
+                "type": "Empyrean PANalytical powder diffractometer",
+                "details": "for powder X-ray diffraction spectra recording"
+              }
+            ],
+            "chemicals_used": "high purity grade reagents and solvents purchased from Sigma-Aldrich Co., and TCI"
+          }
+        },
+        {
+          "step": "Crystal synthesis",
+          "details": {
+            "solvents": [
+              {
+                "name": "pyridine",
+                "amount": "not specified"
+              },
+              {
+                "name": "ethanol",
+                "amount": "not specified"
+              }
+            ],
+            "time": "24 hours",
+            "method": "Single-crystals of MUV-2 variants were obtained by immersing few crystals in specified solvents for 24 hours or by air drying."
+          }
+        },
+        {
+          "step": "Crystallographic data collection",
+          "details": {
+            "temperature": "100 K",
+            "equipment": [
+              {
+                "type": "synchrotron radiation at the single crystal X-ray diffraction beamline I19 in Diamond light Source",
+                "details": "equipped with an Pilatus 2M detector and an Oxford Cryosystems nitrogen flow gas system"
+              },
+              {
+                "type": "Rigaku FR-X rotating anode diffractometer",
+                "details": "equipped with Hybrid Photon detector HyPix-6000HE and an Oxford Cryosystems nitrogen flow gas system"
+              }
+            ],
+            "data_processing_software": [
+              "CrysAlisPro suite",
+              "SHELXL",
+              "Olex 2 suite"
+            ]
+          }
+        },
+        {
+          "step": "Electrochemical measurements",
+          "details": {
+            "equipment": [
+              {
+                "type": "Autolab electrochemical workstation (Autolab-128N potentiostat/galvanostat)",
+                "details": "connected to a personal computer using Nova 2.1 electrochemical software"
+              }
+            ],
+            "electrolyte": "0.1 M TBAPF6/CH3CN solution",
+            "electrodes": {
+              "working_electrode": "glassy carbon disc",
+              "counter_electrode": "platinum wire",
+              "reference_electrode": "silver wire"
+            },
+            "internal_standard": "Ferrocene",
+            "potential_reported_against": "Ag/AgCl"
+          }
+        },
+        {
+          "step": "Characterization of oxidized MUV-2",
+          "details": {
+            "methods": [
+              "EPR spectroscopy",
+              "PXRD",
+              "IR spectroscopy"
+            ]
+          }
+        },
+        {
+          "step": "Raman spectroscopy",
+          "details": {
+            "laser_excitation_lines": [
+              "633 nm",
+              "785 nm"
+            ],
+            "temperature": "298 K",
+            "state": "solid state"
+          }
+        }
+      ]
+    }
+  ]
+}

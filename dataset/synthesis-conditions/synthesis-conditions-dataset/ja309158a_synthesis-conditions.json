@@ -1,0 +1,59 @@
+{
+  "materials": [
+    {
+      "name": "Me2LBr2",
+      "synthesis_conditions": {
+        "chemicals_used": "1-(2-methyl-4-methylcarboxyphenyl)-imidazole (2.16 g, 10 mmol), CH2Br2 (5 mL)",
+        "solvent": "toluene (40 mL)",
+        "temperature": "reflux for 4 days",
+        "yield": "30%",
+        "characterization": {
+          "1H_NMR": "δ = 2.41 (s, 6H), 2.51 (s, 2H), 3.92 (s, 6H), 7.00 (s, 2H), 7.80 (d, J = 8.2 Hz, 2H), 8.05 (d, J = 7.9 Hz, 2H), 8.13 (s, 2H), 8.30 (s, 2H), 8.50 (s, 2H)",
+          "13C_NMR": "δ = 17.4, 52.6, 58.4, 122.6, 123.9, 126.9, 128.1, 131.5, 132.4, 134.2, 137.5, 139.0, 165.2",
+          "IR": "ν/cm-1: 1720(s), 1617(m), 1546(s), 1437(m), 1302(s), 1262(m), 1194(s), 1132(m), 1066(m), 974(w), 769(s), 713(w), 658(w), 615(w)"
+        }
+      }
+    },
+    {
+      "name": "H2LCl2",
+      "synthesis_conditions": {
+        "chemicals_used": "Me2LBr2 dissolved in 20% HCl aqueous solution (20 mL)",
+        "temperature": "reflux for 12 h",
+        "yield": "40%",
+        "characterization": {
+          "1H_NMR": "δ = 2.40 (s, 6H), 2.51 (s, 2H), 7.12 (s, 2H), 7.74 (d, J = 8.2 Hz, 2H), 8.00 (d, J = 8.3 Hz, 2H), 8.09 (s, 2H), 8.28 (s, 2H), 8.72 (s, 2H), 10.61 (s, 2H)",
+          "13C_NMR": "δ = 17.3, 57.9, 122.7, 123.7, 126.7, 128.2, 132.5, 132.8, 133.8, 137.2, 139.3, 166.2",
+          "IR": "ν/cm-1: 1710(s), 1614(m), 1549(s), 1418(m), 1388(m), 1302(w), 1239(s), 1186(s), 1142(m), 1066(m), 962(w), 850(m), 769(s), 735(s), 670(m), 614(m)"
+        }
+      }
+    },
+    {
+      "name": "[ZnLCl2]·8H2O (1)",
+      "synthesis_conditions": {
+        "chemicals_used": "H2LCl2 (10 mg, 0.018 mmol), Zn(NO3)2·6H2O (26 mg, 0.09 mmol)",
+        "solvent": "water (5 mL), EtOH (10 mL)",
+        "temperature": "room temperature",
+        "time": "three days",
+        "pH": "adjusted to 7 using 1.0 mol/L NaOH aqueous solution",
+        "yield": "53%",
+        "characterization": {
+          "IR": "ν/cm-1: 1618(s), 1600(s), 1560(s), 1383(s), 1223(w), 1195(s), 1116(m), 1066(w), 912(w), 850(w), 785(m), 689(w), 615(w)"
+        }
+      }
+    },
+    {
+      "name": "[ZnL0.42L'0.58Cl2Pd0.58(H2O)1.16]·9H2O (2)",
+      "synthesis_conditions": {
+        "chemicals_used": "Pd(OAc)2 (67.5 mg, 0.30 mmol), [ZnLCl2]·8H2O (1) (200 mg, 0.29 mmol)",
+        "solvent": "THF (20 mL)",
+        "temperature": "room temperature to reflux",
+        "time": "12 h at room temperature, then refluxed for 24 h",
+        "atmosphere": "inert N2",
+        "yield": "not specified",
+        "characterization": {
+          "IR": "ν/cm-1: 1618(s), 1599(s), 1560(s), 1383(s), 1223(w), 1194(s), 1115(m), 1066(w), 912(w), 850(w), 785(m), 688(w), 616(w)"
+        }
+      }
+    }
+  ]
+}

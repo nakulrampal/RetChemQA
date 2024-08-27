@@ -1,0 +1,105 @@
+{
+  "materials": [
+    {
+      "material": "N-(4-carboxylbenzyl)-L-aspartic acid (H3caa)",
+      "synthesis_conditions": {
+        "chemicals_used": "Purchased from Jinan Trading Company, China",
+        "treatment": "Directly used without secondary treatment"
+      }
+    },
+    {
+      "material": "Complexes 1-6",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "N-(4-carboxylbenzyl)-L-aspartic acid (H3caa)",
+            "amount": "13.8 mg",
+            "molarity": "0.05 mmol"
+          },
+          {
+            "name": "Ln3+ salts",
+            "amount": "0.1 mmol",
+            "details": "Ln3+ = Ce3+ (1), Pr3+ (2), Nd3+ (3), Sm3+ (4), Eu3+ (5), Tb3+ (6)"
+          },
+          {
+            "name": "CH3CN",
+            "amount": "9.00 mL"
+          },
+          {
+            "name": "HCl",
+            "amount": "1.5 mL",
+            "molarity": "1 mol L-1"
+          }
+        ],
+        "equipment": "Teflon reactor (25 mL)",
+        "temperature": "120°C",
+        "time": "72 h",
+        "atmosphere": "Sealed",
+        "post_treatment": [
+          {
+            "method": "Washing",
+            "solvent": "Distilled water",
+            "details": "Washed several times"
+          },
+          {
+            "method": "Drying",
+            "details": "Dried in air"
+          }
+        ],
+        "yield": "Varies for each complex",
+        "characterization": [
+          "Infrared spectroscopy",
+          "Elemental analysis",
+          "X-ray single-crystal diffraction"
+        ]
+      }
+    },
+    {
+      "material": "Fluorescent test strips of complex 6",
+      "synthesis_conditions": {
+        "substrate": "Filter paper",
+        "size": "5 × 0.5 cm2",
+        "preparation": [
+          {
+            "step": "Soaking",
+            "details": "Soaked in the aqueous suspension of complex 6 for 30 minutes"
+          },
+          {
+            "step": "Drying",
+            "temperature": "70°C",
+            "time": "1 hour",
+            "equipment": "Oven"
+          }
+        ]
+      }
+    },
+    {
+      "material": "Fluorescent sensing film of complex 6",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Agar powder",
+            "amount": "200 mg"
+          },
+          {
+            "name": "Complex 6",
+            "amount": "50 mg"
+          },
+          {
+            "name": "Distilled water",
+            "amount": "10 mL"
+          }
+        ],
+        "equipment": "Beaker (25 mL)",
+        "temperature": "90ºC",
+        "time": "10 min",
+        "post_treatment": [
+          {
+            "method": "Molding",
+            "details": "1 mL of the mixture was taken in a mold of 3 × 3 × 0.3 cm3, and then stood for 10 min to form a fluorescent sensing film."
+          }
+        ]
+      }
+    }
+  ]
+}

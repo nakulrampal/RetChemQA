@@ -1,0 +1,46 @@
+{
+  "materials": [
+    {
+      "name": "Co-MOF-α",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "DMF",
+        "amount_of_solvent": "4 mL",
+        "equipment": "10 mL vial container",
+        "chemicals_used": [
+          {
+            "name": "Co(NO3)2·6H2O",
+            "amount": "29 mg, 0.1 mmol"
+          },
+          {
+            "name": "H2ndc",
+            "amount": "22 mg, 0.1 mmol"
+          },
+          {
+            "name": "bimb",
+            "amount": "16 mg, 0.05 mmol"
+          },
+          {
+            "name": "HCl",
+            "amount": "0.04 mL, 1 mol/L"
+          }
+        ],
+        "time": "24 h",
+        "cooling_rate": "5 °C/h to room temperature",
+        "washing_method": "washed with DMF",
+        "drying_method": "dried under ambient condition",
+        "yield": "12.8 mg (58.2 % based on H2ndc)"
+      }
+    },
+    {
+      "name": "Co-MOF-β",
+      "synthesis_conditions": {
+        "starting_material": "Co-MOF-α",
+        "temperature": "150 °C",
+        "equipment": "under vacuum",
+        "time": "12 h",
+        "additional_information": "The single crystals and polycrystalline Co-MOF-β were obtained by heating of as-synthesized Co-MOF-α."
+      }
+    }
+  ]
+}

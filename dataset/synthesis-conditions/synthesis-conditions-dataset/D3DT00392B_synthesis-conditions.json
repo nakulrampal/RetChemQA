@@ -1,0 +1,87 @@
+{
+  "materials": [
+    {
+      "name": "Zn-CP",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "time": "72 h",
+        "solvents": [
+          {
+            "name": "Water",
+            "amount": "8.0 mL"
+          },
+          {
+            "name": "1 M NaOH",
+            "amount": "2d"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ZnCl2",
+            "amount": "0.07 g, 0.50 mmol"
+          },
+          {
+            "name": "H3pbc",
+            "amount": "0.05 g, 0.26 mmol"
+          },
+          {
+            "name": "2,2′-bipyridine (2,2′-bipy)",
+            "amount": "0.08 g, 0.50 mmol"
+          }
+        ],
+        "equipment": "20.0 mL Teflon-lined stainless steel autoclave",
+        "yield": "58.6% based on H3pbc"
+      }
+    },
+    {
+      "name": "Tb3+@Zn-CP",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Tb(NO3)3·6H2O",
+            "amount": "0.01 M"
+          }
+        ],
+        "time": "30 h",
+        "washing_method": "centrifuged and washed with water to remove excess Tb3+",
+        "drying_method": "dried in air"
+      }
+    },
+    {
+      "name": "Zn-CP for BP detection",
+      "synthesis_conditions": {
+        "solvents": "mixed solvent (VEtOH/VH2O = 1: 1)",
+        "chemicals_used": [
+          {
+            "name": "Zn-CP powder",
+            "amount": "2.0 mg"
+          },
+          {
+            "name": "BP solutions",
+            "concentration_range": "0–0.741 mM"
+          }
+        ],
+        "time": "ultrasonication for 15 min",
+        "LOD": "4.67 × 10−6 M"
+      }
+    },
+    {
+      "name": "Tb3+@Zn-CP for BP detection",
+      "synthesis_conditions": {
+        "solvents": "mixed solvent (VEtOH/VH2O = 1: 1)",
+        "chemicals_used": [
+          {
+            "name": "Tb3+@Zn-CP powder",
+            "amount": "2.0 mg"
+          },
+          {
+            "name": "BP solutions",
+            "concentration_range": "0–1.1 mM"
+          }
+        ],
+        "time": "ultrasonication for 15 min",
+        "LOD": "1.01 × 10−5 M"
+      }
+    }
+  ]
+}

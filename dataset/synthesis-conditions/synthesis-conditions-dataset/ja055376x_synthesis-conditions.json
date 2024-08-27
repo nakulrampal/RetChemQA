@@ -1,0 +1,72 @@
+{
+  "materials": [
+    {
+      "name": "COV-1 CdS−TMDPy",
+      "synthesis_conditions": {
+        "temperature": "110 °C",
+        "solvents": [
+          {
+            "name": "CH3CN",
+            "amount": "2.565 g"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "thiourea",
+            "amount": "47 mg"
+          },
+          {
+            "name": "Cd(SPh)2",
+            "amount": "183 mg"
+          },
+          {
+            "name": "PPh4Br",
+            "amount": "45 mg"
+          },
+          {
+            "name": "TMDPy",
+            "amount": "96 mg"
+          }
+        ],
+        "equipment": "23 mL Teflon-lined stainless steel autoclave",
+        "time": "2 days",
+        "drying_method": "cooling to room temperature",
+        "yield": "pale yellow crystals"
+      }
+    },
+    {
+      "name": "General synthesis conditions for all materials",
+      "synthesis_conditions": {
+        "temperature_range": "85 to 150 °C",
+        "solvents": [
+          {
+            "name": "CH3CN",
+            "amount": "various ratios"
+          },
+          {
+            "name": "H2O",
+            "amount": "various ratios"
+          },
+          {
+            "name": "CH3CN and H2O mixture",
+            "amount": "various ratios"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cd2+ source",
+            "details": "Cd(SPh)2 or (NMe4)2[Cd4(SPh)10]"
+          },
+          {
+            "name": "S2- source",
+            "details": "thiourea or Na2S2O3"
+          },
+          {
+            "name": "Bifunctional ligands",
+            "details": "different types of bipyridines"
+          }
+        ]
+      }
+    }
+  ]
+}

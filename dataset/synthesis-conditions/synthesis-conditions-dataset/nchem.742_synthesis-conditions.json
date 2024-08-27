@@ -1,0 +1,116 @@
+{
+  "materials": [
+    {
+      "material": "Network complex 1",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "o-dichlorobenzene",
+            "amount": "4.0 ml"
+          },
+          {
+            "name": "methanol",
+            "amount": "1.0 ml"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "TPT",
+            "amount": "6.3 mg"
+          },
+          {
+            "name": "Co(NCS)2",
+            "amount": "40 mM in 1.0 ml methanol"
+          }
+        ],
+        "temperature": "Room temperature",
+        "time": "1 week",
+        "yield": "60%",
+        "equipment": "Test tube (inner diameter 1 cm × height 10 cm)"
+      }
+    },
+    {
+      "material": "Inclusion complex 1⊃(TTF)",
+      "synthesis_conditions": {
+        "solvents": "Saturated toluene solution",
+        "chemicals": "TTF",
+        "temperature": "Room temperature",
+        "time": "Saturation within 5 min",
+        "equipment": "Filtration for monitoring encapsulation progress",
+        "yield": {
+          "calculated": "C 51.85, H 3.27, N 13.64",
+          "found": "C 51.92, H 3.55, N 13.88"
+        }
+      }
+    },
+    {
+      "material": "Inclusion complex 1⊃(diphenylamine)",
+      "synthesis_conditions": {
+        "solvents": "Saturated toluene solution",
+        "chemicals": "diphenylamine",
+        "temperature": "Room temperature",
+        "time": "Saturation within 1 h",
+        "yield": {
+          "calculated": "C 68.36, H 4.74, N 15.64",
+          "found": "C 68.08, H 5.02, N 15.51"
+        }
+      }
+    },
+    {
+      "material": "Pd2+ cage 2",
+      "synthesis_conditions": {
+        "solvents": "20 mM aqueous solution",
+        "chemicals": "Excess amount of guest solid (ca. 100 mg toward 3 mL of the solution)",
+        "temperature": "Room temperature",
+        "time": "1 h",
+        "equipment": "Filtration for residual solid removal",
+        "analysis": "NMR"
+      }
+    },
+    {
+      "material": "TTF complex 2⊃(TTF)4",
+      "synthesis_conditions": {
+        "solvents": "D2O",
+        "temperature": "300 K",
+        "NMR_frequency": "500 MHz",
+        "elemental_analysis": {
+          "calculated": "C 36.55, H 4.33, N 16.24",
+          "found": "C 36.34, H 4.19, N 16.51"
+        }
+      }
+    },
+    {
+      "material": "diphenylamine complex 2⊃(Ph2NH)n",
+      "synthesis_conditions": {
+        "solvents": "D2O",
+        "temperature": "300 K",
+        "NMR_frequency": "500 MHz",
+        "elemental_analysis": {
+          "calculated": "C 38.33, H 5.31, N 16.93",
+          "found": "C 38.18, H 5.19, N 17.20"
+        }
+      }
+    },
+    {
+      "material": "Inclusion complex 1⊃(C60)",
+      "synthesis_conditions": {
+        "solvents": "Saturated toluene solution",
+        "chemicals": "C60",
+        "temperature": "60 ºC",
+        "time": "1 day with six solution-replacement cycles over 1 week",
+        "yield": "35 wt %",
+        "extraction_method": "Decomposed by 10% hydrochloric acid, extracted with toluene, dried over anhydrous Na2SO4"
+      }
+    },
+    {
+      "material": "Inclusion complex 1⊃(C70)",
+      "synthesis_conditions": {
+        "solvents": "Saturated toluene solution",
+        "chemicals": "C70",
+        "temperature": "60 ºC",
+        "time": "1 day with six solution-replacement cycles over 1 week",
+        "yield": "Extracted 4.9 mg of C70 from 14.5 mg of inclusion complex"
+      }
+    }
+  ]
+}

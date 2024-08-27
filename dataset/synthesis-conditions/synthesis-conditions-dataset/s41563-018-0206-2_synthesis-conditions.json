@@ -1,0 +1,86 @@
+{
+  "materials": [
+    {
+      "name": "UTSA-280",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Calcium nitrate tetrahydrate",
+            "formula": "Ca(NO3)2∙4H2O",
+            "amount": "1.888 g",
+            "details": "8.0 mmol"
+          },
+          {
+            "name": "Sodium hydroxide",
+            "formula": "NaOH",
+            "amount": "1.408 g",
+            "details": "32 mmol"
+          },
+          {
+            "name": "Glacial acetic acid",
+            "formula": "C2H4O2",
+            "amount": "2.75 ml, 2.882 g"
+          },
+          {
+            "name": "Squaric acid",
+            "formula": "C4H2O4",
+            "amount": "182 mg",
+            "details": "1.6 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "Water",
+            "amount": "56 ml"
+          }
+        ],
+        "temperature": "Room temperature",
+        "equipment": "Glass container",
+        "time": "A few days",
+        "yield": "61% based on squaric acid",
+        "washing_method": "Washed thoroughly with water",
+        "drying_method": "Dried under air"
+      }
+    },
+    {
+      "name": "UTSA-280 (Large-scale synthesis)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Sodium squarate",
+            "formula": "Na2C4O4",
+            "amount": "0.188 kg",
+            "details": "1,190 mmol"
+          },
+          {
+            "name": "Calcium nitrate tetrahydrate",
+            "formula": "Ca(NO3)2∙4H2O",
+            "amount": "1.404 kg",
+            "details": "5,950 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "Water",
+            "amount": "3.89 l"
+          }
+        ],
+        "temperature": "Room temperature",
+        "equipment": "Large container",
+        "time": "A few minutes",
+        "yield": "0.219 kg (93% based on sodium squarate)",
+        "washing_method": "Washed thoroughly with water",
+        "drying_method": "Dried under air"
+      }
+    },
+    {
+      "name": "UTSA-280 (Activation)",
+      "synthesis_conditions": {
+        "temperature": "110 °C",
+        "equipment": "High vacuum",
+        "time": "36–72 h",
+        "details": "Activation process to remove guest water molecules"
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "materials": [
+    {
+      "material": "5-Fe(III) complex",
+      "synthesis_conditions": {
+        "solvents": "MeOH: aqueous Tris buffer",
+        "solvent_ratio": "9:1",
+        "pH": "7.5",
+        "chemicals_used": [
+          {
+            "chemical": "ascorbic acid",
+            "amount": "fivefold excess"
+          },
+          {
+            "chemical": "ammonium persulphate",
+            "amount": "tenfold excess"
+          }
+        ],
+        "treatment_time": "15-s intervals"
+      }
+    },
+    {
+      "material": "dinuclear 5-Fe(III)/Fe(II) complex",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "FeSO4",
+            "amount": "one equivalent"
+          },
+          {
+            "chemical": "FeCl2",
+            "amount": "one equivalent"
+          }
+        ]
+      }
+    },
+    {
+      "material": "[Ag(TCB)(CF3S03)]",
+      "synthesis_conditions": {
+        "solvents": "benzene",
+        "temperature": "elevated temperatures",
+        "cooling_method": "cooling",
+        "chemicals_used": [
+          {
+            "chemical": "1,3,5-tricyanobenzene (TCB)",
+            "amount": "not specified"
+          },
+          {
+            "chemical": "trifiate (trifluoromethanesulfonate, CF3S03-)",
+            "amount": "not specified"
+          },
+          {
+            "chemical": "Ag(I)",
+            "amount": "not specified"
+          }
+        ]
+      }
+    },
+    {
+      "material": "[Ag(TEB)CF3S03]",
+      "synthesis_conditions": {
+        "solvents": "benzene",
+        "temperature": "elevated temperatures",
+        "cooling_method": "cooling",
+        "chemicals_used": [
+          {
+            "chemical": "1,3,5-tris(4-ethynylbenzonitrile)benzene (TEB)",
+            "amount": "not specified"
+          },
+          {
+            "chemical": "trifiate (trifluoromethanesulfonate, CF3S03-)",
+            "amount": "not specified"
+          },
+          {
+            "chemical": "Ag(I)",
+            "amount": "not specified"
+          }
+        ],
+        "washing_method": "washed with fresh C6D6 solution five times over 3.5 days, then three times over one hour",
+        "solvent_exchange": "C6D6 (isotopic purity >99.96%)",
+        "morphology_monitoring": "Visual inspection under an optical microscope"
+      }
+    }
+  ]
+}

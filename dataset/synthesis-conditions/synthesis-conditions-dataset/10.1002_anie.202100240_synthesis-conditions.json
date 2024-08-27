@@ -1,0 +1,30 @@
+{
+  "materials": [
+    {
+      "name": "TIFSIX-17-Ni",
+      "synthesis_conditions": {
+        "reaction": "Solvothermal reaction",
+        "reactants": [
+          "pyz-NH2",
+          "nickel hexafluorotitanate"
+        ],
+        "product": "[Ni(pyz-NH2)2(TiF6)]n",
+        "appearance": "dark green microcrystalline powder",
+        "equipment": [
+          "beamline i11 at the Diamond Light Source",
+          "synchrotron powder X-ray diffraction (PXRD)"
+        ],
+        "temperature": "298 K for PXRD",
+        "additional_information": "Isostructural with [Ni(pyz)2(SiF6)]n, SIFSIX-3-Ni. Stability to 533 K. Minor decreases in unit cell volumes upon desolvation: 2.9% and 1.8% for SIFSIX-17-Ni and TIFSIX-17-Ni, respectively."
+      }
+    },
+    {
+      "name": "SIFSIX-17-Ni",
+      "synthesis_conditions": {
+        "notes": "Reported in 2018 and studied for propyne/propylene separation but remains unexplored with respect to C2 and CO2 gas sorption.",
+        "stability": "Stable to 493 K",
+        "additional_information": "Isostructural with its pyz based analogue, [Ni(pyz)2(SiF6)]n, SIFSIX-3-Ni. Minor decreases in unit cell volumes upon desolvation: 2.9% and 1.8% for SIFSIX-17-Ni and TIFSIX-17-Ni, respectively."
+      }
+    }
+  ]
+}

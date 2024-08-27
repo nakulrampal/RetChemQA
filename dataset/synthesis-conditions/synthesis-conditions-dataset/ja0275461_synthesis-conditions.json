@@ -1,0 +1,58 @@
+{
+  "materials": [
+    {
+      "material": "Compound 3",
+      "synthesis_conditions": {
+        "temperature": "30 °C",
+        "solvents": [
+          {
+            "name": "aqueous solution",
+            "amount": "1.5 mL"
+          }
+        ],
+        "equipment": "two-electrode system (platinum plates, 6 × 15 mm2) and a U-shaped glass tube (11 mm in diameter)",
+        "chemicals_used": [
+          {
+            "name": "cis-[Pt(NH3)2(OH2)2]X2",
+            "amount": "0.11 mmol",
+            "notes": "X = ClO4-"
+          },
+          {
+            "name": "sodium acetate",
+            "amount": "0.11 mmol"
+          }
+        ],
+        "time": "3 weeks",
+        "yield": "20−30%",
+        "additional_information": "Electrolyzed at 2 μA, in air. NO3- must be added only to the salt bridge."
+      }
+    },
+    {
+      "material": "Compound 4",
+      "synthesis_conditions": {
+        "temperature": "30 °C",
+        "solvents": [
+          {
+            "name": "aqueous solution",
+            "amount": "1.5 mL"
+          }
+        ],
+        "equipment": "two-electrode system (platinum plates, 6 × 15 mm2) and a U-shaped glass tube (11 mm in diameter)",
+        "chemicals_used": [
+          {
+            "name": "cis-[Pt(NH3)2(OH2)2]X2",
+            "amount": "0.11 mmol",
+            "notes": "X = ClO4-"
+          },
+          {
+            "name": "sodium propionate",
+            "amount": "0.11 mmol"
+          }
+        ],
+        "time": "3 weeks",
+        "yield": "20−30%",
+        "additional_information": "Electrolyzed at 2 μA, in air. NO3- must be added only to the salt bridge."
+      }
+    }
+  ]
+}

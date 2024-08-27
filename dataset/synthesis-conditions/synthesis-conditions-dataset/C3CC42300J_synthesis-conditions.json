@@ -1,0 +1,119 @@
+{
+  "materials": [
+    {
+      "material": "[NH2Pr2][Cr7NiF8(O2CCMe3)16] (1)",
+      "synthesis_conditions": {
+        "temperature": "160°C",
+        "time": "24h",
+        "chemicals_used": "[2NiCO3.3Ni(OH)2.4H2O]",
+        "method": "Method given in Larsen et al, Angew. Chem. Int. Ed., 2003, 42, 101-105 with a modification in the nickel source."
+      }
+    },
+    {
+      "material": "[NH2nPr2][Cr7NiF8(O2CCMe3)14(O2C5H4N)2] (2)",
+      "synthesis_conditions": {
+        "temperature": "Reflux",
+        "time": "24h",
+        "solvents": "n-propanol (300 mL)",
+        "chemicals_used": "Compound 1 (15.0g, 6.54 mmol), iso-nicotinic acid (2.48g, 19.5 mmol)",
+        "washing_method": "Washed with acetonitrile",
+        "drying_method": "Dissolved in diethyl ether (~300 ml), filtered, and evaporated to dryness",
+        "yield": "0.63g, 0.27mmol, 4.13%",
+        "purification": "Column chromatography on 40-63 μm mesh silica gel"
+      }
+    },
+    {
+      "material": "{-2-[Cu(NO3)2(THF)]-}∞ (4)",
+      "synthesis_conditions": {
+        "temperature": "Reflux for 10 mins, then cooled to room temperature",
+        "solvents": "Acetone (10 ml)",
+        "chemicals_used": "Cu(NO3)2 · 2.5H2O (0.0132 g, 0.057 mmol), 2 (0.107 g, 0.046 mmol)",
+        "yield": "0.114 g (0.044 mmol, 95.4%)",
+        "recrystallization_solvent": "THF/toluene"
+      }
+    },
+    {
+      "material": "{-2-[Cu2(O2CCMe3)4]}∞ (5)",
+      "synthesis_conditions": {
+        "temperature": "Warm solution, stirred for 10 mins",
+        "solvents": "Toluene (20 ml)",
+        "chemicals_used": "[Cu2(O2CCMe3)4(HO2CCMe3)4] (0.0402g, 0.0428 mmol), 2 (0.1 g, 0.0428 mmol)",
+        "yield": "0.118g, (0.422mmol, 98.6%)",
+        "recrystallization_solvent": "THF/toluene"
+      }
+    },
+    {
+      "material": "{-3-[Cu(NO3)4]-3-[Cu(NO3)]-(3)2-[Cu(NO3)]-}∞ (6)",
+      "synthesis_conditions": {
+        "temperature": "Warm solution, stirred for 10 mins",
+        "solvents": "Acetone (20 ml)",
+        "chemicals_used": "Cu(NO3)2 · 2.5H2O (0.013g, 0.056 mmol), 2 (0.124 g, 0.053 mmol)",
+        "yield": "0.132g, 93.5%",
+        "recrystallization_solvent": "Diethyl ether/acetonitrile"
+      }
+    },
+    {
+      "material": "N,N'-bis(pyridin-4-ylmethyl)decane-1,10-diamine (T1)",
+      "synthesis_conditions": {
+        "temperature": "Reflux",
+        "solvents": "Methanol (30 mL)",
+        "chemicals_used": "1,10-diaminiodecane (1.40 g, 7.9 mmol), 4-pyridinecarboxaldehyde (1.41 mL, 15 mmol)",
+        "time": "Refluxed for three hours, then stirred overnight",
+        "yield": "1.704 g (66.2%)"
+      }
+    },
+    {
+      "material": "{(H2T1)[Cr7NiF8(O2CtBu)16]2} (7)",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "time": "24h",
+        "chemicals_used": "Pivalic acid (20.0 g, 195.83 mmol), CrF3.4H2O (3.0 g, 16.57 mmol), Ni2(µ-OH2)(O2CCMe3)4(HO2CCMe3)4 (1.0 g, 1.038 mmol), thread T1 (0.5 g, 1.14 mmol)",
+        "yield": "1.232 g (22.8%)",
+        "purification": "Column chromatography on silica gel"
+      }
+    },
+    {
+      "material": "{-7-[Cu2(O2CCMe3)4]}∞ 8",
+      "synthesis_conditions": {
+        "chemicals_used": "[Cu2(O2CCMe3)4(HO2CCMe3)4] (0.077 g, 0.105 mmol), 7 (0.5 g, 0.105 mmol)",
+        "solvents": "THF, toluene",
+        "yield": "0.456g (84.2%)"
+      }
+    },
+    {
+      "material": "{[Cu(Hfacec)2(H2O)]-7-[Cu(Hfacec)2(H2O)]} (9)",
+      "synthesis_conditions": {
+        "chemicals_used": "Cu(Hfacec)2(H2O)2 (0.0492 g, 0.105 mmol), 7 (0.5 g, 0.105 mmol)",
+        "solvents": "THF"
+      }
+    },
+    {
+      "material": "[{PyCH2CH2NH(CH2)10NHCH2CH2Py} (T2)",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "time": "Stirred at room temperature for 12 hrs, then overnight",
+        "solvents": "Toluene (50 mL), Methanol (40 mL for NaBH4 addition)",
+        "chemicals_used": "1,10-decanedial (1g, 5.8 mmol), 4(2-ethylamino)-pyridine (1.4 mL, 11.76 mmol)",
+        "yield": "1.46 g (65%)"
+      }
+    },
+    {
+      "material": "{H2T2}{Cr7NiF8(O2CCMe3)16}2] (10)",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "time": "24h",
+        "chemicals_used": "Pivalic acid (20.0 g, 195.83 mmol), CrF3.4H2O (3.31 g, 18.28 mmol), Ni2(m-OH2)(O2CCMe3)4(HO2CCMe3)4 (1.35 g, 1.4 mmol), thread T2 (0.5 g, 1.38 mmol)",
+        "solvents": "Acetonitrile (30 mL)",
+        "purification": "Column chromatography on silica gel"
+      }
+    },
+    {
+      "material": "[-10-{Cu(Hfacec)2}]∞ (11)",
+      "synthesis_conditions": {
+        "chemicals_used": "Cu(Hfacec)2 (0.010 g, 0.02 mmol), 9 (0.1 g, 0.02 mmol)",
+        "solvents": "THF, toluene",
+        "temperature": "Refluxed for 5 minutes"
+      }
+    }
+  ]
+}

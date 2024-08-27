@@ -1,0 +1,180 @@
+{
+  "materials": [
+    {
+      "name": "Zn3(BDC)3[Cu(Pyen)]·(DMF)5(H2O)5",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals": [
+            {
+              "name": "Zn(NO3)2·6H2O",
+              "amount": "1.2116 g",
+              "molarity": "4.07 mmol"
+            },
+            {
+              "name": "H2BDC",
+              "amount": "0.6732 g",
+              "molarity": "4.06 mmol"
+            },
+            {
+              "name": "Cu(PyenH2)(NO3)2",
+              "amount": "0.600 g",
+              "molarity": "1.24 mmol"
+            },
+            {
+              "name": "DMF",
+              "amount": "306 mL"
+            },
+            {
+              "name": "H2O",
+              "amount": "30.6 mL"
+            }
+          ],
+          "temperature": "373 K",
+          "time": "24 h",
+          "equipment": "vial (400 mL)",
+          "atmosphere": "air",
+          "yield": "0.75 g, 52%"
+        }
+      ],
+      "washing_method": "washed with EtOH",
+      "drying_method": "air-dried",
+      "characterization": {
+        "PXRD": {
+          "description": "Powder X-ray diffraction patterns of the simulated, as-synthesized, and desolvated M′MOF 1 show matching peaks, confirming the phase purity and structural integrity after desolvation."
+        },
+        "SEM": {
+          "description": "Scanning electron micrograph shows the morphology of M′MOF 1."
+        },
+        "TGA": {
+          "description": "Thermogravimetric analysis profile of as-synthesized M′MOF 1 shows a two-step desolvation process with a small initial weight loss of ∼4 wt % at ∼390 K and a second larger step giving a stable porous structure (weight loss: 29.9 wt % at ∼500 K; Calculated 30.3 wt %)."
+        }
+      }
+    },
+    {
+      "name": "Cu(PyenH2)(NO3)2",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals": [
+            {
+              "name": "ethylenediamine",
+              "amount": "0.766 g",
+              "molarity": "12.75 mmol"
+            },
+            {
+              "name": "5-methyl-4-oxo-1,4-dihydro-pyridine-3-carbaldehyde",
+              "amount": "3.09 g",
+              "molarity": "25.50 mmol"
+            },
+            {
+              "name": "Cu(NO3)2·2.5 H2O",
+              "amount": "2.965 g",
+              "molarity": "12.75 mmol"
+            },
+            {
+              "name": "EtOH",
+              "amount": "150 mL"
+            }
+          ],
+          "temperature": "reflux",
+          "time": "2 hours",
+          "equipment": "reaction vessel",
+          "atmosphere": "air",
+          "yield": "4.12 g, 67%"
+        }
+      ],
+      "washing_method": "washed with EtOH",
+      "drying_method": "air-dried"
+    }
+  ],
+  "adsorption_studies": [
+    {
+      "material": "Zn3(BDC)3[Cu(Pyen)]",
+      "adsorbates": [
+        "H2",
+        "D2"
+      ],
+      "temperatures": [
+        "77.3 K",
+        "87.3 K"
+      ],
+      "isotherms": [
+        {
+          "temperature": "77.3 K",
+          "adsorbate": "H2",
+          "pressure_range": "0.5-100 kPa",
+          "amount_adsorbed_range": "1.19-4.76 mmol g-1"
+        },
+        {
+          "temperature": "87.3 K",
+          "adsorbate": "H2",
+          "pressure_range": "0.5-100 kPa",
+          "amount_adsorbed_range": "0.37-3.56 mmol g-1"
+        },
+        {
+          "temperature": "77.3 K",
+          "adsorbate": "D2",
+          "pressure_range": "0.5-100 kPa",
+          "amount_adsorbed_range": "1.32-5.15 mmol g-1"
+        },
+        {
+          "temperature": "87.3 K",
+          "adsorbate": "D2",
+          "pressure_range": "0.5-100 kPa",
+          "amount_adsorbed_range": "0.41-3.90 mmol g-1"
+        }
+      ],
+      "isosteric_enthalpies_of_adsorption": [
+        {
+          "adsorbate": "H2",
+          "temperature_range": "77.3-87.3 K",
+          "zero_coverage_value": "12.29 ± 0.53 kJ mol-1"
+        },
+        {
+          "adsorbate": "D2",
+          "temperature_range": "77.3-87.3 K",
+          "zero_coverage_value": "12.44 ± 0.50 kJ mol-1"
+        }
+      ],
+      "adsorption_kinetics": [
+        {
+          "adsorbate": "H2",
+          "temperature": "77.3 K",
+          "pressure_range": "0.1-5 kPa",
+          "rate_constants": {
+            "k1": "0.3872±0.043 x10^3 s-1",
+            "k2": "2.570±0.121 x10^3 s-1"
+          }
+        },
+        {
+          "adsorbate": "D2",
+          "temperature": "77.3 K",
+          "pressure_range": "0.1-5 kPa",
+          "rate_constants": {
+            "k1": "0.6050±0.035 x10^3 s-1",
+            "k2": "3.556±0.127 x10^3 s-1"
+          }
+        },
+        {
+          "adsorbate": "H2",
+          "temperature": "87.3 K",
+          "pressure_range": "0.2-10 kPa",
+          "rate_constants": {
+            "k1": "2.958±0.149 x10^3 s-1",
+            "k2": "9.597±0.284 x10^3 s-1"
+          }
+        },
+        {
+          "adsorbate": "D2",
+          "temperature": "87.3 K",
+          "pressure_range": "0.2-10 kPa",
+          "rate_constants": {
+            "k1": "3.962±0.130 x10^3 s-1",
+            "k2": "11.96±0.388 x10^3 s-1"
+          }
+        }
+      ]
+    }
+  ]
+}

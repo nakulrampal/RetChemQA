@@ -1,0 +1,55 @@
+{
+  "materials": [
+    {
+      "material": "1",
+      "synthesis_conditions": {
+        "method": "CVD",
+        "temperature": "325 °C",
+        "pressure": "20 Torr",
+        "substrate_distance": "9 cm or 11 cm downstream of the precursor boat",
+        "substrate": "glass or SiO2/Si",
+        "carrier_gas_flow": "20 sccm N2",
+        "reaction_time": "15 min",
+        "cooling_rate": "cool slowly over 20 min to 200 °C",
+        "final_cooling": "cool by 100 °C within ~1 min",
+        "precursor": "Mo2(INA)4",
+        "precursor_amount": "0.010 g",
+        "thickness": "~20 nm (for substrate 11 cm from precursor)"
+      }
+    },
+    {
+      "material": "2",
+      "synthesis_conditions": {
+        "method": "Conversion from 1",
+        "solvent_vapor": "DMA",
+        "exposure_time": "48 h",
+        "temperature": "Room temperature",
+        "initial_material": "1",
+        "comments": "Conversion observed as an orange-red color change."
+      }
+    },
+    {
+      "material": "1 to 2 cyclic conversion",
+      "synthesis_conditions": {
+        "method": "Cyclic conversion",
+        "solvent_vapor_for_1_to_2": "DMA",
+        "solvent_vapor_for_2_to_1": "Methanol",
+        "exposure_time": "48 h for each conversion",
+        "temperature": "Room temperature",
+        "initial_material": "Bulk polycrystalline samples of 1 or 2",
+        "comments": "Conversion between 1 and 2 is reversible and cyclic."
+      }
+    },
+    {
+      "material": "2D MOF variant",
+      "synthesis_conditions": {
+        "method": "Conversion from 1",
+        "solvent_vapor": "DMA",
+        "exposure_time": "Not specified",
+        "temperature": "Room temperature",
+        "initial_material": "1",
+        "comments": "Details provided in Supplementary Fig. 10."
+      }
+    }
+  ]
+}

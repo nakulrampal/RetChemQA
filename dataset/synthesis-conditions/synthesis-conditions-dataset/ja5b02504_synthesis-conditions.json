@@ -1,0 +1,175 @@
+{
+  "materials": [
+    {
+      "material": "IPr–Fe–N­(SiMe3)­DIPP (1)",
+      "synthesis_conditions": {
+        "temperature": "ambient temperature",
+        "solvents": [
+          {
+            "name": "tetrahydrofuran (THF)",
+            "amount": "8 mL"
+          },
+          {
+            "name": "HMDSO",
+            "amount": "12 mL for recrystallization"
+          }
+        ],
+        "equipment": "20 mL scintillation vial",
+        "chemicals_used": [
+          {
+            "name": "Fe­[N­(SiMe3)­DIPP]2 (4)",
+            "amount": "0.430 g, 0.78 mmol"
+          },
+          {
+            "name": "NEt3·HCl",
+            "amount": "0.107 g, 0.78 mmol"
+          },
+          {
+            "name": "IPr",
+            "amount": "0.30 g, 0.78 mmol"
+          },
+          {
+            "name": "potassium graphite",
+            "amount": "0.116 g, 0.86 mmol, 1.1 equiv"
+          }
+        ],
+        "time": "15 min for stirring, 12 h for recrystallization",
+        "yield": "77%",
+        "drying_method": "dried under vacuum until fully desolvated, approximately 2 h",
+        "washing_method": "washed with two portions of 2 mL of HMDSO"
+      }
+    },
+    {
+      "material": "Fe­[N­(SiMe3)­DIPP]2 (4)",
+      "synthesis_conditions": {
+        "temperature": "ambient temperature",
+        "solvents": [
+          {
+            "name": "Et2O",
+            "amount": "14 mL"
+          },
+          {
+            "name": "pentane",
+            "amount": "8 mL for recrystallization"
+          }
+        ],
+        "equipment": "20 mL scintillation vial",
+        "chemicals_used": [
+          {
+            "name": "FeCl2",
+            "amount": "0.526 g, 4.15 mmol"
+          },
+          {
+            "name": "LiN­(SiMe3)­DIPP",
+            "amount": "2.00 g, 7.86 mmol, 1.9 equiv"
+          }
+        ],
+        "time": "16 h for stirring, 12 h for recrystallization",
+        "yield": "85%",
+        "drying_method": "dried under vacuum for 2 additional hours"
+      }
+    },
+    {
+      "material": "K­[(η6-IPr)­Fe–N­(SiMe3)­DIPP] (5)",
+      "synthesis_conditions": {
+        "temperature": "ambient temperature",
+        "solvents": [
+          {
+            "name": "Et2O",
+            "amount": "6 mL"
+          },
+          {
+            "name": "toluene",
+            "amount": "5 mL for recrystallization"
+          },
+          {
+            "name": "pentane",
+            "amount": "15 mL for recrystallization"
+          }
+        ],
+        "equipment": "20 mL scintillation vial",
+        "chemicals_used": [
+          {
+            "name": "1",
+            "amount": "0.200 g, 0.289 mmol"
+          },
+          {
+            "name": "potassium graphite",
+            "amount": "0.058 g, 0.43 mmol, 1.5 equiv"
+          }
+        ],
+        "time": "30 min for stirring, 12 h for recrystallization",
+        "yield": "87%",
+        "drying_method": "dried under vacuum"
+      }
+    },
+    {
+      "material": "IPr–Fe­(CNXyl)–N­(SiMe3)­DIPP (6)",
+      "synthesis_conditions": {
+        "temperature": "ambient temperature",
+        "solvents": [
+          {
+            "name": "Et2O",
+            "amount": "4 mL"
+          },
+          {
+            "name": "HMDSO",
+            "amount": "8 mL for recrystallization"
+          }
+        ],
+        "equipment": "20 mL scintillation vial",
+        "chemicals_used": [
+          {
+            "name": "1",
+            "amount": "0.108 g, 0.156 mmol"
+          },
+          {
+            "name": "xylyl isocyanide",
+            "amount": "0.0205 g, 0.156 mmol"
+          }
+        ],
+        "time": "immediate reaction, 12 h for recrystallization",
+        "yield": "81%",
+        "drying_method": "dried under vacuum"
+      }
+    },
+    {
+      "material": "(IPr)Cl-Fe[N­(SiMe3)­DIPP]",
+      "synthesis_conditions": {
+        "temperature": "ambient temperature",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "4 mL"
+          },
+          {
+            "name": "toluene",
+            "amount": "4 mL for recrystallization"
+          },
+          {
+            "name": "pentane",
+            "amount": "8 mL for recrystallization"
+          }
+        ],
+        "equipment": "20 mL scintillation vial",
+        "chemicals_used": [
+          {
+            "name": "Fe­[N­(SiMe3)­DIPP]2 (4)",
+            "amount": "0.430 g, 0.778 mmol"
+          },
+          {
+            "name": "NEt3·HCl",
+            "amount": "0.107 g, 0.777 mmol"
+          },
+          {
+            "name": "IPr",
+            "amount": "0.303 g, 0.780 mmol"
+          }
+        ],
+        "time": "5 min for stirring, overnight for recrystallization",
+        "yield": "Not specified",
+        "drying_method": "dried under vacuum"
+      }
+    }
+  ]
+}

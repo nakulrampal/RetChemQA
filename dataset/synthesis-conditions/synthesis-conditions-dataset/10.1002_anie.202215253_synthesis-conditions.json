@@ -1,0 +1,49 @@
+{
+  "materials": [
+    {
+      "name": "FJI-H36",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": ["DMA", "MeOH"],
+        "amount_of_each_solvent": "mixed DMA/MeOH solution",
+        "equipment": "not specified",
+        "chemicals_used": ["3’,5’-di(1H-1,2,4-triazol-1-yl)-[1,1’-biphenyl]-3,5-dicarboxylic acid (H2DTBDA)", "Ni2(NO3)2·6 H2O"],
+        "time": "3 days",
+        "washing_method": "soaked in an acetone solution for 3 days",
+        "drying_method": "activated for another 10 h under dynamic vacuum at 70 °C",
+        "yield": "not specified",
+        "additional_information": "Formulated as [Ni(DTBDA)(MeOH)2(DMA)(H2O)2]n. Single crystal X-ray diffraction (SCXRD) analysis demonstrates that FJI-H36 crystallizes in the C2/c space group."
+      }
+    },
+    {
+      "name": "Desolvated FJI-H36",
+      "synthesis_conditions": {
+        "temperature": "70 °C",
+        "solvents": "acetone",
+        "amount_of_each_solvent": "not specified",
+        "equipment": "dynamic vacuum",
+        "chemicals_used": "fresh FJI-H36 sample",
+        "time": "soaked for 3 days, activated for 10 h",
+        "washing_method": "not specified",
+        "drying_method": "activated under dynamic vacuum",
+        "yield": "not specified",
+        "additional_information": "PXRD test demonstrates that the peaks of desolvated FJI-H36 are different from that before desolvation, implying that a new structure is formed."
+      }
+    },
+    {
+      "name": "C2H2@FJI-H36",
+      "synthesis_conditions": {
+        "temperature": "not specified",
+        "solvents": "not applicable",
+        "amount_of_each_solvent": "not applicable",
+        "equipment": "not specified",
+        "chemicals_used": "FJI-H36, C2H2 gas",
+        "time": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "about 2.5 mmol g-1 adsorbed-C2H2",
+        "additional_information": "SCXRD analysis indicates that about 2.5 mmol g-1 adsorbed-C2H2 can be precisely determined in the pores of FJI-H36. The framework of FJI-H36 undergoes complex structural transformations after C2H2 adsorption."
+      }
+    }
+  ]
+}

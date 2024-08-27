@@ -1,0 +1,40 @@
+{
+  "materials": [
+    {
+      "name": "[Cu4I4(dmimpr)2]n (1)",
+      "synthesis_conditions": {
+        "temperature": "120 oC",
+        "solvents": "DMF-CH3CN",
+        "solvent_ratio": "v:v = 1:1",
+        "solvent_amount": "1.5 mL",
+        "chemicals_used": {
+          "CuI": "19 mg, 0.10 mmol",
+          "dmimpr": "4.4 mg, 0.02 mmol"
+        },
+        "heating_duration": "10 hours to reach 120 oC, kept at 120 oC for 50 hours",
+        "cooling_duration": "slowly cooled to 30 oC in 13 hours",
+        "washing_method": "washed with EtOH",
+        "drying_method": "dried in the air",
+        "yield": "80 %"
+      }
+    },
+    {
+      "name": "[Cu6I6(dimb)3]n (2)",
+      "synthesis_conditions": {
+        "temperature": "130 oC",
+        "solvents": "DMF-CH3CN",
+        "solvent_ratio": "v:v = 1:1",
+        "solvent_amount": "Not specified",
+        "chemicals_used": {
+          "CuI": "Not specified",
+          "dimb": "4.1 mg, 0.02 mmol"
+        },
+        "heating_duration": "Similar to 1 but heated to 130 oC",
+        "cooling_duration": "Similar to 1",
+        "washing_method": "washed with EtOH",
+        "drying_method": "dried in the air",
+        "yield": "74 %"
+      }
+    }
+  ]
+}

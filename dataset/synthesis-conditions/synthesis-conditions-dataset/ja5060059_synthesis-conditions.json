@@ -1,0 +1,83 @@
+{
+  "materials": [
+    {
+      "name": "ZAG-4",
+      "synthesis_conditions": [
+        {
+          "temperature": "Ambient",
+          "pressure": "0 GPa",
+          "space_group": "C2/c",
+          "cell_parameters": {
+            "a": "18.515(4) Å",
+            "b": "8.291(2) Å",
+            "c": "8.265(2) Å",
+            "beta": "113.837(2) deg.",
+            "volume": "1160.5(5) Å3"
+          },
+          "DFT_calculations": {
+            "a": "18.764 Å",
+            "b": "8.440 Å",
+            "c": "8.173 Å",
+            "beta": "112.63 deg.",
+            "volume": "1194.7 Å3"
+          }
+        },
+        {
+          "temperature": "Ambient",
+          "pressure": "7.32 GPa",
+          "space_group": "C2/c",
+          "cell_parameters": {
+            "a": "17.023(2) Å",
+            "b": "8.066(3) Å",
+            "c": "7.4078(8) Å",
+            "beta": "123.227(8) deg.",
+            "volume": "850.9(3) Å3"
+          }
+        }
+      ]
+    },
+    {
+      "name": "ZAG-6",
+      "synthesis_conditions": [
+        {
+          "temperature": "Ambient",
+          "pressure": "0 GPa",
+          "space_group": "C2/c",
+          "cell_parameters": {
+            "a": "23.180(5) Å",
+            "b": "8.2859(16) Å",
+            "c": "8.2008(16) Å",
+            "beta": "120.3870(19) deg.",
+            "volume": "1358.7(4) Å3"
+          },
+          "DFT_calculations": {
+            "a": "23.753 Å",
+            "b": "8.371 Å",
+            "c": "8.495 Å",
+            "beta": "117.18 deg.",
+            "volume": "1447.0 Å3"
+          }
+        },
+        {
+          "temperature": "Ambient",
+          "pressure": "6.9 GPa",
+          "space_group": "C2/c",
+          "cell_parameters": {
+            "a": "19.782(4) Å",
+            "b": "8.430(3) Å",
+            "c": "7.7146(12) Å",
+            "beta": "128.672(12) deg.",
+            "volume": "1004.4(4) Å3"
+          },
+          "DFT_calculations": {
+            "a": "19.891 Å",
+            "b": "8.180 Å",
+            "c": "7.712 Å",
+            "beta": "128.40 deg.",
+            "volume": "1021.4 Å3"
+          }
+        }
+      ]
+    }
+  ]
+}

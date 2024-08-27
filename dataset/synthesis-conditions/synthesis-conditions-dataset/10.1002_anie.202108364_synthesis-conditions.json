@@ -1,0 +1,186 @@
+{
+  "materials": [
+    {
+      "name": "b-peptide foldamers",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            {
+              "name": "(S,S)-trans-ACPC",
+              "note": "decorated with 4-pyridyl moieties (py) at both termini"
+            }
+          ],
+          "solvents": [],
+          "temperature": [],
+          "equipment": [],
+          "time": [],
+          "washing_method": [],
+          "drying_method": [],
+          "yield": [],
+          "additional_notes": "Used for Ag+-coordination-mediated assembly."
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            {
+              "name": "AgBF4",
+              "amount": "30 mm in 300 mL aqueous solution"
+            },
+            {
+              "name": "1 in methanol",
+              "amount": "30 mm in 300 mL"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "methanol and water",
+              "amount": "1:1 v/v, 100 mL"
+            }
+          ],
+          "temperature": "room temperature",
+          "equipment": "triple-layering method",
+          "time": "one month",
+          "washing_method": [],
+          "drying_method": [],
+          "yield": [],
+          "additional_notes": "Afforded colorless, rod-shaped crystals of 1a."
+        }
+      ]
+    },
+    {
+      "name": "1a",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [],
+          "solvents": [
+            {
+              "name": "ethanol",
+              "note": "for sample recovery"
+            }
+          ],
+          "temperature": [],
+          "equipment": [],
+          "time": [],
+          "washing_method": [],
+          "drying_method": [],
+          "yield": [],
+          "additional_notes": "Redissolution in ethanol produced colorless crystals different from 1a, identified as 1b."
+        }
+      ]
+    },
+    {
+      "name": "1b",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [],
+          "solvents": [],
+          "temperature": [],
+          "equipment": [],
+          "time": [],
+          "washing_method": [],
+          "drying_method": [],
+          "yield": [],
+          "additional_notes": "Formed upon redissolution of 1a crystals in ethanol."
+        }
+      ]
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            {
+              "name": "AgBF4",
+              "note": "for complexation with tetramer 2"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "methanol and water",
+              "note": "used in the triple-layering method"
+            }
+          ],
+          "temperature": [],
+          "equipment": "triple-layering method",
+          "time": [],
+          "washing_method": [],
+          "drying_method": [],
+          "yield": [],
+          "additional_notes": "Afforded a new framework 2a, displaying distinguishable ligand adaptability."
+        }
+      ]
+    },
+    {
+      "name": "2a",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [],
+          "solvents": [
+            {
+              "name": "ethanol",
+              "note": "for growth of MPF"
+            }
+          ],
+          "temperature": [],
+          "equipment": [],
+          "time": [],
+          "washing_method": [],
+          "drying_method": [],
+          "yield": [],
+          "additional_notes": "Grown in ethanol showed a structure nearly identical to that of 2a."
+        }
+      ]
+    },
+    {
+      "name": "3",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            {
+              "name": "AgBF4",
+              "note": "for Ag+-coordination"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "methanol",
+              "note": "used for coordination"
+            }
+          ],
+          "temperature": [],
+          "equipment": [],
+          "time": [],
+          "washing_method": [],
+          "drying_method": [],
+          "yield": [],
+          "additional_notes": "Afforded plate-shaped crystals, but not suitable for complete structural determination."
+        }
+      ]
+    },
+    {
+      "name": "4",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            {
+              "name": "AgBF4",
+              "note": "for Ag+-coordination"
+            }
+          ],
+          "solvents": [],
+          "temperature": [],
+          "equipment": [],
+          "time": [],
+          "washing_method": [],
+          "drying_method": [],
+          "yield": [],
+          "additional_notes": "Attempts to form well-defined MPFs were unsuccessful, resulting in highly amorphous precipitates."
+        }
+      ]
+    }
+  ]
+}

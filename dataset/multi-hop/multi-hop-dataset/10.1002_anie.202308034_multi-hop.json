@@ -1,0 +1,100 @@
+{
+  "questions": [
+    {
+      "question": "What are the two homologous MOFs discussed in the research, including their synthesis conditions?",
+      "answer": "The two homologous MOFs discussed are [Co2(NDC)2(DPTTZ)2].DPTTZ.DMF, referred to as MOF 1, and [Co2(BDC)2(DPTTZ)2].DMF, referred to as MOF 2. MOF 1 was synthesized using Co(NO3)2.6H2O, 2,6-naphthalene dicarboxylic acid (NDC), and N,N'-di(4-pyridyl)thiazolo-[5,4-d]thiazole (DPTTZ) at 100 °C, resulting in orange-colored needle-shaped crystals. MOF 2 was synthesized under similar conditions but using benzene dicarboxylic acid (BDC) instead of NDC, resulting in orange-colored rod-shaped crystals.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the intra-dimer distance of redox-active DPTTZ ligands differ between MOF 1 and MOF 2?",
+      "answer": "The intra-dimer distance of redox-active DPTTZ ligands differs by approximately 1 Å between MOF 1 and MOF 2, with MOF 1 having an inter-ligand distance of 4.7 Å and MOF 2 having a distance of 3.8 Å.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to quantify the extent of IVCT in the MOFs, and what were the findings?",
+      "answer": "The extent of IVCT was quantified using charge transfer integral calculation and optical pump terahertz probe (OPTP) spectroscopy. The findings revealed that MOF 2 shows three times higher carrier mobility due to lesser inter-DPTTZ distance than MOF 1, indicating a more efficient electronic coupling and faster charge transfer dynamics in MOF 2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The spectroelectrochemical study detected the formation of IVCT bands at the NIR region for both MOFs.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does the intra-dimer distance play in the charge transfer dynamics within the MOFs?",
+      "answer": "The intra-dimer distance plays a crucial role in the charge transfer dynamics within the MOFs by affecting the electronic coupling between the cofacially arranged redox-active pairs. A lesser intra-dimer distance, as seen in MOF 2, results in stronger electronic coupling, leading to faster charge separation and recombination rates, as well as higher carrier mobility, compared to MOF 1 with a larger intra-dimer distance.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The charge transfer integral values for the dimer systems of MOF 1 and MOF 2 were found to be identical.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What spectroscopic method provides intrinsic photo-physical properties within the sub-picosecond resolution?",
+      "answer": "Optical pump terahertz probe (OPTP) spectroscopy provides intrinsic photo-physical properties within the sub-picosecond resolution.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the electronic coupling between molecules affect the optoelectronic applicability of materials?",
+      "answer": "The electronic coupling between molecules is extremely sensitive to changes in molecular displacement, which can lead to significant alterations in wave function distribution in frontier molecular orbitals. These changes in the coupling parameter can result in numerous optoelectronic applications by affecting the efficiency and functionality of the materials.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study demonstrates direct evidence of photoinduced through-space intervalence charge transfer (IVCT) between two cofacially arranged redox-active pairs in metal–organic frameworks.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of impregnating electroactive sub-parts in MOFs?",
+      "answer": "Impregnating electroactive sub-parts, either redox-active metal nodes or ligands or a combination of both, in MOFs engenders a facile charge delocalization either by through-bond or through-space approach. This allows for greater control over the electronic structure of MOFs, enabling rapid oscillation of charge between nearby mixed-valence centers and resulting in intervalence charge transfer (IVCT), which is advantageous for various electronic applications.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The redox mixed-valence approach in MOFs does not contribute to their electronic structure.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What are the implications of having a more localized aspect of through-space IVCT between cofacially organized redox-active pairs in MOFs?",
+      "answer": "Having a more localized aspect of through-space IVCT between cofacially organized redox-active pairs in MOFs reveals a deeper understanding of the charge transfer mechanism at the molecular level. This knowledge is crucial for designing MOFs with optimized electronic properties for specific applications, such as light-harvesting, photocatalysis, and optoelectronics, by precisely controlling the molecular separation and structural rigidity within the framework.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study found no difference in the charge transfer dynamics between MOF 1 and MOF 2.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What challenges are associated with conventional probe-based methods in studying charge transfer mechanisms in MOFs?",
+      "answer": "Conventional probe-based methods face challenges in studying charge transfer mechanisms in MOFs as they are unable to identify more localized aspects of the charge transfer mechanism. These methods often lack the spatial and temporal resolution needed to reveal a molecular level of comprehension, making it difficult to understand the fundamental charge transfer properties and their structural relationship.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the study address the challenge of understanding out-of-plane intervalence carrier mobility in three-dimensional redox-active MOFs?",
+      "answer": "The study addresses the challenge of understanding out-of-plane intervalence carrier mobility in three-dimensional redox-active MOFs by utilizing optical pump terahertz probe (OPTP) spectroscopy. This method overcomes both spatial and time resolution problems, providing intrinsic photo-physical properties within the sub-picosecond resolution, and allows for a detailed understanding of the charge transfer dynamics and carrier mobility in relation to the structural arrangement of the MOFs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study suggests that the molecular separation between cofacially arranged redox-active pairs does not influence the electronic coupling in MOFs.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "materials": [
+    {
+      "material": "2-(3,4,5-Triiodo-1H-pyrazol-1-yl)acetonitrile (1)",
+      "synthesis_conditions": {
+        "temperature": "reflux",
+        "solvents": [
+          {
+            "name": "CH3CN",
+            "amount": "30 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "3, 4, 5-triiodopyrazol",
+            "amount": "890 mg, 2.0 mmol"
+          },
+          {
+            "name": "potassium carbonate",
+            "amount": "553 mg, 3.9 mmol"
+          },
+          {
+            "name": "Chloroacetonitrile",
+            "amount": "166 mg, 2.2 mmol"
+          }
+        ],
+        "time": "12 h",
+        "yield": "823 mg, 85%",
+        "drying_method": "vacuum",
+        "purification_method": "silica gel column chromatography (20% EtOAc in hexanes)"
+      }
+    },
+    {
+      "material": "5-((3,4,5-Triiodo-1H-pyrazol-1-yl)methyl)-1H-tetrazole (2 and 2a)",
+      "synthesis_conditions": {
+        "temperature": "80°C",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "15 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ZnCl2",
+            "amount": "268 mg, 2.0 mmol"
+          },
+          {
+            "name": "1",
+            "amount": "969 mg, 2.0 mmol"
+          },
+          {
+            "name": "NaN3",
+            "amount": "260 mg, 4.0 mmol"
+          }
+        ],
+        "time": "24 h",
+        "yield": "1.0 g, 95%",
+        "drying_method": "vacuum",
+        "purification_method": "washed with 1 M HCl (3 × 10 mL)"
+      }
+    },
+    {
+      "material": "ECP3 and ECP3a",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "MeOH",
+            "amount": "7 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ZnI2",
+            "amount": "68 mg, 0.21 mmol"
+          },
+          {
+            "name": "2",
+            "amount": "112 mg, 0.21 mmol"
+          }
+        ],
+        "time": "2 h",
+        "yield": "106 mg, 67%",
+        "crystallization_method": "left for crystallization at room temperature for 2 days"
+      }
+    }
+  ]
+}

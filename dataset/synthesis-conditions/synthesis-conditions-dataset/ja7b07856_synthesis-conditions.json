@@ -1,0 +1,77 @@
+{
+  "materials": [
+    {
+      "name": "1,2-Bis-(2,5-dimethyl-thiophen-3-yl)-ethanedione",
+      "synthesis_conditions": {
+        "solvent": "dichloroethane",
+        "yield": "2.35 g, 35%",
+        "NMR_solvent": "CDCl3",
+        "NMR_frequency": "300 MHz",
+        "NMR_chemical_shifts": "δ2.38 (s, 6H), δ2.72 (s, 6H), δ6.91 (s, 2H)"
+      }
+    },
+    {
+      "name": "4,5-bis(2,5-dimethyl-3-thienyl)-1H-imidazole (HL1)",
+      "synthesis_conditions": {
+        "yield": "450 mg, 38%",
+        "NMR_solvent": "CDCl3",
+        "NMR_frequency": "300 MHz",
+        "NMR_chemical_shifts": "δ2.07 (s, 6H; 2-Me), δ2.39 (s, 6H; 5-Me), δ6.59 (br s, 2H), δ7.68 (s, 1H)"
+      }
+    },
+    {
+      "name": "ZIF-70",
+      "synthesis_conditions": {
+        "solvents": "DMF, MeOH",
+        "temperature": "110 °C",
+        "time": "4 days",
+        "washing_solvents": "DMF, MeOH",
+        "NMR_solvent": "d6-DMSO",
+        "NMR_frequency": "300 MHz",
+        "NMR_chemical_shifts": "δ9.00 (s, 1H), δ7.60 (d, 2H), δ7.33 (s, 2H)",
+        "NMR_ratio": "Imidazole:Nitroimidazole = 1:0.71"
+      }
+    },
+    {
+      "name": "PSZ-1",
+      "synthesis_conditions": {
+        "solvent": "n-BuOH",
+        "temperature": "110 °C",
+        "time": "3 days",
+        "washing_solvents": "DMF, MeOH",
+        "NMR_solvent": "d6-DMSO",
+        "NMR_frequency": "300 MHz",
+        "NMR_chemical_shifts": "δ9.11 (s, 1H), δ8.98 (s,1H), δ7.59 (s,1H), δ7.33 (s,2H), δ6.64 (s,2H), δ2.31 (s, 6H), δ1.88 (s, 6H)",
+        "NMR_ratio": "Imidazole:Nitroimidazole:L1 = 1.00:0.70:0.27"
+      }
+    }
+  ],
+  "experimental_procedures": {
+    "photoisomerization_conditions": {
+      "UV_light_source": "UV-lamp (Spectroline ENF-260C)",
+      "UV_light_distance": "approximately 20 cm",
+      "UV_light_wavelength": "λ ≤ 254 nm",
+      "visible_light_source": "LED flashlight",
+      "visible_light_filter": "low band-pass (λ ≤ 515 nm) filter",
+      "visible_light_distance": "approximately 20 cm"
+    },
+    "powder_X-ray_diffraction": {
+      "equipment": "Rigaku X-ray Ultima IV Diffractometer",
+      "X-ray_source": "copper",
+      "scan_range": "3-20 degrees in 2θ",
+      "scan_speed": "1°2θ/min"
+    },
+    "gas_adsorption_isotherm": {
+      "temperature": "77 K",
+      "equipment": "Micromeritics 3Flex surface area and porosity analyzer",
+      "activation_procedure": {
+        "initial_temperature": "80 °C",
+        "initial_time": "1 h",
+        "second_temperature": "90 °C",
+        "second_time": "2 h",
+        "final_temperature": "110 °C",
+        "final_time": "22 h"
+      }
+    }
+  }
+}

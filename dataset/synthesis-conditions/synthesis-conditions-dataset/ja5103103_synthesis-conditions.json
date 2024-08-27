@@ -1,0 +1,86 @@
+{
+  "materials": [
+    {
+      "name": "PCN-224",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "130 °C",
+          "time": "3 days",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "14 mL"
+            }
+          ],
+          "chemicals": [
+            {
+              "name": "ZrCl4",
+              "amount": "0.21 g, 0.90 mmol"
+            },
+            {
+              "name": "benzoic acid",
+              "amount": "7.0 g, 60 mmol"
+            },
+            {
+              "name": "tetracarboxyphenylporphyrin",
+              "amount": "0.070 g, 0.088 mmol"
+            }
+          ],
+          "washing_method": "DMF (6 x 5 mL) and MeOH (3 x 5 mL)",
+          "drying_method": "12 hours at 150 °C under vacuum",
+          "yield": "57%"
+        }
+      ]
+    },
+    {
+      "name": "PCN-224FeII (1)",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "150 °C",
+          "time": "12 hours",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "5 mL"
+            },
+            {
+              "name": "2,6-lutidine",
+              "amount": "1 g"
+            }
+          ],
+          "chemicals": [
+            {
+              "name": "PCN-224",
+              "amount": "0.106 g, 0.0259 mmol"
+            },
+            {
+              "name": "FeBr2",
+              "amount": "0.267 g, 0.903 mmol"
+            }
+          ],
+          "washing_method": "DMF (6 x 5 mL) and THF (3 x 5 mL)",
+          "drying_method": "12 hours at 150 °C under vacuum",
+          "yield": "99%"
+        }
+      ]
+    },
+    {
+      "name": "PCN-224FeO2 (2)",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "-78 °C",
+          "chemicals": [
+            {
+              "name": "O2",
+              "condition": "1 atm"
+            }
+          ],
+          "notes": "Exposed freshly activated PCN-224FeII to ca. 1 atm of O2"
+        }
+      ]
+    }
+  ]
+}

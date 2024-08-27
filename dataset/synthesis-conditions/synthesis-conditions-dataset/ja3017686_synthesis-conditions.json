@@ -1,0 +1,90 @@
+{
+  "materials": [
+    {
+      "name": "SLUG-6",
+      "synthesis_conditions": {
+        "method": "hydrothermal",
+        "temperature": "150 °C",
+        "time": "48 h",
+        "solvents": "H2O",
+        "amount_of_solvent": "200 molar ratio",
+        "chemicals_used": [
+          "PbF2",
+          "EDSA",
+          "HClO4"
+        ],
+        "molar_ratio": "1 : 2 : 2.5 : 200 for PbF2 : EDSA : HClO4: H2O",
+        "equipment": "15 ml Teflon lined autoclave",
+        "yield": "high"
+      }
+    },
+    {
+      "name": "SLUG-32",
+      "synthesis_conditions": [
+        {
+          "method": "anion exchange",
+          "solvents": "aqueous solution",
+          "chemicals_used": [
+            "SLUG-6",
+            "sodium succinate"
+          ],
+          "amount_of_chemicals": [
+            "64 mg (1.0×10−4 mol) SLUG-6",
+            "54 mg (2.0×10−4 mol) sodium succinate"
+          ],
+          "amount_of_solvent": "20 ml",
+          "time": "up to 24 h",
+          "yield": "90 % (0.05 g)"
+        },
+        {
+          "method": "hydrothermal",
+          "temperature": "150 °C",
+          "time": "72 h",
+          "solvents": "H2O",
+          "amount_of_solvent": "400 molar ratio",
+          "chemicals_used": [
+            "PbF2",
+            "sodium succinate",
+            "perchloric acid"
+          ],
+          "molar_ratio": "1 : 2 : 2 : 400 for PbF2 : sodium succinate : perchloric acid : H2O",
+          "yield": "78 % (0.29 g)"
+        }
+      ]
+    },
+    {
+      "name": "SLUG-33",
+      "synthesis_conditions": [
+        {
+          "method": "anion exchange",
+          "solvents": "aqueous solution",
+          "chemicals_used": [
+            "SLUG-6",
+            "sodium glutarate"
+          ],
+          "amount_of_chemicals": [
+            "64 mg (1.0×10−4 mol) SLUG-6",
+            "54 mg (2.0×10−4 mol) sodium glutarate"
+          ],
+          "amount_of_solvent": "20 ml",
+          "time": "up to 24 h",
+          "yield": "87 % (0.05 g)"
+        },
+        {
+          "method": "hydrothermal",
+          "temperature": "150 °C",
+          "time": "72 h",
+          "solvents": "H2O",
+          "amount_of_solvent": "400 molar ratio",
+          "chemicals_used": [
+            "PbF2",
+            "sodium glutarate",
+            "perchloric acid"
+          ],
+          "molar_ratio": "1 : 2 : 2 : 400 for PbF2 : sodium glutarate : perchloric acid : H2O",
+          "yield": "91 % (0.34 g)"
+        }
+      ]
+    }
+  ]
+}

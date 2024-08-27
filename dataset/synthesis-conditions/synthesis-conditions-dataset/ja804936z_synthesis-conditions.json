@@ -1,0 +1,53 @@
+{
+  "materials": [
+    {
+      "material": "Ni-STA-12",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "493 K",
+          "solvents": [
+            {
+              "name": "H2O",
+              "amount": "15 mL"
+            }
+          ],
+          "equipment": "Teflon-lined Parr autoclave",
+          "chemicals_used": [
+            {
+              "name": "nickel acetate",
+              "amount": "0.209 g"
+            },
+            {
+              "name": "N,N'-piperazinebismethylenehosphonic acid",
+              "amount": "0.157 g"
+            }
+          ],
+          "time": "3 days"
+        },
+        {
+          "step": "Drying",
+          "method": "filtered and dried"
+        },
+        {
+          "step": "Purity Check",
+          "method": "powder XRD on a STOE STADI/P diffractometer with a primary monochromator (Cu Kα1, 1.54056 Å) operating in Debye−Scherrer geometry"
+        },
+        {
+          "step": "Thermogravimetric Analysis",
+          "temperature": "300 K to 1073 K",
+          "rate": "5 K min−1",
+          "atmosphere": "air"
+        },
+        {
+          "step": "Dehydration",
+          "temperature": "323 K to 523 K",
+          "time": "4 h",
+          "pressure": "10−4 Torr",
+          "method": "heating in capillaries under vacuum",
+          "note": "The solid turns yellow on dehydration."
+        }
+      ]
+    }
+  ]
+}

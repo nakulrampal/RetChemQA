@@ -1,0 +1,125 @@
+{
+  "materials": [
+    {
+      "name": "annulation product 3 aa",
+      "synthesis_conditions": [
+        {
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "chloroform",
+              "amount": "2 mL"
+            }
+          ],
+          "equipment": "molecular sieves (50 mg)",
+          "chemicals_used": [
+            {
+              "name": "tert-butyldimethylsilyl (TBS)-protected enoldiazoacetamide 1 a",
+              "amount": "0.3 mmol"
+            },
+            {
+              "name": "o-methoxycarbonyl-a-diazoacetophenone 2 a",
+              "amount": "0.2 mmol"
+            },
+            {
+              "name": "rhodium(II) acetate [Rh2(OAc)4]",
+              "amount": "2 mol %"
+            }
+          ],
+          "time": "2 h",
+          "yield": "56 %",
+          "diastereomeric_ratio": "5:1"
+        },
+        {
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "chloroform",
+              "amount": "2 mL"
+            }
+          ],
+          "equipment": "molecular sieves (50 mg)",
+          "chemicals_used": [
+            {
+              "name": "tert-butyldimethylsilyl (TBS)-protected enoldiazoacetamide 1 a",
+              "amount": "0.3 mmol"
+            },
+            {
+              "name": "o-methoxycarbonyl-a-diazoacetophenone 2 a",
+              "amount": "0.2 mmol"
+            },
+            {
+              "name": "rhodium(II) perfluorobutyrate [Rh2(pfb)4]",
+              "amount": "2 mol %"
+            }
+          ],
+          "time": "2 h",
+          "yield": "80 %",
+          "diastereomeric_ratio": "> 20:1"
+        }
+      ]
+    },
+    {
+      "name": "annulation products 3 aa-3 da, 3 ab-3 cb, 3 ac-3 cc, 3 ad-3 cd",
+      "synthesis_conditions": [
+        {
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "chloroform",
+              "amount": "2 mL"
+            }
+          ],
+          "equipment": "molecular sieves (50 mg)",
+          "chemicals_used": [
+            {
+              "name": "enoldiazoacetamides 1 a, 1 b, 1 c, 1 d",
+              "amount": "0.3 mmol"
+            },
+            {
+              "name": "a-diazoketones 2 a, 2 b, 2 c, 2 d",
+              "amount": "0.2 mmol"
+            },
+            {
+              "name": "Rh2(pfb)4",
+              "amount": "0.004 mmol"
+            }
+          ],
+          "time": "2 h",
+          "yield_range": "51-84 %",
+          "diastereomeric_ratio": "> 20:1"
+        }
+      ]
+    },
+    {
+      "name": "benzoxa[3.3.1]nonane derivatives 6",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            {
+              "name": "annulation products 3",
+              "details": "treated with diisobutylaluminium hydride (DIBAL-H)"
+            }
+          ],
+          "yield_range": "high yields",
+          "stereocontrol": "exact"
+        }
+      ]
+    },
+    {
+      "name": "hexahydronaphthofuran derivative 7 ca",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            {
+              "name": "annulation product 3 ca",
+              "details": "induced by tetra-n-butylammonium fluoride (TBAF)"
+            }
+          ],
+          "yield": "81 %",
+          "diastereoselectivity": "single diastereomer"
+        }
+      ]
+    }
+  ]
+}

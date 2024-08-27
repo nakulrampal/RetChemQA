@@ -1,0 +1,147 @@
+{
+  "materials": [
+    {
+      "material_id": "1",
+      "synthesis": {
+        "precursors": [
+          "Di(2-pyridyl)phosphane",
+          "Trimethylsilyl azide"
+        ],
+        "precursor_quantities": [
+          "2.80 g, 14.9 mmol",
+          "4.29 g, 32.8 mmol"
+        ],
+        "reaction_conditions": "Stirred at 25 °C for 1 day, then heated under reflux for 5 days",
+        "product_isolation": [
+          "Vacuum sublimation at 60 °C to remove 4,4‘-bipyridine",
+          "Distillation in a vacuum to obtain an orange-red oil",
+          "Crystallization from toluene and pentane (5:1) mixture at −30 °C"
+        ],
+        "yield": "39%",
+        "melting_point": "58−64 °C",
+        "NMR_data": {
+          "1H": "δ = 0.13 (s, 9H,SiMe3), 0.38 (s, 9H, SiMe3), 4.72 (s,1H, N−H), 6.45 (m, 2H, 5-Hpy), 6.98 (m, 2H, 4-Hpy), 8.05 (ddd, 3J3,4 = 7.8 Hz, 3J3,5 = 6.4 Hz, J3,6 = 1.1 Hz, 2H, 3-Hpy), 8.26 (d, 3J6,5 = 4.8 Hz, 2H, 6-Hpy)",
+          "13C": "δ = 2.1 (s, SiMe3), 124.0−135.6 (m, Py-C), 149.3 (d, 3JC,P = 26.8 Hz, 6-C), 158.5 (d, 1JC,P = 120.7 Hz, 2-C)",
+          "29Si": "δ = 6.6 and 7.3",
+          "31P": "δ = −6.2"
+        },
+        "IR_data": "ν [cm-1] = 3355 (N−H), 1600, 1479, 1454, 1273, 1263, 1194, 1150, 1100, 1040, 985",
+        "MS_data": "m/z(%) = 348(0.2) [M+ − Me], 147 (100%), [(C4H3)2PN]+",
+        "elemental_analysis": "Calcd for C16H27N4PSi2: C: 54.4; H: 6.66; N: 15.1. Found: C: 53.4; H: 6.34; N: 16.5"
+      }
+    },
+    {
+      "material_id": "2",
+      "synthesis": {
+        "precursors": [
+          "[(THF)2Sr{N(SiMe3)2}2]",
+          "1"
+        ],
+        "precursor_quantities": [
+          "2.50 mmol",
+          "1.80 g, 5.0 mmol"
+        ],
+        "solvent": "Hexane",
+        "reaction_conditions": "Stirred for 48 h",
+        "product_isolation": [
+          "Filtered and recrystallized from THF/pentane at room temperature"
+        ],
+        "yield": "56.8%",
+        "melting_point": "55 °C (dec)",
+        "NMR_data": {
+          "1H": "δ = 0.47 (s, 18H, SiMe3), 3.59 (m, 4H, THF), 6.90−8.60 (m, 8H, Py-H)",
+          "31P": "δ = −15.9(s)"
+        },
+        "MS_data": "m/z(%) = 810(40) [M − THF]+",
+        "elemental_analysis": "Calcd for C36H60N8OP2Si4Sr: C: 48.9; H: 6.85; N: 12.7. Found: C: 47.5; H: 6.92; N: 12.6"
+      }
+    },
+    {
+      "material_id": "3",
+      "synthesis": {
+        "precursors": [
+          "1",
+          "4,4‘-bipyridine",
+          "[(THF)2Ba{N(SiMe3)2}2]"
+        ],
+        "precursor_quantities": [
+          "1.81 g, 4.99 mmol",
+          "0.39 g, 2.50 mmol",
+          "1.51 g, 2.50 mmol"
+        ],
+        "solvent": "Toluene",
+        "reaction_conditions": "Stirred together at −78 °C for 2 h, then warmed to room temperature and stirred overnight",
+        "product_isolation": [
+          "Filtered and dried in a vacuum"
+        ],
+        "yield": "61%",
+        "melting_point": "204 °C (DTA)",
+        "NMR_data": {
+          "1H": "δ = 0.19 (s, 18H, SiMe3), 0.27 (s, 18H, SiMe3), 6.84−8.67 (m, 24 H, Py-H)"
+        },
+        "31P_NMR": "δ = −4.3",
+        "IR_data": "ν [cm-1] = 2834, 1300, 1257, 1217, 1151, 1095, 1026, 1010, 952",
+        "MS_data": "m/z(%) = 347(100) [Py2P(NSiMe3)(NSiMe2)]+",
+        "elemental_analysis": "Calcd for C42H60BaN10P2Si4: C: 49.6; H: 5.95; N: 13.8. Found: C: 50.9; H: 6.08; N: 13.1"
+      }
+    },
+    {
+      "material_id": "4",
+      "synthesis": {
+        "precursors": [
+          "1",
+          "Dimethylzinc"
+        ],
+        "precursor_quantities": [
+          "0.50 g, 1.38 mmol",
+          "0.34 mL, 0.69 mmol"
+        ],
+        "solvent": "Pyridine",
+        "reaction_conditions": "Stirred at room temperature for 4 h",
+        "product_isolation": [
+          "Crystals filtered, washed with pentane, and dried in a vacuum"
+        ],
+        "yield": "46%",
+        "melting_point": "142 °C",
+        "NMR_data": {
+          "1H": "δ = 0.30 (s, 18H, SiMe3), 0.50 (s, 18H, SiMe3), 6.40−7.25(m, 8H, Py-H), 8.00−9.00 (m, 8H, Py-H)",
+          "13C": "δ = 2.7 (s, SiMe3), 3.6 (s, SiMe3), 122.4−135.7 (m, Py-C), 146.9 (d, 3JC,P = 18.1 Hz, 6-C)",
+          "29Si": "δ = −21.7",
+          "31P": "δ = −3.5"
+        },
+        "IR_data": "ν [cm-1] = 2881, 1510, 1265, 1232, 1154, 1108, 1090, 1041, 1030, 999, 857",
+        "MS_data": "m/z(%) = 788(4) [M]+, 347(100) [Py2P(NSiMe3)(NSiMe2)]+",
+        "elemental_analysis": "Calcd for C32H52N8P2Si4Zn: C: 48.8; H: 6.65; N: 14.2. Found: C: 47.2; H: 6.59; N: 14.3"
+      }
+    },
+    {
+      "material_id": "5",
+      "synthesis": {
+        "precursors": [
+          "1",
+          "[(THF)LiN(SiMe3)2]"
+        ],
+        "precursor_quantities": [
+          "1.00 g, 2.76 mmol",
+          "0.66 g, 2.76 mmol"
+        ],
+        "solvent": "THF",
+        "reaction_conditions": "Stirred at room temperature for 2 days",
+        "product_isolation": [
+          "Crystals filtered, washed with pentane, and dried in a vacuum"
+        ],
+        "yield": "62%",
+        "melting_point": "266 °C",
+        "NMR_data": {
+          "1H": "δ = 0.54 (s, 18H, SiMe3), 6.40−8.70 (m, 16H, Py-H)",
+          "7Li": "δ = 4.1",
+          "13C": "δ = 4.57 (s, SiMe3), 122.1−165.0 (m, Py-C)",
+          "31P": "δ = 15.3"
+        },
+        "IR_data": "ν [cm-1] = 1489, 1312, 1166, 1109, 1087, 1944, 1013, 976",
+        "MS_data": "m/z(%) = 281(0.2) [LiPy2PNSiMe3]+, 260(80) [Py2P(NSiMe2)]+, 182(100) [PyP(NSiMe2)]+",
+        "elemental_analysis": "Calcd for C26H34Li2N6P2Si2: C: 55.5; H: 6.09; N: 14.9. Found: C: 55.3; H: 6.17; N: 14.5"
+      }
+    }
+  ]
+}

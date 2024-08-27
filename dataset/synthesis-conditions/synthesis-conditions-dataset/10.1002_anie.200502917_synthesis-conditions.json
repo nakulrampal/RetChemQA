@@ -1,0 +1,57 @@
+{
+  "materials": [
+    {
+      "name": "FJ-2a (1) and FJ-2b (2)",
+      "synthesis_conditions": {
+        "temperature": "170 8C",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "10 mL"
+          }
+        ],
+        "equipment": "30 mL Teflon-lined bomb",
+        "chemicals_used": [
+          {
+            "name": "Er2O3",
+            "amount": "0.5 mmol, 0.191 g"
+          },
+          {
+            "name": "Hina",
+            "amount": "2 mmol, 0.246 g"
+          },
+          {
+            "name": "H2bdc",
+            "amount": "1.0 mmol, 0.168 g"
+          },
+          {
+            "name": "CuCl2·2 H2O for FJ-2a (1)",
+            "amount": "0.2 mmol, 0.034 g"
+          },
+          {
+            "name": "CuBr2 for FJ-2b (2)",
+            "amount": "0.2 mmol, 0.045 g"
+          },
+          {
+            "name": "HClO4",
+            "amount": "0.385 mmol"
+          }
+        ],
+        "time": "7 days",
+        "washing_method": "distilled water",
+        "drying_method": "air-dried",
+        "yield": [
+          {
+            "material": "FJ-2a (1)",
+            "percentage": "25%"
+          },
+          {
+            "material": "FJ-2b (2)",
+            "percentage": "21%"
+          }
+        ],
+        "pH": "2"
+      }
+    }
+  ]
+}

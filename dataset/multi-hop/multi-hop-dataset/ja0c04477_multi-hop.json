@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of using a photochemical reactor Luzchem LCZ-ORG in the synthesis of Copper-Linked Rotaxanes?",
+      "answer": "The photochemical reactor Luzchem LCZ-ORG is used for the photoisomerization experiments, specifically to irradiate the suspension of the corresponding UMUMOF-3 in dichloromethane (DCM) under ultraviolet light, leading to the isomerization of the olefinic threads within the metal-organic frameworks.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the temperature affect the rotational dynamics of UMUMOF-(E)-3-d2 and UMUMOF-(Z)-3-d2 according to the solid state 2H NMR experiments?",
+      "answer": "The solid state 2H NMR experiments indicate that the rotational dynamics of UMUMOF-(E)-3-d2 and UMUMOF-(Z)-3-d2 are affected by temperature. For UMUMOF-(E)-3-d2, minimal dynamical motion of the fumaramide threads is observed even at the highest temperatures, indicating a higher rotational energy barrier. For UMUMOF-(Z)-3-d2, the onset of intermediate dynamical regime motions occurs at a lower temperature, suggesting a lower rotational energy barrier and faster motion compared to UMUMOF-(E)-3-d2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the hydrogen bond interactions between neighbouring layers in UMUMOF-(E)-3?",
+      "answer": "The hydrogen bond interactions between neighbouring layers in UMUMOF-(E)-3 are significant because they stabilize the stacked 2D rhombohedral grids forming the structure of the metal-organic framework. These interactions contribute to the overall stability and integrity of the framework, allowing for the incorporation of mechanically interlocked molecules (rotaxanes) and facilitating the controlled cargo delivery functionality of the material.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The photoisomerization of UMUMOF-(E)-3 and UMUMOF-(Z)-3 under 312 nm irradiation results in a complete conversion to their respective Z and E isomers.",
+      "answer": "False. The photoisomerization of UMUMOF-(E)-3 and UMUMOF-(Z)-3 under 312 nm irradiation does not result in a complete conversion to their respective Z and E isomers. Instead, the process leads to a mixture of isomers, as indicated by the E/Z ratios determined after acid digestion by 1H-NMR, showing that a complete conversion was not achieved.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does the crystal size play in the photoisomerization process of UMUMOF-(E)-3 and UMUMOF-(Z)-3?",
+      "answer": "The crystal size plays a role in the photoisomerization process of UMUMOF-(E)-3 and UMUMOF-(Z)-3 by affecting the extent of isomerization. Finely milled materials show different isomerization ratios compared to the pristine materials, indicating that the crystal size can influence the efficiency of the photoisomerization process. Specifically, the microcrystalline UMUMOF-(Z)-3 underwent a higher level of Z to E isomerization under the same irradiation conditions compared to the pristine material.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of competitive H-bonding solvents influence the cargo release from Q@UMUMOF-(E)-3?",
+      "answer": "The presence of competitive H-bonding solvents influences the cargo release from Q@UMUMOF-(E)-3 by promoting a quicker liberation of the quinone cargo. The exploration revealed that highly competitive H-bonding solvents, such as DMF, facilitate a faster release of the cargo compared to less competitive solvents like MeOH and THF. This suggests that the interaction between the solvent and the framework can affect the dynamics of cargo release.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The thermal treatment at 140 °C of all maleamide-containing materials returns the trans configuration to all interlocked olefins.",
+      "answer": "True. The thermal treatment at 140 °C of all maleamide-containing materials successfully returns the trans configuration to all interlocked olefins. This treatment allows for the recovery of the pristine E-isomer of the material, indicating that the thermal process can reverse the photoisomerization and restore the original configuration of the olefinic threads.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of irradiation at 312 nm on the cargo release from Q@UMUMOF-(E)-3 in DCM?",
+      "answer": "Irradiation at 312 nm on the cargo release from Q@UMUMOF-(E)-3 in DCM promotes a controlled release of the cargo during 8 hours at 25 °C. This is a consequence of the isomerization of the interlocked linkers, which suggests that light can be used as a trigger to control the release rate of the cargo from the metal-organic framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The porosity of UMUMOFs-3 increases as the percentage of maleamide threads in the interlocked linkers increases.",
+      "answer": "True. The porosity of UMUMOFs-3 increases as the percentage of maleamide threads in the interlocked linkers increases. This is evidenced by nitrogen adsorption experiments, which show that the surface area and pore volume grow with the increase in the percentage of maleamide threads, indicating that the structural composition of the linkers affects the porosity of the material.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the iterability study of UMUMOF-(E)-3 demonstrate its efficiency as a dispenser?",
+      "answer": "The iterability study of UMUMOF-(E)-3 demonstrates its efficiency as a dispenser by showing that the material retains a cargo capacity close to 80% after three cycles of loading, releasing, and recovering the pristine material. This indicates that UMUMOF-(E)-3 can be reused multiple times for controlled cargo delivery without significant loss of efficiency, highlighting its potential for practical applications.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

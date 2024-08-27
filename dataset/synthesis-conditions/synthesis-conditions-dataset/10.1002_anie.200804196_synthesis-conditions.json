@@ -1,0 +1,80 @@
+{
+  "materials": [
+    {
+      "name": "Mg(BH4)2-based MOF",
+      "synthesis_conditions": {
+        "solvents": "Diethyl ether (Et2O)",
+        "chemicals_used": [
+          "Mg(BH4)2",
+          "Pyrazine (approximately 3 equivalents)"
+        ],
+        "equipment": "H-Cell Schlenk flask",
+        "method": "Slow diffusion of Mg(BH4)2 in diethyl ether into pyrazine in the same solvent",
+        "yield": "Single phase as determined by powder X-ray diffraction",
+        "molar_ratio": "Mg(BH4)2/pyrazine molar ratio of 1:2",
+        "crystal_data": {
+          "1": {
+            "formula": "Mg(C4H4N2)2(BH4)2",
+            "mass": "214.18",
+            "color": "Colorless prism",
+            "size": "0.10 x 0.10 x 0.20 mm3",
+            "symmetry": "Orthorhombic, Ccca (No. 68)",
+            "cell_dimensions": {
+              "a": "10.359(4)",
+              "b": "11.128(4)",
+              "c": "10.303(4) Å",
+              "volume": "1187.7(8) Å3"
+            },
+            "Z": "4",
+            "density_calculated": "1.198 g cm-3",
+            "F000": "456",
+            "diffractometer": "Bruker D8 with APEX detector, MoKa radiation",
+            "temperature": "100(2) K",
+            "2theta_max": "53.28",
+            "reflections_collected": "5327",
+            "unique_reflections": "687",
+            "Rint": "0.0488",
+            "final_GooF": "1.097",
+            "R1": "0.0426",
+            "wR2": "0.0972",
+            "refinement": "On F2",
+            "parameters": "53",
+            "restraints": "0",
+            "corrections": "Lp and absorption",
+            "mu": "0.121 mm-1"
+          },
+          "2": {
+            "formula": "Mg(C4D4N2)2(BH4)2",
+            "mass": "222.19",
+            "color": "Colorless prism",
+            "size": "0.40 x 0.10 x 0.20 mm3",
+            "symmetry": "Orthorhombic, Ccca (No. 68)",
+            "cell_dimensions": {
+              "a": "10.324(3)",
+              "b": "11.172(4)",
+              "c": "10.329(3) Å",
+              "volume": "1191.3(7) Å3"
+            },
+            "Z": "4",
+            "density_calculated": "1.239 g cm-3",
+            "F000": "456",
+            "diffractometer": "Bruker D8 with APEX detector, MoKa radiation",
+            "temperature": "100(2) K",
+            "2theta_max": "53.68",
+            "reflections_collected": "907",
+            "unique_reflections": "566",
+            "Rint": "0.0143",
+            "final_GooF": "1.322",
+            "R1": "0.0912",
+            "wR2": "0.1810",
+            "refinement": "On F2",
+            "parameters": "67",
+            "restraints": "5",
+            "corrections": "Lp and absorption",
+            "mu": "0.121 mm-1"
+          }
+        }
+      }
+    }
+  ]
+}

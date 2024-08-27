@@ -1,0 +1,85 @@
+{
+  "Zn(CN)2": {
+    "synthesis": {
+      "source": "Sigma-Aldrich",
+      "purity": "99%"
+    },
+    "variable-pressure powder X-ray diffraction": {
+      "equipment": {
+        "beamline": "BM01A of the Swiss-Norwegian Beamline, ESRF",
+        "wavelength": "0.7092 Å",
+        "sample_to_detector_distance": "250 mm",
+        "pressure_transmitting_fluid": "methanol/ethanol (4:1)",
+        "pressure_calibration": "ruby chip"
+      },
+      "conditions": {
+        "temperature": "room temperature",
+        "initial_frame_exposure": "60 s per frame (0–0.83 GPa)",
+        "high_pressure_exposure": "180 s per frame (>1 GPa)"
+      },
+      "analysis_software": "GSAS with EXPGUI user interface"
+    },
+    "variable-pressure neutron powder diffraction": {
+      "equipment": {
+        "diffractometer": "PEARL (ISIS Pulsed Neutron Source, U.K)",
+        "pressure_transmitting_medium": "Deuterated methanol/ethanol (MeOD/EtOD, 4:1)",
+        "pressure_marker": "lead sphere"
+      },
+      "conditions": {
+        "pressure_range": "up to 9.3 GPa"
+      },
+      "analysis_software": "GSAS with EXPGUI user interface"
+    }
+  },
+  "Cd(im)2": {
+    "synthesis": {
+      "chemicals": {
+        "cadmium(II) nitrate tetrahydrate": {
+          "source": "Sigma-Aldrich",
+          "purity": "99%"
+        },
+        "imidazole": {
+          "source": "Sigma-Aldrich",
+          "purity": "99%"
+        },
+        "ammonium hydroxide": {
+          "source": "Sigma-Aldrich",
+          "purity": "99%"
+        }
+      },
+      "method": "slow diffusion of aqueous solutions",
+      "crystal_growth_time": "14 days"
+    },
+    "variable-temperature single-crystal X-ray diffraction": {
+      "equipment": {
+        "diffractometer": "Oxford Diffraction/Agilent SuperNova",
+        "radiation": "Mo Kα",
+        "wavelength": "0.71073 Å",
+        "cooling_device": "Oxford Cryosystems Cryostream 600"
+      },
+      "conditions": {
+        "temperature_range": "100–500 K",
+        "temperature_intervals": "20 K"
+      },
+      "analysis_software": {
+        "indexing_reduction_absorption": "CrysAlisPro",
+        "structure_solution": "SIR92",
+        "refinement": "CRYSTALS"
+      }
+    },
+    "variable-temperature powder X-ray diffraction": {
+      "equipment": {
+        "beamline": "I11 at the Diamond Light Source",
+        "sample_holder": "0.5 mm diameter borosilicate capillary",
+        "temperature_control": "cyberstar hot air blower",
+        "detector": "Mythen2 PSD"
+      },
+      "conditions": {
+        "initial_temperature": "200 °C",
+        "temperature_ramp_rate": "10 °C/min",
+        "exposure_time": "5 s exposures at two angular orientations offset by 0.25°"
+      },
+      "analysis_software": "TOPAS (Academic Version 4.1)"
+    }
+  }
+}

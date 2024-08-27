@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the impact of pore limiting diameter (PLD) on the isosteric heat of adsorption (Qst) for CH4 and CO2 in dia-7i-1-Co?",
+      "answer": "The smaller PLD of 5.28 Å in dia-7i-1-Co results in stronger interactions with CH4 and CO2, as evidenced by the highest Qst values for both gases among the studied materials. Specifically, dia-7i-1-Co exhibits a Qst for CH4 of 26.7 kJ/mol and for CO2 of 30 kJ/mol at low loading.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the synthesis solvent affect the level of interpenetration in dia nets based on HL1 and HL3?",
+      "answer": "The synthesis solvent acts as a template to control the level of interpenetration in dia nets. For HL1, using tert-butylformamide affords dia-4i-1 with the largest void volume and PLD, while less bulky solvents like DMF and DMA yield dia-7i-1-Co and dia-8i-1 with much narrower channels. Similarly, for HL3, DMF and DMA as solvents result in dia-4i-3-a and dia-4i-3-b with PLDs of 8.54 and 8.78 Å, respectively, whereas EtOH, a less bulky solvent, yields dia-5i-3 with smaller pores of 2.90 Å.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of crystal engineering strategies in controlling pore size in dia nets?",
+      "answer": "Crystal engineering strategies, such as using different solvents as templates and varying the length of linker ligands, allow for systematic control over pore size in dia nets. These strategies enable the synthesis of dia nets with varying degrees of interpenetration and pore limiting diameters, facilitating the study of the impact of pore size on gas adsorption properties.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: Dia-8i-1 and dia-5i-3 are nonporous according to N2 isotherms measured at 77 K.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the highest Qst value for CH4 adsorption in dia-7i-1-Co?",
+      "answer": "The highest Qst value for CH4 adsorption in dia-7i-1-Co, which is 26.7 kJ/mol, signifies the strongest interactions between CH4 molecules and the framework among the studied materials. This value surpasses those found in other metal-organic materials and covalent organic frameworks, highlighting the critical role of small pore sizes in enhancing gas adsorption through stronger sorbent-sorbate interactions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the pore limiting diameter (PLD) influence CO2 adsorption in dia nets?",
+      "answer": "The pore limiting diameter (PLD) significantly influences CO2 adsorption in dia nets, with smaller PLDs promoting stronger sorbent-sorbate interactions. This is evidenced by higher CO2 uptakes and isosteric heat of adsorption (Qst) values in materials with smaller PLDs, such as dia-7i-1-Co and dia-4i-3-a, compared to those with larger PLDs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The presence of saturated metal centers (SMCs) in dia nets eliminates the possibility that open metal sites can dominate sorbent-solvate interactions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to simulate CH4 sorption in dia-7i-1-Co?",
+      "answer": "Grand Canonical Monte Carlo (GCMC) methods were used to simulate CH4 sorption in dia-7i-1-Co, employing two CH4 models to ensure accurate representation of the interactions between CH4 molecules and the framework.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The experimental and simulated isosteric heat of adsorption (Qst) values for CH4 in dia-7i-1-Co show good agreement, especially at low loading.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of using different linker ligands (HL1, HL2, HL3) on the pore limiting diameters (PLDs) and interpenetration levels in dia nets?",
+      "answer": "Using different linker ligands (HL1, HL2, HL3) impacts the pore limiting diameters (PLDs) and interpenetration levels in dia nets by affording materials with varying PLDs and degrees of interpenetration. This approach enables the synthesis of dia nets with specific pore sizes and interpenetration patterns, facilitating the exploration of their effects on gas adsorption properties.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

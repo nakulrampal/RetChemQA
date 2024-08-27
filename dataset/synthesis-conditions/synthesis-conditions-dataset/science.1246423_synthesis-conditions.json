@@ -1,0 +1,60 @@
+{
+  "materials": [
+    {
+      "name": "PCP 1",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cu(NO3)2·3H2O",
+            "amount": "not specified"
+          },
+          {
+            "name": "H2aip",
+            "amount": "not specified"
+          },
+          {
+            "name": "pyridine",
+            "amount": "not specified"
+          }
+        ],
+        "method": "Slow diffusion of a methanol solution of H2aip into a methanol solution of Cu(NO3)2·3H2O and pyridine",
+        "time": "a few days",
+        "temperature": "room temperature",
+        "yield": "not specified",
+        "drying_method": "vacuum for 2 h at room temperature",
+        "washing_method": "with methanol"
+      }
+    },
+    {
+      "name": "PCP 2",
+      "synthesis_conditions": {
+        "from_material": "PCP 1",
+        "method": "Heating the crystalline powder of PCP 1 in a silica glass capillary at 353 K in vacuum for 1 h to remove the guest molecules",
+        "temperature": "353 K",
+        "time": "1 h",
+        "equipment": "silica glass capillary (0.4 mm inside diameter)"
+      }
+    },
+    {
+      "name": "PCP 3",
+      "synthesis_conditions": {
+        "from_material": "PCP 2",
+        "method": "Filling the sample for structural analysis of the dried structure (PCP 2) with CO (50 kPa) at 77 K and sealed",
+        "temperature": "77 K",
+        "solvents": [
+          {
+            "name": "CO",
+            "pressure": "50 kPa"
+          }
+        ],
+        "equipment": "sealed in vacuum"
+      }
+    }
+  ]
+}

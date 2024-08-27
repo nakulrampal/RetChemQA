@@ -1,0 +1,72 @@
+{
+  "materials": [
+    {
+      "material": "Co3(BTC)2·12H2O",
+      "synthesis_conditions": {
+        "temperature": "140 °C",
+        "solvents": "water",
+        "amount_of_solvent": "15 mL",
+        "equipment": "stainless steel vessel, programmable furnace",
+        "chemicals_used": "cobalt(II) acetate tetrahydrate (0.41 g, 1.65 mmol), 1,3,5-benzenetricarboxylic (BTC) acid (0.20 g, 0.95 mmol)",
+        "time": [
+          "heated to 140 °C at 5 °C/min and held for 24 h",
+          "cooled at 0.1 °C/min to 120 °C and held for 5 h",
+          "further cooled at the same rate to 100 °C, and held for another 5 h"
+        ],
+        "washing_method": "filtered, washed with deionized water (3 × 10 mL) and ethanol (3 × 10 mL)",
+        "drying_method": "air-dried",
+        "yield": "0.33 g (86%)"
+      }
+    },
+    {
+      "material": "Ni3(BTC)2·12H2O",
+      "synthesis_conditions": {
+        "temperature": "170 °C",
+        "solvents": "not specified",
+        "amount_of_solvent": "10 mL",
+        "equipment": "not specified",
+        "chemicals_used": "nickel(II) acetate tetrahydrate (0.35 g, 1.41 mmol), 1,3,5-benzenetricarboxylic (BTC) acid (0.10 g, 0.48 mmol)",
+        "time": "heated to 170 °C for 12 h before cooling to room temperature"
+      }
+    },
+    {
+      "material": "Zn3(BTC)2·12H2O",
+      "synthesis_conditions": {
+        "temperature": "identical procedure to the cobalt compound",
+        "solvents": "not specified",
+        "amount_of_solvent": "not specified",
+        "equipment": "not specified",
+        "chemicals_used": "identical procedure to the cobalt compound",
+        "time": "identical procedure to the cobalt compound"
+      }
+    },
+    {
+      "material": "Co3(BTC)2·xH2O (x = 6, 4, 2, and 1)",
+      "synthesis_conditions": {
+        "temperature": [
+          "80 °C for 1.5 h at 0.080 Torr",
+          "80 °C for 3h at 0.080 Torr",
+          "90 °C for 8 h at 0.080 Torr",
+          "250 °C for 4 h at atmospheric pressure"
+        ],
+        "solvents": "not specified",
+        "amount_of_solvent": "not specified",
+        "equipment": "not specified",
+        "chemicals_used": "Co3(BTC)2·12H2O (0.30 g)",
+        "time": "specified in temperature conditions"
+      }
+    },
+    {
+      "material": "Zn3(BTC)2·H2O",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "solvents": "not specified",
+        "amount_of_solvent": "not specified",
+        "equipment": "not specified",
+        "chemicals_used": "Zn3(BTC)2·12H2O (0.30 g)",
+        "time": "5 h",
+        "pressure": "0.080 Torr"
+      }
+    }
+  ]
+}

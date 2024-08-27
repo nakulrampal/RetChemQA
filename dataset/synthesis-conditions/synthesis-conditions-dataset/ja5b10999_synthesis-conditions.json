@@ -1,0 +1,71 @@
+{
+  "materials": [
+    {
+      "name": "Fe-CAT-5",
+      "synthesis_conditions": {
+        "solvents": "DMF/water/methanol",
+        "solvent_amounts": {
+          "DMF": "10 mL",
+          "water": "1 mL",
+          "methanol": "1 mL"
+        },
+        "temperature": "180 °C",
+        "time": "48 h",
+        "yield": "36%",
+        "chemicals_used": [
+          "iron­(II) sulfate",
+          "H6THO",
+          "tetrabutylammonium nitrate",
+          "amylamine"
+        ],
+        "washing_method": "DMF (3 × 2 mL)",
+        "drying_method": "vacuum at room temperature for 24 h",
+        "equipment": "Teflon vessel, stainless steel Parr autoclave",
+        "additional_information": "Black, truncated octahedral-shaped crystals suitable for SXRD analysis were isolated."
+      }
+    },
+    {
+      "name": "Ti-CAT-5",
+      "synthesis_conditions": {
+        "solvents": "DMF",
+        "solvent_amounts": {
+          "DMF": "5 mL"
+        },
+        "temperature": "180 °C",
+        "time": "48 h",
+        "yield": "55%",
+        "chemicals_used": [
+          "H6THO",
+          "tetrabutylammonium bromide (NBu4Br)",
+          "titanium(IV) isopropoxide (TTIP)",
+          "amylamine"
+        ],
+        "washing_method": "DMF (3 × 2 mL)",
+        "drying_method": "vacuum at room temperature for 24 h",
+        "equipment": "Teflon-lined, stainless steel Parr autoclave",
+        "additional_information": "Microcrystalline powder was collected."
+      }
+    },
+    {
+      "name": "V-CAT-5",
+      "synthesis_conditions": {
+        "solvents": "DMF",
+        "solvent_amounts": {
+          "DMF": "5 mL"
+        },
+        "temperature": "180 °C",
+        "time": "48 h",
+        "yield": "62%",
+        "chemicals_used": [
+          "vanadium(III) chloride",
+          "H6THO",
+          "tetrabutylammonium bromide (NBu4Br)"
+        ],
+        "washing_method": "DMF (3 × 2 mL)",
+        "drying_method": "vacuum at room temperature for 24 h",
+        "equipment": "Teflon-lined, stainless steel Parr autoclave",
+        "additional_information": "Microcrystalline compound was collected."
+      }
+    }
+  ]
+}

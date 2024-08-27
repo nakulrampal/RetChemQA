@@ -1,0 +1,185 @@
+{
+  "materials": [
+    {
+      "material": "1,2-BN Cyclohexane",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "50.0 mL"
+          },
+          {
+            "name": "pentane",
+            "amount": "30 mL"
+          }
+        ],
+        "equipment": "pressure tube",
+        "chemicals_used": [
+          {
+            "name": "BH3·THF",
+            "amount": "50.0 mL, 1.0 M"
+          },
+          {
+            "name": "N,N-bis(trimethylsilyl)but-3-en-1-amine",
+            "amount": "8.80 g, 41.0 mmol"
+          },
+          {
+            "name": "KH",
+            "amount": "2.40 g, 60.0 mmol"
+          },
+          {
+            "name": "HF·Pyridine solution",
+            "amount": "20.0 mL, 1.0 M"
+          }
+        ],
+        "time": [
+          "12 hours",
+          "1 hour"
+        ],
+        "yield": "94%",
+        "drying_method": "high vacuum",
+        "washing_method": "cold pentane"
+      }
+    },
+    {
+      "material": "Compound 3",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "50.0 mL"
+          },
+          {
+            "name": "pentane",
+            "amount": "30 mL"
+          }
+        ],
+        "equipment": "pressure tube",
+        "chemicals_used": [
+          {
+            "name": "BH3·THF",
+            "amount": "50.0 mL, 1.0 M"
+          },
+          {
+            "name": "N,N-bis(trimethylsilyl)but-3-en-1-amine",
+            "amount": "8.80 g, 41.0 mmol"
+          },
+          {
+            "name": "KH",
+            "amount": "2.40 g, 60.0 mmol"
+          }
+        ],
+        "time": "12 hours",
+        "yield": "62%",
+        "drying_method": "high vacuum",
+        "washing_method": "cold pentane"
+      }
+    },
+    {
+      "material": "Compound 3•18-crown-6",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "10.0 mL"
+          }
+        ],
+        "equipment": "pressure tube",
+        "chemicals_used": [
+          {
+            "name": "BH3·THF",
+            "amount": "2.00 mL, 1.0 M"
+          },
+          {
+            "name": "N,N-bis(trimethylsilyl)but-3-en-1-amine",
+            "amount": "0.430 g, 2.00 mmol"
+          },
+          {
+            "name": "KH",
+            "amount": "0.096 g, 2.4 mmol"
+          },
+          {
+            "name": "18-crown-6",
+            "amount": "0.634 g, 2.40 mmol"
+          }
+        ],
+        "time": "12 hours",
+        "yield": "87%",
+        "drying_method": "high vacuum",
+        "washing_method": "cold pentane"
+      }
+    },
+    {
+      "material": "Compound 5",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "Et2O",
+            "amount": "2.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "HCl",
+            "amount": "0.10 mL, 2.0 M"
+          },
+          {
+            "name": "1,2-BN cyclohexane",
+            "amount": "0.017 g, 0.20 mmol"
+          }
+        ],
+        "time": "10 minutes",
+        "yield": "96%",
+        "washing_method": "cold pentane"
+      }
+    },
+    {
+      "material": "Compound 6",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "Et2O",
+            "amount": "2.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "HCl",
+            "amount": "0.20 mL, 2.0 M"
+          },
+          {
+            "name": "1,2-BN cyclohexane",
+            "amount": "0.017 g, 0.20 mmol"
+          }
+        ],
+        "time": "12 hours",
+        "yield": "90%",
+        "washing_method": "cold pentane"
+      }
+    },
+    {
+      "material": "Compound 7",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "solvents": [
+          {
+            "name": "toluene",
+            "amount": "8.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "1,2-BN cyclohexane",
+            "amount": "0.085 g, 1.0 mmol"
+          }
+        ],
+        "time": "2 hours",
+        "yield": "99%",
+        "drying_method": "vacuum"
+      }
+    }
+  ]
+}

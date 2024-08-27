@@ -1,0 +1,63 @@
+{
+  "materials": [
+    {
+      "name": "[Ni8(L)6] series",
+      "synthesis_conditions": [
+        {
+          "step": "General synthesis approach",
+          "details": {
+            "ligands": [
+              "H2L1 = 1H-pyrazole-4-carboxylic acid",
+              "H2L2 = 4-(1H-pyrazole-4-yl)benzoic acid",
+              "H2L3 = 4,4’-benzene-1,4-diylbis(1H-pyrazole)",
+              "H2L4 = 4,4’-buta-1,3-diyne-1,4-diylbis(1H-pyrazole)",
+              "H2L5 = 4,4’-(benzene-1,4-diyldiethyne-2,1-diyl)bis(1H-pyrazole)",
+              "H2L5-R (R = methyl, trifluoromethyl)"
+            ],
+            "metal_source": "NiII hydroxo clusters",
+            "solvent": "Not specified",
+            "temperature": "Not specified",
+            "equipment": "Not specified",
+            "time": "Not specified",
+            "yield": "Not specified",
+            "additional_information": "Boc-protected pyrazole rings were employed for bipyrazole linkers to facilitate the precipitation of powders with a high degree of crystallinity."
+          }
+        }
+      ]
+    },
+    {
+      "name": "[Ni8(L1)6] and [Ni8(L2)6]",
+      "synthesis_conditions": [
+        {
+          "step": "Sensitivity to water",
+          "details": {
+            "observation": "After soaking in water at room temperature for 24 h, minor changes observed in XRPD patterns."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bipyrazolate linkers containing MOFs",
+      "synthesis_conditions": [
+        {
+          "step": "Stability towards hydrolysis",
+          "details": {
+            "observation": "Remain completely unaltered after soaking in water at room temperature for 24 h."
+          }
+        }
+      ]
+    },
+    {
+      "name": "[Ni8(L5-CF3)6]",
+      "synthesis_conditions": [
+        {
+          "step": "Hydrophobicity and VOC capture",
+          "details": {
+            "observation": "Highly hydrophobic material, efficiently captures DES under highly competitive moist streams.",
+            "comparison": "Outperforms Blücher-101408 activated carbon in hydrophobicity."
+          }
+        }
+      ]
+    }
+  ]
+}

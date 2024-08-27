@@ -1,0 +1,50 @@
+{
+  "materials": [
+    {
+      "material_id": "1",
+      "synthesis_conditions": [
+        {
+          "step": "Initial synthesis",
+          "chemicals_used": "5-nitroisophthalic acid (250 mg, 1.184 mmol), copper nitrate (276 mg, 1.184 mmol), 2,6-lutidine (254 mg, 2.368 mmol)",
+          "solvents": "Methanol",
+          "equipment": "Not specified",
+          "temperature": "Room temperature",
+          "time": "Not specified",
+          "yield": "Not directly specified",
+          "product": "Blue precipitate (371 mg)"
+        },
+        {
+          "step": "Recrystallization",
+          "solvents": "DMSO (15 mL)",
+          "temperature": "Heated solution",
+          "time": "24 h heating followed by 3-4 weeks sitting",
+          "yield": "Approximately 27% (128.3 mg of deep blue precipitate)",
+          "notes": "XPD confirmed the structure obtained from the single crystal."
+        }
+      ]
+    },
+    {
+      "material_id": "2",
+      "synthesis_conditions": [
+        {
+          "step": "Initial synthesis",
+          "chemicals_used": "5-nitroisophthalic acid (250 mg, 1.184 mmol), copper nitrate (276 mg, 1.184 mmol), 2,6-lutidine (254 mg, 2.368 mmol)",
+          "solvents": "Methanol",
+          "equipment": "Not specified",
+          "temperature": "Room temperature",
+          "time": "Not specified",
+          "yield": "Not directly specified",
+          "product": "Blue precipitate (371 mg)"
+        },
+        {
+          "step": "Recrystallization",
+          "solvents": "DMSO",
+          "temperature": "Heated solution",
+          "time": "24 h heating followed by 3-4 weeks sitting",
+          "yield": "Not specified for 2",
+          "notes": "Conditions similar to those for 1, but the text does not specify if the yield pertains exclusively to 1 or includes 2."
+        }
+      ]
+    }
+  ]
+}

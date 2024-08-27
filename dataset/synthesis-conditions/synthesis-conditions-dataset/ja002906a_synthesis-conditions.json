@@ -1,0 +1,30 @@
+{
+  "materials": [
+    {
+      "material_id": "1",
+      "synthesis_conditions": {
+        "solvent": "acetone",
+        "molar_ratio": "1:1",
+        "chemicals_used": [
+          "[Pt(phpy)2]",
+          "Ag(ClO4)"
+        ],
+        "time": "1 week",
+        "method": "slow evaporation",
+        "form": "Yellow crystals"
+      }
+    },
+    {
+      "material_id": "2",
+      "synthesis_conditions": {
+        "solvent": "acetone",
+        "chemicals_used": [
+          "[Pt(thpy)2]",
+          "Ag+"
+        ],
+        "form": "discrete linear pentanuclear complex",
+        "structure": "alternating stack of [Pt(thpy)2] and [Ag(acetone)] units connected by a Pt→Ag dative bond"
+      }
+    }
+  ]
+}

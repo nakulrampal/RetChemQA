@@ -1,0 +1,71 @@
+{
+  "materials": [
+    {
+      "name": "MOF-901",
+      "synthesis_conditions": {
+        "temperature": "125 °C",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "3 mL"
+          }
+        ],
+        "equipment": "sealed tube (N2 atmosphere)",
+        "chemicals_used": [
+          {
+            "name": "Ti(OiPr)4",
+            "amount": "9.0 µL"
+          },
+          {
+            "name": "4-aminobenzoic acid (H-AB)",
+            "amount": "16.0 mg"
+          },
+          {
+            "name": "benzene-1,4-dialdehyde (BDA)",
+            "amount": "10.0 mg"
+          }
+        ],
+        "time": "3 days",
+        "washing_method": "washed with N,N-dimethylacetamide",
+        "drying_method": "activated at 130 °C for 24 h, under dynamic vacuum (1 mTorr)",
+        "yield": "33.9% based on Ti(OiPr)4",
+        "additional_information": "Density separation performed using bromoform to ensure purity."
+      }
+    },
+    {
+      "name": "[Ti6O6(OiPr)6(AB)6]",
+      "synthesis_conditions": {
+        "reference": "Synthesized according to previously reported procedures."
+      }
+    },
+    {
+      "name": "PolyMMA",
+      "synthesis_conditions": {
+        "catalyst": "MOF-901",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2.1 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "methyl methacrylate (MMA)",
+            "amount": "602 µL"
+          },
+          {
+            "name": "ethyl α-bromophenylacetate",
+            "amount": "6.00 µL"
+          }
+        ],
+        "time": "18 h",
+        "equipment": "compact fluorescent light bulb (4U, 55 W)",
+        "light_intensity": "6 mW cm-2",
+        "yield": "87%",
+        "molar_mass": "26,850 g mol-1",
+        "polydispersity_index": "1.6",
+        "additional_information": "Reaction performed under visible light irradiation."
+      }
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "materials": [
+    {
+      "name": "1,3,5-tris(2-diethyl isophthalate-1-ethynyl)benzene",
+      "synthesis_conditions": {
+        "temperature": "reflux under nitrogen atmosphere",
+        "solvents": [
+          {
+            "name": "triethylamine",
+            "amount": "200 mL"
+          }
+        ],
+        "chemicals_used": [
+          "1,3,5-tribromobenzene",
+          "diethyl-5-(ethynyl)isophthalate",
+          "Pd(PPh3)2Cl2",
+          "PPh3",
+          "CuI"
+        ],
+        "time": "64 hours",
+        "washing_method": "washed with water",
+        "drying_method": "dried over MgSO4",
+        "purification_method": "column chromatography on silica gel with 40:1 chloroform/EtOAc"
+      }
+    },
+    {
+      "name": "5,5',5''-benzene-1,3,5-triyltris(1-ethynyl-2-isophthalic acid)",
+      "synthesis_conditions": {
+        "temperature": "reflux",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "100 mL"
+          },
+          {
+            "name": "1 M KOH aqueous solution",
+            "amount": "150 mL"
+          }
+        ],
+        "time": "4 hours",
+        "washing_method": "washed with water",
+        "drying_method": "dried under vacuum"
+      }
+    },
+    {
+      "name": "hexaethyl 5,5',5''-(4,4',4''-nitrilotris(benzene-4,1-diyl)tris(ethyne-2,1-diyl))-triisophthalate",
+      "synthesis_conditions": {
+        "temperature": "reflux under nitrogen atmosphere",
+        "solvents": [
+          {
+            "name": "triethylamine",
+            "amount": "100 mL"
+          }
+        ],
+        "chemicals_used": [
+          "Tris(4-ethynylphenyl)amine",
+          "diethyl-5-(iodo)isophthalate",
+          "Pd(PPh3)4",
+          "CuI"
+        ],
+        "time": "72 hours",
+        "washing_method": "washed with water",
+        "drying_method": "dried over MgSO4",
+        "purification_method": "column chromatography on silica gel with chloroform"
+      }
+    },
+    {
+      "name": "5,5',5''-(4,4',4''-nitrilotris(benzene-4,1-diyl)tris(ethyne-2,1-diyl))triisophthalic acid",
+      "synthesis_conditions": {
+        "temperature": "reflux",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "50 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "50 mL"
+          },
+          {
+            "name": "3 M KOH aqueous solution",
+            "amount": "50 mL"
+          }
+        ],
+        "time": "4 hours",
+        "washing_method": "washed with water",
+        "drying_method": "dried under vacuum"
+      }
+    },
+    {
+      "name": "PCN-60",
+      "synthesis_conditions": {
+        "temperature": "75 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "15 mL"
+          }
+        ],
+        "chemicals_used": [
+          "H6btei",
+          "ZnBr2"
+        ],
+        "time": "72 hours",
+        "yield": "34% based on H6btei"
+      }
+    },
+    {
+      "name": "PCN-61",
+      "synthesis_conditions": {
+        "temperature": "75 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "15 mL"
+          }
+        ],
+        "chemicals_used": [
+          "H6btei",
+          "Cu(NO3)2·2.5H2O",
+          "HBF4 (9 drops)"
+        ],
+        "time": "72 hours",
+        "yield": "94% based on H6btei"
+      }
+    },
+    {
+      "name": "PCN-66",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": [
+          {
+            "name": "DMA",
+            "amount": "15 mL"
+          }
+        ],
+        "chemicals_used": [
+          "H6ntei",
+          "CuCl2·2H2O",
+          "HBF4 (20 drops)"
+        ],
+        "time": "72 hours",
+        "yield": "42% based on H6ntei"
+      }
+    }
+  ]
+}

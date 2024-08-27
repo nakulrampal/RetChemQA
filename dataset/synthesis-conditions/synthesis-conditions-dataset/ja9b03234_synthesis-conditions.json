@@ -1,0 +1,150 @@
+{
+  "materials": [
+    {
+      "name": "ZIF-4",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "details": {
+            "temperature": "130 °C",
+            "time": "48 h",
+            "solvents": [
+              {
+                "name": "dimethylformamide (DMF)",
+                "amount": "75 ml"
+              }
+            ],
+            "chemicals_used": [
+              {
+                "name": "Zn(NO3)2•6H2O",
+                "amount": "1.2 g (4.03 mmol)"
+              },
+              {
+                "name": "imidazole",
+                "amount": "0.9 g (13.2 mmol)"
+              }
+            ],
+            "equipment": "100 ml glass jar",
+            "atmosphere": "oven"
+          }
+        },
+        {
+          "step": "Solvent exchange",
+          "details": {
+            "solvents": [
+              {
+                "name": "dichloromethane",
+                "amount": "for soaking"
+              }
+            ],
+            "time": "24 hours"
+          }
+        },
+        {
+          "step": "Desolvation",
+          "details": {
+            "temperature": "150 °C",
+            "pressure": "10-3 mbar",
+            "time": "under vacuum"
+          }
+        }
+      ]
+    },
+    {
+      "name": "ZIF-4-cp-II",
+      "synthesis_conditions": [
+        {
+          "step": "High-P-T experiment",
+          "details": {
+            "pressure_range": "0-8 GPa",
+            "temperature_range": "25-580 °C",
+            "pressure_increase_rate": "varied",
+            "temperature_increase_rate": "varied",
+            "equipment": "external coiled resistively-heated membrane driven diamond anvil cell (DAC)",
+            "pressure_transmitting_medium": "silicone oil (AP100)",
+            "atmosphere": "water-cooled vacuum vessel with Kapton windows",
+            "data_collection": {
+              "wavelength": "λ = 0.4246 Å",
+              "detector": "MAR345",
+              "software": "DAWN software suite"
+            },
+            "pressure_determination": "NaCl as pressure gauge",
+            "temperature_measurement": "K-type thermocouple"
+          }
+        }
+      ]
+    },
+    {
+      "name": "ZIF-4-cp-III",
+      "synthesis_conditions": [
+        {
+          "step": "High-P-T experiment",
+          "details": {
+            "pressure_range": "0-8 GPa",
+            "temperature_range": "25-580 °C",
+            "pressure_increase_rate": "varied",
+            "temperature_increase_rate": "varied",
+            "equipment": "external coiled resistively-heated membrane driven diamond anvil cell (DAC)",
+            "pressure_transmitting_medium": "silicone oil (AP100)",
+            "atmosphere": "water-cooled vacuum vessel with Kapton windows",
+            "data_collection": {
+              "wavelength": "λ = 0.4246 Å",
+              "detector": "MAR345",
+              "software": "DAWN software suite"
+            },
+            "pressure_determination": "NaCl as pressure gauge",
+            "temperature_measurement": "K-type thermocouple"
+          }
+        }
+      ]
+    },
+    {
+      "name": "ZIF-hPT-I",
+      "synthesis_conditions": [
+        {
+          "step": "High-P-T experiment",
+          "details": {
+            "pressure_range": "0-8 GPa",
+            "temperature_range": "25-580 °C",
+            "pressure_increase_rate": "varied",
+            "temperature_increase_rate": "varied",
+            "equipment": "external coiled resistively-heated membrane driven diamond anvil cell (DAC)",
+            "pressure_transmitting_medium": "silicone oil (AP100)",
+            "atmosphere": "water-cooled vacuum vessel with Kapton windows",
+            "data_collection": {
+              "wavelength": "λ = 0.4246 Å",
+              "detector": "MAR345",
+              "software": "DAWN software suite"
+            },
+            "pressure_determination": "NaCl as pressure gauge",
+            "temperature_measurement": "K-type thermocouple"
+          }
+        }
+      ]
+    },
+    {
+      "name": "ZIF-hPT-II",
+      "synthesis_conditions": [
+        {
+          "step": "High-P-T experiment",
+          "details": {
+            "pressure_range": "0-8 GPa",
+            "temperature_range": "25-580 °C",
+            "pressure_increase_rate": "varied",
+            "temperature_increase_rate": "varied",
+            "equipment": "external coiled resistively-heated membrane driven diamond anvil cell (DAC)",
+            "pressure_transmitting_medium": "silicone oil (AP100)",
+            "atmosphere": "water-cooled vacuum vessel with Kapton windows",
+            "data_collection": {
+              "wavelength": "λ = 0.4246 Å",
+              "detector": "MAR345",
+              "software": "DAWN software suite"
+            },
+            "pressure_determination": "NaCl as pressure gauge",
+            "temperature_measurement": "K-type thermocouple"
+          }
+        }
+      ]
+    }
+  ]
+}

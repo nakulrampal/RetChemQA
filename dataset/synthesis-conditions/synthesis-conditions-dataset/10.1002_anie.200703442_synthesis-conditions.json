@@ -1,0 +1,52 @@
+{
+  "CMF-4": {
+    "synthesis_conditions": {
+      "temperature": "85 8C",
+      "solvents": [
+        {
+          "name": "acetone",
+          "amount": "4.0 g"
+        },
+        {
+          "name": "water",
+          "amount": "2.0 g"
+        }
+      ],
+      "chemicals_used": [
+        {
+          "name": "Cd(SPhMe-3)2",
+          "amount": "100 mg"
+        },
+        {
+          "name": "thiourea",
+          "amount": "50 mg"
+        }
+      ],
+      "time": "2–3 weeks",
+      "yield": "45 % (based on Cd)",
+      "equipment": "glass vial",
+      "drying_method": "air drying",
+      "washing_method": "not specified",
+      "additional_steps": [
+        {
+          "step_description": "Preparation of SnO2 (F-doped)/CMF-4/nafion electrode",
+          "materials": [
+            {
+              "name": "CMF-4",
+              "amount": "50 mg"
+            },
+            {
+              "name": "ethanolic solution of nafion",
+              "amount": "1 mL, 1.5 wt %"
+            }
+          ],
+          "procedure": "CMF-4 dispersed in ethanolic solution of nafion, mixed by ultrasonic agitation for 30 min, drop-cast onto cleaned F-doped SnO2 glass, dried in air.",
+          "equipment": [
+            "ultrasonic agitator",
+            "F-doped SnO2 glass"
+          ]
+        }
+      ]
+    }
+  }
+}

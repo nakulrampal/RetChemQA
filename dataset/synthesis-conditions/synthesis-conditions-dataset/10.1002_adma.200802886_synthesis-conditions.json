@@ -1,0 +1,67 @@
+{
+  "materials": [
+    {
+      "name": "{[Co(ox)(Htr)2] (cid:1) 2H2O}n",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "10 mL"
+          },
+          {
+            "name": "water",
+            "amount": "20 mL"
+          },
+          {
+            "name": "methanol",
+            "usage": "slow diffusion"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H2C2O4 (cid:1) 2H2O",
+            "amount": "0.40 mmol, 0.050 g"
+          },
+          {
+            "name": "Co(NO3)2 (cid:1) 6H2O",
+            "amount": "0.40 mmol, 0.116 g"
+          },
+          {
+            "name": "1,2,4-triazole",
+            "amount": "2.40 mmol, 0.166 g"
+          },
+          {
+            "name": "[Co(ox)(H2O)2]",
+            "amount": "0.30 mmol, 0.055 g"
+          },
+          {
+            "name": "K2C2O4 (cid:1) H2O",
+            "amount": "3.00 mmol, 0.553 g"
+          }
+        ],
+        "time": "1-2 days for precipitation, slow diffusion for single crystals",
+        "yield": "75-80%",
+        "drying_method": "Not specified",
+        "washing_method": "Not specified"
+      }
+    },
+    {
+      "name": "[Pt2(n-butylCS2)4I]n",
+      "synthesis_conditions": {
+        "temperature": "403 K",
+        "base_pressure": "1 (cid:2) 10(cid:3)6 mbar",
+        "time": "60 s",
+        "equipment": "Cold-finger system",
+        "chemicals_used": [
+          {
+            "name": "[Pt2(n-butylCS2)4I]n polymer",
+            "usage": "Starting material for sublimation"
+          }
+        ],
+        "drying_method": "Not specified",
+        "washing_method": "Not specified",
+        "yield": "Not specified"
+      }
+    }
+  ]
+}

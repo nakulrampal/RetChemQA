@@ -1,0 +1,46 @@
+{
+  "KAUST-7": {
+    "synthesis_conditions": {
+      "temperature": "105 °C",
+      "solvents": "Not specified",
+      "equipment": "Swagelok miniature quick connect with a small modification",
+      "chemicals_used": "Not specified",
+      "time": "24 h under dry nitrogen flow, then 12 h under dynamic vacuum",
+      "washing_method": "Not specified",
+      "drying_method": "Cooling under dynamic vacuum",
+      "yield": "Not specified",
+      "additional_information": "7% SO2 (93% N2) was introduced into environmental cell at 4–5 bar pressure after cooling."
+    },
+    "sensing_conditions": {
+      "temperature": "Room temperature",
+      "humidity": "60% RH for humid conditions",
+      "SO2_concentration_range": "0 to 500 ppm in dry conditions, 25 to 157 ppm in humid conditions",
+      "equipment": "QCM device, 10 MHz AT-cut piezoelectric with gold electrodes",
+      "activation_method": "In situ heating at 105 °C in ambient nitrogen for 4 h",
+      "sensitivity": "Nonlinear decrease in sensitivity with increase in SO2 concentration, lower detection limit estimated to be about 100 ppb",
+      "stability": "Stable response to 50, 100, and 157 ppm SO2 gas over 12 days"
+    }
+  },
+  "KAUST-8": {
+    "synthesis_conditions": {
+      "temperature": "105 °C",
+      "solvents": "Not specified",
+      "equipment": "Swagelok miniature quick connect with a small modification",
+      "chemicals_used": "Not specified",
+      "time": "24 h under dry nitrogen flow, then 12 h under dynamic vacuum",
+      "washing_method": "Not specified",
+      "drying_method": "Cooling under dynamic vacuum",
+      "yield": "Not specified",
+      "additional_information": "7% SO2 (93% N2) was introduced into environmental cell at 4–5 bar pressure after cooling."
+    },
+    "sensing_conditions": {
+      "temperature": "Room temperature",
+      "humidity": "60% RH for humid conditions",
+      "SO2_concentration_range": "0 to 500 ppm in dry conditions, 25 to 157 ppm in humid conditions",
+      "equipment": "QCM device, 10 MHz AT-cut piezoelectric with gold electrodes",
+      "activation_method": "In situ heating at 105 °C in ambient nitrogen for 4 h",
+      "sensitivity": "Nonlinear decrease in sensitivity with increase in SO2 concentration, lower detection limit estimated to be about 100 ppb",
+      "stability": "Stable response to 50, 100, and 157 ppm SO2 gas over 12 days"
+    }
+  }
+}

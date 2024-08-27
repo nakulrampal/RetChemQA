@@ -1,0 +1,59 @@
+{
+  "materials": [
+    {
+      "name": "2,5-Disulfhydrylbenzene-1,4-dicarboxylic acid (H4DSBDC)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Hydroquinone",
+          "potassium formate",
+          "K2CO3",
+          "Na2SO3",
+          "HCl",
+          "ethanol",
+          "H2SO4",
+          "dimethylthiocarbamoyl chloride",
+          "1,4-diazabicyclo[2,2,2]octane",
+          "N,N-dimethylacetamide",
+          "KOH",
+          "MnCl2·4H2O",
+          "CDCl3",
+          "DMSO-d6"
+        ],
+        "solvents": [
+          "N,N-dimethylformamide (DMF)",
+          "methanol (MeOH)"
+        ],
+        "solvent_preparation": "Dry and deaerated by degassing with Ar for 30min and then passing through two alumina columns",
+        "yield": "19%",
+        "characterization": {
+          "NMR": "1H and 13C NMR data were referenced to residual 1H and 13C solvent signals",
+          "IR": "Infrared spectra obtained on a Bruker Alpha FT-IR Spectrometer",
+          "ESI-MS": "Conducted with Bruker APEXIV 6.7t FT-ICR-MS with APOLLO ESI source in negative ion mode",
+          "TGA": "Performed on a TA Instruments Q500 Thermogravimetric Analyzer at a heating rate of 2 °C/min under a nitrogen gas flow of 90 mL/min",
+          "Elemental_analysis": "Performed by Complete Analysis Laboratories, Inc."
+        }
+      }
+    },
+    {
+      "name": "Mn2(DSBDC)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Anhydrous MnCl2",
+          "H4DSBDC",
+          "DMF",
+          "methanol"
+        ],
+        "temperature": "125 oC",
+        "time": "24 h",
+        "atmosphere": "Nitrogen",
+        "yield": "40%",
+        "washing_method": "Vacuum filtration and washed by 10 mL of methanol",
+        "drying_method": "Heated under dynamic vacuum (<10 μmHg) at 150 oC for 32 h",
+        "characterization": {
+          "IR": "Infrared spectra obtained on a Bruker Alpha FT-IR Spectrometer",
+          "Elemental_analysis": "Performed by Complete Analysis Laboratories, Inc."
+        }
+      }
+    }
+  ]
+}

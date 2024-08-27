@@ -1,0 +1,55 @@
+{
+  "materials": [
+    {
+      "name": "CMA-1",
+      "synthesis_conditions": {
+        "temperature": "70°C",
+        "solvents": "deionized water",
+        "amount_of_solvent": "15.0 mL",
+        "equipment": "flask",
+        "chemicals_used": [
+          {
+            "chemical": "MAT",
+            "amount": "0.4954 g (5.0 mmol)"
+          },
+          {
+            "chemical": "CuCl2·2H2O",
+            "amount": "0.8524 g (5.0 mmol)"
+          },
+          {
+            "chemical": "NaN3",
+            "amount": "0.6500 g (10.0 mmol)"
+          }
+        ],
+        "time": "10 min after addition",
+        "washing_method": "water and ethanol",
+        "drying_method": "air",
+        "yield": "1.0235 g (83.0%)",
+        "additional_information": "The crystal suitable for X-ray single-crystal diffraction could be collected from the filtrate at room temperature after 1 day."
+      }
+    },
+    {
+      "name": "CMA-2",
+      "synthesis_conditions": {
+        "temperature": "Similar to CMA-1",
+        "solvents": "deionized water",
+        "amount_of_solvent": "Similar to CMA-1",
+        "equipment": "Similar to CMA-1",
+        "chemicals_used": [
+          {
+            "chemical": "MAT",
+            "amount": "0.2477 g (2.5 mmol)"
+          },
+          {
+            "chemical": "Similar to CMA-1 for other reagents"
+          }
+        ],
+        "time": "Similar to CMA-1",
+        "washing_method": "Similar to CMA-1",
+        "drying_method": "Similar to CMA-1",
+        "yield": "0.8165 g (82.8%)",
+        "additional_information": "Similar procedure as that for CMA-1 was followed, except that 0.2477 g (2.5 mmol) of MAT was used."
+      }
+    }
+  ]
+}

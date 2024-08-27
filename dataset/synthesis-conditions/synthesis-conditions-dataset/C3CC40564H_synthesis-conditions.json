@@ -1,0 +1,194 @@
+{
+  "materials": [
+    {
+      "name": "Di-O-butoxy-di-O-bis(p-nitrobenezenesulfonyloxy)-calix[4]arene (Compound 4)",
+      "synthesis_conditions": {
+        "temperature": "0°C for 30 minutes, then room temperature for 7 days",
+        "solvents": [
+          {
+            "name": "anhydrous DMF",
+            "amount": "200 mL"
+          },
+          {
+            "name": "DCM",
+            "amount": "4x100 mL for extraction, 20 mL for dissolving residue"
+          },
+          {
+            "name": "methanol",
+            "amount": "150 mL for precipitation"
+          }
+        ],
+        "equipment": "Stirring under nitrogen atmosphere",
+        "chemicals_used": [
+          {
+            "name": "Compound 1",
+            "amount": "5.00 g, 9.32 mmol"
+          },
+          {
+            "name": "Sodium hydride",
+            "amount": "1.60 g, 40.0 mmol, 60% suspension in mineral oil"
+          },
+          {
+            "name": "p-Nitrobenzene sulfonyl chloride",
+            "amount": "8.71 g, 39.2 mmol"
+          }
+        ],
+        "time": "7 days",
+        "washing_method": "Extracted with DCM, washed with deionised water, brine",
+        "drying_method": "Dried over MgSO4",
+        "yield": "90% (7.62 g)",
+        "additional_steps": [
+          {
+            "step": "Acidification",
+            "chemicals_used": [
+              {
+                "name": "1M HCl"
+              }
+            ]
+          },
+          {
+            "step": "Precipitation",
+            "method": "Addition of methanol to DCM solution"
+          }
+        ]
+      }
+    },
+    {
+      "name": "p-di-formyl-di-O-butoxy-di-O-bis(p-nitrobenezenesulfonyloxy)-calix[4]arene (Compound 5)",
+      "synthesis_conditions": {
+        "temperature": "90°C",
+        "solvents": [
+          {
+            "name": "trifluoroacetic acid",
+            "amount": "50 mL"
+          },
+          {
+            "name": "DCM",
+            "amount": "3x100 mL for extraction, 20 mL for dissolving residue"
+          },
+          {
+            "name": "methanol",
+            "amount": "150 mL for precipitation"
+          }
+        ],
+        "equipment": "Stirring",
+        "chemicals_used": [
+          {
+            "name": "Compound 4",
+            "amount": "2.50 g, 2.76 mmol"
+          },
+          {
+            "name": "hexamethylenetetramine",
+            "amount": "12.0 g, 85.6 mmol"
+          }
+        ],
+        "time": "24 hours",
+        "washing_method": "Extracted with DCM, washed with water, brine",
+        "drying_method": "Dried over MgSO4",
+        "yield": "74% (1.95 g)"
+      }
+    },
+    {
+      "name": "p-di-carboxylato-di-O-butoxy-di-O-bis(p-nitrobenezenesulfonyloxy)-calix[4]arene",
+      "synthesis_conditions": {
+        "temperature": "0°C, then room temperature for 24 h",
+        "solvents": [
+          {
+            "name": "acetone",
+            "amount": "25 mL"
+          },
+          {
+            "name": "DCM",
+            "amount": "75 mL"
+          }
+        ],
+        "equipment": "Stirring",
+        "chemicals_used": [
+          {
+            "name": "Compound 5",
+            "amount": "0.50 g, 0.52 mmol"
+          },
+          {
+            "name": "Sulfamic acid",
+            "amount": "0.20 g, 2.06 mmol"
+          },
+          {
+            "name": "Sodium chlorite",
+            "amount": "0.16 g, 1.77 mmol"
+          }
+        ],
+        "time": "24 hours",
+        "washing_method": "Taken up with 1M HCl, filtered, washed with deionised water",
+        "drying_method": "Dried",
+        "yield": "95% (0.49 g)"
+      }
+    },
+    {
+      "name": "p-di-carboxylato-di-O-butoxy-calix[4]arene (Compound 6)",
+      "synthesis_conditions": {
+        "temperature": "Room temperature for 24 h",
+        "solvents": [
+          {
+            "name": "ethanol",
+            "amount": "80 mL"
+          },
+          {
+            "name": "DCM",
+            "amount": "80 mL"
+          }
+        ],
+        "equipment": "Stirring",
+        "chemicals_used": [
+          {
+            "name": "p-di-carboxylato-di-O-butoxy-di-O-bis(p-nitrobenezenesulfonyloxy)-calix[4]arene",
+            "amount": "0.50 g, 0.50 mmol"
+          },
+          {
+            "name": "Potassium hydroxide",
+            "amount": "1.47 g, 26.0 mmol"
+          }
+        ],
+        "time": "24 hours",
+        "washing_method": "Extracted with DCM, washed with deionised water, brine",
+        "drying_method": "Dried",
+        "yield": "87% (1.96 g)"
+      }
+    },
+    {
+      "name": "Coordination polymer (Compound 7)",
+      "synthesis_conditions": {
+        "solvents": "DMF",
+        "chemicals_used": [
+          {
+            "name": "Compound 3"
+          },
+          {
+            "name": "Cd(NO3)2.4H2O"
+          },
+          {
+            "name": "1,10-Phenanthroline"
+          }
+        ],
+        "additional_information": "Slow evaporation of the solvents over several weeks"
+      }
+    },
+    {
+      "name": "Metal-organic capsule (Compound 8)",
+      "synthesis_conditions": {
+        "solvents": "DMF",
+        "chemicals_used": [
+          {
+            "name": "Compound 6"
+          },
+          {
+            "name": "Cd(NO3)2.4H2O"
+          },
+          {
+            "name": "1,10-Phenanthroline"
+          }
+        ],
+        "additional_information": "Slow evaporation of the solvents over several weeks"
+      }
+    }
+  ]
+}

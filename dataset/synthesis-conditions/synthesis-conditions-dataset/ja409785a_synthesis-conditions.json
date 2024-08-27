@@ -1,0 +1,90 @@
+{
+  "materials": [
+    {
+      "name": "[Ru2(2-MeO-4-ClPhCO2)4(BTDA-TCNQ)]·2.5(benzene) (1)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "anisole",
+            "amount": "20 ml"
+          },
+          {
+            "name": "benzene",
+            "amount": "20 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[Ru2(2-MeO-4-ClPhCO2)4(THF)2]",
+            "amount": "54.5 mg",
+            "molar_amount": "0.05 mmol"
+          },
+          {
+            "name": "BTDA-TCNQ",
+            "amount": "16.0 mg",
+            "molar_amount": "0.05 mmol"
+          }
+        ],
+        "yield": "40.0 mg (55%)",
+        "time": "one week or more",
+        "equipment": "narrow diameter sealed glass tubes (φ: 8 mm)"
+      }
+    },
+    {
+      "name": "[Rh2(2-MeO-4-ClPhCO2)4(BTDA-TCNQ)]·2.5(benzene) (1-Rh)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "anisole",
+            "amount": "20 ml"
+          },
+          {
+            "name": "benzene",
+            "amount": "20 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[Rh2(2-MeO-4-ClPhCO2)4(THF)2]",
+            "amount": "54.6 mg",
+            "molar_amount": "0.05 mmol"
+          },
+          {
+            "name": "BTDA-TCNQ",
+            "amount": "16.0 mg",
+            "molar_amount": "0.05 mmol"
+          }
+        ],
+        "yield": "21.0 mg (29%)",
+        "time": "similar way to 1"
+      }
+    },
+    {
+      "name": "Rh-doped samples (Rh-3%, Rh-5%, Rh-16%)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "anisole",
+            "amount": "20 ml"
+          },
+          {
+            "name": "benzene",
+            "amount": "20 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[Ru2(2-MeO-4-ClPhCO2)4(THF)2] and [Ru2(2-MeO-4-ClPhCO2)4(THF)2]",
+            "mixture_ratio": "Ru : Rh = 29 : 1, 19 : 1, or 8 : 2"
+          },
+          {
+            "name": "BTDA-TCNQ",
+            "amount": "16.0 mg",
+            "molar_amount": "0.05 mmol"
+          }
+        ],
+        "time": "similar way to 1"
+      }
+    }
+  ]
+}

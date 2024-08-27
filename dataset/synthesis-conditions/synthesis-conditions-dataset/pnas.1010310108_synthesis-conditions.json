@@ -1,0 +1,62 @@
+{
+  "materials": [
+    {
+      "name": "1D ice ðH2OÞ12n within 3D supramolecular architecture 2CuIIðCDTAÞð4;40-bpyÞ2(cid:1)n",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "H4CDTA",
+            "amount": "0.364 g, 1.0 mmol"
+          },
+          {
+            "name": "CuðCH3COOÞ2 (cid:127) H2O",
+            "amount": "0.199 g, 1.0 mmol"
+          },
+          {
+            "name": "4,4′-bpy",
+            "amount": "0.156 g, 1.0 mmol"
+          },
+          {
+            "solvent": "water",
+            "amount": "10 mL"
+          }
+        ],
+        "temperature": "150 °C",
+        "time": "3 days",
+        "cooling_rate": "3 °C h−1",
+        "yield": "30% based on Cu",
+        "equipment": "25-mL Teflon-lined Parr",
+        "pH_adjustment": "pH adjusted to about 3 with 1.0 mol·L−1 nitric acid"
+      }
+    },
+    {
+      "name": "Deuterated form 2CuIIðCDTAÞð4;40-bpyÞ2(cid:1)n (cid:127) 6nðD2OÞ (1a)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "H4CDTA",
+            "amount": "similar to 1"
+          },
+          {
+            "name": "CuðCH3COOÞ2 (cid:127) H2O",
+            "amount": "similar to 1"
+          },
+          {
+            "name": "4,4′-bpy",
+            "amount": "similar to 1"
+          },
+          {
+            "solvent": "deuterium oxide",
+            "amount": "10 mL"
+          }
+        ],
+        "temperature": "similar to 1",
+        "time": "similar to 1",
+        "cooling_rate": "similar to 1",
+        "yield": "25% based on Cu",
+        "equipment": "similar to 1",
+        "pH_adjustment": "similar to 1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "chemicals_used": "[Fe(dca)2][TTF(py)4]0.5·0.5 CH2Cl2",
+        "solvents": "CH2Cl2",
+        "amount_of_solvent": "0.5",
+        "ligand": "tetra(4-pyridyl)tetrathiafulvalene (TTF(py)4)",
+        "metal_center": "FeII",
+        "anion": "dicyanamide (dca)",
+        "doping": "I2",
+        "doped_material": "1@I2",
+        "doping_solvent": "cyclohexane"
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "chemicals_used": "[Fe(dca)][TTF(py)4]·ClO4·CH2Cl2·2 CH3OH",
+        "solvents": "CH2Cl2, CH3OH",
+        "amount_of_solvent": "CH2Cl2: 1, CH3OH: 2",
+        "ligand": "tetra(4-pyridyl)tetrathiafulvalene (TTF(py)4)",
+        "metal_center": "FeII",
+        "anion": "dicyanamide (dca), ClO4",
+        "doping": "I2",
+        "doped_material": "2@I2",
+        "doping_solvent": "cyclohexane"
+      }
+    }
+  ]
+}

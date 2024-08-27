@@ -1,0 +1,61 @@
+{
+  "materials": [
+    {
+      "name": "Kpot·H2O",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "CS2 (1.5 mL, 20 mmol)",
+          "isonicotinic acid hydrazide (2.7 g, 20 mmol)",
+          "methanolic KOH (1.2 g, 20 mmol in 20 mL)"
+        ],
+        "solvents": "H2O : EtOH mixture (50 : 50)",
+        "equipment": "Stirrer",
+        "time": "30 min",
+        "yield": "60%",
+        "melting_point": "270 °C",
+        "crystallization_time": "13 days",
+        "crystal_system": "Triclinic",
+        "space_group": "P 1",
+        "temperature": "100(2) K"
+      }
+    },
+    {
+      "name": "[Cu(en)2( pot)2] (1)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Kpot·H2O (0.470 g, 2 mmol)",
+          "CuCl2·2H2O (0.170 g, 1 mmol)",
+          "ethylenediamine (en, 0.30 mL, 4 mmol)"
+        ],
+        "solvents": "ethanol–water mixture (30 mL, 50 : 50), methanol",
+        "equipment": "Stirrer",
+        "time": "2 h stirring, 1 h stirring after adding en",
+        "yield": "55%",
+        "melting_point": "194 °C",
+        "crystallization_time": "9 days",
+        "crystal_system": "Monoclinic",
+        "space_group": "P 21/n",
+        "temperature": "566(2) K"
+      }
+    },
+    {
+      "name": "[Zn(en)2( pot)2]HBr·CH3OH (2)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "ZnBr2 (0.225 g, 1 mmol)",
+          "Kpot·H2O (0.470 g, 2 mmol)",
+          "ethylenediamine (0.30 mL, 4 mmol)"
+        ],
+        "solvents": "ethanol–water mixture (25 mL, 50 : 50), methanol",
+        "equipment": "Stirrer",
+        "time": "1 h stirring, 15 min shaking after adding en",
+        "yield": "54%",
+        "melting_point": "197 °C",
+        "crystallization_time": "16 days",
+        "crystal_system": "Triclinic",
+        "space_group": "P -1",
+        "temperature": "100(2) K"
+      }
+    }
+  ]
+}

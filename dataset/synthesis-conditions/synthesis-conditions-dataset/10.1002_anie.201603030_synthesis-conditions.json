@@ -1,0 +1,81 @@
+{
+  "materials": [
+    {
+      "name": "FJI-H11-R (R = Me, Et, iPr)",
+      "synthesis_conditions": [
+        {
+          "step": "Solvothermal reaction",
+          "temperature": "Not specified",
+          "solvents": [
+            {
+              "name": "N,N-dimethylacetamide (DMA)",
+              "amount": "Not specified"
+            }
+          ],
+          "equipment": "Not specified",
+          "chemicals_used": [
+            {
+              "name": "H4L-R (4,4’-di(substituent)oxybiphenyl-3,3’,5,5’-tetra(phenyl-4-carboxylic acid))",
+              "amount": "Not specified"
+            },
+            {
+              "name": "Cu(NO3)2·3 H2O",
+              "amount": "Not specified"
+            }
+          ],
+          "time": "Not specified",
+          "yield": "Not specified"
+        }
+      ]
+    },
+    {
+      "name": "FJI-H11-Et",
+      "synthesis_conditions": [
+        {
+          "step": "Crystal structure analysis",
+          "temperature": "293 K",
+          "solvents": "Not specified",
+          "equipment": "Single-crystal X-ray diffraction",
+          "chemicals_used": "Not specified",
+          "time": "Not specified",
+          "yield": "Not specified"
+        },
+        {
+          "step": "Variable-temperature single crystal X-ray diffraction",
+          "temperature_range": "100 K to 293 K",
+          "solvents": "Not specified",
+          "equipment": "Single-crystal X-ray diffraction",
+          "chemicals_used": "Not specified",
+          "time": "Not specified",
+          "yield": "Not specified",
+          "additional_info": "Thermal expansion coefficients: a axis ¢33.2 × 10¢6 K¢1, c axis 489.4 × 10¢6 K¢1, unit cell volume (V) 416.8 × 10¢6 K¢1"
+        },
+        {
+          "step": "Desolvation",
+          "temperature": "Ambient condition",
+          "solvents": "Air",
+          "equipment": "Single-crystal X-ray diffraction",
+          "chemicals_used": "Not specified",
+          "time": "15 times over 150 h",
+          "yield": "Not specified",
+          "additional_info": "Unit cell parameters change significantly; coefficients of expansion for a, c, and V are 2.1 %, ¢32.4 %, and ¢29.6 %, respectively"
+        },
+        {
+          "step": "Re-exposure to DMA vapor",
+          "temperature": "Ambient condition",
+          "solvents": [
+            {
+              "name": "DMA vapor",
+              "amount": "Not specified"
+            }
+          ],
+          "equipment": "Powder X-Ray Diffraction (PXRD)",
+          "chemicals_used": "Not specified",
+          "time": "Not specified",
+          "yield": "Not specified",
+          "additional_info": "Framework recovers upon absorbing DMA molecules"
+        }
+      ]
+    }
+  ]
+}

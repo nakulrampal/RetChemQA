@@ -1,0 +1,134 @@
+{
+  "materials": [
+    {
+      "name": "α-ZIF-65(Zn)",
+      "synthesis_conditions": [
+        {
+          "temperature": "296 K",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "not specified"
+            },
+            {
+              "name": "DMI",
+              "amount": "not specified"
+            },
+            {
+              "name": "NMP",
+              "amount": "not specified"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "2-Nitroimidazole",
+              "amount": "0.40 mmol"
+            },
+            {
+              "name": "Zn(NO3)2·6H2O",
+              "amount": "0.10 mmol"
+            }
+          ],
+          "time": "48 hours",
+          "temperature_details": "120 °C",
+          "solvent_volume": "4.0 mL",
+          "crystal_system": "Cubic",
+          "space_group": "I(-4)3m",
+          "unit_cell_dimensions": {
+            "a": "17.3893(3) Å",
+            "b": "17.3893(3) Å",
+            "c": "17.3893(3) Å",
+            "alpha": "90",
+            "beta": "90",
+            "gamma": "90"
+          },
+          "volume": "5258.3(3) Å3",
+          "Z": "12",
+          "density_calculated": "1.097 Mg/m3",
+          "absorption_coefficient": "1.410 mm-1",
+          "F000": "1728.0",
+          "crystal_size": "0.40 x 0.40 x 0.25 mm3",
+          "theta_range": "1.656 to 34.955°",
+          "index_ranges": "-12<=h<=27, -27<=k<=17, -23<=l<=10",
+          "reflections_collected": "9006",
+          "independent_reflections": "2143",
+          "completeness": "100.0 %",
+          "absorption_correction": "None",
+          "refinement_method": "Full-matrix least-squares on F2",
+          "data_restraints_parameters": "2143 / 0 / 42",
+          "goodness_of_fit_on_F2": "0.899",
+          "final_R_indices": {
+            "I_greater_than_2sigma(I)": "R1 = 0.0320, wR2 = 0.0665",
+            "all_data": "R1 = 0.0697, wR2 = 0.0760"
+          },
+          "largest_diff_peak_and_hole": "0.482 and -0.140 e.Å-3"
+        }
+      ]
+    },
+    {
+      "name": "β-ZIF-65(Zn)",
+      "synthesis_conditions": [
+        {
+          "temperature": "296 K",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "not specified"
+            },
+            {
+              "name": "DMI",
+              "amount": "not specified"
+            },
+            {
+              "name": "NMP",
+              "amount": "not specified"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "2-Nitroimidazole",
+              "amount": "0.40 mmol"
+            },
+            {
+              "name": "Zn(NO3)2·6H2O",
+              "amount": "0.10 mmol"
+            }
+          ],
+          "time": "48 hours",
+          "temperature_details": "120 °C",
+          "solvent_volume": "4.0 mL",
+          "crystal_system": "Cubic",
+          "space_group": "Ia(-3)",
+          "unit_cell_dimensions": {
+            "a": "34.6372(2) Å",
+            "b": "34.6372(2) Å",
+            "c": "34.6372(2) Å",
+            "alpha": "90",
+            "beta": "90",
+            "gamma": "90"
+          },
+          "volume": "41555.5(7) Å3",
+          "Z": "48",
+          "density_calculated": "1.111 Mg/m3",
+          "absorption_coefficient": "1.427 mm-1",
+          "F000": "13824.0",
+          "crystal_size": "0.40 x 0.20 x 0.20 mm3",
+          "theta_range": "0.831 to 27.119°",
+          "index_ranges": "-44<=h<=44, -38<=k<=37, -39<=l<=36",
+          "reflections_collected": "95913",
+          "independent_reflections": "7678",
+          "completeness": "100.0 %",
+          "absorption_correction": "None",
+          "refinement_method": "Full-matrix least-squares on F2",
+          "data_restraints_parameters": "7678 / 0 / 309",
+          "goodness_of_fit_on_F2": "1.015",
+          "final_R_indices": {
+            "I_greater_than_2sigma(I)": "R1 = 0.0487, wR2 = 0.1200",
+            "all_data": "R1 = 0.0828, wR2 = 0.1391"
+          },
+          "largest_diff_peak_and_hole": "1.125 and -0.290 e.Å-3"
+        }
+      ]
+    }
+  ]
+}

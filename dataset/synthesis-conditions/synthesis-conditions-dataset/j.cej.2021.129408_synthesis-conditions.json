@@ -1,0 +1,80 @@
+{
+  "materials": [
+    {
+      "material": "Hybrid 1",
+      "synthesis": {
+        "temperature": "160°C",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "8.0 mL"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "Na2MoO4⋅2H2O",
+            "amount": "0.12 g"
+          },
+          {
+            "name": "BBTZ",
+            "amount": "0.03 g"
+          },
+          {
+            "name": "CuCl2⋅2H2O",
+            "amount": "0.03 g"
+          },
+          {
+            "name": "MnCl2⋅4H2O",
+            "amount": "0.03 g"
+          },
+          {
+            "name": "H3PO4",
+            "amount": "0.50 mL"
+          }
+        ],
+        "pH": "2.0",
+        "time": "5 days",
+        "cooling_rate": "10°C h−1",
+        "yield": "46%"
+      },
+      "washing_method": "distilled water",
+      "drying_method": "air-dried"
+    },
+    {
+      "material": "Hybrid 2",
+      "synthesis": {
+        "temperature": "160°C",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "8.0 mL"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "Na2MoO4⋅2H2O",
+            "amount": "0.12 g"
+          },
+          {
+            "name": "BBTZ",
+            "amount": "0.03 g"
+          },
+          {
+            "name": "MnCl2⋅4H2O",
+            "amount": "0.08 g"
+          },
+          {
+            "name": "H3PO4",
+            "amount": "0.50 mL"
+          }
+        ],
+        "pH": "2.0",
+        "time": "5 days",
+        "cooling_rate": "10°C h−1",
+        "yield": "46%"
+      },
+      "washing_method": "distilled water",
+      "drying_method": "air-dried"
+    }
+  ]
+}

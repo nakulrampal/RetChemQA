@@ -1,0 +1,109 @@
+{
+  "materials": [
+    {
+      "name": "Cu-I-bpyc",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "2 mL",
+            "concentration": "0.06 mM"
+          },
+          {
+            "name": "N,N'-dimethylformamide (DMF)",
+            "amount": "2.0 mL",
+            "concentration": "0.03 mM"
+          },
+          {
+            "name": "DMF/CH3CN solution",
+            "amount": "9 mL",
+            "ratio": "1/4"
+          }
+        ],
+        "temperature": "room temperature",
+        "time": "two weeks",
+        "yield": "80%",
+        "additional_steps": [
+          {
+            "step": "filtration",
+            "description": "Crystals suitable for X-ray structural analysis were obtained after filtration."
+          },
+          {
+            "step": "drying",
+            "description": "Further desiccation process was conducted with supercritical carbon dioxide."
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cu-Br-bpyc",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "2.0 mL",
+            "concentration": "0.06 mM"
+          },
+          {
+            "name": "N,N'-dimethylformamide (DMF)",
+            "amount": "2.0 mL",
+            "concentration": "0.03 mM"
+          },
+          {
+            "name": "DMF/CH3CN solution",
+            "amount": "9.0 mL",
+            "ratio": "1/2"
+          }
+        ],
+        "temperature": "room temperature",
+        "time": "two weeks",
+        "yield": "40%",
+        "additional_steps": [
+          {
+            "step": "filtration",
+            "description": "Crystals suitable for X-ray structural analysis were obtained after filtration."
+          },
+          {
+            "step": "drying",
+            "description": "Further desiccation process was conducted with supercritical carbon dioxide."
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cu-Cl-bpyc",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "2.0 mL",
+            "concentration": "0.06 mM"
+          },
+          {
+            "name": "N,N'-dimethylformamide (DMF)",
+            "amount": "2.0 mL",
+            "concentration": "0.03 mM"
+          },
+          {
+            "name": "DMF/CH3CN solution",
+            "amount": "9.0 mL",
+            "ratio": "1/8"
+          }
+        ],
+        "temperature": "room temperature",
+        "time": "two weeks",
+        "yield": "50%",
+        "additional_steps": [
+          {
+            "step": "filtration",
+            "description": "Crystals suitable for X-ray structural analysis were obtained after filtration."
+          },
+          {
+            "step": "drying",
+            "description": "Further desiccation process was conducted with supercritical carbon dioxide."
+          }
+        ]
+      }
+    }
+  ]
+}

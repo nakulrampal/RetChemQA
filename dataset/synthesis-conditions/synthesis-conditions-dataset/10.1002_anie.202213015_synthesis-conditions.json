@@ -1,0 +1,40 @@
+{
+  "materials": [
+    {
+      "name": "Tb-MOF-76(NH2)",
+      "synthesis_conditions": {
+        "method": "solvothermal reaction",
+        "precursors": [
+          "NH2-BTC",
+          "Tb3+ ions"
+        ],
+        "solvents": "not specified",
+        "temperature": "not specified",
+        "equipment": "not specified",
+        "time": "not specified",
+        "washing_method": "methanol exchange for 72 hours",
+        "drying_method": "activated at 373 K under high vacuum",
+        "yield": "not specified",
+        "additional_information": "The material is isostructural to Tb-MOF-76, crystallized in a P4122 space group. The framework possesses square channels with free NH2 groups pointing into the channels, which decreases the pore dimensions to 7.2 × 7.2 Å2 from 7.9 × 7.9 Å2 in Tb-MOF-76."
+      }
+    },
+    {
+      "name": "Tb-MOF-76",
+      "synthesis_conditions": {
+        "method": "implied solvothermal reaction",
+        "precursors": [
+          "BTC",
+          "Tb3+ ions"
+        ],
+        "solvents": "not specified",
+        "temperature": "not specified",
+        "equipment": "not specified",
+        "time": "not specified",
+        "washing_method": "methanol exchange for 72 hours",
+        "drying_method": "activated at 373 K under high vacuum",
+        "yield": "not specified",
+        "additional_information": "The material is mentioned as a platform for NH2 functionalization, implying its synthesis under similar conditions to Tb-MOF-76(NH2) but using BTC instead of NH2-BTC."
+      }
+    }
+  ]
+}

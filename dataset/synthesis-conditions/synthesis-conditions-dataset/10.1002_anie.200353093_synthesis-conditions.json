@@ -1,0 +1,47 @@
+{
+  "materials": [
+    {
+      "name": "Compound 1",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "MeCN",
+            "amount": "20 mL"
+          },
+          {
+            "name": "THF",
+            "amount": "40 mL"
+          }
+        ],
+        "equipment": "Narrow glass tube (f = 6 mm)",
+        "chemicals_used": [
+          {
+            "name": "Mn(ClO4)2·6 H2O",
+            "amount": "362 mg, 1 mmol"
+          },
+          {
+            "name": "Hydroxymethylpyridine",
+            "amount": "218 mg, 2 mmol"
+          },
+          {
+            "name": "NEt4OH with 20 % water",
+            "amount": "736 mg, 1 mmol"
+          },
+          {
+            "name": "NaN(CN)2",
+            "amount": "89 mg, 1 mmol"
+          }
+        ],
+        "time": [
+          "Stirred for one hour after adding Hydroxymethylpyridine and NEt4OH",
+          "Stirred for a further hour after adding NaN(CN)2"
+        ],
+        "washing_method": "Filtered",
+        "drying_method": "Slow diffusion in THF",
+        "yield": "31 % based on Mn",
+        "additional_information": "The mixture was gently stirred at room temperature for one hour, then solid NaN(CN)2 (89 mg, 1 mmol) was added. After the mixture had been stirred for a further hour, it was filtered, and the filtrate was carefully diffused in THF (40 mL) in a narrow glass tube (f = 6 mm) to form brown block crystals of 1."
+      }
+    }
+  ]
+}

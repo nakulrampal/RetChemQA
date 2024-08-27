@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "question": "What is the chemical formula for the as-synthesized MOF that exhibits CO2-induced transitions between paramagnetism and ferrimagnetism?",
+      "answer": "[{Ru2(F3PhCO2)4}2TCNQ(OEt)2]·3DCM",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the two phases that compound 1 transitions into upon CO2 adsorption, and at what temperatures do these transitions occur?",
+      "answer": "Compound 1 transitions into 1⊃CO2-I and 1⊃CO2-II phases upon CO2 adsorption. The transitions occur in the ranges 298 ≤ T ≤ 250 K for 1⊃CO2-I and 210 ≤ T ≤ 195 K for 1⊃CO2-II, at PCO2 = 100 kPa.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the electronic state of compound 1 change upon CO2 adsorption, and what is the impact on its magnetic properties?",
+      "answer": "Upon CO2 adsorption, the electronic state of compound 1 changes from a one-electron-transferred state to a neutral state, resulting in a magnetic phase change from ferrimagnetic to paramagnetic.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role do CO2 molecules play in stabilizing the neutral state of 1⊃CO2-II according to theoretical calculations?",
+      "answer": "CO2 molecules play an electronic effect in stabilizing the neutral state of 1⊃CO2-II through interactions between the frontier orbitals of CO2 and the host framework, particularly the δ* orbital of the [Ru(2)2] unit and π* orbital of the TCNQ(OEt)2 unit.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The transition from 1⊃CO2-I to 1⊃CO2-II is accompanied by a structural change that results in the formation of a neutral state.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The magnetic properties of compound 1 remain unchanged upon N2 adsorption.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the Curie temperature (TC) of compound 1, and how does it change upon O2 adsorption?",
+      "answer": "The Curie temperature (TC) of compound 1 is 110 K, and it decreases to 88 K upon O2 adsorption.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Describe the process and conditions under which compound 1 transitions from a ferrimagnetic to a paramagnetic state upon CO2 adsorption.",
+      "answer": "Compound 1 transitions from a ferrimagnetic to a paramagnetic state upon CO2 adsorption when the CO2 pressure reaches or exceeds 5 kPa, leading to the formation of the 1⊃CO2-II phase, which exhibits a neutral electronic state.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The structural transition from 1⊃CO2-I to 1⊃CO2-II is a first-order phase transition.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental techniques were used to monitor the electronic state change in compound 1 upon CO2 adsorption?",
+      "answer": "In situ infrared spectra and Raman spectra measurements were used to monitor the electronic state change in compound 1 upon CO2 adsorption.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The adsorption of CO2 in compound 1 results in a decrease in electronic conductivity and permittivity.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the adsorption of O2 affect the magnetic properties of compound 1 compared to its original state?",
+      "answer": "The adsorption of O2 in compound 1 results in a decrease in the Curie temperature (TC) from 110 K to 88 K and a deformation in the M–H curve at 1.8 K, indicating a softer magnet with internal O2 spins.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Theoretical calculations suggest that the CO2 molecules have a negligible effect on the stabilization of the neutral state in 1⊃CO2-II.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the phase diagram created for compound 1 under CO2 in understanding its gas-responsive behavior?",
+      "answer": "The phase diagram for compound 1 under CO2 is significant as it illustrates the temperature and pressure conditions under which the compound transitions between different phases (1, 1⊃CO2-I, and 1⊃CO2-II), highlighting its gas-responsive behavior and the associated changes in electronic state and magnetic properties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The transition from the ferrimagnetic state to the paramagnetic state in compound 1 upon CO2 adsorption is irreversible.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

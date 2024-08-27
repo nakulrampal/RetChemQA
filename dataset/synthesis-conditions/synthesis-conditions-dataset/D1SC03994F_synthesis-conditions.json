@@ -1,0 +1,102 @@
+{
+  "materials": [
+    {
+      "name": "Co2Cl2(bbta)",
+      "synthesis_conditions": {
+        "temperature": "65 ºC",
+        "solvents": [
+          {
+            "name": "N,N′-dimethylformamide",
+            "amount": "20 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "20 mL"
+          }
+        ],
+        "equipment": "100 mL Pyrex jar",
+        "chemicals_used": [
+          {
+            "name": "H2(bbta)",
+            "amount": "100 mg"
+          },
+          {
+            "name": "hydrochloric acid",
+            "amount": "0.5 mL"
+          },
+          {
+            "name": "CoCl2•6H2O",
+            "amount": "150 mg"
+          }
+        ],
+        "time": "3 d",
+        "washing_method": "methanol",
+        "drying_method": {
+          "step_1": "room temperature for 24 h",
+          "step_2": "100 ºC under vacuum for 12 h"
+        },
+        "yield": "Langmuir surface area was 1440 m2/g"
+      }
+    },
+    {
+      "name": "Co2(OH)2(bbta)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "1 M aqueous ammonia",
+            "amount": "100 mL"
+          },
+          {
+            "name": "water",
+            "amount": "100 mL"
+          }
+        ],
+        "equipment": "N/A",
+        "chemicals_used": [
+          {
+            "name": "Desolvated Co2Cl2(bbta)",
+            "amount": "100.0 mg"
+          }
+        ],
+        "time": "3 d",
+        "washing_method": "water and methanol",
+        "drying_method": "160 °C under vacuum for 12 h",
+        "yield": "Langmuir surface area was 1690 m2/g"
+      }
+    },
+    {
+      "name": "14NO and 15NO gas",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "200 mL"
+          }
+        ],
+        "equipment": [
+          "three-neck round-bottom flask",
+          "manifold constructed from 316L stainless steel and Swagelok parts"
+        ],
+        "chemicals_used": [
+          {
+            "name": "FeSO4•7H2O",
+            "amount": "0.54 g"
+          },
+          {
+            "name": "sulfuric acid",
+            "amount": "0.2 mL"
+          },
+          {
+            "name": "Na15NO2 or Na14NO2",
+            "amount": "132 mg"
+          }
+        ],
+        "time": "until reaction completion",
+        "drying_method": "N/A",
+        "yield": "isotopically-enriched and high purity NO gas"
+      }
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "materials": [
+    {
+      "material_name": "Na2 1 2-",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "1,10-phenanthroline-2,9-dicarboxaldehyde",
+            "amount": "0.0197 g",
+            "molarity": "0.0834 mmol"
+          },
+          {
+            "chemical": "sulfanilic acid",
+            "amount": "0.0288 g",
+            "molarity": "0.166 mmol"
+          },
+          {
+            "chemical": "copper(I) oxide",
+            "amount": "0.0059 g",
+            "molarity": "0.041 mmol"
+          },
+          {
+            "chemical": "sodium bicarbonate",
+            "amount": "0.0069 g",
+            "molarity": "0.082 mmol"
+          }
+        ],
+        "solvent": "Water",
+        "solvent_amount": "16 mL",
+        "atmosphere": "argon",
+        "temperature": "room temperature",
+        "time": "overnight",
+        "yield": "98%",
+        "drying_method": "dynamic vacuum",
+        "product_characterization": [
+          {
+            "method": "1H NMR",
+            "solvent": "D2O",
+            "reference": "2-methyl-2-propanol at 1.24 ppm as internal standard"
+          },
+          {
+            "method": "13C NMR",
+            "solvent": "D2O",
+            "reference": "2-methyl-2-propanol at 30.29 ppm as internal standard"
+          },
+          {
+            "method": "ESI-MS",
+            "m/z_values": [
+              "-608.1 (1 2-)",
+              "-384.7 (1 2- lacking one Cu+)",
+              "-272.4 (metal-free imine ligand of 1 2-)"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "material_name": "2 2+ (BF4-)2",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "1,10-phenanthroline-2,9-dicarboxaldehyde",
+            "amount": "0.0105 g",
+            "molarity": "0.0444 mmol"
+          },
+          {
+            "chemical": "2-aminoethanol",
+            "amount": "0.0054 g",
+            "molarity": "0.0884 mmol"
+          },
+          {
+            "chemical": "copper(I) tetrakis(acetonitrile) tetrafluoroborate",
+            "amount": "0.0139 g",
+            "molarity": "0.0442 mmol"
+          }
+        ],
+        "solvent": "deuterium oxide",
+        "solvent_amount": "0.5 mL",
+        "atmosphere": "argon",
+        "temperature": "room temperature",
+        "time": "1 h",
+        "product_characterization": [
+          {
+            "method": "1H NMR",
+            "solvent": "D2O",
+            "reference": "2-methyl-2-propanol at 1.24 ppm as internal standard"
+          },
+          {
+            "method": "13C NMR",
+            "solvent": "D2O",
+            "reference": "2-methyl-2-propanol at 30.29 ppm as internal standard"
+          },
+          {
+            "method": "ESI-MS",
+            "m/z_values": [
+              "385.3 (2 2+)",
+              "707.2 (2 2+ lacking one Cu+)"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "material_name": "Na2 3 2-",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "1,10-phenanthroline-2,9-dicarboxaldehyde",
+            "amount": "same procedure as used in the case of 1 2-"
+          },
+          {
+            "chemical": "taurine",
+            "amount": "in place of sulfanilic acid"
+          }
+        ],
+        "solvent": "Water",
+        "atmosphere": "same as 1 2-",
+        "temperature": "room temperature",
+        "time": "overnight",
+        "yield": "97%",
+        "product_characterization": [
+          {
+            "method": "1H NMR",
+            "solvent": "D2O",
+            "reference": "2-methyl-2-propanol at 1.24 ppm as internal standard"
+          },
+          {
+            "method": "13C NMR",
+            "solvent": "D2O",
+            "reference": "2-methyl-2-propanol at 30.29 ppm as internal standard"
+          },
+          {
+            "method": "ESI-MS",
+            "m/z_values": [
+              "-511.2 (3 2-)",
+              "-224.4 (imine ligand of 3 2-)"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "materials": [
+    {
+      "name": "Zn(II)-based MOF {[Zn2(2,6-NBC)2(vlpy)Zn(2,6-NBC)(vlpy)0.5]·0.8(2,6-H2NBC)·H2O}n (1)",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "4 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "4 mL"
+          }
+        ],
+        "equipment": "23 mL Teflon-lined stainless autoclave",
+        "chemicals_used": [
+          {
+            "name": "2,6-H2NBC",
+            "amount": "0.200 mmol, 43.20 mg"
+          },
+          {
+            "name": "vlpy",
+            "amount": "0.100 mmol, 18.20 mg"
+          },
+          {
+            "name": "ZnCl2",
+            "amount": "0.200 mmol, 27.2 mg"
+          }
+        ],
+        "time": "3 days",
+        "cooling_rate": "2.71 °C/h",
+        "washing_method": "washed with DMF several times",
+        "drying_method": "dried in air",
+        "yield": "85% based on Zn"
+      },
+      "x-ray_structure_determination": {
+        "equipment": "Oxford Supernova diffractometer",
+        "radiation": "Cu-Kα radiation (λ = 1.54178 Å)",
+        "temperature": "Cooled by a Cryojet controller"
+      },
+      "detection_of_DPA": {
+        "temperature": "Room temperature",
+        "solvent": "Ethanol solution",
+        "DPA_concentration_range": "0–0.3 mM",
+        "detection_limit": "128 nM"
+      },
+      "fluorescence_test_paper_fabrication": {
+        "solvent": "Ethanol",
+        "sonication_time": "10 min",
+        "distractors_concentration": "10^-3 M"
+      }
+    }
+  ]
+}

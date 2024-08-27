@@ -1,0 +1,29 @@
+{
+  "materials": [
+    {
+      "name": "NKU-128",
+      "synthesis_conditions": {
+        "temperature": "Solventothermal reaction temperature not specified",
+        "solvents": "N, N'-dimethylformamide (DMF)",
+        "chemicals_used": [
+          "3-TPPA",
+          "NDA (2,6-naphthalene dicarboxylic acid)",
+          "Zn(NO3)2"
+        ],
+        "equipment": "Not specified",
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "3-TPPA chromophore was synthesized by Suzuki–Miyaura cross-coupling reaction. The purity was validated by 1H and 13C NMR spectra."
+      }
+    },
+    {
+      "name": "3-TPPA",
+      "synthesis_conditions": {
+        "method": "Suzuki–Miyaura cross-coupling reaction",
+        "characterization": "Purity validated by 1H and 13C NMR spectra"
+      }
+    }
+  ]
+}

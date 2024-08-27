@@ -1,0 +1,116 @@
+{
+  "materials": [
+    {
+      "name": "(DIM)NiBr2",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": "DCM",
+        "amount_of_each_solvent": "5 mL",
+        "equipment": "Schlenk techniques",
+        "chemicals_used": "(DME)NiBr2, DIM",
+        "time": "12 hours",
+        "washing_method": "diethyl ether wash",
+        "drying_method": "reduced pressure",
+        "yield": "82%"
+      }
+    },
+    {
+      "name": "(DIM)Ni(NO3)2",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": "acetonitrile",
+        "amount_of_each_solvent": "5 mL",
+        "equipment": "Schlenk techniques",
+        "chemicals_used": "(DIM)NiBr2, AgNO3",
+        "time": "30 minutes",
+        "washing_method": "pentane wash",
+        "drying_method": "reduced pressure",
+        "yield": "76%"
+      }
+    },
+    {
+      "name": "(DIM)Ni(NO2)2",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": "acetonitrile",
+        "amount_of_each_solvent": "5 mL",
+        "equipment": "Schlenk techniques",
+        "chemicals_used": "(DIM)NiBr2, AgNO2",
+        "time": "30 minutes",
+        "washing_method": "pentane wash",
+        "drying_method": "reduced pressure",
+        "yield": "84%"
+      }
+    },
+    {
+      "name": "(DIM)Ni(NO)(ONO)",
+      "synthesis_conditions": {
+        "temperature": "45 °C",
+        "solvents": "d8-THF",
+        "amount_of_each_solvent": "not specified",
+        "equipment": "J-Young tube",
+        "chemicals_used": "(DIM)Ni(NO2)2, (Bpin)2Pz",
+        "time": "6 hours",
+        "washing_method": "pentane wash",
+        "drying_method": "reduced pressure",
+        "yield": "80%"
+      }
+    },
+    {
+      "name": "[(DIM)Ni(NO)]2",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": "d8-THF",
+        "amount_of_each_solvent": "not specified",
+        "equipment": "J-Young tube",
+        "chemicals_used": "(DIM)Ni(NO)(ONO), (Bpin)2Pz",
+        "time": "12 hours",
+        "washing_method": "pentane and ether wash",
+        "drying_method": "reduced pressure",
+        "yield": "75%"
+      }
+    },
+    {
+      "name": "(DIM)Ni(NO)(OTf)",
+      "synthesis_conditions": {
+        "temperature": "not specified",
+        "solvents": "THF",
+        "amount_of_each_solvent": "not specified",
+        "equipment": "Schlenk techniques",
+        "chemicals_used": "[(DIM)Ni(NO)]2, AgOTf",
+        "time": "not specified",
+        "washing_method": "pentane wash",
+        "drying_method": "reduced pressure",
+        "yield": "71%"
+      }
+    },
+    {
+      "name": "(OBPin)2Ni2(NO)2(Pz)",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": "d8-THF",
+        "amount_of_each_solvent": "not specified",
+        "equipment": "J-Young tube",
+        "chemicals_used": "(DIM)Ni(NO2)2, (Bpin)2Pz",
+        "time": "3 hours",
+        "washing_method": "pentane and ether wash",
+        "drying_method": "reduced pressure",
+        "yield": "73%"
+      }
+    },
+    {
+      "name": "(OBPin)2Ni2(NO)2(Bpy)",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": "d8-THF",
+        "amount_of_each_solvent": "not specified",
+        "equipment": "J-Young tube",
+        "chemicals_used": "(DIM)Ni(NO2)2, (Bpin)2Bpy",
+        "time": "5 hours",
+        "washing_method": "pentane and ether wash",
+        "drying_method": "reduced pressure",
+        "yield": "not specified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "materials": [
+    {
+      "name": "Ce-NAD+",
+      "synthesis_conditions": {
+        "temperature_range": "50 to 120 88C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": null
+          },
+          {
+            "name": "ethanol",
+            "amount": null
+          }
+        ],
+        "equipment": null,
+        "chemicals_used": [
+          {
+            "name": "1,1’,1’’-(benzene-1,3,5-triyltris(methylene))tris(3-carboxypyridinium)",
+            "amount": null
+          },
+          {
+            "name": "Ce-(NO3)3·6 H2O",
+            "amount": null
+          }
+        ],
+        "time": null,
+        "washing_method": null,
+        "drying_method": null,
+        "yield": "50 %",
+        "additional_steps": [
+          {
+            "step_description": "Irradiation with a 395 nm LED in air",
+            "conditions": {
+              "temperature": null,
+              "solvent": null,
+              "equipment": "395 nm LED",
+              "chemicals_used": null,
+              "time": null,
+              "atmosphere": "air"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "Eu-NAD+",
+      "synthesis_conditions": {
+        "temperature_range": null,
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": null
+          },
+          {
+            "name": "ethanol",
+            "amount": null
+          }
+        ],
+        "equipment": null,
+        "chemicals_used": [
+          {
+            "name": "1,1’,1’’-(benzene-1,3,5-triyltris(methylene))tris(3-carboxypyridinium)",
+            "amount": null
+          },
+          {
+            "name": "Eu-(NO3)3·6 H2O",
+            "amount": null
+          }
+        ],
+        "time": null,
+        "washing_method": null,
+        "drying_method": null,
+        "yield": null,
+        "additional_steps": []
+      }
+    }
+  ]
+}

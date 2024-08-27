@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of MIL-88-H2O as reported in the supplementary information?",
+      "answer": "Fe(III)3O(H2O)3{-O2C-C2H2-CO2-}3.{-O2C-CH3}.nH2O (n ~19)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of MIL-88-H2O according to the crystal data provided?",
+      "answer": "P c26",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Based on the synthesis conditions, what temperature was used for drying MIL-88-as?",
+      "answer": "423 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the relationship between the cell volume of MIL-88-as and its dried form?",
+      "answer": "The cell volume decreases by approximately 25% upon drying at 423 K.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the cell volume change upon adsorption of H2O in MIL-88-dried?",
+      "answer": "The cell volume increases by approximately 85% from the contracted to the open form of MIL-88-H2O.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of polar solvent molecules in the swelling of MIL-88?",
+      "answer": "Polar solvent molecules, upon adsorption, induce an increase in the cell volumes, inversely proportional to the mass of the solvent molecule, suggesting the creation of hydrogen bonds between solvent molecules themselves and with the organic framework.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What computational method was used to simulate the structural modifications of MIL-88 upon drying and solvent adsorption?",
+      "answer": "The simulations were performed using the Cerius2 suite of software with the universal force field and periodic boundary conditions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the cell parameter 'a' change from MIL-88-dried to MIL-88-H2O?",
+      "answer": "The 'a' cell parameter increases from 9.26 Å in MIL-88-dried to 13.87 Å in MIL-88-H2O.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the swelling phenomenon in MIL-88 reconstructive or displacive?",
+      "answer": "The swelling phenomenon in MIL-88 is displacive, as indicated by the continuous evolution of the pattern during the exchange without any bond breaking.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the successful refinement of MIL-88-H2O's crystal structure using Rietveld refinement indicate about the simulation models?",
+      "answer": "The successful refinement indicates that the simulation models are consistent with experimental data and can accurately represent the structural features of MIL-88-H2O.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption of polar solvents in MIL-88 leads to a decrease in cell volume.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The crystal structure of MIL-88-H2O was determined without the use of computational simulations.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The swelling of MIL-88 upon adsorption of various solvents is fully reversible with temperature.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The space group of MIL-88 changes upon adsorption of solvents.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The drying of MIL-88-as at 423 K results in an increase in the cell volume.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The adsorption of water in MIL-88-dried leads to the smallest increase in cell volume compared to other solvents.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The swelling of MIL-88 involves bond breaking during the process.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

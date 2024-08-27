@@ -1,0 +1,33 @@
+{
+  "materials": [
+    {
+      "material": "{Fe(pyrazine)[Pt(CN)4]}",
+      "synthesis_conditions": {
+        "temperature": "45 °C",
+        "solvents": [
+          {
+            "name": "0.5 M aqueous solution of pyrazine",
+            "amount": "sufficient to fill the jar approximately 0.5 cm above the top of the vial"
+          },
+          {
+            "name": "0.5 M aqueous solution of Fe(BF4)2·6H2O",
+            "amount": "2 mL, cooled on ice"
+          },
+          {
+            "name": "0.5 M aqueous solution of K2Pt(CN)4·3H2O",
+            "amount": "2 mL, cooled on ice"
+          }
+        ],
+        "equipment": [
+          "8 mL vial",
+          "60 mL jar with stopper",
+          "water bath"
+        ],
+        "time": "3 days",
+        "drying_method": "air dry for 1 day at room temperature, followed by heating at 423 K for dehydration",
+        "yield": "Not specified",
+        "additional_information": "The synthesis results in a mixture of yellow powder and needle crystals suitable for X-ray analysis."
+      }
+    }
+  ]
+}

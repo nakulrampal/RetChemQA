@@ -1,0 +1,46 @@
+{
+  "materials": [
+    {
+      "name": "Cd(tcm)[B(OMe)4] * xMeOH, x ≈ 1.6",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "Cd(NO3)2 . 4H2O",
+              "amount": "55 mg",
+              "molarity": "0.18 mmol"
+            },
+            {
+              "name": "K(tcm)",
+              "amount": "23 mg",
+              "molarity": "0.18 mmol"
+            },
+            {
+              "name": "Na[B(C6H5)4]",
+              "amount": "122 mg",
+              "molarity": "0.36 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "MeOH",
+              "amount": [
+                "5 mL",
+                "5 mL",
+                "10 mL"
+              ]
+            }
+          ],
+          "temperature": "Room temperature",
+          "time": "Four weeks",
+          "equipment": "None specified",
+          "yield": "27 mg",
+          "washing_method": "None specified",
+          "drying_method": "None specified",
+          "other_conditions": "The mixture was filtered to remove insoluble K[B(C6H5)4] (59 mg, 0.16 mmol)."
+        }
+      ]
+    }
+  ]
+}

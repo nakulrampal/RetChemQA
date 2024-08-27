@@ -1,0 +1,71 @@
+{
+  "materials": [
+    {
+      "name": "Th-SINAP-200",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "0.37 mL"
+          },
+          {
+            "name": "formic acid",
+            "amount": "0.04 mL"
+          },
+          {
+            "name_alternative": "concentrated hydrochloric acid",
+            "amount_alternative": "0.08 mL"
+          }
+        ],
+        "equipment": "capped vial",
+        "chemicals_used": [
+          {
+            "name": "Th(NO3)4",
+            "amount": "4.7 mg"
+          },
+          {
+            "name": "tris(4-carboxybiphenyl)amine (H3TCBPA)",
+            "amount": "2.4 mg"
+          }
+        ],
+        "time": "24 h",
+        "yield": "36%",
+        "washing_method": "washed with DMF",
+        "drying_method": "dried at room temperature"
+      }
+    },
+    {
+      "name": "Th-SINAP-201",
+      "synthesis_conditions": {
+        "transformation_from": "Th-SINAP-200",
+        "solvent": "CH3CN",
+        "time": "1 hour",
+        "washing_method": "washed with CH3CN",
+        "drying_method": "dried at room temperature"
+      }
+    },
+    {
+      "name": "Th-SINAP-202",
+      "synthesis_conditions": {
+        "transformation_from": "Th-SINAP-200",
+        "solvent": "H2O",
+        "time": "2 hours",
+        "washing_method": "washed with H2O",
+        "drying_method": "dried at room temperature"
+      }
+    },
+    {
+      "name": "Th-SINAP-203",
+      "synthesis_conditions": {
+        "transformation_from": "Th-SINAP-200",
+        "solvent": "NaIO3 solution",
+        "concentration": "600 mg/kg",
+        "time": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "additional_information": "SC-SC transformation observed upon immersion in NaIO3 solution"
+      }
+    }
+  ]
+}

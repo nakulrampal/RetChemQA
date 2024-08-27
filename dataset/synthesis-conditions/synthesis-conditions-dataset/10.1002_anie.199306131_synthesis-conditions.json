@@ -1,0 +1,63 @@
+{
+  "materials": [
+    {
+      "name": "cubane carboxylic acid 9",
+      "synthesis_conditions": {
+        "temperature": "30-40 C",
+        "solvents": "oxalyl chloride",
+        "amount_of_solvent": "20 mL",
+        "equipment": "quartz flask with a Rayonet photochemical reactor (1849 A-2537 A)",
+        "time": "4 h",
+        "yield": "60%",
+        "additional_steps": [
+          {
+            "step": "hydrolysis",
+            "description": "Performed after irradiation to produce 12 (Z = COOH)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "solvents": "ethanol, water",
+        "amount_of_solvent": "minimum amount of ethanol, 80 mL of water",
+        "chemicals_used": [
+          {
+            "name": "2,2'-Bipyrimidine",
+            "amount": "0.158 g (1 mmol)"
+          },
+          {
+            "name": "Cu(NO3)2 . 3 H2O",
+            "amount": "0.242 g (1 mmol)"
+          },
+          {
+            "name": "sodium oxalate",
+            "amount": "0.134 g (1 mmol)"
+          }
+        ],
+        "method": "Slow addition of sodium oxalate to the solution of 2,2'-Bipyrimidine and Cu(NO3)2 . 3 H2O in ethanol and water, followed by evaporation at room temperature to yield blue hexagonal crystals.",
+        "drying_method": "filtered off and dried on filter paper"
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "solvents": "water",
+        "amount_of_solvent": "100 mL",
+        "chemicals_used": [
+          {
+            "name": "Cu(NO3)2 . 3 H2O",
+            "amount": "0.060 g (0.25 mmol)"
+          },
+          {
+            "name": "1",
+            "amount": "0.436 g (1 mmol)"
+          }
+        ],
+        "method": "Solution of Cu(NO3)2 . 3 H2O added to an aqueous solution of 1, followed by slow evaporation to yield cubic green crystals.",
+        "drying_method": "evaporation at room temperature"
+      }
+    }
+  ]
+}

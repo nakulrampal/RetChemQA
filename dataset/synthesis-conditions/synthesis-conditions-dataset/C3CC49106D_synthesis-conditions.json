@@ -1,0 +1,47 @@
+{
+  "materials": [
+    {
+      "name": "1·H2O·C2H5OH",
+      "synthesis_conditions": {
+        "temperature": "120°C",
+        "solvents": "H2O/EtOH (1:1)",
+        "amount_of_solvent": "7 mL",
+        "equipment": "23 mL Teflon liner stainless steel reactor",
+        "chemicals_used": {
+          "Zn(OAc)2·2H2O": "0.021 g, 0.10 mmol",
+          "4-NO2-bdc": "0.021 g, 0.10 mmol",
+          "bpe": "0.036 g, 0.20 mmol",
+          "KOH": "0.006g, 0.10 mmol"
+        },
+        "time": "4 days",
+        "yield": "85%",
+        "washing_method": "washed with deionized water",
+        "drying_method": "allowed to dry in air"
+      }
+    },
+    {
+      "name": "1·H2O·2.5H2O",
+      "synthesis_conditions": {
+        "description": "Hydrated phase obtained by exposing 1·H2O·C2H5OH to air humidity for a period of time until saturation adsorption within 10 min."
+      }
+    },
+    {
+      "name": "1·H2O",
+      "synthesis_conditions": {
+        "description": "Intermediate phase obtained during the hydration of 1 in the first ~1min, giving a partly hydrated phase with one H2O molecule accommodated in cage A leaving cage B still empty."
+      }
+    },
+    {
+      "name": "1·H2O·I2",
+      "synthesis_conditions": {
+        "description": "Iodine-loaded phase obtained by soaking 1·H2O·C2H5OH crystals in a 5 ml of iodine cyclohexane solution (0.1 M/L). After uptake of iodine, the resulting violet crystals were separated, thoroughly washed with cyclohexane, and dried in air."
+      }
+    },
+    {
+      "name": "[Zn3(nbdc)2-(rctt-tpcb)0.5(bpe)0.5(OH)2]·H2O·0.5H2O (2)",
+      "synthesis_conditions": {
+        "description": "50% photoreactive intermediate captured by irradiating crystals of 1·H2O·C2H5OH for 13 h."
+      }
+    }
+  ]
+}

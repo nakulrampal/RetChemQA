@@ -1,0 +1,43 @@
+{
+  "SIFSIX-Cu-TPA": {
+    "synthesis_conditions": {
+      "temperature": "ambient temperature",
+      "solvents": [
+        {
+          "name": "methanol",
+          "amount": "not specified"
+        },
+        {
+          "name": "aqueous solution",
+          "amount": "not specified"
+        }
+      ],
+      "time": "one week",
+      "chemicals_used": [
+        {
+          "name": "TPA",
+          "amount": "not specified"
+        },
+        {
+          "name": "CuSiF6",
+          "amount": "not specified"
+        }
+      ],
+      "equipment": "not specified",
+      "yield": "dark purple block-shaped crystals",
+      "washing_method": "not specified",
+      "drying_method": "not specified"
+    },
+    "properties": {
+      "BET_surface_area": "1330 m2 g-1",
+      "C2H2_uptake": "185 cm3 g-1 at 298 K and 1 bar",
+      "CO2_uptake": "107 cm3 g-1 at 298 K and 1 bar",
+      "C2H2/CO2_separation_performance": {
+        "breakthrough_time": "68 min g-1 at 298 K and 1 bar"
+      },
+      "water_stability": "ultra-high",
+      "thermal_stability": "high up to 200 8C in N2",
+      "solvent_stability": "maintains structure in common solvents and 0.1 M HCl aqueous solution"
+    }
+  }
+}

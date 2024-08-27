@@ -1,0 +1,54 @@
+{
+  "materials": [
+    {
+      "name": "[Zn3(bdc)2(dfp)2]·2DMF 1",
+      "synthesis_conditions": {
+        "temperature": "100°C",
+        "solvents": "DMF",
+        "amount_of_solvent": "6 cm3",
+        "equipment": "glass vial, oven",
+        "chemicals_used": "Zn(NO3)2·6H2O (0.0889 g, 0.30 mmol), H2bdc (0.0499 g, 0.30 mmol), Hdfp (0.0419 g, 0.30 mmol)",
+        "time": "24 hours",
+        "yield": "0.0728 g (77%)"
+      }
+    },
+    {
+      "name": "[Zn3(bdc)2(dfp)2(H2O)2] 2",
+      "synthesis_conditions": {
+        "temperature": "95°C",
+        "solvents": "Ethanol, distilled water",
+        "amount_of_solvent": "Ethanol (5 cm3), distilled water (1 cm3)",
+        "equipment": "glass vial, oven",
+        "chemicals_used": "Zn(NO3)2·6H2O (0.0893 g, 0.30mmol), H2bdc (0.0499 g, 0.30 mmol), Hdfp (0.0419 g, 0.30mmol)",
+        "time": "24 hours",
+        "yield": "0.0687 g (82%)"
+      }
+    },
+    {
+      "name": "[Zn3(bdc-NH2)2(dfp)2]·DMF 3 and [Zn3(bdc-NH2)2(dfp)2(H2O)2] 4",
+      "synthesis_conditions": {
+        "temperature": "100°C",
+        "solvents": "DMF, water",
+        "amount_of_solvent": "DMF (5 cm3), water (1 cm3)",
+        "equipment": "glass vials, oven",
+        "chemicals_used": "Zn(NO3)2·6H2O (0.134 g, 0.45 mmol), H2bdc-NH2 (0.054 g, 0.30 mmol), Hdfp (0.042 g, 0.30 mmol)",
+        "time": "24 hours",
+        "yield": "0.0693 g (48%, assuming sample is 3)"
+      }
+    },
+    {
+      "name": "[Zn3{bdc-(OH)2}2(dfp)2(H2O)2]·2DMF 5",
+      "synthesis_conditions": {
+        "temperature": "100°C",
+        "solvents": "DMF",
+        "amount_of_solvent": "6 cm3",
+        "additional_solvents": "Water",
+        "amount_of_additional_solvent": "0.3 cm3",
+        "equipment": "glass vial, oven",
+        "chemicals_used": "Zn(NO3)2·6H2O (0.140 g, 0.47 mmol), H2bdc-(OH)2 (0.032 g, 0.16 mmol), Hdfp (0.077 g, 0.55 mmol)",
+        "time": "20 hours",
+        "yield": "0.0885 g (54%)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "materials": [
+    {
+      "name": "LICSAR2",
+      "synthesis_conditions": {
+        "solvents": "deionized water",
+        "amount_of_solvent_ml": 2,
+        "temperature_C": "~80",
+        "chemicals_used": [
+          {
+            "name": "Lithium chloride, anhydrous",
+            "purity": "99%",
+            "amount_g": 0.5,
+            "amount_mmol": 11.8
+          },
+          {
+            "name": "sarcosine",
+            "purity": "98%",
+            "amount_g": 3.15,
+            "amount_mmol": 35.4
+          }
+        ],
+        "yield_g": 1213
+      }
+    },
+    {
+      "name": "LINBTN2",
+      "synthesis_conditions": {
+        "solvents": "deionized water",
+        "amount_of_solvent_ml": 2,
+        "temperature_C": "~80",
+        "chemicals_used": [
+          {
+            "name": "Lithium nitrate",
+            "purity": "98%",
+            "amount_g": 413.4,
+            "amount_mmol": 6.0
+          },
+          {
+            "name": "betaine",
+            "purity": "99+%",
+            "amount_g": 1405.6,
+            "amount_mmol": 12.0
+          }
+        ],
+        "yield_g": 357
+      }
+    },
+    {
+      "name": "LICDMG2",
+      "synthesis_conditions": {
+        "solvents": "deionized water",
+        "amount_of_solvent_ml": 3,
+        "temperature_C": "~80",
+        "chemicals_used": [
+          {
+            "name": "Lithium chloride, anhydrous",
+            "purity": "99%",
+            "amount_g": 0.5,
+            "amount_mmol": 11.8
+          },
+          {
+            "name": "N,N-dimethylglycine",
+            "amount_g": 2.44,
+            "amount_mmol": 23.6
+          }
+        ],
+        "yield_g": 1488
+      }
+    },
+    {
+      "name": "LIBDMG2",
+      "synthesis_conditions": {
+        "solvents": "deionized water",
+        "amount_of_solvent_ml": 2,
+        "temperature_C": "~80",
+        "chemicals_used": [
+          {
+            "name": "Lithium bromide, anhydrous",
+            "purity": "99%",
+            "amount_g": 0.5,
+            "amount_mmol": 5.76
+          },
+          {
+            "name": "N,N-dimethylglycine",
+            "amount_g": 1.19,
+            "amount_mmol": 11.5
+          }
+        ],
+        "yield_g": 696
+      }
+    },
+    {
+      "name": "LICPRO2",
+      "synthesis_conditions": {
+        "solvents": "deionized water",
+        "amount_of_solvent_ml": 2,
+        "temperature_C": "~80",
+        "chemicals_used": [
+          {
+            "name": "Lithium chloride, anhydrous",
+            "purity": "99%",
+            "amount_g": 0.5,
+            "amount_mmol": 11.8
+          },
+          {
+            "name": "L-proline",
+            "purity": "99+%",
+            "amount_g": 2.72,
+            "amount_mmol": 23.6
+          }
+        ],
+        "yield_g": 1266
+      }
+    },
+    {
+      "name": "LIBPRO2",
+      "synthesis_conditions": {
+        "solvents": "deionized water",
+        "amount_of_solvent_ml": 2,
+        "temperature_C": "~80",
+        "chemicals_used": [
+          {
+            "name": "Lithium bromide, anhydrous",
+            "purity": "99+%",
+            "amount_g": 0.5,
+            "amount_mmol": 5.76
+          },
+          {
+            "name": "L-proline",
+            "purity": "99+%",
+            "amount_g": 1.33,
+            "amount_mmol": 11.5
+          }
+        ],
+        "yield_g": 861
+      }
+    },
+    {
+      "name": "LINPRO2",
+      "synthesis_conditions": {
+        "solvents": "deionized water",
+        "amount_of_solvent_ml": 2,
+        "temperature_C": "~80",
+        "chemicals_used": [
+          {
+            "name": "Lithium nitrate",
+            "purity": "98%",
+            "amount_g": 413.4,
+            "amount_mmol": 6.0
+          },
+          {
+            "name": "L-proline",
+            "purity": "99+%",
+            "amount_g": 1381.2,
+            "amount_mmol": 12.0
+          }
+        ],
+        "yield_g": 603,
+        "notes": "Colorless plates (LINPRO2, ABW) were collected from the hot solution. These crystals were observed to convert to rhombohedral crystals (LINPRO2, dia) upon removal from the hot plate."
+      }
+    }
+  ]
+}

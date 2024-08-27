@@ -1,0 +1,53 @@
+{
+  "CPM-323": {
+    "synthesis_conditions": {
+      "temperature": "120 88C",
+      "solvents": ["ethylene glycol monoethyl ether (EGEE)", "water"],
+      "chemicals_used": ["cobalt nitrate", "d-camphoric acid", "TPT"],
+      "structure": "layered",
+      "framework": "2D",
+      "pillaring_molecule": "TPT",
+      "pillaring_effectiveness": "ineffective"
+    }
+  },
+  "CPM-324": {
+    "synthesis_conditions": {
+      "temperature": "higher-symmetry C2 space group",
+      "solvents": ["ethylene glycol (EG)"],
+      "chemicals_used": ["cobalt nitrate", "d-camphoric acid", "TPT"],
+      "structure": "layered",
+      "framework": "2D",
+      "pillaring_molecule": "TPT",
+      "pillaring_effectiveness": "ineffective"
+    }
+  },
+  "CPM-325": {
+    "synthesis_conditions": {
+      "chemicals_used": ["cobalt nitrate", "d-camphoric acid", "TPT", "aromatic guest molecules (styrene, phenazine, naphthalene)"],
+      "framework": "3D",
+      "formula": "Co2(d-cam)2(TPT)1(G)0.5",
+      "pillaring_molecule": "TPT",
+      "guest_molecules": ["styrene", "phenazine", "naphthalene"],
+      "TPT_Guest_ratio": "2",
+      "pillar_to_pillar_distance": "increased"
+    }
+  },
+  "CPM-326": {
+    "synthesis_conditions": {
+      "chemicals_used": ["cobalt nitrate", "d-camphoric acid", "TPT", "large PAHs (anthracene, phenanthrene, triphenylene, pyrene, perylene)"],
+      "framework": "3D",
+      "formula": "Co2(d-cam)2(TPT)1(PAH)1",
+      "pillaring_molecule": "TPT",
+      "guest_molecules": ["anthracene", "phenanthrene", "triphenylene", "pyrene", "perylene"],
+      "TPT_Guest_ratio": "1",
+      "pillar_to_pillar_distance": "increased"
+    }
+  },
+  "Extraction_of_PAHs": {
+    "method": "refluxing in methanol under 60 88C",
+    "monitoring": "1H NMR spectroscopy",
+    "solvent_for_extraction": "methanol",
+    "temperature_for_extraction": "60 88C",
+    "outcome": "naphthalene partially removed at 10 h, complete at 24 h"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "materials": [
+    {
+      "name": "MOF-519",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "chemicals_used": [
+            "aluminum nitrate",
+            "H3BTB",
+            "nitric acid",
+            "N,N-Dimethylformamide (DMF)"
+          ],
+          "temperature": "150 °C",
+          "time": "4 days",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "9 mL"
+            }
+          ],
+          "equipment": "Teflon vessel in stainless steel autoclave",
+          "yield": "Not specified"
+        },
+        {
+          "step": "Washing",
+          "washing_method": "centrifugation and washed with DMF",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "10 mL"
+            }
+          ]
+        },
+        {
+          "step": "Drying",
+          "drying_method": "Supercritical CO2 drying"
+        }
+      ]
+    },
+    {
+      "name": "MOF-520",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "chemicals_used": [
+            "Al(NO3)3·9H2O",
+            "H3BTB",
+            "formic acid",
+            "DMF"
+          ],
+          "temperature": "130 °C",
+          "time": "48 hours",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "14 mL"
+            },
+            {
+              "name": "formic acid",
+              "amount": "1.4 mL"
+            }
+          ],
+          "equipment": "20-mL vial in oven",
+          "yield": "Not specified"
+        },
+        {
+          "step": "Washing",
+          "washing_method": "washed with DMF",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "20 mL"
+            }
+          ]
+        },
+        {
+          "step": "Drying",
+          "drying_method": "Supercritical CO2 drying followed by heating at 120 °C under vacuum at 30 mTorr for 3 hours"
+        }
+      ]
+    }
+  ]
+}

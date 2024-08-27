@@ -1,0 +1,100 @@
+{
+  "materials": [
+    {
+      "name": "Cu-MOF",
+      "synthesis_conditions": {
+        "method": "solvothermal",
+        "precursors": [
+          "Cu(OAc)2·4H2O",
+          "H2L"
+        ],
+        "solvents": [
+          "H2O",
+          "N,N-dimethylacetamide (DMA)"
+        ],
+        "solvent_volumes": [
+          "6 mL",
+          "6 mL"
+        ],
+        "additional_reagents": "20 µL HNO3",
+        "temperature": "120 °C",
+        "duration": "1 day",
+        "cooling_rate": "5 °C h−1",
+        "post_treatment": "washed thoroughly by DMA",
+        "yield": "85% based on Co(OAc)2·4H2O",
+        "average_pore_size": "2.5 Å",
+        "elemental_analysis": {
+          "C": "26.66%",
+          "H": "3.46%"
+        },
+        "calculated_elemental_analysis": {
+          "C": "26.75%",
+          "H": "3.37%"
+        }
+      }
+    },
+    {
+      "name": "Co-MOF",
+      "synthesis_conditions": {
+        "method": "solvothermal",
+        "precursors": [
+          "Co(OAc)2·4H2O",
+          "H2L"
+        ],
+        "solvents": [
+          "H2O",
+          "N,N-dimethylacetamide (DMA)"
+        ],
+        "solvent_volumes": [
+          "6 mL",
+          "6 mL"
+        ],
+        "additional_reagents": "20 µL HNO3",
+        "temperature": "120 °C",
+        "duration": "1 day",
+        "cooling_rate": "5 °C h−1",
+        "post_treatment": "washed thoroughly by DMA",
+        "yield": "85% based on Co(OAc)2·4H2O",
+        "average_pore_size": "1.57 Å",
+        "elemental_analysis": {
+          "C": "26.66%",
+          "H": "3.46%"
+        },
+        "calculated_elemental_analysis": {
+          "C": "26.75%",
+          "H": "3.37%"
+        }
+      }
+    },
+    {
+      "name": "MOF-modified flexible sensors",
+      "synthesis_conditions": {
+        "substrate": "PET film",
+        "printing_technique": "screen-printing",
+        "layers": [
+          "Ag conductive ink",
+          "carbon working and counter electrodes",
+          "insulation layer"
+        ],
+        "curing_temperatures": [
+          "120 °C for Ag and insulation layers",
+          "150 °C for carbon layer"
+        ],
+        "curing_duration": "1 h",
+        "reference_electrode_preparation": "chloridized by dipping in FeCl3 solution",
+        "MOFs_dispersion_solution": {
+          "MOFs_micro-nanoparticles": "0.02 g",
+          "solvent": "PBS",
+          "solvent_volume": "10 mL",
+          "Nafion_weight_percentage": "10 wt%",
+          "sonication_duration": "10 min"
+        },
+        "additional_layers": "Nafion layer",
+        "glucose_detection_preparation": {
+          "glucose_oxidase_solution": "80 mg mL−1 in PBS",
+          "carbon_nanotube_solution_ratio": "10:1 (volume by volume)"
+        }
+      }
+    }
+  ]
+}

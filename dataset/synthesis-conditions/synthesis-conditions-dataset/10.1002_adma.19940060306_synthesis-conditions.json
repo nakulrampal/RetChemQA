@@ -1,0 +1,82 @@
+{
+  "materials": [
+    {
+      "name": "a-polymorph of [MnPc][TCNE]",
+      "synthesis_conditions": {
+        "method": "grinding followed by dissolution",
+        "solvents": [
+          {
+            "name": "MeCN",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "MnPc",
+            "amount": "not specified"
+          },
+          {
+            "name": "TCNE",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "not specified",
+        "time": "not specified",
+        "temperature": "room temperature for dissolution",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "P-polymorph of [MnPc][TCNE]",
+      "synthesis_conditions": {
+        "method": "direct reaction in refluxing MeCN",
+        "solvents": [
+          {
+            "name": "MeCN",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "MnPc",
+            "amount": "not specified"
+          },
+          {
+            "name": "TCNE",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "not specified",
+        "time": "not specified",
+        "temperature": "reflux temperature of MeCN",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "[MnPc][C(CN)4]",
+      "synthesis_conditions": {
+        "method": "crystallization from MeCN",
+        "solvents": [
+          {
+            "name": "MeCN",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "MnPc",
+            "amount": "not specified"
+          },
+          {
+            "name": "C(CN)4",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "not specified",
+        "time": "long standing",
+        "temperature": "not specified",
+        "yield": "not specified"
+      }
+    }
+  ]
+}

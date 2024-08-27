@@ -1,0 +1,33 @@
+{
+  "materials": [
+    {
+      "name": "CdCl2-4HP",
+      "synthesis_conditions": {
+        "solvent": "aqueous solution",
+        "temperature": "ambient",
+        "chemicals_used": [
+          "metal cadmium",
+          "4-hydroxypyridine (4HP)"
+        ],
+        "structure": "2D blue light-emitting hybrid perovskite micro/nanosheets",
+        "PLQY": "63.55%",
+        "lifetime": "103.12 ms",
+        "afterglow_characteristics": "persist for at least 4 s"
+      }
+    },
+    {
+      "name": "CdBr2-4HP",
+      "synthesis_conditions": {
+        "solvent": "aqueous solution",
+        "temperature": "ambient",
+        "chemicals_used": [
+          "metal cadmium",
+          "4-hydroxypyridine (4HP)"
+        ],
+        "structure": "similar to CdCl2-4HP",
+        "PLQY": "25.36%",
+        "comments": "Exhibits a stronger heavy-atom effect compared to CdCl2-4HP due to the use of bromine instead of chlorine."
+      }
+    }
+  ]
+}

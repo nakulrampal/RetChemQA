@@ -1,0 +1,201 @@
+{
+  "materials": [
+    {
+      "name": "5-Iodoisophthalic Acid (2)",
+      "synthesis_conditions": {
+        "temperature": "ambient conditions, then refluxed for 1 h",
+        "solvents": [
+          {
+            "name": "concentrated hydrochloric acid",
+            "amount": "49 cm3"
+          },
+          {
+            "name": "water",
+            "amount": "49 cm3, then 9.6 cm3, then 38 cm3"
+          }
+        ],
+        "equipment": "ice–water bath",
+        "chemicals_used": [
+          {
+            "name": "5-aminoisophthalic acid",
+            "amount": "5.00 g, 0.0276 mol"
+          },
+          {
+            "name": "sodium nitrite",
+            "amount": "2.05 g, 0.0295 mol"
+          },
+          {
+            "name": "potassium iodide",
+            "amount": "15.0 g, 0.0903 mol"
+          }
+        ],
+        "yield": "5.76 g (72%)",
+        "drying_method": "air dried"
+      }
+    },
+    {
+      "name": "Dimethyl 5-Iodoisophthalate (3)",
+      "synthesis_conditions": {
+        "temperature": "refluxed with thionyl chloride for 3.5 h",
+        "solvents": [
+          {
+            "name": "thionyl chloride",
+            "amount": "65 cm3, 0.89 mol"
+          },
+          {
+            "name": "methanol",
+            "amount": "50 cm3"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "5-Iodoisophthalic acid (2)",
+            "amount": "14.83 g, 0.050 mol"
+          }
+        ],
+        "yield": "13.32 g (82%)",
+        "drying_method": "filtered off and recrystallized from methanol"
+      }
+    },
+    {
+      "name": "Dimethyl 5-(Diisopropyloxyphosphoryl)­isophthalate (4a)",
+      "synthesis_conditions": {
+        "temperature": "90 °C for 24 h",
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "20 mL"
+          }
+        ],
+        "equipment": "50 cm3 round-bottom flask, flushed with argon for 15 min",
+        "chemicals_used": [
+          {
+            "name": "dimethyl 5-iodoisophthalate (3)",
+            "amount": "2.00 g, 6.25 mmol"
+          },
+          {
+            "name": "diisopropyl phosphite",
+            "amount": "1.246 g, 7.5 mmol"
+          },
+          {
+            "name": "diisopropylethylamine",
+            "amount": "1.05 g, 8.125 mmol"
+          },
+          {
+            "name": "palladium acetate",
+            "amount": "0.014 g, 0.0625 mmol"
+          },
+          {
+            "name": "1,1′-bis­(diphenylphosphine)­ferrocene (dppf)",
+            "amount": "0.038 g, 0.0687 mmol"
+          }
+        ],
+        "yield": "1.434 g (64%)",
+        "drying_method": "evaporated to dryness in vacuo, purified by column chromatography"
+      }
+    },
+    {
+      "name": "Dimethyl 5-(Diethoxyphosphoryl)­isophthalate (4b)",
+      "synthesis_conditions": {
+        "temperature": "Same as 4a",
+        "solvents": [
+          {
+            "name": "ethyl acetate",
+            "amount": "for TLC-PET foil, UV light 254 nm"
+          }
+        ],
+        "equipment": "Same procedure as 4a",
+        "chemicals_used": [
+          {
+            "name": "dimethyl 5-iodoisophthalate",
+            "amount": "1.173 g"
+          },
+          {
+            "name": "diethyl phosphite",
+            "note": "used instead of diisopropyl phosphite"
+          }
+        ],
+        "yield": "42%",
+        "drying_method": "Same as 4a"
+      }
+    },
+    {
+      "name": "5-(Dihydroxyphosphoryl)­isophthalic Acid (PiPhtA, 1)",
+      "synthesis_conditions": {
+        "temperature": "refluxed for 20 h",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "4 cm3"
+          },
+          {
+            "name": "concentrated hydrochloric acid",
+            "amount": "4 cm3"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "dimethyl 5-(diisopropyloxyphosphoryl)­isophthalate (4a)",
+            "amount": "1.072 g, 3.00 mmol"
+          }
+        ],
+        "yield": "0.734 g (99%)",
+        "drying_method": "evaporated to dryness in vacuo"
+      }
+    },
+    {
+      "name": "Ca-PiPhtA-I",
+      "synthesis_conditions": {
+        "temperature": "ambient conditions",
+        "solvents": [
+          {
+            "name": "DI water",
+            "amount": "10 cm3 for ligand, 5 cm3 for CaCl2·2H2O"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "5-(dihydroxyphosphoryl)­isophthalic acid (1)",
+            "amount": "0.061 g, 0.250 mmol"
+          },
+          {
+            "name": "CaCl2·2H2O",
+            "amount": "0.037 g, 0.250 mmol"
+          },
+          {
+            "name": "0.1 M NaOH stock solution",
+            "note": "used for pH adjustments"
+          }
+        ],
+        "yield": "92%",
+        "drying_method": "isolated by filtration, washed with DI water, and air dried"
+      }
+    },
+    {
+      "name": "Ca-PiPhtA-II",
+      "synthesis_conditions": {
+        "temperature": "75 °C for 2 h",
+        "note": "Obtained by thermal treatment of solid Ca-PiPhtA-I"
+      }
+    },
+    {
+      "name": "Ca-PiPhtA-NH3",
+      "synthesis_conditions": {
+        "temperature": "10 °C for 18 h after exposure to NH3 vapors for 2 h",
+        "solvents": [
+          {
+            "name": "commercial solution of 28 wt % of NH3 in water",
+            "note": "used for NH3 vapors"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Ca-PiPhtA-I",
+            "amount": "150 mg"
+          }
+        ],
+        "drying_method": "air dried for 15 min"
+      }
+    }
+  ]
+}

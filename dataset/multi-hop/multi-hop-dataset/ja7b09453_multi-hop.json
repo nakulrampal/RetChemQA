@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the main finding regarding the diffusion of CO2 in Zn2(dobpdc) as reported in the study?",
+      "answer": "The study found that CO2 is able to diffuse between adjacent framework channels in the ab plane of Zn2(dobpdc), with self-diffusion coefficients of D∥ = (5.8 ± 0.1) × 10–9 m2 s–1 and D⊥ = (1.9 ± 0.2) × 10–10 m2 s–1 at 298 K and a pressure of 625 mbar of CO2.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the experimental setup for PFG NMR measurements relate to the observed diffusion anisotropy in Zn2(dobpdc)?",
+      "answer": "The experimental setup for PFG NMR measurements, which involves aligning the magnetic field and field gradient either horizontally or vertically in the lab frame, is crucial for observing the diffusion anisotropy in Zn2(dobpdc) as it allows for the measurement of self-diffusion coefficients parallel and perpendicular to the hexagonal channels of the framework.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study's findings suggest that defects in the framework structure of Zn2(dobpdc) are likely responsible for the observed nonzero diffusion in the ab plane.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to determine the self-diffusion coefficients of CO2 in Zn2(dobpdc), and what were the key findings?",
+      "answer": "Pulsed field gradient (PFG) NMR spectroscopy was used to determine the self-diffusion coefficients of CO2 in Zn2(dobpdc), finding that CO2 diffusion is ∼30 times faster along the hexagonal channels compared to diffusion between the channels at a pressure of 625 mbar.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How do molecular dynamics (MD) simulations contribute to the understanding of CO2 diffusion in Zn2(dobpdc)?",
+      "answer": "MD simulations provided insights into the CO2 diffusion behavior in Zn2(dobpdc), revealing that long-range self-diffusion of CO2 occurs along the c axis, while diffusion in the ab plane is limited to displacements within a single pore, indicating the absence of a thermally activated diffusion mechanism that could allow CO2 to move between pores.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study's X-ray crystallography experiments revealed clear distortions of the framework upon the adsorption of CO2 in Zn2(dobpdc).",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What challenges were encountered in accurately modeling the NMR powder pattern for CO2 in Zn2(dobpdc) using magic angle spinning (MAS) NMR?",
+      "answer": "Challenges in accurately modeling the NMR powder pattern for CO2 in Zn2(dobpdc) using MAS NMR included the preferred alignment of the needle-like crystals with the rotor axis, which led to inaccuracies in the model due to bulk magnetic susceptibility effects and the different orientations of the sample relative to the magnetic field in MAS experiments compared to static measurements.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study found that the uptake of N2 at 77 K in Zn2(dobpdc) was slightly lower than previously reported for powder samples, possibly due to blocked metal sites.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role did elemental analysis (EA) and inductively coupled plasma – optical emission spectrometry (ICP – OES) play in the study of Zn2(dobpdc)?",
+      "answer": "EA and ICP – OES were used to determine the experimental mass percentages of various elements in Zn2(dobpdc) single crystals, comparing them with expected values to assess the material's composition and the presence of zinc deficiencies, which could indicate framework defects.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How did the study address the potential for CO2 exchange between Zn2(dobpdc) crystals with different orientations?",
+      "answer": "The study used two-dimensional exchange NMR spectroscopy experiments to probe the exchange of CO2 between Zn2(dobpdc) crystals with different orientations during specified mixing times, finding that significant exchange occurs on timescales much longer than those employed for PFG measurements.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

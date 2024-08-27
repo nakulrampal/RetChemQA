@@ -1,0 +1,101 @@
+{
+  "materials": [
+    {
+      "name": "UOC-NH4",
+      "synthesis_conditions": {
+        "temperature": "90°C",
+        "solvents": ["water"],
+        "amount_of_solvent": "5 mL",
+        "equipment": "capped vial",
+        "equipment_volume": "10 mL",
+        "chemicals_used": [
+          "UO2(NO3)2·6H2O (0.1 mmol, 0.050 g)",
+          "H2FDA (0.15 mmol, 0.0234 g)",
+          "NH3·H2O (0.3 mmol)"
+        ],
+        "time": "48 h",
+        "yield": "≈60% based on the uranyl unit",
+        "element_analysis": {
+          "calculated": {
+            "C": "19.47%",
+            "H": "2.00%",
+            "N": "2.52%"
+          },
+          "found": {
+            "C": "19.41%",
+            "H": "2.09%",
+            "N": "2.45%"
+          }
+        }
+      }
+    },
+    {
+      "name": "UOC-Ca",
+      "synthesis_conditions": {
+        "temperature": "90°C",
+        "solvents": ["water"],
+        "amount_of_solvent": "5 mL",
+        "equipment": "capped vial",
+        "equipment_volume": "10 mL",
+        "chemicals_used": [
+          "UO2(NO3)2·6H2O (0.1 mmol, 0.050 g)",
+          "H2FDA (0.15 mmol, 0.0234 g)",
+          "Ca(OH)2 (0.15 mmol, 0.011 g)"
+        ],
+        "time": "48 h",
+        "yield": "≈60% based on the uranyl unit",
+        "element_analysis": {
+          "calculated": {
+            "C": "18.50%",
+            "H": "1.71%"
+          },
+          "found": {
+            "C": "18.42%",
+            "H": "1.81%"
+          }
+        }
+      }
+    },
+    {
+      "name": "UOC-Na",
+      "synthesis_conditions": {
+        "temperature": "90°C",
+        "solvents": ["water"],
+        "amount_of_solvent": "5 mL",
+        "equipment": "capped vial",
+        "equipment_volume": "10 mL",
+        "chemicals_used": [
+          "UO2(NO3)2·6H2O (0.1 mmol, 0.050 g)",
+          "H2FDA (0.15 mmol, 0.0234 g)",
+          "NaOH (0.3 mmol, 0.012 g)"
+        ],
+        "time": "48 h",
+        "yield": "≈80% based on the uranyl unit",
+        "element_analysis": {
+          "calculated": {
+            "C": "18.79%",
+            "H": "1.04%"
+          },
+          "found": {
+            "C": "18.88%",
+            "H": "1.19%"
+          }
+        }
+      }
+    },
+    {
+      "name": "UOC-Na (bulk sample)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "UO2(NO3)2·6H2O (0.5 mmol, 0.250 g)",
+          "H2FDA (0.75 mmol, 0.117 g)",
+          "NaOH (1.5 mmol, 0.06 g)"
+        ],
+        "solvents": ["water"],
+        "amount_of_solvent": "15 mL",
+        "temperature": "room temperature",
+        "product_form": "precipitate"
+      }
+    }
+  ]
+}

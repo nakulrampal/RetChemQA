@@ -1,0 +1,101 @@
+{
+  "Zn-DPA.2H2O": {
+    "temperature": "183 K",
+    "solvents": "ethanol/water (9/1)",
+    "amount_of_each_solvent": "5 mL",
+    "equipment": "screw capped vial",
+    "chemicals_used": [
+      {
+        "chemical": "Zn(NO3)2·6H2O",
+        "amount": "29.8 mg",
+        "molar_amount": "0.1 mmol"
+      },
+      {
+        "chemical": "4,4′,4″-tricarboxyltriphenylamine (H3tca)",
+        "amount": "18.9 mg",
+        "molar_amount": "0.05 mmol"
+      },
+      {
+        "chemical": "(E)-1,2-di(pyridin-4-yl)diazene (dpa)",
+        "amount": "9.2 mg",
+        "molar_amount": "0.05 mmol"
+      }
+    ],
+    "time": "3 days",
+    "temperature_for_synthesis": "110 °C",
+    "yield": "82%",
+    "washing_method": "filtration",
+    "drying_method": "air-dried",
+    "crystal_system": "Monoclinic",
+    "space_group": "C2/c",
+    "unit_cell_parameters": {
+      "a": "24.3603(11) Å",
+      "b": "13.3966(3) Å",
+      "c": "22.8922(11) Å",
+      "alpha": "90.00°",
+      "beta": "127.056(7)°",
+      "gamma": "90.00°"
+    },
+    "volume": "5962.0(6) Å3",
+    "Z": "8",
+    "Rint": "0.0582",
+    "mu": "1.264 cm-1",
+    "Dcalcd": "1.329 Mg m-3",
+    "F(000)": "2416",
+    "goodness_of_fit": "1.102",
+    "reflections_collected": "8972",
+    "independent_reflections": "7344",
+    "R": "0.0492",
+    "Rw": "0.1477"
+  },
+  "Zn-DPA": {
+    "temperature": "183 K",
+    "drying_method": "heated to 120 °C in vacuo for ~32 h",
+    "yield": "Based on desolvation of Zn-DPA.2H2O",
+    "crystal_system": "Monoclinic",
+    "space_group": "C2/c",
+    "unit_cell_parameters": {
+      "a": "24.5697(14) Å",
+      "b": "13.3294(3) Å",
+      "c": "22.9612(13) Å",
+      "alpha": "90.00°",
+      "beta": "127.632(9)°",
+      "gamma": "90.00°"
+    },
+    "volume": "5955.3(8) Å3",
+    "Z": "8",
+    "Rint": "0.0534",
+    "mu": "1.277 cm-1",
+    "Dcalcd": "1.456 Mg m-3",
+    "F(000)": "2640",
+    "goodness_of_fit": "1.048",
+    "reflections_collected": "8948",
+    "independent_reflections": "7143",
+    "R": "0.0418",
+    "Rw": "0.1181"
+  },
+  "Zn-DPA.2CO2": {
+    "temperature": "183 K",
+    "crystal_system": "Monoclinic",
+    "space_group": "C2/c",
+    "unit_cell_parameters": {
+      "a": "24.0983(13) Å",
+      "b": "13.5396(4) Å",
+      "c": "22.9142(12) Å",
+      "alpha": "90.00°",
+      "beta": "127.451(8)°",
+      "gamma": "90.00°"
+    },
+    "volume": "5935.4(7) Å3",
+    "Z": "8",
+    "Rint": "0.0478",
+    "mu": "1.261 cm-1",
+    "Dcalcd": "1.263 Mg m-3",
+    "F(000)": "2288",
+    "goodness_of_fit": "1.041",
+    "reflections_collected": "8998",
+    "independent_reflections": "6561",
+    "R": "0.0474",
+    "Rw": "0.1015"
+  }
+}

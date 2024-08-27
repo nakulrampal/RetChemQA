@@ -1,0 +1,30 @@
+{
+  "materials": [
+    {
+      "name": "MOF [Zn-(BDC)(H2BPZ)]·4 H2O (1)",
+      "synthesis_conditions": {
+        "linkers": [
+          "1,4-benzenedicarboxylic acid (H2BDC)",
+          "3,3’,5,5’-tetramethyl-4,4’-bipyrazole (H2BPZ)"
+        ],
+        "metal_source": "Zn2+ ion",
+        "solvent": "CH2Cl2",
+        "activation_method": "heating the immersing sample in CH2Cl2",
+        "activation_temperature": "70°C",
+        "activation_time": "10 min",
+        "stability_conditions": [
+          "65% relative humidity for 10 days",
+          "atmosphere for 40 days"
+        ],
+        "stability_confirmation_methods": [
+          "PXRD patterns",
+          "C2H6 adsorption isotherms"
+        ],
+        "framework_stability_features": [
+          "utilization of pyrazole ligands generating robust M-N bonds",
+          "hydrophobic methyl groups preventing water attack on metal ions"
+        ]
+      }
+    }
+  ]
+}

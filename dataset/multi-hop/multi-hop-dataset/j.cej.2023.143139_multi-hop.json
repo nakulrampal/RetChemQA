@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of using the SQUEEZE subroutine of the PLATON software suite in the X-ray crystallography analysis?",
+      "answer": "The SQUEEZE subroutine of the PLATON software suite is used to remove the scattering from the highly disordered guest molecules in the X-ray crystallography analysis.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How is the adsorption amount (q) calculated in the sorption of ReO4- experiment?",
+      "answer": "The adsorption amount (q) is calculated by the difference of the ReO4- equilibrium concentration before and after adsorption, where C0 and Ce are the initial and equilibrium concentration of ReO4-, V is the volume of solution, and m is the mass of the used sample.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What assumptions does the Langmuir model make regarding the sorption process?",
+      "answer": "The Langmuir model assumes that the sorption of metal ions occurs on a homogenous surface by monolayer sorption without interaction between adsorbed ions, with homogeneous binding sites and equivalent sorption energies.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the Freundlich constant 'n' in the Freundlich isotherm model?",
+      "answer": "In the Freundlich isotherm model, the Freundlich constant 'n' is related to the sorption intensity, indicating the degree of non-linearity between solution concentration and adsorption.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What factors contribute to the structural flexibility observed in the cationic metal-organic framework discussed in the study?",
+      "answer": "The structural flexibility in the cationic metal-organic framework is mainly due to weak coordination bonds as interlayer bridges allowing for interlayer compression, mobility of counterions in the solid, and deformation of organic ligands.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study found that increasing the heating treatment temperature, tuning the type of counterion, and improving structural flexibility all have a positive effect on ReO4- uptake.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational methods were used to perform the first-principle calculations in the study?",
+      "answer": "The first-principle calculations were performed using the plane wave set Vienna Ab-initio Simulation Package (VASP) code, employing the Perdew-Burke-Ernzenhof (GGA-PBE) functionalization and the project-augmented wave generalized gradient approximation pseudopotentials (PAW-GGA).",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the study ensure the stability of the adsorbents under water and irradiation for practical application?",
+      "answer": "The study ensures the stability of the adsorbents under water and irradiation by conducting experiments to observe the phase changes and structural integrity of the adsorbents in water with various pH values and after β-irradiation, using PXRD patterns as a trace.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the Langmuir and Freundlich isotherm models in the study?",
+      "answer": "The Langmuir and Freundlich isotherm models are used in the study to analyze the sorption isotherms and determine the sorption capacity, energy of sorption, and intensity of the adsorption process for ReO4- on the cationic metal-organic framework.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What experimental conditions were varied in the selective adsorption experiments for ReO4- uptake?",
+      "answer": "In the selective adsorption experiments for ReO4- uptake, the study varied the presence of competing anions (NO3-, CO32-, PO43-, ClO4-, SO42-) in the mixed ion solution containing ReO4- to assess the selectivity and efficiency of the adsorbents.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

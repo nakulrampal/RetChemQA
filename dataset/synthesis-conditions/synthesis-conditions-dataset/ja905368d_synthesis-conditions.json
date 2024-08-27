@@ -1,0 +1,95 @@
+{
+  "materials": [
+    {
+      "material_name": "{NH(prol)3}[MnCr(ox)3]·H2O",
+      "synthesis_conditions": {
+        "solvent": "methanol",
+        "solvent_amount_cm3": 30,
+        "chemicals_used": [
+          {
+            "chemical": "(NH4)3[Cr(ox)3)]·3H2O",
+            "amount_mg": 428,
+            "molarity_mol": 1e-3
+          },
+          {
+            "chemical": "MnCl2·4H2O",
+            "amount_mg": 198,
+            "molarity_mol": 1e-3
+          },
+          {
+            "chemical": "{NH(prol)3}Cl",
+            "amount_mg": 228,
+            "molarity_mol": 1e-3
+          }
+        ],
+        "additional_solvent": {
+          "solvent": "methanol",
+          "amount_cm3": 5
+        },
+        "yield_percentage": 74,
+        "drying_method": "over silica gel under vacuum"
+      }
+    },
+    {
+      "material_name": "{NH(prol)3}[FeCr(ox)3]·H2O",
+      "synthesis_conditions": {
+        "solvent": "methanol",
+        "solvent_amount_cm3": 30,
+        "chemicals_used": [
+          {
+            "chemical": "(NH4)3[Cr(ox)3)]·3H2O",
+            "amount_mg": 428,
+            "molarity_mol": 1e-3
+          },
+          {
+            "chemical": "FeCl2·4H2O",
+            "amount_mg": "not specified",
+            "molarity_mol": 1e-3
+          },
+          {
+            "chemical": "{NH(prol)3}Cl",
+            "amount_mg": 228,
+            "molarity_mol": 1e-3
+          }
+        ],
+        "additional_solvent": {
+          "solvent": "methanol",
+          "amount_cm3": 5
+        },
+        "yield_percentage": 58,
+        "drying_method": "over silica gel under vacuum",
+        "special_conditions": "general precautions to avoid oxidation by atmospheric oxygen"
+      }
+    },
+    {
+      "material_name": "{NH(prol)3}[CoCr(ox)3]·H2O",
+      "synthesis_conditions": {
+        "solvent": "methanol",
+        "solvent_amount_cm3": 30,
+        "chemicals_used": [
+          {
+            "chemical": "(NH4)3[Cr(ox)3)]·3H2O",
+            "amount_mg": 428,
+            "molarity_mol": 1e-3
+          },
+          {
+            "chemical": "CoCl2·4H2O",
+            "amount_mg": "not specified",
+            "molarity_mol": 1e-3
+          },
+          {
+            "chemical": "{NH(prol)3}Cl",
+            "amount_mg": 228,
+            "molarity_mol": 1e-3
+          }
+        ],
+        "additional_solvent": {
+          "solvent": "methanol",
+          "amount_cm3": 5
+        },
+        "yield_percentage": 67,
+        "drying_method": "over silica gel under vacuum"
+      }
+    }
+  ]
+}

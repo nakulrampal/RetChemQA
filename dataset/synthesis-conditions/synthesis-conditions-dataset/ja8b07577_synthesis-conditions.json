@@ -1,0 +1,98 @@
+{
+  "materials": [
+    {
+      "name": "PESD-2",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Zn(NO3)2·4H2O",
+            "amount": "6.54 mg",
+            "molar_amount": "0.025 mmol"
+          },
+          {
+            "chemical": "Co(NO3)2·6H2O",
+            "amount": "10.9 mg",
+            "molar_amount": "0.038 mmol"
+          },
+          {
+            "chemical": "H3BTMB",
+            "amount": "11 mg",
+            "molar_amount": "0.025 mmol"
+          },
+          {
+            "chemical": "NaOH",
+            "amount": "20 μL",
+            "concentration": "0.01 M"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "DMF",
+            "volume": "0.5 mL"
+          },
+          {
+            "solvent": "MeOH",
+            "volume": "0.25 mL"
+          },
+          {
+            "solvent": "H2O",
+            "volume": "0.25 mL"
+          }
+        ],
+        "temperature": "100 °C",
+        "time": "48 h",
+        "equipment": "2-mL glass vial",
+        "yield": "17.5 mg, 86%",
+        "washing_method": "MeOH",
+        "drying_method": "air-dried"
+      }
+    },
+    {
+      "name": "PESD-3",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Zn(NO3)2·4H2O",
+            "amount": "6.54 mg",
+            "molar_amount": "0.025 mmol"
+          },
+          {
+            "chemical": "Ni(NO3)2·6H2O",
+            "amount": "10.9 mg",
+            "molar_amount": "0.038 mmol"
+          },
+          {
+            "chemical": "H3BTMB",
+            "amount": "11 mg",
+            "molar_amount": "0.015 mmol"
+          },
+          {
+            "chemical": "NaOH",
+            "amount": "20 μL",
+            "concentration": "0.01 M"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "DMF",
+            "volume": "0.5 mL"
+          },
+          {
+            "solvent": "MeOH",
+            "volume": "0.25 mL"
+          },
+          {
+            "solvent": "H2O",
+            "volume": "0.25 mL"
+          }
+        ],
+        "temperature": "100 °C",
+        "time": "48 h",
+        "equipment": "2-mL glass vial",
+        "yield": "15.5 mg, 76%",
+        "washing_method": "MeOH",
+        "drying_method": "air-dried"
+      }
+    }
+  ]
+}

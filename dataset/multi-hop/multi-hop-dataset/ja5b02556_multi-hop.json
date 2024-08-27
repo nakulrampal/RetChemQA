@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What is the empirical formula of the as-synthesized SBMOF-2:H2O?",
+      "answer": "CaC34H20O10.66",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the Langmuir-Freundlich parameters for Xe adsorption in SBMOF-2?",
+      "answer": "Site A: qA,sat = 0.23 mol/kg, bA0 = 2.54×10^-9, EA = 29.3 kJ/mol, νA = 0.95. Site B: qB,sat = 3.13 mol/kg, bB0 = 1.12×10^-11, EB = 32.2 kJ/mol, νB = 1.2.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system and space group of as-synthesized SBMOF-2:H2O?",
+      "answer": "Triclinic crystal system, space group P-1.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the Xe/Kr selectivity of SBMOF-2 compare to NiMOF-74 according to the IAST calculation?",
+      "answer": "The Xe/Kr adsorption selectivity of SBMOF-2 is about 10, which is comparable to the value for NiMOF-74.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the productivity of pure Kr in SBMOF-2 higher than in Co formate when separating a 20/80 Xe/Kr mixture at 298 K?",
+      "answer": "False. The productivity of SBMOF-2 is slightly below that of Co formate.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main reason for the Xe selectivity over Kr in SBMOF-2?",
+      "answer": "The Xe selectivity may be attributed to the specific geometry of the pores, forming cages built with phenyl rings and enriched with polar −OH groups, both of which serve as strong adsorption sites for polarizable Xe gas.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does SBMOF-2 maintain its structure after dehydration according to XRD experiments?",
+      "answer": "True. SBMOF-2 retains its structure after dehydration, with a small change of ∼3% in the unit cell volume.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of −OH groups in the adsorption mechanism of SBMOF-2?",
+      "answer": "The −OH groups found exclusively in channels of type-II serve as more polarizing parts in the network, resulting in significantly higher occupancy of the adsorbed noble gases.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental method was used to determine the isosteric heat of adsorption for Xe and Kr in SBMOF-2?",
+      "answer": "The isosteric heat of adsorption was determined using the Clausius–Clapeyron equation based on the dual-Langmuir–Freundlich model fitting of the gas isotherms.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the adsorption capacity of Xe in SBMOF-2 higher than that of Kr at 298 K?",
+      "answer": "True. The Xe uptake is more than 3 times higher than Kr at 298 K.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

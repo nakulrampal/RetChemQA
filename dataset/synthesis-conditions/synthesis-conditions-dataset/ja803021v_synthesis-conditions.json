@@ -1,0 +1,40 @@
+{
+  "materials": [
+    {
+      "name": "MOF 1",
+      "synthesis_conditions": {
+        "temperature": "70°C",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "2 mL"
+          },
+          {
+            "name": "water",
+            "amount": "4 drops"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CuBr",
+            "amount": "10 mmol [1.434g] (excess)"
+          },
+          {
+            "name": "(S)-1,4-diallyl-2-methylpiperazine (DAMP)",
+            "amount": "3 mmol [0.540g]"
+          }
+        ],
+        "time": "three days",
+        "yield": "55% [0.958g] based on DAMP",
+        "drying_method": "dried under irradiant lamp for half day",
+        "IR_spectra": "3453(m), 3148(s), 2957(s), 2935(s), 2897(s), 2815(s), 2759(m), 1526(m), 1462(s) 1448(s), 1418(m), 1385(m), 1367(w), 1333(m), 1305(m), 1283(w), 1266(w), 1253(m), 1168(m), 1135(s), 1096(s), 1036(s), 1012(s), 983(s), 954(m), 900(m), 850(s), 800(m), 701(w), 939(w), 544(w), 521(w), 491(w), 473(w), 461(w), 442(m)"
+      }
+    }
+  ],
+  "additional_information": {
+    "TGA_analysis": "One discrete weight loss (2.98%) occurred at 90 ~158°C, corresponding to the removal of three molecule waters per formula unit (3.09% calculated) while there is no weight loss observed at the temperature range of 158 to 300°C, suggesting the polymer is stable up to 300°C.",
+    "XRD_analysis": "The XRD powdered pattern of MOF 1 is consistent with that of single crystal simulated pattern, confirming the phase obtained is a pure compound.",
+    "SHG_response": "The SHG response of MOF 1 ranges from ca. 2 to 10 times higher than that of KDP.",
+    "electric_hysteresis_loop_measurement": "The ferroelectric property of single crystal was measured in a Radiant Technologies’ Precision II ferroelectric tester. The single crystal double faces were covered with conducting Ag-glue. The applied electric field should increase gradually from small voltages to high voltages to see which voltages can reach the saturation polarization in P-E curve. One sample will take two hours to try to reach the ideal hysteresis loop. Ps=5.7µC/cm2 for MOF 1 without water and Ps=5.8µC/cm2 for MOF 1 with water at fixed frequency 12Hz."
+  }
+}

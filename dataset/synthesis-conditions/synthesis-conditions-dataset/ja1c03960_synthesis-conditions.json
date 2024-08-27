@@ -1,0 +1,129 @@
+{
+  "materials": [
+    {
+      "name": "PCN-625",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "DMF",
+        "amount_of_each_solvent": "2 mL of DMF",
+        "equipment": "5 mL high-pressure vessel",
+        "chemicals_used": {
+          "ZrCl4": "20 mg, 0.086 mmol",
+          "BBCPPP": "10 mg, 0.011 mmol",
+          "TFA": "100 μL"
+        },
+        "time": "72 h",
+        "washing_method": "rinsed with DMF and acetone",
+        "drying_method": "dried under vacuum",
+        "yield": "77%"
+      }
+    },
+    {
+      "name": "PCN-625(Fe)",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "DMF",
+        "amount_of_each_solvent": "2 mL of DMF",
+        "equipment": "5 mL high-pressure vessel",
+        "chemicals_used": {
+          "ZrCl4": "20 mg, 0.086 mmol",
+          "Fe-BBCPPP": "10 mg, 0.011 mmol",
+          "TFA": "100 μL"
+        },
+        "time": "72 h",
+        "washing_method": "rinsed with DMF and acetone",
+        "drying_method": "dried under vacuum",
+        "yield": "Data not provided"
+      }
+    },
+    {
+      "name": "Di(1H-pyrrol-2-yl)methane",
+      "synthesis_conditions": {
+        "temperature": "50 °C",
+        "solvents": "Pyrrole",
+        "amount_of_each_solvent": "500 ml Pyrrole",
+        "chemicals_used": {
+          "Paraformaldehyde": "1.50 g, 50.0 mmol",
+          "Trifluoroacetic acid (TFA)": "550 µL",
+          "NaOH": "8.0 g, 200 mmol"
+        },
+        "time": "6 hours",
+        "yield": "46%"
+      }
+    },
+    {
+      "name": "3,5-bis[(4-methoxycarbonyl)phenyl]benzaldehyde",
+      "synthesis_conditions": {
+        "temperature": "Reflux",
+        "solvents": "1,4-dioxane",
+        "amount_of_each_solvent": "100 ml 1,4-dioxane",
+        "chemicals_used": {
+          "4-methoxycarbonyl-benzene boronic acid": "6.0 g, 33.3 mmol",
+          "3,5-dibromobenzaldehyde": "3.5 g, 13.3 mmol",
+          "Pd(PPh3)4": "0.5 g, 0.44 mmol",
+          "K2CO3": "18 g, 0.13 mmol"
+        },
+        "time": "Overnight",
+        "yield": "86%"
+      }
+    },
+    {
+      "name": "Bis[3,5-bis(4-(4-methoxycarbonylphenyl)phenyl]-porphyrine",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": "CHCl3",
+        "amount_of_each_solvent": "1000 ml CHCl3",
+        "chemicals_used": {
+          "Di(1H-pyrrol-2-yl)methane": "1.66 g, 11.4 mmol",
+          "3,5-bis[(4-methoxycarbonyl)phenyl]benzaldehyde": "4.19 g, 11.2 mmol",
+          "Trifluoroacetic acid (TFA)": "550 µL",
+          "DDQ": "4.0 g, 17.6 mmol"
+        },
+        "time": "11 hours",
+        "yield": "26%"
+      }
+    },
+    {
+      "name": "Bis[3,5-bis(4-carboxyphenyl)phenyl]-porphyrine (BBCPPP)",
+      "synthesis_conditions": {
+        "temperature": "Reflux",
+        "solvents": "THF/MeOH/H2O",
+        "amount_of_each_solvent": "120 ml (1/1/1 ratio)",
+        "chemicals_used": {
+          "Bis[3,5-bis(4-(4-methoxycarbonylphenyl)phenyl]-porphyrine": "2.0 g, 2.0 mmol",
+          "NaOH": "1.6 g, 40 mmol"
+        },
+        "time": "Overnight",
+        "yield": "86%"
+      }
+    },
+    {
+      "name": "Iron (III) Bis[3,5-bis(4-(4-methoxycarbonylphenyl)phenyl]-porphyrine",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "DMF",
+        "amount_of_each_solvent": "100 ml DMF",
+        "chemicals_used": {
+          "Bis[3,5-bis(4-(4-methoxycarbonylphenyl)phenyl]-porphyrine": "2.0 g, 2.0 mmol",
+          "FeCl2·4H2O": "2.5 g, 12.8 mmol"
+        },
+        "time": "Overnight",
+        "yield": "92%"
+      }
+    },
+    {
+      "name": "Iron (III) Bis[3,5-bis(4-carboxyphenyl)phenyl]-porphyrine (Fe-BBCPPP)",
+      "synthesis_conditions": {
+        "temperature": "Reflux",
+        "solvents": "THF/MeOH/H2O",
+        "amount_of_each_solvent": "120 ml (1/1/1 ratio)",
+        "chemicals_used": {
+          "Iron (III) Bis[3,5-bis(4-(4-methoxycarbonylphenyl)phenyl]-porphyrine": "2.0 g, 1.8 mmol",
+          "NaOH": "3 M solution"
+        },
+        "time": "Overnight",
+        "yield": "84%"
+      }
+    }
+  ]
+}

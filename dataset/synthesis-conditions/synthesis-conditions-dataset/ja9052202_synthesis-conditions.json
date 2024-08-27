@@ -1,0 +1,124 @@
+{
+  "materials": [
+    {
+      "name": "Oxamide-N,N'-bis(3-phenylamine) (H2obmpa)",
+      "synthesis_conditions": {
+        "temperature": "120 ºC",
+        "solvents": [
+          {
+            "name": "none",
+            "amount": "none"
+          }
+        ],
+        "equipment": "none",
+        "chemicals_used": [
+          {
+            "name": "diethyl ester oxalic acid",
+            "amount": "4.0 mL, 30 mmol"
+          },
+          {
+            "name": "1,3-phenylenediamine",
+            "amount": "16.7 g, 150 mmol"
+          }
+        ],
+        "time": "2 h",
+        "washing_method": "MeOH",
+        "drying_method": "vacuum",
+        "yield": "4.9 g, 60%"
+      }
+    },
+    {
+      "name": "Oxamide-N,N'-bis(3-phenyloxamic acid ethyl ester) (H4Et2obmpox)",
+      "synthesis_conditions": {
+        "temperature": "0 °C to reflux",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "250 mL"
+          }
+        ],
+        "equipment": "none",
+        "chemicals_used": [
+          {
+            "name": "ethyl oxalyl chloride ester",
+            "amount": "3.5 mL, 30 mmol"
+          },
+          {
+            "name": "H2obmpa",
+            "amount": "4.1 g, 15 mmol"
+          },
+          {
+            "name": "Et3N",
+            "amount": "4.2 mL, 30 mmol"
+          }
+        ],
+        "time": "1 h",
+        "washing_method": "water",
+        "drying_method": "vacuum",
+        "yield": "6.7 g, 95%"
+      }
+    },
+    {
+      "name": "Na12[Co3(obmpox)3] . 33H2O (2)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "50 mL"
+          }
+        ],
+        "equipment": "glove-box",
+        "chemicals_used": [
+          {
+            "name": "Co(NO3)2 . 6H2O",
+            "amount": "0.29 g, 1.0 mmol"
+          },
+          {
+            "name": "H4Et2obmpox",
+            "amount": "0.47 g, 1.0 mmol"
+          },
+          {
+            "name": "NaOH",
+            "amount": "0.25 g, 6.0 mmol"
+          }
+        ],
+        "time": "slow vapor diffusion of methanol",
+        "washing_method": "none",
+        "drying_method": "none",
+        "yield": "0.34 g, 45%"
+      }
+    },
+    {
+      "name": "Na11[Co3(obmpox)3] . 30H2O (2ox)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "50 mL"
+          }
+        ],
+        "equipment": "none",
+        "chemicals_used": [
+          {
+            "name": "Co(NO3)2 . 6H2O",
+            "amount": "0.29 g, 1.0 mmol"
+          },
+          {
+            "name": "H4Et2obmpox",
+            "amount": "0.47 g, 1.0 mmol"
+          },
+          {
+            "name": "NaOH",
+            "amount": "0.25 g, 6.0 mmol"
+          }
+        ],
+        "time": "30 min under air flow",
+        "washing_method": "none",
+        "drying_method": "none",
+        "yield": "0.37 g, 50%"
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "materials": [
+    {
+      "name": "PMOF-1",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": ["DEF", "1,4-Dioxane", "H2O"],
+        "solvent_amounts": ["3 mL", "2 mL", "2 mL"],
+        "chemicals_used": ["Zn(NO3)2·6H2O (80.0 mg, 0.42 mmol)", "S,S-BED (60 mg, 0.2 mmol)", "TCPP (50.0 mg, 0.063 mmol)"],
+        "equipment": "20 mL vial",
+        "time": "6 days",
+        "washing_method": "ethanol",
+        "yield": "34.0 % based on TCPP"
+      }
+    },
+    {
+      "name": "PMOF-2",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": ["DMF", "1,4-Dioxane", "H2O"],
+        "solvent_amounts": ["3 mL", "2 mL", "2 mL"],
+        "chemicals_used": ["Zn(NO3)2·6H2O (80.0 mg, 0.42 mmol)", "S,S-BED (60 mg, 0.2 mmol)", "TCPP (50.0 mg, 0.063 mmol)"],
+        "equipment": "20 mL vial",
+        "time": "5 days",
+        "washing_method": "Stock solution",
+        "yield": "31.0 % based on TCPP"
+      }
+    },
+    {
+      "name": "MOFs dispersed PDMS",
+      "synthesis_conditions": {
+        "temperature": "60 °C",
+        "solvents": ["ethanol"],
+        "solvent_amounts": ["0.5 mL"],
+        "chemicals_used": ["MOFs crystals", "PDMS solution", "Nafion (10 μL)"],
+        "equipment": "vacuum oven",
+        "time": "5 hours",
+        "drying_method": "in a vacuum oven"
+      }
+    }
+  ]
+}

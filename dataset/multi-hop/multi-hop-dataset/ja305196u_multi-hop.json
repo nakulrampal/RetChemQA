@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula and formula weight of the synthesized [NH4][Zn(HCOO)3] framework?",
+      "answer": "C3H7ZnN3O6, 208.04",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature and using what radiation was the single-crystal cell measurement of framework 1 collected?",
+      "answer": "295 K, Mo−Kα radiation (λ= 0.71073 Å)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the pressure range studied for the high-pressure single-crystal X-ray diffraction data collection of framework 1?",
+      "answer": "From ambient pressures to 1.35 GPa",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the pressure inside the diamond anvil cell measured during the high-pressure experiments of framework 1?",
+      "answer": "Using Ruby R1 fluorescence",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the purpose of using a Berkovich tip in the nanoindentation measurements of framework 1?",
+      "answer": "To determine the Young’s modulus (E) and hardness (H) of the framework",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What computational method was used to perform the calculations for framework 1, and what was the main purpose of these calculations?",
+      "answer": "CP2K-QuickStep program at the GGA-DFT level with the PBE functional corrected for dispersion interactions, to understand the effect of pressure on the framework",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Based on the nanoindentation methodology, why might the {010} facet of framework 1 exhibit more compliance and deformation compared to the {002} facet?",
+      "answer": "Because the indentation stress is at an angle of 90.00o with two of the formate ligands when indenting along the b axis, leading to more compliance and deformation in this direction",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The high-pressure experiments for framework 1 were conducted up to 4 GPa according to the computational study.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The nanoindentation experiments on framework 1 were performed on natural facets only.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The crystal system of framework 1 remains hexagonal up to a pressure of 1.35 GPa.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the result of the crystal system transition observed at 1.35 GPa for framework 1?",
+      "answer": "It transitioned from hexagonal to monoclinic",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the nanoindentation methodology account for the anisotropic properties of single crystals like framework 1?",
+      "answer": "By representing the modulus obtained from nanoindentation as an ‘indentation modulus’ which accounts for the effects of anisotropy",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Young’s modulus and hardness of framework 1 were determined using the Continuous Stiffness Measurement (CSM) module.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The computational study of framework 1 used a 2x2x2 simulation cell comprising of 288 atoms.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main finding from the analysis of the variation of individual lattice parameters with pressure for framework 1?",
+      "answer": "The a and b axes are highly compressible, but the c axis shows a rare example of negative linear compressibility",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The hydrogen atom positions of the formate ligands in framework 1 were placed geometrically and constrained to ride on their host.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The nanoindentation experiments were performed on both natural and artificially created facets of framework 1.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the significance of the crystal cracking at approximately 1.35 GPa during the high-pressure experiments of framework 1?",
+      "answer": "It indicated a phase transition from hexagonal to monoclinic, although the monoclinic phase could not be solved successfully",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The nanoindentation experiments on framework 1 were able to perfectly simulate uniaxial stress conditions.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of paraffin in the high-pressure experiments conducted on framework 1?",
+      "answer": "Paraffin was used as a hydrostatic medium in the diamond anvil cell",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

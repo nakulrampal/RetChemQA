@@ -1,0 +1,71 @@
+{
+  "MIL-88B": {
+    "synthesis_conditions": {
+      "microcrystals": {
+        "chemicals_used": [
+          "FeCl3 * 6H2O (4.32 g, 16.0 mmol)",
+          "H2bdc (2.66 g, 16.0 mmol)",
+          "DMF (80.0 ml)",
+          "2 M NaOH (6.4 ml)"
+        ],
+        "equipment": "100-ml vial with screw cap",
+        "temperature": "100°C",
+        "time": "12 h",
+        "washing_method": "washed with DMF",
+        "drying_method": "dried in air overnight",
+        "yield": "60%"
+      },
+      "large_single_crystals": {
+        "chemicals_used": [
+          "FeCl3 * 6H2O (0.081 g, 0.3 mmol)",
+          "H2bdc (0.050 g, 0.3 mmol)",
+          "hydrofluoric acid (0.1 ml, 49 wt% in H2O)",
+          "DMF (3.0 ml)"
+        ],
+        "equipment": "20-ml vial with screw cap",
+        "temperature": "90°C",
+        "time": "3 days",
+        "yield": "50%"
+      }
+    }
+  },
+  "Coordination_templated_cyclotrimerization_reactions": {
+    "without_excess_monomers": {
+      "chemicals_used": [
+        "MIL-88B (0.100 g)",
+        "4-pyCN (1.00 g)",
+        "4-pyC2H (0.100 g in 20.0 mL anhydrous toluene)",
+        "4-pyC2H3 (1.0 ml)"
+      ],
+      "equipment": "1-ml glass tube",
+      "temperature": "140°C",
+      "time": "12 h",
+      "yield": "92% for 4-pyCN, 94% for 4-pyC2H, 91% for 4-pyC2H3"
+    },
+    "using_excess_monomers": {
+      "chemicals_used": [
+        "MIL-88B (0.100 g)",
+        "4-pyCN (3.00 g)",
+        "4-pyC2H (0.140 g in 3.0 ml DMF)",
+        "4-pyC2H3 (3.0 ml)"
+      ],
+      "equipment": "25-ml teflon-lined stainless container",
+      "temperature": "140°C",
+      "time": "12 h",
+      "yield": ">90%"
+    }
+  },
+  "Separation_of_covalent_trimers": {
+    "procedure": "The host-guest hybrid crystals were dissolved in concentrated hydrochloric acid, extracted with CH2Cl2, and the organic phase was dried and concentrated."
+  },
+  "Single-crystal_X-ray_diffraction_analyses": {
+    "equipment": [
+      "Oxford Gemini-S Ultra CCD-detector",
+      "Rigaku XtaLAB P300DS-detector"
+    ],
+    "radiation_type": "Cu Ka",
+    "temperature_control": "Rigaku Gas Flow GN2 apparatus",
+    "data_collection_temperature": "Above melting point of monomer",
+    "analysis_software": "SHELXTL software package"
+  }
+}

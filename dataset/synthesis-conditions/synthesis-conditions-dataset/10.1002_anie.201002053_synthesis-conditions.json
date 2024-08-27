@@ -1,0 +1,91 @@
+{
+  "materials": [
+    {
+      "name": "porous network 1",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "ZnI2",
+          "tris(4-pyridyl)triazine (2)",
+          "2-formyltriphenylene (3)"
+        ],
+        "solvents": "nitrobenzene-methanol solvent mixture",
+        "yield": "21%",
+        "amount_produced": "205 mg",
+        "additional_information": "nitrobenzene as cocrystallized solvent (x = 4.5)"
+      }
+    },
+    {
+      "name": "methyl adduct 4a",
+      "synthesis_conditions": {
+        "precursor": "porous network 1",
+        "chemicals_used": [
+          "dimethylzinc"
+        ],
+        "solvents": "toluene",
+        "solvent_exchange": {
+          "initial_solvent": "nitrobenzene",
+          "final_solvent": "toluene",
+          "exchange_duration": "2 days"
+        },
+        "reaction_conditions": {
+          "temperature": "room temperature",
+          "time": "24 hours"
+        },
+        "post_reaction_treatment": {
+          "decomposition": "5.0 m hydrochloric acid",
+          "extraction_solvent": "CH2Cl2",
+          "purification_method": "column chromatography"
+        },
+        "yield": "85%",
+        "time_to_completion": "less than 12 hours"
+      }
+    },
+    {
+      "name": "ethyl adduct 4b",
+      "synthesis_conditions": {
+        "precursor": "porous network 1",
+        "chemicals_used": [
+          "diethylzinc"
+        ],
+        "solvents": "toluene",
+        "reaction_conditions": {
+          "temperature": "room temperature",
+          "time": "not specified"
+        },
+        "yield": "90%"
+      }
+    },
+    {
+      "name": "acetate 5a",
+      "synthesis_conditions": {
+        "precursor": "methyl adduct 4a",
+        "chemicals_used": [
+          "acetic anhydride"
+        ],
+        "solvents": "toluene",
+        "solvent_ratio": "1:1 (acetic anhydride:toluene)",
+        "reaction_conditions": {
+          "temperature": "room temperature",
+          "time": "24 hours"
+        },
+        "yield": "> 95% conversion"
+      }
+    },
+    {
+      "name": "1-acetoxy)propyl analogue 5b",
+      "synthesis_conditions": {
+        "precursor": "ethyl adduct 4b",
+        "chemicals_used": [
+          "acetic anhydride"
+        ],
+        "solvents": "toluene",
+        "solvent_ratio": "not specified",
+        "reaction_conditions": {
+          "temperature": "room temperature",
+          "time": "not specified"
+        },
+        "yield": "93%"
+      }
+    }
+  ]
+}

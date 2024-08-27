@@ -1,0 +1,125 @@
+{
+  "materials": [
+    {
+      "name": "trans,trans-9,10-bis(4-pyridylethenyl)anthracene (An2Py)",
+      "synthesis_conditions": {
+        "temperature": "Room temperature to 100°C",
+        "solvents": [
+          {
+            "name": "dichloromethane",
+            "amount": "100 ml"
+          },
+          {
+            "name": "dry ether",
+            "amount": "8.1 ml of 1.6 M nBuLi"
+          },
+          {
+            "name": "dry dimethylformamide (DMF)",
+            "amount": "4.5 ml"
+          }
+        ],
+        "equipment": "Reflux setup",
+        "chemicals_used": [
+          "anthracene",
+          "N-Bromosuccinimide",
+          "LiClO4",
+          "SiO2",
+          "nBuLi"
+        ],
+        "time": [
+          "30 mins",
+          "2 h",
+          "10 h",
+          "12 h"
+        ],
+        "yield": "30%"
+      }
+    },
+    {
+      "name": "[Zn2(SDC)2(An2Py)] (cid:2) DMF (cid:2) 4H2O (1)",
+      "synthesis_conditions": {
+        "temperature": "120°C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2 ml"
+          },
+          {
+            "name": "water",
+            "amount": "1 ml"
+          }
+        ],
+        "equipment": "Oven",
+        "chemicals_used": [
+          "Zn(ClO4)2",
+          "An2Py",
+          "H2SDC",
+          "HNO3"
+        ],
+        "time": "2 days",
+        "yield": "50%"
+      }
+    },
+    {
+      "name": "[Zn2(SDC)2(An2Py)] (1a)",
+      "synthesis_conditions": {
+        "temperature": "100°C",
+        "drying_method": "Heated under vacuum",
+        "time": "2 h",
+        "yield": "99%"
+      }
+    },
+    {
+      "name": "[Zn2(SDC)2(An2Py)] (cid:2) perylene (2)",
+      "synthesis_conditions": {
+        "temperature": "120°C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2 ml"
+          },
+          {
+            "name": "water",
+            "amount": "1 ml"
+          }
+        ],
+        "equipment": "Oven",
+        "chemicals_used": [
+          "Zn(ClO4)2",
+          "An2Py",
+          "H2SDC",
+          "perylene",
+          "HNO3"
+        ],
+        "time": "2 days",
+        "yield": "53%"
+      }
+    },
+    {
+      "name": "[Zn2(SDC)2(An2Py)] (cid:2) anthracene (3)",
+      "synthesis_conditions": {
+        "temperature": "120°C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2 ml"
+          },
+          {
+            "name": "water",
+            "amount": "1 ml"
+          }
+        ],
+        "equipment": "Oven",
+        "chemicals_used": [
+          "Zn(ClO4)2",
+          "An2Py",
+          "H2SDC",
+          "anthracene",
+          "HNO3"
+        ],
+        "time": "2 days",
+        "yield": "54%"
+      }
+    }
+  ]
+}

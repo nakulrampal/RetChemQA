@@ -1,0 +1,83 @@
+{
+  "materials": [
+    {
+      "name": "MIL-53as",
+      "synthesis_conditions": {
+        "temperature": "493 K",
+        "time": "3 days",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "molar ratio 1:1:1:280"
+          }
+        ],
+        "equipment": "Teflon-lined steel autoclave",
+        "chemicals_used": [
+          {
+            "name": "chromium(III) nitrate Cr(NO3)3·9H2O",
+            "source": "Aldrich",
+            "purity": "97%"
+          },
+          {
+            "name": "terephthalic acid HO2C−(C6H4)−CO2H",
+            "source": "Alfa",
+            "purity": "97%"
+          },
+          {
+            "name": "hydrofluoric acid (HF)",
+            "source": "Prolabo",
+            "purity": "40%"
+          }
+        ],
+        "pH": "<1",
+        "yield": "light purple powder with traces of terephthalic acid",
+        "calcination": {
+          "temperature": "300 °C",
+          "atmosphere": "air",
+          "product": "MIL-53ht"
+        },
+        "hydration": {
+          "product": "MIL-53lt",
+          "description": "MIL-53ht adsorbs water at room temperature to give MIL-53lt"
+        }
+      }
+    },
+    {
+      "name": "MIL-53ht",
+      "synthesis_conditions": {
+        "derived_from": "MIL-53as",
+        "calcination": {
+          "temperature": "300 °C",
+          "atmosphere": "air"
+        },
+        "hydration": {
+          "product": "MIL-53lt",
+          "description": "adsorbs water at room temperature"
+        }
+      }
+    },
+    {
+      "name": "MIL-53lt",
+      "synthesis_conditions": {
+        "derived_from": "MIL-53ht",
+        "hydration": {
+          "description": "formed by adsorbing water at room temperature from MIL-53ht"
+        }
+      }
+    },
+    {
+      "name": "MIL-53solv",
+      "synthesis_conditions": {
+        "derived_from": "MIL-53lt",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "used without any purification",
+            "description": "DMF was incorporated into the pores, giving MIL-53solv"
+          }
+        ],
+        "description": "Replacement of water molecules by DMF moieties into MIL-53lt"
+      }
+    }
+  ]
+}

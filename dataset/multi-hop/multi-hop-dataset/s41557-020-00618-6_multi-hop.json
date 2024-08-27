@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the transition temperature Tc when the paraelectric phase transforms into an ordered, antiferroelectric one in the studied material?",
+      "answer": "100 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to confirm the presence of dipolar order in the amphidynamic crystalline metal–organic framework?",
+      "answer": "Variable-temperature, frequency-dependent dielectric measurements",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What simulation technique was employed to show the ground state with an Ising symmetry in the study?",
+      "answer": "Monte Carlo simulations on a two-dimensional rotary lattice",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of cooling on the linkers in the metal–organic framework?",
+      "answer": "Upon cooling, the linkers collectively order as a result of correlated dipole–dipole interactions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the dipole moment introduced by the two fluorine atoms affect the strength of the dipole–dipole interactions?",
+      "answer": "The dipole moment introduced by the two fluorine atoms is relatively small, and the strength of the dipole–dipole interactions may not be large enough to observe dipolar order at 300 K.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the rotational barrier being only 0.2 kcal mol−1 for the Zn4O(1,4-bicyclo[2.2.2]dicarboxyate)3 MOF?",
+      "answer": "The low rotational barrier of only 0.2 kcal mol−1 implies that the MOF has a low energy requirement for rotation, making it suitable for applications that require dynamic behavior.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study's results suggest that fluorine-grafted crystalline molecular rotors bearing correlated behaviours represent a promising material platform for nanoscale responsive machine components.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The dipole moments of the rotating linkers in the antiferroelectric phase enhance each other.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study found that increasing the lattice potential amplitude decreases the observed degree of ordering at low temperature.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does the difluoro-functionalized derivative play in the metal–organic framework?",
+      "answer": "The difluoro-functionalized derivative acts as a dipolar rotor that coordinates through linked 1,4-dicarboxylate groups, contributing to the dipolar order within the framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the orientation of dipole moments in 1D, 2D, and 3D arrays affect their ordering?",
+      "answer": "The orientation of dipole moments in 1D, 2D, and 3D arrays affects their ordering by determining the ground-state configuration of the electric dipoles, which can be either ferroelectric or antiferroelectric depending on the relation between the rotational axis orientation and the underlying lattice symmetry.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the relationship between the thermal energy RT scale and the energy resulting from nearest-neighbour dipole–dipole interactions in achieving classical order?",
+      "answer": "Classical order is generally expected when the thermal energy RT scale is of the same order as the energy resulting from nearest-neighbour dipole–dipole interactions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study's findings indicate that the dipole–dipole interaction does not drive an antiferroelectric phase transition.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study utilized density functional theory (DFT) calculations to understand the rotor interactions and dynamics.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study concluded that the dipolar order observed is independent of the temperature.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the Monte Carlo simulation in the context of the study?",
+      "answer": "The Monte Carlo simulation was used to explore the consequences of the rotor–lattice rotational potential on the paraelectric–antiferroelectric phase transition, assuming uniform, point dipole moments arranged in a lattice.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the presence of a peak in the real part of the dielectric constant at T = 100 K indicate?",
+      "answer": "The presence of a peak in the real part of the dielectric constant at T = 100 K is interpreted as evidence for a phase transition to an antiferroelectric state.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study demonstrated that the dipole moment of the rotator is significantly larger than the calculated result.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study's results support the idea that the dipole–dipole interaction energy is negligible compared to the thermal energy.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental challenge is associated with designing crystals with low rotational barriers?",
+      "answer": "The greatest experimental challenge is the design of crystals with low rotational barriers, which practically means that the variation in rotational potential associated with a dipole–lattice interaction must be comparable to, or ideally somewhat less than, RT.",
+      "difficulty": "hard",
+      "type": "factual"
+    }
+  ]
+}

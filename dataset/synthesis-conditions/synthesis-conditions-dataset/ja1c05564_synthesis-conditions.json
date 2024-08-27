@@ -1,0 +1,162 @@
+{
+  "materials": [
+    {
+      "name": "PCM-102",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "details": {
+            "temperature": "100 °C",
+            "solvents": "DMF/MeOH/H2O mixture",
+            "solvent_ratio": "5:2:1 (v/v)",
+            "chemicals_used": [
+              {
+                "chemical": "tris-(4-carboxyphenyl)phosphine",
+                "amount": "0.20 g",
+                "molarity": "0.51 mmol"
+              },
+              {
+                "chemical": "4,4′-bipyridine",
+                "amount": "0.080 g",
+                "molarity": "0.51 mmol"
+              },
+              {
+                "chemical": "benzoic acid",
+                "amount": "1.00 g",
+                "molarity": "8.19 mmol"
+              },
+              {
+                "chemical": "Co(BF4)2·nH2O",
+                "amount": "0.520 g",
+                "molarity": "1.53 mmol"
+              }
+            ],
+            "time": "24 h",
+            "equipment": "forced air oven",
+            "yield": "0.336 g"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ag-PCM-102",
+      "synthesis_conditions": [
+        {
+          "step": "Direct Method",
+          "details": {
+            "temperature": "75 °C",
+            "solvents": "DMF/MeOH/H2O mixture",
+            "solvent_ratio": "5:2:1 (v/v)",
+            "chemicals_used": [
+              {
+                "chemical": "AgNO3",
+                "amount": "0.043 g",
+                "molarity": "0.25 mmol"
+              }
+            ],
+            "time": "24 h",
+            "equipment": "forced air oven",
+            "yield": "0.422 g"
+          }
+        },
+        {
+          "step": "Postsynthetic Method",
+          "details": {
+            "temperature": "Room temperature",
+            "solvents": "DMF/MeOH/H2O mixture",
+            "solvent_ratio": "5:2:1 (v/v)",
+            "chemicals_used": [
+              {
+                "chemical": "AgNO3",
+                "amount": "1.5 mg",
+                "molarity": "0.0088 mmol"
+              }
+            ],
+            "time": "Overnight"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Au-PCM-102",
+      "synthesis_conditions": [
+        {
+          "step": "Postsynthetic Method",
+          "details": {
+            "temperature": "Room temperature",
+            "solvents": "DMF/MeOH/H2O mixture",
+            "solvent_ratio": "5:2:1 (v/v)",
+            "chemicals_used": [
+              {
+                "chemical": "(Me2S)AuCl",
+                "amount": "0.021 g",
+                "molarity": "0.071 mmol"
+              }
+            ],
+            "time": "24 h"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cu-PCM-102",
+      "synthesis_conditions": [
+        {
+          "step": "Postsynthetic Method",
+          "details": {
+            "temperature": "Room temperature",
+            "solvents": "DMF/MeOH/H2O mixture",
+            "solvent_ratio": "5:2:1 (v/v)",
+            "chemicals_used": [
+              {
+                "chemical": "(Me2S)CuBr",
+                "amount": "0.027 g",
+                "molarity": "0.13 mmol"
+              }
+            ],
+            "time": "24 h"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ag/M-PCM-102 (M = Cu, Au)",
+      "synthesis_conditions": [
+        {
+          "step": "Ag-Exchange Method",
+          "details": {
+            "temperature": "Room temperature",
+            "solvents": "DMF/MeOH/H2O mixture",
+            "solvent_ratio": "5:2:1 (v/v)",
+            "chemicals_used": [
+              {
+                "chemical": "(Me2S)CuBr or (Me2S)AuCl",
+                "amount": "0.120 mmol"
+              }
+            ],
+            "time": "24 h"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cu/Au-PCM-102",
+      "synthesis_conditions": [
+        {
+          "step": "Sequential Postsynthetic Addition Method",
+          "details": {
+            "temperature": "Room temperature",
+            "solvents": "DMF",
+            "chemicals_used": [
+              {
+                "chemical": "(Me2S)CuBr or (Me2S)AuCl",
+                "amount": "0.55 eq. per P2 pocket"
+              }
+            ],
+            "time": "24 h"
+          }
+        }
+      ]
+    }
+  ]
+}

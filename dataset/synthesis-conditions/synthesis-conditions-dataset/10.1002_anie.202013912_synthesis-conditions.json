@@ -1,0 +1,43 @@
+{
+  "materials": [
+    {
+      "name": "M-HIPA (M = Mn, Fe, Co, Ni and Zn)",
+      "synthesis_conditions": {
+        "chemicals_used": "H3IPA and corresponding metal salts",
+        "solvent": "aqueous solutions",
+        "details": "See experimental details in Supporting Information"
+      }
+    },
+    {
+      "name": "Co-HIPA",
+      "synthesis_conditions": {
+        "crystal_structure": "Includes crystallographically independent one Co, one HIPA2@ and three water molecules",
+        "coordination_environment": "The Co atom in an octahedral environment is bound to three O atoms from two HIPA2@ ligands, positioned in the equatorial plane. The three remaining coordination sites are occupied by water molecules",
+        "Co-O_bond_lengths": "Range from 2.016(3) to 2.324(3) c",
+        "structure_linkage": "The HIPA2@ links the Co atoms resulting in a chain structure",
+        "hydrogen_bonding": "Abundant O@H···O hydrogen bonding between water molecules and the oxygen containing groups results in a three-dimensional supramolecular network based on the chains"
+      }
+    },
+    {
+      "name": "Ni-HIPA",
+      "synthesis_conditions": {
+        "note": "Similar synthesis conditions as Co-HIPA due to their isostructural nature"
+      }
+    },
+    {
+      "name": "Co-HIPA and Ni-HIPA after electrolyte soaking",
+      "synthesis_conditions": {
+        "stability_test": "Soaked in electrolyte for 10 days",
+        "PXRD_patterns": "Not changed compared with the original patterns, indicating high stability",
+        "morphologies": "Studied by optical microscope, SEM and EDS elemental mapping, also indicating high electrolyte stability"
+      }
+    },
+    {
+      "name": "Co-HIPA and Ni-HIPA after cycling",
+      "synthesis_conditions": {
+        "cycling_performance": "Co-HIPA exhibited reversible charge capacities of 1043 mAh g@1 with the capacity retentions of 95.1 % after 200 cycles. Ni-HIPA exhibited reversible charge capacities of 532 mAh g@1 with the capacity retentions of 71.4 % after 200 cycles",
+        "rate_performance": "Co-HIPA achieved stable capacities of 820/750 mAh g@1 at 1000/2000 mA g@1 after 1000 cycles. Ni-HIPA achieved stable capacities of 375/304 mAh g@1 at 1000/2000 mA g@1 after 1000 cycles"
+      }
+    }
+  ]
+}

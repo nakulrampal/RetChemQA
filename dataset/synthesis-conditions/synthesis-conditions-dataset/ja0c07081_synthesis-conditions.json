@@ -1,0 +1,142 @@
+{
+  "materials": [
+    {
+      "name": "Zr-flu-SO2",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "1.5 ml"
+          }
+        ],
+        "modulators": [
+          {
+            "name": "benzoic acid",
+            "amount": "450 mg"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H4MTBC-SO2",
+            "amount": "0.0065 g (0.006 mmol)"
+          },
+          {
+            "name": "ZrCl4",
+            "amount": "8.4 mg (0.036 mmol)"
+          }
+        ],
+        "time": "12 h",
+        "yield": "50% based on H4MBTC-SO2",
+        "washing_method": "N,N-dimethylformamide four times per day for 1 day, then soaked in acetone or dichloromethane 5 times per day for 6 days",
+        "drying_method": "dynamic vacuum at room temperature for 18 hours",
+        "activation_method": "dynamic vacuum at room temperature for 18 hours"
+      }
+    },
+    {
+      "name": "Hf-flu-SO2",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "1.5 ml"
+          }
+        ],
+        "modulators": [
+          {
+            "name": "benzoic acid",
+            "amount": "450 mg"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H4MTBC-SO2",
+            "amount": "0.0065 g (0.009 mmol)"
+          },
+          {
+            "name": "HfCl4",
+            "amount": "11.5 mg (0.036 mmol)"
+          }
+        ],
+        "time": "12 h",
+        "yield": "40% based on H4MTBC-SO2",
+        "washing_method": "N,N-dimethylformamide four times per day for 1 day, then soaked in acetone or dichloromethane 5 times per day for 6 days",
+        "drying_method": "dynamic vacuum at room temperature for 18 hours",
+        "activation_method": "dynamic vacuum at room temperature for 18 hours"
+      }
+    },
+    {
+      "name": "Y-hpt-MOF-1",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2.5 ml"
+          }
+        ],
+        "modulators": [
+          {
+            "name": "2-fluorobenzoic acid",
+            "amount": "250 mg"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "1 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H4MTBC-SO2",
+            "amount": "0.0082 g (0.0075 mmol)"
+          },
+          {
+            "name": "Y(NO3)3.6H2O",
+            "amount": "11.5 mg (0.03 mmol)"
+          }
+        ],
+        "time": "3 days",
+        "yield": "40% based on H4MBTC-SO2",
+        "washing_method": "DMF (5 ml) three times per day for 2 days, ethanol (5 ml) four times per day for four days",
+        "activation_method": "supercritical CO2 under flow conditions"
+      }
+    },
+    {
+      "name": "Y-ken-MOF-1",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2.5 ml"
+          }
+        ],
+        "modulators": [
+          {
+            "name": "2-fluorobenzoic acid",
+            "amount": "250 mg"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "0.3 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H4MTBC",
+            "amount": "0.006 g (0.0075 mmol)"
+          },
+          {
+            "name": "Y(NO3)3.6H2O",
+            "amount": "11 mg (0.03 mmol)"
+          }
+        ],
+        "time": "3 days",
+        "yield": "40% based on H4MBTC",
+        "washing_method": "DMF (5 ml) three times per day for 2 days, ethanol (5 ml) four times per day for four days",
+        "activation_method": "supercritical CO2 under flow conditions"
+      }
+    }
+  ]
+}

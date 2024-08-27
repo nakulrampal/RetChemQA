@@ -1,0 +1,166 @@
+{
+  "materials": [
+    {
+      "name": "H8TDPEPE",
+      "synthesis_steps": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "4,4'-diiodobenzophenone",
+              "amount": null
+            },
+            {
+              "name": "CuI",
+              "amount": "0.263 g"
+            },
+            {
+              "name": "PPh3",
+              "amount": "0.543 g"
+            },
+            {
+              "name": "PdCl2(PPh3)2",
+              "amount": "0.483 g"
+            },
+            {
+              "name": "Trimethylsilylacetylene",
+              "amount": "3.86 mL"
+            },
+            {
+              "name": "piperidine",
+              "amount": "20 mL"
+            },
+            {
+              "name": "THF",
+              "amount": "60 mL"
+            }
+          ],
+          "temperature": "50 °C",
+          "time": "24 h",
+          "solvents": [
+            "piperidine",
+            "THF"
+          ],
+          "equipment": "Schlenk tube"
+        },
+        {
+          "step": 2,
+          "chemicals_used": [
+            {
+              "name": "Zinc dust",
+              "amount": "1.68 g"
+            },
+            {
+              "name": "TiCl4",
+              "amount": "1.39 g"
+            }
+          ],
+          "temperature": "reflux",
+          "time": "24 h",
+          "solvents": [
+            "THF"
+          ],
+          "equipment": "Schlenk flask"
+        },
+        {
+          "step": 3,
+          "chemicals_used": [
+            {
+              "name": "Dimethyl 5-iodoisophthalate",
+              "amount": "11.5 g"
+            },
+            {
+              "name": "PPh3",
+              "amount": "0.671 g"
+            },
+            {
+              "name": "PdCl2(PPh3)2",
+              "amount": "0.594 g"
+            },
+            {
+              "name": "CuI",
+              "amount": "0.323 g"
+            },
+            {
+              "name": "THF",
+              "amount": "150 mL"
+            },
+            {
+              "name": "piperidine",
+              "amount": "20 mL"
+            }
+          ],
+          "temperature": "room temperature",
+          "time": "24 h",
+          "solvents": [
+            "THF",
+            "piperidine"
+          ],
+          "equipment": "Schlenk flask"
+        },
+        {
+          "step": 4,
+          "chemicals_used": [
+            {
+              "name": "Sodium hydroxide",
+              "amount": "0.840 g"
+            },
+            {
+              "name": "Methanol",
+              "amount": "30 mL"
+            },
+            {
+              "name": "THF",
+              "amount": "20 mL"
+            },
+            {
+              "name": "Water",
+              "amount": "20 mL"
+            }
+          ],
+          "temperature": "reflux",
+          "time": "24 h",
+          "solvents": [
+            "Methanol",
+            "THF",
+            "Water"
+          ],
+          "equipment": null
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "synthesis_steps": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "Zn(NO3)2·6H2O",
+              "amount": "150 mg"
+            },
+            {
+              "name": "H8TDPEPE",
+              "amount": "12.8 mg"
+            },
+            {
+              "name": "Ethanol",
+              "amount": "3 mL"
+            },
+            {
+              "name": "DEF",
+              "amount": "3 mL"
+            }
+          ],
+          "temperature": "75 °C",
+          "time": "36 h",
+          "solvents": [
+            "Ethanol",
+            "DEF"
+          ],
+          "equipment": "20 mL scintillation vial"
+        }
+      ]
+    }
+  ]
+}

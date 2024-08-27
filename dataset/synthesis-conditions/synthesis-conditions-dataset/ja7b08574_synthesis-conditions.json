@@ -1,0 +1,154 @@
+{
+  "materials": [
+    {
+      "material": "Na­[LCo2(etidronate)]·0.2NaNO3·2.7H2O (1)",
+      "synthesis_conditions": {
+        "temperature": "25 °C",
+        "solvents": [
+          {
+            "name": "MeOH",
+            "amount": [
+              "2 mL",
+              "3 mL",
+              "2 mL",
+              "2 mL"
+            ]
+          }
+        ],
+        "equipment": "vacuum filtration",
+        "chemicals_used": [
+          {
+            "name": "Co­(NO3)2·6H2O",
+            "amount": "71 mg, 0.24 mmol"
+          },
+          {
+            "name": "HL",
+            "amount": "52 mg, 0.12 mmol"
+          },
+          {
+            "name": "etidronic acid monohydrate",
+            "amount": "27 mg, 0.12 mmol"
+          },
+          {
+            "name": "sodium methoxide",
+            "amount": "33 mg, 0.61 mmol"
+          }
+        ],
+        "time": "3 h",
+        "washing_method": [
+          "MeOH (5 mL)",
+          "Et2O (15 mL)"
+        ],
+        "drying_method": "reduced pressure for 16 h",
+        "yield": "44 mg, 44%",
+        "characterization": {
+          "UV-vis": "64 μM; 50 mM HEPES buffered at pH 7.4, 25 °C: 375 nm (ε = 13800 M−1 cm−1)",
+          "ESI-MS": [
+            "calcd for C18H26Co2N7O14P2 ([LCo2(etidronate)]−), 743.97; found, 743.95",
+            "calcd for C18H28Co2N7O14P2 ([LCo2(etidronate) + 2H]+), 745.98; found, 745.92"
+          ],
+          "FT-IR": "ATR, cm−1: 3341 (m, broad); 3178 (m, broad); 2930 (w); 1665 (s); 1595 (m); 1499 (w); 1446 (m); 1307 (s); 1097 (s); 1060 (s); 911 (m); 826 (w); 799 (m); 751 (w); 706 (m); 539 (s); 470 (s)"
+        }
+      }
+    },
+    {
+      "material": "Na­[LCo2(CMDP)]·4.5H2O·MeOH (2)",
+      "synthesis_conditions": {
+        "temperature": "25 °C",
+        "solvents": [
+          {
+            "name": "MeOH",
+            "amount": [
+              "2 mL",
+              "3 mL",
+              "2 mL",
+              "2 mL"
+            ]
+          }
+        ],
+        "equipment": "vacuum filtration",
+        "chemicals_used": [
+          {
+            "name": "Co­(NO3)2·6H2O",
+            "amount": "67 mg, 0.23 mmol"
+          },
+          {
+            "name": "HL",
+            "amount": "49 mg, 0.11 mmol"
+          },
+          {
+            "name": "chloromethanediphosphonic acid (H4CMDP)",
+            "amount": "27 mg, 0.13 mmol"
+          },
+          {
+            "name": "Na­(OMe)",
+            "amount": "31 mg, 0.58 mmol"
+          }
+        ],
+        "time": "2.5 h",
+        "washing_method": [
+          "MeOH (10 mL)",
+          "Et2O (15 mL)"
+        ],
+        "drying_method": "reduced pressure for 19 h",
+        "yield": "46 mg, 45%",
+        "characterization": {
+          "UV-vis": "80 μM; 50 mM HEPES buffered at pH 7.4, 25 °C: 375 nm (ε = 14100 M−1 cm−1)",
+          "ESI-MS": [
+            "calcd for C17H23ClCo2N7O13P2 ([LCo2(CMDP)]−), 747.92; found, 747.93",
+            "calcd for C17H25ClCo2N7O13P2 ([LCo2(CMDP) + 2H]+), 749.93; found, 749.89"
+          ],
+          "FT-IR": "ATR, cm−1: 3339 (w, broad); 3173 (w, broad); 1663 (s); 1596 (m); 1500 (w); 1447 (m); 1311 (s); 1133 (s); 1097 (s); 911 (m); 878 (w); 799 (w); 752 (m); 688 (m); 662 (m); 529 (s); 475 (s)"
+        }
+      }
+    },
+    {
+      "material": "Na­[L′Co2(etidronate)]·1.2NaNO3·1.9H2O (3)",
+      "synthesis_conditions": {
+        "temperature": "25 °C",
+        "solvents": [
+          {
+            "name": "MeOH",
+            "amount": [
+              "2 mL",
+              "2 mL",
+              "2 mL",
+              "2 mL"
+            ]
+          },
+          {
+            "name": "MeCN",
+            "amount": "10 mL"
+          }
+        ],
+        "equipment": "vacuum filtration",
+        "chemicals_used": [
+          {
+            "name": "Co­(NO3)2·6H2O",
+            "amount": "54 mg, 0.19 mmol"
+          },
+          {
+            "name": "HL′",
+            "amount": "50 mg, 0.093 mmol"
+          },
+          {
+            "name": "etidronic acid monohydrate",
+            "amount": "21 mg, 0.093 mmol"
+          },
+          {
+            "name": "sodium methoxide",
+            "amount": "25 mg, 0.46 mmol"
+          }
+        ],
+        "time": "2 h",
+        "drying_method": "reduced pressure for 16 h",
+        "yield": "92 mg, 97%",
+        "characterization": {
+          "UV-vis": "87 μM; 50 mM HEPES buffered at pH 7.4, 25 °C: 379 nm (ε = 12300 M−1 cm−1)",
+          "ESI-MS": "calcd for C26H44Co2N7O14P2 ([L′Co2(etidronate) + 2H]+), 858.11; found, 858.11",
+          "FT-IR": "ATR, cm−1: 3300 (w, broad); 2930 (w); 1612 (s); 1502 (w); 1408 (w); 1297 (s); 1169 (m); 1124 (m); 1061 (s); 896 (m); 809 (w); 751 (w); 688 (w); 645 (w); 542 (s); 462 (s)"
+        }
+      }
+    }
+  ]
+}

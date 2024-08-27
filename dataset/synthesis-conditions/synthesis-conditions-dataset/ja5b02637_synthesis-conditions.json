@@ -1,0 +1,67 @@
+{
+  "materials": [
+    {
+      "name": "[Ni(quinolone-8-thiolate)2]",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "CH3OH",
+            "amount": "40 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Nickel(II) chloride hexahydrate",
+            "amount": "0.99g, 7.6 mmol",
+            "purity": "99.9%"
+          },
+          {
+            "name": "quinolone-8-thiol hydrochloride",
+            "amount": "3g, 15.2 mmol",
+            "purity": "95%"
+          }
+        ],
+        "equipment": "Stirrer",
+        "time": "Overnight",
+        "yield": "75%",
+        "washing_method": "Filtration",
+        "recrystallization_solvent": "benzonitrile",
+        "drying_method": "Not specified"
+      }
+    },
+    {
+      "name": "[Ni(qt)2] thin films",
+      "synthesis_conditions": {
+        "substrates": [
+          "SiO2",
+          "lacey carbon films"
+        ],
+        "deposition_rate": "0.1 A/s",
+        "vacuum_pressure": "1 × 10-5 Pa",
+        "substrate_temperature": "30 °C",
+        "film_thickness": "30 nm to 50 nm",
+        "equipment": [
+          "Vacuum chamber",
+          "Quartz oscillation (for monitoring thickness)",
+          "Atomic Force Microscopy (for confirming thickness)"
+        ]
+      }
+    },
+    {
+      "name": "[Ni(qt)2] single crystal",
+      "synthesis_conditions": {
+        "temperature": "296 K",
+        "equipment": "Bruker SMART APEXII CCD area detector on a D8 goniometer",
+        "radiation": "Mo-Kα radiation (λ = 0.71073 Å)",
+        "method": "ω scan method",
+        "data_processing_software": [
+          "INTEGRATE program of the APEX2 software",
+          "SHELX-97 for structure solving and refinement"
+        ],
+        "absorption_correction": "Multi-scan",
+        "hydrogen_atoms_treatment": "Placed in idealized positions and included as riding with Uiso(H) = 1.2 Ueq(C)"
+      }
+    }
+  ]
+}

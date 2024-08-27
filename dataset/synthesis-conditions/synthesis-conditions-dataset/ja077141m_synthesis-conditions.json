@@ -1,0 +1,44 @@
+{
+  "materials": [
+    {
+      "material": "DPP",
+      "synthesis": {
+        "reference": "The synthesis of DPP has been described elsewhere."
+      }
+    },
+    {
+      "material": "Cd(II), Pb(II), and Hg(II) complexes with DPP",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "n-butanol",
+            "amount": "20 mL"
+          },
+          {
+            "name": "deionized water",
+            "amount": "20 mL"
+          }
+        ],
+        "procedure": "One equivalent of DPP (about 10 mg) was dissolved in n-butanol (20 mL), and one equivalent of the metal perchlorate was dissolved in deionized water (20 mL). The aqueous solution of the metal perchlorate was placed in a 50 mL beaker, and the n-butanol solution of DPP was carefully layered on top of the water layer. The beaker was covered with Parafilm and then left to stand. After a few days, crystals of the DPP complex formed at the interface of the solvents, and some crystals began to fall to the bottom of the beaker. The solutions were filtered under vacuum and air-dried."
+      }
+    },
+    {
+      "material": "[Cd(DPP)2](ClO4)2 (1)",
+      "synthesis": {
+        "description": "Colorless crystals. Elemental analysis, calcd for C44H28CdCl2N8O8:  C, 53.92; H, 2.88; N 11.43%. Found:  C, 54.11; H, 2.91; N, 11.29%."
+      }
+    },
+    {
+      "material": "[Pb(DPP)(H2O)](ClO4)2 (2)",
+      "synthesis": {
+        "description": "Colorless crystals. Elemental analysis, calcd for C22H16PbCl2N8O9:  C, 34.84; H, 2.13; N 7.39%. Found:  C, 34.73; H, 2.46; N, 7.35%."
+      }
+    },
+    {
+      "material": "[Hg(DPP)](ClO4)2 (3)",
+      "synthesis": {
+        "description": "Colorless crystals. Elemental analysis, calcd for C22H14HgCl2N8O8:  C, 36.01; H, 1.92; N 7.63%. Found:  C, 36.05; H, 1.94; N, 7.77%."
+      }
+    }
+  ]
+}

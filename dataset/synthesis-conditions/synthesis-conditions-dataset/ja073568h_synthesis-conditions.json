@@ -1,0 +1,57 @@
+{
+  "materials": [
+    {
+      "name": "Compound 1",
+      "synthesis_conditions": {
+        "solvents": ["Ethanol", "Water"],
+        "solvent_amounts": ["10.0 mL Ethanol", "10.0 mL Water", "1 mL pure alcohol"],
+        "temperature": "Room temperature",
+        "time": "A few weeks",
+        "yield": "Approximately 40%",
+        "chemicals_used": ["4,4'-bipyridine (bpy) (60.0 mM)", "Cu(OTf)2 (30.0 mM)"],
+        "washing_method": "Washed with small amounts of distilled water and alcohol",
+        "drying_method": "In air",
+        "equipment": "Straight glass tube"
+      }
+    },
+    {
+      "name": "Compound 2",
+      "synthesis_conditions": {
+        "solvents": ["Methanol", "Water"],
+        "solvent_amounts": ["10.0 mL Methanol", "10.0 mL Water", "1 mL pure alcohol"],
+        "temperature": "Room temperature",
+        "time": "A few weeks",
+        "yield": "Approximately 40%",
+        "chemicals_used": ["4,4'-bipyridine (bpy) (60.0 mM)", "Cu(OTf)2 (30.0 mM)"],
+        "washing_method": "Washed with small amounts of distilled water and alcohol",
+        "drying_method": "In air",
+        "equipment": "Straight glass tube"
+      }
+    },
+    {
+      "name": "Compound 2a",
+      "synthesis_conditions": {
+        "notes": "Obtained by leaving compound 2 in the air for one day."
+      }
+    },
+    {
+      "name": "Compound 1a",
+      "synthesis_conditions": {
+        "temperature": "363 K",
+        "time": "2 hours",
+        "equipment": "Vacuum",
+        "notes": "Compound 1 was outgassed under vacuum at 363 K for 2 hours to prepare compound 1a."
+      }
+    },
+    {
+      "name": "Compound 1b",
+      "synthesis_conditions": {
+        "temperature": "77 K",
+        "pressure": ["15.3 kPa", "93.3 kPa"],
+        "gas": "N2",
+        "purity": "> 99.9999%",
+        "notes": "Compound 1a was cooled down at 77 K and N2 gas was introduced at 15.3kPa and 93.3 kPa to prepare compound 1b."
+      }
+    }
+  ]
+}

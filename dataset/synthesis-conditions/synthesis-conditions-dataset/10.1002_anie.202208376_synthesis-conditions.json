@@ -1,0 +1,75 @@
+{
+  "materials": [
+    {
+      "name": "complex 3 a",
+      "synthesis_conditions": {
+        "solvents": "dichloromethane-ethanol-pyridine",
+        "solvent_amounts": "3 mL, 1 : 1 : 1 v/v/v",
+        "reactants": "complex 3 a, freshly produced H2S",
+        "temperature": "room temperature",
+        "time": "30 min",
+        "product": "white solid",
+        "recrystallization_solvent": "diethyl ether into methanol solution",
+        "crystal_form": "block crystals",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "complex 4 a",
+      "synthesis_conditions": {
+        "drying_method": "evaporation",
+        "recrystallization_solvent": "diethyl ether into methanol solution",
+        "NMR_solvent": "CD3OD",
+        "CNHC_Au_signal_peak": "δ = 179.5 ppm",
+        "elemental_analysis_method": "Energy-dispersive X-ray spectrometer (EDS)",
+        "elemental_composition": "C, N, S, Au, and Cl",
+        "HR-ESI_mass_spectrum_peak": "m/z = 1106.2062",
+        "HR-ESI_mass_spectrum_calculated": "[4 a-2Cl]2 + 1106.1948"
+      }
+    },
+    {
+      "name": "complex 3 b",
+      "synthesis_conditions": {
+        "solvents": "dichloromethane-ethanol-pyridine",
+        "solvent_amounts": "3 mL, 1 : 1 : 1 v/v/v",
+        "reactants": "complex 3 b, freshly produced H2S",
+        "temperature": "room temperature",
+        "time": "not specified",
+        "product": "colorless crystals",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "complex 4 b",
+      "synthesis_conditions": {
+        "NMR_solvent": "CD3OD",
+        "DOSY_diffusion_coefficient": "D = 2.76 × 10-10 m2 s-1",
+        "elemental_analysis_method": "Energy-dispersive X-ray spectrometer (EDS)",
+        "elemental_composition": "C, N, S, Au, and Cl",
+        "HR-ESI_mass_spectrum_peak": "m/z = 1220.7286",
+        "HR-ESI_mass_spectrum_calculated": "[4 b-8Cl]8 +"
+      }
+    },
+    {
+      "name": "complex 3 c",
+      "synthesis_conditions": {
+        "solvents": "dichloromethane-ethanol-pyridine",
+        "solvent_amounts": "3 mL, 1 : 1 : 1 v/v/v",
+        "reactants": "complex 3 c, freshly produced H2S",
+        "temperature": "room temperature",
+        "time": "not specified",
+        "product": "not specified",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "complex 4 c",
+      "synthesis_conditions": {
+        "NMR_verification": "multinuclear NMR and HR-ESI mass spectrometry",
+        "elemental_analysis_method": "not specified",
+        "elemental_composition": "not specified",
+        "HR-ESI_mass_spectrum": "Figures S32–S36"
+      }
+    }
+  ]
+}

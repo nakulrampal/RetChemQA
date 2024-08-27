@@ -1,0 +1,124 @@
+{
+  "materials": [
+    {
+      "name": "CPM-33a [Ni3(OH)(bdc)3(tpt)]",
+      "synthesis_conditions": {
+        "temperature": "140 oC",
+        "solvents": ["DMA", "DI H2O"],
+        "amount_of_each_solvent": ["2.5 g of DMA", "0.5 g DI H2O"],
+        "equipment": ["23 ml Teflon cup", "stainless steel autoclave", "oven"],
+        "chemicals_used": ["208 mg of Ni(NO3)2·6H2O", "121 mg terephthalic acid (H2bdc)", "40.0 mg 1,3,5-tri(4-pyridyl)triazine (tpt)"],
+        "time": "1 week",
+        "yield": "about 88% based on the metal",
+        "washing_method": "N/A",
+        "drying_method": "cooling to room temperature",
+        "additional_information": "Pale greenish yellow block crystals were obtained."
+      }
+    },
+    {
+      "name": "CPM-33b [Ni3(OH)(dobdc)3(tpt)]",
+      "synthesis_conditions": {
+        "temperature": "100 oC",
+        "solvents": ["DMF", "ethanol", "distilled water"],
+        "amount_of_each_solvent": ["10 g of DMF", "2g of ethanol", "2g of distilled water"],
+        "equipment": ["20 ml glass vial", "oven"],
+        "chemicals_used": ["120 mg of Ni(NO3)2·6H2O", "84 mg 2,5-dihydroxylterephthalic acid (H2dobdc)", "52 mg 1,3,5-tri(4-pyridyl)triazine (tpt)"],
+        "time": "4 days",
+        "yield": "about 75% based on the metal",
+        "washing_method": "N/A",
+        "drying_method": "cooling to room temperature",
+        "additional_information": "Pale green needle like crystals were obtained."
+      }
+    },
+    {
+      "name": "CPM-33c [Ni3(OH)(NH2bdc)3(tpt)]",
+      "synthesis_conditions": {
+        "temperature": "120 oC",
+        "solvents": ["DMF"],
+        "amount_of_each_solvent": ["2.5 g of DMF"],
+        "equipment": ["20 ml glass vial", "oven"],
+        "chemicals_used": ["121 mg of Ni(NO3)2·6H2O", "73 mg 2-aminoterephthalic acid (H2(NH2bdc))", "40.0 mg 1,3,5-tri(4-pyridyl)triazine (tpt)"],
+        "time": "4 days",
+        "yield": "N/A",
+        "washing_method": "sonication treatment",
+        "drying_method": "cooling to room temperature",
+        "additional_information": "Pale greenish yellow block crystals were obtained."
+      }
+    },
+    {
+      "name": "CPM-33d [Ni3(OH)(1,4-ndc)3(tpt)]",
+      "synthesis_conditions": {
+        "temperature": "120 oC",
+        "solvents": ["DMA"],
+        "amount_of_each_solvent": ["2.5 g of DMA"],
+        "equipment": ["20 ml glass vial", "oven"],
+        "chemicals_used": ["125 mg of Ni(NO3)2·6H2O", "85 mg 1,4-naphthalic acid (H2(1,4-ndc))", "40.0 mg 1,3,5-tri(4-pyridyl)triazine (tpt)"],
+        "time": "4 days",
+        "yield": "N/A",
+        "washing_method": "sonication treatment",
+        "drying_method": "cooling to room temperature",
+        "additional_information": "Pale greenish yellow block crystals were obtained."
+      }
+    },
+    {
+      "name": "CPM-34 [Ni3(OH)(2,6-ndc)3(tpt)]",
+      "synthesis_conditions": {
+        "temperature": "120 oC",
+        "solvents": ["DMA"],
+        "amount_of_each_solvent": ["2.5 g of DMA"],
+        "equipment": ["20 ml glass vial", "oven"],
+        "chemicals_used": ["131 mg of Ni(NO3)2·6H2O", "86 mg 2,6-naphthalic acid (H2(2,6-ndc))", "42 mg 1,3,5-tri(4-pyridyl)triazine (tpt)"],
+        "time": "1 week",
+        "yield": "about 64% based on the metal",
+        "washing_method": "N/A",
+        "drying_method": "cooling to room temperature",
+        "additional_information": "Pale greenish yellow block crystals were obtained."
+      }
+    },
+    {
+      "name": "CPM-35 [Ni3(OH)(bpdc)3(tpt)]",
+      "synthesis_conditions": {
+        "temperature": "120 oC",
+        "solvents": ["DMF"],
+        "amount_of_each_solvent": ["4.0 g of DMF"],
+        "equipment": ["20 ml glass vial", "oven"],
+        "chemicals_used": ["120 mg of Ni(NO3)2·6H2O", "99.0 mg 4,4’-biphenyldicarboxylic acid (H2bpdc)", "40.0 mg 1,3,5-tri(4-pyridyl)triazine (tpt)"],
+        "time": "5 days",
+        "yield": "about 80% based on the metal",
+        "washing_method": "N/A",
+        "drying_method": "cooling to room temperature",
+        "additional_information": "Green block crystals were obtained."
+      }
+    },
+    {
+      "name": "CPM-37 [Ni3(OH)(bpdc)3(tpbtc)]",
+      "synthesis_conditions": {
+        "temperature": "140 oC",
+        "solvents": ["DMA"],
+        "amount_of_each_solvent": ["2.5 g of DMA"],
+        "equipment": ["23 ml Teflon cup", "stainless steel autoclave", "oven"],
+        "chemicals_used": ["129.4 mg of Ni(NO3)2·6H2O", "96.5 mg 4,4’-biphenyldicarboxylic acid (H2bpdc)", "65.0 mg N,N’,N’’-tri(4-pyridinyl)-1,3,5-benzene-tricarboxamide (tpbtc)"],
+        "time": "1 week",
+        "yield": "N/A",
+        "washing_method": "N/A",
+        "drying_method": "cooling to room temperature",
+        "additional_information": "Pale greenish yellow hexagonal disc shaped crystals were obtained. Some unidentified impurity phase was present."
+      }
+    },
+    {
+      "name": "N,N’,N’’-tri(4-pyridinyl)-1,3,5-benzenetricarboxamide (tpbtc)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": ["DMA"],
+        "amount_of_each_solvent": ["80 g of DMA", "20 g DMA"],
+        "equipment": ["100 ml round bottom flask"],
+        "chemicals_used": ["3.2 g 4-aminopyridine", "300 mg 4-dimethylaminopyridine", "2.65 g (10 mmol) 1,3,5-benznetricarbonyl trichloride"],
+        "time": "5 days",
+        "yield": "N/A",
+        "washing_method": "regular work-up",
+        "drying_method": "N/A",
+        "additional_information": "Off-white crystalline powder was obtained."
+      }
+    }
+  ]
+}

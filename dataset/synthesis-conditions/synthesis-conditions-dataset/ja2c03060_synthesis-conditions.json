@@ -1,0 +1,132 @@
+{
+  "materials": [
+    {
+      "name": "NU-1000",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "8 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ZrOCl2.8H2O",
+            "amount": "98 mg"
+          },
+          {
+            "name": "benzoic acid",
+            "amount": "2 g"
+          },
+          {
+            "name": "H4TBAPy linker",
+            "amount": "40 mg"
+          },
+          {
+            "name": "trifluoroacetic acid (TFA)",
+            "amount": "40 μL"
+          }
+        ],
+        "time": "18 h",
+        "washing_method": "DMF and acetone washes",
+        "drying_method": "vacuum oven at 80 °C overnight, then 120 °C for 18 h under vacuum"
+      }
+    },
+    {
+      "name": "NU-1012",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "isopropanol",
+            "amount": "1 mL of 5% titanium isopropanol"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "NU-1000",
+            "amount": "10 mg"
+          }
+        ],
+        "time": "40 h",
+        "washing_method": "isopropanol and acetone washes",
+        "drying_method": "room temperature, then activated at 120 °C for 24 h under vacuum"
+      }
+    },
+    {
+      "name": "NU-1013, ZrTi-NU-1200, ZrTi-MOF-808",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "isopropanol",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "titanium isopropanol",
+            "amount": "not specified"
+          }
+        ],
+        "time": "40 h",
+        "additional_information": "Similar protocol as NU-1012"
+      }
+    },
+    {
+      "name": "NU-1000/CT composite",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "80 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ZrOCl2.8H2O",
+            "amount": "980 mg"
+          },
+          {
+            "name": "benzoic acid",
+            "amount": "20 g"
+          },
+          {
+            "name": "H4TBAPy linker",
+            "amount": "400 mg"
+          },
+          {
+            "name": "trifluoroacetic acid (TFA)",
+            "amount": "800 μL"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": "DMF and acetone washes",
+        "drying_method": "vacuum oven at 80 °C overnight"
+      }
+    },
+    {
+      "name": "NU-1012/CT composite",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "isopropanol",
+            "amount": "100 mL of 5% titanium isopropoxide"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "NU-1000/CT composites",
+            "amount": "not specified"
+          }
+        ],
+        "time": "40 h",
+        "washing_method": "isopropanol and acetone washes",
+        "drying_method": "room temperature, then activated at 110 °C for 24 h under vacuum"
+      }
+    }
+  ]
+}

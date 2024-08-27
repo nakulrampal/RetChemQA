@@ -1,0 +1,53 @@
+{
+  "materials": [
+    {
+      "name": "[Mn(TPP)O2PHPh]·H2O",
+      "synthesis_conditions": {
+        "precursors": [
+          {
+            "name": "manganese(III) acetate meso-tetraphenylporphyrin complex [Mn(TPP)OAc]",
+            "amount": "0.73 g",
+            "molar_amount": "1 mmol"
+          },
+          {
+            "name": "phenylphosphinic acid",
+            "amount": "not specified"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "ethanol",
+            "amount": "30 mL",
+            "condition": "refluxing"
+          },
+          {
+            "name": "dichloromethane/pentane",
+            "amount": "20/250 mL",
+            "condition": "for precipitation"
+          }
+        ],
+        "reaction_time": "16 h",
+        "yield": "89%",
+        "product": "[Mn(TPP)O2PHPh]·H2O",
+        "product_form": "dark-purple powder",
+        "crystallization_method": "slow diffusion of water into an ethanolic solution of the powder"
+      },
+      "characterization_methods": {
+        "IR": {
+          "KBr_disc": "ν (cm-1): 2306w (P−H), 1596 m (C=N), 1178 m (PO2), 1013 s, 802 m, 754 m, 705 m"
+        },
+        "UV-visible": {
+          "in_CH2Cl2": "λnm (ε L·mol-1·cm-1): 376 (53600), 389 (47500), 477 (89300), 529 (5700), 577 (10800), 613 (10500)"
+        },
+        "FAB+ MS": {
+          "calculated_for_C50H34N4O2PMn": "808.74",
+          "found": "809"
+        },
+        "Elemental_Analysis": {
+          "calculated_for_C50H34N4O2PMn·H2O": "C, 72.64; H, 4.39; N, 6.78; P, 3.75; Mn, 6.64",
+          "found": "C, 72.30; H, 4.43; N, 6.54; P, 3.91; Mn, 6.41"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "materials": [
+    {
+      "name": "MOF-1201",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "anhydrous ethanol",
+            "amount": "6 mL"
+          }
+        ],
+        "equipment": "23 mL Teflon autoclave",
+        "chemicals_used": [
+          {
+            "name": "calcium acetate monohydrate",
+            "amount": "0.071 g (0.4 mmol)"
+          },
+          {
+            "name": "L-(+)-Lactic acid",
+            "amount": "0.072 g (0.8 mmol)"
+          }
+        ],
+        "time": "4 days",
+        "washing_method": "washed with anhydrous ethanol for 1 day",
+        "drying_method": "evacuated under vacuum (0.01 Torr) at ambient temperature for 12 hrs",
+        "yield": "26% based on Ca"
+      }
+    },
+    {
+      "name": "MOF-1203",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "anhydrous methanol",
+            "amount": "6 mL"
+          }
+        ],
+        "equipment": "23 mL Teflon autoclave",
+        "chemicals_used": [
+          {
+            "name": "calcium acetate monohydrate",
+            "amount": "0.071 g (0.4 mmol)"
+          },
+          {
+            "name": "L-(+)-Lactic acid",
+            "amount": "0.036 g (0.4 mmol)"
+          }
+        ],
+        "time": "3 days",
+        "washing_method": "washed with anhydrous methanol for 1 day",
+        "drying_method": "evacuated under vacuum (0.01 Torr) at ambient temperature for 12 hrs",
+        "yield": "25% based on Ca"
+      }
+    }
+  ]
+}

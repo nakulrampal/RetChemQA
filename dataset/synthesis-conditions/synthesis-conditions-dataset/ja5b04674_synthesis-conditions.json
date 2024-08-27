@@ -1,0 +1,366 @@
+{
+  "materials": [
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "solvents": "MeOH/THF (20 mL, 2:1 mixture)",
+        "chemicals_used": [
+          {
+            "name": "1",
+            "amount": "625 mg"
+          },
+          {
+            "name": "2M NaOH",
+            "amount": "7 mL"
+          }
+        ],
+        "temperature": "80 °C",
+        "time": "24 h",
+        "washing_method": "water and Et2O",
+        "drying_method": "under vacuum",
+        "yield": "430 mg (91%)",
+        "characterization": {
+          "melting_point": "decomposition >220 °C",
+          "NMR_1H": "500 MHz, DMF-d7",
+          "NMR_13C": "500 MHz, DMSO-d6",
+          "HR-MS": "ESI-TOF"
+        }
+      }
+    },
+    {
+      "name": "Pentaethylene glycol di-but-4-enyl ether",
+      "synthesis_conditions": {
+        "solvents": "THF (120 mL)",
+        "chemicals_used": [
+          {
+            "name": "NaH in 60% mineral oil",
+            "amount": "4.39 g (0.183 mol)"
+          },
+          {
+            "name": "3-butene-1-ol",
+            "amount": "13.2 g (0.183mol)"
+          },
+          {
+            "name": "1,14-Ditosyl-3,6,9,12-tetraoxatetradecane",
+            "amount": "10.0 g (0.0183 mol)"
+          }
+        ],
+        "temperature": "room temperature",
+        "time": "48 h",
+        "washing_method": "chloroform and 1 M HCl",
+        "drying_method": "over MgSO4",
+        "yield": "4.0 g (64%)",
+        "characterization": {
+          "NMR_1H": "500 MHz, DCM-d2",
+          "NMR_13C": "500 MHz, DCM-d2",
+          "HR-MS": "ESI-TOF"
+        }
+      }
+    },
+    {
+      "name": "4-22",
+      "synthesis_conditions": {
+        "solvents": "DCM (85 mL) and NO2Me (5 mL)",
+        "chemicals_used": [
+          {
+            "name": "Pentaethylene glycol di-but-4-enyl ether",
+            "amount": "0.93 g (2.7 mmol)"
+          },
+          {
+            "name": "3",
+            "amount": "1.00 g (1.79 mmol)"
+          },
+          {
+            "name": "Grubbs I catalyst",
+            "amount": "73 mg (5 mol%)"
+          }
+        ],
+        "temperature": "42 °C",
+        "time": "48 h",
+        "washing_method": "with hexane and Et2O",
+        "drying_method": "under vacuum",
+        "yield": "0.73g (46%)",
+        "characterization": {
+          "melting_point": "186 °C",
+          "NMR_1H": "500 MHz, DCM-d2",
+          "NMR_13C": "500 MHz, DCM-d2",
+          "HR-MS": "ESI-TOF"
+        }
+      }
+    },
+    {
+      "name": "5-22",
+      "synthesis_conditions": {
+        "solvents": "MeOH (80 mL)",
+        "chemicals_used": [
+          {
+            "name": "4-22",
+            "amount": "665 mg"
+          },
+          {
+            "name": "Pd/C 10wt%",
+            "amount": "80 mg"
+          }
+        ],
+        "temperature": "ambient conditions",
+        "time": "24 h",
+        "washing_method": "through Celite",
+        "drying_method": "on a rotary evaporator",
+        "yield": "600 mg (90%)",
+        "characterization": {
+          "melting_point": "185 °C",
+          "NMR_1H": "500 MHz, DCM-d2",
+          "NMR_13C": "500 MHz, DCM-d2",
+          "HR-MS": "ESI-TOF"
+        }
+      }
+    },
+    {
+      "name": "6-22",
+      "synthesis_conditions": {
+        "solvents": "DCM (3 mL)",
+        "chemicals_used": [
+          {
+            "name": "5-22",
+            "amount": "50 mg"
+          },
+          {
+            "name": "saturated sodium bicarbonate solution",
+            "amount": "3 mL"
+          }
+        ],
+        "temperature": "room temperature",
+        "time": "1h",
+        "washing_method": "with H2O",
+        "drying_method": "over MgSO4",
+        "yield": "46 mg (92%)",
+        "characterization": {
+          "melting_point": "98 °C",
+          "NMR_1H": "500 MHz, DCM-d2",
+          "NMR_13C": "500 MHz, DCM-d2",
+          "HR-MS": "ESI-TOF"
+        }
+      }
+    },
+    {
+      "name": "7-22",
+      "synthesis_conditions": {
+        "solvents": "MeOH/THF (15 mL, 2:1 mixture)",
+        "chemicals_used": [
+          {
+            "name": "5-22",
+            "amount": "500 mg"
+          },
+          {
+            "name": "2M NaOH",
+            "amount": "5 mL"
+          }
+        ],
+        "temperature": "80 °C",
+        "time": "24 h",
+        "washing_method": "with water and Et2O",
+        "drying_method": "under vacuum",
+        "yield": "350 mg (91%)",
+        "characterization": {
+          "melting_point": "decomposition >225 °C",
+          "NMR_1H": "500 MHz, DMF-d7",
+          "NMR_13C": "500 MHz, DMSO-d6",
+          "HR-MS": "ESI-TOF"
+        }
+      }
+    },
+    {
+      "name": "4-B24",
+      "synthesis_conditions": {
+        "solvents": "DCM (120 mL) and NO2Me (8 mL)",
+        "chemicals_used": [
+          {
+            "name": "1,2-Bis-[3,6-dioxa-undec-10-enoxy]benzene",
+            "amount": "1.13g (2.69mmol)"
+          },
+          {
+            "name": "3",
+            "amount": "1.00g (1.79 mmol)"
+          },
+          {
+            "name": "Grubbs I catalyst",
+            "amount": "73 mg (5 mol%)"
+          }
+        ],
+        "temperature": "42 °C",
+        "time": "48 h",
+        "washing_method": "with hexane and Et2O",
+        "drying_method": "under vacuum",
+        "yield": "1.19g (70%)",
+        "characterization": {
+          "melting_point": "205 °C",
+          "NMR_1H": "500 MHz, DCM-d2",
+          "NMR_13C": "500 MHz, DCM-d2",
+          "HR-MS": "ESI-TOF"
+        }
+      }
+    },
+    {
+      "name": "5-B24",
+      "synthesis_conditions": {
+        "solvents": "MeOH (50 mL) and THF (10 mL)",
+        "chemicals_used": [
+          {
+            "name": "4-B24",
+            "amount": "500 mg"
+          },
+          {
+            "name": "Pd/C 10wt%",
+            "amount": "56 mg"
+          }
+        ],
+        "temperature": "ambient conditions",
+        "time": "4 h",
+        "washing_method": "through Celite",
+        "drying_method": "on a rotary evaporator",
+        "yield": "430 mg (86%)",
+        "characterization": {
+          "melting_point": "195 °C",
+          "NMR_1H": "500 MHz, DCM-d2",
+          "NMR_13C": "500 MHz, DCM-d2",
+          "HR-MS": "ESI-TOF"
+        }
+      }
+    },
+    {
+      "name": "6-B24",
+      "synthesis_conditions": {
+        "solvents": "DCM (3 mL)",
+        "chemicals_used": [
+          {
+            "name": "5-B24",
+            "amount": "50 mg"
+          },
+          {
+            "name": "saturated sodium bicarbonate solution",
+            "amount": "3 mL"
+          }
+        ],
+        "temperature": "room temperature",
+        "time": "1h",
+        "washing_method": "with H2O",
+        "drying_method": "over MgSO4",
+        "yield": "45 mg (90%)",
+        "characterization": {
+          "melting_point": "102 °C",
+          "NMR_1H": "500 MHz, DCM-d2",
+          "NMR_13C": "500 MHz, DCM-d2",
+          "HR-MS": "ESI-TOF"
+        }
+      }
+    },
+    {
+      "name": "7-B24",
+      "synthesis_conditions": {
+        "solvents": "MeOH/THF (18 mL, 5:4 mixture)",
+        "chemicals_used": [
+          {
+            "name": "5-B24",
+            "amount": "250 mg"
+          },
+          {
+            "name": "2M NaOH",
+            "amount": "4 mL"
+          }
+        ],
+        "temperature": "80 °C",
+        "time": "24 h",
+        "washing_method": "with water and Et2O",
+        "drying_method": "under vacuum",
+        "yield": "160 mg (81%)",
+        "characterization": {
+          "melting_point": "decomposition >225 °C",
+          "NMR_1H": "500 MHz, DMSO-d6",
+          "NMR_13C": "500 MHz, DMSO-d6",
+          "HR-MS": "ESI-TOF"
+        }
+      }
+    },
+    {
+      "name": "UWCM-1",
+      "synthesis_conditions": {
+        "solvents": "DMF/EtOH/H2O (2.67 mL 3:3:2 v/v/v)",
+        "chemicals_used": [
+          {
+            "name": "2",
+            "amount": "25 mg (0.07 mmol)"
+          },
+          {
+            "name": "Cu(NO3)2·3H2O",
+            "amount": "34 mg (0.14 mmol)"
+          },
+          {
+            "name": "HNO3",
+            "amount": "3 drops"
+          }
+        ],
+        "temperature": "65 °C",
+        "time": "48 h",
+        "washing_method": "with DMF",
+        "yield": "30 mg (75%)",
+        "characterization": {
+          "formula": "[Cu6(2)3(DMF)4(H2O)2]·20DMF"
+        }
+      }
+    },
+    {
+      "name": "UWDM-1(22)",
+      "synthesis_conditions": {
+        "solvents": "DMF/EtOH/H2O (2.67 mL 3:3:2 v/v/v)",
+        "chemicals_used": [
+          {
+            "name": "7-22",
+            "amount": "25 mg (0.037 mmol)"
+          },
+          {
+            "name": "Cu(NO3)2·3H2O",
+            "amount": "17.3 mg (0.073 mmol)"
+          },
+          {
+            "name": "HNO3",
+            "amount": "2 drops"
+          }
+        ],
+        "temperature": "65 °C",
+        "time": "48 h",
+        "washing_method": "with DMF and then EtOH",
+        "yield": "24 mg (77%)",
+        "characterization": {
+          "formula": "[Cu2(7-22)(H2O)2]·3H2O"
+        }
+      }
+    },
+    {
+      "name": "UWDM-1(B24)",
+      "synthesis_conditions": {
+        "solvents": "DMF/EtOH/H2O (2.67 mL 3:3:2 v/v/v)",
+        "chemicals_used": [
+          {
+            "name": "7-B24",
+            "amount": "25 mg (0.033 mmol)"
+          },
+          {
+            "name": "Cu(NO3)2·3H2O",
+            "amount": "16 mg (0.066 mmol)"
+          },
+          {
+            "name": "HNO3",
+            "amount": "2 drops"
+          }
+        ],
+        "temperature": "65 °C",
+        "time": "48 h",
+        "washing_method": "with DMF and then EtOH",
+        "yield": "20 mg (67%)",
+        "characterization": {
+          "formula": "[Cu2(7-B24)(H2O)2]·3H2O"
+        }
+      }
+    }
+  ]
+}

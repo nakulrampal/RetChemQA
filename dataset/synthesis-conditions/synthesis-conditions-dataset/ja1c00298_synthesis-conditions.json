@@ -1,0 +1,67 @@
+{
+  "materials": [
+    {
+      "name": "TzPMOF",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "4 mL"
+          }
+        ],
+        "equipment": "oven",
+        "chemicals_used": [
+          {
+            "name": "TCPP",
+            "amount": "5.1 mg",
+            "molarity": "6.4 × 10−3 mmol"
+          },
+          {
+            "name": "Zn(NO3)2. 6H2O",
+            "amount": "5.8 mg",
+            "molarity": "0.03 mmol"
+          },
+          {
+            "name": "TzBIPY",
+            "amount": "7.4 mg",
+            "molarity": "0.024 mmol"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": "DMF and EtOH",
+        "drying_method": "air drying",
+        "yield": "Not specified"
+      }
+    },
+    {
+      "name": "2,5-Di(pyridin-4-yl)thiazolo[5,4-d]thiazole (TzBIPY)",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "10 mL"
+          }
+        ],
+        "equipment": "reflux",
+        "chemicals_used": [
+          {
+            "name": "dithiooxamide",
+            "amount": "200 mg",
+            "molarity": "1.6 mmol"
+          },
+          {
+            "name": "4-pyridinecarboxaldehyde",
+            "amount": "0.40 mL",
+            "molarity": "4.4 mmol"
+          }
+        ],
+        "time": "4 h",
+        "washing_method": "H2O",
+        "drying_method": "Not specified",
+        "yield": "74%"
+      }
+    }
+  ]
+}

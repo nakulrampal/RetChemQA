@@ -1,0 +1,49 @@
+{
+  "materials": [
+    {
+      "name": "1·3H2O",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "ZnO",
+            "amount": "10 mmol, 814 mg"
+          },
+          {
+            "name": "oxalic acid dihydrate (H2(ox)·2H2O)",
+            "amount": "20 mmol, 2521 mg"
+          },
+          {
+            "name": "adipamide",
+            "amount": "10 mmol, 1442 mg"
+          },
+          {
+            "name": "distilled water",
+            "amount": "550 mmol, 10 mL"
+          }
+        ],
+        "temperature": "130 °C",
+        "time": "24 h heating + 168 h cooling to room temperature",
+        "equipment": "50 mL Teflon-lined bottle, programmable oven",
+        "washing_method": "distilled water",
+        "drying_method": "air",
+        "yield": "2891 mg, 92%",
+        "additional_information": "Elemental analysis performed on air-dried sample (1·2H2O)"
+      }
+    },
+    {
+      "name": "1·2H2O",
+      "synthesis_conditions": {
+        "derived_from": "1·3H2O synthesis",
+        "additional_information": "Obtained by air-drying the synthesized 1·3H2O"
+      }
+    },
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "derived_from": "1·2H2O",
+        "drying_method": "50 °C overnight under N2 flow",
+        "additional_information": "Dehydrated form of 1·2H2O"
+      }
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "materials": [
+    {
+      "name": "MFM-188",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "CuCl2",
+              "amount": null
+            },
+            {
+              "name": "H8L",
+              "amount": "ratio 5:1"
+            },
+            {
+              "solvents": [
+                {
+                  "name": "dimethyl sulfoxide",
+                  "amount": "v:v:v:v 1:2:1:1"
+                },
+                {
+                  "name": "N,N-diethylformamide",
+                  "amount": "v:v:v:v 1:2:1:1"
+                },
+                {
+                  "name": "ethanol",
+                  "amount": "v:v:v:v 1:2:1:1"
+                },
+                {
+                  "name": "H2O",
+                  "amount": "v:v:v:v 1:2:1:1"
+                }
+              ]
+            },
+            {
+              "name": "HCl",
+              "amount": null,
+              "note": "acidic mixture"
+            }
+          ],
+          "temperature": "80°C",
+          "time": "36 h",
+          "equipment": "solvothermal reaction",
+          "yield": "64%"
+        },
+        {
+          "step": 2,
+          "name": "Activation",
+          "chemicals_used": [
+            {
+              "name": "methanol",
+              "note": "solvent exchange"
+            },
+            {
+              "name": "supercritical CO2",
+              "note": "flowing through the sample"
+            }
+          ],
+          "temperature": "100°C",
+          "time": "20 h",
+          "equipment": "dynamic vacuum",
+          "note": "followed by heating under dynamic vacuum"
+        }
+      ]
+    },
+    {
+      "name": "H8L",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "[1,10-biphenyl]-3,30,5,50-tetracarboxylic acid",
+              "amount": "3.0 g, 9.1 mmol"
+            },
+            {
+              "name": "thionyl chloride",
+              "amount": "10 ml, 137.8 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "THF",
+              "amount": "200 ml"
+            }
+          ],
+          "temperature": "reflux",
+          "time": "16 h",
+          "equipment": "inert atmosphere"
+        },
+        {
+          "step": 2,
+          "chemicals_used": [
+            {
+              "name": "5-aminoisophthalic acid",
+              "amount": "9.84 g, 54.3 mmol"
+            },
+            {
+              "name": "trimethylamine",
+              "amount": "3.7 ml, 27.4 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "THF",
+              "amount": "250 ml"
+            },
+            {
+              "name": "aqueous HCl",
+              "amount": "2M, 200 ml"
+            }
+          ],
+          "temperature": null,
+          "time": "2 h",
+          "equipment": "inert atmosphere",
+          "yield": "85.5%"
+        }
+      ]
+    }
+  ]
+}

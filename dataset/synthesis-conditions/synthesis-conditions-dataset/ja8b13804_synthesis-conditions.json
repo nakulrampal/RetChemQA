@@ -1,0 +1,60 @@
+{
+  "materials": [
+    {
+      "name": "Ti-(Ti·TBP)",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "0.5 mL"
+          },
+          {
+            "name": "acetic acid (AcOH)",
+            "amount": "140 μL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "TiCl4·2THF",
+            "amount": "0.5 mL of 6.0 mg/mL solution in DMF"
+          },
+          {
+            "name": "5,10,15,20-tetra(p-benzoato)porphyrin (H4TBP)",
+            "amount": "0.5 mL of 4.0 mg/mL solution in DMF"
+          }
+        ],
+        "time": "7 days",
+        "yield": "0.5 mg, 7.8%"
+      }
+    },
+    {
+      "name": "Ti-TBP nMOFs",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "0.5 mL"
+          },
+          {
+            "name": "acetic acid (AcOH)",
+            "amount": "50 μL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "TiCl4·2THF",
+            "amount": "0.5 mL of 2.0 mg/mL solution in DMF"
+          },
+          {
+            "name": "5,10,15,20-tetra(p-benzoato)porphyrin (H4TBP)",
+            "amount": "0.5 mL of 2.0 mg/mL solution in DMF"
+          }
+        ],
+        "time": "24 hours",
+        "yield": "31% (0.66 mg) based on Ti as determined by ICP-MS"
+      }
+    }
+  ]
+}

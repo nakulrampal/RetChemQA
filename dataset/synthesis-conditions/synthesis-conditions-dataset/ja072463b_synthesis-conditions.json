@@ -1,0 +1,108 @@
+{
+  "materials": [
+    {
+      "material": "[Cu(SQ)2NIT-mPy]·C6H6",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "solvent_1": "benzene",
+            "amount_1": "2 mL",
+            "solvent_2": "hexane",
+            "amount_2": "20 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "chemical_1": "NIT-mPy",
+            "amount_1": "0.0500 g, 0.21 mmol",
+            "chemical_2": "Cu(SQ)2",
+            "amount_2": "0.1076 g, 0.21 mmol"
+          }
+        ],
+        "temperature": "-18 °C",
+        "time": "overnight",
+        "washing_method": "washed with cold hexane",
+        "drying_method": "dried in air",
+        "yield": "52%",
+        "additional_information": "Calculated for C46H62N3O6Cu, %:  C 67.7, H 7.7, N 5.2. Found, %:  C 67.4, H 7.5, N 5.2."
+      }
+    },
+    {
+      "material": "[Cu(SQ)2Py]·C7H8",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "solvent_1": "toluene",
+            "amount_1": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "chemical_1": "Pyridine",
+            "amount_1": "0.1 mL",
+            "chemical_2": "Cu(SQ)2",
+            "amount_2": "0.0500 g, 0.1 mmol"
+          }
+        ],
+        "temperature": "-18 °C",
+        "time": "6 h",
+        "washing_method": "washed with cold toluene",
+        "drying_method": "dried in air",
+        "yield": "32%",
+        "additional_information": "Calculated for C40H53N1O4Cu, %:  C 71.1, H 7.9, N 2.1. Found, %:  C 70.6, H 7.8, N 2.2."
+      }
+    },
+    {
+      "material": "Cu(SQ)2DABCO",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "solvent_1": "toluene",
+            "amount_1": "10 mL",
+            "solvent_2": "toluene",
+            "amount_2": "15 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "chemical_1": "1,4-diazabicyclo(2.2.2)octane",
+            "amount_1": "0.07 g, 0.6 mmol",
+            "chemical_2": "Cu(SQ)2",
+            "amount_2": "0.200 g, 0.4 mmol"
+          }
+        ],
+        "temperature": "40 °C",
+        "time": "immediately after thermostating terminated",
+        "washing_method": "washed with toluene",
+        "drying_method": "dried in air",
+        "yield": "quantitative",
+        "additional_information": "Calculated for C34H52N2O4Cu, %:  C 66.3, H 8.5, Cu 10.3. Found, %:  C 66.8, H 8.7, Cu 10.8."
+      }
+    },
+    {
+      "material": "Cu(Cat)MeIm2",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "solvent_1": "toluene",
+            "amount_1": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "chemical_1": "1-Methylimidazole",
+            "amount_1": "0.1 mL",
+            "chemical_2": "Cu(SQ)2",
+            "amount_2": "0.0500 g, 0.1 mmol"
+          }
+        ],
+        "temperature": "-18°C",
+        "time": "overnight",
+        "washing_method": "washed with cold hexane",
+        "drying_method": "dried in air",
+        "yield": "47%",
+        "additional_information": "Calculated for C22H32N4O2Cu:  C 59.0, H 7.2, N 12.5. Found, %:  C 58.4, H 7.4, N 12.5."
+      }
+    }
+  ]
+}

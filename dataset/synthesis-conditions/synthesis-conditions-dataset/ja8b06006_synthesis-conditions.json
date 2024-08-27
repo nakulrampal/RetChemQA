@@ -1,0 +1,45 @@
+{
+  "materials": [
+    {
+      "name": "NU-1000",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": ["DMF"],
+        "amount_of_solvent": "300 mL",
+        "chemicals_used": [
+          "ZrOCl2•8H2O (4.85 g, 27.3 mmol)",
+          "benzoic acid (135.0 g, 1.1 mol)",
+          "H4TBAPy (2.0 g, 3.0 mol)"
+        ],
+        "time": "16 h",
+        "washing_method": "DMF, acetone",
+        "drying_method": "dynamic vacuum at 120 °C for 24 h"
+      }
+    },
+    {
+      "name": "Facac-AIM-NU-1000, Acac-AIM-NU-1000, Ni-Facac-AIM-NU-1000, Ni-Acac-AIM-NU-1000, Ni-AIM-NU-1000",
+      "synthesis_conditions": {
+        "temperature": "125 °C",
+        "solvents": ["N2"],
+        "chemicals_used": [
+          "Facac",
+          "Acac",
+          "bis(N,N′-ditert-butyl-acetamidinato)nickel(II)"
+        ],
+        "time": "100 cycles for Facac/Acac, 100 cycles for Ni",
+        "equipment": "ALD chamber",
+        "additional_information": "Ni loadings determined via ICP-AES"
+      }
+    },
+    {
+      "name": "Post-catalysis Ni-Facac-AIM-NU-1000 and Ni-Acac-AIM-NU-1000",
+      "synthesis_conditions": {
+        "characterization": [
+          "SEM images and elemental line scans showed no surface morphology changes and uniform distribution of Ni and Zr.",
+          "PXRD data showed good crystallinity.",
+          "Post-catalysis XPS confirmed Ni are still anchored on Zr6 nodes as fresh catalysts and Facac− ligands remained on post-catalysis Ni-Facac-AIM-NU-1000 sample."
+        ]
+      }
+    }
+  ]
+}

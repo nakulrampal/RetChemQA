@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What experimental technique was used to record N2 adsorption isotherms at 77 K?",
+      "answer": "Micromeritics ASAP 2020 instrument",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Before conducting X-ray diffraction (XRD) measurements, how were the ZIF-8 samples prepared?",
+      "answer": "Samples were degassed at 425 K using a heating rate of 5 K min-1 for 4 hours, introduced in quartz capillaries, and outgassed under high vacuum.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the purpose of loading one of the ZIF-8 samples with N2 at a relative pressure of 0.4 P/P0 before sealing it for XRD measurements?",
+      "answer": "To investigate the structural change of ZIF-8 by comparing it with the evacuated sample and confirming the existence of a change in the structure caused by a swing effect of the imidazolate linker.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The experimental adsorption isotherm of N2 at 77 K for ZIF-8 showed a single-step process.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What discrepancy was observed between the experimental and simulated adsorption isotherms of N2 on ZIF-8?",
+      "answer": "The experimental isotherm showed a two-step process, while the simulation on ZIF-8AP predicted a standard Type I isotherm without any step.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How did the GCMC simulations of N2 adsorption on ZIF-8HP compare to the experimental data?",
+      "answer": "The simulations on ZIF-8HP deviated from the experimental data at low pressure but correctly predicted the step shape of the experimental isotherm after a certain pressure.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The structural changes observed in ZIF-8 due to N2 adsorption were similar to those observed at very high pressures in diamond anvil cell experiments.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main conclusion regarding the flexibility of ZIF-8 based on the study?",
+      "answer": "The study concluded that ZIF-8 undergoes structural changes upon gas adsorption similar to those observed at very high pressures, affecting the adsorption of large molecules and their diffusivity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The BET surface area analysis showed a significant difference in accessible surface area between ZIF-8AP and ZIF-8HP.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What role did the reorientation of the imidazolate linkers play in the adsorption process of ZIF-8?",
+      "answer": "The reorientation of the imidazolate linkers increased the accessible pore volume and the size of the 6-ring windows, allowing for the adsorption of additional N2 molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study demonstrated that a single conformation of ZIF-8 is sufficient to describe adsorption in this material.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How did the study of ZIF flexibility contribute to the design of new porous solids?",
+      "answer": "The understanding of ZIF flexibility and the role of different building blocks on this phenomenon is crucial for tuning the diffusivity of fluids through the porous network, impacting the performance of ZIFs as molecular sieving materials.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The experimental and simulation procedures for studying ZIF-8 were detailed in the Supporting Information section S1.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the maximum number of N2 molecules per unit cell based on the model used for Rietveld refinement?",
+      "answer": "52 molecules per unit cell",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The adsorption snapshots provided in the Supporting Information section S3 visually represent the degree of pore filling and the location of nitrogen molecules during the adsorption process.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main finding from the in situ powder XRD measurements conducted on ZIF-8 loaded with N2?",
+      "answer": "The in situ powder XRD measurements confirmed that the structure of N2 loaded ZIF-8 showed the same reorientation of the imidazolate linkers as observed in ZIF-8HP, indicating a structural change due to adsorption.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study found no significant difference in either the free pore volumes or surface areas between ZIF-8AP and ZIF-8HP despite the structural changes.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of grand canonical Monte Carlo (GCMC) simulations in the study?",
+      "answer": "GCMC simulations were used to investigate the adsorption of N2 on ZIF-8, comparing the behavior of ZIF-8AP and ZIF-8HP structures to understand the impact of structural flexibility on adsorption.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study's results suggest that the flexibility of ZIF-8 can be exploited to design advanced molecular sieving membrane materials for gas separation.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How did the study's findings on ZIF-8's flexibility impact the understanding of molecular sieving?",
+      "answer": "The findings demonstrated that ZIF-8's flexibility, evidenced by the structural changes upon gas adsorption, affects the molecular sieving properties by allowing larger molecules to be adsorbed and diffused, challenging the assumption of a rigid framework.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "materials": [
+    {
+      "name": "tetramethyl 5,5'-(1H-1,2,3-triazole-1,4-diyl)diisophthalate (Me4L1)",
+      "synthesis_conditions": {
+        "solvents": "THF/H2O",
+        "solvent_amounts": {
+          "THF": "50 mL",
+          "H2O": "20 mL"
+        },
+        "temperature": "room temperature",
+        "chemicals_used": [
+          "dimethyl 5-ethynylisophthalate",
+          "dimethyl 5-azidoisophthalate",
+          "CuSO4·5H2O",
+          "sodium L-ascorbate"
+        ],
+        "chemical_amounts": {
+          "dimethyl 5-ethynylisophthalate": "0.24 g, 1.10 mmol",
+          "dimethyl 5-azidoisophthalate": "0.26 g, 1.10 mmol",
+          "CuSO4·5H2O": "0.0125 g, 0.05 mmol",
+          "sodium L-ascorbate": "0.1 g, 0.41 mmol"
+        },
+        "time": "3 days",
+        "washing_method": "poured into water (50 mL) and extracted with CH2Cl2 (100 mL × 2)",
+        "drying_method": "dried over Na2SO4 and the solvent was evaporated under vacuum",
+        "yield": "87%",
+        "additional_steps": [
+          {
+            "step": "purification",
+            "method": "silica gel flash column chromatography",
+            "solvents": "CH2Cl2/CH3OH",
+            "solvent_ratio": "100/1"
+          }
+        ]
+      }
+    },
+    {
+      "name": "5,5'-(1H-1,2,3-triazole-1,4-diyl)diisophthalic acid (H4L1)",
+      "synthesis_conditions": {
+        "solvents": "THF/H2O",
+        "solvent_amounts": {
+          "THF": "60 mL",
+          "H2O": "30 mL"
+        },
+        "temperature": "room temperature",
+        "chemicals_used": [
+          "Me4L1",
+          "NaOH"
+        ],
+        "chemical_amounts": {
+          "Me4L1": "0.56 g, 1.24 mmol",
+          "NaOH": "0.85 g, 21.3 mmol"
+        },
+        "time": "overnight",
+        "washing_method": "washed by Et2O (100 mL × 2)",
+        "drying_method": "dried",
+        "yield": "98%",
+        "additional_steps": [
+          {
+            "step": "acidification",
+            "method": "acidified with HCl to pH 1"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tetramethyl (5,5'-(benzene-1,4-diyl)di(1H-1,2,3-triazole-1,4-diyl))diisophthalate (Me4L2)",
+      "synthesis_conditions": {
+        "solvents": "THF/H2O",
+        "solvent_amounts": {
+          "THF": "50 mL",
+          "H2O": "20 mL"
+        },
+        "temperature": "room temperature",
+        "chemicals_used": [
+          "1,4-Diethynylbenzene",
+          "dimethyl 5-azidoisophthalate",
+          "CuSO4·5H2O",
+          "sodium L-ascorbate"
+        ],
+        "chemical_amounts": {
+          "1,4-Diethynylbenzene": "0.13g, 1.03 mmol",
+          "dimethyl 5-azidoisophthalate": "0.60 g, 2.55 mmol",
+          "CuSO4·5H2O": "0.0125 g, 0.05 mmol",
+          "sodium L-ascorbate": "0.1 g, 0.41 mmol"
+        },
+        "time": "3 days",
+        "washing_method": "washed with water (20 mL × 3) and then with THF/H2O (20 mL/8 mL)",
+        "yield": "92%"
+      }
+    },
+    {
+      "name": "5,5'-(benzene-1,4-diyl)di(1H-1,2,3-triazole-1,4-diyl)diisophthalic acid (H4L2)",
+      "synthesis_conditions": {
+        "solvents": "THF/H2O",
+        "solvent_amounts": {
+          "THF": "60 mL",
+          "H2O": "30 mL"
+        },
+        "temperature": "room temperature",
+        "chemicals_used": [
+          "Me4L2",
+          "NaOH"
+        ],
+        "chemical_amounts": {
+          "Me4L2": "0.60 g, 1.00 mmol",
+          "NaOH": "0.24 g, 6 mmol"
+        },
+        "time": "overnight",
+        "washing_method": "rinsed several times with distilled water",
+        "drying_method": "dried",
+        "yield": "94%",
+        "additional_steps": [
+          {
+            "step": "acidification",
+            "method": "acidified with HCl (1M) to pH 1"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tetramethyl (5,5'-(benzene-1,3-diyl)di(1H-1,2,3-triazole-1,4-diyl))diisophthalate (Me4L3)",
+      "synthesis_conditions": {
+        "solvents": "THF/H2O",
+        "solvent_amounts": {
+          "THF": "50 mL",
+          "H2O": "20 mL"
+        },
+        "temperature": "room temperature",
+        "chemicals_used": [
+          "1,3-Diethynylbenzene",
+          "dimethyl 5-azidoisophthalate",
+          "CuSO4·5H2O",
+          "sodium L-ascorbate"
+        ],
+        "chemical_amounts": {
+          "1,3-Diethynylbenzene": "0.13g, 1.03 mmol",
+          "dimethyl 5-azidoisophthalate": "0.60 g, 2.55 mmol",
+          "CuSO4·5H2O": "0.0125 g, 0.05 mmol",
+          "sodium L-ascorbate": "0.1 g, 0.4 mmol"
+        },
+        "time": "3 days",
+        "washing_method": "washed with water (20 mL × 3) and then with THF/H2O (20 mL/8 mL)",
+        "yield": "87%"
+      }
+    },
+    {
+      "name": "5,5'-(benzene-1,3-diyl)di(1H-1,2,3-triazole-1,4-diyl)diisophthalic acid (H4L3)",
+      "synthesis_conditions": {
+        "solvents": "THF/H2O",
+        "solvent_amounts": {
+          "THF": "60 mL",
+          "H2O": "30 mL"
+        },
+        "temperature": "room temperature",
+        "chemicals_used": [
+          "Me4L3",
+          "NaOH"
+        ],
+        "chemical_amounts": {
+          "Me4L3": "0.60 g, 1.00 mmol",
+          "NaOH": "0.24 g, 6 mmol"
+        },
+        "time": "overnight",
+        "washing_method": "rinsed several times with distilled water",
+        "drying_method": "dried",
+        "yield": "91%",
+        "additional_steps": [
+          {
+            "step": "acidification",
+            "method": "acidified with HCl (1M) to pH 1"
+          }
+        ]
+      }
+    },
+    {
+      "name": "NTU-111",
+      "synthesis_conditions": {
+        "solvents": "DMF",
+        "solvent_amounts": {
+          "DMF": "10 mL"
+        },
+        "temperature": "75°C",
+        "chemicals_used": [
+          "H4L1",
+          "Cu(NO3)2·2.5H2O",
+          "HNO3"
+        ],
+        "chemical_amounts": {
+          "H4L1": "20 mg, 0.05 mmol",
+          "Cu(NO3)2·2.5H2O": "25 mg, 0.11 mmol",
+          "HNO3": "drops"
+        },
+        "time": "3 days",
+        "washing_method": "washed by fresh DMF for three times",
+        "drying_method": "dried naturally at room temperature",
+        "yield": "33.8 mg"
+      }
+    },
+    {
+      "name": "NTU-112",
+      "synthesis_conditions": {
+        "solvents": "DMF/DMA",
+        "solvent_amounts": {
+          "DMF": "8 mL",
+          "DMA": "2 mL"
+        },
+        "temperature": "75°C",
+        "chemicals_used": [
+          "H4L2",
+          "Cu(NO3)2·2.5H2O",
+          "HNO3"
+        ],
+        "chemical_amounts": {
+          "H4L2": "20 mg, 0.03 mmol",
+          "Cu(NO3)2·2.5H2O": "20 mg, 0.09 mmol",
+          "HNO3": "0.1 mL, 1M"
+        },
+        "time": "3 days",
+        "washing_method": "washed by fresh DMF for three times",
+        "drying_method": "dried naturally at room temperature",
+        "yield": "34.2 mg"
+      }
+    },
+    {
+      "name": "NTU-113",
+      "synthesis_conditions": {
+        "solvents": "DMF/DMA",
+        "solvent_amounts": {
+          "DMF": "8 mL",
+          "DMA": "8 mL"
+        },
+        "temperature": "75°C",
+        "chemicals_used": [
+          "H4L3",
+          "Cu(NO3)2·2.5H2O",
+          "HNO3"
+        ],
+        "chemical_amounts": {
+          "H4L3": "20 mg, 0.03 mmol",
+          "Cu(NO3)2·2.5H2O": "20 mg, 0.09 mmol",
+          "HNO3": "1.2 mL"
+        },
+        "time": "3 days",
+        "washing_method": "washed by fresh DMF for three times",
+        "drying_method": "dried naturally at room temperature",
+        "yield": "30.2 mg"
+      }
+    }
+  ]
+}

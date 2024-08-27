@@ -1,0 +1,62 @@
+{
+  "materials": [
+    {
+      "name": "GNU-1",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": "DMA/CH3CN/H2O",
+        "solvent_ratio": "3:1:4 (v/v/v)",
+        "additional_chemicals": {
+          "HNO3": "0.30 mL of 1.5 M solution"
+        },
+        "equipment": "15 mL Teflon screw-capped borosilicate glass bottle",
+        "chemicals_used": {
+          "Cu(NO3)2·3H2O": "48.32 mg, 0.20 mmol",
+          "H6bmipia": "20.35 mg, 0.05 mmol"
+        },
+        "time": "96 h",
+        "yield": "81% based on the H6bmipia ligand",
+        "washing_method": "washed with DMA several times",
+        "drying_method": "dried in a vacuum at ambient temperature"
+      }
+    },
+    {
+      "name": "GNU-1a (activated GNU-1)",
+      "activation_conditions": {
+        "solvent_exchange": "soaked in methanol for 4 days",
+        "degassing_temperature": "100 °C",
+        "degassing_time": "10 h",
+        "vacuum_condition": "high vacuum"
+      },
+      "gas_adsorption_measurements": {
+        "gases_tested": ["N2", "C3H8", "C2H6", "CH4"],
+        "temperature": ["77 K for N2", "273 K and 298 K for C3H8, C2H6, CH4"],
+        "pressure_range": "0 to 1 bar",
+        "adsorption_capacity": {
+          "C3H8": "6.64 mmol g−1 at 298 K and 1 bar",
+          "C2H6": "4.6 mmol g−1 at 298 K and 1 bar",
+          "CH4": "1.12 mmol g−1 at 298 K and 1 bar"
+        },
+        "selectivity": {
+          "C3H8/CH4": "330.1 at 298 K and 1 bar",
+          "C2H6/CH4": "17.5 at 298 K and 1 bar"
+        }
+      }
+    },
+    {
+      "name": "H6bmipia",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": "distilled water",
+        "chemicals_used": {
+          "Dimethyl 5-amino-phthalate": "209 mg, 1 mmol",
+          "Dimethyl 5-bromomethyl phthalate": "631.4 mg, 2.2 mmol",
+          "Sodium hydroxide": "88 mg, 2.2 mmol"
+        },
+        "time": "48 h (24 h for initial reaction + 24 h after adding more sodium hydroxide)",
+        "yield": "800 mg, 81.0%",
+        "pH_adjustment": "pH adjusted to 1-2 with hydrochloric acid"
+      }
+    }
+  ]
+}

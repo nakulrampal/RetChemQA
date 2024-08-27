@@ -1,0 +1,49 @@
+{
+  "materials": [
+    {
+      "name": "TANC",
+      "synthesis_conditions": {
+        "precursors": [
+          "o-phenylenediamine",
+          "oxamide"
+        ],
+        "solvents": [
+          "MeCN"
+        ],
+        "oxidizing_agent": "PbO2",
+        "yield": "20%",
+        "notes": "Thermal condensation followed by oxidation to obtain brown crystals of TANC."
+      }
+    },
+    {
+      "name": "TANC radical anion",
+      "synthesis_conditions": {
+        "precursors": [
+          "FFV",
+          "TANC"
+        ],
+        "conditions": "under basic conditions",
+        "notes": "Obtained as a green precipitate under anaerobic conditions, turns gray upon exposure to air."
+      }
+    },
+    {
+      "name": "High-conductivity crystal 1",
+      "synthesis_conditions": {
+        "precursors": [
+          "[Cu(MeCN)4]BF4",
+          "TANC"
+        ],
+        "solvents": [
+          "MeCN",
+          "MeOH"
+        ],
+        "solvent_amounts": {
+          "MeCN": "36 mL",
+          "MeOH": "8 mL"
+        },
+        "yield": "50%",
+        "notes": "Reaction between TANC and [Cu(MeCN)4]BF4 in MeOH/MeCN to form thin, plate-like, indigo-blue crystals."
+      }
+    }
+  ]
+}

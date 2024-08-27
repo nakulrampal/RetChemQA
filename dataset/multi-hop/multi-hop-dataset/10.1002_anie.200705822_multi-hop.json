@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the chemical formula of the flexible porous coordination polymer discussed in the text?",
+      "answer": "{[Cd(bpndc)(bpy)]}n",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What gases were used to study the adsorption properties of the flexible PCP?",
+      "answer": "O2, Ar, and N2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the gate-opening pressure (Pgo) in the context of the flexible porous coordination polymer?",
+      "answer": "Pgo is the onset pressure at which the gates of the closed-structure grooves become open, leading to a structural transformation of the host framework.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the gate-opening pressure (Pgo) vary with different adsorbates?",
+      "answer": "The value of Pgo shows a guest dependency, indicating that different gases cause the gate to open at different pressures.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What role does the kinetic analysis play in understanding the adsorption phenomena of the flexible PCP?",
+      "answer": "Kinetic analysis helps to understand the mechanism behind the differences in adsorption behavior between similar gases and reveals that the formation of an intermediate, described as a gate-opening process, governs Pgo and enhances the difference between gases.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the relationship between the boiling points of the gases and the order of kgo values?",
+      "answer": "The order of kgo values for the gases is consistent with the order of their boiling points, suggesting that the intermolecular interaction force of the guest molecules governs the gate-opening process.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Why does adsorption not occur below the gate-opening pressure (Pgo)?",
+      "answer": "Adsorption does not occur below Pgo because gate opening is required before the diffusion process can begin, indicating that the kinetic behavior of the gate-opening process determines Pgo.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "What determines the gate-opening pressure (Pgo) for different gases?",
+      "answer": "The gate-opening pressure (Pgo) is determined by the kinetics of the gate-opening process, which is influenced by the intermolecular interaction force of the guest molecules.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How can the difference in Pgo for different guests be enhanced?",
+      "answer": "The difference in Pgo can be enhanced by modifying the crystal surface, which affects the kinetics of the gate-opening process and the intermolecular interaction force of the guest molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of temperature on the gate-opening process?",
+      "answer": "As the temperature increases, the value of kgo decreases, showing an anti-Arrhenius behavior which is consistent with the temperature dependency of Pgo.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the gate-opening process affect the adsorption behavior of similar gases?",
+      "answer": "The gate-opening process dramatically increases the difference in Pgo between similar gases by requiring a specific pressure for the gate to open, which is dependent on the intermolecular interaction force of the gases.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the intermediate formed during the gate-opening process?",
+      "answer": "The intermediate formed during the gate-opening process allows for the adsorption of gas molecules, acting as a crucial step before the diffusion process can begin.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The gate-opening pressure (Pgo) is the same for all gases.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The adsorption volume of gases at pressures below Pgo is significant.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The gate-opening process is independent of the guest molecules' intermolecular interaction force.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The adsorption isotherms of the flexible PCP do not show any abrupt changes.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The gate-opening process decreases the difference in Pgo between similar gases.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The kinetic behavior of the gate-opening process does not determine Pgo.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The boiling points of the gases have no correlation with the order of kgo values.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: Increasing the temperature leads to an increase in the value of kgo.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

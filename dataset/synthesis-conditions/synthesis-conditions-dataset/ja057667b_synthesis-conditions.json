@@ -1,0 +1,85 @@
+{
+  "materials": [
+    {
+      "name": "Zn(tbip)",
+      "synthesis_conditions": [
+        {
+          "step": "Hydrothermal synthesis",
+          "temperature": "180 °C",
+          "time": "3 days",
+          "solvents": [
+            {
+              "name": "H2O",
+              "amount": "13 mL"
+            },
+            {
+              "name": "ethylene glycol",
+              "amount": "3 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Zn(NO3)2·6H2O",
+              "amount": "0.197 g, 0.66 mmol"
+            },
+            {
+              "name": "H2tbip",
+              "amount": "0.148 g, 0.66 mmol"
+            }
+          ],
+          "yield": "42%",
+          "washing_method": "distilled water (3 × 30 mL), followed by ethanol (3 × 30 mL)",
+          "drying_method": "drying in air"
+        },
+        {
+          "step": "Thermogravimetric analysis (TGA)",
+          "temperature": "5 °C/min heating rate under N2",
+          "on-set_of_weight_loss": "~ 420 °C",
+          "comments": "No weight loss occurred during a prolonged heating at 350 °C (over 24 h)"
+        },
+        {
+          "step": "Powder X-ray diffraction (PXRD) analysis after TGA",
+          "temperature": "200 °C",
+          "time": "24 hours",
+          "comments": "PXRD pattern of the Zn(tbip) sample taken after being heated at 350°C for 24h matches with the simulated PXRD pattern from the single crystal data."
+        }
+      ]
+    },
+    {
+      "name": "Methanol adsorption-desorption isotherms",
+      "synthesis_conditions": [
+        {
+          "temperature": "25 °C and 30 °C",
+          "comments": "Exhibiting hysteresis"
+        }
+      ]
+    },
+    {
+      "name": "Water adsorption on Zn(tbip)",
+      "synthesis_conditions": [
+        {
+          "temperature": "25 °C and 30 °C",
+          "comments": "Water adsorption measurements"
+        }
+      ]
+    },
+    {
+      "name": "Water adsorption on ZSM-5 (4 ppm Al)",
+      "synthesis_conditions": [
+        {
+          "temperature": "25 °C",
+          "comments": "Water adsorption measurements"
+        }
+      ]
+    },
+    {
+      "name": "Dimethylether (DME) adsorption isotherms for Zn(tbip)",
+      "synthesis_conditions": [
+        {
+          "temperature": "30, 40, 80, and 100 °C",
+          "comments": "DME adsorption measurements"
+        }
+      ]
+    }
+  ]
+}

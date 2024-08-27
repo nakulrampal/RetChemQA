@@ -1,0 +1,83 @@
+{
+  "materials": [
+    {
+      "name": "DUT-8(Cu)",
+      "synthesis_conditions": {
+        "reagents_and_solvents": {
+          "copper_nitrate_trihydrate": {
+            "purity": "≥ 99%",
+            "supplier": "AppliChem"
+          },
+          "2,6-naphthalene_dicarboxylic_acid": {
+            "purity": "99%",
+            "supplier": "Sigma Aldrich"
+          },
+          "1,4-diazabicyclo-[2,2,2]-octane": {
+            "purity": "99%",
+            "supplier": "Sigma Aldrich"
+          },
+          "hydrochloric_acid": {
+            "purity": "37%",
+            "supplier": ["AnalaR NORMAPUR", "Sigma Aldrich"]
+          },
+          "N,N-dimethylformamide": {
+            "purity": "99.5%",
+            "supplier": ["Fischer Scientific", "Sigma Aldrich"]
+          },
+          "methanol": {
+            "purity": "HPLC grade",
+            "supplier": ["HiPerSolv CHROMANORM", "VWR Chemicals"]
+          },
+          "ethanol": {
+            "purity": "HPLC grade",
+            "supplier": ["HiPerSolv CHROMANORM", "VWR Chemicals"]
+          },
+          "DCM": {
+            "purity": "99.5%",
+            "supplier": "Fischer Scientific"
+          },
+          "acetone": {
+            "purity": "≥ 99.5%",
+            "supplier": "Sigma Aldrich"
+          },
+          "1-propanol": {
+            "purity": "HPLC grade",
+            "supplier": "HiPerSolv CHROMANORM"
+          },
+          "1-butanol": {
+            "purity": "HPLC grade",
+            "supplier": "HiPerSolv CHROMANORM"
+          }
+        },
+        "crystal_size_modulation_and_synthesis_optimisation": {
+          "copper_nitrate_trihydrate_amount": "0.338 g",
+          "copper_nitrate_trihydrate_moles": "1.4 mmol",
+          "2,6-naphthalene_dicarboxylic_acid_amount": "0.303 g",
+          "2,6-naphthalene_dicarboxylic_acid_moles": "1.4 mmol",
+          "1,4-diazabicyclo-[2,2,2]-octane_amount": "0.078 g",
+          "1,4-diazabicyclo-[2,2,2]-octane_moles": "0.07 mmol",
+          "solvents_volume": {
+            "DMF": "5 ml",
+            "methanol": "15 ml",
+            "1-propanol": "5 ml"
+          },
+          "HCl_solution": "8.8 ml of 1 M in H2O",
+          "ageing_temperature": ["80 °C", "100 °C", "120 °C"],
+          "DMF_methanol_ratio": "randomly chosen"
+        },
+        "desolvation": {
+          "temperature": "120 °C",
+          "method": ["dynamic vacuum", "supercritical CO2 drying"]
+        },
+        "thermal_analysis": {
+          "temperature_range": "298–723 K",
+          "heating_rate": "5 K min−1",
+          "atmosphere": "synthetic air"
+        },
+        "cluster_optimisation": {
+          "energy_penalty": ">4 kJ mol−1 for bending paddle wheel"
+        }
+      }
+    }
+  ]
+}

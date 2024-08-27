@@ -1,0 +1,74 @@
+{
+  "materials": [
+    {
+      "name": "ZJU-74-Ni",
+      "synthesis_conditions": {
+        "method": "Previously reported work",
+        "reference": "Pei, J.; Shao, K.; Wang, J.-X.; Wen, H.-M.; Yang, Y.; Cui, Y.; Krishna, R.; Li, B.; Qian, G. A chemically stable Hofmann-type metal-organic framework with sandwich-like binding sites for benchmark acetylene capture. Adv. Mater. 2020, 32, 1908275."
+      }
+    },
+    {
+      "name": "ZJU-74-Pd",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "Water",
+            "amount": "3 mL"
+          },
+          {
+            "name": "Methanol",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "K2[Pd(CN)4]·3H2O",
+            "amount": "0.125 mmol"
+          },
+          {
+            "name": "Co(NO3)2·6H2O",
+            "amount": "0.125 mmol"
+          },
+          {
+            "name": "Pyrazine (pyz)",
+            "amount": "0.125 mmol"
+          }
+        ],
+        "method": "Slow diffusion",
+        "time": "2 weeks",
+        "temperature": "Room temperature",
+        "product": "Orange square-block-shaped single crystals"
+      },
+      "alternative_synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "Water",
+            "amount": "2 mL"
+          },
+          {
+            "name": "Methanol/Water (1/1)",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "K2[Pd(CN)4]·3H2O",
+            "amount": "0.5 mmol"
+          },
+          {
+            "name": "Co(NO3)2·6H2O",
+            "amount": "0.5 mmol"
+          },
+          {
+            "name": "Pyrazine (pyz)",
+            "amount": "0.5 mmol"
+          }
+        ],
+        "method": "Direct mixing",
+        "time": "3 h",
+        "temperature": "30°C",
+        "product": "Light pink precipitate"
+      }
+    }
+  ]
+}

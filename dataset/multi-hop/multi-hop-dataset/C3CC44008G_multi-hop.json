@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What technique is used to assess the guest-accessible volume in MOFs?",
+      "answer": "Two-photon confocal fluorescence microscopy (TPM) is used to assess the guest-accessible volume in MOFs.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the dimensions of the aperture diameter for MOF-5, KUMOF-2, and KUMOF-1 respectively?",
+      "answer": "The aperture diameters are 9.248 Å for MOF-5, 12.107 Å for KUMOF-2, and 16.018 Å for KUMOF-1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Which MOF can accommodate dye 5a based on its size?",
+      "answer": "KUMOF-1 can accommodate dye 5a.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the shape of dyes in their diffusion efficiency through MOFs?",
+      "answer": "The shape of dyes affects their diffusion efficiency through MOFs, with cylindrical dyes penetrating more efficiently than pinwheel or cone-like dyes.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the TPM technique provide an advantage over one-photon fluorescence microscopy in assessing MOFs?",
+      "answer": "TPM offers the advantage of increased penetration depth (>500 mm) and does not significantly suffer from the attenuation of excitation light, providing more reliable information about the 2-dimensional distribution of dyes.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum threshold size of dye that MOF-5 can accommodate?",
+      "answer": "MOF-5 can only accommodate up to dye 2a.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the relationship between the size of dyes and their ability to penetrate into MOFs?",
+      "answer": "The thickness of the compound, as represented by the elliptical diameters, is more critical to the diffusion efficiency than its length.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can dye 4b penetrate into KUMOF-2?",
+      "answer": "No, dye 4b cannot penetrate into KUMOF-2 as it can only accommodate up to dye 4a.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the TPM technique applicable only to crystalline MOFs?",
+      "answer": "False, the TPM technique is applicable to any porous materials, including those whose single-crystal structures are not available or non-crystalline materials.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of dyes with larger sizes than the aperture diameter of MOFs always prevent their penetration?",
+      "answer": "False, dyes with larger sizes than the aperture diameter of MOFs can still penetrate if the molecule is relatively slim, as demonstrated by dye 5a in KUMOF-1.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the trapping of dye molecules at the surface of MOF-5 indicate about its pore accessibility?",
+      "answer": "The trapping of dye molecules at the surface of MOF-5 indicates that dyes larger than 2a cannot penetrate into its internal structure, reflecting limited pore accessibility.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the TPM technique limited to the use of one-photon fluorescent probes?",
+      "answer": "False, TPM employs two near-infrared photons for excitation and uses dyes dedicated for TPM, which are usually neutral electronically and easily tuneable.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does the synthesis condition of dyes play in their application for assessing MOFs using TPM?",
+      "answer": "The synthesis condition of dyes, including their controlled alkylation to yield a mixture of mono-alkylated and di-alkylated products, plays a crucial role in obtaining dyes with a wide range of sizes for effective assessment of MOFs using TPM.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the TPM technique differentiate between cylindrical and pinwheel-shaped dyes in terms of their diffusion through MOFs?",
+      "answer": "Yes, the TPM technique can differentiate between cylindrical and pinwheel-shaped dyes, as cylindrical dyes penetrate more efficiently into MOFs.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the successful penetration of dye 5a into KUMOF-1 suggest about the flexibility of MOF structures?",
+      "answer": "The successful penetration of dye 5a into KUMOF-1, despite its length exceeding the aperture diameter, suggests that MOF structures can accommodate larger molecules through flexibility or structural adaptation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the guest-accessible volume in MOFs solely determined by the aperture diameter?",
+      "answer": "False, the guest-accessible volume in MOFs is not solely determined by the aperture diameter but also by the shape and size of the guest molecules.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the synthesis of a series of dyes based on a 6-acyl-2-aminonaphthalene skeleton contribute to the assessment of MOFs?",
+      "answer": "The synthesis of a series of dyes based on a 6-acyl-2-aminonaphthalene skeleton, with systematic size variation, contributes to the assessment of MOFs by providing a toolbox of probes for evaluating the guest-accessible volume.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the use of TPM for assessing MOFs require the MOFs to be in a specific state, such as crystalline or non-crystalline?",
+      "answer": "False, TPM does not require MOFs to be in a specific state and can be applied to assess the guest-accessible volume in both crystalline and non-crystalline porous materials.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of dye solubility in organic solvents on their use in TPM studies of MOFs?",
+      "answer": "The solubility of dyes in organic solvents impacts their use in TPM studies of MOFs, as poor solubility can limit the application of certain dyes, necessitating the use of dyes dedicated for TPM that are neutral electronically and easily tuneable.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the TPM technique provide insights into the selective permeability of MOFs for different molecular shapes?",
+      "answer": "Yes, the TPM technique can provide insights into the selective permeability of MOFs for different molecular shapes by analyzing the diffusion efficiency of various shaped dyes.",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

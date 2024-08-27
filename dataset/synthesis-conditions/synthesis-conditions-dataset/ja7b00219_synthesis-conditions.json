@@ -1,0 +1,299 @@
+{
+  "materials": [
+    {
+      "name": "Y-shp-MOF-1",
+      "synthesis_conditions": {
+        "temperature": "115 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "1.5 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.5 mL"
+          }
+        ],
+        "equipment": "20 mL scintillation vial",
+        "chemicals_used": [
+          {
+            "name": "Y(NO3)3·6H2O",
+            "amount": "21.9 mg"
+          },
+          {
+            "name": "H4TCPP",
+            "amount": "7.9 mg"
+          },
+          {
+            "name": "2-FBA",
+            "amount": "2 mL of 4 M in DMF"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": "washed with DMF",
+        "drying_method": "soaked in DMF overnight, then exchanged in MeOH for 3 days",
+        "yield": "7.8 mg, 76%"
+      }
+    },
+    {
+      "name": "Y-shp-MOF-1 (Zn)",
+      "synthesis_conditions": {
+        "temperature": "115 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "1.5 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.5 mL"
+          }
+        ],
+        "equipment": "20 mL scintillation vial",
+        "chemicals_used": [
+          {
+            "name": "Y(NO3)3·6H2O",
+            "amount": "21.9 mg"
+          },
+          {
+            "name": "H4TCPP",
+            "amount": "7.9 mg"
+          },
+          {
+            "name": "2-FBA",
+            "amount": "2 mL of 4 M in DMF"
+          },
+          {
+            "name": "ZnCl2",
+            "amount": "0.3 mL of 0.04 M in DMF"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": "washed with DMF",
+        "drying_method": "soaked in DMF overnight, then exchanged in MeOH for 3 days",
+        "yield": "8.8 mg, 66%"
+      }
+    },
+    {
+      "name": "Y-shp-MOF-1 (Fe)",
+      "synthesis_conditions": {
+        "temperature": "115 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "1.5 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.5 mL"
+          }
+        ],
+        "equipment": "20 mL scintillation vial",
+        "chemicals_used": [
+          {
+            "name": "Y(NO3)3·6H2O",
+            "amount": "18.3 mg"
+          },
+          {
+            "name": "FeTCPPCl",
+            "amount": "8.8 mg"
+          },
+          {
+            "name": "AcOH",
+            "amount": "150 μL"
+          },
+          {
+            "name": "2-FBA",
+            "amount": "2 mL of 4 M in DMF"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": "washed with DMF",
+        "drying_method": "soaked in DMF overnight, then exchanged in MeOH for 3 days",
+        "yield": "8.9 mg, 66%"
+      }
+    },
+    {
+      "name": "Tb-shp-MOF-1",
+      "synthesis_conditions": {
+        "temperature": "115 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "1.5 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.5 mL"
+          }
+        ],
+        "equipment": "20 mL scintillation vial",
+        "chemicals_used": [
+          {
+            "name": "Tb(NO3)3·5H2O",
+            "amount": "26.1 mg"
+          },
+          {
+            "name": "H4TCPP",
+            "amount": "7.9 mg"
+          },
+          {
+            "name": "2-FBA",
+            "amount": "2 mL of 4 M in DMF"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": "washed with DMF",
+        "drying_method": "soaked in DMF overnight, then exchanged in MeOH for 3 days",
+        "yield": "7.8 mg, 76%"
+      }
+    },
+    {
+      "name": "Y-alb-MOF-1",
+      "synthesis_conditions": {
+        "temperature": "105 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2 mL"
+          },
+          {
+            "name": "chlorobenzene",
+            "amount": "0.5 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "1 mL"
+          }
+        ],
+        "equipment": "20 mL scintillation vial",
+        "chemicals_used": [
+          {
+            "name": "Y(NO3)3·6H2O",
+            "amount": "29.2 mg"
+          },
+          {
+            "name": "H6Me-TDCPB",
+            "amount": "10.7 mg"
+          },
+          {
+            "name": "2-FBA",
+            "amount": "1 mL of 4 M in DMF"
+          }
+        ],
+        "time": "72 h",
+        "washing_method": "washed with DMF three times",
+        "drying_method": "soaked in DMF overnight, then exchanged in acetone for 3 days",
+        "yield": "13.1 mg, 80%"
+      }
+    },
+    {
+      "name": "Tb-alb-MOF-1",
+      "synthesis_conditions": {
+        "temperature": "105 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2 mL"
+          },
+          {
+            "name": "chlorobenzene",
+            "amount": "0.5 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "1 mL"
+          }
+        ],
+        "equipment": "20 mL scintillation vial",
+        "chemicals_used": [
+          {
+            "name": "Tb(NO3)3·5H2O",
+            "amount": "34.8 mg"
+          },
+          {
+            "name": "H6Me-TDCPB",
+            "amount": "10.7 mg"
+          },
+          {
+            "name": "2-FBA",
+            "amount": "1 mL of 4 M in DMF"
+          }
+        ],
+        "time": "72 h",
+        "washing_method": "washed with DMF three times",
+        "drying_method": "soaked in DMF overnight, then exchanged in acetone for 3 days",
+        "yield": "14.3 mg, 77%"
+      }
+    },
+    {
+      "name": "In-alb-MOF-1",
+      "synthesis_conditions": {
+        "temperature": "105 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "1.5 mL"
+          },
+          {
+            "name": "acetonitrile",
+            "amount": "1 mL"
+          }
+        ],
+        "equipment": "20 mL scintillation vial",
+        "chemicals_used": [
+          {
+            "name": "In(NO3)3·2H2O",
+            "amount": "13.5 mg"
+          },
+          {
+            "name": "H12HBCPB",
+            "amount": "5.4 mg"
+          },
+          {
+            "name": "HNO3",
+            "amount": "2 mL of 3.5 M in DMF"
+          }
+        ],
+        "time": "48 h",
+        "washing_method": "washed with DMF three times",
+        "drying_method": "soaked in DMF overnight, then exchanged in acetone for 3 days",
+        "yield": "8.3 mg, 60%"
+      }
+    },
+    {
+      "name": "Cu-shp-MOF-1",
+      "synthesis_conditions": {
+        "temperature": "115 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2.5 mL"
+          }
+        ],
+        "equipment": "20 mL scintillation vial",
+        "chemicals_used": [
+          {
+            "name": "Cu(NO3)2·2.5H2O",
+            "amount": "14.0 mg"
+          },
+          {
+            "name": "H12HBCPB",
+            "amount": "10.8 mg"
+          },
+          {
+            "name": "HNO3",
+            "amount": "0.5 mL of 3.5 M in DMF"
+          },
+          {
+            "name": "pyridine",
+            "amount": "0.5 mL"
+          }
+        ],
+        "time": "72 h",
+        "washing_method": "washed with DMF",
+        "yield": "8.5 mg, 64%"
+      }
+    }
+  ]
+}

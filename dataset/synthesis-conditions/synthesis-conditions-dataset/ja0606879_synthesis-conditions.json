@@ -1,0 +1,54 @@
+{
+  "materials": [
+    {
+      "name": "[CdNa(2-stp)(dabco)0.5(H2O)]·2H2O",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "EtOH",
+            "amount": "60 mL"
+          },
+          {
+            "name": "H2O/EtOH (1/1)",
+            "amount": "120 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cd(NO3)2·4H2O",
+            "amount": "1.11 g, 3.6 mmol"
+          },
+          {
+            "name": "2-stp",
+            "amount": "0.97 g, 3.6 mmol"
+          },
+          {
+            "name": "dabco",
+            "amount": "0.40 g, 3.6 mmol"
+          },
+          {
+            "name": "NaOH",
+            "amount": "0.29 g, 7.2 mmol"
+          }
+        ],
+        "procedure": "Cd(NO3)2·4H2O in EtOH was slowly added to the H2O/EtOH solution containing 2-stp, dabco, and NaOH. The white microcrystals obtained were collected by filtration, washed by EtOH and dried under reduced pressure for 1 h.",
+        "washing_method": "EtOH",
+        "drying_method": "Reduced pressure for 1 h",
+        "yield": {
+          "C": {
+            "calcd": "27.03%",
+            "found": "27.74%"
+          },
+          "H": {
+            "calcd": "3.09%",
+            "found": "2.99%"
+          },
+          "N": {
+            "calcd": "2.87%",
+            "found": "2.64%"
+          }
+        }
+      }
+    }
+  ]
+}

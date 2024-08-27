@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What are the synthesis conditions for ZnTPyP-1 and ZnTPyP-2?",
+      "answer": "ZnTPyP-1 is synthesized from TPyP(H2), Zn(NO3)2, and acetic acid in N, N-dimethylformamide solvent at 100 °C for 2 days. ZnTPyP-2 is synthesized from TPyP(H2), Zn(NO3)2, and oxalic acid in N, N-diethylacetamide solvent at 100 °C for 2 days.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How are the MOFs dispersed PDMS glasses fabricated?",
+      "answer": "MOFs dispersed PDMS glasses are fabricated by mixing MOFs nanosheets with PDMS solution, adding the mixture into a template, and curing in a vacuum oven at 60°C for 3 hours.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method is used to evaluate the third-order NLO properties of the samples?",
+      "answer": "The third-order NLO properties of the samples are evaluated using the Z-scan technique with an Nd:YAG laser.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the solvent and ligand in the synthesis of ZnTPyP-1?",
+      "answer": "In the synthesis of ZnTPyP-1, the size of the DMF solvent molecule and acetic acid as a monodentate ligand play a synergistic role in promoting an interpenetrated structure by facilitating the formation of larger pores within the individual framework.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the interpenetrated structure of ZnTPyP-1 affect its optical limiting performance compared to ZnTPyP-2?",
+      "answer": "The interpenetrated structure of ZnTPyP-1, with abundant π–π interactions between adjacent porphyrinic groups, increases electron delocalization/transfer, thereby significantly enhancing its optical limiting performance compared to the noninterpenetrated ZnTPyP-2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The nonlinear absorption coefficient of ZnTPyP-1 is higher than that of ZnTPyP-2.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis of ZnTPyP-1 and ZnTPyP-2 requires the same solvent.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method is used for the DFT calculations in the study?",
+      "answer": "The DFT calculations in the study are performed using Gaussian 16 with PBE0 functional.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The PDMS glasses containing MOFs nanosheets are opaque and rigid.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the nonlinear absorption coefficient in the context of optical limiting materials?",
+      "answer": "The nonlinear absorption coefficient is a measure of a material's ability to absorb high-intensity light, which is crucial for optical limiting materials as it determines their effectiveness in protecting against laser-induced damage by decreasing transmittance at high light intensities.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

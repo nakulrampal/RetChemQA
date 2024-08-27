@@ -1,0 +1,63 @@
+{
+  "materials": [
+    {
+      "name": "ZnIm",
+      "synthesis_conditions": {
+        "chemicals_used": "Zn(NO)3·6H2O (0.0298 g, 0.1 mmol), imidazole (0.136 g, 2.0 mmol)",
+        "solvents": "DMF (4 mL), butanol (2 mL)",
+        "equipment": "25 mL Teflon-lined steel bomb",
+        "temperature": "150 K",
+        "time": "5 days",
+        "washing_method": "filtered and washed twice with ethanol",
+        "drying_method": "ambient conditions",
+        "yield": "Not specified",
+        "additional_information": "Colorless crystals of ZnIm were found embedded within an unidentified white powder and were removed by hand."
+      }
+    }
+  ],
+  "crystallography_conditions": {
+    "ambient_conditions": {
+      "equipment": "Oxford Diffraction Gemini diffractometer equipped with a CCD detector",
+      "radiation": "monochromated Mo Kα radiation (λ = 0.71073 Å)",
+      "software": "Oxford Diffraction software",
+      "pressure_medium": "anhydrous 2-propanol",
+      "pressure_range": "hydrostatic up to 4.2 GPa"
+    },
+    "high_pressure_conditions": {
+      "equipment": "standard ETH diamond anvil cell (DAC)",
+      "pressure_calibration": "quartz crystal for pressure calibration",
+      "data_collection": "Oxford Diffraction Xcalibur instrument with monochromated Mo Kα radiation (λ = 0.71073 Å)",
+      "software": "Oxford Diffraction software",
+      "absorption_corrections": "ABSORB program",
+      "anomalies_correction": "AVERAGE program"
+    }
+  },
+  "supporting_information": {
+    "figures": [
+      {
+        "figure_id": "S1",
+        "description": "Ball and stick representation of the asymmetric unit of ZnIm α-phase showing atom labelling scheme."
+      },
+      {
+        "figure_id": "S2",
+        "description": "Ball and stick representation of the asymmetric unit of ZnIm β-phase showing atom labelling scheme."
+      },
+      {
+        "figure_id": "S3",
+        "description": "Plot of Zn1-N bond lengths vs. pressure."
+      },
+      {
+        "figure_id": "S4",
+        "description": "Plot of Zn2-N bond lengths vs. pressure."
+      },
+      {
+        "figure_id": "S5",
+        "description": "Plot of N-Zn1-N bond angles vs. pressure."
+      },
+      {
+        "figure_id": "S6",
+        "description": "Plot of N-Zn2-N bond angles vs. pressure."
+      }
+    ]
+  }
+}

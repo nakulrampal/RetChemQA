@@ -1,0 +1,66 @@
+{
+  "materials": [
+    {
+      "name": "[(CH3)2NH2][UO2(L1)]·DMF·6.5H2O",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "5 mL"
+          }
+        ],
+        "equipment": "20 mL glass vial",
+        "chemicals_used": [
+          {
+            "name": "H3L1",
+            "amount": "43.8 mg, 0.1 mmol"
+          },
+          {
+            "name": "UO2(NO3)3·6H2O",
+            "amount": "50.2 mg, 0.1 mmol"
+          },
+          {
+            "name": "concentrated nitric acid",
+            "amount": "45 µL"
+          }
+        ],
+        "time": "2 days",
+        "washing_method": "DMF, ethanol",
+        "drying_method": "room temperature",
+        "yield": "ca. 59.3%"
+      }
+    },
+    {
+      "name": "[(CH3)2NH2][UO2(L2)]·0.5DMF·15H2O",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "5 mL"
+          }
+        ],
+        "equipment": "20 mL glass vial",
+        "chemicals_used": [
+          {
+            "name": "H3L2",
+            "amount": "not specified"
+          },
+          {
+            "name": "UO2(NO3)3·6H2O",
+            "amount": "not specified"
+          },
+          {
+            "name": "concentrated nitric acid",
+            "amount": "30 µL"
+          }
+        ],
+        "time": "2 days",
+        "washing_method": "DMF",
+        "drying_method": "room temperature",
+        "yield": "ca. 40.8%"
+      }
+    }
+  ]
+}

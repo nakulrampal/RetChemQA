@@ -1,0 +1,64 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "5 mL"
+          }
+        ],
+        "equipment": "15 mL Teflon-lined stainless-steel autoclave",
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "0.5 mmol"
+          },
+          {
+            "name": "H3cpida",
+            "amount": "0.12 g"
+          },
+          {
+            "name": "NaOH",
+            "amount": "0.06 g"
+          }
+        ],
+        "time": "3 days",
+        "cooling_method": "cooled to room temperature slowly",
+        "yield": {
+          "calculated": {
+            "C": "41.79%",
+            "H": "4.08%",
+            "N": "7.45%"
+          },
+          "found": {
+            "C": "41.72%",
+            "H": "4.15%",
+            "N": "7.39%"
+          }
+        },
+        "crystal_data": {
+          "formula": "C42.50H49.50N6.50Na2O20.50Zn3",
+          "molecular_weight": "1221.48",
+          "space_group": "P-3",
+          "a": "14.700(3) Å",
+          "b": "14.700(3) Å",
+          "c": "13.252(3) Å",
+          "alpha": "90",
+          "beta": "90",
+          "gamma": "120",
+          "volume": "2480.0(10) Å3",
+          "Z": "2",
+          "density_calculated": "1.636 g cm-3",
+          "final_R1": "0.0530",
+          "wR2": "0.1257",
+          "Rint": "0.0920",
+          "independent_reflections": "2962 [I>2σ(I)]",
+          "CCDC": "932848"
+        }
+      }
+    }
+  ]
+}

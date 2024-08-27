@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main chemical industry application of propylene mentioned in the text?",
+      "answer": "Propylene is one of the most important chemicals in the chemical industry.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the boiling points of C3H6 and C3H8, and how do they affect the separation process?",
+      "answer": "The boiling points of C3H6 and C3H8 are 226 K and 231 K, respectively. Their close-lying boiling points result in a very small relative volatility, making their separation by distillation energy-intensive.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What modification is made to the metal-organic framework to improve propylene/propane selectivity?",
+      "answer": "Half of the soft methylene bridges of the organic ligands are selectively oxidized to form more polar and rigid carbonyl bridges, improving both thermodynamic and kinetic adsorption selectivity.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the C3H6/C3H8 selectivity of the modified MOF compare to Co-MOF-74 and KAUST-7?",
+      "answer": "The modified MOF's C3H6/C3H8 selectivity increased from 1.5 to 15, which is higher than Co-MOF-74's 6.5 and KAUST-7's 12.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What role does the oxidation of methylene to carbonyl groups play in the separation mechanism?",
+      "answer": "The oxidation creates additional guest recognition sites, improving thermodynamic selectivity, and reduces the framework flexibility, generating kinetic selectivity.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of the oxidation process on the thermal stability of the MOF?",
+      "answer": "The oxidation process decreases the thermal stability of the MOF, with MAF-23-O decomposing at temperatures above 250 88C, lower than MAF-23's 480 88C.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the C3H6/C3H8 adsorption enthalpy difference in MAF-23-O?",
+      "answer": "The significant difference in C3H6/C3H8 adsorption enthalpy in MAF-23-O, with C3H6 having much higher adsorption enthalpy than C3H8, indicates a strong preference for C3H6 adsorption, contributing to the high selectivity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the kinetic selectivity of MAF-23-O compare to other adsorbents?",
+      "answer": "The kinetic selectivity of MAF-23-O is quite high, with a D’(C3H6)/D’(C3H8) ratio of 71, although lower than many adsorbents known for their high kinetic selectivity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the IAST selectivity for MAF-23-O lower than the experimental selectivity obtained from breakthrough experiments?",
+      "answer": "IAST selectivity for MAF-23-O is lower due to its many requirements and potential errors arising from narrow pores, framework flexibility, and large binding difference, which may not accurately reflect experimental conditions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role does framework flexibility play in the adsorption process of MAF-23-O?",
+      "answer": "Framework flexibility, especially kinetically controlled flexibility, is necessary for C3H6/C3H8 adsorption in MAF-23-O, allowing transient structural transformations for the diffusion of large guests.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of carbonyl groups in MAF-23-O affect the adsorption of C3H6 and C3H8?",
+      "answer": "The carbonyl groups in MAF-23-O enhance C3H6 adsorption by forming hydrogen bonds with C3H6's C(sp2)@H bond, while reducing C3H8 adsorption due to the reduced Lewis basicity of the N atoms and lack of specific interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental technique was successfully used to measure the host–guest structures of MAF-23-O?",
+      "answer": "Single-crystal X-ray diffraction (SCXRD) was successfully used to measure the host–guest structures of MAF-23-O, despite the difficulty in retaining sample single-crystallinity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the adsorption selectivity of MAF-23-O solely based on thermodynamic factors?",
+      "answer": "False. The high adsorption selectivity of MAF-23-O is a result of both thermodynamic factors and kinetic factors.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the oxidation process increase the thermal stability of the MOF?",
+      "answer": "False. The oxidation process decreases the thermal stability of the MOF.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the C3H6 and C3H8 adsorption isotherms for MAF-23 significantly different?",
+      "answer": "False. For MAF-23, the C3H6 and C3H8 adsorption isotherms and the calculated adsorption enthalpies are very similar.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the IAST selectivity always accurate for predicting experimental selectivity?",
+      "answer": "False. IAST selectivity may not always accurately predict experimental selectivity due to its many requirements and potential errors.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of carbonyl groups in MAF-23-O reduce the framework flexibility?",
+      "answer": "True. The oxidation to form carbonyl groups reduces the framework flexibility of MAF-23-O.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the adsorption of C3H8 in MAF-23-O enhanced by the presence of carbonyl groups?",
+      "answer": "False. The presence of carbonyl groups in MAF-23-O reduces C3H8 adsorption.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can MAF-23 be oxidized without adding any external catalyst?",
+      "answer": "True. MAF-23 can be selectively oxidized by oxygen without adding any external catalyst.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the unit-cell volume of MAF-23 significantly changed after oxidation?",
+      "answer": "False. The unit-cell volume, void ratio, and channel size/shape before and after oxidation are basically unchanged.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

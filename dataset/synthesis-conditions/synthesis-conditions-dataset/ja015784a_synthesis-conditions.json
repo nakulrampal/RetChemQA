@@ -1,0 +1,68 @@
+{
+  "materials": [
+    {
+      "material": "Platinum(II) complex (4)",
+      "synthesis_conditions": {
+        "temperature": "RT",
+        "solvents": [
+          {
+            "solvent": "methanol",
+            "amount": null
+          },
+          {
+            "solvent": "diethylether",
+            "amount": null
+          }
+        ],
+        "equipment": null,
+        "chemicals_used": [
+          {
+            "chemical": "platinum(II) subunit 2",
+            "amount": "47.6 mg, 0.09 mmol"
+          },
+          {
+            "chemical": "DTDP 1",
+            "amount": "18.9 mg, 0.09 mmol"
+          }
+        ],
+        "time": "1 h",
+        "washing_method": null,
+        "drying_method": "under vacuum",
+        "yield": "90%",
+        "additional_information": "Crystals suitable for X-ray analysis were grown by the slow diffusion of diethyl ether into a methanol solution of 4."
+      }
+    },
+    {
+      "material": "Copper(II) complex (5)",
+      "synthesis_conditions": {
+        "temperature": "RT",
+        "solvents": [
+          {
+            "solvent": "methanol",
+            "amount": null
+          },
+          {
+            "solvent": "acetone",
+            "amount": null
+          }
+        ],
+        "equipment": null,
+        "chemicals_used": [
+          {
+            "chemical": "copper(II) complex 3",
+            "amount": "50.3 mg, 0.10 mmol"
+          },
+          {
+            "chemical": "DTDP 1",
+            "amount": "22.1 mg, 0.10 mmol"
+          }
+        ],
+        "time": null,
+        "washing_method": null,
+        "drying_method": null,
+        "yield": "75%",
+        "additional_information": "Crystals suitable for X-ray structural determination were obtained by slow evaporation of the methanol solvent."
+      }
+    }
+  ]
+}

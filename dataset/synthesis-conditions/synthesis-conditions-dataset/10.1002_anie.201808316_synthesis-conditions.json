@@ -1,0 +1,38 @@
+{
+  "materials": [
+    {
+      "name": "MFM-300(Al)",
+      "synthesis_conditions": [
+        {
+          "step": "General",
+          "temperature": "273 K and 293 K for NH3 adsorption",
+          "pressure": "1.0 bar",
+          "cycles": "50 cycles of adsorption–desorption at 293 K",
+          "time": "6 mins for adsorption to complete saturation, 13.5 mins for complete desorption under standard pressure-swing",
+          "comments": "Shows reversible uptake of NH3 with no loss of storage capacity after 50 cycles"
+        },
+        {
+          "step": "In situ neutron powder diffraction (NPD) analysis",
+          "loading": "1.5 ND3/Al",
+          "identified_binding_sites": "Three distinct binding sites (I, II, and III)",
+          "site_distances": {
+            "I_to_II": "2.68(1) Å",
+            "II_to_III": "2.29(3) Å",
+            "framework_m2-OH_to_site_I": "1.76(2) Å"
+          },
+          "isosteric_heat_of_adsorption": "Qst > 40 kJ mol@1",
+          "comments": "Binding sites elucidated for adsorbed NH3 molecules"
+        },
+        {
+          "step": "In situ synchrotron FTIR micro-spectroscopy",
+          "temperature": "293 K",
+          "observations": {
+            "nO-H_stretching_vibration": "3692 cm@1",
+            "nO-D_stretching_mode": "2720 cm@1"
+          },
+          "comments": "Monitoring the nO-H stretching vibration as a function of ND3 loading confirmed H!D exchange"
+        }
+      ]
+    }
+  ]
+}

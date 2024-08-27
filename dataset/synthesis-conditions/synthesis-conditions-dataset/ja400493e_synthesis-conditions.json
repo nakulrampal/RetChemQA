@@ -1,0 +1,70 @@
+{
+  "materials": [
+    {
+      "name": "Free-base 1",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "methyl pyropheophorbide-d",
+            "amount": "12.5 mg, 0.023 mmol"
+          },
+          {
+            "name": "picoline",
+            "amount": "3.3 mL, 34 mmol"
+          },
+          {
+            "name": "Ac2O",
+            "amount": "10 mL"
+          },
+          {
+            "name": "AcOH",
+            "amount": "two drops"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "CHCl3",
+            "amount": "not specified"
+          }
+        ],
+        "temperature": "reflux",
+        "time": "3 h",
+        "equipment": "not specified",
+        "yield": "7.8 mg, 0.013 mmol, 55%"
+      }
+    },
+    {
+      "name": "Zinc complex 2",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "1",
+            "amount": "62 mg, 0.10 mmol"
+          },
+          {
+            "name": "Zn(OAc)2･2H2O",
+            "amount": "saturated solution in 7.0 mL MeOH"
+          },
+          {
+            "name": "NaHCO3",
+            "amount": "4% aqueous solution"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "CHCl3",
+            "amount": "70 mL"
+          },
+          {
+            "name": "MeOH",
+            "amount": "7.0 mL"
+          }
+        ],
+        "temperature": "not specified",
+        "time": "3 h",
+        "equipment": "not specified",
+        "yield": "62 mg, 0.090 mmol, 91%"
+      }
+    }
+  ]
+}

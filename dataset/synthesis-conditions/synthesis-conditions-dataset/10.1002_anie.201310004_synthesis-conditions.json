@@ -1,0 +1,67 @@
+{
+  "materials": [
+    {
+      "name": "MFU-4l-formate (1)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "conditions": {
+            "chemicals_used": "HCOOLi/MeOH",
+            "temperature": "room temperature"
+          }
+        }
+      ]
+    },
+    {
+      "name": "zinc(II) hydride species (2)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "conditions": {
+            "temperature": "300 8C",
+            "time": "30 min",
+            "equipment": "under vacuum"
+          }
+        }
+      ]
+    },
+    {
+      "name": "CuII-MFU-4l (3)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "conditions": {
+            "chemicals_used": "CuCl2",
+            "solvents": "DMA",
+            "temperature": "60 8C"
+          }
+        }
+      ]
+    },
+    {
+      "name": "CuII-MFU-4l-formate (4)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "conditions": {
+            "chemicals_used": "HCOOLi/MeOH",
+            "temperature": "room temperature"
+          }
+        }
+      ]
+    },
+    {
+      "name": "CuI-MFU-4l (5)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "conditions": {
+            "temperature": "180 8C",
+            "time": "1 h",
+            "equipment": "under vacuum"
+          }
+        }
+      ]
+    }
+  ]
+}

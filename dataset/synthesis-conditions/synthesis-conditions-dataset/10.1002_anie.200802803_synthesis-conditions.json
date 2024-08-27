@@ -1,0 +1,71 @@
+{
+  "materials": [
+    {
+      "name": "[Cu2(tci)(OH)(H2O)3]·1.5 H2O",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Cu(NO3)2·6 H2O (0.24 g; 1 mmol)",
+          "tris(2-carboxyethyl)isocyanurate (1 mmol)",
+          "Excess aqueous KOH solution"
+        ],
+        "solvent": "H2O (25 mL)",
+        "temperature": "room temperature",
+        "time": "10 days",
+        "yield": "45%",
+        "drying_method": "slow evaporation",
+        "crystal_appearance": "greenish-blue rectangular parallelepiped crystals"
+      }
+    },
+    {
+      "name": "Dehydrated phase (1 a)",
+      "synthesis_conditions": {
+        "initial_material": "[Cu2(tci)(OH)(H2O)3]·1.5 H2O",
+        "temperature": "125 °C",
+        "equipment": "TGA",
+        "color_change": "from greenish-blue to deep blue",
+        "crystallinity_check_method": "PXRD",
+        "structural_transformation": "large structural transformation upon dehydration",
+        "rehydration_behavior": "reversibility of the structural transformation upon exposure to air"
+      }
+    },
+    {
+      "name": "Single-crystal X-ray diffraction characterization of dehydrated phase",
+      "synthesis_conditions": {
+        "initial_material": "[Cu2(tci)(OH)(H2O)3]·1.5 H2O",
+        "temperature": "80 °C",
+        "time": "4 hours",
+        "color_change": "from greenish-blue to deep blue",
+        "data_collection_temperature": "elevated temperature",
+        "atmosphere": "nitrogen",
+        "note": "Dehydrated compound takes up any available moisture due to high affinity toward water"
+      }
+    },
+    {
+      "name": "Rehydrated phase (1 r)",
+      "synthesis_conditions": {
+        "initial_material": "Dehydrated phase (1 a)",
+        "exposure_condition": "kept in the open air for a few days",
+        "color_change": "from deep blue to the greenish-blue of the original sample",
+        "crystallography_confirmation": "matches with compound 1",
+        "transformation_reversibility": "completely reversible"
+      }
+    },
+    {
+      "name": "Solvent exposure experiment on dehydrated phase (1 a)",
+      "synthesis_conditions": {
+        "solvents_tested": [
+          "methanol",
+          "ethanol",
+          "tetrahydrofuran",
+          "acetone"
+        ],
+        "exposure_time": "two days",
+        "analysis_methods": [
+          "TGA",
+          "XRPD"
+        ],
+        "findings": "no uptake of any common organic solvents; strong affinity for water molecules"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "materials": [
+    {
+      "name": "UiO-68",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": "N,N-Dimethylformamide (DMF)",
+        "amount_of_solvent": "3.5 mL of DMF and 150 μL of TFA",
+        "equipment": "5 mL Teflon vial",
+        "chemicals_used": {
+          "H2TPDC": "18 mg; 0.055 mmol",
+          "ZrCl4": "12 mg; 0.051 mmol",
+          "TFA": "40 equiv."
+        },
+        "time": "72 hours",
+        "washing_method": "washed with 45 mL of DMF (3x15 mL) and 45 mL of methanol (3x15 mL)",
+        "drying_method": "soaked in hexane for 3 days, dried at room temperature",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "UiO-68-TZDC",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": "N,N-Dimethylformamide (DMF)",
+        "amount_of_solvent": "3.5 mL of DMF and 40 μL of TFA",
+        "equipment": "5 mL Teflon vial",
+        "chemicals_used": {
+          "H2TZDC": "18 mg; 0.055 mmol",
+          "ZrCl4": "12 mg; 0.051 mmol",
+          "TFA": "10 equiv."
+        },
+        "time": "72 hours",
+        "washing_method": "washed with 45 mL of DMF (3x15 mL) and 45 mL of methanol (3x15 mL)",
+        "drying_method": "soaked in hexane for 7 days, dried at room temperature",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "UiO-68-TZDC%",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": "N,N-Dimethylformamide (DMF)",
+        "amount_of_solvent": "54 mL of DMF",
+        "equipment": "not specified",
+        "chemicals_used": {
+          "UiO-68 (as-made)": "140 mg",
+          "H2TZDC": "0.3 to 17 equiv. (varied for different % of TZDC incorporation)",
+          "Et3N": "40 μL"
+        },
+        "time": "3 hours",
+        "washing_method": "thoroughly washed with fresh DMF (40 mL × 5)",
+        "drying_method": "kept in hexane",
+        "yield": "not specified",
+        "additional_information": "The maximum loading achieved was 50% of TZDC using 17 equivalents of H2TZDC."
+      }
+    }
+  ]
+}

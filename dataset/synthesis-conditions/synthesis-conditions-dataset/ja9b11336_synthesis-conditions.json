@@ -1,0 +1,94 @@
+{
+  "materials": [
+    {
+      "name": "CAM-Ag nanofibers and membranes",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Melamine",
+            "amount": "0.5 mL",
+            "concentration": "20 mM",
+            "purity": "≥ 99%",
+            "supplier": "Sigma-Aldrich"
+          },
+          {
+            "name": "Cyanuric acid",
+            "amount": "0.5 mL",
+            "concentration": "20 mM",
+            "purity": "≥ 98%",
+            "supplier": "Sigma-Aldrich"
+          },
+          {
+            "name": "Silver nitrate",
+            "amount": "1 mL",
+            "concentration": "20 mM",
+            "purity": "≥ 99.5%",
+            "supplier": "Chem-Supply"
+          },
+          {
+            "name": "Ammonia solution",
+            "amount": "30 μL",
+            "concentration": "10 wt%",
+            "supplier": "Chem-Supply"
+          }
+        ],
+        "solvent": "Ultrapure water",
+        "solvent_purity": "18.2 MΩ·cm",
+        "equipment": [
+          {
+            "type": "glass vial",
+            "size": "5 mL"
+          },
+          {
+            "type": "oven",
+            "temperature": "60 ˚C"
+          }
+        ],
+        "procedure": "Melamine and cyanuric acid solutions were mixed and aged for 24 hours. Silver nitrate solution was added and the mixture was aged for two days in a dark closet at room temperature. Ammonia solution was added and the mixture was aged for another two days. The hydrogel-membrane was then dried at 60 ˚C.",
+        "yield": "Not specified"
+      }
+    }
+  ],
+  "characterization_methods": [
+    {
+      "method": "SEM",
+      "details": "Coated by gold, operated at 5 kV. BSE and EDS mapping at 7 kV with carbon coating."
+    },
+    {
+      "method": "TEM",
+      "details": "JEOL 1400 model, cryo-TEM technique."
+    },
+    {
+      "method": "XRD",
+      "details": "Rigaku Smartlab, Cu Kα radiation, 40 mA and 40 kV, resolution of 0.01° (2θ)."
+    },
+    {
+      "method": "XPS",
+      "details": "Kratos Axis Ultra, mono Al Kα (1486.6 eV) X-ray."
+    },
+    {
+      "method": "IR",
+      "details": "Nicolet iS50 FTIR spectrometer, resolution of 4 cm-1."
+    },
+    {
+      "method": "UV-visible-NIR spectrum",
+      "details": "Cary 5000 UV-VIS-NIR Spectrophotometer."
+    },
+    {
+      "method": "Single crystal X-ray structure determination",
+      "details": "MX2 beamline at the Australian Synchrotron, λ = 0.7108 Å, T = 100K."
+    },
+    {
+      "method": "Nanoindentation",
+      "details": "Hysitron TI 950 Nanoidentor, Berkovich indenter, Oliver-Pharr method."
+    },
+    {
+      "method": "Tensile test",
+      "details": "MTS Tytron 250 tensile tester, loading rate at 0.01mm/s."
+    },
+    {
+      "method": "Three-point bending test",
+      "details": "Nanoindentation, conical indenter with a tip radius of 1 µm."
+    }
+  ]
+}

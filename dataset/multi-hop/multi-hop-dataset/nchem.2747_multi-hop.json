@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the DOI of the article discussing the solvent-switchable continuous-breathing behaviour in a diamondoid metal–organic framework?",
+      "answer": "10.1038/NCHEM.2747",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of porous materials does the article focus on, and what is their unique behavior upon exposure to an external stimulus?",
+      "answer": "The article focuses on flexible metal–organic frameworks (MOFs) that undergo a structural change, known as 'breathing', upon exposure to an external stimulus.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the chemical formula of the MOF compound SHF-61 discussed in the article?",
+      "answer": "(Me2NH2)[In(ABDC)2]",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the gas adsorption behavior of SHF-61 change after activation from SHF-61-DMF compared to SHF-61-CHCl3?",
+      "answer": "After activation from SHF-61-DMF, SHF-61 shows almost negligible adsorption for N2 at 77 K and only a modest uptake for CO2 and CH4 at 298 K, resulting in no selectivity between these gases. In contrast, after activation from SHF-61-CHCl3, SHF-61 exhibits higher uptake for all three gases and introduces CO2 versus CH4 selectivity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental technique was used to confirm the phase purity of SHF-61-DMF?",
+      "answer": "X-ray powder diffraction was used to confirm the phase purity of SHF-61-DMF.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the continuous-breathing mechanism observed in SHF-61?",
+      "answer": "The continuous-breathing mechanism observed in SHF-61 is significant because it allows for dramatic differences in gas-adsorption capacity and selectivity based on the nature of the guest solvent, which can be exploited for applications like gas separation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Langmuir adsorption model suggests a multilayer formation in SHF-61 after activation from SHF-61-DMF.",
+      "answer": "False. The Langmuir model suggests a monolayer formation, whereas it is the BET model that suggests a multilayer formation in SHF-61 after activation from SHF-61-DMF.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What role do guest–framework interactions play in the breathing mechanism of SHF-61?",
+      "answer": "Guest–framework interactions play a crucial role in the breathing mechanism of SHF-61 by controlling the framework's flexibility. Stronger interactions with the guest molecules, such as DMF/H2O, help maintain interactions across the pores that favor pore closure, while weaker interactions, such as with CHCl3, do not enable substantial pore closing.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study reports a stepped CO2-adsorption isotherm for the fully desolvated MOF after activation following CHCl3 removal.",
+      "answer": "False. The stepped CO2-adsorption isotherm is observed for the partially solvated MOF, not for the fully desolvated MOF after activation following CHCl3 removal.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the activation route from SHF-61-DMF and SHF-61-CHCl3 lead to different gas-adsorption behaviors?",
+      "answer": "The activation route from SHF-61-DMF leads to a narrow-pore form with modest gas uptake due to stronger cation–framework interactions that maintain the closed form. In contrast, activation from SHF-61-CHCl3 results in a wide-pore form with higher gas uptake and selectivity, as the weaker interactions with CHCl3 do not support substantial pore closing.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

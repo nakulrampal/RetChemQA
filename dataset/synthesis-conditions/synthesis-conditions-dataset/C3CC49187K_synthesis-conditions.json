@@ -1,0 +1,108 @@
+{
+  "materials": [
+    {
+      "name": "BIT-101",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Trimesic acid (0.16 g, 0.7614 mmol)",
+          "Zn(NO3)2·6H2O (0.50 g, 1.681 mmol)"
+        ],
+        "solvents": "DMF/DMAC = 2:1 mixed solution (10 mL)",
+        "temperature": [
+          "Raised from 30 °C to 85 °C in 180 mins",
+          "Kept unchanged for 1440 mins",
+          "Cooled to 30 °C in 180 mins"
+        ],
+        "equipment": "20 mL glass vial, oven",
+        "washing_method": [
+          "Washed by mother liquor 3 times",
+          "Chloroform wash 3 times"
+        ],
+        "drying_method": "Stored in mother liquor",
+        "yield": "31%"
+      }
+    },
+    {
+      "name": "BIT-102",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Trimesic acid (0.16 g, 0.7614 mmol)",
+          "Zn(NO3)2·6H2O (0.50 g, 1.681 mmol)",
+          "5-aminoisophthalic acid (0.09 g, 0.4968 mmol)"
+        ],
+        "solvents": "DMF/DMAC = 2:1 mixed solution (10 mL)",
+        "temperature": [
+          "Raised from 30 °C to 85 °C in 180 mins",
+          "Kept unchanged for 1440 mins",
+          "Cooled to 30 °C in 180 mins"
+        ],
+        "equipment": "20 mL glass vial, oven",
+        "washing_method": [
+          "Washed by fresh mother liquor (DMF/DMAC = 2:1) 3 times",
+          "Chloroform wash 3 times"
+        ],
+        "drying_method": "Stored in mother liquor",
+        "yield": "48%",
+        "analysis": {
+          "C": "35.03 (35.11)",
+          "H": "5.58 (5.51)",
+          "N": "5.42 (5.72)",
+          "Zn": "20.18 (20.10)"
+        }
+      }
+    },
+    {
+      "name": "BIT-103",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Trimesic acid (0.16 g, 0.7614 mmol)",
+          "Zn(NO3)2·6H2O (0.50 g, 1.681 mmol)",
+          "5-nitroisophthalic acid (0.01 g, 0.0474 mmol)"
+        ],
+        "solvents": "DMF/DMAC = 2:1 mixed solution (10 mL)",
+        "temperature": [
+          "Stirred at room temperature for 10 mins",
+          "Raised from 30 °C to 85 °C in 180 mins",
+          "Kept unchanged for 1440 mins",
+          "Cooled to 30 °C in 180 mins"
+        ],
+        "equipment": "20 mL glass vial, oven",
+        "washing_method": [
+          "Washed by fresh mother liquor (DMF/DMAC = 2:1) 3 times",
+          "Chloroform wash 3 times"
+        ],
+        "drying_method": "Stored in mother liquor",
+        "yield": "25%",
+        "analysis": {
+          "C": "36.24 (36.05)",
+          "H": "5.02 (4.98)",
+          "N": "7.16 (7.36)",
+          "Zn": "19.32 (19.43)"
+        }
+      }
+    },
+    {
+      "name": "BIT-103 catalyzed cycloaddition of CO2 to cyclic carbonate",
+      "synthesis_conditions": {
+        "equipment": "50 mL stainless-steel autoclave with a magnetic stirring bar",
+        "chemicals_used": [
+          "Catalyst (3.76 µmol)",
+          "Epoxides (20 mmol)"
+        ],
+        "temperature": "160 ºC",
+        "pressure": "3 MPa CO2",
+        "time": "Appropriate time",
+        "analysis_method": "GC-MS and GC"
+      }
+    },
+    {
+      "name": "Reuse of BIT-103",
+      "synthesis_conditions": {
+        "washing_method": "Washed and soaked with CH2Cl2 (ca. 3 * 10 mL)",
+        "drying_method": "Air-dried",
+        "analysis_method": "IR spectrum comparison with fresh catalyst",
+        "performance": "Retained high catalytic performance without appreciable loss"
+      }
+    }
+  ]
+}

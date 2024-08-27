@@ -1,0 +1,66 @@
+{
+  "materials": [
+    {
+      "name": "Cu-PzH",
+      "synthesis_conditions": {
+        "crystal_structure": "orthorhombic",
+        "space_group": "Cmcm",
+        "morphology": "long rod-shaped crystals",
+        "thermal_stability": "stable before heating to 280 88C",
+        "chemical_stability": "intact after soaking in 1 M KOH for 3 days at room temperature",
+        "CO2_adsorption_capacity": "slightly weaker than Cu-PzI",
+        "electrocatalytic_activity": {
+          "potential_range": "-0.6 V to -1.1 V vs. RHE",
+          "FEC2H4": "60 % at -1.0 V",
+          "current_density": "346.46 mA cm-2",
+          "FECH4": "8.53 % at -1.0 V",
+          "FECO": "23.57 % at -1.0 V"
+        }
+      }
+    },
+    {
+      "name": "Cu-PzCl",
+      "synthesis_conditions": {
+        "crystal_structure": "monoclinic",
+        "space_group": "P21/m",
+        "morphology": "long rod-shaped crystals",
+        "thermal_stability": "stable before heating to 280 88C",
+        "chemical_stability": "intact after soaking in 1 M KOH for 3 days at room temperature",
+        "electrocatalytic_activity": {
+          "FEC2H4": "39.4 % at -0.9 V",
+          "FECH4": "21.03 % at -1.0 V"
+        }
+      }
+    },
+    {
+      "name": "Cu-PzBr",
+      "synthesis_conditions": {
+        "crystal_structure": "monoclinic",
+        "space_group": "P21/m",
+        "morphology": "long rod-shaped crystals",
+        "thermal_stability": "stable before heating to 280 88C",
+        "chemical_stability": "intact after soaking in 1 M KOH for 3 days at room temperature",
+        "electrocatalytic_activity": {
+          "FEC2H4": "31.14 % at -0.9 V",
+          "FECH4": "25.35 % at -1.0 V"
+        }
+      }
+    },
+    {
+      "name": "Cu-PzI",
+      "synthesis_conditions": {
+        "crystal_structure": "monoclinic",
+        "space_group": "P21/m",
+        "morphology": "long rod-shaped crystals",
+        "thermal_stability": "stable before heating to 280 88C",
+        "chemical_stability": "intact after soaking in 1 M KOH for 3 days at room temperature",
+        "CO2_adsorption_capacity": "stronger than others",
+        "electrocatalytic_activity": {
+          "FECH4": "52 % at -1.0 V",
+          "current_density": "287.52 mA cm-2",
+          "FEC2H4": "16.04 % at -1.0 V"
+        }
+      }
+    }
+  ]
+}

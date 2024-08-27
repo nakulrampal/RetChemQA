@@ -1,0 +1,50 @@
+{
+  "materials": [
+    {
+      "name": "(NMe4)2[LFeCl2] (1)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "130 °C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "6 mL"
+            },
+            {
+              "name": "H2O",
+              "amount": "230 μL"
+            }
+          ],
+          "equipment": "N/A",
+          "chemicals_used": [
+            {
+              "name": "FeCl3·6H2O",
+              "amount": "21.6 mg, 0.080 mmol"
+            },
+            {
+              "name": "NMe4Cl",
+              "amount": "87.2 mg, 0.80 mmol"
+            },
+            {
+              "name": "chloranilic acid",
+              "amount": "33.4 mg, 0.16 mmol"
+            }
+          ],
+          "time": "two days",
+          "washing_method": "DMF (5 × 5 mL), DCM (4 × 3 mL)",
+          "drying_method": "N/A",
+          "yield": "16.1 mg, 41.7%"
+        }
+      ],
+      "characterization_methods_excluded": [
+        "FT-IR",
+        "Elemental analysis",
+        "X-ray Structure Determination",
+        "Magnetic Measurements",
+        "Raman Measurements",
+        "Electrical Conductivity Measurements"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "materials": [
+    {
+      "name": "1-H2 and 2-H2",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "(S)-citronellol",
+            "role": "starting material for 1-H2"
+          },
+          {
+            "name": "(S)-phenylethanol",
+            "role": "starting material for 2-H2"
+          },
+          {
+            "name": "[TiO(acac)2]",
+            "amount": "1 equiv",
+            "role": "reactant"
+          },
+          {
+            "name": "Li2CO3",
+            "amount": "1 equiv",
+            "role": "reactant"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "methanol",
+            "role": "reaction medium"
+          }
+        ],
+        "reaction_conditions": {
+          "temperature": "not specified",
+          "time": "not specified"
+        },
+        "yield": "not specified",
+        "drying_method": "not specified",
+        "washing_method": "not specified"
+      }
+    },
+    {
+      "name": "Li2[(1)3Ti]",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "[D4]MeOH",
+            "role": "NMR solvent"
+          },
+          {
+            "name": "[D6]DMSO",
+            "role": "NMR solvent"
+          }
+        ],
+        "dimerization_constant": "Kdim = 2400 M-1 in [D4]MeOH",
+        "observations": [
+          {
+            "solvent": "[D4]MeOH",
+            "observation": "dimer is the only observable species"
+          },
+          {
+            "solvent": "[D6]DMSO",
+            "observation": "both monomer and dimer are observed"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Li2[(2)3Ti]",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "[D4]MeOH",
+            "role": "NMR solvent"
+          },
+          {
+            "name": "[D6]DMSO",
+            "role": "NMR solvent"
+          }
+        ],
+        "dimerization_constant": [
+          {
+            "solvent": "[D4]MeOH",
+            "value": "Kdim = 4600 M-1"
+          },
+          {
+            "solvent": "[D6]DMSO",
+            "value": "Kdim = 16 M-1"
+          }
+        ],
+        "observations": [
+          {
+            "solvent": "[D4]MeOH",
+            "observation": "dimer is the dominant species"
+          },
+          {
+            "solvent": "[D6]DMSO",
+            "observation": "monomer is the major species"
+          }
+        ]
+      }
+    },
+    {
+      "name": "[Li3{(2)3Ti}2](2-)",
+      "synthesis_conditions": {
+        "crystallization_conditions": {
+          "method": "recrystallization",
+          "solvents": "not specified",
+          "temperature": "not specified"
+        },
+        "crystal_analysis": {
+          "method": "X-ray crystallography",
+          "crystal_size": "0.35 x 0.20 x 0.10 mm3",
+          "temperature": "223(2) K"
+        }
+      }
+    }
+  ]
+}

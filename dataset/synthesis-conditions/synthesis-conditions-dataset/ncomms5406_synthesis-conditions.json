@@ -1,0 +1,86 @@
+{
+  "materials": [
+    {
+      "name": "1a",
+      "synthesis_conditions": [
+        {
+          "temperature": "80 °C",
+          "solvents": [
+            {
+              "name": "DMF/H2O",
+              "amount": "1 ml DMF, 5 ml MeOH"
+            }
+          ],
+          "equipment": "10-ml vial with a screw cap",
+          "chemicals_used": [
+            {
+              "name": "MnCl2·4H2O",
+              "amount": "12 mg, 0.06 mmol"
+            },
+            {
+              "name": "(S)-H4L1",
+              "amount": "0.03 mmol"
+            }
+          ],
+          "time": "1 day",
+          "yield": "78%",
+          "washing_method": "washed with ether",
+          "drying_method": "dried in air",
+          "additional_information": "Pale yellow crystals obtained"
+        }
+      ]
+    },
+    {
+      "name": "1b",
+      "synthesis_conditions": [
+        {
+          "temperature": "80 °C",
+          "solvents": [
+            {
+              "name": "DMF/H2O",
+              "amount": "1 ml DMF, 5 ml MeOH"
+            }
+          ],
+          "equipment": "10-ml vial with a screw cap",
+          "chemicals_used": [
+            {
+              "name": "MnCl2·4H2O",
+              "amount": "12 mg, 0.06 mmol"
+            },
+            {
+              "name": "(S)-H4L2",
+              "amount": "0.03 mmol"
+            }
+          ],
+          "time": "1 day",
+          "yield": "75%",
+          "washing_method": "washed with ether",
+          "drying_method": "dried in air",
+          "additional_information": "Pale yellow crystals obtained"
+        }
+      ]
+    },
+    {
+      "name": "Apohost 1a",
+      "synthesis_conditions": [
+        {
+          "temperature": "100 °C",
+          "equipment": "vacuum",
+          "time": "4 h",
+          "additional_information": "Guest molecules exchanged with ether and then evacuated to generate the apohost"
+        }
+      ]
+    },
+    {
+      "name": "Apohost 1b",
+      "synthesis_conditions": [
+        {
+          "temperature": "100 °C",
+          "equipment": "vacuum",
+          "time": "4 h",
+          "additional_information": "Guest molecules exchanged with ether and then evacuated to generate the apohost"
+        }
+      ]
+    }
+  ]
+}

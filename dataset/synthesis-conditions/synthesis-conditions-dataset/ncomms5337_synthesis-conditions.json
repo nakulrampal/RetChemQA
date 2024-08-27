@@ -1,0 +1,81 @@
+{
+  "materials": [
+    {
+      "name": "[Ag(en)]NO3-I",
+      "synthesis_conditions": {
+        "temperature_range": "120-360 K",
+        "pressure_range": "0.1 MPa to 0.92 GPa",
+        "solvents": "isopropanol",
+        "solvent_amounts": "not specified",
+        "equipment": "Merrill-Bassett diamond-anvil cell (DAC)",
+        "chemicals_used": "AgNO3, ethylenediamine, acetonitrile, o-xylene",
+        "time": "not specified",
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "thermal_expansion_coefficients": {
+          "X1": "-89.7(15) MK-1",
+          "X2": "37.9(12) MK-1",
+          "X3": "149.2(12) MK-1",
+          "V": "95.8(20) MK-1"
+        },
+        "linear_compressibility_coefficients": {
+          "X1": "29.6(24) TPa-1",
+          "X2": "39.1(21) TPa-1",
+          "X3": "-28.4(18) TPa-1",
+          "V": "36.8(5) TPa-1"
+        },
+        "bulk_modulus": "27.5(16) GPa",
+        "pressure_derivative_bulk_modulus": "-1.6(31)"
+      }
+    },
+    {
+      "name": "[Ag(en)]NO3-II",
+      "synthesis_conditions": {
+        "temperature": "296 K",
+        "pressure_range": "1.03 GPa to 3.18 GPa",
+        "solvents": "isopropanol",
+        "solvent_amounts": "not specified",
+        "equipment": "Merrill-Bassett diamond-anvil cell (DAC)",
+        "chemicals_used": "AgNO3, ethylenediamine, acetonitrile, o-xylene",
+        "time": "not specified",
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "linear_compressibility_coefficients": {
+          "X1": "47.6(44) TPa-1 (1.03-1.36 GPa)",
+          "X2": "17.5(1) TPa-1 (1.03-1.36 GPa)",
+          "X3": "-9.3(8) TPa-1 (1.03-1.36 GPa)",
+          "V": "56.9(39) TPa-1 (1.03-1.36 GPa)",
+          "X1_full_range": "13.5(19) TPa-1",
+          "X2_full_range": "13.2(19) TPa-1",
+          "X3_full_range": "-0.00(6) TPa-1",
+          "V_full_range": "31.8(17) TPa-1"
+        },
+        "bulk_modulus": "22.7(11) GPa",
+        "pressure_derivative_bulk_modulus": "4"
+      }
+    },
+    {
+      "name": "[Ag(en)]NO3-III",
+      "synthesis_conditions": {
+        "temperature": "296 K",
+        "pressure_range": "3.38 GPa to 3.85 GPa",
+        "solvents": "isopropanol",
+        "solvent_amounts": "not specified",
+        "equipment": "Merrill-Bassett diamond-anvil cell (DAC)",
+        "chemicals_used": "AgNO3, ethylenediamine, acetonitrile, o-xylene",
+        "time": "not specified",
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "linear_compressibility_coefficients": {
+          "X1": "18.6(12) TPa-1",
+          "X2": "8.1(1) TPa-1",
+          "X3": "5.4(13) TPa-1",
+          "V": "31.9(1) TPa-1"
+        }
+      }
+    }
+  ]
+}

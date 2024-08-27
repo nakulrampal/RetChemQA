@@ -1,0 +1,24 @@
+{
+  "BSF-1": {
+    "synthesis_conditions": {
+      "temperature": "room temperature",
+      "solvents": ["MeOH", "H2O"],
+      "amount_of_solvents": {
+        "MeOH": "not specified",
+        "H2O": "not specified"
+      },
+      "equipment": "not specified",
+      "chemicals_used": ["Na2[B12H12]", "CuNO3·3H2O", "1,2-bis(4-pyridyl)acetylene (bpa)"],
+      "time": "24 h",
+      "washing_method": "exchanged with methanol twice every 24 h for 2 days",
+      "drying_method": "evacuated under vacuum at 353 K",
+      "yield": "not specified",
+      "additional_steps": [
+        {
+          "step": "crystal_growth",
+          "description": "Single crystals of BSF-1 were obtained by layering a MeOH solution of bpa onto an aqueous solution of Na2[B12H12] and CuNO3·3H2O."
+        }
+      ]
+    }
+  }
+}

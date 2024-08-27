@@ -1,0 +1,81 @@
+{
+  "Design of MOFs": {
+    "Supplementary Method 1": {
+      "Synthesis of Organic Linkers": {
+        "Chemicals": {
+          "N, N-dimethylformamide (DMF)": "purchased from Sinopharm Chemical Reagent Co. Ltd (China)",
+          "thionyl chloride": "purchased from Sinopharm Chemical Reagent Co. Ltd (China)",
+          "anhydrous sodium carbonate": "purchased from Sinopharm Chemical Reagent Co. Ltd (China)",
+          "methanol": "purchased from Sinopharm Chemical Reagent Co. Ltd (China)",
+          "ethanol": "purchased from Sinopharm Chemical Reagent Co. Ltd (China)",
+          "acetonitrile": "purchased from Sinopharm Chemical Reagent Co. Ltd (China)",
+          "p-dioxane": "purchased from Sinopharm Chemical Reagent Co. Ltd (China)",
+          "tetrafuran": "purchased from Sinopharm Chemical Reagent Co. Ltd (China)",
+          "sodium hydroxide": "purchased from Sinopharm Chemical Reagent Co. Ltd (China)",
+          "benzyl bromide": "purchased from Sinopharm Chemical Reagent Co. Ltd (China)",
+          "Pd/C (Pd=10%)": "purchased from Sinopharm Chemical Reagent Co. Ltd (China)",
+          "nickel nitrate hexahydrate (Ni(NO3)2·6H2O)": "purchased from Sinopharm Chemical Reagent Co. Ltd (China)",
+          "hydrochloric acid (HCl)": "purchased from Sinopharm Chemical Reagent Co. Ltd (China)",
+          "4-bromo-2-hydroxylbenzoic acid (97%)": "purchased from Energy Chemical",
+          "Bis (pinacolato) diboron": "purchased from Energy Chemical",
+          "Dichlorobis (triphenylphosphine) palladium (II) (98%)": "purchased from Greenchem",
+          "1,4-dibromo-2,5-dimethylbenzene (98%)": "purchased from Bide Pharmatech",
+          "deuterium reagent, CDCl3 (D, 99.8%), (CD3)2SO (D, 99.9%)": "purchased from Sigma-Aldrich Chemical Co.(China)"
+        },
+        "Synthetic Strategy": "Based on palladium-catalyzed Suzuki-Miyaura cross-coupling reactions. The general strategy was to couple two equivalents of a terminal boronic ester part to a dihalide intermediate. The Suzuki-Miyaura cross-coupling conditions used CsF or K2CO3 as base with Pd(dppf)Cl2 as the catalyst in a p-dioxane / H2O (4:1 v/v) mixture."
+      }
+    },
+    "Supplementary Method 2": {
+      "Synthesis and Structural Characterization of Ni-IRMOF-74 Series and MOF Nano-crystals": {
+        "Ni-MOF-74": {
+          "Synthesis": "Synthesized and activated according to literature procedure. Demonstrated stability in water.",
+          "DMF and dry ethanol": "purchased from Sigma-Aldrich Chemical Co. (China)"
+        },
+        "Ni-IRMOF-74-II": {
+          "Synthesis": "Using capillaries (diameter: 0.6 mm, quartz made by Hampton Research) with a wavelength of 1.23823 Å (Supplementary Figure 5).",
+          "Water stability test": "10 mg of activated Ni-IRMOF-74 was immersed in 5 mL deionized water for 24 hours before centrifugation, washed by ethanol three times, and dried under vacuum (10-2 Torr) at room temperature for 12 h followed by heating at 130 °C for 12 h."
+        }
+      }
+    },
+    "Supplementary Method 3": {
+      "Characterization of ssDNA Loaded MOFs": {
+        "Control experiments of fluorophore molecules uptake in MOFs": "Used 6-carboxyfluorescein (FAM) and 6-carboxytetramethylrhodamine (TAMRA) to investigate interactions. Found that uptake of TAMRA increased from IRMOF-74-II to -V indicating an increase in π-π interaction, while MIL-101 exhibited negligible uptake due to limited phenyl units.",
+        "Inclusion of entire ssDNA into MOF pores": "Used ssDNA labeled with FAM at 5’ end and TAMRA at 3’ end. Concurrent decay of fluorescence at both wavelengths was observed in the solution, indicating the proper accommodation of the entire ssDNA into MOF pores."
+      }
+    },
+    "Supplementary Method 4": {
+      "Quantification of the Uptake and Release of ssDNA using MOF as Vectors through Fluorescence Measurement": {
+        "General method": "Preparation of MOF and ssDNA storage solution. Fluorescence measurement for FAM and TAMRA. Quantification method of ssDNA based on fluorescence decay.",
+        "Uptake of FAM-labeled ssDNA by other MOF vectors": "Tested Ni-MOF-74, UiO-66, UiO-67, and MIL-101-Cr. Found MIL-101-Cr can remove almost all of the ssDNA from the solution, while UiO-66 and UiO-67 show relatively low uptake.",
+        "Control experiment of FAM labeled ssDNA uptake using structural components of Ni-IRMOF-74-II": "Tested metal ions, linker II, physical mixture of metal ions and linker II, and Ni-IRMOF-74-II. Significant decrease of FI was observed only in Ni-IRMOF-74-II."
+      }
+    },
+    "Supplementary Method 5": {
+      "Comparison of ssDNA Protection Performance using Various Non-viral Vectors by Gel Electrophoresis": {
+        "Preparation of ssDNA in vectors": "Describes the protocol for ssDNA uptake into Lipo and cationic polymer (Neofect) and other MOF vectors.",
+        "Release of ssDNA from vectors": "Describes the process for releasing ssDNA from vectors using centrifugation and measuring the supernatant for polyacrylamide gel electrophoresis (PAGE) test.",
+        "Analysis of stability of ssDNA in 10% FBS solution by 20% denaturing polyacrylamide gels electrophoresis": "Tested the protection of ssDNA using various porous materials in FBS with 10% serum. Found Ni-IRMOF-74 series offers superior protection against degradation."
+      }
+    },
+    "Supplementary Method 6": {
+      "Investigation of Interactions between ssDNA and MOF Pores": {
+        "X-ray photoelectron spectroscopy (XPS)": "Performed on Ni-IRMOF-74-II before and after loading with ssDNA. Found no obvious shift in the Ni peaks, indicating no significant interaction exists between metal site and ssDNA in Ni-IRMOF-74-II.",
+        "X-ray adsorption spectra (XAS) of ssDNA loaded Ni-IRMOF-74-II": "Confirmed the interaction between ssDNA molecules and SBU metals in MOFs and further study the coordination environment of metals in MOFs after loading with ssDNA.",
+        "Zeta potential analysis": "Tested for Ni-IRMOF-74-II series and ssDNA in aqueous solution; both are negative, suggesting that the interaction between them is not electrostatic force."
+      }
+    },
+    "Supplementary Method 7": {
+      "ssDNA Transfection Efficiency Revealed by Confocal Laser Scanning Microscopy and Flow Cytometry": {
+        "Detection of the intracellular delivery by confocal laser scanning microscopy (CLSM)": "MCF-7 cells were incubated with FAM labeled DNAzyme (FAM-DNAzyme, 100 nM) loaded nano-MOF and naked FAM-DNAzyme (100 nM) for 3 h at 37 °C.",
+        "Flow cytometry": "Describes the preparation of ssDNA loaded vector materials and analysis through flow cytometry."
+      }
+    },
+    "Supplementary Method 8": {
+      "Cytotoxicity Assessment of Ni-IRMOF-74 Series through Cell Proliferation Assays": {
+        "The cytotoxicity test of nano-MOF in MCF-7 cells by the standard MTT": "MCF-7 cells were incubated with different concentrations of nano-MOF for 48h and measured by MTT assay.",
+        "The cytotoxicity test of nano-MOF in MCF-7 cells by the SRB assays": "MCF-7 cells were treated with different concentrations of ssDNA-vector complexes for 48 h and measured by SRB assay.",
+        "Cytotoxicity test of nano-MOF in RAW264.7 and THP-1 cells by the CCK-8 assays": "RAW264.7 and THP-1 cells were incubated with vectors with saturated ssDNA and measured by the CCK-8 assays."
+      }
+    }
+  }
+}

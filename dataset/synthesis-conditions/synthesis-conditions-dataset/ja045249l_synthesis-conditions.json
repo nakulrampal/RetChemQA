@@ -1,0 +1,184 @@
+{
+  "materials": [
+    {
+      "material_id": "1",
+      "synthesis_conditions": {
+        "temperature": "160 °C",
+        "solvents": [
+          {
+            "name": "aqueous ammonia",
+            "amount": "5 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "23-mL Teflon reactor",
+        "chemicals_used": [
+          {
+            "name": "Cu(NO3)2·3H2O",
+            "amount": "0.242 g, 1.0 mmol"
+          },
+          {
+            "name": "Hmim",
+            "amount": "0.081 g, 1.0 mmol"
+          }
+        ],
+        "time": "80 h",
+        "cooling_rate": "5 °C h-1",
+        "yield": "ca. 30%"
+      }
+    },
+    {
+      "material_id": "2",
+      "synthesis_conditions": {
+        "temperature": "160 °C",
+        "solvents": [
+          {
+            "name": "aqueous ammonia",
+            "amount": "5 mL"
+          },
+          {
+            "name": "toluene",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "23-mL Teflon reactor",
+        "chemicals_used": [
+          {
+            "name": "Cu(NO3)2·3H2O",
+            "amount": "0.242 g, 1.0 mmol"
+          },
+          {
+            "name": "Hmim",
+            "amount": "0.081 g, 1.0 mmol"
+          }
+        ],
+        "time": "80 h",
+        "cooling_rate": "5 °C h-1",
+        "yield": "ca. 15%"
+      }
+    },
+    {
+      "material_id": "3",
+      "synthesis_conditions": {
+        "temperature": "160 °C",
+        "solvents": [
+          {
+            "name": "aqueous ammonia",
+            "amount": "5 mL"
+          },
+          {
+            "name": "p-xylene",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "23-mL Teflon reactor",
+        "chemicals_used": [
+          {
+            "name": "Cu(NO3)2·3H2O",
+            "amount": "0.242 g, 1.0 mmol"
+          },
+          {
+            "name": "Hmim",
+            "amount": "0.081 g, 1.0 mmol"
+          }
+        ],
+        "time": "80 h",
+        "cooling_rate": "5 °C h-1",
+        "yield": "ca. 35%"
+      }
+    },
+    {
+      "material_id": "[Cu8(mim)8]·benzene",
+      "synthesis_conditions": {
+        "temperature": "160 °C",
+        "solvents": [
+          {
+            "name": "aqueous ammonia",
+            "amount": "5 mL"
+          },
+          {
+            "name": "benzene",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "23-mL Teflon reactor",
+        "chemicals_used": [
+          {
+            "name": "Cu(NO3)2·3H2O",
+            "amount": "0.242 g, 1.0 mmol"
+          },
+          {
+            "name": "Hmim",
+            "amount": "0.081 g, 1.0 mmol"
+          }
+        ],
+        "time": "80 h",
+        "cooling_rate": "5 °C h-1",
+        "yield": "ca. 25%"
+      }
+    },
+    {
+      "material_id": "[Cu8(mim)8]·cyclohexane",
+      "synthesis_conditions": {
+        "temperature": "160 °C",
+        "solvents": [
+          {
+            "name": "aqueous ammonia",
+            "amount": "5 mL"
+          },
+          {
+            "name": "cyclohexane",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "23-mL Teflon reactor",
+        "chemicals_used": [
+          {
+            "name": "Cu(NO3)2·3H2O",
+            "amount": "0.242 g, 1.0 mmol"
+          },
+          {
+            "name": "Hmim",
+            "amount": "0.081 g, 1.0 mmol"
+          }
+        ],
+        "time": "80 h",
+        "cooling_rate": "5 °C h-1",
+        "yield": "ca. 19%"
+      }
+    },
+    {
+      "material_id": "[Cu10(mim)10]·(naphthalene)2",
+      "synthesis_conditions": {
+        "temperature": "160 °C",
+        "solvents": [
+          {
+            "name": "aqueous ammonia",
+            "amount": "5 mL"
+          },
+          {
+            "name": "naphthalene",
+            "amount": "1.0 mmol, 0.128 g"
+          }
+        ],
+        "equipment": "23-mL Teflon reactor",
+        "chemicals_used": [
+          {
+            "name": "Cu(NO3)2·3H2O",
+            "amount": "0.242 g, 1.0 mmol"
+          },
+          {
+            "name": "Hmim",
+            "amount": "0.081 g, 1.0 mmol"
+          }
+        ],
+        "time": "80 h",
+        "cooling_rate": "5 °C h-1",
+        "yield": "ca. 45%"
+      }
+    }
+  ]
+}

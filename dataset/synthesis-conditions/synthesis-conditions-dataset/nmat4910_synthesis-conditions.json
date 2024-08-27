@@ -1,0 +1,44 @@
+{
+  "Pd4-MOF": {
+    "synthesis_conditions": {
+      "temperature": "Room temperature for initial steps, specific temperature not mentioned for reduction step",
+      "solvents": [
+        {
+          "name": "Water",
+          "amount": "Specific amounts not mentioned"
+        },
+        {
+          "name": "Methanol",
+          "amount": "Specific amounts not mentioned"
+        }
+      ],
+      "equipment": "Not specified",
+      "chemicals_used": [
+        {
+          "name": "Na4[Cu2(Me3mpba)2] · 4H2O",
+          "amount": "8.71 g, 0.010 mol for large scale synthesis of NiII2{NiII4[CuII2(Me3mpba)2]3} · 54H2O (2)"
+        },
+        {
+          "name": "Ni(NO3)2 · 6H2O",
+          "amount": [
+            "3.88 g, 0.013 mol",
+            "1.94 g, 0.0067 mol for additional amount in large scale synthesis"
+          ]
+        },
+        {
+          "name": "[Pd(NH3)4]Cl2",
+          "amount": "0.004 mmol for synthesis of [PdII(NH3)4][PdII2(µ-O)(NH3)6(NH4)2]0.5{NiII4[CuII2(Me3mpba)2]3} · 52H2O (3), 3.43 g, 14.0 mmol for large scale"
+        },
+        {
+          "name": "NaBH4",
+          "amount": "Excess, divided into 26 fractions, each fraction consisting of 1 mole of NaBH4 per mole of compound 3"
+        }
+      ],
+      "time": "72 hours for addition of NaBH4",
+      "washing_method": "Gently washed with a H2O/CH3OH solution",
+      "drying_method": "Filtered on paper, specific drying method after filtration not mentioned",
+      "yield": "98% for final compound [Pd4]0.5@Na3{NiII4[CuII2(Me3mpba)2]3} · 56H2O (4)",
+      "additional_information": "The synthesis involves multiple steps including transmetallation and post-synthetic exchange of nickel(II) cations with [PdII(NH3)4]2+ followed by a reduction process."
+    }
+  }
+}

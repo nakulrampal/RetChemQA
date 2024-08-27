@@ -1,0 +1,166 @@
+{
+  "materials": [
+    {
+      "name": "SI 1",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "reagents": [
+            {
+              "name": "dimethyl 2,2’-diiodo-[1,1’-biphenyl]-4,4’-dicarboxylate",
+              "amount": "7.9 g",
+              "molarity": "15 mmol",
+              "equivalents": "1 equiv."
+            },
+            {
+              "name": "DIBAL-H",
+              "amount": "90 mL",
+              "molarity": "1 M in heptane",
+              "equivalents": "6 equiv."
+            }
+          ],
+          "solvent": "THF",
+          "solvent_amount": "80 mL",
+          "temperature": "-78°C to room temperature",
+          "time": "12 h",
+          "atmosphere": "N/A",
+          "yield": "89%",
+          "characterization": [
+            {
+              "technique": "1H NMR",
+              "solvent": "Methanol-d4",
+              "frequency": "300 MHz"
+            },
+            {
+              "technique": "13C NMR",
+              "solvent": "Methanol-d4",
+              "frequency": "126 MHz"
+            },
+            {
+              "technique": "HRMS",
+              "method": "ESI−",
+              "m/z_calculated": "464.8854",
+              "m/z_found": "464.8849"
+            },
+            {
+              "technique": "IR",
+              "medium": "neat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SI 2",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "reagents": [
+            {
+              "name": "SI 1",
+              "amount": "6.3 g",
+              "molarity": "14 mmol",
+              "equivalents": "1 equiv."
+            },
+            {
+              "name": "TBSCl",
+              "amount": "6.1 g",
+              "molarity": "N/A",
+              "equivalents": "3 equiv."
+            },
+            {
+              "name": "imidazole",
+              "amount": "3.7 g",
+              "molarity": "N/A",
+              "equivalents": "4 equiv."
+            }
+          ],
+          "solvent": "THF/DCM",
+          "solvent_amount": "130 mL",
+          "temperature": "room temperature",
+          "time": "24 h",
+          "atmosphere": "N/A",
+          "yield": "89%",
+          "characterization": [
+            {
+              "technique": "1H NMR",
+              "solvent": "Chloroform-d",
+              "frequency": "500 MHz"
+            },
+            {
+              "technique": "13C NMR",
+              "solvent": "Chloroform-d",
+              "frequency": "126 MHz"
+            },
+            {
+              "technique": "HRMS",
+              "method": "EI",
+              "m/z_calculated": "694.0656",
+              "m/z_found": "694.0654"
+            },
+            {
+              "technique": "IR",
+              "medium": "neat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SI 3",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "reagents": [
+            {
+              "name": "SI 2",
+              "amount": "8.3 g",
+              "molarity": "12 mmol",
+              "equivalents": "1 equiv."
+            },
+            {
+              "name": "n-butyllithium",
+              "amount": "19 mL",
+              "molarity": "1.6 M in hexanes",
+              "equivalents": "2.5 equiv."
+            },
+            {
+              "name": "dibutyl tin chloride",
+              "amount": "4.7 g",
+              "molarity": "N/A",
+              "equivalents": "1.3 equiv."
+            }
+          ],
+          "solvent": "Et2O",
+          "solvent_amount": "90 mL",
+          "temperature": "-78°C to room temperature",
+          "time": "14 h",
+          "atmosphere": "N/A",
+          "yield": "77%",
+          "characterization": [
+            {
+              "technique": "1H NMR",
+              "solvent": "Chloroform-d",
+              "frequency": "300 MHz"
+            },
+            {
+              "technique": "13C NMR",
+              "solvent": "Chloroform-d",
+              "frequency": "101 MHz"
+            },
+            {
+              "technique": "HRMS",
+              "method": "ESI+",
+              "m/z_calculated": "675.3070",
+              "m/z_found": "675.3074"
+            },
+            {
+              "technique": "IR",
+              "medium": "neat"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

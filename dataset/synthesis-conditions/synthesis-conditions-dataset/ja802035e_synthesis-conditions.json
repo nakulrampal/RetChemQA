@@ -1,0 +1,111 @@
+{
+  "materials": [
+    {
+      "name": "MOF-76b (Tb(BTC)·G, G = methanol)",
+      "synthesis_conditions": {
+        "solvent": "methanol",
+        "solvent_amount": "2.00 ml",
+        "chemicals_used": [
+          {
+            "name": "evacuated Tb(BTC)",
+            "amount": "10 mg"
+          },
+          {
+            "name": "NaX (X = F-, Cl-, Br-)",
+            "amount": "varied"
+          },
+          {
+            "name": "Na2X (X = CO32-, SO42-)",
+            "amount": "varied"
+          }
+        ],
+        "drying_method": "filtration and drying",
+        "drying_temperature": "50 oC",
+        "drying_time": "24 h",
+        "equipment": "Hitachi F4500 fluorescence spectrometer",
+        "equipment_settings": {
+          "photomultiplier_tube_voltage": "950 V",
+          "scan_speed": "240 nm/min",
+          "slit_width": "2.5 nm"
+        }
+      }
+    },
+    {
+      "name": "MOF-76a (Tb(BTC)·G, G = DMF)",
+      "synthesis_conditions": {
+        "solvent": "DMF",
+        "solvent_amount": "2.00 ml",
+        "chemicals_used": [
+          {
+            "name": "as-synthesized Tb(BTC)·(DMF)",
+            "amount": "10 mg"
+          },
+          {
+            "name": "NaX (X = F-, Cl-, Br-)",
+            "amount": "varied"
+          },
+          {
+            "name": "Na2X (X = CO32-, SO42-)",
+            "amount": "varied"
+          }
+        ],
+        "drying_method": "filtration and drying",
+        "drying_temperature": "50 oC",
+        "drying_time": "24 h",
+        "equipment": "Hitachi F4500 fluorescence spectrometer",
+        "equipment_settings": {
+          "photomultiplier_tube_voltage": "950 V",
+          "scan_speed": "240 nm/min",
+          "slit_width": "2.5 nm"
+        }
+      }
+    },
+    {
+      "name": "F- incorporated MOF-76b",
+      "synthesis_conditions": {
+        "solvent": "methanol",
+        "solvent_amount": "20 ml",
+        "chemicals_used": [
+          {
+            "name": "evacuated Tb(BTC)",
+            "amount": "100 mg"
+          },
+          {
+            "name": "NaF",
+            "amount": "11.5 mg",
+            "mole_ratio": "Tb(BTC)/NaF = 1:1"
+          }
+        ],
+        "equipment": [
+          {
+            "name": "FESEM",
+            "settings": {}
+          },
+          {
+            "name": "EDS",
+            "settings": {
+              "scanning_voltage": "20 kV"
+            }
+          },
+          {
+            "name": "Bruker X8 APEX II diffractometer",
+            "settings": {
+              "radiation": "Mo",
+              "temperature": "273 K",
+              "space_group": "P4(1)22",
+              "a": "10.2829(3)",
+              "c": "14.3687(7) Å",
+              "V": "1519.32(10) Å3",
+              "Z": "4",
+              "dcalc": "1.806 g/cm3",
+              "2θmax": "56.64º",
+              "R1": "0.0286",
+              "wR2": "0.0638",
+              "GOF": "1.066"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

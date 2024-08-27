@@ -1,0 +1,62 @@
+{
+  "materials": [
+    {
+      "name": "NiL2 (X-dia-1-Ni)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": "4-(4-pyridyl)-biphenyl-4-carboxylic acid (HL), Ni(NO3)2·6 H2O, DMF",
+          "temperature": "105 88C",
+          "equipment": "Solvothermal reaction setup",
+          "time": "Not specified",
+          "yield": "Not specified",
+          "solvent": "DMF",
+          "amount_of_solvent": "Not specified",
+          "drying_method": "Not specified",
+          "washing_method": "Not specified"
+        },
+        {
+          "step": 2,
+          "description": "SCSC transformations after exchange with CH2Cl2 or heating at 85 88C for 24 h to less open phases, X-dia-1-Ni-a2 and X-dia-1-Ni-a3",
+          "temperature": "85 88C",
+          "time": "24 h",
+          "chemicals_used": "CH2Cl2",
+          "solvent": "CH2Cl2",
+          "amount_of_solvent": "Not specified"
+        },
+        {
+          "step": 3,
+          "description": "Heating the a1–a3 phases in vacuo results in a color change to light green phase, X-dia-1-Ni-c1",
+          "temperature": "Not specified",
+          "equipment": "Vacuo",
+          "time": "Not specified"
+        },
+        {
+          "step": 4,
+          "description": "X-dia-1-Ni-c1 reverts to X-dia-1-Ni-a1 when soaked in DMF or toluene at room temperature for 1 min",
+          "temperature": "Room temperature",
+          "time": "1 min",
+          "solvents": ["DMF", "Toluene"],
+          "amount_of_solvent": "Not specified"
+        }
+      ]
+    },
+    {
+      "name": "X-dia-1-Ni0.89Co0.11",
+      "synthesis_conditions": [
+        {
+          "description": "Formed under the same conditions as X-dia-1-Ni",
+          "chemicals_used": "Similar to X-dia-1-Ni but with partial substitution of Ni with Co",
+          "temperature": "Similar to X-dia-1-Ni",
+          "equipment": "Similar to X-dia-1-Ni",
+          "time": "Similar to X-dia-1-Ni",
+          "yield": "Not specified",
+          "solvent": "Similar to X-dia-1-Ni",
+          "amount_of_solvent": "Not specified",
+          "drying_method": "Not specified",
+          "washing_method": "Not specified"
+        }
+      ]
+    }
+  ]
+}

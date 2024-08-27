@@ -1,0 +1,52 @@
+{
+  "materials": [
+    {
+      "material": "Tb2(BDC)3·(H2O)4",
+      "synthesis_conditions": {
+        "solvents": "water",
+        "amount_of_solvent": "9 mL",
+        "temperature": "140 °C",
+        "equipment": "Parr Teflon-lined stainless steel vessel (23 mL)",
+        "chemicals_used": [
+          {
+            "chemical": "H2BDC",
+            "amount": "0.025 g, 0.15 mmol"
+          },
+          {
+            "chemical": "Tb(NO3)3·5H2O",
+            "amount": "0.065 g, 0.15 mmol"
+          },
+          {
+            "chemical": "Triethylamine",
+            "amount": "0.30 mL, 2.1 mmol"
+          }
+        ],
+        "time": "12 h",
+        "cooling_rate": "0.1 °C/min",
+        "washing_method": "washed with 3 × 10 mL of Nanopure water",
+        "drying_method": "allowed to dry in air overnight",
+        "yield": "0.030 g (68%)",
+        "stability": "stable in air and insoluble in water and all common organic solvents such as ethanol, acetonitrile, tetrahydrofuran, 1,2-dichloroethane, acetone, and N,N‘-dimethylformamide"
+      }
+    },
+    {
+      "material": "Tb2(BDC)3",
+      "synthesis_conditions": {
+        "starting_material": "Tb2(BDC)3·(H2O)4",
+        "temperature": "115 °C",
+        "pressure": "0.050 Torr",
+        "time": "2 h",
+        "method": "heated to remove water ligands"
+      }
+    },
+    {
+      "material": "Tb2(BDC)3·(NH3)4",
+      "synthesis_conditions": {
+        "starting_material": "Tb2(BDC)3·(H2O)4",
+        "preparation_method": "ground and dehydrated according to the procedure for Tb2(BDC)3",
+        "exposure": "exposed to 40 psi of anhydrous ammonia gas for 20 min",
+        "storage": "stored under ammonia gas atmosphere"
+      }
+    }
+  ]
+}

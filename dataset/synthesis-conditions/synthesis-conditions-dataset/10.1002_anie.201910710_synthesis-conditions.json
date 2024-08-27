@@ -1,0 +1,108 @@
+{
+  "materials": [
+    {
+      "name": "farnesyl DMOA",
+      "synthesis_conditions": {
+        "temperature": "-88C",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": null
+          }
+        ],
+        "equipment": null,
+        "chemicals_used": [
+          {
+            "name": "LiHMDS",
+            "amount": null
+          },
+          {
+            "name": "farnesyl mesylate",
+            "amount": null
+          }
+        ],
+        "time": null,
+        "washing_method": null,
+        "drying_method": null,
+        "yield": "45%",
+        "additional_information": "Deprotonation of DMOA with LiHMDS in THF followed by alkylation with farnesyl mesylate."
+      }
+    },
+    {
+      "name": "(2E,6E)-10,11-epoxyfarnesyl-5-dimethylorsellinic acid methyl ester (25)",
+      "synthesis_conditions": {
+        "temperature": null,
+        "solvents": null,
+        "equipment": null,
+        "chemicals_used": [
+          {
+            "name": "(2E,6E)-10,11-epoxyfarnesyl mesylate (24)",
+            "amount": null
+          }
+        ],
+        "time": null,
+        "washing_method": null,
+        "drying_method": null,
+        "yield": "27% (2 steps)",
+        "additional_information": "Dearomatization of DMOA under basic conditions using (2E,6E)-10,11-epoxyfarnesyl mesylate as electrophile."
+      }
+    },
+    {
+      "name": "tetracyclic meroterpenoids (26 and 27)",
+      "synthesis_conditions": {
+        "temperature": null,
+        "solvents": null,
+        "equipment": null,
+        "chemicals_used": [
+          {
+            "name": "Et2AlCl, EtAlCl2, and MeAlCl2",
+            "amount": null
+          }
+        ],
+        "time": null,
+        "washing_method": null,
+        "drying_method": null,
+        "yield": null,
+        "additional_information": "Polyene cascade cyclization of substrate 25 using mixed Lewis acid combination of 2:1 EtAlCl2:Et2AlCl."
+      }
+    },
+    {
+      "name": "(2Z,6E)-(10,11)-epoxyfarnesyl-5-dimethylorsellinic acid methyl ester (29)",
+      "synthesis_conditions": {
+        "temperature": "-15C",
+        "solvents": null,
+        "equipment": null,
+        "chemicals_used": [
+          {
+            "name": "(2Z,6E)-10,11)-epoxyfarnesyl mesylate (28)",
+            "amount": null
+          }
+        ],
+        "time": null,
+        "washing_method": null,
+        "drying_method": null,
+        "yield": null,
+        "additional_information": "Dearomatization of DMOA with (2Z,6E)-10,11)-epoxyfarnesyl mesylate at lower temperature."
+      }
+    },
+    {
+      "name": "meroterpenoids (30, 31, 32)",
+      "synthesis_conditions": {
+        "temperature": null,
+        "solvents": null,
+        "equipment": null,
+        "chemicals_used": [
+          {
+            "name": "EtAlCl2/Et2AlCl (2:1)",
+            "amount": null
+          }
+        ],
+        "time": null,
+        "washing_method": null,
+        "drying_method": null,
+        "yield": null,
+        "additional_information": "Polyene cyclization of (2Z,6E)-(10,11)-epoxyfarnesyl-5-DMOA methyl ester (29) substrate."
+      }
+    }
+  ]
+}

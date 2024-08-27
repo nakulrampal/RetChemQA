@@ -1,0 +1,107 @@
+{
+  "materials": [
+    {
+      "name": "ZnBTCHx",
+      "synthesis": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "5 mL"
+          },
+          {
+            "name": "nitric acid",
+            "amount": "0.1 M, 1.1 mL"
+          }
+        ],
+        "equipment": "10.0 mL vial",
+        "chemicals_used": [
+          {
+            "name": "hypoxanthine",
+            "amount": "0.05 mmol"
+          },
+          {
+            "name": "1,3,5-benzene tricarboxylic acid (H3BTC)",
+            "amount": "0.10 mmol"
+          },
+          {
+            "name": "zinc nitrate hexahydrate",
+            "amount": "0.15 mmol"
+          }
+        ],
+        "time": "72 h",
+        "cooling_rate": "5 °C∙h−1",
+        "yield": "ca.80% based on hypoxanthine",
+        "washing_method": "washed with DMF",
+        "drying_method": "dried in the vacuum oven"
+      }
+    },
+    {
+      "name": "ZnBTCHx′",
+      "synthesis": {
+        "preparation": "ZnBTCHx solid samples were heated at 200 °C under vacuum for 12 hours",
+        "equipment": "vacuum oven",
+        "temperature": "200 °C",
+        "time": "12 h"
+      }
+    },
+    {
+      "name": "ZnBTCHx′ suspension",
+      "synthesis": {
+        "preparation": "Ground ZnBTCHx′ solid samples very fine, then added 20 mg ZnBTCHx′ into 20 mL ultrapure water, ultrasound for 30 min",
+        "equipment": "ultrasound",
+        "solvents": [
+          {
+            "name": "ultrapure water",
+            "amount": "20 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ZnBTCHx′ solid samples",
+            "amount": "20 mg"
+          }
+        ],
+        "time": "30 min"
+      }
+    },
+    {
+      "name": "L-/D-Trp@ZnBTCHx′ for 1H NMR",
+      "synthesis": {
+        "preparation": "20mg ZnBTCHx' was added to 10mL transparent solution of L-/D-Trp saturation solution for 2 weeks, filtered and washed with ultra-pure water, dried in vacuum oven at room temperature for 5~6 hours",
+        "equipment": "vacuum oven",
+        "chemicals_used": [
+          {
+            "name": "ZnBTCHx'",
+            "amount": "20 mg"
+          },
+          {
+            "name": "L-/D-Trp saturation solution",
+            "amount": "10 mL"
+          }
+        ],
+        "time": "2 weeks",
+        "drying_method": "dried in vacuum oven at room temperature for 5~6 hours"
+      }
+    },
+    {
+      "name": "L-/D-Trp@ZnBTCHx′ for SCXRD",
+      "synthesis": {
+        "preparation": "ZnBTCHx crystals were heated at 200 °C under vacuum for 12 hours, giving rise to ZnBTCHx′ crystals. Then adding ZnBTCHx′ crystals to L-/D-Trp supersaturated solution for one month",
+        "equipment": "vacuum oven",
+        "temperature": "200 °C",
+        "time": "1 month",
+        "chemicals_used": [
+          {
+            "name": "ZnBTCHx crystals",
+            "note": "heated at 200 °C under vacuum for 12 hours"
+          },
+          {
+            "name": "L-/D-Trp supersaturated solution",
+            "note": "ZnBTCHx′ crystals added"
+          }
+        ]
+      }
+    }
+  ]
+}

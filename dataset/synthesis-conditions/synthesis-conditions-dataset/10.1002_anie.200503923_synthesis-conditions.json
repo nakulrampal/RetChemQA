@@ -1,0 +1,46 @@
+{
+  "materials": [
+    {
+      "name": "Complex 1",
+      "synthesis_conditions": {
+        "temperature": "90 8C",
+        "solvents": ["H2O", "CH3OH"],
+        "amount_of_solvents": {
+          "H2O": "10 mL",
+          "CH3OH": "5 mL"
+        },
+        "equipment": "teflon-capped scintillation vial",
+        "chemicals_used": {
+          "Ni(NO3)2·6H2O": "582 mg, 2 mmol",
+          "4,5-imidazoledicarboxylic acid (H3L)": "468 mg, 3 mmol",
+          "LiOH": "90 %, 80 mg, 3 mmol"
+        },
+        "time": "4 days",
+        "washing_method": "rinsed with water, methanol, and Et2O",
+        "drying_method": "dried in air",
+        "yield": "70 %"
+      }
+    },
+    {
+      "name": "Complex 2",
+      "synthesis_conditions": {
+        "temperature": "90 8C",
+        "solvents": ["H2O", "CH3OH"],
+        "amount_of_solvents": {
+          "H2O": "10 mL",
+          "CH3OH": "5 mL"
+        },
+        "equipment": "teflon-capped scintillation vial",
+        "chemicals_used": {
+          "Ni(NO3)2·6H2O": "582 mg, 2 mmol",
+          "4,5-imidazoledicarboxylic acid (H3L)": "468 mg, 3 mmol",
+          "NaOH": "126 mg, 3 mmol"
+        },
+        "time": "4 days",
+        "washing_method": "rinsed with water, methanol, and Et2O",
+        "drying_method": "dried in air",
+        "yield": "85 %"
+      }
+    }
+  ]
+}

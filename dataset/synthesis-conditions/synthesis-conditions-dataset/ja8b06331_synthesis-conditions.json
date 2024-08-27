@@ -1,0 +1,111 @@
+{
+  "materials": [
+    {
+      "name": "MolybdenumII acetate",
+      "synthesis_conditions": {
+        "temperature": "130 °C",
+        "solvents": [
+          {
+            "name": "acetic acid",
+            "amount": "100 mL"
+          },
+          {
+            "name": "acetic anhydride",
+            "amount": "20 mL"
+          },
+          {
+            "name": "hexane",
+            "amount": "5 mL"
+          }
+        ],
+        "time": "20 hours",
+        "equipment": "500-mL round-bottom flask",
+        "chemicals_used": [
+          {
+            "name": "molybdenum hexacarbonyl",
+            "amount": "3.0 g, 11 mmol"
+          }
+        ],
+        "yield": "37.1",
+        "drying_method": "dried under vacuum",
+        "storage_conditions": "stored under N2 at –20 °C"
+      }
+    },
+    {
+      "name": "MolybdenumII isonicotinate cluster (A)",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "anhydrous DMF",
+            "amount": "50 mL"
+          }
+        ],
+        "time": "two days",
+        "equipment": "Schlenk flask",
+        "chemicals_used": [
+          {
+            "name": "Mo2(acetate)4",
+            "amount": "0.250 g, 0.584 mmol"
+          },
+          {
+            "name": "isonicotinic acid",
+            "amount": "0.712 g, 1.04 mmol"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "0.033 mL, 0.574 mmol"
+          }
+        ],
+        "yield": "62%",
+        "drying_method": "dried under vacuum",
+        "storage_conditions": "stored under N2"
+      }
+    },
+    {
+      "name": "2D CPs I and II",
+      "synthesis_conditions": [
+        {
+          "name": "I",
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "dry DMA",
+              "amount": "10 mL"
+            }
+          ],
+          "time": "2 days",
+          "chemicals_used": [
+            {
+              "name": "A",
+              "amount": "0.02 g, 0.03 mmol"
+            }
+          ],
+          "washing_method": "filtered under N2, washed with DMF"
+        },
+        {
+          "name": "II",
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "dry DMA",
+              "amount": "10 mL"
+            }
+          ],
+          "time": "2 days",
+          "chemicals_used": [
+            {
+              "name": "A",
+              "amount": "0.02 g, 0.03 mmol"
+            },
+            {
+              "name": "DABCO",
+              "amount": "2 equivalents"
+            }
+          ],
+          "washing_method": "filtered under N2, washed with DMF"
+        }
+      ]
+    }
+  ]
+}

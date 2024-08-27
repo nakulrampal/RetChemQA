@@ -1,0 +1,46 @@
+{
+  "materials": [
+    {
+      "name": "[CuII(chxn)2I]I",
+      "synthesis_conditions": {
+        "temperature": "Reflux",
+        "solvents": [
+          {
+            "name": "EtOH",
+            "amount": "60 mL"
+          }
+        ],
+        "equipment": "Not specified",
+        "chemicals_used": [
+          {
+            "name": "CuI",
+            "amount": "300 mg"
+          },
+          {
+            "name": "chxn",
+            "amount": "580 mg"
+          },
+          {
+            "name": "I2",
+            "amount": "200 mg"
+          }
+        ],
+        "time": "1 h",
+        "washing_method": [
+          {
+            "solvent": "EtOH",
+            "cycles": "3",
+            "volume_per_cycle": "5 mL"
+          },
+          {
+            "solvent": "2-PrOH",
+            "cycles": "3",
+            "volume_per_cycle": "5 mL"
+          }
+        ],
+        "drying_method": "In vacuo overnight at room temperature",
+        "yield": "65%"
+      }
+    }
+  ]
+}

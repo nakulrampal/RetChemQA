@@ -1,0 +1,42 @@
+{
+  "materials": [
+    {
+      "name": "4,4’,4’’,4’’’-(dibenzo[ghi,mno]fluoranthene-1,2,5,6-tetrayl)tetrapyridine (DFTP)",
+      "synthesis_conditions": {
+        "scalability": "gram or larger scales",
+        "reaction_yield": "considered",
+        "details": "See Supporting Information, Figure S1 and Scheme S1"
+      }
+    },
+    {
+      "name": "[Ag2(DFTP)2](PF6)2·(C6H6)6·(CH3CN)3 (1)",
+      "synthesis_conditions": {
+        "metal_ions": "chosen to prevent material photoluminescence quenching (e.g., d0 and d10 metals)",
+        "characterization": [
+          "single-crystal X-ray diffraction (PXRD)",
+          "thermogravimetric analysis",
+          "Fourier transform infrared (FT-IR) spectroscopy"
+        ],
+        "additional_details": "See Supporting Information, Figures S8–S10 and Table S3"
+      }
+    },
+    {
+      "name": "[Zn2(ZnTCPP)-(DFTP)0.69(DMF)0.31]·(DMF)0.3·(H2O)26 (2)",
+      "synthesis_conditions": {
+        "two-step_synthetic_route": "Preparation of the Zn2-(ZnTCPP) scaffold, followed by coordinative immobilization of DFTP",
+        "spectral_overlap": "Necessary for resonance energy transfer",
+        "characterization": [
+          "PXRD",
+          "elemental analysis",
+          "FT-IR spectroscopy",
+          "epifluorescence microscopy",
+          "X-ray photoelectron spectroscopy",
+          "theoretical modeling",
+          "NMR spectroscopy (on digested samples)",
+          "mass spectrometry (on digested samples)"
+        ],
+        "additional_details": "See Supporting Information, Figures S14–S21"
+      }
+    }
+  ]
+}

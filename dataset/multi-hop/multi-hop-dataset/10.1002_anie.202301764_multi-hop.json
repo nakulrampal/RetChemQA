@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the chemical formula of the metal-organic framework (MOF) that exhibits high chemical and thermal stabilities, and can retain its single-crystalline structure under various conditions?",
+      "answer": "{[Th6O4(OH)4(H2O)6(BCP)3]·10DMF}n",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What role does N,N-dimethylformamide (DMF) play in the synthesis of tertiary amines using the described MOF as a catalyst?",
+      "answer": "DMF serves as an amine source, reductant, and solvent.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of water affect the reductive amination reaction catalyzed by the MOF?",
+      "answer": "Water acts as an auxiliary agent to promote the decomposition of DMF into formic acid, but does not participate in the formation of tertiary amines.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF can be reused for at least five cycles without significant loss in catalytic activity.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of the substrate's size on the reductive amination reaction's efficiency when using the MOF as a catalyst?",
+      "answer": "The conversion rate of substrates decreases as the molecular size of the substrates increases, indicating that the MOF exhibits size selectivity for different substrates.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental techniques were used to confirm that water does not participate in the formation of tertiary amines during the reductive amination reaction?",
+      "answer": "Isotopic experiments with D2O and mass spectrometry (MS) analyses were used to confirm that water does not participate in the formation of tertiary amines.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The MOF maintains its stability and crystallinity even after being kept in air at 400 °C for 3 hours.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of formic acid in the reductive amination reaction catalyzed by the MOF?",
+      "answer": "Formic acid acts as the reducing agent in the reaction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF's catalytic activity is unaffected by the presence of meta- and para-substituents on the aldehyde substrates.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the interaction energy between the [Th6O4(OH)4(H2O)6]12+ clusters and BCP ligands in the MOF?",
+      "answer": "The high interaction energy is responsible for the excellent stability of the MOF structure.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The MOF can maintain stability after soaking in a 10 M HCl solution for 24 hours.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the MOF activate substrates for the reductive amination reaction?",
+      "answer": "The high-valence Th ions in the MOF have a strong Lewis acidity, which can activate the oxygen atom of aldehydes and DMF.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF's catalytic activity is superior to that of non-porous or homogeneous catalysts for the reductive amination reaction.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental evidence supports the MOF's ability to enrich substrates within its porous framework?",
+      "answer": "The MOF has large cages and channels in its porous framework, which can enrich substrates and shorten the mass transfer distance between the substrates and catalytic sites.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The tertiary amines produced in the reductive amination reaction contain deuterium atoms when D2O is used instead of H2O.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the turnover frequency (TOF) of the MOF when used as a catalyst for the reductive amination of benzaldehyde with DMF?",
+      "answer": "The TOF of the MOF is 0.73 h-1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the MOF's size selectivity affect its catalytic activity for substrates with different sizes?",
+      "answer": "The MOF exhibits high selectivity for aldehydes with different sizes, with the conversion rate decreasing for substrates larger than the MOF's window size.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF's structure is significantly altered after being used as a catalyst for five cycles.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the proposed mechanism for the reductive amination of aldehydes with DMF catalyzed by the MOF?",
+      "answer": "The MOF activates DMF and aldehydes, facilitating the decomposition of DMF into dimethylamine and formic acid, which then react with the activated aldehydes to form tertiary amines.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF can be detected by single-crystal analysis after being exposed to harsh conditions such as calcination at 400 °C or immersion in DMF at 200 °C for 7 days.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

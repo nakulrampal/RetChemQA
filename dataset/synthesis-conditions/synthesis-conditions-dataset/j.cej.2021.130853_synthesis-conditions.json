@@ -1,0 +1,37 @@
+{
+  "materials": [
+    {
+      "material": "[Pb6L8(NO3)3]NO3 (HL = BHA)",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "50°C",
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "20 mL"
+            }
+          ],
+          "equipment": "glass container",
+          "chemicals_used": [
+            {
+              "name": "Pb(NO3)2",
+              "amount": "0.662 g, 2.0 mmol"
+            },
+            {
+              "name": "BHA",
+              "amount": "0.137 g, 1.0 mmol"
+            },
+            {
+              "name": "NaOH",
+              "amount": "0.008 g, 0.2 mmol"
+            }
+          ],
+          "time": "30 min",
+          "other_conditions": "stirring, air bubbles manually removed",
+          "yield": "76.1%"
+        }
+      ]
+    }
+  ]
+}

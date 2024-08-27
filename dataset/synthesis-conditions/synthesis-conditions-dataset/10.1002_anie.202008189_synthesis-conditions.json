@@ -1,0 +1,35 @@
+{
+  "materials": [
+    {
+      "name": "D-A MOF (1)",
+      "synthesis_method": "solvothermal",
+      "chemicals_used": [
+        "anthracene dicarboxylate (adc)",
+        "N,N'-di(4-pyridyl)-1,4,5,8-naphthalenediimide (bpNDI)",
+        "Zn2+"
+      ],
+      "solvents": "DMF",
+      "solvent_amounts": "7 DMF molecules",
+      "additional_components": "2 H2O molecules",
+      "structure": "pillared-layer type MOF structure",
+      "crystallinity": "crystallized in orthorhombic, Ibam space group",
+      "drying_method": "ambient condition for 24 h",
+      "resolvation": "DMF",
+      "notes": "Change in crystal color from golden orange to dark brown upon drying and reverts upon solvation by DMF."
+    },
+    {
+      "name": "Control MOF (2)",
+      "synthesis_method": "solvent-assisted linker exchange (SALE)",
+      "chemicals_used": [
+        "1, 2-bis(4-pyridyl)ethylene (bpee)"
+      ],
+      "solvents": "DMF",
+      "solvent_amounts": "4 DMF molecules",
+      "additional_components": "4 H2O molecules",
+      "structure": "isostructural to D-A MOF (1)",
+      "drying_method": "ambient condition for 48 h",
+      "resolvation": "DMF",
+      "notes": "Absence of electron transfer process and color change during SALE process."
+    }
+  ]
+}

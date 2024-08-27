@@ -1,0 +1,89 @@
+{
+  "materials": [
+    {
+      "name": "BMImBr ionic liquid",
+      "synthesis_conditions": {
+        "method": "published methods",
+        "reference": "See reference 3 for further details"
+      }
+    },
+    {
+      "name": "BMIM L-aspartate ionic liquid",
+      "synthesis_conditions": {
+        "steps": [
+          {
+            "step": "Formation of BMImOH",
+            "chemicals_used": [
+              {
+                "name": "AMBERLITE IRA400CL",
+                "type": "anion exchange resin"
+              }
+            ],
+            "method": "ion exchange"
+          },
+          {
+            "step": "Reaction with L-aspartic acid",
+            "chemicals_used": [
+              {
+                "name": "L-aspartic acid",
+                "amount": "slight molar excess"
+              }
+            ],
+            "solvents": [
+              {
+                "name": "water",
+                "method": "evaporation",
+                "purpose": "remove"
+              }
+            ]
+          },
+          {
+            "step": "Removal of excess L-aspartic acid",
+            "solvents": [
+              {
+                "name": "acetonitrile",
+                "amount": "90mL"
+              },
+              {
+                "name": "methanol",
+                "amount": "10mL"
+              }
+            ],
+            "method": "filtration and evaporation"
+          }
+        ],
+        "reference": "Fukumoto et al, J. Am. Chem. Soc. 2005, 127, 2398"
+      }
+    },
+    {
+      "name": "Ni-SIMOF-1 (BMIm)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Ni(OAc)2·4H2O",
+            "amount": "380mg, 1.5mmol"
+          },
+          {
+            "name": "TMA-H3",
+            "amount": "210mg, 1mmol"
+          },
+          {
+            "name": "1-butyl-3-methyl-imidazolium L-aspartate",
+            "amount": "~10mmol"
+          }
+        ],
+        "equipment": "23mL Teflon lined stainless steel autoclave",
+        "temperature": "110oC",
+        "time": "12 days",
+        "yield": "60%",
+        "product_form": "Green block crystals"
+      }
+    },
+    {
+      "name": "Ni-SIMOF-1a (BMIm)",
+      "synthesis_conditions": {
+        "note": "Same method as Ni-SIMOF-1 (BMIm) except using 1-butyl-3-methyl-imidazolium D-aspartate instead of L-aspartate."
+      }
+    }
+  ]
+}

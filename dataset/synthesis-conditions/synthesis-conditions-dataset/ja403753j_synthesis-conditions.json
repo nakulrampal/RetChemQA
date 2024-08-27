@@ -1,0 +1,456 @@
+{
+  "materials": [
+    {
+      "material": "1-Pr",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "-35 °C",
+          "solvents": [
+            {
+              "name": "Et2O",
+              "amount": "40 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "PrCl3",
+              "amount": "452 mg, 1.83 mmol"
+            },
+            {
+              "name": "KCp′",
+              "amount": "1.00 g, 5.67 mmol"
+            }
+          ],
+          "time": "12 h",
+          "equipment": "100 mL side arm Schlenk flask equipped with a greaseless stopcock",
+          "atmosphere": "argon",
+          "washing_method": "filtered to remove white solids, presumably KCl and excess KCp′",
+          "drying_method": "solvent removed under vacuum",
+          "yield": "931 mg, 92%"
+        }
+      ]
+    },
+    {
+      "material": "1-Gd",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "-35 °C",
+          "solvents": [
+            {
+              "name": "Et2O",
+              "amount": "40 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "GdCl3",
+              "amount": "294 mg, 1.12 mmol"
+            },
+            {
+              "name": "KCp′",
+              "amount": "600 mg, 3.40 mmol"
+            }
+          ],
+          "time": "12 h",
+          "equipment": "100 mL side arm Schlenk flask equipped with a greaseless stopcock",
+          "atmosphere": "argon",
+          "washing_method": "filtered to remove white solids, presumably KCl and excess KCp′",
+          "drying_method": "solvent removed under vacuum",
+          "yield": "579 mg, 91%"
+        }
+      ]
+    },
+    {
+      "material": "1-Tb",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "-35 °C",
+          "solvents": [
+            {
+              "name": "Et2O",
+              "amount": "40 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "TbCl3",
+              "amount": "296 mg, 1.12 mmol"
+            },
+            {
+              "name": "KCp′",
+              "amount": "600 mg, 3.40 mmol"
+            }
+          ],
+          "time": "12 h",
+          "equipment": "100 mL side arm Schlenk flask equipped with a greaseless stopcock",
+          "atmosphere": "argon",
+          "washing_method": "filtered to remove white solids, presumably KCl and excess KCp′",
+          "drying_method": "solvent removed under vacuum",
+          "yield": "556 mg, 87%"
+        }
+      ]
+    },
+    {
+      "material": "2-Tb",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "-35 °C",
+          "solvents": [
+            {
+              "name": "Et2O",
+              "amount": "6 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "1-Tb",
+              "amount": "380 mg, 0.666 mmol"
+            },
+            {
+              "name": "18-crown-6",
+              "amount": "176 mg, 0.666 mmol"
+            },
+            {
+              "name": "KC8",
+              "description": "excess"
+            }
+          ],
+          "time": "12 h",
+          "equipment": "prechilled flash reduction column",
+          "atmosphere": "argon",
+          "washing_method": "rinsed with cold 1:1 Et2O/pentane (5 mL, −35 °C)",
+          "drying_method": "dried under vacuum",
+          "yield": "179 mg, 31%"
+        }
+      ]
+    },
+    {
+      "material": "2-Tb'",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "-35 °C",
+          "solvents": [
+            {
+              "name": "Et2O",
+              "amount": "4 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "1-Tb",
+              "amount": "184 mg, 0.323 mmol"
+            },
+            {
+              "name": "18-crown-6",
+              "amount": "93 mg, 0.35 mmol"
+            },
+            {
+              "name": "KCp′",
+              "amount": "14 mg, 0.079 mmol"
+            },
+            {
+              "name": "KC8",
+              "description": "excess"
+            }
+          ],
+          "time": "3 weeks",
+          "equipment": "glass column packed with excess KC8",
+          "atmosphere": "argon",
+          "washing_method": "not specified",
+          "drying_method": "not specified",
+          "yield": "66 mg, 20%"
+        }
+      ]
+    },
+    {
+      "material": "3-Tb",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "-35 °C",
+          "solvents": [
+            {
+              "name": "Et2O",
+              "amount": "4 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "1-Tb",
+              "amount": "157 mg, 0.275 mmol"
+            },
+            {
+              "name": "18-crown-6",
+              "amount": "73 mg, 0.28 mmol"
+            },
+            {
+              "name": "K mirror",
+              "amount": "15 mg, 3.8 mmol"
+            }
+          ],
+          "time": "3 days",
+          "equipment": "scintillation vial",
+          "atmosphere": "argon",
+          "washing_method": "not specified",
+          "drying_method": "not specified",
+          "yield": "30 mg, 8%"
+        }
+      ]
+    },
+    {
+      "material": "4-Y",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "THF",
+              "amount": "2 mL"
+            },
+            {
+              "name": "Et2O",
+              "amount": "3 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "1-Y",
+              "amount": "252 mg, 0.503 mmol"
+            },
+            {
+              "name": "2.2.2-cryptand",
+              "amount": "189 mg, 0.503 mmol"
+            },
+            {
+              "name": "KC8",
+              "amount": "88 mg, 0.65 mmol"
+            }
+          ],
+          "time": "1 min",
+          "equipment": "not specified",
+          "atmosphere": "argon",
+          "washing_method": "filtered to remove a black precipitate, presumably graphite",
+          "drying_method": "cooled to −35 °C in the freezer for 1 h, then layered with additional Et2O (15 mL) and stored at −35 °C for 24 h",
+          "yield": "252 mg, 51%"
+        }
+      ]
+    },
+    {
+      "material": "4-Pr",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "THF",
+              "amount": "2 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "1-Pr",
+              "amount": "300 mg, 0.543 mmol"
+            },
+            {
+              "name": "2.2.2-cryptand",
+              "amount": "204 mg, 0.542 mmol"
+            },
+            {
+              "name": "KC8",
+              "amount": "96 mg, 0.71 mmol"
+            }
+          ],
+          "time": "not specified",
+          "equipment": "not specified",
+          "atmosphere": "argon",
+          "washing_method": "not specified",
+          "drying_method": "not specified",
+          "yield": "401 mg, 71%"
+        }
+      ]
+    },
+    {
+      "material": "4-Gd",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "THF",
+              "amount": "2 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "1-Gd",
+              "amount": "300 mg, 0.527 mmol"
+            },
+            {
+              "name": "2.2.2-cryptand",
+              "amount": "199 mg, 0.529 mmol"
+            },
+            {
+              "name": "KC8",
+              "amount": "100 mg, 0.736 mmol"
+            }
+          ],
+          "time": "not specified",
+          "equipment": "not specified",
+          "atmosphere": "argon",
+          "washing_method": "not specified",
+          "drying_method": "not specified",
+          "yield": "513 mg, 92%"
+        }
+      ]
+    },
+    {
+      "material": "4-Tb",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "THF",
+              "amount": "2 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "1-Tb",
+              "amount": "284 mg, 0.498 mmol"
+            },
+            {
+              "name": "2.2.2-cryptand",
+              "amount": "187 mg, 0.497 mmol"
+            },
+            {
+              "name": "KC8",
+              "amount": "87 mg, 0.64 mmol"
+            }
+          ],
+          "time": "not specified",
+          "equipment": "not specified",
+          "atmosphere": "argon",
+          "washing_method": "not specified",
+          "drying_method": "not specified",
+          "yield": "426 mg, 81%"
+        }
+      ]
+    },
+    {
+      "material": "4-Ho",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "THF",
+              "amount": "2 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "1-Ho",
+              "amount": "236 mg, 0.409 mmol"
+            },
+            {
+              "name": "2.2.2-cryptand",
+              "amount": "154 mg, 0.409 mmol"
+            },
+            {
+              "name": "KC8",
+              "amount": "56 mg, 0.41 mmol"
+            }
+          ],
+          "time": "not specified",
+          "equipment": "not specified",
+          "atmosphere": "argon",
+          "washing_method": "not specified",
+          "drying_method": "not specified",
+          "yield": "283 mg, 65%"
+        }
+      ]
+    },
+    {
+      "material": "4-Er",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "THF",
+              "amount": "2 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "1-Er",
+              "amount": "350 mg, 0.604 mmol"
+            },
+            {
+              "name": "2.2.2-cryptand",
+              "amount": "228 mg, 0.606 mmol"
+            },
+            {
+              "name": "KC8",
+              "amount": "82 mg, 0.60 mmol"
+            }
+          ],
+          "time": "not specified",
+          "equipment": "not specified",
+          "atmosphere": "argon",
+          "washing_method": "not specified",
+          "drying_method": "not specified",
+          "yield": "365 mg, 57%"
+        }
+      ]
+    },
+    {
+      "material": "4-Lu",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "Et2O/THF",
+              "amount": "1 mL",
+              "ratio": "2:1"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "1-Lu",
+              "amount": "184 mg, 0.314 mmol"
+            },
+            {
+              "name": "2.2.2-cryptand",
+              "amount": "118 mg, 0.313 mmol"
+            },
+            {
+              "name": "KC8",
+              "amount": "55 mg, 0.40 mmol"
+            }
+          ],
+          "time": "24 h",
+          "equipment": "not specified",
+          "atmosphere": "argon",
+          "washing_method": "layered with additional cold Et2O (18 mL, −35 °C)",
+          "drying_method": "not specified",
+          "yield": "138 mg, 41%"
+        }
+      ]
+    }
+  ]
+}

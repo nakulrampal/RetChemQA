@@ -1,0 +1,503 @@
+{
+  "materials": [
+    {
+      "name": "4-Diphenylphosphino-Veratrole (4-PPh2-Veratrole)",
+      "conditions": {
+        "temperature": "0 °C to reflux",
+        "solvents": [
+          {
+            "name": "diethyl ether",
+            "amount": "80 mL + 40 mL"
+          }
+        ],
+        "equipment": "three-neck flask under nitrogen",
+        "chemicals": [
+          {
+            "name": "magnesium",
+            "amount": "3.5 g, 0.14 mol"
+          },
+          {
+            "name": "bromobenzene",
+            "amount": "14 mL, 0.13 mol"
+          },
+          {
+            "name": "4-dichlorophosphino-veratrole",
+            "amount": "7.8 g, 33 mmol"
+          }
+        ],
+        "time": "1 h + 2 h",
+        "washing_method": "Water (50 mL)",
+        "drying_method": "vacuum",
+        "yield": "9.5 g, 29 mmol (88%)"
+      }
+    },
+    {
+      "name": "4-Diphenylphosphino-Catechol, Hydrobromide Salt, 4-PPh2-catechol·HBr (H2L·HBr)",
+      "conditions": {
+        "temperature": "reflux",
+        "solvents": [
+          {
+            "name": "48% aqueous hydrobromic acid",
+            "amount": "32 mL"
+          }
+        ],
+        "equipment": "mixture refluxed under nitrogen",
+        "chemicals": [
+          {
+            "name": "4-diphenylphosphino-veratrole",
+            "amount": "5.0 g, 16 mmol"
+          }
+        ],
+        "time": "18 h",
+        "washing_method": "recrystallized from ethanol (20 mL) and 48% aqueous hydrobromic acid (2 mL)",
+        "drying_method": "vacuum",
+        "yield": "4.1 g, 11 mmol (70%)"
+      }
+    },
+    {
+      "name": "Cs3[(4-PPh2-Catecholato)3Ga] (Cs3[GaL3])",
+      "conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "30 mL"
+          }
+        ],
+        "equipment": "stirred under nitrogen atmosphere",
+        "chemicals": [
+          {
+            "name": "Ga(NO3)3·6H2O",
+            "amount": "264 mg, 0.731 mmol"
+          },
+          {
+            "name": "4-PPh2-Catechol·HBr",
+            "amount": "815 mg, 2.17 mmol"
+          },
+          {
+            "name": "Cs2CO3",
+            "amount": "1063 mg, 3.26 mmol"
+          }
+        ],
+        "time": "3 days",
+        "washing_method": "washed with degassed water three times",
+        "drying_method": "dried overnight in a vacuum",
+        "yield": "842 mg (86%)"
+      }
+    },
+    {
+      "name": "Cs3[(4-PPh2-Catecholato)3Fe] (Cs3[FeL3])",
+      "conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "20 mL"
+          }
+        ],
+        "equipment": "stirred under nitrogen atmosphere",
+        "chemicals": [
+          {
+            "name": "Fe(NO3)3·9H2O",
+            "amount": "135 mg, 0.333 mmol"
+          },
+          {
+            "name": "4-PPh2-Catechol·HBr",
+            "amount": "375 mg, 1.00 mmol"
+          },
+          {
+            "name": "Cs2CO3",
+            "amount": "490 mg, 1.50 mmol"
+          }
+        ],
+        "time": "4 days",
+        "washing_method": "extracted with acetone",
+        "drying_method": "dried under vacuum",
+        "yield": "112 mg (25%)"
+      }
+    },
+    {
+      "name": "Alkali Metal Salts of [(4-PPh2-Catecholato)3Ti]2- ([TiL3]2-)",
+      "conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "60 mL"
+          }
+        ],
+        "equipment": "stirred under nitrogen atmosphere",
+        "chemicals": [
+          {
+            "name": "Ti(OMe)4",
+            "amount": "387 mg, 2.14 mmol"
+          },
+          {
+            "name": "4-PPh2-Catechol·HBr",
+            "amount": "2420 mg, 6.44 mmol"
+          },
+          {
+            "name": "Cs2CO3",
+            "amount": "1760 mg, 5.40 mmol"
+          }
+        ],
+        "time": "42 h",
+        "washing_method": "washed with degassed water at least three times",
+        "drying_method": "dried under vacuum overnight",
+        "yield": "Approx. 78%"
+      }
+    },
+    {
+      "name": "(DABCO-H)2[(4-PPh2-Catecholato)3Ti] ((DABCO·H)2[TiL3])",
+      "conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "20 mL"
+          }
+        ],
+        "equipment": "stirred under nitrogen atmosphere",
+        "chemicals": [
+          {
+            "name": "Ti(OMe)4",
+            "amount": "100 mg, 0.550 mmol"
+          },
+          {
+            "name": "4-PPh2-Catechol·HBr",
+            "amount": "626 mg, 1.67 mmol"
+          },
+          {
+            "name": "DABCO",
+            "amount": "3.0 g, in excess of 10 equiv"
+          }
+        ],
+        "time": "3 days",
+        "washing_method": "washed with degassed water three times",
+        "drying_method": "dried under vacuum overnight",
+        "yield": "460 mg (73%)"
+      }
+    },
+    {
+      "name": "Cs2[(4-PPh2-Catecholato)3Sn] (Cs2[SnL3])",
+      "conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "40 mL"
+          }
+        ],
+        "equipment": "stirred under nitrogen atmosphere",
+        "chemicals": [
+          {
+            "name": "SnCl4",
+            "amount": "295 mg, 1.13 mmol"
+          },
+          {
+            "name": "4-PPh2-Catechol·HBr",
+            "amount": "1.27 g, 3.40 mmol"
+          },
+          {
+            "name": "Cs2CO3",
+            "amount": "1.66 g, 5.10 mmol"
+          }
+        ],
+        "time": "3 days",
+        "washing_method": "washed with degassed water three times",
+        "drying_method": "dried under vacuum overnight",
+        "yield": "898 mg (62%)"
+      }
+    },
+    {
+      "name": "Cs4[Ti2L6Pd3Br6]",
+      "conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "20 mL"
+          },
+          {
+            "name": "THF",
+            "amount": "200 mL"
+          }
+        ],
+        "equipment": "stirred under nitrogen atmosphere",
+        "chemicals": [
+          {
+            "name": "Cs2[TiL3]",
+            "amount": "416 mg, 0.350 mmol"
+          },
+          {
+            "name": "PdBr2·2PhCN",
+            "amount": "248 mg, 0.525 mmol"
+          }
+        ],
+        "time": "2 h",
+        "drying_method": "dried under vacuum",
+        "yield": "526 mg (95%)"
+      }
+    },
+    {
+      "name": "Cs4[Sn2L6Pd3Br6]",
+      "conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "15 mL"
+          },
+          {
+            "name": "THF",
+            "amount": "200 mL"
+          }
+        ],
+        "equipment": "stirred under nitrogen atmosphere",
+        "chemicals": [
+          {
+            "name": "Cs2[SnL3]",
+            "amount": "233 mg, 0.176 mmol"
+          },
+          {
+            "name": "PdBr2·2PhCN",
+            "amount": "124 mg, 0.263 mmol"
+          }
+        ],
+        "time": "2 h",
+        "drying_method": "dried under vacuum",
+        "yield": "270 mg (89%)"
+      }
+    },
+    {
+      "name": "(DABCO-H)4[Sn2L6Pd3Br6]",
+      "conditions": [
+        {
+          "label": "a",
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "20 mL"
+            }
+          ],
+          "equipment": "stirred under nitrogen atmosphere",
+          "chemicals": [
+            {
+              "name": "(DABCO-H)2[SnL3]",
+              "amount": "424 mg, 0.350 mmol"
+            },
+            {
+              "name": "PdBr2·2PhCN",
+              "amount": "248 mg, 0.525 mmol"
+            }
+          ],
+          "time": "4 h",
+          "drying_method": "dried under vacuum",
+          "yield": "390 mg (69%)"
+        },
+        {
+          "label": "b",
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "20 mL"
+            }
+          ],
+          "equipment": "stirred under nitrogen atmosphere",
+          "chemicals": [
+            {
+              "name": "SnCl4",
+              "amount": "Not specified"
+            },
+            {
+              "name": "PPh2-Catechol·HBr",
+              "amount": "Not specified"
+            },
+            {
+              "name": "PdBr2·2PhCN",
+              "amount": "Not specified"
+            },
+            {
+              "name": "DABCO",
+              "amount": "Not specified"
+            }
+          ],
+          "time": "1 week",
+          "drying_method": "dried under vacuum",
+          "yield": "Over 75%"
+        }
+      ]
+    },
+    {
+      "name": "Cs4[Ti2L6Pd3Cl6]",
+      "conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "10 mL"
+          },
+          {
+            "name": "diethyl ether",
+            "amount": "100 mL"
+          }
+        ],
+        "equipment": "stirred under nitrogen atmosphere",
+        "chemicals": [
+          {
+            "name": "Cs2[TiL3]",
+            "amount": "208 mg, 0.175 mmol"
+          },
+          {
+            "name": "PdCl2·2PhCN",
+            "amount": "100 mg, 0.261 mmol"
+          }
+        ],
+        "time": "2 h",
+        "drying_method": "dried under vacuum",
+        "yield": "220 mg (74%)"
+      }
+    },
+    {
+      "name": "Cs4[Ti2L6Pd3I6]",
+      "conditions": [
+        {
+          "label": "Ti",
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "20 mL"
+            }
+          ],
+          "equipment": "stirred under nitrogen atmosphere",
+          "chemicals": [
+            {
+              "name": "Cs4[Ti2L6Pd3Br6]",
+              "amount": "200 mg, 0.0629 mmol"
+            },
+            {
+              "name": "CsI",
+              "amount": "491 mg, 1.89 mmol"
+            }
+          ],
+          "time": "overnight",
+          "drying_method": "dried under vacuum",
+          "yield": "212 mg (97%)"
+        },
+        {
+          "label": "Sn",
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "20 mL"
+            }
+          ],
+          "equipment": "stirred under nitrogen atmosphere",
+          "chemicals": [
+            {
+              "name": "Cs4[Sn2L6Pd3Br6]",
+              "amount": "200 mg, 0.0602 mmol"
+            },
+            {
+              "name": "CsI",
+              "amount": "468 mg, 1.80 mmol"
+            }
+          ],
+          "time": "overnight",
+          "drying_method": "dried under vacuum",
+          "yield": "216 mg (Quantitative)"
+        }
+      ]
+    },
+    {
+      "name": "Cs4[Ti2L6{Cr(CO)4}3]",
+      "conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "20 mL"
+          }
+        ],
+        "equipment": "stirred under nitrogen atmosphere",
+        "chemicals": [
+          {
+            "name": "Cs2[TiL3]",
+            "amount": "237 mg, 0.199 mmol"
+          },
+          {
+            "name": "Cr(CO)4(piperidine)2",
+            "amount": "100 mg, 299 mmol"
+          }
+        ],
+        "time": "7 days",
+        "drying_method": "dried under vacuum",
+        "yield": "210 mg (66%)"
+      }
+    },
+    {
+      "name": "Cs4[Sn2L6{Cr(CO)4}3]",
+      "conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "20 mL"
+          }
+        ],
+        "equipment": "stirred under nitrogen atmosphere",
+        "chemicals": [
+          {
+            "name": "Cs2[SnL3]",
+            "amount": "251 mg, 0.199 mmol"
+          },
+          {
+            "name": "Cr(CO)4(piperidine)2",
+            "amount": "100 mg, 0.299 mmol"
+          }
+        ],
+        "time": "7 days",
+        "drying_method": "dried under vacuum",
+        "yield": "230 mg (74%)"
+      }
+    },
+    {
+      "name": "(NH4)4[Ti2Pd3Br6L6]",
+      "conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "Not specified"
+          }
+        ],
+        "equipment": "stirred under nitrogen atmosphere",
+        "chemicals": [
+          {
+            "name": "Ti(OMe)4",
+            "amount": "Not specified"
+          },
+          {
+            "name": "PPh2-Catechol·HBr",
+            "amount": "Not specified"
+          },
+          {
+            "name": "PdBr2·2PhCN",
+            "amount": "Not specified"
+          },
+          {
+            "name": "NH4OH",
+            "amount": "Not specified"
+          }
+        ],
+        "time": "1 week",
+        "drying_method": "dried under vacuum",
+        "yield": "Over 80%"
+      }
+    }
+  ]
+}

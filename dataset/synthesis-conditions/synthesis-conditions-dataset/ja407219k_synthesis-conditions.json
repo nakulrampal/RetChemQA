@@ -1,0 +1,58 @@
+{
+  "materials": [
+    {
+      "name": "TbPIA",
+      "synthesis_conditions": {
+        "temperature": "160 °C",
+        "solvents": ["water"],
+        "amount_of_solvent": ["60 mL"],
+        "equipment": ["100 mL Teflon cup"],
+        "chemicals_used": ["5-(pyridin-4-yl)isophthalic acid (H2PIA, 75.0 mg, 0.3 mmol)", "Tb(NO3)3(H2O)6 (140.0 mg, 0.3 mmol)"],
+        "time": "2 days",
+        "washing_method": ["DMF", "H2O"],
+        "drying_method": "filtration",
+        "yield": "66.7 mg, 65% based on H2PIA"
+      }
+    },
+    {
+      "name": "Tb1–x EuxPIA",
+      "synthesis_conditions": {
+        "temperature": "Similar to TbPIA",
+        "solvents": ["Similar to TbPIA"],
+        "amount_of_solvent": ["Similar to TbPIA"],
+        "equipment": ["Similar to TbPIA"],
+        "chemicals_used": ["Mixture of Tb(NO3)3(H2O)6 and Eu(NO3)3(H2O)6"],
+        "time": "Similar to TbPIA",
+        "washing_method": ["Similar to TbPIA"],
+        "drying_method": "Similar to TbPIA"
+      }
+    },
+    {
+      "name": "LnPIA",
+      "synthesis_conditions": {
+        "temperature": "160 °C",
+        "time": "2 days",
+        "chemicals_used": ["H2PIA", "Ln(NO3)3"]
+      }
+    },
+    {
+      "name": "Tb0.9Eu0.1PIA",
+      "synthesis_conditions": {
+        "sensitivity": "3.53% per K",
+        "temperature_range": "100 to 300 K"
+      }
+    },
+    {
+      "name": "Tb0.95Eu0.05PIA",
+      "synthesis_conditions": {
+        "sensitivity": "About 6%"
+      }
+    },
+    {
+      "name": "Tb0.99Eu0.01PIA",
+      "synthesis_conditions": {
+        "sensitivity": "About 20%"
+      }
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "materials": [
+    {
+      "name": "Valence-Tautomeric Metal–Organic Nanoparticles",
+      "synthesis_conditions": [
+        {
+          "step": "Initial Reaction",
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "not specified"
+            },
+            {
+              "name": "ethanol",
+              "amount": "not specified"
+            }
+          ],
+          "chemicals_used": [
+            "Co(CH3COO)2·4 H2O",
+            "3,5-di-tert-butyl-1,2-catechol",
+            "1,4-bis(imidazol-1-ylmethyl)benzene (bix)"
+          ],
+          "equipment": "vigorous stirring",
+          "time": "not specified",
+          "washing_method": "washed several times with water",
+          "drying_method": "not specified",
+          "yield": "not specified"
+        },
+        {
+          "step": "Precipitation",
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "fast addition"
+            }
+          ],
+          "method": "fast addition of water to the mixture",
+          "particle_size_control": "regulated by the rate of addition of water",
+          "particle_sizes": [
+            "76 ± 9 nm",
+            "110 ± 10 nm",
+            "140 ± 9 nm",
+            "204 ± 13 nm"
+          ],
+          "rate_of_water_addition": [
+            "50 mL s-1",
+            "0.17 mL s-1",
+            "0.1 mL s-1",
+            "0.07 mL s-1"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Coordination Polymer 2",
+      "synthesis_conditions": [
+        {
+          "step": "Crystal Formation",
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "not specified"
+            },
+            {
+              "name": "ethanol",
+              "amount": "not specified"
+            }
+          ],
+          "chemicals_used": [
+            "Co(CH3COO)2·4 H2O",
+            "3,5-di-tert-butyl-1,2-catechol",
+            "4,4’-bipyridyl (4,4’-bipy)"
+          ],
+          "method": "diffusion of an aqueous solution of Co(CH3COO)2·4 H2O into an ethanol solution of 3,5-di-tert-butyl-1,2-catechol and 4,4’-bipy",
+          "time": "three weeks",
+          "temperature": "not specified",
+          "yield": "not specified",
+          "crystal_data": {
+            "formula": "C38H48O4CoN2",
+            "Mr": "656 g mol-1",
+            "crystal_system": "monoclinic",
+            "space_group": "C2/c",
+            "parameters": {
+              "a": "10.560(5)",
+              "b": "32.544(10)",
+              "c": "10.979(5) H",
+              "beta": "99.57(5)°",
+              "V": "4923.1(3) H3",
+              "Z": "4",
+              "density": "1.067 g cm-3",
+              "absorption_coefficient": "1.488 mm-1",
+              "R1": "0.098",
+              "wR2": "0.165"
+            },
+            "temperature_of_data_collection": "150 K"
+          }
+        }
+      ]
+    }
+  ]
+}

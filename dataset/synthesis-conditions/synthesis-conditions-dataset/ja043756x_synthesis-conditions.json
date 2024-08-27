@@ -1,0 +1,82 @@
+{
+  "materials": [
+    {
+      "name": "[Zn4O(NTB)2]·3DEF·EtOH (1)",
+      "synthesis_conditions": {
+        "chemicals_used": "Zn(NO3)2·6H2O, 4,4‘,4‘ ‘-nitrilotrisbenzoic acid (H3NTB), DEF/EtOH/H2O",
+        "solvent_ratio": "5:3:2 (v/v)",
+        "temperature": "110 °C",
+        "time": "24 h",
+        "equipment": "Teflon vessel within an autoclave",
+        "yield": "76%",
+        "washing_method": "filtered, washed briefly with mother liquor",
+        "drying_method": "Not specified",
+        "FT-IR": "νO-CO: 1594, 1559, 1548; νCH(NTB): 3065; νCO(DEF): 1640, 1656; νCH3(DEF): 2975 cm-1",
+        "UV/vis": "237, 321, 375(sh), 428(sh) nm",
+        "analysis": {
+          "calculated": "C, 51.51; H, 4.62; N, 5.09",
+          "found": "C, 51.93; H, 4.47; N, 4.99"
+        }
+      }
+    },
+    {
+      "name": "[Zn4O(NTB)2] (1’)",
+      "synthesis_conditions": {
+        "method": "Desolvation of single crystal 1",
+        "temperature": "400 °C",
+        "pressure": "10^-5 Torr",
+        "time": "30 min",
+        "bulk_preparation": {
+          "amount": "45 mg",
+          "temperature": "220 °C",
+          "vacuum": "under vacuum",
+          "time": "5 h"
+        },
+        "FT-IR": "νO-CO: 1595, 1538; νCH: 3065 cm-1",
+        "analysis": {
+          "calculated": "C, 49.16; H, 2.36; N, 2.73",
+          "found": "C, 49.08; H, 2.40; N, 2.88"
+        }
+      }
+    },
+    {
+      "name": "[Zn4O(NTB)2]·xDEF·yEtOH (1’’)",
+      "synthesis_conditions": {
+        "method": "Desolvation of single crystal 1 similar to 1’",
+        "temperature": "220 °C",
+        "pressure": "10^-5 Torr",
+        "time": "10 h",
+        "resolvation": {
+          "solvent": "DEF/EtOH (3:1, v/v)",
+          "time": "12 h"
+        }
+      }
+    },
+    {
+      "name": "Gas Sorption Study",
+      "synthesis_conditions": {
+        "material": "[Zn4O(NTB)2]·3DEF·EtOH (1)",
+        "equipment": "Quantachrome Autosorb-1 gas sorption apparatus",
+        "preparation": "evacuated at 220 °C and 10^-5 Torr to remove all guest molecules",
+        "measurements": "Nitrogen and hydrogen gas sorption isotherms at 77 K"
+      }
+    },
+    {
+      "name": "Guest Binding Study",
+      "synthesis_conditions": {
+        "material": "Pale-yellow crystals of 1",
+        "preparation": "dried at 220 °C under vacuum for 24 h",
+        "solvent": "isooctane solutions containing methanol, pyridine, dodecane, and benzene",
+        "temperature": "20 °C",
+        "time": "ca. 4 h",
+        "concentration_ranges": {
+          "MeOH": "1.17 × 10^-2 to 1.06 × 10^-1 M",
+          "pyridine": "3.09 × 10^-2 to 1.98 × 10^-1 M",
+          "benzene": "2.87 × 10^-2 to 2.09 × 10^-1 M",
+          "dodecane": "7.33 × 10^-2 to 4.93 × 10^-1 M"
+        },
+        "measurement": "GC for concentration change of the organic guest"
+      }
+    }
+  ]
+}

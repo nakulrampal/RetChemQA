@@ -1,0 +1,69 @@
+{
+  "NKMOF-1-M": {
+    "materials": [
+      {
+        "name": "NKMOF-1-Cu",
+        "synthesis_conditions": {
+          "precursors": "pyrazine-2,3-dithiol (pdt), Cu ions",
+          "modifications": "previously reported procedures with slight modification",
+          "activation_method": "CO2 supercritical drying",
+          "BET_surface_area": "280 m2 g@1",
+          "thermal_stability": "loses crystallinity above 60 88C",
+          "hydrolytic_stability": "stable in water for at least six months at room temperature or in pH 1 or 12 water for one week",
+          "additional_information": "lower thermal stability and lower BET surface area compared to NKMOF-1-Ni"
+        }
+      },
+      {
+        "name": "NKMOF-1-Ni",
+        "synthesis_conditions": {
+          "precursors": "pyrazine-2,3-dithiol (pdt), Ni ions",
+          "modifications": "previously reported procedures with slight modification",
+          "activation_method": "vacuum at 90 88C without solvent exchange",
+          "BET_surface_area": "382 m2 g@1",
+          "thermal_stability": "exhibits thermal stability to 240 88C",
+          "hydrolytic_stability": "stable in water for at least six months at room temperature or in pH 1 or 12 water for one week",
+          "single_component_adsorption_isotherms_temperatures": ["273 K", "288 K", "298 K"],
+          "adsorption_capacity_at_1_bar_and_298K": {
+            "C2H2": "61.0 cm3 g@1",
+            "C2H4": "47.3 cm3 g@1",
+            "CO2": "51.1 cm3 g@1",
+            "C2H6": "33.5 cm3 g@1",
+            "CH4": "22.2 cm3 g@1",
+            "N2": "7.3 cm3 g@1"
+          },
+          "C2H2_uptake_at_0.003_bar_and_298K": "33.7 cm3 g@1",
+          "isosteric_enthalpy_of_adsorption_Qst_zero_coverage_values": {
+            "C2H2": "60.3 kJ mol@1",
+            "C2H4": "44.9 kJ mol@1",
+            "CO2": "40.9 kJ mol@1",
+            "CH4": "31.7 kJ mol@1"
+          },
+          "DSLF_method_Qst_values": {
+            "C2H2_site_I": "53.9 kJ mol@1",
+            "C2H2_site_II": "19.0 kJ mol@1",
+            "C2H4": "40.9 kJ mol@1",
+            "CO2": "36.2 kJ mol@1",
+            "CH4": "28.5 kJ mol@1"
+          },
+          "IAST_adsorption_selectivities_at_298K": {
+            "C2H2_C2H4_1_99_v_v": "1272.6",
+            "C2H2_C2H4_1_9_v_v": "346.5",
+            "C2H2_CO2_1_1_v_v": "249.3",
+            "C2H2_CO2_2_1_v_v": "272.5",
+            "C2H2_CH4_1_1_v_v": "6409.1",
+            "C2H2_CH4_2_1_v_v": "4949.2"
+          },
+          "breakthrough_experiments_selectivities": {
+            "C2H2_C2H4_1_99_v_v": "43.6",
+            "C2H2_C2H4_1_9_v_v": "7.6",
+            "C2H2_CO2_2_1_v_v": "1.8",
+            "C2H2_CO2_1_1_v_v": "2.6",
+            "C2H2_CH4_2_1_v_v": "8.8",
+            "C2H2_CH4_1_1_v_v": "6.6"
+          },
+          "recyclability": "can be recycled at least five times"
+        }
+      }
+    ]
+  }
+}

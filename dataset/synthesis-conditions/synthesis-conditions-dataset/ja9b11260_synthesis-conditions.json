@@ -1,0 +1,121 @@
+{
+  "materials": [
+    {
+      "name": "Y-kce-MOF-1",
+      "synthesis_conditions": {
+        "temperature": "105 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "1.25 mL"
+          },
+          {
+            "name": "chlorobenzene",
+            "amount": "0.75 mL"
+          },
+          {
+            "name": "water",
+            "amount": "0.75 mL"
+          },
+          {
+            "name": "2-FBA in DMF",
+            "amount": "2 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Y(NO3)3·6H2O",
+            "amount": "21.9 mg"
+          },
+          {
+            "name": "H8TBCPB",
+            "amount": "7.3 mg"
+          }
+        ],
+        "time": "72 h",
+        "washing_method": "washed with DMF",
+        "drying_method": "soaked in DMF overnight, then exchanged in DCM for 3 days",
+        "yield": "not specified",
+        "additional_information": "Crystals were harvested and the DCM solution was refreshed at least every 12 h."
+      }
+    },
+    {
+      "name": "Y-kex-MOF-1",
+      "synthesis_conditions": {
+        "temperature": "105 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "1.25 mL"
+          },
+          {
+            "name": "chlorobenzene",
+            "amount": "0.75 mL"
+          },
+          {
+            "name": "water",
+            "amount": "0.75 mL"
+          },
+          {
+            "name": "2-FBA in DMF",
+            "amount": "2 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Y(NO3)3·6H2O",
+            "amount": "21.9 mg"
+          },
+          {
+            "name": "H12HBCPB",
+            "amount": "10.78 mg"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": "washed with DMF",
+        "drying_method": "soaked in DMF overnight, then exchanged in DCM for 3 days",
+        "yield": "not specified",
+        "additional_information": "Crystals were harvested and the DCM solution was refreshed at least every 12 h."
+      }
+    },
+    {
+      "name": "Tb-urx-MOF-1",
+      "synthesis_conditions": {
+        "temperature": "115 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "3 mL"
+          },
+          {
+            "name": "chlorobenzene",
+            "amount": "0.2 mL"
+          },
+          {
+            "name": "water",
+            "amount": "0.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Tb(NO3)3·5H2O",
+            "amount": "15 mg"
+          },
+          {
+            "name": "H3TTDA",
+            "amount": "8 mg"
+          },
+          {
+            "name": "2-FBA in DMF",
+            "amount": "0.155 mL"
+          }
+        ],
+        "time": "72 h",
+        "washing_method": "washed with DMF",
+        "drying_method": "soaked in DMF overnight, then exchanged in CH3CN for 3 days",
+        "yield": "not specified",
+        "additional_information": "Crystals were harvested and the solution was refreshed at least every 12 h."
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "materials": [
+    {
+      "material": "[Au2(CF3CO2)2(μ-R,S-BINAP)], 1a",
+      "synthesis_conditions": {
+        "step_1": {
+          "precursors": "[AuCl(SMe2)], R,S-BINAP",
+          "solvent": "acetone",
+          "solvent_amount": "90 mL",
+          "temperature": "room temperature",
+          "time": "3 h",
+          "washing_method": "acetone, diethyl ether, pentane",
+          "drying_method": "vacuum",
+          "yield": "85%"
+        },
+        "step_2": {
+          "precursors": "[Au2Cl2{μ-R,S-BINAP)], AgO2CCF3",
+          "solvent": "THF",
+          "solvent_amount": "10 mL",
+          "temperature": "room temperature",
+          "time": "30 min",
+          "washing_method": "diethyl ether, pentane",
+          "drying_method": "vacuum",
+          "yield": "89%"
+        }
+      }
+    },
+    {
+      "material": "[{Au2{μ-R,S-BINAP)(μ-trans-bipyen)}n] [CF3CO2]2n, 2a",
+      "synthesis_conditions": {
+        "precursors": "[Au2(CF3CO2)2(μ-R,S-BINAP)], trans-1,2-bis(4-pyridyl)ethylene",
+        "solvent": "THF, CH2Cl2",
+        "solvent_amount": "20 mL total (10 mL for each precursor)",
+        "temperature": "room temperature",
+        "time": "2 h",
+        "washing_method": "pentane",
+        "drying_method": "vacuum",
+        "yield": "72%"
+      }
+    },
+    {
+      "material": "[Au10(μ-S-BINAP)5(μ-bipyen)4(bipyen)2][CF3CO2]10, 3",
+      "synthesis_conditions": {
+        "precursors": "[Au2(CF3CO2)2(μ-S-BINAP)], trans-1,2-bis(4-pyridyl)ethylene",
+        "solvent": "CH2Cl2",
+        "solvent_amount": "not specified",
+        "temperature": "room temperature",
+        "time": "not specified",
+        "yield": "68%"
+      }
+    }
+  ]
+}

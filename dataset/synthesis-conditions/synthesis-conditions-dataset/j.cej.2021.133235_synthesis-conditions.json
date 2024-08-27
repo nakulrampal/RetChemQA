@@ -1,0 +1,113 @@
+{
+  "synthesis_conditions": [
+    {
+      "material": "6-hydrazinyl-[1,2,4]triazolo[4,3-b][1,2,4,5]tetrazin-3-amine (6)",
+      "solvent": "acetonitrile",
+      "amount_of_solvent_ml": 50,
+      "reagents": [
+        {
+          "name": "6-(3,5-dimethyl-1H-pyrazol-1-yl)-[1,2,4]triazolo[4,3-b][1,2,4,5]tetrazin-3-amine",
+          "amount_g": 2.31,
+          "molar_amount_mmol": 10
+        },
+        {
+          "name": "hydrazine monohydrate",
+          "amount_ml": 0.59,
+          "molar_amount_mmol": 12
+        }
+      ],
+      "reaction_conditions": {
+        "temperature": "reflux",
+        "time_h": 2
+      },
+      "workup": [
+        "cooled to room temperature",
+        "filtered",
+        "solid washed with acetonitrile (10 mL)"
+      ],
+      "yield_percentage": 95,
+      "product_appearance": "deep red solid",
+      "decomposition_temperature": "207 °C"
+    },
+    {
+      "material": "bis([1,2,4]triazolo)[4,3-b:3′,4′-f][1,2,4,5]tetrazine-1,8-diamine (7)",
+      "solvent": "ethanol",
+      "amount_of_solvent_ml": 10,
+      "reagents": [
+        {
+          "name": "3,6-Dihydrazinyl-1,2,4,5-tetrazine",
+          "amount_g": 0.28,
+          "molar_amount_mmol": 2
+        },
+        {
+          "name": "cyanogen bromide",
+          "amount_g": 0.45,
+          "molar_amount_mmol": 4.2
+        }
+      ],
+      "reaction_conditions": {
+        "time_h": 48
+      },
+      "workup": [
+        "precipitate filtered",
+        "washed with ethanol (3 mL)",
+        "dried in the air"
+      ],
+      "yield_percentage": 75,
+      "product_appearance": "yellow precipitate",
+      "decomposition_temperature": "247 °C"
+    },
+    {
+      "material": "(Z)-N-(8-aminobis([1,2,4]triazolo)[4,3-b:3′,4′-f][1,2,4,5]tetrazin-1(2H)- ylidene)nitramide hydrate (8·H2O)",
+      "solvent": "nitric acid (100%)",
+      "amount_of_solvent_ml": 2,
+      "reagents": [
+        {
+          "name": "7",
+          "amount_g": 0.38,
+          "molar_amount_mmol": 2
+        }
+      ],
+      "reaction_conditions": {
+        "temperature": "0 °C",
+        "time_h": 2
+      },
+      "workup": [
+        "poured onto ice",
+        "precipitate filtered",
+        "washed with cold water (5 mL)",
+        "air dried"
+      ],
+      "yield_percentage": 57,
+      "product_appearance": "brown solid",
+      "decomposition_temperature": "166 °C"
+    },
+    {
+      "material": "salts 9–12",
+      "solvent": "methanol",
+      "amount_of_solvent_ml": 10,
+      "reagents": [
+        {
+          "name": "8·H2O",
+          "amount_g": 0.25,
+          "molar_amount_mmol": 1
+        },
+        {
+          "name": "potassium bicarbonate solution or methanol solution of hydroxylamine monohydrate or aqueous ammonia or hydrazine monohydrate",
+          "molar_amount_mmol": 1
+        }
+      ],
+      "reaction_conditions": {
+        "temperature": "10 °C",
+        "time_h": 1
+      },
+      "workup": [
+        "stirred at room temperature",
+        "precipitate filtered",
+        "washed with cold methanol (2 mL)",
+        "air dried"
+      ],
+      "yield_percentage": "92%-95%"
+    }
+  ]
+}

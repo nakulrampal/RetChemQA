@@ -1,0 +1,69 @@
+{
+  "materials": [
+    {
+      "name": "3,3’,5,5’-azobenzene tetracarboxylic acid (TazbH4)",
+      "synthesis_conditions": {
+        "temperature": "333 K",
+        "solvents": [
+          {
+            "name": "distilled water",
+            "amount": "250 mL"
+          },
+          {
+            "name": "distilled water",
+            "amount": "150 mL"
+          }
+        ],
+        "equipment": "1 L 3-neck round bottom flask",
+        "chemicals_used": [
+          {
+            "name": "5-nitroisophthalic acid",
+            "amount": "19 g, 90 mmol"
+          },
+          {
+            "name": "NaOH",
+            "amount": "50 g, 1250 mmol"
+          },
+          {
+            "name": "D-glucose",
+            "amount": "100 g"
+          },
+          {
+            "name": "HCl 37 %",
+            "description": "used to acidify the solution down to pH = 1"
+          }
+        ],
+        "time": "4 hours of air bubbling under stirring",
+        "washing_method": "washed with small amount of cold water and then with distilled water",
+        "drying_method": "dried at 373 K under vacuum",
+        "yield": "70%"
+      }
+    },
+    {
+      "name": "Ca2Tazb (BioMIL-3)",
+      "synthesis_conditions": {
+        "temperature": "473 K",
+        "solvents": [
+          {
+            "name": "dimethylformamide (DMF)",
+            "ratio": "129 parts DMF to 1 part of each Ca(II) nitrate and TazbH4"
+          }
+        ],
+        "equipment": "Teflon-lined autoclave",
+        "chemicals_used": [
+          {
+            "name": "Ca(II) nitrate",
+            "ratio": "1 part"
+          },
+          {
+            "name": "TazbH4",
+            "ratio": "1 part"
+          }
+        ],
+        "time": "24 hours",
+        "heating_cooling_rate": "0.14 K/min-1",
+        "washing_method": "washed with DMF"
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "materials": [
+    {
+      "name": "1-methyl-1,4-diazabicyclo[2.2.2]octan-1-ium iodide ([Me-dabco]I)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "acetone",
+            "amount": "70 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "1,4-diazabicyclob[2.2.2]octane (Dabco)",
+            "amount": "2.24 g, 20 mmol"
+          },
+          {
+            "name": "methyl iodide",
+            "amount": "2.84 g, 20 mmol"
+          }
+        ],
+        "equipment": "sonication, magnetic stirring",
+        "time": "30 min",
+        "washing_method": "acetone three times (3 × 10 mL)",
+        "drying_method": "vacuum for 3 h",
+        "yield": "78%"
+      }
+    },
+    {
+      "name": "1-methyl-1,4-diazabicyclo[2.2.2]octan-1-ium bromide ([Me-dabco]Br)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "acetone",
+            "amount": "70 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "1,4-diazabicyclob[2.2.2]octane (Dabco)",
+            "amount": "2.24 g, 20 mmol"
+          },
+          {
+            "name": "methyl bromide",
+            "amount": "1.90 g, 20 mmol"
+          }
+        ],
+        "equipment": "sonication, magnetic stirring",
+        "time": "30 min",
+        "washing_method": "acetone three times (3 × 10 mL)",
+        "drying_method": "vacuum for 3 h",
+        "yield": "76%"
+      }
+    },
+    {
+      "name": "[Me-dabco]2Ag4I6 (1)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "5 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "1 mL + 3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "AgNO3",
+            "amount": "1.70 g, 10 mmol"
+          },
+          {
+            "name": "KI",
+            "amount": "saturated DMF solution, 40 mL"
+          },
+          {
+            "name": "[Me-dabco]I",
+            "amount": "0.127 g, 0.5 mmol"
+          }
+        ],
+        "equipment": "sealed test tube",
+        "time": "1 week",
+        "washing_method": "ethanol three times (3 × 5 mL)",
+        "drying_method": "air",
+        "yield": "~24% (based on AgNO3)"
+      }
+    },
+    {
+      "name": "[Me-dabco]2Ag4Br6 (2)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "5 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "1 mL + 3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "AgNO3",
+            "amount": "1.70 g, 10 mmol"
+          },
+          {
+            "name": "KBr",
+            "amount": "saturated DMF solution, 100 mL"
+          },
+          {
+            "name": "[Me-dabco]Br",
+            "amount": "0.127 g, 0.5 mmol"
+          }
+        ],
+        "equipment": "sealed test tube",
+        "time": "1 week",
+        "washing_method": "ethanol three times (3 × 5 mL)",
+        "drying_method": "air",
+        "yield": "~30% (based on AgNO3)"
+      }
+    }
+  ]
+}

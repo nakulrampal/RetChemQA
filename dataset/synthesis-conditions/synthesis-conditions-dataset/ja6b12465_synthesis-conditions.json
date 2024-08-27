@@ -1,0 +1,55 @@
+{
+  "materials": [
+    {
+      "material_name": "1·(H2O,EtOH)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Fe(ClO4)2·6H2O",
+            "amount": "0.042 mmol, 10 mg"
+          },
+          {
+            "chemical": "bztrz",
+            "amount": "0.083 mmol, 13 mg"
+          },
+          {
+            "chemical": "K2[Pd(CN)4]",
+            "amount": "0.041 mmol, 11 mg"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "H2O:EtOH mixture",
+            "ratio": "1:1",
+            "volume": "20 mL"
+          }
+        ],
+        "yield": "80%",
+        "analysis": {
+          "calculated": "C, 39.22; H, 3.44; N, 24.95",
+          "found": "C, 38.85; H, 3.17; N, 24.59",
+          "IR_bands": "2170(vs), 1516(m), 1309(s), 1171(m), 1060(vs), 967(s), 760(m), 692(m), 617(m), 420(vs)"
+        }
+      }
+    },
+    {
+      "material_name": "1·3H2O",
+      "synthesis_conditions": {
+        "method": "exposure of 1·(H2O,EtOH) to atmospheric conditions",
+        "duration": ">3 hr"
+      }
+    },
+    {
+      "material_name": "1·~2H2O",
+      "synthesis_conditions": {
+        "method": "heating a sample of 1·3H2O to 323 K (ca. 50 °C) within the magnetometer cavity"
+      }
+    },
+    {
+      "material_name": "1",
+      "synthesis_conditions": {
+        "method": "heating any of the solvated phases above 363 K (ca. 90 °C)"
+      }
+    }
+  ]
+}

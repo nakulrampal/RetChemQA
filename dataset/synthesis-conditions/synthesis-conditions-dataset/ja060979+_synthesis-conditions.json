@@ -1,0 +1,26 @@
+{
+  "materials": [
+    {
+      "name": "BBDTA·InCl4",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation",
+          "details": {
+            "precursors": ["BBDTA·Cl", "InCl3"],
+            "solvent": "CH3CN",
+            "atmosphere": "nitrogen",
+            "method": "reaction"
+          }
+        },
+        {
+          "step": "Recrystallization",
+          "details": {
+            "solvent": "acetonitrile",
+            "method": "recrystallization from a hot solution",
+            "temperature": "hot"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "materials": [
+    {
+      "material": "{[Cu2(6-Hmna)(6-mn)]·NH4}n",
+      "synthesis_conditions": {
+        "temperature": "140 °C",
+        "solvents": [
+          {
+            "name": "DMF/H2O",
+            "ratio": "5:1 v/v"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cu(NO3)2·6H2O",
+            "amount": "46.1 mg, 0.20 mmol"
+          },
+          {
+            "name": "6,6′-dithiodinicotinic acid (H2dtdn)",
+            "amount": "30.8 mg, 0.10 mmol"
+          },
+          {
+            "name": "pyrazine",
+            "amount": "13.3 mg, 0.20 mmol"
+          }
+        ],
+        "method": "hydrothermal",
+        "time": "72 h",
+        "yield": "51.0% (15.9 mg, 0.035 mmol, based on the copper salt)"
+      },
+      "washing_method": "washed with water, then DMF",
+      "drying_method": "allowed to dry at room temperature",
+      "characterization_techniques": [
+        "FTIR",
+        "PXRD",
+        "TGA",
+        "XPS",
+        "DFT simulations"
+      ],
+      "electrical_measurement": {
+        "method": "four-probe method",
+        "temperature_dependent_measurement": "110–300 K",
+        "activation_energy": [
+          {
+            "thickness": "645 nm",
+            "value": "6 meV"
+          },
+          {
+            "thickness": "957 nm",
+            "value": "6 meV"
+          },
+          {
+            "thickness": "1250 nm",
+            "value": "9 meV"
+          }
+        ],
+        "conductivity_values": [
+          {
+            "thickness": "645 nm",
+            "value": "10.96 S cm−1"
+          },
+          {
+            "thickness": "957 nm",
+            "value": "4.18 S cm−1"
+          },
+          {
+            "thickness": "1250 nm",
+            "value": "1.81 S cm−1"
+          }
+        ]
+      },
+      "electrochemical_measurements": {
+        "method": "cyclic voltammetry",
+        "electrode_system": "three-electrode system",
+        "working_electrode": "glassy carbon electrode",
+        "auxiliary_electrode": "Pt wire",
+        "reference_electrode": "Ag/AgCl",
+        "supporting_electrolyte": "0.1 M ([n-Bu4N]PF6)/ACN"
+      },
+      "bandgap_investigations": {
+        "method": "diffuse reflection",
+        "bandgap_value": "1.34 eV"
+      }
+    }
+  ]
+}

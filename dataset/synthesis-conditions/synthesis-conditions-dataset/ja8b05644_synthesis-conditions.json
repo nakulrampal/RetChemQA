@@ -1,0 +1,65 @@
+{
+  "ACM-1": {
+    "synthesis_conditions": {
+      "temperature": "75 °C",
+      "solvents": [
+        {
+          "name": "DMF:methanol:H2O",
+          "ratio": "5:2:1",
+          "amount": "70 cm3"
+        }
+      ],
+      "chemicals_used": [
+        {
+          "name": "tris(4-(pyridin-4-yl)phenyl)arsine (TPPA)",
+          "amount": "0.200 g",
+          "mmol": "0.372 mmol"
+        },
+        {
+          "name": "1,1'-biphenyl-4,4'-dicarboxylic acid (BPDH2)",
+          "amount": "0.046 g",
+          "mmol": "0.19 mmol"
+        },
+        {
+          "name": "nickel(II) tetrafluoroborate hexahydrate",
+          "amount": "0.254 g",
+          "mmol": "0.746 mmol"
+        }
+      ],
+      "time": "4 days",
+      "yield": "84%",
+      "washing_method": "3 times in air with degassed 5:2:1 DMF:MeOH:H2O",
+      "drying_method": "under high vacuum overnight",
+      "additional_information": "green rectangular prism crystals were obtained"
+    }
+  },
+  "Au-ACM-1": {
+    "synthesis_conditions": {
+      "temperature": "room temperature",
+      "solvents": [
+        {
+          "name": "DMF:MeOH:H2O",
+          "ratio": "5:2:1",
+          "amount": "35 cm3"
+        }
+      ],
+      "chemicals_used": [
+        {
+          "name": "ACM-1",
+          "amount": "0.070 g",
+          "mmol": "0.073 mmol As"
+        },
+        {
+          "name": "chloro(dimethylsulfide)gold(I)",
+          "amount": "0.037 g",
+          "mmol": "0.13 mmol"
+        }
+      ],
+      "time": "24 h",
+      "yield": "61%",
+      "washing_method": "three washes with degassed 5:2:1 DMF:MeOH:H2O under N2 atmosphere",
+      "drying_method": "dried on the Buchner funnel",
+      "additional_information": "light purple solid was obtained"
+    }
+  }
+}

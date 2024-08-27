@@ -1,0 +1,215 @@
+{
+  "materials": [
+    {
+      "name": "MC1",
+      "synthesis_conditions": {
+        "temperature": "60°C",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "240 mL"
+          },
+          {
+            "name": "t-butanol",
+            "amount": "80 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "80 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "TBTA",
+            "amount": "64 mg"
+          },
+          {
+            "name": "CuSO4•5H2O",
+            "amount": "30 mg"
+          },
+          {
+            "name": "sodium ascorbate",
+            "amount": "40 mg"
+          },
+          {
+            "name": "1",
+            "amount": "70 mg"
+          },
+          {
+            "name": "5",
+            "amount": "85 mg"
+          }
+        ],
+        "time": "20 h",
+        "yield": "45%",
+        "drying_method": "vacuo",
+        "washing_method": "deionized water",
+        "characterization": {
+          "1H NMR": "400 MHz, CDCl3",
+          "13C NMR": "100 MHz, CDCl3",
+          "HR-ESI-MS": "C44H56N6O7 [M + H+], Calculated: 781.4289, Found: 781.4275",
+          "Electrical_conductivity": "0.04 μS•cm−1",
+          "Melting_point": ">260 °C"
+        }
+      }
+    },
+    {
+      "name": "MC2",
+      "synthesis_conditions": {
+        "temperature": "60°C",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "240 mL"
+          },
+          {
+            "name": "t-butanol",
+            "amount": "80 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "80 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "TBTA",
+            "amount": "64 mg"
+          },
+          {
+            "name": "CuSO4•5H2O",
+            "amount": "30 mg"
+          },
+          {
+            "name": "sodium ascorbate",
+            "amount": "40 mg"
+          },
+          {
+            "name": "1",
+            "amount": "70 mg"
+          },
+          {
+            "name": "7",
+            "amount": "85 mg"
+          }
+        ],
+        "time": "20 h",
+        "yield": "60%",
+        "drying_method": "vacuo",
+        "washing_method": "deionized water",
+        "characterization": {
+          "1H NMR": "400 MHz, CDCl3",
+          "13C NMR": "400 MHz, CDCl3",
+          "HR-ESI-MS": "C47H62N6O5 [M + H+], Calculated: 775.4911, Found: 775.4922",
+          "Electrical_conductivity": "0.02 μS•cm−1",
+          "Melting_point": ">260 °C"
+        }
+      }
+    },
+    {
+      "name": "MC3",
+      "synthesis_conditions": {
+        "temperature": "60°C",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "240 mL"
+          },
+          {
+            "name": "t-butanol",
+            "amount": "80 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "80 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "TBTA",
+            "amount": "64 mg"
+          },
+          {
+            "name": "CuSO4•5H2O",
+            "amount": "30 mg"
+          },
+          {
+            "name": "sodium ascorbate",
+            "amount": "40 mg"
+          },
+          {
+            "name": "8",
+            "amount": "70 mg"
+          },
+          {
+            "name": "5",
+            "amount": "85 mg"
+          }
+        ],
+        "time": "20 h",
+        "yield": "55%",
+        "drying_method": "vacuo",
+        "washing_method": "deionized water",
+        "characterization": {
+          "1H NMR": "400 MHz, CDCl3",
+          "13C NMR": "100 MHz, CDCl3",
+          "Electrical_conductivity": "0.04 μS•cm−1",
+          "Melting_point": ">260 °C"
+        }
+      }
+    },
+    {
+      "name": "MC4",
+      "synthesis_conditions": {
+        "temperature": "60°C",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "240 mL"
+          },
+          {
+            "name": "t-butanol",
+            "amount": "80 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "80 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "TBTA",
+            "amount": "64 mg"
+          },
+          {
+            "name": "CuSO4•5H2O",
+            "amount": "30 mg"
+          },
+          {
+            "name": "sodium ascorbate",
+            "amount": "40 mg"
+          },
+          {
+            "name": "9",
+            "amount": "70 mg"
+          },
+          {
+            "name": "5",
+            "amount": "85 mg"
+          }
+        ],
+        "time": "20 h",
+        "yield": "67%",
+        "drying_method": "vacuo",
+        "washing_method": "deionized water",
+        "characterization": {
+          "1H NMR": "500 MHz, CDCl3",
+          "13C NMR": "125 MHz, CDCl3",
+          "HR-ESI-MS": "C40H48N8O7 [M + I−], Calculated: 879.2691, Found: 879.2714",
+          "Electrical_conductivity": "0.03 μS•cm−1",
+          "Melting_point": ">260 °C"
+        }
+      }
+    }
+  ]
+}

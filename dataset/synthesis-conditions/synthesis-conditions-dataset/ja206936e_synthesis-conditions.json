@@ -1,0 +1,360 @@
+{
+  "materials": [
+    {
+      "name": "MIL-88B(Fe)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "FeCl3.6H2O",
+            "amount": "270 mg (1 mmol)"
+          },
+          {
+            "name": "1,4-benzenedicarboxylic acid",
+            "amount": "116 mg (1 mmol)"
+          },
+          {
+            "name": "dimethylformamide (DMF)",
+            "amount": "5 mL"
+          },
+          {
+            "name": "NaOH",
+            "amount": "0.4 mL of 2M"
+          }
+        ],
+        "equipment": "Teflon-lined autoclave (23 mL)",
+        "temperature": "100°C",
+        "time": "12 hours",
+        "washing_method": "deionised water and acetone",
+        "activation_method": "suspended in 100 mL of deionised water under stirring for 12 hours, then dried"
+      }
+    },
+    {
+      "name": "MIL-88D(Cr)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "CrNO3",
+            "amount": "1 mmol"
+          },
+          {
+            "name": "4,4’-biphenyldicarboxylic acid",
+            "amount": "1.25 mmol"
+          },
+          {
+            "name": "HF",
+            "amount": "1 mmol"
+          },
+          {
+            "name": "Pyridine",
+            "amount": "38 mmol"
+          },
+          {
+            "name": "H2O",
+            "amount": "116 mmol"
+          }
+        ],
+        "equipment": "Teflon-lined autoclave (23 mL)",
+        "temperature": "220°C",
+        "time": "16 hours",
+        "washing_method": "deionised water and acetone",
+        "activation_method": "suspended in 15 mL of DMF under stirring at RT, then washed with methanol and dried at 100°C"
+      }
+    },
+    {
+      "name": "MIL-88B(Cl) (Fe)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "FeCl3.6H2O",
+            "amount": "270 mg (1 mmol)"
+          },
+          {
+            "name": "2-chloroterephthalic acid",
+            "amount": "200 mg (1 mmol)"
+          },
+          {
+            "name": "DMF",
+            "amount": "5 mL"
+          }
+        ],
+        "equipment": "Teflon-lined autoclave (23 mL)",
+        "temperature": "100°C",
+        "time": "3 days",
+        "washing_method": "deionised water and acetone",
+        "activation_method": "suspended in 10 mL of absolute EtOH under stirring at RT for 3 h, then dried at 100°C"
+      }
+    },
+    {
+      "name": "MIL-88B(Br) (Fe)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "FeCl3.6H2O",
+            "amount": "1350 mg (5 mmol)"
+          },
+          {
+            "name": "2-bromoterephthalic acid",
+            "amount": "1.25 g (5 mmol)"
+          },
+          {
+            "name": "DMF",
+            "amount": "50 mL"
+          }
+        ],
+        "equipment": "Teflon-lined autoclave (125 mL)",
+        "temperature": "100°C",
+        "time": "12 hours",
+        "washing_method": "deionised water",
+        "activation_method": "suspended in DMF under stirring at RT for 2 h, then dried at 150°C under vacuum for 15 h"
+      }
+    },
+    {
+      "name": "MIL-88B(NH2) (Fe)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "FeCl3.6H2O",
+            "amount": "270 mg (1 mmol)"
+          },
+          {
+            "name": "2-aminoterephthalic acid",
+            "amount": "180 mg (1 mmol)"
+          },
+          {
+            "name": "absolute ethanol",
+            "amount": "5 mL"
+          }
+        ],
+        "equipment": "Teflon-lined autoclave (23 mL)",
+        "temperature": "100°C",
+        "time": "3 days",
+        "washing_method": "deionised water and acetone",
+        "activation_method": "suspended in DMF under stirring at RT for 1 h, then washed with methanol and dried at 100°C"
+      }
+    },
+    {
+      "name": "MIL-88B(NO2) (Fe)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "FeCl3.6H2O",
+            "amount": "270 mg (1 mmol)"
+          },
+          {
+            "name": "2-nitroterephthalic acid",
+            "amount": "211 mg (1 mmol)"
+          },
+          {
+            "name": "deionised water",
+            "amount": "5 mL"
+          }
+        ],
+        "equipment": "Teflon-lined autoclave (23 mL)",
+        "temperature": "100°C",
+        "time": "12 hours",
+        "washing_method": "deionised water and acetone",
+        "activation_method": "suspended in absolute ethanol for 3 hours, then dried at 100°C"
+      }
+    },
+    {
+      "name": "MIL-88B(2OH) (Fe)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Fe(ClO4)3.xH2O",
+            "amount": "354 mg (1 mmol)"
+          },
+          {
+            "name": "2,5-dihydroxoteryphthalic acid",
+            "amount": "198 mg (1 mmol)"
+          },
+          {
+            "name": "DMF",
+            "amount": "5 mL"
+          }
+        ],
+        "equipment": "Teflon-lined autoclave (23 mL)",
+        "temperature": "85°C",
+        "time": "12 hours",
+        "washing_method": "deionised water and acetone",
+        "activation_method": "suspended in absolute ethanol for 3 hours, then dried at 80°C"
+      }
+    },
+    {
+      "name": "MIL-88B(CH3) (Fe)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Fe(ClO4)3.xH2O",
+            "amount": "354 mg (1 mmol)"
+          },
+          {
+            "name": "2-methylterephthalic acid",
+            "amount": "180 mg (1 mmol)"
+          },
+          {
+            "name": "methanol",
+            "amount": "5 mL"
+          }
+        ],
+        "equipment": "Teflon-lined autoclave (23 mL)",
+        "temperature": "100°C",
+        "time": "3 days",
+        "washing_method": "deionised water and acetone",
+        "activation_method": "suspended in absolute EtOH under stirring at RT for 12 h, then dried at 100°C"
+      }
+    },
+    {
+      "name": "MIL-88B(2CH3) (Fe)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Fe(ClO4)3.xH2O",
+            "amount": "354 mg (1 mmol)"
+          },
+          {
+            "name": "2,5-dimethylterephthalic acid",
+            "amount": "194 mg (1 mmol)"
+          },
+          {
+            "name": "methanol",
+            "amount": "5 mL"
+          }
+        ],
+        "equipment": "Teflon-lined autoclave (23 mL)",
+        "temperature": "100°C",
+        "time": "3 days",
+        "washing_method": "DMF and absolute EtOH",
+        "activation_method": "suspended in DMF under stirring at RT for 1 h, then washed with EtOH and dried at 100°C"
+      }
+    },
+    {
+      "name": "MIL-88B(4CH3) (Fe)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "FeCl3.6H2O",
+            "amount": "270 mg (1 mmol)"
+          },
+          {
+            "name": "1,4-tetramethylterephthalic acid",
+            "amount": "222 mg (1 mmol)"
+          },
+          {
+            "name": "DMF",
+            "amount": "5 mL"
+          }
+        ],
+        "equipment": "Teflon-lined autoclave (23 mL)",
+        "temperature": "100°C",
+        "time": "16 hours",
+        "washing_method": "deionised water",
+        "activation_method": "suspended in methanol under stirring at RT for 30 minutes, repeated three times, then dried at 100°C"
+      }
+    },
+    {
+      "name": "MIL-88B(2CF3) (Fe)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "FeCl3.6H2O",
+            "amount": "675 mg (2.5 mmol)"
+          },
+          {
+            "name": "2,5-perfluoroterephthalic acid",
+            "amount": "755 mg (2.5 mmol)"
+          },
+          {
+            "name": "absolute ethanol",
+            "amount": "25 mL"
+          }
+        ],
+        "equipment": "Teflon-lined autoclave",
+        "temperature": "100°C",
+        "time": "5 min (microwave route, 400 W)",
+        "washing_method": "acetone",
+        "activation_method": "suspended in acetone under stirring at RT for 4 h, then dried at 100°C"
+      }
+    },
+    {
+      "name": "MIL-88B(4F) (Fe)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "FeCl3.6H2O",
+            "amount": "270 mg (1 mmol)"
+          },
+          {
+            "name": "tetrafluoroterephthalic acid",
+            "amount": "230 mg (1 mmol)"
+          },
+          {
+            "name": "distilled water",
+            "amount": "10 mL"
+          }
+        ],
+        "equipment": "Teflon-lined autoclave (23 mL)",
+        "temperature": "85°C",
+        "time": "12 hours",
+        "washing_method": "deionised water",
+        "activation_method": "suspended in distilled water under stirring at RT for 2 h, repeated three times, then dried"
+      }
+    },
+    {
+      "name": "MIL-88D(4CH3) (Fe)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Fe(ClO4)3.xH2O",
+            "amount": "354 mg (1 mmol)"
+          },
+          {
+            "name": "tetramethylbiphenyl-4,4’-dicarboxylic acid",
+            "amount": "298 mg (1 mmol)"
+          },
+          {
+            "name": "DMF",
+            "amount": "5 mL"
+          },
+          {
+            "name": "NaOH",
+            "amount": "0.2 mL of 2M"
+          }
+        ],
+        "equipment": "Teflon-lined autoclave (23 mL)",
+        "temperature": "100°C",
+        "time": "12 hours",
+        "washing_method": "deionised water",
+        "activation_method": "dried at 150°C under vacuum for 15 h"
+      }
+    },
+    {
+      "name": "MIL-88D(2CH3) (Fe)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "FeCl3.6H2O",
+            "amount": "270 mg (1 mmol)"
+          },
+          {
+            "name": "dimethylbiphenyl-4,4’-dicarboxylic acid",
+            "amount": "268 mg (1 mmol)"
+          },
+          {
+            "name": "DMF",
+            "amount": "5 mL"
+          },
+          {
+            "name": "HF",
+            "amount": "0.25 mL of 5M"
+          }
+        ],
+        "equipment": "Teflon-lined autoclave (23 mL)",
+        "temperature": "150°C",
+        "time": "12 hours",
+        "washing_method": "deionised water",
+        "activation_method": "dried at 150°C under vacuum for 15 h"
+      }
+    }
+  ]
+}

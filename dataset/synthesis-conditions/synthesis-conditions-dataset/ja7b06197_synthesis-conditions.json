@@ -1,0 +1,172 @@
+{
+  "materials": [
+    {
+      "name": "MIT-20",
+      "synthesis_conditions": {
+        "temperature": "65 °C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "not specified"
+          },
+          {
+            "name": "isopropyl alcohol",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "bis­(1H-1,2,3-triazolo­[4,5-b],[4′,5′-i])­dibenzo-[1,4]­dioxin (H2BTDD)",
+            "amount": "not specified"
+          },
+          {
+            "name": "CuCl2·2H2O",
+            "amount": "not specified"
+          }
+        ],
+        "time": "7-10 days",
+        "washing_method": "washed with DMF",
+        "drying_method": "not specified",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "MIT-20d",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [],
+        "time": "not specified",
+        "washing_method": "Soxhlet extraction in MeOH for 2 days",
+        "drying_method": "activated under dynamic vacuum",
+        "yield": "74 %"
+      }
+    },
+    {
+      "name": "MIT-20-LiCl",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "dry tetrahydrofuran (THF)",
+            "amount": "ca. 1 mL"
+          },
+          {
+            "name": "anhydrous propylene carbonate (PC)",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "LiCl in THF",
+            "amount": "1.83 ml of 1.0 mg/mL stock solution"
+          }
+        ],
+        "time": "2 hours",
+        "washing_method": "washed several times with THF and soaked in fresh THF overnight",
+        "drying_method": "dried under flowing nitrogen for 30 minutes",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "MIT-20-LiBr",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "dry tetrahydrofuran (THF)",
+            "amount": "ca. 1 mL"
+          },
+          {
+            "name": "anhydrous propylene carbonate (PC)",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "LiBr in THF",
+            "amount": "2.25 mL of 2.0 mg/mL stock solution"
+          }
+        ],
+        "time": "6 hours",
+        "washing_method": "washed several times with THF and soaked in fresh THF overnight",
+        "drying_method": "dried under flowing nitrogen for 30 minutes",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "MIT-20-Na",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "dry tetrahydrofuran (THF)",
+            "amount": "ca. 1 mL"
+          },
+          {
+            "name": "anhydrous propylene carbonate (PC)",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "NaSCN in THF",
+            "amount": "1.76 mL of 2.0 mg/mL stock solution"
+          }
+        ],
+        "time": "6 hours",
+        "washing_method": "washed several times with THF and soaked in fresh THF overnight",
+        "drying_method": "dried under flowing nitrogen for 30 minutes",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "MIT-20-Mg",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "dry tetrahydrofuran (THF)",
+            "amount": "ca. 1 mL"
+          },
+          {
+            "name": "anhydrous propylene carbonate (PC)",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "MgBr2 in THF",
+            "amount": "7.97 ml of 1.0 mg/mL stock solution"
+          }
+        ],
+        "time": "two days",
+        "washing_method": "washed several times with THF and soaked in fresh THF overnight",
+        "drying_method": "dried under flowing nitrogen for 30 minutes",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "MIT-20-LiBF4",
+      "synthesis_conditions": {
+        "temperature": "not specified",
+        "solvents": [
+          {
+            "name": "1 M solution of LiBF4 in propylene carbonate",
+            "amount": "2 mL"
+          }
+        ],
+        "chemicals_used": [],
+        "time": "approximately 12 hours",
+        "washing_method": "washed with 20 mL of fresh propylene carbonate",
+        "drying_method": "dried under flowing nitrogen for 20 minutes",
+        "yield": "not specified"
+      }
+    }
+  ]
+}

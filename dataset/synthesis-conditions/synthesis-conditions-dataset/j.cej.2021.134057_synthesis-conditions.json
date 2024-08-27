@@ -1,0 +1,59 @@
+{
+  "materials": [
+    {
+      "name": "HBU-20",
+      "synthesis": [
+        {
+          "step": "Crystal synthesis procedure",
+          "chemicals_used": "ZrO(NO3)2·xH2O, 1,1,2,2-Tetra(4-carboxylphenyl)ethylene (L)",
+          "solvents": "acetic acid, DMF",
+          "temperature": "80 ℃",
+          "time": "48 h",
+          "yield": "42%",
+          "analysis": {
+            "calc": "C 39.47, H 4.77, N 4.93",
+            "found": "C 39.75, H 4.56, N 4.58",
+            "IR": "3404 s, 1660 s, 1598 s, 1549 m, 1508 w, 1411 s, 1251 w, 1180 m, 1144 w, 1100 m, 1060 w, 1016 m, 887 w, 860 w, 784 w, 762 m, 722 w, 646 s, 518 w, 478 m"
+          }
+        },
+        {
+          "step": "Convenient synthesis of powder sample",
+          "chemicals_used": "ligand (L), ZrO(NO3)2·xH2O",
+          "solvents": "DMF, glacial acetic acid",
+          "temperature": "80 ℃",
+          "time": "five days",
+          "yield": "78%"
+        }
+      ],
+      "adsorption_measurements": {
+        "preparation": "Fresh sample of HBU-20 (∼300 mg) was immersed in acetone for five days, and fresh solvent was exchanged every 12 h to remove the high boiling solvent molecules completely. Then the powder was activated at 50 °C for 24 h and collected for further gas adsorption analyses. After vacuum degassing at 60 °C for 12 h, N2 adsorption isotherm was achieved at 77 K, while other selected gas adsorption determinations were performed at 273 K and 298 K, respectively. Dynamic breakthrough separation experiments were implemented at 298 K."
+      },
+      "gas_adsorption": {
+        "SO2": {
+          "adsorption_capacity": "6.69 mmol/g at 298 K and 100 kPa"
+        },
+        "CO2": {
+          "adsorption_capacity": "1.19 mmol/g at 298 K"
+        },
+        "CH4": {
+          "adsorption_capacity": "0.39 mmol/g at 298 K"
+        },
+        "C2H2": {
+          "adsorption_capacity": "2.57 mmol/g at 298 K"
+        },
+        "C2H4": {
+          "adsorption_capacity": "2.13 mmol/g at 298 K"
+        }
+      },
+      "breakthrough_experiments": {
+        "SO2/CO2": {
+          "selectivity": "81.1",
+          "conditions": "0.1 (SO2): 9.9 (CO2 or CH4): 40 (N2) gas mixtures flowed through the activated samples packed into the same glass column (1.0 cm inner diameter, 7.0 cm in length). The gas mixture passed through the column at a rate of 50 mL/min."
+        },
+        "SO2/CH4": {
+          "selectivity": "117.6"
+        }
+      }
+    }
+  ]
+}

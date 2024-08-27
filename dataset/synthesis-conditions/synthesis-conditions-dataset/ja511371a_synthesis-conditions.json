@@ -1,0 +1,73 @@
+{
+  "materials": [
+    {
+      "material": "oxidant 2",
+      "synthesis_conditions": {
+        "steps": [
+          {
+            "step": 1,
+            "chemicals_used": [
+              "N-methylhydroxylamine hydrochloride (5.0 g, 60 mmol)",
+              "NaHCO3 (10.0g, 120 mmol, 2.0 equiv)",
+              "ethylchloroformate (6.3 mL, 66 mmol, 1.1 equiv)"
+            ],
+            "solvents": [
+              "THF (100 mL)",
+              "H2O (10 mL)"
+            ],
+            "equipment": "suspension stirred overnight at room temperature",
+            "yield": "not specified"
+          },
+          {
+            "step": 2,
+            "chemicals_used": [
+              "ethyl hydroxyl(methyl)carbamate (3.0 g, 28.5 mmol, 1.0 equiv)",
+              "Et3N (5.1 mL, 37.1 mmol, 1.3 equiv)",
+              "2-nitrobenzenesulfonyl chloride (6.6 g, 29.9 mmol, 1.05 equiv)"
+            ],
+            "solvents": "CH2Cl2 (200 mL)",
+            "equipment": "stirred at 0 oC for 5h",
+            "yield": "not specified"
+          }
+        ],
+        "washing_method": "diluted with 0.5 M aqueous citric acid (100 mL) and extracted with CH2Cl2 (2×100 mL)",
+        "drying_method": "dried over Na2SO4 and concentrated in vacuo"
+      }
+    },
+    {
+      "material": "β-hydroxyl esters",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": "toluene (4.5 mL) and MeOH (100 μL)",
+        "equipment": "Schlenk tube equipped with a magnetic stir bar",
+        "chemicals_used": [
+          "catalyst 4c (11.0 mg, 15 mol%)",
+          "K2CO3 (41.4 mg, 1.5 equiv)",
+          "enal (0.4 mmol, 2.0 equiv)",
+          "oxidant 2 (60.8 mg, 0.2 mmol, 1.0 equiv)"
+        ],
+        "time": "overnight",
+        "washing_method": "directly applied to silica gel chromatography",
+        "yield": "varies for different β-hydroxyl esters",
+        "ee": "varies for different β-hydroxyl esters"
+      }
+    },
+    {
+      "material": "unsaturated esters",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": "toluene (1.5 mL) and MeOH (30 μL)",
+        "equipment": "Schlenk tube equipped with a magnetic stir bar",
+        "chemicals_used": [
+          "catalyst 4c (2.8 mg, 15 mol%)",
+          "K2CO3 (10.4 mg, 1.5 equiv)",
+          "enal (0.05 mmol, 1.0 equiv)",
+          "oxidant 2 (22.8 mg, 0.075 mmol, 1.5 equiv)"
+        ],
+        "time": "overnight",
+        "washing_method": "directly applied to silica gel chromatography",
+        "yield": "not specified"
+      }
+    }
+  ]
+}

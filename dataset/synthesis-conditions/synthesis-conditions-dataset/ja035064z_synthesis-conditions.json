@@ -1,0 +1,125 @@
+{
+  "materials": [
+    {
+      "material_id": "1",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "CH2Cl2",
+            "amount": "35 ml"
+          },
+          {
+            "name": "Diethyl ether",
+            "purpose": "precipitate the product"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "PAnP",
+            "amount": "0.1512g",
+            "molarity": "0.28 mmol"
+          },
+          {
+            "name": "Me2SAuCl",
+            "amount": "1.16 g",
+            "molarity": "0.56 mmol"
+          }
+        ],
+        "yield": "50%",
+        "time": "2 h",
+        "drying_method": "rotary evaporation",
+        "crystallization_method": "vapor diffusion of ether into a dichloromethane solution"
+      }
+    },
+    {
+      "material_id": "2",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "CH2Cl2",
+            "amount": "35 ml"
+          },
+          {
+            "name": "Diethyl ether",
+            "purpose": "precipitate the product"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "PAnP",
+            "amount": "0.13g",
+            "molarity": "0.24 mmol"
+          },
+          {
+            "name": "Me2SAuBr",
+            "amount": "0.16g",
+            "molarity": "0.48 mmol"
+          }
+        ],
+        "yield": "40%",
+        "time": "2 hours",
+        "drying_method": "rotary evaporation",
+        "crystallization_method": "vapor diffusion of ether into a chloroform solution"
+      }
+    },
+    {
+      "material_id": "3",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "25 ml"
+          },
+          {
+            "name": "CH2Cl2",
+            "amount": "25 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "AgSbF6",
+            "amount": "0.034g",
+            "molarity": "0.10 mmol"
+          },
+          {
+            "name": "1",
+            "amount": "0.200g",
+            "molarity": "0.20 mmol"
+          }
+        ],
+        "yield": "43%",
+        "time": "three days",
+        "crystallization_method": "slow diffusion of THF solution layered on CH2Cl2 solution"
+      }
+    },
+    {
+      "material_id": "4",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "10 ml"
+          },
+          {
+            "name": "CH2Cl2",
+            "amount": "10 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "AgSbF6",
+            "amount": "0.0180g",
+            "molarity": "0.053 mmol"
+          },
+          {
+            "name": "2",
+            "amount": "0.115g",
+            "molarity": "0.105 mmol"
+          }
+        ],
+        "yield": "45%",
+        "crystallization_method": "slow diffusion of THF solution layered on CH2Cl2 solution"
+      }
+    }
+  ]
+}

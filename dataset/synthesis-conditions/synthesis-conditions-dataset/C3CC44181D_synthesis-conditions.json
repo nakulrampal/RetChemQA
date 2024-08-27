@@ -1,0 +1,64 @@
+{
+  "materials": [
+    {
+      "material": "[Ln3(μ3-OH)3(Pra2biim)3(H2O)2]n·4nH2O [Ln = Nd(1), Pr(2) and La(3)]",
+      "synthesis_conditions": {
+        "temperature": "130 ℃",
+        "time": "3 days",
+        "solvents": [
+          {
+            "solvent": "H2O",
+            "amount": "3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "chemical": "Ln(NO3)2•6H2O",
+            "amount": "0.033 mmol",
+            "specifics": [
+              {
+                "Ln": "Nd(NO3)3·6H2O",
+                "amount": "0.0146 g"
+              },
+              {
+                "Ln": "Pr(NO3)3·6H2O",
+                "amount": "0.0145 g"
+              },
+              {
+                "Ln": "La(NO3)2·6H2O",
+                "amount": "0.0143 g"
+              }
+            ]
+          },
+          {
+            "chemical": "H2Pra2biim",
+            "amount": "0.05 mmol",
+            "amount_g": "0.0139 g"
+          },
+          {
+            "chemical": "NaOH",
+            "amount": "0.14mmol",
+            "amount_g": "0.0056g"
+          }
+        ],
+        "equipment": "20 mL Teflon-lined stainless steel autoclave",
+        "yield": [
+          {
+            "material": "1",
+            "yield_percentage": "47%"
+          },
+          {
+            "material": "2",
+            "yield_percentage": "52%"
+          },
+          {
+            "material": "3",
+            "yield_percentage": "49%"
+          }
+        ],
+        "drying_method": "Not specified",
+        "washing_method": "Not specified"
+      }
+    }
+  ]
+}

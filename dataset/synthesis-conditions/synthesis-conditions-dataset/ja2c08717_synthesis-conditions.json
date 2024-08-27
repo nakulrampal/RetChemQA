@@ -1,0 +1,92 @@
+{
+  "materials": [
+    {
+      "name": "ALP-MOF-1-AS",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": "DMA/H2O",
+        "amount_of_each_solvent": "60 mL DMA, 10 mL H2O",
+        "equipment": "N/A",
+        "chemicals_used": "Zn(NO3)2·6H2O, allopurinol (H2ALP), terephthalic acid (H2BDC)",
+        "time": "12 h",
+        "yield": "∼80%",
+        "washing_method": "washed with fresh DMA (3×)",
+        "drying_method": "N/A"
+      }
+    },
+    {
+      "name": "ALP-MOF-1-acetone",
+      "synthesis_conditions": {
+        "washing_method": "soaked in acetone for 5 days, acetone refreshed 2 times per day"
+      }
+    },
+    {
+      "name": "ALP-MOF-1-A",
+      "synthesis_conditions": {
+        "activation_method": "evacuation at room temperature for 24 h"
+      }
+    },
+    {
+      "name": "ALP-MOF-1-4H2O",
+      "synthesis_conditions": {
+        "humidity_condition": "exposed to saturated CH3COOK solution (RH = ∼23%) at room temperature overnight"
+      }
+    },
+    {
+      "name": "ALP-MOF-1-5H2O",
+      "synthesis_conditions": {
+        "humidity_condition": "exposed to saturated NaBr solution (RH = ∼55%) at 30 °C overnight"
+      }
+    },
+    {
+      "name": "ALP-MOF-1-7H2O",
+      "synthesis_conditions": {
+        "humidity_condition": "exposed to saturated NaCl solution (RH = ∼75%) at room temperature overnight"
+      }
+    },
+    {
+      "name": "ALP-MOF-1-14H2O",
+      "synthesis_conditions": {
+        "humidity_condition": "soaked in 2 drops of water at room temperature for 2 h"
+      }
+    },
+    {
+      "name": "ALP-MOF-2",
+      "synthesis_conditions": {
+        "temperature": "50 °C",
+        "solvents": "CH3CN",
+        "amount_of_each_solvent": "20 mL",
+        "equipment": "N/A",
+        "chemicals_used": "CoCl2, single crystals of ALP-MOF-1-AS",
+        "time": "7 d",
+        "washing_method": "thoroughly washed with CH3CN for at least 5 d, CH3CN refreshed 3 times per day",
+        "activation_method": "heating at 80 °C under vacuum for 12 h"
+      }
+    },
+    {
+      "name": "ALP-MOF-2-1H2O",
+      "synthesis_conditions": {
+        "humidity_condition": "exposed to saturated CsF solution (RH = ∼4%) at room temperature overnight"
+      }
+    },
+    {
+      "name": "ALP-MOF-2-3H2O",
+      "synthesis_conditions": {
+        "humidity_condition": "exposed to saturated LiCl solution (RH = ∼11%) at room temperature overnight"
+      }
+    },
+    {
+      "name": "Mixed Co­(II)/Zn­(II) ALP-MOFs",
+      "synthesis_conditions": {
+        "temperature": "50 °C",
+        "solvents": "CH3CN",
+        "amount_of_each_solvent": "20 mL",
+        "equipment": "N/A",
+        "chemicals_used": "CoCl2, single crystals of ALP-MOF-1-AS",
+        "time": "varied (0.5 h to 48 h) to achieve different Co/Zn ratios",
+        "washing_method": "N/A",
+        "activation_method": "N/A"
+      }
+    }
+  ]
+}

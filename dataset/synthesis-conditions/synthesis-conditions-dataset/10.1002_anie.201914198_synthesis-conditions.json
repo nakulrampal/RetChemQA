@@ -1,0 +1,72 @@
+{
+  "materials": [
+    {
+      "name": "[Zn(oba)(pip)]n (JUK-8)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "80 8C",
+          "solvents": [
+            {
+              "name": "DMF/H2O",
+              "amount": null
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "4-pyridyl benzene-1,3-dicarbohydrazide (pip)",
+              "amount": null
+            },
+            {
+              "name": "4,4’-oxybis(benzenedicarboxylic) acid (H2oba)",
+              "amount": null
+            },
+            {
+              "name": "Zn(NO3)2·6 H2O",
+              "amount": null
+            }
+          ],
+          "yield": "> 85 %"
+        }
+      ],
+      "washing_method": null,
+      "drying_method": null
+    },
+    {
+      "name": "JUK-8 cp",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "180 8C",
+          "equipment": "vacuum",
+          "description": "Desolvation of JUK-8 op to obtain guest-free closed-pore phase JUK-8 cp."
+        }
+      ],
+      "washing_method": null,
+      "drying_method": null
+    },
+    {
+      "name": "JUK-8 ip",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "ambient conditions",
+          "description": "JUK-8 cp immediately adsorbs water molecules and transforms into another crystalline intermediate phase, {[Zn(oba)(pip)]·2 H2O}n, denoted as JUK-8 ip."
+        }
+      ],
+      "washing_method": null,
+      "drying_method": null
+    },
+    {
+      "name": "JUK-8 op_H2O",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "description": "All the above mentioned phases transform to {[Zn(oba)(pip)]·10 H2O}n (JUK-8 op_H2O) when immersed in water."
+        }
+      ],
+      "washing_method": null,
+      "drying_method": null
+    }
+  ]
+}

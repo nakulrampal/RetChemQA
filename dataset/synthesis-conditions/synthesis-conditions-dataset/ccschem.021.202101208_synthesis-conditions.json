@@ -1,0 +1,93 @@
+{
+  "materials": [
+    {
+      "name": "Bicyclocalix[2]arene[2]triazines tricarboxylic acid (BCTA)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Cyanuric chloride",
+            "amount": "9.3g, 50mmol"
+          },
+          {
+            "name": "anhydrous AlCl3",
+            "amount": "8.1g, 60mmol"
+          },
+          {
+            "name": "chlorobenzene",
+            "amount": "70ml"
+          },
+          {
+            "name": "phloroglucinol",
+            "amount": "0.25g, 2mmol (twice)"
+          },
+          {
+            "name": "gridded K2CO3",
+            "amount": "0.84g, 6mmol (twice)"
+          },
+          {
+            "name": "acetone",
+            "amount": "50ml (twice)"
+          },
+          {
+            "name": "CrO3",
+            "amount": "120mg, 1.2mmol"
+          },
+          {
+            "name": "H5IO6",
+            "amount": "320mg, 8.4mmol"
+          }
+        ],
+        "solvents": [
+          "acetone",
+          "CH2Cl2",
+          "petroleum ether",
+          "THF",
+          "acetonitrile"
+        ],
+        "temperature": "Reflux, Room temperature, >300 oC",
+        "time": "12h, 4h + 2h, 10h",
+        "yield": "83%, 48%, 89%",
+        "washing_method": "Boiled with charcoal, Washed with water",
+        "drying_method": "Evaporated by rotating vacuum evaporator",
+        "recrystallization_solvent": "Mixture of CH2Cl2 and petroleum ether, Mixture of THF and acetonitrile"
+      }
+    },
+    {
+      "name": "IPM-1",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "BCTA",
+            "amount": "5 mg, 5.9×10-6 mol"
+          },
+          {
+            "name": "MnCl2·4H2O",
+            "amount": "10 mg, 5.05×10-5 mol"
+          }
+        ],
+        "solvents": [
+          "dimethylformamide (DMF)"
+        ],
+        "temperature": "120 oC",
+        "time": "72h",
+        "equipment": "Schlenk tube",
+        "yield": "73% (for large scale preparation)",
+        "activation_method": "Immersed in ethanol/dichloromethane=1:1 for 2 days, Activated at 120 oC under vacuum for 6h"
+      }
+    },
+    {
+      "name": "IPM-1 nanosheet",
+      "synthesis_conditions": {
+        "preparation_method": "Ultrasonic exfoliation",
+        "solvents": [
+          "ethanol/iso-propanol mixture"
+        ],
+        "equipment": "JY96-IIN ultrasonic cell disrupter, 100 W ultrasonic generator",
+        "time": "3h",
+        "power_settings": "20% power, 70% power",
+        "activation_method": "Activated at 100 oC under vacuum for 6h",
+        "yield": "150 mg (after drying)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "materials": [
+    {
+      "material": "(NH4)4[MnCr2(ox)6] . 4H2O",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "Water",
+            "amount": "2 mL"
+          },
+          {
+            "name": "Ethanol",
+            "method": "slow diffusion"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "MnCl2 . 4H2O",
+            "amount": "0.1 g, 0.5 mmol"
+          },
+          {
+            "name": "(NH4)3[Cr(ox)3] . 3H2O",
+            "amount": "0.42 g, 1 mmol"
+          }
+        ],
+        "yield": "Not specified",
+        "washing_method": "Isolated by filtration on paper",
+        "drying_method": "Air-dried",
+        "time": "Not specified",
+        "equipment": "Not specified",
+        "analysis": {
+          "calculated": "C, 17.34; H, 2.91; N, 6.74",
+          "found": "C, 17.21; H, 2.65; N, 6.89",
+          "IR_spectra": "1707, 1670 and 1639 (CO) cm-1"
+        }
+      }
+    }
+  ],
+  "physical_techniques": {
+    "elemental_analysis": "Service Central d’Analyse du CNRS in Vernaisson (France)",
+    "IR_spectra": "Bio-Rad FTS165 spectrophotometer",
+    "crystal_structure_data_collection_and_refinement": {
+      "crystal_data_for_1": "C12H21Cr2MnN4O26.5, hexagonal, space group P6522, a = 19.411(2) Å, c = 16.0339(12) Å, V = 5232.0(15) Å3, T = 200(1) K, λ = 0.71073 Å, Z = 6, ρcalc = 1.491 g.cm-3, μ = 1.062 mm-1, Flack parameter = 0.01(4), 5096 unique reflections and 3681 observed with I > 2σ(I).",
+      "refinement": "R = 0.0578 and Rw = 0.1484, with S = 1.045",
+      "software": "SHELXS-97 and SHELXL-97",
+      "CCDC_number": "CCDC-826007"
+    },
+    "proton_conductivity_measurements": {
+      "equipment": "Agilent 4294A precision impedance analyzer",
+      "method": "quasi-four-probe method",
+      "frequency_range": "40 Hz to 110 MHz",
+      "sample_preparation": "powdered sample was compressed into diameter of 7 mm and thickness of 0.10 cm",
+      "humidity_control": "using dry N2 that had been passed through water or a saturated aqueous solution of NaBr"
+    },
+    "magnetic_measurements": {
+      "equipment": "Quantum Design MPMS SQUID-based magnetometer",
+      "temperature_range": "2.0–300 K",
+      "applied_field": "1 T (T ≥ 30 K) and 100 G (T < 30 K)",
+      "variable-field_magnetization_measurements_temperature": "T = 2.0 K",
+      "corrections": "for the diamagnetism of the constituent atoms and the sample holder"
+    }
+  }
+}

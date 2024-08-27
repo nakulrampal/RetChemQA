@@ -1,0 +1,128 @@
+{
+  "materials": [
+    {
+      "material": "14-vertex nido-carborane salt [{(CH2)3C2B12H12}{Na2(thf)4}]n (3)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "10 mL"
+          }
+        ],
+        "equipment": "N/A",
+        "chemicals_used": [
+          {
+            "name": "sodium metal",
+            "amount": "100 mg, 4.35 mmol"
+          },
+          {
+            "name": "2,3-(CH2)3-2,3-C2B12H12 (2)",
+            "amount": "208 mg, 1.00 mmol"
+          }
+        ],
+        "time": "one week",
+        "washing_method": "N/A",
+        "drying_method": "removal of excess sodium metal, concentration of solution, addition of toluene",
+        "yield": "80 %",
+        "additional_notes": "The solution was concentrated to about 5 mL, and 4 mL of toluene was added before obtaining colorless crystals."
+      }
+    },
+    {
+      "material": "15-vertex ruthenacarborane 1,4-(CH2)3-7-(p-cymene)-7,1,4-RuC2B12H12 (4)",
+      "synthesis_conditions": {
+        "temperature": "room temperature after mixing at -78 °C",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "20 mL (10 mL for each component)"
+          }
+        ],
+        "equipment": "N/A",
+        "chemicals_used": [
+          {
+            "name": "14-vertex nido-carborane salt [{(CH2)3C2B12H12}{Na2(thf)4}]n (3)",
+            "amount": "542 mg, 1.00 mmol"
+          },
+          {
+            "name": "[{(p-cymene)RuCl2}2]",
+            "amount": "306 mg, 0.50 mmol"
+          }
+        ],
+        "time": "12 h",
+        "washing_method": "Removal of the precipitate",
+        "drying_method": "Removal of solvents",
+        "yield": "62 %",
+        "additional_notes": "The mixture was initially cooled to -78 °C before stirring at room temperature."
+      }
+    },
+    {
+      "material": "14-vertex metallacarborane 2,3-(CH2)3-1-(p-cymene)-1,2,3-RuC2B11H11 (5 a)",
+      "synthesis_conditions": {
+        "temperature": "room temperature after mixing at -78 °C",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "20 mL (10 mL for each component)"
+          }
+        ],
+        "equipment": "N/A",
+        "chemicals_used": [
+          {
+            "name": "13-vertex nido-carborane salt [{(CH2)3C2B11H11}{Na2(thf)4}]n (1)",
+            "amount": "531 mg, 1.00 mmol"
+          },
+          {
+            "name": "[{(p-cymene)RuCl2}2]",
+            "amount": "306 mg, 0.50 mmol"
+          }
+        ],
+        "time": "12 h",
+        "washing_method": "Removal of the precipitate",
+        "drying_method": "Removal of solvents",
+        "yield": "72 %",
+        "additional_notes": "The mixture was initially cooled to -78 °C before stirring at room temperature."
+      }
+    },
+    {
+      "material": "14-vertex metallacarborane 2,13-(CH2)3-1-(p-cymene)-1,2,13-RuC2B11H11 (5 b)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "10 mL"
+          },
+          {
+            "name": "toluene",
+            "amount": "N/A"
+          }
+        ],
+        "equipment": "N/A",
+        "chemicals_used": [
+          {
+            "name": "5 a",
+            "amount": "432 mg, 1.00 mmol"
+          },
+          {
+            "name": "sodium metal",
+            "amount": "69 mg, 3.00 mmol"
+          },
+          {
+            "name": "naphthalene",
+            "amount": "13 mg, 0.10 mmol"
+          },
+          {
+            "name": "[{(p-cymene)RuCl2}2]",
+            "amount": "367 mg, 0.60 mmol"
+          }
+        ],
+        "time": "2 days for initial reaction, 6 h for subsequent reaction",
+        "washing_method": "Chromatographic separation",
+        "drying_method": "Removal of excess sodium metal",
+        "yield": "5 a (80 %), 5 b (5 %)",
+        "additional_notes": "The reaction was monitored by 11B NMR spectroscopy."
+      }
+    }
+  ]
+}

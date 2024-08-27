@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "question": "What is the effect of methanol on the structural stability of Sc2BDC3 under high pressure?",
+      "answer": "The presence of methanol completely inhibits the reversible amorphization of Sc2BDC3 and the displacive phase transition of its nitro-functionalized derivative, at least up to 3 GPa.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the unit cell volume of Sc2BDC3 change when compressed in Fluorinert FC-77 compared to methanol?",
+      "answer": "In Fluorinert FC-77, Sc2BDC3 undergoes amorphization above 0.1 GPa, which is reversible upon pressure release. In methanol, the unit cell volume expands initially as methanol is forced into the framework, and the crystallinity is retained up to 3.0 GPa.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What computational methods were used to study the adsorption and orientation of methanol molecules in Sc2BDC3?",
+      "answer": "Grand Canonical Monte Carlo (GCMC) simulations were used to study the order in which adsorption sites are filled by methanol molecules, and Molecular Dynamics (MD) simulations were performed to elucidate the pore-filling mechanism and the orientations of the methanol molecules.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the impact of nitro-functionalization on the high-pressure behavior of Sc2BDC3?",
+      "answer": "Nitro-functionalization (Sc2(NO2-BDC)3) alters the high-pressure behavior by undergoing a phase transition from C2/c to Fdd2 at 0.8 GPa, leading to a denser but topologically identical polymorph. This modification increases the stability of the crystalline phase against amorphization compared to the unfunctionalized Sc2BDC3.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the synthesis method differ between Sc2BDC3 and its nitro-functionalized derivative?",
+      "answer": "Sc2BDC3 is synthesized via a solvothermal route involving Sc(NO3)3·4H2O, H2BDC, H2O2, pyridine, and DMF, while Sc2(NO2-BDC)3 is synthesized hydrothermally using Sc(NO3)3·4H2O, NO2-BDC, and water.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What role does the pressure-transmitting fluid play in the structural response of MOFs under high pressure?",
+      "answer": "The choice of pressure-transmitting fluid significantly affects the structural response of MOFs under high pressure. For instance, nonpenetrative fluids like Fluorinert can lead to amorphization, while penetrative fluids like methanol can stabilize the structure and inhibit amorphization or phase transitions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the amorphization of Sc2BDC3 in Fluorinert FC-77 reversible upon pressure release?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of methanol prevent the high-pressure phase transition observed in Sc2(NO2-BDC)3?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the orientations of methanol molecules within Sc2BDC3 be determined directly from X-ray diffraction data?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does Sc2(NO2-BDC)3 undergo a reversible phase transition under high pressure in Fluorinert FC-77?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the methanol adsorption isotherms for Sc2BDC3 and Sc2(NO2-BDC)3 identical at ambient pressure conditions?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the compressibility of Sc2BDC3 in methanol decrease as a function of pressure?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the crystalline-to-amorphous transition observed in Sc2BDC3 at high pressure in Fluorinert FC-77 indicative of bond breaking within the framework?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the primary focus of the research article with DOI 10.1021/jacs.3c02100?",
+      "answer": "The primary focus of the research article is on noncryogenic air separation using Aluminum Formate, Al(HCOO)3 (ALF), and its potential for oxygen-enriched gas streams creation.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the synthesis conditions for Aluminum Formate (ALF) as described in the article?",
+      "answer": "ALF is synthesized by refluxing formic acid and aluminum hydroxide at 100 °C for 48 hours, followed by centrifugation, rinsing with ethanol, and drying.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the article describe the activation process of as-made ALF to produce guest-free ALF?",
+      "answer": "The activation process involves heating the as-made ALF under high vacuum or in air at elevated temperatures for 24 hours to yield guest-free ALF.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of Cr3+ contamination in ALF, according to the article?",
+      "answer": "Cr3+ contamination in ALF, although unintended, proves to be useful for monitoring oxygen adsorption due to the quenching of Cr3+ fluorescence by paramagnetic O2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The article suggests that ALF has the highest O2/N2 sorption selectivity among MOF adsorbents without open metal sites.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational methods were used to understand the O2 adsorption mechanism in ALF, as mentioned in the article?",
+      "answer": "Density Functional Theory (DFT) calculations were performed using the projected augmented wave (PAW) potentials and the generalized gradient approximation level (GGA-PBE) with van der Waals interactions modeled using Grimme’s DFT-D3 scheme.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "According to the article, how does ALF-Fe compare to ALF in terms of O2 adsorption kinetics?",
+      "answer": "ALF-Fe shows markedly similar behavior to ALF in terms of absolute adsorption behavior but with approximately 3-fold faster O2 adsorption.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The article indicates that particle size is a contributing factor to the increased kinetics observed in ALF-Fe compared to ALF.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental techniques were used to monitor the behavior of ALF upon O2 adsorption, as detailed in the article?",
+      "answer": "In situ neutron and synchrotron X-ray diffraction experiments, Raman spectroscopy, and photoluminescence measurements were used to monitor the behavior of ALF upon O2 adsorption.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The article demonstrates that ALF's excellent O2/N2 separation performance is due to molecular sieving that takes advantage of the small difference between the kinetic diameters of O2 and N2.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

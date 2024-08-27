@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "question": "What is the primary advantage of MOFs in sensing applications due to their high internal surface areas?",
+      "answer": "MOFs can concentrate analytes to levels high above those in the surrounding atmosphere, eliminating the need for sample pretreatment and leading to much smaller detection levels.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of analyte molecules typically affect the luminescence intensity of MOFs?",
+      "answer": "Analyte molecules typically quench the excited states of lanthanide ions or fluorescent linkers, thereby turning off or reducing the luminescence intensity of the parent material.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the primary goal in designing turn-on fluorescent MOF-based sensors?",
+      "answer": "The primary goal was to decrease the barrier to phenyl ring torsion to provide a fluorescent MOF with a default dark off state.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the strain energy (SE) in the context of MOFs?",
+      "answer": "The strain energy (SE) is significant because it highlights the potential avenue for fundamental studies in MOFs related to conformational locking, which can impact molecular reactivity and chromophore photophysics.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What approach was used to estimate the ligand strain energies in MOFs?",
+      "answer": "DFT calculations were used to estimate the ligand strain energies in MOFs, and these were correlated with empirical structural descriptors to derive general rules for trapping molecules in high-energy conformations within MOFs.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the result of attempting to synthesize a Cu analogue of the zinc-based MOF?",
+      "answer": "The attempt to access a Cu analogue of the zinc-based MOF both solvothermally and by postsynthetic ion metathesis failed.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the fluorescence quantum yield of [Zn4(TDPEPE)(H2O)4(DEF)4] compare to that of [Zn2(TCPE)(DEF)2]?",
+      "answer": "The fluorescence quantum yield of [Zn4(TDPEPE)(H2O)4(DEF)4] is significantly lower than that of [Zn2(TCPE)(DEF)2], indicating a remarkable reduction and the presence of a nearly dark off state.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the primary challenge in the synthesis of the ethynyl-extended TPE-based ligand?",
+      "answer": "The primary challenge was to minimize the torsional barrier for phenyl ring flipping in the central TPE core to achieve a fluorescent MOF with a default dark off state.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the calculated activation barrier for phenyl ring torsion in TDPEPE8– constrained within the MOF suggest about its fluorescence?",
+      "answer": "The calculated activation barrier being notably lower than that for a related compound suggests that the almost complete quenching of fluorescence in the MOF is due to relaxed torsional motion of the phenyl rings, as designed.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What empirical rule can be derived from the relationship between the strain energy and the stability of MOFs?",
+      "answer": "An empirical rule can be derived that significant strain should be imposed on ligands within tbo nets when the ratio κ = d1/d2 in the free ligand is much larger than ∼1.5, affecting MOF stability.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the fluorescence quantum yield of [Zn4(TDPEPE)(H2O)4(DEF)4] higher than that of [Zn2(TCPE)(DEF)2]?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of analyte molecules always increase the luminescence intensity of MOFs?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the strain energy (SE) irrelevant to the study of MOFs?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was a Cu analogue of the zinc-based MOF successfully synthesized?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the fluorescence quantum yield of [Zn4(TDPEPE)(H2O)4(DEF)4] solely determined by electronic factors?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the empirical rule state that MOFs with lower κ values are more stable?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the strain in TDPEPE8–⊂1 strictly related to ligand size or functional groups?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

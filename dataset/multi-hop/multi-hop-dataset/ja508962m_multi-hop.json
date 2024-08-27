@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are the metal ions used in the synthesis of TABD-MOF-1, TABD-MOF-2, and TABD-MOF-3?",
+      "answer": "Mg2+, Ni2+, and Co2+ respectively",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the ligand 4,4'-((Z,Z)-1,4-diphenylbuta-1,3-diene-1,4-diyl)dibenzoic acid (TABD-COOH) in the synthesis of TABD-MOFs?",
+      "answer": "It acts as an organic strut with AIE feature, coordinating with metal nodes to form the MOFs",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the change in metal ion from Mg2+ to Ni2+ and Co2+ affect the fluorescence of TABD-MOFs?",
+      "answer": "The fluorescence changes from highly emissive (TABD-MOF-1) to barely fluorescent and completely nonfluorescent (TABD-MOF-2 and TABD-MOF-3) due to stronger ligand-to-metal charge transfer",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the detection limit of NTO using TABD-MOF-3 and how is it calculated?",
+      "answer": "The detection limit is 4 × 10-8 mol/L, calculated based on the standard deviation of blank measurement and the slope between the ratio of emission intensity versus NTO concentration near the detection limit",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why do TABD-MOFs enable turn-on detection of energetic heterocyclic compounds?",
+      "answer": "The AIE feature of TABD-COOH and the competitive coordination substitution mechanism allow the release and subsequent reassembly of AIE molecules into emissive aggregates upon detection of energetic heterocyclic compounds",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the fluorescence turn-on detection method for NTO using TABD-MOFs visible to the naked eye?",
+      "answer": "Yes, the cobalt-based MOF (TABD-MOF-3) can selectively sense NTO with high sensitivity discernible by the naked eye",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can TABD-MOF-3 detect common organic molecules and nitroaromatics such as TNT and HMX?",
+      "answer": "False, no obvious emission changes were observed for common organic molecules and nitroaromatics, indicating that these do not interfere with the sensing results",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What structural feature of TABD-MOF-1 aids in avoiding nonradiative pathways?",
+      "answer": "C–H···π interactions in TABD-MOF-1 efficiently restrict the rotations of the phenyl rings, avoid close π–π interactions, lower the nonemissive energy lost, and thus block the nonradiative pathway",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the synthesis of TABD-MOFs involve heating a solution mixture of TABD-COOH and metal nitrates in DMF?",
+      "answer": "True, the syntheses of the three TABD-MOFs were carried out by heating a solution mixture of TABD-COOH and metal nitrates in DMF at 85 °C for 1 day",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the crystal structures of TABD-MOFs determined by single-crystal X-ray diffraction?",
+      "answer": "True, the crystal structures were determined by single-crystal X-ray diffraction (SXRD)",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What common feature do the heterocyclic compounds detected by TABD-MOFs share?",
+      "answer": "They all contain C=N and/or N=N bonds in the heterocyclic rings, which allows for competitive coordination substitution with the carboxylate groups in MOFs",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the fluorescence enhancement upon addition of NTO to TABD-MOF-3 quantitatively detectable?",
+      "answer": "True, fluorescence turn-on by NTO in THF/hexane could be quantitatively detected in the concentration range from 4 × 10-8 to 10-3 mol/L",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of hexane in the detection of NTO using TABD-MOF-3?",
+      "answer": "Hexane is added to the mixture to boost the emission by promoting the aggregation of dissociated TABD-COOH molecules, as part of the aggregation-induced emission mechanism",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the fluorescence method for detecting NTO using TABD-MOFs replace spectrophotometric and chromatographic methods?",
+      "answer": "False, while the fluorescent method allows rapid detection by the naked eye, it complements rather than replaces other methods due to its unique advantages and application scope",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What analytical techniques were used to confirm the mechanism of NTO detection by TABD-MOFs?",
+      "answer": "Mass spectrometry (MS), 1H NMR, and UV–vis spectroscopy were used to confirm the competitive coordination substitution mechanism and the release of TABD-COOH molecules",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the synthesis of TABD-MOFs require the use of purified solvents?",
+      "answer": "True, solvents were purified according to standard procedures before use in the synthesis of TABD-MOFs",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the PXRD patterns of TABD-MOFs consistent with their simulated data from SXRD?",
+      "answer": "True, the PXRD patterns match well with those simulated from their SXRD data, confirming the purity of the TABD-MOFs",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the fluorescence turn-on detection method developed using TABD-MOFs?",
+      "answer": "It offers a simple and efficient strategy for the selective detection of C=N- and/or N=N-containing heterocyclic explosives, with advantages of universality, high sensitivity, and ease of visualization",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the detection of NTO using TABD-MOF-3 based on a fluorescence 'turn-off' mechanism?",
+      "answer": "False, the detection is based on a fluorescence 'turn-on' mechanism, where the original fluorescence of the organic linkers is recovered through competitive coordination substitution",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of competitive coordination substitution in the detection mechanism of TABD-MOFs?",
+      "answer": "It allows the dissociation of coordination bonds between carboxylate groups and metal ions in MOFs, leading to the release of AIE molecules that reassemble into emissive aggregates upon detection of 5MR-EHCs",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

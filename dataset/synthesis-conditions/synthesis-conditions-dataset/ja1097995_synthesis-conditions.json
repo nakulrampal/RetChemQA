@@ -1,0 +1,97 @@
+{
+  "materials": [
+    {
+      "name": "N,N'-4,4'-Bipiperidinebis(methylenephosphonic acid) Tetrahydrate",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "distilled water",
+            "amount": "60 ml"
+          },
+          {
+            "name": "hydrobromic acid solution",
+            "amount": "42 ml"
+          },
+          {
+            "name": "ethanol-water solution",
+            "ratio": "90:10",
+            "amount": "3 x 30 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "4,4'-bipiperidine dihydrochloride",
+            "amount": "14.35 g"
+          },
+          {
+            "name": "phosphorous acid",
+            "amount": "12.8 g"
+          },
+          {
+            "name": "formaldehyde",
+            "amount": "26 ml"
+          }
+        ],
+        "temperature": "120°C",
+        "time": "20 hours",
+        "drying_method": "overnight at 40°C",
+        "yield": "92.4 %"
+      }
+    },
+    {
+      "name": "STA-16(Co)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "1000"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "cobalt(II) acetate tetrahydrate",
+            "source": "Sigma"
+          },
+          {
+            "name": "H4LL",
+            "note": "ligand"
+          },
+          {
+            "name": "KOH"
+          }
+        ],
+        "molar_ratio": "2.0:1.0:2.0",
+        "temperature": "220 °C",
+        "time": "72 h",
+        "drying_method": "heating for 3 h in air or under vacuum at 150 °C",
+        "color_change": "from purple to dark blue upon dehydration"
+      }
+    },
+    {
+      "name": "STA-16(Ni)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "nickel(II) acetate tetrahydrate",
+            "source": "Sigma"
+          },
+          {
+            "name": "H4LL",
+            "note": "ligand"
+          }
+        ],
+        "base": "not used",
+        "temperature": "not specified",
+        "time": "not specified",
+        "drying_method": "not specified",
+        "color": "light green microcrystalline powder"
+      }
+    }
+  ]
+}

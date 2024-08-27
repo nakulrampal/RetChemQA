@@ -1,0 +1,151 @@
+{
+  "materials": [
+    {
+      "name": "L0",
+      "synthesis_conditions": {
+        "temperature": "Reflux",
+        "solvents": [
+          {
+            "name": "EtOH/THF",
+            "amount": "450 mL EtOH and 200 mL THF"
+          },
+          {
+            "name": "MeOH",
+            "amount": "350 mL"
+          },
+          {
+            "name": "dichloromethane",
+            "amount": "35 mL"
+          }
+        ],
+        "equipment": "2000 mL flask",
+        "chemicals_used": [
+          {
+            "name": "CoCl2",
+            "amount": "91 mg"
+          },
+          {
+            "name": "NaBH4",
+            "amount": "8.0 g total in three portions"
+          },
+          {
+            "name": "HC(OEt)3",
+            "amount": "13.9 mL"
+          },
+          {
+            "name": "sulfamic acid",
+            "amount": "340 mg"
+          },
+          {
+            "name": "MeI",
+            "amount": "0.73 mL"
+          },
+          {
+            "name": "HBF4·OEt2",
+            "amount": "2.26 mL"
+          }
+        ],
+        "time": [
+          "1 h for MeI addition",
+          "2 h for HBF4·OEt2 reaction"
+        ],
+        "yield": "100% for dibromobenzimidazole core formation, 94% for final step",
+        "drying_method": "Vacuo at 50 ºC"
+      }
+    },
+    {
+      "name": "L1",
+      "synthesis_conditions": {
+        "temperature": "Reflux",
+        "solvents": [
+          {
+            "name": "pyridine",
+            "amount": "30 mL"
+          },
+          {
+            "name": "dichloromethane",
+            "amount": "15 mL"
+          }
+        ],
+        "equipment": "1000 mL flask",
+        "chemicals_used": [
+          {
+            "name": "Pd(CH3CN)2Cl2",
+            "amount": "900 mg"
+          },
+          {
+            "name": "NaI",
+            "amount": "750 mg"
+          },
+          {
+            "name": "K2CO3",
+            "amount": "2.07 g"
+          },
+          {
+            "name": "Me3SiOTf",
+            "amount": "1.67 mL"
+          }
+        ],
+        "time": "Overnight for reflux, 2 h for Me3SiOTf reaction",
+        "yield": "88% for metal-NHC bond formation, 74% for final step",
+        "drying_method": "Vacuo"
+      }
+    },
+    {
+      "name": "IRMOF-76",
+      "synthesis_conditions": {
+        "temperature": "100 ºC",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "15 mL"
+          }
+        ],
+        "equipment": "Capped vial",
+        "chemicals_used": [
+          {
+            "name": "L0",
+            "amount": "47 mg"
+          },
+          {
+            "name": "Zn(BF4)2 hydrate",
+            "amount": "72 mg"
+          },
+          {
+            "name": "KPF6",
+            "amount": "186 mg"
+          }
+        ],
+        "time": "24-48 h",
+        "washing_method": "Rinsed with DMF",
+        "drying_method": "Vacuo after solvent exchange with chloroform"
+      }
+    },
+    {
+      "name": "IRMOF-77",
+      "synthesis_conditions": {
+        "temperature": "100 ºC",
+        "solvents": [
+          {
+            "name": "DEF and pyridine",
+            "amount": "1.5 mL DEF and 0.02 mL pyridine"
+          }
+        ],
+        "equipment": "Capped vial",
+        "chemicals_used": [
+          {
+            "name": "L1",
+            "amount": "16.6 mg"
+          },
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "18 mg"
+          }
+        ],
+        "time": "24-36 h",
+        "washing_method": "Rinsed with DEF",
+        "activation_method": "Critical point drying with CO2, soaked in dry acetone before drying"
+      }
+    }
+  ]
+}

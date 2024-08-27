@@ -1,0 +1,52 @@
+{
+  "materials": [
+    {
+      "name": "Bi(NPh2)3 (1)",
+      "synthesis_conditions": {
+        "chemicals_used": "Brønsted acid HOTf, THF (Tf = SO2CF3)",
+        "amount_of_each_chemical": "one equivalent of Brønsted acid HOTf",
+        "solvent": "THF",
+        "temperature": "Not specified",
+        "equipment": "Not specified",
+        "time": "Not specified",
+        "yield": "Not specified"
+      }
+    },
+    {
+      "name": "[Bi2-(NC6H4Ph)2(thf)3(OTf)2] (2)",
+      "synthesis_conditions": {
+        "precursor": "Bi(NPh2)3 (1)",
+        "temperature": "23 88C",
+        "time": "about 16 h",
+        "solvents": "THF, pyridine",
+        "solubility": "highly soluble in pyridine, slightly soluble in THF, poorly soluble in diethyl ether, CH2Cl2, and hydrocarbons",
+        "yield": "91 % overall yield as a yellow solid",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified"
+      }
+    },
+    {
+      "name": "Compound 3",
+      "synthesis_conditions": {
+        "precursor": "[Bi2-(NC6H4Ph)2(thf)3(OTf)2] (2)",
+        "temperature": "reflux in pyridine",
+        "time": "Not specified",
+        "solvents": "pyridine, THF, CH2Cl2",
+        "solubility": "soluble in polar and chlorinated solvents, poorly soluble in Et2O and hydrocarbons",
+        "yield": "quantitative spectroscopic yield and 81 % yield upon isolation",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified"
+      }
+    },
+    {
+      "name": "Functionalized compounds from 2 and 3",
+      "synthesis_conditions": {
+        "precursors": "[Bi2-(NC6H4Ph)2(thf)3(OTf)2] (2) and Compound 3",
+        "reagents": "D2O, I2, FmocCl, (3,5-C6H3-(NO2)2)COCl, Br2",
+        "reaction_conditions": "One-pot reactions with electrophiles",
+        "yield": "Good to quantitative yields for reactions with 2; moderate to quantitative yields for reactions with 3",
+        "notes": "Specific conditions for each reaction product are not detailed"
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What are the synthesis conditions for Cd(im)2 as described in the supplementary information?",
+      "answer": "Single crystals of Cd(im)2 were prepared via slow diffusion of aqueous solutions (approximately 0.2 M) of cadmium(II) nitrate tetrahydrate (Sigma-Aldrich, 99%) and imidazole (Sigma-Aldrich, 99%). Deprotonation of the organic ligand was achieved by addition of a small quantity of ammonium hydroxide (Sigma-Aldrich, 99%). Crystals suitable for single-crystal X-ray diffraction experiments were obtained within 14 days. Polycrystalline samples of Cd(im)2 were obtained by direct precipitation from stoichiometric mixing of aqueous solutions of cadmium(II) nitrate tetrahydrate and imidazole. The resulting precipitate was washed (H2O), dried under vacuum, and finely ground.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How were the variable-temperature single-crystal X-ray diffraction experiments for Cd(im)2 conducted according to the supplementary information?",
+      "answer": "Variable-temperature single-crystal X-ray diffraction experiments were carried out on an Oxford Diffraction/Agilent SuperNova diffractometer (graphite-monochromated Mo Kα radiation, λ = 0.71073 Å) fitted with an Oxford Cryosystems Cryostream 600 open flow cooling device. Data were collected on a single crystal, mounted on a glass fiber with araldite at room temperature, on cooling from 500 to 100 K at intervals of 20 K, and then on heating from 110 to 310 K at intervals of 20 K. A single collection strategy was applied, scanning through a full ω circle and collecting to a resolution of 0.77 Å.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the purpose of using a polynomial background function, lattice constants, and atomic coordinates in the variable-temperature powder X-ray diffraction analysis of Cd(im)2?",
+      "answer": "The purpose of using a polynomial background function, lattice constants, and atomic coordinates in the variable-temperature powder X-ray diffraction analysis of Cd(im)2 was to refine the data using the Rietveld strategy. This approach allowed for the accurate determination of the structural parameters of Cd(im)2 as a function of temperature, providing insights into the thermal behavior and structural changes of the material.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "According to the supplementary information, how does the crystal structure of Cd(im)2 change with temperature based on single-crystal X-ray diffraction data?",
+      "answer": "Based on the single-crystal X-ray diffraction data presented in the supplementary information, the crystal structure of Cd(im)2 exhibits changes in lattice parameters (a, b, c) and volume (V) as a function of temperature. The data shows that as the temperature increases, there are systematic changes in the lattice parameters, indicating thermal expansion and structural changes within the Cd(im)2 framework. These changes are indicative of the material's response to thermal stimuli, reflecting adjustments in the atomic positions and bond lengths to accommodate the thermal energy.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental technique was used to investigate the pressure-induced phase transition in Zn(CN)2, as mentioned in the supplementary information?",
+      "answer": "The pressure-induced phase transition in Zn(CN)2 was investigated using variable-pressure neutron powder diffraction data collected as a function of neutron time-of-flight using the PEARL diffractometer at the ISIS Pulsed Neutron Source. This technique allowed for the observation of changes in the crystal structure of Zn(CN)2 under varying pressures, providing insights into the phase transition behavior of the material under high-pressure conditions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of Cd(im)2 involved the use of deuterated methanol/ethanol as a solvent.",
+      "answer": "False. The synthesis of Cd(im)2 as described in the supplementary information did not involve the use of deuterated methanol/ethanol as a solvent. Instead, aqueous solutions of cadmium(II) nitrate tetrahydrate and imidazole were used, with ammonium hydroxide added for deprotonation of the organic ligand.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The variable-pressure neutron powder diffraction experiments for Zn(CN)2 were conducted at room temperature.",
+      "answer": "True. According to the supplementary information, the variable-pressure neutron powder diffraction experiments for Zn(CN)2 were indeed conducted at room temperature, allowing for the investigation of the material's structural changes under different pressure conditions without the influence of temperature variations.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main finding from the analysis of Zn(CN)2's high-pressure phase using synchrotron powder diffraction, as detailed in the supplementary information?",
+      "answer": "The main finding from the analysis of Zn(CN)2's high-pressure phase using synchrotron powder diffraction, as detailed in the supplementary information, was the identification of a phase transition from the ambient phase Zn(CN)2-I to a high-pressure orthorhombic phase Zn(CN)2-II. This transition was characterized by changes in lattice parameters and the observation of a new diffraction pattern consistent with the orthorhombic polymorph, providing insights into the structural dynamics of Zn(CN)2 under pressure.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Based on the supplementary information, how does the polyhedral tilt parameter (ψ) in Cd(im)2 change with temperature?",
+      "answer": "Based on the supplementary information, the polyhedral tilt parameter (ψ) in Cd(im)2 decreases as the temperature increases. This change indicates that the polyhedral units within the Cd(im)2 structure undergo tilting adjustments as a function of temperature, contributing to the overall thermal expansion behavior of the material. The decrease in the ψ angle with increasing temperature suggests a trend towards higher symmetry in the structure, reflecting the material's response to thermal energy.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystallographic analysis of Cd(im)2 revealed that the cadmium–cadmium distances decrease as a function of temperature.",
+      "answer": "False. The crystallographic analysis of Cd(im)2 revealed that the cadmium–cadmium distances (connected via an imidazolate anion) and the cadmium–centroid–cadmium angle both increase as a function of temperature, while the cadmium–centroid (Cd–im) distances decrease. This indicates that the cadmium atoms move further apart, not closer, as the temperature increases.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

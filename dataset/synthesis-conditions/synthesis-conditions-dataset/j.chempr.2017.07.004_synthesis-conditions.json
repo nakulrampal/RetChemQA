@@ -1,0 +1,93 @@
+{
+  "materials": [
+    {
+      "name": "CMOM-3S",
+      "synthesis": [
+        {
+          "step": "Synthesis of CMOM-3S Single Crystals",
+          "description": "The compound CMOM-3S was synthesized by a procedure analogous to that reported recently. Specifically, a 5 mL methanol solution of 0.4 mmol Co(CF3SO3)2⋅6H2O (180 mg) and 0.4 mmol enantiopure (S)-mandelic acid (60.8 mg) was layered above a 5 mL 1,2-DCB solution of 0.3 mmol bpy (46.8 mg). The buffer solution of 5 mL 1:1 methanol/DCB was layered between the top and the bottom layers to allow slow diffusion for 7 days. Red rectangular prismatic crystals were obtained in ∼60% yield. The as-synthesized crystals were exchanged with DCM daily for 5 days to remove DCB. The resultant crystalline samples were stored in neat DCM for all further experiments.",
+          "solvents": [
+            {
+              "name": "Methanol",
+              "amount": "5 mL"
+            },
+            {
+              "name": "1,2-Dichlorobenzene (DCB)",
+              "amount": "5 mL"
+            },
+            {
+              "name": "DCM",
+              "amount": "for washing and storage"
+            }
+          ],
+          "chemicals": [
+            {
+              "name": "Co(CF3SO3)2⋅6H2O",
+              "amount": "0.4 mmol (180 mg)"
+            },
+            {
+              "name": "(S)-Mandelic acid",
+              "amount": "0.4 mmol (60.8 mg)"
+            },
+            {
+              "name": "Bpy (4,4'-bipyridine)",
+              "amount": "0.3 mmol (46.8 mg)"
+            }
+          ],
+          "yield": "∼60%",
+          "time": "7 days"
+        },
+        {
+          "step": "Synthesis of CMOM-3S Nanocrystals",
+          "description": "The nanocrystals of CMOM-3S were obtained by the slurry method. Typically, 0.8 mmol Co(CF3SO3)2⋅6H2O (360 mg) and 0.8 mmol enantiopure (S)-mandelic acid (121.6 mg) were stirred in 5 mL of methanol. A solution of 0.6 mmol bpy (93.6 mg) in 5 mL of DCB was added to that solution for 1 day with continuous stirring. The pink nanocrystalline powder was filtrated from the mother solution and washed with DCM (20 mL) ten times. The resultant material was stored in neat DCM for all further experiments.",
+          "solvents": [
+            {
+              "name": "Methanol",
+              "amount": "5 mL"
+            },
+            {
+              "name": "DCB",
+              "amount": "5 mL"
+            },
+            {
+              "name": "DCM",
+              "amount": "20 mL for washing"
+            }
+          ],
+          "chemicals": [
+            {
+              "name": "Co(CF3SO3)2⋅6H2O",
+              "amount": "0.8 mmol (360 mg)"
+            },
+            {
+              "name": "(S)-Mandelic acid",
+              "amount": "0.8 mmol (121.6 mg)"
+            },
+            {
+              "name": "Bpy (4,4'-bipyridine)",
+              "amount": "0.6 mmol (93.6 mg)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "methods": [
+    {
+      "name": "Fabrication of the CMOM-3S-Coated Capillary Column",
+      "description": "A fused silica capillary (30 m long × 0.32 mm inner diameter; Yongnian Optic Fiber Plant, Hebei, China) was pretreated according to the following recipe before dynamic coating: the capillary was washed with 1 M NaOH for 2 hr, ultrapure water for 30 min, 0.1 M HCl for 2 hr, and ultrapure water until the outflow reached pH 7.0. The capillary was then dried with N2 at 100°C overnight. CMOM-3S was coated onto the pretreated capillary column via a dynamic coating method. A 3 mL DCM suspension of CMOM-3S (1 mg/mL) was first filled into the capillary column under gas pressure, and then pushed through the column at a constant N2 pressure of 20 kPa to leave a wet coating layer on the inner wall of the capillary column. After coating, the capillary column was settled for 2 hr for conditioning under N2. Further conditioning of the capillary column was carried out with a temperature program: 30°C for 10 min, ramp from 30°C to 150°C at a rate of 3°C min−1, and 150°C for 2 hr."
+    },
+    {
+      "name": "Inclusion of Racemates and Other Guest Molecules in Single Crystals of CMOM-3S",
+      "description": "Multiple single crystals of CMOM-3S were submerged in 0.5 mL of neat racemates and other guest molecules at ambient temperature for 5 days. This is the regulated optimal condition according to previous reports for the following reason. By placing multiple crystals in parallel, the probability of selecting a high-quality crystal for SCXRD examination increases. Neat racemates and other guest molecules are used for inclusion of sufficient quantity of guest within the crystal. The equilibrium of preferred enantiomers is reached in guest binding sites after 5 days."
+    },
+    {
+      "name": "Microgram Scale Inclusion of Geraniol and Nerol",
+      "description": "A 20 μL DCM solution of 17 μg of geraniol or nerol was added to a 0.3 mL Qsert low adsorption vial. A single crystal of CMOM-3S was placed at the bottom of the vial and submerged in the solvent. Then the vial was loosely capped to allow DCM evaporation over 2 days. The crystal was coated in immersion oil for transfer and mounting."
+    },
+    {
+      "name": "Stability Test",
+      "description": "The crystalline sample of desolvated CMOM-3S was exposed to 40°C and 75% relative humidity for 7 days in a desiccator. The condition was achieved with a supersaturated aqueous solution of NaCl maintained at 40°C. After 7 days, the samples were removed from the desiccator and characterized by PXRD."
+    }
+  ]
+}

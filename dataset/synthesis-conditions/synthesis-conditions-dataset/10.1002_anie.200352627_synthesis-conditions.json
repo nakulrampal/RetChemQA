@@ -1,0 +1,114 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": [
+        {
+          "step": "Hydrothermal treatment with Cu2(OH)2CO3",
+          "temperature": "160 8C",
+          "time": "3 days",
+          "solvents": [
+            {
+              "name": "aqueous ammonia",
+              "amount": "3.0 mL",
+              "concentration": "25%"
+            },
+            {
+              "name": "butyronitrile",
+              "amount": "5.0 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Cu2(OH)2CO3",
+              "amount": "0.221 g",
+              "moles": "1.0 mmol"
+            }
+          ],
+          "yield": "40%",
+          "equipment": "hydrothermal"
+        },
+        {
+          "step": "Hydrothermal treatment with Cu(OH)2",
+          "temperature": "160 8C",
+          "time": "3 days",
+          "solvents": [
+            {
+              "name": "aqueous ammonia",
+              "amount": "3.0 mL",
+              "concentration": "25%"
+            },
+            {
+              "name": "butyronitrile",
+              "amount": "5.0 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Cu(OH)2",
+              "amount": "0.098 g",
+              "moles": "1.0 mmol"
+            }
+          ],
+          "yield": "20%",
+          "equipment": "hydrothermal"
+        }
+      ]
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": [
+        {
+          "step": "Hydrothermal treatment with Cu2(OH)2CO3",
+          "temperature": "160 8C",
+          "time": "3 days",
+          "solvents": [
+            {
+              "name": "aqueous ammonia",
+              "amount": "2.0 mL",
+              "concentration": "25%"
+            },
+            {
+              "name": "acetonitrile",
+              "amount": "2.0 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Cu2(OH)2CO3",
+              "amount": "0.221 g",
+              "moles": "1.0 mmol"
+            }
+          ],
+          "yield": "25%",
+          "equipment": "hydrothermal"
+        },
+        {
+          "step": "Hydrothermal treatment with Cu(OH)2",
+          "temperature": "160 8C",
+          "time": "3 days",
+          "solvents": [
+            {
+              "name": "aqueous ammonia",
+              "amount": "2.0 mL",
+              "concentration": "25%"
+            },
+            {
+              "name": "acetonitrile",
+              "amount": "2.0 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Cu(OH)2",
+              "amount": "0.098 g",
+              "moles": "1.0 mmol"
+            }
+          ],
+          "yield": "10%",
+          "equipment": "hydrothermal"
+        }
+      ]
+    }
+  ]
+}

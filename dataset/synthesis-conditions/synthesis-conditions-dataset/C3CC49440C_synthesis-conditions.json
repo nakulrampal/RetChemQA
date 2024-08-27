@@ -1,0 +1,90 @@
+{
+  "materials": [
+    {
+      "name": "NTU-9",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "120 oC",
+          "time": "5 days",
+          "solvents": [
+            {
+              "name": "acetic acid",
+              "amount": "3 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "H4DOBDC",
+              "amount": "0.75 mmol, 0.15 g"
+            },
+            {
+              "name": "Ti(i-OPr)4",
+              "amount": "0.67 mmol, 0.20 mL"
+            }
+          ],
+          "equipment": "23 mL Teflon-lined stainless-steel autoclave",
+          "yield": "59 % (based on DOBDC)",
+          "washing_method": "ethanol",
+          "drying_method": "air at 60 oC on a hotplate",
+          "additional_information": "The mixture was heated, then naturally cooled to room temperature."
+        },
+        {
+          "step": "Electrode preparation",
+          "chemicals_used": [
+            {
+              "name": "NTU-9",
+              "amount": "10 mg"
+            },
+            {
+              "name": "ethanol",
+              "amount": "1 ml, 98%"
+            }
+          ],
+          "equipment": [
+            "marble mortar and pestle",
+            "60 oC hotplate stirrer",
+            "UV-ozone plasma cleaner"
+          ],
+          "temperature": "60 oC",
+          "time": "overnight",
+          "additional_information": "NTU-9 solution was dropped onto FTO substrate and dried in air."
+        }
+      ]
+    }
+  ],
+  "photoelectrochemical_measurements": {
+    "setup": "three-electrode set-up",
+    "electrolyte": "0.5 M Na2SO4 solution",
+    "light_source": "150 W tungsten halogen lamp (Filtered, λ>400nm)",
+    "illumination_intensity": "approximately 100 mW/cm2"
+  },
+  "photocatalytic_experiments": {
+    "temperature": "ambient temperature (25℃)",
+    "solvents": [
+      {
+        "name": "Rhodamine B aqueous solution",
+        "concentration": "10-4 mol L-1"
+      },
+      {
+        "name": "hydrogen peroxide solution",
+        "concentration": "H2O2 30%",
+        "amount": "five drops"
+      }
+    ],
+    "light_source": "300-W xenon lamp coupled with a UV cut-off filter (λ> 420 nm)",
+    "additional_information": "The photocatalytic dye degradation was carried out by irradiating the suspension with visible light."
+  },
+  "impedance_spectroscopy": {
+    "perturbation_amplitude": "10 mV",
+    "frequency_range": "100 kHz to 0.1 Hz",
+    "series_resistance_Rs": "30.15 ohms",
+    "charge_transfer_resistance_Rct": "~3664 ohms"
+  },
+  "cyclic_voltammetry": {
+    "electrolyte": "0.5 M Na2SO4",
+    "scan_rate": "50 mV/s",
+    "conditions": "under dark and illuminated conditions",
+    "additional_information": "Two-step hydrogen evolution can be clearly seen from the CV curves."
+  }
+}

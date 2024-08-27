@@ -1,0 +1,41 @@
+{
+  "materials": [
+    {
+      "material": "Aryl-Cu(II) Complexes 2a-h",
+      "synthesis_conditions": {
+        "temperature": "ambient",
+        "solvents": "dichloromethane and methanol",
+        "solvent_ratio": "1:1",
+        "equipment": "syringe pump",
+        "chemicals_used": "Cu(ClO4)2·6H2O, azacalix[1]arene[3]pyridines 1a-h, 2,4,6-collidine",
+        "time": "1 h",
+        "yield": "74% to 88%",
+        "drying_method": "evaporation of solvent",
+        "washing_method": "filtration"
+      }
+    },
+    {
+      "material": "Aryl-Cu(III) Complexes 3a-e",
+      "synthesis_conditions": {
+        "temperature": "ambient",
+        "solvents": "dichloromethane, methanol, and acetonitrile",
+        "solvent_ratio": "1:1:0.1",
+        "chemicals_used": "Cu(ClO4)2·6H2O, aryl-Cu(II) compounds 2a-e",
+        "yield": "89% to 95%",
+        "drying_method": "evaporation of solvent",
+        "washing_method": "washing with a mixture of CH2Cl2 and MeOH"
+      }
+    },
+    {
+      "material": "Deuterated Compound D(1)-1a’",
+      "synthesis_conditions": {
+        "temperature": "-78 ℃ to room temperature",
+        "solvents": "anhydrous THF",
+        "chemicals_used": "compound 41, n-BuLi, D2O",
+        "yield": "95%",
+        "drying_method": "evaporation of solvent",
+        "purification_method": "silicon gel column with petroleum-ethyl acetate"
+      }
+    }
+  ]
+}

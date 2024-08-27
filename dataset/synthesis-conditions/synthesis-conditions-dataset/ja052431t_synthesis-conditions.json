@@ -1,0 +1,82 @@
+{
+  "materials": [
+    {
+      "name": "[Cd3Cl6L3]·4DMF·6MeOH·3H2O (1)",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "3 mL"
+          },
+          {
+            "name": "MeOH",
+            "amount": "5 mL"
+          }
+        ],
+        "equipment": "Schlenk flask",
+        "chemicals_used": [
+          {
+            "name": "CdCl2",
+            "amount": "18.3 mg, 0.1 mmol"
+          },
+          {
+            "name": "L ligand",
+            "amount": "25.5 mg, 0.05 mmol"
+          },
+          {
+            "name": "Diethyl ether",
+            "purpose": "Slow diffusion"
+          }
+        ],
+        "time": "3 days",
+        "washing_method": "Washed with MeOH, Et2O",
+        "drying_method": "Dried at room temperature",
+        "yield": "37.3 mg (89.7% based on L)"
+      }
+    },
+    {
+      "name": "1·Ti",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "Toluene",
+            "amount": "1 mL"
+          }
+        ],
+        "equipment": "25 mL Schlenk flask",
+        "chemicals_used": [
+          {
+            "name": "Ground solid 1",
+            "amount": "14.0 mg, 6.6 µmol",
+            "preparation": "Dried under vacuum at 70°C (oil bath) for 4 h"
+          },
+          {
+            "name": "Ti(OiPr)4",
+            "amount": "48 µL, 0.14 mmol"
+          },
+          {
+            "name": "1-naphthaldehyde",
+            "amount": "7 µL, 50 µmol"
+          },
+          {
+            "name": "Diethylzinc (1.1 M in toluene)",
+            "amount": "0.14 mL, 0.154 mmol"
+          }
+        ],
+        "time": "12 h",
+        "additional_steps": [
+          {
+            "step": "Quenching",
+            "method": "Dilute hydrochloric acid"
+          },
+          {
+            "step": "Purification",
+            "method": "Passed through a short silica gel column"
+          }
+        ]
+      }
+    }
+  ]
+}

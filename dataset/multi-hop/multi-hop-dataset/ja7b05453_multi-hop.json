@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What are the synthesis conditions for MFM-112 and MFM-115?",
+      "answer": "MFM-112 and MFM-115 were synthesized by mixing H6TDBB (or H6NTBD for MFM-115) with Cu(NO3)2·2.5H2O in N,N-dimethylformamide (DMF) and H2O, adding 2M HCl, and heating the mixture at 90 °C for 24 h.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the structure of MFM-132 change with temperature based on single crystal X-ray diffraction data?",
+      "answer": "At 120 K, MFM-132's linker face forms a more convex shape, but at 298 K, the linker face is almost flat with fully stretched linker arms, indicating a less steric repulsion between adjacent anthracene rings.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of CD4 loading on the structure of MFM-132a as determined by neutron powder diffraction?",
+      "answer": "CD4 loading on MFM-132a reveals four distinct binding sites with the strongest being located in the [(Cu2)3(isophthalate)3] window pocket. Nearly 50% of loaded CD4 is found on this site, indicating a strong affinity for CD4.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of CH4 affect the molecular dynamics of MFM-112a-d12 as observed in solid-state 2H NMR spectroscopy?",
+      "answer": "The presence of CH4 slightly affects the ligand rotation in MFM-112a-d12, revealing a reduced rate of rotation, indicating that CH4 interacts with linkers by random collision and inhibits the rotation in the range T = 123–203 K.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the relationship between the structure design and materials function across the series of MOFs discussed?",
+      "answer": "There is a direct correlation between the structure design and materials function across the series of MOFs, with MFM-115a displaying exceptionally high deliverable CH4 storage capacity due to its moderate porosity and optimized molecular dynamics and pore geometry.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The open Cu(II) sites in MOFs are always the strongest binding site for adsorbed methane molecules.",
+      "answer": "False. The study provides direct experimental evidence showing that a tight cavity can generate a stronger binding affinity for gas molecules than open metal sites in MOFs.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the (3,24)-connected network in the structure of MFM-132?",
+      "answer": "The (3,24)-connected network in MFM-132, featuring large aromatic substituents, contributes to its unique structural features, including highly geometrically hindered cages and restricted molecular dynamics, which influence its CH4 adsorption properties.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: MFM-132a retains its framework rigidity and shows permanent microporosity after activation.",
+      "answer": "True. MFM-132a retains high crystallinity and shows permanent microporosity as revealed by the N2 adsorption at 77 K, indicating the retention of framework rigidity after activation.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the synthesis of partially deuterated MFMs series differ from their non-deuterated versions?",
+      "answer": "The synthesis of partially deuterated MFMs series involves the use of deuterated precursors and follows a similar procedure to their non-deuterated versions, resulting in structures that are identical to their non-deuterated counterparts as confirmed by PXRD patterns.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The rotation of phenylene rings in MFM-115a-d12 is significantly affected by the presence of CH4.",
+      "answer": "False. The presence of CH4, even at elevated pressure, causes no observed changes to the rotation of the phenylene groups in MFM-115a-d12, indicating that CH4 does not significantly affect the molecular dynamics of the framework.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

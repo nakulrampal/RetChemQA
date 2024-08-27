@@ -1,0 +1,76 @@
+{
+  "Materials": [
+    {
+      "name": "In-dpda",
+      "synthesis_conditions": {
+        "temperature": "160 °C",
+        "solvents": "H2O",
+        "amount_of_solvent": "8 mL",
+        "equipment": "23 mL Teflon–lined autoclave reactor",
+        "chemicals_used": {
+          "InCl3·4H2O": "0.14 mmol, 41.1 mg",
+          "H4dpda": "0.10 mmol, 33.1 mg"
+        },
+        "time": "120 h",
+        "washing_method": "distilled water",
+        "washing_cycles": "3 times",
+        "yield": "63%",
+        "additional_information": "Anal. calcd (%) for C60H37In5O40N4 (Mr = 2028.03): C, 35.50; H, 1.82; N, 2.76. Found: C, 35.17; H, 1.80; N, 2.81."
+      }
+    },
+    {
+      "name": "ZIF-8-on-In-dpda",
+      "synthesis_conditions": {
+        "method": "liquid phase epitaxial method",
+        "chemicals_used": {
+          "Zn(NO3)2": "20 mL methanol, 3 mmol Zn2+",
+          "Hmim": "20 mL methanol, 6 mmol"
+        },
+        "steps": [
+          "In-dpda was alternately immersed into Zn(NO3)2 solution and ligand solution for 20 min with intermediate washing steps.",
+          "The process was repeated several cycles (0 to 30).",
+          "The product was washed with methanol for 3 times."
+        ],
+        "drying_method": "air atmosphere"
+      }
+    },
+    {
+      "name": "guest ⊂ ZIF-8-on-In-dpda",
+      "synthesis_conditions": {
+        "method": "similar process to ZIF-8-on-In-dpda",
+        "chemicals_used": {
+          "Zn(NO3)2": "20 mL methanol, 3 mmol Zn2+",
+          "Hmim": "20 mL methanol, 6 mmol",
+          "F": "0.003 mmol, 20 mL methanol",
+          "RB": "0.015 mmol, 10 mL methanol and 10 mL H2O"
+        },
+        "steps": [
+          "In-dpda was immersed into Zn(NO3)2 solution for 20 min.",
+          "Then immersed into the guest solution (F or RB) for 5 min.",
+          "Subsequently, the product was immersed into the ligand solution for 20 min with the washing step behind."
+        ],
+        "drying_method": "room temperature"
+      }
+    },
+    {
+      "name": "F-RB ⊂ ZIF-8-on-In-dpda",
+      "synthesis_conditions": {
+        "steps": [
+          "F ⊂ ZIF-8-on-In-dpda was alternately immersed into Zn(NO3)2 solution and Hmim solution with intermediate washing steps for 5 cycles to form blank ZIF-8 layers between F and RB.",
+          "Then the RB solution was introduced between the immersion of Hmim solution and blank methanol.",
+          "After washing with methanol for 3 times and drying under the room temperature, the F-RB ⊂ ZIF-8-on-In-dpda was obtained."
+        ]
+      }
+    },
+    {
+      "name": "F-10c ⊂ ZIF-8-on-In-dpda",
+      "synthesis_conditions": {
+        "histamine_sensing_experiments": {
+          "sample_preparation": "10 mg of F-10c ⊂ ZIF-8-on-In-dpda was dispersed into 80 mL deionized water to form a stable aqueous suspension.",
+          "experiment_process": "Equal volume histamine aqueous solution with different concentrations (0 to 10 μM) were mixed with 2 mL of the previously described F-10c ⊂ ZIF-8-on-In-dpda suspension.",
+          "measurement": "The fluorescent emission spectra were measured under the 335 nm excitation."
+        }
+      }
+    }
+  ]
+}

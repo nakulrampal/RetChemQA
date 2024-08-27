@@ -1,0 +1,36 @@
+{
+  "materials": [
+    {
+      "material_name": "Mn3(C8O4H4)3(C5H11ON)2",
+      "synthesis": {
+        "method": "one-pot reaction",
+        "chemicals": [
+          {
+            "name": "benzene 1,4-dicarboxylic acid (H2BDC)",
+            "amount": "0.166 g",
+            "molarity": "1.0 mmol"
+          },
+          {
+            "name": "diethylformamide (DEF)",
+            "amount": "5 mL"
+          },
+          {
+            "name": "Mn(NO3)2·6H2O",
+            "amount": "0.287 g",
+            "molarity": "1 mmol",
+            "solvent_amount": "2 mL",
+            "solvent": "DEF"
+          }
+        ],
+        "temperature": "102 °C",
+        "time": "3 days",
+        "yield": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "equipment": "Not specified",
+        "solvents": "diethylformamide (DEF)",
+        "comments": "The crystals have the same shape as the monoclinic unit cell and are not resistant to extended exposure in air. The diffraction properties of the crystals are not as good as for a reference compound, and numerous attempts (>30) were made to grow better quality crystals (variation of time, temperature, concentrations). While the synthesis method is highly reproducible for preparation of the material, strongly diffracting crystals for an 'ideal' charge density study have not been achieved."
+      }
+    }
+  ]
+}

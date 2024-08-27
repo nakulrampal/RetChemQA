@@ -1,0 +1,205 @@
+{
+  "materials": [
+    {
+      "name": "iPrPNNP",
+      "synthesis_conditions": {
+        "temperature": "ambient",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "90 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "2,7-dimethyl-1,8-naphthyridine",
+            "amount": "3.00 g, 19.0 mmol"
+          },
+          {
+            "name": "n-BuLi",
+            "amount": "1.6 M in hexanes, 12 mL, 19 mmol"
+          },
+          {
+            "name": "P(i-Pr)2Cl",
+            "amount": "3.1 mL, 3.0 g, 19 mmol"
+          }
+        ],
+        "time": "18 h",
+        "yield": "41%",
+        "characterization": {
+          "1H_NMR": "C6D6, 298 K",
+          "13C_NMR": "C6D6, 298 K",
+          "31P_NMR": "C6D6, 298 K",
+          "IR": "film, N2 flow"
+        }
+      }
+    },
+    {
+      "name": "[Fe2(iPrPNNP)(CO)7] (1)",
+      "synthesis_conditions": {
+        "temperature": "ambient",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "15 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "iPrPNNP",
+            "amount": "390.5 mg, 1.0 mmol"
+          },
+          {
+            "name": "Fe2(CO)9",
+            "amount": "743 mg, 2.04 mmol"
+          }
+        ],
+        "time": "20 h",
+        "yield": "26%",
+        "characterization": {
+          "1H_NMR": "C6D6, 298 K",
+          "13C_NMR": "C6D6, 298 K",
+          "31P_NMR": "C6D6, 298 K",
+          "IR": "film, N2 flow"
+        }
+      }
+    },
+    {
+      "name": "K(THF)[iPrPNNP*Fe(CO)3Fe(CO)4] (3)",
+      "synthesis_conditions": {
+        "temperature": "ambient",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[Fe2(iPrPNNP)(CO)7] (1)",
+            "amount": "101.3 mg, 145 µmol"
+          },
+          {
+            "name": "KOtBu",
+            "amount": "17.9 mg, 156 µmol"
+          }
+        ],
+        "time": "1 h",
+        "yield": "67%",
+        "characterization": {
+          "1H_NMR": "THF-d8, 298 K",
+          "13C_NMR": "THF-d8, 298 K",
+          "31P_NMR": "THF-d8, 298 K",
+          "IR": "film, N2 flow"
+        }
+      }
+    },
+    {
+      "name": "(iPrPNNP*)FeIFe0(CO)4(µ-CO) (4)",
+      "synthesis_conditions": [
+        {
+          "method": "Photolysis of complex 2",
+          "temperature": "ambient",
+          "solvents": [
+            {
+              "name": "benzene",
+              "amount": "6.0 mL"
+            }
+          ],
+          "equipment": "high-pressure Hg-arc lamp (125 W)",
+          "time": "120 min",
+          "yield": "86%",
+          "characterization": {
+            "IR": "film, N2 flow"
+          }
+        },
+        {
+          "method": "H-atom abstraction from 1 to TBP followed by UV-promoted carbonyl dissociation",
+          "temperature": "ambient",
+          "solvents": [
+            {
+              "name": "THF",
+              "amount": "2.0 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "2,4,6-tri-tert-butylphenoxyl radical (TBP)",
+              "amount": "18.7 mg, 71.6 µmol"
+            },
+            {
+              "name": "[Fe2(iPrPNNP)(CO)7] (1)",
+              "amount": "50.0 mg, 71.6 µmol"
+            }
+          ],
+          "equipment": "TLC lamp as UV source",
+          "time": "16 h",
+          "yield": "Not specified",
+          "characterization": {
+            "IR": "film, N2 flow"
+          }
+        }
+      ]
+    },
+    {
+      "name": "K(THF)[Fe2(iPrPNNP*)(CO)4(µ-CO)] (5)",
+      "synthesis_conditions": {
+        "temperature": "-40 °C to ambient",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "3.4 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(iPrPNNP*)FeIFe0(CO)4(µ-CO) (4)",
+            "amount": "22.1 mg, 34.4 µmol"
+          },
+          {
+            "name": "potassium naphthalenide (K(C10H8))",
+            "amount": "4.2 mg, 32.7 µmol"
+          }
+        ],
+        "time": "30 min",
+        "yield": "64%",
+        "characterization": {
+          "1H_NMR": "THF-d8, 298 K",
+          "13C_NMR": "THF-d8, 298 K",
+          "31P_NMR": "THF-d8, 298 K",
+          "IR": "film, N2 flow"
+        }
+      }
+    },
+    {
+      "name": "Fe2(iPrPNNP)(CO)4(µ-CO) (6)",
+      "synthesis_conditions": {
+        "temperature": "ambient",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "4 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "K(THF)[Fe2(iPrPNNP*)(CO)4(µ-CO)] (5)",
+            "amount": "16.7 mg, 22.2 µmol"
+          },
+          {
+            "name": "Et3NHCl",
+            "amount": "3.1 mg, 22.5 µmol"
+          }
+        ],
+        "time": "30 min",
+        "yield": "94%",
+        "characterization": {
+          "1H_NMR": "THF-d8, 298 K",
+          "13C_NMR": "THF-d8, 298 K",
+          "31P_NMR": "THF-d8, 298 K",
+          "IR": "film, N2 flow"
+        }
+      }
+    }
+  ]
+}

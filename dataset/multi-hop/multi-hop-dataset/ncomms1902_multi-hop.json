@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What is the boiling point of trifluoroiodomethane and its role in anion transport across lipid bilayer membranes?",
+      "answer": "The boiling point of trifluoroiodomethane is -22 °C, and it acts as a 'single-carbon' transporter for anion transport across lipid bilayer membranes.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the activity of perfluoroiodohexane compare to shorter linear perfluoroiodoalkanes in terms of anion transport?",
+      "answer": "The activity of perfluoroiodohexane is higher compared to shorter linear perfluoroiodoalkanes, with an EC50 of 3.07 ± 0.15 µM, indicating better anion encapsulation and transport efficiency.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the Hill coefficient in the context of anion transport experiments?",
+      "answer": "The Hill coefficient can describe the number of monomers in the active complex for anion transport; higher values are consistent with computational results for halogen-bonded capsules as active structures.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Why does the activity of anion transporters decrease with increasing tail length of perfluoroalkyl tails?",
+      "answer": "The activity decreases with increasing tail length because longer tails may prefer to align with the lipid tails in the bilayer membrane, which is incompatible with spherical anion complexes moving across the membrane, or they could aggregate and precipitate before partitioning into the bilayer.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of halogen bonds in anion transport across lipid bilayer membranes?",
+      "answer": "Halogen bonds, being strong and directional, can form between nucleophilic acceptors such as anions and highly localized positive-charge density on halogen atoms, facilitating the transport of anions across lipid bilayer membranes in a leakage-free, non-ohmic, and highly selective manner.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of valinomycin affect the activity of anion transporters in vesicles?",
+      "answer": "The presence of valinomycin does not significantly increase the activity of anion transporters in vesicles, indicating that contributions from cation transport are irrelevant and supporting the occurrence of a cation-independent anion antiport.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The activity of anion transporters is independent of the membrane composition.",
+      "answer": "False. The activity of anion transporters in anionic EYPG LUVs is about one order of magnitude below those in zwitterionic EYPC LUVs, indicating that membrane composition affects transporter activity.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: Anion transport mediated by halogen bonds results in nonspecific leakage across the membrane.",
+      "answer": "False. Transport with halogen bonds is leakage-free, indicating that it does not result in nonspecific leakage across the membrane.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of temperature on the activity of anion transporters in DPPC vesicles?",
+      "answer": "The activity of anion transporters in DPPC vesicles is hindered at lower temperatures and increases as the temperature rises, indicating that the fluidity of the membrane affects transporter activity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The activity of anion transporters is unaffected by the presence of sodium thiosulfate in the buffer solution.",
+      "answer": "True. The activity of anion transporters is consistent even without the precaution of adding sodium thiosulfate to eliminate potential contributions from parasite transport by iodine.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "materials": [
+    {
+      "name": "PCN-224(No Metal)",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "Pyrex vial",
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "30 mg"
+          },
+          {
+            "name": "H2TCPP",
+            "amount": "10 mg"
+          },
+          {
+            "name": "benzoic acid",
+            "amount": "400 mg"
+          }
+        ],
+        "time": "24 h",
+        "yield": "71%",
+        "washing_method": "filtration",
+        "drying_method": "room temperature"
+      }
+    },
+    {
+      "name": "PCN-224(Ni)",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "Pyrex vial",
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "10 mg"
+          },
+          {
+            "name": "Ni-TCPP",
+            "amount": "10 mg"
+          },
+          {
+            "name": "benzoic acid",
+            "amount": "250 mg"
+          }
+        ],
+        "time": "24 h",
+        "yield": "70%",
+        "washing_method": "filtration",
+        "drying_method": "room temperature"
+      }
+    },
+    {
+      "name": "PCN-224(Co)",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "Pyrex vial",
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "30 mg"
+          },
+          {
+            "name": "CoTCPP",
+            "amount": "10 mg"
+          },
+          {
+            "name": "benzoic acid",
+            "amount": "400 mg"
+          }
+        ],
+        "time": "24 h",
+        "yield": "70%",
+        "washing_method": "filtration",
+        "drying_method": "room temperature"
+      }
+    },
+    {
+      "name": "PCN-224(Fe)",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "4 mL Pyrex vial",
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "30 mg"
+          },
+          {
+            "name": "FeTCPPCl",
+            "amount": "10 mg"
+          },
+          {
+            "name": "benzoic acid",
+            "amount": "400 mg"
+          }
+        ],
+        "time": "12 h",
+        "post_synthesis_steps": [
+          {
+            "step": "Postsynthesis of pure phase PCN-224(Fe)",
+            "details": "200 mg of PCN-224(no metal) and 500 mg of FeCl2·4H2O were heated at 120 °C with stirring for 12 h. After that, the mixture was centrifuged. The liquid was decanted and the remaining solid washed with fresh DMF twice and acetone twice. The acetone was decanted, and the sample was dried in an oven."
+          }
+        ],
+        "washing_method": "centrifugation, decanting",
+        "drying_method": "oven"
+      }
+    }
+  ]
+}

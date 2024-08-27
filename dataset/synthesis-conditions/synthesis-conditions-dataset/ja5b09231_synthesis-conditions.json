@@ -1,0 +1,103 @@
+{
+  "materials": [
+    {
+      "material": "Co-btca",
+      "synthesis_conditions": [
+        {
+          "temperature": "200°C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "14.5 ml"
+            },
+            {
+              "name": "H2O",
+              "amount": "9.5 ml"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "cobalt­(II) nitrate",
+              "amount": "150 mg, 0.5 mmol"
+            },
+            {
+              "name": "1-H-benzotriazole 5- carboxylic acid",
+              "amount": "60 mg, 0.3 mmol"
+            }
+          ],
+          "time": "12 hours heating, 72 hours cooling",
+          "yield": "crystalline Co-btca [Co3(OH)2(btca)2]∙2 DMF ∙n H2O",
+          "drying_method": "stored in DMF"
+        },
+        {
+          "temperature": "100 K - RT",
+          "equipment": "Oxford Diffraction SuperNova area-detector diffractometer",
+          "solvents": "DMF",
+          "chemicals_used": [
+            {
+              "name": "Co-btca",
+              "description": "single crystal"
+            }
+          ],
+          "time": "variable",
+          "yield": "variable temperature SC-XRD data"
+        },
+        {
+          "temperature": "RT",
+          "pressure": "0.4, 1.4, 3.6 and 0.0001 GPa (after decompression)",
+          "equipment": "Oxford Diffraction SuperNova area-detector diffractometer",
+          "solvents": "Daphne oil",
+          "chemicals_used": [
+            {
+              "name": "Co-btca",
+              "description": "single crystal"
+            }
+          ],
+          "yield": "HP SC-XRD data"
+        },
+        {
+          "temperature": "RT",
+          "pressure": "0.0001, 0.3, 1.1, 2.2 GPa",
+          "equipment": "Oxford Diffraction SuperNova area-detector diffractometer",
+          "solvents": "Methanol:Ethanol 4:1",
+          "chemicals_used": [
+            {
+              "name": "Co-btca",
+              "description": "single crystal"
+            }
+          ],
+          "yield": "HP SC-XRD data in Methanol:Ethanol 4:1"
+        },
+        {
+          "temperature": "RT",
+          "solvents": [
+            "DMF",
+            "EtOH",
+            "MeOH",
+            "Methanol:Ethanol 4:1"
+          ],
+          "chemicals_used": [
+            {
+              "name": "Co-btca",
+              "description": "ground single crystals"
+            }
+          ],
+          "equipment": "X04SA Materials Science Beamline at the Swiss Light Source",
+          "yield": "ambient conditions P-XRD data"
+        },
+        {
+          "pressure": "0.0001(5) to 4.3806(8) GPa",
+          "solvents": "Methanol:Ethanol 4:1",
+          "chemicals_used": [
+            {
+              "name": "Co-btca",
+              "description": "ground single crystals"
+            }
+          ],
+          "equipment": "membrane-driven DAC, X04SA Materials Science Beamline at the Swiss Light Source",
+          "yield": "HP P-XRD data in Methanol:Ethanol 4:1"
+        }
+      ]
+    }
+  ]
+}

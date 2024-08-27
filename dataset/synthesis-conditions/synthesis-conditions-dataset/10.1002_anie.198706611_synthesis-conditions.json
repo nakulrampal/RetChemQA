@@ -1,0 +1,81 @@
+{
+  "materials": [
+    {
+      "name": "1'@[BF4]2",
+      "synthesis_conditions": [
+        {
+          "step": "Crystallographic study",
+          "solvents": [
+            {
+              "name": "CH2Cl2/C6H6",
+              "amount": "not specified"
+            }
+          ],
+          "equipment": [
+            {
+              "name": "Philips PW 1100 diffractometer",
+              "details": "Intensity data collected at 1.1-A resolution, wavelength 1.5418 A, graphite monochromator"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "1'@[BF4]2",
+              "amount": "0.5 mm x 0.3 mm x 0.1 mm crystals"
+            }
+          ],
+          "yield": "not specified",
+          "other_conditions": [
+            {
+              "label": "Temperature",
+              "value": "not specified"
+            },
+            {
+              "label": "Time",
+              "value": "not specified"
+            },
+            {
+              "label": "Pressure",
+              "value": "not specified"
+            }
+          ]
+        },
+        {
+          "step": "NMR study",
+          "solvents": [
+            {
+              "name": "CD2Cl2",
+              "amount": "0.5 mL"
+            }
+          ],
+          "equipment": [
+            {
+              "name": "Bruker WP 200 SY or Bruker AN 400 spectrometer",
+              "details": "standard software"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "1'@[BF4]2",
+              "amount": "about 2.5 mg"
+            }
+          ],
+          "yield": "not specified",
+          "other_conditions": [
+            {
+              "label": "Temperature",
+              "value": "not specified"
+            },
+            {
+              "label": "Time",
+              "value": "not specified"
+            },
+            {
+              "label": "Pressure",
+              "value": "not specified"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "materials": [
+    {
+      "material_name": "1,4-bis(tetrazol-1-ylmethyl)benzene (btzx)",
+      "synthesis_conditions": {
+        "temperature": "90 ºC",
+        "time": "2 days",
+        "solvents": [
+          {
+            "name": "acetic acid",
+            "amount": "90 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "p-xylylenediamine",
+            "amount": "5 g"
+          },
+          {
+            "name": "triethylortoformate",
+            "amount": "54 g"
+          },
+          {
+            "name": "sodium azide",
+            "amount": "4.79 g"
+          }
+        ],
+        "yield": "6.1 g, 68 %",
+        "washing_method": "methanol and water",
+        "drying_method": "air",
+        "additional_notes": "Avoid evaporation to dryness."
+      }
+    },
+    {
+      "material_name": "[Fe(btzx)3](ClO4)2 (1)",
+      "synthesis_conditions": {
+        "temperature": "Refluxed",
+        "time": "4 h",
+        "solvents": [
+          {
+            "name": "MeCN",
+            "amount": "45 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Fe(ClO4)2·xH2O",
+            "amount": "112 mg"
+          },
+          {
+            "name": "btzx",
+            "amount": "152 mg"
+          },
+          {
+            "name": "ascorbic acid",
+            "amount": "ca. 10 mg"
+          }
+        ],
+        "yield": "204 mg, 52 %",
+        "washing_method": "MeCN",
+        "drying_method": "air",
+        "additional_notes": "Performed under an Ar atmosphere."
+      }
+    }
+  ],
+  "characterization_methods_excluded": [
+    "X-ray diffraction",
+    "Thermogravimetric analysis",
+    "Magnetic measurements",
+    "Gas sorption studies"
+  ]
+}

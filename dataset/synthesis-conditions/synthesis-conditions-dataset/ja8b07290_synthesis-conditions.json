@@ -1,0 +1,164 @@
+{
+  "materials": [
+    {
+      "name": "3S",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "Methanol",
+            "amount": "5 mL"
+          },
+          {
+            "name": "1,2-Dichlorobenzene (DCB)",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Co(CF3SO3)2·6H2O",
+            "amount": "0.4 mmol (180 mg)"
+          },
+          {
+            "name": "Enantiopure (S)-mandelic acid",
+            "amount": "0.4 mmol (60.8 mg)"
+          },
+          {
+            "name": "4,4’-bipyridine (bpy)",
+            "amount": "0.3 mmol (46.8 mg)"
+          }
+        ],
+        "time": "7 days",
+        "yield": "~60%",
+        "activation_method": "Exchanged with DCM daily for 5 days, evacuated under dynamic vacuum at room temperature for 16-24 hours"
+      }
+    },
+    {
+      "name": "13R",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "Methanol",
+            "amount": "5 mL"
+          },
+          {
+            "name": "1,2-Dichlorobenzene (DCB)",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Co(CF3SO3)2·6H2O",
+            "amount": "0.4 mmol (180 mg)"
+          },
+          {
+            "name": "(R)-2-chloromandelic acid",
+            "amount": "0.4 mmol (740 mg)"
+          },
+          {
+            "name": "4,4’-bipyridine (bpy)",
+            "amount": "0.3 mmol (46.8 mg)"
+          }
+        ],
+        "time": "7 days",
+        "yield": "~75%",
+        "activation_method": "Exchanged with DCM daily for 5 days, evacuated under dynamic vacuum at room temperature for 16-24 hours"
+      }
+    },
+    {
+      "name": "23R",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "Methanol",
+            "amount": "5 mL"
+          },
+          {
+            "name": "Benzotrifluoride (BTF)",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Co(CF3SO3)2·6H2O",
+            "amount": "0.4 mmol (180 mg)"
+          },
+          {
+            "name": "(R)-3-chloromandelic acid",
+            "amount": "0.4 mmol (740 mg)"
+          },
+          {
+            "name": "4,4’-bipyridine (bpy)",
+            "amount": "0.3 mmol (46.8 mg)"
+          }
+        ],
+        "time": "7 days",
+        "yield": "~55%",
+        "activation_method": "Exchanged with DCM daily for 5 days, evacuated under dynamic vacuum at room temperature for 16-24 hours"
+      }
+    },
+    {
+      "name": "33R",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "Methanol",
+            "amount": "5 mL"
+          },
+          {
+            "name": "Benzotrifluoride (BTF)",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Co(CF3SO3)2·6H2O",
+            "amount": "0.4 mmol (180 mg)"
+          },
+          {
+            "name": "(R)-4-chloromandelic acid",
+            "amount": "0.4 mmol (740 mg)"
+          },
+          {
+            "name": "4,4’-bipyridine (bpy)",
+            "amount": "0.3 mmol (46.8 mg)"
+          }
+        ],
+        "time": "7 days",
+        "yield": "~55%",
+        "activation_method": "Exchanged with DCM daily for 5 days, evacuated under dynamic vacuum at room temperature for 16-24 hours"
+      }
+    },
+    {
+      "name": "43R",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "Methanol",
+            "amount": "5 mL"
+          },
+          {
+            "name": "Benzotrifluoride (BTF)",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Co(CF3SO3)2·6H2O",
+            "amount": "0.4 mmol (180 mg)"
+          },
+          {
+            "name": "(R)-4-methylmandelic acid",
+            "amount": "0.4 mmol (660 mg)"
+          },
+          {
+            "name": "4,4’-bipyridine (bpy)",
+            "amount": "0.3 mmol (46.8 mg)"
+          }
+        ],
+        "time": "7 days",
+        "yield": "~60%",
+        "activation_method": "Exchanged with DCM daily for 5 days, evacuated under dynamic vacuum at room temperature for 16-24 hours"
+      }
+    }
+  ]
+}

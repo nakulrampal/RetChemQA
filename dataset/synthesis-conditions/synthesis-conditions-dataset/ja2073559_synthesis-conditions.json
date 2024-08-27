@@ -1,0 +1,209 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": [
+        {
+          "step": "Crystallization",
+          "temperature": "100 °C",
+          "solvents": [
+            {
+              "name": "water and acetonitrile",
+              "ratio": "1:1",
+              "volume": "1 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "L1",
+              "amount": "3.8 mg",
+              "molarity": "10.0 μmol"
+            },
+            {
+              "name": "Pb(NO3)2",
+              "amount": "5.2 mg",
+              "molarity": "15.7 μmol"
+            }
+          ],
+          "time": "48 h",
+          "yield": "83%",
+          "drying_method": "slow cooling to room temperature"
+        }
+      ]
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": [
+        {
+          "step": "Crystallization",
+          "temperature": "85 °C",
+          "solvents": [
+            {
+              "name": "dimethylformamide (DMF)–H2O",
+              "ratio": "2:1",
+              "volume": "1 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "L2",
+              "amount": "3.5 mg",
+              "molarity": "10.0 μmol"
+            },
+            {
+              "name": "Pb(NO3)2",
+              "amount": "5.0 mg",
+              "molarity": "15.1 μmol"
+            }
+          ],
+          "time": "48 h",
+          "yield": "85%",
+          "drying_method": "slow cooling to room temperature"
+        }
+      ]
+    },
+    {
+      "name": "L1",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "chemicals_used": [
+            {
+              "name": "2,5-dimercapto-1,4-benzenedicarboxylic acid (DMBD)",
+              "amount": "2.16 g",
+              "molarity": "9.39 mmol"
+            },
+            {
+              "name": "methanol",
+              "volume": "30 mL"
+            },
+            {
+              "name": "concentrated H2SO4",
+              "volume": "2.0 mL"
+            }
+          ],
+          "time": "48 hours",
+          "temperature": "80 °C",
+          "yield": "90%",
+          "notes": "Refined using HCl after reaction"
+        },
+        {
+          "step": "Synthesis",
+          "chemicals_used": [
+            {
+              "name": "S1",
+              "amount": "0.52 g",
+              "molarity": "2.01 mmol"
+            },
+            {
+              "name": "1,2-dibromoethane",
+              "volume": "10 mL",
+              "molarity": "116.04 mmol"
+            },
+            {
+              "name": "K2CO3",
+              "amount": "1.10 g",
+              "molarity": "7.96 mmol"
+            },
+            {
+              "name": "NaI",
+              "amount": "0.05 g",
+              "molarity": "0.334 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "anhydrous acetone",
+              "volume": "40 mL"
+            }
+          ],
+          "temperature": "75 °C",
+          "time": "24 hours",
+          "yield": "53%"
+        },
+        {
+          "step": "Synthesis",
+          "chemicals_used": [
+            {
+              "name": "sodium thiomethoxide",
+              "amount": "0.44g",
+              "molarity": "6.28 mmol"
+            },
+            {
+              "name": "dimethyl 2,5-bis(2-bromoethylthio)terephthalate",
+              "amount": "0.60 g",
+              "molarity": "1.27 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "DMEU",
+              "volume": "10 mL"
+            }
+          ],
+          "temperature": "90 °C",
+          "time": "2 days",
+          "yield": "87%",
+          "notes": "HCl added after reaction"
+        }
+      ]
+    },
+    {
+      "name": "L2",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "chemicals_used": [
+            {
+              "name": "dimethyl 2,5-dimercaptoterephthalate",
+              "amount": "0.26 g",
+              "molarity": "1.0 mmol"
+            },
+            {
+              "name": "triethylamine",
+              "volume": "0.3 mL"
+            },
+            {
+              "name": "(S)-(−)-Propylene oxide",
+              "amount": "0.17 g",
+              "molarity": "2.85 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "absolute ethanol",
+              "volume": "10 mL"
+            }
+          ],
+          "temperature": "room temperature",
+          "time": "6 hours",
+          "yield": "73%"
+        },
+        {
+          "step": "Synthesis",
+          "chemicals_used": [
+            {
+              "name": "2,5-Bis-(2-hydroxy-propylsulfanyl)-terephthalic acid dimethyl ester (S3)",
+              "amount": "0.20 g",
+              "molarity": "0.53 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "10% methanol solution of NaOH",
+              "volume": "5 mL"
+            },
+            {
+              "name": "CH3OH",
+              "volume": "5 mL"
+            }
+          ],
+          "temperature": "refluxed",
+          "time": "8 hours",
+          "yield": "97%",
+          "notes": "HCl added after reaction"
+        }
+      ]
+    }
+  ]
+}

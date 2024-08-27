@@ -1,0 +1,35 @@
+{
+  "materials": [
+    {
+      "name": "Co-IPT-IBA",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "7 mL"
+          },
+          {
+            "name": "HNO3 (1 M)",
+            "amount": "0.5 mL"
+          }
+        ],
+        "equipment": "Teflon-lined stainless-steel autoclave",
+        "chemicals_used": [
+          {
+            "name": "HIPT",
+            "amount": "0.1 mmol, 21.2 mg"
+          },
+          {
+            "name": "Co(NO3)·6H2O",
+            "amount": "0.1 mmol, 44 mg"
+          }
+        ],
+        "time": "3 days heating and 2 days cooling",
+        "washing_method": "immersed in MeOH for three days (replacing fresh MeOH every day)",
+        "drying_method": "heating at 120 °C under vacuum for 24 h",
+        "yield": "75% (based on Co)"
+      }
+    }
+  ]
+}

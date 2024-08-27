@@ -1,0 +1,28 @@
+{
+  "materials": [
+    {
+      "name": "[(NH2NH3)x(CH3NH3)1-x][Mn(HCOO)3] series (x = 1.00 to 0.67)",
+      "synthesis_conditions": {
+        "solvent": "methanol",
+        "morphology": "homogeneous and uniform",
+        "phase_purity_confirmation_methods": [
+          "elemental analysis",
+          "IR spectroscopy",
+          "powder X-ray diffraction (PXRD) employing the Le Bail fitting method"
+        ],
+        "thermal_stability": "up to 400 K",
+        "phase_transition_reversibility": "reversible",
+        "TC_values": {
+          "100 Hyz": "355 K",
+          "67 Hyz": "301 K"
+        },
+        "DSC_peak_characteristics": "flatter and more thermally dispersed from 100 Hyz to 67 Hyz",
+        "estimated_parameters": {
+          "DH": "decreased",
+          "DS": "decreased",
+          "N": "decreased"
+        }
+      }
+    }
+  ]
+}

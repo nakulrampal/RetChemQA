@@ -1,0 +1,107 @@
+{
+  "compounds": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "1.0 mL"
+          },
+          {
+            "name": "HMTA",
+            "amount": "0.1 mL, 1 M in H2O"
+          },
+          {
+            "name": "HNO3",
+            "amount": "0.400 mL, 2.85 M in DMF"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "3,5-Dicarboxyl-(3',5'-dicarboxylazophenyl)benzene (L1)",
+            "amount": "9.24 mg, 0.025 mmol"
+          },
+          {
+            "name": "Ni(NO3)2•6H2O",
+            "amount": "15 mg, 0.05 mmol"
+          }
+        ],
+        "time": "12 h",
+        "yield": "9.0 mg, 32.7%",
+        "drying_method": "air-dried",
+        "additional_information": "Green cube-shaped crystals were harvested."
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "solvents": "DMF",
+        "solvent_amounts": "3 mL",
+        "layering_solvents": [
+          {
+            "name": "MeOH",
+            "amount": "1 mL"
+          },
+          {
+            "name": "MeOH containing Co(NO3)2·6H2O",
+            "amount": "3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H4BIPA-TC (L2)",
+            "amount": "2.97 mg, 0.005 mmol"
+          },
+          {
+            "name": "2,6-lutidine",
+            "amount": "4.64 µL, 0.04 mmol"
+          },
+          {
+            "name": "caffeine",
+            "amount": "9.00 mg, 0.046 mmol"
+          },
+          {
+            "name": "Co(NO3)2·6H2O",
+            "amount": "3 mg, 0.0103 mmol"
+          }
+        ],
+        "yield": "1.10 mg, 13.2%",
+        "additional_information": "Red-purple cube-shaped crystals were harvested after one day."
+      }
+    },
+    {
+      "name": "3",
+      "synthesis_conditions": {
+        "solvents": "DMF",
+        "solvent_amounts": "5 mL",
+        "layering_solvents": [
+          {
+            "name": "MeOH",
+            "amount": "2 mL"
+          },
+          {
+            "name": "MeOH containing Ni(NO3)2·6H2O",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "L2",
+            "amount": "15 mg, 0.025 mmol"
+          },
+          {
+            "name": "2,6-lutidine",
+            "amount": "24.3 µL, 0.20 mmol"
+          },
+          {
+            "name": "Ni(NO3)2·6H2O",
+            "amount": "15 mg, 0.0575 mmol"
+          }
+        ],
+        "additional_information": "Pale yellow cube-shaped crystals were harvested after one day. Compound 3 is isostructural with 2."
+      }
+    }
+  ]
+}

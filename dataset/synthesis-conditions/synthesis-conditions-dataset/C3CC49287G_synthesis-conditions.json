@@ -1,0 +1,85 @@
+{
+  "materials": [
+    {
+      "material": "∞[CoII(2,3-chedc)(DABCO)0.5] (1Co)",
+      "synthesis_conditions": {
+        "temperature": "170 °C",
+        "time": "72 hrs",
+        "cooling_rate": "5 °C/h to 100 °C, then naturally to room temperature",
+        "solvents": [
+          {
+            "name": "deionized water",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CoCl2·6H2O",
+            "amount": "0.237 g (1 mmol)"
+          },
+          {
+            "name": "THPA",
+            "amount": "0.168 g (1 mmol)"
+          },
+          {
+            "name": "DABCO",
+            "amount": "0.112 g (1 mmol)"
+          }
+        ],
+        "equipment": "15 mL Teflon-lined autoclave",
+        "yield": "75 % (calculated from CoCl2·6H2O used)",
+        "elemental_analysis": {
+          "calculated": {
+            "C": "46.66%",
+            "H": "4.98%",
+            "N": "4.95%"
+          },
+          "found": {
+            "C": "46.78%",
+            "H": "4.85%",
+            "N": "4.83%"
+          }
+        }
+      }
+    },
+    {
+      "material": "∞[MnII2(1,2-chedc)(2,3-chedc)(H2O)] (2Mn)",
+      "synthesis_conditions": {
+        "temperature": "170 °C",
+        "time": "72 hrs",
+        "solvents": [
+          {
+            "name": "deionized water",
+            "amount": "15 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "MnCl2·4H2O",
+            "amount": "0.198 g (1 mmol)"
+          },
+          {
+            "name": "THPA",
+            "amount": "0.168 g (1 mmol)"
+          },
+          {
+            "name": "NaOH",
+            "amount": "0.080 g (2.0 mmol)"
+          }
+        ],
+        "equipment": "23-ml Teflon-lined autoclave",
+        "yield": "33 % (based on THPA)",
+        "elemental_analysis": {
+          "calculated": {
+            "C": "41.04%",
+            "H": "4.74%"
+          },
+          "found": {
+            "C": "41.10%",
+            "H": "4.69%"
+          }
+        }
+      }
+    }
+  ]
+}

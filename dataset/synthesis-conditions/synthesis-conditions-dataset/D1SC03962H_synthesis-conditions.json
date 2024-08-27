@@ -1,0 +1,65 @@
+{
+  "materials": [
+    {
+      "name": "CuI-TTFTB",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "6 mL"
+          },
+          {
+            "name": "CH3CN",
+            "amount": "1 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H4TTFTB",
+            "amount": "0.010 g"
+          },
+          {
+            "name": "Cu(NO3)2·2.5H2O",
+            "amount": "0.025 g"
+          },
+          {
+            "name": "CF3COOH",
+            "amount": "0.08 mL"
+          }
+        ],
+        "time": "72 h",
+        "washing_method": "washed with CH3COCH3 three times",
+        "yield": "46% based on H4TTFTB"
+      }
+    },
+    {
+      "name": "CuII-TTFTB",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "water/cyclohexane solution",
+            "amount": "1 vol%"
+          }
+        ],
+        "time": "about one month",
+        "temperature": "room temperature",
+        "initial_material": "Crystals of CuI-TTFTB"
+      }
+    },
+    {
+      "name": "TTFTB-HOF",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "acetone",
+            "amount": "not specified"
+          }
+        ],
+        "time": "about two weeks",
+        "temperature": "room temperature",
+        "initial_material": "Crystals of CuI-TTFTB"
+      }
+    }
+  ]
+}

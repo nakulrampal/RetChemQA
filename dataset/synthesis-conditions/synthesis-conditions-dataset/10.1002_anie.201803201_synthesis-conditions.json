@@ -1,0 +1,45 @@
+{
+  "materials": [
+    {
+      "name": "MV-PCN-521",
+      "synthesis_conditions": {
+        "temperature": "120 88C",
+        "solvents": "N,N-diethylformamide",
+        "equipment": "oven",
+        "chemicals_used": {
+          "tetratopic_organic_linkers": "4’,4’’,4’’’,4’’’’-methanetetrayltetrabiphenyl-4-carboxylic acid (MTBC)",
+          "tritopic_linker": "tris(4-carboxybiphenyl)amine (TBPA)",
+          "monotopic_linkers": [
+            "formic acid (FA)",
+            "trifluoroacetic acid (TFA)",
+            "benzoic acid (BA)",
+            "isonicotinic acid (IA)",
+            "4-chlorobenzoic acid (CBA)",
+            "4-nitrobenzoic acid (NBA)"
+          ],
+          "metal_source": "ZrCl4"
+        },
+        "time": "3 days",
+        "yield_criteria": {
+          "shape": "transparent octahedral shaped crystals",
+          "size": "about 100 mm"
+        },
+        "ratio_of_linkers": "TBPA/MTBC less than 4:1"
+      }
+    },
+    {
+      "name": "WHU-105",
+      "synthesis_conditions": {
+        "note": "Formed when more TBPA was used, resulting in hexagonal prism shape crystals representing a new MOF with 2D structure in space group Cmca."
+      }
+    },
+    {
+      "name": "nano-MV-PCN-521-R",
+      "synthesis_conditions": {
+        "method": "Vigorous stirring in the reaction solution, instead of stationary placement.",
+        "note": "A larger portion of TBPA can be introduced into these nanocrystals, without sacrificing phase purity.",
+        "shape_change": "From octahedral to truncated cube"
+      }
+    }
+  ]
+}

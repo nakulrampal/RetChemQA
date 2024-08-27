@@ -1,0 +1,184 @@
+{
+  "materials": [
+    {
+      "name": "BINAP-MOF (I)",
+      "synthesis_conditions": [
+        {
+          "temperature": "100 °C",
+          "solvents": "DMF",
+          "chemicals_used": [
+            {
+              "name": "4,4′-bis­(4-carboxyphenylethynyl)­BINAP (H2L1)",
+              "amount": null
+            },
+            {
+              "name": "ZrCl4",
+              "amount": null
+            },
+            {
+              "name": "trifluoroacetic acid (TFA)",
+              "amount": null
+            }
+          ],
+          "time": "7 days",
+          "yield": null,
+          "drying_method": null,
+          "washing_method": null
+        }
+      ]
+    },
+    {
+      "name": "BINAP-dMOF (II)",
+      "synthesis_conditions": [
+        {
+          "temperature": "100 °C",
+          "solvents": "DMF",
+          "chemicals_used": [
+            {
+              "name": "H2L1",
+              "amount": "2.3 mg"
+            },
+            {
+              "name": "H2L2",
+              "amount": "5.0 mg"
+            },
+            {
+              "name": "ZrCl4",
+              "amount": "3.0 mg"
+            },
+            {
+              "name": "trifluoroacetic acid (TFA)",
+              "amount": "15 µL"
+            }
+          ],
+          "time": "7 days",
+          "yield": "71%",
+          "drying_method": null,
+          "washing_method": null
+        }
+      ]
+    },
+    {
+      "name": "nitro-MOF",
+      "synthesis_conditions": [
+        {
+          "temperature": "90 °C",
+          "solvents": "DMF",
+          "chemicals_used": [
+            {
+              "name": "H2L2",
+              "amount": "6.3 mg"
+            },
+            {
+              "name": "ZrCl4",
+              "amount": "3.0 mg"
+            },
+            {
+              "name": "trifluoroacetic acid (TFA)",
+              "amount": "25 µL"
+            }
+          ],
+          "time": "7 days",
+          "yield": "79%",
+          "drying_method": null,
+          "washing_method": null
+        }
+      ]
+    },
+    {
+      "name": "BINAP-MOF·Rh­(BF4)",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            {
+              "name": "BINAP-MOF",
+              "amount": "7.4 mg"
+            },
+            {
+              "name": "Rh­(nbd)2BF4",
+              "amount": "98 μL"
+            }
+          ],
+          "solvents": "1,2-dichloroethane",
+          "time": "10 h",
+          "temperature": "room temperature",
+          "atmosphere": "hydrogen",
+          "yield": "95%",
+          "ee": "95%"
+        }
+      ]
+    },
+    {
+      "name": "BINAP-MOF·Rh­(SbF6)",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            {
+              "name": "BINAP-MOF",
+              "amount": "3.0 mg"
+            },
+            {
+              "name": "[Rh­(nbd)­Cl]2",
+              "amount": "19.9 μL"
+            },
+            {
+              "name": "AgSbF6",
+              "amount": "72 μL"
+            }
+          ],
+          "solvents": "CH2Cl2",
+          "time": "2 h",
+          "temperature": "room temperature",
+          "atmosphere": "nitrogen",
+          "yield": "99%",
+          "ee": "99%"
+        }
+      ]
+    },
+    {
+      "name": "BINAP-dMOF·RhCl",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            {
+              "name": "BINAP-dMOF",
+              "amount": "24.8 mg"
+            },
+            {
+              "name": "[RhCl­(nbd)]2",
+              "amount": "247 μL"
+            }
+          ],
+          "solvents": "THF",
+          "time": "overnight",
+          "yield": null,
+          "drying_method": null,
+          "washing_method": "THF, then CH2Cl2"
+        }
+      ]
+    },
+    {
+      "name": "Rh(Me2L1)Cl",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            {
+              "name": "[RhCl(nbd)]2",
+              "amount": "2.3 mg"
+            },
+            {
+              "name": "Me2L1",
+              "amount": "9.4 mg"
+            }
+          ],
+          "solvents": "CH2Cl2",
+          "time": "3 h",
+          "temperature": "room temperature",
+          "yield": null,
+          "drying_method": null,
+          "washing_method": null
+        }
+      ]
+    }
+  ]
+}

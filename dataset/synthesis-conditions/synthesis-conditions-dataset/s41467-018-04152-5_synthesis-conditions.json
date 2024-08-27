@@ -1,0 +1,131 @@
+{
+  "Compound 1": {
+    "Synthesis Conditions": {
+      "Temperature": "120 °C",
+      "Solvents": {
+        "DMF": "5 mL",
+        "Formic Acid": "5 mL"
+      },
+      "Chemicals Used": {
+        "Zirconium (IV) oxychloride octahydrate": "32.2 mg",
+        "H4bptc": "33 mg"
+      },
+      "Equipment": "20 mL scintillation vial",
+      "Time": "3 days",
+      "Washing Method": {
+        "DMF": "2 days",
+        "Methanol": "3 days"
+      },
+      "Yield": "68%",
+      "Drying Method": "Soxhlet extractor"
+    },
+    "Crystallography": {
+      "Crystal System": "Cubic",
+      "Space Group": "Im-3",
+      "Cell Parameters": {
+        "a": "24.3597(3) Å"
+      },
+      "Volume": "14455.0(5) Å3",
+      "Z": "8",
+      "Theta Range": "5°< 2θ < 70°",
+      "Number of Parameters": "30",
+      "Number of Data Points": "5000",
+      "Number of Restraints": "6 for Zr-O bond distances, 10 for O-Zr-O bond angles, 4 for C-O bond distances, 2 for C-C bond distances",
+      "Refinement Method": "Rietveld refinement",
+      "Rp/Rwp/Rexp": "0.0391/0.0586/0.0273",
+      "RB": "0.0381"
+    }
+  },
+  "Compound 2": {
+    "Synthesis Conditions": {
+      "Temperature": "120 °C",
+      "Solvents": {
+        "DMF": "8 mL",
+        "Formic Acid": "6 mL"
+      },
+      "Chemicals Used": {
+        "Zirconium (IV) oxychloride octahydrate": "32.2 mg",
+        "H4abtc": "35.8 mg"
+      },
+      "Equipment": "20 mL scintillation vial",
+      "Time": "3 days",
+      "Washing Method": {
+        "DMF": "2 days",
+        "Methanol": "3 days"
+      },
+      "Yield": "74%",
+      "Drying Method": "Soxhlet extractor"
+    },
+    "Crystallography": {
+      "Crystal System": "Monoclinic",
+      "Space Group": "C2/m",
+      "Cell Parameters": {
+        "a": "25.4692(11) Å",
+        "b": "36.3589(15) Å",
+        "c": "21.5275(9) Å",
+        "beta": "122.260(2)°"
+      },
+      "Volume": "16857.8(13) Å3",
+      "Z": "8",
+      "Theta Range": "2.397 to 27.868°",
+      "Index Ranges": "-30<=h<=25, 0<=k<=43, 0<=l<=25",
+      "Reflections Collected": "94479",
+      "Independent Reflections": "22502",
+      "Completeness": "98.6%",
+      "Absorption Correction": "Semi-empirical from equivalents",
+      "Max. and Min. Transmission": "0.981 and 0.612",
+      "Refinement Method": "Full-matrix least-squares on F2",
+      "Data / Restraints / Parameters": "22502 / 1202 / 678",
+      "Goodness-of-Fit on F2": "1.027",
+      "Final R Indices": {
+        "I>2sigma(I)": "R1 = 0.0848, wR2 = 0.2296",
+        "All Data": "R1 = 0.1311, wR2 = 0.2742"
+      },
+      "Extinction Coefficient": "n/a",
+      "Largest Diff. Peak and Hole": "2.918 and -1.470 e.Å-3"
+    }
+  },
+  "Compound 3": {
+    "Synthesis Conditions": {
+      "Temperature": "120 °C",
+      "Solvents": {
+        "DMF": "8 mL",
+        "Formic Acid": "4.5 mL"
+      },
+      "Chemicals Used": {
+        "Zirconium (IV) oxychloride octahydrate": "32.2 mg",
+        "H4tptc-(Me)2": "21.7 mg"
+      },
+      "Equipment": "20 mL scintillation vial",
+      "Time": "3 days",
+      "Washing Method": "Centrifuge or vacuum filtration",
+      "Yield": "55%",
+      "Drying Method": "Not specified"
+    },
+    "Crystallography": {
+      "Crystal System": "Orthorhombic",
+      "Space Group": "Imma",
+      "Cell Parameters": {
+        "a": "25.2379(14) Å",
+        "b": "27.7529(16) Å",
+        "c": "15.2344(10) Å"
+      },
+      "Volume": "10670.6(11) Å3",
+      "Z": "8",
+      "Theta Range": "2.337 to 22.990°",
+      "Index Ranges": "-25<=h<=25, -27<=k<=27, -15<=l<=15",
+      "Reflections Collected": "21998",
+      "Independent Reflections": "2981",
+      "Completeness": "98.2%",
+      "Refinement Method": "Full-matrix least-squares on F2",
+      "Data / Restraints / Parameters": "2978 / 275 / 172",
+      "Goodness-of-Fit on F2": "3.131",
+      "Final R Indices": {
+        "I>2sigma(I)": "R1 = 0.1484, wR2 = 0.3954",
+        "All Data": "R1 = 0.1896, wR2 = 0.4420"
+      },
+      "Extinction Coefficient": "n/a",
+      "Largest Diff. Peak and Hole": "4.545 and -1.103 e.Å-3"
+    }
+  }
+}

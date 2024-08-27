@@ -1,0 +1,134 @@
+{
+  "materials": [
+    {
+      "name": "Zn-PDI",
+      "synthesis_conditions": {
+        "temperature": "100 ℃",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "3 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "7 mL"
+          }
+        ],
+        "equipment": "25 mL Teflon-lined autoclave",
+        "chemicals_used": [
+          {
+            "name": "H2PDI",
+            "amount": "5 mg",
+            "molar_amount": "0.01 mmol"
+          },
+          {
+            "name": "NaOH",
+            "amount": "6 mg"
+          },
+          {
+            "name": "Zn(ClO4)2",
+            "amount": "3.7 mg"
+          }
+        ],
+        "time": "three days",
+        "yield": "44%",
+        "drying_method": "filtration"
+      }
+    },
+    {
+      "name": "2-(1-Methyl-1H-pyrrol-2-yl)benzonitrile",
+      "synthesis_conditions": {
+        "solvents": "DMF",
+        "chemicals_used": [
+          {
+            "name": "aryl halide",
+            "amount": "0.05 mmol",
+            "molar_amount": "1 equiv"
+          },
+          {
+            "name": "Zn-PDI",
+            "amount": "0.0025 mmol",
+            "molar_amount": "0.05 equiv"
+          },
+          {
+            "name": "Et3N",
+            "amount": "3.60 mmol",
+            "molar_amount": "72 equiv"
+          }
+        ],
+        "equipment": "glass tube",
+        "temperature": "40 ℃",
+        "light_source": "455 nm LEDs loop",
+        "atmosphere": "N2",
+        "time": "1 hour",
+        "yield": "87%"
+      }
+    },
+    {
+      "name": "4-(1-Methyl-1H-pyrrol-2-yl)acetophenone",
+      "synthesis_conditions": {
+        "solvents": "DMF",
+        "chemicals_used": [
+          {
+            "name": "aryl halide",
+            "amount": "0.1 mmol",
+            "molar_amount": "1 equiv"
+          },
+          {
+            "name": "Zn-PDI",
+            "amount": "0.005 mmol",
+            "molar_amount": "0.05 equiv"
+          },
+          {
+            "name": "Et3N",
+            "amount": "0.8 mmol",
+            "molar_amount": "8 equiv"
+          },
+          {
+            "name": "N-methylpyrrole",
+            "amount": "5.0 mmol"
+          }
+        ],
+        "equipment": "glass tube",
+        "temperature": "ambient",
+        "light_source": "455 nm LEDs loop",
+        "atmosphere": "N2",
+        "time": "monitored by GC",
+        "yield": "determined by GC"
+      }
+    },
+    {
+      "name": "4-(1-Methyl-1H-pyrrol-2-yl)benzaldehyde",
+      "synthesis_conditions": {
+        "solvents": "DMF",
+        "chemicals_used": [
+          {
+            "name": "aryl halide",
+            "amount": "0.1 mmol",
+            "molar_amount": "1 equiv"
+          },
+          {
+            "name": "Zn-PDI",
+            "amount": "0.005 mmol",
+            "molar_amount": "0.05 equiv"
+          },
+          {
+            "name": "Et3N",
+            "amount": "0.8 mmol",
+            "molar_amount": "8 equiv"
+          },
+          {
+            "name": "N-methylpyrrole",
+            "amount": "5.0 mmol"
+          }
+        ],
+        "equipment": "glass tube",
+        "temperature": "ambient",
+        "light_source": "455 nm LEDs loop",
+        "atmosphere": "N2",
+        "time": "monitored by GC",
+        "yield": "determined by GC"
+      }
+    }
+  ]
+}

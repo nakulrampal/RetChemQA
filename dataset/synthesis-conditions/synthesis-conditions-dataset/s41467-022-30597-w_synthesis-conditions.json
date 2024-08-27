@@ -1,0 +1,123 @@
+{
+  "materials": [
+    {
+      "material": "F-1,3-bpeb",
+      "chemicals_used": [
+        "1,3-dibromo-5-fluorobenzene",
+        "4-vinylpyridine",
+        "K2CO3",
+        "(PPh3)2PdCl2",
+        "N,N-dimethylformamide (DMF)"
+      ],
+      "solvents": "N,N-dimethylformamide (DMF)",
+      "temperature": "120 °C",
+      "time": "2 days",
+      "yield": "84.4%",
+      "characterization_methods": [
+        "1H NMR",
+        "19F NMR",
+        "13C NMR",
+        "HRMS",
+        "Elemental analysis"
+      ]
+    },
+    {
+      "material": "CP1",
+      "chemicals_used": [
+        "3CdSO4·8H2O",
+        "F-1,3-bpeb",
+        "3,5-HDBB",
+        "DMF/H2O",
+        "HNO3"
+      ],
+      "solvents": "DMF/H2O",
+      "temperature": "140 °C",
+      "time": "5 h",
+      "yield": "Based on F-1,3-bpeb",
+      "characterization_methods": [
+        "1H NMR",
+        "19F NMR",
+        "PXRD",
+        "TGA",
+        "DSC",
+        "FT-IR",
+        "SCXRD"
+      ]
+    },
+    {
+      "material": "CP1-1",
+      "chemicals_used": [
+        "CP1",
+        "NaOH",
+        "CH2Cl2"
+      ],
+      "solvents": [
+        "NaOH solution",
+        "CH2Cl2"
+      ],
+      "temperature": "Room temperature",
+      "time": "1 h",
+      "yield": "85.1% based on F-1,3-bpeb",
+      "characterization_methods": [
+        "1H NMR",
+        "19F NMR",
+        "13C NMR",
+        "HRMS",
+        "Elemental analysis"
+      ]
+    },
+    {
+      "material": "CP1-2β",
+      "chemicals_used": [
+        "CP1 or CP1-1",
+        "UV light irradiation"
+      ],
+      "solvents": "N/A",
+      "temperature": "Room temperature",
+      "time": "1 h",
+      "yield": "86.7% based on F-1,3-bpeb",
+      "characterization_methods": [
+        "1H NMR",
+        "19F NMR",
+        "13C NMR",
+        "HRMS",
+        "Elemental analysis"
+      ]
+    },
+    {
+      "material": "CP1-1'",
+      "chemicals_used": [
+        "CP1-2β",
+        "Heating"
+      ],
+      "solvents": "N/A",
+      "temperature": "208 °C",
+      "time": "4 h",
+      "yield": "82.1% based on F-1,3-bpeb",
+      "characterization_methods": [
+        "1H NMR",
+        "19F NMR",
+        "13C NMR",
+        "HRMS",
+        "Elemental analysis"
+      ]
+    },
+    {
+      "material": "CP1-2α",
+      "chemicals_used": [
+        "CP1 irradiated under UV light at 208 °C for 3 h or CP1-1’ irradiated under UV light at 25°C for 1.5 h"
+      ],
+      "solvents": "N/A",
+      "temperature": "208 °C for CP1 and 25°C for CP1-1'",
+      "time": "3 h for CP1 and 1.5 h for CP1-1'",
+      "yield": "72.8% based on F-1,3-bpeb",
+      "characterization_methods": [
+        "1H NMR",
+        "19F NMR",
+        "13C NMR",
+        "HRMS",
+        "Elemental analysis"
+      ]
+    }
+  ]
+}

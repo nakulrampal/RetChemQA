@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "question": "What is the primary purpose of introducing atomic layer deposition (ALD) in the synthesis of metal-organic frameworks (MOFs)?",
+      "answer": "The primary purpose of introducing ALD in the synthesis of MOFs is to enable metalation from the gas phase, which could eliminate purification and activation steps and circumvent problems associated with site blocking by solvent molecules.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the atomic layer deposition (ALD) technique differ from traditional chemical vapor deposition in terms of precursor molecule deposition?",
+      "answer": "ALD differs from traditional chemical vapor deposition in that precursor molecules deposit only at chemically reactive surface sites, and these reactions are self-limiting, allowing for conformal coating of porous materials with ultrahigh-aspect ratios.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the three design criteria considered essential for a MOF to be suitable for AIM (ALD In MOFs)?",
+      "answer": "The three design criteria essential for a MOF to be suitable for AIM are mesoporous channels to facilitate diffusion of ALD reactants, thermal and hydrolytic stability, and the presence of spatially oriented functional groups like −OH groups for self-limiting metalation reactions.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the key to enabling metalation by AIM (ALD In MOFs), and what are the characteristics of the synthesized MOF, NU-1000?",
+      "answer": "The key to enabling metalation by AIM was the synthesis of NU-1000, a new, thermally stable, Zr-based MOF with spatially oriented −OH groups, large 1D mesopores, and apertures.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What are the observed metal loadings for Zn-AIM and Al-AIM, and how do these values relate to the Zr6 node in NU-1000?",
+      "answer": "For Zn-AIM, an average of 0.5 Zn atoms per Zr atom was observed, corresponding to three Zn atoms for every Zr6 node in NU-1000. For Al-AIM, an average of 1.4 Al atoms per Zr atom was observed, corresponding to eight Al atoms for every Zr6 node.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Based on the synthesis conditions, why might ALD be considered a superior method for metalating MOFs compared to traditional solution-based methods?",
+      "answer": "ALD might be considered superior for metalating MOFs because it allows for precise control over the spatial distribution of metal species within the MOF, potentially leading to high metal loadings and uniform incorporation of open metal sites without the need for extensive purification steps to remove excess metals or solvent molecules.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of coordinatively unsaturated metal sites influence the functional behavior of MOFs?",
+      "answer": "Coordinatively unsaturated metal sites often enable key functional behaviors of MOFs, such as catalysis, gas storage, and gas separation, by providing active sites for chemical reactions or interactions with gas molecules.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What challenges are associated with metal-functionalizing MOFs from the condensed phase, and how does ALD address these challenges?",
+      "answer": "Challenges with metal-functionalizing MOFs from the condensed phase include the need for extensive purification to remove excess metals or undesired solvent and the risk of solvent molecules irreversibly ligating metal sites. ALD addresses these challenges by enabling vapor-phase metalation, which can be more uniform and avoid solvent-related issues.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of NU-1000 involves solvothermal reactions of ZrCl4, H4TBAPy, and benzoic acid in diethylformamide (DEF).",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The activation of NU-1000 requires a mixture of HCl and N,N-dimethylformamide (DMF) heated at 100°C for 24 hours.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The metalation of NU-1000 using ALD can result in the formation of Zn-AIM and Al-AIM with metal loadings that exceed those achieved through extended solution-phase exposure.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The BET surface area and total pore volume of NU-1000 increase after metalation by ALD.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The DRIFTS measurements confirm that metalation by ALD occurs by reaction with −OH groups on the Zr6 node of NU-1000.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis of NU-1000 requires the use of a microwave reactor for the solvothermal reaction.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The activation process for NU-1000 involves removing benzoic acid from the Zr6 nodes, leaving behind terminal −OH groups.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The ALD reactions for Zn-AIM and Al-AIM were carried out at the same temperature.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis of NU-1000 involves a post-synthesis modification step to introduce metal atoms.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

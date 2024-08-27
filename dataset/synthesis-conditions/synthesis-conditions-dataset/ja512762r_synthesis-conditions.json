@@ -1,0 +1,147 @@
+{
+  "materials": [
+    {
+      "name": "PCN-700",
+      "synthesis_conditions": {
+        "temperature": "120 ºC",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "20 mL"
+          },
+          {
+            "name": "trifluoroacetic acid",
+            "amount": "1.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "100 mg"
+          },
+          {
+            "name": "H2Me2-BPDC",
+            "amount": "100 mg"
+          }
+        ],
+        "time": "72 h",
+        "yield": "68%",
+        "washing_method": "washed with fresh DMF 3 times",
+        "drying_method": "Not specified",
+        "equipment": "Pyrex vial"
+      }
+    },
+    {
+      "name": "PCN-701",
+      "synthesis_conditions": {
+        "temperature": "75 ºC",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "40 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "PCN-700",
+            "amount": "100 mg"
+          },
+          {
+            "name": "H2BDC",
+            "amount": "200 mg"
+          }
+        ],
+        "time": "24 h",
+        "yield": "96%",
+        "washing_method": "washed with fresh DMF 3 times",
+        "drying_method": "Not specified",
+        "equipment": "Pyrex vial"
+      }
+    },
+    {
+      "name": "PCN-702",
+      "synthesis_conditions": {
+        "temperature": "75 ºC",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "40 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "PCN-700",
+            "amount": "100 mg"
+          },
+          {
+            "name": "H2Me2-TPDC",
+            "amount": "300 mg"
+          }
+        ],
+        "time": "24 h",
+        "yield": "98%",
+        "washing_method": "washed with fresh DMF 3 times",
+        "drying_method": "Not specified",
+        "equipment": "Pyrex vial"
+      }
+    },
+    {
+      "name": "PCN-703",
+      "synthesis_conditions": {
+        "temperature": "75 ºC",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "40 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "PCN-701",
+            "amount": "100 mg"
+          },
+          {
+            "name": "H2Me2-TPDC",
+            "amount": "300 mg"
+          }
+        ],
+        "time": "24 h",
+        "yield": "93%",
+        "washing_method": "washed with fresh DMF 3 times",
+        "drying_method": "Not specified",
+        "equipment": "Pyrex vial"
+      }
+    },
+    {
+      "name": "PCN-704",
+      "synthesis_conditions": {
+        "temperature": "75 ºC",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "40 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "PCN-700",
+            "amount": "100 mg"
+          },
+          {
+            "name": "H2NH2-BDC",
+            "amount": "200 mg"
+          },
+          {
+            "name": "H2(CH3O)2-TPDC",
+            "amount": "300 mg"
+          }
+        ],
+        "time": "48 h (24 h for each linker)",
+        "yield": "85%",
+        "washing_method": "washed with fresh DMF 3 times",
+        "drying_method": "Not specified",
+        "equipment": "Pyrex vial"
+      }
+    }
+  ]
+}

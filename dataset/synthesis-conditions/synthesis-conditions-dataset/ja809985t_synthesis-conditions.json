@@ -1,0 +1,81 @@
+{
+  "UMCM-2": {
+    "Synthesis": {
+      "Chemicals": {
+        "H2T2DC": {
+          "Amount": "0.0740 g",
+          "Moles": "0.325 mmol"
+        },
+        "H3BTB": {
+          "Amount": "0.139 g",
+          "Moles": "0.317 mmol"
+        },
+        "Zn(NO3)2·4H2O": {
+          "Amount": "0.500 g",
+          "Moles": "1.91 mmol"
+        }
+      },
+      "Solvents": {
+        "N,N-Diethylformamide": {
+          "Amount": "30 mL"
+        },
+        "DMF": {
+          "Washing_Amount": "3 × 30 mL"
+        },
+        "CH2Cl2": {
+          "Immersion_Amount": "30 mL",
+          "Replacement_Times": "three times"
+        }
+      },
+      "Conditions": {
+        "Sonication_Time": "15 min",
+        "Heating_Temperature": "85 °C",
+        "Heating_Duration": "3 days",
+        "Cooling": "Room temperature"
+      },
+      "Yield": "35% based on H3BTB"
+    },
+    "Thermal_Stability": {
+      "Powder_XRD": {
+        "Heating_Rate": "5 °C/min",
+        "Heating_Temperature": "300 °C",
+        "Cooling_Rate": "10 °C/min",
+        "Cooling_Temperature": "30 °C",
+        "Atmosphere": "N2 flow"
+      },
+      "N2_Sorption_Isotherms": {
+        "Heating_Rate": "5 °C/min",
+        "Heating_Temperature": "300 °C",
+        "Holding_Time": "3 hr",
+        "Cooling": "Room temperature",
+        "Cycles": "Multiple"
+      }
+    },
+    "Gas_Sorption_Measurements": {
+      "N2_Surface_Area": {
+        "Temperature": "77 K",
+        "Pressure_Range": "1.00 x 10-5 ≤ P/Po ≤ 1.00",
+        "Equipment": "Autosorb-1C",
+        "Sample_Mass": "~10 mg"
+      },
+      "Pore_Size_Distribution": {
+        "Gas": "Ar",
+        "Temperature": "87 K",
+        "Pressure_Range": "1.00 x 10-4 ≤ P/Po ≤ 1.00",
+        "Model": "Cylindrical pore model"
+      },
+      "H2_Sorption_Isotherms": {
+        "Temperature": "77 K and 87 K",
+        "Pressure_Range": "0.4 torr < P < 760 torr",
+        "Sample_Mass": "89 mg",
+        "Model": "Langmuir-Freundlich"
+      },
+      "High_Pressure_H2_Sorption": {
+        "Temperature": "77 K",
+        "Pressure_Range": "0 to 70 bar (adsorption), 60 to 2 bar (desorption)",
+        "Sample_Mass": "0.682 g",
+        "Cell_Volume": "4.5 mL"
+      }
+    }
+  }
+}

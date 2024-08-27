@@ -1,0 +1,146 @@
+{
+  "materials": [
+    {
+      "name": "SCP-IHEP-1",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "150 °C",
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "2 mL"
+            }
+          ],
+          "equipment": "stainless-steel vessel",
+          "chemicals_used": [
+            {
+              "name": "Cu(NO3)2 aqueous solution",
+              "amount": "200 μL, 0.04 mmol"
+            },
+            {
+              "name": "4,4′-bipyridine (bpy)",
+              "amount": "0.006 g, 0.04 mmol"
+            },
+            {
+              "name": "CB8",
+              "amount": "0.026 g, 0.02 mmol"
+            }
+          ],
+          "time": "48 h",
+          "yield": "0.026 g (59% based on CB8)"
+        },
+        {
+          "step": 2,
+          "temperature": "150 °C",
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "2 mL"
+            }
+          ],
+          "equipment": "stainless-steel vessel",
+          "chemicals_used": [
+            {
+              "name": "Cu(NO3)2 aqueous solution",
+              "amount": "500 μL, 0.04 mmol"
+            },
+            {
+              "name": "2bpy@CB8 intermediate",
+              "details": "obtained as described in step 1"
+            }
+          ],
+          "time": "48 h",
+          "yield": ">99%"
+        }
+      ]
+    },
+    {
+      "name": "Cu-bpy",
+      "synthesis_conditions": [
+        {
+          "temperature": "150 °C",
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "1.5 mL"
+            }
+          ],
+          "equipment": "stainless-steel vessel",
+          "chemicals_used": [
+            {
+              "name": "Cu(NO3)2 aqueous solution",
+              "amount": "500 μL, 0.10 mmol"
+            },
+            {
+              "name": "4,4′-bipyridine (bpy)",
+              "amount": "0.016 g, 0.10 mmol"
+            }
+          ],
+          "time": "72 h",
+          "yield": "0.013 g"
+        }
+      ]
+    },
+    {
+      "name": "SCP-IHEP-1-Re",
+      "synthesis_conditions": [
+        {
+          "temperature": "150 °C",
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "2 mL"
+            }
+          ],
+          "equipment": "stainless-steel vessel",
+          "chemicals_used": [
+            {
+              "name": "Cu(NO3)2 aqueous solution",
+              "amount": "200 μL, 0.04 mmol"
+            },
+            {
+              "name": "NH4ReO4 aqueous solution",
+              "amount": "400 μL, 0.04 mmol"
+            },
+            {
+              "name": "2bpy@CB8 intermediate",
+              "details": "obtained as described in SCP-IHEP-1 synthesis step 1"
+            }
+          ],
+          "time": "48 h"
+        }
+      ]
+    },
+    {
+      "name": "Cu-bpy-Re",
+      "synthesis_conditions": [
+        {
+          "temperature": "150 °C",
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "2.0 mL"
+            }
+          ],
+          "equipment": "stainless-steel vessel",
+          "chemicals_used": [
+            {
+              "name": "Cu(NO3)2 aqueous solution",
+              "amount": "500 μL, 0.10 mmol"
+            },
+            {
+              "name": "NH4ReO4 aqueous solution",
+              "amount": "400 μL, 0.04 mmol"
+            },
+            {
+              "name": "4,4′-bipyridine (bpy)",
+              "amount": "0.006 g, 0.04 mmol"
+            }
+          ],
+          "time": "72 h"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "materials": [
+    {
+      "name": "Bis­(4-(4-carboxyphenyl)-1H-pyrazolyl)­methane (H2bcppm)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Bis­(4-iodo-1H-pyrazol-1-yl)­methane",
+            "amount": "1.01 g",
+            "molarity": "2.53 mmol"
+          },
+          {
+            "name": "4-carboxyphenylboronic acid",
+            "amount": "1.26 g",
+            "molarity": "7.60 mmol"
+          },
+          {
+            "name": "K2CO3 aqueous solution",
+            "amount": "5.00 g in 30 mL of distilled water"
+          },
+          {
+            "name": "Dimethylformamide (DMF)",
+            "amount": "135 mL"
+          },
+          {
+            "name": "Pd­(PPh3)4",
+            "amount": "0.442 g",
+            "molarity": "0.38 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "Dimethylformamide (DMF)",
+            "amount": "135 mL"
+          },
+          {
+            "name": "Distilled water",
+            "amount": "30 mL"
+          }
+        ],
+        "temperature": "90 °C",
+        "time": "20 h",
+        "yield": "69%",
+        "washing_method": "Washed with dichloromethane (5 × 50 mL) and acidified with 20% HNO3 (pH 3)",
+        "drying_method": "Dried at 130 °C"
+      }
+    },
+    {
+      "name": "[Cu­(bcppm)­H2O]·xS (S = solvate)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Cu­(NO3)2·2.5H2O",
+            "amount": "36.3 mg",
+            "molarity": "0.16 mmol"
+          },
+          {
+            "name": "H2bcppm",
+            "amount": "41.5 mg",
+            "molarity": "0.11 mmol"
+          },
+          {
+            "name": "DMF",
+            "amount": "2 mL"
+          },
+          {
+            "name": "Distilled water",
+            "amount": "0.5 mL"
+          },
+          {
+            "name": "Ethanol",
+            "amount": "0.5 mL"
+          },
+          {
+            "name": "70% HNO3",
+            "amount": "2 drops"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2 mL"
+          },
+          {
+            "name": "Distilled water",
+            "amount": "0.5 mL"
+          },
+          {
+            "name": "Ethanol",
+            "amount": "0.5 mL"
+          }
+        ],
+        "temperature": "85 °C",
+        "time": "16 h",
+        "yield": "82%",
+        "washing_method": "Soaked in DMF (×3) and acetone (×8)",
+        "drying_method": "Heated at 120 °C under high vacuum for 3 h"
+      }
+    },
+    {
+      "name": "[Cu­(bcppm)­H2O]-ac (ac = activated)",
+      "synthesis_conditions": {
+        "activation_method": "Heating an acetone-solvated sample under vacuum",
+        "temperature": "120 °C",
+        "time": "3 h",
+        "color_change": "From blue to green",
+        "structural_modification": "Distinct shift in the spacing of the 011 and 020 planes indicating a structural modification",
+        "thermal_stability": "Thermally stable to 285 °C"
+      }
+    },
+    {
+      "name": "[Cu­(bcppm)­H2O]-heated",
+      "synthesis_conditions": {
+        "heating_conditions": "Heated in an oven at 80 °C",
+        "structural_transformation": "Trellis-like contraction, narrowing along the c-axis and elongating along the b-axis, and a 2D-to-3D transformation",
+        "coordination_environment_change": "From five coordinate to a Jahn–Teller distorted octahedral six coordinate",
+        "hydrogen_bonding": "Shorter hydrogen bonding between the bridging water ligand and a carboxylate in the adjacent layer"
+      }
+    }
+  ]
+}

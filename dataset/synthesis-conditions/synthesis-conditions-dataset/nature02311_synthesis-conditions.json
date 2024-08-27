@@ -1,0 +1,126 @@
+{
+  "materials": [
+    {
+      "name": "MOF-177",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": "N,N-diethylformamide (DEF)",
+        "amount_of_solvent": "not specified",
+        "equipment": "Pyrex tube",
+        "chemicals_used": "H3BTB (5.00 x 10^-3 g, 1.14 x 10^-5 mol), Zn(NO3)2.6H2O (0.020 g, 6.72 x 10^-5 mol)",
+        "time": "23 h",
+        "washing_method": "washed with DEF (4 x 2 ml)",
+        "drying_method": "dried briefly in air (<1 min)",
+        "yield": "0.005 g, 32% based on H3BTB",
+        "crystallographic_information": {
+          "crystal_system": "Trigonal",
+          "space_group": "P3¯1c",
+          "unit_cell_dimensions": {
+            "a": "37.072(2) Å",
+            "c": "30.033(2) Å"
+          },
+          "volume": "35746(3) Å^3",
+          "Z": "8",
+          "density_calculated": "1.011 Mg/m^3",
+          "absorption_coefficient": "0.590 mm^-1",
+          "F(000)": "11584",
+          "crystal_size": "0.30 x 0.30 x 0.28 mm^3",
+          "theta_range_for_data_collection": "1.10 to 20.84°",
+          "index_ranges": "-37<=h<=37, -37<=k<=37, -30<=l<=30",
+          "reflections_collected": "173392",
+          "independent_reflections": "12530",
+          "R_indices": {
+            "R1": "0.1538 (F > 4σ(F))",
+            "wR2": "0.4639 (all data)"
+          },
+          "largest_diff_peak_and_hole": "0.869 and -0.384 e.Å^-3"
+        },
+        "thermal_gravimetric_analysis": {
+          "temperature_range": "25 to 600 °C",
+          "rate": "5 °C/min",
+          "atmosphere": "air",
+          "weight_loss_steps": [
+            {
+              "temperature_range": "below 100 °C",
+              "weight_loss": "47.95%",
+              "attributed_to": "loss of guest molecules"
+            },
+            {
+              "temperature_range": "above 350 °C",
+              "weight_loss": "22.01%",
+              "attributed_to": "decomposition of the framework"
+            }
+          ]
+        },
+        "powder_x-ray_diffraction": {
+          "samples": [
+            {
+              "name": "Sample I",
+              "description": "as-prepared MOF-177 with DEF",
+              "significant_peaks": [
+                {
+                  "2-theta": "4.711",
+                  "d-value": "18.74351 Å",
+                  "intensity_percentage": "3.7%"
+                },
+                {
+                  "2-theta": "5.239",
+                  "d-value": "16.85309 Å",
+                  "intensity_percentage": "100.0%"
+                }
+              ]
+            },
+            {
+              "name": "Sample II",
+              "description": "ZnBTB exchanged with Chlorobenzene",
+              "significant_peaks": [
+                {
+                  "2-theta": "5.239",
+                  "d-value": "16.85563 Å",
+                  "intensity_percentage": "81.3%"
+                },
+                {
+                  "2-theta": "5.671",
+                  "d-value": "15.57096 Å",
+                  "intensity_percentage": "81.7%"
+                }
+              ]
+            },
+            {
+              "name": "Sample III",
+              "description": "Drying the Sample II to 145 °C with 5 °C/min rate",
+              "significant_peaks": [
+                {
+                  "2-theta": "5.239",
+                  "d-value": "16.85563 Å",
+                  "intensity_percentage": "100.0%"
+                },
+                {
+                  "2-theta": "5.623",
+                  "d-value": "15.70394 Å",
+                  "intensity_percentage": "37.8%"
+                }
+              ]
+            },
+            {
+              "name": "Sample IV",
+              "description": "Drying the Sample II to 325 °C with 5 °C/min rate",
+              "significant_peaks": [
+                {
+                  "2-theta": "5.239",
+                  "d-value": "16.85563 Å",
+                  "intensity_percentage": "100.0%"
+                },
+                {
+                  "2-theta": "5.964",
+                  "d-value": "14.80694 Å",
+                  "intensity_percentage": "39.1%"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

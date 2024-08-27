@@ -1,0 +1,231 @@
+{
+  "materials": [
+    {
+        "name": "S1",
+        "synthesis_conditions": {
+            "solvents": "DMSO",
+            "temperature": "room temperature",
+            "equipment": "Edinburgh FLS920-stm combined steady state and lifetime spectrofluorimeter",
+            "chemicals_used": [
+                {
+                    "name": "acetazolamide",
+                    "amount": "25.46 g",
+                    "mmol": "14.2 mmol"
+                },
+                {
+                    "name": "1M hydrochloric acid",
+                    "volume": "73 mL",
+                    "mmol": "74 mmol"
+                },
+                {
+                    "name": "succinic anhydride",
+                    "amount": "1.12 g",
+                    "mmol": "11.21 mmol"
+                },
+                {
+                    "name": "DMF",
+                    "volume": "20 mL"
+                },
+                {
+                    "name": "oxalyl chloride",
+                    "volume": "90 µL",
+                    "mmol": "1.06 mmol"
+                },
+                {
+                    "name": "triethylamine",
+                    "volume": "510 µL",
+                    "mmol": "3.66 mmol"
+                },
+                {
+                    "name": "tert-butyl (2-aminoethyl)carbamate",
+                    "amount": "60 mg",
+                    "mmol": "0.25 mmol"
+                },
+                {
+                    "name": "TFA",
+                    "volume": "6 mL",
+                    "mmol": "78 mmol"
+                },
+                {
+                    "name": "dansyl chloride",
+                    "amount": "875 mg",
+                    "mmol": "3.23 mmol"
+                },
+                {
+                    "name": "sodium carbonate",
+                    "amount": "736 mg",
+                    "mmol": "6.92 mmol"
+                }
+            ],
+            "time": [
+                {
+                    "step": "reflux of acetazolamide",
+                    "duration": "6 h"
+                },
+                {
+                    "step": "reaction with succinic anhydride",
+                    "duration": "20 h"
+                },
+                {
+                    "step": "reaction with oxalyl chloride",
+                    "duration": "5 h"
+                },
+                {
+                    "step": "reaction with tert-butyl (2-aminoethyl)carbamate",
+                    "duration": "3 h"
+                },
+                {
+                    "step": "reaction with dansyl chloride",
+                    "duration": "24 h"
+                }
+            ],
+            "yield": [
+                {
+                    "step": "from acetazolamide",
+                    "percentage": "98%"
+                },
+                {
+                    "step": "from succinic anhydride",
+                    "percentage": "23%"
+                },
+                {
+                    "step": "final product S1",
+                    "percentage": "11%"
+                }
+            ],
+            "purification": "chromatography on silica gel",
+            "characterization": [
+                {
+                    "technique": "1H-NMR",
+                    "solvent": "DMSO-d6",
+                    "frequency": "500 MHz"
+                },
+                {
+                    "technique": "13C-NMR",
+                    "solvent": "DMSO-d6",
+                    "frequency": "125 MHz"
+                },
+                {
+                    "technique": "HRMS",
+                    "method": "MALDI"
+                },
+                {
+                    "technique": "fluorescence spectroscopy",
+                    "equipment": "Edinburgh FLS920-stm spectrofluorimeter"
+                }
+            ]
+        }
+    },
+    {
+        "name": "S2",
+        "synthesis_conditions": {
+            "solvents": "DMSO, THF, MeCN",
+            "temperature": "room temperature",
+            "equipment": "Edinburgh FLS920-stm combined steady state and lifetime spectrofluorimeter",
+            "chemicals_used": [
+                {
+                    "name": "compound 3",
+                    "amount": "137 mg",
+                    "mmol": "0.34 mmol"
+                },
+                {
+                    "name": "EDC",
+                    "amount": "84 mg",
+                    "mmol": "0.45 mmol"
+                },
+                {
+                    "name": "DMAP",
+                    "amount": "41 mg",
+                    "mmol": "0.34 mmol"
+                },
+                {
+                    "name": "compound 7",
+                    "amount": "173 mg",
+                    "mmol": "0.45 mmol"
+                },
+                {
+                    "name": "DIPEA",
+                    "volume": "180 µL",
+                    "mmol": "0.93 mmol"
+                }
+            ],
+            "time": [
+                {
+                    "step": "reaction with compound 7",
+                    "duration": "12 h"
+                }
+            ],
+            "yield": "14%",
+            "purification": "chromatography on silica gel",
+            "characterization": [
+                {
+                    "technique": "1H-NMR",
+                    "solvent": "DMSO-d6",
+                    "frequency": "500 MHz"
+                },
+                {
+                    "technique": "13C-NMR",
+                    "solvent": "DMSO-d6",
+                    "frequency": "125 MHz"
+                },
+                {
+                    "technique": "HRMS",
+                    "method": "MALDI"
+                },
+                {
+                    "technique": "fluorescence spectroscopy",
+                    "equipment": "Edinburgh FLS920-stm spectrofluorimeter"
+                }
+            ]
+        }
+    },
+    {
+        "name": "S3",
+        "synthesis_conditions": {
+            "solvents": "acetone, water",
+            "temperature": "room temperature",
+            "equipment": "Edinburgh FLS920-stm combined steady state and lifetime spectrofluorimeter",
+            "chemicals_used": [
+                {
+                    "name": "dansyl chloride",
+                    "amount": "875 mg",
+                    "mmol": "3.23 mmol"
+                },
+                {
+                    "name": "compound 2",
+                    "amount": "500 mg",
+                    "mmol": "2.31 mmol"
+                },
+                {
+                    "name": "sodium carbonate",
+                    "amount": "736 mg",
+                    "mmol": "6.92 mmol"
+                }
+            ],
+            "time": "24 h",
+            "yield": "15%",
+            "purification": "chromatography on silica gel",
+            "characterization": [
+                {
+                    "technique": "1H-NMR",
+                    "solvent": "DMSO-d6",
+                    "frequency": "500 MHz"
+                },
+                {
+                    "technique": "13C-NMR",
+                    "solvent": "DMSO-d6",
+                    "frequency": "125 MHz"
+                },
+                {
+                    "technique": "HRMS",
+                    "method": "MALDI"
+                },
+                {
+                    "technique": "fluorescence spectroscopy",
+                    "equipment": "Edinburgh FLS920-stm spectrofluorimeter"
+                }
+            ]
+        }
+    }
+  ]
+}

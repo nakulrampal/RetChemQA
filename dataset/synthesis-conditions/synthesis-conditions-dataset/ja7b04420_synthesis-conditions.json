@@ -1,0 +1,119 @@
+{
+  "materials": [
+    {
+      "name": "cinnamaldehyde N-(4-pyridyl)imine (cpi)",
+      "synthesis_conditions": {
+        "temperature": "reflux in toluene",
+        "solvents": [
+          {
+            "name": "toluene",
+            "amount": "50 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Trans-cinnamaldehyde",
+            "amount": "4.31 g (32.6 mmol)"
+          },
+          {
+            "name": "4-aminopyridine",
+            "amount": "2.00 g (21.3 mmol)"
+          },
+          {
+            "name": "glacial acetic acid",
+            "amount": "ca. 5 mol.%"
+          }
+        ],
+        "equipment": "Dean-Stark apparatus",
+        "time": "44 hrs",
+        "yield": "64.9%",
+        "washing_method": "rinsed with cold toluene followed by cold hexanes",
+        "drying_method": "recrystallized from acetonitrile",
+        "additional_information": "Crystals of cpi were stored in a desiccator until further use."
+      }
+    },
+    {
+      "name": "[Ag(cpi)CO2CF3]n",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "dry ethyl acetate:acetonitrile",
+            "amount": "3:1, v:v"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "cpi",
+            "amount": "108.1 mg (0.5 mmol)"
+          },
+          {
+            "name": "AgCO2CF3",
+            "amount": "115.8 mg (0.5 mmol)"
+          }
+        ],
+        "yield": "61.2%",
+        "drying_method": "slow evaporation of the solvent"
+      }
+    },
+    {
+      "name": "Photoreaction of [Ag(cpi)CO2CF3]n",
+      "synthesis_conditions": {
+        "equipment": "450 W medium-pressure mercury lamp in ACE Glass photochemistry cabinet",
+        "time": "45 hrs",
+        "additional_information": "UV irradiation was performed on a finely ground sample of [Ag(cpi)CO2CF3]n thinly spread between oven dried Pyrex glass plates."
+      }
+    },
+    {
+      "name": "α-Truxilaldehyde (α-trux-ald)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "3M HCl",
+            "amount": "20 mL"
+          },
+          {
+            "name": "CHCl3",
+            "amount": "3 x 75 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "photoreacted powder of [Ag(cpi)CO2CF3]n",
+            "amount": "178.3 mg (0.6 mmol)"
+          }
+        ],
+        "yield": "69.3%",
+        "washing_method": "washed with brine (15 mL)",
+        "drying_method": "Solvent was evaporated under vacuum"
+      }
+    },
+    {
+      "name": "α-Truxilaldehyde tetramethyl acetal (α-trux-ace)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "trimethyl orthoformate",
+            "amount": "2 mL (18 mmol)"
+          },
+          {
+            "name": "methanol",
+            "amount": "2.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "α-truxilaldehyde",
+            "amount": "79.0 mg (0.3 mmol)"
+          },
+          {
+            "name": "p-toluenesulfonic acid monohydrate",
+            "amount": "31.3 mg (0.2 mmol)"
+          }
+        ],
+        "time": "18 hrs",
+        "yield": "85.9%",
+        "drying_method": "The remaining aqueous solution was cooled in an ice bath and the precipitate filtered"
+      }
+    }
+  ]
+}

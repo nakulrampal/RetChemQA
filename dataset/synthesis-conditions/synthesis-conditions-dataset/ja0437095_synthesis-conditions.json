@@ -1,0 +1,164 @@
+{
+  "materials": [
+    {
+      "material_id": "1-H2O",
+      "conditions": {
+        "temperature": "293K",
+        "solvents": "EtOH",
+        "chemicals_used": "2,5-pyridinedicarboxylic acid, dimethyltin(IV) oxide",
+        "yield": "76%",
+        "melting_point": "270 °C",
+        "crystal_size": "0.42 x 0.24 x 0.18 mm^3",
+        "crystal_density": "1.675 g/cm^3",
+        "crystal_system": "Monoclinic",
+        "space_group": "P2(1)/c",
+        "cell_parameters": {
+          "a": "11.5608(11) Å",
+          "b": "12.2314(12) Å",
+          "c": "11.4007(11) Å",
+          "alpha": "90.00°",
+          "beta": "111.596(2)°",
+          "gamma": "90.00°",
+          "volume": "1498.9(3) Å^3"
+        },
+        "formula_units_Z": "4",
+        "absorption_coefficient": "1.724 mm^-1",
+        "F_000": "752",
+        "crystal_color": "colorless",
+        "refinement": {
+          "R_factor_all": "0.0418",
+          "wR_factor_ref": "0.0820",
+          "goodness_of_fit_ref": "1.172"
+        }
+      }
+    },
+    {
+      "material_id": "2-MeOH",
+      "conditions": {
+        "temperature": "100K",
+        "solvents": "MeOH",
+        "chemicals_used": "2,5-pyridinedicarboxylic acid, di-n-butyltin(IV) oxide",
+        "yield": "76%",
+        "melting_point": "305-307 °C",
+        "crystal_size": "0.23 x 0.11 x 0.08 mm^3",
+        "crystal_density": "1.552 g/cm^3",
+        "crystal_system": "Monoclinic",
+        "space_group": "Cc",
+        "cell_parameters": {
+          "a": "26.594(4) Å",
+          "b": "9.5792(14) Å",
+          "c": "24.200(4) Å",
+          "alpha": "90.00°",
+          "beta": "114.730(3)°",
+          "gamma": "90.00°",
+          "volume": "5599.6(14) Å^3"
+        },
+        "formula_units_Z": "4",
+        "absorption_coefficient": "1.394 mm^-1",
+        "F_000": "2656",
+        "crystal_color": "colorless",
+        "refinement": {
+          "R_factor_all": "0.0886",
+          "wR_factor_ref": "0.1516",
+          "goodness_of_fit_ref": "1.086"
+        }
+      }
+    },
+    {
+      "material_id": "2-DMSO",
+      "conditions": {
+        "temperature": "293K",
+        "solvents": "DMSO",
+        "chemicals_used": "2,5-pyridinedicarboxylic acid, di-n-butyltin(IV) oxide",
+        "yield": "76%",
+        "melting_point": "305-307 °C",
+        "crystal_size": "0.21 x 0.11 x 0.11 mm^3",
+        "crystal_density": "1.408 g/cm^3",
+        "crystal_system": "Hexagonal",
+        "space_group": "P6(3)/m",
+        "cell_parameters": {
+          "a": "16.214(14) Å",
+          "b": "16.214(14) Å",
+          "c": "17.23(2) Å",
+          "alpha": "90.00°",
+          "beta": "90.00°",
+          "gamma": "120.00°",
+          "volume": "3923(7) Å^3"
+        },
+        "formula_units_Z": "2",
+        "absorption_coefficient": "1.167 mm^-1",
+        "F_000": "1704",
+        "crystal_color": "colorless",
+        "refinement": {
+          "R_factor_all": "0.0944",
+          "wR_factor_ref": "0.2012",
+          "goodness_of_fit_ref": "1.098"
+        }
+      }
+    },
+    {
+      "material_id": "2-H2O/PrOH",
+      "conditions": {
+        "temperature": "100K",
+        "solvents": "PrOH",
+        "chemicals_used": "2,5-pyridinedicarboxylic acid, di-n-butyltin(IV) oxide",
+        "yield": "76%",
+        "melting_point": "300 °C",
+        "crystal_size": "0.18 x 0.16 x 0.16 mm^3",
+        "crystal_density": "1.216 g/cm^3",
+        "crystal_system": "Cubic",
+        "space_group": "I23",
+        "cell_parameters": {
+          "a": "25.1483(10) Å",
+          "b": "25.1483(10) Å",
+          "c": "25.1483(10) Å",
+          "alpha": "90.00°",
+          "beta": "90.00°",
+          "gamma": "90.00°",
+          "volume": "15904.7(11) Å^3"
+        },
+        "formula_units_Z": "8",
+        "absorption_coefficient": "0.991 mm^-1",
+        "F_000": "5976",
+        "crystal_color": "colorless",
+        "refinement": {
+          "R_factor_all": "0.0930",
+          "wR_factor_ref": "0.2285",
+          "goodness_of_fit_ref": "1.280"
+        }
+      }
+    },
+    {
+      "material_id": "3-DMSO",
+      "conditions": {
+        "temperature": "293K",
+        "solvents": "DMSO",
+        "chemicals_used": "2,5-pyridinedicarboxylic acid, diphenyltin(IV) oxide",
+        "yield": "81%",
+        "melting_point": "300 °C",
+        "crystal_size": "0.26 x 0.20 x 0.12 mm^3",
+        "crystal_density": "1.444 g/cm^3",
+        "crystal_system": "Triclinic",
+        "space_group": "P-1",
+        "cell_parameters": {
+          "a": "17.878(3) Å",
+          "b": "17.958(3) Å",
+          "c": "18.053(3) Å",
+          "alpha": "102.151(3)°",
+          "beta": "104.815(4)°",
+          "gamma": "119.645(3)°",
+          "volume": "4460.9(14) Å^3"
+        },
+        "formula_units_Z": "2",
+        "absorption_coefficient": "1.084 mm^-1",
+        "F_000": "1968",
+        "crystal_color": "colorless",
+        "refinement": {
+          "R_factor_all": "0.2035",
+          "wR_factor_ref": "0.2912",
+          "goodness_of_fit_ref": "0.963"
+        }
+      }
+    }
+  ]
+}

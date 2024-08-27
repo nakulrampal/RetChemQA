@@ -1,0 +1,152 @@
+{
+  "materials": [
+    {
+      "name": "H4L",
+      "synthesis_conditions": {
+        "temperature": "room temperature for 5 h",
+        "solvents": [
+          {
+            "name": "6M NaOH",
+            "amount": "15 mL"
+          },
+          {
+            "name": "THF",
+            "amount": "5 mL"
+          },
+          {
+            "name": "MeOH",
+            "amount": "15 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(R)-5,5',6,6'-tetramethyl-3,3'-di(3,5-bis(methoxycarbonyl))phenyl-1,1’-biphenyl-2,2'-diol",
+            "amount": "2.0 g",
+            "molar_amount": "3.18 mmol"
+          }
+        ],
+        "yield": "88%",
+        "drying_method": "vacuum",
+        "purification_method": "acidified to pH 2 with 1M HCl, extracted with ethyl acetate"
+      }
+    },
+    {
+      "name": "MOF 1",
+      "synthesis_conditions": {
+        "temperature": "100 °C for 2 days",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "2 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.5 mL"
+          },
+          {
+            "name": "DMSO",
+            "amount": "0.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "23.8 mg",
+            "molar_amount": "0.08 mmol"
+          },
+          {
+            "name": "H4L",
+            "amount": "20 mg",
+            "molar_amount": "0.04 mmol"
+          }
+        ],
+        "yield": "78%",
+        "washing_method": "ether",
+        "drying_method": "air"
+      }
+    },
+    {
+      "name": "1-Li and 1-Li2",
+      "synthesis_conditions": [
+        {
+          "name": "1-Li",
+          "conditions": {
+            "solvents": "toluene containing 0.003 mmol H2O",
+            "chemicals_used": [
+              {
+                "name": "n-BuLi in hexane",
+                "amount": "0.0125 mL",
+                "molar_amount": "0.02 mmol"
+              }
+            ],
+            "stirring_time": "30 min",
+            "washing_method": "dried THF"
+          }
+        },
+        {
+          "name": "1-Li2",
+          "conditions": {
+            "solvents": "toluene containing 0.003 mmol H2O",
+            "chemicals_used": [
+              {
+                "name": "n-BuLi in hexane",
+                "amount": "0.025 mL",
+                "molar_amount": "0.04 mmol"
+              }
+            ],
+            "stirring_time": "30 min",
+            "washing_method": "dried THF"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cyanation of aldehydes",
+      "synthesis_conditions": {
+        "temperature": "-78 °C",
+        "solvents": "wet-toluene",
+        "chemicals_used": [
+          {
+            "name": "n-BuLi",
+            "molar_amount": "varies",
+            "notes": "amount varies depending on whether 1-Li or 1-Li2 is used"
+          },
+          {
+            "name": "Benzaldehyde",
+            "molar_amount": "2.0 mmol"
+          },
+          {
+            "name": "Trimethylsilylcyanide",
+            "molar_amount": "2.0 mmol"
+          }
+        ],
+        "reaction_time": "6 h",
+        "purification_method": "diluted with 10 w/w% HCl/MeOH at –78 °C, extracted with ethyl acetate"
+      }
+    },
+    {
+      "name": "(S)-bufuralol",
+      "synthesis_conditions": {
+        "temperature": "-78 °C",
+        "solvents": "wet-toluene",
+        "chemicals_used": [
+          {
+            "name": "n-BuLi",
+            "molar_amount": "0.06 mmol"
+          },
+          {
+            "name": "7-ethylbenzofuran-2-aldehyde",
+            "molar_amount": "6.0 mmol"
+          },
+          {
+            "name": "Trimethylsilylcyanide",
+            "molar_amount": "2.0 mmol"
+          }
+        ],
+        "reaction_time": "6 h",
+        "yield": "95%",
+        "purification_method": "diluted with 10 w/w% HCl/MeOH at –78 °C, extracted with ethyl acetate"
+      }
+    }
+  ]
+}

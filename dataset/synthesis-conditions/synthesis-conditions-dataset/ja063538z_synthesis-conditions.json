@@ -1,0 +1,56 @@
+{
+  "PCN-9": {
+    "Synthesis_Conditions": {
+      "Temperature": "135 °C",
+      "Solvent": "DMSO",
+      "Amount_of_Solvent": "1.2 mL",
+      "Equipment": "Pyrex glass tube (ID 8mm/OD 10 mm)",
+      "Chemicals_Used": {
+        "H3TATB": "0.01 g, 2.26 X 10^-5 mol",
+        "Co(NO3)2•6H2O": "0.025 g, 8.6 X 10^-5 mol"
+      },
+      "Time": "72 hours",
+      "Cooling_Rate": "0.1°C / min to 35 °C",
+      "Washing_Method": "Washed with DMSO twice",
+      "Drying_Method": "Dried under dynamic vacuum (< 10^-3 torr) at room temperature (25 °C) overnight",
+      "Yield": "55%",
+      "Additional_Information": {
+        "Elemental_Analysis": {
+          "Calculated": {
+            "C": "44.20%",
+            "H": "4.45%",
+            "N": "5.15%"
+          },
+          "Found": {
+            "C": "44.19%",
+            "H": "4.51%",
+            "N": "5.16%"
+          }
+        }
+      }
+    },
+    "Gas_Adsorption_Measurements": {
+      "Equipment": "Beckman Coulter SA 3100 surface area and pore size analyzer",
+      "Sample_Preparation": {
+        "Solvent_Removal": [
+          "Soaked with methanol for 24 hours, discarded extract",
+          "Soaked with fresh methanol for another 24 hours",
+          "Treated with dichloromethane to remove methanol solvates",
+          "Dried under dynamic vacuum (< 10^-3 torr) at room temperature (25 °C) overnight"
+        ],
+        "Drying_Before_Measurement": "Dried using the 'outgas' function of the surface area analyzer for 1 hour at 60 °C"
+      },
+      "Measurement_Conditions": {
+        "N2_Adsorption": "100.0 mg sample, maintained at 77K with liquid nitrogen",
+        "H2_Adsorption": {
+          "Purity": "99.9995%",
+          "Sample_Weight": "80.0 mg",
+          "Temperature": "77 K with liquid nitrogen"
+        },
+        "O2_Adsorption": "99.99% purity, measured at 77 K",
+        "CO_Adsorption": "99.99% purity, measured at 77 K",
+        "CH4_Adsorption": "99.997% purity, measured at 77 K"
+      }
+    }
+  }
+}

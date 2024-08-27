@@ -1,0 +1,82 @@
+{
+  "materials": [
+    {
+      "material_id": "1",
+      "synthesis_conditions": {
+        "precursors": [
+          "Na2tBu2hda (0.198 g, 0.5 mmol)",
+          "Fe(NO3)3·9 H2O (0.202, 0.5 mmol)"
+        ],
+        "solvents": [
+          "methanol (20 mL)",
+          "ethanol (95 %; 30 mL)"
+        ],
+        "additional_reagents": "KOH (2 m; 1 mL)",
+        "yield": "72 % based on Fe(NO3)3·9 H2O",
+        "crystal_growth_method": "slow evaporation of the ethanol solution",
+        "elemental_analysis": {
+          "calculated": "C 45.39, H 5.85, N 2.58",
+          "found": "C 45.66, H 6.41, N 2.83"
+        }
+      }
+    },
+    {
+      "material_id": "2",
+      "synthesis_conditions": {
+        "precursors": [
+          "hnida (0.08 g, 0.28 mmol)",
+          "FeCl3·6 H2O (0.135 g, 0.5 mmol)"
+        ],
+        "solvents": "ethanol (95 %, 30 mL)",
+        "additional_reagents": [
+          "potassium hydrogen carbonate (0.63 g, 6.3 mmol)",
+          "water (3 mL)"
+        ],
+        "yield": "32 % based on hnida",
+        "crystal_growth_method": "slow evaporation of the solvent",
+        "elemental_analysis": {
+          "calculated": "C 37.64, H 4.33, N 2.51",
+          "found": "C 37.31, H 4.22, N 2.57"
+        }
+      }
+    },
+    {
+      "material_id": "3",
+      "synthesis_conditions": {
+        "note": "Complex 3 was prepared as reported previously."
+      }
+    },
+    {
+      "material_id": "4",
+      "synthesis_conditions": {
+        "precursors": [
+          "chnida (0.08 g, 0.24 mmol)",
+          "FeCl3·6 H2O (0.135 g, 0.5 mmol)"
+        ],
+        "solvents": [
+          "methanol (30 mL)",
+          "ethanol (95 %; 20 mL)"
+        ],
+        "additional_reagents": "KOH (2 m; 2 mL)",
+        "yield": "36 % based on chnida",
+        "crystal_growth_method": "slow evaporation of the solution"
+      }
+    },
+    {
+      "material_id": "5",
+      "synthesis_conditions": {
+        "precursors": [
+          "SO3hda (0.08 g, 0.24 mmol)",
+          "FeCl3·6 H2O (0.135 g, 0.5 mmol)"
+        ],
+        "solvents": [
+          "methanol (30 mL)",
+          "ethanol (95 %; 20 mL)"
+        ],
+        "additional_reagents": "KOH (2 m; 2 mL)",
+        "yield": "10–20 % based on SO3hda",
+        "crystal_growth_method": "slow evaporation of the ethanol solution"
+      }
+    }
+  ]
+}

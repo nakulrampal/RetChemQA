@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the primary purpose of post-synthetic modification in MOFs as described in the text?",
+      "answer": "The primary purpose of post-synthetic modification in MOFs is to tailor the pores for a specific purpose, allowing fine-tuning for selective adsorption and catalysis.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Based on the synthesis conditions, which MOF was unable to undergo analogous reactions to L1 in a MOF structure?",
+      "answer": "The methoxy-modified dicarboxylic acid H2L3 in MOF synthesis was unable to undergo analogous reactions in a MOF structure.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the result of the reaction between Zn(NO3)2·6 H2O and H2L1 in DMF at 100 8C after 24 hours?",
+      "answer": "The reaction produced colorless crystals characterized as [Zn4O(L1)3-(OH2)2]·4 DMF (1).",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What change in coordination geometry occurs in the zinc centers of MOF 1?",
+      "answer": "In MOF 1, the coordination geometry of one of the zinc centers changes from tetrahedral to octahedral due to the coordination of two water molecules.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the structure of MOF 2 compare to IRMOF-9 in terms of the Zn···Zn contact?",
+      "answer": "In MOF 2, the Zn···Zn contact is shorter (6.92 Å) compared to IRMOF-9 (8.09 Å), indicating the two interpenetrated networks are closer together.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the outcome of treating MOF 1 with a DMF solution of 2,4-dinitrophenylhydrazine (DPH)?",
+      "answer": "The treatment resulted in the conversion of the formyl group to a hydrazone, changing the color of the crystals to orange-red, indicating the incorporation of the hydrazine into the network.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the presence of both [HL3]- and [HL2]- peaks in the negative-ion mass spectra of digested crystals of MOF 5 indicate?",
+      "answer": "The presence of both peaks indicates that MOF 5 is a mixed-ligand MOF containing both L2 and L3 ligands within each crystal.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the fully transformed product [Zn4O(L2)3] be prepared by post-synthetic modification?",
+      "answer": "No, the fully transformed product [Zn4O(L2)3] cannot be prepared by post-synthetic modification as the reaction of 1 with DPH gives only partial conversion of the aldehyde tags to hydrazone groups.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the effect of doping a small quantity of tags into a MOF as demonstrated with the synthesis of MOF 4?",
+      "answer": "Doping a small quantity of tags into a MOF, as demonstrated with MOF 4, allows for low loadings of modified functionalities and avoids potential pore blockage on post-synthetic modification.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why was the methoxy group chosen for comparison in the study of post-synthetic modification?",
+      "answer": "The methoxy group was chosen for comparison because it is similar in size and composition to the formyl tag but is unable to react with DPH, making it suitable for studying the effects of post-synthetic modification.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the change in color of the crystals upon treatment with DPH indicate about the post-synthetic modification process?",
+      "answer": "The change in color indicates that the post-synthetic modification process successfully incorporates the modifying agent (DPH) into the MOF structure, as seen with the conversion of the formyl group to a hydrazone.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is it possible to prepare MOFs containing more than one type of modification in a controlled manner?",
+      "answer": "Yes, it is possible to prepare MOFs containing more than one type of modification in a controlled manner, as demonstrated by the synthesis of MOF 5, which contains both L2 and L3 ligands.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the post-synthetic modification of MOFs allow access to products that differ from those formed by direct reaction between a metal salt and a ligand?",
+      "answer": "Yes, post-synthetic modification allows access to products that differ from those formed by direct reaction between a metal salt and a ligand, as demonstrated by the inability to form [Zn4O(L2)3] directly.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of MOF 1 resulted in a structure with a non-distorted octahedral geometry around all zinc centers.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The post-synthetic modification of MOF 1 with DPH resulted in a complete conversion of all aldehyde tags to hydrazone groups.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The methoxy-modified MOF 3 underwent a color change similar to MOF 2 when treated with DPH, indicating successful post-synthetic modification.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis of MOF 4 using a 1:1 ratio of H2L1 and H2L3 resulted in a MOF with an equal distribution of L1 and L3 ligands.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The SBU in MOF 2 and MOF 5 contains two DMF ligands on the octahedral metal center.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The post-synthetic modification strategy allows for the incorporation of functional groups into MOFs that would not survive the conditions of MOF synthesis.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The presence of both [HL3]- and [HL2]- peaks in the negative-ion mass spectra of digested crystals of MOF 5 does not confirm the presence of both ligands within each crystal.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

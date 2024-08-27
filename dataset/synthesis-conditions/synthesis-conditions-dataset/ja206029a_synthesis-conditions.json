@@ -1,0 +1,89 @@
+{
+  "materials": [
+    {
+      "name": "L3",
+      "synthesis_conditions": {
+        "temperature": "refluxed for 48 h",
+        "solvents": [
+          {
+            "name": "toluene",
+            "amount": "20 mL"
+          },
+          {
+            "name": "CH2Cl2",
+            "amount": "4 mL"
+          }
+        ],
+        "chemicals_used": [
+          "2,6-Diiodo-1,3,5,7-tetramethyl-8-phenyl-4,4-difluoroboradiazaindacene",
+          "4-(trimethylstannyl)pyridine",
+          "PdCl2(PPh3)2"
+        ],
+        "yield": "45%",
+        "drying_method": "rotary evaporator",
+        "purification_method": "flash column chromatography on silica gel"
+      }
+    },
+    {
+      "name": "BOB MOF",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "time": "12 h",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "1.2 mL"
+          },
+          {
+            "name": "HNO3 in EtOH",
+            "amount": "0.5 mL of a 0.03 M solution"
+          }
+        ],
+        "chemicals_used": [
+          "L1",
+          "L3",
+          "Zn(NO3)2·6H2O"
+        ],
+        "yield": "66%",
+        "washing_method": "rinsed with DMF (~20 mL)"
+      }
+    },
+    {
+      "name": "BOP MOF",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "time": "2 h for initial heating, then 12 h after adding L3",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "1 mL"
+          },
+          {
+            "name": "HNO3 in EtOH",
+            "amount": "1 mL of a 0.03M solution"
+          }
+        ],
+        "chemicals_used": [
+          "L2",
+          "Zn(NO3)2·6H2O",
+          "L3"
+        ],
+        "yield": "50%",
+        "washing_method": "decanted and replaced with fresh DMF until solution was colorless"
+      }
+    },
+    {
+      "name": "Pyridine-treated BOP MOF",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "pyridine",
+            "amount": "2 mL"
+          }
+        ],
+        "time": "replaced every 2 h over 6 h",
+        "washing_method": "washed with fresh pyridine (10 mL) and EtOH (10mL)"
+      }
+    }
+  ]
+}

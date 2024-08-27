@@ -1,0 +1,487 @@
+{
+  "materials": [
+    {
+      "name": "H5L1",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis of S1",
+          "chemicals_used": [
+            {
+              "chemical": "(R)-6,6'-dimethyl-3,3'-di-tert-butyl-5,5'-di(3,5-bis(methoxycarbonyl))phenyl-1,1'-biphenyl-2,2'-diol",
+              "amount": "11.25 g",
+              "molarity": "15 mmol"
+            },
+            {
+              "chemical": "Anhydrous aluminum chloride",
+              "amount": "12.01 g",
+              "molarity": "90 mmol"
+            },
+            {
+              "chemical": "Nitromethane",
+              "amount": "80 mL"
+            },
+            {
+              "chemical": "6 M HCl",
+              "amount": "70 mL"
+            }
+          ],
+          "solvents": [
+            {
+              "solvent": "CH2Cl2",
+              "amount": "80 mL"
+            }
+          ],
+          "temperature": "Room temperature to 0 °C",
+          "time": "10 h",
+          "yield": "7.62 g, 85%",
+          "characterization": [
+            {
+              "technique": "1H NMR",
+              "solvent": "CDCl3",
+              "frequency": "400 MHz",
+              "details": "δ: 8.66 (t, J = 1.6 Hz, 2H), 8.20 (d, J = 1.6 Hz, 4H), 7.27-7.24 (m, 1H), 7.00 (d, J = 8.4 Hz, 2H), 5.15 (s, 2H), 3.96 (s, 12H), 1.93 (s, 6H)"
+            },
+            {
+              "technique": "13C NMR",
+              "solvent": "CDCl3",
+              "frequency": "100 MHz",
+              "details": "δ: 166.57, 153.92, 142.78, 136.37, 135.06, 133.47, 131.72, 130.73, 129.21, 121.64, 113.75, 52.75, 17.85"
+            }
+          ]
+        },
+        {
+          "step": "Synthesis of S2",
+          "chemicals_used": [
+            {
+              "chemical": "S1",
+              "amount": "7.62 g",
+              "molarity": "12.75 mmol"
+            },
+            {
+              "chemical": "Morpholine",
+              "amount": "6.72 mL",
+              "molarity": "76.50 mmol"
+            },
+            {
+              "chemical": "I2",
+              "amount": "8.09 g",
+              "molarity": "31.88 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "solvent": "CH2Cl2",
+              "amount": "110 mL"
+            }
+          ],
+          "temperature": "Room temperature",
+          "time": "10 h",
+          "yield": "9.00 g, 83%"
+        },
+        {
+          "step": "Synthesis of S3",
+          "chemicals_used": [
+            {
+              "chemical": "S2",
+              "amount": "4.49 g",
+              "molarity": "5.29 mmol"
+            },
+            {
+              "chemical": "3,5-bis(trifluoromethyl)benzeneboronic acid",
+              "amount": "5.46 g",
+              "molarity": "21.16 mmol"
+            },
+            {
+              "chemical": "K3PO4",
+              "amount": "6.73 g",
+              "molarity": "31.74 mmol"
+            },
+            {
+              "chemical": "Pd2(dba)3",
+              "amount": "146 mg",
+              "molarity": "0.16 mmol"
+            },
+            {
+              "chemical": "SPhos",
+              "amount": "131 mg",
+              "molarity": "0.32 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "solvent": "Anhydrous toluene",
+              "amount": "120 mL"
+            }
+          ],
+          "temperature": "100 °C",
+          "time": "24 h",
+          "yield": "3.57 g, 66%"
+        },
+        {
+          "step": "Synthesis of Me4L1",
+          "chemicals_used": [
+            {
+              "chemical": "S3",
+              "amount": "3.57 g",
+              "molarity": "3.49 mmol"
+            },
+            {
+              "chemical": "POCl3",
+              "amount": "1.95 mL",
+              "molarity": "20.94 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "solvent": "Anhydrous pyridine",
+              "amount": "40 mL"
+            }
+          ],
+          "temperature": "95 °C",
+          "time": "24 h",
+          "yield": "3.10 g, 82%"
+        },
+        {
+          "step": "Synthesis of H5L1",
+          "chemicals_used": [
+            {
+              "chemical": "Me4L1",
+              "amount": "3.10 g",
+              "molarity": "2.86 mmol"
+            },
+            {
+              "chemical": "LiOH·H2O",
+              "amount": "1.20 g",
+              "molarity": "28.60 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "solvent": "THF",
+              "amount": "15 mL"
+            },
+            {
+              "solvent": "MeOH",
+              "amount": "45 mL"
+            },
+            {
+              "solvent": "H2O",
+              "amount": "45 mL"
+            }
+          ],
+          "temperature": "Reflux",
+          "time": "8 h",
+          "yield": "2.64 g, 90%"
+        }
+      ]
+    },
+    {
+      "name": "H5L2",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis of S4",
+          "chemicals_used": [
+            {
+              "chemical": "S2",
+              "amount": "1.50 g",
+              "molarity": "1.77 mmol"
+            },
+            {
+              "chemical": "3,5-dimethylphenylboronic acid",
+              "amount": "1.06 g",
+              "molarity": "7.08 mmol"
+            },
+            {
+              "chemical": "K3PO4",
+              "amount": "2.25 g",
+              "molarity": "10.62 mmol"
+            },
+            {
+              "chemical": "Pd2(dba)3",
+              "amount": "48.50 mg",
+              "molarity": "0.053 mmol"
+            },
+            {
+              "chemical": "SPhos",
+              "amount": "43.46 mg",
+              "molarity": "0.11 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "solvent": "Anhydrous toluene",
+              "amount": "50 mL"
+            }
+          ],
+          "temperature": "100 °C",
+          "time": "24 h",
+          "yield": "1.30 g, 91%"
+        },
+        {
+          "step": "Synthesis of Me4L2",
+          "chemicals_used": [
+            {
+              "chemical": "S4",
+              "amount": "1.30 g",
+              "molarity": "1.61 mmol"
+            },
+            {
+              "chemical": "POCl3",
+              "amount": "1.03 mL",
+              "molarity": "9.66 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "solvent": "Anhydrous pyridine",
+              "amount": "10 mL"
+            }
+          ],
+          "temperature": "95 °C",
+          "time": "24 h",
+          "yield": "1.19 g, 85%"
+        },
+        {
+          "step": "Synthesis of H5L2",
+          "chemicals_used": [
+            {
+              "chemical": "Me4L2",
+              "amount": "1.19 g",
+              "molarity": "1.37 mmol"
+            },
+            {
+              "chemical": "LiOH·H2O",
+              "amount": "575 mg",
+              "molarity": "13.70 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "solvent": "THF",
+              "amount": "8 mL"
+            },
+            {
+              "solvent": "MeOH",
+              "amount": "24 mL"
+            },
+            {
+              "solvent": "H2O",
+              "amount": "24 mL"
+            }
+          ],
+          "temperature": "Reflux",
+          "time": "8 h",
+          "yield": "968 mg, 87%"
+        }
+      ]
+    },
+    {
+      "name": "H5L3",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis of S5",
+          "chemicals_used": [
+            {
+              "chemical": "S2",
+              "amount": "3 g",
+              "molarity": "3.54 mmol"
+            },
+            {
+              "chemical": "3,5-difluorophenylboronic acid",
+              "amount": "2.24 g",
+              "molarity": "14.16 mmol"
+            },
+            {
+              "chemical": "K3PO4",
+              "amount": "4.5 g",
+              "molarity": "21.24 mmol"
+            },
+            {
+              "chemical": "Pd2(dba)3",
+              "amount": "97 mg",
+              "molarity": "0.11 mmol"
+            },
+            {
+              "chemical": "SPhos",
+              "amount": "87 mg",
+              "molarity": "0.21 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "solvent": "Anhydrous toluene",
+              "amount": "90 mL"
+            }
+          ],
+          "temperature": "100 °C",
+          "time": "24 h",
+          "yield": "2.04 g, 70%"
+        },
+        {
+          "step": "Synthesis of Me4L3",
+          "chemicals_used": [
+            {
+              "chemical": "S5",
+              "amount": "2.04 g",
+              "molarity": "2.48 mmol"
+            },
+            {
+              "chemical": "POCl3",
+              "amount": "1.55 mL",
+              "molarity": "14.50 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "solvent": "Anhydrous pyridine",
+              "amount": "25 mL"
+            }
+          ],
+          "temperature": "95 °C",
+          "time": "24 h",
+          "yield": "1.75 g, 80%"
+        },
+        {
+          "step": "Synthesis of H5L3",
+          "chemicals_used": [
+            {
+              "chemical": "Me4L3",
+              "amount": "1.75 g",
+              "molarity": "1.98 mmol"
+            },
+            {
+              "chemical": "LiOH·H2O",
+              "amount": "834 mg",
+              "molarity": "19.80 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "solvent": "THF",
+              "amount": "10 mL"
+            },
+            {
+              "solvent": "MeOH",
+              "amount": "30 mL"
+            },
+            {
+              "solvent": "H2O",
+              "amount": "30 mL"
+            }
+          ],
+          "temperature": "Reflux",
+          "time": "8 h",
+          "yield": "1.31 g, 80%"
+        }
+      ]
+    },
+    {
+      "name": "MOF 1",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            {
+              "chemical": "MnCl2·4H2O",
+              "amount": "79.20 mg",
+              "molarity": "0.40 mmol"
+            },
+            {
+              "chemical": "H5L1",
+              "amount": "40 mg",
+              "molarity": "0.04 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "solvent": "DMA",
+              "amount": "10 mL"
+            },
+            {
+              "solvent": "MeOH",
+              "amount": "2.50 mL"
+            },
+            {
+              "solvent": "H2O",
+              "amount": "0.20 mL"
+            }
+          ],
+          "temperature": "100 °C",
+          "time": "12 h",
+          "yield": "88%"
+        }
+      ]
+    },
+    {
+      "name": "MOF 2",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            {
+              "chemical": "MnCl2·4H2O",
+              "amount": "99 mg",
+              "molarity": "0.50 mmol"
+            },
+            {
+              "chemical": "H5L2",
+              "amount": "40 mg",
+              "molarity": "0.05 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "solvent": "DMA",
+              "amount": "10 mL"
+            },
+            {
+              "solvent": "MeOH",
+              "amount": "3 mL"
+            },
+            {
+              "solvent": "H2O",
+              "amount": "0.20 mL"
+            }
+          ],
+          "temperature": "100 °C",
+          "time": "12 h",
+          "yield": "82%"
+        }
+      ]
+    },
+    {
+      "name": "MOF 3",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            {
+              "chemical": "MnCl2·4H2O",
+              "amount": "95 mg",
+              "molarity": "0.48 mmol"
+            },
+            {
+              "chemical": "H5L3",
+              "amount": "40 mg",
+              "molarity": "0.048 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "solvent": "DMA",
+              "amount": "10 mL"
+            },
+            {
+              "solvent": "MeOH",
+              "amount": "1.50 mL"
+            },
+            {
+              "solvent": "H2O",
+              "amount": "0.20 mL"
+            }
+          ],
+          "temperature": "100 °C",
+          "time": "12 h",
+          "yield": "70%"
+        }
+      ]
+    }
+  ]
+}

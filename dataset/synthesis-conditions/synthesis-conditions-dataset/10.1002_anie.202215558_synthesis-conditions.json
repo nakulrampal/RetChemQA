@@ -1,0 +1,39 @@
+{
+  "materials": [
+    {
+      "name": "M- and P-[H6(py)2Yb(hfac)3]n 2",
+      "synthesis_conditions": {
+        "solvent": "toluene",
+        "temperature": "reflux",
+        "time": "2 hours",
+        "yield": [
+          {
+            "M-2": "68%"
+          },
+          {
+            "P-2": "72%"
+          }
+        ],
+        "washing_method": "Layering n-hexane into the mother solution",
+        "chemicals_used": [
+          {
+            "name": "M- and P-H6(Py)2",
+            "amount": "1 equivalent"
+          },
+          {
+            "name": "ytterbium-(III)-tris-hexafluoro-acetylacetonate precursor",
+            "amount": "1 equivalent"
+          }
+        ],
+        "equipment": "not specified",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "M- and P-[H6bpy-Yb-(hfac)3]",
+      "synthesis_conditions": {
+        "note": "The synthesis conditions for M- and P-[H6bpy-Yb-(hfac)3] were not explicitly provided in the text. However, it is mentioned that the luminescence and CPL properties of this previously published mononuclear compound were investigated for comparison with those of M- and P-[H6(py)2Yb(hfac)3]n 2."
+      }
+    }
+  ]
+}

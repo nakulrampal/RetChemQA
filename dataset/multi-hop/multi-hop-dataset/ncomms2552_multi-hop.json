@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What is the main goal of designing porous materials with pre-designed single-molecule traps?",
+      "answer": "The main goal is to create materials that can specifically capture and selectively adsorb certain molecules, such as CO2, over others like N2 and CH4, for applications in gas separation and purification, including CO2 capture from flue gas and methane upgrading.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How do single-molecule traps (SMTs) enhance CO2 adsorption in metal-organic frameworks (MOFs)?",
+      "answer": "SMTs enhance CO2 adsorption by providing a cavity specifically designed for the size and properties of CO2 molecules, which strengthens CO2-host interactions without forming chemical bonds, leading to highly selective adsorption of CO2 over other gases.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What strategies were proposed for incorporating SMTs into extended porous solids?",
+      "answer": "Two strategies were proposed: assembling the SMTs by ligand extension to construct a three-dimensional MOF with efficient mass transfer, and accommodating SMTs into other porous materials, such as mesoporous silica.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the key features of the ligands used to construct SMTs for CO2 capture?",
+      "answer": "The key features include a 'cis and parallel' arrangement of carboxylic acid groups, providing an appropriate bridging angle and inter-carboxylic-acid distance to form a cavity with two positively charged 'anchors' suitable for holding a CO2 molecule through electrostatic interactions.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What experimental and computational methods were used to validate the efficiency of SMTs in capturing CO2 molecules?",
+      "answer": "Experimental methods included gas adsorption measurements, and computational methods involved density functional theory (DFT) calculations and grand canonical Monte Carlo (GCMC) simulations to evaluate CO2-binding energies and adsorption selectivities.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The design of SMTs in MOFs does not significantly influence the selective adsorption of CO2 over other gases.",
+      "answer": "False. The design of SMTs significantly influences the selective adsorption of CO2 over other gases by providing a cavity specifically designed for CO2, enhancing host-guest interactions and selectivity.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the presence of SMTs in PCN-88 compare to PCN-880 in terms of CO2 adsorption capacity?",
+      "answer": "PCN-88, with SMTs, shows a significantly higher CO2 adsorption capacity, especially at low pressures, compared to PCN-880, where the SMT cavities are blocked, demonstrating the importance of SMTs in enhancing CO2 capture.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the heat of adsorption values for CO2 in PCN-88 and PCN-880?",
+      "answer": "The heat of adsorption values indicates the strength of CO2-host interactions. Higher values in PCN-88 compared to PCN-880 suggest stronger interactions in PCN-88 due to the presence of SMTs, which is desirable for efficient CO2 capture and low-energy consumption for adsorbent regeneration.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The design strategy for SMTs can only be applied for CO2 capture and cannot be adapted for other applications.",
+      "answer": "False. The design strategy for SMTs can be adapted for other specific applications, such as H2 storage and even CO2 activation, by judiciously designing a cavity for trapping specific molecules based on their chemical and physical properties.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What challenges were encountered in incorporating SMTs into other porous materials like mesoporous silica?",
+      "answer": "The challenge encountered was the poor solubility of SMTs in all tested solvents, which hampered the direct impregnation of SMTs into other porous materials like mesoporous silica, limiting the strategy to building SMTs into extended frameworks through ligand design.",
+      "difficulty": "hard",
+      "type": "factual"
+    }
+  ]
+}

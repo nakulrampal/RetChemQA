@@ -1,0 +1,62 @@
+{
+  "Mithrene": {
+    "temperature": "298 K",
+    "solvents": "isopropanol",
+    "amount_of_solvent": "1 ml",
+    "equipment": "1-dram glass vial",
+    "chemicals_used": [
+      "silver (i) oxide (~50–150 mg)",
+      "benzeneselenol (1.5 equivalents)"
+    ],
+    "time": "1 day at 70°C",
+    "washing_method": "3 cycles of centrifugation (~10,000 rpm for 10 min), dilution with fresh isopropanol, and decanting",
+    "drying_method": "transferred to a 45 ml Falcon tube and diluted with isopropanol",
+    "yield": "stoichiometric",
+    "XFEL_energy": "12 keV",
+    "XFEL_pulse_duration": "~30 fs",
+    "XFEL_repetition_rate": "30 Hz",
+    "data_collection_time": "4.5 hours",
+    "crystals_analyzed": "500k frames",
+    "resolution": "1.2 Å"
+  },
+  "Thiorene": {
+    "temperature": "298 K",
+    "solvents": "isopropanol",
+    "amount_of_solvent": "1 ml",
+    "equipment": "1-dram glass vial",
+    "chemicals_used": [
+      "silver (i) oxide (~50–150 mg)",
+      "benzenethiol (1.5 equivalents)"
+    ],
+    "time": "1 day at 70°C",
+    "washing_method": "3 cycles of centrifugation (~10,000 rpm for 10 min), dilution with fresh isopropanol, and decanting",
+    "drying_method": "transferred to a 45 ml Falcon tube and diluted with isopropanol",
+    "yield": "stoichiometric",
+    "XFEL_energy": "9.8 keV",
+    "XFEL_pulse_duration": "~30 fs",
+    "XFEL_repetition_rate": "120 Hz",
+    "data_collection_time": "3 hours",
+    "crystals_analyzed": "Approximately 400,000 frames",
+    "resolution": "1.35 Å"
+  },
+  "Tethrene": {
+    "temperature": "298 K",
+    "solvents": "isopropanol",
+    "amount_of_solvent": "1 ml",
+    "equipment": "4-dram vial with a PTFE-lined cap",
+    "chemicals_used": [
+      "diphenyl ditelluride (3:1 molar ratio)",
+      "solid silver (0)"
+    ],
+    "time": "4 days at 80°C",
+    "washing_method": "3 cycles of centrifugation (~10,000 rpm for 10 min), dilution with fresh isopropanol, and decanting",
+    "drying_method": "transferred to a 45 ml Falcon tube and diluted with isopropanol",
+    "yield": "stoichiometric",
+    "XFEL_energy": "9.8 keV",
+    "XFEL_pulse_duration": "~30 fs",
+    "XFEL_repetition_rate": "120 Hz",
+    "data_collection_time": "3 hours",
+    "crystals_analyzed": "Approximately 400,000 frames",
+    "resolution": "1.35 Å"
+  }
+}

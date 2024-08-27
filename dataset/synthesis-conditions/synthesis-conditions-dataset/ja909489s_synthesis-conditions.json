@@ -1,0 +1,260 @@
+{
+  "materials": [
+    {
+      "material": "1",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "solvents": [
+            {
+              "name": "CH2Cl2",
+              "amount": "20 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "TCNQ",
+              "amount": "10 mg, 0.05 mmol"
+            }
+          ],
+          "equipment": "narrow diameter glass tubes (8 mm in diameter)",
+          "time": "1 week or more",
+          "temperature": "room temperature",
+          "yield": "not specified",
+          "washing_method": "not specified",
+          "drying_method": "not specified",
+          "characterization": [
+            {
+              "type": "Elemental analysis",
+              "details": "calcd for 1·2(p-xylene) C44H24F24N4O16Ru4: C 30.64, H 1.40, N 3.25. Found: C 30.47, H 1.54, N 3.27."
+            },
+            {
+              "type": "IR (KBr)",
+              "details": "ν(C≡N), 2238, 2198, 2134 cm−1; ν(C=O), 1641, 1440 cm−1; ν(C=C), 1580w, 1537 cm−1."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "material": "1-Rh",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "solvents": [
+            {
+              "name": "CH2Cl2",
+              "amount": "20 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "TCNQ",
+              "amount": "10 mg, 0.05 mmol"
+            },
+            {
+              "name": "[Rh2II,II(O2CCF3)4]",
+              "amount": "66 mg, 0.1 mmol"
+            }
+          ],
+          "equipment": "narrow diameter glass tubes (8 mm in diameter)",
+          "time": "1 week or more",
+          "temperature": "room temperature",
+          "yield": "not specified",
+          "washing_method": "not specified",
+          "drying_method": "not specified",
+          "characterization": [
+            {
+              "type": "Elemental analysis",
+              "details": "calcd for 1-Rh·2.25(p-xylene) C46H26.5F24N4O16Rh4: C 31.41 H 1.52, N 3.19. Found: C 31.19, H 1.82, N 3.33."
+            },
+            {
+              "type": "IR (KBr)",
+              "details": "ν(C≡N), 2245, 2226, 2196 cm−1; ν(C=O), 1667, 1460 cm−1; ν(C=C), 1541 cm−1."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "material": "2",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "solvents": [
+            {
+              "name": "CH2Cl2",
+              "amount": "20 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "TCNQBr2",
+              "amount": "18 mg, 0.05 mmol"
+            }
+          ],
+          "equipment": "narrow diameter glass tubes (8 mm in diameter)",
+          "time": "1 week or more",
+          "temperature": "room temperature",
+          "yield": "not specified",
+          "washing_method": "not specified",
+          "drying_method": "not specified",
+          "characterization": [
+            {
+              "type": "Elemental analysis",
+              "details": "calcd for 2·(p-xylene)·1.7CH2Cl2 C37.7H15.4Br2Cl3.4F24N4O16Ru4: C 23.57, H 0.81, N 2.92. Found: C 23.85, H 1.10, N 2.91."
+            },
+            {
+              "type": "IR (KBr)",
+              "details": "ν(C≡N), 2216w, 2198, 2158, 2123 cm−1; ν(C=O), 1645, 1457 cm−1; ν(C=C), 1558, 1487 cm−1."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "material": "4",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "solvents": [
+            {
+              "name": "CH2Cl2",
+              "amount": "20 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "TCNQF2",
+              "amount": "12 mg, 0.05 mmol"
+            }
+          ],
+          "equipment": "narrow diameter glass tubes (8 mm in diameter)",
+          "time": "1 week or more",
+          "temperature": "room temperature",
+          "yield": "not specified",
+          "washing_method": "not specified",
+          "drying_method": "not specified",
+          "characterization": [
+            {
+              "type": "Elemental analysis",
+              "details": "calcd for 4·2.3(p-xylene) C46.4H25Cl2.8F26N4O16Ru4: C 31.09, H 1.41, N 3.13. Found: C 31.17, H 1.72, N 3.13."
+            },
+            {
+              "type": "IR (KBr)",
+              "details": "ν(C≡N), 2231w, 2207, 2141 cm−1; ν(C=O), 1640, 1438 cm−1; ν(C=C), 1571, 1561, 1543 cm−1."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "material": "4-Rh",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "solvents": [
+            {
+              "name": "CH2Cl2",
+              "amount": "20 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "TCNQF2",
+              "amount": "12 mg, 0.05 mmol"
+            }
+          ],
+          "equipment": "narrow diameter glass tubes (8 mm in diameter)",
+          "time": "1 week or more",
+          "temperature": "room temperature",
+          "yield": "not specified",
+          "washing_method": "not specified",
+          "drying_method": "not specified",
+          "characterization": [
+            {
+              "type": "Elemental analysis",
+              "details": "calcd for 4-Rh·2(p-xylene)·0.3CH2Cl2 C44.3H22.6Cl0.6F26N4O16Rh4: C 29.66, H 1.27 N 3.12. Found: C 29.87, H 1.56, N 3.08."
+            },
+            {
+              "type": "IR (KBr)",
+              "details": "ν(C≡N), 2239, 2200 cm−1; ν(C=O), 1663, 1460 cm−1; ν(C=C), 1572, 1561, 1543 cm−1."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "material": "5",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "solvents": [
+            {
+              "name": "CH2Cl2",
+              "amount": "20 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "TCNQF4",
+              "amount": "14 mg, 0.05 mmol"
+            }
+          ],
+          "equipment": "narrow diameter glass tubes (8 mm in diameter)",
+          "time": "1 week or more",
+          "temperature": "room temperature",
+          "yield": "not specified",
+          "washing_method": "not specified",
+          "drying_method": "not specified",
+          "characterization": [
+            {
+              "type": "Elemental analysis",
+              "details": "calcd for 5·2(p-xylene) C44H20F28N4O16Ru4: C 29.41, H 1.12, N 3.12. Found: C 29.34, H 1.52, N 3.45."
+            },
+            {
+              "type": "IR (KBr)",
+              "details": "ν(C≡N), 2217, 2182 cm−1; ν(C=O), 1643, 1441 cm−1; ν(C=C), 1533, 1493 cm−1."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "material": "5-Rh",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "solvents": [
+            {
+              "name": "CH2Cl2",
+              "amount": "20 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "TCNQF4",
+              "amount": "14 mg, 0.05 mmol"
+            }
+          ],
+          "equipment": "narrow diameter glass tubes (8 mm in diameter)",
+          "time": "1 week or more",
+          "temperature": "room temperature",
+          "yield": "not specified",
+          "washing_method": "not specified",
+          "drying_method": "not specified",
+          "characterization": [
+            {
+              "type": "Elemental analysis",
+              "details": "calcd for 5-Rh·p-xylene·4CH2Cl2 C38.5H15Cl5F28N4O16Rh4: C 29.21, H 0.79, N 2.93. Found: C 224.65, H 1.25, N 3.04."
+            },
+            {
+              "type": "IR (KBr)",
+              "details": "ν(C≡N), 2246, 2219, 2166 cm−1; ν(C=O), 1667, 1462 cm−1; ν(C=C), 1594, 1545, 1495 cm−1."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

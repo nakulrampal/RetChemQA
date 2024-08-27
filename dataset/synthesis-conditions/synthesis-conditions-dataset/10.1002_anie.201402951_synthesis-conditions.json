@@ -1,0 +1,51 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "solvents": "ethanol",
+        "chemicals_used": {
+          "bipytz": "9 mg, 0.038 mmol",
+          "KAu(CN)2": "22 mg, 0.076 mmol",
+          "Fe(ClO4)2·x H2O": "10 mg, 0.039 mmol"
+        },
+        "method": "slow diffusion",
+        "time": "several weeks",
+        "washing_method": "ethanol",
+        "drying_method": "not specified",
+        "yield": "not specified",
+        "temperature": "not specified",
+        "equipment": "not specified"
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "solvents": "2,5-norbornadiene",
+        "chemicals_used": {
+          "1": "bulk samples"
+        },
+        "method": "heating in a sealed vessel",
+        "time": "35 min",
+        "temperature": "50 8C",
+        "cooling_method": "ice bath",
+        "washing_method": "ethanol",
+        "drying_method": "not specified",
+        "yield": "> 95 % (confirmed by NMR analysis)",
+        "equipment": "glass tube, flame-sealed",
+        "additional_step": {
+          "method": "heating",
+          "time": "24 h",
+          "temperature": "65 8C",
+          "chemicals_used": "2,5-norbornadiene (0.25 mL)"
+        }
+      }
+    },
+    {
+      "name": "2’",
+      "synthesis_conditions": {
+        "description": "Guest-exchanged PSM phase of 2 with ethanol to remove the 2,5-norbornadiene guests."
+      }
+    }
+  ]
+}

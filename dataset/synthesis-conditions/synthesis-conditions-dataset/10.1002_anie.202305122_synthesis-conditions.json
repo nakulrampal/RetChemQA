@@ -1,0 +1,110 @@
+{
+  "materials": [
+    {
+      "material": "1d",
+      "synthesis_conditions": {
+        "temperature": "60 °C",
+        "solvents": [
+          {
+            "name": "dichloromethane",
+            "amount": "10 μL"
+          },
+          {
+            "name": "hexane",
+            "amount": "not specified"
+          },
+          {
+            "name": "D2O",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "not specified",
+        "chemicals_used": [
+          {
+            "name": "ene-yne precursor (11)",
+            "details": "generated from assembly of 9 and ethynyl ketone segment 10 via hetero-Michael addition followed by Hofmann elimination"
+          },
+          {
+            "name": "CuI-catalyst",
+            "amount": "reduced from 20 to 2 mol %",
+            "details": "with bidentate ligand (XantPhos)"
+          }
+        ],
+        "time": [
+          {
+            "step": "cyclization of the ene-yne precursor",
+            "duration": "4.5 h"
+          }
+        ],
+        "yield": "more than 95 % based on 1H NMR using an internal standard",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "additional_steps": [
+          {
+            "step": "protection of the indole nitrogen",
+            "details": "as a methyl carbamate group"
+          },
+          {
+            "step": "hetero-conjugate addition",
+            "details": "of the tertiary amino group in the resulting 15 to methyl propiolate followed by Hofmann elimination"
+          },
+          {
+            "step": "CuI-catalyzed 6-endo cyclization",
+            "details": "of 16 allowed formation of the 1,6-DHP ring to furnish the fragile 1d"
+          }
+        ]
+      }
+    },
+    {
+      "material": "1d·19·20",
+      "synthesis_conditions": {
+        "temperature": "70 °C",
+        "solvents": [
+          {
+            "name": "hexane to dichloromethane",
+            "amount": "9 : 1 ratio",
+            "details": "50 mM, 4.4 equiv"
+          },
+          {
+            "name": "D2O",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "not specified",
+        "chemicals_used": [
+          {
+            "name": "self-assembled octahedral M6L4 Pd-centered cage (19)",
+            "amount": "7.5 mM, 1.0 equiv"
+          },
+          {
+            "name": "tripodal anionic cap (20)",
+            "amount": "1.0 eq"
+          }
+        ],
+        "time": [
+          {
+            "step": "stirring for complexation",
+            "duration": "30 min"
+          },
+          {
+            "step": "elevated temperature stirring for improved complexation",
+            "duration": "1 h"
+          }
+        ],
+        "yield": "62 % after heating",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "additional_steps": [
+          {
+            "step": "phase separation",
+            "details": "1H NMR analysis of the aqueous medium confirmed formation of the inclusion complex"
+          },
+          {
+            "step": "crystallization",
+            "details": "Upon cooling, tripodal anionic cap 20 (1.0 eq) was added, which successfully facilitated the formation of crystals"
+          }
+        ]
+      }
+    }
+  ]
+}

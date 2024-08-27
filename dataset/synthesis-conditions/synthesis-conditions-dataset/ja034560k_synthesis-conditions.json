@@ -1,0 +1,98 @@
+{
+  "materials": [
+    {
+      "material": "1a",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "dichloromethane",
+            "amount": "20 mL"
+          },
+          {
+            "name": "MeOH",
+            "amount": "v/v =1/1 with dichloromethane"
+          }
+        ],
+        "chemicals_used": [
+          "(µ-dppm)Au2Cl2",
+          "CF3CO2Ag",
+          "2-thiouracil"
+        ],
+        "yield": "83%",
+        "melting_point": "181 °C",
+        "additional_information": "Stirred for 5h at room temperature."
+      }
+    },
+    {
+      "material": "1b",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "dichloromethane",
+            "amount": "20 mL"
+          },
+          {
+            "name": "MeOH",
+            "amount": "v/v =1/1 with dichloromethane"
+          }
+        ],
+        "chemicals_used": [
+          "(µ-dppm)Au2Cl2",
+          "CF3CO2Ag",
+          "6-methyl-2-thiouracil"
+        ],
+        "yield": "85%",
+        "melting_point": "191 °C",
+        "additional_information": "Stirred for 5h at room temperature."
+      }
+    },
+    {
+      "material": "2a",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "dichloromethane",
+            "amount": "20 mL"
+          },
+          {
+            "name": "MeOH",
+            "amount": "v/v =1/1 with dichloromethane"
+          }
+        ],
+        "chemicals_used": [
+          "(µ-dppm)Au2Cl2",
+          "AgCF3CO2",
+          "2-thiouracil",
+          "NaOH"
+        ],
+        "yield": "79% (Method 1), 71% (Method 2)",
+        "melting_point": "242 °C (decomp.)",
+        "additional_information": "Stirred for 5h at room temperature. Method 1 involves adding Na2CO3 to neutralize CF3CO2H."
+      }
+    },
+    {
+      "material": "2b",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "dichloromethane",
+            "amount": "20 mL"
+          },
+          {
+            "name": "MeOH",
+            "amount": "v/v =1/1 with dichloromethane"
+          }
+        ],
+        "chemicals_used": [
+          "(µ-dppm)Au2Cl2",
+          "AgCF3CO2",
+          "6-methyl-2-thiouracil",
+          "NaOH"
+        ],
+        "yield": "81% (Method 1), 71% (Method 2)",
+        "melting_point": ">250 °C",
+        "additional_information": "Stirred for 5h at room temperature. Method 1 involves adding Na2CO3 to neutralize CF3CO2H."
+      }
+    }
+  ]
+}

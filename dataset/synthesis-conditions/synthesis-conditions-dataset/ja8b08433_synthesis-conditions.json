@@ -1,0 +1,66 @@
+{
+  "materials": [
+    {
+      "name": "4,4',4'',4'''-(1,4-Phenylenebis(pyridine-4,2,6-triyl))tetrabenzoic acid (H4L)",
+      "synthesis_conditions": {
+        "steps": [
+          {
+            "step": 1,
+            "chemicals_used": [
+              "4-Methylacetophenone (13.4 mL, 10 mmol)",
+              "terephthalaldehyde (2.70 g, 20.1 mmol)",
+              "NaOH (5.10 g, 128 mmol)"
+            ],
+            "solvents": [
+              "EtOH (600 mL)"
+            ],
+            "equipment": "ball mill",
+            "time": "1 h",
+            "temperature": "reflux for 24 h",
+            "yield": "46 %"
+          },
+          {
+            "step": 2,
+            "chemicals_used": [
+              "12M HNO3 (6 mL)",
+              "distilled water (30 mL)"
+            ],
+            "equipment": "autoclave",
+            "time": "24 h",
+            "temperature": "180 ˚C",
+            "yield": "98 %"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MFM-600",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Benzoic acid (78.5 mmol, 9.60 g)",
+          "zirconium (IV) chloride (1.33 mmol, 0.309 g)",
+          "H4L (0.31 mmol, 0.220 g)"
+        ],
+        "solvents": [
+          "DMF (45 mL)"
+        ],
+        "temperature": "reflux for 24 h",
+        "washing_method": "DMF (3 x 30 mL) and acetone (3 x 30 mL)",
+        "drying_method": "heating at 373 K for 10 h under ultra-high vacuum",
+        "yield": "Elemental analysis [Zn6(µ3-O)4(µ3-OH)4(OH)4][C44N2O8H24]2[C44N2O8H28]0.35 (C 52.0/53.2, H 2.8/3.0, N 1.6/2.9)"
+      }
+    },
+    {
+      "name": "MFM-601",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "hydrochloric acid (8 M, 2 mL)",
+          "DMF (52 mL)"
+        ],
+        "temperature": "100 °C for 24 h",
+        "drying_method": "heating at 373 K for 10 h under ultra-high vacuum",
+        "yield": "Elemental analysis [Zn6(µ3-O)4(µ3-OH)4(OH)4(H2O)4][C44N2O8H24]2 (C 50.8/49.7, H 3.1/2.7, N 2.7/2.9)"
+      }
+    }
+  ]
+}

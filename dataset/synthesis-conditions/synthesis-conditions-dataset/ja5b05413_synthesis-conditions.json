@@ -1,0 +1,65 @@
+{
+  "materials": [
+    {
+      "name": "CID-5/6⊃G (x)",
+      "synthesis_conditions": {
+        "temperature": "120°C overnight",
+        "chemicals_used": [
+          "5-NO2-ip",
+          "5-MeO-ip",
+          "bpy-d8",
+          "DMF",
+          "MeOH"
+        ],
+        "solvents": "DMF, MeOH",
+        "equipment": "N/A",
+        "time": "overnight",
+        "yield": "N/A",
+        "washing_method": "N/A",
+        "drying_method": "120°C overnight",
+        "amount_of_each_solvent": {
+          "DMF": "0.5",
+          "MeOH": "0.5"
+        },
+        "references": "2"
+      }
+    },
+    {
+      "name": "CID-5/6 (x)",
+      "synthesis_conditions": {
+        "temperature": "120°C overnight",
+        "chemicals_used": [
+          "5-NO2-ip",
+          "5-MeO-ip",
+          "bpy-d8"
+        ],
+        "solvents": "N/A",
+        "equipment": "N/A",
+        "time": "overnight",
+        "yield": "N/A",
+        "washing_method": "N/A",
+        "drying_method": "120°C overnight to remove DMF and MeOH",
+        "amount_of_each_solvent": "N/A",
+        "references": "N/A"
+      }
+    },
+    {
+      "name": "MOF-5 (x)",
+      "synthesis_conditions": {
+        "temperature": "N/A",
+        "chemicals_used": [
+          "BDC-d4",
+          "(CH3)2-BDC"
+        ],
+        "solvents": "N/A",
+        "equipment": "N/A",
+        "time": "N/A",
+        "yield": "N/A",
+        "washing_method": "N/A",
+        "drying_method": "N/A",
+        "amount_of_each_solvent": "N/A",
+        "references": "3"
+      }
+    }
+  ]
+}

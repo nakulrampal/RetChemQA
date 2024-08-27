@@ -1,0 +1,114 @@
+{
+  "materials": [
+    {
+      "name": "mesoMOF-1",
+      "synthesis_conditions": [
+        {
+          "step": "Solvothermal synthesis",
+          "temperature": "90 °C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "not specified"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Cu(NO3)2·2.5H2O",
+              "amount": "not specified"
+            },
+            {
+              "name": "H3TATAB",
+              "amount": "not specified"
+            }
+          ],
+          "time": "not specified",
+          "yield": "68%"
+        },
+        {
+          "step": "Stabilization",
+          "pH": "around 3.0",
+          "method": "acid treatment",
+          "comments": "Acids used to react with amino groups in TATAB to afford ionic frameworks, leading to permanent meso-channels."
+        }
+      ]
+    },
+    {
+      "name": "mesoMOF-1-HX",
+      "synthesis_conditions": [
+        {
+          "step": "Activation",
+          "temperature": "80 °C",
+          "method": "solvent exchange followed by thermal activation under dynamic vacuum",
+          "comments": "Activation at higher temperature results in a decrease in measured surface area."
+        }
+      ]
+    },
+    {
+      "name": "mesoMOF-1",
+      "synthesis_conditions_SI": [
+        {
+          "step": "Solvothermal synthesis",
+          "temperature": "95 °C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "1.5 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "H3TATAB",
+              "amount": "0.01 g, 2.06×10-5 mol"
+            },
+            {
+              "name": "Cu(NO3)2·2.5H2O",
+              "amount": "0.025 g, 1.07×10-4 mol"
+            }
+          ],
+          "time": "1 day",
+          "yield": "68%",
+          "drying_method": "washed with DMF several times",
+          "product_formula": "Cu3(C24H15N6O6)2(H2O)3·8C3H7NO·9H2O",
+          "product_amount": "0.012 g"
+        }
+      ]
+    },
+    {
+      "name": "mesoMOF-1-HX",
+      "synthesis_conditions_SI": [
+        {
+          "step": "Soaking for solvent removal",
+          "solvents": [
+            {
+              "name": "methanol",
+              "purpose": "to remove DMF solvates"
+            },
+            {
+              "name": "HX solution",
+              "purpose": "to prepare the mesoporous material",
+              "comments": "pH value around 3"
+            }
+          ],
+          "time": "methanol for one day, HX solution overnight",
+          "color_change": "from blue to green"
+        },
+        {
+          "step": "N2 Adsorption Measurements preparation",
+          "solvents": [
+            {
+              "name": "anhydrous CH3OH",
+              "amount": "24 hours"
+            },
+            {
+              "name": "CHCl3",
+              "amount": "four days"
+            }
+          ],
+          "drying_method": "dried under vacuum (< 10-3 torr) at room temperature (25 °C) for one hour, then 15 min at 80°C",
+          "color_change": "from green to turquoise"
+        }
+      ]
+    }
+  ]
+}

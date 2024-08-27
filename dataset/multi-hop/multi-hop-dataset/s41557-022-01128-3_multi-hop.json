@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of 1DMF at 100K?",
+      "answer": "C36.14H31.66CoN5.38O5.38",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What structural transformation occurs in 1DMF upon heating to 423K and exposure to air?",
+      "answer": "1DMF loses all DMF guest molecules and transforms into 1Hydrate.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The PXRD patterns of 1DMF and 1Hydrate indicate that they are representative of the bulk material.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of evacuation on 1DMF's structure?",
+      "answer": "Evacuation results in a single-crystal to single-crystal transformation from 1DMF to 1Apohost, reducing the void volume.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "At what pressure does 1Apohost undergo a closed-to-open phase transition upon exposure to CO2 at 298K?",
+      "answer": "0.3 bar",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The structural transformation from 1Apohost to 1'CO2 is accompanied by a significant increase in unit cell volume.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area determined from the 77K N2 sorption isotherm on 1Apohost?",
+      "answer": "516.61 ± 1.140 m²/g",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the pore volume change in 1Apohost upon loading with CO2 at 195K?",
+      "answer": "The pore volume increases progressively with each structural transformation, from 1Apohost to 1'CO2, then to 1''CO2, and finally to 1'''CO2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The PXRD pattern of 1''CO2 is similar to that of 1DMF, indicating they might be similar phases.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to model the crystal phases of 1 and examine CO2 sorption behavior?",
+      "answer": "Density Functional Theory (DFT) and Massively Parallel Monte Carlo (MPMC) simulations were used.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What mechanism is suggested for CO2 transport between isolated cavities in 1'CO2?",
+      "answer": "CO2 transport likely occurs via rotation of the dpt linker, facilitating diffusion through diagonally adjacent or stacked cavities.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The dynamic molecular motion simulations at 473K and 623K show CO2 diffusion from a loaded cavity to an unoccupied diagonally adjacent cavity in 1'CO2.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

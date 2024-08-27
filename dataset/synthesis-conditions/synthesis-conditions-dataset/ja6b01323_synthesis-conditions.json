@@ -1,0 +1,98 @@
+{
+  "materials": [
+    {
+      "name": "MFM-300(In)",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": "DMF/MeCN mixture",
+        "solvent_amounts": "30 mL, 2:1 v/v",
+        "equipment": "250 mL glass pressure reactor",
+        "chemicals_used": [
+          {
+            "chemical": "H4L (biphenyl-3,3′,5,5′-tetracarboxylic acid)",
+            "amount": "330 mg, 1.00 mmol"
+          },
+          {
+            "chemical": "In(NO3)3·5H2O",
+            "amount": "585 mg, 1.50 mmol"
+          },
+          {
+            "chemical": "conc. nitric acid (65%)",
+            "amount": "1.0 mL"
+          }
+        ],
+        "time": "48 h",
+        "washing_method": "washed with DMF",
+        "drying_method": "dried in air",
+        "yield": "347 mg (42% yield based on solvent content from microanalysis)"
+      }
+    },
+    {
+      "name": "Acetone-exchanged MFM-300(In)",
+      "synthesis_conditions": {
+        "solvents": "acetone",
+        "solvent_exchange_duration": "5 days",
+        "solvent_exchange_frequency": "frequent exchange of solvent"
+      }
+    },
+    {
+      "name": "Desolvated MFM-300(In)",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "equipment": "under a flow of N2 gas or in vacuo",
+        "time": "20 hours",
+        "drying_method": "degassed at 120 °C and 1 x 10-6 mbar"
+      }
+    },
+    {
+      "name": "D2-loaded MFM-300(In)",
+      "synthesis_conditions": {
+        "loading_conditions": [
+          {
+            "loading": "0.90 D2 per In",
+            "details": "D2 dosed at 50 K"
+          },
+          {
+            "loading": "1.60 D2 per In",
+            "details": "D2 dosed at 50 K"
+          },
+          {
+            "loading": "2.99 D2 per In",
+            "details": "D2 dosed at 50 K"
+          },
+          {
+            "loading": "4.83 D2 per In",
+            "details": "D2 dosed at 50 K"
+          },
+          {
+            "loading": "6.08 D2 per In",
+            "details": "D2 dosed at 50 K"
+          }
+        ],
+        "temperature_during_loading": "50 K",
+        "temperature_during_data_collection": "7 K"
+      }
+    },
+    {
+      "name": "CD4-loaded MFM-300(In)",
+      "synthesis_conditions": {
+        "loading_conditions": [
+          {
+            "loading": "1.09 CD4 per In",
+            "details": "CD4 dosed at 150 K"
+          },
+          {
+            "loading": "2.09 CD4 per In",
+            "details": "CD4 dosed at 150 K"
+          },
+          {
+            "loading": "3.11 CD4 per In",
+            "details": "CD4 dosed at 150 K"
+          }
+        ],
+        "temperature_during_loading": "150 K",
+        "temperature_during_data_collection": "7 K"
+      }
+    }
+  ]
+}

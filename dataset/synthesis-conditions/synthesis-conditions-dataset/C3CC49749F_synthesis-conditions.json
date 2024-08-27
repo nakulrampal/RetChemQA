@@ -1,0 +1,46 @@
+{
+  "materials": [
+    {
+      "name": "[Zn4(OH)2(5-NO2-1,3-BDC)2(5-NO2-1,3-HBDC)2(ppene)2]n (1)",
+      "synthesis_conditions": {
+        "temperature": "170°C",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "25 mL"
+          }
+        ],
+        "equipment": "Teflon-lined autoclave",
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "0.298g, 1 mmol"
+          },
+          {
+            "name": "5-NO2-1,3-H2BDC",
+            "amount": "0.211g, 1 mmol"
+          },
+          {
+            "name": "ppene",
+            "amount": "0.209g, 1 mmol"
+          }
+        ],
+        "time": "50 h",
+        "cooling_rate": "5°C h-1",
+        "washing_method": "ethanol",
+        "drying_method": "air",
+        "yield": "87%"
+      }
+    },
+    {
+      "name": "[Zn4(OH)2(5-NO2-1,3-BDC)2(5-NO2-1,3-HBDC)2(bpbpvcb)]n (2)",
+      "synthesis_conditions": {
+        "precursor": "[Zn4(OH)2(5-NO2-1,3-BDC)2(5-NO2-1,3-HBDC)2(ppene)2]n (1)",
+        "irradiation_source": "Hg lamp",
+        "power": "400 W",
+        "time": "about 60 h",
+        "yield": "quantitative"
+      }
+    }
+  ]
+}

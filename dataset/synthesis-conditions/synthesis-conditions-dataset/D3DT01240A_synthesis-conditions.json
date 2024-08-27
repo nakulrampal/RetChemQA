@@ -1,0 +1,39 @@
+{
+  "materials": [
+    {
+      "name": "JXUST-32",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "mixed solvent (VDMAc/VEtOH/VDeionized water = 4 : 1 : 2)",
+        "solvent_amounts": {
+          "VDMAc": "proportionate part of 7 ml based on ratio 4:1:2",
+          "VEtOH": "proportionate part of 7 ml based on ratio 4:1:2",
+          "VDeionized water": "proportionate part of 7 ml based on ratio 4:1:2"
+        },
+        "equipment": "glass vial (10 mL)",
+        "chemicals_used": {
+          "Cd(NO3)2·4H2O": "15.4 mg, 0.05 mmol",
+          "BIBT": "13.4 mg, 0.05 mmol",
+          "H2NDC": "10.8 mg, 0.05 mmol"
+        },
+        "time": "3 days",
+        "yield": "~74.6% based on BIBT"
+      }
+    },
+    {
+      "name": "JXUST-32 ink",
+      "synthesis_conditions": {
+        "solvents": "ethanol solution",
+        "solvent_amounts": {
+          "ethanol": "20 mL"
+        },
+        "chemicals_used": {
+          "JXUST-32 sample": "0.6667 g",
+          "adhesive": "20 μL"
+        },
+        "equipment": "glass bottle",
+        "time": "stirred for 2 hours and ultrasonicated for 1 hour"
+      }
+    }
+  ]
+}

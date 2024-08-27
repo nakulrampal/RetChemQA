@@ -1,0 +1,172 @@
+{
+  "materials": [
+    {
+      "material": "1,3-Dibromo-5-{(1'-hydroxy-1'-methyl)ethyl}benzene (6)",
+      "conditions": {
+        "temperature": "-78 °C to -30 °C",
+        "solvents": [
+          {
+            "name": "distilled diethyl ether",
+            "amount": "30 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "1,3,5-tribromobenzene",
+            "amount": "2.00 g, 6.35 mmol"
+          },
+          {
+            "name": "1.46 M tert-butyllithium n-pentane solution",
+            "amount": "8.86 mL, 13.02 mmol"
+          },
+          {
+            "name": "distilled acetone",
+            "amount": "0.5 mL, 6.67 mmol"
+          }
+        ],
+        "time": "4 h",
+        "washing_method": "washed with water",
+        "drying_method": "dried over anhydrous MgSO4",
+        "yield": "1.54 g (82.5%)",
+        "drying_temperature": "105 °C",
+        "drying_pressure": "5 mmHg"
+      }
+    },
+    {
+      "material": "(S)-((2-Methylbutyl)oxyl)toluenesulfonyl (5)",
+      "conditions": {
+        "temperature": "0 °C",
+        "solvents": [
+          {
+            "name": "pyridine",
+            "amount": "20 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "p-toluenesulfonyl chloride",
+            "amount": "8.87 g, 46.5 mmol"
+          },
+          {
+            "name": "(S)-3-methyl-1-butanol",
+            "amount": "5.0 mL, 46.5 mmol"
+          }
+        ],
+        "time": "1 day",
+        "washing_method": "washed with water and n-hexane",
+        "drying_method": "dried over with MgSO4 and NaHCO3",
+        "yield": "9.50 g (84.7%)"
+      }
+    },
+    {
+      "material": "1,3-Dibromo-5-{1'-methyl-1'-[2''-(S)-methylbutoxy]ethyl}benzene (4)",
+      "conditions": {
+        "temperature": "room temperature to 110 °C",
+        "solvents": [
+          {
+            "name": "diethylene glycol dimethyl diethyl ether (diglyme)",
+            "amount": "20 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "6",
+            "amount": "1.0 g, 3.40 mmol"
+          },
+          {
+            "name": "ground KOH (85%) powder",
+            "amount": "422 mg, 6.80 mmol"
+          },
+          {
+            "name": "5",
+            "amount": "0.82 g, 3.40 mmol"
+          }
+        ],
+        "time": "until color changed to creamy yellow",
+        "yield": "773 mg (62.4%)"
+      }
+    },
+    {
+      "material": "1,3-Bis[N-tert-butyl-N-(hydroxyamino)]-5-{1'-methyl-1'-[2''-(S)-methylbutoxy]ethyl}benzene (3)",
+      "conditions": {
+        "temperature": "-78 °C to -30 °C",
+        "solvents": [
+          {
+            "name": "diethyl ether",
+            "amount": "20 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "4",
+            "amount": "1.0 g, 2.75 mmol"
+          },
+          {
+            "name": "1.46 M tert-butyllithium n-pentane solution",
+            "amount": "7.6 mL, 11.14 mmol"
+          },
+          {
+            "name": "2-methyl-2-nitrosopropane dimer",
+            "amount": "0.49 g, 5.64 mmol"
+          }
+        ],
+        "time": "3 h",
+        "yield": "567 mg (54.2%)"
+      }
+    },
+    {
+      "material": "1,3-Bis[N-tert-butyl-N-(oxylamino)]-5-{1'-methyl-1'-[2''-(S)-methylbutoxy]ethyl}benzene (2)",
+      "conditions": {
+        "temperature": "0 °C",
+        "solvents": [
+          {
+            "name": "dichloromethane",
+            "amount": "15 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "3",
+            "amount": "100 mg, 0.26 mmol"
+          },
+          {
+            "name": "Ag2O",
+            "amount": "500 mg, 2.16 mmol"
+          }
+        ],
+        "time": "2 h",
+        "yield": "98 mg (98%)"
+      }
+    },
+    {
+      "material": "[Co(hfac)2]·BNO* (1)",
+      "conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "n-hexane",
+            "amount": "for reflux"
+          },
+          {
+            "name": "dichloromethane",
+            "amount": "for BNO* solution"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[Co(hfac)2(H2O)2]",
+            "amount": "132 mg, 0.26 mmol"
+          },
+          {
+            "name": "BNO*",
+            "amount": "98 mg, 0.26 mmol"
+          }
+        ],
+        "time": "30 min",
+        "cooling_temperature": "-20 °C",
+        "cooling_time": "1 week",
+        "yield": "106 mg (47.8%)"
+      }
+    }
+  ]
+}

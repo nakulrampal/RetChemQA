@@ -1,0 +1,82 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "solvents": "MeOH/H2O",
+        "solvent_ratio": "1:1",
+        "chemicals_used": [
+          {
+            "name": "Cd(NO3)2·4 H2O",
+            "amount": "0.5 mmol",
+            "mass": "0.154 g"
+          },
+          {
+            "name": "azpy",
+            "amount": "0.5 mmol",
+            "mass": "0.92 g"
+          },
+          {
+            "name": "Na2pzdc",
+            "amount": "0.5 mmol",
+            "mass": "0.107 g"
+          }
+        ],
+        "equipment": "layering technique",
+        "time": "one week",
+        "washing_method": "methanol/water (1:1) mixture",
+        "drying_method": "air drying",
+        "yield": "80%"
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "solvents": "MeOH/H2O",
+        "solvent_ratio": "1:1",
+        "chemicals_used": [
+          {
+            "name": "Cd(ClO4)2·hydrate",
+            "amount": "0.5 mmol",
+            "mass": "0.156 g"
+          },
+          {
+            "name": "bpee",
+            "amount": "0.5 mmol",
+            "mass": "0.91 g"
+          },
+          {
+            "name": "Na2pzdc",
+            "amount": "0.5 mmol",
+            "mass": "0.107 g"
+          }
+        ],
+        "equipment": "layering technique",
+        "time": "one month",
+        "washing_method": "methanol/water (1:1) mixture",
+        "drying_method": "air drying",
+        "yield": "60%"
+      }
+    },
+    {
+      "name": "1a",
+      "synthesis_conditions": {
+        "initial_material": "1",
+        "temperature": "130 °C",
+        "time": "30 minutes",
+        "equipment": "vacuo drying",
+        "drying_method": "vacuo at 130 °C for 30 minutes"
+      }
+    },
+    {
+      "name": "2a",
+      "synthesis_conditions": {
+        "initial_material": "2",
+        "temperature": "130 °C",
+        "time": "30 minutes",
+        "equipment": "vacuo drying",
+        "drying_method": "vacuo at 130 °C for 30 minutes"
+      }
+    }
+  ]
+}

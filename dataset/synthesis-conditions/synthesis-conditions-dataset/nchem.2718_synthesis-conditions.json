@@ -1,0 +1,76 @@
+{
+  "Ag12": {
+    "synthesis_conditions": {
+      "temperature": "Room temperature",
+      "solvents": "CH3CN/EtOH (1:1)",
+      "chemicals_used": [
+        {
+          "name": "AgStBu",
+          "amount": "0.60 g, 3 mmol"
+        },
+        {
+          "name": "CF3COOAg",
+          "amount": "0.45 g, 2 mmol"
+        }
+      ],
+      "yield": "5%",
+      "stability": "Deteriorated completely in air in under 30 min",
+      "drying_method": "Rinsed with EtOH, filtered and dried in air"
+    }
+  },
+  "Ag12bpy": {
+    "synthesis_conditions": {
+      "temperature": "Room temperature",
+      "solvents": "CH3CN/EtOH (1:1)",
+      "chemicals_used": [
+        {
+          "name": "AgStBu",
+          "amount": "0.60 g, 3 mmol"
+        },
+        {
+          "name": "CF3COOAg",
+          "amount": "0.45 g, 2 mmol"
+        },
+        {
+          "name": "4,4'-bipyridine (bpy)",
+          "amount": "0.50 g, 3 mmol"
+        }
+      ],
+      "yield": "75%",
+      "stability": "Retained morphology and crystallinity for one year under ambient conditions",
+      "drying_method": "Rinsed with EtOH, filtered and dried in air"
+    },
+    "fluorescence_switching_conditions": {
+      "turn_off_by": "O2",
+      "turn_on_by": "VOCs",
+      "response_time": "<1 s",
+      "sensitivity_to_O2": {
+        "quenching_rate_constant_kq": "3.2 x 10^6 kPa^-1 s^-1",
+        "limit_of_detection_LOD": "32 Pa"
+      }
+    }
+  },
+  "Ag12bpy_VOCs": {
+    "synthesis_conditions": {
+      "method": "Incubated Ag12bpy in various liquid VOCs or treated with VOCs vapour",
+      "VOCs_used": [
+        "ethanol",
+        "chloroform",
+        "acetone",
+        "acetonitrile",
+        "cyclohexane",
+        "dioxane",
+        "benzene",
+        "toluene",
+        "fluorobenzene",
+        "chlorobenzene",
+        "bromobenzene",
+        "iodobenzene",
+        "o-xylene",
+        "m-xylene",
+        "p-xylene"
+      ],
+      "result": "Formation of high-quality inclusion single crystals of Ag12bpy·VOCs"
+    }
+  }
+}

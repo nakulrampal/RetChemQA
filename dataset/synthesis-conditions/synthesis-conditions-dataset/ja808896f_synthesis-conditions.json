@@ -1,0 +1,154 @@
+{
+  "materials": [
+    {
+      "name": "4′-tert-Butyl-biphenyl-3,5-dicarboxylic Acid (H2BBPDC)",
+      "synthesis_conditions": [
+        {
+          "step": "1",
+          "chemicals_used": [
+            {
+              "name": "dimethyl-5-bromo-isophtalate",
+              "amount": "2 g",
+              "mol": "0.015 mol"
+            },
+            {
+              "name": "4-tert-butyl-phenyl boronic acid",
+              "amount": "4 g",
+              "mol": "0.015 mol"
+            },
+            {
+              "name": "CsF",
+              "amount": "2.3 g"
+            },
+            {
+              "name": "Pd(PPh3)4",
+              "amount": "0.2 g"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "1,2-dimethoxyethane",
+              "amount": "300 mL"
+            }
+          ],
+          "temperature": "reflux under nitrogen",
+          "time": "48 h",
+          "equipment": "500 mL Schlenk flask with water condenser",
+          "atmosphere": "nitrogen",
+          "yield": "not specified"
+        },
+        {
+          "step": "2",
+          "chemicals_used": [
+            {
+              "name": "4′-tert-butyl-biphenyl-3,5-dicarboxylate methyl ester",
+              "amount": "not specified"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "THF",
+              "amount": "50 mL"
+            },
+            {
+              "name": "MeOH",
+              "amount": "50 mL"
+            },
+            {
+              "name": "2 N NaOH aqueous solution",
+              "amount": "20 mL"
+            }
+          ],
+          "temperature": "room temperature",
+          "time": "overnight",
+          "yield": "not specified"
+        }
+      ]
+    },
+    {
+      "name": "MAMS-2",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            {
+              "name": "Zn(NO3)2·6H2O",
+              "amount": "20 mg"
+            },
+            {
+              "name": "H2BBPDC",
+              "amount": "10 mg"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "dimethylformamide (DMF)",
+              "amount": "1.5 mL"
+            }
+          ],
+          "temperature": "120 °C",
+          "time": "24 h",
+          "equipment": "Pyrex glass tube",
+          "yield": "85% based on H3BBPDC"
+        }
+      ]
+    },
+    {
+      "name": "MAMS-3",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            {
+              "name": "Co(NO3)2·6H2O",
+              "amount": "20 mg"
+            },
+            {
+              "name": "H2BBPDC",
+              "amount": "10 mg"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "dimethylacetamide (DMA)",
+              "amount": "1.5 mL"
+            }
+          ],
+          "temperature": "120 °C",
+          "time": "24 h",
+          "equipment": "Pyrex glass tube",
+          "yield": "80% based on BBPDC ligand"
+        }
+      ]
+    },
+    {
+      "name": "MAMS-4",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            {
+              "name": "Cu(NO3)2·2.5H2O",
+              "amount": "20 mg"
+            },
+            {
+              "name": "BBPDC ligand",
+              "amount": "10 mg"
+            },
+            {
+              "name": "HBF4 (50% aqueous solution)",
+              "amount": "3 drops"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "dimethylformamide (DMF)",
+              "amount": "1.5 mL"
+            }
+          ],
+          "temperature": "75 °C",
+          "time": "24 h",
+          "equipment": "Pyrex glass tube",
+          "yield": "80% based on BBPDC ligand"
+        }
+      ]
+    }
+  ]
+}

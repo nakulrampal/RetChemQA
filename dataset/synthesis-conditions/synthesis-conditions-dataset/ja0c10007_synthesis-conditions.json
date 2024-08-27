@@ -1,0 +1,182 @@
+{
+  "materials": [
+    {
+      "name": "Ethyl 4-hydroxy-3,5-dimethylbenzoate",
+      "conditions": {
+        "chemicals_used": [
+          {
+            "name": "4-hydroxy-3,5-dimethylbenzoic acid",
+            "amount": "5.00 g",
+            "mmol": "30.1 mmol"
+          },
+          {
+            "name": "ethanol",
+            "amount": "200 mL"
+          },
+          {
+            "name": "concentrated H2SO4",
+            "amount": "0.802 mL",
+            "mmol": "15.0 mmol"
+          }
+        ],
+        "temperature": "reflux",
+        "time": "18 h",
+        "solvents": [
+          {
+            "name": "ethanol",
+            "amount": "200 mL"
+          }
+        ],
+        "washing_method": "saturated NaHCO3, ethyl acetate",
+        "yield": "5.75 g, 98%"
+      }
+    },
+    {
+      "name": "Ethyl 3,5-dimethyl-4-(trifluoromethylsulfonyloxy)benzoate",
+      "conditions": {
+        "chemicals_used": [
+          {
+            "name": "ethyl 4-hydroxy-3,5-dimethylbenzoate",
+            "amount": "5.75 g",
+            "mmol": "29.6 mmol"
+          },
+          {
+            "name": "triethylamine",
+            "amount": "9.0 mL",
+            "mmol": "65.1 mmol"
+          },
+          {
+            "name": "Tf2O",
+            "amount": "7.00 mL",
+            "mmol": "41.4 mmol"
+          }
+        ],
+        "temperature": "-78 °C",
+        "solvents": [
+          {
+            "name": "DCM",
+            "amount": "70 mL"
+          }
+        ],
+        "washing_method": "saturated NaHCO3, brine",
+        "yield": "8.89 g, 92%"
+      }
+    },
+    {
+      "name": "Benzene-1,3-dimesitylenic acid [BDM, L1]",
+      "conditions": {
+        "chemicals_used": [
+          {
+            "name": "diethyl benzene-1,3-dimesityloate",
+            "amount": "1.10 g",
+            "mmol": "2.55 mmol"
+          },
+          {
+            "name": "2N NaOH",
+            "amount": "25 mL",
+            "mmol": "51.1 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "THF/MeOH",
+            "ratio": "4:1",
+            "amount": "80 mL"
+          }
+        ],
+        "temperature": "90 °C",
+        "time": "18 h",
+        "washing_method": "DI H2O",
+        "yield": "0.88 g, 92%"
+      }
+    },
+    {
+      "name": "4,4'-(2,4,6-Trimethylpyridine)dibenzoic acid [TMPDB, L2]",
+      "conditions": {
+        "chemicals_used": [
+          {
+            "name": "diethyl 4,4'-(2,4,6-trimethylpyridine)dibenzoate",
+            "amount": "1.105 g",
+            "mmol": "2.647 mmol"
+          },
+          {
+            "name": "2N LiOH",
+            "amount": "26 mL",
+            "mmol": "52.93 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "THF/MeOH",
+            "ratio": "1/1",
+            "amount": "50 mL"
+          }
+        ],
+        "temperature": "room temperature",
+        "time": "18 h",
+        "washing_method": "DI water, EtOAc",
+        "yield": "0.83 g, 87%"
+      }
+    },
+    {
+      "name": "Zr-sod-ZMOF-1",
+      "conditions": {
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "2.3 mg",
+            "mmol": "0.01 mmol"
+          },
+          {
+            "name": "L1 (benzene-1,3-dimesitylenic acid [BDM])",
+            "amount": "5 mg",
+            "mmol": "0.014 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "DEF",
+            "amount": "1 mL"
+          },
+          {
+            "name": "acetic acid glacial 100%",
+            "amount": "0.5 mL"
+          }
+        ],
+        "temperature": "120 °C",
+        "time": "24 h",
+        "washing_method": "DMF, DCM, n-hexane",
+        "activation_time": "12-14 days"
+      }
+    },
+    {
+      "name": "Zr-sod-ZMOF-2",
+      "conditions": {
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "2.3 mg",
+            "mmol": "0.01 mmol"
+          },
+          {
+            "name": "L2 (4,4'-(2,4,6-trimethylpyridine)dibenzoic acid [TMPDB])",
+            "amount": "5 mg",
+            "mmol": "0.014 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "DEF",
+            "amount": "1 mL"
+          },
+          {
+            "name": "acetic acid glacial 100%",
+            "amount": "0.5 mL"
+          }
+        ],
+        "temperature": "120 °C",
+        "time": "24 h"
+      }
+    }
+  ]
+}

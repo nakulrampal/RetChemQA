@@ -1,0 +1,39 @@
+{
+  "materials": [
+    {
+      "name": "Tb and Eu [Ln(MeCOO)(PhCOO)2]",
+      "synthesis_conditions": {
+        "temperature": "125 °C",
+        "solvents": "MeOH : MeCN 1 : 1 mixture",
+        "amount_of_solvent": "4 mL",
+        "equipment": "CEM Discover Microwave Reactor",
+        "chemicals_used": "hydrated Tb(MeCOO)3, Eu(MeCOO)3, PhCOOH",
+        "time": "10 minutes",
+        "yield_range": "50% to 80%"
+      }
+    },
+    {
+      "name": "TbEu [TbxEu1−x(MeCOO)(PhCOO)2]",
+      "synthesis_conditions": {
+        "temperature": "125 °C",
+        "solvents": "MeOH : MeCN 1 : 1 mixture",
+        "amount_of_solvent": "4 mL",
+        "equipment": "CEM Discover Microwave Reactor",
+        "chemicals_used": "hydrated Tb(MeCOO)3, Eu(MeCOO)3 in desired ratios, PhCOOH",
+        "time": "10 minutes",
+        "yield_range": "50% to 80%",
+        "additional_information": "Tb/Eu ratio in the heteronuclear samples was determined by ICP analysis."
+      }
+    },
+    {
+      "name": "Exfoliation of 2D MOF bulk compounds",
+      "synthesis_conditions": {
+        "method": "Sonication in isopropanol",
+        "time": "30 minutes to 1 hour",
+        "equipment": "Ultrasonic Cleaner VWR and EBA 21 Hettich Zentrifugen machine for centrifugation",
+        "solvents": "i-propanol",
+        "additional_information": "Presence of nanosheets in all obtained suspensions was demonstrated by the Tyndall effect."
+      }
+    }
+  ]
+}

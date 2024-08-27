@@ -1,0 +1,250 @@
+{
+  "materials": [
+    {
+      "name": "H4TCP-1",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis of 1",
+          "chemicals_used": [
+            "4-Bromobenzaldehyde",
+            "4-Methoxy carbonylphenylboronic acid",
+            "Pd(PPh3)2Cl2",
+            "CuI"
+          ],
+          "solvents": [
+            "dimethyoxyethane (DME)"
+          ],
+          "temperature": "reflux",
+          "time": "48h",
+          "atmosphere": "nitrogen",
+          "yield": "62%"
+        },
+        {
+          "step": "Synthesis of 2 and H4TCP-1",
+          "chemicals_used": [
+            "1",
+            "3, 4-Diethyl pyrrole",
+            "BF3OEt2",
+            "DDQ"
+          ],
+          "solvents": [
+            "CH2Cl2"
+          ],
+          "temperature": "reflux",
+          "time": "2h",
+          "yield": "53%"
+        }
+      ]
+    },
+    {
+      "name": "H4TCP-2",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis of 3",
+          "chemicals_used": [
+            "Ethyl-4-iodobenzoate",
+            "Pd(PPh3)2Cl2",
+            "CuI",
+            "Trimethylsilyl acetylene"
+          ],
+          "solvents": [
+            "Et3N",
+            "THF"
+          ],
+          "temperature": "RT",
+          "time": "5h",
+          "yield": "85%"
+        },
+        {
+          "step": "Synthesis of 4",
+          "chemicals_used": [
+            "3",
+            "4-Bromobenzaldehyde",
+            "Pd(PPh3)2Cl2",
+            "CuI",
+            "TBAF"
+          ],
+          "solvents": [
+            "Et3N",
+            "THF"
+          ],
+          "temperature": "RT",
+          "time": "4h",
+          "yield": "45%"
+        },
+        {
+          "step": "Synthesis of 5 and H4TCP-2",
+          "chemicals_used": [
+            "4",
+            "3,4-Diethyl pyrrole",
+            "BF3OEt2",
+            "DDQ"
+          ],
+          "solvents": [
+            "CH2Cl2"
+          ],
+          "temperature": "reflux",
+          "time": "2h",
+          "yield": "44%"
+        }
+      ]
+    },
+    {
+      "name": "H4TCP-3",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis of 6",
+          "chemicals_used": [
+            "3",
+            "Pd(PPh3)2Cl2",
+            "CuI",
+            "TBAF",
+            "Trimethylsilyl acetylene"
+          ],
+          "solvents": [
+            "THF"
+          ],
+          "temperature": "RT",
+          "time": "15min",
+          "yield": "92%"
+        },
+        {
+          "step": "Synthesis of 7",
+          "chemicals_used": [
+            "Xylene",
+            "I2",
+            "HIO4•2H2O",
+            "H2SO4",
+            "CH3COOH"
+          ],
+          "solvents": [
+            "H2O"
+          ],
+          "temperature": "90°C",
+          "time": "10h",
+          "yield": "80%"
+        },
+        {
+          "step": "Synthesis of 8",
+          "chemicals_used": [
+            "7",
+            "Pd(PPh3)2Cl2",
+            "CuI",
+            "Trimethylsilyl acetylene"
+          ],
+          "solvents": [
+            "Et3N",
+            "THF"
+          ],
+          "temperature": "RT",
+          "time": "5h",
+          "yield": "63%"
+        },
+        {
+          "step": "Synthesis of 9",
+          "chemicals_used": [
+            "6",
+            "8",
+            "Pd(PPh3)2Cl2",
+            "CuI"
+          ],
+          "solvents": [
+            "Et3N",
+            "THF"
+          ],
+          "temperature": "RT",
+          "time": "4h",
+          "yield": "51%"
+        },
+        {
+          "step": "Synthesis of 10",
+          "chemicals_used": [
+            "9",
+            "4-Bromobenzaldehyde",
+            "Pd(PPh3)2Cl2",
+            "CuI",
+            "TBAF"
+          ],
+          "solvents": [
+            "Et3N",
+            "THF"
+          ],
+          "temperature": "RT",
+          "time": "4h",
+          "yield": "84%"
+        },
+        {
+          "step": "Synthesis of 11 and H4TCP-3",
+          "chemicals_used": [
+            "10",
+            "3,4-Diethyl pyrrole",
+            "BF3OEt2",
+            "DDQ"
+          ],
+          "solvents": [
+            "CH2Cl2"
+          ],
+          "temperature": "reflux",
+          "time": "2h",
+          "yield": "41%"
+        }
+      ]
+    },
+    {
+      "name": "PCN-228",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis of PCN-228",
+          "chemicals_used": [
+            "ZrCl4",
+            "H4TCP-1",
+            "acetic acid"
+          ],
+          "solvents": [
+            "DMF"
+          ],
+          "temperature": "120°C",
+          "time": "12h"
+        }
+      ]
+    },
+    {
+      "name": "PCN-229",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis of PCN-229",
+          "chemicals_used": [
+            "ZrCl4",
+            "H4TCP-2",
+            "benzoic acid"
+          ],
+          "solvents": [
+            "DMF"
+          ],
+          "temperature": "120°C",
+          "time": "12h",
+          "yield": "82%"
+        }
+      ]
+    },
+    {
+      "name": "PCN-230",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis of PCN-230",
+          "chemicals_used": [
+            "ZrCl4",
+            "H4TCP-3",
+            "acetic acid"
+          ],
+          "solvents": [
+            "DMF"
+          ],
+          "temperature": "120°C",
+          "time": "24h",
+          "yield": "91%"
+        }
+      ]
+    }
+  ]
+}

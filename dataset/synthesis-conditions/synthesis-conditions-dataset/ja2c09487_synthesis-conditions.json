@@ -1,0 +1,92 @@
+{
+  "materials": [
+    {
+      "name": "HIAM-402",
+      "synthesis": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "5 mL"
+          },
+          {
+            "name": "trifluoroacetic acid",
+            "amount": "1 mL"
+          }
+        ],
+        "equipment": "20 mL scintillation vial, preheated oven",
+        "chemicals_used": [
+          {
+            "name": "Zirconium(IV) chloride (ZrCl4)",
+            "amount": "40 mg"
+          },
+          {
+            "name": "H4tcppda",
+            "amount": "20 mg"
+          }
+        ],
+        "time": "3 days",
+        "washing_method": "washed with DMF and methanol successively with a Soxhlet extractor for 2 and 3 days",
+        "yield": "colorless polyhedral-shaped crystals suitable for structure resolution by single-crystal X-ray crystallography"
+      }
+    },
+    {
+      "name": "HIAM-403",
+      "synthesis": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylacetamide (DMA)",
+            "amount": "5 mL"
+          },
+          {
+            "name": "formic acid",
+            "amount": "1.5 mL"
+          }
+        ],
+        "equipment": "20 mL scintillation vial, preheated oven",
+        "chemicals_used": [
+          {
+            "name": "Zirconium(IV) chloride (ZrCl4)",
+            "amount": "40 mg"
+          },
+          {
+            "name": "H4tcppda",
+            "amount": "20 mg"
+          }
+        ],
+        "time": "3 days",
+        "yield": "colorless prismatic-shaped crystals"
+      }
+    },
+    {
+      "name": "HIAM-311",
+      "synthesis": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "DMF/H2O",
+            "amount": "5/2 mL"
+          }
+        ],
+        "equipment": "20 mL glass vial, preheated oven",
+        "chemicals_used": [
+          {
+            "name": "Y(NO3)3·6H2O",
+            "amount": "40 mg"
+          },
+          {
+            "name": "2-fluorobenzoic acid",
+            "amount": "500 mg"
+          },
+          {
+            "name": "H4tcppda",
+            "amount": "20 mg"
+          }
+        ],
+        "time": "3 days",
+        "yield": "colorless crystals suitable for structure resolution by single-crystal X-ray crystallography"
+      }
+    }
+  ]
+}

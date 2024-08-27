@@ -1,0 +1,38 @@
+{
+  "materials": [
+    {
+      "name": "[Ag(hmt)](PF6).cntdot.H2O (hmt = Hexamethylenetetraamine)",
+      "synthesis_conditions": {
+        "temperature": "293 K",
+        "equipment": "CAD 4 diffractometer",
+        "radiation": "0.71069",
+        "absorption_coefficient": "1.915 mm^-1",
+        "crystal_size": "0.256 X 0.240 X 0.192 mm",
+        "scan_method": "omega",
+        "scan_interval": "1.4+0.35tg(theta)",
+        "theta_range": "7.03 to 27.0 degrees",
+        "index_ranges": "<—h<=13, 0<=k<=13, 0<=l<=13",
+        "reflections_collected": "1519",
+        "independent_reflections": "498 [R(int) = 0.0153]",
+        "crystal_decay": "0%",
+        "absorption_correction": "psi-scan",
+        "no_azimut_reflections": "30",
+        "min_transmission": "0.90",
+        "refinement_method": "Full-matrix Least-squares on F^2",
+        "obs_reflection_criterion": ">lsigma(Fo)",
+        "absolute_structure_parameter": "-0.01(4)",
+        "data_restraints_parameters": "498 / 2 / 78",
+        "goodness_of_fit_on_Fo^2": "1.074",
+        "R_indices_Fo>4sigma(Fo)": {
+          "R1": "0.013 3",
+          "WR2": "0.0319"
+        },
+        "R_indices_observed": {
+          "R1": "0.0141",
+          "WR2": "0.0338"
+        },
+        "largest_diff_peak_and_hole": "0.162 and -0.224"
+      }
+    }
+  ]
+}

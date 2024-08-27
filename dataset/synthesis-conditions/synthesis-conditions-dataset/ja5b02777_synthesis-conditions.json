@@ -1,0 +1,53 @@
+{
+  "materials": [
+    {
+      "name": "Phase I",
+      "synthesis_conditions": {
+        "temperature": "90°C",
+        "time": "19 h",
+        "solvents": [
+          {
+            "name": "dimethylformamide",
+            "amount": "6 mL",
+            "purity": "99%"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "oxalic acid dihydrate",
+            "amount": "0.4 mmol",
+            "purity": "99%"
+          },
+          {
+            "name": "lithium nitrate",
+            "amount": "0.2 mmol",
+            "purity": "ReagentPlus"
+          },
+          {
+            "name": "zirconium butoxide",
+            "amount": "0.05 mmol",
+            "purity": "80 wt% in butanol"
+          }
+        ],
+        "equipment": "tightly sealed glass vial",
+        "yield": "46% (Zr base)",
+        "washing_method": "rinsed with ethanol and dichloromethane",
+        "drying_method": "dried in air"
+      }
+    },
+    {
+      "name": "Phase II",
+      "synthesis_conditions": {
+        "method": "hydrated by keeping in nitrogen gas containing adjusted relative humidity",
+        "details": "Phase II is formed from Phase I by hydration."
+      }
+    },
+    {
+      "name": "Phase II without H2O",
+      "synthesis_conditions": {
+        "method": "DFT calculations",
+        "details": "The structure of Phase II without H2O was relaxed fully by optimizing both atomic positions and unit cell parameters, starting from the experimentally-determined crystallographic structures."
+      }
+    }
+  ]
+}

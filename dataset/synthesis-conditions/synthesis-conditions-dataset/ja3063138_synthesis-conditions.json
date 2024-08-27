@@ -1,0 +1,60 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "N,N′-dimethylacetamide (DMF)",
+            "amount": "3 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "3 mL"
+          }
+        ],
+        "equipment": "stirring",
+        "chemicals_used": [
+          {
+            "name": "H2btz",
+            "amount": "0.0105 g, 0.10 mmol"
+          },
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "0.0297 g, 0.2 mmol"
+          },
+          {
+            "name": "HCl (aqueous solution)",
+            "amount": "0.1 mL, 1 M"
+          }
+        ],
+        "time": "two days",
+        "washing_method": "ethanol",
+        "drying_method": "filtration",
+        "yield": "81% based on H2btz"
+      }
+    },
+    {
+      "name": "1a",
+      "synthesis_conditions": {
+        "description": "CH2Cl2 exchanged sample 1",
+        "solvent_exchange": {
+          "solvent": "anhydrous CH2Cl2",
+          "duration": "three days",
+          "frequency": "three times every day"
+        },
+        "drying_method": "vacuum at 60 °C for 10 h"
+      }
+    },
+    {
+      "name": "1b",
+      "synthesis_conditions": {
+        "description": "CH2Cl2 removed 1a under vacuum",
+        "temperature": "60 °C",
+        "equipment": "vacuum",
+        "time": "10 h"
+      }
+    }
+  ]
+}

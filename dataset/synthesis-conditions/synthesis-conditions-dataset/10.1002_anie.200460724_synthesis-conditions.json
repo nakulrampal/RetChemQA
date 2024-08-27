@@ -1,0 +1,71 @@
+{
+  "materials": [
+    {
+      "name": "(S)-HO3PCH2NHC4H7CO2H",
+      "synthesis_conditions": {
+        "temperature": "reflux",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "36 %"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "HCHO",
+            "amount": "40 mmol"
+          },
+          {
+            "name": "(S)-proline",
+            "amount": "10 mmol"
+          },
+          {
+            "name": "H3PO3",
+            "amount": "11 mmol"
+          },
+          {
+            "name": "HCl",
+            "amount": "30 mL of a 6.0 m aqueous solution"
+          }
+        ],
+        "time": "12 h",
+        "washing_method": "removal of water",
+        "drying_method": "recrystallized from EtOH/propylene oxide",
+        "yield": "90 %",
+        "additional_information": "M.p. 257–259 8C. [a]25 D = +638 (c = 1.6 in water). Elemental analysis (%): calcd for C6H12NO5P (209.14): C 34.44, N 6.69, H 5.74; found: C 34.25, N 6.80, H 5.67. 31P MAS NMR (161.9 MHz, 298 K): d = 8.7 ppm."
+      }
+    },
+    {
+      "name": "Zn2[(S)-O3PCH2NHC4H7CO2]2",
+      "synthesis_conditions": {
+        "temperature": "160 8C",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "10 mL"
+          },
+          {
+            "name": "triethylamine",
+            "amount": "0.5 mL"
+          }
+        ],
+        "equipment": "Teflon-lined stainless steel autoclave",
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6 H2O",
+            "amount": "0.074 g"
+          },
+          {
+            "name": "(S)-HO3PCH2NHC4H7CO2H",
+            "amount": "0.053 g"
+          }
+        ],
+        "time": "2 d",
+        "washing_method": "washed with distilled water",
+        "drying_method": "dried at room temperature",
+        "yield": "58 %",
+        "additional_information": "31P MAS NMR (161.9 MHz, 298 K): d = -24.5 ppm. The CD spectrum clearly shows a positive Cotton effect, in agreement with that of the original chiral ligand. Inductively coupled plasma (ICP) analysis (Perkin-Elmer Optima 3300 DV ICP instrument): Zn 24.08, P 11.45 % (calcd: Zn 23.96, P 11.37 %). Elemental analysis (Perkin-Elmer 2400 elemental analyzer): C 26.51, H 3.54, N 5.22 % (calcd: C 26.45, H 3.70, N 5.14 %)."
+      }
+    }
+  ]
+}

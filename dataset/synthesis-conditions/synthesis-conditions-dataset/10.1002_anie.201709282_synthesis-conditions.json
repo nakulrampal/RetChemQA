@@ -1,0 +1,65 @@
+{
+  "materials": [
+    {
+      "name": "7,12-dimesitylindeno[1,2-a]fluorene (6)",
+      "synthesis_conditions": [
+        {
+          "step": "Initial synthesis",
+          "temperature": "Room temperature",
+          "solvents": [
+            {
+              "name": "toluene",
+              "amount": "not specified"
+            }
+          ],
+          "equipment": "not specified",
+          "chemicals_used": [
+            "dione 7",
+            "mesityllithium"
+          ],
+          "time": "not specified",
+          "washing_method": "chromatographed on silica",
+          "drying_method": "not specified",
+          "yield": "not specified"
+        },
+        {
+          "step": "Reduction",
+          "temperature": "Room temperature",
+          "solvents": [
+            {
+              "name": "toluene",
+              "amount": "rigorously degassed"
+            }
+          ],
+          "equipment": "not specified",
+          "chemicals_used": [
+            "SnCl2",
+            "HCl (ethereal)"
+          ],
+          "time": "not specified",
+          "washing_method": "not specified",
+          "drying_method": "not specified",
+          "yield": "not specified"
+        },
+        {
+          "step": "Formation of dianion",
+          "temperature": "not specified",
+          "solvents": [
+            {
+              "name": "THF",
+              "amount": "not specified"
+            }
+          ],
+          "equipment": "not specified",
+          "chemicals_used": [
+            "metallic Cs"
+          ],
+          "time": "not specified",
+          "washing_method": "crystallized from THF upon slow diffusion of hexanes",
+          "drying_method": "not specified",
+          "yield": "not specified"
+        }
+      ]
+    }
+  ]
+}

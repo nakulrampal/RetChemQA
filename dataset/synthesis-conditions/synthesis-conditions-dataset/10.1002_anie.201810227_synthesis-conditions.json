@@ -1,0 +1,97 @@
+{
+  "materials": [
+    {
+      "name": "FeIII-hydroxido and FeIV/III-oxido complexes",
+      "synthesis_conditions": {
+        "ligands": [
+          {
+            "name": "[H3buea]3-",
+            "description": "contains a third deprotonated urea group"
+          },
+          {
+            "name": "[H2pout]3-",
+            "description": "has phosphinic amido group"
+          },
+          {
+            "name": "[H2bupa]3-",
+            "description": "has carboxyamidopyridyl group"
+          }
+        ],
+        "primary_coordination_sphere": "trigonal bipyramidal",
+        "characterization_methods": [
+          "electron paramagnetic resonance (EPR)",
+          "Mössbauer spectroscopies"
+        ],
+        "vibrational_spectroscopy": "57Fe nuclear resonance vibrational spectroscopy (NRVS)"
+      }
+    },
+    {
+      "name": "[FeIII{H3buea}(O)]2-",
+      "synthesis_conditions": {
+        "vibrational_frequency": "660 cm-1",
+        "v(FeIII@O)_stretching_mode": "670 cm-1",
+        "DFT_calculations": "BP86/TZVP",
+        "Fe@O_bond_length": "1.813(3) Å",
+        "vibrational_modes": [
+          {
+            "energy_range": "100–300 cm-1",
+            "assignments": "N-Fe-N/O-Fe-N bending modes"
+          },
+          {
+            "energy_range": "300–450 cm-1",
+            "assignments": "Fe@N stretching modes"
+          }
+        ]
+      }
+    },
+    {
+      "name": "[FeIII{H3buea}(OH)]-",
+      "synthesis_conditions": {
+        "vibrational_frequency_shift": "660 to 477 cm-1",
+        "isotopically_labeled_complex": "[FeIII{H3buea}(18OH)]-",
+        "isotope_shift": "15 cm-1",
+        "Fe@O_bond_length": "1.932(2) Å",
+        "DFT_calculations": {
+          "Fe@O_bond_length": {
+            "FeIII@O": "1.81 Å",
+            "FeIII-OH": "1.95 Å"
+          },
+          "isotope_shift": "483 cm-1 to 468 cm-1",
+          "Fe@Napical_bond_length_shortening": "0.1 Å"
+        }
+      }
+    },
+    {
+      "name": "[FeIII{H2pout}(OH)]-",
+      "synthesis_conditions": {
+        "vibrational_frequency": "556 cm-1",
+        "Fe@O_bond_length": "1.893(2) Å",
+        "comparison": "[FeIII{H3buea}(OH)]-",
+        "DFT_calculations": "Included"
+      }
+    },
+    {
+      "name": "[FeIII{H2bupa}(OH)]-",
+      "synthesis_conditions": {
+        "vibrational_frequency": "594 cm-1",
+        "DFT_calculations": {
+          "OH···N_distance": "Shortest among the complexes",
+          "O@H_bond_length": "Longest among the complexes",
+          "Fe@OH_bond_length": "Shortest among the complexes"
+        }
+      }
+    },
+    {
+      "name": "[FeIV{H3buea}(O)]-",
+      "synthesis_conditions": {
+        "vibrational_frequency": "794 cm-1",
+        "isotopomers": {
+          "16O": "794 cm-1",
+          "18O": "30 cm-1 shift"
+        },
+        "comparison": "FTIR measurements",
+        "FTIR_vibrational_frequency": "799 cm-1"
+      }
+    }
+  ]
+}

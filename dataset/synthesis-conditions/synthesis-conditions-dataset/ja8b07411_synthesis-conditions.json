@@ -1,0 +1,128 @@
+{
+  "materials": [
+    {
+      "name": "PCN-606",
+      "synthesis_conditions": {
+        "temperature": "120 oC",
+        "solvents": ["DMF"],
+        "amount_of_solvent": "3 mL",
+        "chemicals_used": ["ZrCl4 (20 mg)", "H4TPCB (L1) (10 mg)", "benzoic acid (500 mg)"],
+        "time": "72 h",
+        "yield": "67 %"
+      }
+    },
+    {
+      "name": "PCN-606-BDC",
+      "synthesis_conditions": {
+        "temperature": "80 oC",
+        "solvents": ["DMF"],
+        "amount_of_solvent": "0.03 M, 4 mL",
+        "chemicals_used": ["H2BDC"],
+        "time": "24 h"
+      }
+    },
+    {
+      "name": "PCN-606-TPDC",
+      "synthesis_conditions": {
+        "temperature": "120 oC",
+        "solvents": ["DMF"],
+        "amount_of_solvent": "0.03 M, 4 mL",
+        "chemicals_used": ["H2TPDC-2Me"],
+        "time": "24 h"
+      }
+    },
+    {
+      "name": "PCN-606-BDC-TPDC",
+      "synthesis_conditions": {
+        "temperature": "80 oC",
+        "solvents": ["DMF"],
+        "amount_of_solvent": "0.03 M, 4 mL",
+        "chemicals_used": ["H2BDC", "H2TPDC-2Me"],
+        "time": "Sequential installation, 24 h each step"
+      }
+    },
+    {
+      "name": "PCN-609",
+      "synthesis_conditions": {
+        "temperature": "120 oC",
+        "solvents": ["DMF"],
+        "amount_of_solvent": "3 mL",
+        "chemicals_used": ["ZrCl4 (20 mg)", "H4CBTB (L2) (10 mg)", "benzoic acid (400 mg)"],
+        "time": "72 h",
+        "yield": "67 %"
+      }
+    },
+    {
+      "name": "PCN-609-BDC",
+      "synthesis_conditions": {
+        "temperature": "80 oC",
+        "solvents": ["DMF"],
+        "amount_of_solvent": "0.03 M, 4 mL",
+        "chemicals_used": ["H2BDC"],
+        "time": "24 h"
+      }
+    },
+    {
+      "name": "PCN-609-BPDC",
+      "synthesis_conditions": {
+        "temperature": "80 oC",
+        "solvents": ["DMF"],
+        "amount_of_solvent": "0.03 M, 4 mL",
+        "chemicals_used": ["H2BPDC"],
+        "time": "24 h"
+      }
+    },
+    {
+      "name": "PCN-609-TPDC",
+      "synthesis_conditions": {
+        "temperature": "80 oC",
+        "solvents": ["DMF"],
+        "amount_of_solvent": "0.03 M, 4 mL",
+        "chemicals_used": ["H2TPDC"],
+        "time": "24 h"
+      }
+    },
+    {
+      "name": "PCN-609-BDC-TPDC",
+      "synthesis_conditions": {
+        "temperature": "80 oC",
+        "solvents": ["DMF"],
+        "amount_of_solvent": "0.03 M, 4 mL",
+        "chemicals_used": ["H2BDC", "H2TPDC-2Me"],
+        "time": "Sequential installation, 24 h each step"
+      }
+    },
+    {
+      "name": "PCN-609-BDC-BPDC",
+      "synthesis_conditions": {
+        "temperature": "80 oC",
+        "solvents": ["DMF"],
+        "amount_of_solvent": "0.03 M, 4 mL",
+        "chemicals_used": ["H2BDC", "H2BPDC"],
+        "time": "Sequential installation, 24 h each step"
+      }
+    },
+    {
+      "name": "PCN-609-BPDC-TPDC",
+      "synthesis_conditions": {
+        "temperature": "80 oC",
+        "solvents": ["DMF"],
+        "amount_of_solvent": "0.03 M, 4 mL",
+        "chemicals_used": ["H2TPDC-2Me", "H2BPDC"],
+        "time": "Sequential installation, 24 h each step",
+        "note": "The sequence of linker installation is very important. H2BPDC must be installed after H2TPDC-2Me."
+      }
+    },
+    {
+      "name": "PCN-609-BDC-BPDC-TPDC",
+      "synthesis_conditions": {
+        "temperature": "80 oC",
+        "solvents": ["DMF"],
+        "amount_of_solvent": "0.03 M, 4 mL",
+        "chemicals_used": ["H2BDC", "H2TPDC-2Me", "H2BPDC"],
+        "time": "Sequential installation, 24 h each step",
+        "note": "The sequence of linker installation is very important. H2BPDC must be installed after H2TPDC-2Me."
+      }
+    }
+  ]
+}

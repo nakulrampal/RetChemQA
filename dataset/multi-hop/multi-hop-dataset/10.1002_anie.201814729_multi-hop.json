@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are the names of the two biomimetic MOFs discussed in the paper, and what are their respective synthesis precursors?",
+      "answer": "The two biomimetic MOFs discussed are AD-MOF-1 and AD-MOF-2. AD-MOF-1 is synthesized from adenine (HAD) and butanedioic acid (BA), while AD-MOF-2 is synthesized from adenine (HAD) and isobutyric acid (IA).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Which biomimetic MOF showed a higher HCOOH production rate, and what were the conditions of the experiment?",
+      "answer": "AD-MOF-2 showed a higher HCOOH production rate of 443.2 mmol g-1 h-1 in an aqueous solution, which is more than two times higher than that of AD-MOF-1 (179.0 mmol g-1 h-1) in an acetonitrile solution.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What unique feature of adenine molecules is primarily responsible for the CO2 photoreduction reaction in the discussed MOFs?",
+      "answer": "The CO2 photoreduction reaction mainly takes place at the aromatic nitrogen atom of adenine molecules through a unique o-amino-assisted activation rather than at the metal center.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Based on the synthesis conditions, which biomimetic MOF is more eco-friendly and why?",
+      "answer": "AD-MOF-2 is more eco-friendly because it exhibited a very high HCOOH production rate in pure aqueous solution, making it preferable for practical and feasible green synthesis.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the structural stability of AD-MOF-1 and AD-MOF-2 compare in different solvents?",
+      "answer": "AD-MOF-1 is stable in acetonitrile solution, while AD-MOF-2 remains unchanged in aqueous solution after several days, indicating AD-MOF-2 has better stability in water.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The photocatalytic CO2-to-HCOOH activity of adenine was confirmed by a homogeneous catalyst experiment using adenine and [Ru(bpy)3]Cl2·6 H2O.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The LUMO locations of AD-MOF-1 and AD-MOF-2 are more positive than the reduction potentials of many photocatalytic products like HCOOH and CO.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of triisopropanolamine (TIPA) in the photocatalytic experiments discussed?",
+      "answer": "Triisopropanolamine (TIPA) acts as an electron donor in the visible-light-driven CO2RR conducted under a pure CO2 atmosphere.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the decreased photoluminescence (PL) intensity of the MOF-based photocatalysts indicate?",
+      "answer": "The decreased PL intensity suggests that the photo-excited holes in the photocatalytic CO2RR process were significantly consumed by TIPA.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The photocatalytic performance of biomimetic MOFs is inferior to that of homogeneous adenine molecules.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What evidence supports the heterogeneous nature of biomimetic AD-MOF-1 and AD-MOF-2 in the CO2RR?",
+      "answer": "No noticeable changes were observed on IR spectra and PXRD patterns performed before and after CO2RR, confirming the heterogeneous nature of biomimetic AD-MOF-1 and AD-MOF-2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The CO2 photoreduction reaction in the discussed MOFs is facilitated by the metallic PWU unit.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How do the band gaps of AD-MOF-1 and AD-MOF-2 relate to their potential as semiconducting photocatalysts?",
+      "answer": "The band gaps of 1.76 eV (AD-MOF-1) and 1.52 eV (AD-MOF-2) were calculated, unveiling their potential to be used as semiconducting photocatalysts due to their ability to harvest light.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The photocatalytic activity of AD-MOF-1 and AD-MOF-2 is solely due to the presence of adenine as the photosensitizer.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the CO2 adsorption measurements performed on the activated MOF samples?",
+      "answer": "The CO2 adsorption measurements, showing uptakes of 52.15 and 41.75 cm3 g-1 for the biomimetic MOFs, indicate their ability to adsorb and activate CO2, which is crucial for the CO2 photoreduction reaction.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The photocatalytic selectivity for CO2 reduction to HCOOH is low in the discussed biomimetic MOFs.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What factors contribute to the higher activity of AD-MOF-2 compared to AD-MOF-1 in the CO2RR?",
+      "answer": "AD-MOF-2 has a higher activity than AD-MOF-1 due to the reduced number of protons in acetonitrile relative to aqueous solution, among other factors.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The structural robustness of AD-MOF-1 and AD-MOF-2 can be maintained under traditional photocatalytic conditions for the CO2RR.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the isotopic 13CO2 experiment demonstrate about the CO2RR?",
+      "answer": "The isotopic 13CO2 experiment, identified by 13C NMR spectroscopy, unambiguously demonstrates that biomimetic MOFs are active for converting CO2 into HCOOH under visible-light irradiation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The photocatalytic stability tests showed a significant decrease in HCOOH production rate after multiple cycles.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

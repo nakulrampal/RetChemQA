@@ -1,0 +1,81 @@
+{
+  "materials": [
+    {
+      "name": "2,5-diacetoxyterephthalic acid (H2dacobdc)",
+      "synthesis_conditions": {
+        "temperature": "50 ºC",
+        "solvents": [
+          {
+            "name": "acetic anhydride",
+            "amount": "2.50 g, 24 mmol"
+          },
+          {
+            "name": "ethanol",
+            "purpose": "washing"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "2,5-dihydroxyterephthalic acid",
+            "amount": "0.99 g, 5.0 mmol"
+          },
+          {
+            "name": "conc. sulfuric acid",
+            "amount": "several drops"
+          }
+        ],
+        "drying_method": "in vacuo",
+        "yield": "800 mg, 56.7%",
+        "characterization": {
+          "1H-NMR": [
+            {
+              "delta_ppm": "13.63",
+              "description": "br, 2H"
+            },
+            {
+              "delta_ppm": "7.68",
+              "description": "s, 2H"
+            },
+            {
+              "delta_ppm": "2.25",
+              "description": "s, 6H"
+            }
+          ],
+          "elemental_analysis": {
+            "calculated": "C 51.07, H 3.57",
+            "found": "C 50.87, H 3.63"
+          }
+        }
+      }
+    },
+    {
+      "name": "[Zn2(dhybdc)2(bpy)]·4DMF (1)",
+      "synthesis_conditions": {
+        "temperature": "55 ºC",
+        "time": "1 week",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "119 mg, 0.40 mmol"
+          },
+          {
+            "name": "H2dacobdc",
+            "amount": "89 mg, 0.32 mmol"
+          },
+          {
+            "name": "4,4’-bipyridine",
+            "amount": "31 mg, 0.20 mmol"
+          }
+        ],
+        "cooling_method": "cooled slowly to room temperature",
+        "appearance": "Yellowish block crystals"
+      }
+    }
+  ]
+}

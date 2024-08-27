@@ -1,0 +1,69 @@
+{
+  "FeII_4H2O": {
+    "synthesis_conditions": {
+      "temperature_range": "200-50 K",
+      "solvents": "aqueous solution",
+      "chemicals_used": [
+        {
+          "chemical": "(NH4)2FeII(SO4)2⋅6H2O",
+          "amount": "0.025 mmol"
+        },
+        {
+          "chemical": "L-ascorbic acid",
+          "amount": "0.10 mmol"
+        },
+        {
+          "chemical": "1-(3-pyridyl)ethanol",
+          "amount": "1.3 mmol"
+        },
+        {
+          "chemical": "K4[MoIV(CN)8]⋅2H2O",
+          "amount": "0.050 mmol"
+        }
+      ],
+      "equipment": "H-tube",
+      "time": "3 weeks",
+      "yield": {
+        "Fe": "7.42%",
+        "Mo": "6.52%",
+        "C": "51.97%",
+        "H": "5.45%",
+        "N": "15.15%"
+      },
+      "drying_method": "drying in a dark place for one night"
+    }
+  },
+  "FeII_4H2O_powder": {
+    "synthesis_conditions": {
+      "temperature": "room temperature",
+      "solvents": "aqueous solution",
+      "chemicals_used": [
+        {
+          "chemical": "(NH4)2FeII(SO4)2⋅6H2O",
+          "amount": "0.10 mmol"
+        },
+        {
+          "chemical": "L-ascorbic acid",
+          "amount": "0.20 mmol"
+        },
+        {
+          "chemical": "1-(3-pyridyl)ethanol",
+          "amount": "1.6 mmol"
+        },
+        {
+          "chemical": "K4[MoIV(CN)8]⋅2H2O",
+          "amount": "0.050 mmol"
+        }
+      ],
+      "equipment": "stirring for 2 h",
+      "yield": {
+        "Fe": "7.59%",
+        "Mo": "6.52%",
+        "C": "52.25%",
+        "H": "5.34%",
+        "N": "15.23%"
+      },
+      "drying_method": "drying in a dark place for one night"
+    }
+  }
+}

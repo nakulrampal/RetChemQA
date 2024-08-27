@@ -1,0 +1,44 @@
+{
+  "materials": [
+    {
+      "name": "astellifadiene (1)",
+      "synthesis_conditions": [
+        {
+          "step": "Gene selection and expression",
+          "description": "A gene encoding a 716 amino-acid protein was selected from Emericella variecolor NBRC 32302 and heterologously expressed in Aspergillus oryzae NSAR1.",
+          "equipment": ["GC-MS"],
+          "chemicals_used": ["Emericella variecolor NBRC 32302 gene", "Aspergillus oryzae NSAR1"],
+          "figures": ["Figure 1 A", "Figure 1 B", "Figure S1", "Figure S3A"]
+        },
+        {
+          "step": "Isolation and structure determination",
+          "description": "The new metabolite 1 with m/z 340 [M]+ was isolated for structure determination.",
+          "equipment": ["HR-MS", "NMR spectroscopy"],
+          "chemicals_used": [],
+          "figures": ["Figures S9–S20", "Tables S2 and S3", "Figure 2"]
+        },
+        {
+          "step": "Absolute configuration determination",
+          "description": "The crystalline sponge method was applied to determine the absolute structure of 1.",
+          "equipment": ["X-ray crystallography"],
+          "chemicals_used": ["crystalline sponge [(ZnI2)2(tpt)3·x(solvent)]n"],
+          "figures": ["Figure S5", "Figure 3"]
+        },
+        {
+          "step": "Isotope-incorporation study",
+          "description": "Isotope-incorporation study with [1-13C]sodium acetate and [1-13C, 2H3]sodium acetate was performed to elucidate the cyclization mechanism leading to 1.",
+          "equipment": ["NMR spectroscopy"],
+          "chemicals_used": ["[1-13C]sodium acetate", "[1-13C, 2H3]sodium acetate"],
+          "figures": ["Figure 4 A", "Figure S21", "Figures S7, S22, and S23", "Tables S4 and S5"]
+        },
+        {
+          "step": "In vitro assays",
+          "description": "In vitro assays with recombinant EvAS expressed in Escherichia coli were performed to further investigate the cyclization mechanism.",
+          "equipment": ["NMR spectroscopy"],
+          "chemicals_used": ["DMAPP", "IPP", "Mg2+", "2H2O"],
+          "figures": ["Figure S4A", "Figure S4B", "Figure S3B"]
+        }
+      ]
+    }
+  ]
+}

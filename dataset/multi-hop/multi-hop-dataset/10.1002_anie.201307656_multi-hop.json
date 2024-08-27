@@ -1,0 +1,112 @@
+{
+  "questions": [
+    {
+      "question": "What is the chemical formula of the flexible MOF that selectively sorbs para-xylene over meta-xylene?",
+      "answer": "[Ce(HTCPB)·(EtOH)0.28(H2O)2.75]",
+      "difficulty": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "What process is used to synthesize [Ce(HTCPB)·(EtOH)0.28(H2O)2.75]?",
+      "answer": "Solvothermal reaction of Ce(NO3)3 with H4TCPB in EtOH/H2O",
+      "difficulty": "Hard",
+      "type": "Factual"
+    },
+    {
+      "question": "What structural change occurs in the MOF upon desolvation of [Ce(HTCPB)·(EtOH)0.28(H2O)2.75]?",
+      "answer": "Transformation to [Ce(HTCPB)] (3), which is permanently porous to CO2 and N2",
+      "difficulty": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "How does the MOF differentiate between para-xylene (pX) and meta-xylene (mX) despite both being similarly shaped?",
+      "answer": "The MOF undergoes guest-driven restructuring around pX and mX, but the restructuring around pX is synergic, enhancing fit through localized expansion and contraction, while the flexibility needed to accommodate mX involves negative feedback, creating unused void space.",
+      "difficulty": "Hard",
+      "type": "Factual"
+    },
+    {
+      "question": "What is the selectivity of the MOF for para-xylene over meta-xylene in liquid C8 isomer mixtures?",
+      "answer": "An apXmX selectivity of 4.5",
+      "difficulty": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "What computational method was used to predict the MOF's capacity for para-xylene?",
+      "answer": "Grand Canonical Monte Carlo (GCMC) simulations",
+      "difficulty": "Hard",
+      "type": "Factual"
+    },
+    {
+      "question": "What is the role of the HTCPB linker in the MOF's ability to selectively sorb para-xylene?",
+      "answer": "The HTCPB linker pivots about its central benzene ring upon xylene loading, exchanging the -bridging roles of rings 5 and 2 in the MOF, which is crucial for the MOF's selective sorption capability.",
+      "difficulty": "Hard",
+      "type": "Reasoning"
+    },
+    {
+      "question": "How does the MOF's selectivity for para-xylene over meta-xylene compare to that of rigid MOF materials?",
+      "answer": "The MOF's selectivity for para-xylene over meta-xylene is similar to that of rigid MOF materials, with both achieving high selectivities due to their intrapore xylene packing separation mechanism.",
+      "difficulty": "Medium",
+      "type": "Reasoning"
+    },
+    {
+      "question": "What structural feature of the MOF allows it to undergo differential restructuring around para-xylene and meta-xylene?",
+      "answer": "The flexibility of the MOF, which enables it to expand and contract around the differently shaped xylene isomers, differentiating between them through guest-driven restructuring.",
+      "difficulty": "Hard",
+      "type": "Reasoning"
+    },
+    {
+      "question": "Why does the MOF create unused void space when accommodating meta-xylene?",
+      "answer": "The creation of unused void space when accommodating meta-xylene is a result of the MOF's negative feedback mechanism during restructuring, which generates a compromise guest location but results in a poorer fit compared to para-xylene.",
+      "difficulty": "Hard",
+      "type": "Reasoning"
+    },
+    {
+      "question": "What experimental technique was used to establish the MOF's selectivity for para-xylene?",
+      "answer": "Batch experiments on bulk powder samples in liquid C8 isomer mixtures, with selectivities determined by GC measurements.",
+      "difficulty": "Medium",
+      "type": "Reasoning"
+    },
+    {
+      "question": "How does the MOF's selectivity for para-xylene change with lanthanide size across the family of [Ln(HTCPB)] phases?",
+      "answer": "The experimentally measured selectivity for para-xylene over meta-xylene reaches a maximum at Nd(HTCPB), suggesting that the dynamic structural relaxation of the host around the competing guests controls the extent of selectivity.",
+      "difficulty": "Hard",
+      "type": "Reasoning"
+    },
+    {
+      "question": "Is the MOF's capacity for para-xylene optimized according to the simulations?",
+      "answer": "False, simulations produce a lower computed occupancy of 13% than the fully occupied channel 1, showing that the MOF does not have optimized capacity for para-xylene.",
+      "difficulty": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the MOF undergo structural changes only in the presence of para-xylene?",
+      "answer": "False, the MOF undergoes structural changes in the presence of both para-xylene and meta-xylene, but the changes are more favorable and less distorted for para-xylene.",
+      "difficulty": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the MOF's selectivity for para-xylene solely based on its initial rigid structure?",
+      "answer": "False, the MOF's selectivity for para-xylene is not solely based on its initial rigid structure but also on its ability to differentially relax around para-xylene and meta-xylene.",
+      "difficulty": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can meta-xylene enter the MOF without any structural adaptation?",
+      "answer": "False, meta-xylene cannot enter the rigid MOF due to shape mismatch and requires the MOF to undergo flexible structural adaptation to be admitted.",
+      "difficulty": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the MOF's selectivity for para-xylene over meta-xylene lower than that of zeolite Y?",
+      "answer": "False, the MOF's selectivity for para-xylene over meta-xylene is comparable to that of zeolite Y, with both achieving high selectivities.",
+      "difficulty": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the MOF's structural relaxation double its capacity for para-xylene as found experimentally?",
+      "answer": "True, GCMC calculations on the MOF's structure show that the structural relaxation from its initial form doubles the capacity for para-xylene, as found experimentally.",
+      "difficulty": "Medium",
+      "type": "True or False"
+    }
+  ]
+}

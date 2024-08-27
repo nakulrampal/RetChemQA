@@ -1,0 +1,78 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "temperature": "85 °C for 12 h and then at 100 °C for 20 h",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "1 mL"
+          },
+          {
+            "name": "CH3CN",
+            "amount": "1 mL"
+          },
+          {
+            "name": "HNO3",
+            "amount": "0.2 mL, 2.7 m in DMF"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "1,3-H2BDC",
+            "amount": "30.0 mg, 0.174 mmol"
+          },
+          {
+            "name": "In(NO3)3·2 H2O",
+            "amount": "30.0 mg, 0.087 mmol"
+          },
+          {
+            "name": "imidazole",
+            "amount": "0.2 mL, 0.90 m in DMF"
+          }
+        ],
+        "yield": "75 %",
+        "equipment": "vial",
+        "drying_method": "air-dried"
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "temperature": "85 °C for 12 h",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "1 mL"
+          },
+          {
+            "name": "CH3CN",
+            "amount": "0.5 mL"
+          },
+          {
+            "name": "HNO3",
+            "amount": "0.28 mL, 2.7 m in DMF"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "3,3’,5,5’-azobenzenetetracarboxylic acid",
+            "amount": "16.0 mg, 0.044 mmol"
+          },
+          {
+            "name": "In(NO3)3·2 H2O",
+            "amount": "22.0 mg, 0.065 mmol"
+          },
+          {
+            "name": "piperazine",
+            "amount": "0.1 mL, 0.4 m in DMF"
+          }
+        ],
+        "yield": "72 %",
+        "equipment": "vial",
+        "drying_method": "air-dried"
+      }
+    }
+  ]
+}

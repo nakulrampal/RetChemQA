@@ -1,0 +1,149 @@
+{
+  "materials": [
+    {
+      "name": "Hexagon 1",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "not specified"
+          },
+          {
+            "name": "diethyl ether",
+            "purpose": "slow vapor diffusion for crystallization"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[K([18]crown-6)]3PO4",
+            "amount": "1.0 equiv"
+          },
+          {
+            "name": "ligand L",
+            "amount": "not specified"
+          }
+        ],
+        "time": "overnight",
+        "yield": ">90%",
+        "drying_method": "not specified",
+        "washing_method": "not specified"
+      }
+    },
+    {
+      "name": "Square 2",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "chloroform",
+            "amount": "not specified"
+          },
+          {
+            "name": "diethyl ether",
+            "purpose": "slow vapor diffusion for crystallization"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[K([18]crown-6)]3PO4",
+            "amount": "1.0 equiv"
+          },
+          {
+            "name": "ligand L",
+            "amount": "not specified"
+          }
+        ],
+        "time": "overnight",
+        "yield": ">90%",
+        "drying_method": "not specified",
+        "washing_method": "not specified"
+      }
+    },
+    {
+      "name": "Ligand L",
+      "synthesis_conditions": {
+        "steps": [
+          {
+            "description": "Synthesis of compound b",
+            "temperature": "ice bath",
+            "solvents": [
+              {
+                "name": "THF",
+                "amount": "20 mL"
+              },
+              {
+                "name": "DMF",
+                "amount": "7 mL"
+              }
+            ],
+            "chemicals_used": [
+              {
+                "name": "o-nitrophenylisocyanate",
+                "amount": "1.68 g, 10.27 mmol"
+              },
+              {
+                "name": "3,3'-diaminobenzidine",
+                "amount": "1.0 g, 4.67 mmol"
+              }
+            ],
+            "time": "6 hours",
+            "yield": "50%"
+          },
+          {
+            "description": "Synthesis of compound c",
+            "temperature": "reflux",
+            "solvents": [
+              {
+                "name": "ethanol",
+                "amount": "40 mL"
+              }
+            ],
+            "chemicals_used": [
+              {
+                "name": "hydrazine monohydrate",
+                "amount": "15.0 mL"
+              },
+              {
+                "name": "compound b",
+                "amount": "0.80 g, 1.47 mmol"
+              },
+              {
+                "name": "Pd/C 10%",
+                "amount": "0.08 g, cat."
+              }
+            ],
+            "time": "6 hours",
+            "yield": "75%"
+          },
+          {
+            "description": "Synthesis of ligand L",
+            "temperature": "reflux",
+            "solvents": [
+              {
+                "name": "THF",
+                "amount": "20 mL"
+              },
+              {
+                "name": "DMF",
+                "amount": "15 mL"
+              }
+            ],
+            "chemicals_used": [
+              {
+                "name": "compound c",
+                "amount": "0.50 g, 1.03 mmol"
+              },
+              {
+                "name": "p-nitrophenylisocyanate",
+                "amount": "0.85 g, 5.18 mmol"
+              }
+            ],
+            "time": "12 hours",
+            "yield": "80%"
+          }
+        ]
+      }
+    }
+  ]
+}

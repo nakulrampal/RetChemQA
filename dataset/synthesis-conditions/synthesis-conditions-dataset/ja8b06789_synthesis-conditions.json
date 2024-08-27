@@ -1,0 +1,148 @@
+{
+  "materials": [
+    {
+      "name": "NU-1400",
+      "synthesis_conditions": [
+        {
+          "step": "Solvothermal synthesis",
+          "temperature": "130 ºC",
+          "solvents": [
+            {
+              "name": "N,N-diethylformamide (DEF)",
+              "amount": "1.75 mL"
+            },
+            {
+              "name": "formic acid",
+              "amount": "1.5 mL"
+            }
+          ],
+          "equipment": "2-dram vial",
+          "chemicals_used": [
+            {
+              "name": "ZrOCl2·8H2O",
+              "amount": "10.7 mg (0.033 mmol)"
+            },
+            {
+              "name": "[1,1′:4′,1″]terphenyl-3,3″,5,5″-tetracarboxylic acid (TPTC)",
+              "amount": "3.4 mg (0.008 mmol)"
+            },
+            {
+              "name": "DI water",
+              "amount": "20 μL"
+            }
+          ],
+          "time": "48 h",
+          "yield": "Not specified",
+          "washing_method": "DMF 3 times by decantation",
+          "drying_method": "Not specified"
+        },
+        {
+          "step": "Solvent exchange and supercritical CO2 activation",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "Not specified"
+            },
+            {
+              "name": "ethanol",
+              "amount": "Not specified"
+            }
+          ],
+          "equipment": "TousimisT M Samdri® PVT-30 critical point dryer",
+          "chemicals_used": [],
+          "time": "24 h",
+          "yield": "Not specified",
+          "washing_method": "Exchanged with corresponding solvents 3 times",
+          "drying_method": "Supercritical CO2"
+        },
+        {
+          "step": "Synthesis of microcrystals",
+          "temperature": "130 ºC",
+          "solvents": [
+            {
+              "name": "DEF",
+              "amount": "4 mL"
+            },
+            {
+              "name": "formic acid",
+              "amount": "2.5 mL"
+            }
+          ],
+          "equipment": "4-dram vial",
+          "chemicals_used": [
+            {
+              "name": "ZrOCl2·8H2O",
+              "amount": "42.8 mg"
+            },
+            {
+              "name": "TPTC",
+              "amount": "13.6 mg"
+            },
+            {
+              "name": "DI water",
+              "amount": "200 μL"
+            }
+          ],
+          "time": "48 h",
+          "yield": "43%",
+          "washing_method": "Washed with DMF and acetone for 3 times over the course of 24 h respectively",
+          "drying_method": "Dried at 80 ºC under vacuum"
+        }
+      ]
+    },
+    {
+      "name": "NU-1400-AS-DEF",
+      "synthesis_conditions": [
+        {
+          "step": "Activation",
+          "temperature": "80 ºC",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "Not specified"
+            },
+            {
+              "name": "acetone",
+              "amount": "Not specified"
+            }
+          ],
+          "equipment": "Not specified",
+          "chemicals_used": [],
+          "time": "Not specified",
+          "yield": "Not specified",
+          "washing_method": "Washed with DMF and acetone",
+          "drying_method": "Dried under vacuum at room temperature"
+        }
+      ]
+    },
+    {
+      "name": "NU-1400-TA",
+      "synthesis_conditions": [
+        {
+          "step": "Activation",
+          "temperature": "Not specified",
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "Not specified"
+            },
+            {
+              "name": "DMF",
+              "amount": "Not specified"
+            },
+            {
+              "name": "ethanol",
+              "amount": "Not specified"
+            }
+          ],
+          "equipment": "Not specified",
+          "chemicals_used": [],
+          "time": "Not specified",
+          "yield": "Not specified",
+          "washing_method": "Soaked in different solvents",
+          "drying_method": "Not specified"
+        }
+      ]
+    }
+  ]
+}

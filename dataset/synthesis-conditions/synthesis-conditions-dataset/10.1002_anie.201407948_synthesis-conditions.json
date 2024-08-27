@@ -1,0 +1,44 @@
+{
+  "materials": [
+    {
+      "material": "imidazoles functionalized with ZnTFMS",
+      "conditions": {
+        "solvent": "DMSO–NEt4ClO4",
+        "solvent_concentration": "0.1m",
+        "electrode_material": "carbon cloth",
+        "current_values": "varied",
+        "reaction_monitoring": "transmission FTIR",
+        "IR_peaks": {
+          "ZnTFMS_consumption": "1145 cm-1",
+          "product_formation": "1722 cm-1"
+        },
+        "yield": {
+          "peroxide_initiated": "25%",
+          "electrochemical_initiated": "53%"
+        },
+        "temperature": "elevated temperature slightly enhanced conversion",
+        "ZnTFMS_concentration": "significantly lower under electrochemical conditions"
+      }
+    },
+    {
+      "material": "various heterocycles",
+      "conditions": {
+        "solvent": "DMSO–NEt4ClO4",
+        "solvent_concentration": "0.15 m",
+        "electrode_material": "carbon cloth",
+        "cell_type": "separated cell",
+        "current": "25 mA",
+        "reaction_time": "8 h",
+        "comparison": "trifluoromethylation under electrochemical vs TBHP radical initiation",
+        "note": "Yields reflect intrinsic differences in the second oxidation step"
+      }
+    },
+    {
+      "material": "substrates with DFMS and TFES",
+      "conditions": {
+        "comparison": "electrochemical vs TBHP radical initiation",
+        "note": "Products obtained in low yield even at elevated temperature"
+      }
+    }
+  ]
+}

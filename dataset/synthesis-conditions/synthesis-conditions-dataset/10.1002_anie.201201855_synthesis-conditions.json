@@ -1,0 +1,63 @@
+{
+  "materials": [
+    {
+      "material_name": "LiH adduct 2",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": ["THF", "toluene"],
+        "amount_of_each_solvent": "2 equiv of THF",
+        "equipment": "not specified",
+        "chemicals_used": ["solid lithium hydride", "FLP 1"],
+        "time": "15 h",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "40 %",
+        "additional_information": "Also obtained in 92 % yield upon treatment of 1 with super hydride Li[HBEt3], by displacement of triethylborane."
+      }
+    },
+    {
+      "material_name": "NaH adduct 3",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": "not specified",
+        "amount_of_each_solvent": "not specified",
+        "equipment": "not specified",
+        "chemicals_used": ["NaH", "FLP 1"],
+        "time": "7 days",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "40 %",
+        "additional_information": "Single-crystal X-ray analysis indicated no interactions with the phosphorus atom in the solid state."
+      }
+    },
+    {
+      "material_name": "KH adduct 4",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": "not specified",
+        "amount_of_each_solvent": "not specified",
+        "equipment": "not specified",
+        "chemicals_used": ["KH", "FLP 1"],
+        "time": "2 days",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "45 %",
+        "additional_information": "Single-crystal X-ray analysis indicated no interactions with the phosphorus atom in the solid state."
+      }
+    },
+    {
+      "material_name": "Triphenylsilane (6)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": ["THF"],
+        "amount_of_each_solvent": "not specified",
+        "equipment": "not specified",
+        "chemicals_used": ["NaH adduct 3", "chlorotriphenylsilane (5)"],
+        "time": "48 h",
+        "washing_method": "not specified",
+        "drying_method": "vacuum distillation",
+        "yield": "Quantitative for the reaction with adduct 3; 76 % yield after vacuum distillation workup when using commercially available NaH and FLP 1 under reflux conditions for 48 h."
+      }
+    }
+  ]
+}

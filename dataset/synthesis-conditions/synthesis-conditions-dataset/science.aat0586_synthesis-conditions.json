@@ -1,0 +1,58 @@
+{
+  "materials": [
+    {
+      "name": "Fe2(O2)(dobdc)",
+      "synthesis_conditions": {
+        "precursors": [
+          "Anhydrous ferrous chloride (FeCl2, 98%)",
+          "2,5-dihydroxyterephthalic acid (98%)",
+          "N,N-dimethylformamide (DMF, anhydrous, 99.8%)",
+          "Methanol (CH3OH, anhydrous, 99.8%)"
+        ],
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide",
+            "amount": "50 mL"
+          },
+          {
+            "name": "Methanol",
+            "amount": "6 mL"
+          }
+        ],
+        "equipment": "100 mL three-neck flask",
+        "atmosphere": "N2",
+        "temperature": "393 K",
+        "time": "18 h",
+        "washing_method": "Methanol exchange repeated six times during 2 days",
+        "drying_method": "Vacuum at 433 K for 18 h",
+        "yield": "Not specified",
+        "modifications": [
+          {
+            "step": "Oxidation",
+            "details": "Pure O2 (> 99.999%) was slowly dosed to the bare Fe2(dobdc) sample to 0.01 bar at a rate of 0.5 mbar/min under 298 K, then the O2 pressure was brought up to 1 bar and the sample was allowed to sit for 1 h to reach equilibrium. At last, the sample was fully evacuated under high vacuum, and the free O2 gas molecules in the pore channels were completely removed."
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cr-BTC(O2)",
+      "synthesis_conditions": {
+        "precursors": "Not specified",
+        "solvents": "Not specified",
+        "equipment": "Not specified",
+        "atmosphere": "Not specified",
+        "temperature": "Not specified",
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "modifications": [
+          {
+            "step": "Not specified",
+            "details": "Synthesized according to the procedure in reference 30."
+          }
+        ]
+      }
+    }
+  ]
+}

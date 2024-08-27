@@ -1,0 +1,35 @@
+{
+  "materials": [
+    {
+      "name": "PCN-777",
+      "synthesis_conditions": {
+        "temperature": "120 8C",
+        "solvents": [
+          {
+            "name": "N,N-diethylformamide (DEF)",
+            "amount": "12 mL"
+          },
+          {
+            "name": "trifluoroacetic acid (TFA)",
+            "amount": "0.6 mL"
+          }
+        ],
+        "equipment": "20 mL Pyrex vial",
+        "chemicals_used": [
+          {
+            "name": "ZrOCl2.8H2O",
+            "amount": "360 mg"
+          },
+          {
+            "name": "TATB (4,4’,4’’-s-triazine-2,4,6-triyl-tri-benzoate)",
+            "amount": "90 mg"
+          }
+        ],
+        "time": "12 h",
+        "drying_method": "filtration",
+        "yield": "white powder product",
+        "additional_information": "The mixture was ultrasonically dissolved before heating."
+      }
+    }
+  ]
+}

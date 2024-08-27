@@ -1,0 +1,94 @@
+{
+  "materials": [
+    {
+      "name": "Co2(dobdc)",
+      "synthesis": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "DMF/ethanol/water",
+            "ratio": "1:1:1",
+            "volume": "900 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H4dobdc",
+            "amount": "2.23 g",
+            "molarity": "11.3 mmol"
+          },
+          {
+            "name": "Co(NO)2·6H2O",
+            "amount": "10.9 g",
+            "molarity": "37.5 mmol"
+          }
+        ],
+        "equipment": "1 L Pyrex jar",
+        "time": "24 h",
+        "washing_method": [
+          {
+            "solvent": "DMF",
+            "temperature": "120 °C",
+            "times": "3 times"
+          },
+          {
+            "solvent": "methanol",
+            "temperature": "60 °C",
+            "times": "3 times"
+          }
+        ],
+        "drying_method": {
+          "temperature": "180 °C",
+          "vacuum": "dynamic",
+          "time": "24 h"
+        },
+        "yield": "Langmuir surface area (N2, 77 K): 1410 m2/g"
+      }
+    },
+    {
+      "name": "Co2(m-dobdc)",
+      "synthesis": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "methanol/DMF",
+            "ratio": "1:1",
+            "volume": "620 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H4(m-dobdc)",
+            "amount": "2.00 g",
+            "molarity": "10.1 mmol"
+          },
+          {
+            "name": "CoCl2",
+            "amount": "3.27 g",
+            "molarity": "25.2 mmol"
+          }
+        ],
+        "equipment": "1 L three-neck round-bottom flask",
+        "time": "18 h",
+        "washing_method": [
+          {
+            "solvent": "DMF",
+            "temperature": "60 °C",
+            "times": "1 time"
+          },
+          {
+            "solvent": "methanol",
+            "temperature": "60 °C",
+            "times": "3 times"
+          }
+        ],
+        "drying_method": {
+          "temperature": "180 °C",
+          "vacuum": "dynamic",
+          "time": "24 h"
+        },
+        "yield": "Langmuir surface area (N2, 77 K): 1500 m2/g"
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "materials": [
+    {
+      "name": "D-POST-1",
+      "synthesis_conditions": {
+        "temperature": "188(2) K",
+        "solvents": [
+          {
+            "name": "MeOH",
+            "amount": "10 mL"
+          },
+          {
+            "name": "water",
+            "amount": "5 mL"
+          }
+        ],
+        "equipment": "Siemens SMART diffractometer",
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2.6H2O",
+            "amount": "0.610 g, 2.54 mmol"
+          },
+          {
+            "name": "L-1",
+            "amount": "0.330 g, 1.24 mmol"
+          },
+          {
+            "name": "NaOH",
+            "purpose": "pH adjustment"
+          }
+        ],
+        "time": "2 days",
+        "washing_method": "MeOH, then acetone",
+        "drying_method": "air-dried",
+        "yield": "44%",
+        "additional_information": "Crystals suitable for X-ray crystallography were obtained when a methanol solution of Zn(NO3)2 (0.1 M) was allowed to diffuse slowly into an aqueous solution of D-1 (0.02 M, pH 8) at room temperature."
+      }
+    },
+    {
+      "name": "Methyl-POST-1",
+      "synthesis_conditions": {
+        "temperature": "room temperature, then 50 oC",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "1.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "1-iodohexane",
+            "amount": "4.038 g, 28.45 mmol"
+          },
+          {
+            "name": "D-POST-1",
+            "amount": "154 mg"
+          }
+        ],
+        "time": "5 hours",
+        "washing_method": "ethanol and acetone",
+        "drying_method": "air-dried",
+        "yield": "55%",
+        "additional_information": "Degree of N-methylation was monitored by 1H NMR spectroscopy."
+      }
+    },
+    {
+      "name": "Hexyl-POST-1",
+      "synthesis_conditions": {
+        "temperature": "room temperature, then 50 oC",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "methyl iodide",
+            "amount": "3.968 g, 27.96 mmol"
+          },
+          {
+            "name": "POST-1",
+            "amount": "156 mg"
+          }
+        ],
+        "time": "2 hours",
+        "washing_method": "ethanol and acetone",
+        "drying_method": "air-dried",
+        "yield": "76%",
+        "additional_information": "Degree of N-methylation was monitored by 1H NMR spectroscopy."
+      }
+    }
+  ]
+}

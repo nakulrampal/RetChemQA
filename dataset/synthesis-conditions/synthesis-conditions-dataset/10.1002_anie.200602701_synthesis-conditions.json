@@ -1,0 +1,116 @@
+{
+  "materials": [
+    {
+      "name": "cyclopropenylidene–lithium adduct 3 (X = BF4)",
+      "synthesis_conditions": [
+        {
+          "step": "lithium/halogen exchange reaction",
+          "temperature": "-78 °C",
+          "solvents": [
+            {
+              "name": "diethyl ether",
+              "amount": "80 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "nBuLi",
+              "amount": "1 equiv"
+            },
+            {
+              "name": "1 (X = BF4) or 2 (X = BF4)",
+              "amount": "3.00 g"
+            }
+          ],
+          "time": "15 minutes",
+          "additional_steps": [
+            {
+              "step": "warming to room temperature",
+              "temperature": "room temperature"
+            },
+            {
+              "step": "concentration in vacuum"
+            },
+            {
+              "step": "washing with hexane",
+              "solvent": "hexane",
+              "amount": "40 mL"
+            },
+            {
+              "step": "recrystallization",
+              "solvent": "diethyl ether",
+              "temperature": "-25 °C"
+            }
+          ],
+          "yield": "45% from 1, 48% from 2",
+          "product_form": "colorless crystals",
+          "melting_point": "88–90 °C (decomp)"
+        }
+      ]
+    },
+    {
+      "name": "tertiary complex 5",
+      "synthesis_conditions": [
+        {
+          "step": "reaction with [12]crown-4",
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "diethyl ether",
+              "amount": "60 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "[12]crown-4",
+              "amount": "2 equiv"
+            },
+            {
+              "name": "3",
+              "amount": "2.00 g"
+            }
+          ],
+          "additional_steps": [
+            {
+              "step": "washing with hexane",
+              "solvent": "hexane",
+              "amount": "40 mL"
+            },
+            {
+              "step": "drying in vacuum"
+            },
+            {
+              "step": "recrystallization",
+              "solvent": "THF/Et2O (50/50)",
+              "temperature": "-25 °C"
+            }
+          ],
+          "yield": "60%",
+          "product_form": "yellow crystals",
+          "melting_point": "105–107 °C (decomp)"
+        }
+      ]
+    },
+    {
+      "name": "free cyclopropenylidene 4",
+      "synthesis_conditions": [
+        {
+          "step": "deprotonation",
+          "temperature": "not specified",
+          "chemicals_used": [
+            {
+              "name": "nBuLi or potassium bis(trimethylsilyl)amide",
+              "note": "nBuLi results in lithium complex 3, potassium bis(trimethylsilyl)amide results in free cyclopropenylidene 4"
+            },
+            {
+              "name": "2 (X = BF4)",
+              "note": "using BPh4 as a counteranion results in 20% yield"
+            }
+          ],
+          "yield": "53% with potassium bis(trimethylsilyl)amide",
+          "note": "The presence of K+ ions does not prevent the isolation of the free carbene 4."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula and formula weight of compound 1 at 120 K?",
+      "answer": "The empirical formula is C40H54N10FeIAuO8 and the formula weight is 1182.65.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the crystal system and space group of compound 2 at 245 K?",
+      "answer": "The crystal system is orthorhombic and the space group is Cmme.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the volume and density of compound 3 at 120 K?",
+      "answer": "The volume is 1145.75 Å3 and the density is 1.846 g/cm3.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the Fe-N bond lengths in compound 4 at 120 K?",
+      "answer": "The Fe-N bond lengths are 1.98 Å, 2.02 Å, and 2.01 Å.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the spin state energy difference calculated using the R2SCAN functional compare between compounds 1 and 4?",
+      "answer": "The spin state energy difference for compound 1 is 20.8 kcal/mol, and for compound 4, it is 16.5 kcal/mol using the R2SCAN functional.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the change in the dihedral angle between the pyridine and phenyl ring of TPB ligand from compound 1 to compound 2?",
+      "answer": "The dihedral angle changes from 49.0° in compound 1 to 45.6° in compound 2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystal system of compound 3 changes from orthorhombic at 120 K to monoclinic at higher temperatures.",
+      "answer": "False, the crystal system of compound 3 remains orthorhombic at all mentioned temperatures.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The Fe-N bond lengths in compound 4 are longer than those in compound 1.",
+      "answer": "True, the Fe-N bond lengths in compound 4 are longer than those in compound 1.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of temperature on the crystal volume of compound 2?",
+      "answer": "The crystal volume of compound 2 increases as the temperature increases from 120 K to 298 K.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The cooperative effect parameter (Hcoop) indicates that the HS to LS transition is more hindered for the environment in compound 3 compared to compound 4.",
+      "answer": "True, the negative Hcoop value for compound 3 indicates that the HS to LS transition is more hindered for the environment compared to compound 4.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

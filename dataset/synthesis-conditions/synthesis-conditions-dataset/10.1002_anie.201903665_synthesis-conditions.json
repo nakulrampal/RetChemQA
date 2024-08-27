@@ -1,0 +1,79 @@
+{
+  "materials": [
+    {
+      "name": "TMOF-5(Cl)",
+      "synthesis_conditions": {
+        "temperature": "solventothermal reaction temperature not specified",
+        "solvents": ["DMF", "EtOH"],
+        "amount_of_each_solvent": "not specified",
+        "equipment": "not specified",
+        "chemicals_used": ["PbCl2", "bdc", "perchloric acid"],
+        "time": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "high yields",
+        "additional_information": "Forms needle-like colorless crystals. Exhibits large Stokes-shifted broadband photoemissions covering the full range of the visible spectrum (420–760 nm) with a maximum emission wavelength at ~560 nm."
+      }
+    },
+    {
+      "name": "TMOF-5(Br)",
+      "synthesis_conditions": {
+        "temperature": "not specified",
+        "solvents": "not specified",
+        "amount_of_each_solvent": "not specified",
+        "equipment": "not specified",
+        "chemicals_used": "Isostructural substitution of Cl atoms by Br in TMOF-5(Cl)",
+        "time": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "high yields and high phase purity",
+        "additional_information": "Exhibits large Stokes-shifted broadband photoemissions. CIE chromaticity coordinates of (0.37, 0.39) close to pure white light (0.33, 0.33), CCT of 4258 K, and an ultrahigh CRI of 89."
+      }
+    },
+    {
+      "name": "TMOF-5(I)",
+      "synthesis_conditions": {
+        "temperature": "not specified",
+        "solvents": "not specified",
+        "amount_of_each_solvent": "not specified",
+        "equipment": "not specified",
+        "chemicals_used": "Isostructural substitution of Cl atoms by I in TMOF-5(Cl)",
+        "time": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "high yields and high phase purity",
+        "additional_information": "Exhibits large Stokes-shifted broadband photoemissions."
+      }
+    },
+    {
+      "name": "TMOF-6(Br)",
+      "synthesis_conditions": {
+        "temperature": "not specified",
+        "solvents": "not specified",
+        "amount_of_each_solvent": "not specified",
+        "equipment": "not specified",
+        "chemicals_used": ["Pb3Br", "bpdc"],
+        "time": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified",
+        "additional_information": "Consists of a new bromoplumbate structure motif with decreased structural distortion. Exhibits a narrow UV–blue emission centered at 402 nm."
+      }
+    },
+    {
+      "name": "Eu3+@TMOF-5(Br)",
+      "synthesis_conditions": {
+        "temperature": "not specified",
+        "solvents": ["DMF"],
+        "amount_of_each_solvent": "not specified",
+        "equipment": "not specified",
+        "chemicals_used": ["TMOF-5(Br)", "Eu3+"],
+        "time": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "0.2 mol %-exchanged and 2 mol %-exchanged",
+        "additional_information": "Cation exchange performed by incubation of TMOF-5(Br) in DMF solution containing 1 mol % Eu3+ to afford 0.2 mol %-exchanged Eu3+@TMOF-5(Br). Exhibits characteristic 5D0–7FJ transition of Eu3+ at 593 nm, 616 nm, and 700 nm along with the broadband photoemission from the parent TMOF-5."
+      }
+    }
+  ]
+}

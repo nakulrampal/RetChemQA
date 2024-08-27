@@ -1,0 +1,76 @@
+{
+  "materials": [
+    {
+      "name": "DUT-80",
+      "synthesis_conditions": {
+        "method": "solvothermal reaction",
+        "precursors": ["H2CDC", "ZrCl4"],
+        "solvents": ["DMF", "acetic acid"],
+        "modulator": "acetic acid",
+        "product_form": "colorless rod shaped crystals",
+        "crystal_data": {
+          "formula": "Zr6O2(OH)6(CDC)4(HCOO)4(CH3COO)2",
+          "molecular_weight": 2282.58,
+          "space_group": "orthorhombic Pmmn",
+          "a": 17.280,
+          "b": 20.570,
+          "c": 14.570,
+          "volume": 5178.9,
+          "Z": 2,
+          "density_calculated": 1.464,
+          "R1": 0.0816,
+          "wR2": 0.3191,
+          "GOF": 1.091
+        }
+      }
+    },
+    {
+      "name": "DUT-98as",
+      "synthesis_conditions": {
+        "method": "reaction",
+        "precursors": ["H3CPCDC", "ZrCl4"],
+        "solvents": ["DMF"],
+        "product_form": "crystals",
+        "crystal_data": {
+          "formula": "C84H52N4O36Zr6",
+          "molecular_weight": 2240.61,
+          "space_group": "tetragonal P4/n",
+          "a": 24.450,
+          "c": 14.630,
+          "volume": 8746,
+          "Z": 2,
+          "density_calculated": 0.851,
+          "R1": 0.0906,
+          "wR2": 0.3026,
+          "GOF": 1.128
+        },
+        "thermal_stability": "up to 450 88C",
+        "acid_resistance": "no decomposition in 2 m–6 m HCl for 24 h",
+        "desolvation_method": "supercritical CO2 extraction"
+      }
+    },
+    {
+      "name": "DUT-98cp",
+      "synthesis_conditions": {
+        "method": "structural transition upon solvent removal",
+        "crystal_data": {
+          "formula": "C84H56N4O38Zr6",
+          "molecular_weight": 2276.64,
+          "space_group": "triclinic P1¯",
+          "a": 10.630,
+          "b": 14.490,
+          "c": 18.010,
+          "alpha": 111.74,
+          "beta": 105.82,
+          "gamma": 92.75,
+          "volume": 2444.5,
+          "Z": 1,
+          "density_calculated": 1.547,
+          "R1": 0.1429,
+          "wR2": 0.4315,
+          "GOF": 1.057
+        }
+      }
+    }
+  ]
+}

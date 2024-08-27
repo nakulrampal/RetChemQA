@@ -1,0 +1,54 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "solvents": "DMF",
+        "amount_of_solvent": "15 mL",
+        "equipment": "teflon-lined steel bomb",
+        "chemicals_used": [
+          "Zn(NO3)2·6H2O (450 mg, 1.5 mmol)",
+          "4-(pyridin-4-yl)benzoic acid (Hpybz) (199 mg, 1.0 mmol)",
+          "DL-H2lac (90 mg, 1 mmol)",
+          "triethylamine (0.3 mL)"
+        ],
+        "time": "2 days",
+        "cooling_rate": "10 °C h-1",
+        "washing_method": "washed with DMF",
+        "drying_method": "dried in vacuum for 3 minutes",
+        "yield": "60% (based on Zn)"
+      }
+    },
+    {
+      "name": "1'",
+      "synthesis_conditions": {
+        "preparation_method": [
+          {
+            "description": "By immersion of the single crystals of 1 in methanol for 24 h for guest exchange.",
+            "solvents": "methanol"
+          },
+          {
+            "description": "Heating the guest-changed single crystal of 1·yMeOH under N2 atmosphere.",
+            "temperature": "100 ºC",
+            "time": "3 hours",
+            "atmosphere": "N2"
+          }
+        ]
+      }
+    },
+    {
+      "name": "1' ⊃ 3I2",
+      "synthesis_conditions": {
+        "preparation_method": "Impregnation of the desolvated single crystals of 1′ (100 mg) immersed in I2 containing cyclohexane solutions (0.1 M/L, 3.0 mL) for 40 h.",
+        "solvents": "cyclohexane solution of I2 (0.1 M/L)",
+        "time": "40 h",
+        "post_treatment": [
+          {
+            "description": "Washing with cyclohexane and drying in air."
+          }
+        ]
+      }
+    }
+  ]
+}

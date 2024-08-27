@@ -1,0 +1,49 @@
+{
+  "materials": [
+    {
+      "name": "CSDAB",
+      "synthesis_routes": [
+        {
+          "route": "1",
+          "chemicals_used": "Co(NO3)2·6H2O (98% Aldrich, 1.273 g), 1,4-diazabicyclo[2,2,2]octane (98% Aldrich, 0.337 g), sulfuric acid solution (0.44 cm3 of concentrated sulfuric acid (98% Aldrich) in 9.00 cm3 of deionized water), KOH aqueous solution (4.40 cm3 of a 6 M solution), aluminum isopropoxide (Al[(CH3)2CHO]3, 0.1276 g)",
+          "temperature": "200 °C",
+          "time": "30 h",
+          "equipment": "sealed hydrothermal bomb with a Teflon liner (22 cm3 volume and 70% fill factor)",
+          "cooling_rate": "0.40 °C min-1",
+          "washing_method": "deionized water and acetone",
+          "yield": "sensitive to reaction composition, temperature, and cooling rate"
+        },
+        {
+          "route": "2",
+          "chemicals_used": "Co(NO3)2·6H2O (3.0 g), Na2SO4 (1.5 g), DABCO (0.77 g), NaOH solution (0.26 g in 40 mL of distilled water)",
+          "temperature": "170 °C",
+          "time": "3 days",
+          "equipment": "PTFE-lined autoclave",
+          "cooling_method": "water bath to room temperature",
+          "yield": "blue microcrystals, identical to route 1 by powder X-ray diffraction"
+        }
+      ]
+    },
+    {
+      "name": "CSEN",
+      "synthesis_routes": [
+        {
+          "route": "1",
+          "chemicals_used": "Co(NO3)2·6H2O, H2SO4, ethylenediamine, KOH, and water with molar ratio of 1:2:0.6:5.4:100, respectively",
+          "temperature": "150 °C",
+          "time": "3 days",
+          "yield": "blue platelike crystals"
+        },
+        {
+          "route": "2",
+          "chemicals_used": "Co(NO3)2·6H2O (3.0 g), Na2SO4 (0.75 g), ethylenediamine (∼1.38 g), NaOH solution (0.41 g in 40 mL of distilled water)",
+          "temperature": "170 °C",
+          "time": "3 days",
+          "washing_method": "water and acetone",
+          "drying_method": "air",
+          "yield": "blue microcrystals"
+        }
+      ]
+    }
+  ]
+}

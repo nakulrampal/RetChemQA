@@ -1,0 +1,133 @@
+{
+  "materials": [
+    {
+      "material": "2,3‘-Dicyanodiphenylacetylene (2,3‘-DCPA, 1)",
+      "synthesis_conditions": {
+        "temperature": "75 °C",
+        "solvents": [
+          {
+            "name": "triethylamine",
+            "amount": "100 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "2-bromobenzonitrile",
+            "amount": "5.01 g",
+            "molarity": "27.52 mmol"
+          },
+          {
+            "name": "Pd(dba)2",
+            "amount": "0.32 g",
+            "molarity": "0.56 mmol"
+          },
+          {
+            "name": "CuI",
+            "amount": "0.11 g",
+            "molarity": "0.58 mmol"
+          },
+          {
+            "name": "Ph3P",
+            "amount": "0.72 g",
+            "molarity": "2.75 mmol"
+          },
+          {
+            "name": "(trimethylsilyl)acetylene",
+            "amount": "6.0 mL",
+            "molarity": "42.46 mmol"
+          }
+        ],
+        "time": "21 h",
+        "yield": "80%",
+        "washing_method": "Column chromatography (15/1 hexane/ethyl acetate (v:v))",
+        "drying_method": "Concentration in vacuo"
+      }
+    },
+    {
+      "material": "2,2‘-Dicyanodiphenylacetylene (2,2‘-DCPA, 2)",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "triethylamine",
+            "amount": "30 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "2-bromobenzonitrile",
+            "amount": "1.43 g",
+            "molarity": "7.86 mmol"
+          },
+          {
+            "name": "Pd(dba)2",
+            "amount": "0.08 g",
+            "molarity": "0.14 mmol"
+          },
+          {
+            "name": "CuI",
+            "amount": "0.03 g",
+            "molarity": "0.16 mmol"
+          },
+          {
+            "name": "Ph3P",
+            "amount": "0.19 g",
+            "molarity": "0.72 mmol"
+          },
+          {
+            "name": "2-ethynylbenzonitrile",
+            "amount": "0.89 g",
+            "molarity": "7.00 mmol"
+          }
+        ],
+        "time": "20 h",
+        "yield": "59%",
+        "washing_method": "Column chromatography (4/1 CH2Cl2/hexane (v:v))",
+        "drying_method": "Concentration in vacuo"
+      }
+    },
+    {
+      "material": "2,4‘-Dicyanodiphenylacetylene (2,4‘-DCPA, 3)",
+      "synthesis_conditions": {
+        "temperature": "75 °C",
+        "solvents": [
+          {
+            "name": "triethylamine",
+            "amount": "30 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "2-bromobenzonitrile",
+            "amount": "1.19 g",
+            "molarity": "6.54 mmol"
+          },
+          {
+            "name": "4-ethynylbenzonitrile",
+            "amount": "0.75 g",
+            "molarity": "5.90 mmol"
+          },
+          {
+            "name": "Pd(dba)2",
+            "amount": "0.07 g",
+            "molarity": "0.12 mmol"
+          },
+          {
+            "name": "CuI",
+            "amount": "0.02 g",
+            "molarity": "0.11 mmol"
+          },
+          {
+            "name": "Ph3P",
+            "amount": "0.16 g",
+            "molarity": "0.61 mmol"
+          }
+        ],
+        "time": "24 h",
+        "yield": "70%",
+        "washing_method": "Column chromatography (CH2Cl2)",
+        "drying_method": "Concentration in vacuo"
+      }
+    }
+  ]
+}

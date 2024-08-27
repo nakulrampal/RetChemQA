@@ -1,0 +1,61 @@
+{
+  "materials": [
+    {
+      "name": "[Pt2(n-pentylCS2)4I]",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "chemicals_used": "[Pt2(n-pentylCS2)4], I2, toluene, n-hexane",
+          "solvents": "toluene (1 mL for I2 solution, 6 mL for [Pt2(n-pentyl-CS2)4] solution), n-hexane (4 mL)",
+          "amount_of_each_solvent": {
+            "toluene_for_I2": "1 mL",
+            "toluene_for_[Pt2(n-pentyl-CS2)4]": "6 mL",
+            "n-hexane": "4 mL"
+          },
+          "procedure": "I2 solution in toluene added dropwise to [Pt2(n-pentyl-CS2)4] solution in toluene under Ar atmosphere, reduced to 3 mL, added 4 mL n-hexane, kept at 4°C for 24h",
+          "yield": "43%",
+          "washing_method": "washed with cold n-hexane (3 x 3 mL)",
+          "drying_method": "dried under vacuum"
+        },
+        {
+          "step": "Data Collections on Single Crystals",
+          "temperature": ["100 K (LT)", "298 K (RT)", "350 K (HT)"],
+          "equipment": "Xcalibur diffractometer with an area detector",
+          "radiation": "graphite monochromated Mo Ka radiation (λ = 0.71069 Å)"
+        },
+        {
+          "step": "Conductivity Measurements",
+          "procedure": "DC electrical conductivity measured with four contacts method, Pt wires and graphite paste used for contacts, measured in Quantum Design PPMS-9 with DC currents 10–100 nA, two sequences of temperature changes used",
+          "temperature_sequences": [
+            "300 to 100 K then warmed to 300 K",
+            "300 to 400 K then cooled to 100 K followed by heating from 100 to 400 K"
+          ]
+        },
+        {
+          "step": "Magnetic Measurements",
+          "temperature_range": "2–350 K",
+          "magnetic_field": "1 T",
+          "equipment": "Quantum Design MPMS-XL-5 SQUID magnetometer"
+        },
+        {
+          "step": "Adsorption of MMX Fibers on Mica",
+          "solvent": "THF",
+          "procedure": "1 mg of [Pt2(n-pentylCS2)4I] in 1 mL THF sonicated for 1 h at 30°C, diluted, deposited on freshly exfoliated Muscovite mica, left in air for solvent evaporation"
+        },
+        {
+          "step": "Formation of MMX Nanocrystals on Mica",
+          "solvent": "1:1 hexane/toluene mixture",
+          "procedure": "1 mg of [Pt2(n-pentylCS2)4I] in 1 mL solvent mixture sonicated for 15 min at 30°C, diluted to 0.1 g L-1, deposited on freshly exfoliated Muscovite mica, left in air for solvent evaporation"
+        },
+        {
+          "step": "Electrical Characterization on the Surface",
+          "procedure": "Macroscopic gold electrode evaporated on samples at 10-7 mbar, conductive Au/Pd tips prepared by sputtering, AFM used for topographic images and conductance measurements"
+        },
+        {
+          "step": "DFT Calculations",
+          "procedure": "Ground-state electronic structure obtained via single-point ab initio calculations based on plane-wave ultrasoft-pseudopotential implementation of DFT, PBE generalized gradient approximation used, calculations performed for LT, RT, and HT crystal phases"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "materials": [
+    {
+      "name": "Cu2Cl2(BVD)",
+      "synthesis_conditions": {
+        "method_a": {
+          "solvents": [
+            {
+              "name": "chloroform",
+              "amount": "2 mL"
+            },
+            {
+              "name": "methanol",
+              "amount": "2 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "BVD",
+              "amount": "50 mg"
+            },
+            {
+              "name": "copper(II) chloride dihydrate",
+              "amount": "68 mg"
+            }
+          ],
+          "time": "24 h",
+          "product": {
+            "amount": "65 mg",
+            "yield": "72%",
+            "characterization": {
+              "IR": "1699 cm-1"
+            },
+            "X-ray_powder_diffraction": {
+              "crystal_system": "orthorhombic",
+              "dimensions": {
+                "a": "6.684 Å",
+                "b": "12.524 Å",
+                "c": "8.717 Å"
+              }
+            }
+          }
+        },
+        "method_b": {
+          "solvents": [
+            {
+              "name": "chloroform",
+              "amount": "2 mL"
+            },
+            {
+              "name": "acetonitrile",
+              "amount": "2 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "BVD",
+              "amount": "99 mg"
+            },
+            {
+              "name": "CuCl",
+              "amount": "82 mg"
+            }
+          ],
+          "time": "24 h",
+          "product": {
+            "amount": "157 mg",
+            "yield": "84%",
+            "characterization": {
+              "IR": "identical to method a"
+            },
+            "X-ray_powder_diffraction": "identical to method a"
+          }
+        }
+      }
+    },
+    {
+      "name": "Cu2Br2(BVD)",
+      "synthesis_conditions": {
+        "method_a": {
+          "solvents": [
+            {
+              "name": "methanol",
+              "amount": "solution"
+            },
+            {
+              "name": "chloroform",
+              "amount": "solution"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "copper(II) bromide",
+              "amount": "90 mg"
+            },
+            {
+              "name": "BVD",
+              "amount": "50 mg"
+            }
+          ],
+          "time": "48 h",
+          "product": {
+            "characterization": {
+              "IR": "1695 cm-1"
+            },
+            "crystal_data": "provided in Table 2"
+          }
+        },
+        "method_b": {
+          "solvents": [
+            {
+              "name": "chloroform",
+              "amount": "2 mL"
+            },
+            {
+              "name": "acetonitrile",
+              "amount": "2 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "BVD",
+              "amount": "113 mg"
+            },
+            {
+              "name": "copper(I) bromide",
+              "amount": "164 mg"
+            }
+          ],
+          "time": "15 h",
+          "product": {
+            "amount": "164 mg",
+            "yield": "77%"
+          }
+        }
+      }
+    },
+    {
+      "name": "Cu2I2(BVD)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "4 mL"
+          },
+          {
+            "name": "chloroform",
+            "amount": "2 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "copper(I) iodide",
+            "amount": "76 mg"
+          },
+          {
+            "name": "BVD",
+            "amount": "50 mg"
+          }
+        ],
+        "time": "24 h",
+        "product": {
+          "amount": "82 mg",
+          "yield": "65%",
+          "characterization": {
+            "IR": "1707 cm-1"
+          },
+          "X-ray_powder_diffraction": {
+            "crystal_system": "monoclinic",
+            "dimensions": {
+              "a": "12.669 Å",
+              "b": "8.461 Å",
+              "c": "7.679 Å",
+              "beta": "91.88°"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

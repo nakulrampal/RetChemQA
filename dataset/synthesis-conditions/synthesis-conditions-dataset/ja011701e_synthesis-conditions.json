@@ -1,0 +1,86 @@
+{
+  "materials": [
+    {
+      "material": "Zinc Formate Dihydrate",
+      "synthesis": [
+        {
+          "step": "X-ray Crystallography",
+          "details": {
+            "equipment": "Rigaku AFC6S automatic diffractometer",
+            "radiation": "graphite-monochromated Mo Kα radiation",
+            "temperature": "20°C",
+            "software": "TEXSAN structure solving program",
+            "corrections_applied": [
+              "Lorentz-polarization (Lp) corrections",
+              "Anomalous dispersion corrections",
+              "Absorption correction (DIFABS)"
+            ],
+            "computer": "Silicon Graphics Indigo2"
+          }
+        },
+        {
+          "step": "Solid-State 67Zn NMR",
+          "details": {
+            "isotope_labeling": "67Zn at 88%",
+            "temperature": "ambient temperature",
+            "equipment": [
+              {
+                "type": "spectrometer",
+                "model": "Varian Unityplus",
+                "magnet": "Oxford Instruments magnet",
+                "field_strength": "11.7 T",
+                "frequencies": {
+                  "1H": "500 MHz",
+                  "67Zn": "31.297 MHz"
+                }
+              },
+              {
+                "type": "spectrometer",
+                "model": "Varian UnityInova",
+                "magnet": "Oxford Instruments magnet (medium-bore, 63 mm)",
+                "field_strength": "18.8 T",
+                "frequencies": {
+                  "1H": "800 MHz",
+                  "67Zn": "50.048 MHz"
+                }
+              }
+            ],
+            "probes": [
+              {
+                "type": "5 mm Doty Scientific (DSI) wide-line probe"
+              },
+              {
+                "type": "home-built 5 mm wide-line probe"
+              }
+            ],
+            "pulse_sequences": [
+              "quadrupole echo (QE)",
+              "cross polarization (CP) combined with a quadrupole echo"
+            ],
+            "pulse_widths": {
+              "DSI_probe": {
+                "1H_during_CP": "3 μs π/2",
+                "67Zn": {
+                  "nonselective": "5 μs",
+                  "selective_pi/2_pulse": "1.7 μs"
+                }
+              },
+              "18.8_T": {
+                "selective_pulse_widths": {
+                  "pi/2": "1.8 μs",
+                  "pi": "3.6 μs"
+                }
+              }
+            },
+            "single_crystal_NMR_measurements": "Unityplus 500 spectrometer using a Doty Scientific single-crystal probe",
+            "analysis_software": [
+              "ASICS",
+              "STARS on a SUN Microsystems Ultra 10 computer"
+            ],
+            "chemical_shift_reference": "0.5 M Zn(OAc)2 solution"
+          }
+        }
+      ]
+    }
+  ]
+}

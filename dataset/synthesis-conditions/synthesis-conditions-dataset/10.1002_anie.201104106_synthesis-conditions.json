@@ -1,0 +1,95 @@
+{
+  "materials": [
+    {
+      "name": "[Zn2(cca)2(4-spy)2] (1)",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "EtOH",
+            "amount": "1 mL"
+          },
+          {
+            "name": "water",
+            "amount": "1 mL"
+          },
+          {
+            "name": "DMF",
+            "amount": "1 mL"
+          },
+          {
+            "name": "MeOH",
+            "amount": "1 mL"
+          }
+        ],
+        "equipment": "Layering technique",
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6 H2O",
+            "amount": "30 mg, 0.1 mmol"
+          },
+          {
+            "name": "sodium salt of 4-carboxycinnamic acid",
+            "amount": "19.2 mg, 0.1 mmol"
+          },
+          {
+            "name": "4-styrylpyridine (4-spy)",
+            "amount": "24 mg, 0.133 mmol"
+          }
+        ],
+        "time": "Within a week",
+        "washing_method": "Washed with DMF and MeOH",
+        "yield": "31 mg, 72 %"
+      }
+    },
+    {
+      "name": "[Zn2(cca)2(rctt-4-ppcb)] (2)",
+      "synthesis_conditions": {
+        "precursor": "[Zn2(cca)2(4-spy)2] (1)",
+        "irradiation_source": "UV",
+        "irradiation_time": "90 min",
+        "temperature": "Room temperature",
+        "solvent_for_NMR": "[D6]DMSO/HNO3",
+        "NMR_frequency": "300 MHz",
+        "NMR_temperature": "298 K"
+      }
+    },
+    {
+      "name": "[Zn2(ndc)2(4-spy)2] (3)",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "Not specified"
+          }
+        ],
+        "equipment": "Similar method as for 1",
+        "chemicals_used": [
+          {
+            "name": "K2ndc instead of Na2cca",
+            "amount": "Not specified"
+          }
+        ],
+        "time": "Within few days",
+        "yield": "60 %",
+        "solvent_for_NMR": "[D6]DMSO/HNO3",
+        "NMR_frequency": "300 MHz",
+        "NMR_temperature": "298 K"
+      }
+    },
+    {
+      "name": "[Zn2(ndc)2(rctt-4-ppcb)] (4)",
+      "synthesis_conditions": {
+        "precursor": "[Zn2(ndc)2(4-spy)2] (3)",
+        "irradiation_source": "UV",
+        "irradiation_time": "90 min",
+        "temperature": "Room temperature",
+        "solvent_for_NMR": "[D6]DMSO/HNO3",
+        "NMR_frequency": "300 MHz",
+        "NMR_temperature": "298 K",
+        "note": "Crystals lose single crystallinity during irradiation"
+      }
+    }
+  ]
+}

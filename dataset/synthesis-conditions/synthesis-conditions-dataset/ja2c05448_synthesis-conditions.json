@@ -1,0 +1,50 @@
+{
+  "materials": [
+    {
+      "name": "ZUL-C1",
+      "synthesis_conditions": {
+        "temperature": "433 K",
+        "solvents": "DMF",
+        "amount_of_solvent": "2.75 ml",
+        "equipment": "Stirring",
+        "chemicals_used": [
+          {
+            "name": "AlCl3⋅6H2O",
+            "amount": "0.089 g, 0.37 mmol"
+          },
+          {
+            "name": "H2bpdc",
+            "amount": "0.061 g, 0.39 mmol"
+          }
+        ],
+        "time": "24 hours",
+        "washing_method": "Washed with 10 ml DMF and 10 ml methanol for three times each",
+        "drying_method": "Dried and degassed under high vacuum (< 10 µmHg) at 393 K for 24 h",
+        "yield": "64 mg; 88.3%"
+      }
+    },
+    {
+      "name": "ZUL-C2",
+      "synthesis_conditions": {
+        "temperature": "433 K",
+        "solvents": "DMF",
+        "amount_of_solvent": "2.75 ml",
+        "equipment": "Stirring",
+        "chemicals_used": [
+          {
+            "name": "AlCl3⋅6H2O",
+            "amount": "0.089 g, 0.37 mmol"
+          },
+          {
+            "name": "H2cdc",
+            "amount": "0.075 g, 0.39 mmol"
+          }
+        ],
+        "time": "24 hours",
+        "washing_method": "Washed with 10 ml DMF and 10 ml methanol for three times each",
+        "drying_method": "Dried and degassed under high vacuum (< 10 µmHg) at 393 K for 24 h",
+        "yield": "79 mg; 91.2%"
+      }
+    }
+  ]
+}

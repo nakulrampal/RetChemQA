@@ -1,0 +1,41 @@
+{
+  "materials": [
+    {
+      "name": "Mn-MOF-1",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "7 mL"
+          }
+        ],
+        "equipment": "Teflon-lined stainless-steel vessel (20 mL)",
+        "chemicals_used": [
+          {
+            "name": "H4DPP",
+            "amount": "0.0097 g, 0.02 mmol"
+          },
+          {
+            "name": "MnCl2·6H2O",
+            "amount": "0.0197 g, 0.1 mmol"
+          }
+        ],
+        "time": "1.5 days",
+        "washing_method": "repeatedly with water",
+        "drying_method": "filtration",
+        "yield": "54% (based on H4DPP)"
+      }
+    },
+    {
+      "name": "Mn-MOF-1a",
+      "synthesis_conditions": {
+        "activation_method": "immersed into methanol, stirred for three days, supernatant replaced with fresh methanol every 8 h, then heated at 120 °C under vacuum for 10 h"
+      }
+    }
+  ]
+}

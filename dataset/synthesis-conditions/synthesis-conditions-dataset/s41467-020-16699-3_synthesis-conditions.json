@@ -1,0 +1,72 @@
+{
+  "materials": [
+    {
+      "name": "{Cu6Ca[(S,S)-serimox]3(OH)2(H2O)}.39H2O",
+      "synthesis_conditions": {
+        "reference": "previously reported"
+      }
+    },
+    {
+      "name": "Brutieridin",
+      "synthesis_conditions": {
+        "reference": "literature procedures"
+      }
+    },
+    {
+      "name": "(1a)@{CaIICuII6[(S,S)-serimox]3(OH)2(H2O)}.19H2O",
+      "synthesis_conditions": {
+        "solvent": "saturated water solutions of sucrose octaacetate",
+        "temperature": "50 °C",
+        "time": "48 hours",
+        "drying_method": "air-dried",
+        "yield": {
+          "C": {
+            "calculated": "23.52%",
+            "found": "23.50%"
+          },
+          "H": {
+            "calculated": "4.26%",
+            "found": "4.21%"
+          },
+          "N": {
+            "calculated": "4.33%",
+            "found": "4.36%"
+          }
+        },
+        "IR": [
+          "1625 cm–1 (C=O)",
+          "1611 cm–1 (C=O)",
+          "1610 cm–1 (C=O)"
+        ]
+      }
+    },
+    {
+      "name": "(11a)@{CaIICuII6[(S,S)-serimox]3(OH)2(H2O)}.15H2O",
+      "synthesis_conditions": {
+        "solvent": "saturated acetonitrile solution containing hesperetin 7-(2''-R-rhamnosyl-6''-(3''''-hydroxy-3''''-methylglutaryl)-glucoside) (brutieridin 11)",
+        "solvent_exchange": "acetonitrile, daily for a week",
+        "time": "two weeks",
+        "drying_method": "air-dried",
+        "yield": {
+          "C": {
+            "calculated": "23.44%",
+            "found": "23.39%"
+          },
+          "H": {
+            "calculated": "4.04%",
+            "found": "4.01%"
+          },
+          "N": {
+            "calculated": "4.56%",
+            "found": "4.57%"
+          }
+        },
+        "IR": [
+          "1637 cm-1 (C=O)",
+          "1613 cm-1 (C=O)",
+          "1608 cm-1 (C=O)"
+        ]
+      }
+    }
+  ]
+}

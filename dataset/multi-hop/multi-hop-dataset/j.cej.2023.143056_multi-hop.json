@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "type": "factual",
+      "question": "What method was used to collect the single crystal diffraction data for the MOF?",
+      "answer": "A Bruker SMART APEX II CCD single crystal diffractometer was used to collect the single crystal diffraction data.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "factual",
+      "question": "What was the purpose of using the SQUEEZE routine of the Platon program in the refinement process?",
+      "answer": "The SQUEEZE routine of the Platon program was applied in refining because the disordered solvent molecules in the structure could not be located.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "factual",
+      "question": "How were the as-synthesized samples prepared for gas sorption experiments?",
+      "answer": "The as-synthesized samples were immersed in acetone for 3 days, with the solvent decanted and freshly replenished three times a day, and then activated under vacuum at 333 K for 4 hours.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "factual",
+      "question": "What was the flow rate and composition of the mixed gas used in the breakthrough experiments?",
+      "answer": "The mixed gas used in the breakthrough experiments had a composition of gas A: gas B: Ar = 5% : 5% : 90%, with Ar as the carrier gas, and a flow rate of 5 mL min-1.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "factual",
+      "question": "What parameters were modeled with the universal force field in the GCMC simulations?",
+      "answer": "All parameters for the atoms were modeled with the universal force field (UFF) embedded in the MS modeling package during the GCMC simulations.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "factual",
+      "question": "What was the outcome of the transient breakthrough simulations for 1a?",
+      "answer": "The transient breakthrough simulations for 1a showed an excellent match between the experiments and simulations, determining the productivities of 99.9% pure C2H4.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "reasoning",
+      "question": "Why was acetone used for immersing the as-synthesized samples before gas sorption experiments?",
+      "answer": "Acetone was used to ensure the removal of any residual solvents or impurities, preparing the samples in a consistent state for accurate gas sorption measurements.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "reasoning",
+      "question": "How does the use of Argon in the breakthrough experiments and regeneration process affect the MOF's performance?",
+      "answer": "Argon, being inert, ensures that the MOF's structure is not altered during the breakthrough experiments and regeneration process, maintaining its adsorption properties.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "reasoning",
+      "question": "Why were the non-hydrogen atoms refined anisotropically in the crystal structure analysis?",
+      "answer": "Refining non-hydrogen atoms anisotropically allows for a more accurate representation of their electron density distribution, leading to a more precise crystal structure determination.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "reasoning",
+      "question": "What is the significance of using both the Coulomb and Lennard-Jones potentials in the GCMC simulations?",
+      "answer": "Using both Coulomb and Lennard-Jones potentials allows for a comprehensive evaluation of interactions between gas molecules and the framework, including both electrostatic and van der Waals forces.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "reasoning",
+      "question": "How does the dual-site Langmuir-Freundlich model contribute to understanding the adsorption process in 1a?",
+      "answer": "The dual-site Langmuir-Freundlich model, by distinguishing two distinct adsorption sites, helps in understanding the heterogeneity of the adsorption sites and their specific interactions with different gases.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "reasoning",
+      "question": "Why is the purity of C2H4 and C3H6 important in the context of the MOF's application?",
+      "answer": "High purity of C2H4 and C3H6 is crucial for their use in industrial applications, such as polymer production, where impurities can significantly affect the quality and properties of the final product.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "reasoning",
+      "question": "What role does the nonpolar pore environment play in the selective adsorption of gases by the MOF?",
+      "answer": "The nonpolar pore environment favors the adsorption of nonpolar or less polar gases due to similar dispersion forces, leading to selective adsorption based on the polarity of the gases.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "True or False",
+      "question": "The MOF was synthesized specifically for the separation of C2H4 from C2H6 and C3H6 mixtures.",
+      "answer": "True",
+      "difficulty": "easy"
+    },
+    {
+      "type": "True or False",
+      "question": "The elemental analysis of C, H, and N was conducted using a Netzsch TG209F3 equipment.",
+      "answer": "False",
+      "difficulty": "easy"
+    },
+    {
+      "type": "True or False",
+      "question": "The activated MOF samples were filled into a packed column for the breakthrough experiments without any prior activation process.",
+      "answer": "False",
+      "difficulty": "easy"
+    },
+    {
+      "type": "True or False",
+      "question": "The MOF exhibits higher C2H4 uptake compared to C3H6 at 10 kPa and 298 K.",
+      "answer": "False",
+      "difficulty": "easy"
+    },
+    {
+      "type": "True or False",
+      "question": "The adsorption selectivities for binary mixtures were calculated using the Ideal Adsorption Solution Theory (IAST).",
+      "answer": "True",
+      "difficulty": "easy"
+    },
+    {
+      "type": "True or False",
+      "question": "The MOF's structure was considered to be flexible during the GCMC simulations.",
+      "answer": "False",
+      "difficulty": "easy"
+    },
+    {
+      "type": "True or False",
+      "question": "The breakthrough experiments were performed at a temperature of 298 K and a pressure of 1 bar.",
+      "answer": "True",
+      "difficulty": "easy"
+    }
+  ]
+}

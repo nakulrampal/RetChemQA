@@ -1,0 +1,39 @@
+{
+  "materials": [
+    {
+      "name": "1D coordination polymer",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": "2,6-ndc, ZnII-o-phen units, DMF",
+          "description": "Formed by continuous linkage of 2,6-ndc and ZnII-o-phen units with DMF occupying the void space."
+        },
+        {
+          "temperature": "298 K",
+          "solvents": "DMF",
+          "description": "Single-component vapor adsorption isotherms recorded at 298 K for C8 isomers."
+        },
+        {
+          "temperature": "298 K",
+          "description": "Vapor diffusion kinetics measurement for xylenes in their vapor phase."
+        },
+        {
+          "description": "Liquid-phase separation by fixed-bed column chromatography and batch experiments for C8 isomers."
+        },
+        {
+          "description": "In-situ reaction methodology for synthesizing and characterizing the xylenes, St, and Tol encapsulated PCPs as single crystals."
+        }
+      ]
+    },
+    {
+      "name": "1 a",
+      "synthesis_conditions": [
+        {
+          "description": "Removal of guest DMF from the nanospace rearranges the structure in a closely packed material, resulting in a 21.3% reduction in cell volume compared to the parent structure 1."
+        },
+        {
+          "description": "Filling up of the nanospace with guests like aromatic amines or CO2 regenerates the porous structure, similar to 1."
+        }
+      ]
+    }
+  ]
+}

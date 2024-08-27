@@ -1,0 +1,56 @@
+{
+  "materials": [
+    {
+      "name": "ZIF-90",
+      "synthesis_conditions": {
+        "temperature": "100°C",
+        "solvents": [
+          {
+            "name": "dimethylformamide (DMF)",
+            "amount": "3 mL"
+          }
+        ],
+        "equipment": "Teflon-capped borosilicate vial",
+        "chemicals_used": [
+          {
+            "name": "zinc(II) nitrate hexahydrate",
+            "amount": "0.07g"
+          },
+          {
+            "name": "imidazole-2-carboxaldehyde (ICA)",
+            "amount": "0.029g"
+          }
+        ],
+        "time": "18 h",
+        "washing_method": "DMF exchange",
+        "drying_method": "Retained in DMF before analysis"
+      }
+    },
+    {
+      "name": "ZIF-65",
+      "synthesis_conditions": {
+        "temperature": "100°C",
+        "solvents": [
+          {
+            "name": "dimethylformamide (DMF)",
+            "amount": "3 mL"
+          }
+        ],
+        "equipment": "Teflon-capped borosilicate vial",
+        "chemicals_used": [
+          {
+            "name": "zinc(II) nitrate hexahydrate",
+            "amount": "0.03g"
+          },
+          {
+            "name": "2-nitroimidazole (NO2Im)",
+            "amount": "0.0565g"
+          }
+        ],
+        "time": "18 h",
+        "washing_method": "DMF exchange",
+        "drying_method": "Retained in DMF before analysis"
+      }
+    }
+  ]
+}

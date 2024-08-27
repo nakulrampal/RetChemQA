@@ -1,0 +1,59 @@
+{
+  "materials": [
+    {
+      "name": "SCU-8",
+      "synthesis_conditions": {
+        "temperature": "140 °C",
+        "solvents": [
+          {
+            "name": "ionic liquid tetramethylguanidine chloride (C5H14N3Cl)",
+            "amount": null
+          }
+        ],
+        "equipment": "23 ml PTFE-lined autoclave",
+        "chemicals_used": [
+          {
+            "name": "H3bptc",
+            "amount": "28.63 mg, 0.1 mmol"
+          },
+          {
+            "name": "Th(NO3)4·H2O",
+            "amount": "58.8 mg, 0.1 mmol"
+          },
+          {
+            "name": "tetramethylguanidine chloride (C5H14N3Cl)",
+            "amount": "227.4 mg, 1.5 mmol"
+          },
+          {
+            "name": "concentrated nitric acid",
+            "amount": "3 drops"
+          }
+        ],
+        "time": "2 days",
+        "washing_method": "washed with excess of DMA and ethanol",
+        "drying_method": "air drying",
+        "yield": "ca. 60 % (based on thorium)",
+        "additional_information": "The reaction system was cooled to 30 °C in 24 h after heating."
+      }
+    },
+    {
+      "name": "PFOS-exchanged SCU-8",
+      "synthesis_conditions": {
+        "temperature": null,
+        "solvents": null,
+        "equipment": null,
+        "chemicals_used": [
+          {
+            "name": "PFOS solution",
+            "amount": null
+          }
+        ],
+        "time": "2 h",
+        "washing_method": null,
+        "drying_method": "air drying",
+        "yield": null,
+        "additional_information": "SCU-8 was soaked in PFOS solution for 2 h."
+      }
+    }
+  ]
+}

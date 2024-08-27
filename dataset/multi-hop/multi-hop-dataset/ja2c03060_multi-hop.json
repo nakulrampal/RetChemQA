@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the primary focus of the research article?",
+      "answer": "The primary focus of the research article is on the development and characterization of photocatalytic biocidal coatings featuring Zr6Ti4-based Metal–Organic Frameworks (MOFs) for potential applications in environmental pollution control and healthcare, particularly for the efficient deactivation of pathogens.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the key materials used in the synthesis of NU-1012 and NU-1013?",
+      "answer": "The key materials used in the synthesis of NU-1012 and NU-1013 include ZrOCl2·8H2O, benzoic acid, trimesic acid, titanium isopropanol (IPA), titanium butoxide, titanium chloride, titanocene dichloride, and linkers for NU-1000, NU-1200, and NU-1008.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the antimicrobial efficacy of the NU-1012/CT composite tested?",
+      "answer": "The antimicrobial efficacy of the NU-1012/CT composite was tested using a modified AATCC 100-2004 test method against low pathogenic Gram-positive S. epidermidis and Gram-negative E. coli, where the composite was exposed to simulated daylight or dark conditions and the surviving bacteria were harvested and counted.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What significant findings were observed in the EPR spectra of NU-1000 and NU-1012 under white-light irradiation?",
+      "answer": "Significant findings in the EPR spectra under white-light irradiation include the absence of characteristic peaks for DMPO-·O2- species in NU-1012, suggesting the generation of Ti3+ species, and strong triplet peaks belonging to singlet oxygen in NU-1000, indicating effective energy transfer on the photosensitizers (pyrene group).",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What computational methods were used to optimize the structures of NU-1000 and NU-1012?",
+      "answer": "The structures of NU-1000 and NU-1012 were optimized using the Vienna ab initio Simulation Package (VASP) with a force convergence criterion of 0.04 eV Å−1, employing projector augmented wave (PAW) pseudopotentials, the PBE exchange correlation functional, and Grimme D3 dispersion corrections with Becke-Johnson damping.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The research article demonstrates that NU-1012/CT composites exhibit stronger biocidal activity than NU-1000/CT composites under visible light irradiation.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What durability tests were performed on the NU-1012/CT composites, and what were the outcomes?",
+      "answer": "Durability tests on the NU-1012/CT composites involved immersing them in physiological saline or aging them under simulated sunlight for 5 days. The composites still showed a 7-log reduction against E. coli and S. epidermidis after 60 minutes of irradiation, indicating excellent durability.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role does titanium play in the enhanced photocatalytic activity of NU-1012 compared to NU-1000?",
+      "answer": "Titanium incorporation into NU-1012 plays a crucial role in enhancing photocatalytic activity by improving electron–hole pair separation efficiency, leading to increased generation of reactive oxygen species (ROS) upon visible light irradiation compared to NU-1000.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The photocatalytic biocidal coatings developed in the research can only be activated under UV light.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What potential applications are envisioned for the photocatalytic biocidal coatings featuring Zr6Ti4-based MOFs?",
+      "answer": "The photocatalytic biocidal coatings are envisioned for applications in environmental pollution control and healthcare, particularly for creating protective textiles and surfaces that can autonomously deactivate pathogens, including bacteria and viruses, under visible light irradiation.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

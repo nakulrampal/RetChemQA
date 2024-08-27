@@ -1,0 +1,72 @@
+{
+  "materials": [
+    {
+      "name": "A2[TCNE]2",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": "TCNE (250 mg, 1.95 mmol), KCN (127 mg, 1.95 mmol), acetonitrile (8 mL)",
+          "temperature": "room temperature",
+          "time": "30 minutes",
+          "equipment": "glovebox (< 1 ppm O2)",
+          "solvents": "acetonitrile",
+          "amount_of_solvents": "8 mL",
+          "yield": "80%",
+          "drying_method": "freezer overnight",
+          "washing_method": "filtered"
+        }
+      ]
+    },
+    {
+      "name": "K2[TCNE]2",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": "TCNE, KCN, acetonitrile",
+          "temperature": "room temperature",
+          "time": "30 minutes + overnight",
+          "equipment": "glovebox (< 1 ppm O2), freezer",
+          "solvents": "acetonitrile",
+          "amount_of_solvents": "8 mL",
+          "yield": "80%",
+          "drying_method": "freezer overnight",
+          "washing_method": "filtered"
+        }
+      ]
+    },
+    {
+      "name": "Rb2[TCNE]2",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": "TCNE, RbCN, acetonitrile",
+          "temperature": "room temperature",
+          "time": "30 minutes + overnight",
+          "equipment": "glovebox (< 1 ppm O2), freezer",
+          "solvents": "acetonitrile",
+          "amount_of_solvents": "8 mL",
+          "yield": "Similar method as K2[TCNE]2",
+          "drying_method": "freezer overnight",
+          "washing_method": "filtered"
+        }
+      ]
+    },
+    {
+      "name": "Cs2[TCNE]2",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": "TCNE, CsCN, acetonitrile",
+          "temperature": "room temperature",
+          "time": "30 minutes + overnight",
+          "equipment": "glovebox (< 1 ppm O2), freezer",
+          "solvents": "acetonitrile",
+          "amount_of_solvents": "8 mL",
+          "yield": "Similar method as K2[TCNE]2",
+          "drying_method": "freezer overnight",
+          "washing_method": "filtered"
+        }
+      ]
+    }
+  ]
+}

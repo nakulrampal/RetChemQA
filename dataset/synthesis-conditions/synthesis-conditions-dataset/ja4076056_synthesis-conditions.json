@@ -1,0 +1,163 @@
+{
+  "materials": [
+    {
+      "material_name": "[Ru2(4-Cl-2-OMePhCO2)4(phz)]·n(CH2Cl2) (M = Ru, 1; Rh, 2)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "[Ru2(CH3CO2)4Cl]",
+              "amount": "1.42 g",
+              "molar_amount": "3.0 mmol"
+            },
+            {
+              "name": "4-chloro-2-methoxybenzoic acid",
+              "amount": "2.24 g",
+              "molar_amount": "12.0 mmol"
+            },
+            {
+              "name": "Zn powder",
+              "amount": "392 mg",
+              "molar_amount": "6.0 mmol"
+            },
+            {
+              "solvent": "MeOH",
+              "amount": "150 mL"
+            },
+            {
+              "solvent": "THF",
+              "amount": "100 mL"
+            }
+          ],
+          "temperature": [
+            {
+              "condition": "reflux",
+              "duration": "48 h"
+            },
+            {
+              "condition": "reflux",
+              "duration": "24 h"
+            }
+          ],
+          "yield": "2.19 g",
+          "yield_percentage": "67%"
+        },
+        {
+          "step": 2,
+          "chemicals_used": [
+            {
+              "name": "phz (phenazine)",
+              "amount": "28 mg",
+              "molar_amount": "0.16 mmol"
+            },
+            {
+              "solvent": "benzene",
+              "amount": "10 mL"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "CH2Cl2",
+              "amount": "10 mL"
+            },
+            {
+              "name": "CH2Cl2/benzene 1:1 v/v",
+              "amount": "1 mL"
+            }
+          ],
+          "yield": "63%"
+        }
+      ],
+      "drying_method": "heating at 373 K under vacuum for 5 h",
+      "characterization_methods": [
+        "X-ray crystallography",
+        "Cyclic voltammetry",
+        "Magnetic measurements",
+        "DFT calculations"
+      ]
+    },
+    {
+      "material_name": "[Ru2(4-Cl-2-OMePhCO2)4(THF)2]",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            {
+              "name": "[Ru2(CH3CO2)4Cl]",
+              "amount": "1.42 g",
+              "molar_amount": "3.0 mmol"
+            },
+            {
+              "name": "4-chloro-2-methoxybenzoic acid",
+              "amount": "2.24 g",
+              "molar_amount": "12.0 mmol"
+            },
+            {
+              "name": "Zn powder",
+              "amount": "392 mg",
+              "molar_amount": "6.0 mmol"
+            },
+            {
+              "solvent": "MeOH",
+              "amount": "150 mL"
+            },
+            {
+              "solvent": "THF",
+              "amount": "100 mL"
+            }
+          ],
+          "temperature": [
+            {
+              "condition": "reflux",
+              "duration": "48 h"
+            },
+            {
+              "condition": "reflux",
+              "duration": "24 h"
+            }
+          ],
+          "yield": "2.19 g",
+          "yield_percentage": "67%"
+        }
+      ],
+      "characterization_methods": [
+        "X-ray crystallography",
+        "Cyclic voltammetry",
+        "Magnetic measurements",
+        "DFT calculations"
+      ]
+    },
+    {
+      "material_name": "[Rh2(4-Cl-2-OMePhCO2)4(THF)2]",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            {
+              "name": "[Rh2(CH3CO2)4(MeOH)2]",
+              "amount": "506 mg",
+              "molar_amount": "1 mmol"
+            },
+            {
+              "name": "4-chloro-2-methoxybenzoic acid",
+              "amount": "1.36 mg",
+              "molar_amount": "8.0 mmol"
+            },
+            {
+              "solvent": "diglyme",
+              "amount": "20 mL"
+            }
+          ],
+          "temperature": "reflux for 2 h",
+          "yield": "568 mg",
+          "yield_percentage": "52%"
+        }
+      ],
+      "characterization_methods": [
+        "X-ray crystallography",
+        "Cyclic voltammetry",
+        "Magnetic measurements",
+        "DFT calculations"
+      ]
+    }
+  ]
+}

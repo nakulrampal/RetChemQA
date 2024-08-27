@@ -1,0 +1,65 @@
+{
+  "materials": [
+    {
+      "material": "MOF-303",
+      "synthesis_conditions": [
+        {
+          "label": "General synthesis",
+          "chemicals_used": "1H-3,5-pyrazoledicarboxylic acid (H2PZDC), 2,4-furandicarboxylic acid (H2FDC), aqueous NaOH solution, aqueous AlCl3 solution",
+          "solvents": "Water",
+          "temperature": "100°C",
+          "equipment": "20 mL vial, pre-heated oven",
+          "time": "2 to 4 days",
+          "washing_method": "Washed with deionized water and methanol",
+          "drying_method": "Dried under dynamic vacuum (~10-3 mbar) and heated to 120°C over a period of 3 hours"
+        },
+        {
+          "label": "Single crystal synthesis",
+          "chemicals_used": "H2PZDC or H2FDC, aqueous NaOH solution, aqueous Al2(SO4)3 solution",
+          "solvents": "Water",
+          "temperature": "100°C",
+          "equipment": "4 mL vial, pre-heated oven",
+          "time": "2 to 3 days"
+        }
+      ]
+    },
+    {
+      "material": "MOF-333",
+      "synthesis_conditions": [
+        {
+          "label": "General synthesis",
+          "chemicals_used": "2,4-furandicarboxylic acid (H2FDC), aqueous NaOH solution, aqueous AlCl3 solution",
+          "solvents": "Water",
+          "temperature": "100°C",
+          "equipment": "20 mL vial, pre-heated oven",
+          "time": "2 to 4 days",
+          "washing_method": "Washed with deionized water and methanol",
+          "drying_method": "Dried under dynamic vacuum (~10-3 mbar) and heated to 120°C over a period of 3 hours"
+        },
+        {
+          "label": "Single crystal synthesis",
+          "chemicals_used": "H2FDC, aqueous NaOH solution, aqueous Al2(SO4)3 solution",
+          "solvents": "Water",
+          "temperature": "100°C",
+          "equipment": "4 mL vial, pre-heated oven",
+          "time": "2 to 3 days"
+        }
+      ]
+    },
+    {
+      "material": "2,4-Furandicarboxylic acid (H2FDC)",
+      "synthesis_conditions": [
+        {
+          "label": "Synthesis of H2FDC",
+          "chemicals_used": "Phosphoryl chloride, N,N-dimethylformamide, 3-furancarboxylic acid methyl ester, potassium dichromate, sulfuric acid, acetone, NaOH",
+          "solvents": "Ethyl acetate, water",
+          "temperature": "0°C to 100°C, room temperature",
+          "equipment": "Round-bottom flask, condenser",
+          "time": "Varied",
+          "washing_method": "Washed with water, aqueous NaHCO3 solution, and brine",
+          "drying_method": "Dried over MgSO4, concentrated in vacuo"
+        }
+      ]
+    }
+  ]
+}

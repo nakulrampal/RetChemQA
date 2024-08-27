@@ -1,0 +1,82 @@
+{
+  "materials": [
+    {
+      "name": "Zn-TDPAT",
+      "synthesis_conditions": {
+        "temperature": "80 ºC",
+        "time": "3 d",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "4 mL"
+          },
+          {
+            "name": "ethylene glycol",
+            "amount": "2 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.5 mL"
+          },
+          {
+            "name": "HNO3 (3.5 mol/L in DMF)",
+            "amount": "0.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H6TDPAT",
+            "amount": "0.038g (0.061mmol)"
+          },
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "0.079 g (0.266 mmol)"
+          }
+        ],
+        "equipment": "sealed vial",
+        "yield": "Not explicitly mentioned",
+        "washing_method": "washed with DMF",
+        "drying_method": "Not explicitly mentioned",
+        "additional_information": "The crystal has a formula of Zn3(TDPAT)(H2O)3·3.125H2O·4DMF, obtained from single crystal X-ray diffraction analysis. Elemental analysis (% calc/found: C 38.65/39.04, H 4.31/4.55, N 11.56/11.89), and TGA (weight loss of 30 wt% before 200 ˚C)."
+      }
+    },
+    {
+      "name": "H6TDPAT",
+      "synthesis_conditions": {
+        "temperature": "100 ºC",
+        "time": "24h",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "140 mL"
+          },
+          {
+            "name": "1,4-dioxane",
+            "amount": "70 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "5-aminoisophthalic acid",
+            "amount": "15.2 g (0.084 mol)"
+          },
+          {
+            "name": "NaOH",
+            "amount": "5.36 g (0.134 mol)"
+          },
+          {
+            "name": "NaHCO3",
+            "amount": "8.74 g (0.104 mol)"
+          },
+          {
+            "name": "cyanuric chloride",
+            "amount": "3.68 g (0.02 mol)"
+          }
+        ],
+        "yield": "94%",
+        "washing_method": "rinsed several times with distilled water",
+        "drying_method": "dried to give H6TDPAT"
+      }
+    }
+  ]
+}

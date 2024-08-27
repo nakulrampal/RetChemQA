@@ -1,0 +1,129 @@
+{
+  "materials": [
+    {
+      "name": "1–4",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "time": "three days",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "6 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H2pydc",
+            "amount": "50 mg, 0.25 mmol"
+          },
+          {
+            "name": "Ln2O3",
+            "amount": "0.1 mmol",
+            "notes": "Ln = Sm, Eu, Gd, and Tb for 1–4"
+          },
+          {
+            "name": "Cu(NO3)2·6H2O",
+            "amount": "60 mg, 0.2 mmol"
+          },
+          {
+            "name": "I2",
+            "amount": "25.4 mg, 0.1 mmol"
+          }
+        ],
+        "equipment": "Teflon-lined autoclave",
+        "yield": "Not specified",
+        "washing_method": "washed repeatedly with distilled water",
+        "drying_method": "Not specified"
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "time": "three days",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "6 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H2pydc",
+            "amount": "50mg, 0.25mmol"
+          },
+          {
+            "name": "Ln2O3",
+            "amount": "0.1 mmol",
+            "notes": "Ln = Sm, Eu, Gd, and Tb for 1–4"
+          },
+          {
+            "name": "CuI",
+            "amount": "47.5mg, 0.25mmol"
+          },
+          {
+            "name": "HNO3",
+            "amount": "5 drops"
+          }
+        ],
+        "equipment": "Teflon-lined autoclave",
+        "yield": "Not specified",
+        "washing_method": "washed repeatedly with distilled water",
+        "drying_method": "Not specified"
+      }
+    },
+    {
+      "name": "2",
+      "photocatalytic_conditions": {
+        "solvent": "10% methanol aqueous solution",
+        "amount": "100 mL",
+        "catalyst_amount": "100 mg",
+        "irradiation_source": "500 W mercury lamp",
+        "irradiation_conditions": "UV irradiation",
+        "H2_evolution_rate": [
+          {
+            "value": "1958.0 mmol h-1 g-1",
+            "notes": "for compound 1"
+          },
+          {
+            "value": "2262.8 mmol h-1 g-1",
+            "notes": "for compound 2"
+          },
+          {
+            "value": "2050.4 mmol h-1 g-1",
+            "notes": "for compound 3"
+          },
+          {
+            "value": "2105.0 mmol h-1 g-1",
+            "notes": "for compound 4"
+          }
+        ],
+        "total_H2_evolved": [
+          {
+            "value": "979.0 mmol",
+            "notes": "for compound 1"
+          },
+          {
+            "value": "1131.4 mmol",
+            "notes": "for compound 2"
+          },
+          {
+            "value": "1025.2 mmol",
+            "notes": "for compound 3"
+          },
+          {
+            "value": "1052.5 mmol",
+            "notes": "for compound 4"
+          }
+        ],
+        "cycles_tested": "Six runs for compound 3",
+        "H2_evolution_rates_per_cycle": [
+          "2050.4 mmol h-1 g-1",
+          "2107.7 mmol h-1 g-1",
+          "1973.9 mmol h-1 g-1"
+        ],
+        "total_H2_evolved_over_cycles": "3066.0 mmol over 15 h for compound 3"
+      }
+    }
+  ]
+}

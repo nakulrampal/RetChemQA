@@ -1,0 +1,44 @@
+{
+  "materials": [
+    {
+      "name": "X-pcu-3-Zn-3i-a",
+      "synthesis_conditions": {
+        "temperature": "120°C",
+        "time": "24 hours",
+        "solvents": "DMF",
+        "amount_of_solvent": "3 ml",
+        "chemicals_used": [
+          {
+            "chemical": "Zn(NO3)2·6H2O",
+            "amount": "14.8 mg, 0.05 mmol"
+          },
+          {
+            "chemical": "L1",
+            "amount": "7.7 mg, 0.025 mmol"
+          },
+          {
+            "chemical": "L2",
+            "amount": "12.11 mg, 0.05 mmol"
+          }
+        ],
+        "equipment": "14-ml glass vial",
+        "yield": "60% (based on L1 as the limiting reagent)"
+      }
+    },
+    {
+      "name": "X-pcu-3-Zn-3i-b",
+      "synthesis_conditions": {
+        "preparation_method": "Heating X-pcu-3-Zn-3i-a",
+        "temperature": "130°C",
+        "time": "12 hours",
+        "environment": "under vacuum"
+      }
+    },
+    {
+      "name": "X-pcu-3-Zn-3i-g",
+      "synthesis_conditions": {
+        "preparation_method": "Gas sorption of first cycle at CO2 at 195 K of X-pcu-3-Zn-3i-b phase"
+      }
+    }
+  ]
+}

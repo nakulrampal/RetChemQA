@@ -1,0 +1,130 @@
+{
+  "materials": [
+    {
+      "name": "CPM-125a-Ni",
+      "synthesis_conditions": {
+        "temperature": "120 ℃",
+        "solvents": ["dimethylacetamide (DMA)", "water"],
+        "amount_of_solvents": ["2.5 g DMA", "0.5 g water"],
+        "chemicals_used": [
+          "nickel(II) chloride hexahydrate (NiCl2·6H2O, ~0.2 mmol)",
+          "cubane-1,4-dicarboxylic acid (H2cdc, ~0.2 mmol)",
+          "2,4,6-tri(4-pyridyl)-1,3,5-triazine (tpt, ~0.67 mmol)"
+        ],
+        "time": "3 days",
+        "yield": "phase purity supported by powder X-ray diffraction"
+      }
+    },
+    {
+      "name": "CPM-125a-CoV",
+      "synthesis_conditions": {
+        "temperature": "130 ℃",
+        "solvents": ["N-methylformamide (NMF)"],
+        "amount_of_solvents": ["6.0 g NMF"],
+        "chemicals_used": [
+          "cobalt(II) nitrate hexahydrate (Co(NO3)2•6H2O, ~0.2 mmol)",
+          "vanadium (Ⅲ) chloride (VCl3, ~0.2 mmol)",
+          "cubane-1,4-dicarboxylic acid (H2cdc, ~0.3 mmol)",
+          "2,4,6-tri(4-pyridyl)-1,3,5-triazine (tpt, ~0.1 mmol)"
+        ],
+        "additional_steps": ["1 drop of concentrated hydrochloric acid added"],
+        "time": "3 days",
+        "yield": "phase purity supported by powder X-ray diffraction"
+      }
+    },
+    {
+      "name": "CPM-125b-Ni",
+      "synthesis_conditions": {
+        "temperature": "120 ℃",
+        "solvents": ["dimethylacetamide (DMA)", "water"],
+        "amount_of_solvents": ["2.5 g DMA", "0.5 g water"],
+        "chemicals_used": [
+          "nickel(II) chloride hexahydrate (NiCl2·6H2O, ~0.2 mmol)",
+          "cubane-1,4-dicarboxylic acid (H2cdc, ~0.2 mmol)",
+          "2,4,6-tri(4-pyridyl)pyridine (tppy, ~0.67 mmol)"
+        ],
+        "time": "3 days",
+        "yield": "phase purity supported by powder X-ray diffraction"
+      }
+    },
+    {
+      "name": "CPM-111a-Ni",
+      "synthesis_conditions": {
+        "temperature": "120 ℃",
+        "solvents": ["dimethylacetamide (DMA)", "water"],
+        "amount_of_solvents": ["2.5 g DMA", "0.5 g water"],
+        "chemicals_used": [
+          "nickel(II) chloride hexahydrate (NiCl2·6H2O, ~0.2 mmol)",
+          "bicyclo[1.1.1]pentane-1,3-dicarboxylic acid (H2bcp, ~0.2 mmol)",
+          "2,4,6-tri(4-pyridyl)-1,3,5-triazine (tpt, ~0.67 mmol)"
+        ],
+        "time": "3 days",
+        "yield": "phase purity supported by powder X-ray diffraction"
+      }
+    },
+    {
+      "name": "CPM-111a-CoV",
+      "synthesis_conditions": {
+        "temperature": "130 ℃",
+        "solvents": ["dimethylformamide (DMF)"],
+        "amount_of_solvents": ["3.0 g DMF"],
+        "chemicals_used": [
+          "cobalt(II) nitrate hexahydrate (Co(NO3)2•6H2O, ~0.4 mmol)",
+          "vanadium (Ⅲ) chloride (VCl3, ~0.2 mmol)",
+          "bicyclo[1.1.1]pentane-1,3-dicarboxylic acid (H2bcp, ~0.6 mmol)",
+          "2,4,6-tri(4-pyridyl)-1,3,5-triazine (tpt, ~0.2 mmol)"
+        ],
+        "time": "3 days",
+        "yield": "phase purity supported by powder X-ray diffraction"
+      }
+    },
+    {
+      "name": "CPM-111a-Mg",
+      "synthesis_conditions": {
+        "temperature": "120 ℃",
+        "solvents": ["dimethylacetamide (DMA)", "1,3-dimethyl 3,4,5,6-tetrahydro-2(1H)-pyrimidinone (DMPU)"],
+        "amount_of_solvents": ["4.0 g DMA", "2 ml DMPU"],
+        "chemicals_used": [
+          "Mg(NO3)2•6H2O (0.3 mmol)",
+          "bicyclo[1.1.1]pentane-1,3-dicarboxylic acid (H2bcp, ~0.3 mmol)",
+          "2,4,6-tri(4-pyridyl)-1,3,5-triazine (tpt, ~0.1 mmol)"
+        ],
+        "additional_steps": ["28 μL 1,1,1,5,5,5-hexafluoro-2,4- pentanedione (HFP) added"],
+        "time": "4 days",
+        "yield": "phase purity supported by powder X-ray diffraction"
+      }
+    },
+    {
+      "name": "CPM-111b-Ni",
+      "synthesis_conditions": {
+        "temperature": "120 ℃",
+        "solvents": ["dimethylacetamide (DMA)", "water"],
+        "amount_of_solvents": ["2.5 g DMA", "0.5 g water"],
+        "chemicals_used": [
+          "nickel(II) chloride hexahydrate (NiCl2·6H2O, ~0.2 mmol)",
+          "bicyclo[1.1.1]pentane-1,3-dicarboxylic acid (H2bcp, ~0.2 mmol)",
+          "2,4,6-tri(4-pyridyl)pyridine (tppy, ~0.67 mmol)"
+        ],
+        "additional_steps": ["1 drop of concentrated hydrochloric acid added"],
+        "time": "3 days",
+        "yield": "phase purity supported by powder X-ray diffraction"
+      }
+    },
+    {
+      "name": "CPM-33a",
+      "synthesis_conditions": {
+        "temperature": "130 ℃",
+        "solvents": ["dimethylformamide (DMF)", "water"],
+        "amount_of_solvents": ["4.0 g DMF", "0.5 g water"],
+        "chemicals_used": [
+          "nickel nitrate hexahydrate (Ni(NO3)2·6H2O, ~0.3 mmol)",
+          "terephthalic acid (H2bdc, ~0.3 mmol)",
+          "2,4,6-tri(4-pyridyl)-1,3,5-triazine (tpt, ~0.1 mmol)"
+        ],
+        "additional_steps": ["80 μL concentrated HCl added"],
+        "time": "5 days",
+        "yield": "phase purity supported by powder X-ray diffraction"
+      }
+    }
+  ]
+}

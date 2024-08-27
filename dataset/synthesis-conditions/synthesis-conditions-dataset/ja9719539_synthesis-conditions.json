@@ -1,0 +1,111 @@
+{
+  "materials": [
+    {
+      "material": "1",
+      "synthesis_conditions": [
+        {
+          "temperature": "150 oC",
+          "time": "2 hr",
+          "solvents": [
+            {
+              "name": "ethyl acetate",
+              "amount": "ca.10 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Diphenyl carbonate",
+              "amount": "2.14 g, 0.01 mol"
+            },
+            {
+              "name": "3-aminomethylpyridine",
+              "amount": "2.04 mL, 0.02 mol"
+            }
+          ],
+          "yield": "83%",
+          "melting_point": "129-130 oC"
+        }
+      ]
+    },
+    {
+      "material": "2",
+      "synthesis_conditions": [
+        {
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "methanol",
+              "amount": "50 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Diethyl oxalate",
+              "amount": "1.36 mL, 0.01 mol"
+            },
+            {
+              "name": "3-aminomethylpyridine",
+              "amount": "2.04 mL, 0.02 mol"
+            }
+          ],
+          "yield": "90%",
+          "melting_point": "188-189 oC"
+        }
+      ]
+    },
+    {
+      "material": "3",
+      "synthesis_conditions": [
+        {
+          "solvents": [
+            {
+              "name": "methanol",
+              "type": "solution of 1"
+            },
+            {
+              "name": "aqueous AgBF4",
+              "molar_ratio": "2:1"
+            }
+          ],
+          "melting_point": "165-166 oC"
+        }
+      ]
+    },
+    {
+      "material": "4 (X = NO3-)",
+      "synthesis_conditions": [
+        {
+          "solvents": [
+            {
+              "name": "methanol",
+              "type": "solution of 2"
+            },
+            {
+              "name": "aqueous AgNO3",
+              "molar_ratio": "2:1"
+            }
+          ],
+          "melting_point": "dec. 245-250 oC"
+        }
+      ]
+    },
+    {
+      "material": "4 (X = BF4-)",
+      "synthesis_conditions": [
+        {
+          "solvents": [
+            {
+              "name": "methanol",
+              "type": "solution of 2"
+            },
+            {
+              "name": "aqueous AgNO3",
+              "molar_ratio": "2:1"
+            }
+          ],
+          "melting_point": "dec. 249-253 oC"
+        }
+      ]
+    }
+  ]
+}

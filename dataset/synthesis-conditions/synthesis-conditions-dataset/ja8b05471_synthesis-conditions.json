@@ -1,0 +1,79 @@
+{
+  "materials": [
+    {
+      "name": "0.27MeMeCH2·ZnIm2",
+      "synthesis_conditions": {
+        "method": "Aging Procedure",
+        "temperature": "Room temperature",
+        "solvents": ["DMF", "DEF"],
+        "time": "3 months",
+        "yield": "Quantitative",
+        "comments": "Contains traces of Zn4(HIm)Im8 impurity with DEF, or coi-ZnIm2 with DMF."
+      }
+    },
+    {
+      "name": "0.51MeMeCH2@RHO-Zn16Im32",
+      "synthesis_conditions": {
+        "method": "Paste Procedure",
+        "temperature": "Room temperature",
+        "solvents": ["DMF", "DEF"],
+        "time": "2 months",
+        "yield": "Quantitative",
+        "BET_surface_area_m2_g": "1190",
+        "pore_volume_cm3_g": "0.529",
+        "thermal_stability": "High"
+      }
+    },
+    {
+      "name": "0.56MeMeCH2@RHO-Zn16Im32",
+      "synthesis_conditions": {
+        "method": "Salt-Paste Procedure",
+        "temperature": "Room temperature",
+        "solvents": ["DMF", "DEF"],
+        "time": "20 days",
+        "yield": "At least 81%",
+        "BET_surface_area_m2_g": "565",
+        "pore_volume_cm3_g": "0.292",
+        "comments": "Pores partially occupied by residual salt(s)"
+      }
+    },
+    {
+      "name": "0.90MeMeCH2@RHO-Zn16Im32",
+      "synthesis_conditions": {
+        "method": "LAG Procedure",
+        "temperature": "Room temperature",
+        "solvents": ["DEF"],
+        "time": "14 days",
+        "yield": "96%",
+        "BET_surface_area_m2_g": "1650",
+        "pore_volume_cm3_g": "0.703",
+        "comments": "Essentially phase-pure"
+      }
+    },
+    {
+      "name": "1.02MeMeCH2@RHO-Zn16Im32",
+      "synthesis_conditions": {
+        "method": "LAG Procedure",
+        "temperature": "Room temperature",
+        "solvents": ["DEF"],
+        "time": "2 days",
+        "yield": "87%",
+        "BET_surface_area_m2_g": "1120",
+        "pore_volume_cm3_g": "0.554"
+      }
+    },
+    {
+      "name": "0.80MeMeCH2@RHO-Zn16Im32",
+      "synthesis_conditions": {
+        "method": "LAG Procedure",
+        "temperature": "Room temperature",
+        "solvents": ["DEF"],
+        "time": "12 days",
+        "yield": "88%",
+        "BET_surface_area_m2_g": "1083",
+        "pore_volume_cm3_g": "0.513",
+        "comments": "Used non-nanoparticulate ZnO"
+      }
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "materials": [
+    {
+      "name": "Cadmium Benzoate ((Cd(C7H5O2)2)3(CH3CN)1)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Cadmium oxide",
+            "amount": "18.11 g, 141 mmol"
+          },
+          {
+            "name": "Benzoic acid",
+            "amount": "103.31 g, 846 mmol"
+          },
+          {
+            "name": "Benzoic anhydride",
+            "amount": "38.23 g, 169 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "Toluene",
+            "amount": "3 × 200 mL"
+          },
+          {
+            "name": "Dichloromethane",
+            "amount": "2 × 200 mL"
+          },
+          {
+            "name": "Tetrahydrofuran",
+            "amount": "100 mL"
+          },
+          {
+            "name": "Acetonitrile",
+            "amount": "200 mL"
+          }
+        ],
+        "temperature": "180 °C",
+        "time": "Until colorless melt resolidifies",
+        "yield": "24.75 g (47.7%)"
+      }
+    },
+    {
+      "name": "Cadmium bis(4-thiomethylbenzoate), Cadmium bis(4-bromobenzoate), and Cadmium bis(furoate)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Carboxylic acid",
+            "amount": "1.98 equiv"
+          },
+          {
+            "name": "Dimethylcadmium",
+            "amount": "1 equiv"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "Tetrahydrofuran"
+          }
+        ],
+        "temperature": "Room temperature",
+        "time": "30 min",
+        "notes": "Vigorous bubbling occurs"
+      }
+    },
+    {
+      "name": "Lithium Selenide (Li2Se)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Lithium triethylborohydride in tetrahydrofuran",
+            "amount": "100 mL, 1 M"
+          },
+          {
+            "name": "Selenium pellets",
+            "amount": "3.91 g, 49.5 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "Pentane",
+            "amount": "50 mL"
+          },
+          {
+            "name": "Toluene",
+            "amount": "50 mL"
+          },
+          {
+            "name": "Diethyl ether",
+            "amount": "50 mL"
+          }
+        ],
+        "temperature": "0 °C to Room temperature",
+        "time": "1 hour",
+        "yield": "4.28 g; 46 mmol, 93.4%"
+      }
+    },
+    {
+      "name": "bis(trimethylsilyl)selenide (Se(Si(CH3)3)2)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Lithium selenide",
+            "amount": "4.50 g, 48.5 mmol"
+          },
+          {
+            "name": "Bromotrimethylsilane",
+            "amount": "14.47 g, 94.52 mmol"
+          }
+        ],
+        "temperature": "100 °C",
+        "time": "24 h",
+        "yield": "8.54 g; 37.9 mmol; 80.2%"
+      }
+    },
+    {
+      "name": "CdSe(350 nm)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Cadmium benzoate",
+            "amount": "2.00 g, 5.43 mmol"
+          },
+          {
+            "name": "n-butylamine",
+            "amount": "0.993 g, 13.58 mmol"
+          },
+          {
+            "name": "bis(trimethylsilyl)selenide",
+            "amount": "0.612 g, 2.72 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "Diethyl ether",
+            "amount": "40 mL"
+          },
+          {
+            "name": "Acetonitrile",
+            "amount": "10 mL"
+          }
+        ],
+        "temperature": "0 °C to Room temperature",
+        "time": "30 min",
+        "yield": "1.02 g"
+      }
+    },
+    {
+      "name": "CdSe(380 nm) and CdSe(408 nm)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "CdSe(350 nm)",
+            "amount": "500 mg"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "Toluene",
+            "amount": "35 mL"
+          },
+          {
+            "name": "Acetonitrile",
+            "amount": "10 mL"
+          }
+        ],
+        "temperature": "85 °C",
+        "time": "30 min",
+        "yield": "264 mg of CdSe(380 nm) and 174 mg of CdSe(408 nm)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "materials": [
+    {
+      "material_id": "2",
+      "synthesis_conditions": {
+        "chemicals_used": {
+          "PgC1": "0.608g, 1 mmol",
+          "Cu(OAc)2": "0.727 g, 4 mmol"
+        },
+        "solvents": {
+          "DMSO:MeCN_solution": "10 mL of a 1:1 ratio"
+        },
+        "temperature": "80°C",
+        "time": "10 minutes additional stirring after Cu(OAc)2 addition",
+        "cooling": "Allowed to cool to form crystals after approximately 24 hours",
+        "yield": "Not specified",
+        "color_change": "From light pink to dark reddish brown upon Cu(OAc)2 addition"
+      }
+    },
+    {
+      "material_id": "3",
+      "synthesis_conditions": {
+        "chemicals_used": {
+          "4,4’-bipyridine": "0.313 g, 2 mmol"
+        },
+        "solvents": {
+          "DMSO": "Not specified amount, hot"
+        },
+        "temperature": "Not specified",
+        "time": "After 10 minutes of stirring material 2 in hot DMSO",
+        "cooling": "Slow cooling over several days",
+        "yield": "Not specified",
+        "color_change": "From reddish brown to brown upon 4,4’-bipyridine addition"
+      }
+    },
+    {
+      "material_id": "4",
+      "synthesis_conditions": {
+        "chemicals_used": {
+          "PgC1": "0.608 g, 1 mmol",
+          "Cu(NO3)2·6H2O": "0.1 M methanolic solution, amount not specified"
+        },
+        "solvents": {
+          "Pyridine": "50 mL",
+          "H2O": "450 mL for precipitation",
+          "MeOH": "For Cu(NO3)2·6H2O solution, amount not specified"
+        },
+        "temperature": "Reflux for 24 hours",
+        "time": "Several weeks for slow evaporation",
+        "cooling": "Cooled before adding into H2O",
+        "yield": "Not specified",
+        "color_change": "From deep red solution to light brown emulsion upon Cu(NO3)2·6H2O addition"
+      }
+    }
+  ]
+}

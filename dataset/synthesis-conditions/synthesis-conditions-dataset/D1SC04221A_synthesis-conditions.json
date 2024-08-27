@@ -1,0 +1,126 @@
+{
+  "materials": [
+    {
+      "name": "Sn(maltol)2",
+      "synthesis_conditions": {
+        "solvents": "dry ethanol",
+        "solvent_amounts": "4.0 mL",
+        "temperature": "70 °C",
+        "chemicals_used": [
+          {
+            "name": "SnF2",
+            "amount": "156.7 mg, 1.0 mmol"
+          },
+          {
+            "name": "maltol",
+            "amount": "252.2 mg, 2.0 mmol"
+          }
+        ],
+        "yield": "Not specified",
+        "washing_method": "Filtered with a membrane filter (0.45 µm, PTFE)",
+        "drying_method": "Not specified",
+        "time": "Stood at room temperature for 12 h"
+      }
+    },
+    {
+      "name": "SnBr(maltol)",
+      "synthesis_conditions": {
+        "solvents": "dry ethanol",
+        "solvent_amounts": "13 mL",
+        "temperature": "70 °C",
+        "chemicals_used": [
+          {
+            "name": "SnBr2",
+            "amount": "278.5 mg, 1.0 mmol"
+          },
+          {
+            "name": "maltol",
+            "amount": "252.2 mg, 2.0 mmol"
+          }
+        ],
+        "yield": "Not specified",
+        "washing_method": "Filtered with a membrane filter (0.45 µm, PTFE)",
+        "drying_method": "Not specified",
+        "time": "Stood at room temperature for 12 h"
+      }
+    },
+    {
+      "name": "SnI(maltol)",
+      "synthesis_conditions": {
+        "solvents": "dry ethanol",
+        "solvent_amounts": "22 mL",
+        "temperature": "70 °C",
+        "chemicals_used": [
+          {
+            "name": "SnI2",
+            "amount": "186.3 mg, 0.50 mmol"
+          },
+          {
+            "name": "maltol",
+            "amount": "63.1 mg, 0.50 mmol"
+          }
+        ],
+        "yield": "46%",
+        "washing_method": "Filtered with a membrane filter (0.45 µm, PTFE)",
+        "drying_method": "Not specified",
+        "time": "Stood at room temperature for 12 h"
+      }
+    },
+    {
+      "name": "Cs0.1FA0.6MA0.3Sn0.5Pb0.5I3 perovskite",
+      "synthesis_conditions": {
+        "solvents": "DMSO and DMF",
+        "solvent_amounts": "0.5 mL DMSO and 1.5 mL DMF",
+        "temperature": "45 °C for stirring, 100 °C and 65 °C for annealing",
+        "chemicals_used": [
+          {
+            "name": "CsI",
+            "amount": "93.2 mg, 0.36 mmol"
+          },
+          {
+            "name": "FAI",
+            "amount": "371.5 mg, 2.16 mmol"
+          },
+          {
+            "name": "MAI",
+            "amount": "171.7 mg, 1.08 mmol"
+          },
+          {
+            "name": "SnI2",
+            "amount": "670.5 mg, 1.80 mmol"
+          },
+          {
+            "name": "PbI2",
+            "amount": "829.8 mg, 1.80 mmol"
+          },
+          {
+            "name": "Pb(SCN)2",
+            "amount": "11.6 mg, 0.04 mmol"
+          },
+          {
+            "name": "SnF2",
+            "amount": "28.2 mg, 0.18 mmol"
+          },
+          {
+            "name": "TM-DHP",
+            "amount": "1 mol% for SnI2"
+          }
+        ],
+        "yield": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Annealed at 100 °C for 10 min and 65 °C for over 10 min",
+        "time": "Not specified",
+        "additional_steps": [
+          {
+            "step": "Spin coating",
+            "details": "1000 rpm for 10 s and 4000 rpm for 40 s with chlorobenzene antisolvent"
+          },
+          {
+            "step": "Maltol post-treatment",
+            "details": "1 mg mL–1 maltol in toluene, spin-coated and annealed at 65 °C for 2 min"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "materials": [
+    {
+      "material_name": "C27H24N506Cd",
+      "synthesis_conditions": {
+        "temperature": "-100±1°C",
+        "equipment": "Rigaku AFC5S diffractometer",
+        "radiation": "Cu-Ka",
+        "scan_type": "w-20",
+        "scan_rate": "32.0°/min (in omega)",
+        "scan_width": "(1.37 + 0.30 tan 6)°",
+        "2theta_max": "119.6°",
+        "no_of_reflections_measured": "4410",
+        "no_of_reflections_unique": "4134",
+        "Rint": "0.025",
+        "corrections": "Lorentz-polarization, Absorption (trans. factors: 0.6866 - 1.1533)",
+        "structure_solution": "Patterson Methods (DIRDIF92 PATTY)",
+        "refinement": "Full-matrix least-squares",
+        "function_minimized": "Ew(|Fo| - |Fc|)^2",
+        "least_squares_weights": "w = 4Fo^2/sigma(Fo)^2 - sigma^2(Fo^2)",
+        "p-factor": "0.00",
+        "no_observations": "3447",
+        "no_variables": "448",
+        "reflection_parameter_ratio": "7.69",
+        "residuals_R": "0.036",
+        "residuals_Rw": "0.044",
+        "goodness_of_fit": "2.72",
+        "max_shift_error_in_final_cycle": "4.21",
+        "max_peak_in_final_diff_map": "0.65 e/A^3",
+        "min_peak_in_final_diff_map": "-0.45 e/A^3"
+      }
+    },
+    {
+      "material_name": "C27H18N5O6F6CCI",
+      "synthesis_conditions": {
+        "temperature": "23±1°C",
+        "equipment": "Rigaku AFG5S diffractometer",
+        "radiation": "Cu-Ka",
+        "scan_type": "w-20",
+        "scan_rate": "16.0°/min (in omega)",
+        "scan_width": "(1.21 + 0.30 tan 6)°",
+        "2theta_max": "120.1°",
+        "no_of_reflections_measured": "4642",
+        "no_of_reflections_unique": "4380",
+        "Rint": "0.030",
+        "corrections": "Lorentz-polarization, Absorption (trans. factors: 0.7625 - 1.2149)",
+        "structure_solution": "Direct Methods (SHELXS86)",
+        "refinement": "Full-matrix least-squares",
+        "function_minimized": "Ew(|Fo| - |Fc|)^2",
+        "least_squares_weights": "w = 4Fo^2/sigma(Fo)^2 - sigma^2(Fo^2)",
+        "p-factor": "0.007",
+        "no_observations": "3086",
+        "no_variables": "478",
+        "reflection_parameter_ratio": "6.46",
+        "residuals_R": "0.041",
+        "residuals_Rw": "0.046",
+        "goodness_of_fit": "2.32",
+        "max_shift_error_in_final_cycle": "2.49",
+        "max_peak_in_final_diff_map": "0.53 e/A^3",
+        "min_peak_in_final_diff_map": "-0.39 e/A^3"
+      }
+    }
+  ]
+}

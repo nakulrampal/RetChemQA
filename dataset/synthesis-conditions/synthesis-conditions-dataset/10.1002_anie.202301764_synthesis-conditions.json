@@ -1,0 +1,51 @@
+{
+  "materials": [
+    {
+      "name": "MOF {[Th6O4(OH)4(H2O)6(BCP)3]·10DMF}n (1)",
+      "synthesis_conditions": {
+        "temperature": "130 °C",
+        "solvents": "DMF/H2O mixed solvent",
+        "equipment": "Solvothermal reaction",
+        "chemicals_used": {
+          "Th(NO3)4": null,
+          "BCP": "5-(2,6-bis(4-carboxy-phenyl)-pyridin-4-yl)isophthalic acid"
+        },
+        "time": null,
+        "yield": null,
+        "stability_conditions": {
+          "air_stability": "400 °C for 3 h",
+          "DMF_stability": "200 °C for 7 days",
+          "water_stability": "200 °C for 7 days",
+          "acid_stability": "10 M HCl solution for 24 h"
+        }
+      }
+    },
+    {
+      "name": "UiO-67",
+      "synthesis_conditions": {
+        "reference": "Figure S6"
+      }
+    }
+  ],
+  "catalytic_tests": [
+    {
+      "material": "MOF {[Th6O4(OH)4(H2O)6(BCP)3]·10DMF}n (1)",
+      "reaction": "Reductive amination of aldehydes with DMF",
+      "conditions": {
+        "temperature": "160 °C",
+        "solvent": "DMF",
+        "catalyst_amount": "15 mg",
+        "water_amount": "0.35 mL",
+        "time": "12 h",
+        "yield": "98 % for benzaldehyde to N, N-dimethyl-1-phenylmethanamine (3a)"
+      },
+      "recyclability": "At least five times without significant loss in catalytic activity",
+      "selectivity": "High selectivity for aldehydes with different sizes"
+    }
+  ],
+  "mechanism_studies": {
+    "DMF_role": "Amine source, reductant, and solvent",
+    "water_role": "Auxiliary agent to promote the decomposition of DMF into formic acid",
+    "proposed_mechanism": "Activation of substrates by [Th6] nodes, decomposition of DMF into dimethylamine and formic acid, formation of quaternary ammonium cation intermediate, and reduction to tertiary amine products"
+  }
+}

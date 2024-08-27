@@ -1,0 +1,100 @@
+{
+  "materials": [
+    {
+      "name": "mCB-MOF-1",
+      "synthesis": [
+        {
+          "step": 1,
+          "chemicals": [
+            {
+              "name": "mCB-H2L",
+              "amount": "90 mg",
+              "molar_amount": "0.234 mmol"
+            },
+            {
+              "name": "DABCO",
+              "amount": "6.5 mg",
+              "molar_amount": "0.059 mmol"
+            },
+            {
+              "name": "DMF",
+              "amount": "5 mL"
+            },
+            {
+              "name": "H2O",
+              "amount": "1 mL"
+            },
+            {
+              "name": "Cu(NO3)2·6H2O",
+              "amount": "68 mg",
+              "molar_amount": "0.234 mmol",
+              "solvent": "ethanol",
+              "solvent_amount": "5 mL"
+            }
+          ],
+          "conditions": {
+            "temperature": "80 °C",
+            "time": "48 h",
+            "atmosphere": "air"
+          },
+          "yield": "50%",
+          "product": "greenish crystals of mCB-MOF-1"
+        },
+        {
+          "step": 2,
+          "description": "Crystals were washed with DMF and soaked in acetone for 3 days, filtered, dried in air, and then activated by heating at 130 °C under dynamic ultrahigh vacuum for 12 h."
+        }
+      ],
+      "characterization": {
+        "PXRD": {
+          "patterns": [
+            "simulated",
+            "experimental of mCB-MOF-1",
+            "desolvated mCB-MOF-1’"
+          ]
+        },
+        "TGA": {
+          "description": "TGA diagrams of as made mCB-MOF-1 and desolvated mCB-MOF-1’."
+        },
+        "WAXS": {
+          "description": "Variable temperature WAXS patterns of as-synthesized sample of mCB-MOF-1 under vacuum."
+        },
+        "CO2_adsorption_isotherms": {
+          "temperatures": [
+            "273 K",
+            "303 K",
+            "313 K"
+          ]
+        },
+        "SEM": {
+          "description": "SEM images showing crystal morphology of as made mCB-MOF-1 and that of mCB-MOF-1’ after being in water at 90ºC for one and two months."
+        },
+        "water_contact_angle": {
+          "powder": "144.2 ± 0.4",
+          "as_made_pellet": "100.9 ± 0.1"
+        }
+      },
+      "hydrolytic_stability": {
+        "conditions": [
+          "90 °C, water, 2 months",
+          "RT, pH=2, 48 h",
+          "90 °C, pH=11, 24 h"
+        ],
+        "results": {
+          "BET_surface_area": "756 m2/g",
+          "N2_uptake": "20 days in water (90°C): -",
+          "pore_volume": "0.31 cm3/g",
+          "ICP_results": "530 ppb"
+        }
+      },
+      "butanol_separation_performance": {
+        "comparison_with_ZIF-8": {
+          "description": "mCB-MOF-1 exhibits higher saturation uptake for all alcohols compared to ZIF-8, especially in the critical low-pressure region. mCB-MOF-1 forms stronger interactions with these molecules."
+        },
+        "IAST_selectivity_studies": {
+          "description": "IAST predicted isotherms and selectivity of a binary mixture of Butanol : Ethanol (0.85 : 0.15) at 313 K as a function of the total pressure."
+        }
+      }
+    }
+  ]
+}

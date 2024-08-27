@@ -1,0 +1,40 @@
+{
+  "materials": [
+    {
+      "name": "Compound 1",
+      "synthesis_conditions": {
+        "temperature": "solvothermal conditions",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": null
+          },
+          {
+            "name": "DMF",
+            "amount": null
+          }
+        ],
+        "equipment": null,
+        "chemicals_used": [
+          {
+            "name": "Co(NO3)2·6H2O",
+            "amount": null
+          },
+          {
+            "name": "KH(ox)",
+            "amount": null
+          },
+          {
+            "name": "azpy",
+            "amount": null
+          }
+        ],
+        "time": null,
+        "washing_method": null,
+        "drying_method": null,
+        "yield": null,
+        "additional_information": "azpy is reduced in situ to bphy during the reaction."
+      }
+    }
+  ]
+}

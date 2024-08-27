@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "question": "What is the relationship between the synthesis conditions of Zn2(TCPE-d16)(DEF)2·2DEF (1a) and its structural transformation upon heating?",
+      "answer": "The synthesis of Zn2(TCPE-d16)(DEF)2·2DEF (1a) involves heating a solution of H4TCPE-d16 and Zn(NO3)2·6H2O in a mixture of ethanol and N,N-diethylformamide (DEF) at 75 °C for 3 days. Upon heating above 150 °C, 1a undergoes significant structural changes, losing both bound and unbound DEF molecules, and transforms into a new phase, 1c, where fused 2D sheets bring phenyl rings on adjacent TPE cores in close proximity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the activation energy for phenyl ring flipping in 1b compare to that in free TPE, and what implications does this have for fluorescence in the MOF?",
+      "answer": "The experimentally determined activation energy for phenyl ring flipping in 1b is 43(6) kJ/mol, which is larger than that expected for free TPE by approximately 20 kJ/mol. This suggests that the torsion of the phenyl ring in 1b is impeded relative to solution-phase TPE, likely causing fluorescence turn-on in the TPE-based MOF.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The presence of guest solvent molecules in 1b prevents an Arrhenius analysis of phenyl ring dynamics.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to estimate the activation barrier for ring flipping in 1b, and what was the estimated value?",
+      "answer": "Density functional theory (DFT) was employed to calculate the activation barrier for ring flipping in 1b, estimating it at 49 kJ/mol.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What structural feature of 1b contributes to its higher activation energy for phenyl ring flipping compared to TPE?",
+      "answer": "The higher activation energy for phenyl ring flipping in 1b compared to TPE is attributed to the drawing of the TPE core by the framework in 1b, which forces steric interactions to occur during the ring flipping process.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The activation barrier for phenyl ring flipping in 1b is entirely electronic in origin.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role do low-energy vibrational modes play in the ring flipping process of TPE?",
+      "answer": "Low-energy vibrational modes in the TPE core minimize inter-ring steric interactions and allow ring flipping to occur with a low barrier, facilitating fluorescence in the solid state.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the synthesis of H4TCPE-d16 from perdeuterated benzene contribute to the study of phenyl ring dynamics in MOFs?",
+      "answer": "The synthesis of H4TCPE-d16 from perdeuterated benzene allows for the creation of a deuterated TPE-based MOF, which is structurally analogous to 1H. This enables the use of 2H NMR spectroscopy to determine the activation barrier for phenyl ring flipping in the material, contributing to the understanding of fluorescence turn-on mechanisms in MOFs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The activation energy for phenyl ring flipping in 1b is comparable to those of phenylene-linked porous materials.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental techniques were used to investigate the phenyl ring dynamics in 1a and 1c?",
+      "answer": "2H quadrupolar echo spectroscopy and 13C CP MAS NMR spectroscopy were used to investigate the phenyl ring dynamics in 1a and 1c, revealing insights into the temperature-dependent structural transformations and ring flipping frequencies.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The presence of guest DEF molecules in 1a prevents fast flipping of the TPE phenyl rings.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the Pake patterns observed in the 2H NMR spectra of 1a and 1c?",
+      "answer": "The Pake patterns observed in the 2H NMR spectra of 1a and 1c indicate the presence of slow exchange regimes for phenyl ring motion, with the patterns persisting up to certain temperatures. This provides evidence for the activation of phenyl ring flips upon heating and the influence of guest solvent molecules on the dynamics.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How do the structural changes in 1a upon heating above 150 °C affect its fluorescence properties?",
+      "answer": "Heating 1a above 150 °C causes loss of both bound and unbound DEF molecules and significant structural changes, leading to the formation of 1c. These changes bring phenyl rings on adjacent TPE cores in close proximity, potentially affecting the fluorescence properties by altering the phenyl ring dynamics.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The activation barrier for phenyl ring flipping in 1b is significantly higher than that in gas-phase TPE due to steric interactions enforced by the MOF framework.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What strategies are proposed for designing MOF sensors with tunable turn-on fluorescence from AIE-type molecules?",
+      "answer": "Strategies for designing MOF sensors with tunable turn-on fluorescence include spatially separating AIE-type chromophores to avoid aggregation, maintaining flexibility in the TPE core to preserve low-energy vibrational modes, and minimizing ligand conjugation to reduce the electronic component of the ring-flipping barrier.",
+      "difficulty": "hard",
+      "type": "factual"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "materials": [
+    {
+      "material": "Potassium Dinitrosomethanide (K-DNM)",
+      "synthesis_conditions": {
+        "temperature": "0°C to ambient, then reflux",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "60 mL"
+          },
+          {
+            "name": "isopropanol",
+            "amount": "20 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "formamidinium nitrate",
+            "amount": "1.92 g (17.9 mmol)"
+          },
+          {
+            "name": "hydroxylammonium nitrate",
+            "amount": "3.44 g (35.8 mmol)"
+          },
+          {
+            "name": "KOtBu",
+            "amount": "8.04 g (71.6 mmol)"
+          }
+        ],
+        "time": "0.75 h",
+        "yield": "1.27 g (63%)",
+        "drying_method": "in vacuo for 24 h at 40°C",
+        "additional_information": "Pure dry alkali DNM salts are stable at ambient temperature, are heat and shock sensitive, and decompose slowly in polar solvents, releasing N2O gas."
+      }
+    },
+    {
+      "material": "Other Alkali Dinitrosomethanides (Li-DNM, Na-DNM, Cs-DNM)",
+      "synthesis_conditions": {
+        "method": "Similar to K-DNM synthesis or by ion exchange reactions",
+        "note": "Li-DNM is only stable in solution."
+      }
+    }
+  ]
+}

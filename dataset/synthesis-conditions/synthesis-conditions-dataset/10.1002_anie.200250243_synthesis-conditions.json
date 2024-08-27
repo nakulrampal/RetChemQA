@@ -1,0 +1,38 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "precursors": [
+          "Li[Fe(bpy)(CN)4]",
+          "[Co(H2O)6](NO3)2"
+        ],
+        "solvents": [
+          "aqueous solution"
+        ],
+        "equipment": "H-shaped tube",
+        "light_conditions": "dark",
+        "yield": "practically quantitative",
+        "time": "a few weeks",
+        "additional_information": "metathetic reaction of PPh4[Fe(bpy)(CN)4]·H2O and LiClO4 in a 1:1 molar ratio in acetonitrile for iron salt preparation"
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "precursors": [
+          "PPh4[Fe(phen)(CN)4]·2 H2O",
+          "[Co(H2O)6](NO3)2"
+        ],
+        "solvents": [
+          "aqueous solution"
+        ],
+        "equipment": "H-shaped tube",
+        "light_conditions": "dark",
+        "yield": "quantitative",
+        "time": "not specified",
+        "additional_information": "procedure similar to 1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the principle behind the magnetic switching of molecules as described in the article?",
+      "answer": "The principle behind the magnetic switching of molecules involves light-driven coordination-induced spin-state switching (LD-CISSS), where individual molecules in homogeneous solution are switched between diamagnetic and paramagnetic states at room temperature by using photodissociable axial ligands to change the coordination number and concurrently the spin state of a central metal ion.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the substitution of azopyridines at the 4- and 4'-positions affect the switching efficiency?",
+      "answer": "The substitution of azopyridines at the 4- and 4'-positions with larger substituents increases the difference in trans and cis association constants, thus enhancing the switching efficiency. This is because larger substituents introduce steric hindrance that disfavors the binding conformations of the cis isomer, making the trans configuration more favorable for binding and thereby improving the efficiency of magnetic switching.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The magnetic switching process described in the article is reversible and does not produce any side products or fatigue over a large number of cycles.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role do photodissociable ligands (PDLs) play in the light-driven coordination-induced spin-state switching (LD-CISSS) concept?",
+      "answer": "Photodissociable ligands (PDLs) play a crucial role in the LD-CISSS concept by binding to the central metal ion in one of their configurations and dissociating upon light-induced isomerization to another configuration. This change in coordination number due to the association and dissociation of PDLs directly influences the spin state of the central metal ion, enabling the switching of magnetic properties of the molecule.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What experimental techniques were used to determine the association constants for the complexes involved in the magnetic switching?",
+      "answer": "1H NMR titration experiments were used to determine the association constants for the complexes involved in the magnetic switching. The chemical shift of the pyrrole protons in the porphyrin complex served as a sensitive probe for the formation of paramagnetic Ni–porphyrins, and the association constants were calculated using nonlinear titration curve fitting.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of azopyridine ligands influence the magnetic properties of Ni–porphyrin complexes?",
+      "answer": "The presence of azopyridine ligands in their trans configuration binds to the Ni–porphyrin as axial ligands, forming paramagnetic complexes. Upon light-induced isomerization to the cis configuration, the binding is significantly reduced due to steric hindrance, leading to the formation of diamagnetic square-planar Ni–porphyrin. This change in the coordination number and ligand configuration directly influences the magnetic properties of the complexes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The maximum switching efficiency (SEmax) is independent of the absolute concentrations of the components involved in the magnetic switching system.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational methods were used to optimize the structures of the azopyridines and their complexes?",
+      "answer": "The structures of the azopyridines and their complexes were optimized using the PBE/SVP level of theory. This computational method was employed to accurately predict the geometry and energy of the molecules and their interactions within the complexes, which is crucial for understanding the mechanism of magnetic switching.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study demonstrates the feasibility of switching the magnetic properties of molecules in solid state using light.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What potential applications are envisioned for the light-driven coordination-induced spin-state switching (LD-CISSS) approach?",
+      "answer": "The LD-CISSS approach opens new applications such as the switching of isolated molecules on surfaces, switching of the relaxivity of contrast agents for magnetic resonance imaging, and switching catalysis. These applications leverage the ability to control the magnetic properties of molecules at room temperature without cooperative interactions, offering innovative solutions in materials science, medical imaging, and catalysis.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "materials": [
+    {
+      "name": "Cu2[o-Br-C6H3(CO2)2]2(H2O)2·(DMF)8(H2O)2 (MOF-101)",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "o-Br-BDC acid",
+            "amount": "0.020 g, 0.082 mmol"
+          },
+          {
+            "name": "Cu(NO3)2·2.5H2O",
+            "amount": "0.019 g, 0.082 mmol"
+          }
+        ],
+        "equipment": "capped vial",
+        "yield": "67%",
+        "crystal_system": "Cubic",
+        "space_group": "Im-3m (No. 229)",
+        "unit_cell_dimensions": {
+          "a": "21.607(3) Å",
+          "b": "21.607(3) Å",
+          "c": "21.607(3) Å",
+          "alpha": "90°",
+          "beta": "90°",
+          "gamma": "90°"
+        },
+        "volume": "10088(2) Å3",
+        "Z": "6",
+        "density_calculated": "1.254 Mg/m3",
+        "absorption_coefficient": "1.884 mm-1",
+        "crystal_size": "0.18 x 0.16 x 0.10 mm3",
+        "theta_range_for_data_collection": "1.33 to 23.29°",
+        "index_ranges": "-23<=h<=24, -24<=k<=23, -23<=l<=23",
+        "reflections_collected": "33854",
+        "independent_reflections": "752 [R(int) = 0.3281]",
+        "completeness_to_theta": "99.9%",
+        "max_and_min_transmission": "0.9423 and 0.7140",
+        "refinement_method": "Full-matrix least-squares on F2",
+        "data_restraints_parameters": "752 / 4 / 56",
+        "goodness_of_fit_on_F2": "0.950",
+        "final_R_indices": {
+          "I_greater_than_2sigma(I)": "R1 = 0.0788, wR2 = 0.2215",
+          "all_data": "R1 = 0.1693, wR2 = 0.2840"
+        },
+        "largest_diff_peak_and_hole": "0.327 and -0.420 e.Å-3"
+      }
+    }
+  ]
+}

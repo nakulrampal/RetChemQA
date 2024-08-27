@@ -1,0 +1,99 @@
+{
+  "materials": [
+    {
+      "name": "ZrEBDC",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "40 mL"
+          },
+          {
+            "name": "formic acid",
+            "amount": "15 mL"
+          }
+        ],
+        "equipment": "100-mL screw-capped jar",
+        "chemicals_used": [
+          {
+            "name": "ZrOCl2·8H2O",
+            "amount": "2.5 g"
+          },
+          {
+            "name": "2-ethenylbenzene-1,4-dicarboxylic acid (H2EBDC)",
+            "amount": "1.5 g"
+          }
+        ],
+        "time": "12 h",
+        "washing_method": "washed three times with 50 mL of fresh DMF, rinsed in 150 mL of acetone",
+        "drying_method": "activated at 120 °C under vacuum for 12 h",
+        "yield": "2.2 g"
+      }
+    },
+    {
+      "name": "Single crystals of ZrEBDC",
+      "synthesis_conditions": {
+        "temperature": "heated to 135 °C",
+        "solvents": [
+          {
+            "name": "DEF",
+            "amount": "40 mL"
+          },
+          {
+            "name": "formic acid",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "100 mL Erlenmeyer flask, divided into 20 scintillation vials",
+        "chemicals_used": [
+          {
+            "name": "ZrOCl2·8H2O",
+            "amount": "240 mg"
+          },
+          {
+            "name": "H2EBDC",
+            "amount": "250 mg"
+          }
+        ],
+        "time": "72 h",
+        "yield": "110 mg"
+      }
+    },
+    {
+      "name": "ozo-ZrBDC",
+      "synthesis_conditions": {
+        "temperature": "-78 °C",
+        "solvents": [],
+        "equipment": "Pyrex tube, cotton pellets, ozone generator, dry ice/acetone bath, aqueous KI solution",
+        "chemicals_used": [],
+        "time": "30 min",
+        "additional_information": "Activated bulk ZrEBDC was grinded and mixed with single-crystal ZrEBDC, then ozonolysis was performed."
+      }
+    },
+    {
+      "name": "CHO-functionalized ZrBDC",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "Me2S (5% in 0.1M HCl/acetone)"
+          }
+        ],
+        "time": "12 h",
+        "additional_information": "Fully-converted ozo-ZrBDC was soaked in the solvent."
+      }
+    },
+    {
+      "name": "ZrBDC-COOH",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "H2O2 (10% aq.)"
+          }
+        ],
+        "time": "12 h",
+        "additional_information": "Fully-converted ozo-ZrBDC was soaked in the solvent."
+      }
+    }
+  ]
+}

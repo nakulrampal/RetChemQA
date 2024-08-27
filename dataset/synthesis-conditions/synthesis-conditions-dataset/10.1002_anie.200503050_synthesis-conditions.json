@@ -1,0 +1,85 @@
+{
+  "materials": [
+    {
+      "name": "Compound 1",
+      "synthesis_conditions": {
+        "starting_materials": [
+          "LiOtBu in THF",
+          "quinonoid complex [(h6-hydroquinone)Rh(cod)]+ (2)"
+        ],
+        "temperature": "Room temperature for mixing, then stored at -15 degrees Celsius",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "Not specified"
+          }
+        ],
+        "time": "Several weeks",
+        "yield": "68%",
+        "additional_information": "Deprotonation of 2 with a fivefold excess of LiOtBu leads to a homogeneous yellow solution that slowly deposited crystals of 1."
+      }
+    },
+    {
+      "name": "[Li(MeOH)4][(h4-quinone)Rh(cod)] (5)",
+      "synthesis_conditions": {
+        "starting_materials": [
+          "Residue from the preliminary synthesis of complexes 5-7",
+          "Methanol"
+        ],
+        "temperature": "-15 degrees Celsius for crystal formation",
+        "solvents": [
+          {
+            "name": "Methanol",
+            "amount": "1 mL"
+          },
+          {
+            "name": "THF",
+            "amount": "3 mL"
+          }
+        ],
+        "time": "Three weeks",
+        "yield": "55%",
+        "additional_information": "The residue was dissolved in methanol, filtered, and layered with THF before refrigeration."
+      }
+    },
+    {
+      "name": "[Li(EtOH)(h4-quinone)Rh(cod)] (6)",
+      "synthesis_conditions": {
+        "starting_materials": [
+          "Residue from the preliminary synthesis of complexes 5-7",
+          "Ethanol"
+        ],
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "Ethanol",
+            "amount": "2 mL"
+          }
+        ],
+        "time": "Two weeks",
+        "yield": "90%",
+        "additional_information": "The residue was dissolved in ethanol, filtered, and allowed to stand."
+      }
+    },
+    {
+      "name": "[Li(EtOH)(1,1-bis(4-hydroxyphenyl)methane)(h4-benzoquinone)Rh(cod)] (7)",
+      "synthesis_conditions": {
+        "starting_materials": [
+          "Residue from the preliminary synthesis of complexes 5-7",
+          "1,1-bis(4-hydroxyphenyl)methane",
+          "Ethanol"
+        ],
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "Ethanol",
+            "amount": "2 mL"
+          }
+        ],
+        "time": "Two weeks",
+        "yield": "64%",
+        "additional_information": "The residue and 1,1-bis(4-hydroxyphenyl)methane were dissolved in ethanol, filtered, and allowed to stand."
+      }
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "materials": [
+    {
+      "material_name": "1,4-Bis(isopropylthio)benzene",
+      "NMR_spectra": {
+        "solvent": "CDCl3",
+        "figure": "S1"
+      }
+    },
+    {
+      "material_name": "1,4-benzenedithiol",
+      "NMR_spectra": {
+        "solvent": "CDCl3",
+        "figure": "S2"
+      }
+    },
+    {
+      "material_name": "[TMA]2[Fe4S4(SPh)4]",
+      "NMR_spectra": {
+        "solvent": "CD3CN",
+        "figure": "S3"
+      }
+    },
+    {
+      "material_name": "1",
+      "digestion_experiments": {
+        "HCl_digest": {
+          "extract": "C6D6",
+          "figure": "S4"
+        },
+        "D2SO4_digest": {
+          "solvent": "(CD3)2SO",
+          "figure": "S5"
+        }
+      },
+      "X-ray_powder_diffraction": {
+        "beamline": "PROXIMA 2A",
+        "figure": "S8"
+      },
+      "ICP-MS_analysis": {
+        "Li_content": {
+          "as-synthesized": "1.4(7)%",
+          "after_treatment_with_R4N_PF6": "0.59%",
+          "after_treatment_with_Li_CF3SO3": "2.0%"
+        }
+      },
+      "treatment_experiments": {
+        "with_TBA_PF6": {
+          "XRPD_patterns": {
+            "before_and_after": "S13"
+          }
+        },
+        "chemical_reduction": {
+          "XRPD_patterns": {
+            "before_and_after": "S15"
+          }
+        },
+        "chemical_oxidation": {
+          "XRPD_patterns": {
+            "before_and_after": "S16"
+          }
+        },
+        "soaking_in_Li_CF3SO3_solution_in_THF": {
+          "XRPD_patterns": {
+            "before_and_after": "S21"
+          }
+        }
+      }
+    },
+    {
+      "material_name": "2",
+      "digestion_experiments": {
+        "HCl_digest": {
+          "extract": "CD2Cl2",
+          "figure": "S6"
+        },
+        "D2SO4_digest": {
+          "solvent": "(CD3)2SO",
+          "figure": "S7"
+        }
+      },
+      "ICP-MS_analysis": {
+        "Li_content": {
+          "as-synthesized": "7(3)%",
+          "after_treatment_with_R4N_PF6": "2.84%",
+          "after_treatment_with_Li_CF3SO3": "6.2%"
+        }
+      },
+      "treatment_experiments": {
+        "with_TMA_PF6": {
+          "XRPD_patterns": {
+            "before_and_after": "S14"
+          }
+        },
+        "chemical_reduction": {
+          "XRPD_patterns": {
+            "before_and_after": "S17"
+          }
+        },
+        "chemical_oxidation": {
+          "XRPD_patterns": {
+            "before_and_after": "S18"
+          }
+        },
+        "soaking_in_Li_CF3SO3_solution_in_THF": {
+          "XRPD_patterns": {
+            "before_and_after": "S22"
+          }
+        }
+      }
+    }
+  ]
+}

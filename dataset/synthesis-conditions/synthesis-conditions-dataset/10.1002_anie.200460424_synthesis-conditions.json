@@ -1,0 +1,78 @@
+{
+  "materials": [
+    {
+      "name": "L1",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation",
+          "temperature": "Not specified",
+          "solvents": [
+            {
+              "name": "Not specified",
+              "amount": "Not specified"
+            }
+          ],
+          "equipment": "Not specified",
+          "chemicals_used": [
+            "2,2’-bipyridine-3,3’-dimethanol"
+          ],
+          "time": "Not specified",
+          "washing_method": "Not specified",
+          "drying_method": "Not specified",
+          "yield": "24 % overall yield",
+          "additional_notes": "Prepared in five steps"
+        }
+      ]
+    },
+    {
+      "name": "[Hg2(L1)2Na2](ClO4)6",
+      "synthesis_conditions": [
+        {
+          "step": "Complex formation",
+          "temperature": "Not specified",
+          "solvents": [
+            {
+              "name": "MeCN",
+              "amount": "Not specified"
+            }
+          ],
+          "equipment": "Not specified",
+          "chemicals_used": [
+            "Hg(ClO4)2·3 H2O",
+            "L1",
+            "NaClO4 (3 equiv)"
+          ],
+          "time": "Until dissolution was complete",
+          "washing_method": "Slow diffusion of Et2O",
+          "drying_method": "Not specified",
+          "yield": "65 %"
+        }
+      ]
+    },
+    {
+      "name": "[Hg(L1)Ba](ClO4)4",
+      "synthesis_conditions": [
+        {
+          "step": "Complex formation",
+          "temperature": "Not specified",
+          "solvents": [
+            {
+              "name": "MeCN",
+              "amount": "Not specified"
+            }
+          ],
+          "equipment": "Not specified",
+          "chemicals_used": [
+            "Hg(ClO4)2·3 H2O",
+            "L1",
+            "Ba(ClO4)2 (3 equiv)"
+          ],
+          "time": "Until dissolution was complete",
+          "washing_method": "Slow diffusion of Et2O",
+          "drying_method": "Not specified",
+          "yield": "50 %"
+        }
+      ]
+    }
+  ]
+}

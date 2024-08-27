@@ -1,0 +1,60 @@
+{
+  "materials": [
+    {
+      "name": "Pt1+@Na3{Ni24[Cu24(Me3mpba)24]3}·54 H2O (1)",
+      "synthesis_conditions": {
+        "method": "solid-state post-synthetic (PS) method",
+        "precursors": [
+          "Ni2(Me3mpba)2]3}·54 H2O (1)",
+          "[Pt(NH3)4]2+"
+        ],
+        "products": [
+          "[Pt2+(NH3)4]0.7{Ni24[Cu24(Me3mpba)24]3}·65 H2O (2)",
+          "[Pt2+(m-O)(OH)2(NH3)4]0.5{Ni24[Cu24(Me3mpba)24]3}·79 H2O (3)"
+        ],
+        "reagents": [
+          "NaBH4"
+        ],
+        "equipment": [
+          "SC-XRD with synchrotron radiation"
+        ],
+        "characterization_techniques": [
+          "FT-infrared spectroscopy (IR)",
+          "Powder X-ray diffraction (PXRD)",
+          "N2 adsorption isotherms at 77 K",
+          "Quantitative X-ray photoelectron spectroscopy (XPS)",
+          "X-ray absorption near-edge structure (XANES) analysis",
+          "Extended X-ray absorption fine structure (EXAFS)"
+        ],
+        "yield": "Gram-scale"
+      }
+    },
+    {
+      "name": "Pt1+ single metal cations confined in MOF 3",
+      "synthesis_conditions": {
+        "method": "solid-state post-synthetic (PS) method followed by NaBH4 treatment",
+        "precursors": [
+          "Ni2(Me3mpba)2]3}·54 H2O (1)",
+          "[Pt(NH3)4]2+"
+        ],
+        "reagents": [
+          "NaBH4"
+        ],
+        "equipment": [
+          "SC-XRD with synchrotron radiation",
+          "aberration-corrected scanning transmission electron microscopy (AC-STEM, Z-contrast imaging)",
+          "high-angle annular dark field (HAADF)"
+        ],
+        "characterization_techniques": [
+          "FT-infrared spectroscopy (IR)",
+          "Powder X-ray diffraction (PXRD)",
+          "N2 adsorption isotherms at 77 K",
+          "Quantitative X-ray photoelectron spectroscopy (XPS)",
+          "X-ray absorption near-edge structure (XANES) analysis",
+          "Extended X-ray absorption fine structure (EXAFS)"
+        ],
+        "yield": "Gram-scale"
+      }
+    }
+  ]
+}

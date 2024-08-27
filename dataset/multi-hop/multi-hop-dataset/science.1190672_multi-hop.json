@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for the crystalline porous solid discussed, and what unique feature does it possess?",
+      "answer": "The chemical formula for the crystalline porous solid discussed is [Zn(Gly-Ala)2]·(solvent). It possesses adaptable porosity, meaning its pore volume can evolve smoothly from zero as the guest loading increases.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of low-energy torsions and displacements in the peptides affect the material's porosity?",
+      "answer": "The low-energy torsions and displacements of the peptides enable the available pore volume to evolve smoothly from zero as the guest loading increases, allowing for adaptable porosity.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What role does the flexible peptide linker play in the material's structure?",
+      "answer": "The flexible peptide linker plays a pivotal role in changing the pore conformation, contributing to the material's adaptable porosity.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the material's response to guest loading resemble protein behavior?",
+      "answer": "The material's response to guest loading, showing cooperative feedback in sorption isotherms, resembles the response of proteins undergoing conformational selection, suggesting an energy landscape similar to that required for protein folding.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the observed gating pressure in the sorption experiments?",
+      "answer": "The observed gating pressure in the sorption experiments indicates a threshold pressure above which sorption occurs rapidly, demonstrating the material's ability to adapt its porosity in response to guest species, similar to cooperative binding observed in biological systems.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystalline porous solid's porosity is fixed and does not change in response to guest species.",
+      "answer": "False. The crystalline porous solid has adaptable porosity, meaning its porosity can change in response to guest species.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The material's ability to adapt its porosity is limited by the metal coordination geometry.",
+      "answer": "False. The adaptability of the material's porosity is not limited by the metal coordination geometry due to the degrees of freedom available to the linkers.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental techniques were used to characterize the crystalline porous solid?",
+      "answer": "Experimental techniques used to characterize the crystalline porous solid included powder X-ray diffraction analysis, molecular dynamics simulations, density functional theory calculations, and solid-state NMR spectroscopy.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the material's structure respond to the removal of solvent molecules?",
+      "answer": "Upon removal of solvent molecules, the material's structure undergoes a transition from an open to a partially disordered closed structure, as indicated by changes in the powder X-ray diffraction pattern and supported by molecular dynamics simulations.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The material's structure remains unchanged upon guest removal.",
+      "answer": "False. The material's structure becomes partially disordered upon guest removal, indicating a change from its initial open structure.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

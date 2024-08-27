@@ -1,0 +1,164 @@
+{
+  "materials": [
+    {
+      "name": "Fe-BTTri",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "details": {
+            "temperature": "120 °C",
+            "solvents": [
+              {
+                "name": "DMF",
+                "amount": "8 mL"
+              },
+              {
+                "name": "methanol",
+                "amount": "2 mL"
+              }
+            ],
+            "equipment": "25 mL Schlenk flask",
+            "chemicals_used": [
+              {
+                "name": "H3BTTri",
+                "amount": "50 mg",
+                "molar_equivalent": "1.0 equiv",
+                "mmol": "0.18 mmol"
+              },
+              {
+                "name": "dimethylformamidium trifluoromethanesulfonate",
+                "amount": "180 mg",
+                "molar_equivalent": "4.5 equiv",
+                "mmol": "0.81 mmol"
+              },
+              {
+                "name": "FeCl2",
+                "amount": "230 mg",
+                "molar_equivalent": "10 equiv",
+                "mmol": "1.8 mmol"
+              }
+            ],
+            "time": "10 days"
+          }
+        },
+        {
+          "step": "Washing with DMF",
+          "details": {
+            "temperature": "120 °C",
+            "solvent": "DMF",
+            "amount": "10 mL",
+            "time": "12 h",
+            "repetitions": "9 times",
+            "total_time": "5 days"
+          }
+        },
+        {
+          "step": "Washing with methanol",
+          "details": {
+            "temperature": "60 °C",
+            "solvent": "methanol",
+            "amount": "10 mL",
+            "time": "12 h",
+            "repetitions": "9 times",
+            "total_time": "5 days"
+          }
+        },
+        {
+          "step": "Drying",
+          "details": {
+            "temperature": "180 °C",
+            "vacuum": "<0.01 mbar",
+            "time": "2 days"
+          }
+        }
+      ],
+      "yield": "50 mg (66%)",
+      "elemental_analysis": {
+        "found": {
+          "C": "37.40",
+          "H": "2.20",
+          "N": "30.05"
+        },
+        "calculated": {
+          "C": "37.53",
+          "H": "2.52",
+          "N": "30.03"
+        }
+      }
+    },
+    {
+      "name": "Single Crystals of Fe-BTTri",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "details": {
+            "temperature": "160 °C",
+            "solvents": [
+              {
+                "name": "DMF",
+                "amount": "8 mL"
+              },
+              {
+                "name": "methanol",
+                "amount": "2 mL"
+              }
+            ],
+            "equipment": "stainless steel bomb",
+            "chemicals_used": [
+              {
+                "name": "H3BTTri",
+                "amount": "12 mg",
+                "molar_equivalent": "2.2 equiv",
+                "mmol": "0.043 mmol"
+              },
+              {
+                "name": "dimethylformamidium trifluoromethanesulfonate",
+                "amount": "24 mg",
+                "molar_equivalent": "5.4 equiv",
+                "mmol": "0.11 mmol"
+              },
+              {
+                "name": "FeCl2",
+                "amount": "2.5 mg",
+                "molar_equivalent": "1.0 equiv",
+                "mmol": "0.020 mmol"
+              }
+            ],
+            "time": "3 days"
+          }
+        },
+        {
+          "step": "Washing with DMF",
+          "details": {
+            "temperature": "120 °C",
+            "solvent": "DMF",
+            "amount": "10 mL",
+            "time": "12 h",
+            "repetitions": "4 times",
+            "total_time": "5 days"
+          }
+        },
+        {
+          "step": "Washing with methanol",
+          "details": {
+            "temperature": "60 °C",
+            "solvent": "methanol",
+            "amount": "10 mL",
+            "time": "12 h",
+            "repetitions": "9 times",
+            "total_time": "5 days"
+          }
+        },
+        {
+          "step": "Drying",
+          "details": {
+            "temperature": "150 °C",
+            "vacuum": "<0.01 mbar",
+            "time": "2 days"
+          }
+        }
+      ],
+      "yield": "∼2 mg of pale red crystals"
+    }
+  ]
+}

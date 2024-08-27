@@ -1,0 +1,167 @@
+{
+  "materials": [
+    {
+      "material": "2,5-bis((2-t-butylhydrazono)(p-tolyl)methyl)-pyrrole (tBu,TolDHP•2HCl)",
+      "synthesis": {
+        "temperature": "115 °C",
+        "solvents": [
+          {
+            "name": "toluene",
+            "amount": "250 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "2,5-ditolylacylpyrrole",
+            "amount": "3.0 g",
+            "molar_amount": "9.9 mmol"
+          },
+          {
+            "name": "t-butyl hydrazine",
+            "amount": "6.1 g",
+            "molar_amount": "70 mmol"
+          },
+          {
+            "name": "2 M hydrogen chloride in diethyl ether",
+            "amount": "10 mL"
+          }
+        ],
+        "time": "5 days",
+        "yield": "66%",
+        "washing_method": "filtered through Celite",
+        "drying_method": "evaporated to dryness"
+      }
+    },
+    {
+      "material": "[tBu,TolDHP●]Ni (1)",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "40 mL"
+          },
+          {
+            "name": "benzene",
+            "post_reaction": true
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "tBu,TolDHP•2HCl",
+            "amount": "0.47 g",
+            "molar_amount": "0.92 mmol"
+          },
+          {
+            "name": "2.5 M n-BuLi in hexanes",
+            "amount": "1.5 mL",
+            "molar_amount": "4 equiv"
+          },
+          {
+            "name": "NiCl2DME"
+          }
+        ],
+        "time": "overnight",
+        "yield": "43%",
+        "washing_method": "passed through a silica plug",
+        "drying_method": "evaporated to dryness"
+      }
+    },
+    {
+      "material": "[tBu,TolDHP]NiOTf (2)",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "5 mL"
+          },
+          {
+            "name": "benzene",
+            "post_reaction": true,
+            "amount": "10 mL"
+          },
+          {
+            "name": "petroleum ether",
+            "washing": true,
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "1",
+            "amount": "0.050 g",
+            "molar_amount": "0.1 mmol"
+          },
+          {
+            "name": "AgOTf",
+            "amount": "0.026 g",
+            "molar_amount": "0.1 mmol",
+            "solvent": "THF",
+            "solvent_amount": "2 mL"
+          }
+        ],
+        "yield": "80%",
+        "washing_method": "filtered and washed with petroleum ether",
+        "drying_method": "evaporated to dryness"
+      }
+    },
+    {
+      "material": "[tBu,TolDHP]NiO2 (3)",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "benzene",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "1",
+            "amount": "0.023 g",
+            "molar_amount": "0.046 mmol"
+          }
+        ],
+        "additional_steps": [
+          {
+            "step": "exposure to air",
+            "description": "air was bubbled through the solution for 30 seconds"
+          }
+        ],
+        "yield": "90%",
+        "drying_method": "all volatiles were removed under vacuum"
+      }
+    },
+    {
+      "material": "[tBu,TolDHP]NiO2 (3) from [tBu,TolDHP]NiOTf (2) with KO2",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "2",
+            "amount": "0.013 g",
+            "molar_amount": "0.02 mmol"
+          },
+          {
+            "name": "KO2",
+            "amount": "0.0015 g",
+            "molar_amount": "0.02 mmol",
+            "solvent": "THF",
+            "solvent_amount": "1 mL"
+          }
+        ],
+        "time": "1 hour",
+        "additional_steps": [
+          {
+            "step": "reaction",
+            "description": "stirred for 1 hour, slowly turning from deep blue to dark red"
+          }
+        ],
+        "drying_method": "evaporated under vacuum"
+      }
+    }
+  ]
+}

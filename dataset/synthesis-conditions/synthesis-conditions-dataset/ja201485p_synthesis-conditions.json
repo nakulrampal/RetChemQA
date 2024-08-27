@@ -1,0 +1,114 @@
+{
+  "materials": [
+    {
+      "name": "4,7-Dibromo-2-(heptadecan-9-yl)-2H-benzo[1,2,3]triazole 3",
+      "synthesis_conditions": {
+        "temperature": "0 °C to room temperature",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "50 cm3"
+          }
+        ],
+        "chemicals_used": [
+          "4,7-dibromobenzotriazole 1",
+          "heptadecan-9-ol 2",
+          "PPh3",
+          "diisopropyl azodicarboxylate (DIAD)"
+        ],
+        "time": "3 h",
+        "yield": "50%",
+        "purification_method": "flash column chromatography, crystallization",
+        "purification_solvents": [
+          "CH2Cl2:hexanes 1:3",
+          "isopropanol/hexanes"
+        ]
+      }
+    },
+    {
+      "name": "Dipotassium [2-(heptadecan-9-yl)-2H-benzotriazole]-4,7-bis(trifluoroborate) 4",
+      "synthesis_conditions": {
+        "temperature": "-78 °C to room temperature",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "30 cm3"
+          },
+          {
+            "name": "MeOH",
+            "amount": "70 cm3"
+          }
+        ],
+        "chemicals_used": [
+          "2-alkyl-4,7-dibromobenzotriazole 3",
+          "tBuLi",
+          "2-isopropoxy-4,4,5,5-tetramethyl[1,3,2]dioxaborolane",
+          "KHF2"
+        ],
+        "time": "1.5 h",
+        "yield": "47%",
+        "purification_method": "recrystallization",
+        "purification_solvents": [
+          "acetone/Et2O/water"
+        ]
+      }
+    },
+    {
+      "name": "P1 (benzotriazole:benzothiadiazole alternating copolymer)",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "toluene",
+            "amount": "10 cm3"
+          },
+          {
+            "name": "water",
+            "amount": "8 cm3"
+          }
+        ],
+        "chemicals_used": [
+          "benzotriazole-4,7-bis(trifluoroborate) 4",
+          "4,7-dibromobenzothiadiazole 5",
+          "Pd(PPh3)4",
+          "Et4NOH",
+          "LiOH·H2O",
+          "phenylboronic acid",
+          "bromobenzene"
+        ],
+        "time": "5 h",
+        "purification_method": "filtration, Soxhlet extraction with acetone",
+        "yield": "Not specified"
+      }
+    },
+    {
+      "name": "P2 (benzotriazole:benzothiadiazole:bithiophene statistical copolymer)",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "toluene",
+            "amount": "10 cm3"
+          },
+          {
+            "name": "water",
+            "amount": "8 cm3"
+          }
+        ],
+        "chemicals_used": [
+          "benzotriazole-4,7-bis(trifluoroborate) 4",
+          "4,7-dibromobenzothiadiazole 5",
+          "5,5´-dibromo-2,2´-bithiophene",
+          "Pd(PPh3)4",
+          "Et4NOH",
+          "LiOH·H2O",
+          "phenylboronic acid",
+          "bromobenzene"
+        ],
+        "time": "5 h",
+        "purification_method": "filtration, Soxhlet extraction with acetone",
+        "yield": "Not specified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "question": "What is the DOI of the article discussing the removal of acetylene from ethylene/acetylene mixtures using a microporous metal–organic framework?",
+      "answer": "10.1038/ncomms8328",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main challenge in removing acetylene from ethylene/acetylene mixtures as mentioned in the article?",
+      "answer": "The main challenge is the technologically important but highly challenging task of efficiently removing acetylene from ethylene/acetylene mixtures containing 1% acetylene.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the drawbacks of the current commercial approaches for acetylene removal mentioned in the article?",
+      "answer": "The drawbacks include the need for a noble metal catalyst and the loss of olefins due to over hydrogenation to paraffins in the partial hydrogenation process, and significant solvent waste in the solvent extraction process.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "According to the article, what makes microporous metal–organic frameworks (MOFs) particularly interesting for gas separation?",
+      "answer": "Microporous MOFs are interesting for gas separation because their pores can be straightforwardly and rationally tuned to enforce size selective sieving effects, and their pore surfaces can be readily functionalized to induce preferential interactions with specific gas molecules.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the name of the microporous MOF reported in the article for highly efficient removal of acetylene from ethylene/acetylene mixtures?",
+      "answer": "The microporous MOF reported is named UTSA-100.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does UTSA-100 achieve superior performance in the separation of acetylene from ethylene/acetylene mixtures?",
+      "answer": "UTSA-100 achieves superior performance through suitable pore/cage spaces that preferentially take up much more acetylene than ethylene, and functional amine groups on the pore/cage surfaces that further enforce interactions with acetylene molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the amino derivative of tetrazol-1,3-benzenedicarboxylic acid (H2ATBDC) in the synthesis of UTSA-100?",
+      "answer": "H2ATBDC acts as the organic linker in the synthesis of UTSA-100, reacting with CuCl2 under solvothermal conditions to form the framework of UTSA-100.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the porosity of UTSA-100a permanent according to the article?",
+      "answer": "Yes, the porosity of UTSA-100a is permanent, as indicated by the type I isotherm showing a very sharp uptake at low pressure, which clearly demonstrates its microporous nature.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the article claim that UTSA-100a has the highest acetylene uptake among all examined MOFs?",
+      "answer": "False, the article mentions that UTSA-100a has a moderately high acetylene uptake, but it does not claim it has the highest uptake among all examined MOFs.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "According to the article, is the regeneration energy requirement of UTSA-100a lower than that of MOFs with coordinately unsaturated metal atoms?",
+      "answer": "True, the article implies that the regeneration energy requirement of UTSA-100a will be lower than that of MOFs with coordinately unsaturated metal atoms, as indicated by the lower isosteric heat of adsorption (Qst) values.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental technique was used to confirm the phase purity of the bulk material of UTSA-100?",
+      "answer": "The phase purity of the bulk material of UTSA-100 was independently confirmed by powder X-ray diffraction (PXRD).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the article demonstrate the feasibility of UTSA-100a for industrial application in ethylene purification?",
+      "answer": "The feasibility of UTSA-100a for industrial application in ethylene purification is demonstrated through simulated and experimental column breakthrough curves, showing efficient separation of C2H2/C2H4 mixtures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the amino and tetrazole functionalized wall in the structure of UTSA-100 according to the article?",
+      "answer": "The amino and tetrazole functionalized wall in the structure of UTSA-100 contributes to the selective binding and high uptake of acetylene by providing multiple-point interactions with acetylene molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "According to the article, does UTSA-100a exhibit higher selectivity for C2H2/C2H4 separation compared to NOTT-300 and FeMOF-74?",
+      "answer": "True, the article indicates that UTSA-100a has significantly higher selectivity for C2H2/C2H4 separation compared to NOTT-300 and FeMOF-74, as shown by IAST calculations.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the performance of UTSA-100a in fixed-bed adsorbers solely determined by adsorption selectivity according to the article?",
+      "answer": "False, the performance of UTSA-100a in fixed-bed adsorbers is determined by a combination of adsorption selectivity and uptake capacity, not solely by adsorption selectivity.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

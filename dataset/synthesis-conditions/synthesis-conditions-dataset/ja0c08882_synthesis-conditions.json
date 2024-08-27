@@ -1,0 +1,105 @@
+{
+  "materials": [
+    {
+      "name": "2D-Co-MOF",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "time": "9 days",
+        "solvents": [
+          {
+            "name": "pyridine",
+            "amount": "60 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[Co4O4(OAc)4(py)4]",
+            "amount": "0.46 mmol"
+          },
+          {
+            "name": "2,2′-bipyridine-4,4′-dicarboxylic acid (bda)",
+            "amount": "1.84 mmol"
+          },
+          {
+            "name": "trifluoroacetic acid (TFA)",
+            "amount": "8 equivalents"
+          }
+        ],
+        "equipment": "stainless steel autoclave",
+        "washing_method": "acetone",
+        "drying_method": "vacuum at room temperature",
+        "yield": "Not specified"
+      },
+      "characterization": {
+        "elemental_analysis": {
+          "C": "55.07%",
+          "H": "3.05%",
+          "N": "10.77%",
+          "Co": "15.05%"
+        },
+        "thermogravimetric_analysis": {
+          "first_mass_loss_temp": "120 °C",
+          "second_mass_loss_temp": "400 °C",
+          "description": "First mass loss ascribed to solvent, second to loss of pyridine and bda ligands"
+        },
+        "powder_x-ray_diffraction": {
+          "description": "Matched with calculated pattern from single crystal X-ray diffraction"
+        },
+        "single_crystal_x-ray_diffraction": {
+          "temperature": "120 K",
+          "crystal_system": "Monoclinic",
+          "space_group": "P21/c",
+          "unit_cell_dimensions": {
+            "a": "11.0019 Å",
+            "b": "11.2711 Å",
+            "c": "14.0615 Å",
+            "alpha": "90°",
+            "beta": "97.279°",
+            "gamma": "90°"
+          },
+          "volume": "1729.62 Å³",
+          "z": "4",
+          "density_calculated": "1.531",
+          "absorption_coefficient": "1.022"
+        },
+        "adsorption_measurements": {
+          "CO2_adsorption_capacity": "1.1 mmol/g at 0 °C and 100 kPa",
+          "surface_area": "61 m²/g"
+        },
+        "chemical_stability": {
+          "solvents_tested": ["EtOH", "CH3CN", "Et3N (pH 12.7)"],
+          "stability_outcome": "Stable in EtOH and CH3CN, significant structural changes with water"
+        }
+      }
+    },
+    {
+      "name": "2D-Co-MOF@Nafion",
+      "synthesis_conditions": {
+        "activation_method": "Electrochemical activation",
+        "activation_details": {
+          "potential_pulse": "1.2V vs. NHE",
+          "time": "30 min"
+        },
+        "composite_preparation": {
+          "2D-Co-MOF_suspension": "5 mg/mL in 1% v/v Nafion solution",
+          "drop_cast_amount": "~10µL",
+          "drying_method": "Room temperature overnight"
+        }
+      },
+      "characterization": {
+        "electrochemical_performance": {
+          "OER_overpotential_at_2mA_cm2": "548 mV",
+          "Tafel_slope": "88 mV dec⁻¹",
+          "TOF_value_at_400mV_overpotential": "0.034 s⁻¹",
+          "solution": "0.1 M sodium phosphate buffer at pH 7",
+          "substrate": "Pyrolytic graphite electrode"
+        },
+        "stability": {
+          "chronoamperometric_current_density": "~2 mA cm⁻² after 9h",
+          "Faradaic_efficiency": "77%",
+          "activity_loss_after_7_days": "50%"
+        }
+      }
+    }
+  ]
+}

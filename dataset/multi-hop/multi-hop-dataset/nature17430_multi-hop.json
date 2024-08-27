@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the primary material discussed in the research and its unique property?",
+      "answer": "The primary material discussed is DUT-49, a Metal–Organic Framework (MOF), which exhibits a unique property of Negative Gas Adsorption (NGA).",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What gases were used in the adsorption experiments with DUT-49?",
+      "answer": "Methane (CH4) and n-butane (C4H10) were used in the adsorption experiments with DUT-49.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature and pressure range does DUT-49 exhibit Negative Gas Adsorption for methane?",
+      "answer": "DUT-49 exhibits Negative Gas Adsorption for methane at 111 K within a defined temperature and pressure range around 10 kPa.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What structural transition occurs in DUT-49 during the Negative Gas Adsorption phenomenon?",
+      "answer": "During the Negative Gas Adsorption phenomenon, DUT-49 undergoes a structural transition from an open-pore structure (DUT-49op) to a contracted-pore structure (DUT-49cp).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the adsorption enthalpy change for methane in DUT-49op compared to DUT-49cp?",
+      "answer": "The adsorption enthalpy for methane is higher in DUT-49cp compared to DUT-49op, indicating a stronger interaction with methane in the contracted-pore structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental technique was used to monitor the structural changes in DUT-49 during gas adsorption?",
+      "answer": "In situ Powder X-ray Diffraction (PXRD) and Extended X-ray Absorption Fine Structure (EXAFS) were used to monitor the structural changes in DUT-49 during gas adsorption.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The coordination environment of Cu atoms in DUT-49 remains unchanged during the structural transitions.",
+      "answer": "True. EXAFS analysis confirmed that the Cu2(COO)4-paddle-wheel units remain unaltered during the structural transitions in DUT-49.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the wide hysteresis loop observed in DUT-49's adsorption isotherms?",
+      "answer": "The wide hysteresis loop observed in DUT-49's adsorption isotherms is significant because it indicates a large domain of metastability of the open pore phase, extending widely beyond the equilibrium transition, which is a prerequisite for the occurrence of Negative Gas Adsorption.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Negative Gas Adsorption in DUT-49 can occur at thermodynamic equilibrium.",
+      "answer": "False. Negative Gas Adsorption in DUT-49 cannot occur at thermodynamic equilibrium and necessarily involves a metastable phase.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What theoretical condition is necessary for the occurrence of Negative Gas Adsorption in MOFs like DUT-49?",
+      "answer": "A necessary theoretical condition for the occurrence of Negative Gas Adsorption in MOFs like DUT-49 is the existence of a two-state (bistable) porous material where the empty open pore form is thermodynamically more stable at working temperature, and a large domain of metastability of the open pore phase.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "materials": [
+    {
+      "name": "NU-2000",
+      "synthesis_conditions": {
+        "temperature": "200 °C",
+        "time": "48 h",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "bicyclo[2.2.2]octane-1,4-dicarboxylic acid",
+            "amount": "137 mg, 0.69 mmol"
+          },
+          {
+            "name": "aluminum chloride hexahydrate",
+            "amount": "335 mg, 1.39 mmol"
+          }
+        ],
+        "washing_method": [
+          {
+            "solvent": "water",
+            "times": "3"
+          },
+          {
+            "solvent": "DMF",
+            "temperature": "120 °C",
+            "times": "3"
+          },
+          {
+            "solvent": "acetone",
+            "times": "3",
+            "soak": "overnight"
+          }
+        ],
+        "drying_method": "vacuum oven at 80 °C",
+        "activation": "dynamic vacuum at 300 °C"
+      }
+    },
+    {
+      "name": "NU-2001",
+      "synthesis_conditions": {
+        "temperature": "200 °C",
+        "time": "48 h",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "bicyclo[2.2.2]octane-1,4-dicarboxylic acid",
+            "amount": "50 mg, 0.25 mmol"
+          },
+          {
+            "name": "vanadium chloride",
+            "amount": "157 mg, 1.00 mmol"
+          }
+        ],
+        "washing_method": [
+          {
+            "solvent": "water",
+            "times": "3"
+          },
+          {
+            "solvent": "DMF",
+            "temperature": "120 °C",
+            "times": "3"
+          },
+          {
+            "solvent": "acetone",
+            "times": "3",
+            "soak": "overnight"
+          }
+        ],
+        "drying_method": "vacuum oven at 80 °C",
+        "activation": "dynamic vacuum at 300 °C"
+      }
+    }
+  ]
+}

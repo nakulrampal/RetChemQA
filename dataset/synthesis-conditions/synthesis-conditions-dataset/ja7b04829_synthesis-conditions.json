@@ -1,0 +1,74 @@
+{
+  "materials": [
+    {
+      "name": "PdTCPP",
+      "synthesis_conditions": {
+        "chemicals_used": "phenylsulfenyl chloride (1.4 g, 10 mmol), 4-mercaptopyridine (1.7 g, 15 mmol), Et3N (3.0 g, 30 mmol)",
+        "solvents": "dry ether (5 mL), n-pentane (10 mL)",
+        "temperature": "-78 oC to 0 oC",
+        "equipment": "N/A",
+        "time": "0.5 h at -78 oC",
+        "yield": "N/A",
+        "washing_method": "water (2×10 mL)",
+        "drying_method": "Na2SO4",
+        "purification_method": "silica gel column chromatography (petroleum ether)"
+      }
+    },
+    {
+      "name": "Zn2(PdTCPP)",
+      "synthesis_conditions": {
+        "chemicals_used": "PdTCPP (9.2 mg, 0.01 mmol), Zn(NO3)2·6H2O (8.9 mg, 0.03 mmol), HNO3 (10 μL, 1 M in ethanol)",
+        "solvents": "DEF (1.5 mL), ethanol (0.5 mL)",
+        "temperature": "80 °C",
+        "equipment": "small capped vial",
+        "time": "24 h",
+        "yield": "N/A",
+        "washing_method": "N/A",
+        "drying_method": "N/A",
+        "purification_method": "N/A"
+      }
+    },
+    {
+      "name": "Zn2(PdTCPP)(DPDS)2 (Intercalated Crystals)",
+      "synthesis_conditions": {
+        "chemicals_used": "PPF-1 or Zn2(PdTCPP) (0.01 mmol), DPDS (11.0 mg, 0.05 mmol)",
+        "solvents": "DEF (1.5 mL), ethanol (0.5 mL)",
+        "temperature": "room temperature",
+        "equipment": "capped vial",
+        "time": "~12 h",
+        "yield": "N/A",
+        "washing_method": "DEF/ethanol solutions several times over 24 h",
+        "drying_method": "N/A",
+        "purification_method": "N/A"
+      }
+    },
+    {
+      "name": "Exfoliated MOF Nanosheets",
+      "synthesis_conditions": {
+        "chemicals_used": "PMe3 (20 μL, 1 M in THF)",
+        "solvents": "ethanol (2 mL)",
+        "temperature": "room temperature",
+        "equipment": "capped vial under N2 atmosphere",
+        "time": "~10 h",
+        "yield": "~57%",
+        "washing_method": "centrifuging three times at 2000 rpm for 5 min",
+        "drying_method": "N/A",
+        "purification_method": "centrifugation"
+      }
+    },
+    {
+      "name": "Sonication-Exfoliated MOF Nanosheets",
+      "synthesis_conditions": {
+        "chemicals_used": "Zn2(PdTCPP) crystals (5 mg)",
+        "solvents": "ethanol (5 mL)",
+        "temperature": "N/A",
+        "equipment": "ultrasonic bath (110 W, 40 KHz)",
+        "time": "60 min",
+        "yield": "~10%",
+        "washing_method": "N/A",
+        "drying_method": "N/A",
+        "purification_method": "sedimentation for 12 h"
+      }
+    }
+  ]
+}

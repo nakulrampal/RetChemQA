@@ -1,0 +1,44 @@
+{
+  "materials": [
+    {
+      "name": "[Hmim][(UO2)2(1,2,4-taz)5]·3mim",
+      "synthesis_conditions": {
+        "temperature": "120° to 130°C",
+        "solvents": [
+          {
+            "name": "1-Methylimidazole",
+            "amount": "3 molar equivalent",
+            "preparation": "distilled before use under reduced pressure (boiling point, 148° to 150°C)"
+          }
+        ],
+        "equipment": "borosilicate glass culture tube, temperature-controlled oil bath",
+        "chemicals_used": [
+          {
+            "name": "UO2(OAc)2·2H2O",
+            "amount": "ca. 50 mg"
+          },
+          {
+            "name": "1,2,4-taz",
+            "amount": "6 molar equivalent"
+          },
+          {
+            "name": "LiOAc",
+            "amount": "1 molar equivalent"
+          }
+        ],
+        "time": "24 hours",
+        "atmosphere": "ambient",
+        "method": "The reaction mixture was homogenized by briefly grinding by hand with a glass stirring rod, then heated unsealed."
+      },
+      "instrumental_analysis": {
+        "microscope": "Nikon LABOPHOT-POL optical polarizing microscope",
+        "SCXRD": {
+          "equipment": "Bruker diffractometer with a PLATFORM three-circle goniometer and an APEX II charge-coupled device area detector",
+          "radiation": "Mo-Kα radiation (λ = 0.71054 Å)",
+          "temperature": "-100°C",
+          "cryostat": "N-HeliX cryostat (Oxford Cryosystems, Oxford, UK)"
+        }
+      }
+    }
+  ]
+}

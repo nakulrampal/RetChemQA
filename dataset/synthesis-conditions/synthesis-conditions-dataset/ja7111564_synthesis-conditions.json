@@ -1,0 +1,101 @@
+{
+  "materials": [
+    {
+      "material": "[(ZnI2)3(1)2(2a)(C6H5NO2)x]n",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "solvent": "nitrobenzene/methanol gradient solution",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "chemical": "tris(4-pyridyl)triazine (1)",
+            "amount": "not specified"
+          },
+          {
+            "chemical": "1-aminotriphenylene (2a)",
+            "amount": "not specified"
+          },
+          {
+            "chemical": "ZnI2",
+            "amount": "not specified"
+          }
+        ],
+        "yield": "good",
+        "other_conditions": "Red single crystals were isolated."
+      }
+    },
+    {
+      "material": "[(ZnI2)3(1)2(3a)(C6H5NO2)x(CH3CHO)y]n",
+      "synthesis_conditions": {
+        "starting_material": "[(ZnI2)3(1)2(2a)(C6H5NO2)x]n",
+        "solvents": [
+          {
+            "solvent": "nitrobenzene",
+            "amount": "not specified"
+          },
+          {
+            "solvent": "acetaldehyde",
+            "amount": "20 wt %"
+          }
+        ],
+        "temperature": "room temperature",
+        "time": "4 hours",
+        "color_change": "red to yellow",
+        "other_conditions": "Crystals were immersed in solution."
+      }
+    },
+    {
+      "material": "[(ZnI2)3(1)2(4a)(C5H11CHO)x]n",
+      "synthesis_conditions": {
+        "starting_material": "[(ZnI2)3(1)2(2a)(C6H5NO2)x]n",
+        "solvents": [
+          {
+            "solvent": "hexanal",
+            "amount": "not specified"
+          }
+        ],
+        "temperature": "room temperature",
+        "time": "1 day",
+        "color_change": "red to yellow",
+        "other_conditions": "Crystals were immersed in hexanal."
+      }
+    },
+    {
+      "material": "[(ZnI2)3(1)2(3b)0.6(2b)0.4(C4H8O2)x(CH3CHO)y]n",
+      "synthesis_conditions": {
+        "starting_material": "[(ZnI2)3(1)2(2b)(C6H5NO2)x]n",
+        "solvents": [
+          {
+            "solvent": "dioxane",
+            "amount": "not specified"
+          },
+          {
+            "solvent": "acetaldehyde",
+            "amount": "not specified"
+          }
+        ],
+        "temperature": "room temperature",
+        "time": "4 hours",
+        "other_conditions": "Crystals were immersed in acetaldehyde/dioxane solution."
+      }
+    },
+    {
+      "material": "[(ZnI2)3(1)2(5a)0.5(2a)0.5(C7H7OCHO)x]n",
+      "synthesis_conditions": {
+        "starting_material": "[(ZnI2)3(1)2(2a)(C6H5NO2)x]n",
+        "solvents": [
+          {
+            "solvent": "p-anisaldehyde",
+            "amount": "not specified"
+          }
+        ],
+        "temperature": "room temperature",
+        "time": "24 hours",
+        "other_conditions": "Crystals were immersed in p-anisaldehyde."
+      }
+    }
+  ]
+}

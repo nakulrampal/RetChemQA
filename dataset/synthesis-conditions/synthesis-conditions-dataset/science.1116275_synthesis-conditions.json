@@ -1,0 +1,55 @@
+{
+  "materials": [
+    {
+      "name": "MIL-101",
+      "synthesis_conditions": {
+        "temperature": "220°C",
+        "solvents": "H2O",
+        "amount_of_solvent": "4.8 ml",
+        "equipment": "hydrothermal bomb, autoclave",
+        "chemicals_used": [
+          {
+            "name": "chromium(III) nitrate Cr(NO3)3.9H2O",
+            "amount": "400 mg",
+            "purity": "99%"
+          },
+          {
+            "name": "fluorhydric acid",
+            "amount": "1.10-3 mol"
+          },
+          {
+            "name": "1,4-benzene dicarboxylic acid H2BDC",
+            "amount": "164 mg",
+            "purity": "99%"
+          }
+        ],
+        "time": "8h",
+        "washing_method": "filtered first using a large pore fritted glass filter (n°2), then using a small pores (n°5) paper filter and büchner",
+        "drying_method": "room temperature",
+        "yield": "~50% based on chromium"
+      }
+    },
+    {
+      "name": "MIL-101(Keggin)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": "deionised water",
+        "amount_of_solvent": "10 ml",
+        "equipment": "vigorous stirring",
+        "chemicals_used": [
+          {
+            "name": "activated sample of MIL-101",
+            "amount": "100 mg"
+          },
+          {
+            "name": "K7PW11O39.nH2O salt",
+            "amount": "200 mg"
+          }
+        ],
+        "time": "three hours",
+        "washing_method": "washed three times with 50 ml of deionised water",
+        "drying_method": "room temperature"
+      }
+    }
+  ]
+}

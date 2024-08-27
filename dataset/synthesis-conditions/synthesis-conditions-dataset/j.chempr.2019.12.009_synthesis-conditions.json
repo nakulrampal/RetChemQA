@@ -1,0 +1,174 @@
+{
+  "materials": [
+    {
+      "name": "Tripeptide ligand 1",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "chemicals": [
+            {
+              "name": "boc-Gly-OH",
+              "amount": null
+            },
+            {
+              "name": "N-methylmorpholine (NMM)",
+              "amount": "0.76 mL, 7.0 mmol"
+            },
+            {
+              "name": "isobutyl chloroformate (IBCF)",
+              "amount": "0.92 mL, 7.0 mmol"
+            },
+            {
+              "name": "3-aminopyridine",
+              "amount": "0.66 g, 7.0 mmol"
+            },
+            {
+              "name": "HCl in MeOH/1,4-dioxane",
+              "amount": null
+            },
+            {
+              "name": "HOBt",
+              "amount": "0.19 g, 1.3 mmol"
+            },
+            {
+              "name": "EDCI",
+              "amount": "0.24 g, 1.3 mmol"
+            },
+            {
+              "name": "DIEA",
+              "amount": "0.65 mL, 3.7 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "10 mL"
+            },
+            {
+              "name": "THF",
+              "amount": "50 mL"
+            },
+            {
+              "name": "CHCl3",
+              "amount": "~120 mL"
+            },
+            {
+              "name": "EtOAc",
+              "amount": null
+            }
+          ],
+          "temperature": [
+            {
+              "value": "0 ºC",
+              "duration": "20 min"
+            },
+            {
+              "value": "Room temperature",
+              "duration": "overnight"
+            },
+            {
+              "value": "40 ºC",
+              "duration": "2 days"
+            }
+          ],
+          "yield": "51%",
+          "characterization": [
+            {
+              "technique": "HR-MS",
+              "data": "calcd. for [M+H]+:371.1462, found: 371.1475 (error: 3.5 ppm)"
+            },
+            {
+              "technique": "1H NMR",
+              "data": "(500 MHz, DMSO-d6, 300 K)"
+            },
+            {
+              "technique": "13C NMR",
+              "data": "(125 MHz, DMSO-d6, 300 K)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tripeptide ligand 4",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "chemicals": [
+            {
+              "name": "boc-Gly-OH",
+              "amount": "2.0 g, 11 mmol"
+            },
+            {
+              "name": "DIEA",
+              "amount": "2.0 mL, 11 mmol"
+            },
+            {
+              "name": "ethyl chloroformate",
+              "amount": "1.1 mL, 11 mmol"
+            },
+            {
+              "name": "3-aminopyridine",
+              "amount": "1.1 g, 11 mmol"
+            },
+            {
+              "name": "Boc-Ala-OH",
+              "amount": "0.12 g, 0.6 mmol"
+            },
+            {
+              "name": "HOBt",
+              "amount": "0.10 g, 0.8 mmol"
+            },
+            {
+              "name": "EDCI",
+              "amount": "0.13 g, 0.8 mmol"
+            },
+            {
+              "name": "Nicotinic acid",
+              "amount": "0.07 g, 0.7 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "THF",
+              "amount": "50 mL"
+            },
+            {
+              "name": "DMF",
+              "amount": "10 mL"
+            },
+            {
+              "name": "CHCl3/DMF",
+              "amount": "10/3 mL"
+            }
+          ],
+          "temperature": [
+            {
+              "value": "0 ºC",
+              "duration": "30 min"
+            },
+            {
+              "value": "Room temperature",
+              "duration": "overnight"
+            }
+          ],
+          "yield": "68%",
+          "characterization": [
+            {
+              "technique": "HR-MS",
+              "data": "calcd. for [M+H]+:385.1619, found: 385.1621 (error: 0.5 ppm)"
+            },
+            {
+              "technique": "1H NMR",
+              "data": "(500 MHz, DMSO-d6, 300 K)"
+            },
+            {
+              "technique": "13C NMR",
+              "data": "(125 MHz, DMSO-d6, 300 K)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

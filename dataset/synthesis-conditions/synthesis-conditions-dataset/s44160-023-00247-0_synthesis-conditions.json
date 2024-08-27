@@ -1,0 +1,104 @@
+{
+  "materials": [
+    {
+      "name": "[As@Co12As10(As5)2]4–/5–",
+      "synthesis_conditions": [
+        {
+          "temperature": "75°C",
+          "solvents": [
+            {
+              "name": "ethylenediamine (en)",
+              "amount": "2.5 ml"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "K5As4",
+              "amount": "50 mg",
+              "molar_amount": "0.100 mmol"
+            },
+            {
+              "name": "18-crown-6",
+              "amount": "98 mg",
+              "molar_amount": "0.370 mmol"
+            },
+            {
+              "name": "Co(PPh3)2Cp",
+              "amount": "45 mg",
+              "molar_amount": "0.070 mmol"
+            }
+          ],
+          "yield": "14%",
+          "time": "4 h",
+          "drying_method": "vacuum",
+          "washing_method": "centrifuged and filtered with standard glass wool"
+        },
+        {
+          "temperature": "75°C",
+          "solvents": [
+            {
+              "name": "ethylenediamine (en)",
+              "amount": "2.5 ml"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "K5As4",
+              "amount": "50 mg",
+              "molar_amount": "0.100 mmol"
+            },
+            {
+              "name": "18-crown-6",
+              "amount": "98 mg",
+              "molar_amount": "0.370 mmol"
+            },
+            {
+              "name": "Co(PPh3)2Cp",
+              "amount": "65 mg",
+              "molar_amount": "0.100 mmol"
+            }
+          ],
+          "yield": "12%",
+          "time": "4 h",
+          "drying_method": "vacuum",
+          "washing_method": "centrifuged and filtered with standard glass wool"
+        }
+      ]
+    },
+    {
+      "name": "[Sb@Fe12Sb10(Sb5)2]5–",
+      "synthesis_conditions": [
+        {
+          "temperature": "60°C",
+          "solvents": [
+            {
+              "name": "ethylenediamine (en)",
+              "amount": "2.5 ml"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "K5Sb4",
+              "amount": "95 mg",
+              "molar_amount": "0.139 mmol"
+            },
+            {
+              "name": "18-crown-6",
+              "amount": "100 mg",
+              "molar_amount": "0.393 mmol"
+            },
+            {
+              "name": "DPPF",
+              "amount": "38 mg",
+              "molar_amount": "0.069 mmol"
+            }
+          ],
+          "yield": "15%",
+          "time": "3 h",
+          "drying_method": "vacuum",
+          "washing_method": "centrifuged and filtered with standard glass wool"
+        }
+      ]
+    }
+  ]
+}

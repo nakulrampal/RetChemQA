@@ -1,0 +1,75 @@
+{
+  "materials": [
+    {
+      "name": "CUK-1",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "2,4-pyridinedicarboxylic acid",
+            "amount": "185 mg",
+            "molar_amount": "1.0 mmol"
+          },
+          {
+            "name": "KOH",
+            "amount": "1.0 m",
+            "volume": "3.0 cm3"
+          },
+          {
+            "name": "CoCl2·6 H2O",
+            "amount": "357 mg",
+            "molar_amount": "1.5 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "H2O",
+            "volume": "7.0 cm3"
+          }
+        ],
+        "reactant_ratio": "Co/2,4-pdc/OH = 3:2:6",
+        "temperature": "473 K",
+        "equipment": "23-cm3 teflon-lined steel autoclave",
+        "time": "15 h",
+        "cooling_time": "6 h",
+        "washing_method": "short cycles (3 H 20 s) of ultrasonic treatment in H2O (20 cm3), followed by decanting of the cloudy supernatant",
+        "yield": "149 mg, 33 %",
+        "additional_information": "Pure samples of CUK-1 were also obtained in good yield from a 1:1:3 ratio of reactants."
+      }
+    },
+    {
+      "name": "CUK-2",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "6-mercapto-3-pyridinecarboxylic acid",
+            "amount": "155 mg",
+            "molar_amount": "0.90 mmol"
+          },
+          {
+            "name": "KOH",
+            "amount": "1.0 m",
+            "volume": "2.0 cm3"
+          },
+          {
+            "name": "CoCl2·6 H2O",
+            "amount": "238 mg",
+            "molar_amount": "1.0 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "H2O",
+            "volume": "8.0 cm3"
+          }
+        ],
+        "temperature": "200 8C",
+        "equipment": "23-cm3 teflon-lined steel autoclave",
+        "time": "18 h",
+        "cooling_time": "4 h",
+        "washing_method": "manually isolated from other amorphous products and washed with H2O",
+        "yield": "188 mg, 79 %",
+        "additional_information": "The microanalysis sample at room temperature is not as well hydrated as the sample used for X-ray crystallography."
+      }
+    }
+  ]
+}

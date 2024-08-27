@@ -1,0 +1,87 @@
+{
+  "materials": [
+    {
+      "name": "Ligand 1",
+      "synthesis_conditions": {
+        "reference": "[7]",
+        "notes": "Prepared according to literature."
+      }
+    },
+    {
+      "name": "[Tb(1)(NO3)3]",
+      "synthesis_conditions": {
+        "temperature": "reflux",
+        "solvent": "acetonitrile",
+        "solvent_amount": "15 mL",
+        "chemicals_used": [
+          {
+            "chemical": "Tb(NO3)3·6 H2O",
+            "amount": "47 mmol"
+          },
+          {
+            "chemical": "Ligand 1",
+            "amount": "47 mmol"
+          }
+        ],
+        "time": "24 h",
+        "method": "heated at reflux",
+        "yield": "65%",
+        "elemental_analysis": {
+          "calculated": {
+            "C": "39.47%",
+            "H": "4.17%",
+            "N": "10.75%"
+          },
+          "found": {
+            "C": "39.46%",
+            "H": "4.18%",
+            "N": "10.74%"
+          }
+        },
+        "FAB-MS": [
+          "m/z: 831 [M-NO3-H2O]+",
+          "m/z: 770 [M-2NO3-H2O]+",
+          "m/z: 549 [M-3NO3-H2O-Tb]+"
+        ]
+      }
+    },
+    {
+      "name": "[Eu(1)(NO3)3]",
+      "synthesis_conditions": {
+        "temperature": "reflux",
+        "solvent": "acetonitrile",
+        "solvent_amount": "15 mL",
+        "chemicals_used": [
+          {
+            "chemical": "Eu(NO3)3·6 H2O",
+            "amount": "47 mmol"
+          },
+          {
+            "chemical": "Ligand 1",
+            "amount": "47 mmol"
+          }
+        ],
+        "time": "24 h",
+        "method": "heated at reflux",
+        "yield": "60%",
+        "elemental_analysis": {
+          "calculated": {
+            "C": "40.63%",
+            "H": "4.06%",
+            "N": "11.06%"
+          },
+          "found": {
+            "C": "39.77%",
+            "H": "4.19%",
+            "N": "11.82%"
+          }
+        },
+        "FAB-MS": [
+          "m/z: 825 [M-NO3-H2O]+",
+          "m/z: 763 [M-2NO3-H2O]+",
+          "m/z: 549 [M-3NO3-H2O-Eu]+"
+        ]
+      }
+    }
+  ]
+}

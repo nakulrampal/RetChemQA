@@ -1,0 +1,73 @@
+{
+  "materials": [
+    {
+      "name": "H2Me2-BPDC",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": "4-methoxycarbonyl-2-methylbenzeneboronic acid pinacol ester (1.34 g), 3-methyl-4-iodobenzoic acid methyl ester (1.52 g), Cs2CO3 (2.25 g), Pd(PPh3)4 (210 mg)",
+          "solvents": "1,2-dimethoxyethane (DME) 40~60 mL",
+          "equipment": "100 mL Schlenk flask, water condenser",
+          "temperature": "Reflux under nitrogen gas",
+          "time": "4 days",
+          "washing_method": "Added to 100ml water, extracted with CH2Cl2",
+          "drying_method": "Dried under reduced pressure",
+          "yield": "Not specified",
+          "additional_steps": [
+            {
+              "description": "Purification",
+              "method": "Chromatography (petroleum ether/ethyl acetate)"
+            }
+          ]
+        },
+        {
+          "chemicals_used": "Dimethyl 2,2'-dimethylbiphenyl-4,4'-dicarboxylate (1.6g, 5.36 mmol)",
+          "solvents": "THF/MeOH (40 mL, v/v = 1/1), 20 mL aqueous solution of 2 M KOH",
+          "temperature": "Refluxed overnight",
+          "time": "Overnight",
+          "washing_method": "Acidified with 1M HCl, washed with water",
+          "drying_method": "Dried in the oven",
+          "yield": "1.5 g of 2,2'-dimethylbiphenyl-4,4'-dicarboxylic acid (H2Me2 -BPDC)"
+        }
+      ]
+    },
+    {
+      "name": "PCN-700",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": "H2Me2-BPDC (10 mg), ZrCl4 (10 mg), trifluoroacetic acid (80ul)",
+          "solvents": "DMF (2mL)",
+          "equipment": "20ml vial",
+          "temperature": "120 ℃ oven",
+          "time": "3 days",
+          "yield": "10mg, yield: 73.85%"
+        }
+      ]
+    },
+    {
+      "name": "PCN-700-B",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": "H2NH2-BDC (15 mg), crystals of PCN-700 (about 10mg)",
+          "solvents": "DMF (4mL)",
+          "equipment": "10ml vial",
+          "temperature": "75℃ oven",
+          "time": "24 h",
+          "yield": "10mg, yield: 94.55%"
+        }
+      ]
+    },
+    {
+      "name": "PCN-700-AB and PCN-700-MB",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": "H2TPDC-(COOH)2 (25 mg) or H2TPDC-(CH3)2 (25mg), crystals of PCN-700-B (about 10mg)",
+          "solvents": "DMF(4mL)",
+          "equipment": "10ml vial",
+          "temperature": "75℃ oven",
+          "time": "36 h",
+          "yield": "10mg, yield: 93.59%"
+        }
+      ]
+    }
+  ]
+}

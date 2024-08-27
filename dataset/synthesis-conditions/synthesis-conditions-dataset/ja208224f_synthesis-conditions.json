@@ -1,0 +1,184 @@
+{
+  "materials": [
+    {
+      "name": "CD-MOF-1",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "20 mL"
+          },
+          {
+            "name": "MeOH",
+            "amount": "ca. 50 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "γ-CD",
+            "amount": "1.30 g",
+            "molar_amount": "1 mmol"
+          },
+          {
+            "name": "KOH",
+            "amount": "450 mg",
+            "molar_amount": "8 mmol"
+          }
+        ],
+        "time": "1 week",
+        "washing_method": "Washed with MeOH (2 x 30 mL)",
+        "drying_method": "Dried in air",
+        "yield": "1.20 g, 66%",
+        "additional_information": "Elemental analysis data corresponds to 22% solvent composition by weight percentage. Elemental analysis was also carried out on a dried sample."
+      }
+    },
+    {
+      "name": "Edible CD-MOF-1",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "Distilled water"
+          },
+          {
+            "name": "Everclear grain alcohol"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Food-grade potassium benzoate",
+            "amount": "283 mg",
+            "molar_amount": "1.8 mmol"
+          },
+          {
+            "name": "Food-grade γ-CD",
+            "amount": "2.30 g",
+            "molar_amount": "1.8 mmol"
+          }
+        ],
+        "additional_information": "Filtered through cotton wool, followed by vapor diffusion of Everclear grain alcohol into the solution over a few days."
+      }
+    },
+    {
+      "name": "CD-MOF-2",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "20 mL"
+          },
+          {
+            "name": "MeOH",
+            "amount": "ca. 50 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "γ-CD",
+            "amount": "1.30 g",
+            "molar_amount": "1 mmol"
+          },
+          {
+            "name": "RbOH",
+            "amount": "820 mg",
+            "molar_amount": "8 mmol"
+          }
+        ],
+        "time": "1 week",
+        "washing_method": "Washed with MeOH (2 x 30 mL)",
+        "drying_method": "Dried in air",
+        "yield": "1.25 g, 71%",
+        "additional_information": "Elemental analysis data corresponds to 15% solvent composition by weight percentage. Elemental analysis was also carried out on a dried sample."
+      }
+    },
+    {
+      "name": "CD-MOF-3/CD-MOF-4",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "20 mL"
+          },
+          {
+            "name": "MeOH",
+            "amount": "ca. 50 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "γ-CD",
+            "amount": "1.30 g",
+            "molar_amount": "1 mmol"
+          },
+          {
+            "name": "CsOH·H2O",
+            "amount": "1.34 g",
+            "molar_amount": "8 mmol"
+          }
+        ],
+        "time": "1 week",
+        "additional_information": "Crystals of both CD-MOF-3 (cubic blocks) and CD-MOF-4 (needles) separated during the same crystallization procedure. The ratio varied with each experiment, but approximately 1.2 g of mixed material could be recovered."
+      }
+    },
+    {
+      "name": "[(NaOH)2·(γ-CD)]n",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "2 mL"
+          },
+          {
+            "name": "MeOH",
+            "amount": "ca. 5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "γ-CD",
+            "amount": "130 mg",
+            "molar_amount": "0.1 mmol"
+          },
+          {
+            "name": "NaOH",
+            "amount": "48 mg",
+            "molar_amount": "0.8 mmol"
+          }
+        ],
+        "time": "1 week",
+        "additional_information": "A few colorless blocks that were suitable for X-ray crystallographic analysis separated."
+      }
+    },
+    {
+      "name": "[(SrBr2)·(γ-CD)]n",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "2 mL"
+          },
+          {
+            "name": "MeOH",
+            "amount": "ca. 5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "γ-CD",
+            "amount": "130 mg",
+            "molar_amount": "0.1 mmol"
+          },
+          {
+            "name": "SrBr2",
+            "amount": "99 mg",
+            "molar_amount": "0.4 mmol"
+          }
+        ],
+        "time": "1 week",
+        "additional_information": "Typically, one crystal per experiment separated and was suitable for X-ray crystallographic analysis."
+      }
+    }
+  ]
+}

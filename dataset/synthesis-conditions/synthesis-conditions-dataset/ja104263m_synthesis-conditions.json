@@ -1,0 +1,38 @@
+{
+  "materials": [
+    {
+      "material": "[NH4][Zn(HCOO)3]",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "Room temperature",
+          "solvents": [
+            {
+              "name": "methanol",
+              "amount": "8.0 mL for ammonium formate and formic acid solution, 8.0 mL for Zn(ClO4)2·6H2O solution"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "ammonium formate",
+              "concentration": "0.80 M"
+            },
+            {
+              "name": "formic acid",
+              "concentration": "0.40 M"
+            },
+            {
+              "name": "Zn(ClO4)2·6H2O",
+              "concentration": "0.10 M"
+            }
+          ],
+          "equipment": "glass tube",
+          "time": "2 days",
+          "yield": "88% based on the starting zinc salt",
+          "washing_method": "washed with methanol",
+          "drying_method": "dried in air"
+        }
+      ]
+    }
+  ]
+}

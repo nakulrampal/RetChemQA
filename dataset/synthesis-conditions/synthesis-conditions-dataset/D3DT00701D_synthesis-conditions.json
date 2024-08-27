@@ -1,0 +1,54 @@
+{
+  "materials": [
+    {
+      "name": "Mn(II) complex with L1",
+      "synthesis_conditions": {
+        "temperature": "Reflux for 4 hours",
+        "solvents": [
+          {
+            "name": "Ethanol",
+            "amount": "25 ml"
+          },
+          {
+            "name": "Distilled water",
+            "amount": "5 ml"
+          }
+        ],
+        "equipment": "Glass frit for filtration",
+        "chemicals_used": [
+          {
+            "name": "15-pyN3O2",
+            "amount": "1.70 g"
+          },
+          {
+            "name": "BrCH2COOH",
+            "amount": "157.0 mg"
+          },
+          {
+            "name": "LiOH·H2O",
+            "amount": "168.0 mg"
+          }
+        ],
+        "time": "4 hours",
+        "washing_method": "Hot acetone with a small amount of 36% hydrochloric acid",
+        "drying_method": "Dried under reduced pressure",
+        "yield": "43% based on BrCH2COOH"
+      }
+    },
+    {
+      "name": "MnL1",
+      "characterization": {
+        "1H NMR": "400 MHz, DMSO-d6; 60 °C",
+        "13C NMR": "400 MHz, DMSO-d6",
+        "Mass spectrum": "ESI mass spectrum in positive mode"
+      },
+      "properties": {
+        "structure": "Seven-coordinate with a pentagonal bipyramidal geometry",
+        "stability": "Higher thermodynamic stabilities compared to complexes of 15-pyN3O2",
+        "relaxivity": "r1 = 2.45 mM−1 s−1 at 20 MHz, 25 °C",
+        "water_exchange_rate": "k298ex = 4.5 × 106 s−1",
+        "hydration_number": "q = 1"
+      }
+    }
+  ]
+}

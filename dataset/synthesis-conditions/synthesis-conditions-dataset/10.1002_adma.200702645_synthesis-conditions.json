@@ -1,0 +1,100 @@
+{
+  "materials": [
+    {
+      "name": "1{[(NO3)(NMe4)3][(WOS3Cu3)(CN)3]}",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "2 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[NH4]2WOS3",
+            "amount": "66.4 mg, 0.20 mmol"
+          },
+          {
+            "name": "CuCN",
+            "amount": "53.7 mg, 0.60 mmol"
+          },
+          {
+            "name": "[NMe4]NO3",
+            "amount": "81.7 mg, 0.60 mmol"
+          }
+        ],
+        "time": "2 h",
+        "yield": "76.4 mg, 45%"
+      }
+    },
+    {
+      "name": "1{[(NH4)(DMF)2][W2O2S6Cu6(CN)3(bipy)4]}",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "2 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[NH4]2WOS3",
+            "amount": "66.4 mg, 0.20 mmol"
+          },
+          {
+            "name": "CuCN",
+            "amount": "53.7 mg, 0.60 mmol"
+          },
+          {
+            "name": "bipy",
+            "amount": "62.5 mg, 0.40 mmol"
+          }
+        ],
+        "time": "2 h",
+        "yield": "63.7 mg, 38%"
+      }
+    },
+    {
+      "name": "1{[(NH4)(DMF)2][W2O2S6Cu6(CN)3(bpee)4]}",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "2 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[NH4]2WOS3",
+            "amount": "66.4 mg, 0.20 mmol"
+          },
+          {
+            "name": "CuCN",
+            "amount": "53.7 mg, 0.60 mmol"
+          },
+          {
+            "name": "bpee",
+            "amount": "72.9 mg, 0.40 mmol"
+          }
+        ],
+        "time": "2 h",
+        "yield": "92.6 mg, 52%"
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "materials": [
+    {
+      "material": "Ag(P4S3)Al(hfip)4 1",
+      "synthesis_conditions": {
+        "solvent": "CS2",
+        "solvent_amount": "10 mL",
+        "temperature": "room temperature",
+        "time": "overnight",
+        "yield": "77%",
+        "melting_point": "128-139 °C",
+        "washing_method": "filtered",
+        "drying_method": "concentrated to about 5 mL and stored overnight in a −30 °C freezer",
+        "chemicals_used": [
+          {
+            "chemical": "AgAl(hfip)4",
+            "amount": "1.004 g",
+            "molarity": "1.25 mmol"
+          },
+          {
+            "chemical": "P4S3",
+            "amount": "0.275 g",
+            "molarity": "1.25 mmol"
+          }
+        ],
+        "NMR_data": {
+          "1H_NMR": "δ = 4.55 (sept., 3JHF = 5.6 Hz)",
+          "13C_NMR": "δ = 71.1 (sept., 2JCF = 33.0 Hz), 122.7 (q, CF3, 1JCF = 286.1 Hz)",
+          "27Al_NMR": "δ = 60.1 (s, ν1/2 = 280 Hz)",
+          "31P_NMR_25C": "δ = 66.8 (q, Papical, 2JPP = 62.7 Hz), −126.5 (d, Pbasal, 2JPP = 62.7 Hz)",
+          "31P_NMR_-90C": "δ = 72.7 (s, Papical, ν1/2 = 226 Hz), −118.2 (s, Pbasal, ν1/2 = 339 Hz)"
+        },
+        "elemental_analysis": {
+          "calculated": "Ag, 10.5; C, 14.09",
+          "found": "Ag, 9.6; C, 13.72"
+        }
+      }
+    },
+    {
+      "material": "Ag(P4S3)2+ [Al(pftb)4]- 2",
+      "synthesis_conditions": {
+        "solvent": "CS2/CH2Cl2",
+        "solvent_amount": "10 mL CS2 and 1 mL CH2Cl2",
+        "temperature": "room temperature",
+        "time": "overnight",
+        "yield": "90%",
+        "washing_method": "filtered",
+        "drying_method": "concentrated until it had an oily consistency with very little solvent left. This oil was left overnight in a 0 °C freezer after which the oil quantitatively had crystallized",
+        "chemicals_used": [
+          {
+            "chemical": "Ag(CH2Cl2)Al(pftb)4",
+            "amount": "0.411 g",
+            "molarity": "0.35 mmol"
+          },
+          {
+            "chemical": "P4S3",
+            "amount": "0.150 g",
+            "molarity": "0.70 mmol"
+          }
+        ],
+        "NMR_data": {
+          "13C_NMR": "δ = 121.5 (q, CF3, 1JCF = 293.1 Hz)",
+          "27Al_NMR": "δ = 36.0 (s, ν1/2 = 12 Hz)",
+          "31P_NMR_25C": "δ = 72.2 (q, Papical, 2JPP = 68.1 Hz), −118.8 (d, Pbasal, 2JPP = 67.9 Hz)",
+          "31P_NMR_-90C": "δ = 78.7 (s, Papical, ν1/2 = 174 Hz), −109.1 (s, Pbasal, ν1/2 = 201 Hz)"
+        },
+        "elemental_analysis": {
+          "calculated": "C, 12.68",
+          "found": "C, 12.19"
+        }
+      }
+    }
+  ]
+}

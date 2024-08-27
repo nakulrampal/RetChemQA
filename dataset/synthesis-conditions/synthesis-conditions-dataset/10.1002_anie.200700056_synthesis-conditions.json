@@ -1,0 +1,53 @@
+{
+  "materials": [
+    {
+      "name": "MIL-47",
+      "synthesis_conditions": {
+        "method": "hydrothermal synthesis",
+        "calcination_temperature": "300 8C",
+        "calcination_time": "21.5 h",
+        "pore_volume": "0.32 mL g-1",
+        "specific_surface": "800 m2 g-1",
+        "crystal_size": "0.25 to 2.0 mm",
+        "observation_method": "scanning electron microscopy (SEM)"
+      }
+    },
+    {
+      "name": "[Cu3(BTC)2]",
+      "synthesis_conditions": {
+        "reference": "literature procedures"
+      }
+    },
+    {
+      "name": "MIL-53(Al) ht",
+      "synthesis_conditions": {
+        "reference": "literature procedures"
+      }
+    }
+  ],
+  "experimental_section": {
+    "batch_experiments": {
+      "equipment": "small vials loaded with adsorbent"
+    },
+    "pulse_and_breakthrough_experiments": {
+      "equipment": "5-cm stainless-steel column placed in an HPLC apparatus"
+    },
+    "gas_phase_adsorption": {
+      "equipment": "15-cm column packed with pellets of MIL-47",
+      "technique": "pulse chromatographic technique"
+    },
+    "selectivities_and_adsorption_constants": {
+      "additional_information": "Further details about procedures and calculations of selectivities, Henry adsorption constants, and adsorption enthalpies are given in the Supporting Information."
+    },
+    "rietveld_refinements": {
+      "software": "GSAS software",
+      "additional_information": "Rietveld refinements are described in more detail in the Supporting Information."
+    },
+    "crystallographic_data": {
+      "availability": "The Cambridge Crystallographic Data Centre",
+      "access": "free of charge",
+      "url": "www.ccdc.cam.ac.uk/data_request/cif",
+      "CCDC_numbers": "632101–632104"
+    }
+  }
+}

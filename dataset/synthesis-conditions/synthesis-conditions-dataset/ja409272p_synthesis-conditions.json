@@ -1,0 +1,44 @@
+{
+  "materials": [
+    {
+      "name": "1,4-bpeb",
+      "synthesis_conditions": {
+        "solvents": "Ethanol",
+        "washing_method": "Washed with ethanol",
+        "chemicals_used": "γ-picoline, terephthalaldehyde",
+        "yield": "Not specified",
+        "notes": "Synthesized by a modified method according to reference S1 with increased ratio of γ-picoline to terephthalaldehyde from 2.1 to 3."
+      }
+    },
+    {
+      "name": "1,3-pda",
+      "synthesis_conditions": {
+        "chemicals_used": "malonic acid, benzene-1,3-dicarboxaldehyde",
+        "notes": "Obtained according to references S2, S3"
+      }
+    },
+    {
+      "name": "{[Mn(1,4-bpeb)(1,3-pda)]·(1,4-bpeb)}n (1)",
+      "synthesis_conditions": {
+        "temperature": "180 °C",
+        "equipment": "Teflon-lined vessel",
+        "chemicals_used": "H2(1,3-pda), MnCl2⋅4H2O, 1,4-bpeb, NaOH solution",
+        "solvents": "Distilled water",
+        "time": "4 days",
+        "washing_method": "Washed with distilled water and methylene chloride",
+        "drying_method": "Dried in air",
+        "yield": "81% based on MnCl2⋅4H2O",
+        "additional_information": "The pH of the solution was adjusted to 7 before adding MnCl2⋅4H2O and 1,4-bpeb."
+      }
+    },
+    {
+      "name": "UV irradiation of {[Mn(1,4-bpeb)(1,3-pda)]·(1,4-bpeb)}n (1)",
+      "synthesis_conditions": {
+        "equipment": "Low-pressure mercury lamp, OPAS XLite 380 UV LED Spot Light Source, OPAS XLite 300 Spot Light Source high-pressure mercury lamp",
+        "temperature": "Ambient temperature",
+        "time": "Varied (1h, 2h, 3h, 4h, 6h, 10h, 16h)",
+        "notes": "Powder samples were ground and irradiated. Single crystals were also irradiated at ambient temperature or low temperature (173K, 190K, 193K) with different UV sources."
+      }
+    }
+  ]
+}

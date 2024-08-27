@@ -1,0 +1,83 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "10 mL"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "0.1 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "MnCl-TPyP",
+            "amount": "71 mg, 0.1 mmol"
+          },
+          {
+            "name": "H3PW12O40∙nH2O",
+            "amount": "200 mg"
+          },
+          {
+            "name": "Cd(NO3)2·4H2O",
+            "amount": "31 mg, 0.1 mmol"
+          }
+        ],
+        "time": "48 h",
+        "washing_method": "washed with EtOH and ethyl ether",
+        "drying_method": "dried in the air",
+        "yield": "51 mg",
+        "additional_information": "Anal. Calcd for 1 (%): C, 18.10; H, 1.90; N, 5.28. Found (%): C, 18.16; H, 1.88; N, 5.23. IR (KBr pellet): ν/cm-1 = 1648 (s), 1608 (m), 1544 (w), 1495 (w), 1436 (w), 1419 (w), 1384 (m), 1345 (w), 1252 (w), 1207 (w), 1079 (m), 1049 (w), 1011(w), 978 (m), 951 (w), 896 (m), 822 (s), 714 (w), 595 (w), 564 (w), 521 (w)."
+      }
+    },
+    {
+      "name": "2",
+      "synthesis": {
+        "temperature": "50 °C",
+        "time": "24 h",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "methylene blue",
+            "amount": "not specified"
+          }
+        ],
+        "additional_information": "After this treatment, the crystals of 1 showed no apparent difference in comparison to the original form except for a slightly deepened color. However, the PXRD pattern of the treated sample showed significant changes. Single-crystal XRD analysis revealed that the resultant compound 2 was very similar to 1, except that the DMF ligands were replaced by water molecules."
+      }
+    },
+    {
+      "name": "3",
+      "synthesis": {
+        "temperature": "80 °C",
+        "time": "24 h",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ethylbenzene",
+            "amount": "not specified"
+          },
+          {
+            "name": "TBHP",
+            "amount": "not specified"
+          }
+        ],
+        "additional_information": "After the reaction of 1 in a mixture of EB, H2O, and TBHP at 80 °C for 24 h, the backbone of the resultant structure 3 was identical to that of 2."
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "materials": [
+    {
+      "name": "MOF-508a",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": ["DMF", "ethanol"],
+        "solvent_ratio": "1:1",
+        "solvent_volume": "400 mL",
+        "equipment": "teflon vessel",
+        "equipment_volume": "500 mL",
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6 H2O",
+            "amount": "1.407 g",
+            "molarity": "4.73 mmol"
+          },
+          {
+            "name": "H2BDC",
+            "amount": "0.786 g",
+            "molarity": "4.73 mmol"
+          },
+          {
+            "name": "4,4’-Bipy",
+            "amount": "0.369 g",
+            "molarity": "2.36 mmol"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": ["DMF", "hexane"],
+        "drying_method": "air",
+        "yield": "1.82 g, 95 %"
+      }
+    },
+    {
+      "name": "MOF-508b",
+      "synthesis_conditions": {
+        "preparation_step": "Heating MOF-508a",
+        "temperature": "120 °C",
+        "environment": "under vacuum",
+        "time": "24 h",
+        "additional_notes": "TGA indicated no further weight loss after this process."
+      }
+    },
+    {
+      "name": "GC separation of natural gas",
+      "synthesis_conditions": {
+        "equipment": "Buck Scientific 910 GC system",
+        "carrier_gas": "Helium",
+        "inlet_pressure": "60 psi",
+        "temperature_program": [
+          {
+            "step": "1",
+            "temperature": "40 °C",
+            "duration": "first 4 min"
+          },
+          {
+            "step": "2",
+            "temperature": "150 °C",
+            "duration": "remainder of the measurement"
+          }
+        ],
+        "sample_volume": "1 mL",
+        "measurement_duration": "20 min"
+      }
+    },
+    {
+      "name": "GC separation of linear and branched pentane and hexane isomers",
+      "synthesis_conditions": {
+        "temperature_program": [
+          {
+            "step": "1",
+            "temperature": "120 °C",
+            "duration": "2 min"
+          },
+          {
+            "step": "2",
+            "ramp": "120–160 °C over 2 min"
+          },
+          {
+            "step": "3",
+            "temperature": "160 °C",
+            "duration": "remainder of the measurement"
+          }
+        ],
+        "sample_volume": "1-2 mL",
+        "measurement_duration": "20 min"
+      }
+    }
+  ]
+}

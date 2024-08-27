@@ -1,0 +1,81 @@
+{
+  "materials": [
+    {
+      "material_name": "1",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation",
+          "solvents": [
+            {
+              "name": "DCM",
+              "amount": "20 mL"
+            },
+            {
+              "name": "p-xylene",
+              "amount": "20 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "TCNQMe2",
+              "amount": "4.6 mg, 0.02 mmol"
+            },
+            {
+              "name": "[Ru2(II,II)(O2CPh-2,3,5-Cl3)4](THF)2",
+              "amount": "49.8 mg, 0.04 mmol"
+            }
+          ],
+          "time": "1 week",
+          "yield": "61%",
+          "temperature": "Room temperature",
+          "atmosphere": "N2",
+          "equipment": "narrow-diameter glass tubes",
+          "washing_method": "Not specified",
+          "drying_method": "Not specified"
+        }
+      ]
+    },
+    {
+      "material_name": "1-dry",
+      "synthesis_conditions": [
+        {
+          "step": "Desolvation of 1",
+          "temperature": "353 K",
+          "time": "12 h",
+          "equipment": "vacuum",
+          "yield": "Not specified"
+        }
+      ]
+    },
+    {
+      "material_name": "2",
+      "synthesis_conditions": [
+        {
+          "step": "Resolvation of 1-dry",
+          "solvents": [
+            {
+              "name": "DCM",
+              "amount": "Not specified"
+            }
+          ],
+          "time": "6 days",
+          "temperature": "Room temperature",
+          "equipment": "Not specified",
+          "yield": "Not specified"
+        }
+      ]
+    },
+    {
+      "material_name": "2-dry",
+      "synthesis_conditions": [
+        {
+          "step": "Desolvation of 2",
+          "temperature": "80 °C",
+          "time": "12 h",
+          "equipment": "heating",
+          "yield": "Not specified"
+        }
+      ]
+    }
+  ]
+}

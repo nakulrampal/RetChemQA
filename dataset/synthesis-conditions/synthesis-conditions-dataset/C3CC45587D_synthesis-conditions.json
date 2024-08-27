@@ -1,0 +1,125 @@
+{
+  "materials": [
+    {
+      "name": "2,3-bis(nicotinoyloxy)naphthalene (L)",
+      "synthesis_conditions": {
+        "temperature": "60 °C",
+        "solvents": [
+          {
+            "name": "chloroform",
+            "amount": "120 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Triethylamine",
+            "amount": "22 mmol, 2.67 g"
+          },
+          {
+            "name": "2,3-dihydroxynaphthalene",
+            "amount": "5 mmol, 0.80 g"
+          },
+          {
+            "name": "nicotinoyl chloride hydrochloride",
+            "amount": "12 mmol, 2.14 g"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": "0.5 N NaOH aqueous solution",
+        "drying_method": "dried over anhydrous magnesium sulfate",
+        "yield": "78%"
+      }
+    },
+    {
+      "name": "[Cu(L)2(CH3COCH3)2]3(ClO4)6·11CH2Cl2 (1)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "acetone",
+            "amount": "3 mL"
+          },
+          {
+            "name": "dichloromethane",
+            "amount": "3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cu(ClO4)2·6H2O",
+            "amount": "11 mg, 0.03 mmol"
+          },
+          {
+            "name": "L",
+            "amount": "22 mg, 0.06 mmol"
+          }
+        ],
+        "time": "20 days",
+        "yield": "79%",
+        "temperature": "ambient",
+        "additional_information": "formed at the interface"
+      }
+    },
+    {
+      "name": "[Cu(L)2(CH3CN)2]3(ClO4)6∙10H2O∙8CH2Cl2 (1’)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "3 mL"
+          },
+          {
+            "name": "dichloromethane",
+            "amount": "3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cu(ClO4)2·6H2O",
+            "amount": "11 mg, 0.03 mmol"
+          },
+          {
+            "name": "L",
+            "amount": "22 mg, 0.06 mmol"
+          }
+        ],
+        "time": "5 days",
+        "yield": "74%",
+        "temperature": "2 °C (in refrigerator)",
+        "additional_information": "formed at the interface"
+      }
+    },
+    {
+      "name": "[Cu(L)2(CH3CN)(CH3COCH3)]3(BF4)6∙17H2O∙6CH2Cl2 (2)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "acetone",
+            "amount": "2.2 mL"
+          },
+          {
+            "name": "acetonitrile",
+            "amount": "0.8 mL"
+          },
+          {
+            "name": "dichloromethane",
+            "amount": "3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cu(BF4)2·nH2O",
+            "amount": "7.1 mg, 0.03 mmol"
+          },
+          {
+            "name": "L",
+            "amount": "22 mg, 0.06 mmol"
+          }
+        ],
+        "time": "3 days",
+        "yield": "70%",
+        "temperature": "ambient",
+        "additional_information": "formed at the interface"
+      }
+    }
+  ]
+}

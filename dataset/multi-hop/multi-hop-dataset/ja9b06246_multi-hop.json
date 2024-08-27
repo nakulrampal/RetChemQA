@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the synthesis condition for Ni2Cl2BTDD?",
+      "answer": "Ni2Cl2BTDD can be synthesized by dissolving H2BTDD in DMF, combining it with a solution of nickel chloride hydrate in methanol and concentrated hydrochloric acid, and heating the mixture to 100°C for 2 days.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How is Ni2(OH)2BTDD synthesized from Ni2Cl2BTDD?",
+      "answer": "Ni2(OH)2BTDD is synthesized by soaking Ni2Cl2BTDD in a dilute aqueous solution of KOH, which yields a crystalline material with undetectable chloride according to EDS and XPS analyses.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method is used to measure water vapor adsorption isotherms?",
+      "answer": "Water vapor adsorption isotherms are measured by a volumetric method using a Micromeritics ASAP 2020 gas sorption analyzer with a vapor dose option and a heated manifold.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of hydroxide ligands in Ni2(OH)2BTDD according to DRIFTS analysis?",
+      "answer": "DRIFTS analysis suggests that hydroxide ligands in Ni2(OH)2BTDD participate in charge transfer, presumably as proton transfer from adsorbed water to bridging hydroxide, forming a bridging water and a free hydroxide in the pore.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the introduction of bromide affect water uptake in Ni2Br2BTDD compared to Ni2Cl2BTDD?",
+      "answer": "The introduction of bromide in Ni2Br2BTDD results in a pore-filling step at lower relative humidity compared to Ni2Cl2BTDD, leading to a record water capacity at low RH and excellent long-term stability.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the characteristic curve in the context of water adsorption?",
+      "answer": "The characteristic curve, calculated using the adsorption potential, allows for the representation of water adsorption data in a way that makes the loading dependent on a single energy parameter rather than two (pressure and temperature), facilitating the analysis of adsorption properties.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: Ni2F2BTDD exhibits a rapid decline in water uptake capacity after the initial cycle of water adsorption and desorption.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis of Ni2Br2BTDD involves a direct exchange of chloride for bromide in Ni2Cl2BTDD.",
+      "answer": "False, Ni2Br2BTDD is synthesized from Ni2F2BTDD, not directly from Ni2Cl2BTDD.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental technique is used to confirm the structural integrity of Ni2X2BTDD MOFs after water cycling?",
+      "answer": "Powder X-ray diffraction (PXRD) is used to confirm the structural integrity of Ni2X2BTDD MOFs after water cycling.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the pore size of Ni2Br2BTDD compare to Ni2Cl2BTDD and Ni2F2BTDD, and what is its effect on water sorption?",
+      "answer": "Ni2Br2BTDD has a slightly reduced pore size compared to Ni2Cl2BTDD and Ni2F2BTDD, which leads to water sorption occurring at substantially lower relative humidity, demonstrating the importance of pore size control in water adsorption properties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

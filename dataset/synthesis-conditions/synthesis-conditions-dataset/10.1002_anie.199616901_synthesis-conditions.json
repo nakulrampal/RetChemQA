@@ -1,0 +1,96 @@
+{
+  "materials": [
+    {
+      "name": "Solvated [Cu3(tpt)2](ClO4)2",
+      "synthesis_conditions": {
+        "temperature": "110 K for crystallographic analysis; Room temperature for synthesis",
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "5 mL"
+          },
+          {
+            "name": "chloroform",
+            "amount": "10 mL"
+          },
+          {
+            "name": "1,1,2,2-tetrachloroethane",
+            "amount": "10 mL"
+          }
+        ],
+        "equipment": "Enraf-Nonius CAD-4MachS diffractometer",
+        "chemicals_used": [
+          "[Cu(CH3CN)4]ClO4 (45 mg for initial synthesis; 22 mg for analysis sample)",
+          "tpt (25 mg)"
+        ],
+        "time": "Several days for crystal growth",
+        "washing_method": "Transferred directly from solution to oil",
+        "drying_method": "Cooled to 110 K for crystallographic analysis",
+        "yield": "Not specified",
+        "additional_steps": [
+          {
+            "step": "Layering of solutions",
+            "details": "A buffer zone of chloroform was layered on top of a solution of tpt in 1,1,2,2-tetrachloroethane, and then a solution of [Cu(CH3CN)4]ClO4 in acetonitrile was layered on top of that."
+          },
+          {
+            "step": "Modification for analysis sample",
+            "details": "For the sample used for analysis, acetonitrile was partially replaced by methanol, and the proportion of copper was reduced."
+          }
+        ]
+      }
+    },
+    {
+      "name": "(+)-Camptothecin",
+      "synthesis_conditions": {
+        "temperature": "0 C to 45 C for reduction; 115 C for final step",
+        "solvents": [
+          {
+            "name": "DMSO",
+            "amount": "Not specified"
+          },
+          {
+            "name": "EtOH",
+            "amount": "Not specified for reduction; 60% in EtOH for final step"
+          }
+        ],
+        "equipment": "Not specified",
+        "chemicals_used": [
+          "Enone 7",
+          "Cyanoacetamide (6)",
+          "tBuOK",
+          "tBuOOH",
+          "SeO2 on silica gel",
+          "NaBH4",
+          "CeCl3",
+          "H2SO4"
+        ],
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "80% for initial step; 68% combined yield for oxidation and conversion to lactone; 94% combined yield for reduction and final step",
+        "additional_steps": [
+          {
+            "step": "Michael addition",
+            "details": "7 reacted with the potassium enolate of 6 in DMSO to afford Michael adduct 8."
+          },
+          {
+            "step": "Oxidation to pyridone",
+            "details": "8 was oxidized with tBuOOH in AcOH in the presence of SeO2 to give pyridone 9."
+          },
+          {
+            "step": "Conversion to lactone",
+            "details": "9 was converted into lactone 10 under acidic conditions."
+          },
+          {
+            "step": "Reduction to diol",
+            "details": "Lactone 10 was reduced to diol 11 using a modified Luche protocol."
+          },
+          {
+            "step": "Final cyclization",
+            "details": "Diol 11 was heated in 60% ethanolic H2SO4 to yield (+)-Camptothecin."
+          }
+        ]
+      }
+    }
+  ]
+}

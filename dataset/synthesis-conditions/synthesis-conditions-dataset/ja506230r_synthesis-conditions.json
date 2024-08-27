@@ -1,0 +1,71 @@
+{
+  "materials": [
+    {
+      "name": "Mn2(m-dobdc)",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "mixed solvent",
+            "components": [
+              {
+                "name": "MeOH",
+                "percentage": 15,
+                "volume": "80 mL"
+              },
+              {
+                "name": "DMF"
+              }
+            ]
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "anhydrous MnCl2",
+            "amount": "3.0 mmol"
+          },
+          {
+            "name": "H4(m-dobdc)",
+            "amount": "240 mg, 1.2 mmol"
+          }
+        ],
+        "time": "18 h",
+        "washing_method": "submerged in 20 mL of DMF, heated at 70 °C for 24 h; DMF decanted and replaced with 20 mL of methanol, heated at 70 °C for 4 days, methanol replaced every 24 h",
+        "drying_method": "heated at 150 °C under dynamic vacuum on a Schlenk line for 12 h, further activation under dynamic vacuum (<10 μbar) at 180 °C for 24 h at a ramp rate of 0.5 °C/min",
+        "yield": "not specified",
+        "additional_notes": "For larger scale syntheses of Co2(m-dobdc) and Ni2(m-dobdc), stirring at room temperature in a round-bottom flask equipped with a reflux condenser at a concentration of 20.2 mmol H4(m-dobdc) and 50.5 mmol MCl2 (M = Co, Ni) in 1250 mL solvent. Times and temperatures were identical to the small-scale synthesis, but 200 mL of solvent was used for each exchange."
+      }
+    },
+    {
+      "name": "Mg2(m-dobdc)",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "MeOH",
+            "volume": "14 mL"
+          },
+          {
+            "name": "DMF",
+            "volume": "31 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Mg(NO3)2·6H2O",
+            "amount": "300 mg"
+          },
+          {
+            "name": "H4(m-dobdc)",
+            "amount": "93 mg"
+          }
+        ],
+        "time": "8 h",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified",
+        "additional_notes": "Synthesized in air in a round-bottom flask by stirring."
+      }
+    }
+  ]
+}

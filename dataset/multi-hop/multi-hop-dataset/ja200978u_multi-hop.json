@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the space group of the crystals [Ln2Cu3(IDA)6]nH2O for all Ln elements mentioned?",
+      "answer": "P3̅c1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which Ln element's crystal has the largest volume of porous space at 273 K?",
+      "answer": "La",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the dielectric constant (ε) of the Sm crystal at 400 K compare to the maximum dielectric constant of bulk water?",
+      "answer": "The dielectric constant of the Sm crystal at 400 K is 15 times larger than the maximum dielectric constant of bulk water.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the relationship between the Ln element's atomic number and the n-value in [Ln2Cu3(IDA)6]nH2O crystals?",
+      "answer": "The n-value decreases with increasing atomic number of Ln.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the purpose of using Teflon-sealed cylindrical cells in the dielectric measurements?",
+      "answer": "To prevent the escape of guest water molecules from the crystal above approximately 315 K.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the presence of broad dielectric peaks at approximately 170 K indicate about the water molecules in [Ln2Cu3(IDA)6]nH2O crystals?",
+      "answer": "It indicates the freezing of the positional freedom of guest water molecules.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Considering the synthesis conditions, what is the common structural feature of [Ln2Cu3(IDA)6]nH2O crystals?",
+      "answer": "All these crystals belong to the trigonal system with space group P3̅c1 and have channels along the c-axis where water molecules are accommodated.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the change in ε at high temperatures relate to the antiferroelectric behavior of [Ln2Cu3(IDA)6]nH2O crystals?",
+      "answer": "The rapid increase in ε above room temperature is ascribed to approaching the antiferroelectric transition with increasing temperature.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why were the atomic coordinates of the host lattice kept fixed during the MD simulations?",
+      "answer": "To focus on the behavior of water molecules without altering the structure of the host lattice.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the negative dε/dT below 240 K suggest about the water molecules in the crystals?",
+      "answer": "It suggests the existence of disordered water molecules besides the ordered water system.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the size of the porous space affect the dielectric behavior of [Ln2Cu3(IDA)6]nH2O crystals?",
+      "answer": "Crystals with larger porous spaces than optimal allow the existence of disordered molecules, producing relatively large dielectric peaks at approximately 180 K.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role does the temperature play in the mobility of water molecules within the channels of [Ln2Cu3(IDA)6]nH2O crystals according to MD simulations?",
+      "answer": "At low temperatures, the positions of water molecules are well fixed, but with increasing temperature, the molecules tend to move, indicating temperature-dependent mobility.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the space group of [Ln2Cu3(IDA)6]nH2O crystals P3̅c1 for all Ln elements mentioned?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the n-value in [Ln2Cu3(IDA)6]nH2O crystals increase with the atomic number of Ln?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the dielectric constant of the Sm crystal at 400 K lower than the maximum dielectric constant of bulk water?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Do the guest water molecules in [Ln2Cu3(IDA)6]nH2O crystals exhibit ferroelectric behavior at high temperatures?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the use of Teflon-sealed cylindrical cells in dielectric measurements aimed at enhancing the dielectric constant?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the broad dielectric peak at approximately 170 K indicate the melting of guest water molecules in [Ln2Cu3(IDA)6]nH2O crystals?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the atomic coordinates of the host lattice altered during the MD simulations to study the behavior of water molecules?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the negative dε/dT below 240 K indicate the absence of disordered water molecules in the crystals?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

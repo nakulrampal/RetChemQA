@@ -1,0 +1,78 @@
+{
+  "materials": [
+    {
+      "material_name": "[CeCl3(H2O)]n (1)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "150 °C",
+          "pressure": "0.03 Torr",
+          "duration": "12 hours",
+          "chemicals_used": [
+            {
+              "name": "CeCl3(H2O)7",
+              "amount": "10 g",
+              "molar_amount": "26.8 mmol"
+            }
+          ],
+          "equipment": [
+            {
+              "type": "Schlenk flask",
+              "size": "500-mL"
+            },
+            {
+              "type": "vacuum manifold",
+              "details": "connected to a liquid nitrogen trap and a mechanical pump"
+            },
+            {
+              "type": "oil bath"
+            }
+          ],
+          "solvents": [],
+          "yield": "Not explicitly mentioned",
+          "product_details": "colorless solid"
+        },
+        {
+          "step": 2,
+          "chemicals_used": [
+            {
+              "name": "MeLi",
+              "amount": "2.9 mmol",
+              "details": "obtained by removing Et2O from a commercial solution (Aldrich)"
+            }
+          ],
+          "equipment": [
+            {
+              "type": "tube",
+              "details": "fitted with two greaseless high-vacuum stopcock adapters, one attached to a 24/40 joint and the other to a septum-capped sidearm"
+            },
+            {
+              "type": "high-vacuum line",
+              "details": "connected to a Toepler pump"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "THF",
+              "details": "added by syringe through the sidearm"
+            }
+          ],
+          "observations": "gas evolution was observed when it contacted the solids",
+          "product_identification": "methane by mass spectrometry (10.5 mL, 0.43 mmol)"
+        },
+        {
+          "step": 3,
+          "method": "Recrystallization",
+          "temperature": "25 °C",
+          "solvents": [
+            {
+              "name": "THF",
+              "details": "solution which had been saturated by stirring 1 in boiling THF followed by removal of excess solid via centrifugation"
+            }
+          ],
+          "product_details": "[Ce(μ-Cl)3(THF)(H2O)]n crystals"
+        }
+      ]
+    }
+  ]
+}

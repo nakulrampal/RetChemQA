@@ -1,0 +1,44 @@
+{
+  "materials": [
+    {
+      "name": "blm-Co",
+      "synthesis_conditions": {
+        "chemicals_used": "H2BpybcCl2, CoII ion",
+        "solvent": "aqueous solution",
+        "yield": "> 70 %",
+        "crystal_size": "0.2–0.8 mm",
+        "color": "red block crystals",
+        "space_group": "trigonal space group R(3",
+        "network_structure": "2D honeycomb-like (6,3) network",
+        "stacking_manner": "-ABCABC- along the crystallographic c-axis",
+        "porous_network": "3D porous network containing a distorted butterfly-like pore window"
+      }
+    },
+    {
+      "name": "blm-Co-X",
+      "synthesis_conditions": {
+        "initial_material": "blm-Co",
+        "irradiation_source": "X-ray sources (MoKa, l = 0.71073 c, 40 W, or CuKa, l = 1.54178 c, 40 W)",
+        "irradiation_time": "< 60 s",
+        "color_change": "red to dark blue",
+        "recovery_time": "60 s when stopping irradiation and placing the sample in air",
+        "temperature_range": "100–333 K",
+        "space_group": "R(3",
+        "cell_volume_change": "from 7625.7(7) c3 (blm-Co) to 7312.2(13) c3 (blm-Co-X)",
+        "local_structural_adjustment": "O···N distance from 4.288(6) c (blm-Co) to 4.166(5) c (blm-Co-X)",
+        "structural_transformation": "single-crystal-to-single-crystal (SC-SC) transformation"
+      }
+    },
+    {
+      "name": "blm-Co@aluminum foil thin film",
+      "synthesis_conditions": {
+        "initial_material": "powdered crystalline blm-Co sample mixed with polymer gel (Pattex clear epoxy adhesive)",
+        "substrate": "aluminum foil",
+        "irradiation_source": "X-ray radiation (CuKa, 40 W)",
+        "color_change": "red to dark blue",
+        "detection_limit": "7.72 Gy",
+        "reversibility": "reversible detection process"
+      }
+    }
+  ]
+}

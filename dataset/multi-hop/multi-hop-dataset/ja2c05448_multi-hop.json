@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What are the synthesis conditions for ZUL-C1?",
+      "answer": "A mixture of AlCl3⋅6H2O (0.089 g, 0.37 mmol), H2bpdc (0.061 g, 0.39 mmol) and DMF (2.75 ml) was stirred at 433K for 24 hours, yielding white powder (64 mg; 88.3%). The product was washed with 10 ml DMF and 10 ml methanol for three times each, then dried and degassed under high vacuum (< 10 µmHg) at 393 K for 24 h before use.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the synthesis of ZUL-C2 differ from ZUL-C1?",
+      "answer": "For ZUL-C2, H2cdc (0.075 g, 0.39 mmol) is used instead of H2bpdc, with the rest of the synthesis conditions remaining the same as for ZUL-C1. This results in a white powder yield of 79 mg (91.2%).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of ZUL-C1 as determined by Ar adsorption at 87 K?",
+      "answer": "The BET surface area of ZUL-C1 determined by Ar adsorption at 87 K is not directly provided, but Figures S11 and S12 in the supplementary information would contain this data.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Which MOF, ZUL-C1 or ZUL-C2, has a higher Xe uptake at 20 kPa according to Table S13?",
+      "answer": "ZUL-C2 has a higher Xe uptake at 20 kPa, with 27.4 mmol/kg, compared to ZUL-C1, which has a Xe uptake of 10.5 mmol/kg.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is ZUL-C2 more effective in separating Xe/Kr mixture compared to ZUL-C1 based on IAST selectivity?",
+      "answer": "Yes, ZUL-C2 is more effective in separating Xe/Kr mixture compared to ZUL-C1, with an IAST selectivity of 19.1 for ZUL-C2 versus 11.7 for ZUL-C1.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of DMF in the synthesis of ZUL-C1 and ZUL-C2?",
+      "answer": "DMF acts as a solvent in the synthesis of ZUL-C1 and ZUL-C2, facilitating the reaction between AlCl3⋅6H2O and the respective dicarboxylic acid ligands (H2bpdc for ZUL-C1 and H2cdc for ZUL-C2) at elevated temperatures.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of both ZUL-C1 and ZUL-C2 involves heating at 433K for 24 hours.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method is used to determine the crystal structure of ZUL-C1 and ZUL-C2?",
+      "answer": "The crystal structures of ZUL-C1 and ZUL-C2 were determined using Powder X-ray diffraction (PXRD) data and Rietveld refinement.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: ZUL-C2 exhibits higher selectivity for C2H6/CH4 separation compared to ZUL-C1.",
+      "answer": "True, as indicated by the higher IAST selectivity values for ZUL-C2 in gas mixture separations.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of using different dicarboxylic acid ligands (H2bpdc for ZUL-C1 and H2cdc for ZUL-C2) in the synthesis?",
+      "answer": "The use of different dicarboxylic acid ligands affects the pore environment and structure of the resulting MOFs, ZUL-C1 and ZUL-C2, which in turn influences their gas adsorption and separation properties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

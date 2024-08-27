@@ -1,0 +1,153 @@
+{
+  "materials": [
+    {
+      "name": "H2L",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "chemicals_used": [
+            {
+              "name": "4-aminobenzoic acid",
+              "amount": null
+            },
+            {
+              "name": "paraformaldehyde (PFA)",
+              "amount": null
+            },
+            {
+              "name": "trifluoroacetic acid (TFA)",
+              "amount": null
+            }
+          ],
+          "solvents": [
+            {
+              "name": "N/A",
+              "amount": null
+            }
+          ],
+          "temperature": "N/A",
+          "time": "N/A",
+          "equipment": "N/A",
+          "yield": "N/A",
+          "washing_method": "normal-phase chromatography column",
+          "drying_method": "N/A"
+        },
+        {
+          "step": "Hydrolysis",
+          "chemicals_used": [
+            {
+              "name": "NaOH",
+              "amount": "1% w/v"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "H2O–THF–MeOH",
+              "amount": "1:1:1 v/v"
+            }
+          ],
+          "temperature": "110°C",
+          "time": "48h",
+          "equipment": "N/A",
+          "yield": "N/A",
+          "washing_method": "reverse-phase chromatography column (C-18; H2O–MeOH, 50% v/v)",
+          "drying_method": "N/A"
+        }
+      ]
+    },
+    {
+      "name": "NU-1900",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "chemicals_used": [
+            {
+              "name": "ZrCl4",
+              "amount": "20 mg (0.086 mmol)"
+            },
+            {
+              "name": "H2L",
+              "amount": "10 mg (0.032 mmol)"
+            },
+            {
+              "name": "formic acid",
+              "amount": "0.15 mL"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "N,N-dimethylformamide (DMF)",
+              "amount": "0.5 mL"
+            }
+          ],
+          "temperature": "120°C",
+          "time": "1 day",
+          "equipment": "2-dram vial",
+          "yield": "85% based on H2L",
+          "washing_method": "washed with DMF several times",
+          "drying_method": "N/A"
+        }
+      ]
+    },
+    {
+      "name": "NU-1900-CHO",
+      "synthesis_conditions": [
+        {
+          "step": "Post-synthetic modification",
+          "chemicals_used": [
+            {
+              "name": "water",
+              "amount": "N/A"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "N/A",
+              "amount": null
+            }
+          ],
+          "temperature": "N/A",
+          "time": "at least 2 days",
+          "equipment": "N/A",
+          "yield": "N/A",
+          "washing_method": "washed thoroughly with DMF, acetone, followed by water",
+          "drying_method": "N/A"
+        }
+      ]
+    },
+    {
+      "name": "NU-407",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "chemicals_used": [
+            {
+              "name": "ZrCl4",
+              "amount": "20 mg (0.086 mmol)"
+            },
+            {
+              "name": "H2L",
+              "amount": "10 mg (0.032 mmol)"
+            },
+            {
+              "name": "formic acid",
+              "amount": "0.15 mL"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "N,N-diethylformamide (DEF)",
+              "amount": "0.5 mL"
+            }
+          ],
+          "temperature": "120°C",
+          "time": "1 day",
+          "equipment": "2-dram vial",
+          "yield": "82% based on H2L",
+          "washing_method": "washed with DMF several times",
+          "drying_method": "N/A"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "materials": [
+    {
+      "name": "PCP-3,5-pdc",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "DMF/MeOH",
+            "ratio": "1:1",
+            "volume": "60 mL"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "Co(NO3)2·6H2O",
+            "amount": "150 mg (0.6 mmol)"
+          },
+          {
+            "name": "dpg",
+            "amount": "194 mg (0.6 mmol)"
+          },
+          {
+            "name": "3,5-pdc",
+            "amount": "261 mg (0.6 mmol)"
+          }
+        ],
+        "temperature": "60 °C",
+        "time": "24 h",
+        "equipment": "solvothemal reaction"
+      },
+      "activation": {
+        "method": "washed with methanol three times and dried under vacuum",
+        "temperature": "120 °C",
+        "time": "24 h"
+      },
+      "characterization": {
+        "TGA": {
+          "temperature_stability": "up to ca. 270 °C"
+        },
+        "PXRD": {
+          "phase_change": "from 3-D network to 2-D layer structure upon activation"
+        },
+        "crystal_structure": {
+          "as-synthesised": {
+            "space_group": "I2/a",
+            "cell_volume": "2305.19(14) Å3"
+          },
+          "activated": {
+            "space_group": "P-1",
+            "cell_volume": "945.38(17) Å3"
+          },
+          "CO2_loaded": {
+            "space_group": "P-1",
+            "cell_volume": "1046.1 Å3"
+          }
+        }
+      },
+      "gas_adsorption": {
+        "CO2": {
+          "selectivity": "over N2, CH4, CO, O2, H2, Ar, C2H2, C2H4, and C2H6",
+          "mechanism": "gate-opening behavior",
+          "temperature": "195 K and 298 K",
+          "pressure": "up to 30 bar"
+        },
+        "other_gases": {
+          "N2": "negligible adsorption",
+          "CH4": "negligible adsorption",
+          "CO": "negligible adsorption",
+          "O2": "negligible adsorption",
+          "H2": "negligible adsorption",
+          "Ar": "negligible adsorption",
+          "C2H2": "negligible adsorption",
+          "C2H4": "negligible adsorption",
+          "C2H6": "negligible adsorption"
+        }
+      },
+      "high_pressure_experiments": {
+        "sorption": "up to 30 bar",
+        "co-sorption": "up to 20 bar",
+        "breakthrough": "up to 20 bar"
+      },
+      "computational_analysis": {
+        "diffusion_barrier": {
+          "CO2": "10.6 kcal mol-1",
+          "C2H2": "12.9 kcal mol-1",
+          "C2H4": "16.1 kcal mol-1"
+        },
+        "binding_energy": {
+          "CO2": "-8.6 kcal mol-1 at site I",
+          "N2": "-6.1 kcal mol-1 at site I",
+          "CH4": "-7.6 kcal mol-1 at site I",
+          "C2H2": "-9.9 kcal mol-1 at site I",
+          "C2H4": "-11.9 kcal mol-1 at site I"
+        }
+      }
+    }
+  ]
+}

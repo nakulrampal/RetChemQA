@@ -1,0 +1,52 @@
+{
+  "materials": [
+    {
+      "name": "oCB-MOF-1",
+      "synthesis_conditions": {
+        "temperature": "85 - 88°C",
+        "solvents": [
+          {
+            "name": "EtOH:DMF",
+            "ratio": "1:1",
+            "amount": "4 mL"
+          }
+        ],
+        "chemicals_used": [
+          "Zn(NO3)2·6 H2O",
+          "H2bdc (1,4-benzenedicarboxylate)",
+          "1,2-bis{(pyridin-3-yl)methanol}-1,2-dicarba-closo-dodecarborane (oCB-L)",
+          "2-methylimidazole (2-Hmim)"
+        ],
+        "time": "48 h",
+        "yield": "49 %",
+        "drying_method": "heated under vacuum at 85°C for 12 h",
+        "washing_method": "not specified",
+        "additional_information": "The synthesis affords a white crystalline material. The basic unit of oCB-MOF-1 is a tetranuclear Zn4(O)2(OOC)4 cluster."
+      }
+    },
+    {
+      "name": "Desolvated oCB-MOF-1'",
+      "synthesis_conditions": {
+        "temperature": "200°C",
+        "time": "12 h",
+        "additional_information": "Heating oCB-MOF-1 at 200°C for 12 h removes all six DMF molecules, but PXRD analysis showed a loss of crystallinity and CO2 sorption measurements revealed a decrease of 35% of the BET area compared to that of oCB-MOF-1."
+      }
+    },
+    {
+      "name": "Hydrophobic to Superhydrophilic Switch",
+      "synthesis_conditions": {
+        "chemical_treatment": [
+          {
+            "solution": "NaOH/DMF",
+            "conditions": "10 equivalents of NaOH in DMF for 1 h at room temperature"
+          },
+          {
+            "solution": "slightly acidic aqueous solution",
+            "conditions": "immersion in H2O (pH < 6.5) for 1 h at room temperature"
+          }
+        ],
+        "additional_information": "The switch from hydrophobic (contact angle = 140° for hand-packed; 108° for the pellet) to superhydrophilic (contact angle = 0°) upon immersion in NaOH/DMF solution is reversible. The initial hydrophobicity is fully recovered when hydrophilic oCB-MOF-1 is immersed in H2O."
+      }
+    }
+  ]
+}

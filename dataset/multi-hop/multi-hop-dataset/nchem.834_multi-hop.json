@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the primary purpose of using computational modelling in the design of metal-organic frameworks (MOFs) as described in the text?",
+      "answer": "The primary purpose of using computational modelling in the design of MOFs is to design and predictively characterize MOFs with specific properties, such as high surface area and gas storage capacities, before experimentally synthesizing them. This approach aids researchers by enabling them to narrow down possible synthesis targets to MOFs with high potential for success in specific applications.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why was the (3,24)-paddlewheel connected network topology chosen for the design of NU-100?",
+      "answer": "The (3,24)-paddlewheel connected network topology was chosen for the design of NU-100 because it was anticipated to have high stability under ambient conditions, including in the presence of moisture. Additionally, it has 'open' coordination sites that enhance gas uptake in low-pressure regimes and avoids network interpenetration, ensuring maximum surface area. This topology also provides cavities of different sizes within the same MOF, beneficial for storage applications across a wide range of pressures.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental technique was found to be the only successful method for activating NU-100 without damaging its porosity?",
+      "answer": "Activation with supercritical carbon dioxide (SCD) was found to be the only successful method for removing guest solvent molecules from the pores of NU-100 without significantly diminishing its porosity.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the experimental BET surface area of NU-100 compare to its simulated BET surface area and the surface area of MOF-210?",
+      "answer": "The experimental BET surface area of NU-100 is 6,143 m2 g-1, which is in excellent agreement with its simulated BET surface area of 6,515 m2 g-1 and slightly lower than the surface area of MOF-210, which is the highest reported at 6,240 m2 g-1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The experimental structure of NU-100 was found to be nearly identical to the predicted structure, NU-100SP, with differences of less than 0.4 Å in the unit cell dimensions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of density functional theory (DFT) calculations in the computational modelling of NU-100?",
+      "answer": "Density functional theory (DFT) calculations were used to derive partial atomic charges for the atoms in the MOF models, which were essential for accurately modelling the static and dynamic interactions of guest molecules in the MOF pores during the computational design and characterization of NU-100.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the 'open' coordination sites in the (3,24)-paddlewheel connected network topology for gas storage applications?",
+      "answer": "The 'open' coordination sites in the (3,24)-paddlewheel connected network topology are significant for gas storage applications because they favorably interact with sorbate molecules, enhancing gas uptake in low-pressure regimes. This feature is particularly beneficial for increasing the storage capacities of gases like hydrogen and carbon dioxide.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The total pore volume of NU-100 is smaller than that of MOF-5 and NOTT-112.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What challenges were addressed by using supercritical CO2 drying in the activation of NU-100?",
+      "answer": "Supercritical CO2 drying addressed the challenge of removing guest solvent molecules from the large pores (mesopores) of NU-100 without causing damage or loss of porosity, which is a common issue with MOFs containing large pores when using other activation procedures.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the experimental hydrogen storage capacity of NU-100 at 70 bar and 77 K compare to the US Department of Energy's revised long-term systems target for on-board H2 storage?",
+      "answer": "The experimental hydrogen storage capacity of NU-100 at 70 bar and 77 K is 164 mg g-1, which positions NU-100 within the range of the US Department of Energy's revised long-term systems target for on-board H2 storage, which is 7.5 wt% (equivalent to 81 mg g-1), albeit at cryogenic rather than ambient temperature.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "materials": [
+    {
+      "name": "Spherical complexes 2 a–c",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis of ligands 1 a–c",
+          "details": {
+            "precursors": "3,5-dibromo-4-hydroxybenzene carbaldehyde",
+            "steps": "6",
+            "solvents": "Not specified",
+            "temperature": "Not specified",
+            "time": "Not specified",
+            "equipment": "Not specified",
+            "yield": "Not specified"
+          }
+        },
+        {
+          "step": "Formation of [M12L24] spherical complex 2 a",
+          "details": {
+            "precursors": "Ligand 1 a (10 mmol), Pd(NO3)2 (6 mmol)",
+            "solvents": "Deuterated dimethyl sulfoxide",
+            "solvent_amounts": "Not specified",
+            "temperature": "70 °C",
+            "time": "1 hour",
+            "equipment": "Not specified",
+            "yield": "Not specified",
+            "washing_method": "Anion exchange of nitrate for triflate ions",
+            "drying_method": "Not specified"
+          }
+        },
+        {
+          "step": "Preparation of spheres 2 b and 2 c",
+          "details": {
+            "precursors": "Ligands 1 b and 1 c with Pd(NO3)2",
+            "solvents": "Deuterated dimethyl sulfoxide",
+            "solvent_amounts": "Not specified",
+            "temperature": "70 °C",
+            "time": "1 hour",
+            "equipment": "Not specified",
+            "yield": "Not specified",
+            "washing_method": "Anion exchange of nitrate for triflate ions",
+            "drying_method": "Not specified"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Inclusion of nile red in spheres 2 a–c",
+      "synthesis_conditions": [
+        {
+          "step": "Inclusion process",
+          "details": {
+            "precursors": "Nile red in DMSO (16 mm, 0.19 mL) added to solutions of 2 a in DMSO (0.23 mm, 0.56 mL)",
+            "solvents": "DMSO, water",
+            "solvent_amounts": {
+              "DMSO": "0.75 mL",
+              "water": "0.75 mL"
+            },
+            "temperature": "4 °C",
+            "time": "1 hour",
+            "equipment": "Not specified",
+            "yield": "Not specified",
+            "washing_method": "Filtration",
+            "drying_method": "Not specified"
+          }
+        },
+        {
+          "step": "Calculation of the number of molecules of nile red within the spheres 2 a–c",
+          "details": {
+            "precursors": "Solutions of 3 with 2 a–c in DMSO/H2O 1:1",
+            "solvents": "CH3CN",
+            "solvent_amounts": {
+              "CH3CN": "1.9 mL",
+              "DMSO/H2O 1:1": "0.1 mL"
+            },
+            "temperature": "Not specified",
+            "time": "Dilution 20-fold",
+            "equipment": "Not specified",
+            "yield": "Calculated concentrations of expelled nile red: 0.82 mm (3), 6.6 mm (3 + 2 a), 43 mm (3 + 2 b), 52 mm (3 + 2 c)",
+            "washing_method": "Not specified",
+            "drying_method": "Not specified"
+          }
+        }
+      ]
+    }
+  ]
+}

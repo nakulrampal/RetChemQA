@@ -1,0 +1,62 @@
+{
+  "materials": [
+    {
+      "name": "K(dopdtc)",
+      "synthesis_conditions": {
+        "solvents": ["THF", "Et2O"],
+        "amount_of_solvents": ["160 mL of THF", "150 mL of Et2O"],
+        "chemicals_used": ["KCH2Ph", "2,20-dipyridylamine", "CS2"],
+        "equipment": ["500 mL side arm round bottom flask", "ice bath"],
+        "time": "18 h",
+        "temperature": ["-78°C for CS2 addition", "room temperature for reaction"],
+        "yield": "98.3%"
+      }
+    },
+    {
+      "name": "PPN(dopdtc)",
+      "synthesis_conditions": {
+        "solvents": ["H2O"],
+        "amount_of_solvents": ["120 mL of H2O", "20 mL H2O"],
+        "chemicals_used": ["PPNCl", "K(dopdtc)"],
+        "equipment": ["MeOH for recrystallization"],
+        "yield": "97%"
+      }
+    },
+    {
+      "name": "[Au(dopdtc)]2",
+      "synthesis_conditions": {
+        "solvents": ["CH2Cl2", "Et2O", "DMF for recrystallization"],
+        "amount_of_solvents": ["40 mL of CH2Cl2"],
+        "chemicals_used": ["PPN(dopdtc)", "AuCl(tht)"],
+        "equipment": ["centrifuge"],
+        "time": "18 h",
+        "temperature": "room temperature",
+        "yield": "53.4%"
+      }
+    },
+    {
+      "name": "[Au2(dopdtc)2]n",
+      "synthesis_conditions": {
+        "temperature": ["variable temperature luminescence measurements from 293 K to 80 K", "variable pressure luminescence measurements at 300 K"],
+        "pressure": ["variable pressure measurements up to 43 kbar"],
+        "equipment": ["Renishaw 3000 Raman imaging microscope", "Linkam coldfinger cryostat", "diamond-anvil cell (DAC)"],
+        "solvents": ["n/a"],
+        "chemicals_used": ["n/a"],
+        "time": ["n/a"],
+        "yield": ["n/a"]
+      }
+    },
+    {
+      "name": "[Au2(edtc)2]n",
+      "synthesis_conditions": {
+        "temperature": ["variable temperature luminescence measurements from 293 K to 80 K", "variable pressure luminescence measurements at 300 K"],
+        "pressure": ["variable pressure measurements up to 41 kbar"],
+        "equipment": ["Renishaw 3000 Raman imaging microscope", "Linkam coldfinger cryostat", "diamond-anvil cell (DAC)"],
+        "solvents": ["n/a"],
+        "chemicals_used": ["n/a"],
+        "time": ["n/a"],
+        "yield": ["n/a"]
+      }
+    }
+  ]
+}

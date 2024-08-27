@@ -1,0 +1,93 @@
+{
+  "materials": [
+    {
+      "name": "Dpya-1",
+      "synthesis_conditions": {
+        "temperature": "95 °C",
+        "solvents": [
+          {
+            "name": "propionitrile",
+            "amount": "6 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Ascorbic acid",
+            "amount": "35 mg, 0.198 mmol"
+          },
+          {
+            "name": "Fe(BF4)2 · 6H2O",
+            "amount": "52 mg, 0.154 mmol"
+          },
+          {
+            "name": "dpyatriz ligand",
+            "amount": "60 mg, 0.10 mmol"
+          },
+          {
+            "name": "water",
+            "amount": "25 µL"
+          }
+        ],
+        "equipment": "closed pressure tube",
+        "time": "overnight",
+        "yield": "about 74 % (based on the ligand)",
+        "drying_method": "exposure to air causes exchange of propionitrile with atmospheric water molecules",
+        "additional_information": "The presence of labile coordinated and lattice propionitrile molecules precludes accurate elemental analyses due to rapid exchange with atmospheric water."
+      }
+    },
+    {
+      "name": "Dpya-2",
+      "synthesis_conditions": {
+        "method": "Single crystals of Dpya-1 were left in a vial in contact with air for one day, converting from purple crystals to a yellow crystalline powder.",
+        "chemical_analysis": {
+          "found": {
+            "C": "39.8 %",
+            "N": "16.9 %",
+            "H": "3.1 %",
+            "Fe": "8.4 %"
+          },
+          "calculated": {
+            "C": "39.4 %",
+            "N": "16.7 %",
+            "H": "3.2 %",
+            "Fe": "8.3 %"
+          }
+        },
+        "IR_spectra": "3447.2 cm–1 (mO–H), 1374.3 cm–1 (triazine vibration), 1056, 1017 cm–1 (mB–F)",
+        "yield": "Not specified",
+        "drying_method": "Not specified",
+        "additional_information": "Rate of substitution of propionitrile by atmospheric water molecules was controlled by the size and number of holes in the cap of the vial."
+      }
+    },
+    {
+      "name": "Dpya-1(propanol)",
+      "synthesis_conditions": {
+        "method": "Crystals of Dpya-1 were placed in a vial containing a minimal amount of mother liquor and then covered with propanol for one or two days, leading to a color change from deep purple to colorless.",
+        "solvents": [
+          {
+            "name": "propanol",
+            "amount": "excess"
+          }
+        ],
+        "time": "one or two days",
+        "yield": "Not specified",
+        "additional_information": "The substitution led to almost no change of the structure as deduced from XRPD experiments."
+      }
+    },
+    {
+      "name": "Dpya-1(acetonitrile)",
+      "synthesis_conditions": {
+        "method": "Crystals of Dpya-1 were placed in a vial containing a minimal amount of mother liquor and then covered with acetonitrile for one or two days, leading to a slight color change to light purple.",
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "excess"
+          }
+        ],
+        "time": "one or two days",
+        "yield": "Not specified",
+        "additional_information": "The substitution resulted in a smaller diminution of the ligand-field compared with water, shifting the transition towards lower temperatures."
+      }
+    }
+  ]
+}

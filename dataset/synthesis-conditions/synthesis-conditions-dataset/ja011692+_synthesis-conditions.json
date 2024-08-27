@@ -1,0 +1,51 @@
+{
+  "materials": [
+    {
+      "name": "H6TTA",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation",
+          "description": "The carboxy-terminated, first-generation dendrimer with triarylamine branches and a triarylamine core was prepared using recently developed palladium-catalyzed amination methodology. H6TTA linker containing six peripheral carboxyl groups was prepared to coordinate metal ions by coupling of 4,4‘,4‘ ‘-tribromotriphenylamine with 4,4‘-di-tert-butylcarboxy diphenylamine and subsequent thermal conversion of the tert-butyl carboxylates to the free acids."
+        }
+      ]
+    },
+    {
+      "name": "MODF-1",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation",
+          "temperature": "Heated at a constant rate of 0.1 °C/min to 75 °C, held at 75 °C for 24 h, cooled at a constant rate of 0.1 °C/min to 65 °C, held at this temperature for 10 h, and cooled to room temperature.",
+          "solvents": [
+            {
+              "name": "DMA",
+              "amount": "1.5 mL"
+            },
+            {
+              "name": "EtOH",
+              "amount": "0.4 mL"
+            },
+            {
+              "name": "H2O",
+              "amount": "0.1 mL"
+            }
+          ],
+          "equipment": "Quartz tube (10 mm × 8 mm o.d. × i.d., 140 mm length)",
+          "chemicals_used": [
+            {
+              "name": "H6TTA",
+              "amount": "0.002 g, 2.0 × 10^-6 mol"
+            },
+            {
+              "name": "Zn(NO3)2·6H2O",
+              "amount": "0.012 g, 4.0 × 10^-5 mol"
+            }
+          ],
+          "time": "34 hours",
+          "washing_method": "Washed with a mixture of DMA and EtOH (3 × 4 mL)",
+          "drying_method": "Dried briefly in air (ca. 1 min)",
+          "yield": "0.002 g, 56%"
+        }
+      ]
+    }
+  ]
+}

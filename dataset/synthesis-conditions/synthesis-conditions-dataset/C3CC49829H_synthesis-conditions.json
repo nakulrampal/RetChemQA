@@ -1,0 +1,50 @@
+{
+  "materials": [
+    {
+      "name": "[Cu3(BTEB)2(H2O)3], TCM-4'",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "1,3,5-Benzene-tris-ethynylbenzoic acid (BTEB)",
+          "Cu(NO3)2.3H2O",
+          "4,4’-bipyridine",
+          "DMF"
+        ],
+        "amounts": {
+          "BTEB": "0.035 g (0.069 mmol)",
+          "Cu(NO3)2.3H2O": "0.0163 g (0.068 mmol)",
+          "4,4’-bipyridine": "0.011 g (0.070 mmol)",
+          "DMF": "Total 0.625 ml"
+        },
+        "equipment": "Closed vial",
+        "temperature": "85°C",
+        "time": "48h",
+        "yield": "ca. 65%",
+        "washing_method": "Not specified",
+        "drying_method": "Solvent-exchange procedures using dichloromethane",
+        "additional_information": "Sonication for 10 minutes before heating"
+      }
+    },
+    {
+      "name": "[Cu3(BTEB)2(H2O)3], TCM-8",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "1,3,5-Benzene-tris-ethynylbenzoic acid (BTEB)",
+          "Cu(NO3)2.3H2O",
+          "DMF"
+        ],
+        "amounts": {
+          "BTEB": "0.024 g (0.047 mmol)",
+          "Cu(NO3)2.3H2O": "0.0167 g (0.069 mmol)",
+          "DMF": "1.0 ml"
+        },
+        "equipment": "Closed 1.5 ml glass vial",
+        "temperature": "85°C",
+        "time": "24h",
+        "yield": "ca. 85%",
+        "washing_method": "Washed with DMF several times",
+        "drying_method": "Stored in DMF; solvent-exchange procedures using dichloromethane for drying",
+        "additional_information": "Sonication for 10 minutes before heating"
+      }
+    }
+  ]
+}

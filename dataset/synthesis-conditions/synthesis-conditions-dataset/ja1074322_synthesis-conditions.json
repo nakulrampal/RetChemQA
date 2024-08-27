@@ -1,0 +1,64 @@
+{
+  "materials": [
+    {
+      "name": "MOF-5 single crystals",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2•6H2O",
+            "amount": "3.08 g"
+          },
+          {
+            "name": "benzene-1,4-dicarboxylic acid",
+            "amount": "578 mg"
+          },
+          {
+            "name": "diethylformamide (DEF)",
+            "amount": "88 mL",
+            "preparation": "distilled under reduced pressure"
+          }
+        ],
+        "equipment": [
+          "Borosilicate glass scintillation vials (20 mL)",
+          "Erlenmeyer flask",
+          "13 mm syringe filter (0.45 μm PTFE membrane)",
+          "programmable oven"
+        ],
+        "procedure": "DEF added to flask containing Zn(NO3)2•6H2O and benzene-1,4-dicarboxylic acid, stirred until solids dissolved. Solution filtered into vials, sealed, heated at 85 °C for 72 h, cooled to room temperature for 24 h. Crystals washed three times with fresh DMF.",
+        "temperature": "85 °C",
+        "time": "72 h heating, 24 h cooling",
+        "washing_method": "Washed three times with fresh DMF",
+        "yield": "Large cube-shaped crystals (between 1×1×1 mm and 3×3×2 mm)"
+      }
+    },
+    {
+      "name": "FA-BADE organogel",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "furfurylamine (FA)",
+            "amount": "96 mmol"
+          },
+          {
+            "name": "bisphenol A diglycidyl ether (BADE)",
+            "amount": "48 mmol"
+          },
+          {
+            "name": "DMF",
+            "amount": "160 mL"
+          },
+          {
+            "name": "1,1′-(methylenedi-4,1-phenylene)bismaleimide (MBI)",
+            "amount": "6 mmol"
+          }
+        ],
+        "equipment": [
+          "Silicon wafer"
+        ],
+        "procedure": "(i) FA and BADE dissolved in DMF, heated at 90 °C for two days. (ii) MBI added to crude FA-BADE oligomer solution, shaken, left at room temperature for 3 days for gelation. (iii) Mixture cast against silicon wafer, after gelation, organogel layer peeled off and cut into blocks.",
+        "temperature": "90 °C",
+        "time": "2 days heating, 3 days gelation"
+      }
+    }
+  ]
+}

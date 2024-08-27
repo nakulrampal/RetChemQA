@@ -1,0 +1,74 @@
+{
+  "materials": [
+    {
+      "material": "3a",
+      "synthesis_conditions": {
+        "temperature": "hot",
+        "solvents": [
+          {
+            "name": "aqueous solution",
+            "amount": "5 mL"
+          },
+          {
+            "name": "aqueous solution",
+            "amount": "4 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Co(NO3)2·6H2O",
+            "amount": "10.0 mg",
+            "molarity": "34.4 mmol"
+          },
+          {
+            "name": "4,4‘-bipy",
+            "amount": "10.7 mg",
+            "molarity": "68.8 mmol"
+          },
+          {
+            "name": "Hpyca",
+            "amount": "4.2 mg",
+            "molarity": "34.4 mmol"
+          }
+        ],
+        "yield": "58.7%",
+        "product": "single product"
+      }
+    },
+    {
+      "material": "3b",
+      "synthesis_conditions": {
+        "temperature": "hot",
+        "solvents": [
+          {
+            "name": "aqueous solution",
+            "amount": "5 mL"
+          },
+          {
+            "name": "aqueous solution",
+            "amount": "4 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cd(NO3)2·5H2O",
+            "amount": "9.1 mg",
+            "molarity": "34.4 mmol"
+          },
+          {
+            "name": "4,4‘-bipy",
+            "amount": "10.7 mg",
+            "molarity": "68.8 mmol"
+          },
+          {
+            "name": "Hpyca",
+            "amount": "4.2 mg",
+            "molarity": "34.4 mmol"
+          }
+        ],
+        "yield": "59.3%",
+        "product": "single product"
+      }
+    }
+  ]
+}

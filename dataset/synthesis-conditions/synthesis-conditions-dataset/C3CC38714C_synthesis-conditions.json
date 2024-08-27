@@ -1,0 +1,159 @@
+{
+  "materials": [
+    {
+      "name": "LPd [Pd(H2bpydc)Cl2]",
+      "synthesis_conditions": {
+        "temperature": "80 oC",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "30 mL"
+          },
+          {
+            "name": "ethyl acetate",
+            "amount": "30 mL"
+          }
+        ],
+        "equipment": "N2 atmosphere",
+        "chemicals_used": [
+          {
+            "name": "PdCl2(CH3CN)2",
+            "amount": "1.00 mmol, 0.26 g"
+          },
+          {
+            "name": "2,2'-bipyridine-5,5'-dicarboxylic acid",
+            "amount": "1.00 mmol, 0.24 g"
+          }
+        ],
+        "time": "2 hours",
+        "washing_method": "washed with DMF and MeOH",
+        "drying_method": "dried in vacuum",
+        "yield": "94%"
+      }
+    },
+    {
+      "name": "1 {Sm2[Pd(bpydc)Cl2]2[Pd(Hbpydc)Cl2]2(H2O)4}n",
+      "synthesis_conditions": {
+        "temperature": "180 oC",
+        "solvents": [
+          {
+            "name": "distilled water",
+            "amount": "1 mL"
+          }
+        ],
+        "equipment": "Teflon-lined vessel, autoclave",
+        "chemicals_used": [
+          {
+            "name": "LPd",
+            "amount": "0.03 mmol, 0.0127 g"
+          },
+          {
+            "name": "Sm(NO3)3·6H2O",
+            "amount": "0.1 mmol, 0.0450 g"
+          },
+          {
+            "name": "HCl",
+            "amount": "0.1 mmol"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": "washed with water",
+        "drying_method": "dried in air at ambient temperature",
+        "yield": "91%"
+      }
+    },
+    {
+      "name": "2 {Eu2[Pd(bpydc)Cl2]2[Pd(Hbpydc)Cl2]2(H2O)4}n",
+      "synthesis_conditions": {
+        "temperature": "180 oC",
+        "solvents": [
+          {
+            "name": "distilled water",
+            "amount": "1 mL"
+          }
+        ],
+        "equipment": "Teflon-lined vessel, autoclave",
+        "chemicals_used": [
+          {
+            "name": "LPd",
+            "amount": "0.03 mmol, 0.0127 g"
+          },
+          {
+            "name": "Eu(NO3)3·6H2O",
+            "amount": "0.1 mmol, 0.0440 g"
+          },
+          {
+            "name": "HCl",
+            "amount": "0.1 mmol"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": "washed with water",
+        "drying_method": "dried in air at ambient temperature",
+        "yield": "90%"
+      }
+    },
+    {
+      "name": "3 {Gd2[Pd(bpydc)Cl2]2[Pd(Hbpydc)Cl2]2(H2O)4}n",
+      "synthesis_conditions": {
+        "temperature": "180 oC",
+        "solvents": [
+          {
+            "name": "distilled water",
+            "amount": "1 mL"
+          }
+        ],
+        "equipment": "Teflon-lined vessel, autoclave",
+        "chemicals_used": [
+          {
+            "name": "LPd",
+            "amount": "0.03 mmol, 0.0127 g"
+          },
+          {
+            "name": "Gd(NO3)3·6H2O",
+            "amount": "0.1 mmol, 0.0440 g"
+          },
+          {
+            "name": "HCl",
+            "amount": "0.1 mmol"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": "washed with water",
+        "drying_method": "dried in air at ambient temperature",
+        "yield": "91%"
+      }
+    },
+    {
+      "name": "4 {Tb2[Pd(bpydc)Cl2]2[Pd(Hbpydc)Cl2]2(H2O)4}n",
+      "synthesis_conditions": {
+        "temperature": "180 oC",
+        "solvents": [
+          {
+            "name": "distilled water",
+            "amount": "1 mL"
+          }
+        ],
+        "equipment": "Teflon-lined vessel, autoclave",
+        "chemicals_used": [
+          {
+            "name": "LPd",
+            "amount": "0.03 mmol, 0.0127 g"
+          },
+          {
+            "name": "Tb(NO3)3·6H2O",
+            "amount": "0.1 mmol, 0.044 g"
+          },
+          {
+            "name": "HCl",
+            "amount": "0.1 mmol"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": "washed with water",
+        "drying_method": "dried in air at ambient temperature",
+        "yield": "90%"
+      }
+    }
+  ]
+}

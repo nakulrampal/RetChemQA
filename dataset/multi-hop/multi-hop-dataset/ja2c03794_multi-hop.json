@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula and formula weight of [Cu(BTDAT)(MeOH)]?",
+      "answer": "The empirical formula is C13H4CuN8OS2 and the formula weight is 415.90.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature and wavelength was the crystal system of [Cu(BTDAT)(MeOH)] determined?",
+      "answer": "The crystal system was determined at 100 K and a wavelength of 1.54184 Å.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group and volume of the unit cell for [Cu(BTDAT)(MeOH)]?",
+      "answer": "The space group is C 2/c and the volume of the unit cell is 2823.6(3) Å3.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the synthesis of single crystals of [Cu(BTDAT)(MeOH)] differ from the synthesis of bulk powder?",
+      "answer": "Single crystals are synthesized by layering solutions and allowing crystals to form over 3 days, while bulk powder is synthesized by reacting components in a solvothermal vessel at 60 °C for 24 hours.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the key features observed in the thermogravimetric analysis of [Cu(BTDAT)(MeOH)]?",
+      "answer": "The thermogravimetric analysis reveals a gradual mass loss up to 255 °C, likely due to the liberation of the coordinated solvent, and a more substantial mass loss above ca. 350 °C due to ligand decomposition.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the intervalence charge transfer (IVCT) band observed in the Vis/NIR SEC of [Cu(BTDAT)(MeOH)]?",
+      "answer": "The IVCT band, attributed to charge-transfer within pseudo-1D stacks of mixed-valence BTDAT ligands, suggests the presence of mixed-valence species in the framework and indicates strong electron delocalization.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the conductivity of [Cu(BTDAT)(MeOH)] change with temperature?",
+      "answer": "The conductivity of [Cu(BTDAT)(MeOH)] decreases as the temperature is lowered, consistent with a non-metallic state.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the DFT calculation predict about the electronic structure of [Cu(BTDAT)(MeOH)]?",
+      "answer": "DFT calculations predict that [Cu(BTDAT)(MeOH)] is a metal with several bands crossing the Fermi energy, which contrasts with the experimentally observed decrease in conductivity with decreasing temperature.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The pressed pellet and single crystal conductivity measurements of [Cu(BTDAT)(MeOH)] yield similar conductivity values.",
+      "answer": "False. The single-crystal conductivity is approximately 60 times lower than the pressed pellet conductivity, suggesting significant contact resistance in single-crystal measurements.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What strategies are suggested for increasing the conductivity of [Cu(BTDAT)(MeOH)]?",
+      "answer": "Strategies include doping the system to move away from an integer number of electrons per unit cell or increasing the bandwidth, possibly by preventing or disrupting the dimerization of BTDAT ligands.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

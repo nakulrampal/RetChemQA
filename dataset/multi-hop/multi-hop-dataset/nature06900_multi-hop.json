@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What are the synthesis conditions for ZIF-95 and ZIF-100?",
+      "answer": "ZIF-95 was synthesized from a mixture containing Zn(NO3)2·4H2O, 5-chlorobenzimidazole (cbIM), N,N-dimethylformamide (DMF), and water at 120°C, yielding light yellow plate crystals. ZIF-100 was synthesized under anhydrous conditions using Zn(O3SCF3)2 instead of Zn(NO3)2·4H2O, along with cbIM and DMF, at 120°C, yielding dark yellow cubic crystals.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How do the synthesis conditions of ZIF-95 and ZIF-100 differ?",
+      "answer": "The synthesis conditions of ZIF-95 and ZIF-100 differ mainly in the zinc source and the water content of the reaction medium. ZIF-95 uses Zn(NO3)2·4H2O with water added to the reaction, while ZIF-100 uses anhydrous Zn(O3SCF3)2 and is synthesized under less hydrated conditions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of ZIF-95 and ZIF-100 both require the presence of water.",
+      "answer": "False. ZIF-95's synthesis involves the addition of water, while ZIF-100 is synthesized under less hydrated conditions, specifically using anhydrous Zn(O3SCF3)2.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does the choice of zinc source play in the synthesis of ZIF-95 and ZIF-100?",
+      "answer": "The choice of zinc source influences the crystallization phase and the hydration level of the resulting ZIF. ZIF-95 uses Zn(NO3)2·4H2O, which contributes to its specific crystalline structure and requires the addition of water. In contrast, ZIF-100 is synthesized using anhydrous Zn(O3SCF3)2, leading to a different crystalline phase under less hydrated conditions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of using 5-chlorobenzimidazole (cbIM) in the synthesis of ZIF-95 and ZIF-100?",
+      "answer": "5-Chlorobenzimidazole (cbIM) is used as a linker in the synthesis of both ZIF-95 and ZIF-100. Its role is crucial for forming the tetrahedral networks characteristic of these ZIFs, contributing to their complex cage structures and influencing their selective gas adsorption properties.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the thermal stability of ZIF-95 and ZIF-100 compare, based on their TGA profiles?",
+      "answer": "Both ZIF-95 and ZIF-100 exhibit high thermal stability up to 500°C, as indicated by their TGA profiles. The initial weight loss observed for both materials corresponds to the release of guest molecules, with ZIF-95 showing a weight loss at around 200°C and ZIF-100 at around 300°C, suggesting that both materials maintain their structural integrity up to these temperatures.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: ZIF-95 and ZIF-100 have identical pore sizes based on their gas adsorption isotherms.",
+      "answer": "False. The gas adsorption isotherms and subsequent pore size distribution analysis indicate that ZIF-95 and ZIF-100 have different pore sizes, with ZIF-100 featuring a giant cage that contributes to its unique adsorption properties.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental technique was used to determine the structure of ZIF-95 and ZIF-100?",
+      "answer": "Single-crystal X-ray diffraction techniques were used to determine the structures of ZIF-95 and ZIF-100. This method allowed for the identification of their complex cage structures and the tetrahedral networks characteristic of these materials.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the gas adsorption selectivity of ZIF-95 and ZIF-100 for CO2 compare to other materials?",
+      "answer": "Both ZIF-95 and ZIF-100 exhibit high selectivity for CO2 adsorption compared to other gases like CH4, N2, and CO. This selectivity is attributed to their unique pore structures and surface properties, making them promising materials for CO2 capture and storage applications. Their selectivity for CO2 is higher than that of traditional adsorbents like BPL carbon.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of ZIF-100 requires a higher temperature than ZIF-95.",
+      "answer": "False. Both ZIF-95 and ZIF-100 are synthesized at the same temperature of 120°C, but under different conditions regarding the zinc source and hydration level.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

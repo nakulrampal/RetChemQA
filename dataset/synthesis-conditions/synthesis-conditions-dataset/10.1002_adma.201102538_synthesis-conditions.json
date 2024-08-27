@@ -1,0 +1,43 @@
+{
+  "materials": [
+    {
+      "name": "[(CH3)2NH2]2[Zn(TATAT)2/3] · 3DMF · H2O (1)",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "DMF/CH3OH",
+            "ratio": "1:1",
+            "volume": "6 mL"
+          }
+        ],
+        "equipment": "Teflon reactor (18 mL)",
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2 · 7H2O",
+            "amount": "0.0314 g, 0.10 mmol"
+          },
+          {
+            "name": "TATAT",
+            "amount": "0.074 g, 0.12 mmol"
+          }
+        ],
+        "time": "3 days",
+        "cooling_rate": "5 °C h−1",
+        "yield": "60.5% based on TATAT",
+        "drying_method": "Desolvated at 100 °C overnight prior to drug insertion"
+      }
+    },
+    {
+      "name": "5-FU-loaded [(CH3)2NH2]2[Zn(TATAT)2/3] · 3DMF · H2O (1)",
+      "synthesis_conditions": {
+        "solvent": "Methanol",
+        "initial_5-FU/material_ratio": "3:2",
+        "solution_concentration": "6 mg mL−1 5-FU",
+        "contact_time": "3 days",
+        "5-FU_adsorption": "33.3 wt%",
+        "5-FU_amount": "0.5 g of 5-FU g−1 of desolvated 1"
+      }
+    }
+  ]
+}

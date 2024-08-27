@@ -1,0 +1,160 @@
+{
+  "materials": [
+    {
+      "material": "[Mn4(hmp)6(dae-o)(ClO4)2]·6H2O (1o)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "20 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "manganese perchlorate hexahydrate",
+            "amount": "724 mg, 2.0 mmol"
+          },
+          {
+            "name": "2-hydroxymethylpyridine",
+            "amount": "546 mg, 5.0 mmol"
+          },
+          {
+            "name": "tetraethylammonium hydroxide",
+            "amount": "1.47 g, 2.0 mmol"
+          },
+          {
+            "name": "H2dae-o",
+            "amount": "228 mg, 0.5 mmol"
+          }
+        ],
+        "time": "1 h",
+        "equipment": "narrow diameter glass tube",
+        "yield": "110 mg, 13%",
+        "washing_method": "filtered",
+        "drying_method": "layered on chloroform (80 mL)",
+        "IR": [
+          "3429 (m)",
+          "2848 (m)",
+          "1606 (s)",
+          "1558 (s)",
+          "1481 (s)",
+          "1439 (s)",
+          "1404 (s)",
+          "1385 (s)",
+          "1371 (s)",
+          "1275 (s)",
+          "1186 (m)",
+          "1119 (s)",
+          "1045 (s)",
+          "984 (m)",
+          "810 (m) cm-1"
+        ],
+        "analysis": {
+          "C": {
+            "calculated": "39.06",
+            "found": "39.19"
+          },
+          "H": {
+            "calculated": "3.46",
+            "found": "3.18"
+          },
+          "N": {
+            "calculated": "5.16",
+            "found": "5.16"
+          }
+        }
+      }
+    },
+    {
+      "material": "[Mn4(hmp)6(dae-c)(H2O)2](ClO4)2·CH3CN·4H2O (1c)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "14 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "manganese perchlorate hexahydrate",
+            "amount": "489 mg, 1.4 mmol"
+          },
+          {
+            "name": "2-hydroxymethylpyridine",
+            "amount": "369 mg, 3.4 mmol"
+          },
+          {
+            "name": "tetraethylammonium hydroxide",
+            "amount": "994 mg, 1.4 mmol"
+          },
+          {
+            "name": "H2dae-c",
+            "amount": "154 mg, 0.34 mmol"
+          }
+        ],
+        "time": "1 h",
+        "equipment": "narrow diameter glass tube",
+        "yield": "84 mg, 14%",
+        "washing_method": "filtered",
+        "drying_method": "layered on m-xylene (70 mL)",
+        "IR": [
+          "3398 (m)",
+          "2843 (m)",
+          "1606 (s)",
+          "1579 (s)",
+          "1533 (m)",
+          "1483 (m)",
+          "1442 (s)",
+          "1387 (s)",
+          "1282 (m)",
+          "1228 (m)",
+          "1093 (s)",
+          "1043 (s)",
+          "1018 (s)",
+          "964 (s)",
+          "764 (s) cm-1"
+        ],
+        "analysis": {
+          "C": {
+            "calculated": "39.54",
+            "found": "39.76"
+          },
+          "H": {
+            "calculated": "3.56",
+            "found": "3.63"
+          },
+          "N": {
+            "calculated": "5.87",
+            "found": "5.74"
+          }
+        }
+      }
+    },
+    {
+      "material": "1o-UV",
+      "synthesis_conditions": {
+        "photoirradiation": "UV light (λ = 313 nm) for 26 h",
+        "conversion_ratio": "∼30%",
+        "XRPD": "no significant change in X-ray powder diffraction (XRPD) patterns measured in the low 2θ angle range (5°−25°) between before and after the UV irradiation"
+      }
+    },
+    {
+      "material": "1c-vis",
+      "synthesis_conditions": {
+        "photoirradiation": "visible light (λ > 480 nm) for 3 h",
+        "conversion_ratio": "100%",
+        "XRPD": "crystallinity of the irradiated sample was preserved even after the 100% conversion; estimated a degree of change of cell parameters as Δa = 1.83%, Δb = −0.13%, Δc = 3.69%, Δβ = −0.13%, and ΔV = 5.53%"
+      }
+    },
+    {
+      "material": "1c-vis-UV",
+      "synthesis_conditions": {
+        "photoirradiation": "UV light for 3.5 h",
+        "conversion_ratio": "75%",
+        "XRPD": "data nearly returned to those of 1c; not identical because of the incomplete conversion of dae-o to dae-c and possible structural fluctuations"
+      }
+    }
+  ]
+}

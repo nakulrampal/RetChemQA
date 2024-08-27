@@ -1,0 +1,128 @@
+{
+  "materials": [
+    {
+      "name": "UiO-67",
+      "synthesis_conditions": [
+        {
+          "temperature": "393 K",
+          "solvents": [
+            {
+              "name": "N,N-dimethylformamide (DMF)",
+              "amount": "8 mL"
+            }
+          ],
+          "equipment": "glass vial",
+          "chemicals_used": [
+            {
+              "name": "Zirconium tetrachloride (ZrCl4)",
+              "amount": "49 mg"
+            },
+            {
+              "name": "glacial acetic acid",
+              "amount": "378 mg"
+            },
+            {
+              "name": "biphenyl-4,4′-dicarboxylic acid (H2BPDC)",
+              "amount": "52 mg"
+            }
+          ],
+          "time": "24 h",
+          "washing_method": "washed with DMF three times, methanol three times",
+          "drying_method": "activated at 423 K under vacuum for 12 h",
+          "yield": "C/Zr, 1.41± 0.5"
+        }
+      ]
+    },
+    {
+      "name": "UiO-bpydc",
+      "synthesis_conditions": [
+        {
+          "temperature": "393 K",
+          "solvents": [
+            {
+              "name": "N,N-dimethylformamide (DMF)",
+              "amount": "8 mL"
+            }
+          ],
+          "equipment": "glass vial",
+          "chemicals_used": [
+            {
+              "name": "Zirconium tetrachloride (ZrCl4)",
+              "amount": "49 mg"
+            },
+            {
+              "name": "glacial acetic acid",
+              "amount": "378 mg"
+            },
+            {
+              "name": "2,2′-bipyridine-5,5′-dicarboxylic acid (H2BPYDC)",
+              "amount": "52 mg"
+            }
+          ],
+          "time": "24 h",
+          "washing_method": "washed with DMF three times, methanol three times",
+          "drying_method": "activated at 423 K under vacuum for 12 h",
+          "yield": "C/Zr, 1.31± 0.5"
+        }
+      ]
+    },
+    {
+      "name": "Healed UiO-67",
+      "synthesis_conditions": [
+        {
+          "temperature": "393 K",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "10 mL"
+            }
+          ],
+          "equipment": "glass vial",
+          "chemicals_used": [
+            {
+              "name": "UiO-67 sample",
+              "amount": "100 mg"
+            },
+            {
+              "name": "H2bpdc linker",
+              "amount": "60 mg"
+            }
+          ],
+          "time": "48 h",
+          "washing_method": "washed with hot DMF five times, methanol four times",
+          "drying_method": "activated at 423 K under vacuum for 12 h",
+          "yield": "C/Zr, 1.83± 0.5"
+        }
+      ]
+    },
+    {
+      "name": "Healed UiO-bpydc",
+      "synthesis_conditions": [
+        {
+          "temperature": "393 K",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "10 mL"
+            }
+          ],
+          "equipment": "glass vial",
+          "chemicals_used": [
+            {
+              "name": "UiO-bpydc sample",
+              "amount": "100 mg"
+            },
+            {
+              "name": "H2bpydc linker",
+              "amount": "60 mg"
+            }
+          ],
+          "time": "48 h",
+          "washing_method": "washed with hot DMF five times, methanol four times",
+          "drying_method": "activated at 423 K under vacuum for 12 h",
+          "yield": "C/Zr, 1.43± 0.5"
+        }
+      ]
+    }
+  ]
+}

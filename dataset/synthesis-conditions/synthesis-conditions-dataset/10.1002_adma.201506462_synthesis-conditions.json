@@ -1,0 +1,63 @@
+{
+  "materials": [
+    {
+      "material": "1",
+      "synthesis_conditions": [
+        {
+          "method": "Mixture of Reactants",
+          "chemicals_used": [
+            "Cu(NO3)2•6H2O",
+            "4,4′-bipyridine (4,4′-bpy)"
+          ],
+          "solvents": [
+            "High purity EtOH",
+            "Deionised Milipore Mili-Q water"
+          ],
+          "equipment": [
+            "scanning electron microscope (ZEISS EI MERLIN FE-SEM)",
+            "JEOL JEM 1400 electron microscope",
+            "X’Pert PRO MPD diffractometer (Panalytical)"
+          ],
+          "temperature": "room temperature",
+          "yield": "Anal. (%) Calcd. for C20H18Cu2N6O8,NO3,H2O; C, 35.45; H, 2.97; N, 14.47. Found: C, 35.67; H, 2.69; N, 14.28."
+        },
+        {
+          "method": "Diffusion",
+          "chemicals_used": [
+            "Cu(NO3)2•6H2O",
+            "4,4′-bipyridine (4,4′-bpy)"
+          ],
+          "solvents": [
+            "ethanol",
+            "water"
+          ],
+          "time": "4 days",
+          "yield": "Anal. (%) Calcd. for C20H18Cu2N6O8,NO3,H2O; C, 35.45; H, 2.97; N, 14.47. Found: C, 35.11; H, 3.12; N, 14.28."
+        },
+        {
+          "method": "Laminar Flow",
+          "chemicals_used": [
+            "Cu(NO3)2•6H2O",
+            "4,4′-bipyridine (4,4′-bpy)"
+          ],
+          "solvents": [
+            "ethanol",
+            "water"
+          ],
+          "equipment": [
+            "planar microfluidic device",
+            "syringe pump system"
+          ],
+          "flow_rates": [
+            "Q1",
+            "Q2",
+            "Q3",
+            "Q4"
+          ],
+          "concentration": "100 × 10−3 M for both Cu(NO3)2•6H2O and 4,4′-bpy",
+          "temperature": "room temperature"
+        }
+      ]
+    }
+  ]
+}

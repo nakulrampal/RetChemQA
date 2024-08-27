@@ -1,0 +1,62 @@
+{
+  "materials": [
+    {
+      "name": "[(CH3)2NH2]Fe(HCOO)3",
+      "synthesis_conditions": {
+        "method": "Hydrothermal method",
+        "chemicals_used": [
+          {
+            "name": "FeCl2⋅4H2O",
+            "amount": "5 mmol"
+          },
+          {
+            "name": "deionized water",
+            "amount": "equal volume to DMF, part of 65 ml total"
+          },
+          {
+            "name": "dimethylformamide (DMF)",
+            "amount": "equal volume to deionized water, part of 65 ml total"
+          }
+        ],
+        "equipment": "100 ml polytetrafluoroethylene-lined hydrothermal synthesis reactor",
+        "temperature": "140 °C",
+        "time": "3 days",
+        "additional_steps": [
+          {
+            "step": "Crystallization",
+            "description": "Supernatant removed to a round-bottom flask for crystallization by slow evaporation at room temperature.",
+            "time": "5 days"
+          },
+          {
+            "step": "Washing",
+            "description": "Crystals washed with ethanol",
+            "times": "3"
+          }
+        ],
+        "storage": "Ar protective atmosphere"
+      },
+      "characterization_methods": [
+        {
+          "technique": "X-ray diffraction",
+          "details": "Powder and single-crystal X-ray diffraction measurements performed at room temperature using a Rigaku 2000 diffractometer with Cu Kα1 radiation (λ=1.5406 Å)."
+        },
+        {
+          "technique": "Magnetic properties measurement",
+          "details": "Measured with a superconducting quantum interference device magnetometer (Quantum Design MPMS)."
+        },
+        {
+          "technique": "Dielectric permittivity measurement",
+          "details": "Measured with an Andeen Hagerling 2700 capacitance bridge in a Cryogen-free Superconducting Magnet System (Oxford Instruments, TeslatronPT) with a home-made probe."
+        },
+        {
+          "technique": "Pyroelectric current measurement",
+          "details": "Measured by using a 6517B electrometer. Sample was poled in a positive or negative electric field of 5.4 kV/cm from 180 to 2 K. After removing the poling electric field and releasing space charges for 30 minutes, the pyroelectric current was recorded with warming at a constant rate of 2 k/min."
+        }
+      ],
+      "orientation": "[012]",
+      "poling_electric_field": "5.4 kV/cm",
+      "poling_temperature_range": "180 to 2 K",
+      "pyroelectric_current_warming_rate": "2 k/min"
+    }
+  ]
+}

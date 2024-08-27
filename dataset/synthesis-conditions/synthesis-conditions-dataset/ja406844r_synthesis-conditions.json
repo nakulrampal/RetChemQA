@@ -1,0 +1,43 @@
+{
+  "materials": [
+    {
+      "name": "PCN-225",
+      "synthesis_conditions": {
+        "chemicals_used": {
+          "ZrCl4": "25 mg",
+          "H2TCPP": "10 mg",
+          "benzoic acid": "550 mg",
+          "acetic acid": "5 drops"
+        },
+        "solvent": "DEF",
+        "solvent_amount": "2 mL",
+        "equipment": "Pyrex vial",
+        "temperature": "120 °C",
+        "time": "12 h",
+        "yield": "70%",
+        "drying_method": "filtration",
+        "washing_method": "DMF followed by acetone",
+        "activation_method": "N2 sweeping and 'outgas' function of adsorption instrument at 100 °C for 10 h"
+      }
+    },
+    {
+      "name": "PCN-225(Zn)",
+      "synthesis_conditions": {
+        "chemicals_used": {
+          "ZrCl4": "60 mg",
+          "Zn-TCPP": "50 mg",
+          "benzoic acid": "3 g"
+        },
+        "solvent": "DEF",
+        "solvent_amount": "9 mL",
+        "equipment": "Pyrex vial",
+        "temperature": "120 °C",
+        "time": "12 h",
+        "yield": "70%",
+        "drying_method": "filtration",
+        "washing_method": "DMF followed by acetone",
+        "activation_method": "N2 sweeping and 'outgas' function of adsorption instrument at 100 °C for 10 h"
+      }
+    }
+  ]
+}

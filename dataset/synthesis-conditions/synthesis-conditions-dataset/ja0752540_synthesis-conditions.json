@@ -1,0 +1,89 @@
+{
+  "materials": [
+    {
+      "material_id": "3b",
+      "synthesis_conditions": [
+        {
+          "temperature": "Room temperature",
+          "solvents": [
+            {
+              "name": "Methanol",
+              "amount": "0.5 mL"
+            },
+            {
+              "name": "Nitrobenzene/methanol solution",
+              "amount": "5 mL",
+              "ratio": "4:1"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "ZnI2",
+              "amount": "0.03 mmol"
+            },
+            {
+              "name": "1",
+              "amount": "0.02 mmol"
+            },
+            {
+              "name": "2b",
+              "amount": "0.1 mmol"
+            }
+          ],
+          "time": "2 days",
+          "yield": "47%",
+          "equipment": "Triple-layered solution setup",
+          "washing_method": "Filtration"
+        }
+      ]
+    },
+    {
+      "material_id": "3c",
+      "synthesis_conditions": [
+        {
+          "yield": "27%"
+        }
+      ]
+    },
+    {
+      "material_id": "3d",
+      "synthesis_conditions": [
+        {
+          "yield": "32%"
+        }
+      ]
+    },
+    {
+      "material_id": "3e",
+      "synthesis_conditions": [
+        {
+          "yield": "30%"
+        }
+      ]
+    },
+    {
+      "material_id": "3f",
+      "synthesis_conditions": [
+        {
+          "yield": "18%"
+        }
+      ]
+    },
+    {
+      "material_id": "4a-4c",
+      "synthesis_conditions": [
+        {
+          "solvents": [
+            {
+              "name": "Propane-2-ol/cyclohexane solution",
+              "ratio": "1:39",
+              "amount": "1 mL"
+            }
+          ],
+          "time": "2 days",
+          "method": "Immersion of crystals of 3a-3c in solvent solution"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "materials": [
+    {
+      "name": "catena-[FeII(ClO4)2{FeIII(bpca)2}]ClO4 (1)",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "solvents": [
+            {
+              "name": "MeNO2",
+              "amount": "3 ml",
+              "details": "involving 1.5% (v/v) of water"
+            },
+            {
+              "name": "MeNO2 solution of Fe(ClO4)3·6H2O",
+              "amount": "0.75 ml",
+              "concentration": "0.1 M"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "[Fe(bpca)2]",
+              "amount": "30 mg",
+              "molarity": "0.06 mmol"
+            }
+          ],
+          "equipment": "standard Schlenck techniques",
+          "atmosphere": "nitrogen",
+          "method_details": "Resulting dark brown solution was slowly evaporated on silica gel to obtain large black crystals (~ 2 mm) of 1·3MeNO2."
+        }
+      ]
+    }
+  ]
+}

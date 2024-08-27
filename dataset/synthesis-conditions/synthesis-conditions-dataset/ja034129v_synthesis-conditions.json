@@ -1,0 +1,100 @@
+{
+  "materials": [
+    {
+      "material": "1",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "25 mL"
+          }
+        ],
+        "equipment": "None specified",
+        "chemicals_used": [
+          {
+            "name": "manganese(II) perchlorate hexahydrate",
+            "amount": "1 mmol"
+          },
+          {
+            "name": "sodium azide",
+            "amount": "2 mmol"
+          },
+          {
+            "name": "2-pyridylmethylketazine (PMK)",
+            "amount": "0.5 mmol"
+          }
+        ],
+        "time": "10 min stirring, then allowed to evaporate slowly",
+        "yield": "ca. 34%",
+        "washing_method": "None specified",
+        "drying_method": "evaporation",
+        "analysis": {
+          "calculated": {
+            "C": "32.57",
+            "H": "2.73",
+            "N": "43.41"
+          },
+          "found": {
+            "C": "32.53",
+            "H": "2.81",
+            "N": "43.56"
+          },
+          "IR_bands": [
+            "νas(N3), 2102s, 2070sh, 2055vs",
+            "νs(N3), 1325m",
+            "ν(C=N), 1594m"
+          ]
+        }
+      }
+    },
+    {
+      "material": "2",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "25 mL"
+          }
+        ],
+        "equipment": "None specified",
+        "chemicals_used": [
+          {
+            "name": "manganese(II) perchlorate hexahydrate",
+            "amount": "1 mmol"
+          },
+          {
+            "name": "sodium azide",
+            "amount": "2 mmol"
+          },
+          {
+            "name": "2-pyridylmethylketazine (PMK)",
+            "amount": "0.5 mmol"
+          }
+        ],
+        "time": "10 min stirring, then allowed to evaporate slowly",
+        "yield": "ca. 20%",
+        "washing_method": "None specified",
+        "drying_method": "evaporation",
+        "analysis": {
+          "calculated": {
+            "C": "32.86",
+            "H": "3.31",
+            "N": "40.87"
+          },
+          "found": {
+            "C": "33.06",
+            "H": "3.55",
+            "N": "41.80"
+          },
+          "IR_bands": [
+            "νas(N3), 2116s, 2086sh, 2069vs",
+            "νs(N3), 1327m",
+            "ν(C=N), 1593m"
+          ]
+        }
+      }
+    }
+  ]
+}

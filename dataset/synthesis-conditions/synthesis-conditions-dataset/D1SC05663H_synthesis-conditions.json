@@ -1,0 +1,95 @@
+{
+  "materials": [
+    {
+      "name": "2-Rh",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": [
+          {
+            "name": "DMA",
+            "amount": "8.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "L2",
+            "amount": "90 mg"
+          },
+          {
+            "name": "Rh2(OAc)4",
+            "amount": "50 mg"
+          },
+          {
+            "name": "Na2CO3",
+            "amount": "24 mg"
+          }
+        ],
+        "time": "40 h",
+        "washing_method": "MeOH",
+        "drying_method": "high-vacuum",
+        "yield": "42%",
+        "crystallization_method": "slow-vapor diffusion of MeCN into a DMF solution"
+      }
+    },
+    {
+      "name": "3",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "DMA",
+            "amount": "400 μL (1-Cu), 800 μL (2-Rh)"
+          },
+          {
+            "name": "ethyl acetate",
+            "amount": "for slow-vapor diffusion"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "1-Cu",
+            "amount": "400 μL of 4 mM solution"
+          },
+          {
+            "name": "2-Rh",
+            "amount": "800 μL of 4 mM solution"
+          }
+        ],
+        "time": "5 days",
+        "washing_method": "acetone",
+        "drying_method": "stored in acetone",
+        "crystallization_method": "slow-vapor diffusion of ethyl acetate into the DMA mixture"
+      }
+    },
+    {
+      "name": "4",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "DMA",
+            "amount": "500 μL (1-Cu), 500 μL (2-Rh), additional 500 μL DMA"
+          },
+          {
+            "name": "diisopropyl ether",
+            "amount": "for slow-vapor diffusion"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "1-Cu",
+            "amount": "500 μL of 4 mM solution"
+          },
+          {
+            "name": "2-Rh",
+            "amount": "500 μL of 4 mM solution"
+          }
+        ],
+        "time": "6 days",
+        "washing_method": "acetone",
+        "drying_method": "stored in acetone",
+        "crystallization_method": "slow-vapor diffusion of diisopropyl ether into the DMA mixture"
+      }
+    }
+  ]
+}

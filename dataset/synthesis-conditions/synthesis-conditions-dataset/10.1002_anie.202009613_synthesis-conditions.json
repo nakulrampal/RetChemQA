@@ -1,0 +1,72 @@
+{
+  "materials": [
+    {
+      "name": "Cu4C6S6",
+      "synthesis_conditions": {
+        "solvent": "methanol",
+        "reactants": [
+          "[CuI(CH3CN)4]BF4",
+          "BHT (benzenehexathiol)"
+        ],
+        "product_color": "dark blue",
+        "solubility": "insoluble in common solvents",
+        "yield_indicators": {
+          "Raman_signal_of_thiol_units": "disappears entirely"
+        },
+        "chemical_composition": "[Cu4(C6S6)]n",
+        "oxidant": "trace amount of oxygen in the reaction container",
+        "morphology": "regular prism-shaped nanorods",
+        "dimensions": "hundreds of nanometers",
+        "crystallinity": "high",
+        "crystal_system": "triclinic",
+        "space_group": "P1¯",
+        "unit_cell_parameters": {
+          "a": "3.9227(9) c",
+          "b": "8.0610(19) c",
+          "c": "8.247(2) c",
+          "alpha": "64.685(18)88",
+          "beta": "84.940(16)88",
+          "gamma": "85.900(17)88"
+        },
+        "electrical_conductivity": "270 S cm@1 at room temperature",
+        "type": "degenerate semiconductor"
+      }
+    },
+    {
+      "name": "Cu5.5C6S6",
+      "synthesis_conditions": {
+        "solvent": "ethylene glycol",
+        "reactants": [
+          "[CuI(CH3CN)4]BF4",
+          "BHT (benzenehexathiol)"
+        ],
+        "product_color": "dark green",
+        "solubility": "insoluble in common solvents",
+        "yield_indicators": {
+          "Raman_signal_of_thiol_units": "disappears entirely"
+        },
+        "chemical_composition": "[Cu5.5(C6S6)]n",
+        "oxidant": "trace amount of oxygen in the reaction container",
+        "morphology": "regular prism-shaped nanorods",
+        "dimensions": "hundreds of nanometers",
+        "crystallinity": "high",
+        "crystal_system": "triclinic",
+        "space_group": "P1¯",
+        "unit_cell_parameters": {
+          "a": "3.8683(1) c",
+          "b": "8.4925(3) c",
+          "c": "14.6468(5) c",
+          "alpha": "91.496(2)88",
+          "beta": "94.295(2)88",
+          "gamma": "93.526(2)88"
+        },
+        "electrical_conductivity": "220 S cm@1 at room temperature",
+        "type": "degenerate semiconductor",
+        "thermoelectric_properties": {
+          "Seebeck_coefficient": "-80 mV K@1 at room temperature",
+          "ZT_value": "0.12 at 390 K"
+        }
+      }
+    }
+  ]
+}

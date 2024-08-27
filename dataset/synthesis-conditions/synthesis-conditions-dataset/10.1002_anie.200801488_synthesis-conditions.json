@@ -1,0 +1,93 @@
+{
+  "materials": [
+    {
+      "name": "[{Zn2(abtc)(dmf)2}3]·4 H2O·10 dmf (1)",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "time": "12 h",
+        "solvents": [
+          {
+            "name": "dmf",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6 H2O",
+            "amount": "not specified"
+          },
+          {
+            "name": "H4abtc",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "not specified",
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "[{Cu2(abtc)(H2O)2}3]·10 dmf·6 (1,4-dioxane) (2)",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "time": "24 h",
+        "solvents": [
+          {
+            "name": "dmf",
+            "amount": "4 parts"
+          },
+          {
+            "name": "1,4-dioxane",
+            "amount": "3 parts"
+          },
+          {
+            "name": "H2O",
+            "amount": "1 part"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cu(NO3)2·x H2O",
+            "amount": "not specified"
+          },
+          {
+            "name": "H4abtc",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "not specified",
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "[{Zn2(abtc)(dmf)2}3] (1 a; SNU-4)",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "time": "18 h",
+        "atmosphere": "vacuum",
+        "additional_information": "Further heating leads to collapse of the framework."
+      }
+    },
+    {
+      "name": "[{Cu2(abtc)(dmf)2}3] (2 a; SNU-5’)",
+      "synthesis_conditions": {
+        "temperature": "155 °C",
+        "time": "3 h",
+        "atmosphere": "N2 flow",
+        "additional_information": "Prepared by heating compound 2."
+      }
+    },
+    {
+      "name": "[{Cu2(abtc)}3] (2 b; SNU-5)",
+      "synthesis_conditions": {
+        "temperature": "170 °C",
+        "time": "24 h",
+        "atmosphere": "vacuum",
+        "additional_information": "Prepared by heating compound 2. Framework structure is destroyed upon exposure to air."
+      }
+    }
+  ]
+}

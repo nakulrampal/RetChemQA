@@ -1,0 +1,102 @@
+{
+  "V2Cl2.8(btdd)": {
+    "synthesis": {
+      "precursors": [
+        {
+          "name": "VCl2(tmeda)2",
+          "amount": "90.0 mg",
+          "molar_amount": "0.254 mmol"
+        },
+        {
+          "name": "dimethylformamidium trifluoromethanesulfonate",
+          "amount": "266 mg",
+          "molar_amount": "1.20 mmol"
+        },
+        {
+          "name": "H2(btdd)",
+          "amount": "20.0 mg",
+          "molar_amount": "0.0752 mmol"
+        }
+      ],
+      "solvent": "DMF",
+      "solvent_amount": "10 ml",
+      "temperature": "120 °C",
+      "time": "10 d",
+      "washing_method": [
+        {
+          "solvent": "DMF",
+          "temperature": "120 °C",
+          "duration": "24 h",
+          "repetitions": "6 times"
+        },
+        {
+          "solvent": "methanol",
+          "temperature": "60 °C",
+          "duration": "12 h",
+          "repetitions": "5 times"
+        }
+      ],
+      "activation_method": {
+        "temperature": "180 °C",
+        "ramp_rate": "0.2 °C min−1",
+        "duration": "36 h",
+        "vacuum": "dynamic"
+      },
+      "yield": "20 mg"
+    },
+    "gas_adsorption": {
+      "N2": {
+        "temperature": "25 °C",
+        "uptake": "1.5 mmol g−1 at 50 mbar, 1.9 mmol g−1 at 1 bar",
+        "isosteric_heat_of_adsorption": "−56 kJ mol−1"
+      },
+      "CH4": {
+        "temperature": "25 °C",
+        "binding_enthalpy": "−35 kJ mol−1"
+      },
+      "CO2": {
+        "temperature": "25 °C",
+        "IAST_selectivity_for_10:90_CO2:CH4": "37"
+      },
+      "C2H4": {
+        "temperature": "60-80 °C",
+        "binding_enthalpy": "−68 kJ mol−1"
+      },
+      "C2H6": {
+        "temperature": "60-80 °C"
+      },
+      "C3H6": {
+        "temperature": "25 °C",
+        "binding_enthalpy": "−67 kJ mol−1"
+      }
+    },
+    "N2/CH4_selectivity": {
+      "25 °C": "38 for 20:80 N2:CH4, 72 for 2:98 N2:CH4",
+      "35 °C": "Similar to 25 °C",
+      "45 °C": "Similar to 25 °C"
+    },
+    "ethylene_selectivity": {
+      "80 °C": "6.9 for 50:50 ethylene:ethane, 17 for 5:95 ethylene:ethane"
+    },
+    "characterization": {
+      "X-ray_diffraction": {
+        "V-N_bond_length": "2.12(7) Å",
+        "V-Cl_bond_length": "2.362(12) Å"
+      },
+      "infrared_spectroscopy": {
+        "CO_dosed": "2084 cm−1",
+        "N2_dosed": "2290 cm−1",
+        "propylene_dosed": "1620 cm−1"
+      },
+      "NMR_spectroscopy": {
+        "15N2_dosed": "267 ppm"
+      },
+      "X-ray_absorption_spectroscopy": {
+        "edge_energy": "5.4732, 5.4739 keV"
+      },
+      "X-ray_photoelectron_spectroscopy": {
+        "chloride_peak_shape": "Indicative of multiple chloride species"
+      }
+    }
+  }
+}

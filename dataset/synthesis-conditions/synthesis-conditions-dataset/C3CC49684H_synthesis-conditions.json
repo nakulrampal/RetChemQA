@@ -1,0 +1,36 @@
+{
+  "materials": [
+    {
+      "name": "ROD-6",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "DMF/H2O mixed solvent",
+        "solvent_amounts": "2.0 mL, 1:1 v/v",
+        "equipment": "Pyrex glass tube, oven",
+        "chemicals_used": "50% aqueous Mn(NO3)2 or MnCl2·4H2O, H4TBAPy",
+        "chemical_amounts": "Mn(NO3)2: 8.06 mg, 0.0225 mmol or MnCl2·4H2O: 4.45 mg, 0.0225 mmol; H4TBAPy: 5.12 mg, 0.0075 mmol",
+        "time": "72 hours",
+        "cooling_rate": "5 °C/h to room temperature",
+        "washing_method": "washed with DMF 3 times",
+        "washing_solvent_amount": "2.0 ml each time",
+        "yield": "6.0 mg"
+      }
+    },
+    {
+      "name": "ROD-7",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": "DMF/dioxane/H2O mixed solvent",
+        "solvent_amounts": "8.0 mL, 2:1:1 v/v",
+        "equipment": "15mL vial, oven",
+        "chemicals_used": "In(NO3)3·9H2O, H4TBAPy, concentrated hydrochloric acid",
+        "chemical_amounts": "In(NO3)3·9H2O: 24 mg, 0.06 mmol; H4TBAPy: 20, 0.03 mmol; concentrated hydrochloric acid: 20 μL",
+        "time": "12 hours",
+        "cooling_rate": "5 °C/h to room temperature",
+        "washing_method": "washed with DMF 3 times",
+        "washing_solvent_amount": "2.0 ml each time",
+        "yield": "24.0 mg"
+      }
+    }
+  ]
+}

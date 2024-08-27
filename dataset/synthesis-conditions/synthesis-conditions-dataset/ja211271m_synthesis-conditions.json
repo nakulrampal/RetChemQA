@@ -1,0 +1,112 @@
+{
+  "materials": [
+    {
+      "name": "MOF 1",
+      "synthesis_conditions": [
+        {
+          "step": "Crystallization",
+          "temperature": "80°C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "0.3 mL"
+            },
+            {
+              "name": "H2O",
+              "amount": "0.1 mL"
+            }
+          ],
+          "additional_chemicals": [
+            {
+              "name": "Formic acid",
+              "amount": "3µL"
+            }
+          ],
+          "time": "5 days",
+          "yield": "0.2 mg (20%)"
+        }
+      ]
+    },
+    {
+      "name": "MOF 1-Os",
+      "synthesis_conditions": [
+        {
+          "step": "Crystallization",
+          "temperature": "80°C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "0.3 mL"
+            },
+            {
+              "name": "H2O",
+              "amount": "0.1 mL"
+            }
+          ],
+          "additional_chemicals": [
+            {
+              "name": "Formic acid",
+              "amount": "3µL"
+            }
+          ],
+          "time": "5 days",
+          "yield": "0.5 mg (40%)"
+        }
+      ]
+    },
+    {
+      "name": "Ru(5,5’-CO2H-bpy)2CN2 (L1-H4)",
+      "synthesis_conditions": [
+        {
+          "step": "Reaction",
+          "temperature": "Reflux",
+          "solvents": [
+            {
+              "name": "H2O",
+              "amount": "Not specified"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Ru(5,5’-CO2Et-bpy)2Cl2",
+              "amount": "350 mg (0.453 mmol)"
+            },
+            {
+              "name": "KCN",
+              "amount": "1.47 g (22.6 mmol)"
+            }
+          ],
+          "time": "12 hours",
+          "yield": "198 mg (68%)"
+        }
+      ]
+    },
+    {
+      "name": "Os(5,5’-CO2H-bpy)2CN2 (L1-H4-Os)",
+      "synthesis_conditions": [
+        {
+          "step": "Reaction",
+          "temperature": "Reflux",
+          "solvents": [
+            {
+              "name": "H2O",
+              "amount": "25 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Os(5,5’-CO2Et-bpy)2Cl2",
+              "amount": "200 mg (0.232 mmol)"
+            },
+            {
+              "name": "KCN",
+              "amount": "830 mg (12.7 mmol)"
+            }
+          ],
+          "time": "12 hours",
+          "yield": "133 mg (78%)"
+        }
+      ]
+    }
+  ]
+}

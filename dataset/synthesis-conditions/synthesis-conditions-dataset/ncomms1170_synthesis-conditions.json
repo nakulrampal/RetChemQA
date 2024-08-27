@@ -1,0 +1,56 @@
+{
+  "materials": [
+    {
+      "name": "[Zn2(bdc)2(dpNDI)]n (1)",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation of {[Zn2(bdc)2(dpNDI)]·4(DMF)}n (1a)",
+          "temperature": "95 °C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "50 ml"
+            }
+          ],
+          "equipment": "suspension heated",
+          "chemicals_used": [
+            {
+              "name": "Zn(NO3)2•6H2O",
+              "amount": "149 mg, 0.50 mmol"
+            },
+            {
+              "name": "H2bdc",
+              "amount": "83 mg, 0.50 mmol"
+            },
+            {
+              "name": "dpNDI",
+              "amount": "210 mg, 0.50 mmol"
+            }
+          ],
+          "time": "3 days"
+        },
+        {
+          "step": "Preparation of dried sample [Zn2(bdc)2(dpNDI)]n (1)",
+          "drying_method": "vacuum oven",
+          "temperature": "120 °C",
+          "time": "1 day"
+        },
+        {
+          "step": "Preparation of 1⊃⊃⊃⊃VOC",
+          "method": "Dried crystals of 1 were immersed in each VOC liquid",
+          "time": "1 week"
+        }
+      ]
+    },
+    {
+      "name": "1⊃⊃⊃⊃VOCs",
+      "synthesis_conditions": [
+        {
+          "step": "General conditions for VOC incorporation",
+          "method": "Immersion of dried 1 in VOC liquid",
+          "time": "1 week"
+        }
+      ]
+    }
+  ]
+}

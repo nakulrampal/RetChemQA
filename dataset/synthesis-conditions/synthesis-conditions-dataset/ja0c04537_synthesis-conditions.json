@@ -1,0 +1,72 @@
+{
+  "materials": [
+    {
+      "name": "1-L",
+      "synthesis_conditions": {
+        "temperature": "140 °C",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "5 mL"
+          }
+        ],
+        "equipment": "Teflon-line autoclave",
+        "chemicals_used": [
+          {
+            "name": "Y(NO3)3·6H2O",
+            "amount": "0.6 mmol (0.2298 g)"
+          },
+          {
+            "name": "tartaric acid (H2-TAR-L)",
+            "amount": "0.9 mmol (0.1351 g)"
+          }
+        ],
+        "time": "48 h",
+        "cooling_method": "slowly cooled down to room temperature",
+        "washing_method": "collected by filtration and washed several times with water",
+        "yield": "purely obtained",
+        "formula": "{[Y2(μ4-TAR-L)2(μ-TAR-L)(H2O)2]·4H2O}n"
+      }
+    },
+    {
+      "name": "1-D",
+      "synthesis_conditions": {
+        "temperature": "140 °C",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "5 mL"
+          }
+        ],
+        "equipment": "Teflon-line autoclave",
+        "chemicals_used": [
+          {
+            "name": "Y(NO3)3·6H2O",
+            "amount": "0.6 mmol (0.2298 g)"
+          },
+          {
+            "name": "tartaric acid (H2-TAR-D)",
+            "amount": "0.9 mmol (0.1351 g)"
+          }
+        ],
+        "time": "48 h",
+        "cooling_method": "slowly cooled down to room temperature",
+        "washing_method": "collected by filtration and washed several times with water",
+        "yield": "purely obtained",
+        "formula": "{[Y2(μ4-TAR-D)2(μ-TAR-D)(H2O)2]·3H2O}n"
+      }
+    },
+    {
+      "name": "TAR-L",
+      "synthesis_conditions": {
+        "notes": "Powdered samples of free ligands correspond to pure tartaric acid crystallized as the enantiomerically pure structure (H2-TTA) without solvent molecules co-crystallized."
+      }
+    },
+    {
+      "name": "TAR-D",
+      "synthesis_conditions": {
+        "notes": "Powdered samples of free ligands correspond to pure tartaric acid crystallized as the enantiomerically pure structure (H2-TTA) without solvent molecules co-crystallized."
+      }
+    }
+  ]
+}

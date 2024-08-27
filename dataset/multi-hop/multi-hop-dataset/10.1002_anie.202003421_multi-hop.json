@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are the names of the two novel layered fluorinated MOFs discussed in the text?",
+      "answer": "GeFSIX-dps-Cu and GeFSIX-dps-Zn",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the primary application of the MOFs GeFSIX-dps-Cu and GeFSIX-dps-Zn as described in the text?",
+      "answer": "Molecular sieving of C2-C3 alkenes from alkynes with tuned threshold pressure",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does metal substitution affect the performance of GeFSIX-dps-Cu and GeFSIX-dps-Zn in gas separation?",
+      "answer": "Metal substitution from Zn to Cu fine-tunes the linker rotation and layer stacking, creating a slightly expanded pore aperture and interlayer space, which facilitates easier entrance of alkyne while excluding alkene.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the threshold pressure in the context of the MOFs' ability to separate alkynes from alkenes?",
+      "answer": "The threshold pressure is significant because it determines the pressure at which the MOFs start to adsorb alkynes significantly while still excluding alkenes, with GeFSIX-dps-Cu having a notably advanced threshold pressure for alkynes adsorption.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is GeFSIX-dps-Cu more effective in adsorbing C3H4 at lower pressures compared to GeFSIX-dps-Zn?",
+      "answer": "GeFSIX-dps-Cu exhibits a more inapparent gate-opening behavior for C3H4 adsorption than GeFSIX-dps-Zn, with a much earlier steep increase of C3H4 uptake in the isotherm, indicating a lower threshold pressure and thus higher effectiveness at lower pressures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The hydrolytic stability of GeFSIX-dps-Cu was confirmed by its ability to maintain crystallinity after being immersed in water for 3 days.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: GeFSIX-dps-Zn exhibits a higher C2H2 adsorption capacity at 298 K and 0.1 bar compared to GeFSIX-dps-Cu.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What role do hydrogen bonds play in the adsorption mechanism of alkynes in GeFSIX-dps-Cu and GeFSIX-dps-Zn?",
+      "answer": "Hydrogen bonds facilitate the strong interaction between alkynes and the framework, especially at site II, leading to higher calculated static binding energy and thus contributing to the selective adsorption of alkynes over alkenes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the structural tuning via metal substitution impact both C3H4/C3H6 and C2H2/C2H4 mixtures?",
+      "answer": "The structural tuning via metal substitution affects both mixtures similarly, enabling desired alkyne/alkene sieving separation by creating optimal pore aperture and interlayer space for easier alkyne entrance while excluding alkenes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The experimental breakthrough tests confirmed that GeFSIX-dps-Cu and GeFSIX-dps-Zn could not achieve high purities of C2-C3 alkynes during desorption.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental technique was used to resolve the crystal structures of GeFSIX-dps-Cu and GeFSIX-dps-Zn?",
+      "answer": "Single-crystal X-ray diffraction analysis",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of the smaller metal-N distance in GeFSIX-dps-Cu compared to GeFSIX-dps-Zn?",
+      "answer": "The smaller metal-N distance in GeFSIX-dps-Cu results in a stronger bond, which decreases the degrees of freedom for relative change between two phases, affecting the rotation of the pyridine ring and the framework flexibility.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption isotherms for C3H4 and C3H6 on GeFSIX-dps-Cu and GeFSIX-dps-Zn were measured at temperatures below room temperature.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the primary challenge in achieving molecular sieving of alkenes from alkynes as mentioned in the text?",
+      "answer": "The primary challenge is the close molecular size between alkyne and alkene, making it difficult to achieve not only high capacity for one gas but also complete exclusion for another one.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption capacity for C3H4 at 298 K and 1 bar was higher in GeFSIX-dps-Zn compared to GeFSIX-dps-Cu.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the flexibility of the pyridine ring and layer sliding contribute to the adsorption process in GeFSIX-dps-Cu?",
+      "answer": "The flexibility of the pyridine ring and layer sliding make adsorption possible above a threshold pressure, especially in GeFSIX-dps-Cu, by allowing the formation of interconnected channels and voids within the framework for guest molecule accommodation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The BET surface area of GeFSIX-dps-Cu was found to be lower than that of GeFSIX-dps-Zn.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the GeF6 anion in the structure of GeFSIX-dps-Cu and GeFSIX-dps-Zn?",
+      "answer": "The GeF6 anion acts as a part of the coordination network, connecting with the pyridinyl rings from the V-shaped dps ligands along the c-axis, and contributes to the formation of potential binding sites for adsorption of guest molecules.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The thermal stability of GeFSIX-dps-Cu is higher than that of GeFSIX-dps-Zn.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental evidence supports the selective adsorption mechanism of alkynes over alkenes in GeFSIX-dps-Cu?",
+      "answer": "The crystal structure of alkyne-loaded GeFSIX-dps-Cu, determined by single-crystal X-ray diffraction, shows C3H4 and C2H2 molecules at the predicted binding sites, validating the DFT-D-computed binding sites and supporting the selective adsorption mechanism.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

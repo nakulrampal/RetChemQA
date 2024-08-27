@@ -1,0 +1,76 @@
+{
+  "materials": [
+    {
+      "name": "CPM-2-NH2",
+      "synthesis_conditions": {
+        "metal_centers": "In3+ ions",
+        "dicarboxylic_linkers": ["5-aip", "bpdc"],
+        "solvent": "diethylformamide (DEF)",
+        "framework": "pure metal carboxylate",
+        "functional_groups": "NH2",
+        "guest_accessible_volume": "44% (8074 Å3 per unit cell)",
+        "framework_density": "0.33 for single sublattice, overall 1.0 considering triply interweaving nets"
+      }
+    },
+    {
+      "name": "CPM-2-OH",
+      "synthesis_conditions": {
+        "metal_centers": "In3+ ions",
+        "dicarboxylic_linkers": ["5-hip", "bpdc"],
+        "solvent": "diethylformamide (DEF)",
+        "framework": "pure metal carboxylate",
+        "functional_groups": "OH",
+        "framework_density": "Not specified"
+      }
+    },
+    {
+      "name": "CPM-2-H",
+      "synthesis_conditions": {
+        "metal_centers": "In3+ ions",
+        "dicarboxylic_linkers": ["1,3-bdc", "bpdc"],
+        "solvent": "diethylformamide (DEF)",
+        "framework": "pure metal carboxylate",
+        "framework_density": "Not specified"
+      }
+    },
+    {
+      "name": "CPM-2-NH2-Cs",
+      "synthesis_conditions": {
+        "metal_centers": "In3+ ions",
+        "dicarboxylic_linkers": ["5-aip", "bpdc"],
+        "solvent": "diethylformamide (DEF)",
+        "inorganic_cations": "Cs+",
+        "cesium_source": "CsCl",
+        "framework_density": "Not specified"
+      }
+    },
+    {
+      "name": "CPM-3",
+      "synthesis_conditions": {
+        "metal_centers": "In3+ ions",
+        "dicarboxylic_linkers": ["5-aip", "H2sbc"],
+        "solvent": "diethylformamide (DEF)",
+        "guest_accessible_volume": "11,270 Å3 per unit cell (53.4%)",
+        "framework_density": "Not specified"
+      }
+    },
+    {
+      "name": "CPM-8",
+      "synthesis_conditions": {
+        "metal_centers": "In3+ ions",
+        "dicarboxylic_linkers": ["H2pdc", "bpdc"],
+        "framework": "Johnson-type MOPs",
+        "dimensions": "approximately 8.3 x 8.3 x 27.0 Å (atom-to-atom distance)"
+      }
+    },
+    {
+      "name": "CPM-9",
+      "synthesis_conditions": {
+        "metal_centers": "In3+ ions",
+        "dicarboxylic_linkers": ["H2pdc", "1,4-ndc"],
+        "framework": "Johnson-type MOPs",
+        "dimensions": "approximately 8.3 x 8.3 x 22.8 Å (atom-to-atom distance)"
+      }
+    }
+  ]
+}

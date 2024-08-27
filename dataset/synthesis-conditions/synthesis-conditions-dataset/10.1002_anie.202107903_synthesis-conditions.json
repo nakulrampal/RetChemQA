@@ -1,0 +1,58 @@
+{
+  "materials": [
+    {
+      "name": "[2]pseudorotaxane (H$G)",
+      "synthesis_conditions": {
+        "solvent": "[D6]acetone",
+        "chemicals_used": [
+          "bis(p-phenylene)-34-crown-10 macrocycle (H)",
+          "paraquat guest (G) with two cyano groups"
+        ],
+        "notes": "H and G form a [2]pseudorotaxane both in solution and in the solid state."
+      }
+    },
+    {
+      "name": "polypseudorotaxane ([H·G·Ag]n)",
+      "synthesis_conditions": {
+        "solvent": "[D6]acetone",
+        "chemicals_used": [
+          "bis(p-phenylene)-34-crown-10 macrocycle (H)",
+          "paraquat guest (G) with two cyano groups",
+          "AgSF6"
+        ],
+        "notes": "Upon addition of AgSF6, a polypseudorotaxane forms as synergistically driven by host–guest complexation and metal-coordination interactions."
+      }
+    },
+    {
+      "name": "[3]pseudorotaxane (H2·G·Ag2·acetone2)",
+      "synthesis_conditions": {
+        "solvent": "acetone",
+        "chemicals_used": [
+          "bis(p-phenylene)-34-crown-10 macrocycle (H)",
+          "paraquat guest (G) with two cyano groups",
+          "AgSF6"
+        ],
+        "additional_steps": [
+          {
+            "step": "Depolymerization",
+            "conditions": {
+              "additional_chemicals": [
+                "excess H",
+                "AgSF6"
+              ],
+              "notes": "Depolymerizes into a [3]pseudorotaxane upon addition of H and AgSF6."
+            }
+          },
+          {
+            "step": "Reformation",
+            "conditions": {
+              "additional_chemicals": ["G"],
+              "notes": "Reforms with successive addition of G."
+            }
+          }
+        ],
+        "notes": "The transformations between [H·G·Ag]n and H2·G·Ag2·acetone2 can be switched for infinite cycles."
+      }
+    }
+  ]
+}

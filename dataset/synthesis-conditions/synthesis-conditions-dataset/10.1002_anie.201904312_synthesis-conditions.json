@@ -1,0 +1,41 @@
+{
+  "NKMOF-1-M": {
+    "chemicals_used": "Cu[M(pdt)2], Ni[M(pdt)2]",
+    "solvents": "Not specified",
+    "temperature": "Room temperature for soaking in water, 120 K for SCXRD data collection",
+    "time": "More than 1 year for soaking in water, Not specified for SCXRD",
+    "yield": "Not specified",
+    "equipment": "Powder X-ray diffractometry (PXRD), BET surface-area measurements, Single-crystal X-ray diffraction (SCXRD)",
+    "washing_method": "Not specified",
+    "drying_method": "Not specified",
+    "additional_information": "NKMOF-1-M exhibits a three-dimensional (3D) framework with one-dimensional (1D) square channels. It possesses strong binding affinity for propyne and propadiene over propylene. The material retains its porosity and crystallinity after soaking in water for more than 1 year at room temperature."
+  },
+  "propyne@NKMOF-1-Cu": {
+    "temperature": "Room temperature for gas atmosphere exposure, 120 K for SCXRD data collection",
+    "time": "Not specified",
+    "equipment": "Single-crystal X-ray diffraction (SCXRD)",
+    "additional_information": "Propyne molecules are located between the four pyrazine rings, forming strong hydrogen bonds with the sulfur atoms and one carbon atom of the pyrazine ring."
+  },
+  "propadiene@NKMOF-1-Cu": {
+    "temperature": "Room temperature for gas atmosphere exposure, 120 K for SCXRD data collection",
+    "time": "Not specified",
+    "equipment": "Single-crystal X-ray diffraction (SCXRD)",
+    "additional_information": "Propadiene molecules are located between the four pyrazine rings, forming strong hydrogen bonds with the sulfur atoms and one carbon atom of the pyrazine ring."
+  },
+  "breakthrough_experiments": {
+    "temperature": "298 K",
+    "solvents": "Not specified",
+    "equipment": "In-house-constructed separation apparatus",
+    "chemicals_used": "Propyne/propadiene/propylene (0.5 : 0.5 : 99) mixtures",
+    "time": "1825 min g@1 for NKMOF-1-Ni, Not specified for NKMOF-1-Cu",
+    "additional_information": "NKMOF-1-Ni displayed the best propyne/propadiene/propylene separation ability at 298 K, retaining propylene for a remarkable time before the breakthrough of propadiene and propyne."
+  },
+  "cycling_breakthrough_experiments": {
+    "temperature": "298 K",
+    "solvents": "Not specified",
+    "equipment": "In-house-constructed separation apparatus, PXRD measurement",
+    "chemicals_used": "Propyne/propadiene/propylene (0.5 : 0.5 : 99) mixtures",
+    "time": "Five cycles",
+    "additional_information": "The breakthrough curves for the ternary mixture over five cycles almost overlapped, and the crystallinity of NKMOF-1-Ni was retained, indicating excellent regenerability and stability."
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "materials": [
+    {
+      "name": "[Zn(Dpg-Tyr-OCH3)(H2O)](CF3SO3)2",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Zn(CF3SO3)2",
+          "Dpg-Tyr-OCH3"
+        ],
+        "solvents": [
+          {
+            "name": "CH3CN",
+            "amount": "100 mL"
+          },
+          {
+            "name": "CH2Cl2",
+            "amount": "50 mL"
+          }
+        ],
+        "yield": "79.80%",
+        "yield_amount": "2.80 g, 3.43 mmol",
+        "drying_method": "under vacuum",
+        "drying_details": "removal of all solvent under vacuum provided the product as a white solid",
+        "additional_details": "1.56 g (4.30 mmol) Zn(CF3SO3)2, 1.87 g (4.30 mmol) Dpg-Tyr-OCH3"
+      }
+    },
+    {
+      "name": "[Zn(Dpg-Nal-OBn)(H2O)](CF3SO3)2",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Zn(CF3SO3)2",
+          "Dpg-Nal-OBn"
+        ],
+        "solvents": [
+          {
+            "name": "CH3CN",
+            "amount": "100 mL"
+          },
+          {
+            "name": "CH2Cl2",
+            "amount": "100 mL"
+          }
+        ],
+        "yield": "88.26%",
+        "yield_amount": "3.00 g, 3.24 mmol",
+        "drying_method": "under vacuum",
+        "drying_details": "removal of all solvent under vacuum provided the product as a white solid",
+        "additional_details": "1.33 g (3.67 mmol) Zn(CF3SO3)2, 2.00 g (3.67 mmol) Dpg-Nal-OBn"
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "[Zn(Dpg-Tyr-OCH3)(H2O)](CF3SO3)2",
+          "1m NaOH",
+          "0.2 m HCl"
+        ],
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "30 mL"
+          }
+        ],
+        "yield": "62.35%",
+        "yield_amount": "0.50 g, 0.77 mmol",
+        "drying_method": "under vacuum",
+        "drying_details": "collected on a sintered glass filter and dried under vacuum",
+        "additional_details": "1.00 g (1.23 mmol) was dissolved, pH adjusted to 9.00, stirred at room temperature until pH remained constant (ca. 2 d), then pH lowered to 4"
+      }
+    },
+    {
+      "name": "3",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "[Zn(Dpg-Nal-OBn)(H2O)](CF3SO3)2",
+          "Palladium/charcoal"
+        ],
+        "solvents": [
+          {
+            "name": "absolute CH3OH",
+            "amount": "150 mL"
+          },
+          {
+            "name": "diethyl ether",
+            "washing_method": "washed with"
+          }
+        ],
+        "yield": "92.62%",
+        "yield_amount": "1.15 g, 1.68 mmol",
+        "drying_method": "under vacuum",
+        "drying_details": "filtered through celite, solvent removed by rotary evaporation, dried under vacuum",
+        "additional_details": "1.68 g (1.81 mmol) was dissolved, hydrogen passed over the stirred solution for 6 h at 70 8C"
+      }
+    }
+  ]
+}

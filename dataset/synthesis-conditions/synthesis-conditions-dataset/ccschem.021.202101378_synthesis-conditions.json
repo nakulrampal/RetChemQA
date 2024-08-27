@@ -1,0 +1,48 @@
+{
+  "materials": [
+    {
+      "name": "SnTCPP-SQL",
+      "synthesis_conditions": {
+        "temperature": "120 oC",
+        "solvents": ["DEF (N,N-diethylacetamide)", "water"],
+        "solvent_amounts": ["2 mL", "2 mL"],
+        "equipment": "23-mL vial",
+        "chemicals_used": ["Me2SnCl2 (20 mg)", "TCPP (10 mg)", "TEAC (20 mg)"],
+        "time": "12 h",
+        "yield": "70% based on TCPP",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified"
+      }
+    },
+    {
+      "name": "SnTCPP-PTS",
+      "synthesis_conditions": {
+        "temperature": "120 oC",
+        "solvents": ["DEF (N,N-diethylacetamide)", "water"],
+        "solvent_amounts": ["3 mL", "1 mL"],
+        "equipment": "23-mL vial",
+        "chemicals_used": ["n-Bu2SnCl2 (20 mg)", "TCPP (10 mg)", "TEAC (20 mg)"],
+        "time": "12 h",
+        "yield": "86% based on TCPP",
+        "washing_method": "DMF and EtOH",
+        "drying_method": "Room temperature",
+        "notes": "High-scale synthesis conditions also provided with different amounts of chemicals and solvents."
+      }
+    },
+    {
+      "name": "SnTCPP-SHE",
+      "synthesis_conditions": {
+        "temperature": "120 oC",
+        "solvents": ["DMA (N,N-dimethylacetamide)"],
+        "solvent_amounts": ["2 mL"],
+        "equipment": "23-mL vial",
+        "chemicals_used": ["BuSnO(OH) (30 mg)", "TCPP (10 mg)", "TFA (50 μL)"],
+        "time": "24 h",
+        "yield": "85% based on TCPP",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "notes": "DMF can also be used instead of DMA but with lower crystallinity."
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "method": "solvothermal reaction",
+        "precursors": [
+          "ZnSO4",
+          "1,3,5-tri-4-pyridyl-1,2-ethenylbenzene (tpeb)",
+          "3,5-difluorobenzoic acid (3,5-HDFBA)"
+        ],
+        "precursor_molar_ratio": "1:1:2",
+        "solvent_system": "mixed solvent",
+        "solvent_ratio": "VMeCN:VH2O = 1:2",
+        "temperature": "not specified",
+        "time": "24 h",
+        "crystal_morphology": "block-shaped single crystals",
+        "space_group": "triclinic P-1"
+      }
+    },
+    {
+      "name": "1a",
+      "synthesis_conditions": {
+        "method": "UV light irradiation of 1",
+        "light_source": "UV LED light",
+        "wavelength": "365 nm",
+        "temperature": "room temperature",
+        "time": "5 min",
+        "additional_information": "The process involves a photoinduced phase transition with structural symmetry enhancement from P-1 to C2/c.",
+        "space_group": "monoclinic C2/c"
+      }
+    },
+    {
+      "name": "1-PVA composite membrane",
+      "synthesis_conditions": {
+        "method": "combining crystalline powder of 1 with polyvinyl alcohol (PVA)",
+        "components": [
+          "crystalline powder of 1",
+          "polyvinyl alcohol (PVA)"
+        ],
+        "additional_information": "The PXRD patterns of 1-PVA matched the combination of PVA and 1, indicating that the crystal structure of 1 is preserved in the composite membrane."
+      }
+    },
+    {
+      "name": "1b",
+      "synthesis_conditions": {
+        "method": "UV light illumination on a single crystal of 1",
+        "temperature": "120 K",
+        "time": "16 h",
+        "photoconversion_percentage": "54%",
+        "space_group": "monoclinic C2/c",
+        "additional_information": "1b represents an intermediate photoproduct in the transformation from 1 to 1a."
+      }
+    }
+  ]
+}

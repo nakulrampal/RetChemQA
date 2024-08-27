@@ -1,0 +1,154 @@
+{
+  "materials": [
+    {
+      "name": "N1,N1,N4,N4-tetrakis(4-bromophenyl)benzene-1,4-diamine",
+      "synthesis_conditions": {
+        "temperature": "0 °C to room temperature",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "40 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "N1,N1,N4,N4-tetraphenylbenzene-1,4-diamine",
+            "amount": "1.00 g"
+          },
+          {
+            "name": "N-bromosuccinimide",
+            "amount": "1.94 g"
+          }
+        ],
+        "time": "overnight",
+        "yield": "84 %",
+        "washing_method": "chloroform",
+        "drying_method": "in vacuo"
+      }
+    },
+    {
+      "name": "Tetramethyl-N1,N1,N4,N4-tetrakis[(1,1‘-biphenyl)-4-carboxylate]-1,4-benzene diamine (Me4TPBD)",
+      "synthesis_conditions": {
+        "temperature": "reflux for 3 days",
+        "solvents": [
+          {
+            "name": "dry dioxane",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "N1,N1,N4,N4-tetrakis(4-bromophenyl)benzene-1,4-diamine",
+            "amount": "500 mg"
+          },
+          {
+            "name": "4-methoxycarbonylboronic acid",
+            "amount": "734 mg"
+          },
+          {
+            "name": "cesium fluoride",
+            "amount": "1.34 g"
+          },
+          {
+            "name": "tetrakis(triphenylphosphine)palladium (0)",
+            "amount": "62.1 mg"
+          }
+        ],
+        "yield": "55 %",
+        "washing_method": "water",
+        "drying_method": "in vacuo"
+      }
+    },
+    {
+      "name": "N1,N1,N4,N4-tetrakis[(1,1‘-biphenyl)-4-carboxylic acid]-1,4-benzene diamine (H4TPBD)",
+      "synthesis_conditions": {
+        "temperature": "reflux for 24 h",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "15 mL"
+          },
+          {
+            "name": "tetryhydrofurane",
+            "amount": "30 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Tetramethyl N1,N1,N4,N4-tetrakis[(1,1‘-biphenyl)-4-carboxylate]-1,4-benzene diamine",
+            "amount": "500 mg"
+          },
+          {
+            "name": "aqueous 3 molar KOH solution",
+            "amount": "30 mL"
+          }
+        ],
+        "yield": "96 %",
+        "washing_method": "water",
+        "drying_method": "in vacuo"
+      }
+    },
+    {
+      "name": "[Zn2(TPBD)(DMAc)2] (tPPD-Zn)",
+      "synthesis_conditions": {
+        "temperature": "100 °C for 48 h",
+        "solvents": [
+          {
+            "name": "dimethylacetamide (DMAc)",
+            "amount": "2 mL"
+          },
+          {
+            "name": "MeOH",
+            "amount": "0.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2 ∙ 4H2O",
+            "amount": "9.00 mg"
+          },
+          {
+            "name": "H4TPBD",
+            "amount": "10.0 mg"
+          }
+        ],
+        "yield": "23 %",
+        "washing_method": "DMAc",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "[Cd2(TPBD)(H2O)4]∙2DMF (tPPD-Cd)",
+      "synthesis_conditions": {
+        "temperature": "100 °C for 48 h",
+        "solvents": [
+          {
+            "name": "dimethylformamide (DMF)",
+            "amount": "1 mL"
+          },
+          {
+            "name": "EtOH",
+            "amount": "0.5 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.125 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cd(NO3)2 ∙ 4H2O",
+            "amount": "6.90 mg"
+          },
+          {
+            "name": "H4TPBD",
+            "amount": "10.0 mg"
+          }
+        ],
+        "yield": "32 %",
+        "washing_method": "DMF",
+        "drying_method": "not specified"
+      }
+    }
+  ]
+}

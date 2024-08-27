@@ -1,0 +1,110 @@
+{
+  "materials": [
+    {
+      "name": "RR-cam",
+      "synthesis_conditions": {
+        "temperature": "180 oC",
+        "time": "10 hours",
+        "solvents": [
+          {
+            "name": "glacial acetic acid",
+            "amount": "4.0 g"
+          },
+          {
+            "name": "concentrated hydrochloric acid",
+            "amount": "0.5 g"
+          },
+          {
+            "name": "water",
+            "amount": "small amount for washing"
+          }
+        ],
+        "equipment": "stainless steel autoclave",
+        "chemicals_used": [
+          {
+            "name": "D-camphoric acid",
+            "amount": "7.5 g"
+          },
+          {
+            "name": "acetyl chloride",
+            "amount": "one-third weight of mixture"
+          },
+          {
+            "name": "sodium carbonate solution",
+            "amount": "for treatment"
+          },
+          {
+            "name": "hydrochloric acid",
+            "amount": "for precipitation"
+          }
+        ],
+        "drying_method": "vacuum",
+        "purification_method": "recrystallization in alcohol"
+      }
+    },
+    {
+      "name": "CPM-300",
+      "synthesis_conditions": {
+        "temperature": "100 oC",
+        "time": "5 days",
+        "solvents": [
+          {
+            "name": "N,N-dibutylformamide (DBF)",
+            "amount": "2.5 g"
+          },
+          {
+            "name": "ethanol",
+            "amount": "0.5 g"
+          },
+          {
+            "name": "DI water",
+            "amount": "0.5 g"
+          }
+        ],
+        "equipment": "15 ml glass vial",
+        "chemicals_used": [
+          {
+            "name": "(1R, 3R)-(-)-Camphoric acid",
+            "amount": "60.0 mg"
+          },
+          {
+            "name": "Zn(NO3)2•6H2O",
+            "amount": "119.1 mg"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CPM-301",
+      "synthesis_conditions": {
+        "temperature": "120 oC",
+        "time": "4 days",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "2.0 g"
+          },
+          {
+            "name": "DI water",
+            "amount": "0.5 g"
+          }
+        ],
+        "equipment": "15 ml glass",
+        "chemicals_used": [
+          {
+            "name": "1H-benzotriazole",
+            "amount": "75.6 mg"
+          },
+          {
+            "name": "(1R, 3R)-(-)-Camphoric acid",
+            "amount": "40.2 mg"
+          },
+          {
+            "name": "Zn(NO3)2•6H2O",
+            "amount": "150.4 mg"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "materials": [
+    {
+      "name": "Biphenyl-3,4',5-tricarboxylic acid (H3-4)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Dimethyl 5-bromoisophthalate",
+            "source": "Matrix Scientific"
+          },
+          {
+            "name": "Palladium tetrakis(triphenylphosphine)",
+            "source": "Pressure Chemical"
+          },
+          {
+            "name": "Methyl 4-carboxyphenylboronic acid",
+            "preparation": "prepared from 4-carboxyphenylboronic acid (Frontier Scientific) according to a published procedure"
+          },
+          {
+            "name": "K2CO3",
+            "amount": "8.29 g, 60.0 mmol"
+          },
+          {
+            "solvents": [
+              {
+                "name": "toluene",
+                "amount": "60 mL"
+              },
+              {
+                "name": "ethanol",
+                "amount": "30 mL"
+              },
+              {
+                "name": "water",
+                "amount": "30 mL"
+              }
+            ]
+          }
+        ],
+        "temperature": [
+          "reflux overnight",
+          "reflux for 12 h"
+        ],
+        "yield": "60%",
+        "characterization": {
+          "melting_point": ">300 oC",
+          "1H_NMR": "400 MHz, DMSO-d6",
+          "13C_NMR": "100 MHz, DMSO-d6",
+          "HRMS": "EI calcd. for C15H10O6 (m/e): 286.0477, found: 286.0485",
+          "analysis": "Calcd for C15H10O6: C, 62.94; H, 3.52. Found: C, 62.54; H, 3.57."
+        }
+      }
+    },
+    {
+      "name": "UMCM-150",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "H3-4",
+            "amount": "0.0500 g, 0.175 mmol"
+          },
+          {
+            "name": "Cu(NO3)2·2.5H2O",
+            "amount": "0.0980 g, 0.525 mmol"
+          },
+          {
+            "solvents": [
+              {
+                "name": "DMF/dioxane/H2O",
+                "ratio": "4:1:1",
+                "amount": "15 mL"
+              }
+            ]
+          }
+        ],
+        "temperature": "85 oC for 6 h",
+        "yield": "78% based on fully evacuated material",
+        "characterization": {
+          "melting_point": ">300 oC (dec)",
+          "PXRD": "Cu Kα, 1.5418 Å",
+          "analysis": "Calcd for C15H7O6Cu1.5: C, 47.59; H, 1.86. Found: C, 47.19; H, 2.07."
+        }
+      }
+    }
+  ]
+}

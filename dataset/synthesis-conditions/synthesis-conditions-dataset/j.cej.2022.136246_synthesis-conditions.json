@@ -1,0 +1,147 @@
+{
+  "materials": [
+    {
+      "name": "N-(5-nitro-1,3,4-thiadiazol-2(3H)-ylidene)nitramide (L1)",
+      "synthesis_conditions": {
+        "temperature": "60 °C",
+        "solvents": [
+          {
+            "name": "fuming HNO3",
+            "amount": "20 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "1,3,4-thiadiazol-2-amine",
+            "amount": "1.0 g"
+          }
+        ],
+        "time": "24 hours",
+        "purification_method": "crystallization from CH3OH",
+        "yield": "66%"
+      }
+    },
+    {
+      "name": "[2,2'-Bi(1,3,4-thiadiazole)]-5,5'-diamine (L3)",
+      "synthesis_conditions": {
+        "temperature": "60 °C for 1 hour, then 95 °C for 3 hours",
+        "solvents": [
+          {
+            "name": "POCl3",
+            "amount": "15 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "oxalic acid",
+            "amount": "3.60 g"
+          },
+          {
+            "name": "thiosemicarbazide",
+            "amount": "7.29 g"
+          }
+        ],
+        "purification_method": "crystallization from CH3OH",
+        "yield": "31%"
+      }
+    },
+    {
+      "name": "N,N'-([2,2'-bi(1,3,4-thiadiazole)]-5,5'-diyl)dinitramide (L4)",
+      "synthesis_conditions": {
+        "temperature": "70 °C",
+        "solvents": [
+          {
+            "name": "fuming HNO3",
+            "amount": "20 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "[2,2'-bi(1,3,4-thiadiazole)]-5,5'-diamine (L3)",
+            "amount": "1.0 g"
+          }
+        ],
+        "time": "24 hours",
+        "purification_method": "crystallization from CH3OH",
+        "yield": "61%"
+      }
+    },
+    {
+      "name": "Cu(H2O)2[N-(5-nitro-1,3,4-thiadiazol-2(3H)-ylidene)nitramide]2 (C6)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "CH3OH",
+            "amount": "20 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "N-(5-nitro-1,3,4-thiadiazol-2(3H)-ylidene)nitramide",
+            "amount": "77 mg"
+          },
+          {
+            "name": "Cu(ClO4)2·6H2O",
+            "amount": "148.2 mg"
+          }
+        ],
+        "purification_method": "crystallization from CH3OH",
+        "yield": "63%"
+      }
+    },
+    {
+      "name": "Cu[NH3]4[N-(5-nitro-1,3,4-thiadiazol-2(3H)-ylidene)nitramide]2 (C7)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "CH3OH",
+            "amount": "10 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "N-(5-nitro-1,3,4-thiadiazol-2(3H)-ylidene)nitramide",
+            "amount": "77 mg"
+          },
+          {
+            "name": "Cu(ClO4)2·6H2O",
+            "amount": "148.2 mg"
+          },
+          {
+            "name": "aqueous ammonia",
+            "amount": "1.6 mL"
+          }
+        ],
+        "purification_method": "crystallization from CH3OH",
+        "yield": "58%"
+      }
+    },
+    {
+      "name": "[Cu(N,N'-([2,2'-bi(1,3,4-thiadiazole)]-5,5'-diyl)dinitramide)2(CH3OH){(CH3)2SO}2]n (C9)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "DMSO",
+            "amount": "250 μL"
+          },
+          {
+            "name": "CH3OH",
+            "amount": "10 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "N,N'-([2,2'-bi(1,3,4-thiadiazole)]-5,5'-diyl)dinitramide",
+            "amount": "29.0 mg"
+          },
+          {
+            "name": "Cu(ClO4)2·6H2O",
+            "amount": "74.1 mg"
+          }
+        ],
+        "purification_method": "crystallization from CH3OH and DMSO",
+        "yield": "82%"
+      }
+    }
+  ]
+}

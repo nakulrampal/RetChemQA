@@ -1,0 +1,72 @@
+{
+  "materials": [
+    {
+      "name": "HIAM-302",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "DMF/deionized water",
+        "amount_of_each_solvent": {
+          "DMF": "5 mL",
+          "deionized_water": "2 mL"
+        },
+        "equipment": "20 mL glass bottle",
+        "chemicals_used": {
+          "Y(NO3)3·6H2O": "40 mg",
+          "2-Fluorobenzoic acid": "200 mg",
+          "H4adip": "20 mg"
+        },
+        "time": "3 days",
+        "yield": "65 % based on the organic ligand",
+        "elemental_analysis": {
+          "C": "35.12 %",
+          "H": "3.71%",
+          "O": "32.2%",
+          "N": "6.41%",
+          "Calculated": {
+            "C": "35.46%",
+            "H": "3.92%",
+            "O": "32.6%",
+            "N": "6.38%"
+          }
+        }
+      }
+    },
+    {
+      "name": "3MP@HIAM-302",
+      "synthesis_conditions": {
+        "crystal_data_and_structure_refinement": {
+          "empirical_formula": "C40H43N2O28Y4",
+          "formula_weight": "1355.40",
+          "temperature": "193.00 K",
+          "crystal_system": "tetragonal",
+          "space_group": "I4/m",
+          "unit_cell_dimensions": {
+            "a": "20.9961(10) Å",
+            "b": "20.9961(10) Å",
+            "c": "16.1552(11) Å",
+            "alpha": "90°",
+            "beta": "90°",
+            "gamma": "90°"
+          },
+          "volume": "7121.8(8) Å3",
+          "Z": "4",
+          "density_calculated": "1.264 g/cm3",
+          "absorption_coefficient": "3.219 mm-1",
+          "F(000)": "2708.0",
+          "crystal_size": "0.12 × 0.1 × 0.1 mm3",
+          "radiation": "GaKα (λ = 1.34139)",
+          "2Theta_range_for_data_collection": "5.178 to 120.786°",
+          "index_ranges": "-26 ≤ h ≤ 27, -26 ≤ k ≤ 27, -20 ≤ l ≤ 18",
+          "reflections_collected": "39055",
+          "independent_reflections": "4155 [Rint = 0.0800, Rsigma = 0.0402]",
+          "data_restraints_parameters": "4155/119/220",
+          "goodness_of_fit_on_F2": "1.207",
+          "final_R_indexes_I_greater_or_equal_2sigma_I": "R1 = 0.1179, wR2 = 0.3160",
+          "final_R_indexes_all_data": "R1 = 0.1379, wR2 = 0.3359",
+          "largest_diff_peak_hole_e_Å-3": "2.14/-1.59",
+          "CCDC_Number": "2109594"
+        }
+      }
+    }
+  ]
+}

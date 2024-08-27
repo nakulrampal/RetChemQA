@@ -1,0 +1,74 @@
+{
+  "materials": [
+    {
+      "name": "V11",
+      "synthesis_conditions": {
+        "temperature": "hydrothermal method, specific temperature not mentioned",
+        "solvents": "DMF",
+        "amount_of_solvent": "not specified",
+        "equipment": "not specified",
+        "chemicals_used": "indium acetate, 5-(2,6-bis(4-carboxyphenyl)pyridin-4-yl)isophthalic acid (H4BCP), formic acid, ammonium formate",
+        "time": "not specified",
+        "washing_method": "immersed in common organic solvents and solutions with a pH range of 2–11",
+        "drying_method": "not specified",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "CPs@V11",
+      "synthesis_conditions": {
+        "temperature": "250 to 380 88C",
+        "solvents": "water",
+        "amount_of_solvent": "not specified",
+        "equipment": "not specified",
+        "chemicals_used": "methylene blue (MB)",
+        "time": "6 hours for adsorption, calcination time not specified",
+        "washing_method": "not specified",
+        "drying_method": "calcination",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "V11-300",
+      "synthesis_conditions": {
+        "temperature": "300 88C",
+        "solvents": "not applicable",
+        "amount_of_solvent": "not applicable",
+        "equipment": "not specified",
+        "chemicals_used": "not applicable",
+        "time": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "calcination",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "V11 + C",
+      "synthesis_conditions": {
+        "temperature": "not specified",
+        "solvents": "not applicable",
+        "amount_of_solvent": "not applicable",
+        "equipment": "not specified",
+        "chemicals_used": "carbon particles derived from MB carbonization",
+        "time": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "mechanical grinding",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "Other In-MOFs (CPM-5, MIL-68, ZJU-28, PF-110)",
+      "synthesis_conditions": {
+        "temperature": "not specified for original synthesis, 250 to 380 88C for CPs@MOFs",
+        "solvents": "not specified",
+        "amount_of_solvent": "not specified",
+        "equipment": "not specified",
+        "chemicals_used": "methylene blue (MB) for CPs@MOFs",
+        "time": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "calcination for CPs@MOFs",
+        "yield": "not specified"
+      }
+    }
+  ]
+}

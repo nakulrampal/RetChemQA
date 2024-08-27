@@ -1,0 +1,70 @@
+{
+  "materials": [
+    {
+      "name": "MMPF-9",
+      "synthesis_conditions": {
+        "temperature": "75 oC",
+        "solvents": [
+          {
+            "name": "formic acid",
+            "amount": "0.2 mL"
+          },
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "0.8 mL"
+          }
+        ],
+        "equipment": "Pyrex tube sealed under vacuum",
+        "chemicals_used": [
+          {
+            "name": "tetrakis(3,5-dicarboxybiphenyl)-porphine (H10tdcbpp)",
+            "amount": "2.0 mg"
+          },
+          {
+            "name": "Cu(NO3)2·2.5H2O",
+            "amount": "5.0 mg"
+          }
+        ],
+        "time": "72 hours",
+        "yield": "75 % based on H10tdcbpp",
+        "washing_method": "methanol exchange for 3 days",
+        "drying_method": "activated by supercritical CO2",
+        "additional_information": "The reaction was amplified to hundreds of milligrams quantity using multiple tubes."
+      }
+    },
+    {
+      "name": "Gas adsorption measurement for MMPF-9",
+      "synthesis_conditions": {
+        "equipment": "surface area analyzer ASAP 2020",
+        "temperature": "77 K",
+        "solvents": "methanol for solvent exchange",
+        "drying_method": "activated by supercritical CO2",
+        "additional_information": "N2 adsorption isotherm was measured using a liquid N2 bath."
+      }
+    },
+    {
+      "name": "Catalysis experiments with MMPF-9",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "pressure": "1 atm CO2",
+        "chemicals_used": [
+          {
+            "name": "epoxide",
+            "amount": "25 mmol"
+          },
+          {
+            "name": "MMPF-9",
+            "amount": "0.03125 mmol"
+          },
+          {
+            "name": "tetra-n-tertbutylammonium bromide (TBAB)",
+            "amount": "0.58g"
+          }
+        ],
+        "time": "48 hours",
+        "equipment": "Schlenk tube",
+        "additional_information": "Products were monitored by GC-MS. For recycling, the reaction mixture was added with methanol, centrifuged, and the solid was washed with methanol three times before being applied the same catalytic conditions."
+      }
+    }
+  ]
+}

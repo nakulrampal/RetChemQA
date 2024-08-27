@@ -1,0 +1,70 @@
+{
+  "materials": [
+    {
+      "material_id": "1",
+      "synthesis_conditions": [
+        {
+          "step": "Hydrothermal synthesis",
+          "temperature": "110 °C",
+          "time": "2 days",
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "2~3 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "(L)-N-(4’-cyanobenzyl)-(S)-proline",
+              "amount": "1 mmol"
+            },
+            {
+              "name": "CdCl2",
+              "amount": "1 mmol"
+            },
+            {
+              "name": "NaN3",
+              "amount": "3 mmol"
+            }
+          ],
+          "equipment": "sealed Pyrex tube",
+          "yield": "50%",
+          "additional_information": "IR (cm−1): 3416 (m), 2901(w), 1624(vs), 1449(m), 1376(m), 1171(w), 1142(w), 1070(w), 920(w), 895(w), 770(w), 741(w), 666(w), 519(w), 474(w); Anal. calcd. for C13H14ClN5O2Cd: [%] C, 37.13; H, 3.33; N, 16.66. Found: [%] C, 37.26; H, 3.29; N, 16.45."
+        }
+      ]
+    }
+  ],
+  "measurement_conditions": [
+    {
+      "material_id": "1",
+      "SHG_response": {
+        "method": "Kurtz powder test",
+        "equipment": "pulsed Q-switched Nd:YAG laser",
+        "wavelength": "1064 nm",
+        "SHG_light_collection": "spherical concave mirror",
+        "filter": "transmits only 532 nm radiation",
+        "comparison_basis": "KDP",
+        "result": "SHG responses of 1 are about 10 times than that of KDP"
+      }
+    },
+    {
+      "material_id": "1",
+      "electric_hysteresis_loop": {
+        "method": "Virtual Ground Mode",
+        "equipment": "RT6000 ferroelectric tester",
+        "temperature": "room temperature",
+        "sample_preparation": "powdered sample in the form of a pellet",
+        "environment": "insulating oil"
+      }
+    },
+    {
+      "material_id": "1",
+      "permittivity_measurement": {
+        "equipment": "HP4191A Analyzer",
+        "frequency_range": "100 to 1M Hz",
+        "reference": "Zhu, J.-S. et al., J. Appl. Phys. 2004, 95, 3126",
+        "contact_email": "jszhu@nju.edu.cn"
+      }
+    }
+  ]
+}

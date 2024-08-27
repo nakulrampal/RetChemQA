@@ -1,0 +1,67 @@
+{
+  "materials": [
+    {
+      "name": "Tb0.957Eu0.043cpda",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Tb(NO3)3·6H2O",
+            "role": "precursor"
+          },
+          {
+            "chemical": "Eu(NO3)3·6H2O",
+            "role": "precursor"
+          },
+          {
+            "chemical": "5-(4-carboxyphenyl)-2,6-pyridinedicarboxylic acid (H3cpda)",
+            "role": "ligand"
+          }
+        ],
+        "molar_ratios": "Eu3+/Tb3+ = 0.043/0.957",
+        "synthesis_steps": [
+          {
+            "step": "Reacting Tb(NO3)3·6H2O or Eu(NO3)3·6H2O with H3cpda",
+            "conditions": {
+              "description": "Varying the original molar ratios of Eu(NO3)3 to Tb(NO3)3 through the same synthetic procedures."
+            }
+          }
+        ],
+        "characterization_methods_excluded": true
+      }
+    },
+    {
+      "name": "Tbcpda",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Tb(NO3)3·6H2O",
+            "role": "precursor"
+          },
+          {
+            "chemical": "5-(4-carboxyphenyl)-2,6-pyridinedicarboxylic acid (H3cpda)",
+            "role": "ligand"
+          }
+        ],
+        "product_form": "colorless rod-like crystals",
+        "characterization_methods_excluded": true
+      }
+    },
+    {
+      "name": "Eucpda",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Eu(NO3)3·6H2O",
+            "role": "precursor"
+          },
+          {
+            "chemical": "5-(4-carboxyphenyl)-2,6-pyridinedicarboxylic acid (H3cpda)",
+            "role": "ligand"
+          }
+        ],
+        "product_form": "colorless rod-like crystals",
+        "characterization_methods_excluded": true
+      }
+    }
+  ]
+}

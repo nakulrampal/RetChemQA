@@ -1,0 +1,30 @@
+{
+  "materials": [
+    {
+      "material": "Ni2(4,4‘-bipyridine)3(NO3)4 (A)",
+      "synthesis_conditions": {
+        "solvents": "methanol",
+        "chemicals_used": [
+          {
+            "chemical": "Ni(NO3)2·6H2O",
+            "amount": "0.1163 g in 2 mL (0.20 M)"
+          },
+          {
+            "chemical": "4,4‘-bipyridine",
+            "amount": "0.0624 g in 2 mL (0.20 M)"
+          }
+        ],
+        "equipment": "H-cell",
+        "time": "1 month",
+        "temperature": "room temperature",
+        "yield": "blue rod-shaped crystals up to 1 mm3 suitable for single-crystal diffraction experiments"
+      }
+    },
+    {
+      "material": "Ni2(4,4‘-bipyridine)3(NO3)4·2C2H5OH (B)",
+      "synthesis_conditions": {
+        "note": "Synthesized in a manner similar to A but using ethanol instead of methanol."
+      }
+    }
+  ]
+}

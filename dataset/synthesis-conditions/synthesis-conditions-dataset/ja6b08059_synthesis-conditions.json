@@ -1,0 +1,117 @@
+{
+  "materials": [
+    {
+      "name": "MFM-136",
+      "synthesis_conditions": [
+        {
+          "step": "Solvothermal reaction",
+          "temperature": "80 °C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "Not specified"
+            }
+          ],
+          "equipment": "Sealed pressure tube",
+          "chemicals_used": [
+            {
+              "name": "5-[4-(pyrimidin-5-yl)­benzamido]­isophthalic acid (H2L)",
+              "amount": "Not specified"
+            },
+            {
+              "name": "Cu­(NO3)2·3H2O",
+              "amount": "Not specified"
+            }
+          ],
+          "time": "16 h",
+          "yield": "Not specified",
+          "washing_method": "Rinsed with DMF and acetone",
+          "drying_method": "Filtered and dried"
+        }
+      ]
+    },
+    {
+      "name": "4-(pyrimidin-5-yl)benzoic acid 2",
+      "synthesis_conditions": [
+        {
+          "step": "Reaction",
+          "temperature": "90 °C",
+          "solvents": [
+            {
+              "name": "CH3CN and water",
+              "amount": "250 cm3 (1:1 mixture)"
+            }
+          ],
+          "equipment": "Not specified",
+          "chemicals_used": [
+            {
+              "name": "4-carboxyboronic acid 1",
+              "amount": "5.27 g, 30.8 mmol"
+            },
+            {
+              "name": "5-bromopyrimidine",
+              "amount": "5.00 g, 30.8 mmol"
+            },
+            {
+              "name": "sodium carbonate",
+              "amount": "6.53 g, 61.6 mmol"
+            },
+            {
+              "name": "Tetrakis(triphenyl-phosphine)palladium(0), [Pd(PPh3)4]",
+              "amount": "0.50 g, 0.300 mmol"
+            }
+          ],
+          "time": "22 h",
+          "yield": "5.46 g, 89 %"
+        }
+      ]
+    },
+    {
+      "name": "5-(4-(pyrimidin-5-yl)benzamido)isophthalic acid (H2L)",
+      "synthesis_conditions": [
+        {
+          "step": "Reaction with thionyl chloride",
+          "temperature": "80 °C",
+          "solvents": [
+            {
+              "name": "thionyl chloride",
+              "amount": "50 cm3"
+            }
+          ],
+          "equipment": "Not specified",
+          "chemicals_used": [
+            {
+              "name": "4-(pyrimidin-5-yl)benzoic acid 2",
+              "amount": "2.50 g, 12.5mmol"
+            }
+          ],
+          "time": "4 h",
+          "yield": "Not specified"
+        },
+        {
+          "step": "Reaction with 5-aminoisophthalic acid",
+          "temperature": "Room temperature",
+          "solvents": [
+            {
+              "name": "THF",
+              "amount": "150 cm3"
+            }
+          ],
+          "equipment": "Not specified",
+          "chemicals_used": [
+            {
+              "name": "5-aminoisophthalic acid",
+              "amount": "2.31 g, 12.5 mmol"
+            },
+            {
+              "name": "potassium phosphate",
+              "amount": "6.64 g, 31.3mmol"
+            }
+          ],
+          "time": "2 h",
+          "yield": "4.00 g, 88 %"
+        }
+      ]
+    }
+  ]
+}

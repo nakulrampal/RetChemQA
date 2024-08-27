@@ -1,0 +1,78 @@
+{
+  "materials": [
+    {
+      "name": "1·[Rh(CO)2][Rh(CO)2Cl2]",
+      "synthesis_conditions": [
+        {
+          "step": "Exposure to CH3Br vapor",
+          "temperature": "Room temperature",
+          "time": "11 days",
+          "solvents": [
+            {
+              "name": "dry acetonitrile (CH3CN)",
+              "amount": "Not specified"
+            }
+          ],
+          "washing_method": "Washed with fresh CH3CN (X 6)",
+          "drying_method": "Not specified",
+          "yield": "Not specified",
+          "equipment": "Not specified",
+          "chemicals_used": [
+            {
+              "name": "CH3Br vapor",
+              "amount": "Not specified"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "1·[Rh(CH3CN)2(COMe)Br]Br",
+      "synthesis_conditions": [
+        {
+          "step": "Exposure to CO gas",
+          "temperature": "80 88C",
+          "time": "24 h",
+          "pressure": "12 bar of CO",
+          "solvents": "Not applicable",
+          "washing_method": "Not specified",
+          "drying_method": "Not specified",
+          "yield": "Not specified",
+          "equipment": "Not specified",
+          "chemicals_used": [
+            {
+              "name": "CO gas",
+              "amount": "Not specified"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "1·[Rh(CO)2]Br",
+      "synthesis_conditions": [
+        {
+          "step": "Catalysis experiment",
+          "temperature": [
+            "Room temperature for 40 min",
+            "80 88C for 40 min",
+            "120 88C for 9 h"
+          ],
+          "time": "Total 10 h",
+          "pressure": "10 bar of a 1:9 MeBr/CO gas mixture",
+          "solvents": "Not applicable",
+          "washing_method": "Not specified",
+          "drying_method": "Not specified",
+          "yield": "56 mmol (= 61@5, with 5 mmol from the pre-catalyst)",
+          "equipment": "Pressurized, stainless steel cell",
+          "chemicals_used": [
+            {
+              "name": "MeBr/CO gas mixture",
+              "amount": "Not specified"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

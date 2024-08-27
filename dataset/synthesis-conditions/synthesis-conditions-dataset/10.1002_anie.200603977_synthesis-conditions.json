@@ -1,0 +1,46 @@
+{
+  "materials": [
+    {
+      "name": "A·{ac}",
+      "synthesis_conditions": {
+        "solvents": "acetone",
+        "chemicals_used": [
+          {
+            "chemical": "bpbd",
+            "amount": "38.3 mg",
+            "molarity": "0.157 mmol",
+            "source": "Aldrich",
+            "purity": "97 % meso and 3 % rac isomeric mixture"
+          },
+          {
+            "chemical": "Fe(ClO4)2·H2O",
+            "amount": "20 mg",
+            "molarity": "0.078 mmol"
+          },
+          {
+            "chemical": "NH4NCS",
+            "amount": "11.9 mg",
+            "molarity": "0.156 mmol"
+          }
+        ],
+        "equipment": "H-shaped vessel",
+        "yield": "60 %",
+        "time": "over two weeks",
+        "temperature": {
+          "guest_desorption": "20 to 40 8C",
+          "complete_guest_desorption": "102 8C"
+        },
+        "method": "slow diffusion"
+      }
+    },
+    {
+      "name": "A",
+      "synthesis_conditions": {
+        "temperature": {
+          "analysis": "375 K"
+        },
+        "method": "desorption of acetone from A·{ac}"
+      }
+    }
+  ]
+}

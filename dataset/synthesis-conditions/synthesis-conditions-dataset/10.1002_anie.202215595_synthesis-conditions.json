@@ -1,0 +1,173 @@
+{
+  "materials": [
+    {
+      "name": "Pip-diCO2H",
+      "synthesis_steps": [
+        {
+          "step": 1,
+          "description": "Synthesis of Pip-diBN intermediate",
+          "yield": "98%",
+          "scale": "7 g",
+          "section": "S3.1"
+        },
+        {
+          "step": 2,
+          "description": "Hydrolysis to Pip-diCO2H",
+          "yield": "98%",
+          "scale": "5 g",
+          "section": "S3.1"
+        }
+      ]
+    },
+    {
+      "name": "Dimepip-diCO2H",
+      "synthesis_steps": [
+        {
+          "step": 1,
+          "description": "Synthesis of Dimepip-diBN intermediate",
+          "yield": "74%",
+          "scale": "46 g",
+          "solvent": "DMSO-d6",
+          "section": "S3.1"
+        },
+        {
+          "step": 2,
+          "description": "Hydrolysis to Dimepip-diCO2H",
+          "yield": "87%",
+          "scale": "7 g",
+          "section": "S3.6"
+        }
+      ]
+    },
+    {
+      "name": "Zr-dimepip",
+      "synthesis_steps": [
+        {
+          "description": "Synthesis of Zr-based MOF using L-proline as modulator",
+          "BET_surface_area": "3100 m2 g-1",
+          "section": "S3.6"
+        }
+      ]
+    },
+    {
+      "name": "Various ditopic ligands",
+      "synthesis_steps": [
+        {
+          "description": "Synthesis using various nitrile building blocks and diamine cores",
+          "notes": "Conditions varied based on substituents; some used acid-catalyzed hydrolysis. Nitro-functionalized ligands synthesized in water.",
+          "characterization_methods": ["1H NMR", "13C NMR", "19F NMR", "1H-13C NMR", "FTIR", "HRMS", "SCXRD", "Elemental Analysis"],
+          "sections": ["S3.1–S3.7", "S4", "S5", "S6"]
+        }
+      ]
+    },
+    {
+      "name": "Zr MOFs",
+      "synthesis_steps": [
+        {
+          "description": "Constructed from synthesized ligands",
+          "notes": "Single crystals obtained for Zr-dimepip-(2,2’-F) and Zr-DHP. Structures confirmed via SCXRD.",
+          "sections": ["S10 to S53"]
+        }
+      ]
+    },
+    {
+      "name": "Pip-tetraCO2H and derivatives",
+      "synthesis_steps": [
+        {
+          "description": "Synthesis of pip-tetraBN from 5-fluoroisophthalonitrile, then hydrolysis to pip-tetraCO2H",
+          "yield": ["89%", "81%"],
+          "section": "S3"
+        },
+        {
+          "description": "Synthesis of dimepip-tetraCO2H and DHP-tetraCO2H using similar pathway",
+          "section": "S3"
+        }
+      ]
+    },
+    {
+      "name": "Cu-MOFs",
+      "synthesis_steps": [
+        {
+          "description": "Constructed from pip-tetraCO2H and derivatives",
+          "notes": "Isostructural series with NbO type structure confirmed by SCXRD.",
+          "sections": ["S55", "S56"]
+        }
+      ]
+    },
+    {
+      "name": "Pip-(2,2’-OH)-diCO2H",
+      "synthesis_steps": [
+        {
+          "step": 1,
+          "description": "Synthesis of pip-(2,2’-F)-diBN",
+          "yield": "65%",
+          "section": "S3.1"
+        },
+        {
+          "step": 2,
+          "description": "Conversion of (cid:0) F to (cid:0) OH using solid NaOH",
+          "yield": "89%",
+          "section": "S3.5"
+        },
+        {
+          "step": 3,
+          "description": "Hydrolysis to pip-(2,2’-OH)-diCO2H",
+          "yield": "82%",
+          "scale": "13 g",
+          "section": "S3.5"
+        }
+      ]
+    },
+    {
+      "name": "MOF-74 analogs",
+      "synthesis_steps": [
+        {
+          "description": "Constructed using pip-(2,2’-OH)-diCO2H with various metals",
+          "notes": "Crystalline products obtained under modified conditions from previous reports.",
+          "sections": ["S60", "S62", "S63"]
+        }
+      ]
+    },
+    {
+      "name": "Tris-NO2 and Hexa-NO2 ligands",
+      "synthesis_steps": [
+        {
+          "description": "Synthesized from piperazine-carboxylate precursors and trifluorobenzene with strong electron-withdrawing group",
+          "yield": ["78%", "80%"],
+          "section": "S3.8"
+        }
+      ]
+    },
+    {
+      "name": "Cu-hexa-NO2 MOF",
+      "synthesis_steps": [
+        {
+          "description": "Constructed from hexa-NO2 ligand",
+          "BET_surface_area": "1990 m2 g-1",
+          "sections": ["S65", "S66", "S67", "S68", "S69"]
+        }
+      ]
+    },
+    {
+      "name": "Octa-BQ ligand",
+      "synthesis_steps": [
+        {
+          "description": "Synthesized using tetrafluoro-1,4-benzoquinone",
+          "yield": "13%",
+          "characterization_methods": ["High-resolution mass spectrometry"],
+          "section": "S3.9"
+        }
+      ]
+    },
+    {
+      "name": "Pip-diCHO-TAPT POP",
+      "synthesis_steps": [
+        {
+          "description": "Synthesized from 4-fluorobenzaldehyde and piperazine, then combined with TAPT",
+          "BET_surface_area": "345 m2 g-1",
+          "sections": ["S2", "S185", "S186", "S187"]
+        }
+      ]
+    }
+  ]
+}

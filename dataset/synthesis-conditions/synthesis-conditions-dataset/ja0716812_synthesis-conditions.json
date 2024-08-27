@@ -1,0 +1,106 @@
+{
+  "materials": [
+    {
+      "name": "(S)-H4 1",
+      "synthesis_conditions": {
+        "temperature": "refluxed for 5 h",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "30 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(S)-(+)-1,1’-binaphthyl-2,2’-diamine",
+            "amount": "284 mg, 1.00 mmol"
+          },
+          {
+            "name": "4-formyl-3-hydroxybenzoic acid",
+            "amount": "332 mg, 2.00 mmol"
+          }
+        ],
+        "equipment": "50 mL round bottom flask equipped with a water cooled condenser and a magnetic stir bar",
+        "yield": "578 mg, 98%",
+        "drying_method": "dried under reduced pressure"
+      }
+    },
+    {
+      "name": "(S,S,S)-2 (Triangular macrocycle)",
+      "synthesis_conditions": [
+        {
+          "path": "a",
+          "chemicals_used": [
+            {
+              "name": "(S)-H4 1",
+              "amount": "118 mg, 0.20 mmol"
+            },
+            {
+              "name": "Cu(OAc)2·6H2O",
+              "amount": "117 mg, 0.40 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "MeOH",
+              "amount": "3 mL"
+            },
+            {
+              "name": "pyridine",
+              "amount": "10 mL"
+            }
+          ],
+          "temperature": "room temperature",
+          "time": "overnight",
+          "yield": "193 mg, 82%",
+          "drying_method": "dried under vacuum"
+        },
+        {
+          "path": "d",
+          "description": "Rod-shaped single crystals of helical P-3 were immersed in 20 mL of pyridine, stirred at room temperature, changing from rods to cubes within 10 minutes.",
+          "yield": "99%",
+          "drying_method": "dried under vacuum"
+        }
+      ]
+    },
+    {
+      "name": "P-3 (helical polymer)",
+      "synthesis_conditions": [
+        {
+          "path": "b",
+          "chemicals_used": [
+            {
+              "name": "(S)-H4 1",
+              "amount": "118 mg, 0.20 mmol"
+            },
+            {
+              "name": "Cu(OAc)2·6H2O",
+              "amount": "117 mg, 0.40 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "pyridine",
+              "amount": "1 mL"
+            },
+            {
+              "name": "MeOH",
+              "amount": "10 mL"
+            }
+          ],
+          "temperature": "room temperature",
+          "time": "overnight",
+          "yield": "145 mg, 85%",
+          "washing_method": "washed several times with methanol",
+          "drying_method": "air-dried"
+        },
+        {
+          "path": "c",
+          "description": "Cube-shaped single crystals of (S,S,S)-2 were immersed in 20 mL of methanol, stirred at room temperature, changing from cubes to a rod shape within 10 minutes.",
+          "yield": "99%",
+          "drying_method": "dried under vacuum"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "materials": [
+    {
+      "name": "CUST-736",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "time": "72 h",
+        "solvents": [
+          {
+            "name": "DMA",
+            "amount": "3 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "1 mL"
+          }
+        ],
+        "equipment": "18 mL Teflon-lined stainless steel container",
+        "chemicals_used": [
+          {
+            "name": "Ni(NO3)2·6H2O",
+            "amount": "0.0189 g, 0.1 mmol"
+          },
+          {
+            "name": "2-H2stp",
+            "amount": "0.0134 g, 0.05 mmol"
+          },
+          {
+            "name": "TPBTC",
+            "amount": "0.0219 g, 0.05 mmol"
+          }
+        ],
+        "yield": "56.63%",
+        "washing_method": "washed with distilled water",
+        "drying_method": "dried in air"
+      }
+    },
+    {
+      "name": "CUST-736a",
+      "synthesis_conditions": {
+        "solvent_exchange": {
+          "solvent": "CH2Cl2",
+          "amount": "100 mL",
+          "repetitions": "6 times in 3 days"
+        },
+        "activation": {
+          "method": "vacuum activation",
+          "temperature": "80 °C",
+          "time": "12 h"
+        }
+      }
+    }
+  ]
+}

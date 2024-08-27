@@ -1,0 +1,46 @@
+{
+  "materials": [
+    {
+      "name": "Cr3(BTC)2·nDMF",
+      "synthesis_conditions": {
+        "temperature": "reflux",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "40 mL"
+          }
+        ],
+        "equipment": "Schlenk flask",
+        "chemicals_used": [
+          {
+            "name": "Cr(CO)6",
+            "amount": "1.09 g (5 mmol)"
+          },
+          {
+            "name": "trimesic acid (H3BTC)",
+            "amount": "0.623 g (3 mmol)"
+          }
+        ],
+        "time": "3 days",
+        "washing_method": "rinsed three times with anhydrous air-free DMF",
+        "drying_method": "transferred to a Vac Atmospheres inert atmosphere chamber"
+      }
+    },
+    {
+      "name": "Cr3(BTC)2",
+      "synthesis_conditions": {
+        "solvent_exchange": {
+          "solvent": "methanol",
+          "temperature": "60 °C",
+          "time": "24 h",
+          "repetitions": "3 times"
+        },
+        "activation": {
+          "temperature": "160 °C",
+          "vacuum": "dynamic vacuum",
+          "time": "48 h"
+        }
+      }
+    }
+  ]
+}

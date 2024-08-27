@@ -1,0 +1,40 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "temperature": "180°C",
+        "solvents": ["water"],
+        "amount_of_solvents": ["10mL"],
+        "equipment": ["Teflon-lined stainless autoclave", "volume 23 mL"],
+        "chemicals_used": ["NH4Cl", "V2O5", "H2C2O4"],
+        "chemicals_amounts": ["0.60 mL, 0.5M", "0.0929 g", "0.2276 g"],
+        "molar_ratios": "V:H2C2O4 molar ratio = 1:2",
+        "time": "three days",
+        "cooling_rate": "cooled to 90°C at 5°C h-1",
+        "yield": "0.1740g, 88% based on V",
+        "washing_method": "washed with deionized water",
+        "drying_method": "stable in air",
+        "stability": "stable in air and insoluble in water"
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "temperature": "200°C",
+        "solvents": ["water"],
+        "amount_of_solvents": ["10mL"],
+        "equipment": ["Teflon-lined stainless autoclave", "volume 23 mL"],
+        "chemicals_used": ["NH4Cl", "V2O5", "H2C2O4"],
+        "chemicals_amounts": ["0.60 mL, 0.5M", "0.0904 g", "0.1143 g"],
+        "molar_ratios": "V:H2C2O4 molar ratio = 1:1",
+        "time": "three days",
+        "cooling_rate": "cooled to 150°C at 5°C h-1, and quenched to room temperature",
+        "yield": "0.1877 g, mixture of dark purple crystals of 2 and about equal amount of 1",
+        "washing_method": "washed with deionized water",
+        "drying_method": "stable in air",
+        "stability": "stable in air and insoluble in water, retains structure at 200°C in air with partial loss of water molecules, decomposes at 250°C"
+      }
+    }
+  ]
+}

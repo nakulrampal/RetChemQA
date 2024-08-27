@@ -1,0 +1,90 @@
+{
+  "materials": [
+    {
+      "name": "[Ln2Cu3(IDA)6]nH2O (Ln = La, Nd, Sm, Gd, Ho, Er)",
+      "synthesis_conditions": {
+        "system": "trigonal",
+        "space_group": "P3̅c1",
+        "lattice_constants": {
+          "La": {
+            "a": "13.495(2) Å",
+            "c": "14.912(2) Å",
+            "V": "2351.8(6) Å3",
+            "porous_space": "745.9 Å3"
+          },
+          "Nd": {
+            "a": "13.457(2) Å",
+            "c": "14.698(2) Å",
+            "V": "2305.0(5) Å3",
+            "porous_space": "715.0 Å3"
+          },
+          "Sm": {
+            "a": "13.410(1) Å",
+            "c": "14.581(2) Å",
+            "V": "2270.9(4) Å3",
+            "porous_space": "698.0 Å3"
+          },
+          "Gd": {
+            "a": "13.415(1) Å",
+            "c": "14.462(1) Å",
+            "V": "2253.9(3) Å3",
+            "porous_space": "686.1 Å3"
+          },
+          "Ho": {
+            "a": "13.388(2) Å",
+            "c": "14.306(2) Å",
+            "V": "2220.5(6) Å3",
+            "porous_space": "668.7 Å3"
+          },
+          "Er": {
+            "a": "13.347(1) Å",
+            "c": "14.260(1) Å",
+            "V": "2200.1(2) Å3",
+            "porous_space": "642.1 Å3"
+          }
+        },
+        "Z_value": 2,
+        "residuals": {
+          "R1": {
+            "La": "0.040",
+            "Nd": "0.038",
+            "Sm": "0.036",
+            "Gd": "0.037",
+            "Ho": "0.038",
+            "Er": "0.024"
+          },
+          "wR2": {
+            "La": "0.133",
+            "Nd": "0.112",
+            "Sm": "0.115",
+            "Gd": "0.083",
+            "Ho": "0.096",
+            "Er": "0.072"
+          }
+        }
+      }
+    },
+    {
+      "name": "Molecular Dynamics (MD) Simulations",
+      "synthesis_conditions": {
+        "software": "Material Studio Modeling v5.0 (Accelrys Inc., San Diego, CA)",
+        "force_field": "universal force field",
+        "module": "Forcite Plus",
+        "interactions": "Ewald electrostatic and van der Waals",
+        "quality_level": "ultra-fine",
+        "atomic_coordinates": "fixed during simulation",
+        "optimization_temperature": "100 K",
+        "simulation_steps": "1 fs for 500 ps",
+        "conditions": "constant volume and constant temperature"
+      }
+    },
+    {
+      "name": "Dielectric Measurements",
+      "synthesis_conditions": {
+        "crystal_size": "1.0 × 1.0 × 1.5 mm3",
+        "thickness_for_hysteresis_measurements": "0.4−0.5 mm",
+        "electrodes": "gold conduction paste painted on crystal surfaces"
+      }
+    }
+  ]
+}

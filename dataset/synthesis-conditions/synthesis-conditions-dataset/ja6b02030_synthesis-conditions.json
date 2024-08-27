@@ -1,0 +1,31 @@
+{
+  "materials": [
+    {
+      "name": "UTSA-74",
+      "synthesis_conditions": {
+        "chemicals_used": "H4dobdc (0.099 g, 0.50 mmol), Zn(NO3)2·6H2O (0.149 g, 0.50 mmol), N,N′-dimethylformamide (DMF, 6.0 mL), H2O (0.20 mL)",
+        "equipment": "Teflon-lined stainless steel vessel (12 mL)",
+        "temperature": "158 °C",
+        "time": "72 h",
+        "heating_rate": "1 °C min−1",
+        "cooling_rate": "0.1 °C min−1",
+        "yield": "89% based on Zn(NO3)2·6H2O",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified"
+      }
+    },
+    {
+      "name": "UTSA-74a",
+      "synthesis_conditions": {
+        "activation": "The as-synthesized crystals of UTSA-74 were activated to remove solvent molecules in situ using the gas adsorption apparatus Belsorp-max at 200 °C under high vacuum for 2 h."
+      }
+    },
+    {
+      "name": "UTSA-74⊃CO2",
+      "synthesis_conditions": {
+        "activation": "The as-synthesized crystals of UTSA-74 were activated to remove solvent molecules in situ using the gas adsorption apparatus Belsorp-max at 200 °C under high vacuum for 2 h.",
+        "additional_step": "Gradual loading of CO2 into the UTSA-74a sample up to 100 kPa at 298 K leads to the formation of UTSA-74⊃CO2, which were transferred into glovebox, and sealed into the capillary tubes under CO2 atmosphere."
+      }
+    }
+  ]
+}

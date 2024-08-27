@@ -1,0 +1,44 @@
+{
+  "materials": [
+    {
+      "name": "CdTz",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Cd(OAc)2·2 H2O (266 mg, 1 mmol)",
+          "1,2,4-triazole (138 mg, 2 mmol)",
+          "phosphoric acid (85 %, 134 mL, 2 mmol)"
+        ],
+        "method": "solid state mechanical milling process",
+        "milling_details": "mixed into a mortar and ground for 30 minutes",
+        "washing_method": "washed with ethanol three times",
+        "drying_method": "dried at 25 88C under vacuum overnight"
+      }
+    },
+    {
+      "name": "a-CdTz-x",
+      "synthesis_conditions": {
+        "base_material": "CdTz",
+        "method": "ball milling under Ar atmosphere",
+        "equipment": "planetary ball-milling apparatus with zirconia vessel and balls",
+        "rpm": "400 rpm",
+        "milling_times": [
+          "40 minutes",
+          "240 minutes",
+          "500 minutes"
+        ],
+        "atmosphere": "Ar"
+      }
+    },
+    {
+      "name": "a-CdTz-240 transparent glass pellet",
+      "synthesis_conditions": {
+        "base_material": "a-CdTz-240 powder",
+        "method": "pressure treatment",
+        "pressure": "4 GPa",
+        "temperature": "70 88C",
+        "time": "2 hours",
+        "description": "A pellet of a-CdTz-240 powder with a diameter of 4.2 mm and 1.0 mm of height was prepared and pressed under 4 GPa at 70 88C for 2 hours to form transparent glass."
+      }
+    }
+  ]
+}

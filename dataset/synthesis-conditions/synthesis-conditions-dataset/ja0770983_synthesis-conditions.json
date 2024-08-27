@@ -1,0 +1,66 @@
+{
+  "materials": [
+    {
+      "name": "Pb3(SC6H4S)3(en)2",
+      "synthesis_conditions": {
+        "temperature": "reflux for 16 h",
+        "solvents": "degassed ethylenediamine",
+        "amount_of_solvent_ml": 10,
+        "equipment": "N/A",
+        "chemicals_used": "Pb(OAc)2·3H2O (0.267 g, 0.704 mmol), 1,4-benzenedithiol (0.100 g, 0.703 mmol)",
+        "time": "16 h",
+        "washing_method": "filtered, washed with methanol and then ether",
+        "drying_method": "N/A",
+        "yield": "81%",
+        "additional_steps": [
+          {
+            "step_description": "Single-crystal X-ray diffraction",
+            "temperature": "100(2) K"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Pb2(S2C6H2S2)(en)",
+      "synthesis_conditions": {
+        "temperature": "reflux for 16 h",
+        "solvents": "degassed ethylenediamine",
+        "amount_of_solvent_ml": 15,
+        "equipment": "N/A",
+        "chemicals_used": "Pb(OAc)2·3H2O (0.1838 g, 0.485 mmol), 1,2,4,5-benzenetetrathiol (0.050 g, 0.242 mmol)",
+        "time": "16 h",
+        "washing_method": "isolated by filtration and washed with methanol and ether",
+        "drying_method": "N/A",
+        "yield": "88%"
+      }
+    },
+    {
+      "name": "Pb3(C6S6)",
+      "synthesis_conditions": {
+        "temperature": "60 °C for 16 h",
+        "solvents": "degassed ethylenediamine",
+        "amount_of_solvent_ml": 12,
+        "equipment": "N/A",
+        "chemicals_used": "Pb(OAc)2·3H2O (0.1752 g, 0.462 mmol), benzenehexathiol (0.050 g, 0.185 mmol)",
+        "time": "16 h",
+        "washing_method": "isolated by filtration and washed with methanol and ether",
+        "drying_method": "N/A",
+        "yield": "83%"
+      }
+    },
+    {
+      "name": "Thallium-doped Pb3(C6S6)",
+      "synthesis_conditions": {
+        "temperature": "60 °C for 16 h",
+        "solvents": "degassed ethylenediamine",
+        "amount_of_solvent_ml": 12,
+        "equipment": "N/A",
+        "chemicals_used": "Pb(OAc)2·3H2O (0.1718 g, 0.453 mmol), Tl(OAc) (0.0024 g, 0.01 mmol), benzenehexathiol (0.050 g, 0.185 mmol)",
+        "time": "16 h",
+        "washing_method": "isolated by filtration and washed with methanol and ether",
+        "drying_method": "N/A",
+        "yield": "79%"
+      }
+    }
+  ]
+}

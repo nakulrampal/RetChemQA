@@ -1,0 +1,106 @@
+{
+  "materials": [
+    {
+      "name": "CIAC-109",
+      "synthesis_conditions": {
+        "temperature": "130 °C",
+        "solvents": [
+          {
+            "name": "CH3OH",
+            "amount": "3 ml"
+          },
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "3 ml"
+          }
+        ],
+        "equipment": "20 ml Teflon-lined autoclave",
+        "chemicals_used": [
+          {
+            "name": "p-tert-butylthiacalix[4]arene",
+            "amount": "0.0904 g, 0.125 mmol"
+          },
+          {
+            "name": "FeCl2·4H2O",
+            "amount": "0.1010 g, 0.5 mmol"
+          },
+          {
+            "name": "isonicotinic acid (INA)",
+            "amount": "0.06 g, 0.5 mmol"
+          },
+          {
+            "name": "triethylamine",
+            "amount": "several drops"
+          }
+        ],
+        "time": "3 days",
+        "cooling_rate": "about 4 °C / h",
+        "washing_method": "washed with methanol",
+        "yield": "ca. 40 % with respect to calixarene",
+        "elemental_analysis": {
+          "calculated": {
+            "C": "49.55 %",
+            "H": "5.24 %",
+            "N": "6.34 %"
+          },
+          "found": {
+            "C": "47.61 %",
+            "H": "5.23 %",
+            "N": "6.22 %"
+          }
+        }
+      }
+    },
+    {
+      "name": "CIAC-110",
+      "synthesis_conditions": {
+        "temperature": "130 °C",
+        "solvents": [
+          {
+            "name": "CH3OH",
+            "amount": "3 ml"
+          },
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "3 ml"
+          }
+        ],
+        "equipment": "20 ml Teflon-lined autoclave",
+        "chemicals_used": [
+          {
+            "name": "p-tert-butylthiacalix[4]arene",
+            "amount": "0.0904 g, 0.125 mmol"
+          },
+          {
+            "name": "CoCl2·6H2O",
+            "amount": "replacing FeCl2·4H2O"
+          },
+          {
+            "name": "isonicotinic acid (INA)",
+            "amount": "0.06 g, 0.5 mmol"
+          },
+          {
+            "name": "triethylamine",
+            "amount": "several drops"
+          }
+        ],
+        "time": "3 days",
+        "cooling_rate": "about 4 °C / h",
+        "washing_method": "washed with methanol",
+        "yield": "ca. 45 % with respect to calixarene",
+        "elemental_analysis": {
+          "calculated": {
+            "C": "49.17 %",
+            "H": "5.19 %",
+            "N": "6.29 %"
+          },
+          "found": {
+            "C": "46.89 %",
+            "H": "5.20 %",
+            "N": "6.05 %"
+          }
+        }
+      }
+    }
+  ]
+}

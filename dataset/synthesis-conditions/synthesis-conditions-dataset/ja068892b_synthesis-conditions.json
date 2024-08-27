@@ -1,0 +1,98 @@
+{
+  "materials": [
+    {
+      "name": "9-allyladenine (9-AA)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "9-allyladenine",
+            "amount": "not specified"
+          }
+        ],
+        "yield": "not specified",
+        "references": [
+          {
+            "name": "Srivatsan, S.G., Verma, S. Chem. Commun.",
+            "year": "2000",
+            "pages": "515-516"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Complex 1",
+      "synthesis_conditions": {
+        "temperature": "not specified",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "10 mL"
+          },
+          {
+            "name": "distilled water",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "not specified",
+        "chemicals_used": [
+          {
+            "name": "9-allyladenine (9-AA)",
+            "amount": "200 mg (1.12 mmol, 1 eq.)"
+          },
+          {
+            "name": "silver nitrate",
+            "amount": "227 mg (1.34 mmol, 1.2 eq.)"
+          }
+        ],
+        "time": "2h",
+        "washing_method": [
+          {
+            "solvent": "water",
+            "amount": "3 x 5 mL"
+          },
+          {
+            "solvent": "methanol",
+            "amount": "2 x 5 mL"
+          }
+        ],
+        "drying_method": "under vacuum",
+        "yield": "247 mg (80.4%)",
+        "pH": "8.3",
+        "additional_information": "pH adjusted with ammonium hydroxide solution"
+      }
+    },
+    {
+      "name": "Crystals of Complex 1",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "not specified"
+          },
+          {
+            "name": "water",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Complex 1",
+            "amount": "not specified"
+          },
+          {
+            "name": "silver nitrate",
+            "amount": "not specified"
+          }
+        ],
+        "pH": "8.3",
+        "additional_information": "pH adjusted with ammonia solution"
+      }
+    }
+  ]
+}

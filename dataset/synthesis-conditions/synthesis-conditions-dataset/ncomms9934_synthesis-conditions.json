@@ -1,0 +1,72 @@
+{
+  "materials": [
+    {
+      "material": "[Cu(II)2(bza)4(pyz)]n",
+      "synthesis_conditions": {
+        "temperature": "298 K",
+        "crystal_phase": {
+          "mother_phase": "α",
+          "daughter_phase": "α'",
+          "coexisting_state": "α and α'"
+        },
+        "crystal_size": {
+          "α_phase": "0.17×0.13×0.07 mm3",
+          "α'_phase": "0.18×0.13×0.07 mm3"
+        },
+        "crystal_system": "Monoclinic",
+        "space_group": "C2/c",
+        "chemicals_used": [
+          "Cu(II)",
+          "bza (benzoate)",
+          "pyz (pyrazine)"
+        ],
+        "equipment": [
+          "Bruker Smart APEX CCD area diffractometer",
+          "GTR-20XAYU Analyzer (GTR Tech Corporation)",
+          "GC-2014 Gas Chromatograph (Shimadzu Corporation)"
+        ],
+        "yield": "Not specified",
+        "solvents": "Not specified",
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "gas_permeation_measurement": {
+          "temperature": "293 K",
+          "differential_pressure": "150 kPa",
+          "crystal_membrane_surface_area": {
+            "(100)α'": "1.00 × 10^5 μm2",
+            "(001)α'": "4.78 × 10^4 μm2"
+          },
+          "crystal_membrane_thickness": {
+            "(100)α'": "80 μm",
+            "(001)α'": "185 μm"
+          },
+          "gas_types_tested": [
+            "H2",
+            "CO2",
+            "He",
+            "N2",
+            "CO",
+            "Ar",
+            "O2",
+            "CH4"
+          ]
+        },
+        "active_gas_flow_control_experiment": {
+          "crystal_dimensions": [
+            "0.33 × 0.19 × 0.15 mm3",
+            "0.36 × 0.10 × 0.10 mm3"
+          ],
+          "temperature": "Room temperature",
+          "differential_partial_pressure_CO2": "100 kPa",
+          "equipment": [
+            "Stainless steel needles (diameter: 30 μm)",
+            "Glass capillaries (inner diameter: 35 μm)",
+            "Gauge capillaries (inner diameter: 65 or 28 μm)"
+          ],
+          "silicone_oil": "Used as a probe medium for CO2 gas permeation"
+        }
+      }
+    }
+  ]
+}

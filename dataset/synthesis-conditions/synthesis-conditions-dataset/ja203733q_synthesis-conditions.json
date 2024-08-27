@@ -1,0 +1,73 @@
+{
+  "materials": [
+    {
+      "label": "Compound 7",
+      "1H NMR": {
+        "frequency": "300 MHz",
+        "solvent": "CDCl3",
+        "shifts": "7.68 (d, J = 9.5 Hz, 1H), 7.44-7.36 (m, 3H), 6.43 (d, J = 9.5 Hz, 1H), 3.27 (s, 1H)"
+      },
+      "13C NMR": {
+        "frequency": "75 MHz",
+        "solvent": "CDCl3",
+        "shifts": "160.1, 153.5, 142.6, 127.9, 127.6, 125.5, 120.1, 119.0, 117.1, 82.0, 80.6"
+      }
+    },
+    {
+      "label": "Compound 8",
+      "1H NMR": {
+        "frequency": "300 MHz",
+        "solvent": "DMSO-d6",
+        "shifts": "8.86 (s, 1H), 8.56 (d, J = 4.5 Hz, 1H), 8.08 (d, J = 9.5 Hz, 1H), 7.90-7.77 (m, 4H), 7.39-7.37 (m, 2H), 6.48 (d, J = 9.5 Hz, 1H), 5.79 (s, 2H)"
+      },
+      "13C NMR": {
+        "frequency": "75 MHz",
+        "solvent": "DMSO-d6",
+        "shifts": "169.4, 164.2, 163.6, 159.0, 154.6, 153.4, 146.9, 143.7, 138.6, 133.2, 132.8, 131.8, 130.7, 127.7, 125.3, 121.7, 64.2"
+      },
+      "HRMS": {
+        "type": "ESI",
+        "ion": "[M+H]+",
+        "calculated": "305.1038",
+        "found": "305.1052"
+      }
+    },
+    {
+      "label": "Compound 9",
+      "1H NMR": {
+        "frequency": "500 MHz",
+        "solvent": "DMSO-d6",
+        "shifts": "8.09 (d, J = 9.5 Hz, 2H), 7.78 (d, J = 8.0 Hz, 2H), 7.71 (s, 2H), 7.58 (d, J = 7.9 Hz, 2H), 6.56 (d, J = 9.5 Hz, 2H)"
+      },
+      "13C NMR": {
+        "frequency": "125 MHz",
+        "solvent": "DMSO-d6",
+        "shifts": "158.8, 152.9, 142.8, 128.5, 127.8, 122.9, 119.9, 119.4, 117.0, 81.6, 75.3"
+      },
+      "HRMS": {
+        "type": "EI+",
+        "ion": "338.0579",
+        "calculated": "338.0579",
+        "found": "338.0579"
+      }
+    }
+  ],
+  "synthesis_conditions": [
+    {
+      "label": "General procedure for preparative syntheses of the triazole compounds",
+      "description": "Azide (0.2 mmol) in CH3CN (0.5 mL) was dissolved. For azide 3, one equivalent of triethylamine (TEA) was added. Alkyne (0.22 mmol) and Cu(OAc)2 (25 μL, 0.4 M in H2O) were added. The mixture was stirred for 18 h. The mixture was filtered through silica or alumina gel. The product was obtained upon solvent removal. No chromatography or further workup was necessary unless noted."
+    },
+    {
+      "label": "Representative procedure for conditional screening experiments",
+      "description": "Azide solution (0.2 mmol in 0.5 mL) in a 1-dram vial was added with alkyne (0.22 mmol) and Cu(OAc)2∙H2O (5 mol %). The mixture was stirred between 500-600 rps. TLCs were taken every 5-30 min to monitor the disappearance of the azide component. Completion time was dependent on stirring rate, the size and shape of the stir bar, and the reaction container."
+    },
+    {
+      "label": "Representative procedure of the fluorescence assay",
+      "description": "Stock solutions of 7 (100 μM) in MeOH, 1 (50 mM) in MeOH, and Cu(OAc)2∙H2O (1 mM) in H2O were prepared. The stock solutions of 7 (300 μL), 1 (300 μL), Cu(OAc)2∙H2O (30 μL), and MeOH (2370 μL) were added to a cuvette. The mixture was stirred and the fluorescence intensity (λex 320 nm and λem 400 nm) was determined every 0.25 min at 22 °C. The initial reaction rates were calculated."
+    },
+    {
+      "label": "Representative procedure of the 1H NMR assay",
+      "description": "Stock solutions of 7 (100 mM) in CD3CN, 1 (100 mM) in CD3CN, and Cu(OAc)2∙H2O (100 mM) in H2O were prepared. The stock solutions of 7 (100 μL), 1 (100 μL), Cu(OAc)2∙H2O (10 μL), and CD3CN (790 μL) were added to a vial. The mixture was transferred to an NMR tube. The reaction progress was monitored on a 500 MHz instrument. Data was collected every 5 min at 22 °C."
+    }
+  ]
+}

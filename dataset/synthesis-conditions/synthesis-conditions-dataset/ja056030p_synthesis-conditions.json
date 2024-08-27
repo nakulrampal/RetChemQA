@@ -1,0 +1,51 @@
+{
+  "materials": [
+    {
+      "name": "Complex 1",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "CHCl3",
+            "amount": "20 ml"
+          },
+          {
+            "name": "acetone",
+            "amount": "20 ml"
+          },
+          {
+            "name": "hexane",
+            "purpose": "recrystallization"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Fe(Et2dtc)3",
+            "amount": "0.10 g",
+            "molarity": "0.20 mmol"
+          },
+          {
+            "name": "CuCl2•2H2O",
+            "amount": "0.075 g",
+            "molarity": "0.44 mmol"
+          }
+        ],
+        "time": "more than 1 week",
+        "equipment": "glass tube",
+        "yield": {
+          "C": {
+            "calcd": "21.99",
+            "found": "22.15"
+          },
+          "H": {
+            "calcd": "3.69",
+            "found": "3.77"
+          },
+          "N": {
+            "calcd": "5.13",
+            "found": "4.96"
+          }
+        }
+      }
+    }
+  ]
+}

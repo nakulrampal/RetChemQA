@@ -1,0 +1,128 @@
+{
+  "materials": [
+    {
+      "name": "CdPCP-P1",
+      "synthesis_conditions": {
+        "temperature": "298 K",
+        "solvents": [
+          {
+            "name": "DMA",
+            "amount": "2 molecules per ASU"
+          }
+        ],
+        "equipment": [
+          "Bruker D2 PHASER",
+          "PANalytical X'Pert PRO diffractometer",
+          "Oxford Cryostream 700Plus cooling system",
+          "Bruker D8 Venture",
+          "Oxford Cryostreams 800Plus cryostat"
+        ],
+        "chemicals_used": [
+          "1,4-bis[2-(4'-pyridyl)ethenyl]benzene (bpeb) ligand",
+          "4,4′-oxybis­(benzoic acid) (obc)"
+        ],
+        "time": "45 to 120 minutes for irradiation",
+        "irradiation_details": {
+          "wavelength": "365 nm",
+          "power": "4 200 mW cm-2"
+        },
+        "drying_method": "N/A",
+        "yield": "N/A",
+        "washing_method": "N/A"
+      }
+    },
+    {
+      "name": "CdPCP-P2",
+      "synthesis_conditions": {
+        "temperature": "100 K",
+        "solvents": [
+          {
+            "name": "DMA",
+            "amount": "4 molecules per ASU"
+          }
+        ],
+        "equipment": [
+          "Bruker D2 PHASER",
+          "PANalytical X'Pert PRO diffractometer",
+          "Oxford Cryostream 700Plus cooling system",
+          "Bruker D8 Venture",
+          "Oxford Cryostreams 800Plus cryostat"
+        ],
+        "chemicals_used": [
+          "1,4-bis[2-(4'-pyridyl)ethenyl]benzene (bpeb) ligand",
+          "4,4′-oxybis­(benzoic acid) (obc)"
+        ],
+        "time": "45 to 120 minutes for irradiation",
+        "irradiation_details": {
+          "wavelength": "365 nm",
+          "power": "4 200 mW cm-2"
+        },
+        "drying_method": "N/A",
+        "yield": "N/A",
+        "washing_method": "N/A"
+      }
+    },
+    {
+      "name": "CdPCP-P2 after irradiation at 100 K",
+      "synthesis_conditions": {
+        "temperature": "100 K",
+        "solvents": [
+          {
+            "name": "DMA",
+            "amount": "2 molecules per ASU not fully modelled, SQUEEZE analysis for unmodelled electron density"
+          }
+        ],
+        "equipment": [
+          "Bruker D2 PHASER",
+          "PANalytical X'Pert PRO diffractometer",
+          "Oxford Cryostream 700Plus cooling system",
+          "Bruker D8 Venture",
+          "Oxford Cryostreams 800Plus cryostat"
+        ],
+        "chemicals_used": [
+          "1,4-bis[2-(4'-pyridyl)ethenyl]benzene (bpeb) ligand",
+          "4,4′-oxybis­(benzoic acid) (obc)"
+        ],
+        "time": "45 to 120 minutes for irradiation",
+        "irradiation_details": {
+          "wavelength": "365 nm",
+          "power": "4 200 mW cm-2"
+        },
+        "drying_method": "N/A",
+        "yield": "N/A",
+        "washing_method": "N/A"
+      }
+    },
+    {
+      "name": "CdPCP-P2 after irradiation at 100 K and warmed to 298 K",
+      "synthesis_conditions": {
+        "temperature": "298 K",
+        "solvents": [
+          {
+            "name": "DMA",
+            "amount": "2 molecules per ASU not fully modelled, SQUEEZE analysis for unmodelled electron density"
+          }
+        ],
+        "equipment": [
+          "Bruker D2 PHASER",
+          "PANalytical X'Pert PRO diffractometer",
+          "Oxford Cryostream 700Plus cooling system",
+          "Bruker D8 Venture",
+          "Oxford Cryostreams 800Plus cryostat"
+        ],
+        "chemicals_used": [
+          "1,4-bis[2-(4'-pyridyl)ethenyl]benzene (bpeb) ligand",
+          "4,4′-oxybis­(benzoic acid) (obc)"
+        ],
+        "time": "45 to 120 minutes for irradiation",
+        "irradiation_details": {
+          "wavelength": "365 nm",
+          "power": "4 200 mW cm-2"
+        },
+        "drying_method": "N/A",
+        "yield": "N/A",
+        "washing_method": "N/A"
+      }
+    }
+  ]
+}

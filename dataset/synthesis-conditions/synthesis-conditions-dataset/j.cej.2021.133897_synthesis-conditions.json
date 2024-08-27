@@ -1,0 +1,107 @@
+{
+  "materials": [
+    {
+      "name": "10H, 10’H-9, 9’-spirobi[acridine] (SBA)",
+      "synthesis_conditions": {
+        "solvents": "Not specified",
+        "chemicals_used": "Not specified",
+        "temperature": "Not specified",
+        "equipment": "Not specified",
+        "time": "Not specified",
+        "yield": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "characterization_techniques": [
+          "1H NMR",
+          "13C NMR",
+          "HRMS"
+        ]
+      }
+    },
+    {
+      "name": "5,5'-(10H,10'H-9,9'-spirobi[acridine]-10,10'-diyl)diisophthalic acid (SATC)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "toluene",
+            "amount": "10 ml"
+          }
+        ],
+        "chemicals_used": [
+          "SBA",
+          "dimethyl 5-iodoisophthalate",
+          "Pd(OAc)2",
+          "Cs2CO3",
+          "tri-tert-butylphosphine tetrafluoroborate"
+        ],
+        "temperature": "110 °C",
+        "equipment": "dried two-necked round-bottomed flask charged by Ar",
+        "time": "2 days",
+        "yield": "61.6 %",
+        "washing_method": "extracted with dichloromethane (DCM) and H2O",
+        "drying_method": "dried (Na2SO4), filtrated and evaporated",
+        "characterization_techniques": [
+          "1H NMR",
+          "13C NMR",
+          "HRMS"
+        ]
+      }
+    },
+    {
+      "name": "SATC",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "10 ml"
+          },
+          {
+            "name": "MeOH",
+            "amount": "5 ml"
+          }
+        ],
+        "chemicals_used": [
+          "tetramethyl 5,5'-(10H,10'H-9,9'-spirobi[acridine]-10,10'-diyl)diisophthalate",
+          "1M NaOH (aq)"
+        ],
+        "temperature": "80 °C",
+        "equipment": "Not specified",
+        "time": "24 hours",
+        "yield": "86.0 %",
+        "washing_method": "washed with ample water",
+        "drying_method": "dried under vacuum",
+        "characterization_techniques": [
+          "1H NMR",
+          "13C NMR"
+        ]
+      }
+    },
+    {
+      "name": "Spiro-Zn-MOF",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          "zinc nitrate tetrahydrate",
+          "benzoic acid",
+          "SATC"
+        ],
+        "temperature": "120 °C",
+        "equipment": "isothermal oven",
+        "time": "48 hours",
+        "yield": "Not specified",
+        "washing_method": "washed with anhydrous DMF, exchanged with dichloromethane (DCM)",
+        "drying_method": "dried under vacuum for 12 hours at 10-5 torr, heated at 100 ℃ for 6 hours under vacuum",
+        "characterization_techniques": [
+          "Optical microscopy",
+          "X-ray Crystallography",
+          "TGA"
+        ]
+      }
+    }
+  ]
+}

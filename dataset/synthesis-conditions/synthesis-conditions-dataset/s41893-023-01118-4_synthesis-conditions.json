@@ -1,0 +1,131 @@
+{
+  "materials": [
+    {
+      "material_name": "Zn2L(NO3)2",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Zn(NO3)2·6H2O",
+            "amount": "0.446 g",
+            "molarity": "1.5 mmol"
+          },
+          {
+            "chemical": "1,3-diaminopropane",
+            "amount": "0.111 g",
+            "molarity": "0.75 M"
+          },
+          {
+            "chemical": "2-hydroxy-5-methylisophthalaldehyde",
+            "amount": "0.246 g",
+            "molarity": "0.2 M"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "methanol",
+            "amount": "5 ml"
+          },
+          {
+            "solvent": "methanol",
+            "amount": "2 ml"
+          },
+          {
+            "solvent": "methanol",
+            "amount": "7.5 ml"
+          }
+        ],
+        "equipment": "round-bottom flask",
+        "temperature": "room temperature",
+        "time": "2 days",
+        "yield": "not specified",
+        "crystal_data": {
+          "crystal_system": "monoclinic",
+          "space_group": "P21/c",
+          "a": "19.9701(3) Å",
+          "b": "17.0535(3) Å",
+          "c": "8.0230(2) Å",
+          "alpha": "90°",
+          "beta": "97.808(2)°",
+          "gamma": "90°",
+          "volume": "2706.98(9) Å3"
+        }
+      }
+    },
+    {
+      "material_name": "Zn2L(OH)2",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Zn2L(NO3)2",
+            "amount": "7.1 mg",
+            "molarity": "10 μmol"
+          },
+          {
+            "chemical": "NaOH solution",
+            "amount": "10 ml",
+            "molarity": "0.1 M"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "deionized water",
+            "amount": "10 ml"
+          }
+        ],
+        "equipment": "not specified",
+        "temperature": "90°C",
+        "time": "12 h",
+        "yield": "not specified",
+        "crystal_data": {
+          "crystal_system": "triclinic",
+          "space_group": "P–1",
+          "a": "7.3311(7) Å",
+          "b": "8.5182(9) Å",
+          "c": "12.7374(11) Å",
+          "alpha": "90°",
+          "beta": "71.482(9)°",
+          "gamma": "87.140(7)°",
+          "volume": "740.17(13) Å3"
+        }
+      }
+    },
+    {
+      "material_name": "[Zn2L(BDC)]n",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Zn2L(OH)2",
+            "amount": "not specified",
+            "molarity": "not specified"
+          },
+          {
+            "chemical": "PET",
+            "amount": "1.9 mg",
+            "molarity": "not specified"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "deionized water",
+            "amount": "10 ml"
+          }
+        ],
+        "equipment": "not specified",
+        "temperature": "90°C",
+        "time": "12 h",
+        "yield": "not specified",
+        "crystal_data": {
+          "crystal_system": "monoclinic",
+          "space_group": "P21/n",
+          "a": "8.742(5) Å",
+          "b": "13.900(7) Å",
+          "c": "12.904(7) Å",
+          "alpha": "90°",
+          "beta": "78.938(9)°",
+          "gamma": "90°",
+          "volume": "1505.5(14) Å3"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "materials": [
+    {
+      "name": "PCN-128W",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "2.0 mL"
+          },
+          {
+            "name": "trifluoroacetic acid (TFAA)",
+            "amount": "0.2 mL"
+          }
+        ],
+        "equipment": "oven",
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "30.0 mg"
+          },
+          {
+            "name": "H4ETTC",
+            "amount": "15.0 mg"
+          }
+        ],
+        "time": "48 h",
+        "washing_method": "washed thoroughly with DMF (5 × 2 mL) then acetone (5 × 2mL)",
+        "drying_method": "dried at 65 °C for 2 h",
+        "yield": "not specified",
+        "physical_treatment": "color changes from white to yellow when compressed with a glass slide",
+        "treatment_with_HCl": "soaked in 10.0 mL DMF and 1.0 mL 6 M HCl, stirred at 100 °C for 12 h",
+        "treatment_with_TFA": "50.0 mg PCN-812Y added with 200 µL TFA and 5.0 mL DMF, heated at 85 °C for two days, 100 °C for 24 h or 120°C for 12 h"
+      }
+    },
+    {
+      "name": "PCN-128Y",
+      "synthesis_conditions": {
+        "from": "PCN-128W",
+        "treatment_with_HCl": "soaked in 10.0 mL DMF and 1.0 mL 6 M HCl, stirred at 100 °C for 12 h",
+        "washing_method": "washed with DMF (5 × 10 mL) and acetone (5 × 10 mL)",
+        "drying_method": "dried in oven at 65 °C for 1 h",
+        "yield": "not specified",
+        "color_change": "from white to yellow after treatment"
+      }
+    },
+    {
+      "name": "H4ETTC",
+      "synthesis_conditions": {
+        "steps": [
+          {
+            "name": "Tetrakis(4-bromophenyl)ethylene synthesis",
+            "chemicals_used": [
+              {
+                "name": "tetraphenylethylene",
+                "amount": "15.00 g"
+              },
+              {
+                "name": "bromine",
+                "amount": "15.0 mL"
+              }
+            ],
+            "time": "two weeks",
+            "temperature": "room temperature",
+            "yield": "5.4 g, 95%"
+          },
+          {
+            "name": "Me4ETTC synthesis",
+            "chemicals_used": [
+              {
+                "name": "Tetrakis(4-bromophenyl)ethylene",
+                "amount": "2.0 g"
+              },
+              {
+                "name": "4-methoxycarbonylphenylboronic acid",
+                "amount": "2.8 g"
+              },
+              {
+                "name": "cesium fluoride",
+                "amount": "6.0 g"
+              },
+              {
+                "name": "tetrakis(triphenylphosphine)palladium",
+                "amount": "0.4 g"
+              }
+            ],
+            "solvents": "DME",
+            "temperature": "refluxed",
+            "time": "48h",
+            "yield": "1.6 g, 80%"
+          },
+          {
+            "name": "H4ETTC synthesis from Me4ETTC",
+            "chemicals_used": [
+              {
+                "name": "Me4ETTC",
+                "amount": "1.6 g"
+              },
+              {
+                "name": "sodium hydroxide",
+                "amount": "1.7 g"
+              }
+            ],
+            "solvents": "THF, methanol, water",
+            "temperature": "refluxed overnight",
+            "yield": "1.4 g, 95%"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "materials": [
+    {
+      "name": "Si1-Pd",
+      "synthesis_conditions": {
+        "solvents": "1:1 CH2Cl2/Toluene (v/v)",
+        "chemicals_used": [
+          {
+            "name": "Si1",
+            "role": "linker"
+          },
+          {
+            "name": "Pd(PPh3)4",
+            "role": "metal precursor"
+          },
+          {
+            "name": "PPh3",
+            "amount": "32 equivalents",
+            "role": "modulator"
+          }
+        ],
+        "equipment": "Not specified",
+        "temperature": "Not specified",
+        "time": "Not specified",
+        "yield": "Not specified",
+        "drying_method": "Not specified",
+        "washing_method": "Not specified"
+      }
+    },
+    {
+      "name": "Sn1-Pd",
+      "synthesis_conditions": {
+        "solvents": "Not specified",
+        "chemicals_used": [
+          {
+            "name": "Sn1",
+            "role": "linker"
+          },
+          {
+            "name": "Pd(PPh3)4",
+            "role": "metal precursor"
+          },
+          {
+            "name": "PPh3",
+            "amount": "64 equivalents",
+            "role": "modulator"
+          }
+        ],
+        "equipment": "Not specified",
+        "temperature": "Not specified",
+        "time": "Not specified",
+        "yield": "Not specified",
+        "drying_method": "Not specified",
+        "washing_method": "Not specified"
+      }
+    },
+    {
+      "name": "Si1-Pt",
+      "synthesis_conditions": {
+        "solvents": "Not specified",
+        "chemicals_used": [
+          {
+            "name": "Si1",
+            "role": "linker"
+          },
+          {
+            "name": "Pt(PPh3)4",
+            "role": "metal precursor"
+          }
+        ],
+        "equipment": "Not specified",
+        "temperature": "Not specified",
+        "time": "Not specified",
+        "yield": "Not specified",
+        "drying_method": "Not specified",
+        "washing_method": "Not specified"
+      }
+    },
+    {
+      "name": "Si2-Pd",
+      "synthesis_conditions": {
+        "solvents": "Not specified",
+        "chemicals_used": [
+          {
+            "name": "Si2",
+            "role": "linker"
+          },
+          {
+            "name": "Pd(PPh3)4",
+            "role": "metal precursor"
+          },
+          {
+            "name": "PPh3",
+            "amount": "16 equivalents",
+            "role": "modulator"
+          }
+        ],
+        "equipment": "Not specified",
+        "temperature": "Not specified",
+        "time": "Not specified",
+        "yield": "Not specified",
+        "drying_method": "Not specified",
+        "washing_method": "Not specified"
+      }
+    },
+    {
+      "name": "Sn2-Pd",
+      "synthesis_conditions": {
+        "solvents": "Not specified",
+        "chemicals_used": [
+          {
+            "name": "Sn2",
+            "role": "linker"
+          },
+          {
+            "name": "Pd(PPh3)4",
+            "role": "metal precursor"
+          },
+          {
+            "name": "PPh3",
+            "amount": "24 equivalents",
+            "role": "modulator"
+          }
+        ],
+        "equipment": "Not specified",
+        "temperature": "Not specified",
+        "time": "Not specified",
+        "yield": "Not specified",
+        "drying_method": "Not specified",
+        "washing_method": "Not specified"
+      }
+    },
+    {
+      "name": "Sn1-Rh",
+      "synthesis_conditions": {
+        "solvents": "THF",
+        "chemicals_used": [
+          {
+            "name": "Sn1",
+            "role": "linker"
+          },
+          {
+            "name": "RhCl(CO)(PPh3)2",
+            "role": "metal precursor"
+          },
+          {
+            "name": "PPh3",
+            "amount": "16 equivalents",
+            "role": "modulator"
+          }
+        ],
+        "equipment": "Not specified",
+        "temperature": "Not specified",
+        "time": "Not specified",
+        "yield": "Not specified",
+        "drying_method": "Not specified",
+        "washing_method": "Not specified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "materials": [
+    {
+      "name": "UPC-200(Fe)-F-H2O",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "solvents": [
+          {
+            "name": "N,N’-Dimethylformamide (DMF)",
+            "amount": "2 ml"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "200 μl"
+          }
+        ],
+        "equipment": "Pyrex vial",
+        "chemicals_used": [
+          {
+            "name": "Anhydrous FeCl3",
+            "amount": "15 mg"
+          },
+          {
+            "name": "H3TTCA-F",
+            "amount": "10 mg"
+          }
+        ],
+        "time": "24 h",
+        "yield": "78%"
+      }
+    },
+    {
+      "name": "UPC-200(Fe)-F-IM",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "solvents": [
+          {
+            "name": "N,N’-Dimethylformamide (DMF)",
+            "amount": "2 ml"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "300 μl"
+          }
+        ],
+        "equipment": "Pyrex vial",
+        "chemicals_used": [
+          {
+            "name": "Anhydrous FeCl3",
+            "amount": "30 mg"
+          },
+          {
+            "name": "H3TTCA-F",
+            "amount": "20 mg"
+          },
+          {
+            "name": "imidazole (IM)",
+            "amount": "15 mg"
+          }
+        ],
+        "time": "24 h",
+        "yield": "64%"
+      }
+    },
+    {
+      "name": "UPC-200(Fe)-F-MIM",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "solvents": [
+          {
+            "name": "N,N’-Dimethylformamide (DMF)",
+            "amount": "2 ml"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "300 μl"
+          }
+        ],
+        "equipment": "Pyrex vial",
+        "chemicals_used": [
+          {
+            "name": "Anhydrous FeCl3",
+            "amount": "30 mg"
+          },
+          {
+            "name": "H3TTCA-F",
+            "amount": "20 mg"
+          },
+          {
+            "name": "4-methylimidazole (MIM)",
+            "amount": "15 mg"
+          }
+        ],
+        "time": "24 h",
+        "yield": "90%"
+      }
+    },
+    {
+      "name": "UPC-200(Fe)-F-BIM",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "solvents": [
+          {
+            "name": "N,N’-Dimethylformamide (DMF)",
+            "amount": "2 ml"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "300 μl"
+          }
+        ],
+        "equipment": "Pyrex vial",
+        "chemicals_used": [
+          {
+            "name": "Anhydrous FeCl3",
+            "amount": "30 mg"
+          },
+          {
+            "name": "H3TTCA-F",
+            "amount": "20 mg"
+          },
+          {
+            "name": "benzimidazole (BIM)",
+            "amount": "15 mg"
+          }
+        ],
+        "time": "24 h",
+        "yield": "80%"
+      }
+    },
+    {
+      "name": "UPC-200(Fe)-F-PY",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "solvents": [
+          {
+            "name": "N,N’-Dimethylformamide (DMF)",
+            "amount": "2 ml"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "300 μl"
+          }
+        ],
+        "equipment": "Pyrex vial",
+        "chemicals_used": [
+          {
+            "name": "Anhydrous FeCl3",
+            "amount": "30 mg"
+          },
+          {
+            "name": "H3TTCA-F",
+            "amount": "20 mg"
+          },
+          {
+            "name": "pyridine (PY)",
+            "amount": "50 μl"
+          }
+        ],
+        "time": "24 h",
+        "yield": "48%"
+      }
+    },
+    {
+      "name": "UPC-200(Al)-F-H2O",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "solvents": [
+          {
+            "name": "N,N’-Dimethylformamide (DMF)",
+            "amount": "7 ml"
+          },
+          {
+            "name": "formic acid",
+            "amount": "300 μl"
+          }
+        ],
+        "equipment": "Pyrex vial",
+        "chemicals_used": [
+          {
+            "name": "Al(NO3)3·9H2O",
+            "amount": "15 mg"
+          },
+          {
+            "name": "H3TTCA-F",
+            "amount": "31 mg"
+          }
+        ],
+        "time": "36 h",
+        "yield": "40%"
+      }
+    },
+    {
+      "name": "UPC-200(Al)-F-MIM",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "solvents": [
+          {
+            "name": "N,N’-Dimethylformamide (DMF)",
+            "amount": "7 ml"
+          },
+          {
+            "name": "formic acid",
+            "amount": "300 μl"
+          }
+        ],
+        "equipment": "Pyrex vial",
+        "chemicals_used": [
+          {
+            "name": "Al(NO3)3·9H2O",
+            "amount": "15 mg"
+          },
+          {
+            "name": "H3TTCA-F",
+            "amount": "31 mg"
+          },
+          {
+            "name": "4-methylimidazole (MIM)",
+            "amount": "5 mg"
+          }
+        ],
+        "time": "36 h",
+        "yield": "65%"
+      }
+    }
+  ]
+}

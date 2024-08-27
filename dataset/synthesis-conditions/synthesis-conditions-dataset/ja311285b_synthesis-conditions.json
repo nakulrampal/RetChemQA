@@ -1,0 +1,104 @@
+{
+  "materials": [
+    {
+      "material": "Ni(NTf2)2·2.5H2O",
+      "synthesis_conditions": {
+        "temperature": "reflux for three days",
+        "solvent": "Distilled water",
+        "amount_of_solvent": "50 mL",
+        "chemicals_used": [
+          {
+            "chemical": "Hydrogen trifluoromethanesulfonimide",
+            "amount": "1.95 g, 6.94 mmol, 1.00 equiv."
+          },
+          {
+            "chemical": "Nickel powder",
+            "amount": "1.01 g, 17.21 mmol, 2.50 equiv."
+          }
+        ],
+        "yield": "1.78 g, 77%",
+        "characterization": {
+          "19F_NMR": {
+            "frequency": "376 MHz",
+            "temperature": "298 K",
+            "solvent": "CD3CN",
+            "shifts": [
+              "-80.3 (s, NTf2-)"
+            ]
+          },
+          "elemental_analysis": {
+            "calculated": "C 7.24, H 0.76, N 4.22",
+            "found": "C 7.18, H 0.87, N 4.33"
+          }
+        }
+      }
+    },
+    {
+      "material": "[Fe-1](NTf2)8",
+      "synthesis_conditions": {
+        "temperature": "323 K",
+        "time": "48 hours",
+        "solvent": "CH3CN",
+        "amount_of_solvent": "9.0 mL",
+        "chemicals_used": [
+          {
+            "chemical": "Fe(NTf2)2·2H2O",
+            "amount": "133.9 mg, 0.21 mmol"
+          },
+          {
+            "chemical": "6,6´-diformyl-3,3´-bipyridine",
+            "amount": "76.3 mg, 0.36 mmol"
+          },
+          {
+            "chemical": "p-toluidine",
+            "amount": "78.4 mg, 0.73 mmol"
+          }
+        ],
+        "yield": "204.8 mg, 71%",
+        "characterization": {
+          "1H_NMR": {
+            "frequency": "400 MHz",
+            "temperature": "298 K",
+            "solvent": "CD3CN",
+            "shifts": [
+              "9.01 (s, 12H, imine)",
+              "8.60 (d, J = 8.0 Hz, 12H, 5,5'-bipyridine)",
+              "8.30 (dd, J = 1.5, 8.0 Hz, 12H, 4,4'-bipyridine)",
+              "7.07 (d, J = 8.2 Hz, 24H, 2-aniline)",
+              "7.04 (s, 12H, 2,2'-bipyridine)",
+              "5.42 (d, J = 8.2 Hz, 24H, 3-aniline)",
+              "2.35 (s, 3H, methyl)"
+            ]
+          },
+          "13C_NMR": {
+            "frequency": "126 MHz",
+            "temperature": "298 K",
+            "solvent": "CD3CN",
+            "shifts": [
+              "175.3, 160.0, 152.8, 148.4, 142.7, 140.9, 138.7, 130.9, 122.4, 122.1, 21.0"
+            ]
+          },
+          "19F_NMR": {
+            "frequency": "376 MHz",
+            "temperature": "298 K",
+            "solvent": "CD3CN",
+            "shifts": [
+              "-79.5 (s, NTf2-), -163.9 (s, hexafluorobenzene)"
+            ]
+          },
+          "ESI-MS": {
+            "m/z": [
+              "[Fe-1]+3NTf2- = 921.7",
+              "[Fe-1]+4NTf2- = 1322.1",
+              "[Fe-1]+5NTf2- = 681.1"
+            ]
+          },
+          "elemental_analysis": {
+            "calculated": "C 42.97, H 2.77, N 9.32",
+            "found": "C 41.81, H 2.92, N 8.62"
+          }
+        }
+      }
+    }
+  ]
+}

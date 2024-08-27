@@ -1,0 +1,216 @@
+{
+  "materials": [
+    {
+      "name": "4,4'-(1,10-phenanthroline-2,9-diyl)dianiline (I)",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "chemicals_used": [
+            {
+              "name": "S1",
+              "amount": "1.014 g",
+              "molarity": "3.0 mmol"
+            },
+            {
+              "name": "tert-butyl (4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)phenyl)carbamate",
+              "amount": "2.490 g",
+              "molarity": "7.8 mmol"
+            },
+            {
+              "name": "K2CO3",
+              "amount": "1.242 g",
+              "molarity": "9.0 mmol"
+            },
+            {
+              "name": "Pd(PPh3)4",
+              "amount": "347 mg",
+              "molarity": "0.3 mmol"
+            },
+            {
+              "name": "1,4-dioxane",
+              "amount": "48 mL"
+            },
+            {
+              "name": "H2O",
+              "amount": "12 mL"
+            }
+          ],
+          "temperature": "100 °C",
+          "time": "8 h",
+          "equipment": "two-necked round bottom flask",
+          "atmosphere": "N2",
+          "yield": "71%",
+          "product": "S2"
+        },
+        {
+          "step": "Conversion to I",
+          "chemicals_used": [
+            {
+              "name": "S2",
+              "amount": "562.3 mg",
+              "molarity": "1.0 mmol"
+            },
+            {
+              "name": "4 M HCl/1,4-dioxane",
+              "amount": "10 mL"
+            }
+          ],
+          "temperature": "room temperature",
+          "time": "2 h",
+          "equipment": "round bottom flask",
+          "yield": "92%",
+          "product": "I"
+        }
+      ]
+    },
+    {
+      "name": "2,9-bis(4-(dimethoxymethyl)phenyl)-1,10-phenanthroline (II)",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "chemicals_used": [
+            {
+              "name": "S1",
+              "amount": "676 mg",
+              "molarity": "2.0 mmol"
+            },
+            {
+              "name": "2-(4-(dimethoxymethyl)phenyl)-4,4,5,5-tetramethyl-1,3,2-dioxaborolane",
+              "amount": "1.45 g",
+              "molarity": "5.2 mmol"
+            },
+            {
+              "name": "K2CO3",
+              "amount": "828 mg",
+              "molarity": "6.0 mmol"
+            },
+            {
+              "name": "Pd(PPh3)4",
+              "amount": "231 mg",
+              "molarity": "0.2 mmol"
+            },
+            {
+              "name": "1,4-dioxane",
+              "amount": "32 mL"
+            },
+            {
+              "name": "H2O",
+              "amount": "8 mL"
+            }
+          ],
+          "temperature": "100 °C",
+          "time": "8 h",
+          "equipment": "two-necked round bottom flask",
+          "atmosphere": "N2",
+          "yield": "79%",
+          "product": "II"
+        }
+      ]
+    },
+    {
+      "name": "conjugated polymer",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "chemicals_used": [
+            {
+              "name": "I",
+              "amount": "11.6 mg",
+              "molarity": "0.032 mmol"
+            },
+            {
+              "name": "II",
+              "amount": "15.4 mg",
+              "molarity": "0.032 mmol"
+            },
+            {
+              "name": "1-butanol",
+              "amount": "0.1 mL"
+            },
+            {
+              "name": "1,2-dichlorobenzene",
+              "amount": "0.9 mL"
+            },
+            {
+              "name": "6 M aqueous acetic",
+              "amount": "0.1 mL"
+            }
+          ],
+          "temperature": "120 °C",
+          "time": "3 days",
+          "equipment": "Schlenk tube",
+          "drying_method": "vacuum at 100 °C for 12 h"
+        }
+      ]
+    },
+    {
+      "name": "mCOF-Ag",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "chemicals_used": [
+            {
+              "name": "I",
+              "amount": "17.4 mg",
+              "molarity": "0.048 mmol"
+            },
+            {
+              "name": "II",
+              "amount": "7.7 mg",
+              "molarity": "0.016 mmol"
+            },
+            {
+              "name": "AgBF4",
+              "amount": "3.1 mg",
+              "molarity": "0.016 mmol"
+            },
+            {
+              "name": "1-butanol",
+              "amount": "0.1 mL"
+            },
+            {
+              "name": "1,2-dichlorobenzene",
+              "amount": "0.9 mL"
+            },
+            {
+              "name": "6 M aqueous acetic",
+              "amount": "0.1 mL"
+            }
+          ],
+          "temperature": "120 °C",
+          "time": "3 days",
+          "equipment": "Schlenk tube",
+          "yield": "74%",
+          "drying_method": "vacuum at 120 °C for 8 h"
+        }
+      ]
+    },
+    {
+      "name": "wCOF-Ag",
+      "synthesis_conditions": [
+        {
+          "step": "Crystalline state polymerisation",
+          "chemicals_used": [
+            {
+              "name": "mCOF-Ag",
+              "amount": "5.0 mg"
+            },
+            {
+              "name": "1,4-dioxane",
+              "amount": "1.0 mL"
+            },
+            {
+              "name": "glyoxal solution (40 wt.% in H2O)",
+              "amount": "5.0 μL"
+            }
+          ],
+          "temperature": "70 °C",
+          "time": "5 days",
+          "equipment": "pressure tube",
+          "washing_method": "THF, H2O, EtOH, and Et2O in sequence",
+          "drying_method": "room temperature"
+        }
+      ]
+    }
+  ]
+}

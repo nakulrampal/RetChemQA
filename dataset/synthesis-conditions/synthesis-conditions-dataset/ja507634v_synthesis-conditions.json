@@ -1,0 +1,55 @@
+{
+  "materials": [
+    {
+      "name": "1·3H2O",
+      "synthesis_conditions": {
+        "method": "hydrothermal",
+        "temperature": "130 °C",
+        "time": "24 h",
+        "cooling_rate": "slowly cooled to room temperature over 168 h",
+        "chemicals_used": [
+          {
+            "name": "zinc oxide",
+            "amount": "10 mmol, 814 mg"
+          },
+          {
+            "name": "H2(ox)·2H2O",
+            "amount": "10 mmol, 1261 mg"
+          },
+          {
+            "name": "K2(ox)·H2O",
+            "amount": "10 mmol, 1842 mg"
+          },
+          {
+            "name": "adipic acid",
+            "amount": "10 mmol, 1461 mg"
+          }
+        ],
+        "solvent": {
+          "name": "distilled water",
+          "amount": "1100 mmol, 20 mL"
+        },
+        "equipment": "50 ml PTFE bottle in an autoclave",
+        "yield": "2805 mg, 83%",
+        "washing_method": "washed with distilled water",
+        "drying_method": "air-dried",
+        "elemental_analysis": {
+          "calculated": {
+            "C": "21.41%",
+            "H": "2.40%"
+          },
+          "found": {
+            "C": "21.21%",
+            "H": "2.30%"
+          }
+        }
+      }
+    },
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "drying_method": "sealed in a glass tube after drying at 80 °C in vacuum overnight"
+      }
+    }
+  ]
+}

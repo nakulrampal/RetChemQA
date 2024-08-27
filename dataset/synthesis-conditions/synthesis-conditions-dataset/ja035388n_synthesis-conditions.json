@@ -1,0 +1,83 @@
+{
+  "materials": [
+    {
+      "material": "1",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "160 °C",
+          "time": "3 days",
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "15 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "ZnUO2(OAc)4·7H2O",
+              "amount": "0.543 g, 0.5 mmol"
+            },
+            {
+              "name": "pyridine-2,3-dicarboxylic acid",
+              "amount": "0.167 g, 1 mmol"
+            },
+            {
+              "name": "triethylamine",
+              "amount": "0.1 mL"
+            }
+          ],
+          "equipment": "Teflon-lined autoclave (20 mL)",
+          "yield": "ca. 59% based on uranium",
+          "drying_method": "dried in air at ambient temperature"
+        },
+        {
+          "step": 2,
+          "alternative_reagents": [
+            {
+              "name": "Zn(OAc)2·4H2O",
+              "amount": "0.110 g, 0.5 mmol"
+            },
+            {
+              "name": "UO2(OAc)2·2H2O",
+              "amount": "0.424 g, 1 mmol"
+            },
+            {
+              "name": "nicotinic acid",
+              "amount": "0.123 g, 1 mmol"
+            }
+          ]
+        },
+        {
+          "step": 3,
+          "alternative_reagents": [
+            {
+              "name": "ZnUO2(OAc)4·7H2O",
+              "amount": "0.543 g, 0.5 mmol"
+            },
+            {
+              "name": "nicotinic acid",
+              "amount": "0.123 g, 1 mmol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "material": "ITO-polycrystalline 1 electrode",
+      "synthesis_conditions": [
+        {
+          "temperature": "573 K",
+          "time": "30 min",
+          "equipment": [
+            {
+              "name": "conducting glass ITO",
+              "details": "indium tin oxide, sheet resistance was 7 Ω/square"
+            }
+          ],
+          "additional_steps": "The polycrystalline 1-coated ITO glass was heated to establish the electrical contact among the crystal particles. The free area of the electrode was covered with epoxy resin."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "materials": [
+    {
+      "name": "Na(OCP)",
+      "synthesis_conditions": [
+        {
+          "method": "Reaction of NaPH2 with ethylene carbonate",
+          "temperature": "Not specified",
+          "solvents": [
+            {
+              "name": "ethylene carbonate",
+              "amount": "Not specified"
+            }
+          ],
+          "yield": "70 % based on P",
+          "additional_information": "Gives [Na(OCP)·(dioxane)x] (x >= 2.5)"
+        },
+        {
+          "method": "Reaction of K3P7 and CO in presence of 18-crown-6",
+          "temperature": "150 8C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "Not specified"
+            }
+          ],
+          "yield": "Not specified",
+          "additional_information": "Yields [K(18-crown-6)(OCP)]"
+        }
+      ]
+    },
+    {
+      "name": "diethyl 4-hydroxy-2,6-diphenylphosphinine-3,5-dicarboxylate (4 a)",
+      "synthesis_conditions": [
+        {
+          "method": "Reaction of Na(OCP) and phenylethynylcarboxylic ethylester (2 a) in refluxing 1,2-dimethoxyethane (DME)",
+          "temperature": "Reflux temperature of DME",
+          "solvents": [
+            {
+              "name": "1,2-dimethoxyethane (DME)",
+              "amount": "Not specified"
+            }
+          ],
+          "yield": "Excellent",
+          "additional_information": "Pale yellow crystals obtained"
+        }
+      ]
+    },
+    {
+      "name": "2-phosphapentalene-1,3-dione derivative 9",
+      "synthesis_conditions": [
+        {
+          "method": "Heating a solution of intermediate 8 to about 80 8C",
+          "temperature": "About 80 8C",
+          "solvents": "Not specified",
+          "yield": "Good",
+          "additional_information": "Slightly yellow crystalline substance obtained"
+        }
+      ]
+    },
+    {
+      "name": "sodium phosphinin-2-olate (11)",
+      "synthesis_conditions": [
+        {
+          "method": "Reaction of Na(OCP) with a-pyrone 10 in DME",
+          "temperature": "25 to 60 8C",
+          "solvents": [
+            {
+              "name": "DME",
+              "amount": "Not specified"
+            }
+          ],
+          "yield": "Almost quantitative",
+          "additional_information": "Red precipitate obtained"
+        }
+      ]
+    },
+    {
+      "name": "phosphinin-2-ol (11 H)",
+      "synthesis_conditions": [
+        {
+          "method": "Neutralization of sodium salt 11 with HCl",
+          "temperature": "Not specified",
+          "solvents": "Not specified",
+          "yield": "Not specified",
+          "additional_information": "Obtained as a slightly yellow oil"
+        }
+      ]
+    },
+    {
+      "name": "functionalized phosphinines 13 and 15",
+      "synthesis_conditions": [
+        {
+          "method": "Reaction of sodium phosphinin-2-olate 11 with chlorodiphenylphosphane oxide (12) or acroyl chloride (14)",
+          "temperature": "Not specified",
+          "solvents": "Not specified",
+          "yield": "Almost quantitative",
+          "additional_information": "13 (d 31P: 177.6, 30.2 ppm, 3JPP = 10.9 Hz) and 15 (d 31P: 177.0 ppm) obtained"
+        }
+      ]
+    }
+  ]
+}

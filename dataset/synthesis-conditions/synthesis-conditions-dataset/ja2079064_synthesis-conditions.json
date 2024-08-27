@@ -1,0 +1,101 @@
+{
+  "materials": [
+    {
+      "name": "Guest-Embedded Network 1•3",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "0.50 mL"
+          },
+          {
+            "name": "nitrobenzene/methanol solution",
+            "amount": "4.0 mL/1.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ZnI2",
+            "amount": "9.6 mg, 0.03 mmol"
+          },
+          {
+            "name": "2,4,6-tris(4-pyridyl)-1,3,5-triazine (2)",
+            "amount": "6.3 mg, 0.02 mmol"
+          },
+          {
+            "name": "(E)-2-(buta-1,3-dien-1-yl)triphenylene (3)",
+            "amount": "14.6 mg, 0.05 mmol"
+          }
+        ],
+        "yield": "84%",
+        "time": "1 week",
+        "temperature": "room temperature",
+        "washing_method": "washed with nitrobenzene",
+        "drying_method": "filtered"
+      }
+    },
+    {
+      "name": "Maleimide 4 Inclusion Complexes 1•3•4",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "cyclohexane",
+            "amount": "4 mL"
+          },
+          {
+            "name": "50 mM cyclohexane solution of maleimide 4a",
+            "amount": "4 mL"
+          },
+          {
+            "name": "toluene",
+            "for": "4b",
+            "amount": "used instead of cyclohexane"
+          },
+          {
+            "name": "CCl4",
+            "for": "4c",
+            "amount": "used instead of cyclohexane"
+          }
+        ],
+        "time": "1 d for cyclohexane soaking + 1 h for maleimide inclusion",
+        "temperature": "room temperature",
+        "method": "soaking and immersion"
+      }
+    },
+    {
+      "name": "Diels–Alder Adduct 5a",
+      "synthesis_conditions": {
+        "solvents": "cyclohexane",
+        "temperature": "reflux",
+        "time": "2 h",
+        "yield": "91%",
+        "method": "heating under reflux in cyclohexane",
+        "post_treatment": "digested with HCl, extracted, and purified by column chromatography"
+      }
+    },
+    {
+      "name": "Diels–Alder Adduct 5b",
+      "synthesis_conditions": {
+        "solvents": "toluene",
+        "temperature": "reflux",
+        "time": "168 h (7 days)",
+        "yield": "80%",
+        "method": "heating under reflux in toluene",
+        "post_treatment": "purified by column chromatography"
+      }
+    },
+    {
+      "name": "Diels–Alder Adducts 5c and 6c",
+      "synthesis_conditions": {
+        "solvents": "CCl4",
+        "temperature": "reflux",
+        "time": "24 h",
+        "yield": "5c: 36%, 6c: 46%",
+        "conversion": "94%",
+        "regioselectivity": "5c:6c = 40:60",
+        "method": "heating under reflux in CCl4",
+        "post_treatment": "purified by gel-permeation chromatography"
+      }
+    }
+  ]
+}

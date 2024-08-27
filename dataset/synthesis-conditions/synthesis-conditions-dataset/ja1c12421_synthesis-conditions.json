@@ -1,0 +1,124 @@
+{
+  "materials": [
+    {
+      "name": "NU-1000 Powder",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "8 mL"
+          }
+        ],
+        "equipment": "8-dram vial",
+        "chemicals_used": [
+          {
+            "name": "Zirconium(IV) dichloride oxide octahydrate",
+            "amount": "0.30 mmol, 98 mg"
+          },
+          {
+            "name": "benzoic acid",
+            "amount": "16.38 mmol, 2 g"
+          },
+          {
+            "name": "1,3,6,8-tetrakis(p-benzoic acid)pyrene (H4TBAPy)",
+            "amount": "0.06 mmol, 40 mg"
+          },
+          {
+            "name": "trifluoroacetic acid (TFA)",
+            "amount": "40 uL"
+          }
+        ],
+        "time": "18 h",
+        "washing_method": "washed with DMF (10 mL × 3), soaked in a solution of 12 mL of DMF and 500 μL of 8 M HCl, washed with acetone",
+        "drying_method": "thermally activated at 120 °C overnight under dynamic vacuum"
+      }
+    },
+    {
+      "name": "NU-1008 Powder",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "1.5 mL"
+          },
+          {
+            "name": "formic acid",
+            "amount": "1 mL"
+          }
+        ],
+        "equipment": "2-dram vial",
+        "chemicals_used": [
+          {
+            "name": "Zirconium oxynitrate hydrate",
+            "amount": "0.267 mmol, 66.4 mg"
+          },
+          {
+            "name": "1,4-dibromo-2,3,5,6-tetrakis(4-carboxyphenyl)benzene (H4TCPB-Br2)",
+            "amount": "0.0533 mmol, 38.2 mg"
+          }
+        ],
+        "time": "overnight (15-16 h)",
+        "washing_method": "washed with DMF (10 mL × 3), soaked in a solution of 12 mL of DMF and 500 μL of 8 M HCl, washed with acetone",
+        "drying_method": "thermally activated at 120 °C overnight under dynamic vacuum"
+      }
+    },
+    {
+      "name": "NU-1200 Powder",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "1.5-dram vial",
+        "chemicals_used": [
+          {
+            "name": "ZrOCl2·8H2O",
+            "amount": "0.07 mmol, 17 mg"
+          },
+          {
+            "name": "4,4′,4″-(2,4,6-trimethylbenzene-1,3,5-triyl)tribenzoic acid (TMTB)",
+            "amount": "0.02 mmol, 10 mg"
+          },
+          {
+            "name": "trifluoroacetic acid (TFA)",
+            "amount": "150 μL"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": "washed with DMF (10 mL × 3), soaked in a solution of 12 mL of DMF and 500 μL of 8 M HCl, washed with acetone",
+        "drying_method": "thermally activated at 120 °C overnight under dynamic vacuum"
+      }
+    },
+    {
+      "name": "Mo-supported Catalyst Powder",
+      "synthesis_conditions": {
+        "temperature": "60 °C",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "1.5-dram vial",
+        "chemicals_used": [
+          {
+            "name": "Bis-(acetylacetonato)dioxomolybdenum(VI) (MoO2(acac)2)",
+            "amount": "0.04 mmol, 13.05 mg"
+          },
+          {
+            "name": "MOF support",
+            "amount": "0.01 mmol, 21.77 mg for NU-1000, 22.4 mg for NU-1008, and 20.77 mg for NU-1200"
+          }
+        ],
+        "time": "7 h for NU-1000, 1 h for NU-1008, and 24 h for NU-1200",
+        "washing_method": "washed with methanol three times followed by acetone several times",
+        "drying_method": "thermally activated at 100 °C for 8 h under dynamic vacuum"
+      }
+    }
+  ]
+}

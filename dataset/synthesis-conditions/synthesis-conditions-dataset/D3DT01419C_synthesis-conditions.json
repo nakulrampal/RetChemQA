@@ -1,0 +1,68 @@
+{
+  "materials": [
+    {
+      "name": "Cu(bodc)(bpy)0.5·2H2O (SDMOF-1)",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": ["DMF", "H2O"],
+        "amount_of_each_solvent": {
+          "DMF": "0.6 mL",
+          "H2O": "1.2 mL"
+        },
+        "equipment": ["hydrothermal tubes", "oven"],
+        "chemicals_used": {
+          "bicyclo [2.2.2] octane-1,4-dicarboxylic acid (H2bodc)": "0.022 mmol, 4.36 mg",
+          "bipyridine (bpy)": "0.012 mmol, 1.87 mg",
+          "Cu(NO3)2·3H2O": "not specified"
+        },
+        "time": "48 h",
+        "yield": "64 %",
+        "additional_steps": [
+          {
+            "step": "sonication",
+            "details": {
+              "duration": "10 minutes",
+              "before_adding_Cu(NO3)2·3H2O": true
+            }
+          },
+          {
+            "step": "sonication",
+            "details": {
+              "duration": "30 minutes",
+              "after_adding_Cu(NO3)2·3H2O": true
+            }
+          }
+        ],
+        "heating_rate": {
+          "up": "12 °C/min",
+          "down": "6 °C/min"
+        }
+      }
+    },
+    {
+      "name": "activated SDMOF-1",
+      "synthesis_conditions": {
+        "washing_method": "soaked in anhydrous methanol for 3 days with fresh methanol 6 times",
+        "drying_method": "vacuumed at room temperature till the pressure below to 5 μmHg",
+        "temperature": "140 °C",
+        "time": "12 h",
+        "vacuum_condition": "below 5 μmHg"
+      }
+    },
+    {
+      "name": "SDMOF-1@C2H2",
+      "synthesis_conditions": {
+        "equipment": ["glass tube", "ASAP 2020"],
+        "temperature": "140 °C",
+        "time": "12 h",
+        "gas_introduction": {
+          "gas": "C2H2",
+          "pressure": "1 bar",
+          "temperature": "298 K",
+          "duration": "3 h"
+        },
+        "additional_procedure": "The crystals were picked out and covered with the degassed oil in the glove box after 3 h for single crystal X-ray diffraction measurements."
+      }
+    }
+  ]
+}

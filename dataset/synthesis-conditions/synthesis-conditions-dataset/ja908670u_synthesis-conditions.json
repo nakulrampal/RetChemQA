@@ -1,0 +1,81 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "CH3CN",
+            "amount": "10 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "10 mL"
+          },
+          {
+            "name": "CH3CN",
+            "amount": "4 mL",
+            "purpose": "middle buffer layer"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(Bu4N)[(Tp)Fe(CN)3]",
+            "amount": "118 mg, 0.2 mmol"
+          },
+          {
+            "name": "Fe(ClO4)2·6H2O",
+            "amount": "36 mg, 0.1 mmol"
+          }
+        ],
+        "time": "3 days",
+        "washing_method": "H2O and CH3CN",
+        "yield": "31 mg (33%)",
+        "IR": [
+          "ν(B-H) 2514",
+          "ν(C≡N) 2129 and 2157"
+        ]
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "temperature": "150°C",
+        "atmosphere": "N2",
+        "starting_material": "1",
+        "IR": [
+          "ν(B-H) 2509",
+          "ν(C≡N) 2149"
+        ],
+        "crystal_data": {
+          "temperature": "123 (2) K",
+          "space_group": "Ibam",
+          "a": "14.438 (3) Å",
+          "b": "18.437 (4) Å",
+          "c": "12.997 (3) Å",
+          "V": "3459.6 (12) Å3",
+          "Z": "4",
+          "Dc": "1.445 g/cm3",
+          "µ": "1.346 mm−1",
+          "Rint": "0.0843",
+          "final_R1": "0.1089 (I ≥ 2σ)",
+          "wR2": "0.2007 (all data)",
+          "GOF": "1.107",
+          "CCDC_number": "CCDC-742306"
+        }
+      }
+    },
+    {
+      "name": "1a",
+      "synthesis_conditions": {
+        "starting_material": "2",
+        "exposure_conditions": "vapor of mixed H2O and CH3CN for a week",
+        "IR": [
+          "ν(B-H) 2514",
+          "ν(C≡N) 2129 and 2157"
+        ]
+      }
+    }
+  ]
+}

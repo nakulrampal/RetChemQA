@@ -1,0 +1,47 @@
+{
+  "materials": [
+    {
+      "name": "1AS",
+      "synthesis_conditions": {
+        "solvents": "ethanol",
+        "chemicals_used": [
+          {
+            "name": "bipydz",
+            "amount": "9 mg",
+            "molarity": "0.038 mmol"
+          },
+          {
+            "name": "KAu(CN)2",
+            "amount": "22 mg",
+            "molarity": "0.076 mmol"
+          },
+          {
+            "name": "FeClO4·x H2O",
+            "amount": "10 mg",
+            "molarity": "0.039 mmol"
+          }
+        ],
+        "time": "several weeks",
+        "method": "slow diffusion of ethanol solutions of bipydz, KAu(CN)2, and FeClO4·x H2O",
+        "crystal_data": [
+          {
+            "state": "1AS-v",
+            "CCDC": "1482906"
+          },
+          {
+            "state": "1AS-i",
+            "CCDC": "1482907"
+          },
+          {
+            "state": "1AS-iv",
+            "CCDC": "1482908"
+          },
+          {
+            "state": "1AS-iii",
+            "CCDC": "1482909"
+          }
+        ]
+      }
+    }
+  ]
+}

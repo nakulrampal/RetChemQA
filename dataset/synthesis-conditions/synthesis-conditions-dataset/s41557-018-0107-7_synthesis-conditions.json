@@ -1,0 +1,69 @@
+{
+  "CrCl2(pyz)2": {
+    "synthesis_conditions": {
+      "temperature": "200 °C",
+      "solvents": [
+        {
+          "name": "N,N-dimethylformamide",
+          "amount": "20 ml aliquot"
+        },
+        {
+          "name": "acetonitrile",
+          "amount": "2 x 20 ml"
+        }
+      ],
+      "equipment": "50 ml Teflon-lined stainless-steel autoclave reactor",
+      "chemicals_used": [
+        {
+          "name": "CrCl2",
+          "amount": "0.20 g, 1.6 mmol"
+        },
+        {
+          "name": "pyrazine",
+          "amount": "2.0 g, 25 mmol"
+        }
+      ],
+      "time": "24 h",
+      "washing_method": "washed with N,N-dimethylformamide and acetonitrile then dried in vacuo",
+      "drying_method": "dried in vacuo",
+      "yield": "70–75%"
+    }
+  },
+  "Cr(III)": {
+    "synthesis_conditions": {
+      "temperature": "boiled until vapours reached 114 °C",
+      "solvents": [
+        {
+          "name": "methanol",
+          "amount": "4 ml"
+        },
+        {
+          "name": "pyridine",
+          "amount": "15 ml"
+        },
+        {
+          "name": "1 M aqueous perchloric acid",
+          "amount": "25 ml"
+        }
+      ],
+      "chemicals_used": [
+        {
+          "name": "trans-[CrCl2(CH3OH)4]Cl",
+          "amount": "286.5 mg, 1.00 mmol"
+        },
+        {
+          "name": "70% perchloric acid",
+          "amount": "0.1 g, ca. 3 droplets"
+        },
+        {
+          "name": "AgClO4",
+          "amount": "207.3 mg, 1.00 mmol"
+        }
+      ],
+      "time": "not specified",
+      "washing_method": "washed with water and diethyl ether then air-dried",
+      "drying_method": "air-dried",
+      "yield": "64.2% based on Cr"
+    }
+  }
+}

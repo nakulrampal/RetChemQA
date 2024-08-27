@@ -1,0 +1,42 @@
+{
+  "materials": [
+    {
+      "name": "1a",
+      "synthesis_method": "Thermal Polymerization",
+      "conditions": {
+        "temperature": "300°C",
+        "duration": "1 hour",
+        "atmosphere": "vacuum",
+        "solvents": "none",
+        "additional_information": "The starting material should occupy less than one-fifth of the tube space after sealing."
+      },
+      "yield": "not specified",
+      "characterization_methods": [
+        "N2 sorption isotherm plots",
+        "X-ray photoelectron spectroscopy (XPS)",
+        "Infrared (IR) spectrum",
+        "Superconducting quantum interference device (SQUID) measurements",
+        "Inductively coupled plasma-optical emission spectrometry (ICP-OES)"
+      ]
+    },
+    {
+      "name": "1b",
+      "synthesis_method": "HOTf-Mediated Polymerization",
+      "conditions": {
+        "temperature": "60°C",
+        "duration": "20 hours",
+        "atmosphere": "N2",
+        "solvents": "acetonitrile",
+        "additional_information": "HOTf was introduced into the 1b solid through the vapor form."
+      },
+      "yield": "not specified",
+      "characterization_methods": [
+        "N2 sorption isotherm plots",
+        "X-ray photoelectron spectroscopy (XPS)",
+        "Infrared (IR) spectrum",
+        "Superconducting quantum interference device (SQUID) measurements",
+        "Inductively coupled plasma-optical emission spectrometry (ICP-OES)"
+      ]
+    }
+  ]
+}

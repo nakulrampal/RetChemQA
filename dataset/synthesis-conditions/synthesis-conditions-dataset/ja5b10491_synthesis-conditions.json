@@ -1,0 +1,65 @@
+{
+  "materials": [
+    {
+      "material": "1⊃DMF",
+      "synthesis_conditions": [
+        {
+          "step": "Powder Synthesis",
+          "temperature": "120 °C",
+          "solvents": "anhydrous DMF/methanol",
+          "solvent_amounts": "30 mL of anhydrous DMF/methanol (80/20 v/v)",
+          "chemicals_used": [
+            {
+              "chemical": "anhydrous MnCl2",
+              "amount": "37.5 mg"
+            },
+            {
+              "chemical": "H2bdc",
+              "amount": "99.69 mg"
+            },
+            {
+              "chemical": "dpe",
+              "amount": "328 mg"
+            }
+          ],
+          "time": "24 h",
+          "equipment": "50 mL glass bottle",
+          "yield": "0.140 g, quantitative with respect to Mn",
+          "washing_method": "washed with DMF",
+          "drying_method": "dried under vacuum"
+        },
+        {
+          "step": "Single Crystals",
+          "temperature": "80 °C",
+          "solvents": "DMF/MeOH",
+          "solvent_amounts": "0.5 mL of MnClO4 solution in DMF (40 mM), 0.5 mL of H2bdc in DMF (40 mM), 0.5 mL of DMF/MeOH (80/20 v/v) as buffer layer, 1 mL of dpe in MeOH (20 mM)",
+          "equipment": "glass tube 0.3 cm in diameter",
+          "time": "overnight"
+        }
+      ]
+    },
+    {
+      "material": "1'",
+      "synthesis_conditions": [
+        {
+          "step": "Powder Synthesis",
+          "temperature": "180 °C",
+          "time": "5 h",
+          "equipment": "under dynamic vacuum",
+          "notes": "1⊃DMF was heated to afford 1'. It is stable and can be stored under ambient conditions."
+        }
+      ]
+    },
+    {
+      "material": "2",
+      "synthesis_conditions": [
+        {
+          "step": "Photodimerization of 1'",
+          "equipment": "Luz-Chem photoreactor with top and side lamps",
+          "time": "24 h, with flipping and mixing cycles",
+          "notes": "Approximately 6 mg of 1' in powder form was placed between two glass microscopic slides and irradiated with UV radiation (λmax = 350 nm)."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "materials": [
+    {
+      "material_id": "1",
+      "synthesis_info": {
+        "chemicals_used": [
+          "4,4‘-disulfo-2,2‘-bipyridine N,N‘-dioxide (H2L)",
+          "EuCl3 x 6H2O",
+          "BaCl2 x 2H2O"
+        ],
+        "solvents": [
+          "Water",
+          "Acetone"
+        ],
+        "synthesis_steps": [
+          "H2L (200 mg, 0.520 mmol) was dissolved in water (2 mL) and sonicated for 5 minutes.",
+          "EuCl3 x 6H2O (63.55 mg, 0.173 mmol) was dissolved in water (2 mL) and sonicated for 5 minutes.",
+          "The two solutions were mixed and warmed on a heating mantle for 10 minutes.",
+          "BaCl2 x 2H2O (84.74 mg, 0.347 mmol) was dissolved in water (5 mL).",
+          "The barium solution was mixed with the warm europium(III) tris(4,4’-disulfonate 2,2’-bipyridine 1,1’-dioxide) solution, forming a white precipitate.",
+          "Single crystals were grown by vapor diffusion using 2-3 mL of the final solution mixture and acetone as the diffusing solvent."
+        ],
+        "yield": "238 mg, 0.426 mmol, 82%",
+        "characterization_methods": [
+          "IR spectroscopy",
+          "Elemental analysis",
+          "X-ray crystallography"
+        ],
+        "IR_spectroscopy_data": "3437, 1636, 1464, 1413, 1244, 1130, 1104, 1044, 892, 846, 717, 700, 594 cm-1",
+        "elemental_analysis_calculated": "C: 21.43, H: 2.28, N: 5.00",
+        "elemental_analysis_observed": "C: 22.12, H: 2.10, N: 4.93",
+        "xray_crystallography_info": {
+          "equipment": "Bruker SMART APEX CCD diffractometer",
+          "radiation": "Mo Kα, λ = 0.71073 Å",
+          "scan_mode": "ω scan mode",
+          "theta_range": "3° < 2θ < 57.3°",
+          "structure_solution_method": "Direct methods",
+          "refinement_method": "Full-matrix least squares on F2",
+          "absorption_correction": "SADABS routine",
+          "atom_location": "Europium, barium, and sulfur atoms located first; remaining atoms found by difference Fourier maps",
+          "hydrogen_atoms": "Calculated in ideal positions; occupancy of one H atom set to zero for coordinated water molecules"
+        },
+        "notes": "Upon dehydration, the solid becomes highly hygroscopic and rapidly absorbs moisture from the air. The IR and thermal analyses are consistent with a partially rehydrated sample related to compound 1."
+      }
+    }
+  ]
+}

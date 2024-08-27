@@ -1,0 +1,150 @@
+{
+  "materials": [
+    {
+      "name": "Mn(BDC)(L1) (1)",
+      "synthesis_conditions": {
+        "temperature": "120°C",
+        "solvents": [
+          {
+            "name": "dimethyl formamide (DMF)",
+            "amount": "6.0ml"
+          }
+        ],
+        "equipment": "17ml Teflon-lined stainless steel container",
+        "chemicals_used": [
+          {
+            "name": "Mn(NO3)2 aqueous solution",
+            "amount": "50µl",
+            "concentration": "50% wt."
+          },
+          {
+            "name": "1,4-benzenedicarboxylic acid (BDC)",
+            "amount": "0.0221g",
+            "molarity": "0.13 mmol"
+          },
+          {
+            "name": "L1 (pyridine N-oxide (PNO))",
+            "amount": "0.0124g",
+            "molarity": "0.13 mmol"
+          }
+        ],
+        "time": "12h",
+        "yield": "91.3%",
+        "drying_method": "room temperature",
+        "washing_method": "not specified"
+      }
+    },
+    {
+      "name": "Mn(BDC)(L2) (2) and Mn(BDC)(L3) (3)",
+      "synthesis_conditions": {
+        "temperature": "120°C",
+        "solvents": [
+          {
+            "name": "dimethyl formamide (DMF)",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "17ml Teflon-lined stainless steel container",
+        "chemicals_used": [
+          {
+            "name": "Mn(NO3)2 aqueous solution",
+            "amount": "not specified",
+            "concentration": "not specified"
+          },
+          {
+            "name": "1,4-benzenedicarboxylic acid (BDC)",
+            "amount": "not specified",
+            "molarity": "not specified"
+          },
+          {
+            "name": "L2 (4-methyl-pyridine N-oxide) or L3 (3,5-dimethyl-pyridine N-oxide)",
+            "amount": "stoichiometric amounts",
+            "molarity": "not specified"
+          }
+        ],
+        "time": "not specified",
+        "yield": "90.6% for 2 and 90.1% for 3",
+        "drying_method": "room temperature",
+        "washing_method": "not specified"
+      }
+    },
+    {
+      "name": "Mn2(BDC)2(L4)·(DMF)2 (4)",
+      "synthesis_conditions": {
+        "temperature": "120°C",
+        "solvents": [
+          {
+            "name": "dimethyl formamide (DMF)",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "not specified",
+        "chemicals_used": [
+          {
+            "name": "L4 (4,4’-bipyridine-N,N’-dioxide (BPNO))",
+            "amount": "corresponding amount",
+            "molarity": "not specified"
+          }
+        ],
+        "time": "6h",
+        "yield": ">80%",
+        "drying_method": "room temperature",
+        "washing_method": "not specified"
+      }
+    },
+    {
+      "name": "Mn2(BDC)2(L4)·(Ethanol)2 (4eth)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "ethanol",
+            "amount": "not specified"
+          }
+        ],
+        "time": "2 days",
+        "method": "soaking mechanically purified 4 in ethanol",
+        "formula": "Mn2(BDC)2(L4)·(Ethanol)2"
+      }
+    },
+    {
+      "name": "Mn2(BDC)2(L4) (4vac)",
+      "synthesis_conditions": {
+        "temperature": "120°C",
+        "pressure": "10-2 torr",
+        "time": "5h",
+        "method": "evacuation process on mechanically purified 4",
+        "formula": "Mn2(BDC)2(L4)"
+      }
+    },
+    {
+      "name": "Adsorption and separation of C6-C8 aromatics using 4vac",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "benzene, toluene, xylenes, ethylbenzene, chlorobenzene",
+            "amount": "20.0 ml"
+          }
+        ],
+        "time": "8h for adsorption, 2 days for separation",
+        "method": "immersing 4vac into liquids",
+        "results": [
+          {
+            "product": "4ben",
+            "formula": "[Mn2(bpno)(bdc)2]·(benzene)2",
+            "uptake": "23.7 wt. %"
+          },
+          {
+            "product": "4tol",
+            "formula": "[Mn2(bpno)(bdc)2]·(toluene)2",
+            "uptake": "27.9 wt. %"
+          },
+          {
+            "product": "4chl",
+            "formula": "[Mn2(bpno)(bdc)2]·(chlorobenzene)2",
+            "uptake": "34.9 wt. %"
+          }
+        ]
+      }
+    }
+  ]
+}

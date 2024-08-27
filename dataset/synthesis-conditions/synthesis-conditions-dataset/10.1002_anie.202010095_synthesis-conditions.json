@@ -1,0 +1,38 @@
+{
+  "materials": [
+    {
+      "name": "polymeric complex [{Au(C6F5)2}2{Pb(terpy)}]n (1)",
+      "synthesis_conditions": {
+        "precursors": "[Au2Ag2(C6F5)4-(OEt2)2]n, PbCl2, terpy",
+        "solvent": "methanol",
+        "molar_ratio": "1:1:1",
+        "reaction_description": "Reacting the precursors in methanol in the specified molar ratio leads to the formation of the polymeric complex."
+      }
+    },
+    {
+      "name": "cutting piece complex [{Au-(C6F5)2}{PbCl(terpy)}] (2)",
+      "synthesis_conditions": {
+        "precursors": "[Au2Ag2(C6F5)4-(OEt2)2]n, PbCl2, terpy",
+        "solvent": "methanol",
+        "molar_ratio": "0.5:1:1",
+        "reaction_description": "Using the same precursors in methanol with a 0.5:1:1 molar ratio leads to the formation of the cutting piece complex."
+      }
+    },
+    {
+      "name": "decanuclear species [{Au(C6F5)2}6{PbCl(terpy)}2{Pb-(terpy)}2] (3)",
+      "synthesis_conditions": {
+        "precursors": "[Au2Ag2(C6F5)4(OEt2)2]n, PbCl2, terpy",
+        "solvent": "methanol",
+        "molar_ratio": "3:4:4",
+        "reaction_description": "Obtained directly from the precursors in methanol with the specified molar ratios."
+      }
+    },
+    {
+      "name": "decanuclear species [{Au(C6F5)2}6{PbCl(terpy)}2{Pb-(terpy)}2] (3) alternative synthesis",
+      "synthesis_conditions": {
+        "precursors": "equimolecular amounts of complexes 1 and 2",
+        "reaction_description": "Mixing equimolecular amounts of complexes 1 and 2 results in the formation of the decanuclear species."
+      }
+    }
+  ]
+}

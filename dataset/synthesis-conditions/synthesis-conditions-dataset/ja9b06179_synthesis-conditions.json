@@ -1,0 +1,185 @@
+{
+  "materials": [
+    {
+      "name": "NU-1600",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis of single crystals (NU-1600-SC)",
+          "solvents": [
+            {
+              "name": "DEF",
+              "amount": "0.5 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "PET-1",
+              "amount": "1 mg"
+            },
+            {
+              "name": "ZrCl4",
+              "amount": "2 mg"
+            },
+            {
+              "name": "Formic acid",
+              "amount": "1 mL"
+            },
+            {
+              "name": "TFA",
+              "amount": "100 µL"
+            }
+          ],
+          "equipment": "2-dram vial",
+          "temperature": "130 °C",
+          "time": "4 days"
+        },
+        {
+          "step": "Synthesis of microcrystalline powder (NU-1600-P)",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "4 mL"
+            },
+            {
+              "name": "Formic acid",
+              "amount": "4 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "PET-1",
+              "amount": "30 mg"
+            },
+            {
+              "name": "ZrOCl2·8H2O",
+              "amount": "60 mg"
+            }
+          ],
+          "equipment": "8-dram vial",
+          "temperature": "120 °C",
+          "time": "18 h",
+          "washing_method": "6 times with DMF, then with acetone",
+          "drying_method": "120°C under vacuum for 12 h"
+        }
+      ]
+    },
+    {
+      "name": "NU-1601",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis of single crystals (NU-1601-SC)",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "0.5 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "PET-2",
+              "amount": "1 mg"
+            },
+            {
+              "name": "ZrCl4",
+              "amount": "2 mg"
+            },
+            {
+              "name": "Formic acid",
+              "amount": "1 mL"
+            }
+          ],
+          "equipment": "2-dram vial",
+          "temperature": "130 °C",
+          "time": "5 days"
+        },
+        {
+          "step": "Synthesis of microcrystalline powder (NU-1601-P)",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "10 mL"
+            },
+            {
+              "name": "Formic acid",
+              "amount": "4 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "PET-2",
+              "amount": "40 mg"
+            },
+            {
+              "name": "ZrCl4",
+              "amount": "80 mg"
+            }
+          ],
+          "equipment": "8-dram vial",
+          "temperature": "120 °C",
+          "time": "24 h",
+          "washing_method": "6 times with DMF, then with ethanol",
+          "drying_method": "Supercritical CO2 activation, then 120°C under vacuum for 12 h"
+        }
+      ]
+    },
+    {
+      "name": "NU-1602",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis of single crystals (NU-1602-SC)",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "0.5 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "PET-3",
+              "amount": "1 mg"
+            },
+            {
+              "name": "ZrCl4",
+              "amount": "2 mg"
+            },
+            {
+              "name": "Formic acid",
+              "amount": "0.5 mL"
+            }
+          ],
+          "equipment": "2-dram vial",
+          "temperature": "130 °C",
+          "time": "4 days"
+        },
+        {
+          "step": "Synthesis of microcrystalline powder (NU-1602-P)",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "10 mL"
+            },
+            {
+              "name": "Formic acid",
+              "amount": "4 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "PET-3",
+              "amount": "40 mg"
+            },
+            {
+              "name": "ZrCl4",
+              "amount": "80 mg"
+            }
+          ],
+          "equipment": "8-dram vial",
+          "temperature": "120 °C",
+          "time": "24 h",
+          "washing_method": "6 times with DMF, then with ethanol",
+          "drying_method": "Supercritical CO2 activation, then 120°C under vacuum for 12 h"
+        }
+      ]
+    }
+  ]
+}

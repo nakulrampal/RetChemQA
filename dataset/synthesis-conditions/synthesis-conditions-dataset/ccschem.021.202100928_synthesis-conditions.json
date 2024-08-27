@@ -1,0 +1,77 @@
+{
+  "materials": [
+    {
+      "name": "(Et2NH2)3[Zn5Cl4(sbbta)3]·6DEF (2)",
+      "synthesis_conditions": [
+        {
+          "step": "Single-crystal sample synthesis",
+          "temperature": "140 °C",
+          "solvents": [
+            {
+              "name": "N,N-diethylformamide (DEF)",
+              "amount": "2.00 mL"
+            },
+            {
+              "name": "methanol (MeOH)",
+              "amount": "0.30 mL"
+            },
+            {
+              "name": "hydrochloric acid (HCl, 12 M)",
+              "amount": "0.02 mL"
+            }
+          ],
+          "equipment": "15-mL Teflon reactor",
+          "chemicals_used": [
+            {
+              "name": "sodium spiroborate bis-benzotriazole (NaH2sbbta)",
+              "amount": "10.0 mg, 0.03 mmol"
+            },
+            {
+              "name": "ZnCl2",
+              "amount": "8.2 mg, 0.06 mmol"
+            }
+          ],
+          "time": "24 h",
+          "cooling_rate": "5 °C h−1",
+          "washing_method": "Not specified",
+          "drying_method": "Not specified",
+          "yield": "Not specified"
+        },
+        {
+          "step": "Microcrystalline sample synthesis",
+          "temperature": "140 °C",
+          "solvents": [
+            {
+              "name": "N,N-diethylformamide (DEF)",
+              "amount": "5.00 mL"
+            },
+            {
+              "name": "methanol (MeOH)",
+              "amount": "5.00 mL"
+            },
+            {
+              "name": "hydrochloric acid (HCl, 12 M)",
+              "amount": "0.05 mL"
+            }
+          ],
+          "equipment": "15-mL Teflon reactor",
+          "chemicals_used": [
+            {
+              "name": "sodium spiroborate bis-benzotriazole (NaH2sbbta)",
+              "amount": "49.8 mg, 0.15 mmol"
+            },
+            {
+              "name": "ZnCl2",
+              "amount": "34.1 mg, 0.25 mmol"
+            }
+          ],
+          "time": "24 h",
+          "cooling_rate": "5 °C h−1",
+          "washing_method": "washed with DEF",
+          "drying_method": "dried at room temperature",
+          "yield": "73.2 mg, ca. 66%"
+        }
+      ]
+    }
+  ]
+}

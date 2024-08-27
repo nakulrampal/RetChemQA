@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the process described for the synthesis of lithium diethyl(2,2,6,6-tetramethylpiperidido)zincate 6?",
+      "answer": "The synthesis involves adding nBuLi to a solution of 2,2,6,6-tetramethylpiperidine in hexane under N2 at –78 ºC, followed by the addition of Et2Zn. The mixture is then allowed to warm to room temperature, resulting in the formation of 6.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the observed NMR shifts for the lithium ethylbis(N,N-diisopropylnaphthamido-2)zincate-bis(THF) complex 7 in C7D8 at 47 ºC?",
+      "answer": "The observed NMR shifts for complex 7 in C7D8 at 47 ºC include signals at 8.44, 8.42, 8.37, 7.82-7.62, 7.30-7.19, 3.97, 3.86, 3.54, 3.45, 3.38, 3.20, 2.78, 1.87, 1.66, 1.55, 1.44, 1.40, 1.38, 1.22, 1.10, 1.03, 0.82, 0.66, 0.64, 0.56, 0.45, and 0.31 ppm.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of THF in the synthesis of lithium tris(N,N-diisopropylbenzamido-2)zincate-THF complex 8?",
+      "answer": "THF acts as a solvent in the synthesis of complex 8, facilitating the reaction between N,N-diisopropylbenzamide and lithium zincate 6 at –78 ºC, and also participates in the final product as a ligand, coordinating to the lithium ion.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Based on the synthesis conditions, is the formation of complex 6 favored at room temperature or at –78 ºC?",
+      "answer": "The formation of complex 6 is initiated at –78 ºC but the mixture is allowed to warm to room temperature for the reaction to proceed, indicating that room temperature is favorable for the formation of complex 6.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of lithium diethyl(2,2,6,6-tetramethylpiperidido)zincate 6 requires the use of a strong Lewis acid.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The NMR spectroscopy data for complex 7 suggests the presence of multiple solution species.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used for the DFT calculations mentioned in the supporting information?",
+      "answer": "The DFT calculations were carried out using the Gaussian 03 program package with the B3LYP hybrid density functional method.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the intrinsic reaction coordinate (IRC) method in the context of the DFT calculations?",
+      "answer": "The IRC method is used to track minimum energy paths from transition structures to the corresponding local minima, helping to validate the proposed reaction mechanisms by ensuring that the transition states connect the intended reactants and products.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of complex 7 involves a dibasic reaction mechanism.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Based on the synthesis conditions provided, which complex is expected to have the highest yield, 6, 7, or 8?",
+      "answer": "Complex 6 is expected to have the highest yield based on the synthesis conditions provided, with a reported yield of up to 92%.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

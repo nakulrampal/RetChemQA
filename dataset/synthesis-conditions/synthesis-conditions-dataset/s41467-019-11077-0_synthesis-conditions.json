@@ -1,0 +1,54 @@
+{
+  "materials": [
+    {
+      "name": "Li2Fe(C2O4)2",
+      "synthesis_conditions": {
+        "method": "Hydrothermal",
+        "temperature": "190 °C",
+        "time": "7 days",
+        "solvents": [
+          {
+            "name": "Distilled water",
+            "amount": "Not specified"
+          },
+          {
+            "name": "Acetone",
+            "amount": "Not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "FeCl2·4H2O",
+            "amount": "Not specified"
+          },
+          {
+            "name": "H2C2O4·2H2O",
+            "amount": "Not specified"
+          },
+          {
+            "name": "Li2CO3",
+            "amount": "Not specified"
+          }
+        ],
+        "washing_method": "Repeatedly washed with distilled water and acetone",
+        "drying_method": "Dried at 60 °C overnight",
+        "yield": "Not specified",
+        "equipment": "Teflon-lined autoclave"
+      }
+    },
+    {
+      "name": "Li2Fe(C2O4)2 (LFOx)",
+      "synthesis_conditions": {
+        "method": "Ball-milling",
+        "chemicals_used": [
+          {
+            "name": "Kejten black carbon",
+            "amount": "30% w/w"
+          }
+        ],
+        "equipment": "Fritsch Pulverisette 8 mill",
+        "time": "30 min"
+      }
+    }
+  ]
+}

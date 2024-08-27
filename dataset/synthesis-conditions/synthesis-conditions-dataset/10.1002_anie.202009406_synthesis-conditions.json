@@ -1,0 +1,43 @@
+{
+  "materials": [
+    {
+      "name": "potassium silagermenide 3·K(THF)",
+      "synthesis_conditions": {
+        "precursors": ["germylene 1", "KC8"],
+        "solvent": "THF",
+        "temperature": "ambient",
+        "equipment": ["NMR"],
+        "yield": "76%",
+        "route": "I"
+      }
+    },
+    {
+      "name": "potassium silagermenide 3·K(18-c-6)",
+      "synthesis_conditions": {
+        "precursors": ["digermene 2", "KC8"],
+        "solvent": "benzene",
+        "temperature": "up to 180 8C",
+        "equipment": ["NMR"],
+        "yield": "65% (increases up to 90% with digermene 2 as precursor)",
+        "route": "I and II"
+      }
+    },
+    {
+      "name": "silylsilagermene 4 a",
+      "synthesis_conditions": {
+        "precursors": ["3·K(THF)", "Ph3SiCl"],
+        "temperature": "ambient",
+        "yield": "81%",
+        "equipment": ["NMR", "X-ray diffraction"]
+      }
+    },
+    {
+      "name": "phosphanylsilagermene 4 b",
+      "synthesis_conditions": {
+        "precursors": ["3·K(THF)", "(iPr2N)2PCl"],
+        "yield": "79%",
+        "equipment": ["NMR", "X-ray diffraction"]
+      }
+    }
+  ]
+}

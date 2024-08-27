@@ -1,0 +1,256 @@
+{
+  "materials": [
+    {
+      "name": "PCN-700",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "DMF",
+        "solvent_amounts": "20 mL",
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "200 mg"
+          },
+          {
+            "name": "H2Me2-BPDC",
+            "amount": "100 mg"
+          },
+          {
+            "name": "trifluoroacetic acid",
+            "amount": "1.0 mL"
+          }
+        ],
+        "time": "72 h",
+        "yield": "68%"
+      }
+    },
+    {
+      "name": "PCN-608-NH2",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "DMF",
+        "solvent_amounts": "3 mL",
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "20 mg"
+          },
+          {
+            "name": "4,4’-NH2-H4TPCB",
+            "amount": "10 mg"
+          },
+          {
+            "name": "trifluoroacetic acid",
+            "amount": "0.1 mL"
+          }
+        ],
+        "time": "72 h",
+        "yield": "66%"
+      }
+    },
+    {
+      "name": "PCN-608-OMe",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "DMF",
+        "solvent_amounts": "3 mL",
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "20 mg"
+          },
+          {
+            "name": "4,4’-OMe-H4TPCB",
+            "amount": "10 mg"
+          },
+          {
+            "name": "trifluoroacetic acid",
+            "amount": "0.1 mL"
+          }
+        ],
+        "time": "72 h",
+        "yield": "73%"
+      }
+    },
+    {
+      "name": "PCN-700-BDC",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": "DMF",
+        "solvent_amounts": "40 mL",
+        "chemicals_used": [
+          {
+            "name": "PCN-700",
+            "amount": "100 mg"
+          },
+          {
+            "name": "H2BDC",
+            "amount": "200 mg"
+          }
+        ],
+        "time": "24 h",
+        "yield": "96%"
+      }
+    },
+    {
+      "name": "PCN-700-MPDC",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": "DMF",
+        "solvent_amounts": "40 mL",
+        "chemicals_used": [
+          {
+            "name": "PCN-700",
+            "amount": "100 mg"
+          },
+          {
+            "name": "H2MPDC",
+            "amount": "200 mg"
+          }
+        ],
+        "time": "24 h",
+        "yield": "94%"
+      }
+    },
+    {
+      "name": "PCN-700-SBDC",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": "DMF",
+        "solvent_amounts": "40 mL",
+        "chemicals_used": [
+          {
+            "name": "PCN-700",
+            "amount": "100 mg"
+          },
+          {
+            "name": "H3SBDC",
+            "amount": "200 mg"
+          }
+        ],
+        "time": "24 h",
+        "yield": "93%"
+      }
+    },
+    {
+      "name": "PCN-608-NH2-BDC",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": "DMF",
+        "solvent_amounts": "4 mL",
+        "chemicals_used": [
+          {
+            "name": "PCN-608-NH2",
+            "amount": "10 mg"
+          },
+          {
+            "name": "H2BDC",
+            "amount": "20 mg"
+          }
+        ],
+        "time": "24 h",
+        "yield": "95%"
+      }
+    },
+    {
+      "name": "PCN-608-NH2-MPDC",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": "DMF",
+        "solvent_amounts": "4 mL",
+        "chemicals_used": [
+          {
+            "name": "PCN-608-NH2",
+            "amount": "10 mg"
+          },
+          {
+            "name": "H2MPDC",
+            "amount": "20 mg"
+          }
+        ],
+        "time": "24 h",
+        "yield": "97%"
+      }
+    },
+    {
+      "name": "PCN-608-NH2-SBDC",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": "DMF",
+        "solvent_amounts": "4 mL",
+        "chemicals_used": [
+          {
+            "name": "PCN-608-NH2",
+            "amount": "10 mg"
+          },
+          {
+            "name": "H3SBDC",
+            "amount": "20 mg"
+          }
+        ],
+        "time": "24 h",
+        "yield": "90%"
+      }
+    },
+    {
+      "name": "PCN-608-OMe-BDC",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": "DMF",
+        "solvent_amounts": "40 mL",
+        "chemicals_used": [
+          {
+            "name": "PCN-608-OMe",
+            "amount": "100 mg"
+          },
+          {
+            "name": "H2BDC",
+            "amount": "200 mg"
+          }
+        ],
+        "time": "24 h",
+        "yield": "97%"
+      }
+    },
+    {
+      "name": "PCN-608-OMe-MPDC",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": "DMF",
+        "solvent_amounts": "40 mL",
+        "chemicals_used": [
+          {
+            "name": "PCN-608-OMe",
+            "amount": "100 mg"
+          },
+          {
+            "name": "H2MPDC",
+            "amount": "200 mg"
+          }
+        ],
+        "time": "24 h",
+        "yield": "96%"
+      }
+    },
+    {
+      "name": "PCN-608-OMe-SBDC",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": "DMF",
+        "solvent_amounts": "40 mL",
+        "chemicals_used": [
+          {
+            "name": "PCN-608-OMe",
+            "amount": "100 mg"
+          },
+          {
+            "name": "H3SBDC",
+            "amount": "200 mg"
+          }
+        ],
+        "time": "24 h",
+        "yield": "92%"
+      }
+    }
+  ]
+}

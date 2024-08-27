@@ -1,0 +1,146 @@
+{
+  "materials": [
+    {
+      "name": "X-dia-4-Co-α",
+      "synthesis_conditions": {
+        "temperature": "105 °C",
+        "solvents": [
+          {
+            "name": "DMA",
+            "amount": "8 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Co(NO3)2·6H2O",
+            "amount": "15 mg"
+          },
+          {
+            "name": "H2bdc",
+            "amount": "17 mg"
+          },
+          {
+            "name": "bimpy",
+            "amount": "11 mg"
+          }
+        ],
+        "equipment": "28-mL glass vial",
+        "time": "24 hours",
+        "washing_method": "DMA",
+        "yield": "55%"
+      },
+      "activation_method": {
+        "temperature": "85 °C",
+        "vacuum": "high vacuum",
+        "time": "24 hours"
+      }
+    },
+    {
+      "name": "X-dia-5-Co-α",
+      "synthesis_conditions": {
+        "temperature": "105 °C",
+        "solvents": [
+          {
+            "name": "DMA",
+            "amount": "8 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Co(NO3)2·6H2O",
+            "amount": "15 mg"
+          },
+          {
+            "name": "H2bdc",
+            "amount": "17 mg"
+          },
+          {
+            "name": "bimbz",
+            "amount": "11 mg"
+          }
+        ],
+        "equipment": "28-mL glass vial",
+        "time": "24 hours",
+        "washing_method": "DMA",
+        "yield": "55%"
+      },
+      "activation_method": {
+        "temperature": "85 °C",
+        "vacuum": "high vacuum",
+        "time": "24 hours"
+      }
+    }
+  ],
+  "characterization_techniques": [
+    {
+      "technique": "Single-crystal X-ray Diffraction",
+      "details": {
+        "temperature": "100 K and 150 K",
+        "radiation_source": "CuKα and MoKα",
+        "detector": "Photon 100 detector"
+      }
+    },
+    {
+      "technique": "Powder X-ray Diffraction",
+      "details": {
+        "temperature": "298 K",
+        "radiation_source": "CuKα",
+        "detector": "PIXcel3D detector",
+        "range": "5°-40° (2θ)"
+      }
+    },
+    {
+      "technique": "Variable-Temperature Powder X-ray Diffraction",
+      "details": {
+        "temperature_range": "Room temperature to 200 °C",
+        "atmosphere": "N2",
+        "range": "5°-40° (2θ)"
+      }
+    },
+    {
+      "technique": "In situ Powder X-ray Diffraction",
+      "details": {
+        "temperature": "298 K",
+        "pressure_range": "0 to 35 bar",
+        "gas": "CO2"
+      }
+    },
+    {
+      "technique": "Thermogravimetric Analysis",
+      "details": {
+        "temperature_range": "Room temperature to 550 °C",
+        "atmosphere": "N2"
+      }
+    },
+    {
+      "technique": "Differential Scanning Calorimetry",
+      "details": {
+        "temperature_range": "Room temperature to 250 °C",
+        "atmosphere": "N2"
+      }
+    },
+    {
+      "technique": "Scanning Electron Microscopy",
+      "details": {
+        "voltage": "3 kV",
+        "working_distance": "15 mm"
+      }
+    },
+    {
+      "technique": "Gas Sorption Analysis",
+      "details": {
+        "gases": ["CO2", "N2", "CH4", "C2H2", "C2H4", "C2H6"],
+        "temperature": ["77 K", "195 K", "273 K", "298 K"],
+        "pressure_range": "Low and high pressure"
+      }
+    },
+    {
+      "technique": "In situ Infrared Spectroscopy",
+      "details": {
+        "temperature": "25 °C",
+        "pressure": "Variable",
+        "gas": "CO2"
+      }
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "materials": [
+    {
+      "name": "PCN-160",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "20 mL"
+          },
+          {
+            "name": "trifluoroacetic acid",
+            "amount": "1.0 mL"
+          }
+        ],
+        "equipment": "Pyrex vial",
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "200 mg"
+          },
+          {
+            "name": "H2AZDC",
+            "amount": "100 mg"
+          }
+        ],
+        "time": "72 h",
+        "yield": "67%",
+        "drying_method": "Not specified",
+        "washing_method": "Not specified"
+      }
+    },
+    {
+      "name": "PCN-160-R%",
+      "synthesis_conditions": {
+        "temperature": "75 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "20 mL"
+          }
+        ],
+        "equipment": "Not specified",
+        "chemicals_used": [
+          {
+            "name": "PCN-160",
+            "amount": "100 mg"
+          },
+          {
+            "name": "H2CBAB",
+            "amount": "Varies (2.5, 5, 10, 20, 40, 80 mM solutions used for different R%)"
+          }
+        ],
+        "time": "10 h (up to 20 h for 100% exchange)",
+        "yield": "Not specified",
+        "drying_method": "Not specified",
+        "washing_method": "Washed with fresh DMF 3 times"
+      }
+    },
+    {
+      "name": "PCN-160-R%-C",
+      "synthesis_conditions": {
+        "temperature": "40 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "20 mL"
+          }
+        ],
+        "equipment": "Not specified",
+        "chemicals_used": [
+          {
+            "name": "PCN-160-R%",
+            "amount": "100 mg"
+          },
+          {
+            "name": "AcOH",
+            "amount": "Varies (0.5, 1, 2 M solutions used for different C)"
+          }
+        ],
+        "time": "24 h",
+        "yield": "Not specified",
+        "drying_method": "Washed thoroughly with DMF and water, exchanged by acetone, activated at 100 °C under vacuum",
+        "washing_method": "Washed with fresh DMF and water to remove any remaining acetic acid"
+      }
+    },
+    {
+      "name": "CYCU-3",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "15 mL"
+          }
+        ],
+        "equipment": "Pyrex vial",
+        "chemicals_used": [
+          {
+            "name": "AlCl3",
+            "amount": "75 mg"
+          },
+          {
+            "name": "H2AZDC",
+            "amount": "150 mg"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "0.15 mL"
+          }
+        ],
+        "time": "24 h",
+        "yield": "37%",
+        "drying_method": "Not specified",
+        "washing_method": "Not specified"
+      }
+    },
+    {
+      "name": "CYCU-3-22%",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "15 mL"
+          }
+        ],
+        "equipment": "Pyrex vial",
+        "chemicals_used": [
+          {
+            "name": "AlCl3",
+            "amount": "75 mg"
+          },
+          {
+            "name": "H2AZDC",
+            "amount": "100 mg"
+          },
+          {
+            "name": "H2CBAB",
+            "amount": "50 mg"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "0.15 mL"
+          }
+        ],
+        "time": "24 h",
+        "yield": "32%",
+        "drying_method": "Not specified",
+        "washing_method": "Not specified"
+      }
+    },
+    {
+      "name": "CYCU-3-22%-0.2",
+      "synthesis_conditions": {
+        "temperature": "40 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "20 mL"
+          }
+        ],
+        "equipment": "Not specified",
+        "chemicals_used": [
+          {
+            "name": "CYCU-3-22%",
+            "amount": "100 mg"
+          },
+          {
+            "name": "HCl",
+            "amount": "0.2 mM solution"
+          }
+        ],
+        "time": "24 h",
+        "yield": "Not specified",
+        "drying_method": "Washed with fresh DMF and water to remove any remaining acid",
+        "washing_method": "Washed with fresh DMF and water to remove any remaining acid"
+      }
+    }
+  ]
+}

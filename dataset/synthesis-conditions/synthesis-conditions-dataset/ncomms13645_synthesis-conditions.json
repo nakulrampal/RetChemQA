@@ -1,0 +1,156 @@
+{
+  "materials": [
+    {
+      "name": "CPM-140 (Mg3-MIL-88)",
+      "synthesis_conditions": {
+        "temperature": "100 oC",
+        "solvents": [
+          {
+            "name": "DMA",
+            "amount": "4.0 g"
+          },
+          {
+            "name": "DMPU",
+            "amount": "2.0 g"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Mg(NO3)2·6H2O",
+            "amount": "102.6 mg"
+          },
+          {
+            "name": "DHBDC",
+            "amount": "39.6 mg"
+          },
+          {
+            "name": "HFP",
+            "amount": "28 μL"
+          }
+        ],
+        "time": "5 days",
+        "washing_method": "DMA",
+        "drying_method": "Evacuated at 60 oC for 12 h",
+        "yield": "86% based on DHBDC"
+      }
+    },
+    {
+      "name": "CPM-141 (Mg3-DHBDC)",
+      "synthesis_conditions": {
+        "temperature": "130 oC",
+        "solvents": [
+          {
+            "name": "DMA",
+            "amount": "4.0 g"
+          },
+          {
+            "name": "DMPU",
+            "amount": "2.0 g"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Mg(NO3)2·6H2O",
+            "amount": "102.6 mg"
+          },
+          {
+            "name": "DHBDC",
+            "amount": "39.6 mg"
+          },
+          {
+            "name": "TPT",
+            "amount": "31.2 mg"
+          },
+          {
+            "name": "HFP",
+            "amount": "28 μL"
+          }
+        ],
+        "time": "5 days",
+        "washing_method": "Hot DMA/DMPU mixtures",
+        "drying_method": "Evacuated at 80 oC for 12 h",
+        "yield": "34% based on DHBDC"
+      }
+    },
+    {
+      "name": "CPM-230 (Mg2V-MIL-88)",
+      "synthesis_conditions": {
+        "temperature": "100 oC",
+        "solvents": [
+          {
+            "name": "DMA",
+            "amount": "4.0 g"
+          },
+          {
+            "name": "DMPU",
+            "amount": "2.0 g"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "MgCl2·6H2O",
+            "amount": "81.2 mg"
+          },
+          {
+            "name": "VCl3",
+            "amount": "31.5 mg"
+          },
+          {
+            "name": "DHBDC",
+            "amount": "99.0 mg"
+          },
+          {
+            "name": "85% formic acid",
+            "amount": "0.3 g"
+          }
+        ],
+        "time": "5 days",
+        "washing_method": "DMA",
+        "drying_method": "Evacuated at 60 oC for 12 h",
+        "yield": "55% based on Mg"
+      }
+    },
+    {
+      "name": "CPM-231 (Mg2V-DHBDC)",
+      "synthesis_conditions": {
+        "temperature": "130 oC",
+        "solvents": [
+          {
+            "name": "DMA",
+            "amount": "4.0 g"
+          },
+          {
+            "name": "DMPU",
+            "amount": "2.0 g"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "MgCl2·6H2O",
+            "amount": "81.2 mg"
+          },
+          {
+            "name": "VCl3",
+            "amount": "31.5 mg"
+          },
+          {
+            "name": "DHBDC",
+            "amount": "99.0 mg"
+          },
+          {
+            "name": "TPT",
+            "amount": "62.4 mg"
+          },
+          {
+            "name": "85% formic acid",
+            "amount": "0.3 g"
+          }
+        ],
+        "time": "5 days",
+        "washing_method": "DMA",
+        "drying_method": "Evacuated at 80 oC for 12 h",
+        "yield": "20% based on Mg"
+      }
+    }
+  ]
+}

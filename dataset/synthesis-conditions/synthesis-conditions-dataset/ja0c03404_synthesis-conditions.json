@@ -1,0 +1,100 @@
+{
+  "materials": [
+    {
+      "name": "Cu-sql-3,3'-ABDC",
+      "synthesis_conditions": {
+        "temperature": "85 ºC",
+        "time": "24 h",
+        "solvents": [
+          {
+            "name": "N,N'-dimethylformamide (DMF)",
+            "amount": "0.5 mL of a 0.2 M DMF solution for Cu(NO3)2·2H2O and 0.5 mL of a 0.2 M DMF solution for H2(3,3'-ABDC)"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cu(NO3)2·2H2O",
+            "amount": "0.1 mmol, 23.2 mg"
+          },
+          {
+            "name": "H2(3,3'-ABDC)",
+            "amount": "0.1 mmol, 27 mg"
+          }
+        ],
+        "equipment": "23 mL scintillation vial",
+        "yield": "Not specified",
+        "crystal_size": "0.36×0.33×0.31 mm",
+        "crystal_system": "Monoclinic",
+        "space_group": "C2/m"
+      }
+    },
+    {
+      "name": "Tb-fcu-3,3'-BPDC",
+      "synthesis_conditions": {
+        "temperature": "120 ºC",
+        "time": "48 h",
+        "solvents": [
+          {
+            "name": "N,N'-dimethylformamide (DMF)",
+            "amount": "1.7 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Tb(NO3)3·5H2O",
+            "amount": "0.022 mmol, 9.5 mg"
+          },
+          {
+            "name": "H2(3,3'-BPDC)",
+            "amount": "0.011 mmol, 2.7 mg"
+          },
+          {
+            "name": "2-fluorobenzoic acid",
+            "amount": "0.4 mmol, 56 mg"
+          }
+        ],
+        "equipment": "23 mL scintillation vial",
+        "yield": "Not specified",
+        "crystal_size": "0.15×0.14×0.13 mm",
+        "crystal_system": "Monoclinic",
+        "space_group": "P21/n"
+      }
+    },
+    {
+      "name": "Fe-acs-1,5-NDC",
+      "synthesis_conditions": {
+        "temperature": "120 ºC",
+        "time": "48 h",
+        "solvents": [
+          {
+            "name": "N,N'-dimethylformamide (DMF)",
+            "amount": "0.6 mL"
+          },
+          {
+            "name": "Acetic acid (AcOH)",
+            "amount": "0.4 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Fe3(µ-­‐‑O)(AcO)6",
+            "amount": "0.04 mmol, 18.6 mg"
+          },
+          {
+            "name": "H2(1,5-NDC)",
+            "amount": "0.12 mmol, 26 mg"
+          }
+        ],
+        "equipment": "23 mL scintillation vial",
+        "yield": "Not specified",
+        "crystal_size": "0.25×0.22×0.21 mm",
+        "crystal_system": "Hexagonal",
+        "space_group": "P63/m"
+      }
+    }
+  ]
+}

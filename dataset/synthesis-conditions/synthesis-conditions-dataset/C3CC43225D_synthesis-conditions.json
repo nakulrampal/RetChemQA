@@ -1,0 +1,82 @@
+{
+  "materials": [
+    {
+      "name": "H5L",
+      "synthesis_conditions": {
+        "steps": [
+          {
+            "step": 1,
+            "chemicals_used": [
+              "3-tert-butyl-5-(4-pyridyl)salicylaldehyde",
+              "3-tert-butyl-5-formyl-4-hydroxybenzoic acid"
+            ],
+            "solvents": [
+              "THF"
+            ],
+            "temperature": "60 °C",
+            "time": "5 h",
+            "yield": "72% overall yield"
+          },
+          {
+            "step": 2,
+            "chemicals_used": [
+              "NaBH4"
+            ],
+            "solvents": [
+              "MeOH"
+            ],
+            "temperature": "Room temperature",
+            "time": "6 h"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TiL(OBu)2",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "tetrabutyl titanate",
+          "H3L"
+        ],
+        "solvents": [
+          "THF"
+        ],
+        "temperature": "Room temperature",
+        "time": "8 h",
+        "yield": "85%"
+      }
+    },
+    {
+      "name": "Cd3(m3-OH)Br[(TiLOMe)2O]2·3DMF·H2O (1)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "CdBr2·4H2O",
+          "[TiL(OBu)2]"
+        ],
+        "solvents": [
+          "DMF",
+          "MeOH"
+        ],
+        "temperature": "100 °C",
+        "time": "1 day",
+        "yield": "76%"
+      }
+    },
+    {
+      "name": "Zn3(m3-OH)(OH)[(TiLOEt)2O]2·3DMF (2)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Zn(OAc)2·2H2O",
+          "[TiL(OBu)2]"
+        ],
+        "solvents": [
+          "DMF",
+          "EtOH"
+        ],
+        "temperature": "100 °C",
+        "time": "1 day",
+        "yield": "66%"
+      }
+    }
+  ]
+}

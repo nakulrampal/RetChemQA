@@ -1,0 +1,57 @@
+{
+  "materials": [
+    {
+      "name": "1[Eu(Tzpy)2]",
+      "synthesis_conditions": [
+        {
+          "temperature": "100 8C over 4 h then to 190 8C over 100 h, held at this temperature for 144 h, cooled to 90 8C over 400 h then to room temperature over 13 h",
+          "solvents": [
+            {
+              "name": "pyridine",
+              "amount": "7.5 mmol, 600 mg"
+            }
+          ],
+          "equipment": "Duran-glass ampoule",
+          "chemicals_used": [
+            {
+              "name": "Europium",
+              "amount": "0.5 mmol, 76 mg, ChemPur 99.9 %"
+            },
+            {
+              "name": "1H-1,2,3-triazolo[4,5-b]pyridine (TzpyH)",
+              "amount": "1.5 mmol, 180 mg, Aldrich 98 %"
+            },
+            {
+              "name": "mercury",
+              "amount": "0.1 mmol, 20 mg"
+            }
+          ],
+          "time": "548 h total",
+          "yield": "144 mg (86 %)",
+          "additional_information": "The reaction mixture was frozen with liquid nitrogen and degassed three times. The ampoule was sealed under vacuum."
+        },
+        {
+          "temperature": "205 8C using the same heating rates and reaction times",
+          "solvents": "none",
+          "equipment": "Duran-glass ampoule",
+          "chemicals_used": [
+            {
+              "name": "Europium",
+              "amount": "0.5 mmol, 76 mg, ChemPur 99.9 %"
+            },
+            {
+              "name": "1H-1,2,3-triazolo[4,5-b]pyridine (TzpyH)",
+              "amount": "1.5 mmol, 180 mg, Aldrich 98 %"
+            },
+            {
+              "name": "mercury",
+              "amount": "0.1 mmol, 20 mg"
+            }
+          ],
+          "time": "548 h total",
+          "additional_information": "The reaction was carried out without pyridine. Any slight overheating results in decomposition of the ligand (decomp 208 8C); thus, the solvothermal synthesis in pyridine is more favorable."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "materials": [
+    {
+      "material": "1,3,6,8-Tetrakis(benzoic acid)pyrene (TBAPy) Ligand",
+      "synthesis_steps": [
+        {
+          "step_description": "Pyrene in nitrobenzene reacted with bromine",
+          "temperature": "120 °C",
+          "solvents": [
+            {
+              "name": "nitrobenzene",
+              "amount": "100 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Pyrene",
+              "amount": "5 g, 24 mmol"
+            },
+            {
+              "name": "Bromine",
+              "amount": "5.6 mL, 109 mmol"
+            }
+          ],
+          "time": "14 h",
+          "yield": "98%"
+        },
+        {
+          "step_description": "Reaction of 1,3,6,8-tetrabromopyrene with (4-(methoxycarbonyl)phenyl)boronic acid",
+          "temperature": "85 °C",
+          "solvents": [
+            {
+              "name": "dry dioxane",
+              "amount": "50 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "(4-(methoxycarbonyl)phenyl)boronic acid",
+              "amount": "5 g, 32.9 mmol, 6 equiv"
+            },
+            {
+              "name": "1,3,6,8-tetrabromopyrene",
+              "amount": "2.85 g, 5.5 mmol"
+            },
+            {
+              "name": "palladium tetrakis(triphenylphosphine)",
+              "amount": "0.1 g 0.09 mmol, 1.6 mol %"
+            },
+            {
+              "name": "potassium carbonate",
+              "amount": "6 g, 44 mmol, 8 equiv"
+            }
+          ],
+          "time": "72 h",
+          "yield": "84%"
+        },
+        {
+          "step_description": "Hydrolysis of 1,3,6,8-tetrakis(4-(methoxycarbonyl)phenyl)pyrene",
+          "temperature": "85 °C",
+          "solvents": [
+            {
+              "name": "THF/dioxane/H2O",
+              "ratio": "5/2/2",
+              "total_amount": "100 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "1,3,6,8-tetrakis(4-(methoxycarbonyl)phenyl)pyrene",
+              "amount": "1 g"
+            },
+            {
+              "name": "concentrated NaOH",
+              "amount": "20 mL"
+            }
+          ],
+          "time": "overnight",
+          "yield": "97%"
+        }
+      ]
+    },
+    {
+      "material": "In2(OH)2(TBAPy)·(guests) (1)",
+      "synthesis_steps": [
+        {
+          "step_description": "Reaction of In(NO3)3·9H2O and TBAPy in acidic solution",
+          "temperature": "85 °C",
+          "solvents": [
+            {
+              "name": "DMF/dioxane/H2O",
+              "ratio": "2/1/1",
+              "total_amount": "4 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "In(NO3)3·9H2O",
+              "amount": "12 mg 0.03 mmol"
+            },
+            {
+              "name": "TBAPy",
+              "amount": "10 mg 0.015 mmol"
+            },
+            {
+              "name": "concentrated HCl",
+              "amount": "10 μL (0.116 mmol)"
+            }
+          ],
+          "time": "12 h",
+          "cooling_rate": "0.2 °C min−1",
+          "yield": "56%"
+        }
+      ]
+    }
+  ]
+}

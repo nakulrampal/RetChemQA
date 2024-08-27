@@ -1,0 +1,57 @@
+{
+  "Tetrakis(4-bromophenyl)methane (A)": {
+    "temperature": "Added bromine at room temperature, then stirred for an additional 8 h",
+    "solvents": ["Ethanol"],
+    "amount_of_each_solvent": ["400 mL"],
+    "equipment": ["100 mL round-bottom flask"],
+    "chemicals_used": ["Tetraphenylmethane (15.00 g, 46.8 mmol)", "Bromine (10.00 mL, 330.8 mmol)"],
+    "time": "1 h for bromine addition, 8 h additional stirring",
+    "washing_method": "Filtered and washed with saturated aqueous NaHSO3 solution (120 mL × 3)",
+    "drying_method": "Dried at 90 oC",
+    "yield": "28.87 g, 45.39 mmol, 97%",
+    "cooling_method": "Cooled down to -78 oC using liquid nitrogen"
+  },
+  "Tetrakis[4-(dietoxyphosphoryl)phenyl]methane (B)": {
+    "temperature": "Heated to 180 oC within 20 min under nitrogen atmosphere",
+    "solvents": ["1,3-diisopropylbenzene", "Acetate ester", "Ethyl ether"],
+    "amount_of_each_solvent": ["40 mL (1,3-diisopropylbenzene)", "100 mL (Acetate ester for dissolving solid)", "Not specified (Ethyl ether for washing)"],
+    "equipment": ["Three-neck round-bottom flask"],
+    "chemicals_used": ["Compound A (10.66 g, 16.8 mmol)", "Nickel(II) bromide (2.1 g, 9.6 mmol initially, additional 1.1 g, 5 mmol later)", "Triethyl phosphite (20 mL, 116 mmol initially, additional 10 mL, 58 mmol later)"],
+    "time": "5 h for initial triethyl phosphite addition, additional 24 h after more reagents, then another 24 h",
+    "washing_method": "Extracted with water and acetate ester, filtered, washed with ethyl ether",
+    "drying_method": "Dried under vacuum",
+    "yield": "9.36 g, 10.8 mmol, 64.3%"
+  },
+  "Tetrakis[4-(dihyroxyphosphoryl)phenyl]methane (TppmH8)": {
+    "temperature": "Stirred for 1 day at room temperature",
+    "solvents": ["Dichloromethane", "Methanol", "Water"],
+    "amount_of_each_solvent": ["30 mL (Dichloromethane)", "85 mL (Methanol for evaporation process)", "Not specified (Water for dissolving solid)"],
+    "equipment": ["Round-bottom flask"],
+    "chemicals_used": ["Compound B (5 g, 5.78 mmol)", "Trimethylsillyl bromide (9 mL)"],
+    "time": "1 day stirring, multiple evaporation cycles with methanol",
+    "washing_method": "Solution pH adjusted to 7 with sodium hydroxide, active carbon added, acidified with hydrochloric acid, filtered",
+    "drying_method": "Not specified",
+    "yield": "3.52 g, 5.50 mmol, 95.2%"
+  },
+  "Tetrakis[4-(dietoxyphosphoryl)phenyl]adamantane (Tppa-Ester, C)": {
+    "temperature": "Brought to reflux, then P(OEt)3 solution added slowly over 8 h, followed by refluxing for 24 h",
+    "solvents": ["1,3-diisopropylbenzene", "Ether"],
+    "amount_of_each_solvent": ["80 mL (1,3-diisopropylbenzene)", "Not specified (Ether for washing)"],
+    "equipment": ["Round-bottom flask with condenser and dropping funnel"],
+    "chemicals_used": ["Tetrakis(4-iodophenyl)adamantane (2.28 mmol)", "NiBr2 anhydrous (20%)", "P(OEt)3 (3 ml, 16.95 mmol) with diisopropylbenzene (6 ml)"],
+    "time": "8 h for P(OEt)3 addition, additional 24 h refluxing",
+    "washing_method": "Filtered, washed with ether",
+    "yield": "1.9g, 85%"
+  },
+  "Tetrakis[4-(dihyroxyphosphoryl)phenyl]methane (TppaH8)": {
+    "temperature": "Refluxed for 48 h",
+    "solvents": ["Concentrated HCl", "MeOH"],
+    "amount_of_each_solvent": ["20 mL (Concentrated HCl)", "Not specified (MeOH for treatment)"],
+    "equipment": ["Round-bottom flask"],
+    "chemicals_used": ["C (0.985g, 1.0 mmol)"],
+    "time": "48 h refluxing",
+    "washing_method": "Filtered, treated with MeOH, insoluble material removed by filtration",
+    "drying_method": "Removed by vacuum",
+    "yield": "0.62 g, 82%"
+  }
+}

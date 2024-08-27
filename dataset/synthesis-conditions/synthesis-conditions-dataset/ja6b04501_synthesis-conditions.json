@@ -1,0 +1,198 @@
+{
+  "materials": [
+    {
+      "name": "PCN-700-(NO2)2",
+      "synthesis_conditions": {
+        "temperature": "100 ºC",
+        "solvents": "DMF",
+        "amount_of_each_solvent": "20 mL",
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "200 mg"
+          },
+          {
+            "name": "L6",
+            "amount": "100 mg"
+          },
+          {
+            "name": "trifluoroacetic acid",
+            "amount": "1.0 mL"
+          }
+        ],
+        "time": "7 days",
+        "yield": "65%"
+      }
+    },
+    {
+      "name": "PCN-700-Me2",
+      "synthesis_conditions": {
+        "temperature": "120 ºC",
+        "solvents": "DMF",
+        "amount_of_each_solvent": "20 mL",
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "200 mg"
+          },
+          {
+            "name": "L8",
+            "amount": "100 mg"
+          },
+          {
+            "name": "trifluoroacetic acid",
+            "amount": "1.0 mL"
+          }
+        ],
+        "time": "3 days",
+        "yield": "68%"
+      }
+    },
+    {
+      "name": "PCN-700-(CF3)2",
+      "synthesis_conditions": {
+        "temperature": "120 ºC",
+        "solvents": "DMF",
+        "amount_of_each_solvent": "20 mL",
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "200 mg"
+          },
+          {
+            "name": "L10",
+            "amount": "100 mg"
+          },
+          {
+            "name": "trifluoroacetic acid",
+            "amount": "1.0 mL"
+          }
+        ],
+        "time": "3 days",
+        "yield": "58%"
+      }
+    },
+    {
+      "name": "PCN-700-(NO2)4",
+      "synthesis_conditions": {
+        "temperature": "100 ºC",
+        "solvents": "DMF",
+        "amount_of_each_solvent": "20 mL",
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "200 mg"
+          },
+          {
+            "name": "L11",
+            "amount": "100 mg"
+          },
+          {
+            "name": "trifluoroacetic acid",
+            "amount": "1.0 mL"
+          }
+        ],
+        "time": "3 days",
+        "yield": "60%"
+      }
+    },
+    {
+      "name": "PCN-700-Me4",
+      "synthesis_conditions": {
+        "temperature": "120 ºC",
+        "solvents": "DMF",
+        "amount_of_each_solvent": "20 mL",
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "200 mg"
+          },
+          {
+            "name": "L12",
+            "amount": "100 mg"
+          },
+          {
+            "name": "trifluoroacetic acid",
+            "amount": "1.0 mL"
+          }
+        ],
+        "time": "3 days",
+        "yield": "71%"
+      }
+    },
+    {
+      "name": "Compounds 1-6",
+      "synthesis_conditions": {
+        "temperature": "75 ºC",
+        "solvents": "DMF",
+        "amount_of_each_solvent": "40 mL",
+        "chemicals_used": [
+          {
+            "name": "PCN-700-Me2 crystals",
+            "amount": "100 mg"
+          },
+          {
+            "name": "linear linkers",
+            "amount": "0.03 M"
+          }
+        ],
+        "time": "24 h",
+        "yield": "96%"
+      }
+    },
+    {
+      "name": "Compounds 7-11",
+      "synthesis_conditions": {
+        "temperature": "75 ºC",
+        "solvents": "DMF",
+        "amount_of_each_solvent": "40 mL",
+        "chemicals_used": [
+          {
+            "name": "PCN-700-Me2 crystals",
+            "amount": "100 mg"
+          },
+          {
+            "name": "linear linkers",
+            "amount": "0.03 M"
+          }
+        ],
+        "time": "24 h",
+        "yield": "93%"
+      }
+    },
+    {
+      "name": "PCN-700-BPYDC(Cu)-TPDC-R2",
+      "synthesis_conditions": {
+        "temperature": "75 ºC",
+        "solvents": [
+          "DMF",
+          "acetonitrile"
+        ],
+        "amount_of_each_solvent": [
+          "40 mL",
+          "40 mL"
+        ],
+        "chemicals_used": [
+          {
+            "name": "PCN-700-Me2 crystals",
+            "amount": "100 mg"
+          },
+          {
+            "name": "BPYDC",
+            "amount": "0.03 M"
+          },
+          {
+            "name": "TPDC-R2",
+            "amount": "0.03 M"
+          },
+          {
+            "name": "CuI",
+            "amount": "100 mg"
+          }
+        ],
+        "time": "24 h",
+        "yield": "90%"
+      }
+    }
+  ]
+}

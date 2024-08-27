@@ -1,0 +1,75 @@
+{
+  "materials": [
+    {
+      "name": "Compound 1a",
+      "synthesis_conditions": {
+        "precursors": [
+          "KI3",
+          "DB[18]C6"
+        ],
+        "product": "[K4(DB[18]C6)8(H2O)8(I3)4]n",
+        "crystal_structure": "monoclinic",
+        "space_group": "P2[8]",
+        "morphology": "large rodlike single crystals"
+      }
+    },
+    {
+      "name": "Compound 1b and 1c",
+      "synthesis_conditions": {
+        "precursors": [
+          "Br2I-",
+          "BrI2-"
+        ],
+        "crystal_structure": "isostructural to 1a",
+        "space_group": "P2",
+        "additional_information": "The trihalide ions are all quasi-linear, but tilted by about 12° relative to the b-axis."
+      }
+    },
+    {
+      "name": "Compound 2a",
+      "synthesis_conditions": {
+        "precursors": [
+          "1a single crystal",
+          "1m NaOH solution"
+        ],
+        "immersion_time": "24 hours",
+        "washing_method": "washed after immersion",
+        "measurement_method": "single-crystal X-ray diffraction",
+        "space_group_change": "from monoclinic P2[8] to orthorhombic Pccn",
+        "product": "[Na2(DB[18]C6)2(H2O)(OH)I3]",
+        "morphology_change": "unchanged in appearance"
+      }
+    },
+    {
+      "name": "Compound 3a",
+      "synthesis_conditions": {
+        "precursors": [
+          "NaI3",
+          "DB[18]C6"
+        ],
+        "product": "[Na(DB[18]C6)-(H2O)2(DB[18]C6)I3]",
+        "additional_information": "All channel fillings of 3a are identical and contain Na+ ions in the crown ether cavity and axially bound water molecules."
+      }
+    },
+    {
+      "name": "Ion-exchange process 1a,b to 2a,b",
+      "synthesis_conditions": {
+        "device_used": "Device A",
+        "temperatures_tested": [
+          "296 K",
+          "323 K"
+        ],
+        "duration": "7 hours",
+        "measurement_methods": [
+          "conductivity measurements",
+          "inductively coupled plasma optical emission spectrometry (ICP-OES)"
+        ],
+        "rate_constants": {
+          "296 K": "(1.8 ± 0.2) x 10^-4 mol L^-1 s^-1",
+          "323 K": "(4.8 ± 0.5) x 10^-4 mol L^-1 s^-1"
+        },
+        "activation_energy": "(27 ± 4) kJ mol^-1"
+      }
+    }
+  ]
+}

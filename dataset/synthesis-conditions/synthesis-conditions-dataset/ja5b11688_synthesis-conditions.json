@@ -1,0 +1,49 @@
+{
+  "materials": [
+    {
+      "name": "Co-MOF ([CH3NH3][Co(HCOO)3])",
+      "synthesis": {
+        "chemicals_used": {
+          "CoCl2.4H2O": "98%, Sigma-Aldrich",
+          "NaHCOO": "≥99%, Sigma-Aldrich",
+          "CH3NH2.HCl": "≥99%, Sigma-Aldrich",
+          "HCONHCH3": "99%, Sigma-Aldrich"
+        },
+        "method": "Solvothermal",
+        "solvents": {
+          "water": "3 mL, 0.33 M (for CoCl2.6H2O and CH3NH3Cl)",
+          "NaHCOO_solution": "2 mL, 1.5 M",
+          "methylformamide": "8 mL"
+        },
+        "temperature": "140°C",
+        "time": "72 hours",
+        "yield": "30% initially, increased to 85% upon slow evaporation of the mother liquid for 4 days",
+        "equipment": "Teflon lined autoclave (45 mL)",
+        "crystal_stability": "Stable in air, mother liquid, methanol, and ethanol"
+      },
+      "characterization": {
+        "X-ray_diffraction": {
+          "equipment": "Siemens D-5000 diffractometer using CuKα radiation (λ = 1.5418 Å)",
+          "method": "Le Bail profile analysis using Fullprof software"
+        },
+        "thermogravimetric_analysis": {
+          "equipment": "TGA-DTA Thermal Analysis SDT2960 equipment coupled to a Bruker Vector 22 IR spectrophotometer",
+          "conditions": "Approximately 25 mg of sample heated at a rate of 5 K/min from 300 to 1023 K under dry nitrogen flow"
+        }
+      },
+      "magnetic_properties": {
+        "SQUID_magnetometer": "Quantum Design Magnetic Properties Measurement System (MPMS) up to 5 T",
+        "VSM": "Quantum Design Vibrating Sample Magnetometer (VSM) in a 14 T Physical Properties Measurement System (PPMS)",
+        "pulsed_field_magnetization": {
+          "equipment": "65 T capacitor-driven short-pulse magnet at the NHMFL pulsed field facility",
+          "temperature_range": "Down to 0.4 K"
+        }
+      },
+      "electric_polarization_measurements": {
+        "method": "Capacitor plates created on parallel surfaces with silver paint, measured during magnetic field pulses",
+        "equipment": "Stanford Research 570 current to voltage converter",
+        "conditions": "Samples cooled by immersion in liquid 3He, magnetic field pulses up to 10 T"
+      }
+    }
+  ]
+}

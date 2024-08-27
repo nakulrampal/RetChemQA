@@ -1,0 +1,112 @@
+{
+  "materials": [
+    {
+      "material_id": "1",
+      "synthesis_conditions": {
+        "temperature": "75 °C",
+        "solvents": [
+          {
+            "name": "CH3OH",
+            "amount": "4 mL"
+          },
+          {
+            "name": "DMA (N,N-Dimethylacetamide)",
+            "amount": "1 mL"
+          }
+        ],
+        "equipment": "10mL glass vial",
+        "chemicals_used": [
+          {
+            "name": "H2(5-OH-1,3-BDC) (5-hydroxy-1,3-benzenedicarboxylic acid)",
+            "amount": "0.2 mmol, 36.5 mg"
+          },
+          {
+            "name": "Cu(OAc)2·H2O",
+            "amount": "0.2 mmol, 40.0 mg"
+          }
+        ],
+        "time": "2 days",
+        "yield": "65%",
+        "drying_method": "room temperature"
+      }
+    },
+    {
+      "material_id": "2",
+      "synthesis_conditions": {
+        "temperature": "120°C",
+        "solvents": [
+          {
+            "name": "MeOH",
+            "amount": "3mL"
+          },
+          {
+            "name": "DMSO (Dimethyl sulfoxide)",
+            "amount": "0.3 mL"
+          }
+        ],
+        "equipment": "20mL Teflon cup",
+        "chemicals_used": [
+          {
+            "name": "1",
+            "amount": "0.1 mmol, 36.5 mg"
+          }
+        ],
+        "time": "3 days",
+        "cooling_rate": "2 °C h-1",
+        "yield": "53%"
+      }
+    },
+    {
+      "material_id": "3",
+      "synthesis_conditions": {
+        "temperature": "120°C",
+        "solvents": [
+          {
+            "name": "MeOH",
+            "amount": "3mL"
+          },
+          {
+            "name": "DMSO",
+            "amount": "0.5 mL"
+          }
+        ],
+        "equipment": "20mL Teflon cup",
+        "chemicals_used": [
+          {
+            "name": "1",
+            "amount": "0.1 mmol, 36.5 mg"
+          }
+        ],
+        "time": "3 days",
+        "cooling_rate": "2 °C h-1",
+        "yield": "49%"
+      }
+    },
+    {
+      "material_id": "2 from 3",
+      "synthesis_conditions": {
+        "temperature": "140°C",
+        "solvents": [
+          {
+            "name": "MeOH",
+            "amount": "3mL"
+          },
+          {
+            "name": "DMSO",
+            "amount": "0.2mL"
+          }
+        ],
+        "equipment": "7mL glass vial in 20mL Teflon cup",
+        "chemicals_used": [
+          {
+            "name": "3",
+            "amount": "fresh crystals"
+          }
+        ],
+        "time": "3 days",
+        "cooling_rate": "2 °C h-1",
+        "transformation": "2D nanocage polymer to 3D nanocage polymer"
+      }
+    }
+  ]
+}

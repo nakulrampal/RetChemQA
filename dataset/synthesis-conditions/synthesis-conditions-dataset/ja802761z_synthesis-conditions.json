@@ -1,0 +1,74 @@
+{
+  "materials": [
+    {
+      "name": "MIL-53(Al) as-synthesized",
+      "synthesis_conditions": {
+        "temperature": "493 K",
+        "solvents": "H2O",
+        "amount_of_solvent": "3.58 g",
+        "equipment": "30 mL Teflon-lined stainless steel autoclave",
+        "chemicals_used": [
+          {
+            "name": "Al(NO3)3·9H2O",
+            "amount": "1.88 g",
+            "purity": "98%"
+          },
+          {
+            "name": "terephthalic acid",
+            "amount": "0.41 g",
+            "purity": "99+%"
+          }
+        ],
+        "time": "3 days",
+        "washing_method": "with H2O",
+        "drying_method": "at 333 K",
+        "additional_steps": [
+          {
+            "step": "calcination",
+            "conditions": {
+              "temperature": "603 K",
+              "atmosphere": "air",
+              "time": "3 days"
+            }
+          }
+        ],
+        "yield": "pore volume of 0.50 mL g−1 and a specific surface of 940 m2 g−1"
+      }
+    },
+    {
+      "name": "MIL-47 as-synthesized",
+      "synthesis_conditions": {
+        "temperature": "473 K",
+        "solvents": "H2O",
+        "amount_of_solvent": "14.00 g",
+        "equipment": "30 mL Teflon-lined steel autoclave",
+        "chemicals_used": [
+          {
+            "name": "VCl3",
+            "amount": "1.224 g",
+            "purity": "97%"
+          },
+          {
+            "name": "terephthalic acid",
+            "amount": "0.323 g",
+            "purity": "99+%"
+          }
+        ],
+        "time": "4 days",
+        "additional_steps": [
+          {
+            "step": "calcination",
+            "conditions": {
+              "temperature": "573 K",
+              "time": "21.5 h",
+              "amount": "16 mg cm−2",
+              "bed_area": "42 cm2",
+              "purpose": "to remove the occluded terephthalic acid from the pores and to oxidize VIII to VIV"
+            }
+          }
+        ],
+        "yield": "pore volume of 0.32 mL g−1 and a specific BET surface of 750 m2 g−1"
+      }
+    }
+  ]
+}

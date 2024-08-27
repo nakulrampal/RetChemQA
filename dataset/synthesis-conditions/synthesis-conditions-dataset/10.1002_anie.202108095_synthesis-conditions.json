@@ -1,0 +1,84 @@
+{
+  "materials": [
+    {
+      "name": "Fe2+-pyrazolate MOF (1)",
+      "synthesis_conditions": {
+        "temperature": "Not specified",
+        "solvents": ["DMF", "THF"],
+        "amount_of_solvents": {
+          "DMF": "Not specified",
+          "THF": "Not specified"
+        },
+        "equipment": "Not specified",
+        "chemicals_used": ["Fe(OTf)2(THF)2", "H2bppdi", "triethylamine"],
+        "time": "Not specified",
+        "washing_method": "Washed with DMF and THF",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "Solid 1 rapidly oxidizes upon exposure to air, changing color from orange to bright red, and gradually decomposes under ambient conditions. 1H NMR spectra of acid-digested samples show a H2bppdi:DMF:THF ratio of 1:0.5:3."
+      }
+    },
+    {
+      "name": "Oxidized Fe3+ analogue (2-OH)",
+      "synthesis_conditions": {
+        "temperature": "Not specified",
+        "solvents": "Not specified",
+        "amount_of_solvents": "Not specified",
+        "equipment": "Not specified",
+        "chemicals_used": "Not specified",
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "A few small red crystals of 2-OH were obtained during reaction optimization. 2-OH crystallizes in the P61 space group with helical, chain-type SBUs linked by the linear dipyrazolates to form triangular channels."
+      }
+    },
+    {
+      "name": "Activated 1",
+      "synthesis_conditions": {
+        "temperature": "60 8C",
+        "solvents": "Not specified",
+        "amount_of_solvents": "Not specified",
+        "equipment": "Vacuum (10-4 bar)",
+        "chemicals_used": "Not specified",
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "Gently activated by heating at 60 8C under vacuum. N2 adsorption isotherm (77 K) gave a calculated Brunauer-Emmett-Teller (BET) surface area of 1330 m2 g-1."
+      }
+    },
+    {
+      "name": "1-CoCp2",
+      "synthesis_conditions": {
+        "temperature": "Not specified",
+        "solvents": ["acetonitrile (MeCN)"],
+        "amount_of_solvents": {
+          "MeCN": "Not specified"
+        },
+        "equipment": "Not specified",
+        "chemicals_used": ["cobaltocene (CoCp2)"],
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "1H NMR analysis of an acid-digested sample shows a 1:1 H2bppdi:[CoCp2]+ ratio, indicating one-electron reduction per formula unit."
+      }
+    },
+    {
+      "name": "1’",
+      "synthesis_conditions": {
+        "temperature": "Not specified",
+        "solvents": "Not specified",
+        "amount_of_solvents": "Not specified",
+        "equipment": "Not specified",
+        "chemicals_used": ["trimethylsilyl triflate (TMSOTf)"],
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "Formed after treating 1-CoCp2 with TMSOTf, resulting in an orange solid that closely resembles 1. PXRD and N2 adsorption measurements show that the MOF maintains crystallinity and porosity."
+      }
+    }
+  ]
+}

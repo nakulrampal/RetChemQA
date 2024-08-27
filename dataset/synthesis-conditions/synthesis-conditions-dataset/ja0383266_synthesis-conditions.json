@@ -1,0 +1,28 @@
+{
+  "materials": [
+    {
+      "name": "α-Ni(pyara)2(H2O)2 (1)",
+      "synthesis_conditions": {
+        "temperature": "180 °C",
+        "solvents": ["water"],
+        "amount_of_solvents": ["10 mL"],
+        "equipment": "hydrothermal conditions",
+        "chemicals_used": [
+          "NiCl2·6H2O (0.119 g, 0.5 mmol)",
+          "3-(3-pyridyl)acrylic acid (pyaraH) (0.149 g, 1.0 mmol)",
+          "NaOH (0.04 g, 1.0 mmol)"
+        ],
+        "time": "24 h",
+        "yield": "ca. 90%"
+      }
+    },
+    {
+      "name": "β-Ni(pyara)2(H2O)2 (2)",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "time": "24 h",
+        "yield": "60%"
+      }
+    }
+  ]
+}

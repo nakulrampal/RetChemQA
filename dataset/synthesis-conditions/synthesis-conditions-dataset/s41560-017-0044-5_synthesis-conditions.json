@@ -1,0 +1,112 @@
+{
+  "Cu-HAB_intermediate": {
+    "chemicals_used": {
+      "copper_nitrate_hemi(pentahydrate)": "20 mg",
+      "HAB": "10 mg",
+      "water": "2 mL",
+      "degassed_water": "2 mL",
+      "anhydrous_THF": "for washing"
+    },
+    "temperature": "room temperature",
+    "solvents": "water, degassed water, anhydrous THF",
+    "equipment": "glove box, vacuum oven",
+    "time": "immediate precipitation, drying time not specified",
+    "washing_method": "anhydrous THF",
+    "drying_method": "vacuum oven",
+    "environment": "air free",
+    "yield": "not specified"
+  },
+  "Cu-HAB_MOF": {
+    "chemicals_used": {
+      "dried_Cu-HAB_solid": "not specified",
+      "ammonium_hydroxide": "few drops, 6 M"
+    },
+    "temperature": "room temperature",
+    "solvents": "air",
+    "equipment": "not specified",
+    "time": "not specified",
+    "washing_method": "not specified",
+    "drying_method": "not specified",
+    "environment": "exposure to air",
+    "yield": "not specified"
+  },
+  "Ni-HAB_MOF": {
+    "chemicals_used": {
+      "nickel_nitrate_hexahydrate": "80 mg",
+      "HAB": "30 mg",
+      "water": "5 mL",
+      "concentrated_aqueous_NH4OH": "0.8 mL"
+    },
+    "temperature": "room temperature",
+    "solvents": "water",
+    "equipment": "open beaker",
+    "time": "2 h",
+    "washing_method": "water and 6 M NH4OH at 100 °C, then acetone",
+    "drying_method": "vacuum at 100 °C",
+    "environment": "ambient air",
+    "yield": "not specified"
+  },
+  "Cu-HAB_MOF_2": {
+    "chemicals_used": {
+      "copper_nitrate_hemi(pentahydrate)": "70 mg",
+      "HAB": "30 mg",
+      "water": "5 mL",
+      "concentrated_aqueous_NH4OH": "0.4 mL"
+    },
+    "temperature": "room temperature",
+    "solvents": "water",
+    "equipment": "open beaker",
+    "time": "2 h",
+    "washing_method": "water and 6 M NH4OH at 100 °C, then acetone",
+    "drying_method": "vacuum at 100 °C",
+    "environment": "ambient air",
+    "yield": "not specified"
+  },
+  "Ni-HAB_film": {
+    "chemicals_used": {
+      "nickel_nitrate_hexahydrate": "15 mg",
+      "HAB": "5 mg",
+      "water": "8 mL",
+      "ethylenediamine": "10 μL"
+    },
+    "temperature": "room temperature",
+    "solvents": "water",
+    "equipment": "Petri dish, plastic container",
+    "time": "12 h",
+    "environment": "O2-free then ambient air",
+    "yield": "thickness ~50 nm"
+  },
+  "Cu-HAB_film": {
+    "chemicals_used": {
+      "copper_nitrate_hemi(pentahydrate)": "15 mg",
+      "HAB": "5 mg",
+      "water": "8 mL",
+      "ethylenediamine": "50 μL"
+    },
+    "temperature": "room temperature",
+    "solvents": "water",
+    "equipment": "Petri dish, plastic container",
+    "time": "12 h",
+    "environment": "O2-free then ambient air",
+    "yield": "thickness 50 to 100 nm"
+  },
+  "Ni-HAB_pellet": {
+    "chemicals_used": {
+      "Ni-HAB_powder": "not specified"
+    },
+    "equipment": "cold isostatic pressing",
+    "yield": "high packing density of 1.77-1.80 g cm-3"
+  },
+  "Cu-HAB_and_Ni-HAB_composite_electrode_film": {
+    "chemicals_used": {
+      "HAB_MOF_powder": "20 mg",
+      "PTFE_binder_solution": "1.85 mg",
+      "carbon_black_powder": "1.1 mg",
+      "ethanol": "2 mL"
+    },
+    "solvents": "ethanol",
+    "equipment": "agate mortar, glass surface",
+    "composition": "90 wt% HAB MOF, 5 wt% PTFE, 5 wt% carbon black",
+    "yield": "composite free-standing electrodes"
+  }
+}

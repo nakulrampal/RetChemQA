@@ -1,0 +1,128 @@
+{
+  "materials": [
+    {
+      "name": "1Mn·8H2O",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "Water",
+            "amount": "20 mL"
+          }
+        ],
+        "equipment": "Glovebox",
+        "chemicals_used": [
+          {
+            "name": "MnCl2·4H2O",
+            "amount": "100 mg"
+          },
+          {
+            "name": "Imidazole",
+            "amount": "68 mg"
+          },
+          {
+            "name": "Potassium octacyanomolybdate(IV) dihydrate",
+            "amount": "50 mg"
+          }
+        ],
+        "time": "48 hours",
+        "yield": "Approx. 30 mg, 40%",
+        "drying_method": "Air dried"
+      }
+    },
+    {
+      "name": "1Mn·3H2O",
+      "synthesis_conditions": {
+        "preparation": "Hand-milled crystals of 1Mn·8H2O were kept for 12 hours in a desiccator above saturated water solution of lithium chloride at 298 K (RH = 11.3 ± 0.3%)."
+      }
+    },
+    {
+      "name": "1Mn·2H2O",
+      "synthesis_conditions": {
+        "preparation": "Hand-milled crystals of 1Mn·8H2O were kept for 12 hours in a desiccator above saturated water solution of potassium hydroxide at 313 K (RH = 6.3 ± 0.4%)."
+      }
+    },
+    {
+      "name": "1Mn",
+      "synthesis_conditions": {
+        "preparation": "1Mn·8H2O was vacuum-dried (p ≈ 10^-2 mbar) over P4O10 for 12 hours at room temperature."
+      }
+    },
+    {
+      "name": "2Cd·8H2O",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "Water",
+            "amount": "90 mL"
+          }
+        ],
+        "equipment": "Glovebox",
+        "chemicals_used": [
+          {
+            "name": "CdCl2·2.5H2O",
+            "amount": "114 mg"
+          },
+          {
+            "name": "Imidazole",
+            "amount": "68 mg"
+          },
+          {
+            "name": "Potassium octacyanomolybdate(IV) dihydrate",
+            "amount": "50 mg"
+          }
+        ],
+        "time": "24 hours",
+        "yield": "Approx. 20 mg, 25%",
+        "drying_method": "Air dried"
+      }
+    },
+    {
+      "name": "2Cd·8H2O:Mn",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "Water",
+            "amount": "90 mL"
+          }
+        ],
+        "equipment": "Glovebox",
+        "chemicals_used": [
+          {
+            "name": "CdCl2·2.5H2O",
+            "amount": "68 mg"
+          },
+          {
+            "name": "MnCl2·4H2O",
+            "amount": "30 mg"
+          },
+          {
+            "name": "Imidazole",
+            "amount": "68 mg"
+          },
+          {
+            "name": "Potassium octacyanomolybdate(IV) dihydrate",
+            "amount": "50 mg"
+          }
+        ],
+        "time": "24 hours",
+        "yield": "Approx. 20 mg, 25%",
+        "drying_method": "Air dried"
+      }
+    },
+    {
+      "name": "2Cd",
+      "synthesis_conditions": {
+        "preparation": "2Cd·8H2O was vacuum-dried (p ≈ 10^-2 mbar) over P4O10 for 12 hours at room temperature."
+      }
+    },
+    {
+      "name": "2Cd:Mn",
+      "synthesis_conditions": {
+        "preparation": "2Cd·8H2O:Mn was vacuum-dried (p ≈ 10^-2 mbar) over P4O10 for 12 hours at room temperature."
+      }
+    }
+  ]
+}

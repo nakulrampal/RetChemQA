@@ -1,0 +1,67 @@
+{
+  "materials": [
+    {
+      "name": "[Cu(bipy)(SO4)]n",
+      "synthesis_conditions": [
+        {
+          "step": "Powder sample preparation",
+          "chemicals_used": [
+            {
+              "name": "CuSO4",
+              "amount": "not specified",
+              "purity": "99.0%"
+            },
+            {
+              "name": "4,4′-bipyridine",
+              "amount": "mole ratio of 1:1 with CuSO4",
+              "purity": "98%"
+            },
+            {
+              "name": "ethanol–water solution",
+              "amount": "not specified"
+            }
+          ],
+          "temperature": "not specified",
+          "equipment": [
+            "not specified"
+          ],
+          "time": "1h",
+          "atmosphere": "not specified",
+          "washing_method": "repeatedly with deionized water",
+          "drying_method": "oven-dried at 100°C for 24h",
+          "yield": "not specified"
+        },
+        {
+          "step": "Single crystal sample preparation",
+          "chemicals_used": [
+            {
+              "name": "CuSO4",
+              "amount": "0.1596g"
+            },
+            {
+              "name": "4,4′-bipy",
+              "amount": "0.2124g"
+            },
+            {
+              "name": "deionized water",
+              "amount": "15mL"
+            },
+            {
+              "name": "ethanol",
+              "amount": "5mL"
+            }
+          ],
+          "temperature": "110°C",
+          "equipment": [
+            "100-mL Teflon-lined stainless steel reactor"
+          ],
+          "time": "24h",
+          "atmosphere": "oven",
+          "washing_method": "not specified",
+          "drying_method": "not specified",
+          "yield": "not specified"
+        }
+      ]
+    }
+  ]
+}

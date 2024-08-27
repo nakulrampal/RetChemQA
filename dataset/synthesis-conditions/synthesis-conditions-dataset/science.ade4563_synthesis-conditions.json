@@ -1,0 +1,124 @@
+{
+  "Material_1": {
+    "Material_name": "Ketenyl anion 2a",
+    "Synthesis_conditions": {
+      "Starting_materials": ["Metalated ylide 1a", "Ylide 4a"],
+      "Reagents": ["Benzyl potassium", "MHMDS"],
+      "Solvents": ["Toluene", "Tetrahydrofuran"],
+      "Temperature": "Room temperature",
+      "Pressure": "1 atm CO",
+      "Yield": "88%",
+      "Stability": "Stable under inert atmosphere, storable for weeks"
+    },
+    "Characterization": {
+      "13C_NMR": {
+        "Solvent": "Tetrahydrofuran",
+        "C1_carbon_atom_shift": "2.4 ppm",
+        "1JCP_coupling_constant": "174.5 Hz",
+        "Carbonyl_carbon_atom_shift": "142.7 ppm",
+        "2JPC_coupling_constant": "40.3 Hz"
+      },
+      "IR_spectroscopy": {
+        "C=C=O_stretching_vibration": "2086 cm-1"
+      },
+      "X-ray_diffraction": {
+        "Structure": "Polymeric in solid state",
+        "Bond_lengths": {
+          "C-C": "~1.245 Å",
+          "C-O": "~1.215 Å"
+        },
+        "Bond_angles": {
+          "P-C-C": "~147.5(7)°"
+        }
+      }
+    },
+    "Computational_studies": {
+      "Wiberg_bond_index": {
+        "C-C": "2.06",
+        "C-O": "1.72"
+      },
+      "Natural_charges": {
+        "Carbon_atom": "-1.02 e",
+        "Oxygen_atom": "-0.59 e"
+      }
+    }
+  },
+  "Material_2": {
+    "Material_name": "Ketenes 3a to 3e",
+    "Synthesis_conditions": {
+      "Starting_material": "Ketenyl anion 2a",
+      "Reagents": ["Trityl chlorides", "Chlorosilanes"],
+      "Yield": ">90%"
+    }
+  },
+  "Material_3": {
+    "Material_name": "Phosphorus heterocycles 3f and 3g",
+    "Synthesis_conditions": {
+      "Starting_material": "Ketenyl anion 2a",
+      "Reagents": ["Primary chlorophosphines"],
+      "Yield": ">90%"
+    }
+  },
+  "Material_4": {
+    "Material_name": "Stable phosphino-substituted ketene 3h",
+    "Synthesis_conditions": {
+      "Starting_material": "Ketenyl anion 2a",
+      "Reagents": ["PtBu3 as reductant"],
+      "Yield": "High"
+    }
+  },
+  "Material_5": {
+    "Material_name": "Phosphinoyl-substituted ketenes 3i",
+    "Synthesis_conditions": {
+      "Starting_material": "Ketenyl anion 2a",
+      "Yield": "High"
+    }
+  },
+  "Material_6": {
+    "Material_name": "Tosyl-substituted ketenes 3j and 3k",
+    "Synthesis_conditions": {
+      "Starting_material": "Ketenyl anion 2a",
+      "Yield": "High"
+    }
+  },
+  "Material_7": {
+    "Material_name": "Cyclic ketones 3l to 3n and enolethers 6",
+    "Synthesis_conditions": {
+      "Starting_material": "Ketenyl anion 2a",
+      "Reagents": ["MeI", "EtI", "HCl"],
+      "Yield": "High"
+    }
+  },
+  "Material_8": {
+    "Material_name": "Acid 5",
+    "Synthesis_conditions": {
+      "Starting_material": "Ketene 3d",
+      "Reagents": ["Water"],
+      "Yield": "High"
+    }
+  },
+  "Material_9": {
+    "Material_name": "Lactam 7",
+    "Synthesis_conditions": {
+      "Starting_material": "Ketene 3h",
+      "Reagents": ["(E)-N-methyl-1-phenylmethanimine"],
+      "Yield": "High"
+    }
+  },
+  "Material_10": {
+    "Material_name": "Thioester enolate 3q",
+    "Synthesis_conditions": {
+      "Starting_material": "Ketenyl anion 2a",
+      "Reagents": ["Diphenylsulfide"],
+      "Yield": "High"
+    }
+  },
+  "Material_11": {
+    "Material_name": "Acrylates 3p, 3q, and 3r",
+    "Synthesis_conditions": {
+      "Starting_material": "Ketenyl anion 2a",
+      "Reagents": ["Ketones", "Aldehydes"],
+      "Yield": "71 to 86%"
+    }
+  }
+}

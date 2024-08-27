@@ -1,0 +1,273 @@
+{
+  "materials": [
+    {
+      "name": "ZJU-300",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount_ml": [
+              "0.1",
+              "2",
+              "0.3"
+            ]
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "ZnSiF6·6H2O",
+            "amount_mmol": "0.0025"
+          },
+          {
+            "name": "TPE",
+            "amount_mmol": "0.003"
+          }
+        ],
+        "equipment": "narrow glass tube",
+        "time_days": "1 week",
+        "temperature_C": "room temperature",
+        "method": "slow diffusion",
+        "yield": "not specified"
+      },
+      "bulk_synthesis": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount_ml": [
+              "5",
+              "15"
+            ]
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "ZnSiF6·6H2O",
+            "amount_mmol": "0.125"
+          },
+          {
+            "name": "TPE",
+            "amount_mmol": "0.15"
+          }
+        ],
+        "equipment": "25-ml glass vial",
+        "time_min": "10",
+        "temperature_C": "80",
+        "method": "fast mixing",
+        "yield": "not specified"
+      },
+      "characterization": {
+        "PXRD": {
+          "patterns": [
+            "simulated from single-crystal X-ray structure",
+            "as-synthesized",
+            "rapidly synthesized",
+            "activated"
+          ]
+        },
+        "SEM": {
+          "morphology": "cubic",
+          "size_um": [
+            "5 (single crystals)",
+            "1-2 (rapidly synthesized particles)"
+          ]
+        },
+        "N2_adsorption_77K": {
+          "BET_surface_area_m2g": "796.2",
+          "pore_volume_cm3g": "0.38"
+        },
+        "C2H2_adsorption_296K": {
+          "uptake_mmolg": "3.23",
+          "selectivity_C2H2_C2H4": "1672"
+        },
+        "stability": {
+          "air_months": "3",
+          "water_days": "10",
+          "HCl_pH3_days": "1",
+          "NaOH_pH11_days": "1"
+        }
+      }
+    },
+    {
+      "name": "SIFSIX-14-Cu-i (UTSA-200)",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount_ml": "3"
+          },
+          {
+            "name": "water",
+            "amount_ml": "2.5"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "4,4’-azopyridine",
+            "amount_mmol": "0.266"
+          },
+          {
+            "name": "CuSiF6·6H2O",
+            "amount_mmol": "0.247"
+          }
+        ],
+        "temperature_C": "80",
+        "time": "15 min, additional 1 h at 50 °C, then 24 h at room temperature",
+        "method": "slow mixing",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "GeFSIX-14-Cu-i (ZU-33)",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount_ml": [
+              "20",
+              "25"
+            ]
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "4,4’-azopyridine",
+            "amount_mmol": "0.286"
+          },
+          {
+            "name": "Cu(BF4)2·xH2O",
+            "amount_mmol": "0.26"
+          },
+          {
+            "name": "(NH4)2GeF6",
+            "amount_mmol": "0.26"
+          }
+        ],
+        "temperature_C": "room temperature",
+        "time_days": "3",
+        "method": "mixing",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "SIFSIX-2-Cu-i",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount_ml": "4.0"
+          },
+          {
+            "name": "water",
+            "amount_ml": "4.0"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "4,4’-bipyridylacetylene",
+            "amount_mmol": "0.286"
+          },
+          {
+            "name": "Cu(BF4)2·xH2O",
+            "amount_mmol": "0.26"
+          },
+          {
+            "name": "(NH4)2SiF6",
+            "amount_mmol": "0.26"
+          }
+        ],
+        "temperature_C": "85",
+        "time_days": "3",
+        "method": "mixing",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "SIFSIX-1-Cu",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "ethylene glycol",
+            "amount_ml": "40"
+          },
+          {
+            "name": "water",
+            "amount_ml": "20"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "4,4’-bipyridine",
+            "amount_g": "0.35"
+          },
+          {
+            "name": "Cu(BF4)2·xH2O",
+            "amount_mg": "266",
+            "amount_mmol": "1.12"
+          },
+          {
+            "name": "(NH4)2SiF6",
+            "amount_mg": "199",
+            "amount_mmol": "1.12"
+          }
+        ],
+        "temperature_C": "65",
+        "time_h": "3",
+        "method": "mixing",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "SIFSIX-3-Ni",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount_ml": "20"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "NiSiF6·6H2O",
+            "amount_mmol": "1"
+          },
+          {
+            "name": "pyrazine",
+            "amount_mmol": "2"
+          }
+        ],
+        "temperature_C": "85",
+        "time_days": "3",
+        "method": "mixing",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "SIFSIX-3-Zn",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount_ml": [
+              "2.0",
+              "2.0"
+            ]
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "pyrazine",
+            "amount_mmol": "1.3"
+          },
+          {
+            "name": "ZnSiF6·6H2O",
+            "amount_mmol": "0.13"
+          }
+        ],
+        "temperature_C": "room temperature",
+        "time_days": "2",
+        "method": "layering",
+        "yield": "not specified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "materials": [
+    {
+      "name": "Zr-NU-1200 Powder",
+      "conditions": [
+        {
+          "temperature": "120 °C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "2 mL"
+            }
+          ],
+          "equipment": "oven",
+          "chemicals_used": [
+            {
+              "name": "TMTB linker",
+              "amount": "0.02 mmol, 10 mg"
+            },
+            {
+              "name": "ZrOCl2·8H2O",
+              "amount": "0.07 mmol, 17 mg"
+            },
+            {
+              "name": "TFA",
+              "amount": "150 μL"
+            }
+          ],
+          "time": "24 h",
+          "washing_method": "DMF (2 × 12 mL soaking for 10 min each time), solution of 12 mL of DMF and 500 μL of 4 M HCl (100 °C oven for 24 h), DMF twice every 10 min, acetone once, soaked in acetone overnight",
+          "drying_method": "80 °C in a vacuum oven for 2 h",
+          "yield": "approximately 80%"
+        }
+      ]
+    },
+    {
+      "name": "Zr-NU-1200 Single Crystal",
+      "conditions": [
+        {
+          "temperature": "120 °C",
+          "solvents": [
+            {
+              "name": "DEF",
+              "amount": "400 μL"
+            }
+          ],
+          "equipment": "oven",
+          "chemicals_used": [
+            {
+              "name": "ZrCl4",
+              "amount": "0.07 mmol, 16 mg"
+            },
+            {
+              "name": "TFA",
+              "amount": "400 μL"
+            }
+          ],
+          "time": "3 days"
+        }
+      ]
+    },
+    {
+      "name": "V-Zr-NU-1200 Single Crystal",
+      "conditions": [
+        {
+          "temperature": "60 °C",
+          "solvents": [
+            {
+              "name": "methanol",
+              "amount": "2 mL"
+            }
+          ],
+          "equipment": "oven",
+          "chemicals_used": [
+            {
+              "name": "vanadyl acetylacetonate",
+              "amount": "around 4 V/M6 compared to the crystal amount"
+            }
+          ],
+          "time": "2 days"
+        }
+      ]
+    },
+    {
+      "name": "Hf-NU-1200 Powder",
+      "conditions": [
+        {
+          "temperature": "120 °C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "2 mL"
+            }
+          ],
+          "equipment": "oven",
+          "chemicals_used": [
+            {
+              "name": "TMTB linker",
+              "amount": "0.02 mmol, 10 mg"
+            },
+            {
+              "name": "HfCl4",
+              "amount": "0.05 mmol, 17 mg"
+            },
+            {
+              "name": "TFA",
+              "amount": "300 μL"
+            }
+          ],
+          "time": "24 h",
+          "washing_method": "same as Zr-NU-1200",
+          "drying_method": "80 °C in a vacuum oven for 2 h",
+          "yield": "approximately 90%"
+        }
+      ]
+    },
+    {
+      "name": "Hf-NU-1200 Single Crystal",
+      "conditions": [
+        {
+          "temperature": "120 °C",
+          "solvents": [
+            {
+              "name": "DEF",
+              "amount": "400 μL"
+            }
+          ],
+          "equipment": "oven",
+          "chemicals_used": [
+            {
+              "name": "HfOCl2·4H2O",
+              "amount": "17 mg"
+            },
+            {
+              "name": "TFA",
+              "amount": "150 μL"
+            }
+          ],
+          "time": "2 days"
+        }
+      ]
+    },
+    {
+      "name": "V-Hf-NU-1200 Single Crystal",
+      "conditions": [
+        {
+          "temperature": "60 °C",
+          "solvents": [
+            {
+              "name": "methanol",
+              "amount": "2 mL"
+            }
+          ],
+          "equipment": "oven",
+          "chemicals_used": [
+            {
+              "name": "vanadyl acetylacetonate",
+              "amount": "around 4 V/per node compared to the crystal amount"
+            }
+          ],
+          "time": "2 days"
+        }
+      ]
+    },
+    {
+      "name": "Ce-NU-1200 Powder",
+      "conditions": [
+        {
+          "temperature": "100 °C",
+          "solvents": [
+            {
+              "name": "DEF",
+              "amount": "1.2 mL"
+            }
+          ],
+          "equipment": "heating block",
+          "chemicals_used": [
+            {
+              "name": "Ce­(NH4)2(NO3)6 solution",
+              "amount": "600 μL of 0.533 M"
+            },
+            {
+              "name": "TFA",
+              "amount": "40 μL"
+            }
+          ],
+          "time": "15 min",
+          "washing_method": "DMF several times, acetone exchange, soaked in acetone overnight",
+          "drying_method": "80 °C in a vacuum oven for 2 h",
+          "yield": "approximately 50%"
+        }
+      ]
+    },
+    {
+      "name": "Th-NU-1200 Powder",
+      "conditions": [
+        {
+          "temperature": "120 °C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "400 μL"
+            }
+          ],
+          "equipment": "oven",
+          "chemicals_used": [
+            {
+              "name": "Th(NO3)4·6H2O",
+              "amount": "1 g (1.8 mmol)"
+            },
+            {
+              "name": "H2O",
+              "amount": "80 μL"
+            },
+            {
+              "name": "TFA",
+              "amount": "20 μL"
+            }
+          ],
+          "time": "24 h",
+          "washing_method": "DMF several times, acetone exchange, soaked in acetone overnight",
+          "drying_method": "80 °C in a vacuum oven for 2 h",
+          "yield": "approximately 60%"
+        }
+      ]
+    }
+  ]
+}

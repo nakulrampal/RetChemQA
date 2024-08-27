@@ -1,0 +1,46 @@
+{
+  "materials": [
+    {
+      "name": "1,4,8,11-tetraazacyclotetradecane-1,4,8,11-tetrapropionic acid (H4L, 1)",
+      "synthesis_conditions": {
+        "chemicals_used": "Not specified",
+        "solvents": "Not specified",
+        "temperature": "Not specified",
+        "equipment": "Not specified",
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified"
+      }
+    },
+    {
+      "name": "Na[LnL(H2O)4]·2H2O (Ln = La (2a), Sm (2b), Eu (2c), Gd (2d))",
+      "synthesis_conditions": {
+        "chemicals_used": "ligand 1 (1.0 mmol), lanthanide nitrate (1.0 mmol)",
+        "solvents": "H2O/EtOH (10 mL, 1:1 ratio)",
+        "temperature": "Not specified",
+        "equipment": "Not specified",
+        "time": "Not specified",
+        "washing_method": "cold H2O and EtOH",
+        "drying_method": "over P4O10",
+        "yield": "Not specified",
+        "additional_steps": [
+          {
+            "step": "pH adjustment",
+            "details": "pH of the solution adjusted to ~5 by dilute NaOH solution"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Gd(III) complex (2d) single crystal",
+      "synthesis_conditions": {
+        "method": "Slow evaporation",
+        "solvent": "water solution of the Gd(III) complex",
+        "time": "~4 weeks",
+        "temperature": "Not specified",
+        "yield": "Not specified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for the metal-organic framework discussed in the article?",
+      "answer": "Cu(2,7-AQDC)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the two types of redox active sites present in the MOF material Cu(2,7-AQDC)?",
+      "answer": "Metal clusters and anthraquinone groups in the ligands",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the synthesis of Cu(2,7-AQDC)?",
+      "answer": "Solvothermal reaction",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of DMF in the synthesis of Cu(2,7-AQDC)?",
+      "answer": "DMF acts as a solvent in the solvothermal reaction",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the porosity of Cu(2,7-AQDC) contribute to its application in lithium batteries?",
+      "answer": "The porosity allows for large Li-ion accommodation numbers and structural stability, enhancing electron storage capabilities.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the voltage window of 4.0-1.7 V in the electrochemical testing of Cu(2,7-AQDC)?",
+      "answer": "It allows for the observation of reversible redox activity of both metal clusters and anthraquinone groups.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the structure of Cu(2,7-AQDC) facilitate its redox activity?",
+      "answer": "The Kagome lattice architecture and the exposure of redox active groups to the internal surface area enhance redox activity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why was the voltage window narrowed to 4.0-2.0 V in some battery tests?",
+      "answer": "Narrowing the voltage window to 4.0-2.0 V achieved high recyclability and robustness by avoiding capacity loss.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the initial specific capacity achieved by the Cu(2,7-AQDC) battery, and how did it change over cycles?",
+      "answer": "An initial specific capacity of 147 mAh/g was achieved, which stabilized to approximately 105 mAh/g within 50 cycles.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the presence of a pre-edge peak in the XANES analysis indicate about the valence change of copper in Cu(2,7-AQDC)?",
+      "answer": "The pre-edge peak indicates a stepwise electron uptake process of Cu2(Ac)4 paddlewheel subunits, transitioning from Cu(II) to an intermediate state and then to Cu(I).",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The theoretical capacity of Cu(2,7-AQDC) is significantly higher than that of major commercial materials like LiCoO2.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The solvothermal reaction used in the synthesis of Cu(2,7-AQDC) does not involve DMF.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The practical capacity of Cu(2,7-AQDC) is limited by the exposed surface area and the charge transfer rate.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The Cu(2,7-AQDC) MOF exhibits redox activity only on the metal cluster nodes.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The capacity loss observed in Cu(2,7-AQDC) batteries is primarily due to the degradation of the MOF structure.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The activation of Cu(2,7-AQDC) involves heating under vacuum to remove DMF molecules.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The cyclic performance test of Cu(2,7-AQDC) showed an increase in capacity over 50 cycles.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

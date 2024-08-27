@@ -1,0 +1,172 @@
+{
+  "materials": [
+    {
+      "material": "3a",
+      "synthesis_conditions": [
+        {
+          "temperature": "room temperature",
+          "solvent": "toluene",
+          "solvent_amount": "0.5 m",
+          "equipment": null,
+          "chemicals_used": [
+            "a-bromoamide 1a",
+            "tert-butyl amine (2a)",
+            "copper catalyst",
+            "K3PO4",
+            "PPh3"
+          ],
+          "time": "23 h",
+          "washing_method": null,
+          "drying_method": null,
+          "yield": "91%",
+          "additional_conditions": [
+            {
+              "label": "optimized conditions",
+              "details": "10 mol% CuBr(SMe2), 1.2 equiv K3PO4, 10 mol% PPh3, 2 m toluene"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "material": "3b",
+      "synthesis_conditions": [
+        {
+          "temperature": "40 88C",
+          "solvent": "MeCN",
+          "solvent_amount": "1 m",
+          "equipment": null,
+          "chemicals_used": [
+            "a-bromoamide 1a",
+            "NH4Br",
+            "CuBr(SMe2)",
+            "K3PO4",
+            "PCy3"
+          ],
+          "time": "23 h",
+          "washing_method": null,
+          "drying_method": null,
+          "yield": "75%",
+          "additional_conditions": [
+            {
+              "label": "modified optimized conditions",
+              "details": "7.5 mol% CuBr(SMe2), 5 equiv NH4Br, 5 equiv K3PO4, 10 mol% PCy3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "material": "3c-3e",
+      "synthesis_conditions": [
+        {
+          "temperature": "room temperature",
+          "solvent": "toluene",
+          "solvent_amount": "0.5 m",
+          "equipment": null,
+          "chemicals_used": [
+            "a-bromoamide 1a",
+            "amines (n-butyl, phenyl, benzyl)",
+            "CuBr(SMe2)",
+            "K3PO4",
+            "PPh3"
+          ],
+          "time": "23 h",
+          "washing_method": null,
+          "drying_method": null,
+          "yield": "excellent",
+          "additional_conditions": [
+            {
+              "label": "optimized reaction conditions",
+              "details": "7.5 mol% CuBr(SMe2), 3 equiv amine, 1.2 equiv K3PO4, 10 mol% PPh3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "material": "3f",
+      "synthesis_conditions": [
+        {
+          "temperature": "room temperature",
+          "solvent": "toluene",
+          "solvent_amount": "0.5 m",
+          "equipment": null,
+          "chemicals_used": [
+            "a-bromoamide 1a",
+            "p-tosylamide (2f)",
+            "CuBr(SMe2)",
+            "K3PO4",
+            "PPh3"
+          ],
+          "time": "23 h",
+          "washing_method": null,
+          "drying_method": null,
+          "yield": "81%",
+          "additional_conditions": [
+            {
+              "label": "optimized reaction conditions",
+              "details": "7.5 mol% CuBr(SMe2), 3 equiv p-tosylamide, 1.2 equiv K3PO4, 10 mol% PPh3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "material": "3g-3j",
+      "synthesis_conditions": [
+        {
+          "temperature": "room temperature",
+          "solvent": "toluene",
+          "solvent_amount": "0.5 m",
+          "equipment": null,
+          "chemicals_used": [
+            "a-bromoamide 1a",
+            "disubstituted amines (2g-2j)",
+            "CuBr(SMe2)",
+            "K3PO4",
+            "PPh3"
+          ],
+          "time": "23 h",
+          "washing_method": null,
+          "drying_method": null,
+          "yield": "excellent",
+          "additional_conditions": [
+            {
+              "label": "optimized reaction conditions",
+              "details": "7.5 mol% CuBr(SMe2), 3 equiv disubstituted amine, 1.2 equiv K3PO4, 10 mol% PPh3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "material": "3l and 3m",
+      "synthesis_conditions": [
+        {
+          "temperature": "room temperature",
+          "solvent": "toluene",
+          "solvent_amount": "0.5 m",
+          "equipment": null,
+          "chemicals_used": [
+            "a-bromoamide 1a",
+            "aromatic amines (2l and 2m)",
+            "CuBr(SMe2)",
+            "NaOH",
+            "PPh3"
+          ],
+          "time": "23 h",
+          "washing_method": null,
+          "drying_method": null,
+          "yield": "good",
+          "additional_conditions": [
+            {
+              "label": "optimized reaction conditions with NaOH addition",
+              "details": "7.5 mol% CuBr(SMe2), 3 equiv aromatic amine, 1 equiv NaOH, 10 mol% PPh3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

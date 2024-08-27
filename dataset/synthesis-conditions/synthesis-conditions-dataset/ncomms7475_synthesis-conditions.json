@@ -1,0 +1,136 @@
+{
+  "materials": [
+    {
+      "name": "Ba-L-Fe28",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "530 ml"
+          },
+          {
+            "name": "formic acid",
+            "amount": "100 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Ba(OH)2·8H2O",
+            "amount": "4.54 g"
+          },
+          {
+            "name": "Fe(NO3)3",
+            "amount": "8 ml of 1 M solution"
+          },
+          {
+            "name": "L-tartaric acid",
+            "amount": "0.25 g"
+          }
+        ],
+        "temperature": "50 °C",
+        "time": "3 h",
+        "yield": "32.5%",
+        "drying_method": "left in a refrigerator at 4 °C for crystallization"
+      }
+    },
+    {
+      "name": "Ba-D-Fe28",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "530 ml"
+          },
+          {
+            "name": "formic acid",
+            "amount": "100 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Ba(OH)2·8H2O",
+            "amount": "4.54 g"
+          },
+          {
+            "name": "Fe(NO3)3",
+            "amount": "8 ml of 1 M solution"
+          },
+          {
+            "name": "D-tartaric acid",
+            "amount": "0.25 g"
+          }
+        ],
+        "temperature": "50 °C",
+        "time": "3 h",
+        "yield": "25.2%",
+        "drying_method": "left in a refrigerator at 4 °C for crystallization"
+      }
+    },
+    {
+      "name": "Ca-L-Fe28",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "530 ml"
+          },
+          {
+            "name": "propanoic acid",
+            "amount": "90 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Ca(OH)2",
+            "amount": "0.945 g"
+          },
+          {
+            "name": "Fe(NO3)3",
+            "amount": "6 ml of 1 M solution"
+          },
+          {
+            "name": "L-tartaric acid",
+            "amount": "0.30 g"
+          }
+        ],
+        "temperature": "90 °C",
+        "time": "2 h",
+        "yield": "31%",
+        "drying_method": "cooled down to room temperature and filtered"
+      }
+    },
+    {
+      "name": "Ca-D-Fe28",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "530 ml"
+          },
+          {
+            "name": "propanoic acid",
+            "amount": "90 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Ca(OH)2",
+            "amount": "0.945 g"
+          },
+          {
+            "name": "Fe(NO3)3",
+            "amount": "6 ml of 1 M solution"
+          },
+          {
+            "name": "D-tartaric acid",
+            "amount": "0.30 g"
+          }
+        ],
+        "temperature": "90 °C",
+        "time": "2 h",
+        "yield": "28%",
+        "drying_method": "cooled down to room temperature and filtered"
+      }
+    }
+  ]
+}

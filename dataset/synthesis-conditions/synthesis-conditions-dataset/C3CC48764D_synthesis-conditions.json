@@ -1,0 +1,85 @@
+{
+  "materials": [
+    {
+      "name": "EuL",
+      "synthesis_conditions": {
+        "temperature": "80℃",
+        "solvents": ["ethanol", "H2O"],
+        "amount_of_solvents": {
+          "ethanol": "3.0 mL",
+          "H2O": "3.0 mL"
+        },
+        "equipment": "15 mL Teflon-lined stainless-steel autoclave",
+        "chemicals_used": {
+          "Eu(NO3)3·6H2O": "0.05 mmol",
+          "L (ligand)": "0.05 mmol"
+        },
+        "time": "72 h",
+        "washing_method": "washed with ethanol",
+        "drying_method": "dried under ambient conditions",
+        "yield": "74% based on L"
+      }
+    },
+    {
+      "name": "LnL complexes (Ln = Pr, Nd, Sm, Eu, Gd, Tb, Dy, Er, Tm, Yb, Y)",
+      "synthesis_conditions": {
+        "temperature": "80℃",
+        "solvents": ["ethanol", "H2O"],
+        "amount_of_solvents": {
+          "ethanol": "3.0 mL",
+          "H2O": "variable, adjusted based on the amount of Ln(NO3)3·6H2O aqueous solution used"
+        },
+        "equipment": "15 mL Teflon-lined stainless-steel autoclave",
+        "chemicals_used": {
+          "Ln(NO3)3·6H2O": "variable, based on specific Ln",
+          "L (ligand)": "0.05 mmol"
+        },
+        "time": "72 h",
+        "washing_method": "washed with ethanol",
+        "drying_method": "dried under ambient conditions"
+      }
+    },
+    {
+      "name": "EuxTb1-xL",
+      "synthesis_conditions": {
+        "temperature": "80℃",
+        "solvents": ["ethanol", "H2O"],
+        "amount_of_solvents": {
+          "ethanol": "3.0 mL",
+          "H2O": "3.0-a-b mL"
+        },
+        "equipment": "15 mL Teflon-lined stainless-steel autoclave",
+        "chemicals_used": {
+          "Eu(NO3)3·6H2O aqueous solution": "0.04 mol/L, a mL",
+          "Tb(NO3)3·6H2O aqueous solution": "0.08 mol/L, b mL",
+          "L (ligand)": "0.05 mmol"
+        },
+        "time": "72 h",
+        "washing_method": "washed with ethanol",
+        "drying_method": "dried under ambient conditions"
+      }
+    },
+    {
+      "name": "DyxEuyGd1-x-yL and SmxEuyGd1-x-yL",
+      "synthesis_conditions": {
+        "temperature": "80℃",
+        "solvents": ["ethanol", "H2O"],
+        "amount_of_solvents": {
+          "ethanol": "3.0 mL",
+          "H2O": "3.0-a-b-c mL"
+        },
+        "equipment": "15 mL Teflon-lined stainless-steel autoclave",
+        "chemicals_used": {
+          "Dy(NO3)3·6H2O aqueous solution": "0.04 mol/L, a mL (for DyxEuyGd1-x-yL)",
+          "Eu(NO3)3·6H2O aqueous solution": "1.25×10-3 mol/L, b mL (for DyxEuyGd1-x-yL); 0.04 mol/L, b mL (for SmxEuyGd1-x-yL)",
+          "Gd(NO3)3·6H2O aqueous solution": "0.08 mol/L, c mL",
+          "Sm(NO3)3·6H2O aqueous solution": "0.04 mol/L, a mL (for SmxEuyGd1-x-yL)",
+          "L (ligand)": "0.05 mmol"
+        },
+        "time": "72 h",
+        "washing_method": "washed with ethanol",
+        "drying_method": "dried under ambient conditions"
+      }
+    }
+  ]
+}

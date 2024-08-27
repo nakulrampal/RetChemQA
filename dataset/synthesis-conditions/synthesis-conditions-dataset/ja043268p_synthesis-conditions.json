@@ -1,0 +1,63 @@
+{
+  "materials": [
+    {
+      "material": "LiI/3-hydroxypropionitrile/SiO2",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation of the Electrolytes",
+          "details": {
+            "chemicals_used": "anhydrous LiI (99%, Acros Organics), 3-hydroxypropionitrile (HPN, 98%, Acros Organics), silica powder (micrometer SiO2 with particle diameter 0.3−2 μm, ultrafine, Tianjin Chemical Reagent Factory, China; nanometer SiO2, 15 nm, Degussa)",
+            "solvents": "N/A",
+            "equipment": "argon-filled glovebox (M.Braun), scanning electron microscope (SEM, Hitachi S-4000)",
+            "temperature": "room temperature for cooling",
+            "time": "N/A",
+            "atmosphere": "argon",
+            "yield": "N/A",
+            "washing_method": "N/A",
+            "drying_method": "N/A",
+            "other_conditions": "first heating the mixture until a homogeneous melt was obtained, then cooling to room temperature naturally; for electrolytes containing inert oxide additives, silica powder was added into the melts, followed by stirring and ultrasonicating vigorously until a homogeneous composite was formed"
+          }
+        },
+        {
+          "step": "Impedance Measurement",
+          "details": {
+            "equipment": "HP 4192A impedance analyzer, special design test cell with a sandwich structure of 'stainless steel/electrolyte/stainless steel'",
+            "temperature": "20 to 50 °C",
+            "time": "N/A",
+            "frequency_range": "5 Hz to 13 MHz",
+            "other_conditions": "electrolyte was melted in advance and filled between two electrode plates to improve the interfacial contact; the distance between two electrodes is fixed by a special design"
+          }
+        },
+        {
+          "step": "X-ray Structure Determination",
+          "details": {
+            "equipment": "Rigaku R-AXIS RAPID IP diffractometer (λ(Mo Kα) = 0.71073 Å)",
+            "temperature": "293 ± 2 K",
+            "chemicals_used": "LiI/(HPN) (1:4) cooled melt",
+            "other_conditions": "single-crystal particle with dimension of 0.794 × 0.285 × 0.421 mm3 was selected; crystal was sealed in a capillary to protect from moisture"
+          }
+        },
+        {
+          "step": "TiO2/Dye Film Preparation",
+          "details": {
+            "chemicals_used": "TiO2 (P25) paste, conducting glass substrate (F-doped SnO2, 10 Ω /□), dye cis-dithiocyanate-N,N‘-bis(4,4‘-dicarboxylate-2,2‘-bipyridine)ruthenium(II) (RuN3, Solaronix) with a concentration of 3 × 10-4 M in dry ethanol",
+            "equipment": "screen-printing technique",
+            "temperature": "450 °C for sintering, 120 °C for preheating",
+            "time": "30 min for sintering, overnight for dye immersion",
+            "other_conditions": "mesoporous TiO2 film was preheated before immersion into dye solution"
+          }
+        },
+        {
+          "step": "Fabrication of the DSSC",
+          "details": {
+            "chemicals_used": "composite electrolytes, solvents dimethyl carbonate (DMC) and propylene carbonate (PC) (Battery Grade, 4:1, v/v)",
+            "equipment": "vacuum conditions for solvent removal",
+            "temperature": "N/A",
+            "time": "30 min for stirring",
+            "other_conditions": "electrolyte solution was dropped onto the surface of the TiO2 film and solvents were removed under vacuum; procedure repeated several times until the TiO2 film was covered with the electrolyte; an open sandwich-type cell was fabricated in air by clamping the TiO2/electrolyte with a thermally platinized ITO counter electrode"
+          }
+        }
+      ]
+    }
+  ]
+}

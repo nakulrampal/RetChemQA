@@ -1,0 +1,29 @@
+{
+  "materials": [
+    {
+      "name": "Au28",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "9-HC/C-closo-1,2-C2B10H11",
+          "Au(tht)Cl (2 equiv)",
+          "trimethylamine",
+          "AgNO3 (2 equiv)"
+        ],
+        "solvent": "Not explicitly mentioned",
+        "temperature": "Room temperature",
+        "time": "Longer standstill after initial byproduct formation",
+        "yield": "Low due to dominant byproduct formation",
+        "additional_information": "Extra reducing agent NaBH4 added after AgCl removal for improved yield"
+      }
+    },
+    {
+      "name": "Au23",
+      "synthesis_conditions": {
+        "solvent": "Methanol",
+        "temperature": "Room temperature",
+        "time": "48 hours for complete transformation from Au28; can be shortened to 3 hours at 50 88C",
+        "additional_information": "Transformation from Au28 in methanol; monitored by ESI-MS and UV-visible absorption spectra"
+      }
+    }
+  ]
+}

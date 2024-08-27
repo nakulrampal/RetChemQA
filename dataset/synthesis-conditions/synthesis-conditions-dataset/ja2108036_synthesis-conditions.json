@@ -1,0 +1,64 @@
+{
+  "materials": [
+    {
+      "name": "Tb-DMBDC",
+      "synthesis_conditions": {
+        "temperature": "75 °C",
+        "solvents": ["DMF", "EtOH", "H2O"],
+        "amount_of_each_solvent": {
+          "DMF": "6 mL",
+          "EtOH": "3 mL",
+          "H2O": "2 mL"
+        },
+        "equipment": "20 mL glass vial",
+        "chemicals_used": {
+          "Tb(NO3)3·5H2O": "120 mg, 0.299 mmol",
+          "2, 5-dimethoxy-1, 4-benzenedicarboxylic acid (H2DMBDC)": "30 mg, 0.133 mmol"
+        },
+        "time": "48 h",
+        "yield": "71%",
+        "washing_method": "washed with DMF"
+      }
+    },
+    {
+      "name": "Eu-DMBDC",
+      "synthesis_conditions": {
+        "temperature": "75 °C",
+        "solvents": ["DMF", "EtOH", "H2O"],
+        "amount_of_each_solvent": {
+          "DMF": "6 mL",
+          "EtOH": "3 mL",
+          "H2O": "2 mL"
+        },
+        "equipment": "20 mL glass vial",
+        "chemicals_used": {
+          "Eu(NO3)3·5H2O": "120 mg, 0.305 mmol",
+          "2, 5-dimethoxy-1, 4-benzenedicarboxylic acid (H2DMBDC)": "30 mg, 0.133 mmol"
+        },
+        "time": "48 h",
+        "yield": "Not specified",
+        "washing_method": "Not specified"
+      }
+    },
+    {
+      "name": "EuxTb1-x-DMBDC (x = 0.0011, 0.0046 and 0.0069)",
+      "synthesis_conditions": {
+        "temperature": "75 °C",
+        "solvents": ["DMF", "EtOH", "H2O"],
+        "amount_of_each_solvent": {
+          "DMF": "6 mL",
+          "EtOH": "3 mL",
+          "H2O": "2 mL"
+        },
+        "equipment": "20 mL glass vial",
+        "chemicals_used": {
+          "Tb(NO3)3·5H2O and Eu(NO3)3·5H2O": "mixture as the metal source",
+          "2, 5-dimethoxy-1, 4-benzenedicarboxylic acid (H2DMBDC)": "30 mg, 0.133 mmol"
+        },
+        "time": "48 h",
+        "yield": "Not specified",
+        "washing_method": "Not specified"
+      }
+    }
+  ]
+}

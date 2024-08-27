@@ -1,0 +1,69 @@
+{
+  "materials": [
+    {
+      "name": "ZnCar·DMF",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": ["DMF", "H2O"],
+        "amount_of_solvents": {
+          "DMF": "not specified",
+          "H2O": "not specified"
+        },
+        "equipment": "not specified",
+        "chemicals_used": ["zinc nitrate", "carnosine"],
+        "time": "12 hours",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "ZnCar",
+      "synthesis_conditions": {
+        "temperature": "130 °C",
+        "solvents": ["none, desolvation of ZnCar·DMF"],
+        "amount_of_solvents": {
+          "none": "not applicable"
+        },
+        "equipment": "high-vacuum line",
+        "chemicals_used": ["none, derived from ZnCar·DMF"],
+        "time": "5 hours",
+        "washing_method": "not specified",
+        "drying_method": "vacuum",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "ZnCar·MeOH",
+      "synthesis_conditions": {
+        "temperature": "not specified",
+        "solvents": ["MeOH"],
+        "amount_of_solvents": {
+          "MeOH": "not specified"
+        },
+        "equipment": "not specified",
+        "chemicals_used": ["none, derived from ZnCar"],
+        "time": "not specified",
+        "washing_method": "soaking",
+        "drying_method": "not specified",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "ZnCar·H2O",
+      "synthesis_conditions": {
+        "temperature": "not specified",
+        "solvents": ["H2O"],
+        "amount_of_solvents": {
+          "H2O": "not specified"
+        },
+        "equipment": "not specified",
+        "chemicals_used": ["none, derived from ZnCar"],
+        "time": "not specified",
+        "washing_method": "soaking",
+        "drying_method": "not specified",
+        "yield": "not specified"
+      }
+    }
+  ]
+}

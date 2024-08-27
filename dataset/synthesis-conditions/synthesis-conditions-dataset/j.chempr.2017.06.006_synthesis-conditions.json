@@ -1,0 +1,340 @@
+{
+  "materials": [
+    {
+      "material": "5a",
+      "conditions": [
+        {
+          "solvent": "CH3OH",
+          "amount": "40 mL",
+          "chemicals": [
+            {
+              "name": "[Cp*RhCl2]2",
+              "amount": "124 mg",
+              "molarity": "0.2 mmol"
+            },
+            {
+              "name": "2,5-dihydroxybenzoquinone",
+              "amount": "28 mg",
+              "molarity": "0.2 mmol"
+            },
+            {
+              "name": "NaOH",
+              "amount": "16 mg",
+              "molarity": "0.4 mmol"
+            }
+          ],
+          "additional_chemicals": [
+            {
+              "name": "AgOTf",
+              "amount": "102.8 mg",
+              "molarity": "0.4 mmol"
+            },
+            {
+              "name": "4,4'-Bipyridylacetylene",
+              "amount": "40.8 mg",
+              "molarity": "0.2 mmol"
+            }
+          ],
+          "time": "6 hr",
+          "temperature": "room temperature",
+          "yield": "95.6%",
+          "purification": "recrystallization by slow diffusion of diethyl ether into the filtrate",
+          "characterization": [
+            {
+              "method": "1H NMR",
+              "frequency": "400 MHz",
+              "solvent": "CD3OD",
+              "details": "δ = 8.39 (d, J = 6.4 Hz, 8H, Py-H), 7.65 (d, J = 6.4 Hz, 8H, Py-H), 5.56 (s, 4H, benzoquinone-H), 1.67 (s, 60H, Cp*)"
+            },
+            {
+              "method": "ESI-MS",
+              "details": "m/z: [<5a-4OTf>4+] calcd. 409.05, found 409.05"
+            },
+            {
+              "method": "IR",
+              "details": "KBr disk, cm−1 ν = 1604, 1522, 1412, 1374, 1257, 1224, 1159, 1031, 826, 638, 548, 517"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "material": "5b",
+      "conditions": [
+        {
+          "solvent": "CH3OH",
+          "amount": "40 mL",
+          "chemicals": [
+            {
+              "name": "[Cp*IrCl2]2",
+              "amount": "160 mg",
+              "molarity": "0.2 mmol"
+            },
+            {
+              "name": "2,5-dihydroxybenzoquinone",
+              "amount": "28 mg",
+              "molarity": "0.2 mmol"
+            },
+            {
+              "name": "NaOH",
+              "amount": "16 mg",
+              "molarity": "0.4 mmol"
+            }
+          ],
+          "additional_chemicals": [
+            {
+              "name": "AgOTf",
+              "amount": "102.8 mg",
+              "molarity": "0.4 mmol"
+            },
+            {
+              "name": "4,4'-Bipyridylacetylene",
+              "amount": "40.8 mg",
+              "molarity": "0.2 mmol"
+            }
+          ],
+          "time": "6 hr",
+          "temperature": "room temperature",
+          "yield": "94.4%",
+          "purification": "recrystallization by slow diffusion of diethyl ether into the filtrate",
+          "characterization": [
+            {
+              "method": "1H NMR",
+              "frequency": "400 MHz",
+              "solvent": "CD3OD",
+              "details": "δ = 8.42 (d, J = 6.8 Hz, 8H, Py-H), 7.67 (d, J = 6.8 Hz, 8H, Py-H), 5.89 (s, 4H, benzoquinone-H), 1.63 (s, 60H, Cp*)"
+            },
+            {
+              "method": "IR",
+              "details": "KBr disk, cm−1 ν = 1607, 1525, 1456, 1423, 1374, 1255, 1222, 1201, 1150, 1030, 828, 753, 637, 572, 548, 516"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "material": "6a-BRs",
+      "conditions": [
+        {
+          "solvent": "CH3OH",
+          "amount": "40 mL",
+          "chemicals": [
+            {
+              "name": "[Cp*RhCl2]2",
+              "amount": "124 mg",
+              "molarity": "0.2 mmol"
+            },
+            {
+              "name": "chloranilic acid",
+              "amount": "41.8 mg",
+              "molarity": "0.2 mmol"
+            },
+            {
+              "name": "NaOH",
+              "amount": "16 mg",
+              "molarity": "0.4 mmol"
+            }
+          ],
+          "additional_chemicals": [
+            {
+              "name": "AgOTf",
+              "amount": "102.8 mg",
+              "molarity": "0.4 mmol"
+            },
+            {
+              "name": "4,4'-Bipyridylacetylene",
+              "amount": "40.8 mg",
+              "molarity": "0.2 mmol"
+            }
+          ],
+          "time": "6 hr",
+          "temperature": "room temperature",
+          "yield": "2.1%",
+          "purification": "recrystallization by slow diffusion of diethyl ether into the filtrate",
+          "characterization": [
+            {
+              "method": "1H NMR",
+              "frequency": "400 MHz",
+              "solvent": "CD3OD",
+              "details": "δ = 8.95 (d, J = 6.4 Hz, 24H, Py-H), 7.54 (d, J = 6.4 Hz, 24H, Py-H), 1.75 (s, 180H, Cp*)"
+            },
+            {
+              "method": "ESI-MS",
+              "details": "m/z: [<6a-BRs-3OTf>3+] calcd: 2222.92, found: 2222.96, [<6a-BRs-4OTf>4+] calcd: 1629.20, found: 1629.22"
+            },
+            {
+              "method": "IR",
+              "details": "KBr disk, cm−1 ν = 1604, 1508, 1492, 1423, 1373, 1259, 1224, 1160, 1031, 861, 834, 638, 574, 518, 500"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "material": "6b-BRs",
+      "conditions": [
+        {
+          "solvent": "CH3OH",
+          "amount": "40 mL",
+          "chemicals": [
+            {
+              "name": "[Cp*IrCl2]2",
+              "amount": "160 mg",
+              "molarity": "0.2 mmol"
+            },
+            {
+              "name": "chloranilic acid",
+              "amount": "41.8 mg",
+              "molarity": "0.2 mmol"
+            },
+            {
+              "name": "NaOH",
+              "amount": "16 mg",
+              "molarity": "0.4 mmol"
+            }
+          ],
+          "additional_chemicals": [
+            {
+              "name": "AgOTf",
+              "amount": "102.8 mg",
+              "molarity": "0.4 mmol"
+            },
+            {
+              "name": "4,4'-Bipyridylacetylene",
+              "amount": "40.8 mg",
+              "molarity": "0.2 mmol"
+            }
+          ],
+          "time": "6 hr",
+          "temperature": "room temperature",
+          "yield": "95.1%",
+          "purification": "recrystallization by slow diffusion of diethyl ether into the filtrate",
+          "characterization": [
+            {
+              "method": "1H NMR",
+              "frequency": "400 MHz",
+              "solvent": "CD3OD",
+              "details": "δ = 9.05 (d, J = 6.4 Hz, 24H, Py-H), 7.67 (d, J = 6.4 Hz, 24H, Py-H), 1.71 (s, 180H, Cp*)"
+            },
+            {
+              "method": "IR",
+              "details": "KBr disk, cm−1 ν = 1606, 1534, 1500, 1423, 1371, 1260, 1224, 1202, 110, 1031, 869, 844, 638, 574, 549, 518"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "material": "7-BRs",
+      "conditions": [
+        {
+          "solvent": "CH3OH",
+          "amount": "40 mL",
+          "chemicals": [
+            {
+              "name": "[Cp*RhCl2]2",
+              "amount": "124 mg",
+              "molarity": "0.2 mmol"
+            },
+            {
+              "name": "fluoranilic acid",
+              "amount": "35.2 mg",
+              "molarity": "0.2 mmol"
+            },
+            {
+              "name": "NaOH",
+              "amount": "16 mg",
+              "molarity": "0.4 mmol"
+            }
+          ],
+          "additional_chemicals": [
+            {
+              "name": "AgOTf",
+              "amount": "102.8 mg",
+              "molarity": "0.4 mmol"
+            },
+            {
+              "name": "4,4'-Bipyridylacetylene",
+              "amount": "40.8 mg",
+              "molarity": "0.2 mmol"
+            }
+          ],
+          "time": "6 hr",
+          "temperature": "room temperature",
+          "yield": "94.7%",
+          "purification": "recrystallization by slow diffusion of diethyl ether into the filtrate",
+          "characterization": [
+            {
+              "method": "1H NMR",
+              "frequency": "400 MHz",
+              "solvent": "CD3OD",
+              "details": "δ = 8.93 (d, J = 6.0 Hz, 24H, Py-H), 7.45 (d, J = 6.4 Hz, 24H, Py-H), 1.75 ppm (s, 180H, Cp*)"
+            },
+            {
+              "method": "IR",
+              "details": "KBr disk, cm−1 ν = 1660, 1637, 1602, 1557, 1516, 1488, 1374, 1260, 1228, 1165, 1032, 832, 639, 518"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "material": "8-BRs",
+      "conditions": [
+        {
+          "solvent": "CH3OH",
+          "amount": "40 mL",
+          "chemicals": [
+            {
+              "name": "[Cp*RhCl2]2",
+              "amount": "124 mg",
+              "molarity": "0.2 mmol"
+            },
+            {
+              "name": "bromanilic acid",
+              "amount": "59.4 mg",
+              "molarity": "0.2 mmol"
+            },
+            {
+              "name": "NaOH",
+              "amount": "16 mg",
+              "molarity": "0.4 mmol"
+            }
+          ],
+          "additional_chemicals": [
+            {
+              "name": "AgOTf",
+              "amount": "102.8 mg",
+              "molarity": "0.4 mmol"
+            },
+            {
+              "name": "4,4'-Bipyridylacetylene",
+              "amount": "40.8 mg",
+              "molarity": "0.2 mmol"
+            }
+          ],
+          "time": "6 hr",
+          "temperature": "room temperature",
+          "yield": "95.5%",
+          "purification": "recrystallization by slow diffusion of diethyl ether into the filtrate",
+          "characterization": [
+            {
+              "method": "1H NMR",
+              "frequency": "400 MHz",
+              "solvent": "CD3OD",
+              "details": "δ = 8.95 (d, J = 6.8 Hz, 24H, Py-H), 7.58 (d, J = 6.4 Hz, 24H, Py-H), 1.75 ppm (s, 180H, Cp*)"
+            },
+            {
+              "method": "ESI-MS",
+              "details": "m/z: [<6a-BRs-3OTf>3+] calcd: 2399.72, found: 2400.10, [<6a-BRs-4OTf>4+] calcd: 1762.55, found: 1762.57"
+            },
+            {
+              "method": "IR",
+              "details": "KBr disk, cm−1 ν = 1635, 1604, 1507, 1432, 1360, 1260, 1225, 1161, 1031, 832, 807, 639, 574, 560, 518, 498"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

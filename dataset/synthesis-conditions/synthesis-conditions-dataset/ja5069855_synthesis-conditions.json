@@ -1,0 +1,72 @@
+{
+  "materials": [
+    {
+      "name": "Eu2(CO3)­(ox)2(H2O)2]·4H2O (1)",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "140 °C for 4 days and then at 100 °C for 10 h",
+          "solvents": [
+            {
+              "name": "deionized water",
+              "amount": "10 mL"
+            }
+          ],
+          "equipment": "15 mL Teflon-lined stainless steel container",
+          "chemicals_used": [
+            {
+              "name": "Eu2(CO3)3",
+              "amount": "96.8 mg, 0.2 mmol"
+            },
+            {
+              "name": "H2(ox)·2H2O",
+              "amount": "25.2 mg, 0.2 mmol"
+            }
+          ],
+          "yield": "68% based on Eu",
+          "drying_method": "dried",
+          "washing_method": "washed with deionized water"
+        },
+        {
+          "step": "Dehydration",
+          "temperature": "250 °C under dynamic vacuum for 24 h",
+          "description": "Anhydrous samples were obtained by heating the as-prepared 1."
+        },
+        {
+          "step": "Rehydration",
+          "description": "Exposing the dehydrated sample in an environment of 90% relative humidity for 12 h reproduced pristine 1."
+        }
+      ]
+    }
+  ],
+  "proton_conductivity_measurements": [
+    {
+      "material": "1",
+      "conditions": [
+        {
+          "temperature_range": "25–200 °C",
+          "humidity": "without additional humidity",
+          "equipment": "frequency response analyzer/potentiostat (Princeton Applied Research PARSTAT 2273, EG&GPARC, Princeton, NJ)",
+          "frequency_range": "0.1 to 1 MHz",
+          "voltage": "30 mV",
+          "method": "quasi-four probe electrochemical cell using Ag-pressed electrodes"
+        }
+      ]
+    }
+  ],
+  "photoluminescence_measurements": [
+    {
+      "material": "1",
+      "conditions": [
+        {
+          "equipment": "FLSP 920 Edinburgh instrument (Eng) with 450 W xenon lamp monochromatized by double grating",
+          "method": "time correlated photon counting technique",
+          "temperature_range": "25–150 °C",
+          "excitation_wavelength": "365 nm",
+          "emission_wavelength": "616 nm",
+          "temperature_equilibration_time": "at least 5 h"
+        }
+      ]
+    }
+  ]
+}

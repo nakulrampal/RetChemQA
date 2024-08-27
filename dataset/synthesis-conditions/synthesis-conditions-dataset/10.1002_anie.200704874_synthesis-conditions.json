@@ -1,0 +1,126 @@
+{
+  "materials": [
+    {
+      "name": "1 a",
+      "synthesis_conditions": {
+        "temperature": "160 8C",
+        "time": "72 h",
+        "cooling_rate": "5 8C h-1",
+        "solvents": [
+          {
+            "name": "aqueous ammonia",
+            "amount": "1 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "8 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "NiSO4·6 H2O",
+            "amount": "0.0263 g, 0.10 mmol"
+          },
+          {
+            "name": "HL",
+            "amount": "0.0266 g, 0.12 mmol"
+          },
+          {
+            "name": "NaSCN",
+            "amount": "0.0324 g, 0.40 mmol"
+          }
+        ],
+        "equipment": "15-mL teflon-lined reactor",
+        "yield": "75 %",
+        "drying_method": "dried in air"
+      }
+    },
+    {
+      "name": "1 b",
+      "synthesis_conditions": {
+        "temperature": "160 8C",
+        "chemicals_used": [
+          {
+            "name": "ZnSO4·7 H2O",
+            "amount": "0.0287 g, 0.10 mmol"
+          },
+          {
+            "name": "HL",
+            "amount": "similar to 1 a"
+          },
+          {
+            "name": "NaSCN",
+            "amount": "similar to 1 a"
+          }
+        ],
+        "solvents": "similar to 1 a",
+        "equipment": "similar to 1 a",
+        "yield": "72 %",
+        "drying_method": "dried in air"
+      }
+    },
+    {
+      "name": "2 a",
+      "synthesis_conditions": {
+        "temperature": "160 8C",
+        "time": "72 h",
+        "cooling_rate": "5 8C h-1",
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "9.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CuSCN",
+            "amount": "0.0729 g, 0.60 mmol"
+          },
+          {
+            "name": "NiSO4·6 H2O",
+            "amount": "0.0263 g, 0.10 mmol"
+          },
+          {
+            "name": "HL",
+            "amount": "0.0266 g, 0.12 mmol"
+          },
+          {
+            "name": "PPh3",
+            "amount": "0.1049 g, 0.40 mmol"
+          }
+        ],
+        "equipment": "15-mL teflon-lined reactor",
+        "yield": "63 %",
+        "drying_method": "dried in air"
+      }
+    },
+    {
+      "name": "2 b",
+      "synthesis_conditions": {
+        "temperature": "160 8C",
+        "chemicals_used": [
+          {
+            "name": "CuSCN",
+            "amount": "similar to 2 a"
+          },
+          {
+            "name": "ZnSO4·7 H2O",
+            "amount": "0.0287 g, 0.10 mmol"
+          },
+          {
+            "name": "HL",
+            "amount": "similar to 2 a"
+          },
+          {
+            "name": "PPh3",
+            "amount": "similar to 2 a"
+          }
+        ],
+        "solvents": "similar to 2 a",
+        "equipment": "similar to 2 a",
+        "yield": "58 %",
+        "drying_method": "dried in air"
+      }
+    }
+  ]
+}

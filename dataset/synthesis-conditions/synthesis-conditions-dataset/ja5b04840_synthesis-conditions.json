@@ -1,0 +1,508 @@
+{
+  "materials": [
+    {
+      "material_id": "1",
+      "chemical_formula": "0D-Cu2I2(3-pc)4",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "CuI",
+            "amount": "0.19 g",
+            "molarity": "1.0 mmol"
+          },
+          {
+            "chemical": "3-pc",
+            "amount": "0.37 g",
+            "molarity": "4.0 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "acetone",
+            "amount": "10 mL"
+          }
+        ],
+        "temperature": "room temperature",
+        "equipment": "open reaction vial",
+        "time": "10 min",
+        "method": "filtration",
+        "yield": "83%"
+      }
+    },
+    {
+      "material_id": "2",
+      "chemical_formula": "0D-Cu2I2(3,5-dm-py)4",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "0D-Cu2I2(3-pc)4",
+            "amount": "0.15 g",
+            "molarity": "0.2 mmol"
+          },
+          {
+            "chemical": "3,5-dm-py",
+            "amount": "0.11 g",
+            "molarity": "1.0 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "acetone",
+            "amount": "12 mL"
+          }
+        ],
+        "temperature": "room temperature",
+        "equipment": "glass vial",
+        "time": "10 min",
+        "method": "filtration",
+        "yield": "70%"
+      }
+    },
+    {
+      "material_id": "3",
+      "chemical_formula": "0D-Cu2I2(3-Cl-py)4",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "0D-Cu2I2(3-pc)4",
+            "amount": "0.15 g",
+            "molarity": "0.2 mmol"
+          },
+          {
+            "chemical": "3-Cl-py",
+            "amount": "0.50 g",
+            "molarity": "4.0 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "acetone",
+            "amount": "10 mL"
+          }
+        ],
+        "temperature": "room temperature",
+        "equipment": "reaction vial",
+        "time": "2 days",
+        "method": "evaporation",
+        "yield": "52%"
+      }
+    },
+    {
+      "material_id": "4",
+      "chemical_formula": "0D-Cu2I2(tpp)2(3-pc)2",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "0D-Cu2I2(3-pc)4",
+            "amount": "0.15 g",
+            "molarity": "0.2 mmol"
+          },
+          {
+            "chemical": "tpp",
+            "amount": "0.13 g",
+            "molarity": "0.5 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "acetone",
+            "amount": "10 mL"
+          },
+          {
+            "solvent": "toluene",
+            "amount": "2 mL"
+          }
+        ],
+        "temperature": "room temperature",
+        "equipment": "reaction vial",
+        "time": "6 h",
+        "method": "filtration",
+        "yield": "79%"
+      }
+    },
+    {
+      "material_id": "5",
+      "chemical_formula": "0D-Cu2I2(tpp)2(4,6-dm-pm)2",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "0D-Cu2I2(tpp)2(3-pc)2",
+            "amount": "0.11 g",
+            "molarity": "0.1 mmol"
+          },
+          {
+            "chemical": "4,6-dm-pm",
+            "amount": "0.06 g",
+            "molarity": "0.5 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "toluene",
+            "amount": "15 mL"
+          }
+        ],
+        "temperature": "room temperature",
+        "equipment": "reaction vial",
+        "time": "6 h",
+        "method": "filtration",
+        "yield": "57%"
+      }
+    },
+    {
+      "material_id": "6",
+      "chemical_formula": "1D-Cu2I2(tpp)2(bpp)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "0D-Cu2I2(3-pc)4",
+            "amount": "0.15 g",
+            "molarity": "0.2 mmol"
+          },
+          {
+            "chemical": "tpp",
+            "amount": "0.13 g",
+            "molarity": "0.5 mmol"
+          },
+          {
+            "chemical": "bpp",
+            "amount": "0.10 g",
+            "molarity": "0.5 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "acetone",
+            "amount": "10 mL"
+          },
+          {
+            "solvent": "toluene",
+            "amount": "10 mL"
+          }
+        ],
+        "temperature": "80 °C",
+        "equipment": "reaction vial",
+        "time": "6 h",
+        "method": "filtration",
+        "yield": "75%"
+      }
+    },
+    {
+      "material_id": "7",
+      "chemical_formula": "1D-Cu2I2(tpp)2(4,4′-dps)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "0D-Cu2I2(tpp)2(3-pc)2",
+            "amount": "0.11 g",
+            "molarity": "0.1 mmol"
+          },
+          {
+            "chemical": "4,4′-dps",
+            "amount": "0.09 g",
+            "molarity": "0.5 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "toluene",
+            "amount": "12 mL"
+          }
+        ],
+        "temperature": "room temperature",
+        "equipment": "reaction vial",
+        "time": "3 h",
+        "method": "filtration",
+        "yield": "81%"
+      }
+    },
+    {
+      "material_id": "8",
+      "chemical_formula": "1D-Cu2I2(tpp)2(4,4′-bpy)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "0D-Cu2I2(tpp)2(3-pc)2",
+            "amount": "0.11 g",
+            "molarity": "0.1 mmol"
+          },
+          {
+            "chemical": "4,4′-bpy",
+            "amount": "0.08 g",
+            "molarity": "0.5 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "toluene",
+            "amount": "10 mL"
+          }
+        ],
+        "temperature": "80 °C",
+        "equipment": "reaction vial",
+        "time": "12 h",
+        "method": "filtration",
+        "yield": "75%"
+      }
+    },
+    {
+      "material_id": "9",
+      "chemical_formula": "1D-Cu2I2(tpp)2(5-Br-pm)2",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "0D-Cu2I2(tpp)2(3-pc)2",
+            "amount": "0.15 g",
+            "molarity": "0.2 mmol"
+          },
+          {
+            "chemical": "tpp",
+            "amount": "0.13 g",
+            "molarity": "0.5 mmol"
+          },
+          {
+            "chemical": "5-Br-pm",
+            "amount": "0.08 g",
+            "molarity": "0.5 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "toluene",
+            "amount": "10 mL"
+          }
+        ],
+        "temperature": "80 °C",
+        "equipment": "reaction vial",
+        "time": "1 day",
+        "method": "filtration",
+        "yield": "52%"
+      }
+    },
+    {
+      "material_id": "10",
+      "chemical_formula": "1D-Cu2I2(tpp)2(pz)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "0D-Cu2I2(tpp)2(3-pc)2",
+            "amount": "0.11 g",
+            "molarity": "0.1 mmol"
+          },
+          {
+            "chemical": "pz",
+            "amount": "0.04 g",
+            "molarity": "0.5 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "toluene",
+            "amount": "10 mL"
+          }
+        ],
+        "temperature": "80 °C",
+        "equipment": "reaction vial",
+        "time": "1 day",
+        "method": "filtration",
+        "yield": "67%"
+      }
+    },
+    {
+      "material_id": "11",
+      "chemical_formula": "1D-Cu2I2(5-me-pm)2",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "0D-Cu2I2(3-pc)4",
+            "amount": "0.15 g",
+            "molarity": "0.2 mmol"
+          },
+          {
+            "chemical": "5-me-pm",
+            "amount": "0.05 g",
+            "molarity": "0.5 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "acetone",
+            "amount": "10 mL"
+          }
+        ],
+        "temperature": "room temperature",
+        "equipment": "reaction vial",
+        "time": "2 days",
+        "method": "filtration",
+        "yield": "64%"
+      }
+    },
+    {
+      "material_id": "12",
+      "chemical_formula": "1D-Cu2I2(5-Br-pm)2",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "0D-Cu2I2(3-pc)4",
+            "amount": "0.15 g",
+            "molarity": "0.2 mmol"
+          },
+          {
+            "chemical": "5-Br-pm",
+            "amount": "0.08 g",
+            "molarity": "0.5 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "acetone",
+            "amount": "10 mL"
+          }
+        ],
+        "temperature": "room temperature",
+        "equipment": "reaction vial",
+        "time": "3 days",
+        "method": "filtration",
+        "yield": "58%"
+      }
+    },
+    {
+      "material_id": "13",
+      "chemical_formula": "2D-Cu2I2(bpe)2",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "0D-Cu2I2(3-pc)4",
+            "amount": "0.15 g",
+            "molarity": "0.2 mmol"
+          },
+          {
+            "chemical": "bpe",
+            "amount": "0.38 g",
+            "molarity": "2.0 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "acetone",
+            "amount": "12 mL"
+          }
+        ],
+        "temperature": "room temperature",
+        "equipment": "reaction vial",
+        "time": "30 min",
+        "method": "filtration",
+        "yield": "60%"
+      }
+    },
+    {
+      "material_id": "14",
+      "chemical_formula": "2D-Cu2I2(3,3′-bpy)2",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "0D-Cu2I2(3-pc)4",
+            "amount": "0.15 g",
+            "molarity": "0.2 mmol"
+          },
+          {
+            "chemical": "3,3′-bpy",
+            "amount": "0.16 g",
+            "molarity": "1.0 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "CH2Cl2",
+            "amount": "2 mL"
+          },
+          {
+            "solvent": "acetone",
+            "amount": "10 mL"
+          }
+        ],
+        "temperature": "room temperature",
+        "equipment": "reaction vial",
+        "time": "3 days",
+        "method": "filtration",
+        "yield": "65%"
+      }
+    },
+    {
+      "material_id": "15",
+      "chemical_formula": "2D-Cu2I2(4,4′-dps)2",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "0D-Cu2I2(3-pc)4",
+            "amount": "0.38 g",
+            "molarity": "0.5 mmol"
+          },
+          {
+            "chemical": "4,4′-dps",
+            "amount": "0.19 g",
+            "molarity": "1.0 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "acetone",
+            "amount": "20 mL"
+          }
+        ],
+        "temperature": "room temperature",
+        "equipment": "reaction vial",
+        "time": "2 days",
+        "method": "filtration",
+        "yield": "68%"
+      }
+    },
+    {
+      "material_id": "16",
+      "chemical_formula": "2D-Cu2I2(4,4′-bpy)2",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "0D-Cu2I2(3-pc)4",
+            "amount": "0.15 g",
+            "molarity": "0.2 mmol"
+          },
+          {
+            "chemical": "4,4′-bpy",
+            "amount": "0.08 g",
+            "molarity": "0.5 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "acetone",
+            "amount": "20 mL"
+          }
+        ],
+        "temperature": "room temperature",
+        "equipment": "reaction vial",
+        "time": "30 min",
+        "method": "filtration",
+        "yield": "88%"
+      }
+    },
+    {
+      "material_id": "17",
+      "chemical_formula": "Blue and Yellow Phosphor Blend",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "6",
+            "amount": "75 wt%"
+          },
+          {
+            "chemical": "8",
+            "amount": "25 wt%"
+          }
+        ],
+        "method": "mechanical mixing",
+        "label": "compound 17"
+      }
+    }
+  ]
+}

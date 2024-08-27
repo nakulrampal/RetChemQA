@@ -1,0 +1,52 @@
+{
+  "materials": [
+    {
+      "name": "1·4 DMF·1=2H2O",
+      "synthesis_conditions": {
+        "temperature": "120 8C",
+        "time": "2 days",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "40 mL"
+          }
+        ],
+        "equipment": "teflon-lined steel bomb",
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6 H2O",
+            "amount": "1.0 g, 3.36 mmol"
+          },
+          {
+            "name": "H2bdc",
+            "amount": "0.560 g, 3.37 mmol"
+          },
+          {
+            "name": "dabco",
+            "amount": "0.187 g, 1.67 mmol"
+          }
+        ],
+        "washing_method": "washed with DMF",
+        "drying_method": "dried under a reduced pressure at room temperature for 2 h",
+        "yield": "1.21 g, 83 %"
+      }
+    },
+    {
+      "name": "1·2 C6H6",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "1·4 DMF·1=2H2O crystals",
+            "note": "used as starting material"
+          },
+          {
+            "name": "benzene",
+            "note": "soaking solvent"
+          }
+        ],
+        "time": "3 days",
+        "note": "Single-crystals of 1·4 DMF·1=2H2O were soaked in benzene"
+      }
+    }
+  ]
+}

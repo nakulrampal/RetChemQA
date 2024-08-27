@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula and molecular weight of HBCMOF-1 at 93 K?",
+      "answer": "Empirical Formula: C117.3H119.6N5.06O10.5Zn, Molecular Weight: 1833.64",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the crystal system and space group for HBCMOF-2 at 93 K?",
+      "answer": "Crystal System: Triclinic, Space Group: P-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the structure of HBCMOF-1 at 298 K solved and refined?",
+      "answer": "The structure was solved by a direct method (SHELXT-2014/4) and refined by full-matrix least-squares cycles in SHELX-2018/3.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the computational study of HBCMOF-3 and its interaction with gases?",
+      "answer": "The computational study used the self-consistent-charge density-functional tight-binding (DFTB) method with the third-order expansion.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the result of the Le Bail fitting for HBCMOF-3 with CO2 at 195 K?",
+      "answer": "The cell parameters were a = 14.116 Å, b = 17.034 Å, c = 19.473 Å, α = 110.069°, β = 96.085°, γ = 92.513°, and the volume was 4357 Å3.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the solvent mask routine used in the crystallography of HBCMOF-1 and HBCMOF-2?",
+      "answer": "The solvent mask routine was used to treat heavily disordered solvent molecules that could not be modeled, effectively removing them from the crystal structure to improve the refinement process.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the adsorption capacity of HBCMOF-3 for C2H2 compare to other materials listed in Table S8?",
+      "answer": "HBCMOF-3 has a C2H2 adsorption capacity of 15.4 mmol g–1, which is higher than most materials listed except for MFM-202 and Cu2(bdc)2(dabco), making it one of the top materials for C2H2 adsorption.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of HBCLMe2 involved a Suzuki–Miyaura cross-coupling reaction.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The PXRD patterns of HBCMOF-3 showed no change upon adsorption and desorption of C6H6 and C6H12.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The gas sorption isotherms for CO2 on MOF-5 and HKUST-1 were hysteretic under the same conditions.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of heating the single crystals of HBCMOF-1 to obtain HBCMOF-2?",
+      "answer": "Heating the single crystals of HBCMOF-1 was done to induce a crystalline transition to HBCMOF-2, which involved a change in coordination geometry of the Zn2+ ions from tetrahedral to trigonal bipyramidal.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the adaptive nature of HBCMOF-3 contribute to its gas sorption properties?",
+      "answer": "The adaptive nature of HBCMOF-3, due to the axial rotational freedom of its HBC units, allows it to undergo pressure-dependent structural phase transitions, which contribute to its selective and high gas sorption capacities.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the role of DEF in the synthesis of HBCMOF-1 and HBCMOF-2?",
+      "answer": "DEF (N,N-diethylformamide) was used as a solvent in the synthesis process of HBCMOF-1 and HBCMOF-2, and it also acted as a coordinating molecule to Zn2+ ions in the framework's structure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of HBCLH2 involved alkaline hydrolysis of HBCLMe2.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What challenges were encountered in the crystallographic analysis of HBCMOF-1 and HBCMOF-2?",
+      "answer": "The crystallographic analysis of HBCMOF-1 and HBCMOF-2 faced challenges due to the heavy disordering of solvent molecules in the nanopores, which required the use of solvent mask routines and restraints for refinement.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

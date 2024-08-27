@@ -1,0 +1,100 @@
+{
+  "materials": [
+    {
+      "name": "Mn2(C34H16O8S4)(H2O)2·(DMF)0.7(H2O)1.75 (Mn2(TTFTB))",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Mn(NO3)2·xH2O",
+          "H4TTFTB",
+          "water",
+          "ethanol",
+          "DMF"
+        ],
+        "solvents": [
+          {
+            "name": "water/ethanol",
+            "ratio": "1:1",
+            "amount": "8 ml"
+          },
+          {
+            "name": "DMF/ethanol",
+            "ratio": "3:1",
+            "amount": "8 ml"
+          }
+        ],
+        "temperature": "75 °C",
+        "time": "72 hours",
+        "yield": "84%",
+        "washing_method": [
+          "DMF (20 ml)",
+          "ethanol (20 ml)"
+        ],
+        "drying_method": "evacuated at 200 °C for 12 hours at 4 mtorr"
+      }
+    },
+    {
+      "name": "Co2(C34H16O8S4)(H2O)2·(DMF)1.75(H2O)2 (Co2(TTFTB))",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Co(NO3)2·6H2O",
+          "H4TTFTB",
+          "water",
+          "ethanol",
+          "DMF"
+        ],
+        "solvents": [
+          {
+            "name": "water/ethanol",
+            "ratio": "1:1",
+            "amount": "8 ml"
+          },
+          {
+            "name": "DMF/ethanol",
+            "ratio": "3:1",
+            "amount": "8 ml"
+          }
+        ],
+        "temperature": "75 °C",
+        "time": "72 hours",
+        "yield": "75%",
+        "washing_method": [
+          "DMF (20 ml)",
+          "ethanol (20 ml)"
+        ],
+        "drying_method": "evacuated at 200 °C for 12 hours at 4 mtorr"
+      }
+    },
+    {
+      "name": "Cd2(C34H16O8S4)(μ2-OH2)(H2O)·(DMF)1.5(H2O)2 (Cd2(TTFTB))",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Cd(NO3)2·4H2O",
+          "H4TTFTB",
+          "water",
+          "ethanol",
+          "DMF"
+        ],
+        "solvents": [
+          {
+            "name": "water/ethanol",
+            "ratio": "1:1",
+            "amount": "12 ml"
+          },
+          {
+            "name": "DMF/ethanol",
+            "ratio": "3:1",
+            "amount": "8.4 ml"
+          }
+        ],
+        "temperature": "75 °C",
+        "time": "72 hours",
+        "yield": "73%",
+        "washing_method": [
+          "DMF (30 ml)",
+          "ethanol (30 ml)"
+        ],
+        "drying_method": "evacuated at 220 °C for 24 hours at 4 mtorr"
+      }
+    }
+  ]
+}

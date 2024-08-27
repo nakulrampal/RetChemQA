@@ -1,0 +1,41 @@
+{
+  "materials": [
+    {
+      "name": "FJI-H11-Me(des)",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "Not explicitly mentioned",
+          "solvents": "Not explicitly mentioned",
+          "equipment": "Not explicitly mentioned",
+          "chemicals_used": [
+            "Cu(NO3)2·3 H2O",
+            "designed synthetic tetracarboxylic ligand"
+          ],
+          "time": "Not explicitly mentioned",
+          "yield": "Not explicitly mentioned"
+        },
+        {
+          "step": "Post-synthesis treatment",
+          "temperature": "80 °C",
+          "solvents": "low boiling solvents",
+          "equipment": "dynamic vacuum",
+          "chemicals_used": [],
+          "time": "10 h",
+          "yield": "Not explicitly mentioned",
+          "additional_information": "Changed with low boiling solvents for 3 days before heating"
+        },
+        {
+          "step": "Activation for gas separation experiments",
+          "temperature": "80 °C",
+          "solvents": "Not explicitly mentioned",
+          "equipment": "vacuum pump, stainless-steel tube",
+          "chemicals_used": [],
+          "time": "10 h",
+          "yield": "Not explicitly mentioned",
+          "additional_information": "Solvent molecules removed from the surface with a vacuum pump for 2 h before activation"
+        }
+      ]
+    }
+  ]
+}

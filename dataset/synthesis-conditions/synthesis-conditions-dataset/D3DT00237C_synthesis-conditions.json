@@ -1,0 +1,59 @@
+{
+  "materials": [
+    {
+      "name": "SM-3",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "48 h",
+        "solvents": "DMF",
+        "amount_of_solvent": "3 mL",
+        "chemicals_used": [
+          {
+            "name": "1,4-Benzene dicarboxylic acid (H2bdc)",
+            "amount": "0.2 mmol, 0.044 g"
+          },
+          {
+            "name": "pyrazino[2,3-f][1,10]-phenanthroline (py-Phen)",
+            "amount": "0.1 mmol, 0.023 g"
+          },
+          {
+            "name": "Pb(NO3)2",
+            "amount": "0.2 mmol, 0.066 g"
+          }
+        ],
+        "equipment": "Teflon-lined stainless-steel autoclave",
+        "yield": "72%",
+        "drying_method": "Room temperature cooling"
+      },
+      "iodine_adsorption_vapor_phase": {
+        "temperature": "75 °C",
+        "time": "40 h",
+        "initial_weight_of_SM-3": "40 mg",
+        "final_weight_of_SM-3": "Data not provided",
+        "maximum_uptake_amount": "157.5 mg g-1"
+      },
+      "iodine_adsorption_solution_phase": {
+        "solvent": "Cyclohexane",
+        "initial_concentration_of_iodine": "300 mg L-1",
+        "amount_of_SM-3": "20 mg",
+        "equilibrium_time": "12 h",
+        "maximum_adsorption_capacity": "350.06 mg g-1"
+      },
+      "iodine_release_solution_phase": {
+        "solvent": "Ethanol",
+        "amount_of_SM-3_used": "15 mg",
+        "time_to_reach_equilibrium": "1 h",
+        "release_efficiency": "76%"
+      },
+      "dye_adsorption": {
+        "dyes_tested": ["Methylene Blue (MB)", "Rhodamine-B (Rh-B)", "Methyl Orange (MO)"],
+        "optimal_pH": "7",
+        "temperature": "25 °C",
+        "maximum_adsorption_capacity_MB": "49.47 mg g-1",
+        "maximum_adsorption_capacity_Rh-B": "53.91 mg g-1",
+        "adsorption_efficiency_MB": "90%",
+        "adsorption_efficiency_Rh-B": "92%"
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "materials": [
+    {
+      "name": "Li2[1]",
+      "synthesis_conditions": [
+        {
+          "step": "Reaction with HC/CtBu",
+          "temperature": "50 88C",
+          "time": "3 days",
+          "chemicals_used": [
+            "HC/CtBu (4 equiv)"
+          ],
+          "solvent": "[D8]THF",
+          "equipment": "vacuum-sealed NMR tube",
+          "comments": "Selective formation of Li2[3] observed"
+        },
+        {
+          "step": "Thermolysis of Li2[3]",
+          "temperature": "100 88C",
+          "time": "8 days",
+          "solvent": "[D8]THF",
+          "equipment": "vacuum-sealed NMR tube",
+          "comments": "Formation of H2 and Li2[4], stationary state reached (Li2[3]/Li2[4] & 1:2)"
+        },
+        {
+          "step": "H2 activation",
+          "temperature": "100 88C",
+          "pressure": "< 1 atm",
+          "time": "2 days",
+          "solvent": "[D8]THF",
+          "yield": "quantitative yield of Li2[5]",
+          "comments": "No tendency to liberate H2 at temperatures up to 100 88C"
+        }
+      ]
+    },
+    {
+      "name": "K2[1]",
+      "synthesis_conditions": [
+        {
+          "step": "Reduction of 1 with KC8",
+          "chemicals_used": [
+            "KC8 (2 equiv)"
+          ],
+          "solvent": "[D8]THF",
+          "comments": "K2[1] synthesized for comparison with Li2[1]"
+        },
+        {
+          "step": "H2 activation",
+          "temperature": "50 88C",
+          "time": "less than 15 h",
+          "pressure": "< 1 atm",
+          "solvent": "[D8]THF",
+          "comments": "Quantitative H2 activation observed"
+        }
+      ]
+    },
+    {
+      "name": "Li2[5]",
+      "synthesis_conditions": [
+        {
+          "step": "Treatment with Me3SiCl",
+          "chemicals_used": [
+            "Me3SiCl (2 equiv)"
+          ],
+          "solvent": "[D8]THF",
+          "products_formed": [
+            "Me3SiH"
+          ],
+          "comments": "DBA skeleton largely intact, conversion of chlorosilanes into hydrosilanes"
+        }
+      ]
+    }
+  ]
+}

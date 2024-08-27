@@ -1,0 +1,90 @@
+{
+  "materials": [
+    {
+      "material": "MOF 1",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "100 °C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "5.60 cm3"
+            }
+          ],
+          "equipment": "Teflon-lined stainless steel vessel (25 cm3)",
+          "chemicals_used": [
+            {
+              "name": "Sr(NO3)2",
+              "amount": "0.0466 g, 0.220 mmol"
+            },
+            {
+              "name": "H2BDC",
+              "amount": "0.0321 g, 0.193 mmol"
+            }
+          ],
+          "time": "2 days",
+          "yield": "about 81% (based on the reactant H2BDC)",
+          "washing_method": "washed with DMF",
+          "drying_method": "dried under vacuum at 60 °C"
+        }
+      ]
+    },
+    {
+      "material": "SrAl2O4 substrate",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "950 °C for 5 h (for foam formation), sintered at 1050 °C for 2 h",
+          "chemicals_used": [
+            {
+              "name": "Sr(NO3)2",
+              "type": "starting material"
+            },
+            {
+              "name": "Al(NO3)3·9H2O",
+              "type": "starting material"
+            },
+            {
+              "name": "EDTA",
+              "type": "dissolved in NH3 solution"
+            },
+            {
+              "name": "citric acid",
+              "type": "solid"
+            }
+          ],
+          "notes": "The molar ratio of total metal ions to EDTA and to citrate = 1:1:2. The solution containing the complex precursor was heated on a hot plate at 250 °C for about 5 h."
+        }
+      ]
+    },
+    {
+      "material": "MOF thin films on SrAl2O4, porous Al2O3, and Al foil substrates",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "100 °C",
+          "time": "24 h",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "not specified"
+            }
+          ],
+          "equipment": "Teflon-lined autoclave",
+          "chemicals_used": [
+            {
+              "name": "Sr(NO3)2",
+              "type": "in solution"
+            },
+            {
+              "name": "H2BDC",
+              "type": "in solution"
+            }
+          ],
+          "notes": "The substrates were mounted perpendicular to a Teflon-lined autoclave bottom and immersed completely in a DMF solution containing Sr(NO3)2 and H2BDC."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "materials": [
+    {
+      "name": "stannyl iminium trifluoroborate 2",
+      "synthesis_conditions": {
+        "precursors": [
+          "lithiumtributylstannate",
+          "KAT transfer reagent 1"
+        ],
+        "precursor_details": {
+          "lithiumtributylstannate": "derived from tributyltin hydride and LDA",
+          "KAT transfer reagent 1": "commercially available"
+        },
+        "procedure_modification": "reversed the addition sequence to keep the concentration of the stannane low during the reaction",
+        "physical_state": "bench-stable liquid that solidifies to a wax at 4 88C",
+        "stability": "No decomposition detected by NMR analysis after prolonged storage at this temperature",
+        "decomposition_test": "Heating at 60 88C in THF in the presence of H2O did not lead to decomposition"
+      }
+    },
+    {
+      "name": "KATs",
+      "synthesis_conditions": {
+        "catalyst": "[Pd(PPh3)4]",
+        "additives": [
+          "CuI",
+          "CsF"
+        ],
+        "solvent": "DMF",
+        "temperature": "45–60 88C",
+        "time": "16 h",
+        "additional_steps": [
+          {
+            "step": "Iminium formation",
+            "reagents": [
+              "HNMe2 (10 equiv)",
+              "AcOH (10 equiv)"
+            ]
+          },
+          {
+            "step": "Hydrolysis",
+            "solvent": "1 m aq KHCO3/DMF (2:1) mixture",
+            "observation": "Higher temperatures (60 88C) were required for some substrates"
+          }
+        ],
+        "yield": "good to excellent yields",
+        "note": "Aryl bromides provided trace amounts of the corresponding KATs"
+      }
+    },
+    {
+      "name": "a,b-unsaturated KATs",
+      "synthesis_conditions": {
+        "catalyst": "[Pd(PPh3)4]",
+        "additives": [
+          "CuI",
+          "CsF"
+        ],
+        "solvent": "DMF",
+        "temperature": "40 88C",
+        "time": "16 h",
+        "additional_steps": [
+          {
+            "step": "Iminium formation",
+            "reagents": [
+              "HNMe2 (10 equiv)",
+              "AcOH (10 equiv)"
+            ]
+          },
+          {
+            "step": "Hydrolysis",
+            "solvent": "1 m aq KHCO3/DMF (2:1) mixture or 1 m K2CO3 for some substrates"
+          }
+        ],
+        "yield": "isolated product yields reported",
+        "note": "Vinyl Iodides displayed the highest reactivity, but vinyl triflates were almost equally reactive; vinyl bromides were also suitable substrates"
+      }
+    },
+    {
+      "name": "amino acid derived KATs 8 h and 8 i",
+      "synthesis_conditions": {
+        "procedure": "Hydrogenation of the enamines in 7 h and 7 i",
+        "products": [
+          "racemic proline KAT 8 i"
+        ],
+        "note": "Separation of the enantiomers by analytical HPLC on a chiral column confirmed the configurationally stable nature of KAT amino acids"
+      }
+    },
+    {
+      "name": "a-aminotrifluoroborates 10 and 11",
+      "synthesis_conditions": {
+        "procedure": "Starting from an aryl iodide, performed the Stille cross-coupling followed by iminium formation with a different secondary amine. Subsequent reaction with either a Grignard reagent or borohydride",
+        "yield": "good yields",
+        "note": "This approach highlights the power of this method for quickly accessing this exciting class of molecules"
+      }
+    }
+  ]
+}

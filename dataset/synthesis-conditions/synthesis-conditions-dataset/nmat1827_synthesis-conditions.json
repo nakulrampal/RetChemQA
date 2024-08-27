@@ -1,0 +1,62 @@
+{
+  "materials": [
+    {
+      "label": "1",
+      "temperature": "ambient",
+      "solvents": [
+        {
+          "name": "water",
+          "amount": "25 ml"
+        },
+        {
+          "name": "ethanol",
+          "amount": "25 ml"
+        }
+      ],
+      "equipment": "N/A",
+      "chemicals_used": [
+        {
+          "name": "Ni(NO3)2·6H2O",
+          "amount": "0.5 mmol, 0.145 g"
+        },
+        {
+          "name": "bpe (1,2-bis(4-pyridyl)ethane)",
+          "amount": "1 mmol, 0.184 g"
+        },
+        {
+          "name": "Na(N(CN)2)",
+          "amount": "1 mmol, 0.089 g"
+        }
+      ],
+      "time": "one week",
+      "washing_method": "ethanol–water (1:1) mixture",
+      "drying_method": "dried",
+      "yield": "80%",
+      "additional_information": "The dark-violet block-shaped crystals were obtained after one week."
+    },
+    {
+      "label": "1a",
+      "temperature": "75-150 °C",
+      "solvents": "N/A",
+      "equipment": "N/A",
+      "chemicals_used": "N/A",
+      "time": "2 h under an Ar atmosphere",
+      "washing_method": "N/A",
+      "drying_method": "N/A",
+      "yield": "N/A",
+      "additional_information": "The dehydrated form, {[Ni(bpe)2(N(CN)2)](N(CN)2)}n, is stable up to ∼150 °C. The color changes from violet to deep blue upon dehydration."
+    },
+    {
+      "label": "2",
+      "temperature": "ambient",
+      "solvents": "water vapor",
+      "equipment": "N/A",
+      "chemicals_used": "N/A",
+      "time": "more than 1 day",
+      "washing_method": "N/A",
+      "drying_method": "N/A",
+      "yield": "N/A",
+      "additional_information": "The rehydrated state shows the same structure as 1. The color returns to the original violet upon rehydration."
+    }
+  ]
+}

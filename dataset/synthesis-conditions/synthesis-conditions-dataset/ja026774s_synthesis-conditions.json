@@ -1,0 +1,69 @@
+{
+  "materials": [
+    {
+      "name": "[Ag3(Me2Si(4-Py)2)4](NO3)3·H2O",
+      "synthesis_conditions": [
+        {
+          "step": "Slow diffusion",
+          "temperature": "Room temperature",
+          "solvents": [
+            {
+              "name": "Water",
+              "amount": "6 mL"
+            },
+            {
+              "name": "Methanol",
+              "amount": "6 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Me2Si(4-Py)2",
+              "amount": "43 mg, 0.2 mmol"
+            },
+            {
+              "name": "AgNO3",
+              "amount": "34 mg, 0.2 mmol"
+            }
+          ],
+          "time": "3 days",
+          "yield": "80%",
+          "other_conditions": [
+            {
+              "label": "Alternative solvents",
+              "details": "With acetone or ethanol instead of methanol, the same crystals were obtained."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "[Ag3L4](NO2)3",
+      "synthesis_conditions": [
+        {
+          "step": "Anion exchange",
+          "temperature": "Room temperature",
+          "solvents": "Not specified",
+          "chemicals_used": [
+            {
+              "name": "[Ag3(Me2Si(4-Py)2)4](NO3)3·H2O",
+              "details": "Used as starting material for anion exchange"
+            },
+            {
+              "name": "NO2-",
+              "details": "Used for anion exchange"
+            }
+          ],
+          "time": "Not specified",
+          "yield": "Not specified",
+          "other_conditions": [
+            {
+              "label": "IR spectra comparison",
+              "details": "IR spectra of [Ag3L4](NO2)3 prepared by direct reaction and by anion exchange are provided."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

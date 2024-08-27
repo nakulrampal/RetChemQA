@@ -1,0 +1,80 @@
+{
+  "materials": [
+    {
+      "name": "[Er8(H2O)4(Hhedp)6]n",
+      "synthesis_conditions": {
+        "temperature": "150 - 230 ºC",
+        "solvents": "distilled water",
+        "amount_of_solvent": "18g",
+        "equipment": "PTFE-lined stainless steel reaction vessel (40 ml)",
+        "chemicals_used": {
+          "H5hedp": "0.160g (~0.77mmol)",
+          "ErCl3·6H2O": "0.290g (~0.76mmol)"
+        },
+        "time": "3 days",
+        "washing_method": "distilled water (3×50ml)",
+        "drying_method": "air-dried at ambient temperature",
+        "yield": "0.230g (about 92% based on ErCl3·6H2O)"
+      }
+    },
+    {
+      "name": "[Y8(H2O)4(Hhedp)6]n",
+      "synthesis_conditions": {
+        "temperature": "230ºC",
+        "solvents": "distilled water",
+        "amount_of_solvent": "18g",
+        "equipment": "PTFE-lined stainless steel reaction vessel (40 ml)",
+        "chemicals_used": {
+          "H5hedp": "0.160g",
+          "YCl3·6H2O": "0.330g"
+        },
+        "time": "3 days",
+        "washing_method": "distilled water (3×50ml)",
+        "drying_method": "air-dried at ambient temperature",
+        "yield": "white single crystals (0.100g) and small amount of white powder (0.050g)"
+      }
+    },
+    {
+      "name": "[Dy8(H2O)4(Hhedp)6]n, [Tb8(H2O)4(Hhedp)6]n and [Ho8(H2O)4(Hhedp)6]n",
+      "synthesis_conditions": {
+        "temperature": "230ºC",
+        "solvents": "distilled water",
+        "amount_of_solvent": "8g",
+        "equipment": "not specified",
+        "chemicals_used": {
+          "H5hedp": "0.160g",
+          "DyCl3·6H2O/TbCl3·6H2O/HoCl3·6H2O": "0.300g"
+        },
+        "time": "3 days",
+        "washing_method": "same as [Y8(H2O)4(Hhedp)6]n",
+        "drying_method": "same as [Y8(H2O)4(Hhedp)6]n"
+      }
+    },
+    {
+      "name": "SC-SC Transition",
+      "synthesis_conditions": {
+        "temperature": {
+          "dehydration": "300ºC for 4 hours",
+          "intermediate_phase": "400-500 ºC for 4 hours",
+          "inorganic_pyrophosphate": "600-700 ºC for 4 hours",
+          "yttrium_sample": {
+            "intermediate_phase": "330 ºC for 12 hours",
+            "pyrophosphate": "380-480 ºC for 4 hours"
+          }
+        },
+        "equipment": "programmed furnace under air, clean porcelain crucible",
+        "drying_method": "immersed in organic oil to protect from air moisture"
+      }
+    },
+    {
+      "name": "Guest exchange",
+      "synthesis_conditions": {
+        "solvents": "dehydrated methanol",
+        "amount_of_solvent": "100 ml",
+        "time": "24 hours",
+        "temperature": "ambient environment",
+        "equipment": "well sealed flask with steady mechanical stirring"
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "materials": [
+    {
+      "material": "2, 3, 4",
+      "synthesis_conditions": {
+        "solvent": "toluene",
+        "solvent_amount": "2.0 mL",
+        "temperature": "100 °C",
+        "time": "5 h",
+        "chemicals_used": [
+          {
+            "chemical": "1",
+            "amount": "0.115 g",
+            "molarity": "0.194 mmol"
+          },
+          {
+            "chemical": "AIBN",
+            "amount": "0.320 g",
+            "molarity": "1.94 mmol",
+            "equivalents": "10 equiv"
+          }
+        ],
+        "washing_method": "taken up in hexane and filtration",
+        "drying_method": "removal of the solvent",
+        "yield": [
+          {
+            "product": "2",
+            "amount": "50 mg",
+            "percentage": "44%"
+          },
+          {
+            "product": "3",
+            "amount": "23 mg",
+            "percentage": "30%"
+          },
+          {
+            "product": "4",
+            "amount": "31 mg",
+            "percentage": "26%"
+          }
+        ],
+        "recrystallization_solvent": "toluene",
+        "recrystallization_temperature": "room temperature",
+        "eluent": "hexane/toluene (90/10)"
+      }
+    },
+    {
+      "material": "2(M)",
+      "synthesis_conditions": {
+        "solvent": "water",
+        "temperature": "70 °C",
+        "time": "ca. 48 h",
+        "chemicals_used": [
+          {
+            "chemical": "Na2[Cu(pba)].6H2O",
+            "concentration": "0.05 M"
+          },
+          {
+            "chemical": "rare-earth-metal chloride",
+            "concentration": "0.1 M"
+          }
+        ],
+        "product_form": "Large cubelike, dark-blue crystals",
+        "notes": "The isomorphism of the compounds containing La, Ce, Pr, Ne, Sm, Eu, and Gd was assumed from Debye-Scherrer photographs."
+      }
+    }
+  ]
+}

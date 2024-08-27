@@ -1,0 +1,156 @@
+{
+  "materials": [
+    {
+      "material_name": "{(Et2O)3Yb[Co4(CO)11]}∞",
+      "material_id": "1",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation",
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "Et2O",
+              "amount": "20 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Hg[Co(CO)4]2",
+              "amount": "131 mg",
+              "molar_amount": "0.241 mmol"
+            },
+            {
+              "name": "Yb",
+              "amount": "25 mg",
+              "molar_amount": "0.14 mmol"
+            }
+          ],
+          "time": "several days",
+          "yield": "72 mg (63%)",
+          "washing_method": "washed with 5 mL of Et2O and 10 mL of hexane",
+          "drying_method": "dried on the vacuum line for 30 min"
+        }
+      ]
+    },
+    {
+      "material_name": "[13C]{(Et2O)3Yb[Co4(CO)11]}∞",
+      "material_id": "[13C]1",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation",
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "Et2O",
+              "amount": "20 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "99% enriched 13CO",
+              "condition": "stirred under <1 atm for 7 d"
+            }
+          ],
+          "time": "17 days",
+          "additional_information": "The solution was stirred for another 10 d under <1 atm of 13CO."
+        }
+      ]
+    },
+    {
+      "material_name": "{(Et2O)3Eu[Co4(CO)11]}∞",
+      "material_id": "2",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation",
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "Et2O",
+              "amount": "30 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Hg[Co(CO)4]2",
+              "amount": "203 mg",
+              "molar_amount": "0.374 mmol"
+            },
+            {
+              "name": "Eu",
+              "amount": "30 mg",
+              "molar_amount": "0.20 mmol"
+            }
+          ],
+          "time": "several days",
+          "yield": "78 mg (45%)",
+          "washing_method": "washed with 2 × 5 mL of Et2O and 10 mL of hexane",
+          "drying_method": "dried on the vacuum line for 30 min"
+        }
+      ]
+    },
+    {
+      "material_name": "{(Et2O)2(THF)Yb[Co4(CO)11]}∞",
+      "material_id": "3",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation",
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "Et2O",
+              "amount": "20 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Hg[Co(CO)4]2",
+              "amount": "0.361 mg",
+              "molar_amount": "0.665 mmol"
+            },
+            {
+              "name": "Yb metal",
+              "amount": "0.116 mg",
+              "molar_amount": "0.670 mmol"
+            }
+          ],
+          "time": "several days",
+          "yield": "221 mg (71%)",
+          "washing_method": "washed with 5 mL of Et2O and 10 mL of hexane",
+          "drying_method": "dried on the vacuum line for 30 min"
+        }
+      ]
+    },
+    {
+      "material_name": "{(THF)5Eu[Co4(CO)11]}∞",
+      "material_id": "4",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation",
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "Et2O",
+              "amount": "30 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Hg[Co(CO)4]2",
+              "amount": "0.212 mg",
+              "molar_amount": "0.391 mmol"
+            },
+            {
+              "name": "Eu metal",
+              "amount": "0.061 mg",
+              "molar_amount": "0.40 mmol"
+            }
+          ],
+          "time": "several days",
+          "yield": "42 mg (20%)",
+          "washing_method": "washed with 5 mL of Et2O and 10 mL of hexane",
+          "drying_method": "dried on the vacuum line for 30 min"
+        }
+      ]
+    }
+  ]
+}

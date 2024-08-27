@@ -1,0 +1,48 @@
+{
+  "materials": [
+    {
+      "material_name": "[DAMS]4[Rh2Mn(C2O4)6]·2DAMBA·2H2O",
+      "synthesis_conditions": {
+        "general_comments": "K3[M(C2O4)3]·nH2O (M = Rh, Cr, and Fe) were prepared according to the literature. [DAMS]I, Mn(NO3)2·nH2O, and ZnSO4·7H2O were purchased from Sigma-Aldrich and used without further purification.",
+        "preparation_phase_alpha_Rh_Fe_Cr": {
+          "equipment": "100 mL two-necked flask",
+          "chemicals_used": {
+            "[DAMS]I": "183.2 mg, 0.50 mmol",
+            "H2O/CH3OH (1/1)": "40 mL",
+            "K3[M(C2O4)3]·nH2O (M = Rh, Fe, Cr)": "0.50 mmol dissolved in 20 mL of H2O/CH3OH (1/1)",
+            "Mn(NO3)2·nH2O": "147.8 mg, 0.50 mmol dissolved in CH3OH (2−3 mL)"
+          },
+          "temperature": "60 °C",
+          "time": "1.5 h of stirring at room temperature",
+          "washing_method": "few drops of H2O/CH3OH (1/1)",
+          "drying_method": "under vacuum",
+          "yield": "large SHG (same order of magnitude of [DAMS][p-toluenesulfonate]) working with an incident wavelength of 1907 nm"
+        },
+        "preparation_phase_alpha_star_Rh_Fe_Cr": {
+          "equipment": "100 mL two-necked flask",
+          "chemicals_used": {
+            "[DAMS]I": "183.0 mg, 0.50 mmol",
+            "H2O/CH3OH (1/1)": "40 mL",
+            "K3[M(C2O4)3]·nH2O (M = Rh, Fe, Cr)": "0.50 mmol dissolved in 20 mL of H2O/CH3OH (1/1)",
+            "ZnSO4·7H2O": "146.3 mg, 0.50 mmol dissolved in CH3OH (2−3 mL)"
+          },
+          "temperature": "60 °C",
+          "time": "1.5 h of stirring at room temperature",
+          "washing_method": "few drops of H2O/CH3OH (1/1)",
+          "drying_method": "under vacuum",
+          "yield": "large SHG (same order of magnitude of [DAMS][p-toluenesulfonate]) working with an incident wavelength of 1907 nm"
+        },
+        "synthesis_1-6": {
+          "equipment": "100 mL flask",
+          "chemicals_used": {
+            "DAMBA": "20.5 mg; 0.14 mmol",
+            "corresponding phase alpha or alpha*": "80.0 mg",
+            "H2O": "70 mL"
+          },
+          "procedure": "DAMBA was added to the corresponding phase alpha or alpha*, dissolved in H2O. The solution was heated under reflux for 1.5 h and then cooled at room temperature. On standing overnight, the formation of a greenish compound with a metallic luster was observed.",
+          "drying_method": "under vacuum"
+        }
+      }
+    }
+  ]
+}

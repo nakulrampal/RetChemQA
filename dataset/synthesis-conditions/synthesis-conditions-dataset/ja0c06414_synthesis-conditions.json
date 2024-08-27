@@ -1,0 +1,63 @@
+{
+  "materials": [
+    {
+      "name": "MFM-300(VIII)",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "equipment": [
+          "Xemis gravimetric adsorption apparatus",
+          "Oxford Cryosystems open-flow N2 gas cryostat"
+        ],
+        "chemicals_used": "Research grade NO2 and He",
+        "time": "12 h",
+        "drying_method": "degassed under high dynamic vacuum (10-10 bar)",
+        "yield": "Not specified",
+        "additional_information": "Desolvated MFM-300(VIII) was obtained after degassing."
+      }
+    },
+    {
+      "name": "MFM-300(VIV)",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "equipment": [
+          "glass tube",
+          "Matrix MG5 FTIR spectrometer",
+          "Hiden QGA Mass spectrometer"
+        ],
+        "chemicals_used": "900 ppm NO2 diluted in He",
+        "time": "4 h",
+        "drying_method": "heated under a flow of He",
+        "yield": "Not specified",
+        "additional_information": "Desolvated MFM-300(VIV) was obtained after heating and used for breakthrough experiments."
+      }
+    },
+    {
+      "name": "MFM-300(VIII)·(NO2)1.67",
+      "synthesis_conditions": {
+        "temperature": "298 K",
+        "solvents": "NO2",
+        "pressure": "1.0 bar",
+        "equipment": "Beamline ID22 of European Synchrotron Radiation Facility (ESRF)",
+        "chemicals_used": "NO2",
+        "time": "Rapid scans (~8 mins each) and a long scan of 1.5 h",
+        "drying_method": "heated at 120 °C for ~3 h under high vacuum (10-6 mbar)",
+        "yield": "Not specified",
+        "additional_information": "Structure solved using TOPAS Academic and Rietveld refinement."
+      }
+    },
+    {
+      "name": "MFM-300(VIV)·(NO2)1.60·(N2O4)1.53",
+      "synthesis_conditions": {
+        "temperature": "298 K",
+        "solvents": "NO2",
+        "pressure": "1.0 bar",
+        "equipment": "Beamline ID22 of European Synchrotron Radiation Facility (ESRF)",
+        "chemicals_used": "NO2",
+        "time": "Rapid scans (~8 mins each) and a long scan of 1.5 h",
+        "drying_method": "heated at 120 °C for ~3 h under high vacuum (10-6 mbar)",
+        "yield": "Not specified",
+        "additional_information": "Structure solved using TOPAS Academic and Rietveld refinement."
+      }
+    }
+  ]
+}

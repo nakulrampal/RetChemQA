@@ -1,0 +1,100 @@
+{
+  "materials": [
+    {
+      "name": "ZnTPyP-1",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "TPyP(H2)",
+            "amount": "0.10 g"
+          },
+          {
+            "name": "Zn(NO3)2",
+            "amount": "0.1g"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "10µL"
+          }
+        ],
+        "solvent": "N, N-dimethylformamide",
+        "solvent_amount": "2 mL",
+        "temperature": "100 °C",
+        "time": "2 days",
+        "yield": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified"
+      }
+    },
+    {
+      "name": "ZnTPyP-2",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "TPyP(H2)",
+            "amount": "0.10 g"
+          },
+          {
+            "name": "Zn(NO3)2",
+            "amount": "0.1g"
+          },
+          {
+            "name": "oxalic acid",
+            "amount": "Not specified"
+          }
+        ],
+        "solvent": "N, N-diethylacetamide",
+        "solvent_amount": "2 mL",
+        "temperature": "100 °C",
+        "time": "2 days",
+        "yield": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified"
+      }
+    },
+    {
+      "name": "TPyP(M) (M = Cu, Ni, Mn, Zn)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "TPyP(H2)",
+            "amount": "0.62 g"
+          },
+          {
+            "name": "Metal salt (Cu(NO3)2∙3H2O, Ni(NO3)2∙6H2O, Mn(NO3)2∙4H2O, Zn(NO3)2∙6H2O)",
+            "amount": "Varies"
+          }
+        ],
+        "solvent": "CHCl3 mixed with CH3OH",
+        "solvent_amount": "100 mL CHCl3 and 30 mL CH3OH",
+        "temperature": "Reflux",
+        "time": "12 h",
+        "yield": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified"
+      }
+    },
+    {
+      "name": "MOFs dispersed PDMS glasses",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Sylgard 184 (Dow Corning)",
+            "amount": "10 parts base to 1 part curing agent"
+          },
+          {
+            "name": "MOFs nanosheets",
+            "amount": "Not specified"
+          }
+        ],
+        "solvent": "Not applicable",
+        "solvent_amount": "Not applicable",
+        "temperature": "60°C",
+        "time": "3 hours",
+        "yield": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Vacuum oven"
+      }
+    }
+  ]
+}

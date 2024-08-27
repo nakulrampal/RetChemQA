@@ -1,0 +1,41 @@
+{
+  "materials": [
+    {
+      "name": "PbBDT nanosheets",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "details": {
+            "method": "one-step coordination assembly",
+            "precursors": ["Pb2+ ions", "1,4-benzenedithiol"],
+            "conditions": "under ultrasonic condition",
+            "source": "Supporting Information (SI)"
+          }
+        },
+        {
+          "step": "Crystal Growth",
+          "details": {
+            "method": "solvothermal method",
+            "crystal_structure": "monoclinic space group P21/c",
+            "source": "Supporting Information (SI)"
+          }
+        }
+      ]
+    },
+    {
+      "name": "PbBDT nanosheets with different amounts of intact benzenethiol groups",
+      "synthesis_conditions": [
+        {
+          "step": "Oxidation",
+          "details": {
+            "temperature": "140 8C",
+            "time": "different times",
+            "purpose": "to control the amount of intact benzenethiol groups",
+            "characterization": "Time-resolved in situ diffuse reflectance infrared Fourier transform spectroscopy (DRIFTS)",
+            "source": "Supporting Information (SI)"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "Materials": [
+    {
+      "Name": "[Na(18-c-6)]2[1]",
+      "Synthesis_Conditions": {
+        "Reactants": "[Na(18-c-6)]2[HP7], HBBN dimer",
+        "Solvent": "THF",
+        "Temperature": "Room Temperature",
+        "Yield": "70%"
+      },
+      "Characterization": {
+        "NMR": "1H, 11B, 13C{1H}, 31P",
+        "Mass_Spectrometry": "Not observed due to sensitivity",
+        "X-ray_Diffraction": "CCDC 2195885"
+      }
+    },
+    {
+      "Name": "[K(18-c-6)]2[1]",
+      "Synthesis_Conditions": {
+        "Reactants": "[K(18-c-6)]2[HP7], HBBN dimer",
+        "Solvent": "THF",
+        "Temperature": "Room Temperature",
+        "Yield": "Similar to [Na(18-c-6)]2[1]"
+      },
+      "Characterization": {
+        "NMR": "Identical to [Na(18-c-6)]2[1]",
+        "Mass_Spectrometry": "Not observed due to sensitivity",
+        "X-ray_Diffraction": "CCDC 2195883"
+      }
+    },
+    {
+      "Name": "Catalytic Hydroboration of Ketones/Aldehydes",
+      "Conditions": [
+        {
+          "Catalyst": "[Na(18-c-6)]2[1]",
+          "Reductant": "Pinacolborane",
+          "Solvent": "oDFB",
+          "Temperature": "Room Temperature to 50°C",
+          "Yield": "Varies, up to >99%"
+        }
+      ]
+    },
+    {
+      "Name": "Catalytic Hydroboration of Carbodiimides and Isocyanates",
+      "Conditions": [
+        {
+          "Catalyst": "[Na(18-c-6)]2[1]",
+          "Reductant": "Pinacolborane",
+          "Solvent": "oDFB",
+          "Temperature": "Room Temperature to 7 days",
+          "Yield": "Not isolated, monitored by NMR"
+        }
+      ]
+    },
+    {
+      "Name": "Catalytic Hydroboration of Carbon Dioxide",
+      "Conditions": [
+        {
+          "Catalyst": "[Na(18-c-6)]2[1]",
+          "Reductant": "HBBN dimer",
+          "Solvent": "oDFB:toluene",
+          "Temperature": "Room Temperature to 50°C",
+          "Yield": "TON up to 9800, TOF up to 300 h-1"
+        }
+      ]
+    },
+    {
+      "Name": "Mechanistic Investigations and DFT Calculations",
+      "Details": "Investigations into the reaction mechanisms using NMR spectroscopy and density functional theory calculations to understand the structures of intermediates and reaction pathways."
+    }
+  ]
+}

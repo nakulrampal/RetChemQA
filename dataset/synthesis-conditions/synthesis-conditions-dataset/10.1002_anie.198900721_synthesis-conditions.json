@@ -1,0 +1,58 @@
+{
+  "materials": [
+    {
+      "name": "fluorenyllithium .2 ethylenediamine",
+      "synthesis_conditions": {
+        "temperature": "20°C",
+        "solvents": [
+          {
+            "name": "dimethoxyethane",
+            "amount": "5.0 mL"
+          },
+          {
+            "name": "hexane",
+            "amount": "2.2 mL (1 equiv. of nBuLi)"
+          },
+          {
+            "name": "ethylenediamine",
+            "amount": "0.8 mL (36 equiv.)"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "fluorene",
+            "amount": "55 mg, 0.33 mmol"
+          },
+          {
+            "name": "nBuLi",
+            "amount": "2.2 mL (1 equiv.)"
+          },
+          {
+            "name": "ethylenediamine",
+            "amount": "0.8 mL (36 equiv.)"
+          }
+        ],
+        "time": "ca. 15 h",
+        "equipment": "X-ray structure analysis equipment",
+        "crystal_structure_details": {
+          "formula": "C,,H,Li .2(C2H8N2)",
+          "molecular_weight": "292.35",
+          "space_group": "P2,/c",
+          "lattice_parameters": {
+            "a": "1472.4(3) pm",
+            "b": "856.1(2) pm",
+            "c": "1326.7(3) pm",
+            "beta": "104.11(2)°"
+          },
+          "Z": "4",
+          "density_calculated": "1.197 g cm-3",
+          "measurement_temperature": "-65°C",
+          "number_of_reflections": "2119",
+          "refinement_method": "direct methods and refinement",
+          "R": "0.0614",
+          "Rw": "0.0557"
+        }
+      }
+    }
+  ]
+}

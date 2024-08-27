@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What are the synthesis conditions for CuCl-bpy?",
+      "answer": "CuCl (13 mg, 0.13 mmol) in acetonitrile (10 ml) and 4,4’-bipyridine (21 mg, 0.13 mmol) in acetonitrile (10 ml) were mixed to give brown red microcrystals of CuCl-bpy (30 mg, 0.12 mmol, 92% yield).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the temperature affect the lattice parameters of CuCl-bpy?",
+      "answer": "The lattice parameters of CuCl-bpy change with temperature, as evidenced by the temperature-dependent crystallographic data showing variations in the a, b, and c lattice parameters and the volume (V) across different temperatures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the thermal enhancement process in CuCl-bpy reversible?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to collect variable temperature high resolution synchrotron X-ray diffraction data?",
+      "answer": "Variable temperature high resolution synchrotron X-ray diffraction data was collected at the BL44B2 beamline of Spring-8 synchrotron radiation facility using a constant wavelength of λ=0.5 Å.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What computational methodology was applied to optimize the structures extracted from X-ray crystallographic data?",
+      "answer": "The structures were optimized at the density functional theory (DFT) method B3LYP functional, using Gaussian 09 D.01 program with the basis set of LANL2DZ with relativistic effective core potential (ECP) chosen for all elements.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the Cu...Cu distance in CuCl-bpy change with temperature?",
+      "answer": "The Cu...Cu distance in CuCl-bpy shortens upon heating due to strong negative thermal expansion along the c-axis, leading to a significant increase in emission intensity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the emission intensity of CuCl-bpy increase with temperature?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of negative thermal expansion in the thermal enhancement of luminescence in CuX-bpy?",
+      "answer": "Negative thermal expansion causes a contraction of the Cu...Cu distance in CuX-bpy, which intensifies luminescence emission by promoting thermally enhanced charge transfer.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental technique was used to investigate the temperature-dependent solid state luminescence spectra?",
+      "answer": "The temperature-dependent solid state luminescence spectra were obtained on a FLS 980 fluorometer at controlled variable temperature (77-377 K) with an Oxford Instruments liquid nitrogen cryostat accessory.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the luminescence behavior of CuI-bpy enhanced or quenched at elevated temperatures?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

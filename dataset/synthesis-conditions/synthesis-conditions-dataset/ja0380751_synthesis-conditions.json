@@ -1,0 +1,56 @@
+{
+  "materials": [
+    {
+      "name": "[Co(bt)(N3)2]n",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "NaN3",
+            "amount": "0.2 mmol, 13 mg"
+          },
+          {
+            "name": "Co(NO3)2·6H2O",
+            "amount": "0.2 mmol, 58.2 mg"
+          },
+          {
+            "name": "bt (2,2’-bithiazoline)",
+            "amount": "0.2 mmol, 34.4 mg"
+          }
+        ],
+        "reaction_conditions": {
+          "temperature": "room temperature",
+          "time": "two days"
+        },
+        "washing_method": "methanol",
+        "drying_method": "vacuum",
+        "yield": "30%",
+        "additional_information": {
+          "found": {
+            "C": "23.52",
+            "H": "2.89",
+            "N": "35.89"
+          },
+          "calc_for": "C6H8CoN8S2",
+          "calc_values": {
+            "C": "22.86",
+            "H": "2.56",
+            "N": "35.55"
+          },
+          "IR": "νN3 2086 cm-1"
+        }
+      }
+    },
+    {
+      "name": "Co2(DMphen)2(N3)4",
+      "synthesis_conditions": {
+        "notes": "While preparing this Communication, a dinuclear EO N3-bridged Co(II) compound, Co2(DMphen)2(N3)4 (2) (DMphen = 2,9-dimethyl-1,10-phenanthroline) was obtained. Preliminary magnetic measurements indicated a ferromagnetic coupling with intradimer J = 14.3(3) cm-1 = 20.7(3) K, g = 2.556(9), and interdimer zJ' = 1.47(4) cm-1 based on H = -JS1S2."
+      }
+    }
+  ]
+}

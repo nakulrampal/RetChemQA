@@ -1,0 +1,86 @@
+{
+  "materials": [
+    {
+      "name": "NbU-1",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "details": {
+            "temperature": "100 °C",
+            "solvents": [
+              {
+                "name": "H2O",
+                "amount": "5 ml"
+              },
+              {
+                "name": "Glycol",
+                "amount": "2 ml"
+              }
+            ],
+            "equipment": "10 mL glass vial",
+            "chemicals_used": [
+              {
+                "name": "Cu(NO3)2·6H2O",
+                "amount": "0.0561 g",
+                "molarity": "0.3 mmol"
+              },
+              {
+                "name": "Adenine",
+                "amount": "0.0169 g",
+                "molarity": "0.125 mmol"
+              },
+              {
+                "name": "Ammonia water",
+                "details": "several drops"
+              }
+            ],
+            "time": {
+              "heating": "100 min to reach 100 °C",
+              "maintained": "2400 min",
+              "cooling": "500 min to reach 30 °C"
+            },
+            "yield": "~67%",
+            "washing_method": "filtration"
+          }
+        },
+        {
+          "step": "Enlargement experiment",
+          "details": {
+            "temperature": "100 °C",
+            "solvents": [
+              {
+                "name": "H2O",
+                "amount": "500 ml"
+              },
+              {
+                "name": "50% ammonia solution",
+                "amount": "40 ml"
+              },
+              {
+                "name": "Ethylene glycol",
+                "amount": "100 ml"
+              }
+            ],
+            "equipment": "1000 ml vial",
+            "chemicals_used": [
+              {
+                "name": "Cu(NO3)2·6H2O",
+                "amount": "8.5 g"
+              },
+              {
+                "name": "Adenine",
+                "amount": "2.5 g"
+              }
+            ],
+            "time": {
+              "heating": "100 min to reach 100 °C",
+              "maintained": "1000 min",
+              "cooling": "500 min to reach 30 °C"
+            },
+            "yield": "2.1 g"
+          }
+        }
+      ]
+    }
+  ]
+}

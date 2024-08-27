@@ -1,0 +1,36 @@
+{
+  "materials": [
+    {
+      "name": "[Dy2(hmi)2(NO3)2(MeOH)2] (1)",
+      "synthesis_conditions": {
+        "solvents": ["Methanol (MeOH)"],
+        "solvent_amounts": ["20 mL"],
+        "chemicals_used": ["Dy(NO3)3·5 H2O", "H2hmi", "Et3N (triethylamine)"],
+        "chemical_amounts": ["0.165 g, 0.37 mmol", "0.068 g, 0.25 mmol", "0.141 mL, 1 mmol"],
+        "equipment": ["Stirrer", "Filter"],
+        "time": ["15 min stirring, 2 days undisturbed"],
+        "temperature": ["Room temperature"],
+        "washing_method": ["Washed with MeOH"],
+        "drying_method": ["Dried in vacuum"],
+        "yield": ["35 %"],
+        "additional_information": ["Crystals kept in contact with mother liquor to prevent deterioration"]
+      }
+    },
+    {
+      "name": "[Dy2(hmi)2(NO3)2(MeOH)2]1·MeCN (2·MeCN)",
+      "synthesis_conditions": {
+        "solvents": ["Acetonitrile (MeCN)", "Methanol (MeOH)"],
+        "solvent_amounts": ["15 mL", "5 mL"],
+        "chemicals_used": ["Dy(NO3)3·5 H2O", "H2hmi", "Pyridine"],
+        "chemical_amounts": ["0.165 g, 0.37 mmol", "0.068 g, 0.25 mmol", "0.081 mL, 1 mmol"],
+        "equipment": ["Stirrer", "Filter"],
+        "time": ["15 min stirring, 2 days undisturbed"],
+        "temperature": ["Ambient temperature"],
+        "washing_method": ["Washed with a MeCN/MeOH mixture"],
+        "drying_method": ["Dried in vacuum"],
+        "yield": ["40 %"],
+        "additional_information": ["Crystals kept in contact with mother liquor to prevent deterioration"]
+      }
+    }
+  ]
+}

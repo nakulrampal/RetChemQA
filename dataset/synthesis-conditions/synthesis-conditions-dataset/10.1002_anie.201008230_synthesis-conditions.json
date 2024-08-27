@@ -1,0 +1,52 @@
+{
+  "materials": [
+    {
+      "name": "NTHU-10",
+      "synthesis_conditions": [
+        {
+          "temperature": "120 8C",
+          "solvents": [
+            {
+              "name": "H2O",
+              "amount": "10 mL"
+            }
+          ],
+          "equipment": "20 mL Teflon-lined autoclave",
+          "chemicals_used": [
+            {
+              "name": "Zn(NO3)2·6 H2O",
+              "amount": "0.297 g, 1 mmol"
+            },
+            {
+              "name": "H3PO4",
+              "amount": "0.27 mL, 4 mmol"
+            },
+            {
+              "name": "benzene-1,2,4,5-tetracarboxylic acid (H4btec)",
+              "amount": "0.127 g, 0.5 mmol"
+            },
+            {
+              "name": "4,4’-bipyridine (bpy)",
+              "amount": "0.468 g, 3 mmol"
+            }
+          ],
+          "time": "one day",
+          "yield": "85–90 % based on zinc",
+          "variant": "10 a"
+        },
+        {
+          "temperature": "160 8C",
+          "variant": "10 b"
+        },
+        {
+          "temperature": "180 8C",
+          "variant": "10 c"
+        },
+        {
+          "temperature": "200 8C",
+          "variant": "10 d"
+        }
+      ]
+    }
+  ]
+}

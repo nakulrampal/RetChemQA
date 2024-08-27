@@ -1,0 +1,68 @@
+{
+  "materials": [
+    {
+      "name": "[Gd(H2CAM)3]·5.25H2O",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "N,N-diethylformamide",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "5mL glass vial",
+        "chemicals_used": [
+          {
+            "name": "H3CAM (chelidamic acid monohydrate)",
+            "amount": "0.3mmol, 60.3mg"
+          },
+          {
+            "name": "Gd(NO3)3・6H2O",
+            "amount": "0.1 mmol, 45.2mg"
+          }
+        ],
+        "time": "3 days",
+        "cooling_rate": "2 °C h-1",
+        "yield": "41% based on Gd"
+      }
+    },
+    {
+      "name": "{[Co0.5(H2O)3][Gd(CAM)(HCAM)2Co1.5(H2O)3]}n·3nH2O (1)",
+      "synthesis_conditions": {
+        "temperature": "140°C",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "5ml"
+          }
+        ],
+        "equipment": "20mL teflon cup",
+        "chemicals_used": [
+          {
+            "name": "[Gd(HCAM)3]·5.25H2O",
+            "amount": "0.1mmol, 79.8mg"
+          },
+          {
+            "name": "Co(NO3)2·6H2O",
+            "amount": "0.3mmol, 87.3mg"
+          }
+        ],
+        "time": "3 days",
+        "cooling_rate": "2 °C h-1",
+        "yield": "73% based on Gd"
+      }
+    },
+    {
+      "name": "{[Co0.5(H2O)2][Gd(CAM)(HCAM)2Co1.5(H2O)3]}n·2.5nH2O (2)",
+      "synthesis_conditions": {
+        "transformation_condition": "heating 1 at 369K under nitrogen atmosphere"
+      }
+    },
+    {
+      "name": "{[Co0.5][Gd(CAM)(HCAM)2Co1.5(H2O)3]}n (3)",
+      "synthesis_conditions": {
+        "transformation_condition": "heating 2 at 413K under nitrogen atmosphere"
+      }
+    }
+  ]
+}

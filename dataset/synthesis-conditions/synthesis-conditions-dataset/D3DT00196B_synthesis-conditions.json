@@ -1,0 +1,143 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "method": "solvothermal",
+        "temperature": "180 °C",
+        "solvents": [
+          {
+            "name": "ethanol",
+            "amount": "4 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H3BO3",
+            "amount": "1 mmol"
+          },
+          {
+            "name": "Co(C5H7O2)2",
+            "amount": "0.2 mmol"
+          },
+          {
+            "name": "1-methylimidazole",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "25 ml stainless steel reactor",
+        "time": "7 days",
+        "yield": "63.14% based on H3BO3",
+        "washing_method": "not specified",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "method": "solution evaporation",
+        "temperature": "not specified",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "30 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Pyrazole",
+            "amount": "0.681 g, 10 mg"
+          },
+          {
+            "name": "Ba(OH)2",
+            "amount": "1.525 g, 8.9 mmol"
+          },
+          {
+            "name": "cobalt sulfate",
+            "amount": "1.550 g, 10 mmol"
+          },
+          {
+            "name": "boric acid",
+            "amount": "1.521 g, 24.5 mmol"
+          }
+        ],
+        "time": "20 days",
+        "yield": "45.5% calculated as H3BO3",
+        "washing_method": "washed with ethanol",
+        "drying_method": "air-dried"
+      }
+    },
+    {
+      "name": "3",
+      "synthesis_conditions": {
+        "method": "solvothermal",
+        "temperature": "220 °C",
+        "solvents": [
+          {
+            "name": "pyridine",
+            "amount": "1 ml"
+          },
+          {
+            "name": "ethanol",
+            "amount": "3 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Co(Ac)2·4H2O",
+            "amount": "0.897 mmol, 0.2234 g"
+          },
+          {
+            "name": "K2C4H4O6",
+            "amount": "0.599 mmol, 0.1365 g"
+          },
+          {
+            "name": "H3BO3",
+            "amount": "3.76 mmol, 0.2326 g"
+          }
+        ],
+        "equipment": "25 ml Teflon-lined stainless steel autoclave",
+        "time": "7 days",
+        "yield": "21% calculated as H3BO3",
+        "washing_method": "washed with anhydrous ethanol",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "4",
+      "synthesis_conditions": {
+        "method": "solvothermal",
+        "temperature": "220 °C",
+        "solvents": [
+          {
+            "name": "pyridine",
+            "amount": "1 ml"
+          },
+          {
+            "name": "ethanol",
+            "amount": "3 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "KNaC4H4O6·4H2O",
+            "amount": "1.73 mmol, 0.3642 g"
+          },
+          {
+            "name": "Ni(Ac)2·4H2O",
+            "amount": "1.02 mmol, 0.2531 g"
+          },
+          {
+            "name": "H3BO3",
+            "amount": "8.56 mmol, 0.5293 g"
+          }
+        ],
+        "equipment": "25 ml Teflon-lined stainless steel autoclave",
+        "time": "7 days",
+        "yield": "18% calculated as H3BO3",
+        "washing_method": "rinsed with anhydrous alcohol",
+        "drying_method": "not specified"
+      }
+    }
+  ]
+}

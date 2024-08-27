@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What is the significance of the study titled 'Chemical crystallography by serial femtosecond X-ray diffraction' in the context of small molecule crystallography?",
+      "answer": "The study demonstrates the feasibility of determining the crystal structures of small molecules using serial femtosecond X-ray crystallography (smSFX), a method previously successful mainly for macromolecular structures. This represents a significant advancement in crystallography, potentially revolutionizing the approach to determining structures of small molecules, especially those that form microcrystals, are radiation-sensitive, or have low symmetry, which are challenging for traditional methods.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the smSFX technique address the challenge of sparse diffraction patterns in small molecule crystallography?",
+      "answer": "The smSFX technique overcomes the challenge of sparse diffraction patterns by collecting thousands of randomly oriented diffraction patterns from microcrystalline suspensions. These patterns are then aggregated into high-resolution powder diffractograms, allowing for the determination of unit cells and enabling the indexing of sparse serial patterns using a graph theory approach. This method effectively addresses the sparsity and indexing challenges typical in small molecule crystallography.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the potential benefits of applying smSFX to small molecule crystallography as demonstrated in the study?",
+      "answer": "The potential benefits of applying smSFX to small molecule crystallography include the ability to determine structures of microcrystalline, low-symmetry, and radiation-sensitive materials at near-ambient conditions, a rapid analysis of a large number of crystals, and the avoidance of peak overlap problems. Additionally, the technique's intrinsic time resolution offers opportunities for time-resolved studies, potentially expanding the scope of crystallographic investigations in materials science.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What limitations of traditional crystallography methods does smSFX overcome?",
+      "answer": "smSFX overcomes several limitations of traditional crystallography methods, including difficulties in crystal growth, instability to atmosphere, solvent loss, radiation sensitivity, and peak overlap in powder diffraction. It enables structure determination from microcrystalline samples without the need for large single crystals, making it particularly useful for analyzing materials that are challenging for conventional single-crystal X-ray diffraction and electron microdiffraction.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study 'Chemical crystallography by serial femtosecond X-ray diffraction' presents the first successful application of smSFX for the ab initio structure determination of small molecules.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the smSFX method contribute to the field of optoelectronics, as demonstrated by the structures of mithrene, thiorene, and tethrene?",
+      "answer": "The smSFX method contributes to the field of optoelectronics by enabling the determination of previously unknown structures, such as thiorene and tethrene, and providing insights into the geometric changes in the silver–silver bonding network. These insights help explain the divergent optoelectronic properties of these materials, resolving long-standing puzzles about their behavior and potentially guiding the design of new optoelectronic materials.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What advancements in XFEL technology are anticipated to further enhance the capabilities of smSFX in crystallography?",
+      "answer": "Advancements in XFEL technology anticipated to enhance smSFX capabilities include access to higher beam energies, with 25 keV expected at LCLS in 2022, which will make resolutions of less than 0.7 Å available. These improvements will allow for the determination of structures with even greater detail and accuracy, expanding the range of materials that can be studied using smSFX.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The smSFX technique requires a significantly larger amount of sample material compared to traditional single-crystal X-ray diffraction methods.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "In what ways does the smSFX technique differ from traditional powder X-ray diffraction (PXRD) and electron diffraction methods in analyzing microcrystalline samples?",
+      "answer": "The smSFX technique differs from traditional PXRD and electron diffraction methods by enabling the analysis of microcrystalline samples without peak overlap issues, allowing for structure determination at near-ambient conditions, and providing intrinsic resistance to beam damage. Unlike PXRD, which can be limited by peak broadening and overlap, smSFX observes single crystals at a time, avoiding these issues. Compared to electron diffraction, smSFX can analyze samples that are sensitive to vacuum conditions and does not require cryoconditions for radiation-sensitive materials.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The smSFX method is expected to become a high-throughput technique for chemical crystallography, with the potential for mail-in service similar to some synchrotron beamlines.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

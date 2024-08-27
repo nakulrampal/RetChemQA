@@ -1,0 +1,46 @@
+{
+  "questions": [
+    {
+      "question": "What are the main applications of KAUST-7 and KAUST-8 MOFs as mentioned in the text?",
+      "answer": "KAUST-7 and KAUST-8 MOFs are mainly applied for selective removal and sensing of SO2 from flue gas and air, trace CO2 removal, air capture using physisorption, propane-propylene separation, gas/vapor dehydration, and acid gas removal (H2S, CO2).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How do KAUST-7 and KAUST-8 MOFs differ in their selectivity towards SO2 and CO2?",
+      "answer": "KAUST-7 exhibits equal selectivity towards SO2 and CO2, demonstrating simultaneous capture of both gases, whereas KAUST-8 displays a higher affinity for SO2 over CO2 with a selectivity of approximately 66, making it more efficient for SO2 removal from flue gas.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What experimental techniques were used to study the interaction of SO2 with KAUST-7 and KAUST-8 MOFs?",
+      "answer": "Single crystal X-ray diffraction (SCXRD), density functional theory (DFT) calculations, column breakthrough tests, and temperature-programmed desorption (TPD) analysis were used to study the interaction of SO2 with KAUST-7 and KAUST-8 MOFs.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What role does humidity play in the sensing capabilities of KAUST-7 and KAUST-8 MOFs for SO2 detection?",
+      "answer": "Humidity affects the sensitivity of KAUST-7 and KAUST-8 MOFs towards SO2 detection. KAUST-7 shows a four-time higher sensitivity to SO2 in the presence of humidity compared to KAUST-8, which has a reduced sensitivity due to its stronger water affinity and limited available space in the pore system for SO2 adsorption.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the SO2 adsorption on KAUST-7 and KAUST-8 MOFs reversible, and how was this determined?",
+      "answer": "Yes, the SO2 adsorption on KAUST-7 and KAUST-8 MOFs is reversible. This was determined through cyclic adsorption column breakthrough tests and in situ heating of the MOF-coated QCM sensors for reactivation, which allowed for multiple sensing cycles without significant change in sensitivity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: KAUST-7 and KAUST-8 MOFs have identical crystal structures.",
+      "answer": "False. While KAUST-7 and KAUST-8 MOFs are isostructural, they have subtle differences in their chemical compositions and structural features, such as the content and intermolecular spacing of pending fluoride groups.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: KAUST-7 and KAUST-8 MOFs are only suitable for dry conditions and lose their SO2 sensing capabilities in the presence of humidity.",
+      "answer": "False. KAUST-7 and KAUST-8 MOFs maintain their SO2 sensing capabilities even in the presence of humidity, although their sensitivity is affected. KAUST-7, in particular, demonstrates higher sensitivity to SO2 under humid conditions.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

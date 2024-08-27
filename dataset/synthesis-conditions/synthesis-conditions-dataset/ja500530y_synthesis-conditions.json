@@ -1,0 +1,72 @@
+{
+  "materials": [
+    {
+      "name": "[Zn2(ndc)2(bpy)] (2f)",
+      "synthesis_conditions": {
+        "temperature": "70 °C",
+        "time": "24 hours",
+        "solvents": "DMF",
+        "amount_of_solvent": "10 ml",
+        "chemicals_used": [
+          {
+            "chemical": "Zn(NO3)2.6H2O",
+            "amount": "30 mg, 0.1 mmol"
+          },
+          {
+            "chemical": "2,6-naphthalene dicarboxylic acid",
+            "amount": "21.6 mg, 0.1 mmol"
+          },
+          {
+            "chemical": "bipyridine",
+            "amount": "7.8 mg, 0.05 mmol"
+          }
+        ],
+        "washing_method": "washed with fresh DMF",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "equipment": "Not specified"
+      }
+    },
+    {
+      "name": "[Zn2(ndc)2(bpy)] (3f)",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "24 hours",
+        "solvents": "DMF",
+        "amount_of_solvent": "5 ml",
+        "chemicals_used": [
+          {
+            "chemical": "Zn(NO3)2.6H2O",
+            "amount": "300 mg, 1 mmol"
+          },
+          {
+            "chemical": "2,6-naphthalene dicarboxylic acid",
+            "amount": "216 mg, 1 mmol"
+          },
+          {
+            "chemical": "bipyridine",
+            "amount": "78 mg, 0.5 mmol"
+          }
+        ],
+        "washing_method": "washed with fresh DMF",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "equipment": "Not specified"
+      }
+    },
+    {
+      "name": "[Zn2(ndc)2(bpy)] (3f) by activation of 2f",
+      "synthesis_conditions": {
+        "temperature": "120 degrees",
+        "time": "Not specified",
+        "solvents": "Not applicable",
+        "amount_of_solvent": "Not applicable",
+        "chemicals_used": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "dynamic vacuum",
+        "yield": "Not specified",
+        "equipment": "Buchi glass oven"
+      }
+    }
+  ]
+}

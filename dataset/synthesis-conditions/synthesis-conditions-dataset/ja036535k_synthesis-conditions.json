@@ -1,0 +1,74 @@
+{
+  "materials": [
+    {
+      "name": "P(EO)3(500):LiCF3SO3",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "none",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Poly(ethylene glycol) dimethyl ether (Mn ca. 500)",
+            "amount": "1.075 g, 24.40 mmol of ethoxy (EO) segments"
+          },
+          {
+            "name": "Lithium trifluoromethanesulfonate",
+            "amount": "0.315 g, 2.02 mmol"
+          }
+        ],
+        "temperature": "22 °C",
+        "time": "several weeks",
+        "equipment": "hot plate",
+        "drying_method": "over 4 Å molecular sieves",
+        "yield": "not specified",
+        "crystal_data_collection_temperature": "-100(2) °C",
+        "crystal_data_collection_method": "Bruker CCD area detector diffractometer",
+        "structure_solution_method": "SHELXS-97",
+        "structure_refinement_method": "SHELXL-97",
+        "refinement_details": {
+          "R": "0.0367",
+          "wR2": "0.0931",
+          "disorder_in_structure": "ethylene linking groups and methoxy end groups"
+        }
+      }
+    },
+    {
+      "name": "P(EO)5(500):LiBPh4",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "anhydrous acetonitrile",
+            "amount": "~5 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Poly(ethylene glycol) dimethyl ether (Mn ca. 500)",
+            "amount": "0.318 g, 7.12 mmol of ethoxy (EO) segments"
+          },
+          {
+            "name": "LiBPh4·3(1,2-DME)",
+            "amount": "0.308 g, 0.52 mmol"
+          }
+        ],
+        "temperature": "22 °C",
+        "time": "several days to weeks",
+        "equipment": "vacuum at 50 °C for 12 hrs",
+        "drying_method": "under vacuum at 50 °C for 12 hrs",
+        "yield": "not specified",
+        "crystal_data_collection_temperature": "-100(2) °C",
+        "crystal_data_collection_method": "Bruker SMART system",
+        "structure_solution_method": "SHELXS-86",
+        "structure_refinement_method": "SHELXL-97",
+        "refinement_details": {
+          "R": "0.0956",
+          "wR2": "0.3040",
+          "disorder_in_structure": "dication complex [(C20H42O10)Li2]2+"
+        }
+      }
+    }
+  ]
+}

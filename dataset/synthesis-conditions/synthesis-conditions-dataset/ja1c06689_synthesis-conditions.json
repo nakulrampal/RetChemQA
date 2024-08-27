@@ -1,0 +1,346 @@
+{
+  "materials": [
+    {
+      "name": "1,6-bis(pyridin-4-ylethynyl)pyrene (L)",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "1,6-dibromopyrene",
+            "amount": "432.0 mg",
+            "molar_amount": "1.2 mmol"
+          },
+          {
+            "name": "4-ethynylpyridine",
+            "amount": "288.4 mg",
+            "molar_amount": "2.8 mmol"
+          },
+          {
+            "name": "CuI",
+            "amount": "30.4 mg",
+            "molar_amount": "0.16 mmol"
+          },
+          {
+            "name": "bis(triphenylphosphine)palladium(II) chloride",
+            "amount": "56.1 mg",
+            "molar_amount": "0.08 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "50 mL",
+            "deoxygenated": true
+          },
+          {
+            "name": "triethylamine",
+            "ratio": "2:1 with DMF"
+          }
+        ],
+        "conditions": [
+          {
+            "temperature": "reflux",
+            "atmosphere": "N2",
+            "duration": "3 days"
+          }
+        ],
+        "yield": "37.1%",
+        "product_color": "yellow",
+        "product_form": "crystalline powder"
+      }
+    },
+    {
+      "name": "Na2[Pd(pba)]",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "Et2H2(pba)",
+            "amount": "137.0 mg",
+            "molar_amount": "0.5 mmol"
+          },
+          {
+            "name": "NaOH",
+            "amount": "40.0 mg",
+            "molar_amount": "1 mmol"
+          },
+          {
+            "name": "Na2[PdCl4]",
+            "amount": "147.0 mg",
+            "molar_amount": "0.5 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "70 mL"
+          }
+        ],
+        "conditions": [
+          {
+            "temperature": "60℃",
+            "duration": "5 h"
+          },
+          {
+            "action": "adjust pH to about 7 with sodium acetate"
+          }
+        ],
+        "yield": "80.1%",
+        "product_color": "yellow",
+        "product_form": "crystalline powder"
+      }
+    },
+    {
+      "name": "ExBox4+",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "1,4-di(pyridin-4-yl)benzene",
+            "amount": "34.8 mg",
+            "molar_amount": "0.15 mmol"
+          },
+          {
+            "name": "ExDB·2PF6",
+            "amount": "133.2 mg",
+            "molar_amount": "0.15 mmol"
+          },
+          {
+            "name": "pyrene",
+            "amount": "189.9 mg",
+            "molar_amount": "0.94 mmol"
+          },
+          {
+            "name": "TBAI",
+            "amount": "11.0 mg",
+            "molar_amount": "0.03 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "dry MeCN",
+            "amount": "75 mL"
+          }
+        ],
+        "conditions": [
+          {
+            "temperature": "80 °C",
+            "duration": "72 h"
+          }
+        ],
+        "yield": "50.3% for OTf salt, 65.3% for PF6 salt",
+        "product_color": "white",
+        "product_form": "solid"
+      }
+    },
+    {
+      "name": "ExBox24+",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "1,4-di(pyridin-4-yl)benzene",
+            "amount": "34.8 mg",
+            "molar_amount": "0.15 mmol"
+          },
+          {
+            "name": "DB·2PF6",
+            "amount": "156.3 mg",
+            "molar_amount": "0.15 mmol"
+          },
+          {
+            "name": "TBAI",
+            "amount": "11.0 mg",
+            "molar_amount": "0.03 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "dry MeCN",
+            "amount": "75 mL"
+          }
+        ],
+        "conditions": [
+          {
+            "temperature": "80 °C",
+            "duration": "72 h"
+          }
+        ],
+        "yield": "13.5%",
+        "product_color": "white",
+        "product_form": "solid"
+      }
+    },
+    {
+      "name": "Homo-1a",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "[Cp*RhCl2]2",
+            "amount": "24.8 mg",
+            "molar_amount": "0.04 mmol"
+          },
+          {
+            "name": "2,5-dihydroxycyclohexa-2,5-diene-1,4-dione or chloranilic acid",
+            "amount": "5.6 mg or 8.4 mg",
+            "molar_amount": "0.04 mmol"
+          },
+          {
+            "name": "NaOH or AgOTf",
+            "amount": "3.2 mg or 20.6 mg",
+            "molar_amount": "0.08 mmol"
+          },
+          {
+            "name": "1,6-bis(pyridin-4-ylethynyl)pyrene (L)",
+            "amount": "16.2 mg",
+            "molar_amount": "0.04 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "CH3OH or CHCl3",
+            "amount": "40 mL or 10 mL"
+          }
+        ],
+        "conditions": [
+          {
+            "temperature": "room temperature",
+            "duration": "6 h"
+          }
+        ],
+        "yield": "92.3% for PF6 salt, 90.5% for OTf salt",
+        "product_color": "brown",
+        "product_form": "crystalline solid"
+      }
+    },
+    {
+      "name": "Homo-2",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "[Cp*RhCl2]2",
+            "amount": "24.8 mg",
+            "molar_amount": "0.04 mmol"
+          },
+          {
+            "name": "Na2[Pd(pba)]",
+            "amount": "14.6 mg",
+            "molar_amount": "0.04 mmol"
+          },
+          {
+            "name": "AgOTf",
+            "amount": "20.6 mg",
+            "molar_amount": "0.08 mmol"
+          },
+          {
+            "name": "1,6-bis(pyridin-4-ylethynyl)pyrene (L)",
+            "amount": "16.2 mg",
+            "molar_amount": "0.04 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "CH3OH or CHCl3",
+            "amount": "40 mL or 10 mL"
+          }
+        ],
+        "conditions": [
+          {
+            "temperature": "room temperature",
+            "duration": "6 h"
+          }
+        ],
+        "yield": "90.7%",
+        "product_color": "orange",
+        "product_form": "crystalline solid"
+      }
+    },
+    {
+      "name": "Hetero-1",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "Homo-1a",
+            "molar_amount": "0.01 mmol"
+          },
+          {
+            "name": "ExBox",
+            "molar_amount": "0.02 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "30 mL"
+          }
+        ],
+        "conditions": [
+          {
+            "temperature": "room temperature",
+            "duration": "12 h"
+          }
+        ],
+        "yield": "95.3%",
+        "product_color": "brown",
+        "product_form": "crystalline solid"
+      }
+    },
+    {
+      "name": "Hetero-2",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "Homo-1a",
+            "molar_amount": "0.01 mmol"
+          },
+          {
+            "name": "ExBox2",
+            "molar_amount": "0.01 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "methanol and acetonitrile",
+            "ratio": "5:2 v/v",
+            "amount": "30 mL"
+          }
+        ],
+        "conditions": [
+          {
+            "temperature": "room temperature",
+            "duration": "12 h"
+          }
+        ],
+        "yield": "93.8%",
+        "product_color": "brown",
+        "product_form": "crystalline solid"
+      }
+    },
+    {
+      "name": "Hetero-3",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "Homo-2",
+            "molar_amount": "0.01 mmol"
+          },
+          {
+            "name": "ExBox",
+            "molar_amount": "0.03 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "30 mL"
+          }
+        ],
+        "conditions": [
+          {
+            "temperature": "room temperature",
+            "duration": "12 h"
+          }
+        ],
+        "yield": "92.2%",
+        "product_color": "orange",
+        "product_form": "crystalline solid"
+      }
+    }
+  ]
+}

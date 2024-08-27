@@ -1,0 +1,68 @@
+{
+  "materials": [
+    {
+      "name": "Cadmium coordination polymer",
+      "synthesis": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "ethyl alcohol",
+            "amount": "5 mL"
+          },
+          {
+            "name": "water",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "aminopyrazine (ampyz)",
+            "amount": "0.10 mmol, 9.51 mg"
+          },
+          {
+            "name": "cadmium acetate dihydrate [Cd(AcO)2·2H2O]",
+            "amount": "0.10 mmol, 26.65 mg"
+          }
+        ],
+        "time": "one week",
+        "method": "slow vehicle evaporation",
+        "yield": "crystals isolated before complete solvent matrix evaporation"
+      },
+      "crystallography": {
+        "equipment": "APEX II CCD detector of a Bruker-AXS Kappa Duo diffractometer",
+        "radiation": "MoKα",
+        "method": "direct methods of phase retrieval and full-matrix least squares on F2",
+        "hydrogen_atoms": "positions calculated and constrained or located from difference Fourier map",
+        "disorder": "NH2 group disordered over two sites sets",
+        "CCDC_number": "1884658"
+      },
+      "optical_measurements": {
+        "equipment": "HORIBA Jobin Yvon Fluorolog FL3-221 spectrofluorimeter",
+        "detector": "Hamamatsu photomultiplier tube",
+        "integrating_sphere": "152 mm (6”) integrating-sphere (Quanta-φ equipment, F3029, HORIBA Jobin Yvon)",
+        "sample_amount": "ca. 200 mg",
+        "excitation_source": "450 W Xe arc lamp",
+        "slits": "0.8 nm bandpass",
+        "collection_interval": "each 1.0 nm",
+        "PLQY_calculation_method": "Wrighton–Ginley–Morse reflection method",
+        "spectra_correction": "for the spectral response of the integrating-sphere, monochromators, and detector"
+      },
+      "TD-DFT_calculations": {
+        "models": [
+          {
+            "description": "one Cd atom and its surrounding ligands",
+            "details": "two acetate, two ampyz and one water"
+          },
+          {
+            "description": "four units model",
+            "details": "see Figure S1 for such larger model"
+          }
+        ],
+        "geometry_optimization": "DFT with def2-SVP and def2-TZVP basis sets and B3LYP, cam-B3LYP, M06-2X functionals",
+        "optimization_details": "hydrogens-only optimizations for theoretical spectra",
+        "TD-DFT_method": "70 single excited states, spectra from convolution with a 20 nm Gaussian window",
+        "spectra_adjustments": "shifted by 100 nm and intensity rescaled"
+      }
+    }
+  ]
+}

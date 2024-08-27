@@ -1,0 +1,113 @@
+{
+  "materials": [
+    {
+      "name": "c-Mn3",
+      "synthesis_conditions": {
+        "temperature": "505 K for glass transition, >558 K for recrystallization",
+        "solvents": "DMF",
+        "amount_of_solvent": "2DMF",
+        "chemicals_used": "[Mn3(COO)6], bis{4-[2-(4-pyridyl)ethenyl]} benzoic acid (Hpeb)",
+        "time": "2 hours for dehydration under nitrogen atmosphere",
+        "washing_method": "Not specified",
+        "drying_method": "Thermal dehydration",
+        "yield": "Not specified",
+        "equipment": "Not specified",
+        "additional_steps": [
+          {
+            "step": "Water vapor adsorption",
+            "conditions": {
+              "temperature": "298 K",
+              "pressure": "P/P0 = 0.45-0.48 for substantial water uptake"
+            }
+          },
+          {
+            "step": "Thermal dehydration",
+            "conditions": {
+              "temperature": "423 K",
+              "duration": "2 hours",
+              "atmosphere": "Nitrogen"
+            }
+          },
+          {
+            "step": "Heating for glass transition",
+            "conditions": {
+              "temperature": "505 K"
+            }
+          },
+          {
+            "step": "Recrystallization",
+            "conditions": {
+              "temperature": ">558 K"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "h-Mn3",
+      "synthesis_conditions": {
+        "temperature": "298 K for water vapor adsorption",
+        "pressure": "P/P0 = 0.45-0.48 for substantial water uptake",
+        "solvents": "Water vapor",
+        "chemicals_used": "c-Mn3",
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "equipment": "Not specified"
+      }
+    },
+    {
+      "name": "p-Mn3",
+      "synthesis_conditions": {
+        "temperature": "423 K for dehydration",
+        "solvents": "None (after water removal)",
+        "chemicals_used": "h-Mn3",
+        "time": "2 hours under nitrogen atmosphere",
+        "washing_method": "Not specified",
+        "drying_method": "Thermal dehydration",
+        "yield": "Not specified",
+        "equipment": "Not specified"
+      }
+    },
+    {
+      "name": "scl-Mn3",
+      "synthesis_conditions": {
+        "temperature": "505 K for glass transition",
+        "solvents": "None",
+        "chemicals_used": "p-Mn3",
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "equipment": "Not specified"
+      }
+    },
+    {
+      "name": "g-Mn3",
+      "synthesis_conditions": {
+        "temperature": "<545 K for quenching",
+        "solvents": "None",
+        "chemicals_used": "scl-Mn3",
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "equipment": "Not specified"
+      }
+    },
+    {
+      "name": "rec-Mn3",
+      "synthesis_conditions": {
+        "temperature": ">558 K for recrystallization",
+        "solvents": "None",
+        "chemicals_used": "scl-Mn3",
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "equipment": "Not specified"
+      }
+    }
+  ]
+}

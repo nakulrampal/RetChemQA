@@ -1,0 +1,58 @@
+{
+  "materials": [
+    {
+      "name": "Tb-BABDC",
+      "synthesis_conditions": {
+        "chemicals_used": "TbCl3·6 H2O, H2BABDC",
+        "solvents": "DMF, C2H5OH, H2O",
+        "equipment": "UV lamp",
+        "temperature": "room temperature",
+        "time": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "Eu-BABDC",
+      "synthesis_conditions": {
+        "chemicals_used": "EuCl3·6 H2O, H2BABDC",
+        "solvents": "DMF, C2H5OH, H2O",
+        "equipment": "UV lamp",
+        "temperature": "room temperature",
+        "time": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "EuxTb1@x-BABDC",
+      "synthesis_conditions": {
+        "chemicals_used": "EuCl3·6 H2O, TbCl3·6 H2O, H2BABDC",
+        "solvents": "not specified",
+        "equipment": "not specified",
+        "temperature": "not specified",
+        "time": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified",
+        "additional_information": "x = 0.0025, 0.005 and 0.01"
+      }
+    },
+    {
+      "name": "Ln-BABDC-PBMA membrane",
+      "synthesis_conditions": {
+        "chemicals_used": "Ln-BABDC crystals, butyl methacrylate (BMA) monomers",
+        "solvents": "solvent-free condition",
+        "equipment": "UV lamp",
+        "temperature": "room temperature",
+        "time": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified",
+        "additional_information": "photo-initiator present during copolymerization"
+      }
+    }
+  ]
+}

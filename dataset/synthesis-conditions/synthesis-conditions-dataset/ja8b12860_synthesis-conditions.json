@@ -1,0 +1,155 @@
+{
+  "materials": [
+    {
+      "name": "Zn0.23Mn0.44Co0.33(hfipbb)",
+      "synthesis_conditions": {
+        "temperature": "170 °C",
+        "solvents": ["water", "absolute ethanol"],
+        "solvent_amounts": ["5 mL of distilled water", "5 mL of absolute ethanol"],
+        "additional_chemicals": ["300 μL of a 1 M HNO3 solution"],
+        "heating_method": "Teflon-lined steel autoclave",
+        "time": "overnight",
+        "washing_method": ["water", "acetone"],
+        "drying_method": "under vacuum",
+        "yield": "32 mg, 24% (based on linker)"
+      }
+    },
+    {
+      "name": "Multimetal MOFs",
+      "synthesis_conditions": {
+        "temperature": "800 °C",
+        "time": "24 h",
+        "heating_rate": "2.5 °C/min",
+        "equipment": "zirconia crucible"
+      }
+    },
+    {
+      "name": "Zn(hfipbb)",
+      "thermal_treatment_product": "Wurzite"
+    },
+    {
+      "name": "Zn0.89Co0.11(hfipbb)",
+      "thermal_treatment_product": "Wurzite + Spinel (minor)"
+    },
+    {
+      "name": "Zn0.59Co0.41(hfipbb)",
+      "thermal_treatment_product": "Wurzite + Spinel (minor)"
+    },
+    {
+      "name": "Zn0.55Co0.45(hfipbb)",
+      "thermal_treatment_product": "Wurzite + Spinel (minor)"
+    },
+    {
+      "name": "Zn0.21Co0.79(hfipbb)",
+      "thermal_treatment_product": "Spinel + Wurtzite (minor)"
+    },
+    {
+      "name": "Zn0.50Mn0.50(hfipbb)",
+      "thermal_treatment_product": "Spinel + Hetaerolite"
+    },
+    {
+      "name": "Zn0.44Mn0.44Co0.12(hfipbb)",
+      "thermal_treatment_product": "Spinel + Unknown"
+    },
+    {
+      "name": "Zn0.54Mn0.37Co0.09(hfipbb)",
+      "thermal_treatment_product": "Wurzite + Spinel"
+    },
+    {
+      "name": "Zn0.37Mn0.50Co0.13(hfipbb)",
+      "thermal_treatment_product": "Spinel + Hydrohetareollite + Unknown"
+    },
+    {
+      "name": "Zn0.32Mn0.40Co0.28(hfipbb)",
+      "thermal_treatment_product": "Wurzite + Spinel"
+    },
+    {
+      "name": "Zn0.22Mn0.32Co0.46(hfipbb)",
+      "thermal_treatment_product": "Multimetallic Spinel"
+    },
+    {
+      "name": "Zn0.12Mn0.42Co0.46(hfipbb)",
+      "thermal_treatment_product": "Multimetallic Spinel"
+    },
+    {
+      "name": "Zn0.23Mn0.44Co0.33(hfipbb)",
+      "thermal_treatment_product": "Multimetallic Spinel"
+    },
+    {
+      "name": "Zn0.17Mn0.41Co0.42(hfipbb)",
+      "thermal_treatment_product": "Multimetallic Spinel"
+    },
+    {
+      "name": "Zn0.12Mn0.39Co0.49(hfipbb)",
+      "thermal_treatment_product": "Multimetallic Spinel"
+    },
+    {
+      "name": "Zn0.10Mn0.40Co0.50(hfipbb)",
+      "thermal_treatment_product": "Multimetallic Spinel"
+    },
+    {
+      "name": "Zn0.17Mn0.45Co0.38(hfipbb)",
+      "thermal_treatment_product": "Multimetallic Spinel"
+    },
+    {
+      "name": "Zn0.42Mn0.42Co0.11Ca0.06(hfipbb)",
+      "thermal_treatment_product": "Multimetallic Spinel"
+    },
+    {
+      "name": "Zn0.13Mn0.27Co0.52Ca0.03(hfipbb)",
+      "thermal_treatment_product": "Multimetallic Spinel"
+    },
+    {
+      "name": "Zn0.37Mn0.28Co0.13Ca0.22(hfipbb)",
+      "thermal_treatment_product": "Spinel+ Wurzite + Unknown"
+    },
+    {
+      "name": "Zn0.16Mn0.47Co0.33Ca0.03(hfipbb)",
+      "thermal_treatment_product": "Multimetallic Spinel"
+    },
+    {
+      "name": "Zn0.18Mn0.24Co0.41Ca0.16(hfipbb)",
+      "thermal_treatment_product": "Multimetallic Spinel"
+    },
+    {
+      "name": "Zn0.24Mn0.37Co0.31Ca0.08(hfipbb)",
+      "thermal_treatment_product": "Multimetallic Spinel"
+    },
+    {
+      "name": "Zn0.32Mn0.40Co0.15Ca0.12(hfipbb)",
+      "thermal_treatment_product": "Multimetallic Spinel"
+    },
+    {
+      "name": "Zn0.46Mn0.21Co0.17Ca0.15(hfipbb)",
+      "thermal_treatment_product": "Spinel+Wurzite + Unknown trace"
+    },
+    {
+      "name": "Zn0.27Mn0.34Co0.26Ca0.12(hfipbb)",
+      "thermal_treatment_product": "Multimetallic Spinel"
+    },
+    {
+      "name": "Zn0.21Mn0.27Co0.30Ca0.22(hfipbb)",
+      "thermal_treatment_product": "Multimetallic Spinel"
+    },
+    {
+      "name": "Zn0.26Mn0.16Co0.37Ca0.21(hfipbb)",
+      "thermal_treatment_product": "Spinel + Wurzite"
+    },
+    {
+      "name": "Mn0.41Co0.59(hfipbb)",
+      "thermal_treatment_product": "Multimetallic Spinel"
+    },
+    {
+      "name": "Mn0.23Co0.50Ca0.27(hfipbb)",
+      "thermal_treatment_product": "Multimetallic Spinel"
+    },
+    {
+      "name": "Zn0.64Ca0.36(hfipbb)",
+      "thermal_treatment_product": "Wurzite + Fluorite"
+    },
+    {
+      "name": "Zn0.48Ca0.52(hfipbb)",
+      "thermal_treatment_product": "Wurzite + Fluorite"
+    }
+  ]
+}

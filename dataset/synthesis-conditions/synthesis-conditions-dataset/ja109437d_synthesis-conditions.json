@@ -1,0 +1,94 @@
+{
+  "materials": [
+    {
+      "name": "1⊃DMF",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "10.0 mL"
+          },
+          {
+            "name": "nitrobenzene",
+            "amount": "4.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(NH4)2WS4",
+            "amount": "0.01 mmol"
+          },
+          {
+            "name": "CuI",
+            "amount": "0.04 mmol"
+          },
+          {
+            "name": "Et4NI",
+            "amount": "0.01 mmol"
+          },
+          {
+            "name": "dptz",
+            "amount": "0.01 mmol"
+          }
+        ],
+        "time": "1 month",
+        "yield": "~60 % based on ligand",
+        "equipment": "sealed test tube"
+      }
+    },
+    {
+      "name": "1′",
+      "synthesis_conditions": {
+        "steps": [
+          {
+            "step": "Solvent exchange",
+            "details": {
+              "solvent": "methanol",
+              "duration": "3 days",
+              "frequency": "every 12 hours"
+            }
+          },
+          {
+            "step": "Heating",
+            "details": {
+              "temperature": "60 °C",
+              "duration": "10 hours",
+              "atmosphere": "under vacuum"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "1⊃solvent",
+      "synthesis_conditions": {
+        "steps": [
+          {
+            "step": "Solvent immersion",
+            "details": {
+              "initial_sample": "1⊃DMF",
+              "duration": "3 days",
+              "frequency": "change fresh solvent every 12 hours"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "2⊃solvent",
+      "synthesis_conditions": {
+        "steps": [
+          {
+            "step": "Solvent immersion",
+            "details": {
+              "initial_sample": "2⊃DMF",
+              "duration": "3 days",
+              "frequency": "change fresh solvent every 12 hours"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

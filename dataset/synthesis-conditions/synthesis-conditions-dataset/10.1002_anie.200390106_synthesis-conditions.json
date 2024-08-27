@@ -1,0 +1,59 @@
+{
+  "materials": [
+    {
+      "name": "Racemic 1",
+      "synthesis_conditions": {
+        "step_1": {
+          "description": "Preparation of Racemic 1",
+          "chemicals_used": "2-alkynyl-5-bromopyrimidine, 2-methylpropanal",
+          "method": "lithiation followed by treatment"
+        }
+      }
+    },
+    {
+      "name": "(S)-1",
+      "synthesis_conditions": {
+        "step_1": {
+          "description": "Preparation of (S)-1 with ca. 0.00005 % ee",
+          "chemicals_used": "Pyrimidyl alkanol (S)-1 (> 99.5 % ee), ethyl acetate or benzene, racemic 1",
+          "solvents": "ethyl acetate or benzene",
+          "solvent_amounts": {
+            "ethyl_acetate_or_benzene": "to make a standardized solution of (S)-1 (3.2 x 10^-6 mol L^-1)",
+            "solution_volume": "50 mL",
+            "racemic_1_solution": "75.1 mg in ethyl acetate or benzene"
+          },
+          "method": "dissolution and solvent removal",
+          "yield": "(S)-1 with ca. 0.00005 % ee (9.9 mg)",
+          "additional_step": {
+            "description": "Dissolution in cumene",
+            "solvent": "cumene",
+            "solvent_volume": "4.3 mL",
+            "solution_concentration": "9.9 x 10^-3 m solution of (S)-1 with ca. 0.00005 % ee"
+          }
+        }
+      }
+    },
+    {
+      "name": "[Ag4(H2tpyp)3](NO3)4 x solv (1) and [Ag2(H2tpyp)(NO3)](NO3) x solv (2)",
+      "synthesis_conditions": {
+        "description": "Synthesis of 2D species",
+        "chemicals_used": "AgNO3, H2tpyp or Zntpyp, TCE/MeOH",
+        "solvents": "N,N’-dimethylacetamide (DMA), TCE/MeOH, 3-chloroaniline",
+        "method": "slow diffusion of AgNO3 solution into H2tpyp or Zntpyp solution",
+        "yield": "good yield",
+        "notes": "Brown crystals of compound 1 formed within a few days. Variable amounts of smaller crystals of compound 2 also formed."
+      }
+    },
+    {
+      "name": "[Ag8(Zntpyp)7(H2O)2](NO3)8 x solv (3)",
+      "synthesis_conditions": {
+        "description": "Synthesis of 3D network",
+        "chemicals_used": "AgNO3, Zntpyp, TCE/MeOH",
+        "solvents": "N,N’-dimethylacetamide (DMA), TCE/MeOH, DMA",
+        "method": "slow diffusion of AgNO3 solution into Zntpyp solution",
+        "yield": "good yield, dark-red crystals formed within a few days",
+        "additional_information": "Can also be obtained in high yields (ca. 97%) as polycrystalline samples by adding AgNO3 in DMA to Zntpyp in TCE/MeOH under stirring in an ice bath."
+      }
+    }
+  ]
+}

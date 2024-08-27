@@ -1,0 +1,60 @@
+{
+  "materials": [
+    {
+      "name": "compound 1",
+      "synthesis": {
+        "precursors": [
+          {
+            "name": "Co(CO3)",
+            "amount": "1.00 g",
+            "molar_amount": "8.40 mmol"
+          },
+          {
+            "name": "H4citr·H2O",
+            "amount": "1.41 g",
+            "molar_amount": "6.72 mmol"
+          },
+          {
+            "name": "CsOH",
+            "solution_concentration": "5.72 N",
+            "amount": "1.76 ml",
+            "molar_amount": "10.1 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "water",
+            "role": "reaction medium"
+          },
+          {
+            "name": "EtOH",
+            "role": "crystallization medium"
+          }
+        ],
+        "temperature": [
+          {
+            "condition": "reaction",
+            "value": "ambient"
+          },
+          {
+            "condition": "crystallization",
+            "value": "4 ºC"
+          }
+        ],
+        "time": "4 hours",
+        "method": "A suspension of Co(CO3) in water was stirred with H4citr·H2O for four hours and then filtered. Then a 5.72 N solution of CsOH was added. Pink crystals of compound 1 were grown after addition of EtOH."
+      },
+      "elemental_analysis": {
+        "found": {
+          "C": "16.02%",
+          "H": "2.81%"
+        },
+        "calculated": {
+          "C": "15.92%",
+          "H": "3.20%"
+        }
+      },
+      "IR_data": "3200 (br), 1538(s), 1418(sh), 1380(s), 1242(m), 1089(m)"
+    }
+  ]
+}

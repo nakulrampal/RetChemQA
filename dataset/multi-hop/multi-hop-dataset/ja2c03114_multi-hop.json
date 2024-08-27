@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are the synthesis conditions for NU-2000 and NU-2001?",
+      "answer": "NU-2000 and NU-2001 were synthesized by heating aqueous solutions of H2BODC with aluminum chloride hexahydrate (AlCl3·6H2O) or vanadium chloride (VCl3) at 200 °C for 48 hours.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the incorporation of 3D linkers affect the flexibility of MOFs in the context of xylene separation?",
+      "answer": "Incorporating 3D linkers into MOFs minimizes variations in pore dimensions that occur from variable linker orientations, offering enhanced control over separations of the three xylene isomers.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the NU-2000 and NU-2001 MOFs in the separation of xylene isomers?",
+      "answer": "NU-2000 and NU-2001 MOFs are significant for the separation of xylene isomers as they leverage sub-Ångstrom differences in the sizes of each isomer, achieving high selectivity under ambient conditions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What role does the dimensionality of linkers play in the separation efficiency of MOFs?",
+      "answer": "The dimensionality of linkers in MOFs, specifically the transition from 2D to 3D linkers, plays a crucial role in enhancing separation efficiency by enabling precise control of MOF pore size and aperture, regardless of the linker orientation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How do NU-2000 and NU-2001 differ in their structural and functional properties for xylene separation?",
+      "answer": "NU-2000 and NU-2001 differ in their metal centers (Al for NU-2000 and V for NU-2001) and the presence of H2BODC guest molecules in NU-2001, which affects their pore structures and separation performance for xylene isomers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of NU-2000 and NU-2001 requires organic solvents.",
+      "answer": "False. The synthesis of NU-2000 and NU-2001 was developed using a hydrothermal protocol that did not require any organic solvents.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: NU-2000 and NU-2001 demonstrate flexibility in their frameworks after activation.",
+      "answer": "True. Both NU-2000 and NU-2001 demonstrate significant thermal stability and lack of framework breathing, indicating limited flexibility in their frameworks after activation.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental techniques were used to characterize the synthesized NU-2000 and NU-2001 MOFs?",
+      "answer": "Characterization techniques for NU-2000 and NU-2001 included powder X-ray diffraction (PXRD), N2 sorption measurements, thermogravimetric analyses (TGA), scanning electron microscopy (SEM), and single-crystal X-ray diffraction (SCXRD).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of H2BODC guest molecules in NU-2001 affect its structure compared to NU-2000?",
+      "answer": "The presence of H2BODC guest molecules in NU-2001 leads to a templating effect that causes a slight pore expansion compared to NU-2000, affecting the channel diameters and potentially the separation performance.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The separation of xylene isomers by NU-2000 and NU-2001 is achieved through thermal processes.",
+      "answer": "False. The separation of xylene isomers by NU-2000 and NU-2001 is achieved through physical adsorption under ambient conditions, not through thermal processes.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of thermal activation on the structural integrity of NU-2000 and NU-2001?",
+      "answer": "Thermal activation at high temperatures (up to 300 °C for NU-2001 and 450 °C for NU-2000) confirmed the retention of crystallinity and morphology for both MOFs, indicating their robust structural integrity.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How do NU-2000 and NU-2001 achieve selectivity in the separation of xylene isomers?",
+      "answer": "NU-2000 and NU-2001 achieve selectivity in the separation of xylene isomers through molecular sieving, where the optimal pore sizes enable the adsorption of smaller isomers while blocking larger ones.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: NU-2000 and NU-2001 have identical crystal structures.",
+      "answer": "False. NU-2000 and NU-2001 have different crystal structures, as evidenced by their crystallization in different space groups and variations in their unit cell parameters.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What challenges are associated with the separation of xylene isomers, and how do NU-2000 and NU-2001 address them?",
+      "answer": "The main challenge in separating xylene isomers is their similar chemical and physical properties. NU-2000 and NU-2001 address this by leveraging sub-Ångstrom differences in isomer sizes for selective adsorption.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption selectivity of NU-2000 and NU-2001 for xylene isomers is influenced by the temperature of activation.",
+      "answer": "True. The adsorption selectivity of NU-2000 and NU-2001 for xylene isomers can be influenced by the temperature of activation, as it affects the removal of guest molecules and the accessibility of pores.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational methods were used to study the flexibility and adsorption properties of NU-2000?",
+      "answer": "Computational methods used to study NU-2000 included Monte Carlo simulations in the grand canonical ensemble (GCMC) for single-component and mixture adsorption, and molecular dynamics (MD) simulations for studying framework flexibility.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the experimental validation of computational models contribute to the understanding of MOF performance?",
+      "answer": "Experimental validation of computational models, such as matching simulated and experimental adsorption isotherms, confirms the accuracy of the models and enhances the understanding of MOF performance in real-world applications.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption of xylene isomers in NU-2000 is independent of the framework's flexibility.",
+      "answer": "False. The adsorption of xylene isomers in NU-2000 is influenced by the framework's flexibility, as demonstrated by computational simulations showing different adsorption behaviors in flexible versus rigid frameworks.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What are the implications of the thermal stability of NU-2000 and NU-2001 for their practical applications?",
+      "answer": "The thermal stability of NU-2000 and NU-2001, with retention of crystallinity up to 550 and 500 °C respectively, implies their suitability for practical applications that require robust materials capable of withstanding high temperatures.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The separation performance of NU-2000 and NU-2001 for xylene isomers can be optimized by adjusting the synthesis conditions.",
+      "answer": "True. Adjusting the synthesis conditions, such as the choice of metal source and temperature, can influence the structural properties of NU-2000 and NU-2001, potentially optimizing their separation performance for xylene isomers.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

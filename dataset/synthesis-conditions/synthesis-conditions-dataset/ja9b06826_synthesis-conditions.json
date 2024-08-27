@@ -1,0 +1,79 @@
+{
+  "materials": [
+    {
+      "name": "[iPrL2Cr]Li2(THF)4 (4)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": "THF",
+        "chemicals_used": [
+          "1,1,3,3-tetraisopropylsilan-1,3-ol",
+          "lithium-tert-butoxide",
+          "CrCl2"
+        ],
+        "yield": "55%",
+        "characterization_methods": [
+          "elemental analysis",
+          "UV/vis spectroscopy",
+          "IR spectroscopy",
+          "HR-ESI-MS"
+        ]
+      }
+    },
+    {
+      "name": "[iPrL2Cr]Li2O2(EtCN)4 (5)",
+      "synthesis_conditions": {
+        "temperature": "-80 °C",
+        "solvents": "EtCN",
+        "starting_material": "[iPrL2Cr]Li2(THF)4 (4)",
+        "characterization_methods": [
+          "UV/vis spectroscopy",
+          "resonance Raman measurements",
+          "HR-ESI-MS"
+        ]
+      }
+    },
+    {
+      "name": "[iPrL2Cr]Li2O2(THF)4 (6)",
+      "synthesis_conditions": {
+        "temperature": "-80 °C",
+        "solvents": "THF",
+        "starting_material": "[iPrL2Cr]Li2(THF)4 (4)",
+        "characterization_methods": [
+          "UV/vis spectroscopy",
+          "HR-ESI-MS"
+        ]
+      }
+    },
+    {
+      "name": "[iPrL2Cr]Li2O2(THF)2(EtCN)2 (7)",
+      "synthesis_conditions": {
+        "temperature": "-80 °C",
+        "solvents": [
+          "THF",
+          "propionitrile"
+        ],
+        "starting_material": "[iPrL2Cr]Li2(THF)4 (4)",
+        "notes": "Solvent ratio approximately 2:1 propionitrile:THF"
+      }
+    },
+    {
+      "name": "[MeL2Cr]Li2(THF)4 (8)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": "THF",
+        "chemicals_used": [
+          "1,1,3,3-tetramethylsilan-1,3-ol",
+          "lithium-tert-butoxide",
+          "CrCl2"
+        ],
+        "yield": "60%",
+        "characterization_methods": [
+          "elemental analysis",
+          "UV/vis spectroscopy",
+          "IR spectroscopy",
+          "HR-ESI-MS"
+        ]
+      }
+    }
+  ]
+}

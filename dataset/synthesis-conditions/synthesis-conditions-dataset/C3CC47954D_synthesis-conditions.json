@@ -1,0 +1,31 @@
+{
+  "materials": [
+    {
+      "name": "[Fe2(1,4-BDC)2(dabco)]·4DMF, 1DMF",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Anhydrous FeCl2 (0.6 mmol)",
+          "1,4-benzenedicarboxylic acid (0.6 mmol)",
+          "dabco (1.95 mmol)"
+        ],
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "3 mL"
+          },
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "27 mL"
+          }
+        ],
+        "temperature": "373 K",
+        "time": "48 hours",
+        "atmosphere": "Ar",
+        "equipment": "glass vial",
+        "yield": "80% based on FeCl2",
+        "washing_method": "washed with N,N-dimethylformamide",
+        "drying_method": "dried under Ar"
+      }
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "materials": [
+    {
+      "material": "Na[1]",
+      "synthesis_conditions": {
+        "temperature": "80°C",
+        "solvents": [
+          {
+            "solvent": "THF",
+            "amount": "50 mL"
+          },
+          {
+            "solvent": "hexanes",
+            "amount": "18 mL"
+          },
+          {
+            "solvent": "ice water",
+            "amount": "450 mL"
+          },
+          {
+            "solvent": "dichloromethane",
+            "amount": "200 mL"
+          }
+        ],
+        "chemicals_used": [
+          "2-bromopyridine",
+          "isopropylmagnesium chloride",
+          "9-methoxy-9-borabicyclo[3.3.1]nonane",
+          "hydrochloric acid",
+          "sodium hydride"
+        ],
+        "time": [
+          "12h for stirring after adding isopropylmagnesium chloride",
+          "24h at 80°C",
+          "5 hours after adding hydrochloric acid"
+        ],
+        "washing_method": "washed with water followed by hexanes",
+        "drying_method": "air-dried overnight",
+        "yield": "not specified"
+      }
+    },
+    {
+      "material": "Na[2]",
+      "synthesis_conditions": {
+        "temperature": "-20°C for storage",
+        "solvents": [
+          {
+            "solvent": "THF",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          "Na[1]",
+          "Pt2Me4(µ-SMe2)2"
+        ],
+        "time": "5h with intermittent exposure to vacuum",
+        "recrystallization_solvent": "THF-hexanes mixture",
+        "yield": "91%"
+      }
+    },
+    {
+      "material": "Na[3]",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "solvent": "THF",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          "Na[1]",
+          "PtPh2(SMe2)2"
+        ],
+        "time": "5h with intermittent exposure to vacuum",
+        "recrystallization_solvent": "THF-hexanes mixture",
+        "yield": "94%"
+      }
+    },
+    {
+      "material": "Na[4]",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "solvent": "methanol",
+            "amount": "3 mL"
+          }
+        ],
+        "chemicals_used": [
+          "Na[2]",
+          "trimethylchlorosilane"
+        ],
+        "time": "20 minutes",
+        "yield": "not specified"
+      }
+    },
+    {
+      "material": "Na[5]",
+      "synthesis_conditions": {
+        "temperature": "-20°C for cooling",
+        "solvents": [
+          {
+            "solvent": "methanol",
+            "amount": "3 mL"
+          },
+          {
+            "solvent": "THF",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          "Na[3]",
+          "trimethylchlorosilane",
+          "sodium hydride"
+        ],
+        "time": "10 minutes after adding trimethylchlorosilane, then stirred for 10 minutes after adding sodium hydride",
+        "yield": "not specified"
+      }
+    },
+    {
+      "material": "Na[6]",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "solvent": "methanol",
+            "amount": "4 mL"
+          }
+        ],
+        "chemicals_used": [
+          "Na[4]",
+          "O2"
+        ],
+        "time": "10 minutes",
+        "recrystallization_solvent": "THF-hexanes mixture",
+        "yield": "90%"
+      }
+    },
+    {
+      "material": "10",
+      "synthesis_conditions": {
+        "temperature": "-60°C to room temperature",
+        "solvents": [
+          {
+            "solvent": "THF",
+            "amount": "1 mL"
+          },
+          {
+            "solvent": "methanol",
+            "amount": "4 mL"
+          }
+        ],
+        "chemicals_used": [
+          "Na[2]",
+          "O2"
+        ],
+        "time": "10 minutes",
+        "yield": "88%"
+      }
+    },
+    {
+      "material": "11",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "solvent": "methanol",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          "Na[3]",
+          "O2"
+        ],
+        "time": "10 minutes",
+        "yield": "95%"
+      }
+    },
+    {
+      "material": "9",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "solvent": "CD3OD",
+            "amount": "0.2 mL"
+          }
+        ],
+        "chemicals_used": [
+          "Na[3]",
+          "O2"
+        ],
+        "time": "not specified",
+        "yield": "not specified"
+      }
+    },
+    {
+      "material": "13",
+      "synthesis_conditions": {
+        "temperature": "room temperature to 120°C",
+        "solvents": [
+          {
+            "solvent": "ether",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          "Na[2]",
+          "methyl iodide"
+        ],
+        "time": "20 minutes",
+        "yield": "quantitative"
+      }
+    }
+  ]
+}

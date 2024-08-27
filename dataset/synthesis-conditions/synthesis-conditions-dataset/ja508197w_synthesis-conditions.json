@@ -1,0 +1,65 @@
+{
+  "materials": [
+    {
+      "material": "2,7-H2AQDC",
+      "synthesis_conditions": {
+        "chemicals_used": "1.5 g 2,7-dimethylanthraquinone (2,7-AQDMS1), 4 equivalents of CrO3, 50 mL acetic acid",
+        "solvents": "acetic acid, water",
+        "amount_of_each_solvent": {
+          "acetic_acid": "50 mL",
+          "water": "150 mL"
+        },
+        "temperature": "refluxed for 12 hours, cooled to room temperature",
+        "time": "12 hours",
+        "washing_method": "rinsed with water several times"
+      }
+    },
+    {
+      "material": "1·DMF",
+      "synthesis_conditions": {
+        "chemicals_used": "74 mg Cu(ClO4)2·6H2O (0.2 mmol), 30 mg 2,7-H2AQDC (0.1 mmol), 2.5mL DMF, a drop of 48% HBF4",
+        "solvents": "DMF",
+        "amount_of_each_solvent": {
+          "DMF": "2.5mL"
+        },
+        "temperature": "80oC",
+        "time": "16 hours",
+        "equipment": "10 mL vial",
+        "yield": "18 mg (49%)",
+        "activation_method": "kept at 160oC under a vacuum for 2 hours",
+        "elemental_analysis": {
+          "Calcd_percent": {
+            "C": "53.71",
+            "H": "1.69",
+            "N": "0"
+          },
+          "Found_percent": {
+            "C": "53.08",
+            "H": "2.09",
+            "N": "0.14"
+          }
+        }
+      }
+    },
+    {
+      "material": "Battery performance test",
+      "synthesis_conditions": {
+        "chemicals_used": "50mg 1·DMF, 350mg amorphous carbon black, 100 mg PVDF, ~0.5mL N-Methyl-2-pyrrolidone (NMP)",
+        "solvents": "NMP",
+        "amount_of_each_solvent": {
+          "NMP": "~0.5mL"
+        },
+        "equipment": "CR2032 coin cell battery setup",
+        "temperature": "room temperature",
+        "additional_details": {
+          "cathode_composition": "10% weight MOF, 70% carbon black, 20% PVDF",
+          "anode": "lithium metal disc",
+          "electrolyte": "1M LiPF6 in a 1:1 EC/DEC solution",
+          "voltage_window": "4.0-1.7V",
+          "current": "1.0 mA",
+          "cyclic_voltammetry": "scan rate of 1.0 mV/s"
+        }
+      }
+    }
+  ]
+}

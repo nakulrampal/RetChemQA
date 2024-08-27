@@ -1,0 +1,51 @@
+{
+  "Na2[IrF6]": {
+    "synthesis_conditions": {
+      "temperature": "200°C",
+      "chemicals_used": "Na2[IrCl6]·6H2O, F2 gas",
+      "equipment": "flow reactor",
+      "time": "6 hours",
+      "yield": "Not specified",
+      "additional_steps": [
+        {
+          "step_description": "Heating Na2[IrCl6]·6H2O to 150°C in vacuo for 6 hours",
+          "step_temperature": "150°C",
+          "step_time": "6 hours"
+        },
+        {
+          "step_description": "Repeating fluorination step to improve crystallinity",
+          "step_temperature": "200°C",
+          "step_time": "6 hours"
+        }
+      ]
+    }
+  },
+  "(PPh4)2[IrF6]·2H2O (1)": {
+    "synthesis_conditions": {
+      "solvents": "Water",
+      "chemicals_used": "Na2[IrF6], PPh4Cl",
+      "yield": "59%",
+      "drying_method": "Dynamic vacuum",
+      "washing_method": "Not specified",
+      "additional_information": "Solution of Na2[IrF6] in water was added to a solution of PPh4Cl in water. The resulting solution was left undisturbed for 1 hour to produce crystalline (PPh4)2[IrF6]·2H2O."
+    }
+  },
+  "Zn(viz)4[IrF6] (2)": {
+    "synthesis_conditions": {
+      "solvents": "Methanol",
+      "chemicals_used": "(PPh4)2[IrF6]·2H2O, 1-vinylimidazole, Zn(NO3)2·6H2O",
+      "yield": "82%",
+      "additional_information": "Addition of 1-vinylimidazole and Zn(NO3)2·6H2O to a methanol solution of (PPh4)2[IrF6]·2H2O. Crystals of Zn(viz)4[IrF6] formed after 1 day."
+    }
+  },
+  "(PPh4)2[IrCl6] (3)": {
+    "synthesis_conditions": {
+      "solvents": "Aqueous HCl",
+      "chemicals_used": "(NH4)2[IrCl6], PPh4Cl",
+      "yield": "91%",
+      "drying_method": "Dynamic vacuum",
+      "washing_method": "Water",
+      "additional_information": "Solution of (NH4)2[IrCl6] in aqueous HCl was heated and filtered. A solution of PPh4Cl in aqueous HCl was added slowly, inducing precipitation of (PPh4)2[IrCl6]."
+    }
+  }
+}

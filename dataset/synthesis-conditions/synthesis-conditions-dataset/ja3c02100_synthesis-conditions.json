@@ -1,0 +1,74 @@
+{
+  "materials": [
+    {
+      "name": "Al(HCOO)3 (ALF)",
+      "synthesis": {
+        "temperature": "100 °C (373 K)",
+        "time": "48 h",
+        "solvents": [
+          {
+            "name": "formic acid",
+            "amount": "100 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "aluminium hydroxide",
+            "amount": "1.2 g, 0.015 mol"
+          }
+        ],
+        "yield": "95%",
+        "washing_method": "rinsed with ethanol",
+        "drying_method": "air-dried",
+        "activation": {
+          "methods": [
+            {
+              "temperature": "150 °C (423 K)",
+              "time": "24 h",
+              "environment": "high vacuum (1 × 10−4 mmHg)"
+            },
+            {
+              "temperature": "180 °C (453 K)",
+              "time": "24 h",
+              "environment": "air/ambient conditions"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "ALF-Fe",
+      "synthesis": {
+        "temperature": "100 ℃",
+        "time": "48 h",
+        "solvents": [
+          {
+            "name": "formic acid",
+            "amount": "150 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "aluminum hydroxide",
+            "amount": "2.0 g"
+          },
+          {
+            "name": "[FeIII3(μ-O)(HCOO)7(H2O)2]2",
+            "amount": "6.0 g"
+          }
+        ],
+        "washing_method": "rinsed with ethanol",
+        "drying_method": "vacuum filtration",
+        "activation": {
+          "methods": [
+            {
+              "temperature": "150 °C (423 K)",
+              "time": "24 h",
+              "environment": "high vacuum [1 × 10−4 mmHg]"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

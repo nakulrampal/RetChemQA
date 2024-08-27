@@ -1,0 +1,79 @@
+{
+  "materials": [
+    {
+      "name": "Zn2(DBTD)­(DPB-CHO)",
+      "synthesis_conditions": {
+        "temperature": "301(2) K",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "0.8 mL"
+          },
+          {
+            "name": "HBF4",
+            "amount": "6 μL"
+          }
+        ],
+        "chemicals_used": [
+          "Zn­(NO3)2·6H2O (18.0 mg, 60.5 μmol)",
+          "H4DBTD (5.40 mg, 7.50 μmol)",
+          "DPB-CHO (5.00 mg, 19.2 μmol)"
+        ],
+        "equipment": "Bruker D8 QUEST diffractometer",
+        "time": "24 h",
+        "crystal_system": "orthorhombic",
+        "space_group": "Pmmm",
+        "yield": "4.70 mg, 4.27 μmol, 57%"
+      }
+    },
+    {
+      "name": "2′ (Zn2(BPDC)2(BPMTC))",
+      "synthesis_conditions": {
+        "temperature": "110 °C",
+        "solvents": "DMF (5 mL)",
+        "chemicals_used": [
+          "Zn­(NO3)2·6H2O (7.00 mg, 23.5 μmol)",
+          "4,4′-stilbenedicarboxylic acid (H2SDC, 6.50 mg, 24.2 μmol)",
+          "BPMTC (10.0 mg, 41.3 μmol)"
+        ],
+        "equipment": "isothermal oven",
+        "time": "24 h",
+        "crystal_system": "monoclinic",
+        "space_group": "P21/c",
+        "yield": "15.8 mg, 17.5 μmol, 75%"
+      }
+    },
+    {
+      "name": "H2BCMTC",
+      "synthesis_conditions": {
+        "temperature": "100(2) K",
+        "crystal_system": "monoclinic",
+        "space_group": "C2/c",
+        "chemicals_used": [
+          "Not specified"
+        ],
+        "solvents": [
+          "Not specified"
+        ],
+        "equipment": "Bruker D8 QUEST diffractometer",
+        "time": "Not specified"
+      }
+    },
+    {
+      "name": "3 (Zr6(Me2BPDC)4)",
+      "synthesis_conditions": {
+        "temperature": "Not specified",
+        "solvents": [
+          "Not specified"
+        ],
+        "chemicals_used": [
+          "Not specified"
+        ],
+        "equipment": "Not specified",
+        "time": "Not specified",
+        "crystal_system": "Not specified",
+        "space_group": "Not specified"
+      }
+    }
+  ]
+}

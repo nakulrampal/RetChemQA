@@ -1,0 +1,117 @@
+{
+  "materials": [
+    {
+      "name": "CUB-5",
+      "synthesis": {
+        "precursors": [
+          {
+            "name": "Zn(NO3)2.6H2O",
+            "amount": "1.34 g, 4.5 mmol"
+          },
+          {
+            "name": "1,4-cdc",
+            "amount": "0.3 g, 1.6 mmol"
+          }
+        ],
+        "solvent": "DMF",
+        "solvent_amount": "100 mL",
+        "temperature": "100 °C",
+        "time": "24 hours",
+        "yield": "72%",
+        "equipment": [
+          {
+            "type": "bottle with a Teflon cap",
+            "size": "100 mL"
+          },
+          {
+            "type": "oven"
+          }
+        ],
+        "washing_method": "solvent exchange with fresh DMF thrice and fresh DCM thrice",
+        "drying_method": "evacuated under high vacuum at 40 °C",
+        "characterization": {
+          "IR": {
+            "spectra": [
+              {
+                "condition": "as-synthesised",
+                "peaks": "3095 br w, 3001 w, 2456 br w, 1650 w, 1522 br s, 1420 br vs, 1270 m, 1197 w, 1118 m, 1022 m, 972 m, 946 w, 838 m"
+              },
+              {
+                "condition": "DCM exchanged/degassed",
+                "peaks": "2993 br w, 1522 s, 1419 vs, 1266 m, 1200 w, 1117 w, 1022 w, 943 w, 802 br m, 735 s"
+              }
+            ]
+          }
+        }
+      },
+      "moisture_sensitivity": {
+        "humidity_exposure": [
+          {
+            "condition": "33% humidity",
+            "result": "reduction of crystallinity after two days, complete loss after six days"
+          },
+          {
+            "condition": "75% humidity",
+            "result": "phase transition evident after two days, retained after six days"
+          },
+          {
+            "condition": "submersion in water for 24 hours",
+            "result": "phase transition evident"
+          }
+        ]
+      },
+      "thermal_stability": {
+        "TGA": {
+          "temperature_range": "30 to 450 °C",
+          "heating_rate": "5 °C min−1",
+          "atmosphere": "nitrogen",
+          "flow_rate": "0.5 mL min−1",
+          "additional_conditions": "heated to 850 °C in a repeat experiment"
+        }
+      },
+      "gas_adsorption": {
+        "activated_conditions": "120 °C under dynamic vacuum at 10−6 Torr for at least 24 h",
+        "gases_tested": ["N2", "H2", "CO2", "CH4", "ethane", "ethylene"],
+        "isotherms": [
+          {
+            "gas": "N2",
+            "temperature": "77K",
+            "figure": "S4, S5"
+          },
+          {
+            "gas": "H2",
+            "temperature": "77K",
+            "figure": "S6"
+          },
+          {
+            "gas": "ethane and ethylene",
+            "temperature": "298K",
+            "figure": "S7"
+          }
+        ]
+      },
+      "pore_size_distribution": {
+        "method": "DFT software model",
+        "based_on": "N2 adsorption isotherm data",
+        "figure": "S10"
+      },
+      "vapour_adsorption": {
+        "activated_conditions": "120 °C under dynamic vacuum at low pressure for at least 24 h",
+        "solvents_used": "high-purity solvents",
+        "figure": "S11"
+      },
+      "simulation_details": {
+        "GCMC_simulations": "adsorption of pure CO2 at 298 K",
+        "DFT_calculations": "static binding energies for guest molecules in frameworks",
+        "model_of_benzene": "DFT optimization of benzene in CUB-5 and MOF-5",
+        "figure": "S13"
+      },
+      "positron_annihilation_lifetime_spectroscopy": {
+        "method": "bulk measurement technique",
+        "analysis_software": "LT_v9",
+        "components": "5 components and a source correction",
+        "table": "S3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "materials": [
+    {
+      "name": "pcu-NbOFFIVE-bpe-Cu",
+      "synthesis_conditions": {
+        "temperature": "120 K",
+        "solvents": "Not provided",
+        "chemicals_used": "Not provided",
+        "time": "Not provided",
+        "yield": "Not provided",
+        "crystal_system": "tetragonal",
+        "space_group": "P4/n",
+        "a": "18.6068(3) Å",
+        "b": "18.6068(3) Å",
+        "c": "8.3522(2) Å",
+        "alpha": "90°",
+        "beta": "90°",
+        "gamma": "90°",
+        "volume": "2891.64(12) Å3",
+        "Z": "2",
+        "rho_calc": "0.730 g/cm3",
+        "mu": "0.593 mm-1",
+        "radiation": "Mo Kα"
+      }
+    },
+    {
+      "name": "sql-NbOFFIVE-bpe-Cu-AA-α",
+      "synthesis_conditions": {
+        "temperature": "700 K",
+        "solvents": "Methanol, Water",
+        "chemicals_used": "CuNbOF5·4H2O, bpe",
+        "time": "1 h",
+        "yield": "Not provided",
+        "crystal_system": "monoclinic",
+        "space_group": "C2/c",
+        "a": "20.1537(5) Å",
+        "b": "8.5345(2) Å",
+        "c": "19.4208(4) Å",
+        "alpha": "90°",
+        "beta": "117.2220(10)°",
+        "gamma": "90°",
+        "volume": "2970.43(12) Å3",
+        "Z": "4",
+        "rho_calc": "1.565 g/cm3",
+        "mu": "4.608 mm-1",
+        "radiation": "Cu Kα"
+      }
+    },
+    {
+      "name": "sql-NbOFFIVE-bpe-Cu-AA-β",
+      "synthesis_conditions": {
+        "temperature": "333 K",
+        "solvents": "Methanol",
+        "chemicals_used": "Not provided",
+        "time": "10 min",
+        "yield": "Not provided",
+        "crystal_system": "monoclinic",
+        "space_group": "I2/m",
+        "a": "8.5344(10) Å",
+        "b": "18.513(2) Å",
+        "c": "9.5971(11) Å",
+        "alpha": "90°",
+        "beta": "96.835(11)°",
+        "gamma": "90°",
+        "volume": "1505.5(3) Å3",
+        "Z": "2",
+        "rho_calc": "1.403 g/cm3",
+        "mu": "1.138 mm-1",
+        "radiation": "Mo Kα"
+      }
+    },
+    {
+      "name": "sql-NbOFFIVE-bpe-Cu-AB-α",
+      "synthesis_conditions": {
+        "temperature": "295 K",
+        "solvents": "1,2-Dichlorobenzene, Water",
+        "chemicals_used": "CuNbOF5·4H2O, bpe",
+        "time": "3 days",
+        "yield": "85%",
+        "crystal_system": "tetragonal",
+        "space_group": "P42/mmc",
+        "a": "9.0177(7) Å",
+        "b": "9.0177(7) Å",
+        "c": "18.9558(15) Å",
+        "alpha": "90°",
+        "beta": "90°",
+        "gamma": "90°",
+        "volume": "1541.5(3) Å3",
+        "Z": "2",
+        "rho_calc": "1.37 g/cm3",
+        "mu": "4.337 mm-1",
+        "radiation": "Cu Kα"
+      }
+    },
+    {
+      "name": "sql-NbOFFIVE-bpe-Cu-AB-β1",
+      "synthesis_conditions": {
+        "temperature": "293 K",
+        "solvents": "Methanol",
+        "chemicals_used": "Not provided",
+        "time": "12 h under vacuum",
+        "yield": "Not provided",
+        "crystal_system": "tetragonal",
+        "space_group": "P42/mnm",
+        "a": "12.5384(7) Å",
+        "b": "12.5384(7) Å",
+        "c": "18.7936(12) Å",
+        "alpha": "90°",
+        "beta": "90°",
+        "gamma": "90°",
+        "volume": "2954.6(4) Å3",
+        "Z": "4",
+        "rho_calc": "1.43 g/cm3",
+        "mu": "1.16 mm-1",
+        "radiation": "Mo Kα"
+      }
+    }
+  ]
+}

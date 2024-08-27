@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula and formula weight of [Cu(bcppm)H2O]-pdes?",
+      "answer": "The empirical formula is C21H16CuN4O5 and the formula weight is 467.92.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Describe the crystal system and space group for [Cu(bcppm)H2O]-pdes.",
+      "answer": "The crystal system is orthorhombic and the space group is Pnma.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the unit cell dimensions (a, b, c) and volume for [Cu(bcppm)H2O]-pdes?",
+      "answer": "The unit cell dimensions are a = 9.6611(4) Å, b = 20.3319(7) Å, c = 13.6276(5) Å, and the volume is 2676.85(17) Å3.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the crystal structure of [Cu(bcppm)H2O]-pdes change after partial desolvation under ambient conditions?",
+      "answer": "After partial desolvation, the crystal structure of [Cu(bcppm)H2O]-pdes shows a notable contraction along the c-axis, elongation along the b-axis, while the a-axis remains relatively unchanged. There are also subtle changes in the intra-layer hydrogen bonding interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the SQUEEZE routine applied to the crystallographic data of [Cu(bcppm)H2O]-pdes?",
+      "answer": "The SQUEEZE routine was applied to account for large solvent accessible voids and diffuse electron density peaks that could not be adequately identified as solvent. It resulted in significant reductions in R1 and wR2 and an improvement in the goodness-of-fit (GOF).",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystal structure of [Cu(bcppm)H2O]-pdes remains unchanged after being heated in methanol at 65°C for 24 hours.",
+      "answer": "False. The original structure could not be regenerated after heating in methanol, indicating a permanent and irreversible transformation during post-synthesis processing.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The activated form of [Cu(bcppm)H2O], [Cu(bcppm)H2O]-ac, shows a distinct color change from blue to green upon activation.",
+      "answer": "True. During activation of [Cu(bcppm)H2O], a distinct color change of the crystalline material from blue to green was observed.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the calculated selectivity for CO2/N2 using Ideal-Adsorbed Solution Theory (IAST) for [Cu(bcppm)H2O]-ac at 293 K and 1 atm?",
+      "answer": "The calculated selectivity for CO2/N2 using IAST for [Cu(bcppm)H2O]-ac at 293 K and 1 atm is 590.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The total CO2 uptake capacity of [Cu(bcppm)H2O]-ac is higher than all other state-of-the-art MOF and zeolite materials.",
+      "answer": "False. While [Cu(bcppm)H2O]-ac displays exceptional CO2/N2 selectivity, its total CO2 uptake capacity is moderate compared to high surface area MOFs such as MOF-74.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the dual-site and three-site Langmuir-Freundlich Model in the IAST calculations for [Cu(bcppm)H2O]-ac?",
+      "answer": "The dual-site and three-site Langmuir-Freundlich Model is used to fit the adsorption isotherm of pure CO2 and N2 gas, respectively. The fitted parameters are then used to predict the adsorption of a mixture, providing a precise fit over the pressure range under study.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

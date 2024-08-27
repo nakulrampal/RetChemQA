@@ -1,0 +1,41 @@
+{
+  "materials": [
+    {
+      "name": "UMCM-1",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "time": "2 days",
+        "solvents": [
+          {
+            "name": "N,N-diethylformamide",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "zinc nitrate",
+            "form": "Zn(NO3)2·4 H2O",
+            "amount": "excess"
+          },
+          {
+            "name": "terephthalic acid",
+            "abbreviation": "H2BDC",
+            "amount": "varied for different phases"
+          },
+          {
+            "name": "1,3,5-tris(4-carboxyphenyl)benzene",
+            "abbreviation": "H3BTB",
+            "amount": "varied for different phases"
+          }
+        ],
+        "optimal_mole_ratio": {
+          "H2BDC:H3BTB": "between 3:2 and 1:1"
+        },
+        "washing_method": "exchanged in CH2Cl2",
+        "drying_method": "evacuated at room temperature",
+        "yield": "not specified",
+        "additional_information": "The product crystallizes in the space group P63m. The framework consists of Zn4O clusters linked together by two BDC and four BTB linkers arranged in an octahedral geometry."
+      }
+    }
+  ]
+}

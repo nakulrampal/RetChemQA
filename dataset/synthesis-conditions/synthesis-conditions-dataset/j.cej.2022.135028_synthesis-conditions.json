@@ -1,0 +1,56 @@
+{
+  "materials": [
+    {
+      "name": "HPU-23",
+      "synthesis_conditions": {
+        "method": "solvothermal method",
+        "chemicals_used": [
+          {
+            "chemical": "Zn(NO3)2·6H2O",
+            "amount": "0.05 mmoL, 15 mg"
+          },
+          {
+            "chemical": "2.5-di (3.5-dicarboxylhenyl) aniline",
+            "amount": "0.03 mmoL, 12.64 mg"
+          },
+          {
+            "chemical": "DMA",
+            "amount": "3 mL"
+          },
+          {
+            "chemical": "anhydrous methanol",
+            "amount": "2 mL"
+          }
+        ],
+        "procedure": "The mixture was ultrasonically vibrated for 10 min and then heated at 80 ℃ for 36 h to produce granular pink crystals. The crystals were collected, washed with anhydrous ethanol for three times and finally dried at room temperature.",
+        "yield": "75%",
+        "elemental_analysis": {
+          "calculated": "C, 46.39; H, 2.46; O, 28.11%",
+          "found": "C, 46.39; H, 2.46; O, 28.12%"
+        },
+        "CCDC_number": "2120872"
+      }
+    },
+    {
+      "name": "Ru(Ⅱ)@HPU-23",
+      "synthesis_conditions": {
+        "method": "encapsulated post-synthetic modification (PSM) strategy",
+        "chemicals_used": [
+          {
+            "chemical": "tris (2, 2′-bipyridine) dichlororuthenium(II) hexahydrate",
+            "amount": "10 mg"
+          },
+          {
+            "chemical": "DMA",
+            "amount": "10 mL"
+          },
+          {
+            "chemical": "HPU-23",
+            "amount": "30 mg"
+          }
+        ],
+        "procedure": "10 mg of tris (2, 2′-bipyridine) dichlororuthenium(II) hexahydrate was fully dissolved in DMA (10 mL) under ultrasonic oscillation. HPU-23 (30 mg) was put into the above solution and stood for 30 min, then fully washed with water and anhydrous ethanol for three times, and finally dried at room temperature to obtain the yellow granular composite material."
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the chemical formula of the zinc–organic framework synthesized in the study?",
+      "answer": "[Zn(2)]n (3)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the synthesis of the imidazolate-4-amide-5-imidate framework?",
+      "answer": "In situ synthesis under solvothermal conditions",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the 2-methylimidazolate-4-amide-5-imidate ligand in the formation of the IMOF?",
+      "answer": "It links with Zn2+ ions to form the neutral microporous framework with 1D hexagonal channels.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the structure of the IMOF contribute to its gas storage abilities?",
+      "answer": "The microporous and polarized channels created by the imidazolate–amide–imidate linker and its hydrogen bonds polarize the walls, enhancing the capacity for H2 and CO2 capture.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What experimental conditions were used to synthesize the IMOF [Zn(2)]n (3)?",
+      "answer": "4,5-Dicyano-2-methylimidazole and zinc(II) nitrate tetrahydrate were dissolved in DMF and heated at 120°C for 48 hours under autogenous pressure.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the in situ hydrolysis process in the synthesis of the IMOF?",
+      "answer": "The in situ hydrolysis of 4,5-dicyano-2-methylimidazole leads to the formation of the 2-methylimidazolate-4-amide-5-imidate ligand, which is crucial for constructing the IMOF.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of the reaction's initial pH value on the formation of the coordination polymer?",
+      "answer": "At an initial pH value of 6.1, the coordination polymer 3 with the amide–imidate–imidazolate ligand 2 is formed, while at a more acidic pH of 3.5, 2-methylimidazole-4,5-diamide is formed.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the coordination environment of the Zn2+ ion in IMOF 3 differ from other MOFs?",
+      "answer": "In IMOF 3, the Zn2+ ion is pentacoordinated by donor atoms of three ligands 2, forming a distorted environment with a trigonal-bipyramidal character, which is rare among MOFs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role do hydrogen bonds play in the stability of the IMOF structure?",
+      "answer": "Hydrogen bonds between the amide NH group and an imidate O atom, an amide NH group and an amide O atom, and an imidate NH group and an imidazolate N atom contribute to the stabilization of the IMOF structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of methyl groups in the ligands affect the structure of the IMOF?",
+      "answer": "The methyl groups protrude into the open channels, assuming a structure-directing effect for the formation of the channels in the IMOF.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the estimated accessible diameter of the channel in the IMOF structure, and what does it imply about its potential applications?",
+      "answer": "The estimated accessible diameter of the channel is 3.82 Å, suggesting that the channels may be too narrow for the rapid loading of CO and CH4, making it potentially useful for the separation of H2/CO and CO2/CH4.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental techniques were used to confirm the absence of solvent molecules in the activated IMOF?",
+      "answer": "Solid-state magic-angle-spinning (MAS) 13C and 1H NMR spectroscopy, along with thermogravimetric analysis (TGA)/differential thermal analysis (DTA)/mass spectrometry, were used.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the IMOF synthesized in the study thermally stable?",
+      "answer": "True, the IMOF is thermally stable up to 380°C.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the IMOF exhibit chemical stability in boiling water or methanol?",
+      "answer": "True, the IMOF shows remarkable chemical stability in boiling water or methanol for 7 days.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the IMOF's capacity for H2 adsorption lower than that of ZIFs?",
+      "answer": "False, the IMOF's capacity for H2 adsorption is slightly higher than that of some ZIFs.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the IMOF be used as a molecular sieve for the separation of CO2 from CH4?",
+      "answer": "True, the estimated channel diameter suggests that the IMOF could potentially be used for the separation of CO2 from CH4.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the IMOF's structure destroyed upon removal of solvent molecules?",
+      "answer": "False, the framework structure of the IMOF is maintained upon the removal of solvent molecules.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the IMOF contain large pores interconnected by small windows?",
+      "answer": "False, the IMOF does not contain large pores; its pore structure consists of microporous channels only.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the IMOF's CO2 adsorption capacity at 298 K and 1 bar about 48 cm3 g-1?",
+      "answer": "True, the uptake of CO2 by the IMOF at 298 K and 1 bar is about 48 cm3 g-1.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the polar functional groups in the IMOF responsible for its high CO2 uptake?",
+      "answer": "True, strong interactions between the polar functional groups in the IMOF and CO2, which has a significant quadrupole moment, are expected to result in high CO2 uptake.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

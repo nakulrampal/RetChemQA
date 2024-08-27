@@ -1,0 +1,64 @@
+{
+  "materials": [
+    {
+      "material_id": "1",
+      "chemical_formula": "Cu(L1)·xsolv",
+      "synthesis_conditions": {
+        "temperature": "85°C for 12 h, then room temperature, then 105°C for 23 h",
+        "solvents": ["DMF", "EtOH"],
+        "solvent_amounts": ["1.5 mL", "0.5 mL"],
+        "chemicals_used": ["Cu(NO3)2·2.5H2O (9.3 mg, 0.04 mmol)", "H2L1 (10.9 mg, 0.04 mmol)"],
+        "equipment": "20 mL scintillation vial",
+        "yield": "blue/green parallelogram crystals, insoluble in water and common organic solvents"
+      }
+    },
+    {
+      "material_id": "2",
+      "chemical_formula": "Cu(L2)·xsolv",
+      "synthesis_conditions": {
+        "temperature": "85°C for 12 h",
+        "solvents": ["DMA", "EtOH"],
+        "solvent_amounts": ["1.5 mL", "0.5 mL"],
+        "chemicals_used": ["H2L2 (10.9 mg, 0.04 mmol)", "Cu(NO3)2·2.5H2O (9.3 mg, 0.04 mmol)"],
+        "equipment": "20 mL scintillation vial",
+        "yield": "blue-green hexagonal crystals, insoluble in water and common organic solvents"
+      }
+    },
+    {
+      "material_id": "3",
+      "chemical_formula": "Cu(L3)·xsolv",
+      "synthesis_conditions": {
+        "temperature": "85°C for 12 h",
+        "solvents": ["DMF"],
+        "solvent_amounts": ["2 mL"],
+        "chemicals_used": ["H2L3 (10.9 mg, 0.04 mmol)", "Cu(NO3)2·2.5H2O (9.3 mg, 0.04 mmol)"],
+        "equipment": "20 mL scintillation vial",
+        "yield": "few blue-green hexagonal crystals, insoluble in water and common organic solvents"
+      }
+    },
+    {
+      "material_id": "4",
+      "chemical_formula": "Cu(L2)·xsolv",
+      "synthesis_conditions": {
+        "temperature": "85°C for 12 h, then room temperature, then 105°C for 23 h",
+        "solvents": ["DMA", "EtOH", "H2O"],
+        "solvent_amounts": ["1.5 mL", "0.5 mL", "50 µL"],
+        "chemicals_used": ["Cu(NO3)2·2.5H2O (9.3 mg, 0.04 mmol)", "H2L2 (10.9 mg, 0.04 mmol)", "INB (0.04 mmol)"],
+        "equipment": "20 mL scintillation vial",
+        "yield": "blue parallelogram crystals, insoluble in water and common organic solvents"
+      }
+    },
+    {
+      "material_id": "5",
+      "chemical_formula": "Cu(L4)·xsolv",
+      "synthesis_conditions": {
+        "temperature": "85°C for 12 h",
+        "solvents": ["DMF"],
+        "solvent_amounts": ["2 mL"],
+        "chemicals_used": ["H2L4 (0.04 mmol)", "Cu(NO3)2·2.5H2O (9.3 mg, 0.04 mmol)"],
+        "equipment": "20 mL scintillation vial",
+        "yield": "small green hexagonal-plate crystals, insoluble in water and common organic solvents"
+      }
+    }
+  ]
+}

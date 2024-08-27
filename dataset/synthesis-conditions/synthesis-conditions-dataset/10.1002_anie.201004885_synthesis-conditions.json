@@ -1,0 +1,67 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "temperature": "80 8C",
+        "solvents": ["DMSO", "H2O", "sBuOH"],
+        "amount_of_each_solvent": {
+          "DMSO": "1 mL",
+          "H2O": "0.1 mL",
+          "sBuOH": "1 mL"
+        },
+        "equipment": "small vial",
+        "chemicals_used": {
+          "CuSO4·5H2O": "25 mg, 0.1 mmol",
+          "(MOM)2L(cid:2)2 H": "41.7 mg, 0.05 mmol"
+        },
+        "time": "one day",
+        "washing_method": "diethyl ether",
+        "drying_method": "air",
+        "yield": "33.9 mg (80 % based on Cu)"
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "temperature": "80 8C",
+        "solvents": ["DMSO", "H2O", "sBuOH"],
+        "amount_of_each_solvent": {
+          "DMSO": "1 mL",
+          "H2O": "0.1 mL",
+          "sBuOH": "1 mL"
+        },
+        "equipment": "small vial",
+        "chemicals_used": {
+          "CuSO4·5H2O": "25 mg, 0.1 mmol",
+          "1": "135 mg, 0.05 mmol"
+        },
+        "time": "one day",
+        "washing_method": "diethyl ether",
+        "drying_method": "air",
+        "yield": "57.0 mg, 75 % based on Cu"
+      }
+    },
+    {
+      "name": "3",
+      "synthesis_conditions": {
+        "temperature": "100 8C",
+        "solvents": ["DMSO", "H2O", "sBuOH"],
+        "amount_of_each_solvent": {
+          "DMSO": "1 mL",
+          "H2O": "0.1 mL",
+          "sBuOH": "1 mL"
+        },
+        "equipment": "small vial",
+        "chemicals_used": {
+          "CuSO4·5H2O": "25 mg, 0.1 mmol",
+          "2": "135 mg, 0.05 mmol"
+        },
+        "time": "one day",
+        "washing_method": "diethyl ether",
+        "drying_method": "air",
+        "yield": "56.4 mg, 60 % based on Cu"
+      }
+    }
+  ]
+}

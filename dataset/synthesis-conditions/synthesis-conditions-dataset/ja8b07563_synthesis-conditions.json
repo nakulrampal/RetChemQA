@@ -1,0 +1,68 @@
+{
+  "materials": [
+    {
+      "name": "Cu(ina)2",
+      "synthesis_conditions": {
+        "temperature": "140 °C",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "6 mL"
+          }
+        ],
+        "equipment": "Teflon-lined stainless steel vessel (12 mL)",
+        "chemicals_used": [
+          {
+            "name": "Cu(NO3)2·2.5H2O",
+            "amount": "0.116 g, 0.5 mmol"
+          },
+          {
+            "name": "Hina",
+            "amount": "0.123 g, 1.0 mmol"
+          },
+          {
+            "name": "I2",
+            "amount": "0.127 g, 0.5 mmol"
+          }
+        ],
+        "time": "72 h",
+        "cooling_rate": "5 °C h–1",
+        "washing_method": "water and acetone",
+        "drying_method": "air",
+        "yield": "0.17 g, 61%"
+      }
+    },
+    {
+      "name": "Cu(Qc)2",
+      "synthesis_conditions": {
+        "temperature": "105 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "6 mL"
+          },
+          {
+            "name": "EtOH",
+            "amount": "6 mL"
+          }
+        ],
+        "equipment": "scintillation vial (20 mL)",
+        "chemicals_used": [
+          {
+            "name": "Cu(BF4)2·6H2O",
+            "amount": "0.10 g, 0.29 mmol"
+          },
+          {
+            "name": "HQc",
+            "amount": "0.10 g, 0.58 mmol"
+          }
+        ],
+        "time": "48 h",
+        "cooling_rate": "6 °C h–1",
+        "washing_method": "DMF and EtOH",
+        "drying_method": "air",
+        "yield": "0.095 g, 68%"
+      }
+    }
+  ]
+}

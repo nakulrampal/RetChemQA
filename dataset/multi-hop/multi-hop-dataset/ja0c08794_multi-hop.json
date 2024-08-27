@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the primary material discussed in the research and its unique property?",
+      "answer": "The primary material discussed in the research is MFM-520, a meta-rigid metal–organic framework (MOF) material. Its unique property is exhibiting a reversible periodic-to-aperiodic structural transition controlled by specific host–guest interactions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the structure of MFM-520 change upon dehydration and rehydration?",
+      "answer": "Upon dehydration, MFM-520 loses its guest water molecules, leading to a structural transition from a periodic to an aperiodic state, characterized by the appearance of additional satellite reflections in diffraction patterns. This transition is reversible, as rehydration restores the periodic structure, demonstrated by the disappearance of satellite reflections.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What gases were studied for their interaction with MFM-520, and which one had a significant structural influence?",
+      "answer": "CO2 and SO2 gases were studied for their interaction with MFM-520. While CO2 had minimal structural influence, SO2 significantly modulated the structure incommensurately.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The adsorption of CO2 into MFM-520 leads to a significant change in the modulation vectors of the material.",
+      "answer": "False. The adsorption of CO2 into MFM-520 does not lead to a significant change in the modulation vectors of the material.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of sulfur dioxide (SO2) in the structural modulation of MFM-520?",
+      "answer": "Sulfur dioxide (SO2) plays a significant role in the structural modulation of MFM-520 by inducing a unique incommensurately ordered dynamic equilibrium upon adsorption, which is evidenced by changes in the modulation vectors.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: MFM-520 exhibits a higher adsorption uptake for CO2 compared to SO2 at 298 K and 1.0 bar.",
+      "answer": "False. MFM-520 exhibits a higher adsorption uptake for SO2 compared to CO2 at 298 K and 1.0 bar.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the adsorption of SO2 affect the entropy and enthalpy values in MFM-520?",
+      "answer": "The adsorption of SO2 in MFM-520 leads to an unusual increase in adsorption entropy (ΔS) with increasing loading of SO2, indicating increasing disorder in the system. This contrasts with the typical decrease in ΔS observed in porous materials upon gas loading. The isosteric heat of adsorption (Qst) for SO2 also starts at a high value and decreases with increasing loading, reflecting the strong interaction between the framework and SO2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The periodic-to-aperiodic transition observed in MFM-520 is unique to inorganic–organic hybrid materials and has not been reported for other porous solids.",
+      "answer": "True. The periodic-to-aperiodic transition observed in MFM-520, controlled by host–guest interactions, represents a unique phenomenon for an inorganic–organic hybrid material or porous solid.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental techniques were used to study the structural and adsorption properties of MFM-520?",
+      "answer": "Techniques used include in situ synchrotron single-crystal X-ray diffraction, gas adsorption isotherms, thermal analysis (TGA-DSC), in situ infrared spectroscopy, and inelastic neutron scattering (INS) spectroscopy.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The adsorption capacity and crystallinity of MFM-520 remain unchanged after 75 cycles of SO2 adsorption–desorption.",
+      "answer": "True. The adsorption capacity and crystallinity of MFM-520 remain unchanged after 75 cycles of SO2 adsorption–desorption, demonstrating its stability and reusability.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

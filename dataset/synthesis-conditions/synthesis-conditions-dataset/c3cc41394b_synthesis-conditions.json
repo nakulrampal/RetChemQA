@@ -1,0 +1,120 @@
+{
+  "materials": [
+    {
+      "name": "CuF2(pyz)",
+      "synthesis_conditions": [
+        {
+          "method": "high pressure",
+          "temperature": "100 °C",
+          "pressure": "4 GPa",
+          "time": "3-12 hours",
+          "chemicals_used": [
+            {
+              "name": "anhydrous CuF2",
+              "amount": "equimolar"
+            },
+            {
+              "name": "pyrazine",
+              "amount": "equimolar"
+            }
+          ],
+          "equipment": [
+            "Carver laboratory press",
+            "Rockland Research high pressure synthesis press apparatus"
+          ]
+        },
+        {
+          "method": "thermal annealing",
+          "temperature": "100 °C",
+          "time": "2-4 weeks",
+          "chemicals_used": [
+            {
+              "name": "anhydrous CuF2",
+              "amount": "20 mmol"
+            },
+            {
+              "name": "pyrazine",
+              "amount": "20 mmol"
+            }
+          ],
+          "equipment": [
+            "Parr General Purpose Acid Digestion Bomb (Model 4744)",
+            "Fisher Scientific Isotemp Oven"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CuCl2(pyz)",
+      "synthesis_conditions": [
+        {
+          "method": "slow evaporation",
+          "temperature": "room temperature",
+          "time": "one week",
+          "chemicals_used": [
+            {
+              "name": "pyrazine",
+              "amount": "2 mmol"
+            },
+            {
+              "name": "CuCl2·2H2O",
+              "amount": "1 mmol"
+            },
+            {
+              "solvent": "distilled water",
+              "amount": "15 ml"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CuBr2(pyz)",
+      "synthesis_conditions": [
+        {
+          "method": "slow evaporation",
+          "temperature": "room temperature",
+          "time": "until evaporation",
+          "chemicals_used": [
+            {
+              "name": "pyrazine",
+              "amount": "2 mmol"
+            },
+            {
+              "name": "CuBr2",
+              "amount": "1 mmol"
+            },
+            {
+              "solvent": "distilled water",
+              "amount": "15 ml"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CuF2(44bpy)",
+      "synthesis_conditions": [
+        {
+          "method": "thermal annealing",
+          "temperature": "100 °C",
+          "time": "4 days initially, then 11 days",
+          "chemicals_used": [
+            {
+              "name": "anhydrous CuF2",
+              "amount": "5 mmol"
+            },
+            {
+              "name": "4,4’-dipyridyl",
+              "amount": "5 mmol"
+            }
+          ],
+          "equipment": [
+            "Parr General Purpose Acid Digestion Bomb (Model 4744)",
+            "Fisher Scientific Isotemp Oven"
+          ]
+        }
+      ]
+    }
+  ]
+}

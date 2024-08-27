@@ -1,0 +1,192 @@
+{
+  "materials": [
+    {
+      "material": "1",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "160 °C",
+          "equipment": "20 mL Teflon-lined stainless-steel container",
+          "chemicals_used": [
+            {
+              "chemical": "Cd(NO3)2·4H2O",
+              "amount": "152 mg",
+              "molarity": "0.5 mmol"
+            },
+            {
+              "chemical": "Hdatz",
+              "amount": "50 mg",
+              "molarity": "0.5 mmol"
+            },
+            {
+              "chemical": "NaN3",
+              "amount": "39 mg",
+              "molarity": "0.6 mmol"
+            },
+            {
+              "chemical": "H2O",
+              "amount": "8 mL"
+            }
+          ],
+          "time": "3 d",
+          "cooling_method": "cooled to room temperature within 1 d",
+          "yield": "56% (based on Hdatz)",
+          "analysis": [
+            {
+              "type": "Elemental analysis",
+              "results": {
+                "C": "Found: 9.22",
+                "H": "Found: 1.58",
+                "N": "Found: 43.98%"
+              }
+            },
+            {
+              "type": "IR (KBr pellet, cm−1)",
+              "results": "3451 s, 3353 s, 2128 vs, 2076 vs, 1607 m, 1554 m, 1514 s, 1478 s, 1388 s, 1350 w, 1154 w, 1055 s, 761 s, 602 m"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "material": "2",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "80 °C",
+          "equipment": "stirred at 80 °C for 2 h",
+          "chemicals_used": [
+            {
+              "chemical": "CdCl2·2.5H2O",
+              "amount": "0.114 g",
+              "molarity": "0.5 mmol"
+            },
+            {
+              "chemical": "brt",
+              "amount": "0.136 g",
+              "molarity": "1.0 mmol"
+            },
+            {
+              "chemical": "NaN3",
+              "amount": "0.065 g",
+              "molarity": "1 mmol"
+            },
+            {
+              "chemical": "H2O",
+              "amount": "15 mL"
+            }
+          ],
+          "time": "2 weeks",
+          "yield": "58% (based on brt)",
+          "analysis": [
+            {
+              "type": "Elemental analysis",
+              "results": {
+                "C": "Found: 20.00",
+                "H": "Found: 1.69",
+                "N": "Found: 53.02%"
+              }
+            },
+            {
+              "type": "IR (KBr pellet, cm−1)",
+              "results": "3421 m, 3126 vs, 2068 vs, 1501 vs, 1289 vs, 1085 vs, 1003 vs, 957 m, 942 s, 851 vs, 610 vs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "material": "3",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "80 °C",
+          "equipment": "stirred at 80 °C for 2 h",
+          "chemicals_used": [
+            {
+              "chemical": "Cd(ClO4)2·6H2O",
+              "amount": "0.210 g",
+              "molarity": "0.50 mmol"
+            },
+            {
+              "chemical": "btzp",
+              "amount": "0.088 g",
+              "molarity": "0.50 mmol"
+            },
+            {
+              "chemical": "NaN3",
+              "amount": "0.065 g",
+              "molarity": "1 mmol"
+            },
+            {
+              "chemical": "H2O",
+              "amount": "5 mL"
+            }
+          ],
+          "time": "3 d",
+          "yield": "60% (based on btzp)",
+          "analysis": [
+            {
+              "type": "Elemental analysis",
+              "results": {
+                "C": "Found: 15.91",
+                "H": "Found: 2.04",
+                "N": "Found: 51.80%"
+              }
+            },
+            {
+              "type": "IR (KBr pellet, cm−1)",
+              "results": "3384 w, 3134 s, 3000 w, 2065 vs, 1497 m, 1452 s, 1342 s, 1283 s, 1173 s, 1106 s, 960 m, 878 m, 804 m, 657 s"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "material": "4",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "80 °C",
+          "equipment": "stirred at 80 °C for 2 h",
+          "chemicals_used": [
+            {
+              "chemical": "Cd(NO4)2·4H2O",
+              "amount": "0.152 g",
+              "molarity": "0.5 mmol"
+            },
+            {
+              "chemical": "btzb",
+              "amount": "0.049 g",
+              "molarity": "0.25 mmol"
+            },
+            {
+              "chemical": "NaN3",
+              "amount": "0.065 g",
+              "molarity": "1 mmol"
+            },
+            {
+              "chemical": "H2O",
+              "amount": "5 mL"
+            }
+          ],
+          "yield": "50% (based on btzb)",
+          "analysis": [
+            {
+              "type": "Elemental analysis",
+              "results": {
+                "C": "Found: 12.45",
+                "H": "Found: 1.69",
+                "N": "Found: 47.79%"
+              }
+            },
+            {
+              "type": "IR (KBr pellet, cm−1)",
+              "results": "3118 s, 2053 vs, 1622 w, 1516 m, 1441 s, 1396 w, 1335 s, 1267 s, 1184 s, 1085 s, 996 m, 890 m, 750 w, 643 s, 600 s"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

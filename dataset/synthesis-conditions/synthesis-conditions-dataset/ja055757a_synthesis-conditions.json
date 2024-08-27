@@ -1,0 +1,43 @@
+{
+  "materials": [
+    {
+      "name": "In(OH)BDC·0.75H2BDC",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "220 °C",
+          "time": "3 days",
+          "solvents": [
+            {
+              "name": "deionized water",
+              "amount": "10 mL"
+            },
+            {
+              "name": "HF",
+              "concentration": "48%",
+              "amount": "0.06 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "indium",
+              "amount": "0.114 g",
+              "molar_amount": "1 mmol"
+            },
+            {
+              "name": "1,4-benzene dicarboxylic acid",
+              "amount": "0.332 g",
+              "molar_amount": "2 mmol"
+            }
+          ],
+          "molar_ratios": "1:2:1.5:560",
+          "equipment": "hydrothermal reaction vessel",
+          "cooling_rate": "0.5 °C/min to ambient",
+          "washing_method": "washed with DMF",
+          "drying_method": "dried at room temperature",
+          "final_solution_pH": "~1.5"
+        }
+      ]
+    }
+  ]
+}

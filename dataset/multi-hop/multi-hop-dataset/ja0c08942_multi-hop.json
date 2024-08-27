@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the synthesis method used for creating COK-17?",
+      "answer": "COK-17 was obtained by dissolving zinc nitrate hexahydrate in a DMF:water mixture, adding 4,5-dichloroimidazole, transferring the solution into a Duran® Schott bottle, heating in an oil bath at 393 K for 4 days, washing with DMF, solvent exchanging in absolute ethanol, drying in an oven at 353 K, and vacuum drying at 423 K.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the crystallinity of COK-17 confirmed?",
+      "answer": "The crystallinity of COK-17 was confirmed by X-ray diffraction (XRD), which showed well-defined, micrometer-sized rhombohedra.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of chlorine substituents in the adsorption properties of COK-17?",
+      "answer": "The chlorine substituents in COK-17 mediate the adsorption of CO2 by enhancing London dispersion forces, which leads to a high affinity for CO2 adsorption and optimized adsorptive separation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: COK-17 is thermally stable up to 673 K in nitrogen.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental technique was used to investigate the interaction of CO2 with COK-17?",
+      "answer": "In-situ X-ray diffraction (XRD) measurements were performed to investigate the interaction of CO2 with COK-17.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the structure of COK-17 change upon exposure to water at room temperature?",
+      "answer": "Exposure of COK-17 to water at room temperature shows no effect, but upon steaming, the unit cell expands to pseudocubic dimensions, while still best described in the original rhombohedral space group.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption of CO2 and CH4 on COK-17 at ambient temperature was investigated using powder XRD and structure refinement.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to simulate the adsorption isotherms of CO2 and CH4 in COK-17?",
+      "answer": "Grand canonical Monte Carlo (GCMC) simulations were used to estimate the adsorption isotherms of CO2 and CH4 in COK-17.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The adsorption sites for CO2 in COK-17 were determined using periodic density functional theory (DFT) calculations.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the radial distribution functions obtained from GCMC simulations in understanding the selectivity of COK-17?",
+      "answer": "The radial distribution functions obtained from GCMC simulations help in understanding the competition for adsorption sites between CO2 and CH4, indicating that both molecules compete for the same sites but CO2 is preferentially adsorbed at higher pressures due to more efficient packing and interaction with chlorine atoms.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the highest reported surface area for a phosphonate-based MOF as mentioned in the text?",
+      "answer": "Over 1000 m2 g@1",
+      "difficulty": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "What change in the synthesis conditions allows for the selective hydrolysis of one PME group in the MOF structure?",
+      "answer": "Slight variation of the amount of water in the preparation",
+      "difficulty": "Hard",
+      "type": "Factual"
+    },
+    {
+      "question": "How does the CO2 uptake at ambient temperatures compare between CALF-33-Et3 and CALF-33-Et2H?",
+      "answer": "CALF-33-Et2H has approximately double the CO2 uptake of CALF-33-Et3",
+      "difficulty": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "What is the effect of hydrolyzing one PME group on the MOF's affinity for CO2?",
+      "answer": "It increases the affinity of the framework for CO2, giving higher ambient uptake, higher heat of adsorption, and much higher calculated selectivity for CO2 over both N2 and CH4",
+      "difficulty": "Hard",
+      "type": "Factual"
+    },
+    {
+      "question": "What is the role of phosphonate monoesters in the formation of MOFs compared to phosphonates?",
+      "answer": "Phosphonate monoesters reduce the degrees of freedom, relative to phosphonates, and facilitate ordering of the structure and formation of crystalline solids",
+      "difficulty": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "What is the significance of the CALF-33 system being isostructural?",
+      "answer": "It is the first to exhibit permanent porosity and an isostructural relationship, differing only in the absence of a single ethyl ester per triphosphonate ligand",
+      "difficulty": "Hard",
+      "type": "Factual"
+    },
+    {
+      "question": "What is the impact of the hydrophilic hydrogen phosphonate group on CALF-33-Et2H's properties?",
+      "answer": "It results in an approximate doubling of ambient CO2 uptake compared to CALF-33-Et3",
+      "difficulty": "Medium",
+      "type": "Reasoning"
+    },
+    {
+      "question": "Why is CALF-33-Et2H more selective for CO2 over CH4 and N2 compared to CALF-33-Et3?",
+      "answer": "Due to the conversion of the hydrophobic ester to a hydrophilic hydrogen phosphonate group in CALF-33-Et2H, enhancing its affinity for CO2",
+      "difficulty": "Medium",
+      "type": "Reasoning"
+    },
+    {
+      "question": "How does the presence of phosphonate and PME groups in the same structure affect the MOF?",
+      "answer": "It suggests that careful manipulation of the synthesis could result in variable degrees of hydrolysis",
+      "difficulty": "Hard",
+      "type": "Reasoning"
+    },
+    {
+      "question": "What does the increase in heat of adsorption with increasing CO2 loading indicate about CALF-33-Et2H?",
+      "answer": "It indicates that cooperative CO2–CO2 interactions become significant as the loading increases",
+      "difficulty": "Hard",
+      "type": "Reasoning"
+    },
+    {
+      "question": "Why can't CALF-33-Et3 be converted to CALF-33-Et2H post-synthetically under analogous hydrothermal conditions?",
+      "answer": "Because the ligand is hydrolyzed prior to being incorporated in the framework, rather than being a solid–solid transformation via a post-synthetic modification",
+      "difficulty": "Hard",
+      "type": "Reasoning"
+    },
+    {
+      "question": "What does the ability to control the ratio of ester hydrolysis based on synthetic conditions imply for MOF synthesis?",
+      "answer": "It implies that the porosity and selectivity of the MOF can be finely tuned by adjusting the synthetic conditions",
+      "difficulty": "Medium",
+      "type": "Reasoning"
+    },
+    {
+      "question": "True or False: CALF-33-Et3 and CALF-33-Et2H have different topologies.",
+      "answer": "False",
+      "difficulty": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The hydrolyzed frameworks resulting from the removal of the ester in previous attempts were isostructural with their unhydrolyzed parent structure.",
+      "answer": "False",
+      "difficulty": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The highest surface area materials are always the best for gas separation or storage.",
+      "answer": "False",
+      "difficulty": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The post-synthetic conversion of CALF-33-Et3 to CALF-33-Et2H is possible under hydrothermal conditions.",
+      "answer": "False",
+      "difficulty": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: Phosphonate monoesters and phosphonates have the same degrees of freedom in MOF formation.",
+      "answer": "False",
+      "difficulty": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The presence of both phosphonate and PME groups in the same structure does not affect the MOF's properties.",
+      "answer": "False",
+      "difficulty": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The heat of adsorption values for CALF-33-Et3 and CALF-33-Et2H are similar at low CO2 loadings.",
+      "answer": "False",
+      "difficulty": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: CALF-33-Et2H's selectivity for CO2 over CH4 and N2 decreases compared to CALF-33-Et3.",
+      "answer": "False",
+      "difficulty": "Easy",
+      "type": "True or False"
+    }
+  ]
+}

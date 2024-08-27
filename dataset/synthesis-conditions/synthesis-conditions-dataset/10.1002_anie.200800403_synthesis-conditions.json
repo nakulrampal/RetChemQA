@@ -1,0 +1,78 @@
+{
+  "materials": [
+    {
+      "name": "Complex 1",
+      "synthesis_conditions": {
+        "precursors": ["btz-CH2OH", "Co(NO3)2·6 H2O"],
+        "solvent": "acetone",
+        "equipment": "not specified",
+        "reaction_details": {
+          "temperature": "not specified",
+          "time": "not specified",
+          "atmosphere": "not specified"
+        },
+        "post_synthesis": {
+          "washing_method": "not specified",
+          "drying_method": "not specified",
+          "yield": "not specified"
+        }
+      }
+    },
+    {
+      "name": "Complex 2",
+      "synthesis_conditions": {
+        "precursors": ["btz-CH2OH", "Ni(NO3)2·6 H2O"],
+        "solvent": "acetone",
+        "equipment": "not specified",
+        "reaction_details": {
+          "temperature": "not specified",
+          "time": "not specified",
+          "atmosphere": "not specified"
+        },
+        "post_synthesis": {
+          "washing_method": "not specified",
+          "drying_method": "not specified",
+          "yield": "not specified"
+        }
+      }
+    },
+    {
+      "name": "Complex 3",
+      "synthesis_conditions": {
+        "precursors": ["Complex 1", "LiTCNQ"],
+        "solvent": "acetone",
+        "diffusion": "slow diffusion into aqueous solution of LiTCNQ",
+        "equipment": "not specified",
+        "reaction_details": {
+          "temperature": "not specified",
+          "time": "not specified",
+          "atmosphere": "not specified"
+        },
+        "post_synthesis": {
+          "washing_method": "not specified",
+          "drying_method": "not specified",
+          "yield": "not specified"
+        }
+      }
+    },
+    {
+      "name": "Complex 4",
+      "synthesis_conditions": {
+        "precursors": ["Complex 2", "LiTCNQ"],
+        "solvent": "acetone",
+        "diffusion": "slow diffusion into aqueous solution of LiTCNQ",
+        "equipment": "not specified",
+        "reaction_details": {
+          "temperature": "not specified",
+          "time": "not specified",
+          "atmosphere": "not specified"
+        },
+        "post_synthesis": {
+          "washing_method": "not specified",
+          "drying_method": "not specified",
+          "yield": "not specified"
+        }
+      }
+    }
+  ]
+}

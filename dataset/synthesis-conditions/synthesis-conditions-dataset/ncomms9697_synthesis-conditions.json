@@ -1,0 +1,57 @@
+{
+  "MAF-49": {
+    "temperature": "160 °C for 72 hours",
+    "solvents": [
+      {
+        "name": "aqueous ammonia",
+        "amount": "4 ml"
+      },
+      {
+        "name": "water",
+        "amount": "4 ml"
+      }
+    ],
+    "equipment": "15 ml Teflon reactor",
+    "chemicals_used": [
+      {
+        "name": "Zn(OH)2",
+        "amount": "0.100 g, 1.0 mmol"
+      },
+      {
+        "name": "H2batz",
+        "amount": "0.180 g, 1.0 mmol"
+      }
+    ],
+    "drying_method": "heated under high vacuum at 150 °C for 12 hours",
+    "yield": "approximately 86%"
+  },
+  "MAF-49·H2O": {
+    "activation": "heated under high vacuum at 150 °C for 12 hours",
+    "stability": {
+      "thermal_stability": "up to 450 °C in nitrogen",
+      "water_stability": "in boiling water for at least 1 month",
+      "acid_base_stability": "in aqueous acid/base (4 ≤ pH ≤ 12) at room temperature for at least 1 week"
+    }
+  },
+  "MAF-3": {
+    "reference": "synthesized according to literature methods"
+  },
+  "MAF-4": {
+    "reference": "synthesized according to literature methods"
+  },
+  "IRMOF-8": {
+    "reference": "synthesized according to literature methods"
+  },
+  "HKUST-1": {
+    "reference": "synthesized according to literature methods"
+  },
+  "CPO-27-Mg": {
+    "reference": "synthesized according to literature methods"
+  },
+  "CPO-27-Co": {
+    "reference": "synthesized according to literature methods"
+  },
+  "UiO-66": {
+    "reference": "synthesized according to literature methods"
+  }
+}

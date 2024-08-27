@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the blue crystals synthesized from the slow diffusion of CuCl2 in MeOH into an aqueous solution of binicotinic acid hydrochloride?",
+      "answer": "[CuCl(BNA)2]·Cl(H2O)4",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to solve the structure of the synthesized MOF containing channels functionalized with free carboxylic groups?",
+      "answer": "The structure was solved by the Patterson method for structure 1 and by direct methods using SHELXTL for structure 2.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the yield percentage of the blue crystals synthesized from CuCl2 and binicotinic acid hydrochloride?",
+      "answer": "60%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the free carboxylic groups in the MOF's channels regarding its functionality?",
+      "answer": "The free carboxylic groups in the MOF's channels allow for the selective inclusion of the Cl(H2O)4- cluster, demonstrating unique functionality.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the synthesis condition, specifically the pH level, affect the availability of free carboxylic groups in the MOF?",
+      "answer": "The low pH and aqueous conditions employed in the synthesis prevented the COOH groups from participating in metal coordination or self-association by hydrogen bonding, making them available as free carboxylic groups.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the calculated weight loss for 4H2O in the TGA analysis of the synthesized MOF, and how does it compare to the found value?",
+      "answer": "The calculated weight loss for 4H2O was 10.36%, and the found value was 10.47%, showing a close match.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Considering the synthesis of [CuCl(BNA)2]·Cl(H2O)4, what role does the binicotinic acid hydrochloride play in the formation of the MOF?",
+      "answer": "Binicotinic acid hydrochloride acts as a linker in the formation of the MOF, contributing to the network assembly and facilitating the inclusion of the Cl(H2O)4- cluster.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why were the hydrogen atoms on some water molecules not included in the refinement of the MOF's structure?",
+      "answer": "The hydrogen atoms on some water molecules could not be located and therefore were not included in the refinement.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of Cl- and water solvent during the synthesis influence the functionalization of MOF cavities with free COOH groups?",
+      "answer": "Cl- and water solvent act as better hydrogen bonding acceptors for the COOH group, inhibiting the formation of COOH···HOOC interactions and allowing the COOH groups to remain free for functionalization of the MOF cavities.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental technique was employed to confirm the inclusion of Cl- over other anions in the MOF?",
+      "answer": "FTIR spectra analysis was used to confirm the preferential inclusion of Cl- over other anions in the MOF.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the size and symmetry of the Cl(H2O)4- cluster contribute to its selective inclusion in the MOF?",
+      "answer": "The small size and C4 symmetry of the Cl(H2O)4- cluster match well with the channels of the MOF, facilitating its selective inclusion due to good size, symmetry, and functionality match.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the impact of reducing the amount of HCl used in the synthesis on the availability of free COOH groups in the MOF?",
+      "answer": "Reducing the amount of HCl leads to the formation of a product where all carboxylic groups are engaged in network formation through coordination and hydrogen bonding, making them unavailable as free binding sites.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "The MOF synthesized under acidic conditions selectively binds Cl(H2O)4- clusters. True or False?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The free carboxylic groups in the MOF engage in hydrogen bonding among themselves. True or False?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The synthesis of the MOF was conducted under basic conditions. True or False?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The chloride ion in the Cl(H2O)4- cluster is disordered due to its high packing coefficient inside the channels. True or False?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "The MOF's structure was solved using the Patterson method for both structures 1 and 2. True or False?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "The presence of COOH groups in the MOF was confirmed by characteristic infrared bands. True or False?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The MOF exhibits a perfect square-grid topology with Cu2+ and BNA acting as nodes and linkers, respectively. True or False?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "materials": [
+    {
+      "name": "1d",
+      "synthesis_conditions": {
+        "temperature": "120 8C",
+        "solvents": "mixed DMF/EtOH",
+        "solvent_amounts": {
+          "DMF": "4.0415 g",
+          "EtOH": "0.8812 g"
+        },
+        "chemicals_used": {
+          "Adamantane-1,3-dicarboxylic_acid": "0.0798 g, 0.48 mmol",
+          "d-(+)-camphoric_acid": "0.0280 g, 0.13 mmol",
+          "Mn(NO3)2·3 H2O": "0.1390 g, 0.90 mmol"
+        },
+        "time": "4 days",
+        "washing_method": "washed with ethanol",
+        "yield": "80 %",
+        "crystal_data": {
+          "formula": "C16H18Mn3O12",
+          "Mr": "567.12",
+          "space_group": "P3221",
+          "a": "15.1841(9)",
+          "b": "15.1841(9)",
+          "c": "7.8474(9)",
+          "V": "1566.9(2)",
+          "Z": "3",
+          "1calcd": "1.803 g cm-3",
+          "Flack_parameter": "0.03(5)",
+          "R1(wR2)": "0.0510 (0.1366)",
+          "S": "1.099",
+          "reflections": "1602 reflections with I > 2s(I)"
+        }
+      }
+    },
+    {
+      "name": "1l",
+      "synthesis_conditions": {
+        "temperature": "120 8C",
+        "solvents": "mixed DMF/EtOH",
+        "solvent_amounts": {
+          "DMF": "4.0415 g",
+          "EtOH": "0.8812 g"
+        },
+        "chemicals_used": {
+          "Adamantane-1,3-dicarboxylic_acid": "0.0798 g, 0.48 mmol",
+          "l-((-))-camphoric_acid": "0.0280 g, 0.13 mmol",
+          "Mn(NO3)2·3 H2O": "0.1390 g, 0.90 mmol"
+        },
+        "time": "4 days",
+        "washing_method": "washed with ethanol",
+        "yield": "Data not explicitly provided for 1l, assumed similar to 1d",
+        "crystal_data": {
+          "formula": "C16H18Mn3O12",
+          "Mr": "567.12",
+          "space_group": "P3121",
+          "a": "15.2162(10)",
+          "b": "15.2162(10)",
+          "c": "7.9063(11)",
+          "V": "1585.3(3)",
+          "Z": "3",
+          "1calcd": "1.782 g cm-3",
+          "Flack_parameter": "0.00(4)",
+          "R1(wR2)": "0.0445 (0.0944)",
+          "S": "0.980",
+          "reflections": "1424 reflections with I > 2s(I)"
+        }
+      }
+    },
+    {
+      "name": "Layered compound 2",
+      "synthesis_conditions": {
+        "temperature": "120 8C",
+        "solvents": "mixed DMF/EtOH",
+        "solvent_amounts": {
+          "DMF": "4.0415 g",
+          "EtOH": "0.8812 g"
+        },
+        "chemicals_used": {
+          "Adamantane-1,3-dicarboxylic_acid": "0.0798 g, 0.48 mmol",
+          "Mn(NO3)2·3 H2O": "0.1390 g, 0.90 mmol"
+        },
+        "time": "4 days",
+        "washing_method": "washed with ethanol",
+        "yield": "89 % for initial needle-like crystals, 80 % for hexagonal-prismatic 1d crystals after separation",
+        "crystal_data": {
+          "formula": "C12H14MnO4",
+          "Mr": "277.17",
+          "space_group": "Cc",
+          "a": "7.7609(3)",
+          "b": "20.5827(9)",
+          "c": "7.0717(3)",
+          "b_angle": "93.411(3)°",
+          "V": "1127.63(8)",
+          "Z": "4",
+          "1calcd": "1.633 g cm-3",
+          "Flack_parameter": "0.59(3)",
+          "R1(wR2)": "0.0393 (0.0759)",
+          "S": "0.956",
+          "reflections": "1843 reflections with I > 2s(I)"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "MOF_1": {
+    "chemical_formula": "[Cd4(bpe)4(sdb)4]·1.2DMF·DMSO",
+    "yield": "65%",
+    "ligands": ["4,4’-sulfonyl dibenzoate (sdb)", "dimethylformamide (DMF)", "dimethyl sulfoxide (DMSO)"],
+    "crystal_system": "monoclinic",
+    "space_group": "P21/n",
+    "Z_value": 4,
+    "solvent_occupancy": {
+      "DMF": 0.5,
+      "DMSO": 0.5
+    },
+    "irradiation_time": "48 hours",
+    "irradiation_conditions": {
+      "equipment": "Luzchem photoreactor",
+      "lamp_type": "8 W dark-blue phosphor"
+    },
+    "photoproduct": "[Cd4(rctt-tpcb)2(sdb)4(DMF)2]·x Solvent",
+    "unit_cell_volume_change": "-633.6 c3 or -5.6%",
+    "axis_changes": {
+      "a-axis": "+0.6 c",
+      "b-axis": "-2.31 c",
+      "c-axis": "-0.2 c"
+    }
+  },
+  "MOF_3": {
+    "chemical_formula": "[Cd2(bpe)2(sdb)2]",
+    "desolvation_conditions": {
+      "solvent_removal_methods": ["soaking in methanol", "heating at 150 88C"],
+      "preservation": "single-crystalline nature"
+    },
+    "irradiation_time": "48 hours",
+    "photoproduct": "[Cd2(bpe)(rctt-tpcb)0.5(sdb)2]",
+    "conversion_rate": "50%",
+    "C=C_distance": "3.863 c",
+    "p···p_distance": "3.796 c"
+  },
+  "MOF_5": {
+    "chemical_formula": "[Cd4(bpe)4(sdb)4]·1.7 DMA·DMSO·H2O",
+    "ligands": ["dimethylacetamide (DMA)", "dimethyl sulfoxide (DMSO)", "water (H2O)"],
+    "irradiation_time": "3-5 days",
+    "photoproduct": "[Cd4(bpe)2(rctt-tpcb)(sdb)4]",
+    "conversion_rate": "50%",
+    "C=C_distances": ["3.846 c", "3.914 c"],
+    "pattern": "AABBAABB"
+  }
+}

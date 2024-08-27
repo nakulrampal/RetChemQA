@@ -1,0 +1,67 @@
+{
+  "materials": [
+    {
+      "name": "COK-18",
+      "synthesis_conditions": {
+        "precursor": {
+          "chemicals": [
+            "copper nitrate trihydrate",
+            "benzene-tricarboxylates (BTC)"
+          ],
+          "amounts": [
+            "0.8585 g (3.55 mmol)",
+            "0.4007 g (1.91 mmol)"
+          ],
+          "solvents": [
+            "water",
+            "absolute ethanol"
+          ],
+          "solvent_amounts": [
+            "8.3 mL",
+            "10 mL"
+          ]
+        },
+        "temperature": "383 K",
+        "time": "2 days",
+        "equipment": "Teflon-lined stainless steel autoclave",
+        "atmosphere": "oven",
+        "washing_method": "water:ethanol mixture (1:1= v/v)",
+        "drying_temperature": "333 K",
+        "yield_based_on_Cu": ">95%"
+      },
+      "characterization": {
+        "SEM": "Philips XL-30 FEG",
+        "nitrogen_adsorption_isotherm": {
+          "equipment": [
+            "Micromeritics Tristar 3000",
+            "Autosorb-1 instrument (Quantachrome, USA)"
+          ],
+          "temperature": "77 K",
+          "preparation": "evacuated at 423 K under N2 flow or vacuum for 12 h"
+        },
+        "XRD": {
+          "equipment": "STOE STADI MP diffractometer",
+          "details": "CuKα1 radiation, λ = 1.54056 Å, Debye–Scherrer mode"
+        },
+        "TGA": {
+          "equipment": "TGA, Q 500",
+          "atmosphere": "nitrogen",
+          "heating_rate": "3 °C min–1",
+          "temperature_range": "up to 1173 K"
+        }
+      },
+      "additional_information": {
+        "elemental_analysis": {
+          "expected": {
+            "Cu": "39.72",
+            "C": "27.03"
+          },
+          "found": {
+            "Cu": "40.11",
+            "C": "28.40"
+          }
+        }
+      }
+    }
+  ]
+}

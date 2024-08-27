@@ -1,0 +1,21 @@
+{
+  "materials": [
+    {
+      "name": "Zn3(A)(BTC)2(H2O)·(CH3)2NH2·x DMF·y H2O (ZnBTCA)",
+      "synthesis_conditions": {
+        "solvents": "N,N-dimethylformamide (DMF)",
+        "chemicals_used": "benzene-1,3,5-tricarboxyl (BTC), adenine (A)",
+        "by-products": "Zn(BTC)·(CH3)2NH2·DMF (ZnBTC)",
+        "notes": "Optimized synthetic conditions to give pure crystalline samples of ZnBTCA. The interior surface of the anionic ZnBTCA framework was decorated periodically with exposed Watson–Crick faces."
+      }
+    },
+    {
+      "name": "ZnBTCA-T",
+      "synthesis_conditions": {
+        "solvents": "CHCl3",
+        "comparison_solvent": "DMF",
+        "notes": "ZnBTCA could adsorb a significant amount of thymine in CHCl3, showing almost no uptake in DMF. The host framework responded adaptively to thymine binding."
+      }
+    }
+  ]
+}

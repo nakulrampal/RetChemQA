@@ -1,0 +1,79 @@
+{
+  "materials": [
+    {
+      "name": "1,1,2,2-tetrakis­(4-(pyridin-4-yl)­phenyl)­ethane (tppe)",
+      "synthesis_conditions": {
+        "temperature": "Not specified",
+        "solvents": [
+          {
+            "name": "dichloromethane/methanol",
+            "amount": "Not specified"
+          },
+          {
+            "name": "chloroform",
+            "amount": "Not specified"
+          }
+        ],
+        "equipment": "Not specified",
+        "chemicals_used": [
+          "1,1,2,2-tetraphenylethene (tpe)",
+          "bromine",
+          "pyridine-4-boronic acid",
+          "palladium­(II) acetate"
+        ],
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified"
+      }
+    },
+    {
+      "name": "Zn2(bpdc)2(tppe) (LMOF-241)",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylacetamide (DMA)",
+            "amount": "8 mL"
+          },
+          {
+            "name": "dimethyl sulfoxide",
+            "amount": "2 mL"
+          },
+          {
+            "name": "isopropyl alcohol",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "20 mL glass vial",
+        "chemicals_used": [
+          "Zn(NO3)2·6H2O",
+          "biphenyl-4,4′-dicarboxylic acid (H2bpdc)",
+          "tppe"
+        ],
+        "time": "24 h",
+        "washing_method": "filtration",
+        "drying_method": "room temperature",
+        "yield": "Not specified"
+      }
+    },
+    {
+      "name": "Solvent exchange and outgassing of LMOF-241",
+      "synthesis_conditions": {
+        "temperature": "60°C (outgassing)",
+        "solvents": [
+          {
+            "name": "dichloromethane (DCM)",
+            "amount": "15 mL, replaced six times"
+          }
+        ],
+        "equipment": "sealed vial",
+        "chemicals_used": [],
+        "time": "2 hours for each solvent exchange, overnight for outgassing",
+        "washing_method": "filtration",
+        "drying_method": "heated under vacuum",
+        "yield": "Not specified"
+      }
+    }
+  ]
+}

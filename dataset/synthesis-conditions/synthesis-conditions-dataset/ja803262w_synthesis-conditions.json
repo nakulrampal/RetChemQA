@@ -1,0 +1,126 @@
+{
+  "materials": [
+    {
+      "name": "1−2Zn(II)",
+      "synthesis_steps": [
+        {
+          "step": "Synthesis of 1−2Zn(II)",
+          "chemicals_used": [
+            {
+              "name": "Compound 5",
+              "amount": "600 mg",
+              "molar_amount": "1.41 mmol"
+            },
+            {
+              "name": "N-bromosuccinimide (NBS)",
+              "amount": "552 mg",
+              "molar_amount": "3.10 mmol"
+            },
+            {
+              "name": "benzoyl peroxide (BPO)",
+              "amount": "catalytic amount"
+            },
+            {
+              "name": "CCl4",
+              "amount": "40 mL"
+            },
+            {
+              "name": "2,2′-dipicolylamine (Dpa)",
+              "amount": "357 mg",
+              "molar_amount": "1.79 mmol"
+            },
+            {
+              "name": "K2CO3",
+              "amount": "370 mg"
+            },
+            {
+              "name": "anhydrous DMF",
+              "amount": "10 mL"
+            },
+            {
+              "name": "LiBH4/TMSCl",
+              "solvent": "dry THF",
+              "amount": "10 mL"
+            },
+            {
+              "name": "DDQ",
+              "solvent": "dry EtOH−CH2Cl2",
+              "solvent_ratio": "2:1",
+              "solvent_amount": "6 mL"
+            },
+            {
+              "name": "ZnCl2",
+              "solvent": "distilled MeOH",
+              "solvent_amount": "5 mL"
+            }
+          ],
+          "conditions": [
+            {
+              "label": "temperature",
+              "value": "reflux, 0 °C, 60 °C, room temperature"
+            },
+            {
+              "label": "time",
+              "value": "4 h, 1 h, 30 min, 10 min, 30 min"
+            }
+          ],
+          "yield": "30.5 mg, 92%"
+        }
+      ]
+    },
+    {
+      "name": "2-Zn(II)",
+      "synthesis_steps": [
+        {
+          "step": "Synthesis of 2-Zn(II)",
+          "chemicals_used": [
+            {
+              "name": "Compound 5",
+              "amount": "1.00 g",
+              "molar_amount": "2.36 mmol"
+            },
+            {
+              "name": "NBS",
+              "amount": "2.2 equiv"
+            },
+            {
+              "name": "Dpa",
+              "solvent": "anhydrous DMF",
+              "amount": "4 mL"
+            },
+            {
+              "name": "acetic anhydride",
+              "amount": "200 μL",
+              "molar_amount": "2.13 mmol"
+            },
+            {
+              "name": "NEt3",
+              "amount": "290 μL",
+              "molar_amount": "2.09 mmol"
+            },
+            {
+              "name": "aqueous EDTA solution",
+              "concentration": "50 mM",
+              "amount": "100 mL"
+            },
+            {
+              "name": "ZnCl2",
+              "solvent": "DMSO"
+            }
+          ],
+          "conditions": [
+            {
+              "label": "temperature",
+              "value": "room temperature"
+            },
+            {
+              "label": "time",
+              "value": "2 h"
+            }
+          ],
+          "yield": "4.1 mg, 97%"
+        }
+      ]
+    }
+  ]
+}

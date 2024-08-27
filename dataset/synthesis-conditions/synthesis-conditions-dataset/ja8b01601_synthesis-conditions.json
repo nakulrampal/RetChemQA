@@ -1,0 +1,94 @@
+{
+  "materials": [
+    {
+      "name": "Ru-TBP",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis of plate-shaped single crystals",
+          "temperature": "120 °C",
+          "solvents": [
+            {
+              "name": "N,N-dimethylformamide (DMF)",
+              "amount": null
+            }
+          ],
+          "chemicals_used": [
+            "RuCl3·xH2O",
+            "5,10,15,20-tetra­(p-benzoic acid)­porphyrin (H4TBP)",
+            "acetic acid"
+          ],
+          "time": "7 days",
+          "equipment": "oven",
+          "yield": null
+        },
+        {
+          "step": "Synthesis of nanoplates",
+          "temperature": "120 °C",
+          "solvents": [
+            {
+              "name": "N,N-dimethylformamide (DMF)",
+              "amount": null
+            }
+          ],
+          "chemicals_used": [
+            "RuCl3·xH2O",
+            "5,10,15,20-tetra­(p-benzoic acid)­porphyrin (H4TBP)",
+            "acetic acid"
+          ],
+          "time": "2 days",
+          "equipment": "oven",
+          "yield": "33% based on Ru"
+        }
+      ]
+    },
+    {
+      "name": "Ru-TBP-Zn",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis of nanoplates",
+          "temperature": "120 °C",
+          "solvents": [
+            {
+              "name": "N,N-dimethylformamide (DMF)",
+              "amount": null
+            }
+          ],
+          "chemicals_used": [
+            "RuCl3·xH2O",
+            "5,10,15,20-tetra­(p-benzoato)­porphyrinatozinc (H4TBP-Zn)",
+            "acetic acid"
+          ],
+          "time": "2 days",
+          "equipment": "oven",
+          "yield": "35% based on Ru"
+        }
+      ]
+    },
+    {
+      "name": "Ru2-PD",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis of single crystals",
+          "temperature": "refluxed",
+          "solvents": [
+            {
+              "name": "glacial acetic acid",
+              "amount": "35 mL"
+            },
+            {
+              "name": "acetic anhydride",
+              "amount": "7 mL"
+            }
+          ],
+          "chemicals_used": [
+            "RuCl3·3H2O",
+            "anhydrous LiCl"
+          ],
+          "time": "4 hours",
+          "equipment": "stream of oxygen",
+          "yield": "85%"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What are the synthesis conditions for MTV-MOF-5-AB?",
+      "answer": "0.10 mL of BDCH2 stock solution (0.10 M, 1.0×10-5 mol), 0.10 mL of NH2-BDCH2 stock solution (0.10 M, 1.0×10-5 mol), 0.20 mL of Zn(NO3)2·4H2O stock solution (0.30 M, 6.0×10-5 mol) and 0.60 mL of DEF were added in sequence into a 4 mL glass vial. The vial was sealed and heated in an isothermal oven at 100 oC and allowed to react solvothermally for 48 h.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the molar ratio of BDC to NH2-BDC in MTV-MOF-5-AB based on 1H NMR analysis?",
+      "answer": "The molar ratio based on integration of the peaks for BDC to NH2-BDC in MTV-MOF-5-AB is 1:0.57.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the synthesis condition of MTV-MOF-5-AC differ from that of MTV-MOF-5-AB?",
+      "answer": "The synthesis condition of MTV-MOF-5-AC differs from that of MTV-MOF-5-AB by using 0.10 mL of Br-BDCH2 stock solution (0.10 M, 1.0×10-5 mol) instead of NH2-BDCH2, and the reaction is allowed to proceed for 24 h instead of 48 h.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the synthesis of MTV-MOF-5-AE conducted under the same temperature as MTV-MOF-5-AB?",
+      "answer": "Yes, the synthesis of both MTV-MOF-5-AE and MTV-MOF-5-AB is conducted at 100 oC.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of DEF/DMF in the synthesis of MTV-MOFs?",
+      "answer": "DEF and DMF are chosen as the solvents of synthesis due to their high boiling points, which are suitable for the solvothermal synthesis. A lower boiling solvent may result in the precipitation of the reactants rather than of the product.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the experimental PXRD pattern of MTV-MOF-5-AB compare to the simulated MOF-5 diffraction pattern?",
+      "answer": "The experimental PXRD pattern of as-prepared MTV-MOF-5-AB shows a very high degree of correspondence with the simulated MOF-5 diffraction pattern, indicating that the bulk material has the same topology as MOF-5.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the 1H NMR analysis in determining the composition of MTV-MOFs?",
+      "answer": "The 1H NMR analysis of digested MTV-MOFs is significant as it allows for the precise determination of the molar ratios of different functionalized benzene dicarboxylic acids in the material, providing insight into the composition and distribution of functionalities within the MOF structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the synthesis conditions of MTV-MOFs be adjusted to control the ratio of different functional groups?",
+      "answer": "Yes, the synthesis conditions of MTV-MOFs can be adjusted, specifically by controlling the amount of starting material, to precisely control the ratio of different functional groups within the MOF structure.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of high CO coverage on the structure of stepped platinum surfaces?",
+      "answer": "High CO coverage causes extensive and reversible restructuring of stepped platinum surfaces, where originally flat terraces break up into nanometer-sized clusters and revert to the initial morphology after pumping out the CO gas.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the restructuring phenomenon of platinum surfaces under high CO coverage impact heterogeneous catalytic reactions?",
+      "answer": "The restructuring phenomenon under high CO coverage impacts heterogeneous catalytic reactions by potentially altering the surface active sites and their availability, which can affect the reaction kinetics and selectivity, highlighting the importance of considering surface restructuring in catalyst design and operation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

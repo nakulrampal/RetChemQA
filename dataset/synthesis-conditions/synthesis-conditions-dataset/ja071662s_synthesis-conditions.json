@@ -1,0 +1,87 @@
+{
+  "materials": [
+    {
+      "name": "[Cu(mipt)(H2O)](H2O)2 (1)",
+      "synthesis_conditions": {
+        "temperature": "140 °C",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "40 mL"
+          }
+        ],
+        "equipment": "100 mL Teflon capped scintillation vial",
+        "chemicals_used": [
+          {
+            "name": "Cu(NO3)2·2.5H2O",
+            "amount": "697 mg, 3 mmol"
+          },
+          {
+            "name": "5-methylisophthalic acid",
+            "amount": "540 mg, 3 mmol"
+          }
+        ],
+        "time": "4 days",
+        "washing_method": "rinsed with successive 20-mL H2O and C2H5OH",
+        "drying_method": "dried in air",
+        "yield": "577 mg (65%)",
+        "yield_analysis": {
+          "calculated": {
+            "C": "36.55",
+            "H": "4.09"
+          },
+          "found": {
+            "C": "36.05",
+            "H": "3.79"
+          }
+        }
+      }
+    },
+    {
+      "name": "1a (after removal of guest solvent molecules)",
+      "yield_analysis": {
+        "calculated": {
+          "C": "44.73",
+          "H": "2.50"
+        },
+        "found": {
+          "C": "44.98",
+          "H": "2.06"
+        }
+      }
+    },
+    {
+      "name": "1b (after catalytic reaction)",
+      "yield_analysis": {
+        "calculated": {
+          "C": "44.73",
+          "H": "2.50"
+        },
+        "found": {
+          "C": "45.23",
+          "H": "2.15"
+        }
+      }
+    },
+    {
+      "name": "IR Measurements",
+      "conditions": {
+        "equipment": "Bruker ISS/v6 apparatus",
+        "temperature": "room temperature",
+        "activation_method": "heated for 1 h in air at 250 °C and 1 h evacuation at the same temperature"
+      }
+    },
+    {
+      "name": "Catalysis Measurements",
+      "conditions": {
+        "equipment": "multipurpose TPD equipment (TP-5000, Ohkura Riken Co., Ltd.)",
+        "temperature_range": "room temperature to 205°C",
+        "activation_method": "calcinated in air at 250 °C for 3h",
+        "gas_composition": "CO (1 vol. %), O2 (20 vol. %), He (balance)",
+        "flow_rate": "100 ml min-1",
+        "catalyst_amount": "0.3 g",
+        "hourly_space_velocity": "20,000 h-1ml/g-catal"
+      }
+    }
+  ]
+}

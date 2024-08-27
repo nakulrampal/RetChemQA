@@ -1,0 +1,96 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "temperature": "Reflux for 4 hours, then stand at room temperature for 2 months",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "6 mL"
+          },
+          {
+            "name": "ethanol",
+            "amount": "6 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Yb(SCN)3·6H2O",
+            "amount": "0.4 mmol"
+          },
+          {
+            "name": "MnCO3",
+            "amount": "0.2 mmol"
+          },
+          {
+            "name": "MnSO4·H2O",
+            "amount": "0.4 mmol"
+          },
+          {
+            "name": "PDA",
+            "amount": "0.6 mmol"
+          }
+        ],
+        "yield": "37%",
+        "equipment": "20 mL acid digestion bomb"
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "temperature": "155 °C for 3 days under hydrothermal conditions",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "6 mL"
+          },
+          {
+            "name": "ethanol",
+            "amount": "6 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Yb(SCN)3·6H2O",
+            "amount": "0.4 mmol"
+          },
+          {
+            "name": "MnCO3",
+            "amount": "0.2 mmol"
+          },
+          {
+            "name": "MnSO4·H2O",
+            "amount": "0.4 mmol"
+          },
+          {
+            "name": "PDA",
+            "amount": "0.6 mmol"
+          }
+        ],
+        "washing_method": "H2O (2×5 mL)",
+        "yield": "29%",
+        "equipment": "20 mL acid digestion bomb"
+      }
+    },
+    {
+      "name": "2a",
+      "synthesis_conditions": {
+        "temperature": "120 °C for 9 hours, then immersed in methanol for 12 hours",
+        "solvents": [
+          {
+            "name": "methanol",
+            "immersion_time": "12 hours"
+          }
+        ],
+        "preparation_step": "Heated 2 for 9 hours at 120 °C before immersion",
+        "chemicals_used": [
+          {
+            "base_material": "2",
+            "note": "Used as the base material before treatment"
+          }
+        ]
+      }
+    }
+  ]
+}

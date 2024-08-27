@@ -1,0 +1,84 @@
+{
+  "materials": [
+    {
+      "name": "4-(1H-Naphtho[2,3-d]imidazol-1-yl)benzoic acid",
+      "synthesis_conditions": [
+        {
+          "step": "1H-Naphtho[2,3-d]imidazole synthesis",
+          "temperature": "reflux",
+          "solvents": "formic acid",
+          "amount_of_solvent": "10 ml",
+          "chemicals_used": "2,3 diaminoanthracene",
+          "amount_of_chemicals": "500 mg, 3.16 mmol",
+          "equipment": "round bottom flask",
+          "time": "36 hours",
+          "washing_method": "poured into saturated Na2CO3 solution",
+          "drying_method": "dried under reduced pressure",
+          "yield": "420 mg, 2.50 mmol, 79%"
+        },
+        {
+          "step": "4-(1H-Naphtho[2,3-d]imidazol-1-yl)benzonitrile synthesis",
+          "temperature": "160°C",
+          "solvents": "dry DMF",
+          "amount_of_solvent": "13 ml",
+          "chemicals_used": "Napthaimidazole 1, 4-fluorobenzonitrile, K3PO4",
+          "amount_of_chemicals": "500 mg, 2.99 mmol (Napthaimidazole 1); 362 mg, 2.99 mmol (4-fluorobenzonitrile); 1587 mg, 7.48 mmol (K3PO4)",
+          "equipment": "microwave reaction vessel",
+          "time": "30 minutes",
+          "drying_method": "solvent removed under reduced pressure"
+        },
+        {
+          "step": "4-(1H-Naphtho[2,3-d]imidazol-1-yl)benzoic acid synthesis",
+          "temperature": "reflux",
+          "solvents": "concentrated HCl, H2O",
+          "amount_of_solvent": "100 ml (HCl), 50 ml (H2O)",
+          "chemicals_used": "crude reaction mixture 2",
+          "time": "overnight",
+          "washing_method": "suspended in H2O, pH adjusted to 7 using NaHCO3",
+          "drying_method": "dried under reduced pressure",
+          "yield": "803 mg, 2.78 mmol, 93% yield from napthaimidazole 1"
+        }
+      ]
+    },
+    {
+      "name": "1MeOH",
+      "synthesis_conditions": [
+        {
+          "step": "Solvothermal synthesis",
+          "temperature": "100 °C",
+          "solvents": "DMF, MeOH, H2O",
+          "amount_of_solvent": "1.0 ml (DMF), 1.0 ml (MeOH), 1.0 ml (H2O)",
+          "chemicals_used": "4-(1H-naphtho[2,3-d]imidazol-1-yl)benzoic acid, Zn(NO3)2.4H2O",
+          "amount_of_chemicals": "28.9 mg, 0.1 mmol (ligand); equimolar (Zn(NO3)2.4H2O)",
+          "equipment": "Teflon-lined autoclave",
+          "time": "48 hours",
+          "drying_method": "cooled to room temperature",
+          "yield": "phase-pure single crystals"
+        }
+      ]
+    },
+    {
+      "name": "1apohost",
+      "synthesis_conditions": [
+        {
+          "step": "Guest removal",
+          "temperature": "150 °C",
+          "equipment": "under reduced pressure",
+          "time": "specific time not mentioned",
+          "yield": "transparent and diffraction quality crystals"
+        }
+      ]
+    },
+    {
+      "name": "1EtOH, 1n-PrOH, 1iso-PrOH",
+      "synthesis_conditions": [
+        {
+          "step": "Guest exchange",
+          "solvents": "ethanol, n-propanol, isopropanol",
+          "time": "2 weeks",
+          "method": "Single crystals of 1MeOH were suspended in vials containing the solvents"
+        }
+      ]
+    }
+  ]
+}

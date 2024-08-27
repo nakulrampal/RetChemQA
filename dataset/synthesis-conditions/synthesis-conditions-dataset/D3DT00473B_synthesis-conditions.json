@@ -1,0 +1,45 @@
+{
+  "materials": [
+    {
+      "name": "Zn-MOF {[Zn3.5(AIPA)2(Ade)3(H2O)2]n}",
+      "synthesis_conditions": {
+        "method": "Hydrothermal",
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "DMF-H2O",
+            "ratio": "1:1",
+            "volume": "2 mL each for Ade, AIPA, and Zn(NO3)2·6H2O solutions"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Adenine (Ade)",
+            "amount": "10 mg",
+            "molarity": "0.074 mmol"
+          },
+          {
+            "name": "5-aminoisophthalic acid (AIPA)",
+            "amount": "13.4 mg",
+            "molarity": "0.074 mmol"
+          },
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "22 mg",
+            "molarity": "0.074 mmol"
+          },
+          {
+            "name": "HNO3 (68%)",
+            "amount": "3-4 drops"
+          }
+        ],
+        "equipment": "15 mL Teflon-lined glass vial",
+        "time": "Several days until crystallization",
+        "washing_method": "Washed with ethanol three times",
+        "drying_method": "Dried at room temperature",
+        "yield": "51%",
+        "additional_information": "Light pinkish crystal product collected"
+      }
+    }
+  ]
+}

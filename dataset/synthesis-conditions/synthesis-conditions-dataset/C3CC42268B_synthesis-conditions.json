@@ -1,0 +1,59 @@
+{
+  "materials": [
+    {
+      "name": "(Me2NH2)6[Cd9(TTCA)8]·20DMF·12H2O (1)",
+      "synthesis_conditions": {
+        "temperature": "180°C",
+        "time": "48 h",
+        "cooling_rate": "5°C·h-1 over 30 h",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "8.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CdCl2·2.5H2O",
+            "amount": "0.034 g, 0.15 mmol"
+          },
+          {
+            "name": "H3TTCA",
+            "amount": "0.018 g, 0.05 mmol"
+          },
+          {
+            "name": "triethylamine",
+            "amount": "1 drop"
+          }
+        ],
+        "equipment": "sealed Teflon-lined autoclave",
+        "yield": "20%",
+        "washing_method": "filtration",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "(Me2NH2)3(MV)1.5[Cd9(TTCA)8]·15EtOH (2)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "time": "7 days",
+        "solvents": [
+          {
+            "name": "ethanol",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "methylviologen dichloride (MVCl2)",
+            "concentration": "3 mmol·L-1 solution in ethanol"
+          }
+        ],
+        "refresh_frequency": "MVCl2 solution refreshed two times daily",
+        "washing_method": "rinsed with ethanol",
+        "additional_steps": "soaked in ethanol for 3 days to remove residual MVCl2",
+        "drying_method": "not specified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "materials": [
+    {
+      "name": "Tetrathiafulvalene tetrabenzoic acid · 1.5 CH3OH (H4TTFTB)",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "Reflux temperature",
+          "time": "12 hours",
+          "solvents": [
+            {
+              "name": "Methanol",
+              "amount": "7 mL"
+            },
+            {
+              "name": "THF",
+              "amount": "7 mL"
+            },
+            {
+              "name": "Water",
+              "amount": "5 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Et4TTFTB",
+              "amount": "734 mg, 0.921 mmol"
+            },
+            {
+              "name": "Sodium hydroxide",
+              "amount": "466 mg, 11.6 mmol"
+            }
+          ],
+          "yield": "556.5 mg, 0.813 mmol, 88%",
+          "washing_method": "Washed with water (50 mL)",
+          "drying_method": "Dried under high vacuum for 12 hours"
+        }
+      ]
+    },
+    {
+      "name": "Zn2TTFTB(H2O)3(DMF)2 (1)",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis for X-ray quality single crystals",
+          "temperature": "65ºC",
+          "time": "72 hours",
+          "solvents": [
+            {
+              "name": "Water/Ethanol",
+              "amount": "0.7 mL, 66.5 mM",
+              "ratio": "1:1"
+            },
+            {
+              "name": "DMF/Ethanol",
+              "amount": "0.7 mL, 17.9 mM",
+              "ratio": "3:1"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Zinc nitrate hexahydrate",
+              "amount": "solution in water/ethanol"
+            },
+            {
+              "name": "H4TTFTB",
+              "amount": "solution in DMF/ethanol"
+            }
+          ]
+        },
+        {
+          "step": "Bulk synthesis",
+          "temperature": "75ºC",
+          "time": "72 hours",
+          "solvents": [
+            {
+              "name": "Water/Ethanol",
+              "amount": "32 mL",
+              "ratio": "1:1"
+            },
+            {
+              "name": "DMF",
+              "amount": "24 mL"
+            },
+            {
+              "name": "Ethanol",
+              "amount": "8 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Zinc nitrate hexahydrate",
+              "amount": "319 mg, 1.07 mmol"
+            },
+            {
+              "name": "H4TTFTB",
+              "amount": "200 mg, 0.292 mmol"
+            }
+          ],
+          "yield": "221 mg, 0.218 mmol, 75%",
+          "washing_method": "Washed with DMF (40 mL) and ethanol (40 mL)",
+          "drying_method": "Evacuated at 200ºC for 12 hours at 4 mtorr"
+        }
+      ]
+    }
+  ]
+}

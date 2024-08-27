@@ -1,0 +1,79 @@
+{
+  "materials": [
+    {
+      "name": "K2[(Me3SiOUO)2(L)] (1 a)",
+      "synthesis_conditions": {
+        "reactants": [
+          "A",
+          "two equivalents of potassium graphite or potassium metal"
+        ],
+        "solvent": "THF",
+        "equipment": "N/A",
+        "temperature": "N/A",
+        "time": "N/A",
+        "yield": "N/A",
+        "additional_information": "Retains C2v symmetry upon reduction. Both SiMe3 groups are retained upon reduction."
+      }
+    },
+    {
+      "name": "[K(thf)2([18]crown-6)]2[(Me3SiOUO)2(L)] (1 b)",
+      "synthesis_conditions": {
+        "reactants": [
+          "1 a",
+          "two equivalents of [18]crown-6"
+        ],
+        "solvent": "THF",
+        "equipment": "N/A",
+        "temperature": "N/A",
+        "time": "N/A",
+        "yield": "60%",
+        "additional_information": "Poor solubility in THF. Composition supported by 1H NMR, IR, UV/Vis spectroscopy, and elemental analysis."
+      }
+    },
+    {
+      "name": "K2-[(OUO)2(L)] (2)",
+      "synthesis_conditions": {
+        "reactants": [
+          "1 a or 1 b",
+          "single equivalents of iodine"
+        ],
+        "solvent": "pyridine",
+        "equipment": "N/A",
+        "temperature": "boiling",
+        "time": "6 days",
+        "yield": "69%",
+        "additional_information": "Doubly desilylated, binuclear UV compound. Notable absence of a SiMe3 resonance at 15 ppm in 1H NMR spectrum."
+      }
+    },
+    {
+      "name": "K2[(m-k2-k2-O2)-(UO2)2(L)] (3)",
+      "synthesis_conditions": {
+        "reactants": [
+          "2 c",
+          "dioxygen"
+        ],
+        "solvent": "THF or pyridine",
+        "equipment": "N/A",
+        "temperature": "N/A",
+        "time": "instantaneous reaction",
+        "yield": "55%",
+        "additional_information": "Binuclear UVI peroxide complex formed by a redox reaction."
+      }
+    },
+    {
+      "name": "K2[(UO2)(m-O)(UO2)(L)] (4)",
+      "synthesis_conditions": {
+        "reactants": [
+          "2 c",
+          "pyridine-N-oxide"
+        ],
+        "solvent": "N/A",
+        "equipment": "N/A",
+        "temperature": "N/A",
+        "time": "N/A",
+        "yield": "moderate",
+        "additional_information": "Mono-oxo-bridged complex. Solid-state structure similar to that of 3."
+      }
+    }
+  ]
+}

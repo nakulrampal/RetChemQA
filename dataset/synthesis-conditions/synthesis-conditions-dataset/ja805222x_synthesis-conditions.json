@@ -1,0 +1,119 @@
+{
+  "materials": [
+    {
+      "name": "ZIF-90",
+      "synthesis_conditions": [
+        {
+          "method": "Solvothermal",
+          "temperature": "100 ºC",
+          "solvents": [
+            {
+              "name": "N,N-dimethylformamide (DMF)",
+              "amount": "3 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "zinc nitrate tetrahydrate (Zn(NO3)2·4H2O)",
+              "amount": "0.054 g, 0.21 mmol"
+            },
+            {
+              "name": "imidazole-2-carboxyaldehyde",
+              "amount": "0.029 g, 0.30 mmol"
+            }
+          ],
+          "time": "18 h",
+          "yield": "Not specified"
+        },
+        {
+          "method": "Vapor diffusion",
+          "temperature": "25 ºC",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "10 mL"
+            },
+            {
+              "name": "triethylamine in hexane",
+              "amount": "5 mL in 200 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "zinc nitrate tetrahydrate (Zn(NO3)2·4H2O)",
+              "amount": "0.13 g, 0.50 mmol"
+            },
+            {
+              "name": "imidazole-2-carboxyaldehyde",
+              "amount": "0.07 g, 0.75 mmol"
+            }
+          ],
+          "time": "24 h",
+          "washing_method": "methanol (3 × 5 mL)",
+          "drying_method": "vacuum (10-2 Torr) for 24 h at room temperature",
+          "yield": "0.08 g, 61.5%"
+        }
+      ]
+    },
+    {
+      "name": "ZIF-91",
+      "synthesis_conditions": [
+        {
+          "method": "Post synthetic modification",
+          "temperature": "60 ºC",
+          "solvents": [
+            {
+              "name": "methanol",
+              "amount": "10 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "dried ZIF-90 crystals",
+              "amount": "0.10 g, 0.39 mmol"
+            },
+            {
+              "name": "NaBH4",
+              "amount": "0.06 g, 1.56 mmol"
+            }
+          ],
+          "time": "24 h",
+          "washing_method": "2-3 times with fresh methanol (20 mL)",
+          "drying_method": "vacuum (10-2 Torr) for 24 h at room temperature",
+          "yield": "0.09 g, 89%",
+          "conversion": "77 %"
+        }
+      ]
+    },
+    {
+      "name": "ZIF-92",
+      "synthesis_conditions": [
+        {
+          "method": "Post synthetic modification",
+          "temperature": "60 ºC",
+          "solvents": [
+            {
+              "name": "methanol",
+              "amount": "10 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "dried ZIF-90 crystals",
+              "amount": "0.15 g, 0.59 mmol"
+            },
+            {
+              "name": "ethanolamine",
+              "amount": "0.11 mL, 1.76 mmol"
+            }
+          ],
+          "time": "24 hours",
+          "washing_method": "2-3 times with fresh methanol (20 mL)",
+          "drying_method": "vacuum (10-2 Torr) for 24 h at room temperature",
+          "yield": "0.16 g, 80%",
+          "conversion": "100%"
+        }
+      ]
+    }
+  ]
+}

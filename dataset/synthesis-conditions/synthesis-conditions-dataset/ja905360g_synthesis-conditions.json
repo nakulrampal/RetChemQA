@@ -1,0 +1,78 @@
+{
+  "materials": [
+    {
+      "name": "SCOF-2(Me)as",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "ethanol",
+            "amount": "stoichiometric quantity"
+          },
+          {
+            "name": "acetonitrile",
+            "amount": "stoichiometric quantity"
+          },
+          {
+            "name": "acetone",
+            "amount": "stoichiometric quantity"
+          },
+          {
+            "name": "1-propanol",
+            "amount": "stoichiometric quantity"
+          }
+        ],
+        "equipment": "Quantum Design MPMS 5 SQUID instrument",
+        "time": "1 h under dinitrogen atmosphere, 1 h under dinitrogen/sorptive vapor, 6 h at 25 °C",
+        "washing_method": "three washing cycles",
+        "drying_method": "desolvation at 100 °C under dinitrogen",
+        "yield": "8.1% mass uptake relative to the sorbed mass",
+        "additional_information": "Measurements were collected operating under a field of 1 T over the temperature range 15-275 K in both heating and cooling modes."
+      }
+    },
+    {
+      "name": "SCOF-2(Et)rs",
+      "synthesis_conditions": {
+        "temperature_transition": {
+          "HS_to_LS": "175 to 150 K",
+          "T_half_heating": "166 K",
+          "T_half_cooling": "156 K"
+        },
+        "magnetic_susceptibility": {
+          "HS": "3.485 cm3 K mol-1",
+          "LS": "0.686 to 0.071 cm3 K mol-1"
+        },
+        "thermal_hysteresis": "ca. 10 K"
+      }
+    },
+    {
+      "name": "SCOF-2(Pr)rs",
+      "synthesis_conditions": {
+        "temperature_transition": {
+          "HS_to_LS": "200 to 185 K",
+          "T_half": "187 K"
+        },
+        "magnetic_susceptibility": {
+          "HS": "3.391 cm3 K mol-1",
+          "LS": "0.958 to 0.051 cm3 K mol-1"
+        },
+        "thermal_hysteresis": "none"
+      }
+    },
+    {
+      "name": "SCOF-2(Acn)rs",
+      "synthesis_conditions": {
+        "temperature_transition": {
+          "HS_to_LS": "170 to 110 K",
+          "T_half_heating": "140 K",
+          "T_half_cooling": "134 K"
+        },
+        "magnetic_susceptibility": {
+          "HS": "3.468 cm3 K mol-1",
+          "LS": "0.631 to 0.129 cm3 K mol-1"
+        },
+        "thermal_hysteresis": "ca. 6 K"
+      }
+    }
+  ]
+}

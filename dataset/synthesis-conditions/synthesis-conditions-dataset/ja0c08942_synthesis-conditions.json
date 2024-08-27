@@ -1,0 +1,49 @@
+{
+  "materials": [
+    {
+      "name": "COK-17",
+      "synthesis_conditions": {
+        "solvents": "DMF:water (v/v= 19:1)",
+        "solvent_amounts": "400 mL",
+        "chemicals_used": [
+          {
+            "chemical": "zinc nitrate hexahydrate",
+            "amount": "2.4 g (8 mmol)"
+          },
+          {
+            "chemical": "4,5-dichloroimidazole",
+            "amount": "2.4 g (17.5 mmol)"
+          }
+        ],
+        "equipment": "2L Duran® Schott bottle",
+        "temperature": "393 K",
+        "time": "4 days",
+        "stirring_time": "1 day",
+        "static_time": "3 days",
+        "washing_method": "washed with DMF three times",
+        "solvent_exchange": "absolute ethanol for three times over three days",
+        "drying_method": "oven at 353 K for 1 day and vacuum drying at 423 K for 16 h",
+        "yield": "45% based on Zn"
+      },
+      "characterization": {
+        "SEM": "Philips XL-30 FEG with a tungsten filament",
+        "TGA": {
+          "equipment": "TGA, Q 500",
+          "conditions": "nitrogen flow at a heating rate of 276 K min−1 until 1173 K"
+        },
+        "XRD": {
+          "equipment": "STOE STADI MP diffractometer with a linear position sensitive detector (PSD)",
+          "conditions": "2θ = 3 to 90°, step width of 0.5°, internal PSD resolution 0.01°, and a step time of 400 s"
+        },
+        "gas_adsorption": {
+          "equipment": "Micromeritics ASAP 2020 volumetric instrument",
+          "conditions": "heated for 7 h at 403 K and outgassed to 10-1 Pa"
+        },
+        "breakthrough_experiments": {
+          "equipment": "15 cm-glass column with a 0.4 cm internal diameter",
+          "conditions": "heated overnight at 423 K in a He flow (20 mL min−1)"
+        }
+      }
+    }
+  ]
+}

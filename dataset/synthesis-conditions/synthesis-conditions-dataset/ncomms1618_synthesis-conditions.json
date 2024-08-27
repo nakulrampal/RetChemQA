@@ -1,0 +1,58 @@
+{
+  "Bio-MOF-100": {
+    "synthesis_conditions": {
+      "solvents": [
+        {
+          "name": "N,N'-dimethylformamide (DMF)",
+          "amount": "8.5 ml"
+        },
+        {
+          "name": "methanol",
+          "amount": "1 ml"
+        },
+        {
+          "name": "nanopure water",
+          "amount": "0.25 ml"
+        }
+      ],
+      "temperature": "85 °C",
+      "time": "24 h",
+      "equipment": "20-ml vial",
+      "chemicals_used": [
+        {
+          "name": "adenine",
+          "amount": "0.125 mmol"
+        },
+        {
+          "name": "zinc acetate dihydrate",
+          "amount": "0.25 mmol"
+        },
+        {
+          "name": "4,4'-biphenyldicarboxylic acid",
+          "amount": "0.25 mmol"
+        }
+      ],
+      "washing_method": "washed with DMF (3 ml, 3×)",
+      "drying_method": "dried under Ar gas (30 min)",
+      "yield": "0.218 g, 25.4% based on adenine",
+      "activation_method": "supercritical CO2 exchange and subsequent evacuation"
+    },
+    "crystallographic_data": {
+      "crystal_system": "cubic",
+      "space_group": "Ia-3d",
+      "cell_dimension_a": "69.13 Å",
+      "formula_units_per_cell": "96",
+      "density": "0.304 Mg/m3",
+      "max_resolution": "1.26 Å",
+      "no_of_reflections": "130942",
+      "Rint": "0.029",
+      "no_of_unique_reflection": "6951",
+      "no_of_parameters": "359",
+      "no_of_restraints": "204",
+      "wR2_all_data": "0.415",
+      "R1_I_greater_than_2sigma_I": "0.126",
+      "highest_difference_peak": "0.51 e/Å3",
+      "lowest_difference_peak": "-0.23 e/Å3"
+    }
+  }
+}

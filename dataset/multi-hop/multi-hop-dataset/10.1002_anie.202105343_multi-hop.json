@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "question": "What is the main structural difference among the four chain-like compounds Cu-PzH, Cu-PzCl, Cu-PzBr, and Cu-PzI?",
+      "answer": "The main structural difference among Cu-PzH, Cu-PzCl, Cu-PzBr, and Cu-PzI is the substituents of halogen atoms with different electronegativity on the Pz ligands.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the variation in the coordination microenvironment affect the faradic efficiency (FECH4) in the synthesis of the compounds?",
+      "answer": "The variation in the coordination microenvironment, due to different electronegative atoms on the Pz ligands, leads to changes in the faradic efficiency (FECH4) by affecting the synergistic effects between bi-copper centers.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What role does the alkaline environment play in the electrochemical CO2 reduction reaction (CO2RR)?",
+      "answer": "The alkaline environment effectively inhibits HER (hydrogen evolution reaction) and reduces the activation energy barrier of C@C coupling, facilitating the CO2RR.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the distance (DCu-Cu) and dihedral angle (bCu-Cu) variations in the crystalline single chains?",
+      "answer": "The distance (DCu-Cu) and dihedral angle (bCu-Cu) variations in the crystalline single chains directly lead to different synergistic effects between bi-Cu centers, affecting the selectivity and electrocatalytic reaction mechanism of CO2RR.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the highest FEC2H4 achieved and by which compound, according to the study?",
+      "answer": "The highest FEC2H4 achieved is 60% by Cu-PzH at @1.0 V with a larger current density.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Which compound exhibits the highest FECH4 and what is its value?",
+      "answer": "Cu-PzI exhibits the highest FECH4 of 52% at @1.0 V with a large current density.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the change in the substituent of the 4-XPz ligand from H to I affect the product selectivity in CO2RR?",
+      "answer": "As the substituent of the 4-XPz ligand changes from H to I, the selectivity of CH4 increases while the selectivity of C2H4 decreases, indicating a shift in product selectivity based on the coordination microenvironment.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the relationship between the coordination microenvironment variations and the adsorption ability of key intermediate species?",
+      "answer": "Coordination microenvironment variations affect the d-band center of copper, which in turn regulates the adsorption ability of the catalytically active center to key intermediate species, ultimately altering the electrocatalytic activation path and selectivity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How do the structural parameters like DCu-Cu and bCu-Cu influence the C@C coupling ability?",
+      "answer": "The structural parameters like DCu-Cu and bCu-Cu influence the C@C coupling ability by affecting the distance and dihedral angle between adjacent bi-copper centers, which impacts the probability of C@C coupling.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental techniques were used to analyze the gas and liquid products in the CO2RR experiments?",
+      "answer": "Gas chromatography (GC) and 1H nuclear magnetic resonance spectroscopy (NMR) were used to analyze the gas and liquid products in the CO2RR experiments.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the 13C isotope labeling experiment in the study?",
+      "answer": "The 13C isotope labeling experiment was carried out to verify that the carbon source of the reduction products indeed derives from the CO2 used, ensuring the accuracy of the CO2RR product analysis.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the electrochemical double-layer capacitance (Cdl) measurement relate to the electrocatalytic activity?",
+      "answer": "The electrochemical double-layer capacitance (Cdl) measurement estimates the electrochemical surface area (ECSA), indicating that larger Cdl values suggest more accessible active sites, which is related to higher electrocatalytic activity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Cu-PzH compound has the highest reaction energy barrier for C2H4 generation.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The coordination microenvironment variations do not affect the selectivity of electrocatalytic products.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The alkaline environment increases the activation energy barrier of C@C coupling.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: Cu-PzI has the smallest charge transfer resistance among the four chains.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The FECH4 and FEC2H4 ratios indicate that as the substituent changes from H to I, the selectivity shifts towards CH4 production.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The distance (DCu-Cu) and dihedral angle (bCu-Cu) have no impact on the electrocatalytic reaction mechanism of CO2RR.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The electrochemical CO2 reduction reaction (CO2RR) cannot convert CO2 into value-added C-based energy chemicals.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

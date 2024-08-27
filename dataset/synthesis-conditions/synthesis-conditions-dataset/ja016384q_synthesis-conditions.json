@@ -1,0 +1,56 @@
+{
+  "materials": [
+    {
+      "name": "{NaCa(phosphocitrate)2(H2O)}n",
+      "synthesis_conditions": {
+        "temperature_K": 301,
+        "wavelength_A": 0.71073,
+        "crystal_system": "Monoclinic",
+        "space_group": "C2/c",
+        "unit_cell_dimensions": {
+          "a_A": 22.331,
+          "b_A": 7.966,
+          "c_A": 13.233,
+          "alpha_deg": 90,
+          "beta_deg": 107.877,
+          "gamma_deg": 90
+        },
+        "volume_A3": 2240.2,
+        "Z": 8,
+        "density_calc_Mg_m-3": 1.845,
+        "absorption_coefficient_mm-1": 0.546,
+        "F000": 1272,
+        "crystal_size_mm": {
+          "length": 0.18,
+          "width": 0.18,
+          "height": 0.16
+        },
+        "theta_range_deg": {
+          "min": 2.73,
+          "max": 23.27
+        },
+        "index_ranges": "-20 ≤ h ≤ 24, -8 ≤ k ≤ 8, -14 ≤ l ≤ 12",
+        "reflections_collected": 4751,
+        "independent_reflections": "1612 [R(int) = 0.0222]",
+        "absorption_correction": "None",
+        "refinement_method": "Full-matrix least-squares on F2",
+        "data_restraints_parameters": "1478 / 0 / 173",
+        "goodness_of_fit_on_F2": 1.072,
+        "final_R_indices": {
+          "I_greater_than_2sigma(I)": {
+            "R1": 0.0277,
+            "wR2": 0.0753
+          },
+          "all_data": {
+            "R1": 0.0303,
+            "wR2": 0.0770
+          }
+        },
+        "largest_diff_peak_and_hole_e_A-3": {
+          "peak": 0.254,
+          "hole": -0.365
+        }
+      }
+    }
+  ]
+}

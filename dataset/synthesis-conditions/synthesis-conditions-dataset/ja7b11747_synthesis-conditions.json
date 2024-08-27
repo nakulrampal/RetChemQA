@@ -1,0 +1,44 @@
+{
+  "MFM-133(Zr)": {
+    "synthesis_conditions": {
+      "temperature": "120 °C",
+      "solvents": "DEF (N,N-diethylformamide)",
+      "amount_of_solvent": "10 mL",
+      "equipment": "sonication bath",
+      "chemicals_used": "H4TCHB (0.05 g, 0.07 mmol), ZrCl4 (0.049 g, 0.21 mmol), benzoic acid (1.75 g, 14.3 mmol)",
+      "time": "48 h",
+      "washing_method": "washed with fresh DEF (3 × 20 mL)",
+      "drying_method": "not specified",
+      "yield": "0.104 g (70%)"
+    },
+    "high_pressure_crystallography": {
+      "pressure_range": "ambient to 4.41 GPa",
+      "temperature": "293 K",
+      "pressure_transmitting_medium": "4:1 MeOH/EtOH",
+      "equipment": "diamond anvil cell (DAC)",
+      "radiation_type": "Mo Kα radiation or synchrotron radiation",
+      "data_collection_temperature": "120 K"
+    }
+  },
+  "MFM-133(Hf)": {
+    "synthesis_conditions": {
+      "temperature": "120 °C",
+      "solvents": "DEF (N,N-diethylformamide)",
+      "amount_of_solvent": "10 mL",
+      "equipment": "sonication bath",
+      "chemicals_used": "H4TCHB (0.05 g, 0.07 mmol), HfCl4 (0.067 g, 0.21 mmol), benzoic acid (1.75 g, 14.3 mmol)",
+      "time": "48 h",
+      "washing_method": "washed with fresh DMF (3 × 20 mL)",
+      "drying_method": "not specified",
+      "yield": "0.12 g (75%)"
+    },
+    "high_pressure_crystallography": {
+      "pressure_range": "0.355 GPa to 4.94 GPa",
+      "temperature": "295 K",
+      "pressure_transmitting_medium": "4:1 MeOH/EtOH",
+      "equipment": "diamond anvil cell (DAC)",
+      "radiation_type": "Mo Kα radiation or synchrotron radiation",
+      "data_collection_temperature": "120 K"
+    }
+  }
+}

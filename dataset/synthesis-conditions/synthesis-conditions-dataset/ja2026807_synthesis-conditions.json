@@ -1,0 +1,57 @@
+{
+  "materials": [
+    {
+      "material_name": "Au2(μ-dppe)2Br2·2(OSMe2)",
+      "synthesis_conditions": {
+        "solvent": "dimethyl sulfoxide",
+        "method": "Dissolve in minimum volume of dimethyl sulfoxide, filter, evaporate for a week",
+        "product_appearance": "colorless blocks",
+        "luminescence": "orange",
+        "infrared_spectrum": "3047w, 3005w, 2892w, 1484s, 1432s, 1406m, 1315m, 1100w, 1013s, 950m, 746m, 705m, 690s, 522m, 509m, 485m cm−1"
+      }
+    },
+    {
+      "material_name": "Au2(μ-dppe)2Br2·2(CH2Cl2) and {Au(μ-dppe)Br}n·(CH2Cl2)",
+      "synthesis_conditions": {
+        "solvent": "dichloromethane",
+        "method": "Slow diffusion of diethyl ether to a saturated solution of the initial white solid in dichloromethane",
+        "product_appearance": "colorless blocks",
+        "luminescence": "orange",
+        "infrared_spectrum_Au2(μ-dppe)2Br2·2(CH2Cl2)": "3048w, 3006w, 2891w, 1480m, 1433s, 1413m, 1307w, 1265w, 1179w, 1157w, 1100s, 1069m, 1026w, 997w, 917w, 879w, 819w, 744m, 724s, 707m, 689vs, 521m, 508s, 475m cm−1",
+        "infrared_spectrum_polymeric_{Au(μ-dppe)Br}n·(CH2Cl2)": "3047w, 2973w, 2895w, 1479s, 1433s, 1412m, 1311m, 1098s, 1073m, 950m, 750m, 726s, 688s, 522m, 508s, 487m, 478m cm−1"
+      }
+    },
+    {
+      "material_name": "Au2(μ-dppe)2Br2·2(HC(O)NMe2)",
+      "synthesis_conditions": {
+        "solvent": "N,N-dimethylformamide",
+        "method": "Dissolve in minimum volume of N,N-dimethylformamide, filter, evaporate for a week",
+        "product_appearance": "colorless blocks",
+        "luminescence": "orange",
+        "infrared_spectrum": "3049w, 3008w, 2895w, 1658s (νCO from HC(O)NMe2), 1484m, 1432s, 1414m, 1379m, 1098s, 822m, 740w, 715s, 689s, 659m, 523m, 510s, 490m, 475m cm−1"
+      }
+    },
+    {
+      "material_name": "Au2(μ-dppe)2Br2·(NCMe)",
+      "synthesis_conditions": {
+        "solvent": "acetonitrile",
+        "method": "Dissolve in minimum volume of acetonitrile, filter, after an hour colorless plates grow",
+        "product_appearance": "colorless plates",
+        "luminescence": "green",
+        "infrared_spectrum": "3049w, 3008w, 2893w, 2251w (νC≡N from acetonitrile), 1481m, 1432s, 1412m, 1100s, 825m, 745m, 688s, 523m, 508s, 483m, 475m cm−1"
+      }
+    },
+    {
+      "material_name": "Au2(μ-dppe)2Br2·2(OCMe2), Au2(μ-dppe)2Br2·0.5(C4H10O), and {Au(μ-dppe)Br}n·0.5(C4H10O)",
+      "synthesis_conditions": {
+        "solvent": "acetone",
+        "method": "Slow diffusion of diethyl ether to a solution of the colorless solid in acetone",
+        "product_appearance": "colorless, orange emitting crystals",
+        "luminescence": "orange",
+        "infrared_spectrum_Au2(μ-dppe)2Br2·2(OCMe2)": "3047w, 3003w, 2905w, 1703vs (ν(CO) from acetone), 1584m, 1481m, 1432vs, 1410m, 1358m, 1309m, 1275m, 1221m, 1095m, 1070m, 1025m, 997m, 87m1, 833m, 809m, 738s, 689vs, 661m, 642w, 616w, 556w, 519m, 508s, 475m cm−1",
+        "infrared_spectrum_Au2(μ-dppe)2Br2·0.5(C4H10O)": "3045w, 3007w, 2892w, 1480m, 1433s, 1411m, 1309w, 1124m, 1100s, 1069m, 998w, 826m, 748s, 689s, 524m, 508s, 485m, 470m cm−1",
+        "infrared_spectrum_{Au(μ-dppe)Br}n·0.5(C4H10O)": "3048w, 2975w, 2896w, 1481s, 1432s, 1412m, 1315m, 1100s, 1073m, 950m, 750m, 726s, 690s, 521m, 511s, 487m, 475m cm−1"
+      }
+    }
+  ]
+}

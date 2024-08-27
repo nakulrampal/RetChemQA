@@ -1,0 +1,68 @@
+{
+  "materials": [
+    {
+      "name": "Yb-PVDC-3",
+      "synthesis": {
+        "temperature": "105 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "5.0 mL"
+          },
+          {
+            "name": "HNO3",
+            "amount": "1 mL, 1 M aqueous"
+          }
+        ],
+        "equipment": "20-mL glass vial",
+        "chemicals_used": [
+          {
+            "name": "4,4'-(1E,1'E)-2,2'-(2,5-dimethoxy-1,4-phenylene)bis(ethene-2,1-diyl)dibenzoic acid (H2-PVDC)",
+            "amount": "86.0 mg, 0.20 mmol"
+          },
+          {
+            "name": "Yb(NO3)3·5H2O",
+            "amount": "22.5 mg, 0.05 mmol"
+          }
+        ],
+        "time": "12 h",
+        "washing_method": "washed with DMF (4 × 5 mL)",
+        "drying_method": "air-dried",
+        "yield": "29.7 mg, 61.8%"
+      }
+    },
+    {
+      "name": "Nano-Yb-PVDC-3",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "heptane/hexanol",
+            "amount": "25 mL, 0.05 M in 9:1 (vol/vol) ratio"
+          },
+          {
+            "name": "water",
+            "amount": "450 μL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "YbCl3·6H2O",
+            "amount": "225 μL, 0.05 M in H2O"
+          },
+          {
+            "name": "PVDC-(NH2CH3)2",
+            "amount": "225 μL, 0.05 M in H2O"
+          },
+          {
+            "name": "CTAB",
+            "amount": "25 mL, 0.05 M in heptane/hexanol"
+          }
+        ],
+        "equipment": "flask",
+        "time": "24 h",
+        "washing_method": "washed with ethanol (3 × 35 mL)",
+        "drying_method": "dried in a vacuum oven (40 °C, 40 mbar)"
+      }
+    }
+  ]
+}

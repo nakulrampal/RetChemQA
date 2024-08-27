@@ -1,0 +1,81 @@
+{
+  "materials": [
+    {
+      "name": "MOF structures 1 to 8",
+      "synthesis_conditions": {
+        "equipment": "3D printed array reactors",
+        "capacity": "approximately 3 mL",
+        "fabrication_method": "digital design in CAD software, followed by fabrication using FDM deposition of polypropylene using a 3D printer",
+        "chemicals_used": "flexible cationic ligands (CLs), ditopic or tritopic ligands (L1–L6)",
+        "characterization": {
+          "elemental_analysis": true,
+          "IR_spectroscopy": true,
+          "thermogravimetric_analysis": true,
+          "phase_purity": "established by comparison of observed and simulated powder X-ray diffraction (PXRD) patterns"
+        }
+      }
+    },
+    {
+      "name": "POMOFs 1 to 3",
+      "synthesis_conditions": {
+        "equipment": "3D printed compartmentalized reactor",
+        "temperature": "hydrothermal conditions for 12 hours (tn), mixed and then left to react for another 36 hours (tm)",
+        "chemicals_used": {
+          "POMOF_1": {
+            "MOF_1_components": "Co/CL2/L2",
+            "POM": "{SiW12}"
+          },
+          "POMOF_2": {
+            "MOF_components": "Co/CL2",
+            "POM": "{CrMo6}"
+          },
+          "POMOF_3": {
+            "in_situ_POM_synthesis": "Na2MoO4 and Cr-(NO3)3",
+            "MOF_components": "Co/CL2"
+          }
+        },
+        "characterization": {
+          "X-ray_diffraction": true,
+          "infrared_spectroscopy": true,
+          "thermogravimetric_analysis": true,
+          "elemental_analysis": true
+        }
+      }
+    },
+    {
+      "name": "MOFs 9 to 11",
+      "synthesis_conditions": {
+        "equipment": "3D printed compartmentalized reactor",
+        "chemicals_used": {
+          "MOF_9": "Co/CL1/L2 and Cd/CL1/L6 mixed at tn = 0",
+          "MOF_10": "Co/CL1/L2 and Cd/CL1/L6 mixed at tn = 3 to 6 hours",
+          "MOF_11": "Co/CL1/L2 and Cd/CL1/L6 mixed at tn = 9 hours"
+        },
+        "characterization": {
+          "X-ray_analysis": true,
+          "powder_X-ray_diffraction": true
+        }
+      }
+    },
+    {
+      "name": "MOF 12",
+      "synthesis_conditions": {
+        "equipment": "3D printed compartmentalized reactor",
+        "chemicals_used": "4 (Co/CL1/L4) and 6 (Cd/CL1/L6)",
+        "characterization": {
+          "X-ray_analysis": true
+        }
+      }
+    },
+    {
+      "name": "MOF 13",
+      "synthesis_conditions": {
+        "equipment": "traditional “one-pot” reactor",
+        "chemicals_used": "4 (Co/CL1/L4) and 6 (Cd/CL1/L6)",
+        "characterization": {
+          "X-ray_analysis": true
+        }
+      }
+    }
+  ]
+}

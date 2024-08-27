@@ -1,0 +1,77 @@
+{
+  "materials": [
+    {
+      "name": "MFM-303­(Al), [Al­(OH)­(C16O8H8)]­(H2O)2",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Biphenyl-3,3′,5,5′-tetracarboxylic acid",
+            "amount": "60 mg",
+            "molar_amount": "0.182 mmol"
+          },
+          {
+            "name": "AlCl3",
+            "amount": "121.2 mg",
+            "molar_amount": "0.909 mmol"
+          },
+          {
+            "name": "Water",
+            "amount": "10 mL"
+          },
+          {
+            "name": "HCl (2%)",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "PTFE-lined stainless steel autoclave",
+        "temperature": "210 °C",
+        "time": "3 days",
+        "washing_method": "washed with water",
+        "drying_method": "dried in air",
+        "yield": "59.1 mg (79.6% based on ligand)"
+      }
+    },
+    {
+      "name": "NH3-ABR-TPD experiments",
+      "synthesis_conditions": {
+        "equipment": "lab-developed TPD equipment equipped with a Bruker Matrix MG5 FTIR spectrometer",
+        "temperature": [
+          {
+            "activation": "120 °C",
+            "duration": "20 h"
+          },
+          {
+            "adsorption": "25 °C",
+            "duration": "until stable IR baseline signal achieved"
+          },
+          {
+            "desorption": "increased at a rate of 5 °C min−1"
+          }
+        ],
+        "solvents": "He (99.999%, BOC gas Ltd.)",
+        "flow_rate": "100 mL min−1",
+        "gas_mixture": "5000 ppm NH3 diluted in He"
+      }
+    },
+    {
+      "name": "Differential scanning calorimetry (DSC)",
+      "synthesis_conditions": {
+        "equipment": "Thermal Analysis SDT650 analyser",
+        "temperature": [
+          {
+            "activation": "200 °C",
+            "duration": "2 h"
+          },
+          {
+            "adsorption": "30 °C",
+            "duration": "until equilibrated"
+          }
+        ],
+        "flow_rate": "50 mL min−1 (N2)",
+        "gas": "NH3 (0.5% diluted in He)",
+        "flow_rate_gas": "10 mL min−1",
+        "enthalpy_of_adsorption": "61.5 kJ mol−1"
+      }
+    }
+  ]
+}

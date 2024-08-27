@@ -1,0 +1,86 @@
+{
+  "SBMOF-1": {
+    "synthesis": {
+      "precursors": [
+        {
+          "name": "calcium chloride",
+          "formula": "CaCl2",
+          "purity": "96%",
+          "source": "Acros-Organics"
+        },
+        {
+          "name": "4,4'-sulfonyldibenzoic acid",
+          "formula": "4,4'-SDB",
+          "purity": "98%",
+          "source": "Sigma-Aldrich"
+        },
+        {
+          "name": "ethanol",
+          "purity": "95%",
+          "source": "Fisher-Scientific"
+        }
+      ],
+      "solvent": "ethanol",
+      "solvent_volume": "10 ml",
+      "molar_ratio": "metal chloride : ligand : solvent = 1:1:380",
+      "heating_temperature": "180°C",
+      "heating_duration": "3 days",
+      "product_form": "colorless, needle shaped crystals",
+      "washing_solvent": "ethanol",
+      "yield": "45% based on CaCl2",
+      "scale_up": {
+        "CaCl2_amount": "1.44 gram",
+        "4,4'-SDB_amount": "3.98 gram",
+        "solvent_volume": "120 ml",
+        "molar_ratio": "1:1:156",
+        "heating_temperature": "180°C",
+        "heating_duration": "2 days",
+        "product_form": "white powder",
+        "washing_solvent": "ethanol",
+        "washing_times": "3 times",
+        "washing_volume": "50 ml",
+        "drying_method": "under vacuum",
+        "yield": "50% based on CaCl2"
+      },
+      "activation": {
+        "methanol_exchange_duration": "3 days",
+        "activation_temperature": "100°C",
+        "activation_duration": "12 hours",
+        "activation_method": "under dynamic vacuum"
+      }
+    },
+    "gas_adsorption": {
+      "Xe_adsorption_isotherm_temperature": "298 K",
+      "Kr_adsorption_isotherm_temperature": "298 K",
+      "Xe_adsorption_capacity": "1.38 mmol/g",
+      "Kr_adsorption_capacity": "lower than Xe",
+      "Xe/Kr_selectivity": "16 at dilute conditions"
+    },
+    "adsorption_kinetics": {
+      "Xe_adsorption_rate": "80% of saturation uptake within 10 min"
+    },
+    "adsorption_desorption_cycles": {
+      "number_of_cycles": "10",
+      "performance_retention": "retains performance after multiple cycles"
+    },
+    "thermal_stability": "up to 500 K",
+    "breakthrough_experiments": {
+      "gas_mixture_composition": "400 ppm Xe, 40 ppm Kr, 78.1% N2, 20.9% O2, 0.03% CO2, 0.9% Ar",
+      "temperature": "298 K",
+      "pressure": "1 atm",
+      "Xe_breakthrough_capacity": "13.2 mmol/kg",
+      "comparison_with_other_materials": {
+        "Ni-MOF-74": "4.8 mmol/kg",
+        "CC3": "11 mmol/kg"
+      },
+      "humidity_effect": "retains high Xe uptake (11.5 mmol/kg) even in the presence of 42% relative humidity"
+    },
+    "Xe_adsorption_site": {
+      "location": "midpoint of the channel, interacting with the channel wall composed of aromatic rings",
+      "interaction_type": "mainly van der Waals interactions",
+      "distance_between_Xe_atoms": "5.56 Å",
+      "Xe_atoms_per_unit_cell": "1.72",
+      "saturation_loading": "approaches two atoms per unit cell"
+    }
+  }
+}

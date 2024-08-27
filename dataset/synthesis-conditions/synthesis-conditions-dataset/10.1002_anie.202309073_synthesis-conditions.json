@@ -1,0 +1,49 @@
+{
+  "materials": [
+    {
+      "name": "Ln-MOFs",
+      "synthesis_conditions": {
+        "chemicals_used": "Ln(NO3)3, 1,3,5-benzenetricarboxylic acid (BTC)",
+        "method": "hydrothermal",
+        "structure_formula": "[Ln(BTC)-(H2O)] · (H2O)0.5DMF",
+        "solvent": "N,N-dimethylformamide (DMF)",
+        "crystal_size": "30–60 μm in length, 2–5 μm in width",
+        "crystal_shape": "rod-like"
+      }
+    },
+    {
+      "name": "Eu-MOF, Ho-MOF, Er-MOF",
+      "synthesis_conditions": {
+        "alignment": "parallel to the field"
+      }
+    },
+    {
+      "name": "Tb-MOF, Ce-MOF, Pr-MOF, Nd-MOF, Sm-MOF, Dy-MOF, Tm-MOF, Yb-MOF",
+      "synthesis_conditions": {
+        "alignment": "perpendicular to the field"
+      }
+    },
+    {
+      "name": "[de]Tb-MOF",
+      "synthesis_conditions": {
+        "treatment": "de-solvation by heating to 120 °C",
+        "weight_loss": "5.02 wt % due to removal of water and DMF solvent molecules",
+        "alignment_change": "from perpendicular to parallel"
+      }
+    },
+    {
+      "name": "[re]Tb-MOF",
+      "synthesis_conditions": {
+        "treatment": "re-solvation by immersing in a heated mixture of water and DMF",
+        "alignment_change": "from parallel back to perpendicular"
+      }
+    },
+    {
+      "name": "Nd-MOF(Cc), Pr-MOF(Cc), Ce-MOF(Cc), Sm-MOF(Cc)",
+      "synthesis_conditions": {
+        "space_group": "monoclinic Cc",
+        "alignment": "inclined to the field with angles from 47° to 66°"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "materials": [
+    {
+      "material_name": "(NEt4)[Mn2(5-MeOsalen)2Fe(CN)6]",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis of 2",
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "methanol",
+              "amount": "30 mL for [Mn(5-MeOsalen)(H2O)]PF6 solution",
+              "details": "used to dissolve [Mn(5-MeOsalen)(H2O)]PF6"
+            },
+            {
+              "name": "methanol",
+              "amount": "20 mL for (Et4N)3[Fe(CN)6] solution",
+              "details": "used to dissolve (Et4N)3[Fe(CN)6]"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "[Mn(5-MeOsalen)(H2O)]PF6",
+              "amount": "0.271 g, 0.5 mmol"
+            },
+            {
+              "name": "(Et4N)3[Fe(CN)6]",
+              "amount": "0.3 g, 0.5 mmol"
+            }
+          ],
+          "time": "1 week",
+          "yield": "83%",
+          "other_conditions": "mixture was filtered and the filtrate was kept in the dark"
+        }
+      ]
+    },
+    {
+      "material_name": "(NEt4)[Mn2(salmen)2(MeOH)2Fe(CN)6]",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "details": "prepared as described elsewhere"
+        }
+      ]
+    }
+  ]
+}

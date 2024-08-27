@@ -1,0 +1,54 @@
+{
+  "Materials": [
+    {
+      "Material": "Ni2-CPDPy",
+      "Synthesis_Conditions": {
+        "Temperature": "581 K for crystalline covalent-organic framework formation, 873–1073 K for carbonization",
+        "Chemicals_Used": "Ni-containing cyclic porphyrin dimer (Ni2-CPDPy)",
+        "Time": "Not specified",
+        "Yield": "91% at 1073 K",
+        "Additional_Information": "The Ni2-CPDPy crystal is thermally converted into a crystalline covalent-organic framework at 581 K and further into ordered carbonaceous frameworks by subsequent carbonization at 873–1073 K."
+      }
+    },
+    {
+      "Material": "H4-CPDPy",
+      "Synthesis_Conditions": {
+        "Temperature": "540 K for initial thermal behavior, 1073 K for carbonization",
+        "Chemicals_Used": "Free base porphyrin (H4-CPDPy)",
+        "Time": "Not specified",
+        "Yield": "77% at 1073 K",
+        "Additional_Information": "H4-CPDPy does not exhibit weight loss for temperatures ≤750 K, demonstrating heat-stability and minimal volatility. However, it afforded a lower yield compared to Ni2-CPDPy and did not retain an ordered structure upon carbonization."
+      }
+    },
+    {
+      "Material": "Ni2-CPDPy593(0)",
+      "Synthesis_Conditions": {
+        "Temperature": "593 K",
+        "Chemicals_Used": "Ni2-CPDPy",
+        "Time": "Not specified",
+        "Yield": "Not specified",
+        "Additional_Information": "Ni2-CPDPy almost retains its color after polymerization at 593 K, indicating the preservation of the porphyrin unit."
+      }
+    },
+    {
+      "Material": "Ni2-CPDPy873(1)",
+      "Synthesis_Conditions": {
+        "Temperature": "873 K",
+        "Chemicals_Used": "Ni2-CPDPy593(0)",
+        "Time": "1 hour",
+        "Yield": "Not specified",
+        "Additional_Information": "After carbonization, the sample turned black, confirming the conversion into a carbonaceous substance. The Ni–N4 unit is retained in the final framework."
+      }
+    },
+    {
+      "Material": "Ni2-CPDPy973(1)",
+      "Synthesis_Conditions": {
+        "Temperature": "973 K",
+        "Chemicals_Used": "Ni2-CPDPy593(0)",
+        "Time": "1 hour",
+        "Yield": "Not specified",
+        "Additional_Information": "Similar to Ni2-CPDPy873(1), but carbonized at a higher temperature. The Ni–N4 unit is retained, and the material exhibits an ordered structure."
+      }
+    }
+  ]
+}

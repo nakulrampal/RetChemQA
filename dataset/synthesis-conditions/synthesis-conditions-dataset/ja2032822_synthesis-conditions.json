@@ -1,0 +1,92 @@
+{
+  "materials": [
+    {
+      "name": "HMOF-1",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "Room temperature",
+          "solvents": [
+            {
+              "name": "1,1,2,2-tetrachloroethane (TCE)",
+              "amount": "0.75 mL"
+            },
+            {
+              "name": "methanol (MeOH)",
+              "amount": "0.25 mL"
+            },
+            {
+              "name": "3-chloroaniline",
+              "amount": "1 mL"
+            },
+            {
+              "name": "N,N'-dimethylacetamide (DMA)",
+              "amount": "1 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "meso-tetra(4-pyridyl)porphine (TPyP)",
+              "amount": "5.7 mg, 0.009 mmol"
+            },
+            {
+              "name": "CdI2",
+              "amount": "7.2 mg, 0.02 mmol"
+            }
+          ],
+          "time": "5 weeks",
+          "equipment": "long pyrex tube with inner diameter of 5 mm",
+          "washing_method": "with TCE",
+          "drying_method": "Not specified",
+          "yield": "Not specified",
+          "additional_notes": "Elemental Analysis was performed on the sample after removing the crystals and washing with TCE."
+        },
+        {
+          "step": "Temperature-dependent X-ray single crystal diffraction",
+          "temperature": [
+            "297(2) K",
+            "200(2) K",
+            "100(2) K"
+          ],
+          "equipment": [
+            "Bruker SMART Apex CCD area detector diffractometer",
+            "graphite monochromated and MonoCap-collimated Mo Kα radiation (λ = 0.71073 Å)"
+          ],
+          "chemicals_used": [],
+          "solvents": [],
+          "time": "Not specified",
+          "drying_method": "Not specified",
+          "yield": "Not specified",
+          "additional_notes": "Data were processed with the SAINT+ program for data reduction and cell refinement. Multiscan absorption corrections were applied using the SADABS program."
+        },
+        {
+          "step": "Temperature-dependent synchrotron powder diffraction",
+          "temperature_range": "100K-380K",
+          "temperature_increments": "~20K increments",
+          "equipment": [
+            "beamline 11-BM at the Advanced Photon Source (APS), Argonne National Laboratory",
+            "average wavelength of 0.413605Å",
+            "Oxford Cryosystems Cryostream Plus device"
+          ],
+          "chemicals_used": [],
+          "solvents": [],
+          "time": "15 temperature scans",
+          "drying_method": "Not specified",
+          "yield": "Not specified",
+          "additional_notes": "Data points collected every 0.001º 2θ and scan speed of 0.01º/s. Corrections applied for detector sensitivity, 2θ offset, small differences in wavelength between detectors, and the source intensity."
+        },
+        {
+          "step": "Coefficient of Thermal Expansion (α) calculation",
+          "temperature": "Not specified",
+          "equipment": [],
+          "chemicals_used": [],
+          "solvents": [],
+          "time": "Not specified",
+          "drying_method": "Not specified",
+          "yield": "Not specified",
+          "additional_notes": "α was calculated by first plotting the cell parameter data versus temperature. The best polynomial fit was found, the first derivative was taken, which was then divided by the cell parameter value at that given temperature to find α."
+        }
+      ]
+    }
+  ]
+}

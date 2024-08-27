@@ -1,0 +1,86 @@
+{
+  "materials": [
+    {
+      "name": "dimethyl 5-azidoisophthalate",
+      "synthesis_conditions": {
+        "temperature": "0 °C",
+        "solvents": ["MeOH", "HCl"],
+        "amount_of_each_solvent": ["200 mL", "200 mL (0.5 M)"],
+        "chemicals_used": ["dimethyl 5-aminoisophthalate (3.72 g, 17.8 mmol)", "NaNO2 (3.68 g, 53.3 mmol, 20 mL H2O)", "NaN3 (3.50 g, 53.8 mmol, 20 mL H2O)"],
+        "time": "1.5 h for NaNO2 addition, 30 min for NaN3 addition",
+        "washing_method": "extraction with CH2Cl2 (100 mL × 2)",
+        "drying_method": "dried over Na2SO4",
+        "yield": "91%",
+        "purification_method": "silica gel flash column chromatography (hexane/CH2Cl2, 100/70)"
+      }
+    },
+    {
+      "name": "tetrakis(4((trimethylsilyl)ethynyl)phenyl)methane",
+      "synthesis_conditions": {
+        "temperature": "60°C (reflux)",
+        "solvents": ["THF"],
+        "amount_of_each_solvent": ["50 mL"],
+        "chemicals_used": ["diisopropyl amine (15 mL)", "trimethylsilyl acetylene (3.4 mL, 2.36 g, 2.40 mmol)", "tetrakis(4-bromophenyl)methane (1.50 g, 2.36 mmol)", "triphenylphosphine (62.4 mg, 0.24 mmol)", "bis(triphenylphosphine)palladium(II) dichloride (83.5 mg, 0.12 mmol)", "copper(I) bromide (22.7 mg, 0.16 mmol)"],
+        "time": "20 hours",
+        "washing_method": "washed by CH2Cl2",
+        "drying_method": "dried over Na2SO4",
+        "yield": "77%",
+        "purification_method": "flash column chromatography using hexane"
+      }
+    },
+    {
+      "name": "tetrakis(4-ethynylphenyl)methane",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": ["DCM/MeOH"],
+        "amount_of_each_solvent": ["30 mL/30 mL"],
+        "chemicals_used": ["tetrakis(4((trimethylsilyl)ethynyl)phenyl)methane (1.2 g, 1.70 mmol)", "Potassium carbonate (K2CO3, 1.38 g, 10.00 mmol)"],
+        "time": "overnight",
+        "washing_method": "poured into water (50 mL) then extracted by CH2Cl2 (50 mL × 2)",
+        "drying_method": "dried over Na2SO4",
+        "yield": "90%",
+        "purification_method": "silica gel flash column chromatography (hexane/CH2Cl2, 100/10)"
+      }
+    },
+    {
+      "name": "octamethyl 5,5',5'',5'''-((methanetetrayltetrakis(benzene-4,1-diyl)) tetrakis (1H-1,2,3-triazole-4,1-diyl))tetraisophthalate (Me8L1)",
+      "synthesis_conditions": {
+        "temperature": "50°C",
+        "solvents": ["THF/H2O"],
+        "amount_of_each_solvent": ["150 mL/30 mL"],
+        "chemicals_used": ["dimethyl 5-azidoisophthalate (1.13 g, 4.80 mmol)", "tetrakis(4-ethynylphenyl)methane (0.42 g, 1.00 mmol)", "CuSO4·5H2O (0.11 g, 0.44 mmol, 10 mL H2O)", "sodium L-ascorbate (0.5 g, 2.5 mmol, 10 mL H2O)"],
+        "time": "3 days",
+        "washing_method": "poured into water (50 mL) then extracted by CH2Cl2 (80 mL × 2)",
+        "drying_method": "dried over Na2SO4",
+        "yield": "89%",
+        "purification_method": "silica gel flash column chromatography (CH2Cl2/EtOAc, 100/20)"
+      }
+    },
+    {
+      "name": "5,5',5'',5'''-((Methanetetrayltetrakis(benzene-4,1-diyl)) tetrakis (1H-1,2,3-triazole-4,1-diyl))tetraisophthalic acid (H8L1)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": ["THF/H2O"],
+        "amount_of_each_solvent": ["60 mL/30 mL"],
+        "chemicals_used": ["octamethyl 5,5',5'',5'''-((methanetetrayltetrakis(benzene-4,1-diyl)) tetrakis (1H-1,2,3-triazole-4,1-diyl))tetraisophthalate (Me8L1) (1.10 g, 0.81 mmol)", "NaOH (0.16 g, 4.0 mmol)"],
+        "time": "overnight",
+        "washing_method": "acidified with HCl to pH = 1, rinsed several times with distilled water",
+        "drying_method": "dried to afford white solid",
+        "yield": "94%"
+      }
+    },
+    {
+      "name": "MOF 1",
+      "synthesis_conditions": {
+        "temperature": "80°C",
+        "solvents": ["DMF", "ethanol", "H2O"],
+        "amount_of_each_solvent": ["10 mL", "1 mL", "1 mL"],
+        "chemicals_used": ["H8L1 (15 mg, 0.012 mmol)", "Cu(NO3)2·2.5H2O (24 mg, 0.10 mmol)"],
+        "time": "3 days",
+        "washing_method": "washed by fresh DMF for three times",
+        "drying_method": "dried naturally at room temperature",
+        "yield": "21.5 mg (after drying by N2)"
+      }
+    }
+  ]
+}

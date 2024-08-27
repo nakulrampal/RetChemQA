@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What is the primary purpose of incorporating nickel bis(dicarbollide) into the NU-1000 framework?",
+      "answer": "The primary purpose of incorporating nickel bis(dicarbollide) into the NU-1000 framework is to create an electrically conductive MOF with mesoporosity by introducing electron-deficient moieties that can serve as acceptors to engender donor–acceptor interactions through the whole framework.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of NiCB affect the porosity of NU-1000 after its installation?",
+      "answer": "The presence of NiCB decreases the Brunauer–Emmett–Teller (BET) surface area of NU-1000 from 2215 m2/g to 1260 m2/g, but the resulting NiCB@NU-1000 still exhibits mesoporosity.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to deposit manganese oxide in both NU-1000 and NiCB@NU-1000, and what was the impact on their BET surface area?",
+      "answer": "Manganese oxide was deposited in both NU-1000 and NiCB@NU-1000 using atomic layer deposition in MOFs (AIM). This process resulted in a decrease in the BET surface area of NU-1000 from 2215 m2/g to 790 m2/g for Mn-AIM-NU-1000, and from 1260 m2/g to 695 m2/g for Mn-AIM-NiCB@NU-1000.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What experimental technique was used to confirm the installation of NiCB in the NU-1000 framework and determine its occupancy?",
+      "answer": "Single-crystal X-ray diffraction was used to confirm the installation of NiCB in the NU-1000 framework and determine its occupancy, which was found to be 100% for Ni sites, corresponding to 0.667 NiCB on each Zr6 node.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the observed effect on the electrical conductivity of NU-1000 after the incorporation of NiCB?",
+      "answer": "The incorporation of NiCB into NU-1000 resulted in a remarkable increase in electrical conductivity, with NiCB@NU-1000 achieving an electrical conductivity of 2.7 × 10−7 S/cm.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the electrochemically addressable fraction of manganese oxide in Mn-AIM-NiCB@NU-1000 compare to that in Mn-AIM-NU-1000?",
+      "answer": "In the Mn-AIM-NiCB@NU-1000 thin film, 16% of the Mn sites are electrochemically addressable, which is significantly higher than the 1.4% electrochemically addressable Mn sites in the Mn-AIM-NU-1000 thin film.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the method used to estimate the loading of manganese oxide in the MOF thin films, and what were the results?",
+      "answer": "The loading of manganese oxide in the MOF thin films was estimated by digesting the spin-coated thin film and measuring the UV-vis spectrum of the obtained solution. The loadings of manganese were 1.2 × 10−7 mol/cm2 for Mn-AIM-NU-1000 and 1.6 × 10−7 mol/cm2 for Mn-AIM-NiCB@NU-1000.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The installation of NiCB in NU-1000 leads to a decrease in mesoporosity.",
+      "answer": "False. While the BET surface area decreases after the installation of NiCB, the resulting NiCB@NU-1000 still exhibits mesoporosity.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The specific capacitance of manganese oxide in Mn-AIM-NiCB@NU-1000 is more than 10 times higher than that in Mn-AIM-NU-1000.",
+      "answer": "True. The specific capacitance of manganese oxide in Mn-AIM-NiCB@NU-1000 reaches 276 F/gMnO2, which is more than 10 times higher than that in Mn-AIM-NU-1000 (21 F/gMnO2).",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The electrical conductivity of NiCB@NU-1000 is measured to be higher than that of pristine NU-1000.",
+      "answer": "True. The electrical conductivity of NiCB@NU-1000 is measured to be 2.7 × 10−7 S/cm, indicating an increase in conductivity compared to pristine NU-1000.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

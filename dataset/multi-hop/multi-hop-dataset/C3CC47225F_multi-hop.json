@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "question": "What is the temperature range over which Tb0.957Eu0.043cpda acts as a luminescent thermometer?",
+      "answer": "40–300 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What property of the H3cpda ligand enables Tb0.957Eu0.043cpda to function effectively as a luminescent thermometer?",
+      "answer": "The high triplet excited state energy of 27 027 cm-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the luminescence color of Tb0.957Eu0.043cpda change with temperature?",
+      "answer": "The luminescence color shifts from green to orange as the temperature increases from 40 to 300 K.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the intensity ratio of the 5D4 - 7F5 (Tb3+) to 5D0 - 7F2 (Eu3+) transitions in Tb0.957Eu0.043cpda?",
+      "answer": "The intensity ratio is used as the thermometric parameter for temperature sensing.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to confirm the molar ratios of Eu3+/Tb3+ in Tb0.957Eu0.043cpda?",
+      "answer": "Inductively coupled plasma (ICP) analysis",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the correlation coefficient for the linear relationship between the ITb/IEu ratio and temperature for Tb0.957Eu0.043cpda?",
+      "answer": "0.997",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What causes the intensity of the Tb3+ luminescence in Tb0.957Eu0.043cpda to decrease with increasing temperature?",
+      "answer": "The thermally driven phonon-assisted Förster transfer mechanism from the Tb3+ to Eu3+ ions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why does the emission intensity of Tb3+ in Tbcpda remain almost unchanged with the increase in temperature?",
+      "answer": "The energy back-transfer from Tb3+ ions to ligand H3cpda is efficiently prohibited due to the high triplet excited state energy of the ligand.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the synthesis of Tb0.957Eu0.043cpda differ when aiming for a specific Eu3+/Tb3+ molar ratio?",
+      "answer": "By varying the original molar ratios of Eu(NO3)3 to Tb(NO3)3 through the same synthetic procedures.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the high triplet excited state energy of the H3cpda ligand in the performance of Tb0.957Eu0.043cpda as a thermometer?",
+      "answer": "It enables efficient energy transfer from the H3cpda ligand to the Tb3+ or Eu3+ ions, preventing energy back-transfer and allowing effective temperature sensing.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the intensity ratio approach preferred over measuring luminescence intensity for temperature sensing?",
+      "answer": "Because it is not compromised by variations in sensor concentration, excitation power, and drifts of optoelectronic systems, enabling more accurate thermal measurements.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the temperature-dependent color change of Tb0.957Eu0.043cpda facilitate its use as a thermometer?",
+      "answer": "The color change from green to orange allows for in situ and real-time temperature measurements by direct observation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the luminescence method for measuring temperature based on the lifetime of one transition?",
+      "answer": "False, it is mainly based on the temperature-dependent luminescence intensity and/or the lifetime of one transition.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the emission intensity of Tb3+ in Tbcpda temperature sensitive?",
+      "answer": "False, the emission intensity of Tb3+ in Tbcpda is not temperature sensitive and shows very few changes over the whole temperature range.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the luminescence intensity measurements of Tb0.957Eu0.043cpda suffer from variation due to sensor concentration?",
+      "answer": "False, the intensity ratio approach used in Tb0.957Eu0.043cpda is not affected by variations in sensor concentration.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the energy transfer efficiency from Tb3+ to Eu3+ in Tb0.957Eu0.043cpda strong at cryogenic temperatures?",
+      "answer": "False, the energy transfer efficiency from Tb3+ to Eu3+ is weak at cryogenic temperatures and enhances at elevated temperatures.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the luminescence color of Tb0.957Eu0.043cpda remain constant across the temperature range of 40 to 300 K?",
+      "answer": "False, the luminescence color of Tb0.957Eu0.043cpda shifts from green to orange as the temperature increases from 40 to 300 K.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the synthesis of Tb0.957Eu0.043cpda achieved by reacting Tb(NO3)3·6H2O or Eu(NO3)3·6H2O with H3cpda?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the triplet energy level of the ligand H3cpda lower than that of the linker H2DMBDC?",
+      "answer": "False, the triplet energy level of the ligand H3cpda is higher than that of the linker H2DMBDC.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

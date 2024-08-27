@@ -1,0 +1,120 @@
+{
+  "materials": [
+    {
+      "name": "ZIF-8 seed layer",
+      "synthesis_conditions": {
+        "temperature": "100 W for 1.5 min, followed by natural cooling for 30 min",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "40 ml for solution A, 30 ml for solution B"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "zinc nitrate hexahydrate",
+            "amount": "2.43 g"
+          },
+          {
+            "name": "2-methylimidazole",
+            "amount": "2.59 g"
+          },
+          {
+            "name": "sodium formate",
+            "amount": "0.125 g"
+          }
+        ],
+        "equipment": "microwave",
+        "time": "1.5 min irradiation + 30 min cooling",
+        "washing_method": "washed in methanol under gentle rocking for 12 h",
+        "drying_method": "dried at room temperature for 24 h"
+      }
+    },
+    {
+      "name": "ZIF-67 membrane",
+      "synthesis_conditions": {
+        "temperature": "120 oC for 6h",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "2.5 ml"
+          },
+          {
+            "name": "D.I. water",
+            "amount": "17.5 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "cobalt nitrate hexahydrate",
+            "amount": "0.11 g"
+          },
+          {
+            "name": "2-methylimidazole",
+            "amount": "2.27 g"
+          }
+        ],
+        "equipment": "autoclave",
+        "time": "6h growth + 6h cooling",
+        "washing_method": "washed in methanol under gentle rocking for 2 days",
+        "drying_method": "dried at room temperature for 12 h"
+      }
+    },
+    {
+      "name": "ZIF-8/ZIF-67 membrane",
+      "synthesis_conditions": {
+        "temperature": "30 oC",
+        "solvents": [
+          {
+            "name": "D.I. water",
+            "amount": "40 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "zinc nitrate hexahydrate",
+            "amount": "0.11 g"
+          },
+          {
+            "name": "2-methylimidazole",
+            "amount": "2.27 g"
+          }
+        ],
+        "equipment": "autoclave",
+        "time": "20 ~ 60 min",
+        "washing_method": "washed in methanol under gentle rocking for 2 days",
+        "drying_method": "dried at room temperature for 12 h"
+      }
+    },
+    {
+      "name": "ZIF-67/ZIF-67 membrane",
+      "synthesis_conditions": {
+        "temperature": "120 oC for 4h (ligand treatment), followed by growth at 30 oC",
+        "solvents": [
+          {
+            "name": "D.I. water",
+            "amount": "40 ml for growth solution"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "cobalt nitrate hexahydrate",
+            "amount": "0.11 g"
+          },
+          {
+            "name": "2-methylimidazole",
+            "amount": "2.27 g"
+          },
+          {
+            "name": "2-methylimidazole",
+            "amount": "4.54 g for ligand treatment"
+          }
+        ],
+        "equipment": "autoclave",
+        "time": "4h ligand treatment + variable growth time",
+        "washing_method": "washed in methanol under gentle rocking for 2 days",
+        "drying_method": "dried at room temperature for 12 h"
+      }
+    }
+  ]
+}

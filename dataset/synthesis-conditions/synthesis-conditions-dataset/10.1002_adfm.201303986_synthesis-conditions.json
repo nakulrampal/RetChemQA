@@ -1,0 +1,56 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "temperature": "160 °C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "6.0 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "1.0 mL"
+          }
+        ],
+        "equipment": "15-mL Teflon-lined stainless-steel autoclave",
+        "chemicals_used": [
+          {
+            "name": "Eu(NO3)3·6H2O",
+            "amount": "0.0225 g, 0.05 mmol"
+          },
+          {
+            "name": "bpydbH2",
+            "amount": "0.0198 g, 0.05 mmol"
+          },
+          {
+            "name": "terephthalic acid (H2BDC, benzene-1,4-dicarboxylic acid)",
+            "amount": "0.0082 g, 0.05 mmol"
+          }
+        ],
+        "time": "72 h",
+        "yield": "52% based on bpydbH2",
+        "drying_method": "Air-dried",
+        "additional_information": "The formate anion may be generated via the hydrolysis of DMF under solvothermal conditions."
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "preparation_method": "Air-dried crystals of 1 were immersed in MeOH for 4 days, and sequentially in acetone for 2 days. During this period, the MeOH or acetone solvent was periodically refreshed with pure solvent. After decanting the solvent, air-dried crystals of 2, which were suitable for X-ray diffraction analysis, were obtained.",
+        "yield": "94%",
+        "drying_method": "Air-dried"
+      }
+    },
+    {
+      "name": "2a",
+      "synthesis_conditions": {
+        "preparation_method": "A sample of 2 was activated under vacuum at 150 °C for 15 h, giving rise to activated 2a.",
+        "temperature": "150 °C",
+        "equipment": "Vacuum",
+        "time": "15 h"
+      }
+    }
+  ]
+}

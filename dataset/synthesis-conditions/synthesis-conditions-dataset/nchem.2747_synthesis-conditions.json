@@ -1,0 +1,50 @@
+{
+  "materials": [
+    {
+      "material": "SHF-61-DMF",
+      "synthesis_conditions": {
+        "temperature": "130 °C for 24 h",
+        "solvents": "N,N-dimethylformamide (DMF)",
+        "equipment": "125 mL Teflon-lined steel autoclave",
+        "chemicals_used": "InCl3 (0.1106 g, 0.5 mmol), 2-aminoterephthalic acid (0.092 g, 0.5 mmol)",
+        "yield": "46%",
+        "washing_method": "Transferred and stored in fresh DMF",
+        "drying_method": "Not specified",
+        "time": "24 h"
+      }
+    },
+    {
+      "material": "SHF-61-CHCl3",
+      "synthesis_conditions": {
+        "solvents": "Dry CHCl3",
+        "washing_method": "Soaking SHF-61-DMF in dry CHCl3, replaced daily for a minimum of one week",
+        "drying_method": "Not specified",
+        "time": "Minimum of one week"
+      }
+    },
+    {
+      "material": "Activated SHF-61 from SHF-61-DMF",
+      "synthesis_conditions": {
+        "temperature": "423 K under high vacuum",
+        "time": "Until mass losses correspond well to those expected for solvent removal",
+        "drying_method": "Under high vacuum at specified temperature"
+      }
+    },
+    {
+      "material": "Activated SHF-61 from SHF-61-CHCl3",
+      "synthesis_conditions": {
+        "temperature": "353 K under high vacuum",
+        "time": "Until mass losses correspond well to those expected for solvent removal",
+        "drying_method": "Under high vacuum at specified temperature"
+      }
+    },
+    {
+      "material": "Partially desolvated SHF-61-DMF",
+      "synthesis_conditions": {
+        "temperature": "448 K under vacuum",
+        "time": "15 min",
+        "drying_method": "Under vacuum at specified temperature"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "materials": [
+    {
+      "name": "Manganese citrate coordination polymer (4)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvent": "D2O vapor",
+        "exposure_time": "not specified",
+        "crystal_form": "non-porous",
+        "additional_information": "The crystal undergoes complete exchange of protium for deuterium on both mobile and immobile water molecules when exposed to D2O vapor."
+      }
+    },
+    {
+      "name": "[Mn(H2O)6]2n{[Mn(H2O)5]Mn4(citr)4[m-Mn(H2O)4]}n·5n H2O (2.1)",
+      "synthesis_conditions": {
+        "preparation_method": "Placing crystals of 2 in a desiccator for 36 hours",
+        "result": "Three formula units of H2O are removed, leading to a stoichiometry change and reduction of free water sites."
+      }
+    },
+    {
+      "name": "Rehydrated product (2b)",
+      "synthesis_conditions": {
+        "preparation_method": "Exposing 2.1 to a humid atmosphere, e.g., enclosing a crystal in a sealed tube with wet cotton for 24 hours",
+        "result": "Restoration of the original product 2 in single-crystal form, nearly identical to the structure of a newly formed crystal of 2."
+      }
+    },
+    {
+      "name": "Deuterated rehydrated product (2.2)",
+      "synthesis_conditions": {
+        "preparation_method": "Exposing 2.1 to D2O vapor",
+        "result": "All 30 of the bound and free water sites in the structure are fully deuterated.",
+        "observation_method": "Single-crystal neutron diffraction analysis",
+        "additional_information": "The structural parameters of the non-hydrogen atoms are in good agreement between the X-ray and neutron analyses."
+      }
+    },
+    {
+      "name": "[Mn3(Hcitr)2(H2O)6]n·4n (H2O) (1)",
+      "synthesis_conditions": {
+        "description": "A known manganese citrate complex produced as the first step in a complex reaction procedure detailed in the Supporting Information."
+      }
+    },
+    {
+      "name": "[Mn(H2O)6]2n{[Mn(H2O)5]Mn4(citr)4[m-Mn(H2O)4]}n·8n H2O (2)",
+      "synthesis_conditions": {
+        "description": "Produced as the second of at least four crystalline products from the reaction mixture described in the Supporting Information.",
+        "structure_details": "The basic building block is an [Mn4(citr)4]8- cluster assembled into a polymer. There are 29 H2O units per formula unit, with 21 as aqua ligands and 9 free water sites."
+      }
+    }
+  ]
+}

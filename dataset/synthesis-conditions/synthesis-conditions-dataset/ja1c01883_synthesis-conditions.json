@@ -1,0 +1,87 @@
+{
+  "materials": [
+    {
+      "name": "V2Cl2.8(btdd)",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "10 ml"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "VCl2(tmeda)2",
+            "amount": "90.0 mg, 0.254 mmol"
+          },
+          {
+            "name": "dimethylformamidium trifluoromethanesulfonate",
+            "amount": "266 mg, 1.20 mmol"
+          },
+          {
+            "name": "H2(btdd)",
+            "amount": "20.0 mg, 0.0752 mmol"
+          }
+        ],
+        "steps": [
+          {
+            "action": "mix and heat",
+            "temperature": "120 °C",
+            "time": "7 days"
+          },
+          {
+            "action": "wash with DMF",
+            "temperature": "120 °C",
+            "repetitions": "5 times",
+            "time_each": "24 h"
+          },
+          {
+            "action": "wash with methanol",
+            "temperature": "60 °C",
+            "repetitions": "5 times",
+            "time_each": "12 h"
+          },
+          {
+            "action": "heat under dynamic vacuum",
+            "temperature": "180 °C",
+            "time": "36 h"
+          }
+        ],
+        "yield": "20 mg"
+      },
+      "low_pressure_hydrogen_adsorption": {
+        "temperature_range": "273 to 298 K",
+        "method": "volumetric",
+        "equipment": [
+          "Micromeritics ASAP2020",
+          "Micromeritics 3Flex gas sorption analyzer"
+        ]
+      },
+      "high_pressure_hydrogen_isotherms": {
+        "temperature_range": "208 to 313 K",
+        "pressure_range": "1 bar to 150 bar",
+        "method": "volumetric",
+        "equipment": "HPVA II-200"
+      },
+      "powder_x-ray_diffraction": {
+        "temperature": "100 K",
+        "equipment": "Beamline 17-BM at the Advanced Photon Source, Argonne National Laboratory",
+        "wavelength": "0.45236 Å"
+      },
+      "powder_neutron_diffraction": {
+        "temperature": "100 K",
+        "equipment": "high-resolution neutron powder diffractometer BT-1 at the National Institute of Standards and Technology Center for Neutron Research",
+        "wavelength": "2.0775 Å"
+      },
+      "infrared_spectroscopy": {
+        "temperature_range": "97 to 120 K",
+        "equipment": "Bruker Vertex 70 spectrometer"
+      },
+      "electronic_structure_calculations": {
+        "method": "Density Functional Theory",
+        "functional": "ωB97M-v",
+        "basis_set": "crenbl"
+      }
+    }
+  ]
+}

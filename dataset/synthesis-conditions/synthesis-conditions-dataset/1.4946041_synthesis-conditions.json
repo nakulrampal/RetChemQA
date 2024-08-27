@@ -1,0 +1,60 @@
+{
+  "materials": [
+    {
+      "name": "[Nd(C4H5O6)(C4H4O6)][3H2O]",
+      "synthesis_conditions": {
+        "equipment": [
+          {
+            "name": "Bruker Kappa Appex II X-ray diffractometer",
+            "details": "using the Mo Ka radiation (k = 0.71073 A)"
+          },
+          {
+            "name": "6440B Wayne Kerr precision component analyzer",
+            "details": "used for measuring temperature and frequency dependence of real and imaginary parts of dielectric constant and ac conductivity"
+          },
+          {
+            "name": "computer-controlled modified Sawyer–Tower circuit",
+            "details": "used for measuring electric hysteresis loops"
+          }
+        ],
+        "preparation_details": [
+          {
+            "step": "Pellet preparation",
+            "details": "Single crystals were finely grinded and transformed into pellets under 10 MPa stress. Pellets were electroded using a high grade silver paste on both the facets and dried at room temperature."
+          },
+          {
+            "step": "Measurement conditions",
+            "details": "Measurements were carried out in liquid nitrogen at temperature steps of 5 K, with the frequency fixed at 50 Hz and the samples submerged in insulating oil."
+          }
+        ],
+        "theoretical_details": [
+          {
+            "method": "Sparkle/PM7, Sparkle/RM1, Sparkle/AM1",
+            "details": "Used to optimize the geometry of the unit cell of the metal organic framework, [Nd(C4H5O6)(C4H4O6)][3H2O]. The experimentally obtained crystallographic data were used as an initial guess."
+          }
+        ],
+        "ground_state_molecular_properties": {
+          "enthalpy_of_formation_heat_of_formation": {
+            "Sparkle/PM7": "-2524 kJ/mol",
+            "Sparkle/RM1": "-3614 kJ/mol",
+            "Sparkle/AM1": "-7723 kJ/mol"
+          },
+          "first_ionization_energy": {
+            "Sparkle/PM7": "10.463 eV",
+            "Sparkle/RM1": "9.938 eV",
+            "Sparkle/AM1": "9.207 eV"
+          },
+          "dipole_moment": {
+            "Sparkle/PM7": {
+              "total": "11.838 D",
+              "components": {
+                "lQ": "9.875 D",
+                "lH": "1.994 D"
+              }
+            }
+          }
+        }
+      }
+    }
+  ]
+}

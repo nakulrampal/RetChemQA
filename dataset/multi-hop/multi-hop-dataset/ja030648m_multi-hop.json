@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the manganese(II) octacyanotungstate(V)-based magnet containing a noncoordinated aromatic molecule discussed in the article?",
+      "answer": "[{MnII(pyrimidine)(H2O)}2{MnII(H2O)2}{WV(CN)8}2](pyrimidine)2·2H2O",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the transition temperature (Tc) and the saturation magnetization (Ms) value at 2 K for the compound mentioned?",
+      "answer": "Tc is 47 K and Ms value is 13.0 μB",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of magnetic interaction operates between the WV and MnII ions in the compound?",
+      "answer": "An antiferromagnetic interaction operates between the WV and MnII ions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Based on the synthesis conditions, what is the yield percentage of the compound?",
+      "answer": "The yield percentage of the compound is 36%.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the coordination geometries of Mn and W sites in the compound?",
+      "answer": "The coordination geometries of Mn (Mn1 and Mn2) and W sites are pseudo-octahedron (D4h) and bicapped trigonal prism (C2v), respectively.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the coercive field (Hc) at 2 K for the compound?",
+      "answer": "The coercive field (Hc) at 2 K is 17 G.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the magnetic interaction through the Mn2 pillar complex affect the Tc value of the compound compared to CsI[{MnII(3-cyanopyridine)2{WV(CN)8}}·H2O?",
+      "answer": "The Tc value of 47 K is higher than that of CsI[{MnII(3-cyanopyridine)2{WV(CN)8}}·H2O (Tc= 35 K) because the magnetic interaction between layers through the Mn2 pillar complex is added.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role does the noncoordinated pyrimidine molecule play in the structure of the compound?",
+      "answer": "The noncoordinated pyrimidine molecule occupies the one-dimensional channels in the structure, contributing to the pillared layer magnetic material's unique properties.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the magnetic interaction between Mn1 and Mn2 through coordinated pyrimidine molecule considered strong?",
+      "answer": "No, the magnetic interaction between Mn1 and Mn2 through coordinated pyrimidine molecule is considered very small because the distance through bonds is too long.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the compound exhibit ferromagnetism?",
+      "answer": "False, the compound exhibits ferrimagnetism.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the synthesis of ferromagnetic metal-assembled complexes containing a noncoordinated molecule commonly reported?",
+      "answer": "False, the preparation of ferromagnetic metal-assembled complexes that contain a noncoordinated molecule is difficult and rarely reported.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the compound have a three-dimensional (3-D) coordination geometry?",
+      "answer": "False, the compound has a two-dimensional (2-D) cyano-bridged Mn1−W grid layer linked by a Mn2 pillar, resulting in a pillared layer structure.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the magnetic phased transition temperature (Tc) of the compound lower than 35 K?",
+      "answer": "False, the magnetic phased transition temperature (Tc) of the compound is 47 K.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the positions of the noncoordinated pyrimidine molecules in the channel structure random?",
+      "answer": "False, the positions of the noncoordinated pyrimidine molecules are governed by the hydrogen bond between the nitrogen atom of pyrimidine and the ligand water molecule of Mn1.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the synthesis of the compound conducted at high temperature?",
+      "answer": "False, the compound was prepared at room temperature.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the DV-Xα calculation mentioned in the supporting information?",
+      "answer": "The DV-Xα calculation suggests the magnetic orbitals involved and supports the antiferromagnetic superexchange interaction between the W and Mn ions, explaining the compound's ferrimagnetism.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of noncoordinated pyrimidine molecules affect the magnetic properties of the compound?",
+      "answer": "The presence of noncoordinated pyrimidine molecules in the one-dimensional channels does not directly affect the magnetic properties but contributes to the structural integrity of the pillared layer magnetic material.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the CsI3[WV(CN)8]·2H2O precursor in the synthesis of the compound?",
+      "answer": "The CsI3[WV(CN)8]·2H2O precursor provides the WV(CN)8 units necessary for forming the cyano-bridged bimetallic layer structure of the compound.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the compound's structure allow for gas storage capabilities?",
+      "answer": "While the article does not explicitly mention gas storage, the presence of one-dimensional channels occupied by noncoordinated pyrimidine suggests potential for functionalities like gas storage.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the compound [{MnII(pyrimidine)(H2O)}2{MnII(H2O)2}{WV(CN)8}2](pyrimidine)2·2H2O a high-yield synthesis product?",
+      "answer": "The compound is synthesized with a 36% yield, which may not be considered high yield in all contexts.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

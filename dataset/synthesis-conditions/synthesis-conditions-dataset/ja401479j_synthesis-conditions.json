@@ -1,0 +1,75 @@
+{
+  "materials": [
+    {
+      "name": "ASMOF-5 crystals",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "L1",
+            "amount": "12.4 mg",
+            "molar_amount": "40.0 µmol"
+          },
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "36.0 mg",
+            "molar_amount": "121.0 µmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "N,N-diethylformamide (DEF) and methanol",
+            "volume": "2 mL",
+            "ratio": "2:1, v/v"
+          }
+        ],
+        "temperature": "85 °C",
+        "time": "20 hrs",
+        "equipment": "Pyrex glass tube",
+        "atmosphere": "sealed tube",
+        "yield": "12.5 mg, 56% yield based on L1"
+      }
+    },
+    {
+      "name": "Activated ASMOF-5 crystals",
+      "synthesis_conditions": {
+        "starting_material": "ASMOF-5 crystals",
+        "washing_solvents": [
+          {
+            "name": "anhydrous DMF",
+            "volume": "2 × 8 mL",
+            "soaking_time": "12 hours"
+          },
+          {
+            "name": "anhydrous dichloromethane",
+            "volume": "6 × 8 mL",
+            "soaking_time": "8 hours"
+          }
+        ],
+        "drying_method": "evacuated with an oil pump at room temperature for 2 hours",
+        "final_product": "Zn4O·L3·(H2O)2 as yellowish crystalline cubes"
+      }
+    },
+    {
+      "name": "PdCl2 loaded ASMOF-5",
+      "synthesis_conditions": {
+        "starting_material": "Activated ASMOF-5 crystals",
+        "chemicals_used": [
+          {
+            "name": "Pd(CH3CN)2Cl2",
+            "condition": "saturated acetonitrile solution"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "anhydrous acetonitrile",
+            "volume": "5.0 mL"
+          }
+        ],
+        "temperature": "room temperature",
+        "time": "5 days",
+        "washing_method": "washed with 10 mL anhydrous acetonitrile",
+        "final_product": "54.3 mg of deeper red crystals"
+      }
+    }
+  ]
+}

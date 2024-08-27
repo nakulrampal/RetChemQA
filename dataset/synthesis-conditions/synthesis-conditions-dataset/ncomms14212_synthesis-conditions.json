@@ -1,0 +1,68 @@
+{
+  "MFM-300(VIII)": {
+    "synthesis_conditions": {
+      "temperature": "210°C",
+      "solvents": [
+        {
+          "name": "water",
+          "amount": "5.0 ml"
+        },
+        {
+          "name": "hydrochloric acid",
+          "amount": "1.6 M, 1.0 ml"
+        }
+      ],
+      "equipment": "23 ml Teflon lined autoclave",
+      "chemicals_used": [
+        {
+          "name": "VCl3",
+          "amount": "0.076 g, 0.48 mmol"
+        },
+        {
+          "name": "biphenyl-3,30,5,50-tetracarboxylic acid",
+          "amount": "0.010 g, 0.03 mmol"
+        }
+      ],
+      "time": "3 days",
+      "yield": "ca. 90%",
+      "drying_method": "soaked in fresh N,N0-dimethylformamide (DMF) overnight, collected by filtration, stored under acetone",
+      "additional_information": "Oxygen-free conditions are necessary to prevent oxidation of VIII centers during the hydrothermal process."
+    },
+    "post_synthetic_modifications": {
+      "oxidation_to_MFM-300(VIV)": {
+        "temperature": "150°C",
+        "atmosphere": "O2 flow",
+        "time": "16 h",
+        "equipment": "tube furnace",
+        "result": "dark purple solid, stored under N2 in a glovebox"
+      }
+    }
+  },
+  "MFM-300(VIV)": {
+    "synthesis_conditions": {
+      "note": "MFM-300(VIV) is obtained by post-synthetic oxidation of MFM-300(VIII) and cannot be directly synthesized using VOSO4 or VO2 salts."
+    },
+    "reduction_to_MFM-300(VIII)": {
+      "reagents": "Na2SO3 in aqueous solution",
+      "result": "Partial decomposition of the framework occurs, quantitative reduction not achieved."
+    }
+  },
+  "gas_adsorption_analysis": {
+    "N2_adsorption": {
+      "temperature": "77 K",
+      "result": "No significant adsorption uptake due to activation diffusion effect caused by narrow pore size."
+    },
+    "CO2_adsorption": {
+      "MFM-300(VIII)": {
+        "uptake_capacity": "8.6 mmol g-1 at 273 K and 1.0 bar",
+        "isosteric_heat_of_adsorption": "27.5–32 kJ mol-1",
+        "binding_energy_by_DFT": "34.9 kJ mol-1"
+      },
+      "MFM-300(VIV)": {
+        "uptake_capacity": "3.54 mmol g-1 at 298 K and 1.0 bar",
+        "isosteric_heat_of_adsorption": "24–29 kJ mol-1",
+        "binding_energy_by_DFT": "29.7 kJ mol-1"
+      }
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are the emission colors of HNU-82, HNU-83, and HNU-84 under ultraviolet excitation?",
+      "answer": "HNU-82 displays green light, HNU-83 displays red light, and HNU-84 displays blue light.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the purpose of adjusting the proportion of rare earth ions in the synthesis of Ln–MOF?",
+      "answer": "The purpose is to design and synthesize a Ln–MOF that emits single-phase white fluorescence by reasonably adjusting the proportion of adding rare earth ions based on the RGB principle.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the synthesized Eu0.015Tb0.037La0.148-TCA a pure phase material?",
+      "answer": "True. The PXRD pattern of the synthesized Eu0.015Tb0.037La0.148-TCA is consistent with the simulated ones of HNU-82–84, proving it is a pure phase.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the detection limit of HNU-82 for NZF and NFT in aqueous solution?",
+      "answer": "The detection limits for NZF and NFT are 6.60 × 10−7 mol L−1 and 4.62 × 10−7 mol L−1, respectively.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the fluorescence detection mechanism of HNU-82 work for antibiotics like NZF and NFT?",
+      "answer": "The fluorescence detection mechanism involves photoinduced electron transfer (PET) and competitive absorption, where excited electrons in HNU-82's structure are transferred to NZF and NFT, leading to fluorescence quenching.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can HNU-82 maintain its structural integrity after detecting NZF and NFT?",
+      "answer": "True. After the detection of antibiotics, the PXRD pattern of HNU-82 remained basically unchanged, indicating that its skeleton structure remained intact.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of H3TCA in the synthesis of Ln–MOFs?",
+      "answer": "H3TCA acts as a ligand that can sensitize rare-earth ions through the 'antenna benefit', facilitating the design of single-phase white light Ln–MOF.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the CIE chromaticity coordinates (0.319, 0.344) for Eu0.015Tb0.037La0.148-TCA?",
+      "answer": "The CIE chromaticity coordinates (0.319, 0.344) indicate that Eu0.015Tb0.037La0.148-TCA emits light that is quite close to the ideal white light, making it suitable for WLED applications.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the preparation of WLEDs involve the use of Ln–MOFs?",
+      "answer": "True. Ln–MOFs, due to their adjustable structure and efficient energy transfer, are considered promising materials for WLED applications.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What challenges are associated with the physical mixing method in the preparation of white fluorescent materials?",
+      "answer": "The physical mixing method faces challenges such as the difficult dispersion of doped components into the carrier and achieving thermodynamically stable composite materials, leading to reduced luminescence efficiency.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the 'antenna effect' contribute to the luminescence of Ln–MOFs?",
+      "answer": "The 'antenna effect' allows Ln–MOFs to be sensitized by organic ligands, transferring energy to metal ion centers like Eu3+ and Tb3+ through the ligands, resulting in characteristic emission.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the luminescence efficiency of single-phase materials higher than that of multiphase materials?",
+      "answer": "True. Single-phase materials with uniform emission of white light are proposed as candidates for obtaining controllable white light materials with high luminous efficiency, compared to multiphase materials.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of triphenylamine (TPA) in the context of organic light-emitting diode (OLED) devices?",
+      "answer": "Triphenylamine (TPA) is widely used as a hole-transport material in OLED devices due to its relatively high tendency to provide electrons in an electric field.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the synthesis process of Ln–MOFs enable the modulation of fluorescence emission?",
+      "answer": "The synthesis process allows for the substitution of Tb3+, Eu3+, and La3+ for each other in Ln–MOF due to their similar coordination environments, enabling fluorescence modulation by varying the lanthanide ion ratio.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are Ln–MOFs considered more promising for WLED applications than traditional inorganic single-phase materials?",
+      "answer": "True. Ln–MOFs are regarded as more promising luminescent materials for WLED applications than traditional inorganic single-phase materials due to their adjustable structure and wide luminescence range.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the CIE color coordinate (0.333, 0.333) in the context of white light?",
+      "answer": "The CIE color coordinate (0.333, 0.333) represents the ideal color coordinate for white light, indicating a balanced mix of colors that appears white to the human eye.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of nitro groups in NZF and NFT contribute to the fluorescence quenching of HNU-82?",
+      "answer": "The nitro groups in NZF and NFT, being electron-deficient compounds, can lead to the transfer of excited electrons from the conjugated structure of triphenylamine in HNU-82 to NZF and NFT, resulting in fluorescence quenching.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can HNU-82 detect antibiotics in water with high selectivity?",
+      "answer": "True. HNU-82 has demonstrated the ability to detect antibiotics like NZF and NFT in water with high selectivity and efficiency, making it a potential fluorescent sensor for aquatic environments.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What challenges are faced in the construction of high-quality single-phase white light materials for WLEDs?",
+      "answer": "The construction of high-quality single-phase white light materials for WLEDs faces challenges such as achieving color stability, reducing color difference, and maintaining high luminescence efficiency.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the synthesis of HNU-82 involve the use of DMF and deionized water?",
+      "answer": "True. The synthesis of HNU-82 involves dissolving H3TCA in DMF and Tb(NO3)3·6H2O in deionized water, followed by mixing and heating, indicating the use of both DMF and deionized water in the process.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

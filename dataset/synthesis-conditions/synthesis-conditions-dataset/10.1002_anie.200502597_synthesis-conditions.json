@@ -1,0 +1,57 @@
+{
+  "materials": [
+    {
+      "name": "[CuCl2(dace)]1",
+      "synthesis_conditions": {
+        "precursor": "[CuCl2(dace)]1·n H2O",
+        "method": "mild thermal treatment",
+        "details": "The hydrated precursor is prepared by manual kneading of solid CuCl2 and dace in the presence of a small quantity of water."
+      }
+    },
+    {
+      "name": "[CuCl2(dace)]1·n H2O",
+      "synthesis_conditions": {
+        "chemicals_used": ["CuCl2", "dace"],
+        "solvent": "water",
+        "amount_of_solvent": "0.5 mL",
+        "method": "manual kneading",
+        "time": "5–10 min",
+        "drying_method": "thermal and vacuum treatment",
+        "drying_temperature": "100 8C",
+        "drying_time": "5 h"
+      }
+    },
+    {
+      "name": "[CuCl2(dace)(dmso)]1",
+      "synthesis_conditions": {
+        "chemicals_used": ["CuCl2", "dace"],
+        "solvent": "DMSO",
+        "method": "kneading",
+        "alternative_method": "mixing in DMSO",
+        "yield": "92 %",
+        "form": "insoluble purple microcrystalline powder"
+      }
+    },
+    {
+      "name": "1·n(guest)",
+      "synthesis_conditions": {
+        "base_material": "1",
+        "method": "kneading with different solvents",
+        "time": "1–6 h",
+        "additional_step": "suspension in the appropriate solvent for 12 h",
+        "drying_method": "treatment under vacuum",
+        "drying_temperature": "100 8C",
+        "drying_time": "3 h"
+      }
+    },
+    {
+      "name": "Three-phase crystallization of 2",
+      "synthesis_conditions": {
+        "solvents_used": ["DMSO", "methanol/DMSO (1:1)", "methanol"],
+        "method": "layering in three phases",
+        "time": "3 days",
+        "result": "light-purple powder formation"
+      }
+    }
+  ]
+}

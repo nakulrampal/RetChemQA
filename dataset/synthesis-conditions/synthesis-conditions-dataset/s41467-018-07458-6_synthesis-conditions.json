@@ -1,0 +1,86 @@
+{
+  "materials": [
+    {
+      "name": "mm-2–Mg2(dobpdc)",
+      "synthesis_conditions": [
+        {
+          "step": "Diamine functionalization",
+          "chemicals_used": [
+            {
+              "name": "N,N-dimethylethylenediamine",
+              "amount": "3 mL",
+              "details": "mixed with 10 mL of toluene"
+            },
+            {
+              "name": "Methanol-solvated Mg2(dobpdc)",
+              "amount": "~100 mg",
+              "details": "filtered and washed with toluene before addition to diamine solution"
+            }
+          ],
+          "time": "24 hours",
+          "temperature": "room temperature",
+          "solvent": "Toluene",
+          "equipment": "20 mL scintillation vial",
+          "atmosphere": "N2",
+          "washing_method": "Toluene washes followed by drying under flowing N2 at 100 °C for 2 hours"
+        }
+      ],
+      "characterization_methods": [
+        {
+          "method": "FT–IR Spectroscopy",
+          "details": "Transmittance mode, spectra collected after various treatments including activation, CS2 dosing, water dosing, and CS2 dosing after water saturation."
+        },
+        {
+          "method": "77 K N2 adsorption",
+          "details": "Measured to verify porosity and calculate BET surface area."
+        }
+      ]
+    },
+    {
+      "name": "Mg2(dobpdc)",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "chemicals_used": [
+            {
+              "name": "Mg(NO3)2·6H2O",
+              "amount": "5.75 g",
+              "details": "1.24 eq."
+            },
+            {
+              "name": "4,4′-dihydroxy-(1,1′-biphenyl)-3,3′-dicarboxylic acid (H4dobpdc)",
+              "amount": "4.95 g",
+              "details": "1.00 eq."
+            },
+            {
+              "name": "N,N-dimethylformamide (DMF)",
+              "amount": "45 mL",
+              "details": null
+            },
+            {
+              "name": "Methanol",
+              "amount": "55 mL",
+              "details": null
+            }
+          ],
+          "time": "14 hours",
+          "temperature": "120 °C",
+          "solvent": "DMF and Methanol",
+          "equipment": "300 mL high-pressure reaction vessel",
+          "atmosphere": "N2",
+          "washing_method": "Sequential washes with DMF and Methanol at 60 °C"
+        }
+      ],
+      "characterization_methods": [
+        {
+          "method": "FT–IR Spectroscopy",
+          "details": "Transmittance mode, spectra collected after various treatments including activation, CS2 dosing, water dosing, and CS2 dosing after water saturation."
+        },
+        {
+          "method": "77 K N2 adsorption",
+          "details": "Measured to verify porosity and calculate BET surface area."
+        }
+      ]
+    }
+  ]
+}

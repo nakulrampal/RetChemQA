@@ -1,0 +1,73 @@
+{
+  "materials": [
+    {
+      "name": "SIFSIX-23-Cu-α",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "MeOH/H2O",
+            "amount": "6 mL of mixed MeOH/water (1:1)"
+          },
+          {
+            "name": "MeOH",
+            "amount": "5 mL"
+          }
+        ],
+        "equipment": "Glass tube",
+        "chemicals_used": [
+          {
+            "name": "CuSiF6·H2O",
+            "amount": "22 mg, 0.1 mmol"
+          },
+          {
+            "name": "bi-imidazolyl ligand",
+            "amount": "42 mg, 0.2 mmol"
+          }
+        ],
+        "time": "Three weeks",
+        "yield": "ca. 61%",
+        "washing_method": "Washed with MeOH",
+        "drying_method": "Air drying"
+      }
+    },
+    {
+      "name": "SIFSIX-23-Cu-γ1",
+      "synthesis_conditions": {
+        "description": "Single crystals of SIFSIX-23-Cu-α are prone to lose guest molecules in air at RT. When fresh crystals of SIFSIX-23-Cu-α were filtered from reaction solution and dried in air for about 1 day, SCXRD demonstrated the formation of a new phase, SIFSIX-23-Cu-γ1."
+      }
+    },
+    {
+      "name": "SIFSIX-23-Cu-γ2",
+      "synthesis_conditions": {
+        "temperature": "60 oC",
+        "time": "About 2 hours",
+        "description": "Heating the air dried sample at 60 oC for about 2 hours resulted in the isolation of SIFSIX-23-Cu-γ2."
+      }
+    },
+    {
+      "name": "SIFSIX-23-Cu-γ3",
+      "synthesis_conditions": {
+        "temperature": "80 oC",
+        "time": "2 hours",
+        "description": "Further heating the air dried sample or the SIFSIX-23-Cu-γ2 phase at 80 oC for 2 hours produced SIFSIX-23-Cu-γ3."
+      }
+    },
+    {
+      "name": "SIFSIX-23-Cu-β1",
+      "synthesis_conditions": {
+        "temperature": "120 oC",
+        "time": "3 hours",
+        "description": "Heating the air dried sample or the isolated intermediate phases at 120 oC for 3 hours resulted in the generation of the SIFSIX-23-Cu-β1 phase."
+      }
+    },
+    {
+      "name": "SIFSIX-23-Cu-β2",
+      "synthesis_conditions": {
+        "temperature": "160 oC",
+        "time": "Overnight",
+        "description": "Heating the air dried sample or the isolated intermediate phases at 160 oC overnight produced the SIFSIX-23-Cu-β2 phase."
+      }
+    }
+  ]
+}

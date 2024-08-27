@@ -1,0 +1,100 @@
+{
+  "materials": [
+    {
+      "name": "TPTC@ K+-(18c6) (1)",
+      "synthesis_conditions": {
+        "reagents": [
+          {
+            "name": "2,4,6-tri(4-pyridyl)-1,3,5-triazine (TPT)",
+            "amount": "not specified"
+          },
+          {
+            "name": "potassium",
+            "amount": "1.2 equivalents"
+          },
+          {
+            "name": "18c6",
+            "amount": "not specified"
+          }
+        ],
+        "solvent": "not specified",
+        "temperature": "not specified",
+        "time": "not specified",
+        "yield": "considerable",
+        "other_conditions": "presence of 18c6"
+      }
+    },
+    {
+      "name": "TPTCC2@K+2(18c6)2(THF) (3)",
+      "synthesis_conditions": {
+        "reagents": [
+          {
+            "name": "2,4,6-tri(4-pyridyl)-1,3,5-triazine (TPT)",
+            "amount": "not specified"
+          },
+          {
+            "name": "potassium graphite",
+            "amount": "2.4 equivalents"
+          },
+          {
+            "name": "18c6",
+            "amount": "not specified"
+          }
+        ],
+        "solvent": "tetrahydrofuran (THF)",
+        "temperature": "not specified",
+        "time": "not specified",
+        "yield": "considerable",
+        "other_conditions": "presence of 18c6"
+      }
+    },
+    {
+      "name": "TPTC-Na+ (15c5) (2)",
+      "synthesis_conditions": {
+        "reagents": [
+          {
+            "name": "2,4,6-tri(4-pyridyl)-1,3,5-triazine (TPT)",
+            "amount": "not specified"
+          },
+          {
+            "name": "Na+(C8H10)C@",
+            "amount": "not specified"
+          },
+          {
+            "name": "15c5",
+            "amount": "not specified"
+          }
+        ],
+        "solvent": "tetrahydrofuran (THF)",
+        "temperature": "not specified",
+        "time": "not specified",
+        "yield": "brown crystals after filtration and concentration",
+        "other_conditions": "presence of 15c5"
+      }
+    },
+    {
+      "name": "complexes 4 and 5",
+      "synthesis_conditions": {
+        "reagents": [
+          {
+            "name": "2,4,6-tri(4-pyridyl)-1,3,5-triazine (TPT)",
+            "amount": "not specified"
+          },
+          {
+            "name": "potassium",
+            "amount": "not specified for 4"
+          },
+          {
+            "name": "Na+(C8H10)C@",
+            "amount": "not specified for 5"
+          }
+        ],
+        "solvent": "not specified",
+        "temperature": "not specified",
+        "time": "not specified",
+        "yield": "relatively low",
+        "other_conditions": "absence of crown ethers"
+      }
+    }
+  ]
+}

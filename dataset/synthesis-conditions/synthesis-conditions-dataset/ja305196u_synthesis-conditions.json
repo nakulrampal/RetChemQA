@@ -1,0 +1,69 @@
+{
+  "materials": [
+    {
+      "name": "[NH4][Zn(HCOO)3]",
+      "synthesis_conditions": [
+        {
+          "step": "General Information and Synthesis",
+          "details": {
+            "method": "Synthesized according to the literature method",
+            "reference": "1"
+          }
+        },
+        {
+          "step": "Single Crystal X-ray Crystallography Study",
+          "details": {
+            "equipment": [
+              "Oxford CCD diffractometer",
+              "Bruker SMART 1K CCD area-detector diffractometer"
+            ],
+            "radiation": [
+              "Mo-Kα (λ= 0.71073 Å)",
+              "Ag Kα1 (λ = 0.56086 Å)"
+            ],
+            "temperature": "295 K",
+            "pressure_calibration": "Ruby R1 fluorescence",
+            "pressure_range": "ambient pressures to 1.35 GPa",
+            "solvent": "paraffin",
+            "solvent_purpose": "hydrostatic medium",
+            "software": [
+              "CrysAlisPro",
+              "RLATT",
+              "ECLIPSE",
+              "SAINT",
+              "SADABS",
+              "Olex2",
+              "SHELX"
+            ]
+          }
+        },
+        {
+          "step": "Nanoindentation Methodology on Single Crystals",
+          "details": {
+            "equipment": "MTS NanoIndenter® XP",
+            "tip": "Berkovich tip (tip radius ~100 nm)",
+            "mode": "Continuous Stiffness Measurement (CSM) module",
+            "temperature": "ambient",
+            "analysis_method": "Oliver and Pharr method",
+            "indentation_facets": [
+              "{002}",
+              "{010}"
+            ],
+            "reference": "10"
+          }
+        },
+        {
+          "step": "Computational Methodology",
+          "details": {
+            "software": "CP2K-QuickStep",
+            "method": "GGA-DFT level with the PBE functional corrected for dispersion interactions",
+            "basis_set": "valence Gaussian basis set of double-ζ quality with polarization functions",
+            "pseudopotentials": "Goedecker-Teter-Hutter pseudopotentials",
+            "pressure_range": "0-4 GPa",
+            "simulation_cell": "2x2x2 simulation cell comprised of 288 atoms"
+          }
+        }
+      ]
+    }
+  ]
+}

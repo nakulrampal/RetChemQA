@@ -1,0 +1,24 @@
+{
+  "NTHU-6": {
+    "synthesis_conditions": {
+      "temperature": "180 °C",
+      "time": "48 h",
+      "solvents": "H2O",
+      "amount_of_solvents": "molar ratio of tmdp:Ga2O3:oxalic acid:H3PO4:H2O = 4.6:0.5:1.2:5:666",
+      "chemicals_used": [
+        "4,4‘-trimethylenedipyridine (tmdp)",
+        "Ga2O3",
+        "oxalic acid",
+        "H3PO4"
+      ],
+      "equipment": "mild hydrothermal condition",
+      "yield": "∼35% (based on the limiting reagent of Ga)",
+      "additional_information": "The product contained two phases: crystals of NTHU-6 and powders of GaPO4·2H2O."
+    },
+    "washing_method": "Not specified",
+    "drying_method": "Not specified"
+  },
+  "tmdp_extraction": {
+    "procedure": "Concentrated HCl(aq) was added to a powder sample of NTHU-6 until complete dissolution. NaHCO3 was then added to convert H2tmdp2+ into neutral tmdp. Extraction was achieved by adding dichloromethane, collecting the organic layer, and evaporating the solvent to obtain white precipitate of tmdp. Finally, tmdp was dissolved in D2O for 1H NMR measurements."
+  }
+}

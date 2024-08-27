@@ -1,0 +1,58 @@
+{
+  "materials": [
+    {
+      "name": "CUK-1(Co) single crystal",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "2,4-pyridinedicarboxylic acid (0.74 g, 4.43 mmol)",
+          "aqueous KOH solution (1.0 M, 18.0 cm3)",
+          "CoCl2·6H2O (1.428 g, 6.0 mmol)"
+        ],
+        "solvents": "H2O",
+        "amount_of_solvent": "36.0 cm3",
+        "temperature": "473 K",
+        "equipment": "100 cm3 Teflon-lined autoclave reactor",
+        "time": "48 h heating, 6 h cooling",
+        "washing_method": "ultrasonic treatment in H2O (100 cm3), 3 cycles of 20 s each",
+        "drying_method": "373 K for 12 h",
+        "yield": "Pure pink prismatic large crystals"
+      }
+    },
+    {
+      "name": "CUK-1(Co) powder sample",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "2,4-pyridinedicarboxylic acid (1.11 g, 6.64 mmol)",
+          "aqueous KOH solution (1.0 M, 18.0 cm3)",
+          "CoCl2·6H2O (2.142 g, 9.0 mmol)"
+        ],
+        "solvents": "H2O",
+        "amount_of_solvent": "36.0 cm3",
+        "temperature": "473 K",
+        "equipment": "100 cm3 Teflon-lined autoclave reactor",
+        "time": "15 h heating, 6 h cooling",
+        "washing_method": "ultrasonic treatment in H2O (100 cm3), 3 cycles of 20 s each",
+        "drying_method": "373 K for 12 h",
+        "yield": "Pure pink prismatic particles"
+      }
+    },
+    {
+      "name": "CUK-1(Mg) powder sample",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "2,4-pyridinedicarboxylic acid (1.59 mg, 8.57 mmol)",
+          "aqueous KOH solution (1.0 M, 27.4 cm3)",
+          "Mg(NO3)2·6H2O (3.08 g, 12.0 mmol)"
+        ],
+        "solvents": "H2O",
+        "amount_of_solvent": "56.4 cm3",
+        "temperature": "483 K",
+        "equipment": "100 cm3 Teflon-lined autoclave reactor",
+        "time": "15 h heating, 6 h cooling",
+        "washing_method": "sonication in fresh H2O (100 cm3), brief cycles followed by decantation",
+        "drying_method": "373 K for 12 h",
+        "yield": "Large, colourless prismatic particles"
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "materials": [
+    {
+      "name": "Ni-(4-pyridylcarboxylate)2",
+      "synthesis_conditions": {
+        "temperature": "150°C",
+        "solvents": [
+          {
+            "name": "tetrahydrofuran (THF)",
+            "amount": "1.5 ml"
+          },
+          {
+            "name": "water",
+            "amount": "2.5 ml"
+          },
+          {
+            "name": "methanol (MeOH)",
+            "amount": "2 ml"
+          }
+        ],
+        "equipment": "Teflon-lined Parr stainless steel autoclave",
+        "chemicals_used": [
+          {
+            "name": "nickel carbonate",
+            "amount": "0.119 g"
+          },
+          {
+            "name": "pyridine-4-carboxylic acid",
+            "amount": "0.244 g"
+          }
+        ],
+        "time": "72 hours",
+        "yield": "~85%",
+        "washing_method": "filtered and washed with water and methanol",
+        "drying_method": "air-dried",
+        "additional_information": "Presence of THF critical for phase formation. Nickel nitrate and other nickel salts did not result in a pure phase of 1. Initial pH 4.0; final pH ~5.0."
+      }
+    },
+    {
+      "name": "Ni-(4-pyridylcarboxylate)2 (Gram-scale synthesis)",
+      "synthesis_conditions": {
+        "temperature": "150°C",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "25 ml"
+          },
+          {
+            "name": "methanol (MeOH)",
+            "amount": "20 ml"
+          },
+          {
+            "name": "tetrahydrofuran (THF)",
+            "amount": "10 ml"
+          }
+        ],
+        "equipment": "123-ml Teflon-lined Parr stainless steel autoclave",
+        "chemicals_used": [
+          {
+            "name": "anhydrous nickel carbonate",
+            "amount": "2.975 g"
+          },
+          {
+            "name": "4-pyridinecarboxylic acid (4-PyC)",
+            "amount": "6.1 g"
+          }
+        ],
+        "time": "72 hours",
+        "yield": "~87%",
+        "washing_method": "filtered and washed with water and methanol",
+        "drying_method": "air-dried",
+        "additional_information": "Scale-up procedure easily achieved from 150 mg to 10-25 g. Product showed comparable crystallinity and similar gas sorption characteristics."
+      }
+    }
+  ]
+}

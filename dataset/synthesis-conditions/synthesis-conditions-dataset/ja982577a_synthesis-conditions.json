@@ -1,0 +1,74 @@
+{
+  "materials": [
+    {
+      "material_id": "1",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "chemical": "Co(NO3)2·6H2O",
+              "amount": "0.873 g",
+              "molarity": "3.0 mmol"
+            },
+            {
+              "chemical": "pyridine",
+              "amount": "0.32 mL",
+              "molarity": "4.0 mmol"
+            },
+            {
+              "chemical": "4,4‘-bipyridine",
+              "amount": "0.624 g",
+              "molarity": "4.0 mmol"
+            },
+            {
+              "chemical": "MeOH",
+              "amount": "10 mL",
+              "role": "solvent for Co(NO3)2·6H2O and pyridine"
+            },
+            {
+              "chemical": "benzene",
+              "amount": "10 mL",
+              "role": "solvent for 4,4‘-bipyridine"
+            }
+          ],
+          "temperature": "ambient conditions",
+          "time": "overnight",
+          "equipment": "reaction vessel",
+          "additional_procedure": "A solution of Co(NO3)2·6H2O and pyridine in MeOH was layered onto a solution of 4,4‘-bipyridine in benzene."
+        },
+        {
+          "step": 2,
+          "temperature": "ice bath",
+          "time": "after standing overnight",
+          "additional_procedure": "The reaction vessel was placed in an ice bath to induce crystallization."
+        }
+      ],
+      "yield": "two types of crystals, colored violet and peach, respectively",
+      "crystal_data": {
+        "color": "violet",
+        "stability": "stable for approximately 1 h in the absence of mother liquor",
+        "melting_point": "does not melt below 300 °C",
+        "formula": "[Co(4,4‘-bipyridine)1.5(NO3)2]n·1.5(benzene)",
+        "crystal_system": "monoclinic",
+        "space_group": "Cc",
+        "a": "21.4382(13) Å",
+        "b": "23.3175(12) Å",
+        "c": "10.7981(6) Å",
+        "beta": "110.113(10)°",
+        "V": "5068.6(5) Å3",
+        "Z": "8",
+        "Dc": "1.401 mg/m3",
+        "reflections_measured": "5195 out of 6749 with I > 2σ(Ι)",
+        "equipment": "Siemens SMART/CCD diffractometer",
+        "temperature_measurement": "203 K",
+        "R_factors": {
+          "R1": "0.0619",
+          "wR2": "0.1625"
+        },
+        "refinement": "Non-hydrogen atoms were refined anisotropically. Benzene guest molecules were refined as rigid hexagons with a C−C distance of 1.39 Å, and thermal parameters were allowed to refine anisotropically. Hydrogen atoms were fixed at calculated positions and refined using a riding model."
+      },
+      "notes": "The structure was also refined in centrosymmetric space groups C2/c and I2/a, but disordered guest molecules and relatively high R-factors were obtained."
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "materials": [
+    {
+      "name": "4,4′-Dihydroxy-(1,1′-biphenyl)-3,3′-dicarboxylic Acid (H4dobpdc)",
+      "synthesis_conditions": [
+        {
+          "temperature": "255 °C",
+          "solvents": [
+            {
+              "name": "1,2,4-trichlorobenzene",
+              "amount": "3 mL"
+            }
+          ],
+          "equipment": "PTFE insert within a steel acid digestion bomb (23 mL)",
+          "chemicals_used": [
+            {
+              "name": "4,4′-dihydroxybiphenyl",
+              "amount": "1.16 g, 6.24 mmol"
+            },
+            {
+              "name": "KHCO3",
+              "amount": "2.00 g, 20.0 mmol"
+            },
+            {
+              "name": "dry ice",
+              "amount": "4 g"
+            }
+          ],
+          "time": "17 h",
+          "washing_method": "vacuum filtration and washed with diethyl ether",
+          "drying_method": "suspended in 300 mL of distilled water and filtered again",
+          "yield": "0.68 g (40%)",
+          "additional_steps": [
+            {
+              "step": "Acidification",
+              "details": "Neat HCl was slowly added until a pH between 1 and 2 was reached"
+            },
+            {
+              "step": "Recrystallization",
+              "details": "Using 50 mL of acetone and 50 mL of water per gram of crude material"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zn2(dobpdc)(DEF)2·DEF·H2O (DEF-1)",
+      "synthesis_conditions": [
+        {
+          "temperature": "100 °C",
+          "solvents": [
+            {
+              "name": "mixed solvent (1:1 DEF:EtOH)",
+              "amount": "0.5 mL"
+            }
+          ],
+          "equipment": "2-mL Pyrex tube",
+          "chemicals_used": [
+            {
+              "name": "H4dobpdc",
+              "amount": "4.0 mg, 0.015 mmol"
+            },
+            {
+              "name": "ZnBr2·2H2O",
+              "amount": "8.9 mg, 0.034 mmol"
+            }
+          ],
+          "time": "72 h",
+          "washing_method": "isolated by filtration and washed with hot DEF",
+          "yield": "3.7 mg (35%)"
+        }
+      ]
+    },
+    {
+      "name": "Mg2(dobpdc)(DEF)2·DEF1.5·H2O (DEF-2)",
+      "synthesis_conditions": [
+        {
+          "temperature": "120 °C",
+          "solvents": [
+            {
+              "name": "solvent (1:1 DEF:EtOH)",
+              "amount": "3 mL"
+            }
+          ],
+          "equipment": "10-mL Pyrex cell, microwave reactor (CEM Discover)",
+          "chemicals_used": [
+            {
+              "name": "H4dobpdc",
+              "amount": "24 mg, 0.088 mmol"
+            },
+            {
+              "name": "MgBr2·6H2O",
+              "amount": "60 mg, 0.21 mmol"
+            }
+          ],
+          "time": "30 min",
+          "washing_method": "collected via filtration and washed with hot DEF",
+          "drying_method": "dried under vacuum",
+          "yield": "57.5 mg (95%)",
+          "additional_steps": [
+            {
+              "step": "Activation",
+              "details": "Heating at 420 °C for 65 min in vacuo yielded the fully activated adsorbent Mg2(dobpdc) (2)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mg2(dobpdc)(mmen)1.6(H2O)0.4 (mmen-Mg2(dobpdc) or mmen-2)",
+      "synthesis_conditions": [
+        {
+          "temperature": "100 °C",
+          "solvents": [
+            {
+              "name": "anhydrous hexane",
+              "amount": "not specified"
+            }
+          ],
+          "equipment": "not specified",
+          "chemicals_used": [
+            {
+              "name": "fully activated 2",
+              "amount": "77 mg, 0.24 mmol"
+            },
+            {
+              "name": "N,N′-dimethylethylenediamine (mmen)",
+              "amount": "0.53 mL, 4.8 mmol"
+            }
+          ],
+          "time": "one day",
+          "washing_method": "filtered, and rinsed copiously with hexanes",
+          "drying_method": "evacuated of residual solvents at 100 °C for 24 h",
+          "yield": "87 mg (77%)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "materials": [
+    {
+      "name": "CoHPW12O40·nH2O",
+      "synthesis_conditions": {
+        "temperature": "80°C",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "1.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "α-H3PW12O40·6H2O",
+            "amount": "90 mg",
+            "mmol": "0.03 mmol"
+          },
+          {
+            "name": "CoCl2·6H2O",
+            "amount": "7.5 mg",
+            "mmol": "0.03 mmol"
+          }
+        ],
+        "equipment": "water bath",
+        "time": "until dryness"
+      }
+    },
+    {
+      "name": "[Co4(dpdo)12][H(H2O)27(CH3CN)12][PW12O40]3",
+      "synthesis_conditions": {
+        "method": "layering method",
+        "solvents": [
+          {
+            "name": "acetonitrile/water",
+            "ratio": "3:2",
+            "volume": "10 mL"
+          },
+          {
+            "name": "acetonitrile/water",
+            "ratio": "6:2",
+            "volume": "4 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "4,4´-bipyridine-N,N´-dioxide hydrate",
+            "amount": "0.1 mmol",
+            "mg": "22 mg"
+          },
+          {
+            "name": "CoHPW12O40·nH2O"
+          }
+        ],
+        "yield": "83%",
+        "time": "2 weeks"
+      }
+    }
+  ],
+  "physical_measurements": {
+    "elemental_analysis": {
+      "equipment": "Perkin-Elmer 240C analyzer"
+    },
+    "IR_spectra": {
+      "equipment": "VECTOR 22 Bruker spectrophotometer",
+      "method": "KBr pellets",
+      "range": "400−4000 cm−1"
+    }
+  },
+  "IR_spectrum_details": {
+    "heteropolyanions_vibrations": [
+      {
+        "vibration": "ν (W=Ot)",
+        "frequency": "978 cm-1"
+      },
+      {
+        "vibration": "ν (W–Ob)",
+        "frequency": "895 cm-1"
+      },
+      {
+        "vibration": "ν (W–Oc)",
+        "frequency": "810 cm-1"
+      },
+      {
+        "vibration": "ν (P–Oa)",
+        "frequency": "1079 cm-1"
+      }
+    ],
+    "dpdo_molecules_vibrations": [
+      {
+        "vibration": "ν (N–O)",
+        "frequency": "1224 cm-1"
+      },
+      {
+        "vibration": "ν (ring)",
+        "frequency": "1475 cm-1"
+      },
+      {
+        "vibration": "δ (C–H, in plane)",
+        "frequency": "1179 cm-1"
+      },
+      {
+        "vibration": "δ (N–O)",
+        "frequency": "839 cm-1"
+      }
+    ],
+    "water_cluster_vibrations": [
+      {
+        "frequency": "3423 cm-1"
+      },
+      {
+        "frequency": "3118 cm-1"
+      },
+      {
+        "frequency": "3089 cm-1"
+      }
+    ]
+  },
+  "crystallographic_analyses": {
+    "equipment": "Siemens SMART-CCD diffractometer",
+    "radiation": "Mo-Kα radiation (λ = 0.71073Å)",
+    "software": [
+      "SMART",
+      "SAINT",
+      "SHELXTL version 5.1"
+    ],
+    "refinement": "full-matrix least-squares methods",
+    "hydrogen_atoms": {
+      "organic_molecules": "calculated positions and refined using a riding model",
+      "water_molecules": "localized by difference Fourier maps and refined by fixing the isotropic temperature factors being 1.2 times that of the mother oxygen atoms the attached"
+    }
+  },
+  "gaussian_optimization": {
+    "method": "b3lyp/6-31g**",
+    "details": "The Cartesian coordinates of 8 apices, 12 arris-centered, O atoms and the body-centered O atom are fixed while doing the optimization."
+  }
+}

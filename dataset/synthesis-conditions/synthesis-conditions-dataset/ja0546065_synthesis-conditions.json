@@ -1,0 +1,47 @@
+{
+  "materials": [
+    {
+      "name": "compound 1",
+      "synthesis": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "ethanol−aqueous solution",
+            "amount": "2.5 mL ethanol and 2.5 mL water"
+          }
+        ],
+        "equipment": "teflon-lined 23 ml Parr acid digestion bomb",
+        "chemicals_used": [
+          {
+            "name": "cobalt acetate",
+            "amount": "0.249 g (1 mmol)"
+          },
+          {
+            "name": "citric acid",
+            "amount": "0.21 g (1 mmol)"
+          },
+          {
+            "name": "KOH",
+            "amount": "0.168 g (3 mmol)"
+          }
+        ],
+        "time": "heated to 120 °C in half an hour, kept at 120 °C for 2 days",
+        "cooling_rate": "cooled to room temperature at a rate of 4 °C/h",
+        "washing_method": "washed with Et2O",
+        "drying_method": "dried at room temperature",
+        "yield": "73.7 % based on cobalt",
+        "IR_spectrum": "3435s, 2925w, 1578s, 1397s, 1263m, 1117w, 909w, 855w, 658m, 554w",
+        "elemental_analysis": {
+          "calculated": {
+            "C": "18.63",
+            "H": "3.78"
+          },
+          "found": {
+            "C": "18.59",
+            "H": "3.83"
+          }
+        }
+      }
+    }
+  ]
+}

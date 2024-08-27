@@ -1,0 +1,221 @@
+{
+  "materials": [
+    {
+      "name": "ZZU-281",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "Mn(NO3)2·6H2O",
+              "amount": "57.4 mg",
+              "molar_amount": "0.2 mmol"
+            },
+            {
+              "name": "H4TTPE",
+              "amount": "27.8 mg",
+              "molar_amount": "0.05 mmol"
+            },
+            {
+              "name": "DMAc/H2O",
+              "volume": "3 mL",
+              "ratio": "v/v = 2/1"
+            }
+          ],
+          "temperature": "120 °C",
+          "time": "72 h",
+          "equipment": "25 mL Teflon-lined bomb",
+          "atmosphere": "sealed",
+          "special_conditions": [
+            {
+              "condition": "stirred",
+              "details": "at room temperature for 5 min"
+            }
+          ]
+        },
+        {
+          "step": 2,
+          "chemicals_used": [
+            {
+              "name": "water",
+              "amount": "large amount"
+            }
+          ],
+          "temperature": "120 °C",
+          "time": "3 days",
+          "equipment": "Teflon-lined",
+          "special_conditions": [
+            {
+              "condition": "encapsulating the crystals",
+              "details": "from step 1"
+            }
+          ]
+        }
+      ],
+      "washing_method": "Not specified",
+      "drying_method": "Not specified",
+      "yield": "Not specified",
+      "characterization_techniques": [
+        "IR"
+      ],
+      "IR_data": [
+        {
+          "peak": "3347 cm-1",
+          "intensity": "s"
+        },
+        {
+          "peak": "3184 cm-1",
+          "intensity": "s"
+        },
+        {
+          "peak": "1615 cm-1",
+          "intensity": "s"
+        },
+        {
+          "peak": "1450 cm-1",
+          "intensity": "s"
+        },
+        {
+          "peak": "1158 cm-1",
+          "intensity": "m"
+        },
+        {
+          "peak": "1113 cm-1",
+          "intensity": "m"
+        },
+        {
+          "peak": "1015 cm-1",
+          "intensity": "s"
+        },
+        {
+          "peak": "840 cm-1",
+          "intensity": "m"
+        },
+        {
+          "peak": "803 cm-1",
+          "intensity": "m"
+        },
+        {
+          "peak": "768 cm-1",
+          "intensity": "s"
+        },
+        {
+          "peak": "655 cm-1",
+          "intensity": "m"
+        },
+        {
+          "peak": "620 cm-1",
+          "intensity": "s"
+        },
+        {
+          "peak": "528 cm-1",
+          "intensity": "m"
+        },
+        {
+          "peak": "434 cm-1",
+          "intensity": "w"
+        }
+      ]
+    },
+    {
+      "name": "α-MnO2",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            {
+              "name": "MnSO4·H2O",
+              "amount": "0.2 g"
+            },
+            {
+              "name": "KMnO4",
+              "amount": "0.5 g"
+            },
+            {
+              "name": "distilled water",
+              "volume": "5 mL"
+            }
+          ],
+          "temperature": "140 °C",
+          "time": "12 h",
+          "equipment": "Teflon-lined stainless steel autoclave"
+        }
+      ]
+    },
+    {
+      "name": "β-MnO2",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            {
+              "name": "MnSO4·H2O",
+              "amount": "Not specified"
+            },
+            {
+              "name": "ammonium persulfate (NH4)2S2O8",
+              "amount": "equimolar amount"
+            },
+            {
+              "name": "distilled water",
+              "amount": "Not specified"
+            }
+          ],
+          "temperature": "120 °C",
+          "time": "12 h",
+          "equipment": "Teflon-lined stainless steel autoclave"
+        }
+      ]
+    },
+    {
+      "name": "γ-MnOOH",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            {
+              "name": "KMnO4",
+              "amount": "0.18 g",
+              "molar_amount": "2.25 mmol"
+            },
+            {
+              "name": "distilled water",
+              "volume": "60 mL"
+            },
+            {
+              "name": "ethylene glycol",
+              "volume": "0.9 mL"
+            }
+          ],
+          "temperature": "120 °C",
+          "time": "10 h",
+          "equipment": "Teflon-lined stainless-steel autoclave"
+        }
+      ]
+    },
+    {
+      "name": "ZZU-281/PAN membrane",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            {
+              "name": "ZZU-281 powder",
+              "amount": "0.24 g"
+            },
+            {
+              "name": "PAN",
+              "amount": "0.16 g"
+            },
+            {
+              "name": "DMF",
+              "volume": "3 mL"
+            }
+          ],
+          "special_conditions": [
+            {
+              "condition": "electrospinning",
+              "details": "voltage of 8 kV, flow rate 0.2 mm/min, spinneret diameter 0.6 mm, distance between collector and spinneret 15 cm, spinneret shift rate 200 mm/min, span 20 cm, electrospinning time 5 min"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "materials": [
+    {
+      "name": "(Et4N)2[Mn2L3]·xDMF (1)",
+      "synthesis_conditions": {
+        "temperature": "130 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "800 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "23 mL"
+          }
+        ],
+        "equipment": "Schott bottle",
+        "chemicals_used": [
+          {
+            "name": "Mn(NO3)2·4H2O",
+            "amount": "2.01 g"
+          },
+          {
+            "name": "chloranilic acid (H2L)",
+            "amount": "3.32 g"
+          },
+          {
+            "name": "(Et4N)Cl",
+            "amount": "12.8 g"
+          }
+        ],
+        "time": "19 h",
+        "washing_method": "Decanting-replenishing with fresh DMF",
+        "yield": "Approximate yield of 2 g (15%)",
+        "drying_method": "Stored in fresh DMF"
+      }
+    },
+    {
+      "name": "(Et4N)2[Mn2L3]∙1.5DMF∙Et2O (1-pd)",
+      "synthesis_conditions": {
+        "washing_method": "Washed with Et2O (2 × 25 mL)",
+        "drying_method": "Dried in air on filter paper for 1 minute",
+        "yield": "1.34 g"
+      }
+    },
+    {
+      "name": "(Et4N)2[Mn2L3] (1-fd)",
+      "synthesis_conditions": {
+        "washing_method": "Solvent-exchanged with Et2O, then dried under dynamic vacuum at ambient temperature for 30 minutes, heated at 80 ºC for 16 h (4 mTorr)",
+        "yield": "0.13 g"
+      }
+    },
+    {
+      "name": "[Co(DMF)6][Co2L3]·xDMF (2a)",
+      "synthesis_conditions": {
+        "temperature": "Ambient",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "15 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Co(ClO4)2·6H2O",
+            "amount": "0.823 g"
+          }
+        ],
+        "time": "2-4 weeks",
+        "washing_method": "Decanting-replenishing with fresh DMF",
+        "yield": "Approximate yield of 50%"
+      }
+    },
+    {
+      "name": "[Zn(DMF)6][Zn0.68Mn1.32L3]·xDMF (3a)",
+      "synthesis_conditions": {
+        "temperature": "Ambient",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "15 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "0.669 g"
+          }
+        ],
+        "time": "Approximately 2 weeks",
+        "washing_method": "Decanting-replenishing with fresh DMF",
+        "yield": "Approximate yield of 40%"
+      }
+    },
+    {
+      "name": "(Et4N)2[Co2L3]·xDMF (4a)",
+      "synthesis_conditions": {
+        "temperature": "75 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "15 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(Et4N)Cl",
+            "amount": "0.373 g"
+          }
+        ],
+        "time": "Heated for 5 minutes, then 16 h",
+        "washing_method": "Decanting-replenishing with fresh DMF",
+        "yield": "Approximate yield of 95%"
+      }
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "Cu(SPh-OH)": {
+    "synthesis_conditions": {
+      "temperature": "85 °C",
+      "solvents": ["Ethanol"],
+      "amount_of_each_solvent": ["5 mL"],
+      "equipment": ["Sonic bath", "Oven"],
+      "chemicals_used": ["4-Hydroxybenzenethiol", "CuCl2·2H2O", "NaOH"],
+      "time": ["1 h sonication", "2 weeks heating"],
+      "washing_method": ["Ethanol", "Water", "Diethyl ether"],
+      "drying_method": "Vacuum at 70 °C overnight"
+    }
+  },
+  "Cu(SPh-COOH)": {
+    "synthesis_conditions": {
+      "temperature": "85 °C",
+      "solvents": ["Water"],
+      "amount_of_each_solvent": ["5 mL"],
+      "equipment": ["Sonic bath", "Oven"],
+      "chemicals_used": ["Cu2O", "4-Mercaptobenzoic acid", "HCl"],
+      "time": ["30 min sonication", "10 days heating"],
+      "washing_method": ["Ethanol", "Water", "Diethyl ether"],
+      "drying_method": "Vacuum at 70 °C overnight"
+    }
+  },
+  "Ag(SPh-OH)": {
+    "synthesis_conditions": {
+      "temperature": "85 °C",
+      "solvents": ["Water"],
+      "amount_of_each_solvent": ["5 mL"],
+      "equipment": ["Sonic bath", "Oven"],
+      "chemicals_used": ["4-Hydroxythiophenol", "AgNO3", "Triethylamine"],
+      "time": ["30 min sonication", "7 days heating"],
+      "washing_method": ["Ethanol", "Water", "Diethyl ether"],
+      "drying_method": "Vacuum at 70 °C overnight"
+    }
+  },
+  "Ag(SPh-NH2)": {
+    "synthesis_conditions": {
+      "temperature": "100 °C",
+      "solvents": ["Water"],
+      "amount_of_each_solvent": ["25 mL"],
+      "equipment": ["Water bath", "Stirring"],
+      "chemicals_used": ["4-Aminothiophenol", "AgNO3", "Triethylamine"],
+      "time": ["2 h boiling"],
+      "washing_method": ["Ethanol", "Water", "Diethyl ether"],
+      "drying_method": "Vacuum at 70 °C overnight"
+    }
+  },
+  "Ag(SPh-OMe)": {
+    "synthesis_conditions": {
+      "temperature": "85 °C",
+      "solvents": ["Acetonitrile"],
+      "amount_of_each_solvent": ["5 mL"],
+      "equipment": ["Sonic bath", "Oven"],
+      "chemicals_used": ["4-Methoxythiophenol", "AgNO3", "Triethylamine"],
+      "time": ["120 min sonication"],
+      "washing_method": ["Ethanol", "Water", "Diethyl ether"],
+      "drying_method": "Vacuum at 70 °C overnight"
+    }
+  },
+  "Ag(SPh-F)": {
+    "synthesis_conditions": {
+      "temperature": "95 °C",
+      "solvents": ["Acetonitrile"],
+      "amount_of_each_solvent": ["15 mL"],
+      "equipment": ["Hot plate", "Ice bath"],
+      "chemicals_used": ["4-Fluorothiophenol", "AgNO3", "Triethylamine"],
+      "time": ["1 h heating"],
+      "washing_method": ["Ethanol", "Water", "Diethyl ether"],
+      "drying_method": "Vacuum at 70 °C overnight"
+    }
+  },
+  "Ag(SPh-COOH)": {
+    "synthesis_conditions": {
+      "temperature": "95 °C",
+      "solvents": ["Water"],
+      "amount_of_each_solvent": ["15 mL"],
+      "equipment": ["Hot plate", "Ice bath"],
+      "chemicals_used": ["4-Mercaptobenzoic acid", "AgNO3", "KOH"],
+      "time": ["1 h heating"],
+      "washing_method": ["Ethanol", "Water", "Diethyl ether"],
+      "drying_method": "Vacuum at 70 °C overnight"
+    }
+  },
+  "Au(SPh-COOH)": {
+    "synthesis_conditions": {
+      "temperature": "100 °C",
+      "solvents": ["Ethanol", "Water"],
+      "amount_of_each_solvent": ["60 mL Ethanol", "10 mL Water"],
+      "equipment": ["Hot plate"],
+      "chemicals_used": ["4-Mercaptobenzoic acid", "NaOH", "HAuCl4"],
+      "time": ["2 h boiling"],
+      "washing_method": ["Ethanol", "Water"],
+      "drying_method": "Vacuum at 70 °C overnight"
+    }
+  }
+}

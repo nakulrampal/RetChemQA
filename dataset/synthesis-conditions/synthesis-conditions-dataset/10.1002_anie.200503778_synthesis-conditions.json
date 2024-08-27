@@ -1,0 +1,46 @@
+{
+  "materials": [
+    {
+      "name": "MOF 1",
+      "synthesis_conditions": {
+        "temperature": "Room temperature for synthesis, dried in air",
+        "solvents": ["MeOH", "aqueous ammonia"],
+        "amount_of_solvents": ["MeOH: 5.0 mL", "aqueous ammonia (25%): 2.0 mL"],
+        "equipment": "Not specified",
+        "chemicals_used": ["Hmim (0.2 mmol, 0.016 g)", "Zn(OH)2 (0.1 mmol, 0.010 g)"],
+        "time": "Several days to start appearing, collected after one month",
+        "washing_method": "Methanol/water 1:1",
+        "drying_method": "Dried in air",
+        "yield": "70%"
+      }
+    },
+    {
+      "name": "MOF 2",
+      "synthesis_conditions": {
+        "temperature": "Room temperature for synthesis, dried in air",
+        "solvents": ["MeOH", "aqueous ammonia"],
+        "amount_of_solvents": ["MeOH: 5.0 mL", "aqueous ammonia (25%): 2.0 mL"],
+        "equipment": "Not specified",
+        "chemicals_used": ["Heim (0.2 mmol, 0.019 g)", "Zn(OH)2 (0.1 mmol, 0.010 g)"],
+        "time": "Similar to MOF 1",
+        "washing_method": "Not specified",
+        "drying_method": "Dried in air",
+        "yield": "60%"
+      }
+    },
+    {
+      "name": "MOF 3",
+      "synthesis_conditions": {
+        "temperature": "Room temperature for synthesis, dried in air",
+        "solvents": ["MeOH", "aqueous ammonia"],
+        "amount_of_solvents": ["MeOH: 5.0 mL", "aqueous ammonia (25%): 2.0 mL"],
+        "equipment": "Not specified",
+        "chemicals_used": ["Hmim (0.1 mmol, 0.008 g) and Heim (0.1 mmol, 0.010 g)"],
+        "time": "Similar to MOF 1, with 1 obtained as major product and a few crystals of 3 isolated",
+        "washing_method": "Not specified",
+        "drying_method": "Dried in air",
+        "yield": "Not specified"
+      }
+    }
+  ]
+}

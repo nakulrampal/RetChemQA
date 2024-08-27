@@ -1,0 +1,182 @@
+{
+  "materials": [
+    {
+      "material_name": "2",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "α-H3PMo12O40·14H2O",
+            "amount": "63 mg",
+            "molar_amount": "0.030 mmol"
+          },
+          {
+            "chemical": "CoCl2·6H2O",
+            "amount": "75 mg",
+            "molar_amount": "0.030 mmol"
+          },
+          {
+            "chemical": "4,4′-bipyridine-N,N′-dioxide hydrate",
+            "amount": "22 mg",
+            "molar_amount": "0.10 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "water",
+            "amount": "1.5 mL"
+          },
+          {
+            "solvent": "acetonitrile/water",
+            "ratio": "3:2",
+            "amount": "10 mL"
+          },
+          {
+            "solvent": "acetonitrile/water",
+            "ratio": "6:2",
+            "amount": "4 mL"
+          }
+        ],
+        "yield": "74 mg (86% based on polyoxometalates)",
+        "other_conditions": [
+          {
+            "condition": "evaporating the solution to dryness",
+            "temperature": "80 °C",
+            "equipment": "water bath"
+          },
+          {
+            "condition": "layering solutions",
+            "details": "A solution of acetonitrile/water (3:2, v/v) was carefully layered over an aqueous solution of 4,4′-bipyridine-N,N′-dioxide hydrate and KCl, then a solution of CoHMo12O40·nH2O in an acetonitrile/water mixture (6:2, v/v) was carefully added as a second layer."
+          },
+          {
+            "condition": "crystallization time",
+            "details": "4−5 weeks"
+          }
+        ]
+      }
+    },
+    {
+      "material_name": "2A",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "crystals of complex 2",
+            "details": "used as starting material"
+          }
+        ],
+        "other_conditions": [
+          {
+            "condition": "heating",
+            "temperature": "373 K",
+            "time": "2 h",
+            "equipment": "vacuum",
+            "details": "P2O5 as the desiccant"
+          }
+        ]
+      }
+    },
+    {
+      "material_name": "1A",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "crystals of complex 1",
+            "details": "used as starting material"
+          }
+        ],
+        "other_conditions": [
+          {
+            "condition": "heating",
+            "temperature": "373 K",
+            "time": "2 h",
+            "equipment": "vacuum",
+            "details": "P2O5 as the desiccant"
+          }
+        ]
+      }
+    },
+    {
+      "material_name": "2B",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "crystals of 2A",
+            "details": "used as starting material"
+          }
+        ],
+        "other_conditions": [
+          {
+            "condition": "exposure",
+            "details": "exposing crystals of 2A in air for about 1 week"
+          }
+        ]
+      }
+    },
+    {
+      "material_name": "1B",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "crystals of 1A",
+            "details": "used as starting material"
+          }
+        ],
+        "other_conditions": [
+          {
+            "condition": "exposure",
+            "details": "exposing crystals of 1A in air for about 1 week"
+          }
+        ]
+      }
+    },
+    {
+      "material_name": "3",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "4,4′-bipyridine-N,N′-dioxide hydrate",
+            "amount": "33 mg",
+            "molar_amount": "0.15 mmol"
+          },
+          {
+            "chemical": "KCl",
+            "amount": "75 mg",
+            "molar_amount": "1.0 mmol"
+          },
+          {
+            "chemical": "α-H3PW12O40·14H2O",
+            "amount": "125 mg",
+            "molar_amount": "0.04 mmol"
+          },
+          {
+            "chemical": "CoCl2·6H2O",
+            "amount": "10 mg",
+            "molar_amount": "0.04 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "acetonitrile/water",
+            "ratio": "3:2",
+            "amount": "10 mL"
+          },
+          {
+            "solvent": "acetonitrile/water",
+            "ratio": "6:2",
+            "amount": "4 mL"
+          }
+        ],
+        "yield": "108 g (87% based on polyoxometalates)",
+        "other_conditions": [
+          {
+            "condition": "layering solutions",
+            "details": "An acetonitrile/water (3:2, v/v) solution was carefully layered over an aqueous solution of 4,4′-bipyridine-N,N′-dioxide hydrate and KCl, then a solution of CoHW12O40·nH2O in an acetonitrile/water mixture (6:2, v/v) was carefully added as a second layer."
+          },
+          {
+            "condition": "crystallization time",
+            "details": "4−5 weeks"
+          }
+        ]
+      }
+    }
+  ]
+}

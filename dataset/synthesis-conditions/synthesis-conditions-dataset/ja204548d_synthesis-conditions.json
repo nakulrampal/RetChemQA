@@ -1,0 +1,101 @@
+{
+  "materials": [
+    {
+      "name": "5-methylbenzo-1,3,2-dithiazolyl (MBDTA)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "CH2Cl2",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "3,4-dimercaptotoluene",
+            "amount": "0.5 g, 0.0032 mol"
+          },
+          {
+            "name": "sulphuryl chloride",
+            "amount": "1.73 g, 1.0 mL, 0.128 mol"
+          },
+          {
+            "name": "trimethylsilylazide",
+            "amount": "0.403 g, 0.45 mL, 0.0035 mol"
+          },
+          {
+            "name": "5-methylbenzo-1,3,2-dithiazolylium chloride",
+            "amount": "0.38 g, 0.0019 mol"
+          },
+          {
+            "name": "silver powder",
+            "amount": "0.266 g, 0.0025 mol"
+          }
+        ],
+        "temperature": "50–55 °C",
+        "pressure": "10-3 Torr",
+        "time": "2 hours",
+        "equipment": "Schlenk tube",
+        "yield": "black rhombs of MBDTA",
+        "washing_method": "CH2Cl2, (2 x 5 ml)",
+        "drying_method": "vacuo"
+      }
+    },
+    {
+      "name": "benzo-1,3,2-dithiazolyl (BDTA)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "1,2-dimercaptobenzene",
+            "note": "used as the starting compound"
+          }
+        ],
+        "note": "A similar method was used as for MBDTA synthesis."
+      }
+    },
+    {
+      "name": "MIL53(Al)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "AlCl3.6H2O",
+            "amount": "500 mg, 1.33 mmol"
+          },
+          {
+            "name": "terephthalic acid",
+            "amount": "400 mg, 2.41 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "deionised water",
+            "amount": "5 mL"
+          },
+          {
+            "name": "DMF",
+            "amount": "10 mL"
+          }
+        ],
+        "temperature": "150oC",
+        "equipment": "27 mL Teflon-lined Parr bomb apparatus",
+        "time": "5h",
+        "washing_method": "deionised water (3 x 5 mL) and DMF (3 x 5 mL)",
+        "drying_method": "heating at 150oC under vacuum for 3 days"
+      }
+    },
+    {
+      "name": "ZIF8, non-porous porous copper macrocycle material, porous silver macrocyle material",
+      "synthesis_conditions": {
+        "note": "Synthesised using reported synthetic methods of anion and liquid assisted mechano-chemistry and macrocycle solvent based crystallisation methods."
+      }
+    },
+    {
+      "name": "MIL53(Al)@MBDTA and MIL53(Al)@BDTA",
+      "synthesis_conditions": {
+        "temperature": "approximately 50oC",
+        "pressure": "10-1 Torr",
+        "equipment": "Schlenk tube",
+        "note": "Sublimation of the radicals into the porous crystalline materials was performed under static vacuum."
+      }
+    }
+  ]
+}

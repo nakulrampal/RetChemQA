@@ -1,0 +1,65 @@
+{
+  "materials": [
+    {
+      "name": "Zr-bptc",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "50 mL"
+          },
+          {
+            "name": "formic acid",
+            "amount": "50 mL"
+          }
+        ],
+        "equipment": "200 mL Teflon reactor",
+        "chemicals_used": [
+          {
+            "name": "Zirconium (IV) oxychloride octahydrate (ZrOCl2·8H2O)",
+            "amount": "322 mg"
+          },
+          {
+            "name": "H4bptc (biphenyl-3,3’,5,5’-tetracarboxylic acid)",
+            "amount": "330 mg"
+          }
+        ],
+        "time": "3 days",
+        "washing_method": "washed with DMF and methanol",
+        "drying_method": "activated at 573 K under dynamic vacuum",
+        "yield": "microcrystalline white powder obtained through centrifugation"
+      }
+    },
+    {
+      "name": "NO2@Zr-bptc-N",
+      "synthesis_conditions": {
+        "temperature": "298 K",
+        "chemicals_used": [
+          {
+            "name": "NO2",
+            "details": "2500 ppm diluted in 77.5% N2 and 22.25% He"
+          }
+        ],
+        "equipment": "fixed bed",
+        "time": "until a complete breakthrough was achieved",
+        "yield": "19% weight loss corresponding to an uptake of 5.1 mmol g−1"
+      }
+    },
+    {
+      "name": "NO2@Zr-bptc-N*",
+      "synthesis_conditions": {
+        "temperature": "298 K",
+        "chemicals_used": [
+          {
+            "name": "NO2",
+            "details": "loaded at 1 bar"
+          }
+        ],
+        "equipment": "fixed bed",
+        "time": "1 h to reach adsorption equilibrium",
+        "yield": "40% weight loss corresponding to an uptake of 14.3 mmol g−1"
+      }
+    }
+  ]
+}

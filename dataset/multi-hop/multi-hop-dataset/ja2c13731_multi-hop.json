@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What are the synthesis conditions for cubic Zr-MTBC according to the literature?",
+      "answer": "ZrCl4 (18.2 mg, 0.0781 mmol), MTBC (16 mg, 0.020 mmol), and benzoic acid (554 mg, 4.54 mmol) were ultrasonically dissolved in DEF (3.2 mL) in a 5 mL microwave vial. The mixture was heated in an Al-block (24 h, pre-heated to 120 °C) under stirring. After cooling to room temperature outside the Al-block, the product was collected by centrifugation and washed with DEF (three times) and acetone (twice). The mixture was soaked in acetone overnight and washed with acetone once. Supercritical CO2 drying yielded a white powder as product.",
+      "difficulty": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the reaction time affect the phase composition of Zr-MTBC MOFs synthesized in DEF?",
+      "answer": "Increasing the reaction time inverses the phase ratios in the product, leading to more tetragonal and trigonal Zr-MTBC being formed.",
+      "difficulty": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the formation of cubic Zr-MTBC observed when using DMA as the solvent instead of DEF?",
+      "answer": "False. When employing DMA as solvent instead of DEF, no cubic Zr-MTBC was formed.",
+      "difficulty": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does water play in the synthesis of Zr-MTBC MOFs from ZrCl4 in DMA?",
+      "answer": "The amount of water added to the reaction mixture affects the phase composition of the products. Reaction under addition of 4 µL water yielded hexagonal particles, characteristic for the trigonal phase, while synthesis with 8 or 12 µL water yielded mixtures of hexagonal and octahedral particles, characteristic for trigonal and tetragonal phases, respectively.",
+      "difficulty": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the BET surface area of the product obtained from MOF_DMA_2d_4 and ZrCl4_GB after 24 h reaction time?",
+      "answer": "The BET surface area is 368 m2 g-1.",
+      "difficulty": "Easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does the concentration of reactants affect the formation of cubic Zr-MTBC?",
+      "answer": "Decreasing both MTBC and ZrCl4 concentration remarkably slowed down particle growth and yielded c-(4,12)MTBC-Zr6 crystals with higher crystallinity and a cube-shaped crystal habit instead of a truncated-octahedral one.",
+      "difficulty": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the impact of employing DMA as solvent on the phase formation of Zr-MTBC MOFs?",
+      "answer": "Using DMA as solvent and varying the reaction time from 24 h to 48 h mainly yielded the tetragonal MOF, suggesting a phase transformation from the trigonal to tetragonal phase under these conditions.",
+      "difficulty": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the synthesis of Zr-MTBC MOFs in DMA with the addition of water lead to the formation of cubic Zr-MTBC?",
+      "answer": "False. Synthesis in DMA with the addition of water did not lead to the formation of cubic Zr-MTBC. Instead, hexagonal particles characteristic of the trigonal phase were formed with 4 µL of water, and mixtures of hexagonal and octahedral particles were obtained with 8 or 12 µL of water.",
+      "difficulty": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What are the effects of reaction time on the phase composition of Zr-MTBC MOFs synthesized in DMA with 4 µL of water?",
+      "answer": "Reaction time affects the phase composition, with hexagonal particles observed after 1 and 2 days, indicating the trigonal phase. Extending reaction times to 3 days and beyond results in the appearance and predominance of octahedral crystals, indicative of the tetragonal phase.",
+      "difficulty": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the presence of hexagonal particles in the product obtained from synthesis in DMA with 4 µL of water be definitively attributed to the trigonal phase of Zr-MTBC?",
+      "answer": "False. While hexagonal particles are characteristic of the trigonal phase reported, the presence of hexagonal particles alone does not definitively attribute them to the trigonal phase due to the poor crystallinity of the PXRD measurements, leaving open the possibility of an additional polymorph of Zr-MTBC.",
+      "difficulty": "Hard",
+      "type": "True or False"
+    }
+  ]
+}

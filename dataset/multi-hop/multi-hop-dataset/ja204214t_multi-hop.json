@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "question": "What are the synthesis conditions for MOF-1 and MOF-2?",
+      "answer": "MOF-1 was synthesized using a microwave synthesis method with L1 and Zn(NO3)2 in a mixture of DMF and H2O at 70°C. MOF-2 was synthesized by reacting L2-H4 and Zn(NO3)2 in a mixture of DEF, H2O, and HCl at 75°C for large crystals and 85°C for microcrystals.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How were the Os-doped MOF microcrystals prepared?",
+      "answer": "Os-doped MOF microcrystals were prepared by adding a variable amount of L1-Os or L2-Os to the synthesis mixture of either MOF-1 or MOF-2, respectively, under similar synthesis conditions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to determine the mol fraction of Os in the doped MOFs?",
+      "answer": "The mol fraction of Os in the doped MOFs was determined using Inductively Coupled Plasma-Mass Spectrometry (ICP-MS).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the Beer-Lambert law application in the context of MOF light harvesting?",
+      "answer": "The application of the Beer-Lambert law was used to estimate the optimal size of a light-harvesting MOF crystal by calculating the transmission and absorptance as a function of pathlength, ensuring that individual crystals absorb the majority of light but are not so large that the core becomes inactive.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of quenchers affect the emission intensity and lifetime of MOFs?",
+      "answer": "The presence of quenchers, such as BQ and TMBD, leads to quenching of the MOF's emission intensity and a decrease in the average lifetime of the excited states, indicating efficient electron transfer quenching at the MOF/solution interface.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of MOF-1 and MOF-2 involves the use of the same solvents.",
+      "answer": "False. MOF-1 synthesis involves DMF and H2O, while MOF-2 synthesis uses DEF, H2O, and HCl.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The Os doping levels in MOF microcrystals were determined using UV-vis spectroscopy.",
+      "answer": "False. The Os doping levels in MOF microcrystals were determined using Inductively Coupled Plasma-Mass Spectrometry (ICP-MS).",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does the Stern-Volmer analysis play in understanding MOF quenching behavior?",
+      "answer": "The Stern-Volmer analysis, including both steady-state and time-resolved measurements, helps in understanding the quenching behavior of MOFs by providing insights into the dynamics of quencher association, diffusion, and the efficiency of electron transfer quenching mechanisms.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The driving force for electron transfer reactions in MOFs does not influence the rate of quenching.",
+      "answer": "False. The driving force for electron transfer reactions significantly influences the rate and efficiency of quenching in MOFs.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the modification of MOF microcrystals with Os affect their photophysical properties?",
+      "answer": "Modification of MOF microcrystals with Os changes their photophysical properties by introducing low energy S → T MLCT absorptions, which overlap with Ru(II)* MOF emissions, facilitating Ru → Os energy transfer and affecting the efficiency of light harvesting and quenching mechanisms.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Langmuir isotherm model is irrelevant for describing quencher association with MOF surfaces.",
+      "answer": "False. The Langmuir isotherm model is relevant and used to describe the equilibrium between quenchers in solution and those bound to the MOF surface, which is crucial for understanding quenching dynamics.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental techniques were employed to study the quenching of MOFs by BQ and TMBD?",
+      "answer": "Experimental techniques employed include steady-state and time-resolved emission spectroscopy, cyclic voltammetry for determining redox potentials, and 1H NMR for quantifying the ratio of Ru monomer to associated quencher.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: All MOF crystals, regardless of their synthesis conditions, exhibit the same efficiency in light harvesting and quenching.",
+      "answer": "False. The efficiency in light harvesting and quenching varies among MOF crystals depending on their synthesis conditions, doping levels, and the specific quenchers used.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What factors are considered in the microscopic model used for Stern-Volmer fitting of MOF quenching data?",
+      "answer": "The microscopic model considers factors such as the equilibrium between solution quenchers and surface-bound quenchers, the migration of excited states to the surface, and the distinction between static and diffusional quenching mechanisms.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of Os-doped MOF microcrystals does not require any modifications to the original MOF synthesis protocols.",
+      "answer": "False. The synthesis of Os-doped MOF microcrystals requires modifications to the original MOF synthesis protocols, including the addition of L1-Os or L2-Os to the synthesis mixture.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

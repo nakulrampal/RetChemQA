@@ -1,0 +1,83 @@
+{
+  "materials": [
+    {
+      "name": "H6BATD",
+      "synthesis_conditions": {
+        "temperature": "0 ºC for 10 min, then 25 ºC for 10 min, followed by 45 ºC for 3.5 h, and finally 25 ºC for 16 h",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "100 mL"
+          },
+          {
+            "name": "acetone",
+            "amount": "25 mL"
+          },
+          {
+            "name": "ethanol",
+            "amount": "150 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "5-aminoisophthalic acid",
+            "amount": "9.1 g, 50 mmol"
+          },
+          {
+            "name": "NaOH (5M)",
+            "amount": "19 mL"
+          },
+          {
+            "name": "NaHCO3",
+            "amount": "4.6 g, 55 mmol"
+          },
+          {
+            "name": "cyanuric chloride",
+            "amount": "4.6 g, 25 mmol"
+          },
+          {
+            "name": "iminodiacetic acid",
+            "amount": "3.2 g, 24 mmol"
+          }
+        ],
+        "time": "10 min at 0 ºC, 10 min at 25 ºC, 3.5 h at 45 ºC, 16 h at 25 ºC",
+        "yield": "88.3%",
+        "drying_method": "air-dried"
+      }
+    },
+    {
+      "name": "compound 1",
+      "synthesis_conditions": {
+        "temperature": "100 ºC",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.2 mL"
+          },
+          {
+            "name": "EtOH",
+            "amount": "0.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Co(NO3)2·6H2O",
+            "amount": "10.2 mg, 0.04 mmol"
+          },
+          {
+            "name": "H6BATD",
+            "amount": "11.4 mg, 0.02 mmol"
+          }
+        ],
+        "time": "48 h",
+        "yield": "67% (based on Co (II))",
+        "washing_method": "washed with DMF",
+        "drying_method": "dried naturally"
+      }
+    }
+  ]
+}

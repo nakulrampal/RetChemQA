@@ -1,0 +1,239 @@
+{
+  "materials": [
+    {
+      "name": "Tb-spn-MOF-1",
+      "synthesis_conditions": [
+        {
+          "temperature": "115 °C",
+          "solvents": [
+            {
+              "name": "DMF/water solution",
+              "amount": "1.5 mL DMF, 0.25 mL water"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Tb(NO3)3·5H2O",
+              "amount": "50 mg, 0.115 mmol"
+            },
+            {
+              "name": "H2TIA",
+              "amount": "13 mg, 0.058 mmol"
+            },
+            {
+              "name": "2-fluorobenzoic acid (2-FBA)",
+              "amount": "300 mg, 2.14 mmol"
+            }
+          ],
+          "time": "48 h",
+          "drying_method": "washed with DMF",
+          "yield": "not specified",
+          "washing_method": "not specified",
+          "PXRD_conditions": {
+            "temperature": "room temperature",
+            "equipment": "PANalyticalX’Pert PRO diffractometer",
+            "details": "45kV, 40mA for CuKα (λ = 1.5418 Å), scan speed of 1.0° min-1, step size of 0.02° in 2θ"
+          },
+          "TGA_conditions": {
+            "temperature_range": "room temperature to 550°C",
+            "heating_rate": "1°C per minute",
+            "atmosphere": "N2 flow",
+            "equipment": "TA Instruments hi-res TGA Q500 thermogravimetric analyzer"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tb-sph-MOF-1",
+      "synthesis_conditions": [
+        {
+          "temperature": "115 °C",
+          "solvents": [
+            {
+              "name": "DMF/water solution",
+              "amount": "1.5 mL DMF, 0.25 mL water"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Tb(NO3)3·5H2O",
+              "amount": "50 mg, 0.115 mmol"
+            },
+            {
+              "name": "H2TIA",
+              "amount": "13 mg, 0.058 mmol"
+            },
+            {
+              "name": "H3BTCB",
+              "amount": "33 mg, 0.058 mmol"
+            },
+            {
+              "name": "2-fluorobenzoic acid (2-FBA)",
+              "amount": "300 mg, 2.14 mmol"
+            }
+          ],
+          "time": "48 h",
+          "drying_method": "washed with DMF",
+          "yield": "not specified",
+          "washing_method": "not specified",
+          "PXRD_conditions": {
+            "temperature": "room temperature",
+            "equipment": "PANalyticalX’Pert PRO diffractometer",
+            "details": "45kV, 40mA for CuKα (λ = 1.5418 Å), scan speed of 1.0° min-1, step size of 0.02° in 2θ"
+          },
+          "TGA_conditions": {
+            "temperature_range": "room temperature to 500°C",
+            "heating_rate": "1°C per minute",
+            "atmosphere": "N2 flow",
+            "equipment": "TA Instruments hi-res TGA Q500 thermogravimetric analyzer"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tb-sph-MOF-2",
+      "synthesis_conditions": [
+        {
+          "temperature": "115 °C",
+          "solvents": [
+            {
+              "name": "DMF/water solution",
+              "amount": "1.5 mL DMF, 1.0 mL water"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Tb(NO3)3·5H2O",
+              "amount": "8.3 mg, 0.0191 mmol"
+            },
+            {
+              "name": "H3BTTC",
+              "amount": "2.5 mg, 0.0066 mmol"
+            },
+            {
+              "name": "H3BTPB",
+              "amount": "5.0 mg, 0.0075 mmol"
+            },
+            {
+              "name": "2-fluorobenzoic acid (2-FBA)",
+              "amount": "75.0 mg, 0.535 mmol"
+            }
+          ],
+          "time": "48 h",
+          "drying_method": "washed with DMF",
+          "yield": "not specified",
+          "washing_method": "not specified",
+          "PXRD_conditions": {
+            "temperature": "room temperature",
+            "equipment": "PANalyticalX’Pert PRO diffractometer",
+            "details": "45kV, 40mA for CuKα (λ = 1.5418 Å), scan speed of 1.0° min-1, step size of 0.02° in 2θ"
+          },
+          "TGA_conditions": {
+            "temperature_range": "room temperature to 550°C",
+            "heating_rate": "1°C per minute",
+            "atmosphere": "N2 flow",
+            "equipment": "TA Instruments hi-res TGA Q500 thermogravimetric analyzer"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tb-sph-MOF-3",
+      "synthesis_conditions": [
+        {
+          "temperature": "115 °C",
+          "solvents": [
+            {
+              "name": "DMF/water solution",
+              "amount": "1.5 mL DMF, 1.5 mL water"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Tb(NO3)3·5H2O",
+              "amount": "8.3 mg, 0.0191 mmol"
+            },
+            {
+              "name": "H3BTTC",
+              "amount": "2.5 mg, 0.0066 mmol"
+            },
+            {
+              "name": "H6BHPB",
+              "amount": "5.0 mg, 0.0039 mmol"
+            },
+            {
+              "name": "2-fluorobenzoic acid (2-FBA)",
+              "amount": "75.0 mg, 0.535 mmol"
+            },
+            {
+              "name": "3.5 M HNO3",
+              "amount": "0.2 mL"
+            }
+          ],
+          "time": "48 h",
+          "drying_method": "washed with DMF",
+          "yield": "not specified",
+          "washing_method": "not specified",
+          "PXRD_conditions": {
+            "temperature": "room temperature",
+            "equipment": "PANalyticalX’Pert PRO diffractometer",
+            "details": "45kV, 40mA for CuKα (λ = 1.5418 Å), scan speed of 1.0° min-1, step size of 0.02° in 2θ"
+          },
+          "TGA_conditions": {
+            "temperature_range": "room temperature to 600°C",
+            "heating_rate": "1°C per minute",
+            "atmosphere": "N2 flow",
+            "equipment": "TA Instruments hi-res TGA Q500 thermogravimetric analyzer"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tb-sph-MOF-4",
+      "synthesis_conditions": [
+        {
+          "temperature": "115 °C",
+          "solvents": [
+            {
+              "name": "DMF solution",
+              "amount": "1.5 mL DMF"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Tb(NO3)3·5H2O",
+              "amount": "7.5 mg, 0.0173 mmol"
+            },
+            {
+              "name": "H3TATB",
+              "amount": "2.5 mg, 0.0057 mmol"
+            },
+            {
+              "name": "H3BTBPB",
+              "amount": "5.0 mg, 0.0055 mmol"
+            },
+            {
+              "name": "2-fluorobenzoic acid (2-FBA)",
+              "amount": "75.0 mg, 0.535 mmol"
+            }
+          ],
+          "time": "48 h",
+          "drying_method": "washed with DMF",
+          "yield": "not specified",
+          "washing_method": "not specified",
+          "PXRD_conditions": {
+            "temperature": "room temperature",
+            "equipment": "PANalyticalX’Pert PRO diffractometer",
+            "details": "45kV, 40mA for CuKα (λ = 1.5418 Å), scan speed of 1.0° min-1, step size of 0.02° in 2θ"
+          },
+          "TGA_conditions": {
+            "temperature_range": "room temperature to 550°C",
+            "heating_rate": "1°C per minute",
+            "atmosphere": "N2 flow",
+            "equipment": "TA Instruments hi-res TGA Q500 thermogravimetric analyzer"
+          }
+        }
+      ]
+    }
+  ]
+}

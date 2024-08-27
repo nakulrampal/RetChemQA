@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "question": "What is the primary design feature of molecule L in the synthesis of the metal-organic framework (MOF) discussed?",
+      "answer": "Molecule L is designed with rigid side arms (arylalkynyl) and flexible polyether links in the core.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the design of molecule L contribute to the properties of the resulting MOF?",
+      "answer": "The design with rigid side arms and a flexible core allows for systematic control over the flexibility of the core unit, imposing structural rigidity on the building blocks and the overall network.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What significant transformation does BFMOF-1 undergo upon exposure to ethanol or other solvents?",
+      "answer": "BFMOF-1 undergoes a dramatic, reversible single-crystal-to-single-crystal transformation to form a new crystalline phase, BFMOF-1a.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What role do the PbII centers play in the MOF's ability to uptake PdCl2?",
+      "answer": "The PbII centers act as accessible acceptor sites, facilitating the effective uptake of PdCl2 due to their distinct donor and acceptor characteristics.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of H2S gas on the BFMOF-1a crystals, and what does this indicate about the MOF's properties?",
+      "answer": "Exposure to H2S gas turns the BFMOF-1a crystals dark red and suppresses their bluish white emission, indicating the MOF's Lewis acid character and its potential for sensing applications.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the backfolded design of molecule L in the context of MOF synthesis?",
+      "answer": "The backfolded design minimizes direct steric/chemical influence on the carboxy groups, facilitating the formation of a dynamic MOF system with distinct amphoteric behavior.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the relationship between the design elements of molecule L and the MOF's ability to undergo reversible transformations?",
+      "answer": "The design elements of molecule L, particularly the rigid side arms and flexible core, contribute to the MOF's structural flexibility, enabling reversible transformations such as the transition from BFMOF-1 to BFMOF-1a.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of free-standing sulfur donors and labile capped PbII centers in the MOF contribute to its functionality?",
+      "answer": "The coexistence of free-standing sulfur donors and labile capped PbII centers provides the MOF with amphoteric character, allowing it to effectively uptake both Lewis acid and Lewis base guests.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role do the ether and thioether donors of molecule L play in the interaction with PdCl2?",
+      "answer": "The ether and thioether donors of molecule L, along with the low-lying 4d orbitals of the PdII center, favor charge transfer interactions, facilitating the uptake of PdCl2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the structural flexibility of the MOF's linker L contribute to its gas sorption properties?",
+      "answer": "The structural flexibility built into the semirigid backbone of linker L allows for dynamic, cooperative diffusion processes at higher temperatures, enhancing the MOF's gas sorption properties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What evidence supports the retention of crystalline order in BFMOF-1a after treatment with H2 and PdCl2?",
+      "answer": "PXRD patterns indicate that the original lattice of BFMOF-1a is retained after treatment with H2 and PdCl2, with no peaks corresponding to Pd particles or other crystalline impurities detected.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the MOF's interaction with H2S gas demonstrate its potential for sensing applications?",
+      "answer": "The distinct color change of the BFMOF-1a crystals in response to H2S binding, along with the suppression of emission, demonstrates the MOF's potential for sensing applications due to its Lewis acid character.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the MOF's ability to undergo reversible transformations unique to its interaction with ethanol?",
+      "answer": "False, the MOF can undergo reversible transformations upon exposure to various solvents, not just ethanol.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the MOF's design with rigid side arms and a flexible core limit its ability to uptake guests?",
+      "answer": "False, the design actually facilitates substantial uptake of guests like PdCl2 and sensing of H2S.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the MOF's interaction with PdCl2 purely physical, without any chemical charge transfer?",
+      "answer": "False, the interaction with PdCl2 involves charge transfer from the HOMOs of L to the LUMOs of PdCl2.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the MOF only uptake Lewis acid guests due to its design?",
+      "answer": "False, the MOF can uptake both Lewis acid and Lewis base guests due to its amphoteric character.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the MOF's potential for sensing applications limited to gas phase analytes?",
+      "answer": "False, the MOF has potential for sensing applications in water-based biological and environmental assays as well.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the MOF's interaction with H2S result in a permanent loss of crystallinity?",
+      "answer": "False, the MOF retains a highly crystalline phase after H2S treatment, as indicated by sharp PXRD peaks.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the MOF's design with backfolded molecule L a common approach in MOF synthesis?",
+      "answer": "False, the design with backfolded molecule L breaks from previous works and contributes to the MOF's unique properties.",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

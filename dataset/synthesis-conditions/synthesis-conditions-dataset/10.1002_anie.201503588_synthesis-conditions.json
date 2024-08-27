@@ -1,0 +1,58 @@
+{
+  "materials": [
+    {
+      "name": "[Zn3L4(CH3CN)6](X)6",
+      "synthesis_conditions": {
+        "ligand": "1,3,5-tris(isonicotinoyloxyethyl)cyanurate",
+        "metal_source": "ZnII ions",
+        "solvent_system": [
+          {
+            "solvent": "CH2Cl2",
+            "amount": "5 equivalents"
+          },
+          {
+            "solvent": "H2O",
+            "amount": "3 equivalents"
+          }
+        ],
+        "counterions": [
+          "BF4-",
+          "ClO4-"
+        ],
+        "synthesis_method": "Self-assembly",
+        "notes": "The crystalline product could be obtained irrespective of the concentrations and mole ratios, indicating thermodynamic favorability. The crystals were insoluble in water and common organic solvents (acetone, benzene, chloroform, tetrahydrofuran, toluene). Crystals slowly lost crystallinity in air due to evaporation of solvated molecules but remained structurally stable under anaerobic conditions."
+      }
+    },
+    {
+      "name": "FAH(cid:132)Zn-MOF composites",
+      "synthesis_conditions": {
+        "FAHs_used": [
+          "anthracene (ANT)",
+          "pyrene (PYR)",
+          "perylene (PER)",
+          "phenanthrene (PHE)",
+          "naphthacene (NAP)"
+        ],
+        "solvent": "n-hexane",
+        "time": "3 days",
+        "temperature": "room temperature",
+        "method": "Immersion of Zn-MOF single crystals in n-hexane solution of each FAH without heating or stirring",
+        "notes": "Formation of inclusion composites was confirmed by solid-state photoluminescence measurements."
+      }
+    },
+    {
+      "name": "NAP·PER(cid:132)Zn-MOF",
+      "synthesis_conditions": {
+        "FAHs_used": [
+          "naphthacene (NAP)",
+          "perylene (PER)"
+        ],
+        "solvent": "n-hexane",
+        "time": "3 days",
+        "temperature": "room temperature",
+        "method": "Simultaneous immersion of Zn-MOF single crystals in n-hexane solution containing both NAP and PER without heating or stirring",
+        "notes": "This composite showed evidence of Förster resonance energy transfer (FRET) between included NAP and PER."
+      }
+    }
+  ]
+}

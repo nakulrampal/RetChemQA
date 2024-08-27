@@ -1,0 +1,80 @@
+{
+  "materials": [
+    {
+      "name": "1-(SS)",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "Room temperature",
+          "solvents": [
+            {
+              "name": "Methanol",
+              "amount": "4.0 mL"
+            },
+            {
+              "name": "Diisopropyl ether",
+              "amount": "5.0 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "(SS)-iPr-Pybox",
+              "amount": "0.06 mmol, 18.1 mg"
+            },
+            {
+              "name": "CoCl2·6H2O",
+              "amount": "0.06 mmol, 14.3 mg"
+            },
+            {
+              "name": "Na3[W(CN)8]·4H2O",
+              "amount": "0.04 mmol, 21.3 mg"
+            }
+          ],
+          "time": "5 days",
+          "yield": "28 mg, 66%",
+          "crystal_growth_method": "Slow evaporation",
+          "drying_method": "Air drying",
+          "drying_time": "Phase transition to hydrated phase upon air exposure"
+        }
+      ]
+    },
+    {
+      "name": "1-(RR)",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "Room temperature",
+          "solvents": [
+            {
+              "name": "Methanol",
+              "amount": "4.0 mL"
+            },
+            {
+              "name": "Diisopropyl ether",
+              "amount": "5.0 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "(RR)-iPr-Pybox",
+              "amount": "0.06 mmol, 18.1 mg"
+            },
+            {
+              "name": "CoCl2·6H2O",
+              "amount": "0.06 mmol, 14.3 mg"
+            },
+            {
+              "name": "Na3[W(CN)8]·4H2O",
+              "amount": "0.04 mmol, 21.3 mg"
+            }
+          ],
+          "time": "5 days",
+          "yield": "26 mg, 59%",
+          "crystal_growth_method": "Slow evaporation",
+          "drying_method": "Air drying",
+          "drying_time": "Phase transition to hydrated phase upon air exposure"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "materials": [
+    {
+      "name": "MOF-9",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "chemical": "Tb(NO3)3·5H2O",
+              "amount": "35 mg",
+              "molarity": "0.08 mmol"
+            },
+            {
+              "chemical": "H2ADB",
+              "amount": "32 mg",
+              "molarity": "0.12 mmol"
+            },
+            {
+              "chemical": "DMSO",
+              "amount": "10 mL",
+              "role": "solvent for dissolving Tb(NO3)3·5H2O and H2ADB"
+            },
+            {
+              "chemical": "DMSO",
+              "amount": "4 mL",
+              "role": "solvent for diffusion"
+            },
+            {
+              "chemical": "triethylamine",
+              "amount": "0.15 mL",
+              "role": "part of solution mixture for diffusion"
+            }
+          ],
+          "temperature": "25 °C",
+          "time": "7 d",
+          "yield": "85 mg, 79.1%",
+          "method": "Diffusion from a solution mixture",
+          "solvents": [
+            {
+              "name": "DMSO",
+              "amount": "14 mL",
+              "role": "solvent for dissolving and diffusion"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

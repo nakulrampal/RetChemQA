@@ -1,0 +1,139 @@
+{
+  "materials": [
+    {
+      "material": "Mn(N,O)L(DMSO) (1)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "ambient",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "4 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "N,OLH4",
+              "amount": "0.550 g, 1.57 mmol"
+            },
+            {
+              "name": "Mn(CH3COO)3·2H2O",
+              "amount": "0.850 g, 3.17 mmol",
+              "solvent": "DMF",
+              "solvent_amount": "12 mL"
+            }
+          ],
+          "time": "12 h",
+          "other_conditions": "dark green solution, filtered through a nylon membrane (0.22 μm)",
+          "yield": "0.650 g, 80%"
+        },
+        {
+          "step": 2,
+          "solvents": [
+            {
+              "name": "DMSO",
+              "amount": "60 mL"
+            }
+          ],
+          "other_conditions": "dissolved in air, subsequent diffusion of diethyl ether vapor into the solution",
+          "form": "dark green needle-shaped crystals suitable for X-ray analysis"
+        }
+      ]
+    },
+    {
+      "material": "[Cp2Co][Mn(N,O)L] (1red)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "1",
+              "amount": "0.100 g, 0.194 mmol"
+            },
+            {
+              "name": "Cp2Co",
+              "amount": "0.100 g, 0.529 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "THF/MeCN mixture",
+              "amount": "20 mL",
+              "ratio": "1:1"
+            }
+          ],
+          "time": "24 h",
+          "other_conditions": "supernatant was decanted and replaced with a fresh solution of Cp2Co in THF/MeCN mixture (20 mL, 1:1) for an additional 24 h"
+        },
+        {
+          "step": 2,
+          "washing_method": "washed with MeCN (3 × 10 mL) and then THF (3 × 10 mL)",
+          "drying_method": "dried for 24 h at 60 °C under reduced pressure",
+          "yield": "0.105 g, 76%",
+          "form": "dark purple microcrystalline solid"
+        }
+      ]
+    },
+    {
+      "material": "Mn(N,O)L (1ox)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "1red",
+              "amount": "50.0 mg, 0.0707 mmol"
+            },
+            {
+              "name": "[Cp2Fe](BF4)",
+              "amount": "37.5 mg, 0.113 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "THF/MeCN mixture",
+              "amount": "10 mL",
+              "ratio": "1:1"
+            }
+          ],
+          "time": "24 h",
+          "other_conditions": "supernatant was decanted and replaced with a fresh solution of [Cp2Fe](BF4) in THF/MeCN mixture (10 mL, 1:1) for an additional 24 h"
+        },
+        {
+          "step": 2,
+          "washing_method": "washed with MeCN (3 × 5 mL) and then THF (3 × 5 mL)",
+          "drying_method": "dried for 24 h at 60 °C under reduced pressure",
+          "yield": "27.0 mg, 87%",
+          "form": "dark green microcrystalline solid"
+        }
+      ]
+    }
+  ],
+  "supporting_information": {
+    "FT-IR_spectra": {
+      "materials": ["1", "1red", "1ox"],
+      "description": "FT-IR spectra highlighting certain modes of vibrations: νCH from (Cp2Co)+, νCO, and νSO."
+    },
+    "XPS_survey_spectra": {
+      "materials": ["1", "1red", "1ox"],
+      "description": "XPS survey spectra collected at 300 K."
+    },
+    "Diffuse-reflectance_UV_Visible_spectra": {
+      "materials": ["1", "1red", "1ox"],
+      "description": "Diffuse-reflectance UV-Visible spectra."
+    },
+    "Raman_spectra": {
+      "materials": ["1", "1red"],
+      "description": "Raman spectra collected at 300 K, following excitations at 785, 633, 532, and 405 nm. The Raman intensities are adjusted for better comparison between different excitation wavelengths. Note that both the νCO and νMO vibrations for 1red at 1459 and 573 cm−1, respectively, are enhanced with the excitation at 532 nm."
+    },
+    "Mn_K-edge_X-ray_absorption_spectra": {
+      "materials": ["1", "1red", "1ox", "2"],
+      "description": "Mn K-edge X-ray absorption spectra."
+    },
+    "I-V_curves": {
+      "materials": ["1", "1red"],
+      "description": "I-V curves collected at 300 K."
+    }
+  }
+}

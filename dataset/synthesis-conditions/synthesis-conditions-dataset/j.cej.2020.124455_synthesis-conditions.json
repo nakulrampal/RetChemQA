@@ -1,0 +1,107 @@
+{
+  "materials": [
+    {
+      "name": "Cu12bpy",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "details": {
+            "solvents": ["chloroform", "methanol"],
+            "amount_of_solvents": ["3 mL", "3 mL"],
+            "chemicals_used": ["S(t)BuCu", "CF3COOH", "4,4′-bipyridine"],
+            "temperature": "room temperature",
+            "time": "24 h",
+            "equipment": "4 mL vial",
+            "method": "Slow evaporation"
+          }
+        }
+      ]
+    },
+    {
+      "name": "CA-HPCH",
+      "synthesis_conditions": [
+        {
+          "step": "Carbonization",
+          "details": {
+            "precursor": "Cu12bpy",
+            "amount_of_precursor": "500 mg",
+            "temperature": "400 °C",
+            "atmosphere": "air",
+            "time": "1 h",
+            "heating_rate": "5 °C min−1"
+          }
+        },
+        {
+          "step": "NaOH treatment",
+          "details": {
+            "solvent": "2 M NaOH",
+            "time": "0.5 h",
+            "product": "MCu-HPCH"
+          }
+        },
+        {
+          "step": "In-situ azide reaction",
+          "details": {
+            "reactants": ["stearic acid", "sodium azide"],
+            "product": "CA-HPCH",
+            "time": "48 h"
+          }
+        }
+      ]
+    }
+  ],
+  "sensitivity_tests": {
+    "electrostatic_sensitivity": {
+      "method": "Electric spark device",
+      "E50_value": "1.1 mJ",
+      "formula": "E = 0.5 CU^2"
+    },
+    "impact_sensitivity": {
+      "method": "BAM drophammer",
+      "standard": "STANAG 4489"
+    },
+    "friction_sensitivity": {
+      "method": "BAM friction tester",
+      "standard": "STANAG 448739"
+    }
+  },
+  "supporting_information": {
+    "figures": [
+      {
+        "figure_S1": "Optical microscope image of Cu12bpy."
+      },
+      {
+        "figure_S2": "PXRD patterns of Cu12bpy."
+      },
+      {
+        "figure_S3": "N2 uptake isotherms of Cu12bpy under 77 K and 1 atm."
+      },
+      {
+        "figure_S4": "Pore-size distribution of Cu12bpy."
+      },
+      {
+        "figure_S5": "The FT-IR spectra of Cu12bpy."
+      },
+      {
+        "figure_S6": "PXRD patterns of Cu12bpy pyrolysis at 400 oC under air atmosphere for 1h."
+      },
+      {
+        "figure_S7": "PXRD patterns of MCu-HPCH."
+      },
+      {
+        "figure_S8": "TEM images of MCu-HPCH and corresponding EDS mapping images of Cu, O, N, S and F elements."
+      },
+      {
+        "figure_S9": "Nitrogen sorption isotherms of MCu-HPCH."
+      },
+      {
+        "figure_S10": "Pore-size distribution of MCu-HPCH."
+      }
+    ],
+    "tables": [
+      {
+        "table_S2": "The 50% input ignition voltage of CA-HPCH tested by statistical assessment methods."
+      }
+    ]
+  }
+}

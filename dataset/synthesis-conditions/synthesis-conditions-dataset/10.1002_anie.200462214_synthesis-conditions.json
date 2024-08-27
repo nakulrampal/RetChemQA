@@ -1,0 +1,79 @@
+{
+  "materials": [
+    {
+      "name": "[Co(1)2(H2O)2](NO3)2·1.5 H2O",
+      "synthesis_conditions": {
+        "temperature": "Room temperature for synthesis, 150 8C for 24 h for ligand exchange",
+        "solvents": [
+          {
+            "name": "MeOH",
+            "amount": "1 mL"
+          },
+          {
+            "name": "Toluene",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "Not specified",
+        "chemicals_used": [
+          {
+            "name": "Co(NO3)2·6 H2O",
+            "amount": "5.8 mg"
+          },
+          {
+            "name": "Ligand 1",
+            "amount": "15.0 mg"
+          }
+        ],
+        "time": "4 days for crystal growth, 24 h for ligand exchange",
+        "washing_method": "Filtration",
+        "drying_method": "Not specified",
+        "yield": "76 %",
+        "additional_steps": [
+          {
+            "step": "Heating",
+            "conditions": {
+              "temperature": "150 8C",
+              "duration": "24 h"
+            }
+          },
+          {
+            "step": "Exposure to air",
+            "conditions": {
+              "temperature": "Room temperature",
+              "duration": "A few minutes"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "[CoII(1)2(NO3)2]n",
+      "synthesis_conditions": {
+        "temperature": "150 8C for 24 h from [Co(1)2(H2O)2](NO3)2·1.5 H2O",
+        "solvents": "Not directly used in this step",
+        "equipment": "Not specified",
+        "chemicals_used": "Derived from [Co(1)2(H2O)2](NO3)2·1.5 H2O",
+        "time": "24 h",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "Obtained by heating [Co(1)2(H2O)2](NO3)2·1.5 H2O at 150 8C for 24 h"
+      }
+    },
+    {
+      "name": "[Co(1)2(H2O)2](NO3)2·1.5 H2O (2')",
+      "synthesis_conditions": {
+        "temperature": "Room temperature after exposure to air",
+        "solvents": "Not directly used in this step",
+        "equipment": "Not specified",
+        "chemicals_used": "Derived from [CoII(1)2(NO3)2]n",
+        "time": "A few minutes",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "Obtained by exposing [CoII(1)2(NO3)2]n to air at room temperature for a few minutes"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "materials": [
+    {
+      "material_id": "1",
+      "synthesis_conditions": {
+        "solvents": "aqueous solution",
+        "chemicals_used": [
+          {
+            "name": "silver acetylide",
+            "amount": "not specified"
+          },
+          {
+            "name": "silver trifluoromethanesulfonate (triflate)",
+            "amount": "not specified"
+          },
+          {
+            "name": "silver tetrafluoroborate",
+            "amount": "not specified"
+          },
+          {
+            "name": "acetonitrile",
+            "amount": "a few drops"
+          }
+        ],
+        "equipment": "plastic beaker",
+        "method_details": "Ag2C2 was added to 1 mL of a concentrated aqueous solution of AgCF3SO3 and AgBF4 (molar ratio ∼1:1) with stirring until saturated. Excess Ag2C2 was filtered off, and a few drops of MeCN were added to the filtrate. The solution was placed in a desiccator charged with P2O5.",
+        "yield": "~30%",
+        "notes": "The product is light-sensitive and decomposes readily in common solvents such as water, ethanol, and acetonitrile."
+      }
+    },
+    {
+      "material_id": "2",
+      "synthesis_conditions": {
+        "solvents": "aqueous solution",
+        "chemicals_used": [
+          {
+            "name": "silver acetylide",
+            "amount": "not specified"
+          },
+          {
+            "name": "silver trifluoromethanesulfonate (triflate)",
+            "amount": "not specified"
+          },
+          {
+            "name": "silver tetrafluoroborate",
+            "amount": "not specified"
+          },
+          {
+            "name": "C2H5CN",
+            "amount": "not specified, used instead of CH3CN"
+          }
+        ],
+        "equipment": "plastic beaker",
+        "method_details": "Prepared in a manner similar to that for 1 using C2H5CN instead of CH3CN.",
+        "yield": "~30%",
+        "notes": "Colorless platelike crystals were obtained."
+      }
+    }
+  ]
+}

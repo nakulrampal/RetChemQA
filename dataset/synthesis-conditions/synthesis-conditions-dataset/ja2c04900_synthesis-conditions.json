@@ -1,0 +1,133 @@
+{
+  "materials": [
+    {
+      "name": "MFM-300(Cr)",
+      "synthesis": {
+        "precursors": [
+          {
+            "name": "CrCl3·6H2O",
+            "amount": "283 mg",
+            "molar_amount": "1.06 mmol"
+          },
+          {
+            "name": "H4L (biphenyl-3,3′,5,5′-tetracarboxylic acid)",
+            "amount": "70 mg",
+            "molar_amount": "0.21 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "deionized water",
+            "amount": "10 mL"
+          },
+          {
+            "name": "HCl (1%)",
+            "amount": "1.5 mL"
+          }
+        ],
+        "conditions": {
+          "temperature": "210 °C",
+          "time": "3 days",
+          "equipment": "Teflon-lined steel autoclave"
+        },
+        "post_treatment": {
+          "washing": [
+            {
+              "solvent": "water",
+              "cycles": "2"
+            },
+            {
+              "solvent": "acetone",
+              "cycles": "2"
+            }
+          ],
+          "drying": {
+            "temperature": "50 °C"
+          }
+        }
+      }
+    },
+    {
+      "name": "MFM-300(Cr)-SO4(H3O)2",
+      "synthesis": {
+        "steps": [
+          {
+            "action": "Post-synthetic modification of MFM-300(Cr)",
+            "details": [
+              {
+                "step": "Stirring MFM-300(Cr) in DCM at 0 °C for 30 mins"
+              },
+              {
+                "step": "Addition of chlorosulfonic acid in DCM dropwise"
+              },
+              {
+                "time": "2h",
+                "post_treatment": {
+                  "washing": [
+                    {
+                      "solvent": "DCM",
+                      "cycles": "3"
+                    }
+                  ],
+                  "drying": {
+                    "temperature": "50 °C"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "characterization": {
+    "SEM_EDX": {
+      "MFM-300(Cr)-SO4(H3O)2": {
+        "images": "Figure S3",
+        "elements_mapped": ["Cr", "O", "S"]
+      }
+    },
+    "FTIR": {
+      "MFM-300(Cr)-SO4(H3O)2": {
+        "spectra": "Figure S4",
+        "peaks_identified": ["ν(S=O) stretching", "symmetric and asymmetric ν(S=O) stretching"]
+      }
+    },
+    "TGA": {
+      "MFM-300(Cr)-SO4(H3O)2": {
+        "profiles": "Figure S5",
+        "SO2_emission": "Figure S6"
+      }
+    },
+    "PXRD": {
+      "MFM-300(Cr)-SO4(H3O)2": {
+        "patterns": "Figure S2",
+        "comparison_with_simulated": true
+      }
+    },
+    "Water_vapor_sorption_isotherms": {
+      "MFM-300(Cr)-SO4(H3O)2": {
+        "isotherms": "Figure S17",
+        "temperature": "25 °C"
+      }
+    },
+    "NPD": {
+      "MFM-300(Cr)-SO4(H3O)2": {
+        "refinement": "Figure S19",
+        "hydrogen_bonding_networks": true
+      }
+    },
+    "In_situ_FTIR": {
+      "MFM-300(Cr)-SO4(H3O)2": {
+        "spectra": "Figure S20",
+        "RH_effects": true
+      }
+    },
+    "MD_simulation": {
+      "MFM-300(Cr)-SO4(H3O)2": {
+        "MSD_plots": "Figure S21",
+        "proton_mobility": true
+      }
+    }
+  }
+}

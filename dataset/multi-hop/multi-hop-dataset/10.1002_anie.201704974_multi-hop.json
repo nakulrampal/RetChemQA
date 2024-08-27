@@ -1,0 +1,118 @@
+{
+  "questions": [
+    {
+      "question": "What is the BET surface area of NJU-Bai 43, and how does it compare to PCN-14?",
+      "answer": "The BET surface area of NJU-Bai 43 is 3090 m2 g@1, which is higher than that of PCN-14 at 2170 m2 g@1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the introduction of the pyridyl moiety in NJU-Bai 43 affect its methane storage capacity compared to NJU-Bai 42?",
+      "answer": "The introduction of the pyridyl moiety in NJU-Bai 43 leads to a larger shuttle-shaped cage and an increase in methane storage capacity compared to NJU-Bai 42.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the relationship between pore size and CH4-framework interactions in the context of methane storage?",
+      "answer": "Larger pore sizes and higher pore volumes in MOFs like NJU-Bai 43 lead to decreased CH4-framework interactions, which is beneficial for methane storage.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What role does the pore surface chemistry play in the methane storage performance of MOFs?",
+      "answer": "The pore surface chemistry, such as the introduction of polar amide moieties or pyridyl groups, can decrease CH4-framework interactions and enhance methane storage performance.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the volumetric working capacity of NJU-Bai 43 at 298 K and 65 bar compare to that of PCN-14?",
+      "answer": "NJU-Bai 43 has a volumetric working capacity of 198 cm3 (STP) cm@3 at 298 K and 65 bar, which is significantly higher than that of PCN-14 at 157 cm3 (STP) cm@3.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of temperature on the methane working capacity of NJU-Bai 43 compared to NJU-Bai 41?",
+      "answer": "The methane working capacity of NJU-Bai 43 increases when the temperature is decreased from 298 K to 273 K, unlike NJU-Bai 41, which shows a decrease in working capacity with a temperature decrease.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Considering the synthesis of NJU-Bai 41, 42, and 43, which modification leads to the highest increase in methane working capacity?",
+      "answer": "The modification leading to NJU-Bai 43, which involves replacing one amide moiety with a pyridine ring, results in the highest increase in methane working capacity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is a high Qst generally undesirable for adsorptive gas storage in MOFs?",
+      "answer": "A high Qst leads to relatively high uptake at low pressure, thereby reducing the working capacity, which is undesirable for adsorptive gas storage in MOFs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the structural integrity of NJU-Bai MOFs affect their methane storage capabilities?",
+      "answer": "The structural integrity, confirmed by PXRD data, ensures that the MOFs maintain their designed pore sizes and surface areas, which are crucial for their methane storage capabilities.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of optimizing pore size in MOFs for methane storage?",
+      "answer": "Optimizing pore size in MOFs, such as achieving sizes suitable for closely packing CH4 molecules, enhances space utilization and increases methane storage capacity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the change in pore surface chemistry from NJU-Bai 41 to NJU-Bai 43 influence methane adsorption at low pressure?",
+      "answer": "The change in pore surface chemistry, such as the introduction of polar amide moieties and pyridyl groups, decreases CH4-framework interactions, leading to lower methane adsorption at low pressure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the volumetric working capacity considered a crucial parameter for evaluating the practical utility of adsorbents for adsorptive natural gas (ANG)?",
+      "answer": "The volumetric working capacity is crucial because it measures the CH4 uptake between storage and deliverable pressure, indicating how much gas can be effectively stored and delivered, especially important for light-duty vehicles with limited space for on-board fuel storage.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: NJU-Bai 43 has a lower BET surface area than PCN-14.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The introduction of slender oxamide moieties in NJU-Bai 42 leads to a decrease in methane-framework interactions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: NJU-Bai 43's methane storage performance is unaffected by temperature changes.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: High Qst values are beneficial for achieving high methane working capacity in MOFs.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The volumetric working capacity of NJU-Bai 43 is lower than that of UTSA-76 and Co(bdp) under the same conditions.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The gravimetric storage capacity of NJU-Bai 43 is the highest among MOFs with volumetric working capacity above 190 cm3 (STP) cm@3 between 65 bar and 5 bar at 298 K.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The structural modifications from NJU-Bai 41 to NJU-Bai 43 do not significantly impact the MOFs' methane storage capacities.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

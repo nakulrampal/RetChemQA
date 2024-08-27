@@ -1,0 +1,84 @@
+{
+  "materials": [
+    {
+      "name": "K2Fe(ox)2",
+      "synthesis_conditions": {
+        "temperature": "225 8C",
+        "time": "4 h heating, 14 h cooling to room temperature",
+        "solvents": [
+          {
+            "name": "distilled water",
+            "amount": "7 mL, 390 mmol"
+          },
+          {
+            "name": "ethanol",
+            "purpose": "precipitation of KBr and washing"
+          },
+          {
+            "name": "glycerol",
+            "amount": "80 mL",
+            "purpose": "dissolving KBr"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "FeCl2(H2O)4",
+            "amount": "0.419 g, 2.12 mmol"
+          },
+          {
+            "name": "K2ox(H2O)",
+            "amount": "0.960 g, 5.02 mmol"
+          },
+          {
+            "name": "KBr",
+            "amount": "5.97 g, 50.2 mmol"
+          }
+        ],
+        "equipment": "23-mL capacity Teflon-lined autoclave",
+        "yield": "0.4239 mg, 1.48 mmol, 70 %",
+        "drying_method": "dried under suction; dried in air",
+        "washing_method": "sonication in ethanol; washed with methanol"
+      }
+    },
+    {
+      "name": "K2Co(ox)2",
+      "synthesis_conditions": {
+        "temperature": "225 8C",
+        "time": "4 h heating, 14 h cooling to room temperature",
+        "solvents": [
+          {
+            "name": "distilled water",
+            "amount": "5 mL, 280 mmol"
+          },
+          {
+            "name": "ethanol",
+            "purpose": "precipitation of KBr and washing"
+          },
+          {
+            "name": "glycerol",
+            "amount": "80 mL",
+            "purpose": "dissolving KBr"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CoCl2(H2O)6",
+            "amount": "0.29 g, 1.2 mmol"
+          },
+          {
+            "name": "K2ox(H2O)",
+            "amount": "0.59 g, 3.2 mmol"
+          },
+          {
+            "name": "KBr",
+            "amount": "15.96 g, 134.1 mmol"
+          }
+        ],
+        "equipment": "23-mL capacity Teflon-lined autoclave",
+        "yield": "123 mg, 33 %",
+        "drying_method": "dried under suction; dried in air",
+        "washing_method": "sonication in ethanol; washed with methanol"
+      }
+    }
+  ]
+}

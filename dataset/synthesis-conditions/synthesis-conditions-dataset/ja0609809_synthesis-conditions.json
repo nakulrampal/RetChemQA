@@ -1,0 +1,116 @@
+{
+  "materials": [
+    {
+      "name": "[UO2I2Py3]",
+      "synthesis_conditions": {
+        "solvents": "pyridine",
+        "solvent_amounts": {
+          "pyridine": "1.5 mL"
+        },
+        "chemicals_used": {
+          "pyridine-N-oxide": {
+            "amount": "10.5 mg",
+            "molarity": "110 µmol",
+            "equivalents": "2 eq."
+          },
+          "UI3(thf)4": {
+            "amount": "50 mg",
+            "molarity": "55 µmol",
+            "equivalents": "1 eq."
+          }
+        },
+        "yield": "40%",
+        "drying_method": "Slow diffusion of n-hexane",
+        "time": "1 day",
+        "product_form": "dark-red crystals"
+      }
+    },
+    {
+      "name": "{[UO2Py5][KI2Py2]}n",
+      "synthesis_conditions": [
+        {
+          "method": "slow air diffusion",
+          "solvents": "pyridine",
+          "solvent_amounts": {
+            "pyridine": "0.4 mL"
+          },
+          "chemicals_used": {
+            "UI3(thf)4": {
+              "amount": "15.0 mg",
+              "molarity": "17 µmol",
+              "equivalents": "1 eq."
+            },
+            "potassium iodide": {
+              "amount": "2.7 mg",
+              "molarity": "17 µmol",
+              "equivalents": "1 eq."
+            }
+          },
+          "yield": "28%",
+          "time": "3 to 4 weeks",
+          "product_form": "orange crystalline needles"
+        },
+        {
+          "method": "pyridine-N-oxide and water mixture",
+          "solvents": "pyridine",
+          "solvent_amounts": {
+            "pyridine": "1 mL"
+          },
+          "chemicals_used": {
+            "pyridine-N-oxide": {
+              "amount": "5.2 mg",
+              "molarity": "55 µmol",
+              "equivalents": "1 eq."
+            },
+            "water": {
+              "amount": "110 µL of a 0.5 M solution in pyridine",
+              "molarity": "55 µmol",
+              "equivalents": "1 eq."
+            },
+            "UI3(thf)4": {
+              "amount": "50 mg",
+              "molarity": "55 µmol",
+              "equivalents": "1 eq."
+            },
+            "potassium iodide": {
+              "amount": "9.2 mg",
+              "molarity": "55 µmol",
+              "equivalents": "1 eq."
+            }
+          },
+          "yield": "54%",
+          "time": "1 week",
+          "product_form": "bright orange needles"
+        }
+      ]
+    },
+    {
+      "name": "[(UO2(salophen)(py)]+",
+      "synthesis_conditions": {
+        "solvents": "pyridine",
+        "solvent_amounts": {
+          "pyridine": "0.6 mL"
+        },
+        "chemicals_used": {
+          "salophen": {
+            "amount": "1.4 mg",
+            "molarity": "4.4 µmol",
+            "equivalents": "1 eq."
+          },
+          "sodium hydride": {
+            "amount": "0.3 mg",
+            "molarity": "12.5 µmol",
+            "equivalents": "2.7 eq."
+          },
+          "{[UO2Py5][KI2Py2]}n": {
+            "amount": "5 mg",
+            "molarity": "4.5 µmol",
+            "equivalents": "1 eq."
+          }
+        },
+        "time": "10 minutes",
+        "product_form": "green solution"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "materials": [
+    {
+      "name": "bio-MOF-101",
+      "synthesis_conditions": {
+        "solvents": ["DMF", "NMP", "water"],
+        "solvent_amounts": {
+          "DMF": "9 ml",
+          "NMP": "3 ml",
+          "water": "1.5 ml"
+        },
+        "chemicals_used": ["Zn(OAc)2 • 6H2O", "adenine", "2,6-naphthalene dicarboxylic acid (H2-NDC)"],
+        "temperature": "85 °C",
+        "time": "24 hours",
+        "yield": "95 % based on adenine"
+      }
+    },
+    {
+      "name": "bio-MOF-100",
+      "synthesis_conditions": {
+        "initial_material": "bio-MOF-101",
+        "solvents": ["DMF", "NMP"],
+        "solvent_ratio": "DMF:NMP = 1:1",
+        "chemicals_used": ["H2-BPDC"],
+        "solution_concentration": "0.05 M",
+        "amount_of_solution": "4 ml",
+        "temperature": "75 °C",
+        "time": "2 cycles of 24 hours each",
+        "washing_method": "thoroughly washed with hot DMF"
+      }
+    },
+    {
+      "name": "bio-MOF-102",
+      "synthesis_conditions": {
+        "initial_material": "bio-MOF-100",
+        "solvents": ["DMF"],
+        "chemicals_used": ["H2-ABDC"],
+        "solution_concentration": "0.05 M",
+        "amount_of_solution": "4 ml",
+        "temperature": "75 °C",
+        "time": "2 cycles of 24 hours each",
+        "washing_method": "thoroughly washed with hot DMF until the solution was colorless"
+      }
+    },
+    {
+      "name": "bio-MOF-103",
+      "synthesis_conditions": {
+        "initial_material": "bio-MOF-102",
+        "solvents": ["DMF"],
+        "chemicals_used": ["H2-NH2TPDC"],
+        "solution_concentration": "0.05 M",
+        "amount_of_solution": "2 ml",
+        "temperature": "75 °C",
+        "time": "2 cycles of 24 hours each",
+        "washing_method": "thoroughly washed with hot DMF until the solution showed no or very weak fluorescence under a UV lamp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "materials": [
+    {
+      "name": "CAMOF-1",
+      "synthesis_conditions": {
+        "temperature": "85 ºC",
+        "solvents": ["water"],
+        "chemicals_used": [
+          {"name": "CuCl2", "amount": "5 mM"},
+          {"name": "Gd(NO3)3·6H2O", "amount": "10 mM"},
+          {"name": "DOTP", "amount": "5 mM"}
+        ],
+        "pH": "3",
+        "time": "12 hours",
+        "equipment": ["capped vial", "oven"],
+        "washing_method": "filtered off and washed with water"
+      }
+    },
+    {
+      "name": "nanoCAMOF-1",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": ["water"],
+        "chemicals_used": [
+          {"name": "CuCl2", "amount": "30 mM"},
+          {"name": "Gd(NO3)3·6H2O", "amount": "60 mM"},
+          {"name": "DOTP (deprotonated)", "amount": "30 mM"}
+        ],
+        "pH": "8",
+        "equipment": ["centrifuge"],
+        "washing_method": "collected by centrifugation and redispersed in water, repeated three times",
+        "drying_method": "redispersed in water, saline solution (0.9% w/w), DMEM or HEPES"
+      }
+    }
+  ]
+}

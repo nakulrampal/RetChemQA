@@ -1,0 +1,39 @@
+{
+  "materials": [
+    {
+      "name": "DTEMOF ([Cd(nip)(PyDTEopen)(DMF)2(H2O)]n)",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "0.4 mL"
+          },
+          {
+            "name": "MeOH",
+            "amount": "0.4 mL"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "5-nitroisophthalic acid (nipH2)",
+            "amount": "3.4 mg, 16 µmol"
+          },
+          {
+            "name": "PyDTEopen",
+            "amount": "8.4 mg, 16 µmol"
+          },
+          {
+            "name": "Cd(NO3)2·4H2O",
+            "amount": "4.9 mg, 16 µmol"
+          }
+        ],
+        "procedure": "The mixture was stirred at 20 °C for 4 days. The collected solid was washed with a mixture of DMF and MeOH (1/1, v/v) for three times and dried in vacuo at 20 °C.",
+        "yield": "60%, based on PyDTEopen",
+        "drying_method": "Dried in vacuo at 20 °C",
+        "washing_method": "Washed with a mixture of DMF and MeOH (1/1, v/v) for three times",
+        "temperature": "20 °C",
+        "time": "4 days"
+      }
+    }
+  ]
+}

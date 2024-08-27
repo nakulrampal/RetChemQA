@@ -1,0 +1,31 @@
+{
+  "materials": [
+    {
+      "name": "(Pd.py.porph).2Cd(N03)2.hydrate",
+      "synthesis_conditions": {
+        "equipment": "Enraf-Nonius CAD-4F diffractometer",
+        "temperature": "295 K",
+        "radiation": "Mo Ka (graphite monochromator)",
+        "wavelength": "0.71069 A",
+        "scan_mode": "co:20",
+        "time_per_intensity_control": "measured every 12,000 s",
+        "no_of_intensity_control_reflections": "3",
+        "no_of_reflections_collected": "2744",
+        "no_of_unique_reflections": "1239",
+        "R_int": "0.056",
+        "refinement_method": "Full-matrix least-squares; function minimized SwA2 (SHELX-76)",
+        "no_of_reflections_used_in_refinement": "727",
+        "no_of_parameters": "167",
+        "R": "0.101",
+        "Rw": "0.092",
+        "goodness_of_fit": "1.59",
+        "max_shift/esd": "0.020",
+        "residual_electron_density": {
+          "max": "0.83 e A^-3",
+          "min": "-0.78 e A^-3",
+          "distance_from_Pd_atom": "1.31 A"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "materials": [
+    {
+      "name": "BUT-32",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "solvents": "DMF:H2O (1:0.1 v/v), 1.1 mL",
+        "modulator": "Acetic acid, 15 μL",
+        "metal_salt": "Ni(NO3)2·6H2O, 7 mg",
+        "ligand": "H3TPTA, 4 mg",
+        "time": "72 h",
+        "washing_method": "Washed with DMF (2 × 10 mL) and acetone (3 × 10 mL)",
+        "drying_method": "Dried under reduced pressure at room temperature",
+        "yield": "63% based on the H3TPTA",
+        "crystal_data": {
+          "CCDC": "1963828",
+          "formula": "C60H36N18Ni3",
+          "crystal_system": "Cubic",
+          "space_group": "Im-3m",
+          "a": "28.5560(4) Å",
+          "b": "28.5560(4) Å",
+          "c": "28.5560(4) Å",
+          "alpha": "90°",
+          "beta": "90°",
+          "gamma": "90°",
+          "volume": "23285.9(10) Å3",
+          "Z": "24",
+          "density": "0.676 g cm–3",
+          "mu": "0.784 mm–1",
+          "temperature": "293(2) K",
+          "reflections_collected": "12184",
+          "independent_reflections": "2016 [Rint = 0.1454]",
+          "goodness_of_fit_on_F2": "0.956",
+          "R1": "0.0637 [I > 2σ(I)]",
+          "wR2": "0.1612 [I > 2σ(I)]",
+          "largest_diff_peak_and_hole": "0.22/–0.50 e.Å–3"
+        }
+      }
+    },
+    {
+      "name": "BUT-33",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "solvents": "DMF, 4 mL",
+        "modulator": "None",
+        "metal_salt": "Ni(OAc)2·4H2O, 15 mg",
+        "ligand": "H3TPTA, 20 mg",
+        "time": "2 h",
+        "stirring": "Vigorous stirring",
+        "crystal_data": {
+          "CCDC": "1938683",
+          "formula": "C60H36N18Ni3",
+          "crystal_system": "Cubic",
+          "space_group": "Pm-3m",
+          "a": "28.723(4) Å",
+          "Z": "3",
+          "temperature": "293 K",
+          "wavelength": "1.54178 Å",
+          "2theta_range": "3.07333 – 45.27401°",
+          "Rp": "0.0721",
+          "Rwp": "0.0940",
+          "Rexp": "0.0670",
+          "GOF": "1.402"
+        },
+        "structural_determination": {
+          "tilt_range": "-50.9 to 52.7°",
+          "tilt_rate": "0.45° s–1",
+          "exposure_time_per_frame": "0.5 s",
+          "total_number_of_frames": "408",
+          "data_collection_time": "3.9 min",
+          "resolution": "1.50 Å",
+          "completeness": "99.6%",
+          "number_of_unique_reflections": "891",
+          "number_of_observed_reflections": "542",
+          "R1": "0.205 [I > 2 sigma(I)]",
+          "Rint": "0.304",
+          "Goof": "1.861"
+        }
+      }
+    }
+  ]
+}

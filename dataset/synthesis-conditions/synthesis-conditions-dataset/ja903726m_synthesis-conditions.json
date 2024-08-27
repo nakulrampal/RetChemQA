@@ -1,0 +1,35 @@
+{
+  "materials": [
+    {
+      "name": "MIL-125 or Ti8O8(OH)4[O2C-C6H4-CO2]6",
+      "synthesis_conditions": {
+        "temperature": "150°C",
+        "time": "15 hours",
+        "solvents": [
+          {
+            "name": "dimethylformamide (DMF)",
+            "amount": "4.5 ml"
+          },
+          {
+            "name": "dry methanol",
+            "amount": "0.5 ml"
+          }
+        ],
+        "equipment": "23 ml Teflon liner in a metallic PAAR digestion bomb",
+        "chemicals_used": [
+          {
+            "name": "terephthalic acid or 1,4 Benzenedicarboxylic acid",
+            "amount": "1.5 mmol (250 mg)"
+          },
+          {
+            "name": "titanium isoproproxide Ti(OiPr)4",
+            "amount": "1 mmol (0.3 ml)"
+          }
+        ],
+        "washing_method": "washed twice with acetone",
+        "drying_method": "dried under air at room temperature",
+        "yield_removal_method": "calcination at 200°C overnight for 12 hours"
+      }
+    }
+  ]
+}

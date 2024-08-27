@@ -1,0 +1,63 @@
+{
+  "materials": [
+    {
+      "name": "1·DMF",
+      "synthesis_conditions": {
+        "temperature": "100 ºC",
+        "solvents": "DMF/C2H5OH",
+        "amount_of_each_solvent": "6 mL, v/v = 5/1",
+        "equipment": "Teflon-lined stainless steel vessel (20 mL)",
+        "chemicals_used": {
+          "Htba": "37.8 mg, 0.2 mmol",
+          "Cu(NO3)2": "18.7 mg, 0.1 mmol"
+        },
+        "time": "three days",
+        "cooling_rate": "5 ºC/h",
+        "yield": "75% (38.6 mg)"
+      }
+    },
+    {
+      "name": "1 (1·DMF1)",
+      "synthesis_conditions": {
+        "drying_method": "vacuum",
+        "temperature": "150 °C",
+        "time": "one week"
+      }
+    },
+    {
+      "name": "1·H2O",
+      "synthesis_conditions": {
+        "solvent": "water",
+        "time": "five minutes"
+      }
+    },
+    {
+      "name": "1 (1·H2O1)",
+      "synthesis_conditions": {
+        "drying_method": "vacuum",
+        "temperature": "150 °C",
+        "time": "one week"
+      }
+    },
+    {
+      "name": "1·0.75CO2",
+      "synthesis_conditions": {
+        "equipment": "Tousimis Samdri PVT-3D critical point dryer",
+        "procedure": "Filling of liquid CO2 for ca. two hours and then vented from the chamber. Sample immediately removed to a liquid nitrogen bath, where one end of glass capillary was sealed by petrolatum.",
+        "temperature": "120 K"
+      }
+    },
+    {
+      "name": "1 (1·0.75CO21)",
+      "synthesis_conditions": {
+        "procedure": "Breaking off one end of the glass capillary holding the single-crystal sample 1·0.75CO2"
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "exposure_condition": "Exposed in air for ca. one month"
+      }
+    }
+  ]
+}

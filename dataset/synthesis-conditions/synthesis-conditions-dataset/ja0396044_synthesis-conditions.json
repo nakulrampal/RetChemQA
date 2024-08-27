@@ -1,0 +1,58 @@
+{
+  "materials": [
+    {
+      "material": "Potassium o-nitrophenolate (1)",
+      "synthesis_conditions": {
+        "solvents": ["THF"],
+        "amount_of_solvents": ["20 mL"],
+        "chemicals_used": ["o-nitrophenole", "tBuOK"],
+        "amount_of_chemicals": ["500 mg (3.6 mmol)", "425 mg (3.8 mmol)"],
+        "equipment": ["Schlenk-type glassware"],
+        "temperature": ["reflux"],
+        "time": ["1 h"],
+        "washing_method": ["THF (2 x 10 mL), n-pentane (10 mL)"],
+        "drying_method": ["vacuum"],
+        "yield": "508 mg (84 %)"
+      }
+    },
+    {
+      "material": "[(THF)4{K(o-O2N-C6H4-O)4Ln}4]n (Ln = Er (2b))",
+      "synthesis_conditions": {
+        "solvents": ["THF", "n-pentane"],
+        "amount_of_solvents": ["25 mL", "layered on top of the solution (THF/ n-pentane: 1:4)"],
+        "chemicals_used": ["LnCl3", "1"],
+        "amount_of_chemicals": ["2.0 mmol", "1.063 g (6.0 mmol)"],
+        "equipment": ["Schlenk-type glassware"],
+        "temperature": ["room temperature"],
+        "time": ["16 h"],
+        "yield": "665 mg (40 %)"
+      }
+    },
+    {
+      "material": "H18[Ln14(µ-η2-o-O2N-C6H4-O)8(η2-o-O2N-C6H4-O)16(µ4-O)2(µ3-O)16] (Ln = Dy (3a), Tm (3c))",
+      "synthesis_conditions": {
+        "solvents": ["THF", "n-hexane"],
+        "amount_of_solvents": ["25 mL", "layered on top of the solution (THF/ n-hexane: 1:4)"],
+        "chemicals_used": ["LnCl3", "1"],
+        "amount_of_chemicals": ["2.0 mmol", "1.063 g (6.0 mmol)"],
+        "equipment": ["Schlenk-type glassware"],
+        "temperature": ["room temperature"],
+        "time": ["16 h"],
+        "yield": ["3a: 135 mg (16 %)", "3c: 141 mg (15 %)"]
+      }
+    },
+    {
+      "material": "[K2(o-O2N-C6H4-O)5Tb]n (4) and [K2(o-O2N-C6H4-O)5Ln]n (Ln = Sm (5a), Eu (5b))",
+      "synthesis_conditions": {
+        "solvents": ["THF", "n-pentane"],
+        "amount_of_solvents": ["25 mL", "layered on top of the solution (THF/ n-pentane: 1:4)"],
+        "chemicals_used": ["LnCl3", "1"],
+        "amount_of_chemicals": ["2.0 mmol", "1.772 g (10.0 mmol)"],
+        "equipment": ["Schlenk-type glassware"],
+        "temperature": ["room temperature"],
+        "time": ["16 h"],
+        "yield": ["4: 524 mg (28 %)", "5a: 712 mg (37 %)", "5b: 375 mg (20 %)"]
+      }
+    }
+  ]
+}

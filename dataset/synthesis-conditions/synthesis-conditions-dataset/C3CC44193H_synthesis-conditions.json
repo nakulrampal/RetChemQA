@@ -1,0 +1,57 @@
+{
+  "materials": [
+    {
+      "name": "[Cu2(glu)2(µ-bpp)]·2H2O (1)",
+      "synthesis_conditions": {
+        "solvent": "water",
+        "chemicals_used": [
+          {"chemical": "copper sulfate", "amount_mmol": 0.25, "amount_g": 0.0628},
+          {"chemical": "glutaric acid", "amount_mmol": 0.25, "amount_g": 0.033},
+          {"chemical": "urea", "amount_mmol": 0.872, "amount_g": 0.054},
+          {"chemical": "4,4'-trimethylene-dipyridine", "amount_mmol": 0.25, "amount_g": 0.046}
+        ],
+        "reaction_conditions": {
+          "temperature": "room temperature",
+          "time": "one week"
+        },
+        "post_synthesis_steps": {
+          "crystal_handling": "filtered off and air-dried",
+          "yield": "60%"
+        }
+      }
+    }
+  ],
+  "gas_adsorption_conditions": [
+    {
+      "material": "[Cu2(glu)2(µ-bpp)]·2H2O (1)",
+      "gases_tested": ["N2", "CO2", "CH4", "H2"],
+      "adsorption_temperatures_K": [77, 273],
+      "adsorption_pressure_bar": [1, 30],
+      "observations": {
+        "N2": "non-porous at 1 bar and 77 K",
+        "CO2": {
+          "adsorption_behavior": "type III isotherm",
+          "maximum_uptake_wt%": 15.75,
+          "temperature_K": 273
+        },
+        "CH4": {
+          "adsorption_behavior": "almost no adsorption",
+          "maximum_uptake_wt%": 0.25,
+          "temperature_K": 273
+        },
+        "H2": {
+          "adsorption_behavior": "type I isotherm",
+          "maximum_uptake_wt%": 2.24,
+          "temperature_K": 77
+        }
+      }
+    }
+  ],
+  "high_pressure_X-ray_diffraction_conditions": {
+    "material": "[Cu2(glu)2(µ-bpp)]·2H2O (1)",
+    "equipment": "Diamond Anvil Cell",
+    "pressure_range_GPa": "up to 4.5",
+    "solvent_for_pressure_calibration": "methanol-ethanol mixture (4:1)",
+    "observations": "Despite possible conformational rearrangements, the bpp ligand remains stiff and largely unchanged throughout compression, while the glutarate-Cu moiety experiences a small but progressive distortion."
+  }
+}

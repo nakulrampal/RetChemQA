@@ -1,0 +1,42 @@
+{
+  "MOFF-4": {
+    "synthesis_conditions": {
+      "temperature": "60 ˚C",
+      "solvents": ["N,N-dimethylformamide (DMF)", "EtOH"],
+      "solvent_amounts": {
+        "DMF": "not specified",
+        "EtOH": "not specified"
+      },
+      "equipment": "not specified",
+      "chemicals_used": ["Cu(NO3)2·2.5 H2O", "ligand 1"],
+      "time": "4 days",
+      "washing_method": "not specified",
+      "drying_method": "not specified",
+      "yield": "not specified",
+      "additional_information": "Greenish-blue crystals of MOFF-4 were isolated."
+    }
+  },
+  "MOFF-5": {
+    "synthesis_conditions": {
+      "temperature": "40 ˚C",
+      "solvents": ["N,N-diethylformamide (DEF)", "MeOH", "H2O"],
+      "solvent_amounts": {
+        "DEF": "not specified",
+        "MeOH": "not specified",
+        "H2O": "not specified"
+      },
+      "equipment": "not specified",
+      "chemicals_used": ["CuCl2·2 H2O", "ligand 2"],
+      "time": "7 days",
+      "washing_method": "not specified",
+      "drying_method": "Supercritical carbon dioxide (SCD) drying",
+      "yield": "not specified",
+      "additional_information": "Green cubic crystals of MOFF-5 were isolated."
+    }
+  },
+  "General_Information": {
+    "activation_method_MOFF-4": "Despite extensive attempts to optimize activation methods, MOFF-4 lost its crystallinity and porosity under all conditions.",
+    "activation_method_MOFF-5": "MOFF-5 maintained its crystallinity after activation by supercritical carbon dioxide (SCD) drying.",
+    "thermal_stability": "The decomposition temperatures for MOFF-4 and MOFF-5 are lower than those for similar non-fluorinated networks, possibly due to the weaker metal–ligand coordination."
+  }
+}

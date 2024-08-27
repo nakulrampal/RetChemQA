@@ -1,0 +1,59 @@
+{
+  "materials": [
+    {
+      "name": "[(CH3)2NH2]M(HCOO)3",
+      "synthesis_conditions": [
+        {
+          "temperature": "140 °C",
+          "solvents": [
+            {
+              "name": "DMF in water",
+              "volume": "60 mL",
+              "ratio": "50 vol % DMF"
+            }
+          ],
+          "equipment": "Teflon-lined autoclave",
+          "chemicals_used": "Metal chloride salts (5 mmol)",
+          "time": "3 days",
+          "crystallization_method": "room temperature crystallization",
+          "crystallization_time": "another 3 day period",
+          "crystal_color": {
+            "Mn": "cubic colorless",
+            "Fe": "cubic colorless",
+            "Co": "red",
+            "Ni": "green"
+          }
+        }
+      ]
+    },
+    {
+      "name": "DMFeF",
+      "synthesis_conditions": [
+        {
+          "notes": "DMFeF has not previously been reported in the literature."
+        }
+      ]
+    },
+    {
+      "name": "DMNiF",
+      "synthesis_conditions": [
+        {
+          "PXRD_conditions": {
+            "temperature": "10 K",
+            "unit_cell_dimensions": {
+              "a": "14.451(8) Å",
+              "b": "8.376(3) Å",
+              "c": "8.952(4) Å",
+              "beta": "120.879(7)°"
+            },
+            "PXRD_pattern_colors": {
+              "pattern": "red",
+              "simulated_pattern": "blue",
+              "difference_plot": "orange"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

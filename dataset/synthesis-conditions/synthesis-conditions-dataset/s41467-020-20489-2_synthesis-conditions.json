@@ -1,0 +1,74 @@
+{
+  "materials": [
+    {
+      "name": "MUF-16",
+      "synthesis": {
+        "chemicals_used": [
+          "5-aminoisophthalic acid (H2aip)",
+          "cobalt(II) salts",
+          "methanol"
+        ],
+        "general_formula": "[M(Haip)2]",
+        "yield": "94% based on cobalt",
+        "crystal_structure": "I2/a space group",
+        "pore_dimensions": "3.6 × 7.6 Å",
+        "pore_volume": "0.11 cm3/g",
+        "BET_surface_area": "214 m2/g",
+        "thermal_stability": "beyond 330 °C",
+        "chemical_stability": "stable in water and humid air",
+        "CO2_uptake": "2.13 mmol/g at 1 bar and 293 K",
+        "Qst_CO2": "32 kJ/mol at zero-coverage",
+        "CO2_selectivity_over_CH4": "6690 (IAST, 50/50 CO2/CH4 at 1 bar and 293 K)",
+        "CO2_selectivity_over_C2H2": "510 (IAST, 50/50 CO2/C2H2 at 1 bar and 293 K)"
+      }
+    },
+    {
+      "name": "MUF-16(Mn)",
+      "synthesis": {
+        "chemicals_used": [
+          "5-aminoisophthalic acid (H2aip)",
+          "manganese(II) salts",
+          "methanol",
+          "NH4NO3",
+          "CH3CN"
+        ],
+        "general_formula": "[Mn(Haip)2]",
+        "yield": "40% based on Mn",
+        "crystal_structure": "I2/a space group",
+        "pore_dimensions": "3.6 × 7.6 Å",
+        "pore_volume": "0.12 cm3/g",
+        "BET_surface_area": "205 m2/g",
+        "thermal_stability": "beyond 330 °C",
+        "chemical_stability": "stable in water and humid air",
+        "CO2_uptake": "2.25 mmol/g at 1 bar and 293 K",
+        "Qst_CO2": "37 kJ/mol at zero-coverage",
+        "CO2_selectivity_over_CH4": "470 (IAST, 50/50 CO2/CH4 at 1 bar and 293 K)",
+        "CO2_selectivity_over_C2H2": "31 (IAST, 50/50 CO2/C2H2 at 1 bar and 293 K)"
+      }
+    },
+    {
+      "name": "MUF-16(Ni)",
+      "synthesis": {
+        "chemicals_used": [
+          "5-aminoisophthalic acid (H2aip)",
+          "nickel(II) salts",
+          "methanol",
+          "NH4NO3",
+          "CH3CN"
+        ],
+        "general_formula": "[Ni(Haip)2]",
+        "yield": "53% based on Ni",
+        "crystal_structure": "I2/a space group",
+        "pore_dimensions": "3.6 × 7.6 Å",
+        "pore_volume": "0.11 cm3/g",
+        "BET_surface_area": "204 m2/g",
+        "thermal_stability": "beyond 330 °C",
+        "chemical_stability": "stable in water and humid air",
+        "CO2_uptake": "2.13 mmol/g at 1 bar and 293 K",
+        "Qst_CO2": "37 kJ/mol at zero-coverage",
+        "CO2_selectivity_over_CH4": "1220 (IAST, 50/50 CO2/CH4 at 1 bar and 293 K)",
+        "CO2_selectivity_over_C2H2": "46 (IAST, 50/50 CO2/C2H2 at 1 bar and 293 K)"
+      }
+    }
+  ]
+}

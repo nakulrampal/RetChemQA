@@ -1,0 +1,321 @@
+{
+  "materials": [
+    {
+      "material": "2,4‘-Bipyridine (2,4‘-bipy)",
+      "conditions": {
+        "solvents": [
+          {
+            "name": "toluene",
+            "amount": "5 cm3"
+          },
+          {
+            "name": "acetone",
+            "amount": "3:1 ratio with toluene"
+          }
+        ],
+        "temperature": "80 °C",
+        "time": "3 days",
+        "chemicals_used": [
+          "Na2CO3",
+          "2(4-pyridyl)-4,4,5,5-tetramethyl-1,3-dioxabororane",
+          "2-bromopyridine",
+          "Pd(PPh3)4"
+        ],
+        "yield": "57%",
+        "drying_method": "Na2SO4",
+        "purification_method": "column chromatography"
+      }
+    },
+    {
+      "material": "2,4‘-(1,2-Ethynyl)bipyridine (2,4‘-pyac)",
+      "conditions": {
+        "solvents": [
+          {
+            "name": "triethylamine",
+            "amount": "5 cm3"
+          }
+        ],
+        "temperature": "70 °C",
+        "time": "20 h",
+        "chemicals_used": [
+          "2-Bromopyridine",
+          "Pd(PPh3)4",
+          "copper(I) bromide",
+          "4-ethynylpyridine"
+        ],
+        "yield": "85%",
+        "purification_method": "recrystallization from petroleum ether (60−80 °C)"
+      }
+    },
+    {
+      "material": "2,4‘-(4-Ethynylphenyl)bipyridine (2,4‘-pyacph)",
+      "conditions": [
+        {
+          "step": 1,
+          "solvents": [
+            {
+              "name": "acetone/water",
+              "amount": "50 cm3 (40/60 mixture)"
+            }
+          ],
+          "temperature": "-10 °C",
+          "chemicals_used": [
+            "4-(4‘-Aminophenyl)pyridine",
+            "HBF4",
+            "NaNO2",
+            "KI",
+            "Na2S2O3",
+            "Na2CO3"
+          ],
+          "yield": "61%",
+          "purification_method": "recrystallization from toluene"
+        },
+        {
+          "step": 2,
+          "solvents": [
+            {
+              "name": "triethylamine",
+              "amount": "2 cm3"
+            }
+          ],
+          "temperature": "20 °C to reflux",
+          "time": "40 h",
+          "chemicals_used": [
+            "4-(4‘-iodophenyl)pyridine",
+            "2-ethynylpyridine",
+            "Pd(PPh3)4",
+            "Pd(PPh3)2Cl2",
+            "copper(I) bromide"
+          ],
+          "yield": "55%",
+          "purification_method": "column chromatography"
+        }
+      ]
+    },
+    {
+      "material": "2,4‘-(4-Phenylethynyl)bipyridine (2,4‘-pyphac)",
+      "conditions": [
+        {
+          "step": 1,
+          "solvents": [
+            {
+              "name": "chloroform",
+              "amount": "15 cm3"
+            }
+          ],
+          "temperature": "room temperature to reflux",
+          "time": "30 min",
+          "chemicals_used": [
+            "4-Bromoiodobenzene",
+            "4-ethynylpyridine",
+            "Pd(PPh3)2Cl2",
+            "copper(I) bromide"
+          ],
+          "yield": "97%",
+          "purification_method": "dissolved in chloroform"
+        },
+        {
+          "step": 2,
+          "solvents": [
+            {
+              "name": "deoxygenated toluene",
+              "amount": "30 cm3"
+            }
+          ],
+          "temperature": "110 °C",
+          "time": "12 h",
+          "chemicals_used": [
+            "4-(4-bromophenylethynyl)pyridine",
+            "dimethyl-2-pyridylboronate",
+            "potassium hydroxide",
+            "Pd(PPh3)4",
+            "tetraethylammonium bromide"
+          ],
+          "yield": "56%",
+          "purification_method": "column chromatography"
+        }
+      ]
+    },
+    {
+      "material": "1, [Cd(NO3)2(4-phenylpyridine)3](MeCN)2",
+      "conditions": {
+        "solvents": [
+          {
+            "name": "MeCN",
+            "amount": "2 cm3"
+          },
+          {
+            "name": "dichloromethane",
+            "amount": "2 cm3"
+          }
+        ],
+        "chemicals_used": [
+          "Cd(NO3)2·4H2O",
+          "4-phenylpyridine"
+        ],
+        "yield": "77%"
+      }
+    },
+    {
+      "material": "2, [Cd(NO3)2(2,4‘-bipy)MeCN]2",
+      "conditions": {
+        "solvents": [
+          {
+            "name": "MeCN",
+            "amount": "2 cm3"
+          },
+          {
+            "name": "CH2Cl2",
+            "amount": "2 cm3"
+          },
+          {
+            "name": "Et2O vapor"
+          }
+        ],
+        "chemicals_used": [
+          "Cd(NO3)2·4H2O",
+          "2,4‘-bipy"
+        ],
+        "yield": "53%"
+      }
+    },
+    {
+      "material": "3, [Cd(NO3)2(2,4‘-pyph)MeCN]2",
+      "conditions": {
+        "solvents": [
+          {
+            "name": "MeCN",
+            "amount": "6 cm3"
+          },
+          {
+            "name": "CH2Cl2 and hexafluorobenzene",
+            "amount": "2 cm3 (1:1 mixture)"
+          }
+        ],
+        "chemicals_used": [
+          "Cd(NO3)2·4H2O",
+          "2,4‘-pyph"
+        ]
+      }
+    },
+    {
+      "material": "4, [Cd(NO3)2(2,4‘-pyac)DMF]2",
+      "conditions": {
+        "solvents": [
+          {
+            "name": "MeCN",
+            "amount": "2 cm3"
+          },
+          {
+            "name": "DMF",
+            "amount": "2 cm3"
+          },
+          {
+            "name": "Et2O vapor"
+          }
+        ],
+        "chemicals_used": [
+          "Cd(NO3)2·4H2O",
+          "2,4‘-pyac"
+        ],
+        "yield": "76%"
+      }
+    },
+    {
+      "material": "5, {[Cd(NO3)2(2,4‘-pyacph)]MeCN}∞",
+      "conditions": {
+        "solvents": [
+          {
+            "name": "CH3CN",
+            "amount": "2 cm3"
+          },
+          {
+            "name": "CH2Cl2",
+            "amount": "2 cm3"
+          }
+        ],
+        "chemicals_used": [
+          "Cd(NO3)2·4H2O",
+          "2,4‘-pyacph"
+        ],
+        "yield": "93%"
+      }
+    },
+    {
+      "material": "6, {[Cd(NO3)2(2,4‘-pyacph)]}∞",
+      "conditions": {
+        "solvents": [
+          {
+            "name": "BuNOH/o-xylene",
+            "amount": "4 cm3 (1:1 v/v)"
+          }
+        ],
+        "temperature": "130 °C",
+        "time": "30 min",
+        "chemicals_used": [
+          "Cd(NO3)2·4H2O",
+          "2,4‘-pyacph"
+        ],
+        "yield": "90%"
+      }
+    },
+    {
+      "material": "7, {[Cd(NO3)2(2,4‘-pyacph)PriOH]2}∞",
+      "conditions": {
+        "solvents": [
+          {
+            "name": "PriOH",
+            "amount": "2 cm3"
+          },
+          {
+            "name": "CH2Cl2/toluene",
+            "amount": "2 cm3 (1:1 v/v)"
+          }
+        ],
+        "chemicals_used": [
+          "Cd(NO3)2·4H2O",
+          "2,4‘-pyacph"
+        ],
+        "yield": "91%"
+      }
+    },
+    {
+      "material": "8, {[Cd(NO3)2(2,4‘-pyphac)]}∞",
+      "conditions": {
+        "solvents": [
+          {
+            "name": "BuNOH/o-xylene",
+            "amount": "4 cm3 (1:1 v/v)"
+          }
+        ],
+        "temperature": "120 °C",
+        "time": "4 h",
+        "chemicals_used": [
+          "Cd(NO3)2·4H2O",
+          "2,4‘-pyphac"
+        ],
+        "yield": "96%"
+      }
+    },
+    {
+      "material": "9, {[Cd(NO3)2(2,4‘-pyphac)2H2O]}∞",
+      "conditions": {
+        "solvents": [
+          {
+            "name": "MeCN",
+            "amount": "2 cm3"
+          },
+          {
+            "name": "CH2Cl2",
+            "amount": "2 cm3"
+          }
+        ],
+        "chemicals_used": [
+          "Cd(NO3)2·4H2O",
+          "2,4‘-pyphac"
+        ],
+        "yield": "90%"
+      }
+    }
+  ]
+}

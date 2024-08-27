@@ -1,0 +1,44 @@
+{
+  "materials": [
+    {
+      "name": "MIL-9",
+      "synthesis_conditions": {
+        "temperature": "180 8C",
+        "solvents": "H2O",
+        "amount_of_solvent": "120 H2O",
+        "equipment": "Not specified",
+        "chemicals_used": {
+          "M_Cl2": "Not specified",
+          "M'_Cl2": "Not specified",
+          "succinic_acid": "1.5 molar ratio",
+          "KOH": "3 molar ratio"
+        },
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "The starting mixture ratio was M, M’Cl2:1.5 succinic acid:3 KOH:120 H2O."
+      }
+    },
+    {
+      "name": "3",
+      "synthesis_conditions": {
+        "temperature": "180 8C",
+        "solvents": "H2O",
+        "amount_of_solvent": "5 mL",
+        "equipment": "Not specified",
+        "chemicals_used": {
+          "CoCl2_6H2O": "2.3 x 10^-3 mol",
+          "NiCl2_6H2O": "2.3 x 10^-3 mol",
+          "HO2C(C2H4)CO2H": "6.9 x 10^-3 mol",
+          "KOH": "10.4 x 10^-3 mol"
+        },
+        "time": "2 d",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "Molar ratio of 0.5:0.5:1.5:2.25:60 was used."
+      }
+    }
+  ]
+}

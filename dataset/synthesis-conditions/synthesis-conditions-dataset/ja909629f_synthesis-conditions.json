@@ -1,0 +1,140 @@
+{
+  "materials": [
+    {
+      "name": "methyl 3-(2-pyridyl)benzoate",
+      "synthesis_conditions": {
+        "temperature": "70 °C",
+        "time": "2 days",
+        "solvents": [
+          {
+            "name": "tetrahydrofuran",
+            "amount": "10 mL"
+          },
+          {
+            "name": "aqueous NaHCO3",
+            "amount": "9 mL"
+          }
+        ],
+        "chemicals_used": [
+          "2-bromopyridine (0.19 mL, 2 mmol)",
+          "3-(methoxycarbonyl)phenylboronic acid (359 mg, 2 mmol)",
+          "dichloro[1, 1’-bis(diphenylphosphino)ferrocene]palladium (II) dichloromethane adduct (Pd(dppf)Cl2, 10 mg, 0.014 mmol)"
+        ],
+        "yield": "220 mg (52%)"
+      }
+    },
+    {
+      "name": "fac-tris((2-(5-methoxycarbonyl)phenyl)pyridinato, N,C2’)iridium (III)",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "1 minute",
+        "solvents": [
+          {
+            "name": "ethylene glycol",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          "methyl 3-(2-pyridyl)benzoate (448 mg, 2.1 mmol)",
+          "IrCl3·3H2O (24.7 mg, 0.07 mmol)"
+        ],
+        "equipment": "microwave",
+        "yield": "40 mg (69%)"
+      }
+    },
+    {
+      "name": "fac-tris((2-(5-carboxyl)phenyl)pyridinato, N, C2’)iridium (III) (L1-H3)",
+      "synthesis_conditions": {
+        "temperature": "70 °C",
+        "time": "overnight",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "5 mL"
+          },
+          {
+            "name": "ethanol",
+            "amount": "5 mL"
+          },
+          {
+            "name": "6 M aqueous NaOH",
+            "amount": "3 mL"
+          }
+        ],
+        "chemicals_used": [
+          "fac-tris((2-(5-methoxycarbonyl)phenyl)pyridinato, N,C2’)iridium (III) (40 mg, 0.048 mmol)"
+        ],
+        "yield": "30 mg (81%)"
+      }
+    },
+    {
+      "name": "[Zn4(µ4-O)(L1)2]·6DMF·H2O (1)",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "time": "1 day",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2.655 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.885 mL"
+          }
+        ],
+        "chemicals_used": [
+          "L1-H3 (6.99 mg, 8.88 µmol)",
+          "Zn(NO3)2·6H2O (6.99 mg, 23.5 µmol)",
+          "HCl (0.14 mmol)"
+        ],
+        "yield": "2.83 mg (27.6%)"
+      }
+    },
+    {
+      "name": "[Zn3(L2)2(DEF)2(H2O)2]·DEF·H2O (2)",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "time": "1 day",
+        "solvents": [
+          {
+            "name": "DEF",
+            "amount": "2.650 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.707 mL"
+          }
+        ],
+        "chemicals_used": [
+          "L2-H3 (7.05 mg, 8.96 µmol)",
+          "Zn(NO3)2·6H2O (7.08 mg, 23.8 µmol)",
+          "2,6-lutidine (10.3 µL, 89.3 µmol)"
+        ],
+        "yield": "3.21 mg (33.8%)"
+      }
+    },
+    {
+      "name": "[Zn3(L2)2(DMF)(H2O)3]·2DMF·3H2O (3)",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "time": "1 day",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2.050 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.544 mL"
+          }
+        ],
+        "chemicals_used": [
+          "L2-H3 (5.43 mg, 6.90 µmol)",
+          "Zn(NO3)2·6H2O (5.47 mg, 18.4 µmol)",
+          "2,6-lutidine (2.4 µL, 20.7 µmol)"
+        ],
+        "yield": "1.97 mg (27.3%)"
+      }
+    }
+  ]
+}

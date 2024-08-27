@@ -1,0 +1,31 @@
+{
+  "materials": [
+    {
+      "name": "Co-fdc",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": ["water"],
+        "chemicals_used": ["Co(NO3)2·6H2O", "4,4’-bipyridine (bpy)", "furan dicarboxylic acid (fdcH2)"],
+        "method": "An aqueous solution of Co(NO3)2·6H2O, bpy, and fdcH2 were stirred in hot condition and filtrates were kept for evaporation."
+      }
+    },
+    {
+      "name": "Co-tri",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": ["water"],
+        "chemicals_used": ["Co(NO3)2·6H2O", "4,4’-bipyridine (bpy)", "benzene tricarboxylic acid (btcH3)"],
+        "method": "An aqueous solution of Co(NO3)2·6H2O, bpy, and btcH3 were stirred in hot condition and filtrates were kept for evaporation."
+      }
+    },
+    {
+      "name": "Co-tetra",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": ["water"],
+        "chemicals_used": ["Co(NO3)2·6H2O", "4,4’-bipyridine (bpy)", "benzene tetracarboxylic acid (btecH4)"],
+        "method": "An aqueous solution of Co(NO3)2·6H2O, bpy, and btecH4 were stirred in hot condition and filtrates were kept for evaporation."
+      }
+    }
+  ]
+}

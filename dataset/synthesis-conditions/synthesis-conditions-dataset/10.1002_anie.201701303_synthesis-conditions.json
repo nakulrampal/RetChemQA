@@ -1,0 +1,68 @@
+{
+  "materials": [
+    {
+      "name": "Bis[(dimethylgallyl)ethynyl]diphenylsilane (1)",
+      "synthesis_conditions": {
+        "temperature": "neat conditions",
+        "solvents": "neat trimethylgallium",
+        "time": "3 days",
+        "form": "precipitates",
+        "solubility": "insoluble in hydrocarbon solvents",
+        "NMR_spectra_conditions": "small amounts of Et2O in benzene solution"
+      }
+    },
+    {
+      "name": "Diethylgallyl derivative (2)",
+      "synthesis_conditions": {
+        "temperature": "neat conditions",
+        "solvents": "neat triethylgallium",
+        "form": "oil",
+        "additional_information": "contains about 0.5 equiv GaEt3, which could not be removed in vacuo"
+      }
+    },
+    {
+      "name": "2·2Py",
+      "synthesis_conditions": {
+        "starting_material": "Diethylgallyl compound 2",
+        "additional_steps": "addition of pyridine and subsequent removal of all volatile components",
+        "form": "pale orange solid"
+      }
+    },
+    {
+      "name": "2·DABCO (2 b)",
+      "synthesis_conditions": {
+        "starting_material": "2 a",
+        "reactants": "DABCO",
+        "solvents": "benzene",
+        "product": "soluble product",
+        "molecular_mass": "Mw = 873 g mol@1",
+        "diffusion_coefficient": "D = 5.4 X 10@10 m2 s@1"
+      }
+    },
+    {
+      "name": "Bis[(6-methylpyridin-3-yl)ethynyl]diphenylsilane (5)",
+      "synthesis_conditions": {
+        "method": "salt elimination reaction",
+        "starting_materials": "lithiated 2-methyl-5-ethynylpyridine and dichlorodiphenylsilane",
+        "yield": "63 % for ethyne-bridged bispyridine 3 and 12 % for its butadiyne-bridged analogue",
+        "form": "colorless solids"
+      }
+    },
+    {
+      "name": "Bis[(pyridin-3-yl)ethynyl]diphenylsilane (4)",
+      "synthesis_conditions": {
+        "method": "using 3-ethynylpyridine",
+        "form": "colorless oil"
+      }
+    },
+    {
+      "name": "1·3, 1·4, and 1·5",
+      "synthesis_conditions": {
+        "starting_material": "1",
+        "reactants": "bidentate pyridyl bases 3, 4, or 5",
+        "solvents": "benzene",
+        "observations": "rapid dissolution without formation of any precipitates"
+      }
+    }
+  ]
+}

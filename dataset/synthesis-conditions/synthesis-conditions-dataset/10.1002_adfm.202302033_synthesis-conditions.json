@@ -1,0 +1,79 @@
+{
+  "materials": [
+    {
+      "name": "ASF-1(CX)",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": ["water", "ethanol", "N,N-dimethylformamide"],
+        "solvent_amounts": "Not specified",
+        "equipment": "Not specified",
+        "chemicals_used": ["2,5-alkoxy-1,4-benzenedicarboxylic acid derivatives (H2ABB-CX)", "sodium acetate"],
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "Slow solvothermal crystallization for single crystals suitable for SCXRD."
+      }
+    },
+    {
+      "name": "ASF-2(CX)",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": ["water", "ethanol", "N,N-dimethylformamide"],
+        "solvent_amounts": "Not specified",
+        "equipment": "Not specified",
+        "chemicals_used": ["2,5-alkoxy-1,4-benzenedicarboxylic acid derivatives (H2ABB-CX)", "sodium acetate"],
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "Slow solvothermal crystallization for single crystals suitable for SCXRD."
+      }
+    },
+    {
+      "name": "ASFs (General)",
+      "synthesis_conditions": {
+        "temperature": "50-80 °C",
+        "solvents": ["water"],
+        "solvent_amounts": "Not specified",
+        "equipment": "rotary evaporator or open vessel in an oven",
+        "chemicals_used": ["2,5-alkoxy-1,4-benzenedicarboxylic acid derivatives (H2ABB-CX)", "sodium hydroxide"],
+        "time": "10-20 min",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "quantitative",
+        "additional_information": "Rapid crystallization from aqueous solution followed by evaporation of water under reduced pressure."
+      }
+    },
+    {
+      "name": "ASF-3(C2)",
+      "synthesis_conditions": {
+        "temperature": "Not specified",
+        "solvents": "Not specified",
+        "solvent_amounts": "Not specified",
+        "equipment": "Not specified",
+        "chemicals_used": ["2,5-alkoxy-1,4-benzenedicarboxylic acid derivative (H2ABB-C2)", "sodium source"],
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "Non-porous material, different synthesis conditions not detailed."
+      }
+    },
+    {
+      "name": "ASFs via mechanochemical synthesis",
+      "synthesis_conditions": {
+        "temperature": "Ambient",
+        "solvents": "None (solvent-free)",
+        "solvent_amounts": "Not applicable",
+        "equipment": "Laboratory mortar or automatic ball mill",
+        "chemicals_used": ["2,5-alkoxy-1,4-benzenedicarboxylic acid derivatives (H2ABB-CX)", "solid NaOH"],
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "Manual grinding or ball milling, water generated in situ by neutralization reaction."
+      }
+    }
+  ]
+}

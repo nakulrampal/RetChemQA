@@ -1,0 +1,54 @@
+{
+  "materials": [
+    {
+      "name": "NU-2200",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "24 hours",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "Not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "zinc nitrate hexahydrate",
+            "formula": "Zn(NO3)2·6H2O",
+            "amount": "stoichiometric ratio with BODCA"
+          },
+          {
+            "name": "bicyclo[2.2.2]octane-1,4-dicarboxylic acid",
+            "abbreviation": "BODCA",
+            "amount": "stoichiometric ratio with zinc nitrate hexahydrate"
+          }
+        ],
+        "equipment": "Not specified",
+        "yield": "Not specified",
+        "drying_method": "Activated under dynamic vacuum for 16 hours",
+        "activation_temperature": [
+          {
+            "temperature": "100 °C",
+            "time": "16 hours"
+          },
+          {
+            "temperature_range": "125 °C to 400 °C",
+            "interval": "25 °C",
+            "time": "Not specified"
+          }
+        ],
+        "crystal_structure": {
+          "space_group": "P2/c",
+          "zinc_coordination": "tetrahedral",
+          "channel_size": "5 Å"
+        },
+        "thermal_stability": {
+          "low_temperature_range": "-150 °C to 25 °C",
+          "high_temperature_range": "25 °C to 400 °C",
+          "TGA_air_stability": "up to 350 °C",
+          "TGA_N2_stability": "up to 450 °C"
+        }
+      }
+    }
+  ]
+}

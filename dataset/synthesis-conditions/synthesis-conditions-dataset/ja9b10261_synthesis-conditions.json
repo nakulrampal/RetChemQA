@@ -1,0 +1,92 @@
+{
+  "materials": [
+    {
+      "name": "dithieno[3,2-b:2',3'-d]thiophene-2,6-dicarboxylic acid diethyl ester",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "6.25 mL"
+          },
+          {
+            "name": "DMF",
+            "amount": "12.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "K2CO3",
+            "amount": "8.73 mmol, 1.206 g"
+          },
+          {
+            "name": "ethil-2-mercaptoacetate",
+            "amount": "6.712 mmol, 0.754 mL"
+          },
+          {
+            "name": "3,4-dibromothiophene-2,6-dicarbaldehyde",
+            "amount": "3.356 mmol, 1 g"
+          }
+        ],
+        "time": "3 days",
+        "washing_method": "Extracted with dichloromethane (3 x 100 mL), washed with brine (3 x 100 mL)",
+        "drying_method": "Evaporated under vacuum",
+        "yield": "0.764 g, 67%"
+      }
+    },
+    {
+      "name": "dithieno[3,2-b:2',3'-d]thiophene-2,6-dicarboxylic acid (DTTDC)",
+      "synthesis_conditions": {
+        "temperature": "Reflux",
+        "solvents": [
+          {
+            "name": "tetrahydrofuran",
+            "amount": "50 mL"
+          },
+          {
+            "name": "aqueous solution of 1 M lithium hydroxide",
+            "amount": "50 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "dithieno[3,2-b:2',3'-d]thiophene-2,6-dicarboxylic acid diethyl ester",
+            "amount": "as obtained"
+          }
+        ],
+        "time": "4 h",
+        "washing_method": "Extracted with ethyl acetate, precipitated with hydrochloric acid",
+        "yield": "0.574 g, 90%"
+      }
+    },
+    {
+      "name": "IEF-5",
+      "synthesis_conditions": {
+        "temperature": "120 ºC",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "not specified"
+          },
+          {
+            "name": "ethanol",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Bi(NO3)3·5H2O",
+            "amount": "not specified"
+          },
+          {
+            "name": "dithieno[3,2-b:2',3'-d]thiophene-2,6-dicarboxylic acid",
+            "amount": "not specified"
+          }
+        ],
+        "time": "72 h",
+        "washing_method": "Washed with DMF (4 x 7 mL) and DCM (3 x 7mL), exchanged with THF several times",
+        "drying_method": "Activated at 115 ºC under vacuum for 12 h"
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "materials": [
+    {
+      "name": "Compound 3",
+      "synthesis_conditions": {
+        "temperature": "Room Temperature (RT)",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "10 mL"
+          },
+          {
+            "name": "acetate buffer solution",
+            "amount": "150 mL",
+            "pH": "6.2"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CuCl2",
+            "amount": "23 mg",
+            "molarity": "0.17 mmol"
+          },
+          {
+            "name": "Compound 2",
+            "amount": "50 mg",
+            "molarity": "0.04 mmol"
+          },
+          {
+            "name": "Na2CO3",
+            "amount": "25 mg"
+          }
+        ],
+        "time": "Overnight",
+        "yield": "24 mg (42% based on Au)",
+        "additional_information": "The addition of 1 equiv of AgNO3 (7 mg, 0.04 mmol) to the above green mixture led to the formation of blue crystals in higher yield (72% based on Au)."
+      }
+    },
+    {
+      "name": "Compound 2",
+      "synthesis_conditions": {
+        "temperature": "Room Temperature (RT)",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "36 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "AgNO3",
+            "amount": "0.23 g",
+            "molarity": "1.36 mmol"
+          },
+          {
+            "name": "Compound 1",
+            "amount": "0.80 g",
+            "molarity": "1.39 mmol"
+          }
+        ],
+        "time": "90 min, followed by cooling in an ice bath for 30 min",
+        "yield": "0.83 g (95%)",
+        "additional_information": "Excitation of a solid sample of 2 at 308 nm at RT and 77 K gave a strong emission band at 709 and 672 nm, respectively."
+      }
+    },
+    {
+      "name": "Compound 1",
+      "synthesis_conditions": {
+        "temperature": "Not specified",
+        "solvents": "Not specified",
+        "chemicals_used": [
+          {
+            "name": "AuI",
+            "details": "Used in the synthesis"
+          },
+          {
+            "name": "d-H2pen",
+            "details": "Used in the synthesis"
+          }
+        ],
+        "yield": "84%",
+        "additional_information": "Prepared according to a modified literature method using chloro(thiodiethanol)gold(i) instead of chloro(tetrahydrothiophene)gold(i)."
+      }
+    }
+  ]
+}

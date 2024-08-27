@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the molar ratio of NiCl2:H2Asp:Et3N used in the synthesis of compound 1?",
+      "answer": "1:0.5:1.25",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the final pH of the mixture in the synthesis of compound 1?",
+      "answer": "5.0",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield percentage based on nickel for the synthesis of compound 1?",
+      "answer": "55%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of compound 2?",
+      "answer": "I41/a",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the temperature and duration for the hydrothermal reaction to synthesize compound 1?",
+      "answer": "150 °C for 2 days",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group and the temperature used for the X-ray powder diffraction data collection of compound 1?",
+      "answer": "P212121, 298 K",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Given the synthesis conditions, what would be the expected yield if the molar ratio of NiCl2:H2Asp:Et3N was adjusted to 1:0.5:1 for compound 1?",
+      "answer": "Lower than 55% as the original molar ratio yields 55%.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "If the synthesis of compound 1 is conducted without Et3N, what would be the expected outcome?",
+      "answer": "The synthesis would likely fail or yield a different product, as Et3N is crucial for the reaction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the synthesis temperature affect the formation of compound 2?",
+      "answer": "Higher temperatures (above 175°C) lead to the transformation of compound 1 to an unidentified phase 3, indicating temperature is critical for compound 2's formation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the optical rotation measurements in the synthesis of compound 1?",
+      "answer": "The optical rotation measurements confirm the chiral purity of compound 1, indicating it was synthesized as an optically pure product.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the synthesis of compound 1 differ when starting with a racemic mixture of (Et3NH)(d,l-HAsp)?",
+      "answer": "Starting with a racemic mixture leads to conglomerate crystallization of l-1 and d-1, indicating the importance of starting with an optically pure reactant for obtaining compound 1.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role does the hydrothermal condition play in the synthesis of compound 1?",
+      "answer": "Hydrothermal conditions favor the hydrolysis of cations and the formation of M−O−M bonding, crucial for the synthesis of compound 1.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of compound 1 requires a neutral pH environment.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: Compound 2 exhibits optical activity.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The yield of compound 1 is directly proportional to the amount of Et3N used.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The crystal structure of compound 1 was determined using single-crystal X-ray diffraction.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis of compound 1 can be achieved at room temperature.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: Decreasing the synthesis temperature below 150°C would result in a higher yield of compound 1.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis of compound 1 does not produce any by-products.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis of compound 2 requires a higher temperature than compound 1 for its formation.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

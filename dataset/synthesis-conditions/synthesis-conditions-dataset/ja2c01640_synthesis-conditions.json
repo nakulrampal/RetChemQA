@@ -1,0 +1,106 @@
+{
+  "materials": [
+    {
+      "name": "MAF-34-Co",
+      "synthesis_conditions": {
+        "temperature": "160 °C",
+        "solvents": [
+          {
+            "name": "C2H5OH",
+            "amount": "4.0 mL"
+          },
+          {
+            "name": "aqueous NH3·H2O (25-28%)",
+            "amount": "2.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Co(NO3)2·6H2O",
+            "amount": "30 mg"
+          },
+          {
+            "name": "Hip",
+            "amount": "22 mg"
+          }
+        ],
+        "equipment": "Teflon-lined stainless container",
+        "time": "3 days",
+        "yield": "50%",
+        "washing_method": "C2H5OH",
+        "drying_method": "air",
+        "additional_information": "Cooled to room temperature at a rate of 5 °C h−1."
+      }
+    },
+    {
+      "name": "MAF-34-CoRu",
+      "synthesis_conditions": {
+        "temperature": "160 °C",
+        "solvents": [
+          {
+            "name": "C2H5OH",
+            "amount": "4.0 mL"
+          },
+          {
+            "name": "aqueous NH3·H2O (25-28%)",
+            "amount": "2.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Co(NO3)2·6H2O",
+            "amount": "8.7 mg"
+          },
+          {
+            "name": "[Ru(Hip)3]Cl2",
+            "amount": "33.2 mg"
+          }
+        ],
+        "equipment": "Teflon-lined stainless container",
+        "time": "3 days",
+        "yield": "80%",
+        "washing_method": "C2H5OH",
+        "drying_method": "air",
+        "additional_information": "Cooled to room temperature at a rate of 5 °C h−1."
+      }
+    }
+  ],
+  "photocatalytic_experiments": [
+    {
+      "material": "MAF-34-CoRu",
+      "conditions": {
+        "light_source": "300 W Xe lamp, λ > 400 nm",
+        "solvent": "CH3CN/H2O",
+        "ratio": "4.8:0.2",
+        "amount_of_catalyst": "4 mg",
+        "reaction_volume": "5 mL",
+        "gas": "CO2",
+        "pressure": "1 bar",
+        "time": "10 h",
+        "products": {
+          "CO": "11.2 μmol g−1 h−1",
+          "O2": "5.57 μmol g−1 h−1"
+        },
+        "CO_selectivity": "100%"
+      }
+    },
+    {
+      "material": "MAF-34-CoRu",
+      "conditions": {
+        "light_source": "300 W Xe lamp, λ > 400 nm",
+        "environment": "gas-phase reaction",
+        "amount_of_catalyst": "5 mg",
+        "reaction_volume": "1 mL C2H5OH",
+        "gas": "CO2",
+        "pressure": "ambient",
+        "time": "120 h",
+        "products": {
+          "CO": "5.43 μmol g−1 h−1",
+          "CH4": "0.66 μmol g−1 h−1",
+          "O2": "4.06 μmol g−1 h−1"
+        },
+        "CO_selectivity": "89.2%"
+      }
+    }
+  ]
+}

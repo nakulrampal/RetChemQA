@@ -1,0 +1,57 @@
+{
+  "FJI-H14": {
+    "synthesis_conditions": {
+      "temperature": "120 °C",
+      "solvents": "H2O",
+      "amount_of_each_solvent": "4 ml",
+      "equipment": "23 mL Teflon vial",
+      "chemicals_used": {
+        "Cu(NO3)2·3H2O": "0.05 mmol, 12 mg",
+        "H2BTTA": "0.05 mmol, 15 mg"
+      },
+      "time": "3 days",
+      "yield": "73%",
+      "washing_method": "fresh acetone",
+      "drying_method": "dynamic vacuum at 100 °C for 10 h",
+      "large_scale_synthesis_conditions": {
+        "temperature": "refluxing at 100 °C",
+        "solvents": "H2O",
+        "amount_of_each_solvent": "80 ml",
+        "chemicals_used": {
+          "Cu(NO3)2·3H2O": "1 mmol, 241.6 mg",
+          "H2BTTA": "1 mmol, 300.1 mg"
+        },
+        "time": "1 day",
+        "yield": "90%"
+      },
+      "catalytic_activity_test_conditions": {
+        "reactants": "styrene oxide (20.0 mmol), TBAB (2.5 mol%)",
+        "catalyst_amount": "0.48 mol% per Cu(II) units",
+        "gas_atmosphere": "simulated post-combustion flue gas (CO2 = 0.15 atm, N2 = 0.85 atm)",
+        "temperature": "80 °C",
+        "time": "24 h",
+        "yield": "86%"
+      }
+    },
+    "stability": {
+      "chemical_stability": "stable in boiling water, acid/base environment from pH = 2 to 12 at 373 K",
+      "thermal_stability": "up to 230 °C"
+    },
+    "porosity_and_adsorption_capacity": {
+      "CO2_adsorption_capacity": {
+        "at_195_K": "279 cm3 g-1",
+        "at_298_K_and_1_atm": "171 cm3 cm-3"
+      },
+      "N2_adsorption_capacity": {
+        "at_77_K": "170 cm3 g-1",
+        "at_298_K_and_1_atm": "6.5 cm3 cm-3"
+      },
+      "CO2_N2_selectivity": "51 at 298 K for 15/85 CO2/N2 mixture"
+    },
+    "adsorption_sites_and_mechanism": {
+      "GCMC_simulations": "consistent with experimental data at 195, 273, and 298 K",
+      "DFT_calculations": "identified three preferential CO2 adsorption sites",
+      "in_situ_FTIR_spectra": "indicates CO2 molecules tend to stack around the open Cu(II) sites"
+    }
+  }
+}

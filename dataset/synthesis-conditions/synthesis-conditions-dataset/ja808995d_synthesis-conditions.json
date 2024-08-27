@@ -1,0 +1,198 @@
+{
+  "materials": [
+    {
+      "name": "H3hett",
+      "synthesis_conditions": {
+        "temperature": "-78 °C to room temperature",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "40 mL"
+          },
+          {
+            "name": "water",
+            "amount": "for washing"
+          },
+          {
+            "name": "diethyl ether",
+            "amount": "for extraction"
+          },
+          {
+            "name": "hexane-chloroform mixture",
+            "ratio": "3:1",
+            "purpose": "for washing"
+          },
+          {
+            "name": "aqueous methanol",
+            "purpose": "for recrystallization"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "n-BuLi",
+            "amount": "2.5 M solution in n-hexane, 4.5 mL, 12.6 mmol"
+          },
+          {
+            "name": "2,7,12-tribromo-5,5',10,10',15,15'-hexaethayltruxene",
+            "amount": "1.10 g, 1.5 mmol"
+          },
+          {
+            "name": "dry carbon dioxide gas",
+            "duration": "1 h at -78 °C then 1 h at room temperature"
+          },
+          {
+            "name": "concentrated hydrochloric acid",
+            "purpose": "to acidify to pH 2-3"
+          }
+        ],
+        "time": "4 h stirring after warming to room temperature",
+        "yield": "43%",
+        "drying_method": "vacuum",
+        "drying_temperature": "150 ºC",
+        "drying_time": "24 h"
+      }
+    },
+    {
+      "name": "Cd1.5(H3O)3[{Cd4(µ4-O)}3(hett)8]·6H2O (1)",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "3.0 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "0.2 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H3hett",
+            "amount": "32 mg, 0.050 mmol"
+          },
+          {
+            "name": "Cd(NO3)2·4H2O",
+            "amount": "46 mg, 0.15 mmol"
+          }
+        ],
+        "time": "2 d",
+        "washing_method": "washed with DMF, then with methanol",
+        "soaking_method": "soaked in methanol (3 x 10 mL) for 3 d",
+        "drying_method": "dried under vacuum",
+        "drying_temperature": "150 ºC",
+        "drying_time": "24 h",
+        "yield": "64%"
+      }
+    },
+    {
+      "name": "Pb(H3O)4[{Pb4(µ4-O)}3(hett)8]·6H2O (2)",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "3.0 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "0.1 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H3hett",
+            "amount": "32 mg, 0.050 mmol"
+          },
+          {
+            "name": "Pb(NO3)2",
+            "amount": "40 mg, 0.12 mmol"
+          }
+        ],
+        "time": "1 d",
+        "washing_method": "washed with DMF, then with methanol",
+        "soaking_method": "soaked in methanol (3 x 10 mL) for 3d",
+        "drying_method": "dried under vacuum",
+        "drying_temperature": "150 ºC",
+        "drying_time": "24 h",
+        "yield": "72%"
+      }
+    },
+    {
+      "name": "Ion exchange to obtain 2a",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "purpose": "initial soaking"
+          },
+          {
+            "name": "water",
+            "purpose": "additional soaking"
+          },
+          {
+            "name": "aqueous solution of lead(II) nitrate",
+            "concentration": "0.1 M",
+            "duration": "two weeks"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "lead(II) nitrate",
+            "purpose": "for ion exchange"
+          }
+        ],
+        "washing_method": "washed thoroughly with water",
+        "soaking_method": "kept in water for 5 d to remove excess metal salt"
+      }
+    },
+    {
+      "name": "Ion exchange to obtain 1a",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "purpose": "initial soaking"
+          },
+          {
+            "name": "aqueous solution of cadmium(II) nitrate",
+            "concentration": "0.2 M",
+            "duration": "5 weeks"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "cadmium(II) nitrate",
+            "purpose": "for ion exchange"
+          }
+        ],
+        "washing_method": "washed thoroughly with water",
+        "soaking_method": "kept in water for 5 d to remove excess metal salt"
+      }
+    },
+    {
+      "name": "Exchange with lanthanides to obtain 3 and 4",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "methanolic solution of corresponding lanthanide nitrates",
+            "concentration": "0.2 M",
+            "duration": "3 weeks"
+          },
+          {
+            "name": "methanol",
+            "purpose": "for washing and soaking"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "lanthanide nitrates",
+            "purpose": "for ion exchange"
+          }
+        ],
+        "washing_method": "washed thoroughly with methanol",
+        "soaking_method": "kept in methanol for 6 d, solvent replaced 6 times"
+      }
+    }
+  ]
+}

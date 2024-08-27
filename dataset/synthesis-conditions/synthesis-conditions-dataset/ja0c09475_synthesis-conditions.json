@@ -1,0 +1,116 @@
+{
+  "materials": [
+    {
+      "name": "Mn(ina)2(EtOH)0.5",
+      "synthesis_conditions": {
+        "method": "solvothermal synthesis",
+        "equipment": "Teflon-lined 23 mL stainless steel autoclaves",
+        "chemicals_used": [
+          {
+            "chemical": "Mn(NO3)2·4H2O",
+            "amount": "142 mg",
+            "molarity": "0.57 mmol"
+          },
+          {
+            "chemical": "isonicotinic acid",
+            "amount": "140 mg",
+            "molarity": "1.14 mmol"
+          },
+          {
+            "chemical": "95% ethanol",
+            "amount": "18 mL"
+          }
+        ],
+        "stirring_speed": "300 r/min",
+        "stirring_duration": "2 h",
+        "temperature": "100 °C",
+        "duration": "1 day",
+        "cooling_method": "naturally to room temperature",
+        "washing_method": "vacuum filtration, washed with ethanol",
+        "drying_method": "dried in air",
+        "yield": "60% based on Mn metal"
+      }
+    },
+    {
+      "name": "Mn(ina)2",
+      "synthesis_conditions": {
+        "activation_temperature": "120 °C",
+        "activation_method": "under vacuum",
+        "crystal_system": "Monoclinic",
+        "space_group": "P21/n",
+        "unit_cell_dimensions": {
+          "a": "9.8756(4) Å",
+          "b": "13.7895(5) Å",
+          "c": "9.6557(3) Å",
+          "alpha": "90°",
+          "beta": "101.657(3)°",
+          "gamma": "90°"
+        },
+        "volume": "1287.79(9) Å3",
+        "Z": "4",
+        "density_calculated": "1.543 Mg/m3",
+        "absorption_coefficient": "0.943 mm-1",
+        "F(000)": "604",
+        "crystal_size": "0.100 x 0.100 x 0.100 mm3",
+        "theta_range_for_data_collection": "2.493 to 30.749°",
+        "index_ranges": "-14<=h<=12, -19<=k<=19, -13<=l<=14",
+        "reflections_collected": "17217",
+        "independent_reflections": "4109 [R(int) = 0.0187]",
+        "completeness_to_theta": "98.3 %",
+        "absorption_correction": "Semi-empirical from equivalents",
+        "max_and_min_transmission": "0.7461 and 0.6207",
+        "refinement_method": "Full-matrix least-squares on F2",
+        "data_restraints_parameters": "4109 / 219 / 249",
+        "goodness_of_fit_on_F2": "1.056",
+        "final_R_indices": "[I>2sigma(I)] R1 = 0.0427, wR2 = 0.0907",
+        "R_indices_all_data": "R1 = 0.0725, wR2 = 0.1088",
+        "largest_diff_peak_and_hole": "0.485 and -0.522 e.Å-3",
+        "CCDC_No": "1970608"
+      }
+    },
+    {
+      "name": "Xe@Mn(ina)2",
+      "synthesis_conditions": [
+        {
+          "temperature": "200 K",
+          "pressure": "1 bar",
+          "gas": "Xe",
+          "crystal_system": "Monoclinic",
+          "space_group": "P21/n",
+          "unit_cell_dimensions": {
+            "a": "9.8768(4) Å",
+            "b": "13.7902(6) Å",
+            "c": "9.6563(3) Å",
+            "alpha": "90°",
+            "beta": "101.654(3)°",
+            "gamma": "90°"
+          },
+          "volume": "1288.10(9) Å3",
+          "Z": "4",
+          "density_calculated": "1.543 Mg/m3",
+          "absorption_coefficient": "0.956 mm-1",
+          "F(000)": "604",
+          "crystal_size": "0.100 x 0.100 x 0.100 mm3",
+          "theta_range_for_data_collection": "2.493 to 30.745°",
+          "index_ranges": "-14<=h<=12, -19<=k<=19, -13<=l<=14",
+          "reflections_collected": "17237",
+          "independent_reflections": "4110 [R(int) = 0.0184]",
+          "completeness_to_theta": "98.3 %",
+          "absorption_correction": "Semi-empirical from equivalents",
+          "max_and_min_transmission": "0.7461 and 0.5976",
+          "refinement_method": "Full-matrix least-squares on F3",
+          "data_restraints_parameters": "4110 / 219 / 249",
+          "goodness_of_fit_on_F2": "1.066",
+          "final_R_indices": "[I>2sigma(I)] R1 = 0.0408, wR2 = 0.0877",
+          "R_indices_all_data": "R1 = 0.0716, wR2 = 0.1055",
+          "largest_diff_peak_and_hole": "0.476 and -0.475 e.Å-3",
+          "CCDC_No": "1970609"
+        },
+        {
+          "temperature": "240 K",
+          "additional_information": "For temperatures 240 K, 275 K, and 298 K, similar conditions and results are provided with varying unit cell dimensions, volume, density, absorption coefficient, F(000), and crystal size. The refinement details, R indices, and CCDC numbers are also provided for each temperature condition."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,477 @@
+{
+  "materials": [
+    {
+      "material": "1,2-(CH2)3-1,2-C2B11H11 (2)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "THF",
+              "amount": "30 mL"
+            }
+          ],
+          "chemicals": [
+            {
+              "name": "1,2-(CH2)3-1,2-C2B10H10",
+              "amount": "1.84 g",
+              "molar_amount": "10.0 mmol"
+            },
+            {
+              "name": "Na metal",
+              "amount": "0.50 g",
+              "molar_amount": "21.7 mmol"
+            },
+            {
+              "name": "naphthalene",
+              "amount": "0.10 g",
+              "molar_amount": "0.78 mmol"
+            }
+          ],
+          "time": "4 days",
+          "yield": "37%",
+          "washing_method": "Chromatographic separation (SiO2, 300−400 mesh, n-hexane as elute)"
+        },
+        {
+          "step": 2,
+          "temperature": "-78 to 25 °C",
+          "solvents": [
+            {
+              "name": "toluene",
+              "amount": "30 mL"
+            }
+          ],
+          "chemicals": [
+            {
+              "name": "HBBr2·SMe2",
+              "amount": "20.0 mL of 1.0 M in dichloromethane",
+              "molar_amount": "20.0 mmol"
+            }
+          ],
+          "time": "1 h at -78 °C then 6 h at room temperature"
+        }
+      ]
+    },
+    {
+      "material": "1,2-(CH2)3-3-Ph-1,2-C2B11H10 (3)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "toluene",
+              "amount": "30 mL"
+            }
+          ],
+          "chemicals": [
+            {
+              "name": "PhBCl2",
+              "amount": "2.60 mL",
+              "molar_amount": "20.0 mmol"
+            }
+          ],
+          "time": "1 h at -78 °C then 6 h at room temperature",
+          "yield": "20%"
+        }
+      ]
+    },
+    {
+      "material": "1,2-(CH2)3-3-(Z-EtCHCEt)-1,2-C2B11H10 (4)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "toluene",
+              "amount": "30 mL"
+            }
+          ],
+          "chemicals": [
+            {
+              "name": "Z-EtCHCEtBBr2·SMe2",
+              "amount": "20.0 mmol in 20 mL of CH2Cl2"
+            }
+          ],
+          "time": "1 h at -78 °C then 6 h at room temperature",
+          "yield": "26%"
+        }
+      ]
+    },
+    {
+      "material": "1,2-(CH2)3-3-(E-tBuCHCH)-1,2-C2B11H10 (5)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "toluene",
+              "amount": "30 mL"
+            }
+          ],
+          "chemicals": [
+            {
+              "name": "E-tBuCHCHBBr2·SMe2",
+              "amount": "20.0 mmol in 20 mL of CH2Cl2"
+            }
+          ],
+          "time": "1 h at -78 °C then 6 h at room temperature",
+          "yield": "30%"
+        }
+      ]
+    },
+    {
+      "material": "1,2-(CH2)3-1,2-C2B12H12 (8)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "-78 to 25 °C",
+          "solvents": [
+            {
+              "name": "toluene",
+              "amount": "50 mL"
+            }
+          ],
+          "chemicals": [
+            {
+              "name": "HBBr2·SMe2",
+              "amount": "75.0 mL of 1.0 M in dichloromethane",
+              "molar_amount": "75.0 mmol"
+            }
+          ],
+          "time": "1 h at -78 °C then 6 h at room temperature",
+          "yield": "7%"
+        }
+      ]
+    },
+    {
+      "material": "1,2-C6H4(CH2)2-1,2-C2B11H11 (9)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "-78 to 25 °C",
+          "solvents": [
+            {
+              "name": "toluene",
+              "amount": "30 mL"
+            }
+          ],
+          "chemicals": [
+            {
+              "name": "HBBr2·SMe2",
+              "amount": "25.0 mL of 1.0 M in dichloromethane",
+              "molar_amount": "25.0 mmol"
+            }
+          ],
+          "time": "1 h at -78 °C then 6 h at room temperature",
+          "yield": "17%"
+        }
+      ]
+    },
+    {
+      "material": "8,9,10,11,12,13-(CH3)6-1,2-(CH2)3-1,2-C2B11H5 (10)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "iodomethane",
+              "amount": "10 mL"
+            }
+          ],
+          "chemicals": [
+            {
+              "name": "AlCl3",
+              "amount": "33 mg",
+              "molar_amount": "0.25 mmol"
+            }
+          ],
+          "time": "2 days",
+          "yield": "85%"
+        }
+      ]
+    },
+    {
+      "material": "8,9,10,11,12,13-Br6-1,2-(CH2)3-1,2-C2B11H5 (11)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "CH2Cl2",
+              "amount": "10 mL"
+            }
+          ],
+          "chemicals": [
+            {
+              "name": "bromine",
+              "amount": "1.58 g",
+              "molar_amount": "10.0 mmol"
+            },
+            {
+              "name": "AlCl3",
+              "amount": "33 mg",
+              "molar_amount": "0.25 mmol"
+            }
+          ],
+          "time": "12 h",
+          "yield": "25%"
+        }
+      ]
+    },
+    {
+      "material": "8,9,10,11,12,13-I6-1,2-(CH2)3-1,2-C2B11H5 (12)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "CH2Cl2",
+              "amount": "10 mL"
+            }
+          ],
+          "chemicals": [
+            {
+              "name": "iodine",
+              "amount": "2.54 g",
+              "molar_amount": "10.0 mmol"
+            },
+            {
+              "name": "AlCl3",
+              "amount": "33 mg",
+              "molar_amount": "0.25 mmol"
+            }
+          ],
+          "time": "3 days",
+          "yield": "22%"
+        }
+      ]
+    },
+    {
+      "material": "{1,2-(CH2)3-1,2-C2B11H11}{Li2(DME)2(THF)2} (13)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "THF",
+              "amount": "10 mL"
+            }
+          ],
+          "chemicals": [
+            {
+              "name": "Li metal",
+              "amount": "90.0 mg",
+              "molar_amount": "10.0 mmol"
+            }
+          ],
+          "time": "1 day",
+          "yield": "83%"
+        }
+      ]
+    },
+    {
+      "material": "[{1,2-(CH2)3-1,2-C2B11H11}{Na2(THF)4}]n (13a)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "THF",
+              "amount": "25 mL"
+            }
+          ],
+          "chemicals": [
+            {
+              "name": "Na metal",
+              "amount": "230 mg",
+              "molar_amount": "10.0 mmol"
+            }
+          ],
+          "time": "1 day",
+          "yield": "80%"
+        }
+      ]
+    },
+    {
+      "material": "[{1,2-(CH2)3-3-Ph-1,2-C2B11H10}{Na2(THF)4}]n (14)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "THF",
+              "amount": "25 mL"
+            }
+          ],
+          "chemicals": [
+            {
+              "name": "Na metal",
+              "amount": "230 mg",
+              "molar_amount": "10.0 mmol"
+            }
+          ],
+          "time": "1 day",
+          "yield": "85%"
+        }
+      ]
+    },
+    {
+      "material": "[{1,2-C6H4(CH2)2-1,2-C2B11H11}{Na2(THF)4}]n (15)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "THF",
+              "amount": "25 mL"
+            }
+          ],
+          "chemicals": [
+            {
+              "name": "Na metal",
+              "amount": "230 mg",
+              "molar_amount": "10.0 mmol"
+            }
+          ],
+          "time": "1 day",
+          "yield": "85%"
+        }
+      ]
+    },
+    {
+      "material": "[{1,2-C6H4(CH2)2-1,2-C2B11H11}{Na2(dioxane)0.5(THF)4}]n (15a)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "dioxane",
+              "amount": "not specified"
+            }
+          ],
+          "chemicals": [],
+          "time": "not specified",
+          "yield": "85%"
+        }
+      ]
+    },
+    {
+      "material": "{1,2-(CH2)3-1,2-C2B11H11}{Mg(THF)5} (16)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "THF",
+              "amount": "25 mL"
+            }
+          ],
+          "chemicals": [
+            {
+              "name": "Mg powder",
+              "amount": "48 mg",
+              "molar_amount": "2.00 mmol"
+            }
+          ],
+          "time": "1 day",
+          "yield": "77%"
+        }
+      ]
+    },
+    {
+      "material": "{1,2-(CH2)3-1,2-C2B11H11}{Ca(THF)5} (17)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "room temperature",
+          "solvents": [
+            {
+              "name": "THF",
+              "amount": "25 mL"
+            }
+          ],
+          "chemicals": [
+            {
+              "name": "Ca powder",
+              "amount": "80 mg",
+              "molar_amount": "2.00 mmol"
+            }
+          ],
+          "time": "1 day",
+          "yield": "73%"
+        }
+      ]
+    },
+    {
+      "material": "[η5-(CH2)3C2B11H11]Ni(dppe) (18)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "-78 to room temperature",
+          "solvents": [
+            {
+              "name": "THF",
+              "amount": "10 mL"
+            }
+          ],
+          "chemicals": [
+            {
+              "name": "(dppe)NiCl2",
+              "amount": "528 mg",
+              "molar_amount": "1.00 mmol"
+            },
+            {
+              "name": "13a",
+              "amount": "563 mg",
+              "molar_amount": "1.00 mmol"
+            }
+          ],
+          "time": "6 h",
+          "yield": "34%"
+        }
+      ]
+    },
+    {
+      "material": "[η5-(CH2)3C2B11H11]Ni(dppen) (19)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "-78 to room temperature",
+          "solvents": [
+            {
+              "name": "THF",
+              "amount": "10 mL"
+            }
+          ],
+          "chemicals": [
+            {
+              "name": "(dppen)NiCl2",
+              "amount": "526 mg",
+              "molar_amount": "1.00 mmol"
+            },
+            {
+              "name": "13a",
+              "amount": "563 mg",
+              "molar_amount": "1.00 mmol"
+            }
+          ],
+          "time": "6 h",
+          "yield": "45%"
+        }
+      ]
+    }
+  ]
+}

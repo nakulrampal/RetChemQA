@@ -1,0 +1,43 @@
+{
+  "materials": [
+    {
+      "name": "[Na4(1)2(2)(THF)4]¥",
+      "synthesis_conditions": {
+        "solvents": ["DME", "THF"],
+        "amount_of_solvent": ["4 mL (DME)", "1.5 mL (THF)"],
+        "chemicals_used": ["Compound 1", "sodium mirror (excess)"],
+        "amount_of_chemicals_used": ["40 mg (Compound 1)", "0.20 mmol (Compound 1)"],
+        "temperature": "room temperature",
+        "time": ["30 min", "three weeks"],
+        "equipment": ["vacuum line (oil-diffusion pump)"],
+        "drying_method": "removed in vacuo",
+        "yield": "extremely air-sensitive red parallelepiped-shaped crystals",
+        "additional_information": "Storage of the resulting clear red solution at room temperature for three weeks under prolonged contact with the sodium mirror gave reproducibly the product."
+      }
+    },
+    {
+      "name": "[Na4(3)2(DME)4]",
+      "synthesis_conditions": {
+        "solvents": ["DME"],
+        "amount_of_solvent": ["0.5 mL"],
+        "chemicals_used": ["Bisdiazene 3"],
+        "amount_of_chemicals_used": ["10 mg", "0.04 mmol"],
+        "temperature": "0 8C",
+        "time": "one week",
+        "equipment": ["vacuum line (oil-diffusion pump)"],
+        "yield": "deep red crystals (approximately 15%)",
+        "additional_information": "Reducing 3 in DME and storing the deep red solution at 0 8C for one week, without prolonged contact with sodium metal; deep red crystals were obtained."
+      }
+    },
+    {
+      "name": "[Na4(1)2(THF)x]",
+      "synthesis_conditions": {
+        "solvents": ["[D8]THF"],
+        "chemicals_used": ["Compound 1", "sodium mirror (excess)"],
+        "temperature": ["room temperature", "-20 8C", "-30 8C"],
+        "equipment": ["flame-sealed glass NMR tube"],
+        "additional_information": "Prepared in vacuo by in situ reduction of 1 on a sodium mirror in [D8]THF, dried over liquid Na/K alloy."
+      }
+    }
+  ]
+}

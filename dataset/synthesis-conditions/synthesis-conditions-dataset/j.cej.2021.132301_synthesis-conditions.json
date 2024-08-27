@@ -1,0 +1,52 @@
+{
+  "materials": [
+    {
+      "material": "CSMCRI-10",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "Co(NO3)2·6H2O",
+              "amount": "11.64 mg",
+              "moles": "0.04 mmol"
+            },
+            {
+              "name": "bpy",
+              "amount": "6.24 mg",
+              "moles": "0.04 mmol"
+            },
+            {
+              "name": "H3TCA",
+              "amount": "7.54 mg",
+              "moles": "0.02 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "N,N-Dimethylformamide (DMF)",
+              "amount": "1.5 mL"
+            },
+            {
+              "name": "water",
+              "amount": "1.5 mL"
+            }
+          ],
+          "temperature": "100 °C",
+          "time": "3 days",
+          "yield": "60%",
+          "other_conditions": "solvothermal reaction"
+        }
+      ]
+    },
+    {
+      "material": "activated CSMCRI-10 (10a)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "description": "Activation of CSMCRI-10 by heating the acetone exchanged crystals at 120 °C under dynamic evacuation."
+        }
+      ]
+    }
+  ]
+}

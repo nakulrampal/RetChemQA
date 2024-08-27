@@ -1,0 +1,71 @@
+{
+  "materials": [
+    {
+      "name": "[Fe(bpy)(CN)4]2Co(4,4'-bipyridine)}·4H2O (1)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "6.0 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Li[(bpy)Fe(CN)4]",
+            "amount": "0.1 mmol"
+          },
+          {
+            "name": "Co(ClO4)2.6H2O",
+            "amount": "0.05 mmol"
+          },
+          {
+            "name": "4,4'-bipyridine",
+            "amount": "0.05 mmol"
+          }
+        ],
+        "equipment": "H-shaped tube",
+        "time": "several weeks",
+        "yield": "60% based on Co(ClO4)2.6H2O",
+        "temperature": "room temperature"
+      }
+    }
+  ],
+  "IR_spectroscopies": {
+    "equipment": "JASCO FT/IR-600 Plus spectrometer",
+    "temperature_range": "10 to 300 K",
+    "photoirradiation_details": {
+      "temperature": "10 K",
+      "equipment": "laser diode pumped Nd:YAG laser",
+      "wavelength": "532 nm",
+      "power_density": "30 mW/cm2",
+      "duration": "2 h"
+    }
+  },
+  "magnetic_and_photomagnetic_studies": {
+    "equipment": "Quantum Design SQUID (MPMS-5S) magnetometer",
+    "sample_preparation": {
+      "description": "finely ground microcrystalline powders of 1 restrained in a frozen eicosane matrix with polycarbonate capsules",
+      "temperature": "room temperature"
+    },
+    "photomagnetic_irradiation": {
+      "wavelength": "532 nm",
+      "sample_introduction_temperature": "100 K",
+      "atmosphere": "He"
+    }
+  },
+  "structure_determinations_and_refinements": {
+    "equipment": "Rigaku-CCD diffractometer",
+    "radiation": "Mo-Kα",
+    "temperatures": [
+      "270 K",
+      "173 K",
+      "100 K"
+    ],
+    "software": "SHELX program",
+    "model": "anisotropic thermal parameters for all nonhydrogen atoms"
+  },
+  "thermal_hysteresis": {
+    "temperature_range": "156 K to 106 K",
+    "possible_cause": "structural transformation"
+  }
+}

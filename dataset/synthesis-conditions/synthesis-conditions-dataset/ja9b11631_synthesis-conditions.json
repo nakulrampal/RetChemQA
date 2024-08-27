@@ -1,0 +1,294 @@
+{
+  "materials": [
+    {
+      "name": "2a",
+      "synthesis_conditions": {
+        "temperature": "-35 °C to room temperature",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "1",
+            "amount": "203.3 mg, 0.25 mmol"
+          },
+          {
+            "name": "diphenylacetylene",
+            "amount": "88.7 mg, 0.50 mol"
+          },
+          {
+            "name": "KC8",
+            "amount": "163.4 mg, 1.21 mmol"
+          }
+        ],
+        "time": "1 h",
+        "yield": "86%",
+        "drying_method": "vacuum",
+        "washing_method": "cold Et2O thrice"
+      }
+    },
+    {
+      "name": "2a-crypt",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "2a",
+            "amount": "163.0 mg, 0.25 mmol"
+          },
+          {
+            "name": "[2.2.2]­cryptand",
+            "amount": "94.1 mg, 0.25 mmol"
+          }
+        ],
+        "time": "4 h",
+        "yield": "98%",
+        "drying_method": "vacuum",
+        "washing_method": "Et2O thrice"
+      },
+      "alternative_method": {
+        "description": "Direct synthesis from 1",
+        "chemicals_used": [
+          {
+            "name": "1",
+            "amount": "199.7 mg, 0.25 mmol"
+          },
+          {
+            "name": "diphenylacetylene",
+            "amount": "88.5 mg, 0.50 mol"
+          },
+          {
+            "name": "KC8",
+            "amount": "162.6 mg, 1.20 mmol"
+          },
+          {
+            "name": "[2.2.2]­cryptand",
+            "amount": "190.2 mg, 0.51 mmol"
+          }
+        ],
+        "yield": "81%"
+      }
+    },
+    {
+      "name": "2b-crypt",
+      "synthesis_conditions": {
+        "temperature": "not specified",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "1",
+            "amount": "200.6 mg, 0.25 mmol"
+          },
+          {
+            "name": "(trimethylsilyl)­phenylacetylene",
+            "amount": "87.3 mg, 0.50 mol"
+          },
+          {
+            "name": "KC8",
+            "amount": "162.7 mg, 1.21 mmol"
+          },
+          {
+            "name": "[2.2.2]­cryptand",
+            "amount": "189.5 mg, 0.50 mmol"
+          }
+        ],
+        "yield": "78%"
+      }
+    },
+    {
+      "name": "3",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "2a",
+            "amount": "65.4 mg, 0.10 mmol"
+          },
+          {
+            "name": "phenylacetylene",
+            "amount": "24.3 mg, 0.24 mmol"
+          }
+        ],
+        "time": "10 min",
+        "yield": "81%",
+        "drying_method": "vacuum",
+        "washing_method": "hexane thrice"
+      }
+    },
+    {
+      "name": "4",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "2a",
+            "amount": "65.7 mg, 0.10 mmol"
+          },
+          {
+            "name": "phenazine",
+            "amount": "9.02 mg, 0.05 mmol"
+          }
+        ],
+        "time": "6 h",
+        "yield": "61%",
+        "drying_method": "vacuum",
+        "washing_method": "hexane"
+      }
+    },
+    {
+      "name": "5",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "2a-crypt",
+            "amount": "48.6 mg, 0.05 mmol"
+          },
+          {
+            "name": "trimethylsilyl isocyanate",
+            "amount": "8.1 μL, 0.06 mmol"
+          }
+        ],
+        "time": "12 h",
+        "yield": "83%",
+        "drying_method": "vacuum",
+        "washing_method": "Et2O thrice"
+      }
+    },
+    {
+      "name": "6",
+      "synthesis_conditions": {
+        "temperature": "-78 °C to room temperature",
+        "solvents": [
+          {
+            "name": "d8-THF",
+            "amount": "0.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "2a-crypt",
+            "amount": "29.1 mg, 0.03 mmol"
+          },
+          {
+            "name": "N2O",
+            "amount": "1 atm"
+          }
+        ],
+        "yield": "90%",
+        "drying_method": "vacuum",
+        "washing_method": "Et2O thrice"
+      }
+    },
+    {
+      "name": "7",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "2a-crypt",
+            "amount": "48.6 mg, 0.05 mmol"
+          },
+          {
+            "name": "trimethylsilyl azide",
+            "amount": "15.8 μL, 0.12 mmol"
+          }
+        ],
+        "time": "12 h",
+        "yield": "88%",
+        "drying_method": "vacuum",
+        "washing_method": "Et2O thrice"
+      }
+    },
+    {
+      "name": "9",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "2a-crypt",
+            "amount": "48.3 mg, 0.05 mmol"
+          },
+          {
+            "name": "diphenyl disulfide",
+            "amount": "11.1 mg, 0.05 mmol"
+          }
+        ],
+        "time": "10 min",
+        "yield": "89%",
+        "drying_method": "vacuum",
+        "washing_method": "Et2O thrice"
+      }
+    },
+    {
+      "name": "10",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "2a-crypt",
+            "amount": "48.0 mg, 0.05 mmol"
+          },
+          {
+            "name": "azobenzene",
+            "amount": "9.2 mg, 0.05 mmol"
+          }
+        ],
+        "time": "1 h",
+        "yield": "83%",
+        "drying_method": "vacuum",
+        "washing_method": "Et2O thrice"
+      }
+    }
+  ]
+}

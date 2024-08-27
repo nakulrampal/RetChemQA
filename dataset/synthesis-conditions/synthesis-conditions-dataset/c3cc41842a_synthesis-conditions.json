@@ -1,0 +1,124 @@
+{
+  "materials": [
+    {
+      "name": "ValZnFor",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": ["H2O"],
+        "amount_of_solvent": ["0.5ml"],
+        "chemicals_used": ["l-LHCO2 (0.055 g, 0.2 mmol)", "Zn(CH3CO2)2.2H2O (0.022 g, 0.1 mmol)"],
+        "equipment": ["15ml vial"],
+        "time": "12h",
+        "yield": "71%",
+        "drying_method": "Evaporation"
+      }
+    },
+    {
+      "name": "ValZnOAc",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": ["H2O"],
+        "amount_of_solvent": ["0.25ml"],
+        "chemicals_used": ["l-LCH3CO2 (0.058 g, 0.2 mmol)", "Zn(CH3CO2)2.2H2O (0.022 g, 0.1 mmol)"],
+        "equipment": ["15ml vial"],
+        "time": "24h",
+        "yield": "72%",
+        "drying_method": "Evaporation"
+      }
+    },
+    {
+      "name": "AlaZnCl",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": ["H2O", "MeOH"],
+        "amount_of_solvent": ["0.5ml H2O", "5ml MeOH"],
+        "chemicals_used": ["l-L1Cl (0.048 g, 0.2 mmol)", "Zn(CH3CO2)2.2H2O (0.022 g, 0.1 mmol)"],
+        "equipment": ["15ml vial"],
+        "time": "24h",
+        "yield": "75%",
+        "drying_method": "Evaporation"
+      }
+    },
+    {
+      "name": "AlaZnBr",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": ["H2O", "MeOH"],
+        "amount_of_solvent": ["0.75ml H2O", "5ml MeOH"],
+        "chemicals_used": ["l-L1Br (0.057 g, 0.2 mmol)", "Zn(CH3CO2)2.2H2O (0.022 g, 0.1 mmol)"],
+        "equipment": ["15ml vial"],
+        "time": "24h",
+        "yield": "70%",
+        "drying_method": "Evaporation"
+      }
+    },
+    {
+      "name": "AlaZnFor",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": ["H2O"],
+        "amount_of_solvent": ["0.5ml"],
+        "chemicals_used": ["l-L1HCO2 (0.05 g, 0.2 mmol)", "Zn(CH3CO2)2.2H2O (0.022 g, 0.1 mmol)"],
+        "equipment": ["5ml vial"],
+        "time": "24h",
+        "yield": "71%",
+        "drying_method": "Evaporation"
+      }
+    },
+    {
+      "name": "AlaZnOAc",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": ["H2O", "MeOH"],
+        "amount_of_solvent": ["0.25ml H2O", "6ml MeOH"],
+        "chemicals_used": ["l-L1CH3CO2 (0.044 g, 0.2 mmol)", "Zn(CH3CO2)2.2H2O (0.022 g, 0.1 mmol)"],
+        "equipment": ["15ml vial"],
+        "time": "36h",
+        "yield": "72%",
+        "drying_method": "Evaporation"
+      }
+    },
+    {
+      "name": "ValZnNO3",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": ["H2O"],
+        "chemicals_used": ["ValZnCl", "1 N AgNO3"],
+        "washing_method": "Filtered using Whatman filter paper",
+        "reconstitution_chemicals": ["NaCl or NH4Cl"],
+        "reconstitution_conditions": ["Room temperature", "Slow evaporation"],
+        "yield": "Not specified"
+      }
+    },
+    {
+      "name": "AlaZnNO3",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": ["H2O"],
+        "chemicals_used": ["AlaZnCl", "1 N AgNO3"],
+        "washing_method": "Filtered using Whatman filter paper",
+        "reconstitution_chemicals": ["NaCl or NH4Cl"],
+        "reconstitution_conditions": ["Room temperature", "Slow evaporation"],
+        "yield": "Not specified"
+      }
+    },
+    {
+      "name": "ValZnBF4",
+      "synthesis_conditions": {
+        "temperature": "Not specified",
+        "solvents": ["Not specified"],
+        "chemicals_used": ["ValZnCl", "AgBF4"],
+        "yield": "Not specified"
+      }
+    },
+    {
+      "name": "ValZnClO4",
+      "synthesis_conditions": {
+        "temperature": "Not specified",
+        "solvents": ["Not specified"],
+        "chemicals_used": ["ValZnCl", "AgClO4"],
+        "yield": "Not specified"
+      }
+    }
+  ]
+}

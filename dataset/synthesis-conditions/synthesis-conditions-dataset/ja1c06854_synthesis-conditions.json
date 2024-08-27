@@ -1,0 +1,106 @@
+{
+  "materials": [
+    {
+      "name": "PLCryst",
+      "synthesis_conditions": {
+        "temperature": "65 °C",
+        "solvents": [
+          {
+            "name": "DMF/EtOH",
+            "volume_ratio": "3:1",
+            "amount": "2 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2•6H2O",
+            "amount": "8.9 mg",
+            "molarity": "0.03 mmol"
+          },
+          {
+            "name": "AzoPy",
+            "amount": "3.7 mg",
+            "molarity": "0.02 mmol"
+          },
+          {
+            "name": "2HPor",
+            "amount": "7.9 mg",
+            "molarity": "0.01 mmol"
+          }
+        ],
+        "equipment": "glass vial (10 mL), two-sided transparent quartz optical cuvette (1 mm ´ 10 mm ´ 10 mm) or glass tube (dia. = 6 mm)",
+        "time": "24 h",
+        "yield_analysis": {
+          "C": {
+            "calculated": "58.1%",
+            "found": "58.2%"
+          },
+          "H": {
+            "calculated": "3.1%",
+            "found": "3.1%"
+          },
+          "N": {
+            "calculated": "8.9%",
+            "found": "8.9%"
+          },
+          "Zn": {
+            "calculated": "16.0%",
+            "found": "16.0%"
+          }
+        },
+        "drying_method": "TGA analysis showed thermal stability above 400 °C"
+      }
+    },
+    {
+      "name": "LCryst",
+      "synthesis_conditions": {
+        "temperature": "65 °C",
+        "solvents": [
+          {
+            "name": "DMF/EtOH",
+            "volume_ratio": "3:1",
+            "amount": "2 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2•6H2O",
+            "amount": "8.9 mg",
+            "molarity": "0.03 mmol"
+          },
+          {
+            "name": "AzoPy",
+            "amount": "3.7 mg",
+            "molarity": "0.02 mmol"
+          },
+          {
+            "name": "2HPor",
+            "amount": "7.9 mg",
+            "molarity": "0.01 mmol"
+          }
+        ],
+        "equipment": "glass vial (10 mL), two-sided transparent quartz optical cuvette (1 mm ´ 10 mm ´ 10 mm) or glass tube (dia. = 6 mm)",
+        "time": "3 h",
+        "yield_analysis": {
+          "C": {
+            "calculated": "55.3%",
+            "found": "55.8%"
+          },
+          "H": {
+            "calculated": "3.4%",
+            "found": "3.5%"
+          },
+          "N": {
+            "calculated": "6.4%",
+            "found": "6.0%"
+          },
+          "Zn": {
+            "calculated": "17.1%",
+            "found": "16.9%"
+          }
+        },
+        "drying_method": "TGA analysis showed thermal stability above 450 °C"
+      }
+    }
+  ]
+}

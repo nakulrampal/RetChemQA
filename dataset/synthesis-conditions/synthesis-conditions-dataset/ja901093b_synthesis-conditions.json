@@ -1,0 +1,67 @@
+{
+  "materials": [
+    {
+      "name": "(Me2NH2)[FeIIFeIII(HCOO)6]",
+      "synthesis_conditions": [
+        {
+          "method": "A",
+          "precursors": "Fe3(HCOO)6•DMF",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "not specified"
+            },
+            {
+              "name": "88% formic acid",
+              "amount": "not specified"
+            }
+          ],
+          "temperature": "110 °C",
+          "time": "three days",
+          "washing_method": "washed with EtOH and Et2O",
+          "drying_method": "dried in air",
+          "yield": "1.21 g (83%)",
+          "additional_information": "mechanically separated from more dense white crystals"
+        },
+        {
+          "method": "B",
+          "precursors": "Fe3O(CH3COO)6(H2O)3",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "~10 mL"
+            },
+            {
+              "name": "88% formic acid",
+              "amount": "approximately 5 mL"
+            }
+          ],
+          "temperature": "110 °C",
+          "time": [
+            "four hours",
+            "overnight",
+            "one week"
+          ],
+          "washing_method": "washed with EtOH and Et2O",
+          "drying_method": "air dried",
+          "yield": "0.41 g (50% based on iron(II) content of starting material)"
+        }
+      ],
+      "physical_measurements": {
+        "mossbauer_spectra": {
+          "temperature": "room temperature",
+          "equipment": "weak-field spectrometer using a permanent magnet of 50 mT",
+          "mode": "constant-acceleration mode in a transmission geometry",
+          "analysis_program": "WMOSS (WEB Research)",
+          "reference": "metallic Fe foil"
+        },
+        "magnetic_measurements": {
+          "sample_preparation": "crushed into microcrystals, placed into a gel capsule with molten icosane",
+          "sample_amount": "22.92 mg",
+          "diamagnetic_correction": "-169.01E-6 cm3 K/mol",
+          "measurement_conditions": "DC conditions using a stable external field (0.01, 0.05, 0.1, 0.2, 0.5 T) while sweeping the temperature in the range 5 to 300 K"
+        }
+      }
+    }
+  ]
+}

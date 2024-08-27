@@ -1,0 +1,104 @@
+{
+  "materials": [
+    {
+      "name": "6,6’-dichloro-2,2’-diethoxy-1,1’-binaphthyl-4,4’-dibenzoic acid (L1-H2)",
+      "synthesis_conditions": {
+        "method": "Suzuki coupling reactions",
+        "starting_materials": [
+          "4-methoxycarbonylphenylboronic acid",
+          "6,6’-dichloro-4,4’-dibromo-1,1’-binaphthyl"
+        ],
+        "followed_by": "hydrolysis"
+      }
+    },
+    {
+      "name": "6,6’-dichloro-2,2’-dibenzyloxy-1,1’-binaphthyl-4,4’-dibenzoic acid (L2-H2)",
+      "synthesis_conditions": {
+        "method": "Suzuki coupling reactions",
+        "starting_materials": [
+          "4-methoxycarbonylphenylboronic acid",
+          "6,6’-dichloro-4,4’-dibromo-1,1’-binaphthyl"
+        ],
+        "followed_by": "hydrolysis"
+      }
+    },
+    {
+      "name": "[Zn4(m4-O)(L1)3(dmf)2]·4 DMF·3 CH3OH·2 H2O (1)",
+      "synthesis_conditions": {
+        "temperature": "50 8C",
+        "time": "2 days",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "not specified"
+          },
+          {
+            "name": "MeOH",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          "Zn(ClO4)2",
+          "L1-H2",
+          "dimethylaniline"
+        ],
+        "equipment": "sealed vial",
+        "washing_method": "diethyl ether",
+        "drying_method": "air",
+        "yield": "81%"
+      }
+    },
+    {
+      "name": "[Zn4(m4-O)(L2)3]·5 DMF·5 C2H5OH·H2O (2)",
+      "synthesis_conditions": {
+        "temperature": "50 8C",
+        "time": "2 days",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "not specified"
+          },
+          {
+            "name": "EtOH",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          "ZnI2",
+          "L2-H2",
+          "dimethylaniline"
+        ],
+        "equipment": "sealed vial"
+      }
+    },
+    {
+      "name": "CO2 adsorption measurements preparation",
+      "synthesis_conditions": {
+        "preparation": [
+          {
+            "step": "soaking",
+            "solvent": "CH2Cl2",
+            "duration": "overnight"
+          },
+          {
+            "step": "evacuation",
+            "temperature": "85 8C",
+            "duration": "12 h"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Hydrogen adsorption measurements preparation",
+      "synthesis_conditions": {
+        "preparation": [
+          {
+            "step": "heating",
+            "temperature": "150 8C",
+            "duration": "1 h"
+          }
+        ]
+      }
+    }
+  ]
+}

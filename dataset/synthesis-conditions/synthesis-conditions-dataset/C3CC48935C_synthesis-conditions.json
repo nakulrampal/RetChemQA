@@ -1,0 +1,69 @@
+{
+  "materials": [
+    {
+      "name": "1∙solv",
+      "synthesis_conditions": [
+        {
+          "step": "Solvothermal synthesis",
+          "temperature": "160°C",
+          "time": "2 days",
+          "cooling_rate": "5°C/h",
+          "solvents": [
+            {
+              "name": "ethanol",
+              "amount": "12 ml"
+            },
+            {
+              "name": "DMF",
+              "amount": "2 ml"
+            },
+            {
+              "name": "ethylene glycol",
+              "amount": "2 ml",
+              "note": "Added for obtaining pure bulk samples, resulting in smaller crystals but higher yield."
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "FeCl2∙4H2O",
+              "amount": "0.010 g",
+              "molarity": "0.05 mmol"
+            },
+            {
+              "name": "Hmptpy",
+              "amount": "0.031 g",
+              "molarity": "0.1 mmol"
+            },
+            {
+              "name": "triethylamine",
+              "amount": "0.010 g",
+              "molarity": "0.1 mmol"
+            }
+          ],
+          "equipment": "20 ml Teflon-lined reactor",
+          "yield": [
+            {
+              "condition": "without ethylene glycol",
+              "value": "31%"
+            },
+            {
+              "condition": "with ethylene glycol",
+              "value": "63%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Desolvated 1",
+      "synthesis_conditions": [
+        {
+          "step": "Desolvation",
+          "temperature": "500 K",
+          "time": "1 hour",
+          "atmosphere": "flowing N2"
+        }
+      ]
+    }
+  ]
+}

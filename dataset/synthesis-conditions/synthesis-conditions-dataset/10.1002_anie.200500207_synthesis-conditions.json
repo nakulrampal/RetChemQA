@@ -1,0 +1,37 @@
+{
+  "materials": [
+    {
+      "name": "zwitterionic coordination polymer 1",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": ["water"],
+        "amount_of_solvent": "20 mL",
+        "equipment": ["stirrer"],
+        "chemicals_used": [
+          {
+            "name": "elemental zinc",
+            "amount": "1.50 g, 23 mmol"
+          },
+          {
+            "name": "N,N'-diacetic acid imidazolium bromide",
+            "amount": "2.65 g, 10 mmol"
+          }
+        ],
+        "time": "10 days",
+        "yield": "96 %",
+        "washing_method": "filtered, filtrate concentrated to half of its volume",
+        "drying_method": "left at room temperature for seven days",
+        "additional_information": "Big colorless crystals were afforded."
+      }
+    },
+    {
+      "name": "1-D",
+      "synthesis_conditions": {
+        "solvents": ["D2O", "[D6]acetone"],
+        "washing_method": "washed with [D6]acetone to remove residual water absorbed on the surface",
+        "drying_method": "removal of the solvent at low temperature (2–5 8C)",
+        "additional_information": "The water content was determined to be 98 % of the theoretical value by thermogravimetric analysis and confirmed by elemental analysis. Unwanted exchange of protons at C3 was observed when the sample of 1-D was prepared at room temperature with slow evaporation of the solvent."
+      }
+    }
+  ]
+}

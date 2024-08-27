@@ -1,0 +1,91 @@
+{
+  "materials": [
+    {
+      "name": "CTNMOF",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "200 μL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H4CTNL",
+            "amount": "50 mM in DMF, 100 μL"
+          },
+          {
+            "name": "Co(NO3)2·6H2O",
+            "amount": "400 mM in DMF, 100 μL"
+          }
+        ],
+        "time": "18 hours",
+        "yield": "90%",
+        "drying_method": "vacuum at room temperature for 2 hours",
+        "washing_method": "DMF",
+        "storage_conditions": "4 °C"
+      }
+    },
+    {
+      "name": "Me4CTNL",
+      "synthesis_conditions": {
+        "temperature": "20 °C",
+        "solvents": [
+          {
+            "name": "CHCl3",
+            "amount": "460 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "methyl 3,5-bis(chlorocarbonyl)benzoate",
+            "amount": "in anhydrous CHCl3, 230 mL, 33 mM"
+          },
+          {
+            "name": "1,4-phenylenedimethanamine",
+            "amount": "in anhydrous CHCl3, 230 mL, 33 mM, 1 equiv."
+          },
+          {
+            "name": "triethylamine",
+            "amount": "4.2 mL in 230 mL CHCl3, 4 equiv."
+          }
+        ],
+        "time": "12 hours",
+        "yield": "5%",
+        "purification_method": "silica gel column chromatography",
+        "eluent": "1% to 4% v/v MeOH in CH2Cl2"
+      }
+    },
+    {
+      "name": "H4CTNL",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "3 mL"
+          },
+          {
+            "name": "MeOH",
+            "amount": "3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Me4CTNL",
+            "amount": "123 mg, 0.099 mmol, 1 equiv."
+          },
+          {
+            "name": "NaOH solution",
+            "amount": "5% w/v 1.5 mL, 19 equiv."
+          }
+        ],
+        "time": "12 hours",
+        "yield": "82%",
+        "washing_method": "water",
+        "drying_method": "vacuo"
+      }
+    }
+  ]
+}

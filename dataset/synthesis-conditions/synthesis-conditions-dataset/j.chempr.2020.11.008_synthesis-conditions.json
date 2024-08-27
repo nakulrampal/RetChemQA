@@ -1,0 +1,50 @@
+{
+  "materials": [
+    {
+      "name": "Spiro-CE-1",
+      "synthesis": {
+        "chemicals": [
+          {
+            "name": "ZrCl4",
+            "amount": "28 mg",
+            "mmol": "0.12 mmol"
+          },
+          {
+            "name": "H4L",
+            "amount": "30 mg",
+            "mmol": "0.032 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "4 mL"
+          },
+          {
+            "name": "anhydrous formic acid",
+            "amount": "2.5 mL"
+          }
+        ],
+        "temperature": "393 K",
+        "time": "3 days",
+        "yield": "40 mg, 85%",
+        "storage": "fresh DMF"
+      }
+    },
+    {
+      "name": "Spiro-OH",
+      "synthesis": {
+        "description": "Single crystals of Spiro-OH were obtained via similar procedures as described for Spiro-CE-1, except with the use of hydroxyl-functionalized spiro linker."
+      }
+    },
+    {
+      "name": "Spiro-CE-2",
+      "synthesis": {
+        "description": "Freshly prepared crystals of Spiro-CE-1 were removed from solvent, either DMF or acetone, and exposed to air for 3–5 min."
+      }
+    }
+  ],
+  "computational_methods": {
+    "description": "The SBU, Zr6 and Zr12 cluster models were cut from the periodic Spiro-CE-1 to Spiro-CE-2 structures with the benzenes substituted by H atoms. The cluster models, H2O and HCOOH were optimized with DFT at the B3LYP-D3BJ/def2-SVP level. The def2-SVP basis set executes all-electron calculations for C, H, and O atoms, and includes the effective core potential (ECP) for Zr atoms. Vibrational frequencies were computed at the same level to verify the energy minima with no imaginary frequency and generate thermal corrections to enthalpy (H) and Gibbs energy (G) at 298.15 K. All the calculations were performed with the Gaussian 16 package."
+  }
+}

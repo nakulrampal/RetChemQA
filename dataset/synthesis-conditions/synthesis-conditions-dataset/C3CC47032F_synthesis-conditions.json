@@ -1,0 +1,32 @@
+{
+  "materials": [
+    {
+      "name": "Ag(tcm) single-crystal",
+      "synthesis_conditions": {
+        "chemicals_used": "AgNO3 (50 mg), K(tcm) (50 mg), H2O",
+        "solvents": "H2O (ice-cold)",
+        "amount_of_each_solvent": "Not specified",
+        "equipment": "Single glass H-cell",
+        "temperature": "Ambient",
+        "time": "7 days",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified"
+      }
+    },
+    {
+      "name": "Ag(tcm) powder",
+      "synthesis_conditions": {
+        "chemicals_used": "AgNO3, K(tcm) (equimolar saturated aqueous solutions)",
+        "solvents": "H2O",
+        "amount_of_each_solvent": "Not specified",
+        "equipment": "Not specified",
+        "temperature": "50 °C (drying under vacuum)",
+        "time": "Not specified",
+        "washing_method": "H2O",
+        "drying_method": "Vacuum",
+        "yield": "Not specified"
+      }
+    }
+  ]
+}

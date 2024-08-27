@@ -1,0 +1,47 @@
+{
+  "materials": [
+    {
+      "name": "Gd(HCOO)3",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Gd(NO3)3 · 5H2O",
+            "amount": "0.5 g",
+            "molarity": "1 mmol"
+          },
+          {
+            "chemical": "Formic acid",
+            "amount": "15 mL"
+          },
+          {
+            "chemical": "H2O",
+            "amount": "10 mL"
+          }
+        ],
+        "method": "Evaporation",
+        "time": "Several days",
+        "yield": "> 90%",
+        "drying_method": "Under vacuum",
+        "crystal_system": "Hexagonal",
+        "space_group": "R 3 m",
+        "cell_parameters": {
+          "a": "10.4583(4) Å",
+          "c": "3.9869(3) Å"
+        },
+        "analysis": {
+          "calcd_for": "GdC3H3O6",
+          "values": {
+            "Gd": "53.80",
+            "C": "12.33",
+            "H": "1.03"
+          },
+          "found": {
+            "Gd": "53.57",
+            "C": "12.32",
+            "H": "1.07"
+          }
+        }
+      }
+    }
+  ]
+}

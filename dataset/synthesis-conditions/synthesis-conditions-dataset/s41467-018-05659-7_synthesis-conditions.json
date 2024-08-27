@@ -1,0 +1,66 @@
+{
+  "Materials": [
+    {
+      "Material": "Eu-Ru(phen)3-MOF",
+      "Synthesis_Conditions": {
+        "Temperature": "105 °C",
+        "Solvents": [
+          {
+            "Solvent": "DMF",
+            "Amount": "3 mL"
+          }
+        ],
+        "Chemicals_Used": [
+          {
+            "Chemical": "Eu(NO3)3·6H2O",
+            "Amount": "42.0 mg, 94.2 µmol"
+          },
+          {
+            "Chemical": "H3L",
+            "Amount": "8.0 mg, 7.1 µmol"
+          },
+          {
+            "Chemical": "2-FBA",
+            "Amount": "100 mg, 0.719 mmol"
+          }
+        ],
+        "Equipment": "20 mL Teflon-lined autoclave",
+        "Time": "70 h",
+        "Yield": "3 mg, 44%",
+        "Washing_Method": "Not specified",
+        "Drying_Method": "Not specified"
+      }
+    },
+    {
+      "Material": "[Eu2(MMA)6(H2O)4]",
+      "Synthesis_Conditions": {
+        "Temperature": "393 K",
+        "Solvents": [
+          {
+            "Solvent": "H2O",
+            "Amount": "10 mL"
+          }
+        ],
+        "Chemicals_Used": [
+          {
+            "Chemical": "Eu(NO3)3·6H2O",
+            "Amount": "0.2 mmol"
+          },
+          {
+            "Chemical": "methacrylic acid (MAA)",
+            "Amount": "0.6 mmol"
+          },
+          {
+            "Chemical": "NaOH",
+            "Amount": "0.6 mmol"
+          }
+        ],
+        "Equipment": "Teflon-lined stainless steel autoclave (25 mL)",
+        "Time": "72 h",
+        "Yield": "Not specified",
+        "Washing_Method": "Washed with water",
+        "Drying_Method": "Dried in air"
+      }
+    }
+  ]
+}

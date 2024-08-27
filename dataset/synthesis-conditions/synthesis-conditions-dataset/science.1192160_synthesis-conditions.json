@@ -1,0 +1,120 @@
+{
+  "materials": [
+    {
+      "name": "MOF-180",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": [
+          {
+            "name": "DMF/NMP",
+            "amount": "2.0/2.0 mL"
+          }
+        ],
+        "equipment": "8-mL glass vial",
+        "chemicals_used": [
+          {
+            "name": "H3BTE",
+            "amount": "7.5 mg"
+          },
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "75 mg"
+          }
+        ],
+        "time": "96 h",
+        "washing_method": "DMF and NMP (3 × 4 mL)",
+        "drying_method": "air",
+        "yield": "5.2 mg, 27%"
+      }
+    },
+    {
+      "name": "MOF-200",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": [
+          {
+            "name": "DEF/NMP",
+            "amount": "4.0/4.0 mL"
+          }
+        ],
+        "equipment": "20-mL glass vial",
+        "chemicals_used": [
+          {
+            "name": "H3BBC",
+            "amount": "22.0 mg"
+          },
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "98.2 mg"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": "DEF and NMP (3 × 4 mL)",
+        "drying_method": "air",
+        "yield": "30 mg, 29%"
+      }
+    },
+    {
+      "name": "MOF-205",
+      "synthesis_conditions": {
+        "temperature": "95 °C",
+        "solvents": [
+          {
+            "name": "DMF/EtOH",
+            "amount": "3.0/0.3 mL"
+          }
+        ],
+        "equipment": "4-mL vial",
+        "chemicals_used": [
+          {
+            "name": "H3BTB",
+            "amount": "12.8 mg"
+          },
+          {
+            "name": "H2NDC",
+            "amount": "10.5 mg"
+          },
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "42.5 mg"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": "DMF",
+        "drying_method": "air",
+        "yield": "21 mg, 68%"
+      }
+    },
+    {
+      "name": "MOF-210",
+      "synthesis_conditions": {
+        "temperature": "95 °C",
+        "solvents": [
+          {
+            "name": "DMF/NMP",
+            "amount": "5.0/5.0 mL"
+          }
+        ],
+        "equipment": "20-mL vial",
+        "chemicals_used": [
+          {
+            "name": "H3BTE",
+            "amount": "8.3 mg"
+          },
+          {
+            "name": "H2BPDC",
+            "amount": "15.7 mg"
+          },
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "42.5 mg"
+          }
+        ],
+        "time": "72 h",
+        "washing_method": "DMF",
+        "drying_method": "air",
+        "yield": "13 mg, 68%"
+      }
+    }
+  ]
+}

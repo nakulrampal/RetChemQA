@@ -1,0 +1,72 @@
+{
+  "materials": [
+    {
+      "name": "tetraphenols 6 a,b",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "m- and p-mesodi(iodophenyl)porphyrins 4 a,b",
+          "boronic acid ester 5"
+        ],
+        "reaction": "Suzuki–Miyaura coupling",
+        "references": [
+          "Scheme 1",
+          "Schemes S1 and S2 in the Supporting Information"
+        ]
+      }
+    },
+    {
+      "name": "boron helicate 3 aNa2",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "tetraphenols 6 a",
+          "NaBH4"
+        ],
+        "solvent": "[D3]acetonitrile",
+        "temperature": "80 8C",
+        "time": "24 h",
+        "yield": "99 %",
+        "notes": "Reaction of 6 b did not produce the desired helicate, indicating specificity of the synthesis conditions to the starting material."
+      }
+    },
+    {
+      "name": "3 bNa2",
+      "synthesis_conditions": {
+        "attempt_details": "Attempted synthesis from 6 b using NaBH4 in various solvents at different temperatures was unsuccessful.",
+        "notes": "The p-phenylene linkage of 6 b likely hinders spiroborate formation due to steric hindrance."
+      }
+    },
+    {
+      "name": "inclusion complex 3 aNa2·G1",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "3 aNa2",
+          "aromatic guest G1"
+        ],
+        "solvent": "CH3CN",
+        "temperature": "25 8C",
+        "ratio": "1:1",
+        "association_constant": "(2.2 ± 0.3) × 10^9 m^-1",
+        "characterization": [
+          "1H NMR spectrum",
+          "ESI mass spectrometry",
+          "continuous variation plot (Job plot)",
+          "fluorescence titration data"
+        ],
+        "notes": "Formation of the 1:1 inclusion complex 3 aNa2·G1 was confirmed by various spectroscopic methods."
+      }
+    },
+    {
+      "name": "optical resolution of 3 aNa2",
+      "synthesis_conditions": {
+        "method": "Formation as diastereomeric salt with optically pure (R,R)- or (S,S)-7+·Br-",
+        "further_conversion": "Cation exchange with achiral tetrabutylammonium bromide (TBA+ Br-)",
+        "enantiomers": [
+          "(+)-3 aTBA2",
+          "(-)-3 aTBA2"
+        ],
+        "ee_values": "Above 99 %",
+        "characterization": "1H NMR spectra in the presence of (1R,2S)-N-benzyl-N-methylephedrinium bromide as a chiral shift reagent"
+      }
+    }
+  ]
+}

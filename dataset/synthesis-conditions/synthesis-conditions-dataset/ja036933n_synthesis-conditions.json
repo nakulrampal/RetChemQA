@@ -1,0 +1,92 @@
+{
+  "compounds": [
+    {
+      "name": "5",
+      "synthesis_conditions": {
+        "temperature_start": "-78 C",
+        "temperature_end": "room temperature",
+        "solvents": [
+          {
+            "name": "Et2O",
+            "amount": "20 cm3"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "NiCp2",
+            "amount": "0.04 g, 0.17 mmol"
+          },
+          {
+            "name": "[K(TMEDA)][:Ga{N(Ar)CH}2]",
+            "amount": "0.45 g, 0.35 mmol"
+          }
+        ],
+        "time": "2 hours",
+        "washing_method": "washed with hexane (20 cm3)",
+        "extraction_solvent": "toluene (20 cm3)",
+        "yield": "0.11 g, 46 %",
+        "melting_point": "248-253 C (dec)"
+      }
+    },
+    {
+      "name": "6",
+      "synthesis_conditions": {
+        "temperature_start": "-78 C",
+        "temperature_end": "room temperature",
+        "solvents": [
+          {
+            "name": "Et2O",
+            "amount": "20 cm3"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cp2Ni",
+            "amount": "0.03 g, 0.15 mmol"
+          },
+          {
+            "name": "[K(TMEDA)][:Ga{N(Ar)CH}2]",
+            "amount": "0.40 g, 0.33 mmol"
+          }
+        ],
+        "time": "overnight",
+        "washing_method": "washed with hexane (20 cm3)",
+        "extraction_solvent": "toluene (20 cm3)",
+        "yield": "0.08 g, 42 %",
+        "melting_point": "232-235 C (dec)",
+        "note": "Compound 6 can also be obtained in essentially quantitative yield by dissolving 5 in diethyl ether, stirring overnight, filtering the resulting suspension and removing volatiles in vacuo from the filtrate."
+      }
+    },
+    {
+      "name": "7",
+      "synthesis_conditions": {
+        "temperature": "-78 C",
+        "solvents": [
+          {
+            "name": "toluene",
+            "amount": "10 cm3"
+          },
+          {
+            "name": "toluene",
+            "amount": "20 cm3"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "5",
+            "amount": "0.383 g, 0.29 mmol"
+          },
+          {
+            "name": ":C{N(Me)C(Me)}2",
+            "amount": "0.10 g, 0.08 mmol"
+          }
+        ],
+        "time": "12 hours",
+        "washing_method": "washed with hexane (2 cm3)",
+        "extraction_solvent": "toluene (20 cm2)",
+        "yield": "0.03 g, 63 %",
+        "melting_point": "114-117 C (dec)"
+      }
+    }
+  ]
+}

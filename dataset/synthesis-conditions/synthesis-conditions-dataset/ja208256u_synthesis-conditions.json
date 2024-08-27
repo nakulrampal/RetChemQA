@@ -1,0 +1,363 @@
+{
+  "materials": [
+    {
+      "name": "porph@MOM-4",
+      "synthesis_conditions": {
+        "temperature": "100(2) K",
+        "wavelength": "1.54178 A",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "3.0 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          "FeCl2",
+          "TMPyP",
+          "BTC"
+        ],
+        "yield": "Not specified",
+        "time": "Not specified",
+        "crystal_system": "Cubic",
+        "space_group": "Fm-3m",
+        "unit_cell_dimensions": {
+          "a": "26.5717(17) Å",
+          "b": "26.5717(17) Å",
+          "c": "26.5717(17) Å",
+          "alpha": "90 deg.",
+          "beta": "90 deg.",
+          "gamma": "90 deg."
+        },
+        "volume": "18761(2) Å^3",
+        "Z": "4",
+        "calculated_density": "1.128 Mg/m^3",
+        "absorption_coefficient": "9.178 mm^-1",
+        "crystal_size": "0.05 x 0.05 x 0.05 mm",
+        "theta_range": "5.52 to 65.26 deg.",
+        "reflections_collected": "7378",
+        "unique_reflections": "848",
+        "completeness": "97.2 %",
+        "data_restraints_parameters": {
+          "data": "848",
+          "restraints": "29",
+          "parameters": "87"
+        },
+        "goodness_of_fit_on_F2": "1.028",
+        "final_R_indices": {
+          "I_greater_than_2sigma(I)": {
+            "R1": "0.0891",
+            "wR2": "0.2543"
+          },
+          "all_data": {
+            "R1": "0.1278",
+            "wR2": "0.2821"
+          }
+        },
+        "largest_diff_peak_and_hole": "0.642 and -0.465 e. Å^-3"
+      }
+    },
+    {
+      "name": "porph@MOM-5",
+      "synthesis_conditions": {
+        "temperature": "100(2) K",
+        "wavelength": "0.40663 A",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "3.0 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          "CoCl2",
+          "TMPyP",
+          "BTC"
+        ],
+        "yield": "Not specified",
+        "time": "Not specified",
+        "crystal_system": "Cubic",
+        "space_group": "Fm-3m",
+        "unit_cell_dimensions": {
+          "a": "26.4292(11) Å",
+          "b": "26.4292(11) Å",
+          "c": "26.4292(11) Å",
+          "alpha": "90 deg.",
+          "beta": "90 deg.",
+          "gamma": "90 deg."
+        },
+        "volume": "18460.9(13) Å^3",
+        "Z": "4",
+        "calculated_density": "1.150 Mg/m^3",
+        "absorption_coefficient": "0.233 mm^-1",
+        "crystal_size": "0.05 x 0.05 x 0.05 mm",
+        "theta_range": "1.97 to 14.02 deg.",
+        "reflections_collected": "34737",
+        "unique_reflections": "871",
+        "completeness": "98.6 %",
+        "data_restraints_parameters": {
+          "data": "871",
+          "restraints": "29",
+          "parameters": "79"
+        },
+        "goodness_of_fit_on_F2": "1.003",
+        "final_R_indices": {
+          "I_greater_than_2sigma(I)": {
+            "R1": "0.0815",
+            "wR2": "0.2452"
+          },
+          "all_data": {
+            "R1": "0.0997",
+            "wR2": "0.2648"
+          }
+        },
+        "largest_diff_peak_and_hole": "0.623 and -0.530 e. Å^-3"
+      }
+    },
+    {
+      "name": "porph@MOM-6",
+      "synthesis_conditions": {
+        "temperature": "100(2) K",
+        "wavelength": "0.40663 A",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "3.0 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          "MnCl2",
+          "TMPyP",
+          "BTC"
+        ],
+        "yield": "Not specified",
+        "time": "Not specified",
+        "crystal_system": "Cubic",
+        "space_group": "Fm-3m",
+        "unit_cell_dimensions": {
+          "a": "26.597(2) Å",
+          "b": "26.597(2) Å",
+          "c": "26.597(2) Å",
+          "alpha": "90 deg.",
+          "beta": "90 deg.",
+          "gamma": "90 deg."
+        },
+        "volume": "18816(2) Å^3",
+        "Z": "4",
+        "calculated_density": "1.108 Mg/m^3",
+        "absorption_coefficient": "0.173 mm^-1",
+        "crystal_size": "0.01 x 0.01 x 0.01 mm",
+        "theta_range": "2.28 to 13.05 deg.",
+        "reflections_collected": "17924",
+        "unique_reflections": "723",
+        "completeness": "98.0 %",
+        "data_restraints_parameters": {
+          "data": "723",
+          "restraints": "29",
+          "parameters": "76"
+        },
+        "goodness_of_fit_on_F2": "1.031",
+        "final_R_indices": {
+          "I_greater_than_2sigma(I)": {
+            "R1": "0.0925",
+            "wR2": "0.2352"
+          },
+          "all_data": {
+            "R1": "0.1187",
+            "wR2": "0.2601"
+          }
+        },
+        "largest_diff_peak_and_hole": "0.375 and -0.376 e. Å^-3"
+      }
+    },
+    {
+      "name": "porph@MOM-7",
+      "synthesis_conditions": {
+        "temperature": "100(2) K",
+        "wavelength": "1.54178 A",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2.0 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.4 mL"
+          }
+        ],
+        "chemicals_used": [
+          "Ni(OAC)2",
+          "TMPyP",
+          "BTC"
+        ],
+        "yield": "Not specified",
+        "time": "Not specified",
+        "crystal_system": "Cubic",
+        "space_group": "Fm-3m",
+        "unit_cell_dimensions": {
+          "a": "27.478(2) Å",
+          "b": "27.478(2) Å",
+          "c": "27.478(2) Å",
+          "alpha": "90 deg.",
+          "beta": "90 deg.",
+          "gamma": "90 deg."
+        },
+        "volume": "20747(3) Å^3",
+        "Z": "4",
+        "calculated_density": "0.901 Mg/m^3",
+        "absorption_coefficient": "1.582 mm^-1",
+        "crystal_size": "0.10 x 0.10 x 0.10 mm",
+        "theta_range": "6.44 to 63.58 deg.",
+        "reflections_collected": "8168",
+        "unique_reflections": "888",
+        "completeness": "96.4 %",
+        "data_restraints_parameters": {
+          "data": "888",
+          "restraints": "1",
+          "parameters": "74"
+        },
+        "goodness_of_fit_on_F2": "1.091",
+        "final_R_indices": {
+          "I_greater_than_2sigma(I)": {
+            "R1": "0.1075",
+            "wR2": "0.2816"
+          },
+          "all_data": {
+            "R1": "0.1329",
+            "wR2": "0.2972"
+          }
+        },
+        "largest_diff_peak_and_hole": "0.554 and -0.463 e. Å^-3"
+      }
+    },
+    {
+      "name": "porph@MOM-8",
+      "synthesis_conditions": {
+        "temperature": "85°C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2.0 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.4 mL"
+          }
+        ],
+        "chemicals_used": [
+          "Mg(OAC)2",
+          "TMPyP",
+          "BTC"
+        ],
+        "yield": "Not specified",
+        "time": "Not specified",
+        "crystal_system": "Not specified",
+        "space_group": "Not specified",
+        "unit_cell_dimensions": {
+          "a": "Not specified",
+          "b": "Not specified",
+          "c": "Not specified",
+          "alpha": "Not specified",
+          "beta": "Not specified",
+          "gamma": "Not specified"
+        },
+        "volume": "Not specified",
+        "Z": "Not specified",
+        "calculated_density": "Not specified",
+        "absorption_coefficient": "Not specified",
+        "crystal_size": "Not specified",
+        "theta_range": "Not specified",
+        "reflections_collected": "Not specified",
+        "unique_reflections": "Not specified",
+        "completeness": "Not specified",
+        "data_restraints_parameters": {
+          "data": "Not specified",
+          "restraints": "Not specified",
+          "parameters": "Not specified"
+        },
+        "goodness_of_fit_on_F2": "Not specified",
+        "final_R_indices": {
+          "I_greater_than_2sigma(I)": {
+            "R1": "Not specified",
+            "wR2": "Not specified"
+          },
+          "all_data": {
+            "R1": "Not specified",
+            "wR2": "Not specified"
+          }
+        },
+        "largest_diff_peak_and_hole": "Not specified"
+      }
+    },
+    {
+      "name": "porph@MOM-9",
+      "synthesis_conditions": {
+        "temperature": "100(2) K",
+        "wavelength": "0.40663 A",
+        "solvents": [
+          {
+            "name": "DMA",
+            "amount": "3.0 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          "Zn(NO3)2",
+          "TMPyP",
+          "BTC"
+        ],
+        "yield": "Not specified",
+        "time": "Not specified",
+        "crystal_system": "Orthorhombic",
+        "space_group": "Cmmm",
+        "unit_cell_dimensions": {
+          "a": "19.653(3) Å",
+          "b": "44.127(6) Å",
+          "c": "14.543(2) Å",
+          "alpha": "90 deg.",
+          "beta": "90 deg.",
+          "gamma": "90 deg."
+        },
+        "volume": "12612(3) Å^3",
+        "Z": "2",
+        "calculated_density": "1.056 Mg/m^3",
+        "absorption_coefficient": "0.361 mm^-1",
+        "crystal_size": "0.10 x 0.08 x 0.08 mm",
+        "theta_range": "1.19 to 13.05 deg.",
+        "reflections_collected": "39524",
+        "unique_reflections": "4753",
+        "completeness": "95.8 %",
+        "data_restraints_parameters": {
+          "data": "4753",
+          "restraints": "288",
+          "parameters": "284"
+        },
+        "goodness_of_fit_on_F2": "1.072",
+        "final_R_indices": {
+          "I_greater_than_2sigma(I)": {
+            "R1": "0.1241",
+            "wR2": "0.3302"
+          },
+          "all_data": {
+            "R1": "0.1357",
+            "wR2": "0.3413"
+          }
+        },
+        "largest_diff_peak_and_hole": "1.061 and -1.579 e. Å^-3"
+      }
+    }
+  ]
+}

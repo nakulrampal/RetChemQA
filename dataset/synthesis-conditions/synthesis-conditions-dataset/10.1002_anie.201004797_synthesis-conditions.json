@@ -1,0 +1,53 @@
+{
+  "materials": [
+    {
+      "name": "Cs3.62H0.38[(UO2)4{C6H4(PO2OH)2}3{C6H4(PO3)2}F2]",
+      "synthesis_conditions": {
+        "temperature": "200 8C",
+        "solvents": [
+          {
+            "name": "Millipore water",
+            "amount": "0.7 mL"
+          },
+          {
+            "name": "48 % HF",
+            "amount": "two drops"
+          }
+        ],
+        "equipment": "23 mL autoclave",
+        "chemicals_used": [
+          {
+            "name": "UO2(C2H3O2)2·2H2O",
+            "amount": "42.5 mg, 0.1 mmol"
+          },
+          {
+            "name": "1,4-benzenebisphosphonic acid",
+            "amount": "47.7 mg, 0.2 mmol"
+          },
+          {
+            "name": "CsCl",
+            "amount": "16.9 mg, 0.1 mmol"
+          }
+        ],
+        "time": "3 days",
+        "cooling_rate": "5 8C hr-1 to 25 8C",
+        "washing_method": "boiling water followed by rinsing with methanol",
+        "drying_method": "air dry at room temperature",
+        "yield": "70.5 % based on U",
+        "form": "yellow tablets"
+      }
+    },
+    {
+      "name": "Ag2.46Cs1.54[(UO2)4{C6H4(PO2OH)2}3{C6H4(PO3)2}F2]·nH2O",
+      "synthesis_conditions": {
+        "additional_information": "Obtained by immersing crystals of Cs3.62H0.38[(UO2)4{C6H4(PO2OH)2}3{C6H4(PO3)2}F2] in solutions of silver nitrate for 7 days, resulting in cation exchange."
+      }
+    },
+    {
+      "name": "[C12H10N2][(UO2)3{C6H4(PO3)2}2]·H2O",
+      "synthesis_conditions": {
+        "additional_information": "Undergoes substantial rearrangement and recrystallization from a three-dimensional network to a layered structure upon exposure to various cations in aqueous media."
+      }
+    }
+  ]
+}

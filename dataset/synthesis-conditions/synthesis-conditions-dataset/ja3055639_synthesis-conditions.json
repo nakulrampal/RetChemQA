@@ -1,0 +1,74 @@
+{
+  "materials": [
+    {
+      "name": "NU-109E",
+      "synthesis_conditions": {
+        "temperature": "75 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "9.6 ml"
+          },
+          {
+            "name": "EtOH",
+            "amount": "8 ml"
+          },
+          {
+            "name": "HCl",
+            "amount": "6 drops"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cu(NO3)2.2.5H2O",
+            "amount": "76 mg"
+          },
+          {
+            "name": "LH6-1",
+            "amount": "40 mg"
+          }
+        ],
+        "time": "48 h",
+        "yield": "50%",
+        "activation_method": "supercritical CO2 drying",
+        "drying_method": "vacuum at room temperature for 2 hours then heated up to 110 ºC over 2 hours and held at 110 ºC for 5 hours",
+        "washing_method": "washed with DMF"
+      }
+    },
+    {
+      "name": "NU-110E",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "4.8 ml"
+          },
+          {
+            "name": "EtOH",
+            "amount": "4 ml"
+          },
+          {
+            "name": "HCl",
+            "amount": "3 drops"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cu(NO3)2.2.5H2O",
+            "amount": "38 mg"
+          },
+          {
+            "name": "LH6-2",
+            "amount": "20 mg"
+          }
+        ],
+        "time": "48 h",
+        "yield": "45%",
+        "activation_method": "supercritical CO2 drying",
+        "drying_method": "vacuum at room temperature for 2 hours then heated up to 110 ºC over 2 hours and held at 110 ºC for 5 hours",
+        "washing_method": "washed with DMF"
+      }
+    }
+  ]
+}

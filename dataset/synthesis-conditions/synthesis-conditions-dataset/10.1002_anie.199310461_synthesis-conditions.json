@@ -1,0 +1,91 @@
+{
+  "materials": [
+    {
+      "name": "1a",
+      "synthesis_conditions": {
+        "temperature": "-60°C",
+        "time": "3 h",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "equimolar mixture"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "lithium thiolate",
+            "amount": "equimolar mixture"
+          },
+          {
+            "name": "(-)-4"
+          }
+        ],
+        "yield": "81% ee for (S)-1, 94% ee for (S)-3"
+      }
+    },
+    {
+      "name": "1b",
+      "synthesis_conditions": {
+        "temperature": "20°C",
+        "solvents": [],
+        "chemicals_used": [
+          {
+            "name": "BnSH or BUSH",
+            "temperature": "-70°C"
+          },
+          {
+            "name": "PhOH, MeOH, or (-)-4"
+          }
+        ],
+        "yield": "10-40% ee"
+      }
+    },
+    {
+      "name": "dinuclear precursor 1",
+      "synthesis_conditions": {
+        "method": "previously reported procedure for [Cu2(bpym),(H2O)2(OH)2](ClO4)2 . 2H2O"
+      }
+    },
+    {
+      "name": "Cu2+ complex 2",
+      "synthesis_conditions": {
+        "method": "slow evaporation of aqueous solutions containing copper(II) nitrate trihydrate, bpym, and sodium carbonate in a 2.1 - 1 molar ratio",
+        "notes": "Yield was low due to initial precipitation of copper(II) hydroxide. Crystals of 2 were separated manually and studied by X-ray diffraction. The synthesis was repeated until 13 mg of 2 was obtained for magnetic measurements.",
+        "chemicals_used": [
+          {
+            "name": "copper(II) nitrate trihydrate"
+          },
+          {
+            "name": "bpym"
+          },
+          {
+            "name": "sodium carbonate"
+          }
+        ],
+        "yield": "Low, 13 mg of 2 was obtained after repetition"
+      }
+    },
+    {
+      "name": "1a and 1b",
+      "synthesis_conditions": {
+        "temperature": "reflux in cyclohexane",
+        "time": "1 hour",
+        "solvents": [
+          {
+            "name": "cyclohexane"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[Ru3(CO)12]",
+            "amount": "equimolar mixture"
+          },
+          {
+            "name": "Ph3P=C(CH3)2"
+          }
+        ],
+        "yield": "1a: 40%, 1b: 29%, [Ru3(CO)12PPh3]: 8%"
+      }
+    }
+  ]
+}

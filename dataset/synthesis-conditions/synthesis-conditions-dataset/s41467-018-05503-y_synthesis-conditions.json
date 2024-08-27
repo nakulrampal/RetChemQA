@@ -1,0 +1,92 @@
+{
+  "materials": [
+    {
+      "name": "4,4′-bis(4-pyridyl) biphenyl (L1)",
+      "synthesis_conditions": {
+        "temperature": "110 °C",
+        "solvents": [
+          "toluene",
+          "EtOH",
+          "distilled water"
+        ],
+        "amount_of_each_solvent": [
+          "50 mL toluene",
+          "30 mL EtOH",
+          "15 mL distilled water"
+        ],
+        "equipment": "250 mL oven-dried two-necked round bottom flask",
+        "chemicals_used": [
+          "4,4′-dibromobiphenyl (2.0 g, 6.41 mmol)",
+          "4-pyridinylboronic acid (2.34 g, 19.11 mmol)",
+          "Pd(PPh3)4 (0.37 g, 0.32 mmol)",
+          "powdered NaOH (1.03 g, 25.64 mmol)"
+        ],
+        "time": "2 days",
+        "washing_method": "extracted using CHCl3/brine solution",
+        "drying_method": "dried over anhyd Na2SO4",
+        "yield": "95% (1.92 g, 6.03 mmol)"
+      }
+    },
+    {
+      "name": "[Zn2(4,4′-biphenyldicarboxylate)2(4,4′-bis(4-pyridyl)biphenyl)]n ·10DMF (X-pcu-1-Zn-3i-α)",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          "DMF",
+          "DEF/MeOH (2:1 v/v)"
+        ],
+        "amount_of_each_solvent": "3 mL",
+        "equipment": "14 mL glass vial",
+        "chemicals_used": [
+          "Zn(NO3)2·6H2O (14.8 mg, 0.05 mmol)",
+          "4,4′-biphenyldicarboxylate, L2 (12.11 mg, 0.05 mmol)",
+          "4,4′-bis(4-pyridyl) biphenyl, L1(7.7 mg, 0.025 mmol)"
+        ],
+        "time": "24 h",
+        "washing_method": "washed with 5 mL of DMF or DEF three times",
+        "yield": "64% (22 mg)"
+      }
+    },
+    {
+      "name": "[Zn2(L2)2(L1)]·6DMF (X-pcu-1-Zn-3i-β)",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "time": "10 min",
+        "atmosphere": "N2"
+      }
+    },
+    {
+      "name": "[Zn2(L2)2(L1)]·DMF (X-pcu-1-Zn-3i-γ)",
+      "synthesis_conditions": {
+        "time": "3 days",
+        "atmosphere": "dynamic vacuum"
+      }
+    },
+    {
+      "name": "[Zn2(L2)2(L1)]·3H2O, 2DMF (X-pcu-1-Zn-3i-δ)",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "time": "10 min",
+        "preparation_step": "exposed to air on bench one or two days",
+        "atmosphere": "N2"
+      }
+    },
+    {
+      "name": "[Zn2(L2)2(L1)] (X-pcu-2-Zn-3i)",
+      "synthesis_conditions": {
+        "temperature": "70 °C",
+        "time": "10 min",
+        "preparation_step": "solvent exchange of X-pcu-1-Zn-3i-α with acetonitrile three times a day for two days",
+        "atmosphere": "N2"
+      }
+    },
+    {
+      "name": "[Zn2(L2)2(L1)] (X-pcu-1-Zn-4i)",
+      "synthesis_conditions": {
+        "temperature": "130 °C",
+        "time": "12 h",
+        "preparation_step": "heating X-pcu-1-Zn-3i-α under dynamic vacuum or in the oven"
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "materials": [
+    {
+      "name": "GeFSIX-dps-Cu",
+      "synthesis_conditions": {
+        "metal_node": "Cu",
+        "ligand": "4,4’-dipyridylsulfide (dps)",
+        "anion": "GeF6",
+        "framework_flexibility": "Slightly expanded pore aperture and interlayer space",
+        "binding_sites": "Multiple host–guest hydrogen bonds",
+        "porosity_CO2_adsorption": {
+          "temperature": "196 K",
+          "BET_surface_area": "382 m2 g-1"
+        },
+        "hydrolytic_stability": "Stable in water for 3 days",
+        "thermal_stability": "Stable until 506 K",
+        "single_component_adsorption": {
+          "C3H4_capacity": "3.73 mmol g-1 at 298 K and 1 bar",
+          "C3H6_capacity": "0.08 mmol g-1 at 298 K and 1 bar",
+          "C2H2_capacity": "2.75 mmol g-1 at 298 K and 0.1 bar",
+          "C2H4_capacity": "Negligible amount"
+        },
+        "breakthrough_tests": {
+          "C3H4_C3H6_mixture": {
+            "C3H4_uptake": "2.04 mmol g-1",
+            "C3H6_uptake": "0.05 mmol g-1"
+          },
+          "C2H2_C2H4_mixture": {
+            "C2H2_uptake": "3.01 mmol g-1",
+            "C2H4_uptake": "0.08 mmol g-1"
+          }
+        },
+        "recyclability": "Maintained C3H4 uptake and molecular exclusion of C3H6 over 5 cycles"
+      }
+    },
+    {
+      "name": "GeFSIX-dps-Zn",
+      "synthesis_conditions": {
+        "metal_node": "Zn",
+        "ligand": "4,4’-dipyridylsulfide (dps)",
+        "anion": "GeF6",
+        "framework_flexibility": "Slightly contracted pore aperture and interlayer space",
+        "binding_sites": "Validated by single-crystal X-ray diffraction and modeling studies",
+        "porosity_CO2_adsorption": {
+          "temperature": "196 K",
+          "BET_surface_area": "181 m2 g-1"
+        },
+        "thermal_stability": "Stable until 455 K",
+        "single_component_adsorption": {
+          "C3H4_capacity": "3.48 mmol g-1 at 298 K and 1 bar",
+          "C3H6_capacity": "0.12 mmol g-1 at 298 K and 1 bar",
+          "C2H2_capacity": "Suitable for mixtures with comparable C2H2/C2H4 concentrations",
+          "C2H4_capacity": "Exclusion observed"
+        },
+        "breakthrough_tests": {
+          "C3H4_C3H6_mixture": {
+            "C3H4_uptake": "0.31 mmol g-1 for 10/90 (v/v) mixture",
+            "C3H6_uptake": "Immediate breakthrough"
+          },
+          "C2H2_C2H4_mixture": {
+            "C2H2_uptake": "0.41 mmol g-1 for 10/90 (v/v) mixture",
+            "C2H4_uptake": "Immediate breakthrough"
+          }
+        }
+      }
+    }
+  ]
+}

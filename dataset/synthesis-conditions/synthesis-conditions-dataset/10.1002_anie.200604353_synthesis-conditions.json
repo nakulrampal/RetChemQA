@@ -1,0 +1,38 @@
+{
+  "materials": [
+    {
+      "name": "MAMS-1",
+      "synthesis_conditions": {
+        "temperature": "210 8C",
+        "solvents": "H2O/ethylene glycol",
+        "solvent_ratio": "4:1 v/v",
+        "solvent_volume": "7.5 mL",
+        "equipment": "Teflon-lined autoclave",
+        "chemicals_used": {
+          "H2(bbdc)": "0.075 g, 0.34 mmol",
+          "Ni(NO3)2·6 H2O": "0.15 g, 0.51 mmol"
+        },
+        "time": "24 h",
+        "heating_rate": "2 8C min-1",
+        "cooling_rate": "0.5 8C min-1",
+        "washing_method": "washed with distilled water and methanol",
+        "yield": "55 % based on H2(bbdc)",
+        "activation_temperature": "200 8C under a dynamic vacuum",
+        "formula": "[Ni8(C12H12O4)6(H2O)8(m3-OH)4]·8 H2O",
+        "elemental_analysis": {
+          "calculated": {
+            "C": "40.28%",
+            "H": "5.07%",
+            "O": "32.79%"
+          },
+          "found": {
+            "C": "40.69%",
+            "H": "5.07%",
+            "O": "33.05%"
+          }
+        },
+        "IR_spectra": "n˜ = 3305 (w, br), 2960 (m), 1620 (m), 1571 (m), 1419 (m), 1347 (vs), 1275 (m), 1098 (m), 1033 (s), 865 (s), 785 cm-1 (m)"
+      }
+    }
+  ]
+}

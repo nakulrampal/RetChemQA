@@ -1,0 +1,118 @@
+{
+  "materials": [
+    {
+      "name": "Compound 2",
+      "synthesis_conditions": {
+        "temperature": "50 ºC",
+        "solvents": [
+          {
+            "name": "acetic acid",
+            "amount": "200 mL"
+          }
+        ],
+        "equipment": "N/A",
+        "chemicals_used": [
+          "p-nitrosotoluene (3.02 g, 24.9 mmol)",
+          "dimethyl 2ʹ-amino-1,1ʹ:4,1ʹʹ-terphenyl-4,4ʹʹ-dicarboxylate (2.03 g, 5.62 mmol)"
+        ],
+        "time": "3 days",
+        "washing_method": "extracted with ethyl acetate (100 mL × 3), washed with brine",
+        "drying_method": "dried over Na2SO4, evaporated under reduced pressure",
+        "yield": "85%",
+        "additional_steps": [
+          {
+            "step": "neutralization",
+            "details": "neutralized with saturated NaHCO3 solution"
+          },
+          {
+            "step": "column chromatography",
+            "details": "SiO2 : CH2Cl2 / petroleum ether (1 : 1)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ligand 1",
+      "synthesis_conditions": {
+        "temperature": "refluxed",
+        "solvents": [
+          {
+            "name": "20% NaOH aqueous solution",
+            "amount": "40 mL"
+          },
+          {
+            "name": "MeOH",
+            "amount": "40 mL"
+          },
+          {
+            "name": "THF",
+            "amount": "40 mL"
+          }
+        ],
+        "equipment": "N/A",
+        "chemicals_used": [
+          "compound 2 (2.09 g, 4.50 mmol)"
+        ],
+        "time": "12 h",
+        "washing_method": "washed with water",
+        "drying_method": "drying in vacuum",
+        "yield": "95%",
+        "additional_steps": [
+          {
+            "step": "evaporation",
+            "details": "MeOH and THF were evaporated under reduced pressure"
+          },
+          {
+            "step": "dissolution and acidification",
+            "details": "Additional water (40 mL) was added, heated until dissolved, then acidified with diluted HCl (PH ≈ 2)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "UiO-68-azo",
+      "synthesis_conditions": {
+        "temperature": "100°C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "details": "used in the reaction mixture"
+          },
+          {
+            "name": "acetic acid",
+            "details": "used in the reaction mixture"
+          }
+        ],
+        "equipment": "N/A",
+        "chemicals_used": [
+          "ZrCl4",
+          "ligand 1"
+        ],
+        "time": "72 hours",
+        "washing_method": "washed with DMF over a 2-day period, then exchanged with H2O several times",
+        "drying_method": "immersed in anhydrous dichloromethane for 3 days to replace and remove DMF, then evacuated in oil pump vacuum at room temperature",
+        "yield": "N/A",
+        "additional_information": "Obtained as red octahedron-shaped crystals"
+      }
+    },
+    {
+      "name": "RhB-loaded, b-CD–capped UiO-68-azo",
+      "synthesis_conditions": {
+        "steps": [
+          {
+            "step": "cargo loading",
+            "details": "UiO-68-azo immersed in 15 mL water solution containing RhB (15 mg mL−1) for 12 hours in the dark"
+          },
+          {
+            "step": "capping",
+            "details": "washed with water and saturated b-CD solution (25 mL × 3), then immersed in saturated b-CD solution for 3 hours"
+          }
+        ],
+        "washing_method": "isolated from solution through centrifugation, subsequently washed with water",
+        "drying_method": "kept in water for on-command release study",
+        "yield": "N/A",
+        "additional_information": "Used for on-command release experiments"
+      }
+    }
+  ]
+}

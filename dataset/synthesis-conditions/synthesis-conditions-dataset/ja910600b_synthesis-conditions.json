@@ -1,0 +1,37 @@
+{
+  "materials": [
+    {
+      "name": "Cu-SIP-3 MOF",
+      "synthesis_conditions": {
+        "method": "hydrothermal synthesis",
+        "chemicals_used": [
+          {
+            "name": "Cu(NO3)2·H2O",
+            "supplier": "Alfa Aesar",
+            "purity": "98%",
+            "amount": "2.42 g"
+          },
+          {
+            "name": "5-sulfoisophthalic acid sodium salt (NaH2SIP)",
+            "supplier": "Aldrich",
+            "purity": "95%",
+            "amount": "2.68 g"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "EtOH−H2O solution",
+            "ratio": "50:50",
+            "amount": "12 mL"
+          }
+        ],
+        "temperature": "383 K",
+        "equipment": "50 mL Teflon-lined autoclave",
+        "time": "5 days",
+        "washing_method": "sonication in 100 mL of EtOH−H2O, filtered",
+        "drying_method": "dried in air",
+        "yield_description": "aqua-blue crystalline solid"
+      }
+    }
+  ]
+}

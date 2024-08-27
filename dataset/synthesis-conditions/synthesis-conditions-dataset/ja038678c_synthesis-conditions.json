@@ -1,0 +1,81 @@
+{
+  "materials": [
+    {
+      "name": "porous manganese(II) formate",
+      "synthesis_conditions": {
+        "temperature": "110-120 °C",
+        "solvents": [
+          {
+            "name": "diethylformamide (DEF)/1,4-dioxane",
+            "amount": "12 mL",
+            "ratio": "2:1 by volume"
+          }
+        ],
+        "equipment": "sealed glass tube",
+        "chemicals_used": [
+          {
+            "name": "manganese(II) chloride",
+            "amount": "0.4 g, 2.0 mmol"
+          },
+          {
+            "name": "formic acid",
+            "amount": "184 mg, 151 μL, 4.0 mmol"
+          }
+        ],
+        "time": "2 days",
+        "washing_method": "washed",
+        "drying_method": "dried in a vacuum for 10 min",
+        "yield": "150 mg, 43%",
+        "additional_information": "Use of other template molecules instead of dioxane produced a series of crystalline compounds with the same composition for 1·⅓G, where G = THF, furan, or cyclohexane. All compounds are isostructural except for the different orientation of the guest molecules. The same reaction in the absence of organic guests yields a mixture of nonporous manganese formates including a previously known phase."
+      }
+    },
+    {
+      "name": "non-porous manganese formates",
+      "synthesis_conditions": {
+        "temperature": "110-120 °C",
+        "solvents": [
+          {
+            "name": "diethylformamide (DEF)/1,4-dioxane",
+            "amount": "12 mL",
+            "ratio": "2:1 by volume"
+          }
+        ],
+        "equipment": "sealed glass tube",
+        "chemicals_used": [
+          {
+            "name": "manganese(II) chloride",
+            "amount": "0.4 g, 2.0 mmol"
+          },
+          {
+            "name": "formic acid",
+            "amount": "184 mg, 151 μL, 4.0 mmol"
+          }
+        ],
+        "time": "2 days",
+        "additional_information": "The reaction in the absence of organic templates produced crystalline products which are a mixture of densely packed manganese formates having the same formula Mn(CHO2)2. Prolonged heating during the synthesis increases the formation of the α-form over β-form."
+      }
+    },
+    {
+      "name": "β-manganese formate",
+      "synthesis_conditions": {
+        "crystal_data": {
+          "formula": "MnC2H2O4",
+          "fw": "144.97",
+          "crystal_system": "orthorhombic",
+          "space_group": "Pna21",
+          "a": "12.896(1) Å",
+          "b": "8.389(1) Å",
+          "c": "11.644(1) Å",
+          "V": "1259.7(2) Å3",
+          "Z": "12",
+          "T": "223 K",
+          "dcalc": "2.293 g/cm3",
+          "R1": "0.044",
+          "wR2": "0.112",
+          "GOF": "1.033"
+        },
+        "description": "In the structure, the crystallographic asymmetric unit contains three independent Mn(II) and six formate anions. Each metal cation is coordinated by six formate ligands in an octahedral geometry and each formate anion connects three Mn(II) ions. Contrary to the structures of α-Mn(CHO2)2 and 1, where all formate ligands have a syn-syn-anti binding mode, β-Mn(CHO2)2 has two formates in a syn-syn-anti mode and four in an anti-syn-anti mode."
+      }
+    }
+  ]
+}

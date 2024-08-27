@@ -1,0 +1,204 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "CH3OH",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "AgOTf",
+            "amount": "25.7 mg, 0.1 mmol"
+          },
+          {
+            "name": "[Cp*RhCl2]2",
+            "amount": "62.0 mg, 0.1 mmol"
+          },
+          {
+            "name": "3,6-bis(4-pyridyl)-1,2,4,5-tetrazine (BPTZ)",
+            "amount": "23.6 mg, 0.1 mmol"
+          }
+        ],
+        "time": "Stirred for 6 h, then added BPTZ and stirred for another 12 h",
+        "yield": "93.1%",
+        "washing_method": "Filtered, concentrated, and recrystallized by slow diffusion of diethyl ether",
+        "drying_method": "Under reduced pressure"
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "temperature": "298 K",
+        "solvents": [
+          {
+            "name": "CH3CN",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "2,5-norbornadiene (NBD)",
+            "amount": "20.3 μL, 0.2 mmol"
+          },
+          {
+            "name": "complex 1",
+            "amount": "108.2 mg, 0.05 mmol"
+          }
+        ],
+        "time": "6 h",
+        "yield": "85.7%",
+        "washing_method": "Concentrated and diethyl ether was added"
+      }
+    },
+    {
+      "name": "3",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "CH3CN",
+            "amount": "3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Sodium naphthazarin Na2L1",
+            "amount": "23.4 mg, 0.1 mmol"
+          },
+          {
+            "name": "complex 1",
+            "amount": "108.2 mg, 0.05 mmol"
+          }
+        ],
+        "time": "12 h",
+        "yield": "87.6%",
+        "washing_method": "Filtered and recrystallized by slow diffusion of diisopropyl ether"
+      }
+    },
+    {
+      "name": "4",
+      "synthesis_conditions": {
+        "temperature": "298 K",
+        "solvents": [
+          {
+            "name": "CH3CN",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "2,5-norbornadiene (NBD)",
+            "amount": "24.4 μL, 0.24 mmol"
+          },
+          {
+            "name": "complex 3",
+            "amount": "143.9 mg, 0.02 mmol"
+          }
+        ],
+        "time": "12 h",
+        "yield": "85.7%",
+        "washing_method": "Concentrated and diethyl ether was added"
+      }
+    },
+    {
+      "name": "5",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "CH3OH",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "AgOTf",
+            "amount": "51.4 mg, 0.2 mmol"
+          },
+          {
+            "name": "[Cp*RhCl2]2",
+            "amount": "62 mg, 0.1 mmol"
+          },
+          {
+            "name": "K2[Pd(opba)]",
+            "amount": "43.2 mg, 0.1 mmol"
+          },
+          {
+            "name": "3,6-bis(4-pyridyl)-1,2,4,5-tetrazine (bpytz)",
+            "amount": "23.6 mg, 0.1 mmol"
+          }
+        ],
+        "time": "Stirred for 6 h, added K2[Pd(opba)] and stirred for 6 h, then added bpytz and stirred for another 12 h",
+        "yield": "85.2%",
+        "washing_method": "Concentrated, filtered through Celite and recrystallized by slow diffusion of diethyl ether"
+      }
+    },
+    {
+      "name": "6",
+      "synthesis_conditions": {
+        "temperature": "323 K",
+        "solvents": [
+          {
+            "name": "CH3CN",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "2,5-norbornadiene (NBD)",
+            "amount": "24.4 μL, 0.24 mmol"
+          },
+          {
+            "name": "complex 5",
+            "amount": "163.8 mg, 0.02 mmol"
+          }
+        ],
+        "time": "24 h",
+        "yield": "83.1%",
+        "washing_method": "Concentrated and diethyl ether was added"
+      }
+    },
+    {
+      "name": "7",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "CH3OH",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[Cp*RhCl2]2",
+            "amount": "62 mg, 0.1 mmol"
+          },
+          {
+            "name": "chloranilic acid",
+            "amount": "21 mg, 0.1 mmol"
+          },
+          {
+            "name": "MeONa",
+            "amount": "10.8 mg, 0.2 mmol"
+          },
+          {
+            "name": "AgOTf",
+            "amount": "51.4 mg, 0.2 mmol"
+          },
+          {
+            "name": "3,6-bis(4-pyridyl)-1,2,4,5-tetrazine (bptz)",
+            "amount": "23.6 mg, 0.1 mmol"
+          }
+        ],
+        "time": "Stirred for 6 h, added AgOTf and stirred for 3 h, then added bptz and stirred for another 12 h",
+        "yield": "89.0%",
+        "washing_method": "Concentrated, filtered through Celite and recrystallized by slow diffusion of diethyl ether"
+      }
+    }
+  ]
+}

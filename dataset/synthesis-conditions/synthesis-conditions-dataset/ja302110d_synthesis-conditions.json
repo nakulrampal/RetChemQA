@@ -1,0 +1,136 @@
+{
+  "materials": [
+    {
+      "name": "MOF 1",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "80 °C",
+          "time": "3 days",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "0.25 mL"
+            },
+            {
+              "name": "EtOH",
+              "amount": "0.25 mL"
+            },
+            {
+              "name": "H2O",
+              "amount": "80 µL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "CdCl2",
+              "amount": "0.95 mg, 5.2 µmol"
+            },
+            {
+              "name": "H4L",
+              "amount": "2.0 mg, 2.6 µmol"
+            }
+          ],
+          "yield": "1.49 mg (42%)",
+          "equipment": "capped vial",
+          "drying_method": "briefly dried on filter paper at room temperature"
+        }
+      ]
+    },
+    {
+      "name": "Quenching Measurements",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation of stock solutions",
+          "solvents": [
+            {
+              "name": "acetonitrile",
+              "amount": "1 mL"
+            }
+          ],
+          "equipment": [
+            {
+              "name": "stir bar",
+              "details": "mechanically crushed by vigorous stirring overnight"
+            }
+          ],
+          "additional_information": "cloudy white suspension of crystals was then diluted with acetonitrile to 100 mL using a volumetric flask"
+        },
+        {
+          "step": "Stern-Volmer plot measurements",
+          "solvents": [
+            {
+              "name": "MOF stock solution",
+              "amount": "3 mL"
+            }
+          ],
+          "equipment": "quartz cuvette",
+          "instrumental_parameters": {
+            "excitation_lambda": "350 nm",
+            "emission_lambda": "440 nm"
+          },
+          "additional_information": "intensity reading was performed before and after each addition of the amino alcohol quencher"
+        },
+        {
+          "step": "Enantiomeric excess determination",
+          "solvents": [
+            {
+              "name": "MOF stock solution",
+              "amount": "2 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "AA4 (2-amino-3-methyl-1-butanol)",
+              "amount": "24 µL"
+            }
+          ],
+          "equipment": "quartz cuvette",
+          "additional_information": "fluorescence intensity measurements were taken before and after addition of the quenchers"
+        },
+        {
+          "step": "Time resolved decay traces",
+          "solvents": [
+            {
+              "name": "MOF stock solution",
+              "amount": "3 mL"
+            }
+          ],
+          "equipment": "quartz cuvette",
+          "instrumental_parameters": {
+            "excitation_lambda": "368 nm",
+            "emission_lambda": "445 nm"
+          },
+          "additional_information": "measurement was repeated after each addition of the quencher solution"
+        }
+      ]
+    },
+    {
+      "name": "Preconcentration Measurements",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation",
+          "solvents": [
+            {
+              "name": "acetonitrile",
+              "amount": "1 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "0.5~0.7 mM amino alcohol",
+              "amount": "1 mL"
+            }
+          ],
+          "equipment": [
+            {
+              "name": "stir bar",
+              "details": "mechanically crushed via stir bar overnight"
+            }
+          ],
+          "additional_information": "supernatant was separated from the MOF crystals via centrifugation, and the concentration of quencher was determined by GC"
+        }
+      ]
+    }
+  ]
+}

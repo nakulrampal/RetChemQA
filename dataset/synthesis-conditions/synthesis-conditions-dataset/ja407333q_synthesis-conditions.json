@@ -1,0 +1,34 @@
+{
+  "materials": [
+    {
+      "name": "Br-YOMOF",
+      "synthesis_conditions": {
+        "chemicals_used": "Zn(NO3)2, tetracarboxylic acid ligand 1, dipyridyl strut 2",
+        "description": "Constructed from Zn(NO3)2 and two organic components: (1) the tetracarboxylic acid ligand 1 (with two Br-atoms on the central phenylene ring to block interpenetration) which forms 2D sheets with Zn2+ dimers and (2) the dipyridyl strut 2 which links the 2D sheets by coordinating to the zinc paddlewheel clusters forming perpendicular pillars separating the 2D layers."
+      }
+    },
+    {
+      "name": "SALEM-13",
+      "synthesis_conditions": {
+        "chemicals_used": "divinylpyridyl linker 3",
+        "description": "Prepared via solvent-assisted linker exchange (SALE) to produce SALEM-13, starting from the preformed noninterpenetrated framework Br-YOMOF."
+      }
+    },
+    {
+      "name": "SALEM-14",
+      "synthesis_conditions": {
+        "chemicals_used": "tetravinyldipyridyl strut 6",
+        "description": "Incorporated into the Br-YOMOF architecture using SALE, resulting in the production of SALEM-14 with near-quantitative conversion. SALEM-14 was rinsed thoroughly with degassed DCE by soaking the crystals in the solvent for 48 hours, replacing the solvent every 12 hours to remove any DMF remaining from the SALE reaction."
+      }
+    },
+    {
+      "name": "PAH-MOF-1",
+      "synthesis_conditions": {
+        "chemicals_used": "first generation Hoveyda–Grubbs catalyst in DCE",
+        "temperature": "120 °C",
+        "time": "48 hours",
+        "description": "The formation of PAH-MOF-1 was achieved by postsynthetic modification employing aromatizing ring-closing metathesis (ARCM) on the extended porous structure of SALEM-14."
+      }
+    }
+  ]
+}

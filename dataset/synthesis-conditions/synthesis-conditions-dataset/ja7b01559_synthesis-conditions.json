@@ -1,0 +1,71 @@
+{
+  "materials": [
+    {
+      "name": "Fe-MOF",
+      "synthesis": {
+        "temperature": "423 K",
+        "solvents": [
+          {
+            "name": "N,N-diethylformamide (DEF)",
+            "amount": "2 mL"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "0.30 mL"
+          }
+        ],
+        "equipment": "15 mL Teflon-lined stainless steel autoclave",
+        "time": "32 h",
+        "washing_method": "fully washed with DEF and methanol",
+        "drying_method": "dried under vacuum",
+        "yield": "65%",
+        "chemicals_used": [
+          "Fe3O(CH3CO2)6 (15 mg)",
+          "[1,1′:3′,1″-terphenyl]-4,4″,5′-tricarboxylic acid (H3L) (15 mg)"
+        ]
+      }
+    },
+    {
+      "name": "Im@Fe-MOF",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "1 M methanol solution of imidazole",
+            "amount": "not specified"
+          }
+        ],
+        "time": "three days",
+        "drying_method": "dried under vacuum",
+        "chemicals_used": [
+          "activated sample of Fe-MOF"
+        ]
+      }
+    },
+    {
+      "name": "Im-Fe-MOF",
+      "synthesis": {
+        "temperature": "423 K",
+        "solvents": [
+          {
+            "name": "N,N-diethylformamide (DEF)",
+            "amount": "2 mL"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "0.35 mL"
+          }
+        ],
+        "equipment": "15 ml Teflon-lined stainless steel autoclave",
+        "time": "18 h",
+        "washing_method": "fully washed with DEF and methanol",
+        "drying_method": "dried under vacuum",
+        "yield": "60%",
+        "chemicals_used": [
+          "Fe3O(CH3CO2)6 (15 mg)",
+          "[1,1′:3′,1″-terphenyl]-4,4″,5′-tricarboxylic acid (H3L) (15 mg)",
+          "imidazole (15 mg)"
+        ]
+      }
+    }
+  ]
+}

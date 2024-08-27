@@ -1,0 +1,66 @@
+{
+  "materials": [
+    {
+      "name": "CPF-5",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation",
+          "chemicals_used": "4-tetrazolate-benzoic acid (TZBA), ammonium formate, MnCl2",
+          "equipment": "not specified",
+          "temperature": "not specified",
+          "solvents": "not specified",
+          "time": "not specified",
+          "yield": "not specified",
+          "washing_method": "not specified",
+          "drying_method": "not specified"
+        },
+        {
+          "step": "Catalysis example with THF",
+          "chemicals_used": "phenyl-N-tosyliodinane (PhI=NTs, 1 equiv), THF (1.0 equiv), CPF-5 (1.0 mol % based on tripodal MnII sites)",
+          "equipment": "not specified",
+          "temperature": "room temperature",
+          "solvents": "acetonitrile",
+          "time": "30 min",
+          "yield": "85 % yield of THF to the a-amination product",
+          "washing_method": "hot filtration experiment",
+          "drying_method": "not specified"
+        },
+        {
+          "step": "Catalysis with non-coordinating substrates",
+          "chemicals_used": "not specified",
+          "equipment": "not specified",
+          "temperature": "not specified",
+          "solvents": "CHCl3 instead of acetonitrile",
+          "time": "6 h",
+          "yield": "32 % and 35 % yield for indane and 1,2,3,4-tetrahydronaphthalene (THN) respectively, 53 % yield for cyclohexene",
+          "washing_method": "not specified",
+          "drying_method": "not specified"
+        },
+        {
+          "step": "Large-scale reaction",
+          "chemicals_used": "PhI=NTs (50 g, 1.0 equiv), BzTHF (24 g, 1.5 equiv), CPF-5 (ca. 7 X 10^-4 mol % of active sites)",
+          "equipment": "not specified",
+          "temperature": "not specified",
+          "solvents": "not specified",
+          "time": "about 2.5 h",
+          "yield": "34 g (89 % yield) of the desired amination product",
+          "washing_method": "not specified",
+          "drying_method": "not specified",
+          "TON": "about 120 000",
+          "TOF": "about 48 000 h^-1"
+        },
+        {
+          "step": "Tandem reactions",
+          "chemicals_used": "PhI=NTs (100 mg), THF",
+          "equipment": "not specified",
+          "temperature": "not specified",
+          "solvents": "acetonitrile",
+          "time": "10 min for initial reaction, 20 min to one day between additions",
+          "yield": "ca. 90 % based on consumption of PhI=NTs",
+          "washing_method": "liquid phase removal",
+          "drying_method": "not specified"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "materials": [
+    {
+      "name": "JNU-2",
+      "synthesis_conditions": [
+        {
+          "step": "Scale-up Synthesis",
+          "temperature": "120 °C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "6 mL"
+            },
+            {
+              "name": "DMA",
+              "amount": "6 mL"
+            },
+            {
+              "name": "H2O",
+              "amount": "2 mL"
+            }
+          ],
+          "equipment": "50 mL glass vial",
+          "chemicals_used": [
+            "Cu(NO3)2·3H2O (0.264 g, 1.08 mmol)",
+            "Zn(NO3)2·6H2O (1.069 g, 3.6 mmol)",
+            "adenine (0.162 g, 1.2 mmol)",
+            "4-pyrazolecarboxylic acid (0.264 g, 2.35 mmol)"
+          ],
+          "time": "72 h",
+          "washing_method": "washed with DMF and methanol three times each",
+          "drying_method": "air dried, and heated under high vacuum at 200 °C for 24 h",
+          "yield": "~700 mg, ~40%"
+        }
+      ]
+    }
+  ]
+}

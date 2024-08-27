@@ -1,0 +1,55 @@
+{
+  "materials": [
+    {
+      "name": "Ca-NDI MOF",
+      "synthesis_conditions": {
+        "method": "modified solvothermal reaction",
+        "ligand": "N, N'-bis(5-isophthalic acid) naphthalene diimide (H4BINDI)",
+        "metal_ion_nodes": "Ca2+",
+        "solvent": "DMF",
+        "oxygen_atoms_coordinated_to_Ca2+": "eight",
+        "void_dimensions": "15.98 x 11.25 Å^2",
+        "network": "two-fold interpenetrated network",
+        "crystal_structure_references": "Figure S1, S2, S3"
+      }
+    },
+    {
+      "name": "Py@Ca-NDI MOF",
+      "synthesis_conditions": {
+        "guest_molecule": "pyrene",
+        "host_MOF": "Ca-NDI MOF",
+        "crystal_space_group_change": "Tetragonal I 41/a (Ca-NDI) to Monoclinic C 2/c (Py@Ca-NDI)",
+        "crystal_structure_depository_number": "2076486",
+        "coordination_models_of_Ca2+": [
+          "seven-oxygen coordination (one from DMF, six from four H4BINDI ligands)",
+          "six-oxygen coordination (all six from four H4BINDI ligands)"
+        ],
+        "network_change": "original square network of Ca-NDI turned into a rhombic network in Py@Ca-NDI",
+        "crystal_analysis_references": "Figure S4, S5",
+        "PXRD_spectra_references": "Figure S6",
+        "TGA_curves_references": "Figure S7",
+        "solvent_replacement_confirmation": "decreased loss of weight before 600°C of Py@Ca-NDI than Ca-NDI",
+        "distance_between_NDI_pyrene": "3.47 Å",
+        "color_change": "light-yellow (Ca-NDI) to red (Py@Ca-NDI)",
+        "absorption_shift": "intense absorption from 450 to 800 nm for Py@Ca-NDI",
+        "solid_state_absorption_spectrum_references": "Figure 1c",
+        "ligand_and_guest_absorption_reference": "Figure S9"
+      }
+    },
+    {
+      "name": "Py@Ca-NDI aqueous solution",
+      "synthesis_conditions": {
+        "preparation_method": "grounding the as-synthesized co-crystal MOF",
+        "particle_size": "58.1 ± 2.1 nm (DLS analysis)",
+        "dispersion_stability": "size remains nearly the same over 48 hours",
+        "absorption_spectra": "maintains the absorption band at 500–800 nm",
+        "absorption_spectra_references": "Figure S13",
+        "photothermal_conversion_efficiency": "41.8%",
+        "comparison_with_Ca-NDI": "10-fold temperature increase (ΔT ≈ 30°C vs. ΔT ≈ 3°C) within 2 min of NIR laser irradiation (653 nm, 0.5 W cm^-2)",
+        "photothermal_images_references": "Figure 2b",
+        "concentration_and_power_intensity_control": "notable temperature increment of 20°C achieved in just 3 mins of NIR laser irradiation (653 nm) at a lower power (0.3 W cm^-2) and lower concentration (1 mg mL^-1)",
+        "photothermal_performance_references": "Figure 2c, d, e, f"
+      }
+    }
+  ]
+}

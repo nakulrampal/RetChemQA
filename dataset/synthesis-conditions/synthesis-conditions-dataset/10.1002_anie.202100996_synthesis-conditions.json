@@ -1,0 +1,95 @@
+{
+  "materials": [
+    {
+      "name": "polyamide macrocycle 4",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "25 88C",
+          "time": "4 h",
+          "yield": "34 %",
+          "chemicals_used": [
+            "p-xylylenediamine",
+            "methyl 3,5-bis(chlorocarbonyl)benzoate",
+            "Et3N",
+            "CHCl3"
+          ]
+        },
+        {
+          "step": 2,
+          "temperature": "100 88C",
+          "time": "12 h",
+          "yield": "99 %",
+          "solvent": "DMSO"
+        },
+        {
+          "step": 3,
+          "temperature": "reflux",
+          "time": "48 h",
+          "yield": "99 %",
+          "chemicals_used": [
+            "LiOH·H2O",
+            "THF"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "UMUMOF 5 a",
+      "synthesis_conditions": [
+        {
+          "temperature": "80 88C",
+          "time": "48 h",
+          "cooling_rate": "0.05 88C min@1",
+          "yield": "72 %",
+          "chemicals_used": [
+            "Cu(NO3)2·H2O",
+            "macrocycle 4",
+            "HNO3 (cat)"
+          ],
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "3 parts"
+            },
+            {
+              "name": "EtOH",
+              "amount": "3 parts"
+            },
+            {
+              "name": "H2O",
+              "amount": "2 parts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "UMUMOF 5 b",
+      "synthesis_conditions": [
+        {
+          "solvent": "DMF",
+          "yield": "62 %",
+          "chemicals_used": [
+            "Zn(OAc)2·2 H2O",
+            "macrocycle 4"
+          ],
+          "additional_information": "Similar synthetic procedure as UMUMOF 5 a, obtaining colourless prismatic crystals."
+        }
+      ]
+    },
+    {
+      "name": "C60@UMUMOF 5 a and C60@UMUMOF 5 b",
+      "synthesis_conditions": [
+        {
+          "temperature": "60 88C",
+          "time": "7 days",
+          "solvent": "toluene",
+          "washing_method": "exhaustively with toluene",
+          "drying_method": "dried under vacuum for several hours",
+          "additional_information": "Crystals of UMUMOF 5 a and 5 b were soaked in a C60 saturated toluene solution."
+        }
+      ]
+    }
+  ]
+}

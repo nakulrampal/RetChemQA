@@ -1,0 +1,57 @@
+{
+  "materials": [
+    {
+      "name": "N,N'-dihydromethyl intermediate 2",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "formaldehyde",
+          "dilute sulfuric acid"
+        ],
+        "starting_material": "compound 1",
+        "notes": "Obtained from treating compound 1 with formaldehyde and dilute sulfuric acid."
+      }
+    },
+    {
+      "name": "1,3,4,6-tetranitro-1,4-dihydropyrazolo[4,3-c]pyrazole (4)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "fuming nitric acid",
+          "acetic anhydride",
+          "ammonium nitrate",
+          "trifluoroacetic anhydride"
+        ],
+        "starting_material": "compound 1",
+        "notes": "N-nitration of 1 in the presence of ammonium nitrate and trifluoroacetic anhydride."
+      }
+    },
+    {
+      "name": "Compound 5",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "1,8-diazabicycloundec-7-ene (DBU)",
+          "O-tosylhydroxylamine (TsONH2)"
+        ],
+        "solvents": "organic solvents",
+        "yield": "good yield",
+        "notes": "A modified procedure was carried out."
+      }
+    },
+    {
+      "name": "N,N-dinitramino compound 6",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "concentrated sulfuric acid",
+          "fuming nitric acid"
+        ],
+        "notes": "Alternate nitration route gave compound 6 in good yield."
+      }
+    },
+    {
+      "name": "Energetic derivatives (7-15)",
+      "synthesis_conditions": {
+        "starting_material": "compound 6",
+        "notes": "By treating 6 with different bases, a series of energetic derivatives (7-15) were prepared."
+      }
+    }
+  ]
+}

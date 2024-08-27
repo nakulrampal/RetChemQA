@@ -1,0 +1,243 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": [
+        {
+          "method": "Method 1",
+          "temperature": "180 °C",
+          "time": "10 h",
+          "solvents": [
+            {
+              "name": "H2O",
+              "amount": "10 mL"
+            },
+            {
+              "name": "ammonia aqueous solution (25-28%)",
+              "amount": "1 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Q[6]∙10H2O",
+              "amount": "35 mg, 0.03 mmol"
+            },
+            {
+              "name": "H3BTB",
+              "amount": "4.38 mg, 0.01 mmol"
+            }
+          ],
+          "yield": "30%",
+          "drying_method": "air",
+          "pH": "~12"
+        },
+        {
+          "method": "Method 2",
+          "temperature": "room temperature",
+          "time": "48 hours",
+          "solvents": [
+            {
+              "name": "H2O",
+              "amount": "10 mL"
+            },
+            {
+              "name": "ammonia aqueous solution (25-28%)",
+              "amount": "1 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Q[6]∙10H2O",
+              "amount": "35 mg, 0.03 mmol"
+            },
+            {
+              "name": "H3BTB",
+              "amount": "4.38 mg, 0.01 mmol"
+            }
+          ],
+          "yield": "70%",
+          "drying_method": "air",
+          "pH": "~12"
+        },
+        {
+          "method": "Method 3",
+          "temperature": "40 °C",
+          "time": "12 hours",
+          "solvents": [
+            {
+              "name": "H2O",
+              "amount": "10 mL"
+            },
+            {
+              "name": "ammonia aqueous solution (25-28%)",
+              "amount": "1 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Q[6]∙10H2O",
+              "amount": "35 mg, 0.03 mmol"
+            },
+            {
+              "name": "H3BTB",
+              "amount": "4.38 mg, 0.01 mmol"
+            }
+          ],
+          "yield": "60%",
+          "drying_method": "air",
+          "pH": "~12"
+        }
+      ]
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": [
+        {
+          "method": "Method 1 for 2",
+          "temperature": "180 °C",
+          "time": "10 h",
+          "solvents": [
+            {
+              "name": "H2O",
+              "amount": "10 mL"
+            },
+            {
+              "name": "ammonia aqueous solution (25-28%)",
+              "amount": "1 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Q[7]∙10H2O",
+              "amount": "replaced Q[6]∙10H2O"
+            },
+            {
+              "name": "H3BTB",
+              "amount": "same as for 1"
+            }
+          ],
+          "yield": "20%",
+          "drying_method": "air",
+          "pH": "~12"
+        }
+      ]
+    },
+    {
+      "name": "3",
+      "synthesis_conditions": [
+        {
+          "method": "Method 1 for 3",
+          "temperature": "180 °C",
+          "time": "10 h",
+          "solvents": [
+            {
+              "name": "H2O",
+              "amount": "10 mL"
+            },
+            {
+              "name": "ammonia aqueous solution (25-28%)",
+              "amount": "1 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Q[6]∙10H2O",
+              "amount": "35 mg, 0.03 mmol"
+            },
+            {
+              "name": "H3BTB",
+              "amount": "4.38 mg, 0.01 mmol"
+            },
+            {
+              "name": "CsCl",
+              "amount": "20.2 mg, 0.12 mmol"
+            }
+          ],
+          "yield": "40%",
+          "drying_method": "air",
+          "pH": "~12"
+        },
+        {
+          "method": "Method 2 for 3",
+          "temperature": "room temperature",
+          "time": "24 hours",
+          "solvents": [
+            {
+              "name": "H2O",
+              "amount": "10 mL"
+            },
+            {
+              "name": "ammonia aqueous solution (25-28%)",
+              "amount": "1 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Q[6]∙10H2O",
+              "amount": "35 mg, 0.03 mmol"
+            },
+            {
+              "name": "H3BTB",
+              "amount": "4.38 mg, 0.01 mmol"
+            },
+            {
+              "name": "CsCl",
+              "amount": "20.2 mg, 0.12 mmol"
+            }
+          ],
+          "drying_method": "air",
+          "pH": "~12"
+        },
+        {
+          "method": "Method 3 for 3",
+          "temperature": "60 °C",
+          "time": "6 hours",
+          "solvents": [
+            {
+              "name": "H2O",
+              "amount": "10 mL"
+            },
+            {
+              "name": "ammonia aqueous solution (25-28%)",
+              "amount": "1 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Q[6]∙10H2O",
+              "amount": "35 mg, 0.03 mmol"
+            },
+            {
+              "name": "H3BTB",
+              "amount": "4.38 mg, 0.01 mmol"
+            },
+            {
+              "name": "CsCl",
+              "amount": "20.2 mg, 0.12 mmol"
+            }
+          ],
+          "drying_method": "air",
+          "pH": "~12"
+        },
+        {
+          "method": "Method 4 for 3",
+          "temperature": "room temperature",
+          "time": "6 hours",
+          "solvents": [
+            {
+              "name": "aqueous solution of 1",
+              "amount": "not specified"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "CsCl",
+              "amount": "20.2 mg"
+            }
+          ],
+          "drying_method": "air"
+        }
+      ]
+    }
+  ]
+}

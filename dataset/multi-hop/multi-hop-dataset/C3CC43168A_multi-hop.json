@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of the novel 3D microporous compound discussed in the text?",
+      "answer": "The empirical formula is [Zn3(Httca)2(4,40-bpy)(H2O)2]n, known as MOF–COOH.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the applications of Metal-organic frameworks (MOFs) as mentioned in the text?",
+      "answer": "MOFs have potential applications in catalysis, ion exchange and sensors, gas storage, and separation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of uncoordinated carbonyl groups in MOF–COOH?",
+      "answer": "Uncoordinated carbonyl groups in MOF–COOH act as postsynthetic modification sites for cation exchange.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was MOF–COOH synthesized?",
+      "answer": "MOF–COOH was synthesized from a hydrothermal reaction of Zn(ClO4)2·6H2O with H4ttca and 4,40-bpy in water.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the Tb3+ cation in the context of MOF–COOH?",
+      "answer": "The Tb3+ cation can be sensitized by MOF–COOH, serving as an antenna for visible-emitting Tb3+ cation, indicating its potential in luminescence applications.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the process for introducing lanthanide ions into the pores of MOF–COOH?",
+      "answer": "Lanthanide ions are introduced into the pores of MOF–COOH via postsynthetic cation exchange by soaking Na+@MOF–COO(cid:3) in methanol solutions of nitrate salts of Sm3+, Eu3+, Dy3+, and Tb3+.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of the postsynthetic modification on the luminescence properties of MOF–COOH?",
+      "answer": "The postsynthetic modification, specifically the introduction of lanthanide ions, significantly enhances the photoluminescence properties of MOF–COOH, making it suitable for applications in luminescent materials.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the structure of MOF–COOH contribute to its functionality in cation exchange and Tb3+ sensing?",
+      "answer": "The structure of MOF–COOH, with its uncoordinated carbonyl groups pointing to the interior of channels, allows for effective cation exchange and serves as an efficient antenna for sensitizing Tb3+ cations due to its electron-conjugated systems.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is MOF–COOH considered a good candidate for postsynthetic modification?",
+      "answer": "MOF–COOH is considered a good candidate for postsynthetic modification due to its porous structure, presence of available functional groups for chemical transformation, and stability under reaction conditions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role does the auxiliary ligand 4,40-bpy play in the synthesis of MOF–COOH?",
+      "answer": "The auxiliary ligand 4,40-bpy, along with the carboxyl-rich ligand H4ttca, plays a crucial role in the formation of the highly ordered 3D MOF–COOH structure, contributing to its unique properties and applications.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the thermal stability of MOF–COOH affect its potential applications?",
+      "answer": "The good thermal stability of MOF–COOH, as indicated by its thermogravimetric analysis, makes it suitable for various applications, including those requiring high-temperature conditions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the solvent-accessible volume and porosity of MOF–COOH?",
+      "answer": "The solvent-accessible volume and porosity of MOF–COOH are crucial for its functionality in gas storage and separation, as well as for facilitating the postsynthetic modification processes.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the coordination effect of Ln3+ ions with the free carboxyl groups in the pores responsible for the structural distortion observed in Ln3+@MOF–COO(cid:3)?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the introduction of lanthanide ions into MOF–COOH compromise its crystalline integrity?",
+      "answer": "False, the crystalline integrity of MOF–COOH is not compromised by the introduction of lanthanide ions, as confirmed by PXRD patterns.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the luminescence properties of MOF–COOH solely attributed to the Tb3+ cation?",
+      "answer": "False, while the Tb3+ cation significantly enhances the luminescence properties, the framework itself and other lanthanide ions also contribute to the overall luminescence.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is MOF–COOH only applicable for Tb3+ sensing and not for other lanthanide cations?",
+      "answer": "False, MOF–COOH is also applicable for other lanthanide cations such as Sm3+, Eu3+, and Dy3+, although it is particularly effective for Tb3+ sensing.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of uncoordinated carbonyl groups in MOF–COOH limit its applications?",
+      "answer": "False, the presence of uncoordinated carbonyl groups actually expands its applications, particularly in postsynthetic modification and cation exchange.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the adsorption capacity of MOF–COOH for CO2 and N2 negligible?",
+      "answer": "False, MOF–COOH has a significant adsorption capacity for CO2 and N2, making it suitable for gas storage applications.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can MOF–COOH be synthesized without the use of hydrothermal conditions?",
+      "answer": "False, the synthesis of MOF–COOH as described in the text requires hydrothermal conditions.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the photoluminescence spectrum of Tb3+@MOF–COO(cid:3) identical to that of the free H4ttca ligand?",
+      "answer": "False, the photoluminescence spectrum of Tb3+@MOF–COO(cid:3) is significantly different from that of the free H4ttca ligand, indicating the unique luminescence properties of the MOF.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

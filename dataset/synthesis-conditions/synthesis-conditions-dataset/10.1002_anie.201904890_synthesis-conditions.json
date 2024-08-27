@@ -1,0 +1,52 @@
+{
+  "Rb-CD-MOF": {
+    "synthesis": {
+      "method": "vapor diffusion",
+      "solvents": [
+        {
+          "name": "MeOH",
+          "amount": "not specified"
+        },
+        {
+          "name": "aqueous solution of RbOH and g-CD",
+          "amount": "not specified"
+        }
+      ],
+      "modifications": "slight modifications to the reported procedure",
+      "washing": "thoroughly washed with MeOH",
+      "solvent_exchange": "exchanged with CH2Cl2",
+      "storage": "stored in a glove box prior to use"
+    }
+  },
+  "Rb-CD-MOF%Py": {
+    "synthesis": {
+      "method": "immersion",
+      "temperature": "room temperature",
+      "conditions": "static conditions",
+      "duration": "72 hours",
+      "solvents": [
+        {
+          "name": "pyrrole/CH2Cl2 solution",
+          "amount": "30 % v/v"
+        }
+      ],
+      "precautions": "using freshly distilled Py and anhydrous solvents to prevent partial oxidation",
+      "washing": "thorough washing in CH2Cl2"
+    }
+  },
+  "Rb-CD-MOF%Py(ox)": {
+    "synthesis": {
+      "method": "soaking",
+      "temperature": "4 88C",
+      "duration": "72 hours",
+      "solvents": [
+        {
+          "name": "iodine in dichloromethane",
+          "amount": "0.05 m"
+        }
+      ],
+      "notes": "Reaction at room temperature caused significant morphological damage. After 24 hours, chemical oxidation was evidenced by the black color of the crystals.",
+      "washing": "washed off several times with aliquots of fresh solvent"
+    }
+  }
+}

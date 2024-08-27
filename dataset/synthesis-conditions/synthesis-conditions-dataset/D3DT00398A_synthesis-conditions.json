@@ -1,0 +1,46 @@
+{
+  "materials": [
+    {
+      "name": "Co-DTBPT",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "4 mL"
+          },
+          {
+            "name": "distilled water",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "Teflon-lined stainless-steel autoclave",
+        "chemicals_used": [
+          {
+            "name": "BGPD",
+            "amount": "0.1 mmol, 0.0332 g"
+          },
+          {
+            "name": "4-DTBPT",
+            "amount": "0.05 mmol, 0.02 g"
+          },
+          {
+            "name": "Co(NO3)2·6H2O",
+            "amount": "0.1 mmol, 0.0308 g"
+          }
+        ],
+        "time": "24 h",
+        "yield": "61% (based on Co)",
+        "drying_method": "N/A",
+        "washing_method": "filtration"
+      }
+    },
+    {
+      "name": "Co-DTBPT electrode",
+      "synthesis_conditions": {
+        "preparation": "The mixture of Co-DTBPT, acetylene black, and poly(tetrafluoroethylene) (3:6:1, mass ratio) was mixed in N-methylpyrrolidone (NMP), coated on aluminum foil, and dried in a vacuum at 80 °C for 12 h.",
+        "average_mass_of_active_material": "about 1 mg"
+      }
+    }
+  ]
+}

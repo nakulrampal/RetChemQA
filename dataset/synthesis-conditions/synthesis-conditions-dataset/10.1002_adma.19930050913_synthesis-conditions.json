@@ -1,0 +1,101 @@
+{
+  "materials": [
+    {
+      "name": "methylzinc-N,N,N-trimethylpropylene-diaminedithiocarbamate (1)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "toluene",
+            "amount": "20 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "dimethylzinc",
+            "amount": "5 mmol"
+          },
+          {
+            "name": "bis-N,N,N-trimethylpropylenediaminedithiocarbamatozinc(II)",
+            "amount": "5 mmol"
+          }
+        ],
+        "time": "0.5 h",
+        "drying_method": "concentration under vacuum",
+        "yield": "microcrystalline",
+        "melting_point": "177-180°C",
+        "recrystallization_solvents": ["hot benzene", "toluene"],
+        "sublimation_conditions": "10^-2 Torr, 195°C"
+      }
+    },
+    {
+      "name": "methylcadmium-N,N,N-trimethylpropylene-diaminedithiocarbamate (2)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "toluene",
+            "amount": "20 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "dimethylzinc",
+            "amount": "5 mmol"
+          },
+          {
+            "name": "bis-N,N,N-trimethylpropylenediaminedithiocarbamatozinc(II)",
+            "amount": "5 mmol"
+          }
+        ],
+        "time": "0.5 h",
+        "drying_method": "concentration under vacuum",
+        "yield": "microcrystalline",
+        "melting_point": "122-124°C",
+        "recrystallization_solvents": ["hot benzene", "toluene"],
+        "sublimation_conditions": "10^-2 Torr, 175-180°C"
+      }
+    },
+    {
+      "name": "CdS films from compound 2",
+      "synthesis_conditions": {
+        "temperature": "350°C",
+        "time": "20 min",
+        "method": "Sealed-tube pyrolysis",
+        "product": "microcrystalline, hexagonal CdS"
+      }
+    },
+    {
+      "name": "Metal sulfide films from compounds 1 and 2",
+      "synthesis_conditions": {
+        "method": "low pressure MOCVD",
+        "observations": [
+          {
+            "compound": "2",
+            "film_type": "ZnS",
+            "time": "20 min",
+            "temperature": "450°C",
+            "substrate_comments": "Glass, poor morphology and uneven film thickness"
+          },
+          {
+            "compound": "2",
+            "film_type": "CdS",
+            "time": "20 min",
+            "temperature": [
+              "425°C",
+              "375°C",
+              "350°C"
+            ],
+            "substrate_comments": [
+              "Glass, cloudy films with uneven growth",
+              "Glass, specular films with even growth",
+              "Glass, good even layers; GaAs, thin specular layers, even growth"
+            ]
+          }
+        ],
+        "precursor_sample_amount": "50 mg",
+        "reactor_pressure": "ca. 10^-2 Torr"
+      }
+    }
+  ]
+}

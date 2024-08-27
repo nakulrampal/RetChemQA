@@ -1,0 +1,140 @@
+{
+  "materials": [
+    {
+      "name": "1,2,4,5-tetrakis(bromomethyl)benzene",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Durene",
+            "amount": "10.0 g",
+            "mmol": "73.8 mmol"
+          },
+          {
+            "name": "N-bromosuccinimide",
+            "amount": "58.5 g",
+            "mmol": "329 mmol"
+          },
+          {
+            "name": "α,α,α-trifluorotoluene",
+            "amount": "200 mL"
+          },
+          {
+            "name": "1,1’-azobis(cyclohexanecarbonitrile)",
+            "amount": "~100 mg",
+            "role": "catalyst"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "methanol",
+            "purpose": "dissolve remaining succinimide"
+          },
+          {
+            "name": "chloroform",
+            "purpose": "recrystallization"
+          }
+        ],
+        "equipment": [
+          "round bottom flask",
+          "magnetic stir bar",
+          "condenser"
+        ],
+        "atmosphere": "argon",
+        "temperature": "reflux",
+        "time": "approximately 5 hours",
+        "yield": "4.4 g, 14%",
+        "washing_method": "stirred in methanol, filtered",
+        "drying_method": "recrystallized several times with chloroform"
+      }
+    },
+    {
+      "name": "Octaethyl 1,2,4,5-tetrakis(phosphonomethyl)benzene",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "1,2,4,5-Tetrakis(bromomethyl)benzene",
+            "amount": "0.448 g",
+            "mmol": "1.00 mmol"
+          },
+          {
+            "name": "triethylphosphite",
+            "amount": "5.0 mL",
+            "mmol": "31 mmol"
+          }
+        ],
+        "solvents": [],
+        "equipment": [
+          "round bottom flask",
+          "condenser"
+        ],
+        "atmosphere": "dry argon",
+        "temperature": "reflux",
+        "time": "overnight",
+        "yield": "0.112 g, 0.165 mmol, 16.5%"
+      }
+    },
+    {
+      "name": "Benzene-1,2,4,5-tetramethylenephosphonic acid (H8L)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Octaethyl 1,2,4,5-tetrakis(phosphonomethyl)benzene",
+            "amount": "4.055 g",
+            "mmol": "5.98 mmol"
+          },
+          {
+            "name": "HCl(aq)",
+            "amount": "50 mL"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "water",
+            "purpose": "dissolve solid"
+          }
+        ],
+        "equipment": [
+          "1-neck round bottomed flask"
+        ],
+        "temperature": "reflux",
+        "time": "8 hours",
+        "yield": "2.50 g, 5.50 mmol, 92.0%",
+        "washing_method": "dissolved in water, decolourizing with charcoal, filtered",
+        "drying_method": "dried overnight under vacuum"
+      }
+    },
+    {
+      "name": "LaH5L(H2O)4 (PCMOF-5)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Lanthanum carbonate",
+            "amount": "102 mg",
+            "mmol": "0.223 mmol"
+          },
+          {
+            "name": "Sulfuric acid",
+            "amount": "2 mL, 0.66 M"
+          },
+          {
+            "name": "H8DTP",
+            "amount": "201 mg",
+            "mmol": "0.443 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "water",
+            "purpose": "dissolve H8DTP"
+          }
+        ],
+        "equipment": [],
+        "temperature": "room temperature",
+        "time": "24 hours",
+        "yield": "205 mg, 0.310 mmol, 70%",
+        "washing_method": "washed with copious amounts of ultrahigh purity water",
+        "drying_method": "left to dry on the filter paper"
+      }
+    }
+  ]
+}

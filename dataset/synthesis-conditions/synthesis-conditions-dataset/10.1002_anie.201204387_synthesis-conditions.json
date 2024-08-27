@@ -1,0 +1,66 @@
+{
+  "materials": [
+    {
+      "name": "[Fe(dpsme)Pt(CN)4]·2=3 dpsme·x EtOH·y H2O",
+      "synthesis_conditions": {
+        "temperature": "230 K for structural determination",
+        "solvents": [
+          {
+            "name": "ethanol",
+            "amount": "x variable"
+          },
+          {
+            "name": "water",
+            "amount": "y variable"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "dpsme",
+            "amount": "2=3 variable"
+          },
+          {
+            "name": "Pt(CN)4",
+            "role": "part of the framework"
+          },
+          {
+            "name": "Fe",
+            "role": "part of the framework"
+          }
+        ],
+        "equipment": "single-crystal X-ray diffraction (SCXRD)",
+        "yield": "not specified",
+        "additional_information": "The material adopts a pillared Hofmann-type topology with rectangular channels along the [100] direction accounting for 49% of the total crystal volume. The channels are occupied by disordered, non-coordinated dpsme ligands, p-stacking between the pyridyl units of the coordinated pillars, and disordered guest ethanol and water molecules."
+      }
+    },
+    {
+      "name": "Thermal and photo-induced spin crossover behavior",
+      "synthesis_conditions": {
+        "temperature_ranges": [
+          {
+            "range": "room temperature to 140 K",
+            "description": "HS state"
+          },
+          {
+            "range": "below 110 K",
+            "description": "LS state"
+          }
+        ],
+        "light_irradiation": [
+          {
+            "wavelength": "532 nm",
+            "temperature": "10 K",
+            "effect": "partial photo-conversion to HS state"
+          },
+          {
+            "wavelength": "830 nm",
+            "temperature": "10 K",
+            "effect": "depopulation of photo-induced HS state"
+          }
+        ],
+        "thermal_hysteresis": "ca. 20 K",
+        "additional_information": "The material exhibits a three-step SCO transition upon both cooling and warming with broad thermal hysteresis. Accompanying this transition is a series of subtle structural modulations."
+      }
+    }
+  ]
+}

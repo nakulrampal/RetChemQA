@@ -1,0 +1,52 @@
+{
+  "materials": [
+    {
+      "name": "[Cu(hfipbb)(H2hfipbb)0.5]",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "150 °C",
+          "solvents": [
+            {
+              "name": "deionized water",
+              "amount": "5 mL"
+            }
+          ],
+          "equipment": null,
+          "chemicals_used": [
+            {
+              "name": "Cu(NO3)2·3H2O",
+              "amount": "0.024 g, 0.1 mmol"
+            },
+            {
+              "name": "H2hfipbb",
+              "amount": "0.122 g, 0.31 mmol"
+            }
+          ],
+          "time": "12 hours",
+          "washing_method": [
+            {
+              "solvent": "DMF",
+              "amount": "10 mL × 3"
+            },
+            {
+              "solvent": "deionized water",
+              "amount": "10 mL × 3"
+            }
+          ],
+          "drying_method": "drying in air",
+          "yield": "60 mg, (92.3%)"
+        }
+      ]
+    },
+    {
+      "name": "MOF-5",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "reference": "Synthesized according to the published procedure."
+        }
+      ]
+    }
+  ]
+}

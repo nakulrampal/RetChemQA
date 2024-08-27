@@ -1,0 +1,47 @@
+{
+  "materials": [
+    {
+      "name": "Qc-5-M-dia (M = Co, Ni, Zn and Cu)",
+      "synthesis_conditions": {
+        "method": "solvothermal",
+        "precursors": [
+          "quinoline-5-carboxylic acid (HQc)",
+          "respective metal salts"
+        ],
+        "solvents": "not specified",
+        "temperature": "not specified",
+        "equipment": "not specified",
+        "time": "not specified",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "Qc-5-Cu-sql-a",
+      "synthesis_conditions": {
+        "method": "solvothermal",
+        "precursors": [
+          "quinoline-5-carboxylic acid (HQc)",
+          "Cu salt"
+        ],
+        "solvents": "not specified",
+        "temperature": "not specified",
+        "equipment": "not specified",
+        "time": "not specified",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "Qc-5-Cu-sql-b",
+      "synthesis_conditions": {
+        "method": "phase transformation from Qc-5-Cu-sql-a upon desolvation",
+        "precursors": "Qc-5-Cu-sql-a",
+        "solvents": "not specified",
+        "temperature": "130 88C for desolvation",
+        "equipment": "not specified",
+        "time": "not specified",
+        "yield": "not specified",
+        "additional_information": "The b-phase does not revert back to the a-phase even after attempted re-solvation, heating or soaking in water for 21 days."
+      }
+    }
+  ]
+}

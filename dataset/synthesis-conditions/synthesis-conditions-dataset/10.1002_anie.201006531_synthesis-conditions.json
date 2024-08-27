@@ -1,0 +1,43 @@
+{
+  "materials": [
+    {
+      "name": "SCIF-1",
+      "synthesis_conditions": {
+        "temperature": "150 8C",
+        "time": "12 d",
+        "solvents": [
+          {
+            "name": "2-amino-1-butanol",
+            "amount": "1.647 g, 18.5 mmol"
+          },
+          {
+            "name": "acetonitrile",
+            "amount": "1.220 g, 29.7 mmol"
+          }
+        ],
+        "equipment": "23 mL Teflon-lined stainless steel autoclave",
+        "chemicals_used": [
+          {
+            "name": "Li2S",
+            "amount": "76.3 mg, 1.66 mmol"
+          },
+          {
+            "name": "In(NO3)3·x H2O",
+            "amount": "98.1 mg, 0.326 mmol based on anhydrous indium nitrate"
+          },
+          {
+            "name": "imidazole",
+            "amount": "72.5 mg, 1.07 mmol"
+          },
+          {
+            "name": "1,8-diazabicyclo[5.4.0]-7-undecene (DBU)",
+            "amount": "1.614 g, 10.6 mmol"
+          }
+        ],
+        "washing_method": "ethanol",
+        "drying_method": "air drying",
+        "yield": "Semi-transparent octahedral crystals (7.9 mg)"
+      }
+    }
+  ]
+}

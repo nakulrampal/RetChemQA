@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "material": "MnCu(pba)(H2O)3·2H2O",
+      "synthesis": {
+        "temperature": "114 K",
+        "equipment": [
+          {
+            "name": "Nonius Kappa CCD diffractometer",
+            "details": "using graphite monochromatized Mo Kα radiation and equipped with an Oxford Cryosystem"
+          }
+        ],
+        "details": [
+          "A well shaped single crystal of dimensions 0.3 × 0.3 × 0.2 mm3 was selected and mounted for X-ray diffraction data collection.",
+          "The sample was cooled to 114 K to decrease thermal smearing effects.",
+          "X-ray diffraction data were collected using ω-scans at different θ detector positions (2θ = 0°, 20°, 22.4°, and 24.3°) to allow high redundancy and high-resolution data measurements.",
+          "Oscillation width (2°) and exposure time (180 s) were selected and kept constant throughout the experiment.",
+          "48,889 reflections were integrated on 894 frames up to a resolution of 0.98 Å-1 with the DENZO program implemented in the HKL2000 package.",
+          "Final cell parameters were deduced from a least-squares postrefinement on all measured reflections.",
+          "Interframe scaling using the intensity of equivalent reflections was checked and did not show any crystal decay during data collection; this scaling procedure was nevertheless applied.",
+          "The crystal faces were indexed and accurately measured to correct from absorption effects by Gaussian integration (ABSORB).",
+          "Diffracted intensities were reduced and merged in the mmm Laue group, using program SORTAV, yielding 4567 unique reflections of which 3301 have I > 3σ(I)."
+        ]
+      }
+    }
+  ]
+}

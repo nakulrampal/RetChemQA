@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of VOIDOO calculations in the context of the study?",
+      "answer": "VOIDOO calculations are used to determine the available void space within complexes M-2 and M-3, specifically to analyze the size and shape of anion binding pockets within these metal-organic assemblies.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How were crystals of [ClO4⊂Fe-1'] and [BF4⊂Fe-1'] grown, and what were the challenges encountered during their X-ray diffraction analysis?",
+      "answer": "Crystals were grown by slow diffusion of diethyl ether or diisopropyl ether into an acetonitrile solution of the complex. Challenges included rapid decay of crystals out of solvent, poor diffraction properties, and the need for restraints and constraints to model disorder and thermal motion.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the key features of the crystal structure of [Cl(ClO4)5⊂Fe-2] as determined by X-ray diffraction?",
+      "answer": "The structure features a central encapsulated perchlorate anion disordered across symmetry positions, significant unresolved thermal motion, particularly in toluidine groups, and a large area of smeared electron density in the lattice.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Describe the method used for the synthesis of Ni(NTf2)2·2.5H2O and its yield.",
+      "answer": "Ni(NTf2)2·2.5H2O was synthesized by reacting hydrogen trifluoromethanesulfonimide with nickel powder in water, followed by heating at reflux for three days. After cooling, filtering, and drying, a pale green powder was obtained with a yield of 77%.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What were the specific challenges and solutions in refining the crystal structure of [Cl(BF4)5⊂Co-2]?",
+      "answer": "Challenges included rapid decay of crystals, poor diffraction properties, and significant unresolved thermal motion. Solutions involved using rigid-body restraints, bond length and angle restraints, and treating a large area of smeared electron density with the SQUEEZE function.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study successfully determined the crystal structures of all metal-organic assemblies without any issues.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role did the SQUEEZE function play in the analysis of crystal structures in this study?",
+      "answer": "The SQUEEZE function was used to treat areas of smeared electron density in the lattice that could not be successfully modeled, likely due to disordered solvent molecules and anions, thus improving the refinement residuals.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How did the instability of crystals impact the X-ray diffraction analysis in the study?",
+      "answer": "The instability of crystals, evidenced by rapid decay out of solvent and poor diffraction properties, necessitated rapid handling, the use of cryostreams, and in some cases, synchrotron radiation to collect data. It also led to the application of various restraints and the SQUEEZE function to model disorder.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the outcome of the VOIDOO calculations for the M10L15 and M8L12 complexes?",
+      "answer": "VOIDOO calculations revealed that M10L15 complexes have five roughly spherical anion binding pockets, while M8L12 complexes have two larger saddle-shaped binding pockets.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The SQUEEZE function was only used for treating areas of smeared electron density in one specific crystal structure.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

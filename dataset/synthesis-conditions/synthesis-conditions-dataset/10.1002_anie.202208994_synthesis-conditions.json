@@ -1,0 +1,71 @@
+{
+  "materials": [
+    {
+      "name": "ZUT-8",
+      "synthesis_conditions": {
+        "temperature_range": "Before 290 °C for coordinated water molecule release, 300 °C to 490 °C for overall frame decomposition",
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "Not specified"
+          }
+        ],
+        "equipment": "Not specified",
+        "chemicals_used": [
+          {
+            "name": "chiral square acid ligands",
+            "amount": "Not specified"
+          },
+          {
+            "name": "Cd2+ ions",
+            "amount": "Not specified"
+          },
+          {
+            "name": "H2O molecule",
+            "amount": "coordinated"
+          }
+        ],
+        "time": "48 hours for immersion in aqueous solutions with different pH",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "Stability tested in air for 1 month, and in aqueous solutions with pH 1 and 13. Thermogravimetric analysis traces indicate thermal stability up to 290 °C."
+      }
+    },
+    {
+      "name": "ZUT-8 with mixed ligands",
+      "synthesis_conditions": {
+        "solvent_assisted_ligand_exchange_reaction": "Performed to explore the regulation of the conjugation effect on the electronic behavior of ZUT-8. The crystals of ZUT-8(C-C) were immersed in an acetonitrile solution of bpe.",
+        "linker_ratio": [
+          {
+            "ratio": "bpe: bpa = 1:0, 1:1, 1:5, 1:20, 1:50, 1:80, 1:100, 1:150, 0:1",
+            "observation": "The 512 nm emission peak gradually appears with increasing bpe content and dominates, changing the luminescence behavior of the powder from blue to yellow-green."
+          }
+        ],
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "Not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "bpe",
+            "amount": "Not specified"
+          },
+          {
+            "name": "bpa",
+            "amount": "Not specified"
+          }
+        ],
+        "time": "Not specified",
+        "temperature": "Not specified",
+        "equipment": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "The substitution reaction is considered a single crystal to single crystal process."
+      }
+    }
+  ]
+}

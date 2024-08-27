@@ -1,0 +1,45 @@
+{
+  "MOF-1": {
+    "synthesis_conditions": {
+      "temperature": "90 °C",
+      "solvents": "N,N-dimethylformamide (DMF)",
+      "amount_of_solvent": "3 mL",
+      "equipment": "scintillation vial, programmable oven",
+      "chemicals_used": {
+        "H4ADBTD": "4.1 mg (0.005 mmol)",
+        "Cu(NO3)2·3H2O": "2.4 mg (0.01mmol)",
+        "HBF4": "5 drops"
+      },
+      "time": "24 h",
+      "yield": "82%",
+      "washing_method": "washed with DMF (3 × 5 mL)",
+      "drying_method": "filtration",
+      "activation_conditions": {
+        "solvent_exchange_sequence": ["methanol", "acetone", "dichloromethane"],
+        "drying_temperature": "120 °C",
+        "drying_time": "6 h",
+        "drying_vacuum": "dynamic vacuum"
+      }
+    }
+  },
+  "Diels-Alder_reaction_conditions": {
+    "temperature": "40 °C and 50 °C",
+    "solvent": "ethanol",
+    "amount_of_solvent": "4 mL",
+    "chemicals_used": {
+      "9-hydroxymethylanthracene": "0.05 mmol",
+      "dienophiles": "0.05 mmol",
+      "MOF-1a": "5 mg (11 mol %)"
+    },
+    "time": "24 h",
+    "yield": "varies with dienophile used, up to 86%",
+    "washing_method": "filtration",
+    "drying_method": "vacuum concentration",
+    "product_purification": "preparative TLC using silica gel",
+    "catalyst_recovery": {
+      "washing": "several times with ethanol",
+      "activation": "prior to further use",
+      "stability": "remains almost the same even after three different cycles"
+    }
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "materials": [
+    {
+      "name": "Eu-Bpy-MOF",
+      "synthesis_conditions": [
+        {
+          "chemicals": [
+            {
+              "name": "Eu(NO3)3·6H2O",
+              "amount": "10.0 mg",
+              "molar_amount": "22.5 μmol"
+            },
+            {
+              "name": "H2bpydc",
+              "amount": "5.5 mg",
+              "molar_amount": "22.5 μmol"
+            },
+            {
+              "name": "2-fluorobenzoic acid",
+              "amount": "95.2 mg",
+              "molar_amount": "675 μmol"
+            },
+            {
+              "name": "dimethylformamide (DMF)",
+              "solvent_ratio": "DMF:ethanol = 4:1",
+              "volume": "2.5 mL"
+            },
+            {
+              "name": "ethanol",
+              "solvent_ratio": "DMF:ethanol = 4:1",
+              "part_of_mixed_solvent": true
+            }
+          ],
+          "temperature": "105 °C",
+          "time": "36 h",
+          "equipment": "4 mL vial",
+          "atmosphere": "sealed",
+          "yield": "Not specified",
+          "washing_method": "washed with DMF and ethanol",
+          "drying_method": "dried under vacuum (60 °C)"
+        }
+      ]
+    },
+    {
+      "name": "Eu-bpy-Ru-x%",
+      "synthesis_conditions": [
+        {
+          "chemicals": [
+            {
+              "name": "Ru-bpydc",
+              "molar_amount": "22.5 μmol",
+              "Ru_bpydc_contents": "x = 0, 10, 20, 30, 40, and 50"
+            },
+            {
+              "name": "H2bpydc",
+              "molar_amount": "variable",
+              "note": "Different Ru-bpydc contents"
+            },
+            {
+              "name": "Eu(NO3)3·6H2O",
+              "amount": "10.0 mg",
+              "molar_amount": "22.5 μmol"
+            },
+            {
+              "name": "2-fluorobenzoic acid",
+              "amount": "95.2 mg",
+              "molar_amount": "675 μmol"
+            },
+            {
+              "name": "dimethylformamide (DMF)",
+              "solvent_ratio": "DMF:ethanol = 4:1",
+              "volume": "2.5 mL"
+            },
+            {
+              "name": "ethanol",
+              "solvent_ratio": "DMF:ethanol = 4:1",
+              "part_of_mixed_solvent": true
+            }
+          ],
+          "temperature": "105 °C",
+          "time": "36 h",
+          "equipment": "Not specified",
+          "atmosphere": "sealed",
+          "yield": "Not specified",
+          "washing_method": "washed with DMF and ethanol",
+          "drying_method": "dried under vacuum (60 °C)"
+        }
+      ]
+    },
+    {
+      "name": "Eu-bpy-CuCl2",
+      "synthesis_conditions": [
+        {
+          "chemicals": [
+            {
+              "name": "CuCl2·2H2O",
+              "amount": "17.1 mg",
+              "molar_amount": "100 μmol"
+            },
+            {
+              "name": "Eu-bpy",
+              "amount": "10.0 mg"
+            },
+            {
+              "name": "dimethylformamide (DMF)",
+              "volume": "10 mL"
+            }
+          ],
+          "temperature": "room temperature",
+          "time": "overnight",
+          "equipment": "glovebox",
+          "atmosphere": "sealed",
+          "yield": "Not specified",
+          "washing_method": "washed with DMF five times",
+          "drying_method": "dried under vacuum (60 °C)"
+        }
+      ]
+    },
+    {
+      "name": "Eu-bpy-CuCl/Adenine",
+      "synthesis_conditions": [
+        {
+          "chemicals": [
+            {
+              "name": "Eu-bpy-Cu",
+              "amount": "10.0 mg"
+            },
+            {
+              "name": "adenine",
+              "amount": "13.5 mg",
+              "molar_amount": "100 μmol"
+            },
+            {
+              "name": "dimethylformamide (DMF)",
+              "volume": "10 mL"
+            }
+          ],
+          "temperature": "room temperature",
+          "time": "overnight",
+          "equipment": "glovebox",
+          "atmosphere": "sealed",
+          "yield": "Not specified",
+          "washing_method": "washed with DMF five times",
+          "drying_method": "dried under vacuum (60 °C)"
+        }
+      ]
+    },
+    {
+      "name": "Eu-bpy-Ru-x%-CuCl2",
+      "synthesis_conditions": [
+        {
+          "chemicals": [
+            {
+              "name": "Eu-bpy-Ru-x%",
+              "amount": "10.0 mg",
+              "note": "x = 10, 20, 30, 40, and 50"
+            },
+            {
+              "name": "CuCl2·2H2O",
+              "amount": "17.1 mg",
+              "molar_amount": "100 μmol"
+            },
+            {
+              "name": "dimethylformamide (DMF)",
+              "volume": "10 mL"
+            }
+          ],
+          "temperature": "room temperature",
+          "time": "overnight",
+          "equipment": "Not specified",
+          "atmosphere": "sealed",
+          "yield": "Not specified",
+          "washing_method": "washed with DMF five times",
+          "drying_method": "dried under vacuum (60 °C)"
+        }
+      ]
+    },
+    {
+      "name": "Eu-bpy-CuCl/Pyridine",
+      "synthesis_conditions": [
+        {
+          "chemicals": [
+            {
+              "name": "Eu-bpy-Ru-x%-CuCl2",
+              "amount": "10.0 mg",
+              "note": "x = 10, 20, 30, 40, and 50"
+            },
+            {
+              "name": "pyridine",
+              "amount": "10 μL",
+              "molar_amount": "124 μmol"
+            },
+            {
+              "name": "dimethylformamide (DMF)",
+              "volume": "5 mL"
+            }
+          ],
+          "temperature": "room temperature",
+          "time": "overnight",
+          "equipment": "Not specified",
+          "atmosphere": "sealed",
+          "yield": "Not specified",
+          "washing_method": "washed with DMF five times",
+          "drying_method": "dried under vacuum (60 °C)"
+        }
+      ]
+    }
+  ]
+}

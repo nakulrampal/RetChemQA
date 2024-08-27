@@ -1,0 +1,55 @@
+{
+  "materials": [
+    {
+      "name": "NSM",
+      "synthesis_conditions": {
+        "temperature": "80 ℃",
+        "time": "72 to 96 hours",
+        "solvents": "DMF",
+        "chemicals_used": "(NpO2)+, tetrahedral linker (C53O8H36)",
+        "equipment": "Parr reaction vessel, oven",
+        "yield": "Not determined due to radiological hazard",
+        "washing_method": "Washed three times with DMF",
+        "drying_method": "Gently dried with flowing Ar gas",
+        "irradiation_details": {
+          "source": "Shepard 60Co source",
+          "dose_rate": "75 Gy/minute",
+          "total_doses": ["1 MGy", "2 MGy", "3 MGy", "6 MGy"]
+        },
+        "crystal_containment": {
+          "method": "Triply contained through quartz crucible, inner glass dram vial plugged with quartz wool, and outer Pyrex tube sealed with a septum",
+          "atmosphere": "Purged with flowing argon gas and flame-sealed"
+        }
+      }
+    },
+    {
+      "name": "Organic Linker",
+      "synthesis_conditions": {
+        "steps": [
+          {
+            "step_description": "Synthesis of tetrakis(4-bromophenyl)methane from tetraphenylmethane and neat bromine",
+            "solvents": "Ethanol, chloroform",
+            "chemicals_used": "Tetraphenylmethane, bromine",
+            "yield": "13.9g"
+          },
+          {
+            "step_description": "Synthesis of tetramethyl 4’,4’’,4’’’,4’’’’-methanetetrayltetrabiphenyl-4carboxylate",
+            "solvents": "Dry tetrahydrofuran",
+            "chemicals_used": "Compound 2, 4-(methoxycarbonyl)phenylboronic acid, K2CO3, tetrakis(triphenylphosphine)-palladium(0)",
+            "temperature": "85 ℃",
+            "time": "3 days",
+            "yield": "370 mg"
+          },
+          {
+            "step_description": "Synthesis of 4’,4’’,4’’’,4’’’’-methanetetrayltetrabiphenyl-4-carboxylic acid",
+            "solvents": "Water, tetrahydrofuran, methanol",
+            "chemicals_used": "Compound 3, NaOH, HCl",
+            "temperature": "75 ℃",
+            "time": "18 hours",
+            "yield": "250 mg"
+          }
+        ]
+      }
+    }
+  ]
+}

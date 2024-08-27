@@ -1,0 +1,87 @@
+{
+  "materials": [
+    {
+      "name": "AzoLH2",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis of Compound 1",
+          "temperature": "60 °C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "22 mL"
+            },
+            {
+              "name": "H2O",
+              "amount": "22 mL"
+            }
+          ],
+          "chemicals": [
+            "2,5-dibromoaniline (4.1 g, 16.3 mmol)",
+            "(4-(methoxylcarbonyl)phenyl)boronic acid (17.6 g, 98.3 mmol)",
+            "Na2CO3 (6.9 g, 65.2 mmol)",
+            "Pd(OAc)2 (26.3 mg, 0.08 mmol)"
+          ],
+          "time": "26 h",
+          "atmosphere": "Ar"
+        },
+        {
+          "step": "Synthesis of Compound 2",
+          "temperature": "80 °C",
+          "solvents": [
+            {
+              "name": "AcOH",
+              "amount": "100 mL"
+            }
+          ],
+          "chemicals": [
+            "nitrosobenzene (2.34 g, 22.2 mmol)"
+          ],
+          "time": "22 h",
+          "atmosphere": "Ar"
+        },
+        {
+          "step": "Synthesis of Compound 3",
+          "temperature": "Reflux",
+          "solvents": [
+            {
+              "name": "THF",
+              "amount": "10 mL"
+            },
+            {
+              "name": "MeOH",
+              "amount": "10 mL"
+            }
+          ],
+          "chemicals": [
+            "KOH (1.15 g, 205 mmol)"
+          ],
+          "time": "24 h"
+        }
+      ]
+    },
+    {
+      "name": "AzoMOF",
+      "synthesis_conditions": [
+        {
+          "temperature": "120 °C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "2 mL"
+            }
+          ],
+          "chemicals": [
+            "anhydrous ZrCl4 (12 mg, 0.05 mmol)",
+            "benzoic acid (0, 10, 20, 30, 40 or 50 equiv. with respect to ZrCl4)",
+            "AzoLH2 (22 mg, 0.05 mmol)",
+            "deionized water (0, 4.5, 6, 10, 20, 30 or 40 equiv. with respect to ZrCl4)"
+          ],
+          "time": "24 h",
+          "yield": "15 mg, 55% based on AzoLH2",
+          "drying_method": "dried at 60 °C under reduced pressure"
+        }
+      ]
+    }
+  ]
+}

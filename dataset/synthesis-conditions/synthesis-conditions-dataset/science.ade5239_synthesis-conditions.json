@@ -1,0 +1,80 @@
+{
+  "TRUMOF-1": {
+    "Synthesis": {
+      "Chemicals_used": [
+        "Zn(NO3)2·6H2O (0.33 mmol)",
+        "1,3-benzenedicarboxylic acid (0.33 mmol)",
+        "N,N-dimethylformamide (DMF; 5 mL)"
+      ],
+      "Equipment": "teflon-lined solvothermal vial, oven",
+      "Temperature": "110 ºC",
+      "Time": "14 h",
+      "Cooling_method": "slowly cooled to room temperature",
+      "Washing_method": {
+        "Solvent": "chloroform",
+        "Cycles": "3",
+        "Duration_per_cycle": "24 h"
+      }
+    },
+    "Iodine_Incorporation": {
+      "Method": "soaking single crystals in iodine–cyclohexane solution (0.01 M) overnight",
+      "Post_treatment": "washed with chloroform until filtrate was clear (approximately 4–6 repeats)"
+    },
+    "MOF-5_Synthesis_for_Comparison": {
+      "Chemicals_used": [
+        "Zn(NO3)2·6H2O (0.1 mmol)",
+        "1,4-benzenedicarboxylic acid (0.1 mmol)",
+        "dried N,N-diethylformamide (1 mL and 3 mL)"
+      ],
+      "Equipment": "teflon-lined solvothermal vial",
+      "Temperature": "100 ºC",
+      "Time": "48 h",
+      "Washing_method": {
+        "Solvent": "dichloromethane",
+        "Cycles": "3",
+        "Duration_per_cycle": "24 h"
+      }
+    },
+    "Powder_X-ray_Diffraction": {
+      "Equipment": "Bruker D8 Advance Eco diffractometer",
+      "Radiation": "Cu K source ( = 1.54 Å)",
+      "Sample_preparation": "grinding single-crystal samples and allowing the powders to dry in air"
+    },
+    "Nuclear_Magnetic_Resonance": {
+      "Equipment": "Bruker AVIII 400 nanobay instrument",
+      "Sample_preparation": "acid-digestion approach to dissolve TRUMOF-1 samples in DCl/D2O solution and deuterated DMSO for NMR analysis"
+    },
+    "Infrared_and_Raman_Spectroscopy": {
+      "FT-IR_Equipment": "Shimadzu IRAffinity-1",
+      "Raman_Equipment": "Renishaw InVia Qontor confocal spectrometer",
+      "Raman_Laser": "Renishaw plc RL785 red diode laser",
+      "Sample_preparation": "dried samples placed directly onto equipment"
+    },
+    "Thermogravimetric_Analysis": {
+      "Equipment": "Mettler Toledo TGA/DSC 1 system",
+      "Conditions": "flowing N2, ramp rate of 5 ºC min–1 from 25 to 700 ºC",
+      "Sample_preparation": "soaked in DCM for two consecutive days and dried under vacuum"
+    },
+    "Single-Crystal_X-ray_Diffraction": {
+      "Equipment": "Bruker FR591-D85-ApexII diffractometer",
+      "Radiation": "Mo-K ( = 0.71073 Å)",
+      "Temperature": "100 K",
+      "Crystal_mounting": "mounted on a 0.2 mm diameter MiTeGen loop using Paratone-N oil as a cryoprotectant"
+    },
+    "Extended_X-ray_Absorption_Fine_Structure": {
+      "Equipment": "LISA beamline at the ESRF",
+      "Radiation": "Zn K-edge (9658.6 eV)",
+      "Sample_preparation": "prepared as pellets using a manual hydraulic press with cellulose"
+    },
+    "Gas_Adsorption": {
+      "Equipment": "Micromeritics 3Flex instrument",
+      "Conditions": "activated at 150 ºC under dynamic vacuum at 10-4 mbar for 120 h",
+      "Gases_tested": ["Nitrogen", "Hydrogen", "Methane", "Carbon dioxide"]
+    },
+    "Grand_Canonical_Monte_Carlo_Simulations": {
+      "Gases_tested": ["CH4", "CO2"],
+      "Temperatures": ["273 K", "293 K"],
+      "Software": "RASPA software"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "materials": [
+    {
+      "name": "1,2-bis([4,4'-bipyridin]-1-ium)ethane (1)",
+      "synthesis_conditions": {
+        "references": "S1"
+      }
+    },
+    {
+      "name": "cis-Pt(PEt3)2(OTf)2 (2)",
+      "synthesis_conditions": {
+        "references": "S2"
+      }
+    },
+    {
+      "name": "metallacycles 4a-4c",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "D2O",
+            "amount": "0.2 mL"
+          },
+          {
+            "name": "acetone-d6",
+            "amount": "0.8 mL"
+          }
+        ],
+        "temperature": "70 °C",
+        "time": "3 h",
+        "equipment": "2-dram vial",
+        "chemicals_used": [
+          "1,2-bis([4,4'-bipyridin]-1-ium)ethane (1•2PF6 or 1•2OTf)",
+          "cis-Pt(PEt3)2(OTf)2 (2)",
+          "carboxylate ligand 3 (3a, 3b, or 3c)"
+        ],
+        "ratio": "1:2:1",
+        "yield": [
+          "4a•4PF6•4OTf: 88%",
+          "4a•8OTf: 87%",
+          "4b•4PF6•4OTf: 85%",
+          "4b•8OTf: 85%",
+          "4c•4PF6•4OTf: 92%",
+          "4c•8OTf: 95%"
+        ]
+      }
+    },
+    {
+      "name": "[3]catenanes 5a-5c",
+      "synthesis_conditions": {
+        "methods": [
+          "Self-assembly then threading",
+          "Threading then self-assembly"
+        ],
+        "solvents": "acetone-d6",
+        "chemicals_used": [
+          "1,2-bis([4,4'-bipyridin]-1-ium)ethane (1•2PF6 or 1•2OTf)",
+          "DB24C8",
+          "cis-Pt(PEt3)2(OTf)2 (2)",
+          "carboxylate ligand 3 (3a, 3b, or 3c)"
+        ],
+        "ratio": "1:4:2:2",
+        "temperature": "70 °C",
+        "time": "5 h"
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "materials": [
+    {
+      "material_name": "MIP-203-F",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "formic acid",
+            "amount": "5 mL"
+          }
+        ],
+        "equipment": "23 mL Teflon reactor",
+        "chemicals_used": [
+          {
+            "name": "fumaric acid",
+            "amount": "116 mg"
+          },
+          {
+            "name": "ZrCl4",
+            "amount": "466 mg"
+          }
+        ],
+        "time": "72 hours",
+        "washing_method": "washed with EtOH and water"
+      }
+    },
+    {
+      "material_name": "MIP-203-S",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "formic acid",
+            "amount": "4 mL"
+          }
+        ],
+        "equipment": "23 mL Teflon reactor",
+        "chemicals_used": [
+          {
+            "name": "succinic acid",
+            "amount": "480 mg"
+          },
+          {
+            "name": "ZrCl4",
+            "amount": "233 mg"
+          }
+        ],
+        "time": "72 hours",
+        "washing_method": "washed with EtOH and water"
+      }
+    },
+    {
+      "material_name": "MIP-203-M",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "formic acid",
+            "amount": "5 mL"
+          }
+        ],
+        "equipment": "23 mL Teflon reactor",
+        "chemicals_used": [
+          {
+            "name": "malic acid",
+            "amount": "268 mg"
+          },
+          {
+            "name": "ZrCl4",
+            "amount": "233 mg"
+          }
+        ],
+        "time": "72 hours",
+        "washing_method": "washed with EtOH and water"
+      }
+    }
+  ]
+}

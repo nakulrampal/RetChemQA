@@ -1,0 +1,136 @@
+{
+  "materials": [
+    {
+      "name": "Ph3GePCO",
+      "synthesis_conditions": {
+        "temperature": "ambient",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "3 mL"
+          },
+          {
+            "name": "pentane",
+            "amount": "15 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "KHBPh3",
+            "amount": "119.1 mg, 0.42 mmol, 1 equiv."
+          },
+          {
+            "name": "Ph3GePCO",
+            "amount": "153.1mg, 0.42 mmol, 1 equiv."
+          },
+          {
+            "name": "18-crown-6",
+            "amount": "1 equiv."
+          }
+        ],
+        "time": "15 minutes",
+        "yield": "64%",
+        "washing_method": "washed with pentane (3 x 5 mL)",
+        "drying_method": "dried in vacuo",
+        "characterization": {
+          "1H_NMR": "400 MHz, THF-d8, δ 9.82 (s, formyl, (E)), 9.06 (d, 2JPH = 71 Hz, formyl, (Z)), 7.61 (m, Ar), 7.53 (m, Ar), 7.22 (m, Ar), 7.12 (m, Ar), 6.68 (m, Ar), 3.58 ppm (s, 18-crown-6)",
+          "11B_NMR": "128 MHz, THF-d8, δ 6.42 ppm (b)",
+          "13C_NMR": "126 MHz, THF-d8, δ 226.2 (d, 1JPC = 49 Hz, formyl, (E)), 213.5 (d, 1JPC = 80 Hz, formyl, (Z)), 142.9 (s, Ar), 142.3 (s, Ar), 136.7 (s, Ar), 136.3 (s, Ar), 135.2 (d, Ar), 135.1 (d, Ar), 129.2 (d, Ar), 128.4 (d, Ar), 128.3 (d, Ar), 128.2 (d, Ar), 138.1 (d, Ar), 126.5 (d, Ar), 126.4 (d, Ar), 125.8 (d, Ar), 123.6 (d, Ar), 71.3 ppm (s, 18-crown-6)",
+          "31P_NMR": "162 MHz, THF-d8, δ 23.9 (s, (E)), 0.6 ppm (s, (Z))"
+        }
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "temperature": "ambient",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "0.6 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "[K][1]",
+            "amount": "9.9 mg, 0.015 mmol, 1 equiv."
+          },
+          {
+            "name": "CH3I",
+            "amount": "~ 1 μL, 0.016 mmol, 1.1 equiv."
+          },
+          {
+            "name": "[NBu4][Ph3SiF2]",
+            "amount": "14.5 mg, 0.027 mmol, 1.5 equiv."
+          }
+        ],
+        "characterization": {
+          "1H_NMR": "400 MHz, THF, δ 11.00 (d, 2JPH = 83 Hz, formyl), 7.60-6.90 ppm (m, Ar)",
+          "31P_NMR": "162 MHz, THF, δ -47.8 ppm (s)"
+        },
+        "notes": "Attempts to separate this species from side products have so far been unsuccessful."
+      }
+    },
+    {
+      "name": "3",
+      "synthesis_conditions": {
+        "temperature": "ambient",
+        "solvents": [
+          {
+            "name": "THF or THF-d8",
+            "amount": "0.4 mL, 0.036 M, 1 equiv."
+          }
+        ],
+        "reagents": [
+          {
+            "name": "[K][1]",
+            "amount": "variable"
+          },
+          {
+            "name": "[NBu4][Ph3SiF2]",
+            "amount": "excess, 3 equiv."
+          },
+          {
+            "name": "CH3I",
+            "amount": "1.6-2.0 equiv."
+          }
+        ],
+        "yield": "ca. 50%",
+        "characterization": {
+          "1H_NMR": "400 MHz, THF-d8, δ 11.0 (d, 2JPH = 68 Hz, formyl), 1.23 ppm (d, 2JPH = 2 Hz, CH3)",
+          "13C_NMR": "126 MHz, THF-d8, δ 225.1 (d, 1JPC = 49 Hz, formyl), 6.1 ppm (d, 1JPC = 13 Hz)",
+          "31P_NMR": "162 MHz, THF-d8, δ -22.4 ppm (s)"
+        },
+        "notes": "Despite our best efforts, adventitious water from the distillation apparatus is often observed spectroscopically in the receiving flask."
+      }
+    },
+    {
+      "name": "4",
+      "synthesis_conditions": {
+        "temperature": "ambient",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "0.4 mL, 0.036 M, 1 equiv."
+          }
+        ],
+        "reagents": [
+          {
+            "name": "3",
+            "amount": "0.4 mL, 0.036 M, 1 equiv."
+          },
+          {
+            "name": "[Ru(p-cymene)Cl2]2",
+            "amount": "11.0 mg, 0.02 mmol, 0.5 equiv."
+          }
+        ],
+        "yield": "72%",
+        "characterization": {
+          "1H_NMR": "400 MHz, THF-d8, δ 10.72 (d, 2JPH = 99 Hz, formyl), 5.57 (m, Ar), 5.51 (m, Ar), 2.74 (h, 3JHH = 7 Hz, C-H), 2.01 (s, CH3) 1.64 (dd, 2JPH = 11 Hz, 4JHH = 0.4 Hz, P-CH3), 1.20 ppm (d, CH3)",
+          "13C_NMR": "126 MHz, THF-d8, δ 211.6 (d, 1JPC = 21 Hz, formyl), 107.5 (s, Ar), 96.9 (s, Ar), 89.3 (s, Ar), 86.1 (s, Ar), 35.11, 22.35, 18.25, 10.7 ppm (d, 1JPC = 28 Hz, P-CH3)",
+          "31P_NMR": "162 MHz, THF-d8, δ 17.6 ppm"
+        }
+      }
+    }
+  ]
+}

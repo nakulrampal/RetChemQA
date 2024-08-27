@@ -1,0 +1,45 @@
+{
+  "materials": [
+    {
+      "name": "[FeCp*2][{Ru2}2TCNQ]",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "chemicals_used": [
+            {
+              "chemical": "[Ru2II,II(2,3,5,6-F4C6HCO2)4]",
+              "note": "2,3,5,6-F4C6HCO2 = 2,3,5,6-tetrafluorobenzoate"
+            },
+            {
+              "chemical": "[FeCp*2]TCNQ",
+              "ratio": "2:1"
+            }
+          ],
+          "solvent": "1,2-dichloroethane (DCE)",
+          "yield": "Not specified",
+          "additional_information": "The compound [Ru2II,II(2,3,5,6-F4C6HCO2)4] was chosen because of its high stability."
+        }
+      ]
+    },
+    {
+      "name": "[FeCp*2][{Rh2II,II(2,3,5,6-F4C6HCO2)4}2TCNQ]·n(solv)",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "chemicals_used": [
+            {
+              "chemical": "[Rh2II,II(2,3,5,6-F4C6HCO2)4]",
+              "note": "Used with a diamagnetic [Rh2II,II(2,3,5,6-F4C6HCO2)4] unit"
+            },
+            {
+              "chemical": "[FeCp*2]TCNQ"
+            }
+          ],
+          "solvent": "Not specified",
+          "yield": "Not specified",
+          "additional_information": "Synthesized to confirm the magnetic behavior of the [FeCp*2]+TCNQC- column."
+        }
+      ]
+    }
+  ]
+}

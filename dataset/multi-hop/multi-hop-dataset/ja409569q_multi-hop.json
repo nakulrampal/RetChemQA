@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "question": "What is the role of increasing the size of the amine templates in the synthesis of compounds 1 to 4?",
+      "answer": "Increasing the size of the amine templates gradually increases the inter-layer distance and makes the inter-layer contacts more anisotropic, which eventually leads to the spontaneous rolling up and formation of a tubular structure.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the synthesis approach of compound 4 differ from that of compounds 1 to 3 in terms of structural outcome?",
+      "answer": "While compounds 1 to 3 result in 2D lamellar structures, the synthesis approach for compound 4, using a larger amine template (Et3N), leads to the formation of a 1D tubular structure.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What experimental technique was used to collect X-ray intensity data for compounds 1 to 4?",
+      "answer": "The X-ray intensity data for compounds 1 to 4 were collected using a Bruker APEX-II diffractometer with graphite-monochromated Mo-Kα radiation.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Why were the sulfamide groups in compound 3 difficult to refine, and how was this issue addressed?",
+      "answer": "The sulfamide groups in compound 3 showed a high degree of thermal motion, making them difficult to refine. This issue was addressed by refining them anisotropically with rigid-bond restraints applied to the thermal parameters.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the 'SQUEEZE' method used in the refinement of compound 4?",
+      "answer": "The 'SQUEEZE' method was used to handle badly disordered triethylammonium cations and some lattice methanol in compound 4, indicating the presence of disordered or solvent molecules that could not be modeled directly.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of disordered triethylammonium cations and lattice methanol in compound 4 affect its crystal structure analysis?",
+      "answer": "The presence of disordered triethylammonium cations and lattice methanol in compound 4 required the use of the 'SQUEEZE' method to account for these components in the crystal structure analysis, indicating challenges in accurately modeling some parts of the structure.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Given the synthesis conditions, why might compound 4 exhibit a tubular structure instead of a lamellar one?",
+      "answer": "Compound 4 exhibits a tubular structure due to the use of a larger amine template (Et3N), which increases the inter-layer spacing and anisotropy in inter-layer contacts, leading to a spontaneous rolling-up process to form the tubular structure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the change in amine template size from Me3N to Et3N influence the structural transformation from lamellar to tubular in the synthesized compounds?",
+      "answer": "The change in amine template size from Me3N to Et3N increases the inter-layer distance and anisotropy in inter-layer contacts, which facilitates the structural transformation from lamellar to tubular by enabling the rolling-up process.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the 'SQUEEZE' method necessary for the crystal structure analysis of compound 4?",
+      "answer": "The 'SQUEEZE' method is necessary for the crystal structure analysis of compound 4 to account for disordered triethylammonium cations and lattice methanol, which cannot be modeled directly due to their disorder.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What challenges do the synthesis and structural analysis of compound 3 present, and how are they addressed?",
+      "answer": "The synthesis and structural analysis of compound 3 present challenges due to the high degree of thermal motion of sulfamide groups, addressed by refining them anisotropically with rigid-bond restraints.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the synthesis strategy of gradually increasing the size of the amine templates contribute to achieving a tubular structure in compound 4?",
+      "answer": "The synthesis strategy of gradually increasing the size of the amine templates contributes to achieving a tubular structure in compound 4 by increasing inter-layer spacing and anisotropy, which facilitates the rolling-up process.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the 'SQUEEZE' method applied in the crystal structure analysis of all compounds synthesized in this study?",
+      "answer": "False. The 'SQUEEZE' method is specifically applied in the crystal structure analysis of compound 4 to handle disordered components, not all compounds synthesized in this study.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "The synthesis of compounds 1 to 4 involves a single-crystal-to-single-crystal transformation.",
+      "answer": "False. The synthesis of compounds 1 to 4 involves the formation of lamellar and tubular structures from a common coordination skeleton, not a single-crystal-to-single-crystal transformation.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "All synthesized compounds exhibit identical crystal systems and space groups.",
+      "answer": "False. Compounds 1 to 3 have monoclinic crystal systems with the P21/c space group, while compound 4 has a tetragonal crystal system with the P4/n space group.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The synthesis of compound 4 does not require the use of a larger amine template compared to compounds 1 to 3.",
+      "answer": "False. The synthesis of compound 4 specifically requires the use of a larger amine template (Et3N) compared to the templates used for compounds 1 to 3.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The presence of disordered components in compound 4 does not affect its crystal structure analysis.",
+      "answer": "False. The presence of disordered components in compound 4 necessitates the use of the 'SQUEEZE' method in its crystal structure analysis to account for these components.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "The synthesis of compounds 1 to 4 demonstrates a guest/template-induced supramolecular isomerism.",
+      "answer": "True. The synthesis of compounds 1 to 4, especially the transition from lamellar to tubular structures, demonstrates guest/template-induced supramolecular isomerism.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

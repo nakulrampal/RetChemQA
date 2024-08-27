@@ -1,0 +1,102 @@
+{
+  "materials": [
+    {
+      "name": "MOFF-1",
+      "synthesis_conditions": {
+        "temperature": "40 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "0.3 mL"
+          },
+          {
+            "name": "MeOH",
+            "amount": "5.4 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.3 mL"
+          }
+        ],
+        "time": "4 days",
+        "chemicals_used": [
+          {
+            "name": "Ligand 3",
+            "amount": "30.0 mg"
+          },
+          {
+            "name": "Cu(NO3)2·2.5H2O",
+            "amount": "18.0 mg"
+          }
+        ],
+        "yield": "80 % based on Cu",
+        "drying_method": "dried under reduced pressure",
+        "additional_information": "Crystals of MOFF-1 are stable in THF, MeOH, CH2Cl2, DMF, toluene, DMSO, acetone, and ether. They are rapidly decomposed in H2O, 2M HCl, 10% H2SO4, 2M NaOH, and 10% KOH."
+      }
+    },
+    {
+      "name": "MOFF-2",
+      "synthesis_conditions": {
+        "temperature": "60 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "1 mL"
+          },
+          {
+            "name": "MeOH",
+            "amount": "6 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.3 mL"
+          }
+        ],
+        "time": "2 days",
+        "chemicals_used": [
+          {
+            "name": "Ligand 3",
+            "amount": "75.0 mg"
+          },
+          {
+            "name": "1,4-diazabicyclo[2.2.2]octane (DABCO)",
+            "amount": "11.0 mg"
+          },
+          {
+            "name": "Cu(NO3)2·2.5H2O",
+            "amount": "45.0 mg"
+          }
+        ],
+        "yield": "77 % based on Cu",
+        "drying_method": "dried under reduced pressure",
+        "additional_information": "Crystals of MOFF-2 are stable in THF, MeOH, EtOH, CH2Cl2, DMF, toluene, DMSO, acetone, and ether. They are rapidly decomposed in H2O, 2M HCl, 10% H2SO4, 2M NaOH, and 10% KOH."
+      }
+    },
+    {
+      "name": "MOFF-3",
+      "synthesis_conditions": {
+        "temperature": "70 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "5 mL"
+          }
+        ],
+        "time": "4 days",
+        "chemicals_used": [
+          {
+            "name": "Ligand 4",
+            "amount": "50.0 mg"
+          },
+          {
+            "name": "CuCl2·2H2O",
+            "amount": "20.0 mg"
+          }
+        ],
+        "yield": "26 % based on Cu",
+        "drying_method": "heated in a 120 °C oven for 1 day under reduced pressure",
+        "additional_information": "Crystals of MOFF-3 are stable in H2O, as well as in THF, MeOH, EtOH, CH2Cl2, DMF, toluene, DMSO, acetone, and ether. They are rapidly decomposed in 2M HCl, 10% H2SO4, 2M NaOH, and 10% KOH."
+      }
+    }
+  ]
+}

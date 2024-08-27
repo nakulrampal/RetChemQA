@@ -1,0 +1,349 @@
+{
+  "materials": [
+    {
+      "material_name": "4-amino-1,2,5-oxadiazole-3-carboxylic acid (2)",
+      "chemicals_used": [
+        {
+          "name": "ethyl cyanoglyoxylate 2-oxime",
+          "amount": "0.37 mol (52.54 g)"
+        },
+        {
+          "name": "water",
+          "amount": "330 ml"
+        },
+        {
+          "name": "methanol",
+          "amount": "30 ml"
+        },
+        {
+          "name": "NaOH",
+          "amount": "60 g"
+        },
+        {
+          "name": "KOH",
+          "amount": "42 g"
+        },
+        {
+          "name": "hydroxylamine hydrochloride",
+          "amount": "104 g"
+        },
+        {
+          "name": "HCl",
+          "amount": "to adjust pH = 1"
+        }
+      ],
+      "solvents": [
+        {
+          "name": "water",
+          "amount": "330 ml"
+        },
+        {
+          "name": "methanol",
+          "amount": "30 ml"
+        }
+      ],
+      "temperature": [
+        {
+          "step": "initial",
+          "value": "room temperature"
+        },
+        {
+          "step": "incubation",
+          "value": "10 °C"
+        },
+        {
+          "step": "reaction",
+          "value": "95 °C"
+        },
+        {
+          "step": "cooling",
+          "value": "room temperature"
+        },
+        {
+          "step": "final cooling",
+          "value": "5 °C"
+        }
+      ],
+      "time": [
+        {
+          "step": "NaOH addition",
+          "value": "1 hour"
+        },
+        {
+          "step": "KOH addition",
+          "value": "20 min"
+        },
+        {
+          "step": "hydroxylamine hydrochloride addition",
+          "value": "1 hour"
+        },
+        {
+          "step": "reaction",
+          "value": "4 hours"
+        },
+        {
+          "step": "cooling",
+          "value": "overnight"
+        }
+      ],
+      "yield": "40 %",
+      "characterization": [
+        {
+          "technique": "IR",
+          "details": "(KBr, ν/cm-1): 3442(s), 3339(m), 2652(m), 1719(s), 1624(s), 1577(m), 1521(m), 1291(s), 1185(s), 1010(s), 773(s), 733(s)"
+        },
+        {
+          "technique": "MS (ESI)",
+          "details": "m/z: 128.03 [C3H2N3O3-]"
+        },
+        {
+          "technique": "Elemental analysis",
+          "details": "% for C3H3N3O3 (Mr = 129.02 g mol-1): calcd. C 27.91, H 2.33, N 32.56; found C 27.88, H 2.29, N 32.61"
+        },
+        {
+          "technique": "13C NMR (125 MHZ, DMSO-d6)",
+          "details": "δ 160.7, 156.8, 140.4"
+        }
+      ]
+    },
+    {
+      "material_name": "methyl 4-amino-1,2,5-oxadiazole-3-carboxylate (3)",
+      "chemicals_used": [
+        {
+          "name": "4-amino-1,2,5-oxadiazole-3-carboxylic acid (2)",
+          "amount": "0.1 mol (12.9 g)"
+        },
+        {
+          "name": "concentrated sulfuric acid",
+          "amount": "3 ml"
+        },
+        {
+          "name": "anhydrous methanol",
+          "amount": "300 ml"
+        },
+        {
+          "name": "saturated Na2CO3 solution",
+          "amount": "to adjust pH = 7"
+        },
+        {
+          "name": "ethyl acetate",
+          "amount": "100 ml"
+        }
+      ],
+      "solvents": [
+        {
+          "name": "anhydrous methanol",
+          "amount": "300 ml"
+        },
+        {
+          "name": "ethyl acetate",
+          "amount": "100 ml"
+        }
+      ],
+      "temperature": "refluxed for 6 h at 70 °C",
+      "yield": "not specified",
+      "characterization": [
+        {
+          "technique": "IR",
+          "details": "(KBr, ν/cm-1): 3447(m), 3327(m), 1716(s), 1632(s), 1521(s), 1489(s), 1352(s), 1198(s), 1148(s), 1009(s), 1246(s), 940(m), 822(m), 731(m)"
+        },
+        {
+          "technique": "MS (ESI)",
+          "details": "m/z: 142.03 [C4H4N3O3-]"
+        },
+        {
+          "technique": "Elemental analysis",
+          "details": "% for C4H5N3O3 (Mr = 143.03 g mol-1): calcd. C 33.56, H 2.49, N 29.37; found C 33.51, H 2.42, N 29.42"
+        },
+        {
+          "technique": "13C NMR (125 MHZ, DMSO-d6)",
+          "details": "δ 159.4, 156.6, 139.9, 53.4"
+        }
+      ]
+    },
+    {
+      "material_name": "4-Amino-1,2,5-Oxadiazole-3-Carbohydrazide (AOCA, 4)",
+      "chemicals_used": [
+        {
+          "name": "methyl 4-amino-1,2,5-oxadiazole-3-carboxylate (3)",
+          "amount": "0.1 mmol (14.3 g)"
+        },
+        {
+          "name": "80 % hydrazine hydrate",
+          "amount": "10 g"
+        },
+        {
+          "name": "anhydrous methanol",
+          "amount": "300 ml"
+        }
+      ],
+      "solvents": [
+        {
+          "name": "anhydrous methanol",
+          "amount": "300 ml"
+        }
+      ],
+      "temperature": "refluxed for 6 h; cooled at 3-5 ℃ for 5 h",
+      "yield": "80 %",
+      "characterization": [
+        {
+          "technique": "IR",
+          "details": "(KBr, ν/cm-1): 3443(m), 3309(m), 3157(m), 1674(m), 1624(s), 1560(s), 1364(s), 1229(s), 1117(s), 1007 (s), 969(s), 862(m), 7355(m)"
+        },
+        {
+          "technique": "MS (ESI)",
+          "details": "m/z: 142.03 [C3H4N5O2-]"
+        },
+        {
+          "technique": "Elemental analysis",
+          "details": "% for C3H5N5O2 (Mr = 143.04 g mol-1): calcd. C 25.17, H 3.50, N 48.94; found C 25.05, H 3.45, N 49.05"
+        },
+        {
+          "technique": "13C NMR (125 MHZ, DMSO-d6)",
+          "details": "δ 160.4, 156.6, 140.8"
+        }
+      ]
+    },
+    {
+      "material_name": "5’ and 6’ (powder)",
+      "chemicals_used": [
+        {
+          "name": "AOCA",
+          "amount": "5 mmol (0.72 g)"
+        },
+        {
+          "name": "AgNO3",
+          "amount": "10 mmol (1.7 g)"
+        },
+        {
+          "name": "AgClO4",
+          "amount": "10 mmol (1.7 g)"
+        },
+        {
+          "name": "water",
+          "amount": "10 ml"
+        }
+      ],
+      "solvents": [
+        {
+          "name": "water",
+          "amount": "10 ml"
+        }
+      ],
+      "temperature": "85 °C",
+      "yield": "not specified",
+      "characterization": [
+        {
+          "technique": "IR",
+          "details": "5': (KBr, ν/cm-1): 3343(m), 3285(m), 1671(s), 1630(s), 1561(m), 1343(s), 1231(s), 1008(s), 828(m); 6': (KBr, ν/cm-1): 3421(m), 3314(m), 1683(s), 1632(m), 1067(s), 869(s), 622(s)"
+        },
+        {
+          "technique": "Elemental analysis",
+          "details": "5': % for C3H5N6O5Ag (Mr = 313.9 g mol-1): calcd. C 11.47, H 1.59, N 26.76; found C 11.38, H 1.52, N 26.91; 6': % for C3H5N5O6AgCl (Mr = 351.4 g mol-1): calcd. C 10.24, H 1.42, N 19.92; found C 10.13, H 1.34, N 20.11"
+        }
+      ]
+    },
+    {
+      "material_name": "5 and 6 (crystals)",
+      "chemicals_used": [
+        {
+          "name": "5’",
+          "amount": "0.95 g"
+        },
+        {
+          "name": "6’",
+          "amount": "0.85 g"
+        },
+        {
+          "name": "nitric acid",
+          "amount": "about 10 mmol"
+        },
+        {
+          "name": "perchloric acid",
+          "amount": "about 20 mmol"
+        },
+        {
+          "name": "water",
+          "amount": "20 ml"
+        }
+      ],
+      "solvents": [
+        {
+          "name": "water",
+          "amount": "20 ml"
+        }
+      ],
+      "temperature": "80 °C",
+      "yield": "53.6 % and 57.3 % respectively (based on AOCA)",
+      "characterization": [
+        {
+          "technique": "IR",
+          "details": "5: (KBr, ν/cm-1): 3343(m), 3285(m), 1671(s), 1630(s), 1561(m), 1343(s), 1231(s), 1008(s), 828(m); 6: (KBr, ν/cm-1): 3421(m), 3314(m), 1683(s), 1632(m), 1067(s), 869(s), 622(s)"
+        },
+        {
+          "technique": "Elemental analysis",
+          "details": "5: % for C3H5N6O5Ag (Mr = 313.9 g mol-1): calcd. C 11.47, H 1.59, N 26.76; found C 11.38, H 1.52, N 26.91; 6: % for C3H5N5O6AgCl (Mr = 351.4 g mol-1): calcd. C 10.24, H 1.42, N 19.92; found C 10.13, H 1.34, N 20.11"
+        }
+      ]
+    },
+    {
+      "material_name": "7 and 8 (crystals)",
+      "chemicals_used": [
+        {
+          "name": "AOCA",
+          "amount": "5 mmol (0.72 g)"
+        },
+        {
+          "name": "Cu(NO3)2",
+          "amount": "10 mmol (1.88 g)"
+        },
+        {
+          "name": "Cu(ClO4)2",
+          "amount": "10 mmol (1.88 g)"
+        },
+        {
+          "name": "water",
+          "amount": "10 ml"
+        }
+      ],
+      "solvents": [
+        {
+          "name": "water",
+          "amount": "10 ml"
+        }
+      ],
+      "temperature": "85 ℃",
+      "yield": "53.7% (based on AOCA)",
+      "characterization": [
+        {
+          "technique": "IR",
+          "details": "7: (KBr, ν/cm-1): 3442(s), 1671(m), 1629(s), 1340(s), 1231(m), 1009(s); 8: (KBr, ν/cm-1): 3477(s), 3372(m), 3268(m), 1655(m), 1608(s), 1071(s), 1019(s), 903(s)"
+        },
+        {
+          "technique": "Elemental analysis",
+          "details": "7: % for C6H10N12O10Cu (Mr = 475.8 g mol-1): calcd. C 15.13, H 2.10, N 35.31; found C 15.02, H 1.97, N 35.53; 8: % for C6H10N10O12CuCl2 (Mr = 550.7 g mol-1): calcd. C 13.07, H 1.82, N 25.42; found C 12.93, H 1.73, N 25.71"
+        }
+      ]
+    },
+    {
+      "material_name": "Oxygen bomb calorimetry",
+      "details": "The constant pressure reaction heat (ΔCU) of 5 to 8 was measured by an oxygen bomb calorimeter, and the average value was obtained by three measurements independently. The standard molar combustion enthalpy (ΔCHθm) can be obtained from the constant pressure reaction heat (ΔCU) according to the equation 1. According to the principle of Hess' law, the complete combustion reaction equations were shown in equation 4 to 7, and the standard molar generation enthalpy (ΔfHθm) can be obtained based on the formulas 1 and 2 [CO2(g): -393.51 kJ mol-1; AgCl(s): -285.85 kJ mol-1; Ag2O(s): -30.56 kJ mol-1; CuCl2(s): -220.1 kJ mol-1; CuO(s): -157.3 kJ mol-1; H2O(l): -285.85 kJ mol-1]. The final experimental results showed that the combustion heats of 5 to 8 are -1192.761 kJ mol-1 , -1197.82 kJ mol-1 , -2479.43 kJ mol-1 , -2247.62 kJ mol-1 respectively."
+    },
+    {
+      "material_name": "Hot needle (HN) tests",
+      "details": "Approximately 10 mg of the compound was dispersed on the operating table in a powdered state. The tiny iron needle is heated, and then slowly approached the compound, while recording the deflagration process of the compound with a high-speed camera."
+    },
+    {
+      "material_name": "Laser performance test",
+      "details": "Weigh 10 mg samples, a total of 5 parts, and place them in sample tubes. Use a semiconductor laser to trigger the sample. Determine the minimum trigger energy by adjusting the action time and power. Take the average value as the final test value."
+    },
+    {
+      "material_name": "Detonation initiation",
+      "details": "The test device used to breakdown of the lead plate, the material inside can be divided into two parts: the first part is filled with 2 or 3 (200mg, pressure of fixation is 25 MPa); the second component is RDX (450 mg, charge pressure is 40 MPa)."
+    },
+    {
+      "material_name": "Combustion cell test",
+      "details": "300 mg of compounds was loaded inside the combustion cell. After igniting the sample with a heated nichrome coil, the temporal pressure from the reaction was recorded by an attached piezoelectric pressure sensor together with an oscilloscope."
+    }
+  ]
+}

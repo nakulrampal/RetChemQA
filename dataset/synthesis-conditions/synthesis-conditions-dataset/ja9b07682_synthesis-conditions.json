@@ -1,0 +1,162 @@
+{
+  "materials": [
+    {
+      "name": "[Zn(bpdc)(4-spy)]･DMF (1⊃DMF)",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "4,4’-Biphenyldicarboxylic acid (H2bpdc)",
+            "amount": "20.7 mg, 0.086 mmol"
+          },
+          {
+            "name": "trans-4-styrylpyridine (4-spy)",
+            "amount": "94.9 mg, 0.52 mmol"
+          },
+          {
+            "name": "Zn(NO3)2･6H2O",
+            "amount": "30.3 mg, 0.10 mmol"
+          }
+        ],
+        "equipment": "teflon-lined stainless-steel autoclave bomb",
+        "time": "2 days",
+        "drying_method": "filtration",
+        "yield": "colorless crystals"
+      }
+    },
+    {
+      "name": "[Zn(bpdc)(4-spy)] (1)",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "drying_method": "dynamic vacuum",
+        "time": "1 day",
+        "yield": "obtained by heating of [Zn(bpdc)(4-spy)]･DMF crystals"
+      }
+    },
+    {
+      "name": "[Zn(bpdc)(4-spy)]･DEF (1⊃DEF)",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "DEF",
+            "amount": "20 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H2bpdc",
+            "amount": "54.4 mg, 0.22 mmol"
+          },
+          {
+            "name": "4-spy",
+            "amount": "185 mg, 1.0 mmol"
+          },
+          {
+            "name": "Zn(NO3)2･6H2O",
+            "amount": "63.2 mg, 0.21 mmol"
+          }
+        ],
+        "equipment": "teflon-lined stainless-steel autoclave bomb",
+        "time": "2 days",
+        "drying_method": "filtration",
+        "yield": "colorless crystals"
+      }
+    },
+    {
+      "name": "[Zn(bpdc)(4-spy)]･DMA (1⊃DMA)",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "DMA",
+            "amount": "20 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H2bpdc",
+            "amount": "23.7 mg, 0.098 mmol"
+          },
+          {
+            "name": "4-spy",
+            "amount": "184 mg, 1.0 mmol"
+          },
+          {
+            "name": "Zn(NO3)2･6H2O",
+            "amount": "26.2 mg, 0.088 mmol"
+          }
+        ],
+        "equipment": "teflon-lined stainless-steel autoclave bomb",
+        "time": "2 days",
+        "drying_method": "filtration",
+        "yield": "colorless crystals"
+      }
+    },
+    {
+      "name": "[Zn(bpdc)(4-spy)]･NMP3 (1⊃NMP)",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "NMP",
+            "amount": "20 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H2bpdc",
+            "amount": "49.8 mg, 0.21 mmol"
+          },
+          {
+            "name": "4-spy",
+            "amount": "185 mg, 1.0 mmol"
+          },
+          {
+            "name": "Zn(NO3)2･6H2O",
+            "amount": "58.4 mg, 0.20 mmol"
+          }
+        ],
+        "equipment": "teflon-lined stainless-steel autoclave bomb",
+        "time": "2 days",
+        "additional_steps": "kept at room temperature for 8 weeks",
+        "drying_method": "filtration",
+        "yield": "colorless crystals"
+      }
+    },
+    {
+      "name": "Photo-irradiation experiments",
+      "synthesis_conditions": {
+        "equipment": "USHIO OpticalModulex high-pressure Hg lamp (12 A)",
+        "irradiation_time": [
+          {
+            "sample": "1⊃DMF",
+            "time": "110 min"
+          },
+          {
+            "sample": "1⊃DEF",
+            "time": "120 min"
+          },
+          {
+            "sample": "1⊃DMA",
+            "time": "70 min"
+          },
+          {
+            "sample": "1⊃NMP",
+            "time": "20 min"
+          },
+          {
+            "sample": "1",
+            "time": "60 min"
+          }
+        ]
+      }
+    }
+  ]
+}

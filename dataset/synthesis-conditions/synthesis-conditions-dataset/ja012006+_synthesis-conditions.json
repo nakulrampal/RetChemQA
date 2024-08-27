@@ -1,0 +1,184 @@
+{
+  "materials": [
+    {
+      "material": "1",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "acetic acid",
+            "amount": "3 mL"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "p-bromobenzaldehyde",
+            "amount": "1.50 g, 8.1 mmol"
+          },
+          {
+            "name": "phenol",
+            "amount": "1.72 g, 18 mmol"
+          },
+          {
+            "name": "sulfuric acid",
+            "amount": "3 mL"
+          }
+        ],
+        "temperature": "0 °C",
+        "time": "72 h",
+        "yield": "54%",
+        "drying_method": "vacuum-dried overnight"
+      }
+    },
+    {
+      "material": "2",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "acetone",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "KOH",
+            "amount": "0.25 g, 4.50 mmol"
+          },
+          {
+            "name": "BrCH2C⋮CH",
+            "amount": "0.50 g, 4.22 mmol"
+          },
+          {
+            "name": "4-BrC6H4CH(4-C6H4OH)2",
+            "amount": "0.50 g, 1.41 mmol"
+          }
+        ],
+        "temperature": "refluxed",
+        "time": "16 h",
+        "yield": "75%"
+      }
+    },
+    {
+      "material": "3",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "50 mL"
+          },
+          {
+            "name": "THF",
+            "amount": "100 mL"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "[AuCl(SMe2)]",
+            "amount": "0.60 g, 2.03 mmol"
+          },
+          {
+            "name": "4-BrC6H4CH(4-C6H4OCH2C⋮CH)2",
+            "amount": "0.44 g, 1.01 mmol"
+          },
+          {
+            "name": "NaOAc",
+            "amount": "0.25 g, 3.05 mmol"
+          }
+        ],
+        "time": "7 h",
+        "yield": "69%",
+        "caution": "The product is shock sensitive."
+      }
+    },
+    {
+      "material": "4a",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "CH2Cl2",
+            "amount": "50 mL"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "4-BrC6H4CH(4-C6H4OCH2C⋮CAu)2",
+            "amount": "0.15 g, 0.18 mmol"
+          },
+          {
+            "name": "Ph2PC⋮CPPh2",
+            "amount": "0.06 g, 0.16 mmol"
+          }
+        ],
+        "temperature": "room temperature",
+        "time": "2 h",
+        "yield": "62%"
+      }
+    },
+    {
+      "material": "5a",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "CH2Cl2",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "4-BrC6H4CH(4-C6H4OCH2C⋮CAu)2",
+            "amount": "not specified"
+          },
+          {
+            "name": "Ph2P(CH2)3PPh2",
+            "amount": "not specified"
+          }
+        ],
+        "yield": "64%",
+        "notes": "The initial product is a mixture of isomers but recrystallization gave the pure [2]catenane."
+      }
+    },
+    {
+      "material": "5b",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "CH2Cl2",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "4-BrC6H4CH(4-C6H4OCH2C⋮CAu)2",
+            "amount": "not specified"
+          },
+          {
+            "name": "Ph2P(CH2)4PPh2",
+            "amount": "not specified"
+          }
+        ],
+        "yield": "72%"
+      }
+    },
+    {
+      "material": "5c",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "CH2Cl2",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "4-BrC6H4CH(4-C6H4OCH2C⋮CAu)2",
+            "amount": "not specified"
+          },
+          {
+            "name": "Ph2P(CH2)5PPh2",
+            "amount": "not specified"
+          }
+        ],
+        "yield": "77%"
+      }
+    }
+  ]
+}

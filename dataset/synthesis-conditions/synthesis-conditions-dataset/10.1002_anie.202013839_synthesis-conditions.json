@@ -1,0 +1,79 @@
+{
+  "materials": [
+    {
+      "name": "OH-RhMOP(HINA)12",
+      "synthesis_conditions": {
+        "temperature": "Not specified",
+        "solvents": ["DMF", "methanol"],
+        "amount_of_solvents": "Not specified",
+        "equipment": "Not specified",
+        "chemicals_used": ["isonicotinic acid (HINA)", "OH-RhMOP"],
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "12 mol. eq. of HINA added to a DMF/methanol solution of OH-RhMOP."
+      }
+    },
+    {
+      "name": "COOH-RhMOP",
+      "synthesis_conditions": {
+        "temperature": "Not specified",
+        "solvents": ["DMF"],
+        "amount_of_solvents": "Not specified",
+        "equipment": "Not specified",
+        "chemicals_used": ["protective synthetic strategy"],
+        "time": "Not specified",
+        "washing_method": "slow diffusion of diethyl ether vapors",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "Crystals suitable for SCXRD obtained by slow diffusion of diethyl ether vapors into a DMF solution."
+      }
+    },
+    {
+      "name": "RhCu-rht-MOF",
+      "synthesis_conditions": {
+        "temperature": "85 8C",
+        "solvents": ["DMF", "ethanol"],
+        "amount_of_solvents": "3:1 ratio",
+        "equipment": "Not specified",
+        "chemicals_used": ["copper(II) nitrate", "COOH-RhMOP"],
+        "time": "24 h",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "Solvothermal reaction of COOH-RhMOP with copper(II) nitrate in DMF/ethanol."
+      }
+    },
+    {
+      "name": "RhCu-ftw-MOF-1",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": ["DMF", "methanol"],
+        "amount_of_solvents": "Not specified",
+        "equipment": "H-shaped tube",
+        "chemicals_used": ["OH-RhMOP(HINA)12", "Cu(NO3)2"],
+        "time": "3 weeks",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "DMF/methanol solutions of stoichiometric amounts of OH-RhMOP(HINA)12 and Cu(NO3)2 slowly diffused in an H-shaped tube."
+      }
+    },
+    {
+      "name": "RhCu-ftw-MOF-2",
+      "synthesis_conditions": {
+        "temperature": "Not specified",
+        "solvents": "Not specified",
+        "amount_of_solvents": "Not specified",
+        "equipment": "Not specified",
+        "chemicals_used": "Not specified",
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "Synthesized by substituting the outer OH groups of the OH-RhMOP(HINA)12 with H atoms."
+      }
+    }
+  ]
+}

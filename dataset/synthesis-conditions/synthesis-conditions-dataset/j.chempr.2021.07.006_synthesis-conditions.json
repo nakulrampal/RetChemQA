@@ -1,0 +1,155 @@
+{
+  "materials": [
+    {
+      "name": "CTH-14",
+      "synthesis_conditions": {
+        "temperature": "120°C",
+        "solvents": [
+          {
+            "name": "DMF/H2O/glacial acetic acid",
+            "ratio": "1:1:1 (v/v/v)"
+          }
+        ],
+        "time": "24 h",
+        "yield": null,
+        "chemicals_used": [
+          {
+            "name": "Yttrium nitrate hexahydrate",
+            "amount": "60.278 mg",
+            "molarity": "0.157 mmol"
+          },
+          {
+            "name": "1,2,4,5-benzenetetracarboxylic acid (H4btec)",
+            "amount": "20 mg",
+            "molarity": "0.079 mmol"
+          },
+          {
+            "name": "4,4′-azopyridine (4,4′-azpy)",
+            "amount": "14.495 mg",
+            "molarity": "0.079 mmol"
+          }
+        ],
+        "equipment": "pyrex tube for solvothermal synthesis",
+        "additional_information": "CTH-14 could also be obtained in a similar reaction without the 4,4′-azopyridine."
+      },
+      "characterization_methods": [
+        {
+          "method": "Thermogravimetric analysis (TGA)",
+          "details": "Performed on a Mettler Toledo TGA/DSC3+ in an air atmosphere with a heating rate of 10 °C/min between 30 °C and 800 °C."
+        },
+        {
+          "method": "Elemental analysis (EA)",
+          "details": "Performed by Mikroanalytisches Labor Kolbe c/o Fraunhofer Institut UMSICHT Gebäude G – Osterfelder Str. 3 D-46047 Oberhausen, Germany and by Chalmers Materials Analysis Laboratory."
+        },
+        {
+          "method": "Powder X-ray diffraction (PXRD)",
+          "details": "Acquired using the SAXSLAB Mat:Nordic instrument equipped with a micro-focus Cu X-ray (λ = 1.54 Å) or a Bruker D8 Twin diffractometer (Billerica, Massachusetts, USA) with Cu-Kα radiation λ = 1.54."
+        }
+      ],
+      "properties": [
+        {
+          "property": "BET surface area",
+          "value": "7.48 m2/g"
+        },
+        {
+          "property": "CO2 uptake",
+          "value": "2.60 cm3/g at 20 °C, 1 bar"
+        }
+      ]
+    },
+    {
+      "name": "CTH-15",
+      "synthesis_conditions": {
+        "temperature": "120°C",
+        "solvents": [
+          {
+            "name": "DMF/H2O/glacial acetic acid",
+            "ratio": "1:1:1 (v/v/v)"
+          }
+        ],
+        "time": "3 days",
+        "yield": null,
+        "chemicals_used": [
+          {
+            "name": "Cerium nitrate hexahydrate",
+            "amount": "68.337 mg",
+            "molarity": "0.157 mmol"
+          }
+        ],
+        "equipment": "pyrex tube for solvothermal synthesis",
+        "additional_information": "CTH-15 could also be obtained in a similar reaction without the 4,4′-azopyridine."
+      },
+      "characterization_methods": [
+        {
+          "method": "Thermogravimetric analysis (TGA)",
+          "details": "Performed on a Mettler Toledo TGA/DSC3+ in an air atmosphere with a heating rate of 10 °C/min between 30 °C and 800 °C."
+        },
+        {
+          "method": "Elemental analysis (EA)",
+          "details": "Performed by Mikroanalytisches Labor Kolbe c/o Fraunhofer Institut UMSICHT Gebäude G – Osterfelder Str. 3 D-46047 Oberhausen, Germany and by Chalmers Materials Analysis Laboratory."
+        },
+        {
+          "method": "Powder X-ray diffraction (PXRD)",
+          "details": "Acquired using the SAXSLAB Mat:Nordic instrument equipped with a micro-focus Cu X-ray (λ = 1.54 Å) or a Bruker D8 Twin diffractometer (Billerica, Massachusetts, USA) with Cu-Kα radiation λ = 1.54."
+        }
+      ],
+      "properties": [
+        {
+          "property": "BET surface area",
+          "value": "11.15 m2/g"
+        },
+        {
+          "property": "CO2 uptake",
+          "value": "3.32 cm3/g at 20 °C, 1 bar"
+        }
+      ]
+    },
+    {
+      "name": "CTH-16",
+      "synthesis_conditions": {
+        "temperature": "120°C",
+        "solvents": [
+          {
+            "name": "DMF/H2O/glacial acetic acid",
+            "ratio": "1:1:1 (v/v/v)"
+          }
+        ],
+        "time": "2 days",
+        "yield": null,
+        "chemicals_used": [
+          {
+            "name": "Gadolinium nitrate hexahydrate",
+            "amount": "71.035 mg",
+            "molarity": "0.079 mmol"
+          }
+        ],
+        "equipment": "pyrex tube for solvothermal synthesis",
+        "additional_information": null
+      },
+      "characterization_methods": [
+        {
+          "method": "Thermogravimetric analysis (TGA)",
+          "details": "Performed on a Mettler Toledo TGA/DSC3+ in an air atmosphere with a heating rate of 10 °C/min between 30 °C and 800 °C."
+        },
+        {
+          "method": "Elemental analysis (EA)",
+          "details": "Performed by Mikroanalytisches Labor Kolbe c/o Fraunhofer Institut UMSICHT Gebäude G – Osterfelder Str. 3 D-46047 Oberhausen, Germany and by Chalmers Materials Analysis Laboratory."
+        },
+        {
+          "method": "Powder X-ray diffraction (PXRD)",
+          "details": "Acquired using the SAXSLAB Mat:Nordic instrument equipped with a micro-focus Cu X-ray (λ = 1.54 Å) or a Bruker D8 Twin diffractometer (Billerica, Massachusetts, USA) with Cu-Kα radiation λ = 1.54."
+        }
+      ],
+      "properties": [
+        {
+          "property": "BET surface area",
+          "value": "6.01 m2/g"
+        },
+        {
+          "property": "CO2 uptake",
+          "value": "3.37 cm3/g at 20 °C, 1 bar"
+        }
+      ]
+    }
+  ]
+}

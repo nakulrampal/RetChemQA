@@ -1,0 +1,199 @@
+{
+  "materials": [
+    {
+      "name": "2-Nitro[1,4-bis(1H-pyrazol-4-yl)benzene] (H2BDP_NO2)",
+      "conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "sulfuric acid",
+            "amount": "10 mL"
+          },
+          {
+            "name": "70% nitric acid",
+            "amount": "0.255 mL, 5.71 mmol"
+          }
+        ],
+        "equipment": "ice bath",
+        "chemicals_used": [
+          {
+            "name": "1,4-bis(1H-pyrazol-4-yl)benzene",
+            "amount": "1.000 g, 4.76 mmol"
+          }
+        ],
+        "time": "1 h",
+        "washing_method": "water (2 × 5 mL)",
+        "drying_method": "filtration",
+        "yield": "85%"
+      }
+    },
+    {
+      "name": "2-Amino[1,4-bis(1H-pyrazol-4-yl)benzene] (H2BDP_NH2)",
+      "conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "5 mL"
+          }
+        ],
+        "equipment": "Celite pad",
+        "chemicals_used": [
+          {
+            "name": "H2BDP_NO2",
+            "amount": "0.300 g, 1.176 mmol"
+          },
+          {
+            "name": "ammonium formate",
+            "amount": "0.370 mg, 5.873 mmol"
+          },
+          {
+            "name": "Pd/C (5%)",
+            "amount": "30 mg"
+          }
+        ],
+        "time": "2 h",
+        "washing_method": "water (2 × 5 mL)",
+        "drying_method": "filtration",
+        "yield": "94%"
+      }
+    },
+    {
+      "name": "2-Hydroxo[1,4-bis(1H-pyrazol-4-yl)benzene] (H2BDP_OH)",
+      "conditions": {
+        "temperature": "110 °C",
+        "solvents": [
+          {
+            "name": "sulfuric acid",
+            "amount": "5 mL"
+          },
+          {
+            "name": "water",
+            "amount": "4 mL"
+          }
+        ],
+        "equipment": "ice bath",
+        "chemicals_used": [
+          {
+            "name": "H2BDP_NH2",
+            "amount": "1 g, 4.444 mmol"
+          },
+          {
+            "name": "NaNO2",
+            "amount": "0.440 g, 5.176 mmol"
+          }
+        ],
+        "time": "30 min",
+        "washing_method": "water (2 × 5 mL)",
+        "drying_method": "vacuum",
+        "yield": "76%"
+      }
+    },
+    {
+      "name": "2,5-Di(1H-pyrazol-4-yl)benzenesulfonic Acid (H2BDP_SO3H)",
+      "conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "fuming sulfuric acid",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "1,4-bis(1H-pyrazol-4-yl)benzene",
+            "amount": "1 g, 4.76 mmol"
+          }
+        ],
+        "time": "1 h",
+        "washing_method": "water (2 × 10 mL)",
+        "drying_method": "vacuum",
+        "yield": "69%"
+      }
+    },
+    {
+      "name": "NiBDP_X (X = H, NO2, NH2, OH)",
+      "conditions": {
+        "temperature": "reflux",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "10 mL"
+          }
+        ],
+        "equipment": "50 mL Schlenk flask",
+        "chemicals_used": [
+          {
+            "name": "H2BDP_X",
+            "amount": "0.5 mmol"
+          },
+          {
+            "name": "Ni(CH3COO)2·4H2O",
+            "amount": "0.5 mmol"
+          }
+        ],
+        "time": "5 h",
+        "washing_method": "methanol (3 × 10 mL)",
+        "drying_method": "vacuum",
+        "yield": "50–70%"
+      }
+    },
+    {
+      "name": "ZnBDP_X (X = H, NO2, NH2, OH)",
+      "conditions": {
+        "temperature": "reflux",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "10 mL"
+          }
+        ],
+        "equipment": "50 mL Schlenk flask",
+        "chemicals_used": [
+          {
+            "name": "H2BDP_X",
+            "amount": "0.5 mmol"
+          },
+          {
+            "name": "Zn(CH3COO)2·2H2O",
+            "amount": "0.5 mmol"
+          }
+        ],
+        "time": "5 h",
+        "washing_method": "methanol (3 × 10 mL)",
+        "drying_method": "vacuum",
+        "yield": "50–70%"
+      }
+    },
+    {
+      "name": "Ni(C12H9N4SO3)2(C3H7NO)2 (NiBDP_SO3H)",
+      "conditions": {
+        "temperature": "160 °C",
+        "solvents": [
+          {
+            "name": "DMSO",
+            "amount": "3 mL"
+          },
+          {
+            "name": "DMF",
+            "amount": "3 mL"
+          }
+        ],
+        "equipment": "50 mL Schlenk flask",
+        "chemicals_used": [
+          {
+            "name": "H2BDP_SO3H",
+            "amount": "0.050 g, 0.172 mmol"
+          },
+          {
+            "name": "Ni(CH3COO)2·4H2O",
+            "amount": "0.085 g, 0.5 mmol"
+          }
+        ],
+        "time": "5 h",
+        "washing_method": "DMF (3 × 10 mL)",
+        "drying_method": "vacuum"
+      }
+    }
+  ]
+}

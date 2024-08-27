@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the role of rigid SBUs in the design of MOFs according to Yaghi et al.?",
+      "answer": "Rigid SBUs have specific geometries and can maintain their structural integrity throughout the construction process, allowing for the design of target frameworks starting from SBUs. They can make robust frameworks and also impart their physical properties to the frameworks.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the synthesis of POMOFs differ from traditional MOFs based on metal carboxylate SBUs?",
+      "answer": "POMOFs synthesis involves using POM clusters as SBUs, which are attractive due to their nanometer size and tunable properties. Traditional MOFs often use metal carboxylate SBUs. POM-based MOFs are less explored due to POM clusters' preference for bonding with metal cations over carboxylate anions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What unique feature does the {Ni6PW9(H2O)6} SBU offer for the design of POMOFs?",
+      "answer": "The {Ni6PW9(H2O)6} SBU contains six terminal water ligands that offer the possibility for the design of POMOFs by replacing the water with rigid carboxylates, making it an excellent candidate for constructing novel POMOFs.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What determines the dimensional structure (1D, 2D, or 3D) of the synthesized POMOFs?",
+      "answer": "The dimensional structure of the synthesized POMOFs is determined by the type of rigid carboxylate ligands used and how they interact with the {Ni6PW9} SBUs, leading to 1D, 2D, or 3D frameworks comprising monomeric, dimeric, and infinite SBUs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why are POM-based solids with chiral structures particularly interesting?",
+      "answer": "POM-based solids with chiral structures are particularly interesting because the vast majority of chiral coordination polymers are based on mononuclear metal centers, making POM-based chiral structures a novel area of study.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the use of different dicarboxylate ligands affect the structure of POMOFs?",
+      "answer": "The use of different dicarboxylate ligands affects the structure of POMOFs by determining the connectivity between the SBUs and the overall dimensional framework, leading to the formation of 1D, 2D, or 3D structures with specific features such as straight or zigzag chains and layered or helical arrangements.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the unexpected result of attempting to prepare high-dimensional POMOFs using 1,2,4,5-benzenetetracarboxylate (pma)?",
+      "answer": "The unexpected result was that pma underwent in situ decarboxylation reactions under hydrothermal conditions, leading to a mixture of 1 and 3 instead of high-dimensional POMOFs.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the {Ni6PW9(H2O)6} SBU stable in the absence of carboxylate ligands?",
+      "answer": "True. The POM-based SBUs can be isolated and are stable in the absence of the carboxylate ligands.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesis of POMOFs involve the use of metal carboxylate SBUs?",
+      "answer": "False. The synthesis of POMOFs involves using POM clusters as SBUs, not metal carboxylate SBUs.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are all synthesized POMOFs chiral in nature?",
+      "answer": "False. Not all synthesized POMOFs are chiral; structures 1 and 2 exhibit the first two chiral 1D POMOFs, but not all structures mentioned are chiral.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the {Ni6PW9(H2O)6} SBU link with rigid carboxylate ligands along only one direction?",
+      "answer": "False. The {Ni6PW9(H2O)6} SBU offers the opportunity to link with rigid carboxylate ligands along three directions.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the hydrothermal decarboxylation of pma a common reaction under the synthesis conditions of POMOFs?",
+      "answer": "False. The hydrothermal decarboxylation of pma under the synthesis conditions of POMOFs was unexpected and, to the authors' knowledge, not documented so far.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Do the {Ni6PW9(H2O)n} units in structures 1–4 all contain organic amine?",
+      "answer": "False. In structure 5, no organic amine is found in the {Ni6PW9(H2O)5} unit because all the Ni coordination sites are occupied by H2O ligands and O atoms from carboxylates and adjacent {PW9} clusters.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the addition of different rigid carboxylate ligands to {Ni6PW9(H2O)6} solutions always result in the formation of 3D POMOFs?",
+      "answer": "False. The addition of different rigid carboxylate ligands to {Ni6PW9(H2O)6} solutions results in the formation of a series of novel POMOFs with 1D, 2D, and 3D frameworks, not always 3D.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the synthesized POMOFs exclusively based on monomeric SBUs?",
+      "answer": "False. The synthesized POMOFs comprise monomeric, dimeric, and infinite SBUs derived from the {Ni6PW9(H2O)n} units.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the {Ni6PW9(H2O)6} SBU's ability to share terminal oxo atoms with metal cations?",
+      "answer": "The ability of the {Ni6PW9(H2O)6} SBU to share terminal oxo atoms with metal cations allows for the variation in the sizes of SBUs from discrete units to aggregates and polymers through W=O(cid:1)Ni linkages, providing the potential for making tailor-made POMOFs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the structure of the dimeric SBU in structure 3 contribute to its 2D framework?",
+      "answer": "The structure of the dimeric SBU in structure 3 consists of two units linked together through a Ni(cid:1)O=W linkage, which, along with 1,4-bdc ligands, forms infinite chains along the c axis and adjacent chains along the [11¯ 1] direction, creating a 2D layer with giant parallelogram-shaped rings.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role do the 1,2,4-btc ligands play in the structure of compound 5?",
+      "answer": "In compound 5, the 1,2,4-btc ligands link {Ni6PW9(H2O)5} units together along both the a and b axes, contributing to a 3D framework with 1D square channels along the a and b axes and 1D homochiral square channels along the c axis.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the arrangement of {Ni6PW9(H2O)2} SBUs in structure 1 differ from that in structure 2?",
+      "answer": "In structure 1, the {Ni6PW9(H2O)2} SBUs are arranged in a shoulder-to-shoulder mode and interlinked by 1,3-bdc ligands to generate straight chains along the a axis. In contrast, in structure 2, the {Ni6PW9(H2O)} SBUs are arranged in a face-to-face mode and interlinked by tda ligands to form zigzag chains along the c axis.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the impact of the synthesis conditions on the formation of POMOFs?",
+      "answer": "The synthesis conditions, particularly the use of hydrothermal conditions and the choice of rigid carboxylate ligands, play a crucial role in the formation of POMOFs by affecting the stability and connectivity of the SBUs, leading to the successful synthesis of novel POMOFs with varying dimensional frameworks.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

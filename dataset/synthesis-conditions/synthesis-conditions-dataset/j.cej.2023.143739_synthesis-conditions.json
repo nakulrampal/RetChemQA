@@ -1,0 +1,120 @@
+{
+  "materials": [
+    {
+      "name": "MWM-1(Co)",
+      "synthesis_conditions": {
+        "temperature": "120°C",
+        "time": "96 hours",
+        "solvents": [
+          {
+            "name": "anhydrous ethanol",
+            "amount": "10 mL"
+          },
+          {
+            "name": "deionised water",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Sodium hydroxide",
+            "amount": "3 mmol, 0.12 g"
+          },
+          {
+            "name": "H2mba",
+            "amount": "3 mmol, 0.46 g"
+          },
+          {
+            "name": "CoCl2·6H2O",
+            "amount": "1.5 mmol, 0.36 g"
+          }
+        ],
+        "washing_method": "dilute hydrochloric acid, deionised water, and anhydrous ethanol",
+        "drying_method": "electric blast oven at 90°C",
+        "yield": "approximately 0.38 g, 46.40 wt%"
+      }
+    },
+    {
+      "name": "MWM-1(Co/2Ni)",
+      "synthesis_conditions": {
+        "temperature": "120°C",
+        "time": "96 hours",
+        "solvents": [
+          {
+            "name": "anhydrous ethanol",
+            "amount": "10 mL"
+          },
+          {
+            "name": "deionised water",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Sodium hydroxide",
+            "amount": "3 mmol, 0.12 g"
+          },
+          {
+            "name": "H2mba",
+            "amount": "3 mmol, 0.46 g"
+          },
+          {
+            "name": "CoCl2·6H2O",
+            "amount": "0.75 mmol, 0.18 g"
+          },
+          {
+            "name": "NiCl2·6H2O",
+            "amount": "1.50 mmol, 0.36 g"
+          }
+        ],
+        "washing_method": "hydrochloric acid, deionised water, and anhydrous ethanol",
+        "drying_method": "electric blast oven at 100°C",
+        "yield": "approximately 0.45 g, 45.10 wt%"
+      }
+    },
+    {
+      "name": "MWM-1(Co/xNi)",
+      "synthesis_conditions": {
+        "note": "MWM-1(Co/xNi) were obtained by the same method as MWM-1(Co/2Ni), the difference was the molar ratio of CoCl2·6H2O and NiCl2·6H2O."
+      }
+    },
+    {
+      "name": "Nitrogen-doped porous carbon (NDC)",
+      "synthesis_conditions": {
+        "temperature": "700°C",
+        "time": "2 hours",
+        "solvents": [
+          {
+            "name": "dimethylformamide (DMF)",
+            "amount": "10 mL"
+          },
+          {
+            "name": "deionised water",
+            "amount": "10 mL"
+          },
+          {
+            "name": "anhydrous ethanol",
+            "amount": "20 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "bptp",
+            "amount": "0.5 mmol, 0.19 g"
+          },
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "0.25 mmol"
+          },
+          {
+            "name": "KOH",
+            "amount": "25 mmol"
+          }
+        ],
+        "washing_method": "2 M hydrochloric acid, deionised water, and anhydrous ethanol",
+        "drying_method": "electric blast oven at 80°C",
+        "yield": "black NDC product with residual trace zinc"
+      }
+    }
+  ]
+}

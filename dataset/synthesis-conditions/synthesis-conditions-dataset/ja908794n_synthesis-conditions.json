@@ -1,0 +1,87 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": [
+        {
+          "step": "Crystallization",
+          "solvents": "4:1 nitrobenzene/methanol solvent mixture",
+          "chemicals_used": "ZnI2, TPT ligand",
+          "notes": "Crystallized upon coordination of the TPT ligand with ZnI2."
+        },
+        {
+          "step": "Solvent exchange",
+          "solvents": "cyclohexane",
+          "method": "immersion",
+          "time": "1 week",
+          "atmosphere": "Ar",
+          "light_conditions": "dark",
+          "notes": "Excess nitrobenzene initially in the pores was exchanged with cyclohexane."
+        },
+        {
+          "step": "Retinal diffusion",
+          "solvents": "cyclohexane",
+          "solvent_amount": "5 mL",
+          "chemicals_used": "all-trans retinal",
+          "chemical_amount": "116 mg (0.41 mmol)",
+          "time": "1 week",
+          "atmosphere": "Ar",
+          "light_conditions": "dark",
+          "temperature": "room temperature",
+          "notes": "Crystals were immersed in a cyclohexane solution of all-trans retinal under specified conditions."
+        }
+      ]
+    },
+    {
+      "name": "1 after treating with retinal/cyclohexane solution",
+      "synthesis_conditions": [
+        {
+          "step": "Crystallographic analysis",
+          "equipment": "RIGAKU/MSC Mercury CCD X-ray diffractometer",
+          "radiation": "synchrotron radiation (λ = 0.6889 Å)",
+          "location": "PF-AR (NW2 beamline) of the High Energy Accelerator Research Organization (KEK)",
+          "temperature": "80 K",
+          "data_analysis": "SHELXS 97, SHELXL-97, SHELX-TL program package"
+        }
+      ]
+    },
+    {
+      "name": "1 in t-BuOH solution",
+      "synthesis_conditions": [
+        {
+          "step": "Isomerization experiment",
+          "solvents": "t-BuOH",
+          "notes": "Similar to the experiment carried out in cyclohexane, but in t-BuOH, the exchange between in-retinal and out-retinal was very slow."
+        }
+      ]
+    },
+    {
+      "name": "retinal-included 1",
+      "synthesis_conditions": [
+        {
+          "step": "ESR analysis",
+          "temperature": ["293 K", "113 K"],
+          "notes": "After retinal inclusion, the inclusion complex showed ESR signals, indicating the presence of radical species."
+        }
+      ]
+    },
+    {
+      "name": "{[(ZnI2)3(C18H12N6)2]•(cyclohexane)1.0(retinal)1.1}n",
+      "synthesis_conditions": [
+        {
+          "step": "Time-dependent 1H NMR analysis",
+          "solvents": "cyclohexane",
+          "solvent_amount": "5 mL",
+          "chemicals_used": "all-trans retinal",
+          "chemical_amount": "122.6 mg (0.43 mmol)",
+          "time": ["1", "2", "3", "4", "5", "6", "7", "14 days"],
+          "atmosphere": "Ar",
+          "light_conditions": "dark",
+          "temperature": "room temperature",
+          "extraction_solvent": "CHCl3",
+          "notes": "Crystals were grinded and immersed into a cyclohexane solution of all-trans retinal under specified conditions. The all-trans/13-cis ratio of out-retinal and in-retinal was measured by NMR."
+        }
+      ]
+    }
+  ]
+}

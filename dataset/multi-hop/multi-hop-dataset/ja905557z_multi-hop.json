@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula and formula weight of compound 1?",
+      "answer": "C92H128N56O60Zn12, 3761.6",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the crystal system and space group for compound 2?",
+      "answer": "Cubic, Fm-3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What temperature and wavelength were used for the X-ray diffraction studies of compound 3?",
+      "answer": "100(2) K, 0.71073 Å",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "For compound 4, what is the volume and calculated density?",
+      "answer": "13342.2(19) Å3, 1.687 Mg/m3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the theta range for data collection and the index ranges for compound 5?",
+      "answer": "1.66 to 23.21°., -17<=h<=27, -25<=k<=27, -27<=l<=27",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the synthesis of compound 1 differ from compound 2 in terms of reactants?",
+      "answer": "Compound 1 uses guanidinium nitrate, while compound 2 uses potassium chloride.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of temperature in the synthesis of compounds 1, 2, and 3?",
+      "answer": "The temperature controls the reaction conditions, facilitating the formation of the compounds by heating the reaction mixture to a specific degree.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the crystal system for all compounds cubic?",
+      "answer": "False, compound 3 has a trigonal crystal system.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Do all compounds use DMF as a solvent in their synthesis?",
+      "answer": "False, compound 6 uses DMF and acetonitrile.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the absorption coefficient for compound 7 higher than that for compound 8?",
+      "answer": "True, compound 7 has an absorption coefficient of 1.245 mm-1, while compound 8 has 1.106 mm-1.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesis of compound 3 involve sodium hydroxide?",
+      "answer": "True, sodium hydroxide is used in the synthesis of compound 3.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the crystal data and structure refinement details for compound 4 identical to those for compound 5?",
+      "answer": "False, they have different empirical formulas, formula weights, and crystal data.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the theta range in the crystal data collection for compounds?",
+      "answer": "The theta range indicates the angular range over which X-ray diffraction data were collected, affecting the resolution and completeness of the crystallographic data.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of different cations (e.g., guanidinium, potassium, sodium) influence the structure of the synthesized compounds?",
+      "answer": "Different cations can influence the coordination geometry, connectivity, and overall topology of the metal-organic frameworks, leading to variations in the structure and properties of the synthesized compounds.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the use of DMF/H2O mixture common in the synthesis of all ZMOFs described?",
+      "answer": "True, a DMF/H2O mixture is commonly used as a solvent system in the synthesis of the ZMOFs described.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of temperature in the degradation of the frameworks as observed in the TGA analysis?",
+      "answer": "Temperature influences the thermal stability of the frameworks, with higher temperatures leading to the degradation of the frameworks as indicated by weight loss in the TGA analysis.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the crystal data for compound 6 be used to predict its thermal stability?",
+      "answer": "False, crystal data provides structural information but does not directly predict thermal stability, which is better assessed through TGA analysis.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesis of compound 8 involve guanidinium nitrate?",
+      "answer": "False, the synthesis of compound 8 does not involve guanidinium nitrate.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the relationship between the crystal size and the quality of X-ray diffraction data?",
+      "answer": "Larger crystal sizes generally provide better quality X-ray diffraction data due to reduced effects of crystal imperfections and increased interaction volume for X-rays.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are all synthesized compounds insoluble in water and common organic solvents?",
+      "answer": "True, all synthesized compounds are reported to be insoluble in water and common organic solvents.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

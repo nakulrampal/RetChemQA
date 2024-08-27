@@ -1,0 +1,108 @@
+{
+  "materials": [
+    {
+      "material": "1,4-bis(1H-pyrazol-4-yl) benzothiadiazole (H2PBT)",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "1,2-dimethoxyethane (DME)",
+            "amount": "80 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "4,7-dibromobenzo[c][1,2,5]thiadiazole",
+            "amount": "1.000 g",
+            "mmol": "3.402 mmol"
+          },
+          {
+            "name": "boronic ester",
+            "amount": "2.100 g",
+            "mmol": "7.550 mmol"
+          },
+          {
+            "name": "K2CO3",
+            "amount": "4.370 g",
+            "mmol": "31.619 mmol"
+          },
+          {
+            "name": "Pd(PPh3)4",
+            "amount": "110.4 mg",
+            "mmol": "0.078 mmol"
+          }
+        ],
+        "time": "12 h",
+        "yield": "88%",
+        "additional_steps": [
+          {
+            "step_description": "Deprotection",
+            "temperature": "80 °C",
+            "solvents": [
+              {
+                "name": "EtOH",
+                "amount": "50 mL"
+              }
+            ],
+            "chemicals_used": [
+              {
+                "name": "HCl (aq., 1.0 M)",
+                "amount": "25 mL"
+              }
+            ],
+            "time": "10 h"
+          }
+        ]
+      }
+    },
+    {
+      "material": "JNU-204",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "3.0 mL"
+          },
+          {
+            "name": "H2O/HNO3",
+            "amount": "180 μL",
+            "ratio": "50/12 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "6.0 mg",
+            "mmol": "0.02 mmol"
+          },
+          {
+            "name": "H2PBT",
+            "amount": "5.7 mg",
+            "mmol": "0.02 mmol"
+          }
+        ],
+        "time": "72 h",
+        "yield": "53%",
+        "additional_steps": [
+          {
+            "step_description": "Solvent exchange and activation",
+            "solvents": [
+              {
+                "name": "DMF",
+                "amount": "for solvent exchange"
+              },
+              {
+                "name": "EtOH",
+                "amount": "for solvent exchange"
+              }
+            ],
+            "temperature": "100 °C",
+            "under_vacuum": true,
+            "time": "12 h"
+          }
+        ]
+      }
+    }
+  ]
+}

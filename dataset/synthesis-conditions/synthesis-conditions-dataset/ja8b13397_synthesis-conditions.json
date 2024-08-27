@@ -1,0 +1,117 @@
+{
+  "materials": [
+    {
+      "name": "p-carboxyphenylarsonic acid (CPAH3)",
+      "synthesis_conditions": {
+        "temperature": "0 ºC to room temperature",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "150 mL"
+          },
+          {
+            "name": "concentrated HCl",
+            "amount": "7.5 mL"
+          },
+          {
+            "name": "NaNO2 solution",
+            "amount": "20 mL"
+          },
+          {
+            "name": "NaOH",
+            "amount": "5.25 g"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "4-aminobenzoic acid",
+            "amount": "4 g"
+          },
+          {
+            "name": "NaNO2",
+            "amount": "2.21 g"
+          },
+          {
+            "name": "As2O3",
+            "amount": "4.33 g"
+          }
+        ],
+        "time": "Not specified",
+        "washing_method": "washed thoroughly with acetone and subsequently with a cold mixture of water and ethanol",
+        "drying_method": "air dried",
+        "yield": "Not specified",
+        "additional_information": "The pH of the solution was adjusted to 3 with concentrated HCl and filtered to remove the orange-red precipitate. The filtrate was further acidified to pH 1 with concentrated HCl and filtered again."
+      }
+    },
+    {
+      "name": "[Pd13Ba8O8(CPA)8](NO3)2·3NaCH3COO·2NaNO3·70H2O (JUB-1)",
+      "synthesis_conditions": {
+        "temperature": "50 ºC",
+        "solvents": [
+          {
+            "name": "0.5 M NaOAc solution",
+            "amount": "2 mL"
+          },
+          {
+            "name": "0.5 M aq. Ba(NO3)2",
+            "amount": "150 μL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Pd(OAc)2",
+            "amount": "0.100 mmol"
+          },
+          {
+            "name": "CPAH3",
+            "amount": "0.100 mmol"
+          }
+        ],
+        "time": "90 mins",
+        "washing_method": "washed with cold water and acetonitrile",
+        "drying_method": "air dried",
+        "yield": "~55% (based on Pd)",
+        "additional_information": "The pH was adjusted to ~8 - 8.2 before heating again."
+      }
+    },
+    {
+      "name": "Suzuki-Miyaura coupling reaction",
+      "synthesis_conditions": {
+        "temperature": "100 ºC",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "3 mL"
+          },
+          {
+            "name": "MeOH",
+            "amount": "1 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "aryl halide",
+            "amount": "0.5 mmol"
+          },
+          {
+            "name": "phenylboronic acid",
+            "amount": "0.75 mmol"
+          },
+          {
+            "name": "anhydrous K2CO3",
+            "amount": "1.5 mmol"
+          },
+          {
+            "name": "dehydrated JUB-1",
+            "amount": "2 mol% Pd basis"
+          }
+        ],
+        "time": "1.5 hours",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "The vessel was purged with N2 for a few mins before heating."
+      }
+    }
+  ]
+}

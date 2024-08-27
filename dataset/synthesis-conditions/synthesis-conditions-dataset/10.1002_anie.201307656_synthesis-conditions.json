@@ -1,0 +1,65 @@
+{
+  "materials": [
+    {
+      "name": "[Ce(HTCPB)·(EtOH)0.28(H2O)2.75] (1)",
+      "synthesis_conditions": {
+        "method": "solvothermal reaction",
+        "chemicals": [
+          "Ce(NO3)3",
+          "H4TCPB",
+          "EtOH",
+          "H2O"
+        ],
+        "solvents": [
+          {
+            "name": "EtOH",
+            "amount": "not specified"
+          },
+          {
+            "name": "H2O",
+            "amount": "not specified"
+          }
+        ],
+        "temperature": "not specified",
+        "time": "not specified",
+        "equipment": "not specified",
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "[Ce(HTCPB)] (3)",
+      "synthesis_conditions": {
+        "method": "desolvation of 1",
+        "chemicals": [
+          "derived from [Ce(HTCPB)·(EtOH)0.28(H2O)2.75] (1)"
+        ],
+        "solvents": "not applicable",
+        "temperature": "not specified",
+        "time": "not specified",
+        "equipment": "not specified",
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "[Ce(HTCPB)·(xylene)] phases, denoted 3 P and 3 M",
+      "synthesis_conditions": {
+        "method": "loading pX and mX into 3",
+        "chemicals": [
+          "pX (para-xylene)",
+          "mX (meta-xylene)"
+        ],
+        "solvents": "not specified",
+        "temperature": "not specified",
+        "time": "not specified",
+        "equipment": "not specified",
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified"
+      }
+    }
+  ]
+}

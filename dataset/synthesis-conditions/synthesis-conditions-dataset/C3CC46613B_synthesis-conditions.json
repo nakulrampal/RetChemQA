@@ -1,0 +1,90 @@
+{
+  "materials": [
+    {
+      "name": "H4BTMIPA",
+      "synthesis_conditions": {
+        "steps": [
+          {
+            "step": 1,
+            "reagents": [
+              "91% paraformaldehyde",
+              "88% formic acid",
+              "mesitylene"
+            ],
+            "temperature": "80 ℃",
+            "time": "6 hours",
+            "solvent": "benzene",
+            "yield": "60%"
+          },
+          {
+            "step": 2,
+            "reagents": [
+              "paraformaldehyde",
+              "45 wt% HBr/acetic acid solution"
+            ],
+            "temperature": "95 ℃",
+            "time": "12 hours",
+            "yield": "92%"
+          },
+          {
+            "step": 3,
+            "reagents": [
+              "anhydrous sodium acetate",
+              "glacial acetic acid"
+            ],
+            "temperature": "130-140 ℃",
+            "time": "overnight",
+            "yield": "87%"
+          },
+          {
+            "step": 4,
+            "reagents": [
+              "lithium hydroxide hydrate",
+              "reagent grade ethanol"
+            ],
+            "temperature": "reflux overnight",
+            "yield": "90%"
+          },
+          {
+            "step": 5,
+            "reagents": [
+              "Jones reagent"
+            ],
+            "temperature": "4 ℃ to 30 ℃",
+            "time": "45 minutes",
+            "solvent": "diethyl ether",
+            "yield": "41%"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Complex 1",
+      "synthesis_conditions": {
+        "reagents": [
+          "Eu(NO3)3•6H2O",
+          "H4BTMIPA",
+          "DMF",
+          "H2O"
+        ],
+        "temperature": "140 °C",
+        "time": "three days",
+        "equipment": "Teflon reactor",
+        "yield": "50%",
+        "washing_method": "water",
+        "drying_method": "air drying",
+        "additional_information": "crystals suitable for single crystal X-ray structure determination"
+      }
+    },
+    {
+      "name": "Test plate",
+      "synthesis_conditions": {
+        "reagents": [
+          "powder of 1",
+          "0.5% aqueous of carboxymethylcellulose sodium (CMC)"
+        ],
+        "method": "suspension added dropwise and tiled on a clean glass plate, then dried in air"
+      }
+    }
+  ]
+}

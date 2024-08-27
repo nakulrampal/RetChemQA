@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the research article titled 'Confinement-Driven Photophysics in Cages, Covalent–Organic Frameworks, Metal–Organic Frameworks, and DNA'?",
+      "answer": "The main focus of the research article is on studying the photophysics of confined chromophores within different types of frameworks, including cages, covalent–organic frameworks (COFs), metal–organic frameworks (MOFs), and DNA, to understand how confinement affects their photophysical properties.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to collect X-ray intensity data for the compounds studied in the research?",
+      "answer": "X-ray intensity data for the compounds studied in the research were collected using a Bruker D8 QUEST diffractometer equipped with a PHOTON-100 CMOS area detector and an Incoatec microfocus source (Mo Kα radiation).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the purpose of using the SQUEEZE program in the crystal structure analysis?",
+      "answer": "The SQUEEZE program was used to account for highly disordered interstitial species in the crystal structure analysis, which could not be reasonably modeled due to their extensive disorder.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How did the researchers confirm the space group of the compounds' crystal structures?",
+      "answer": "The researchers confirmed the space group of the compounds' crystal structures by analyzing the pattern of systematic absences in the intensity data, which was consistent with the assumed space group, and this was further confirmed by structure solution.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What challenges did the researchers face when modeling the disorder in the crystal structures?",
+      "answer": "The researchers faced challenges in modeling the disorder in the crystal structures due to the extensive disorder of interstitial species and the presence of partially occupied guest ligands, which made it difficult to achieve a physically reasonable disorder model.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The research article provides crystallographic information files (CIF) for all the compounds studied.",
+      "answer": "True. The research article provides crystallographic information files (CIF) for all the compounds studied, as indicated in the Supporting Information section.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of geometric restraints in refining the guest ligand's model within the frameworks?",
+      "answer": "Geometric restraints were used to ensure stability toward refinement by restraining individual bond distances to values determined from the free ligand structure, due to the guest ligand's disorder and partial occupancy.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why did the researchers use DMSO-d6 for the NMR spectrum analysis of digested Zr6(Me2BPDC)4(pCOOH-BI-CH2COO)2?",
+      "answer": "The researchers used DMSO-d6 for the NMR spectrum analysis of digested Zr6(Me2BPDC)4(pCOOH-BI-CH2COO)2 because DMSO-d6 is a common solvent for NMR spectroscopy that provides a deuterated environment, reducing proton background signals and allowing for clearer observation of the compound's proton signals.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the significance of the photoluminescence studies conducted on the compounds?",
+      "answer": "The significance of the photoluminescence studies conducted on the compounds was to investigate the photophysical properties of the confined chromophores within the frameworks and to understand how their emission spectra are affected by the confinement and the environment within the frameworks.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How did the researchers address the issue of electron density peaks that could not be modeled as part of a nitrate anion or water molecule?",
+      "answer": "The researchers addressed the issue of unmodelable electron density peaks by using the SQUEEZE program to account for these species, which allowed them to include the scattering contribution of these diffusely scattering species in the refinement without explicitly modeling them.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

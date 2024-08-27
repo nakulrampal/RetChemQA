@@ -1,0 +1,54 @@
+{
+  "materials": [
+    {
+      "name": "[Zn(μ4-TCNQ−TCNQ)bpy]·1.5benzene",
+      "synthesis_conditions": {
+        "temperature": "293 K",
+        "solvents": [
+          {
+            "name": "MeOH/benzene mixture",
+            "amount": "100 ml"
+          }
+        ],
+        "equipment": "Schlenk technique",
+        "chemicals_used": [
+          {
+            "name": "LiTCNQ",
+            "amount": "2 mmol, 422 mg"
+          },
+          {
+            "name": "bpy (4,4‘-bipyridine)",
+            "amount": "1 mmol, 156 mg"
+          },
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "1 mmol, 297 mg"
+          }
+        ],
+        "atmosphere": "N2",
+        "yield": "93%",
+        "elemental_analysis": {
+          "calculated": {
+            "C": "69.17",
+            "H": "3.37",
+            "N": "18.75"
+          },
+          "found": {
+            "C": "68.48",
+            "H": "3.58",
+            "N": "18.65"
+          }
+        }
+      }
+    }
+  ],
+  "characterization_methods_excluded": [
+    "X-ray Crystal Analysis",
+    "Physical Measurements",
+    "Guest arrangement of 1⊃benzene",
+    "The break of the benzene isotherm",
+    "1H-NMR spectra",
+    "XRPD pattern",
+    "TG analysis"
+  ]
+}

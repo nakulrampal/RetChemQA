@@ -1,0 +1,77 @@
+{
+  "1ADCu": {
+    "temperature": "80°C",
+    "solvents": ["Ethylene glycol (EG)", "Toluene"],
+    "amount_of_each_solvent": {
+      "EG": "20 mM concentration of CuSO4",
+      "Toluene": "20 mM concentration of adamantane-1-thiol"
+    },
+    "equipment": ["Borosilicate scintillation vial"],
+    "chemicals_used": ["CuSO4", "adamantane-1-thiol"],
+    "time": ">24 h",
+    "washing_method": "Rinsed with ethanol",
+    "drying_method": "Thoroughly dried under vacuum at room temperature",
+    "yield": "Not specified",
+    "additional_information": {
+      "doping_method": "H2O2 solutions with different concentrations",
+      "doping_time": "30 min",
+      "doping_temperature": "Room temperature"
+    }
+  },
+  "4DICu": {
+    "temperature": "80°C",
+    "solvents": ["Ethylene glycol (EG)", "Toluene"],
+    "amount_of_each_solvent": {
+      "EG": "20 mM concentration of CuSO4",
+      "Toluene": "20 mM concentration of diamantane-4-thiol"
+    },
+    "equipment": ["Borosilicate scintillation vial"],
+    "chemicals_used": ["CuSO4", "diamantane-4-thiol"],
+    "time": ">24 h",
+    "washing_method": "Rinsed with ethanol",
+    "drying_method": "Thoroughly dried under vacuum at room temperature",
+    "yield": "Not specified"
+  },
+  "Cadmium-based MOCs": {
+    "temperature": "80°C for CdSO4 dissolution, growth temperature not specified",
+    "solvents": ["Ethylene glycol (EG)", "Toluene"],
+    "amount_of_each_solvent": {
+      "EG": "Saturated solution of CdSO4 with some solid at the bottom",
+      "Toluene": "20 mM concentration of m-carborane-9-thiol or adamantane-1-thiol"
+    },
+    "equipment": ["Borosilicate scintillation vial"],
+    "chemicals_used": ["CdSO4", "m-carborane-9-thiol or adamantane-1-thiol"],
+    "time": "1 month for zinc adamantane-1-thiolate, not specified for others",
+    "washing_method": "Not specified",
+    "drying_method": "Not specified",
+    "yield": "Not specified"
+  },
+  "Iron(II) adamantane-1-selenolate": {
+    "temperature": "40-50°C",
+    "solvents": ["Acetonitrile", "n-Octane"],
+    "amount_of_each_solvent": {
+      "Acetonitrile": "20 mM concentration of FeCl2",
+      "n-Octane": "20 mM concentration of adamantane-1-selenol"
+    },
+    "equipment": ["Performed in an argon-filled glove box"],
+    "chemicals_used": ["FeCl2", "adamantane-1-selenol", "Tributylphosphine (TBP)"],
+    "time": "1-2 weeks",
+    "washing_method": "Not specified",
+    "drying_method": "Not specified",
+    "yield": "Not specified"
+  },
+  "Silver-based MOCs": {
+    "temperature": "Not specified",
+    "solvents": ["Water", "Toluene"],
+    "amount_of_each_solvent": {
+      "Water": "20 mM concentration of AgNO3",
+      "Toluene": "20 mM concentration of various diamondoid thiols"
+    },
+    "equipment": ["Borosilicate scintillation vial"],
+    "chemicals_used": ["AgNO3", "Various diamondoid thiols"],
+    "time": "Not specified",
+    "washing_method": "Not specified",
+    "drying_method": "Not specified",
+    "yield": "Not specified"
+  }
+}

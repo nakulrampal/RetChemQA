@@ -1,0 +1,41 @@
+{
+  "materials": [
+    {
+      "name": "1-DCM",
+      "synthesis_conditions": {
+        "method": "slow diffusion",
+        "solvent": "dichloromethane (DCM)",
+        "solvent_amount": "2 molar equivalents",
+        "temperature": "not specified",
+        "time": "not specified",
+        "yield": "not specified",
+        "drying_method": "heating to obtain solvent-free compound",
+        "additional_information": "crystallized in the triclinic P-1 space group"
+      }
+    },
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "method": "obtained from 1-DCM by heating",
+        "solvent": "none (solvent-free)",
+        "temperature": "not specified",
+        "time": "not specified",
+        "yield": "confirmed by elemental analysis and thermogravimetric analysis (TGA)",
+        "drying_method": "not specified",
+        "additional_information": "crystallized in the triclinic P-1 space group with Z = 1"
+      }
+    },
+    {
+      "name": "1-I3",
+      "synthesis_conditions": {
+        "method": "exposure of 1 to I2 vapor",
+        "solvent": "none",
+        "temperature": "80 °C",
+        "time": "144 h",
+        "yield": "elemental analysis provided homogeneity credit",
+        "drying_method": "not specified",
+        "additional_information": "crystallized in the triclinic P-1 space group (Z = 1)"
+      }
+    }
+  ]
+}

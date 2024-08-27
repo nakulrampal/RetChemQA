@@ -1,0 +1,133 @@
+{
+  "materials": [
+    {
+      "name": "SIFSIX-3-Ni",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "chemical": "Ni(NO3)2·6H2O",
+            "amount": "872 mg (3 mmol)"
+          },
+          {
+            "chemical": "(NH4)2SiF6",
+            "amount": "534 mg (3 mmol)"
+          },
+          {
+            "chemical": "pyrazine",
+            "amount": "480 mg (6 mmol)"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "water",
+            "amount": "4 mL"
+          },
+          {
+            "solvent": "methanol",
+            "amount": "ca. 10 mL",
+            "washing": true
+          }
+        ],
+        "time": [
+          {
+            "step": "slurrying",
+            "duration": "2 days"
+          },
+          {
+            "step": "soaking in methanol",
+            "duration": "1 day"
+          },
+          {
+            "step": "heating",
+            "duration": "24 hours",
+            "temperature": "100 °C"
+          }
+        ],
+        "equipment": "Buchner filter",
+        "method": "The precursor was synthesized by slurrying Ni(NO3)2·6H2O, (NH4)2SiF6, and pyrazine in water for 2 days. The resulting suspension was filtered, soaked in methanol for 1 day, washed twice with methanol, and then heated at 100 °C for 1 day."
+      }
+    },
+    {
+      "name": "TIFSIX-2-Cu-i",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "chemical": "Cu(NO3)2·3H2O",
+            "amount": "100 mg (0.416 mmol)"
+          },
+          {
+            "chemical": "(NH4)2TiF6",
+            "amount": "80 mg (0.416 mmol)"
+          },
+          {
+            "chemical": "1,2-bis(4-pyridyl)acetylene",
+            "amount": "150 mg (0.833 mmol)"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "H2O",
+            "amount": "5 mL"
+          },
+          {
+            "solvent": "MeCN",
+            "amount": "15 mL"
+          }
+        ],
+        "time": [
+          {
+            "step": "stirring",
+            "duration": "24 hours"
+          },
+          {
+            "step": "washing",
+            "duration": "twice a day for 1 week"
+          }
+        ],
+        "equipment": "Buchner filter",
+        "method": "Cu(NO3)2·3H2O and (NH4)2TiF6 were dissolved in H2O. 1,2-bis(4-pyridyl)acetylene dissolved in MeCN was added dropwise. The solution was stirred for 24 hours, then washed with MeCN twice a day for 1 week."
+      }
+    },
+    {
+      "name": "SIFSIX-2-Cu-i",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "chemical": "Cu(NO3)2·3H2O",
+            "amount": "100 mg (0.416 mmol)"
+          },
+          {
+            "chemical": "(NH4)2SiF6",
+            "amount": "74 mg (0.416 mmol)"
+          },
+          {
+            "chemical": "1,2-bis(4-pyridyl)acetylene",
+            "amount": "150 mg (0.833 mmol)"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "H2O",
+            "amount": "5 mL"
+          },
+          {
+            "solvent": "MeCN",
+            "amount": "15 mL"
+          }
+        ],
+        "time": [
+          {
+            "step": "stirring",
+            "duration": "24 hours"
+          },
+          {
+            "step": "washing",
+            "duration": "twice a day for 1 week"
+          }
+        ],
+        "equipment": "Buchner filter",
+        "method": "Cu(NO3)2·3H2O and (NH4)2SiF6 were dissolved in H2O. 1,2-bis(4-pyridyl)acetylene dissolved in MeCN was added dropwise. The solution was stirred for 24 hours, then washed with MeCN twice a day for 1 week."
+      }
+    }
+  ]
+}

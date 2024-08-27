@@ -1,0 +1,160 @@
+{
+  "materials": [
+    {
+      "name": "VTTF ligand",
+      "synthesis_conditions": {
+        "temperature": "25 °C",
+        "solvents": [
+          {
+            "name": "MeCN",
+            "amount": "200 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "1,3-benzodithiolylium tetrafluoroborate",
+            "amount": "10.0 g"
+          },
+          {
+            "name": "NaI",
+            "amount": "6.24 g"
+          },
+          {
+            "name": "triethyl phosphite",
+            "amount": "7.2 mL"
+          }
+        ],
+        "time": "30 minutes",
+        "washing_method": "washed with water",
+        "drying_method": "dried over anhydrous Na2SO4",
+        "yield": "96%",
+        "additional_steps": [
+          {
+            "step_description": "Evaporation under reduced pressure",
+            "temperature": "room temperature"
+          },
+          {
+            "step_description": "Recrystallization from AcOEt",
+            "solvent": "AcOEt"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Compound B",
+      "synthesis_conditions": {
+        "temperature": "-78 °C to room temperature",
+        "solvents": [
+          {
+            "name": "dry THF",
+            "amount": "230 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Compound A",
+            "amount": "11.5 g"
+          },
+          {
+            "name": "n-BuLi in n-hexane",
+            "amount": "30.9 mL"
+          },
+          {
+            "name": "methyl terephthalaldehydate",
+            "amount": "6.50 g"
+          }
+        ],
+        "time": "16 h",
+        "washing_method": "washed with water",
+        "drying_method": "dried over anhydrous Na2SO4",
+        "yield": "86%",
+        "additional_steps": [
+          {
+            "step_description": "Evaporation under reduced pressure",
+            "temperature": "room temperature"
+          },
+          {
+            "step_description": "Recrystallization from CHCl3",
+            "solvent": "CHCl3"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Compound C",
+      "synthesis_conditions": {
+        "temperature": "25 °C",
+        "solvents": [
+          {
+            "name": "DCM",
+            "amount": "100 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Compound B",
+            "amount": "50.8 g"
+          },
+          {
+            "name": "iodine",
+            "amount": "88.8 g"
+          }
+        ],
+        "time": "16 h",
+        "washing_method": "washed with water",
+        "drying_method": "dried over anhydrous Na2SO4",
+        "yield": "28%",
+        "additional_steps": [
+          {
+            "step_description": "Quenched with ice water",
+            "temperature": "25 °C"
+          },
+          {
+            "step_description": "Purification by column chromatography",
+            "solvent": "CHCl3/n-hexane"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Compound VTTF",
+      "synthesis_conditions": {
+        "temperature": "40 °C",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "30 mL"
+          },
+          {
+            "name": "MeOH",
+            "amount": "30 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Compound C",
+            "amount": "2.64 g"
+          },
+          {
+            "name": "1 M KOH",
+            "amount": "44.1 mL"
+          }
+        ],
+        "time": "12 h",
+        "washing_method": "washed with CHCl3",
+        "drying_method": "dried under reduced pressure at 60 °C",
+        "yield": "97%",
+        "additional_steps": [
+          {
+            "step_description": "Concentration under reduced pressure",
+            "temperature": "room temperature"
+          },
+          {
+            "step_description": "Addition of excess aqueous solution of 1 M HCl",
+            "temperature": "0 °C"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "materials": [
+    {
+      "name": "Tetramethyl 5,5’-(phenazine-5,10-diyl) diisophthalate (Me4PDPA)",
+      "synthesis_conditions": {
+        "method": "Buchwald–Hartwig coupling",
+        "reactants": [
+          "5,10-dihydrophenazine",
+          "5-iodoisophthalate"
+        ],
+        "solvents": [],
+        "temperature": "Not specified",
+        "time": "Not specified",
+        "equipment": "Not specified",
+        "yield": "Not specified"
+      }
+    },
+    {
+      "name": "H3PDPA* +",
+      "synthesis_conditions": {
+        "method": "Hydrolysis of Me4PDPA in air",
+        "reactants": [
+          "Me4PDPA"
+        ],
+        "solvents": [],
+        "temperature": "Not specified",
+        "time": "Not specified",
+        "equipment": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "Owing to oxidation by O2, resulted in the radical cationic H3PDPA* + instead of the neutral H4PDPA."
+      }
+    },
+    {
+      "name": "Cu(cid:0) PDPA* +",
+      "synthesis_conditions": {
+        "method": "Solvothermal reaction",
+        "reactants": [
+          "H3PDPA* +",
+          "Cu(NO3)2·3H2O"
+        ],
+        "solvents": [
+          "DMF"
+        ],
+        "temperature": "85 °C",
+        "time": "Three days",
+        "equipment": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "HBF4 used as modulator. Resulted in a multistable radical cationic CP Cu(cid:0) PDPA* +."
+      }
+    },
+    {
+      "name": "Nano Cu(cid:0) PDPA* +",
+      "synthesis_conditions": {
+        "method": "Solvothermal reaction with modified conditions",
+        "reactants": [
+          "H3PDPA* +",
+          "Cu(NO3)2·3H2O"
+        ],
+        "solvents": [
+          "DMF"
+        ],
+        "temperature": "Not specified",
+        "time": "Shortened reaction time",
+        "equipment": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "Changed template additives to achieve nano-sized structures."
+      }
+    }
+  ]
+}

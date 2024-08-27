@@ -1,0 +1,91 @@
+{
+  "materials": [
+    {
+      "name": "NU-1000",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "vacuum oven",
+        "chemicals_used": [
+          "1,3,6,8-tetrabromopyrene",
+          "zirconyl chloride octahydrate",
+          "benzoic acid",
+          "hydrochloric acid",
+          "1,4-dioxane",
+          "acetone",
+          "N,N-dimethylformamide"
+        ],
+        "time": "24 h",
+        "washing_method": "not specified",
+        "drying_method": "vacuum oven at 80 °C overnight",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "FF-NU-1000",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "vacuum oven",
+        "chemicals_used": [
+          "zirconium chloride",
+          "diethyl formamide"
+        ],
+        "time": "24 h",
+        "washing_method": "not specified",
+        "drying_method": "vacuum oven at 80 °C overnight",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "Cu-SIM",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "anhydrous heptane",
+            "amount": "15 mL"
+          }
+        ],
+        "equipment": "glove box, atomic layer deposition (ALD) chamber",
+        "chemicals_used": [
+          "bis(dimethylamino-2-propoxy)copper(II)"
+        ],
+        "time": "overnight",
+        "washing_method": "three times with heptane inside the glove box, three times with acetone",
+        "drying_method": "vacuum oven at 80 °C overnight",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "Cu-SIM-FF",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "anhydrous heptane",
+            "amount": "15 mL"
+          }
+        ],
+        "equipment": "glove box, atomic layer deposition (ALD) chamber",
+        "chemicals_used": [
+          "bis(dimethylamino-2-propoxy)copper(II)"
+        ],
+        "time": "overnight",
+        "washing_method": "three times with heptane inside the glove box, three times with acetone",
+        "drying_method": "vacuum oven at 80 °C overnight",
+        "yield": "not specified"
+      }
+    }
+  ]
+}

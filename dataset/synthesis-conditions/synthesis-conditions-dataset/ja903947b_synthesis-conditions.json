@@ -1,0 +1,40 @@
+{
+  "materials": [
+    {
+      "name": "[AgL]n·nH2O (1, L = 4-cyanobenzoate)",
+      "synthesis_conditions": {
+        "temperature": "about 80 °C",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "10 mL"
+          },
+          {
+            "name": "aqueous solution of AgNO3",
+            "amount": "5 mL"
+          }
+        ],
+        "equipment": "N/A",
+        "chemicals_used": [
+          {
+            "name": "4-cyanobenzoic acid",
+            "amount": "37 mg, 0.25 mmol"
+          },
+          {
+            "name": "Et3N",
+            "amount": "0.035 mL, 0.25 mmol"
+          },
+          {
+            "name": "AgNO3",
+            "amount": "42 mg, 0.25 mmol"
+          }
+        ],
+        "time": "2-3 weeks",
+        "washing_method": "N/A",
+        "drying_method": "N/A",
+        "yield": "ca. 38% based on silver",
+        "additional_information": "The replacement of Et3N with NaOH gave a similar result."
+      }
+    }
+  ]
+}

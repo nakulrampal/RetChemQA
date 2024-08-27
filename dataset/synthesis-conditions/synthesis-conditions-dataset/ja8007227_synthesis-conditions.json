@@ -1,0 +1,69 @@
+{
+  "materials": [
+    {
+      "name": "octanuclear Cu(II) wheel, 1",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "CuSO4·5H2O",
+            "amount": "0.05 g, 0.2 mmol"
+          },
+          {
+            "name": "4'-[4-methyl-6-(1-methyl-1H-benzimidazolyl-2-group)-2-n-propyl-1H-benzimidazolyl methyl]",
+            "amount": "0.108 g, 0.2 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "ethanol, methanol and DMF",
+            "amount": "40 ml mixture",
+            "ratio": "v/v, 3:3:2"
+          }
+        ],
+        "temperature": "room temperature",
+        "time": "about a month",
+        "yield": "71%",
+        "drying_method": "heated at 160oC for two hours"
+      }
+    },
+    {
+      "name": "Zn(II)-exchanged product, 2",
+      "synthesis_conditions": {
+        "preparation_method": "immersing big crystals of 1 into aqueous solutions",
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2",
+            "amount": "50 mg/ml"
+          }
+        ],
+        "time": "five days"
+      }
+    },
+    {
+      "name": "Co(II)-exchanged product, 3",
+      "synthesis_conditions": {
+        "preparation_method": "immersing big crystals of 1 into aqueous solutions",
+        "chemicals_used": [
+          {
+            "name": "Co(NO3)2",
+            "amount": "50 mg/ml"
+          }
+        ],
+        "time": "five days"
+      }
+    },
+    {
+      "name": "Fe(III)-exchanged product, 4",
+      "synthesis_conditions": {
+        "preparation_method": "immersing big crystals of 1 into aqueous solutions",
+        "chemicals_used": [
+          {
+            "name": "Fe(NO3)3",
+            "amount": "50 mg/ml"
+          }
+        ],
+        "time": "one day"
+      }
+    }
+  ]
+}

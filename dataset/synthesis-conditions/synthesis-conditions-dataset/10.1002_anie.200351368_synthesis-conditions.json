@@ -1,0 +1,53 @@
+{
+  "materials": [
+    {
+      "name": "Rhodium(II) benzoate pyrazine, 2(O2CPh)4(pyz)]n (1)",
+      "synthesis_conditions": {
+        "reference": "[4]",
+        "note": "The synthesis method for this compound is reported elsewhere and not directly provided in the text."
+      }
+    },
+    {
+      "name": "CO2 Inclusion Phases of Transformable 1D Coordination Polymer Host [Rh2(O2CPh)4(pyz)]n",
+      "synthesis_conditions": {
+        "temperature": "-180 8C",
+        "atmosphere": "CO2",
+        "phase_transition": {
+          "from": "C2/m",
+          "to": "P1¯",
+          "description": "On cooling samples in a CO2 atmosphere, the crystal underwent a phase transition to a new structure adopting the triclinic space group P1¯, generating one-dimensional (1D) channels."
+        },
+        "equipment": [
+          {
+            "type": "Rigaku RAXIS RAPID imaging plate diffractometer",
+            "details": "with a nitrogen-flow temperature controller and MoKa radiation (l = 0.71073 4) over a temperature range of 20 to -180 8C"
+          },
+          {
+            "type": "Rigaku XRD-DSC II diffractometer",
+            "details": "for simultaneous powder X-ray diffraction (XRD) and differential scanning calorimetry (DSC) measurements with a temperature scan rate of 3 8C min-1 and a 2-q scan rate of 15 8 min-1 over the range 5 to 358 with CuKa radiation (l = 1.54184 ,)"
+          },
+          {
+            "type": "Shimadzu DSC-60 calorimeter",
+            "details": "for independent DSC measurements at a scanning rate of 5 8C min-1"
+          }
+        ],
+        "data_collection": {
+          "method": "Single-crystal X-ray diffraction",
+          "conditions": [
+            {
+              "state": "in a CO2 atmosphere",
+              "method": "sealing a glass capillary containing the sample and CO2 gas at ambient pressure"
+            },
+            {
+              "state": "absence of CO2",
+              "method": "scooping on a cryoloop through silicone oil"
+            }
+          ]
+        },
+        "absorption_corrections": "Empirical absorption corrections were applied using the ABSCOR program.",
+        "structure_solution": "The structures were solved by the Patterson method (DIRDIF94 PATTY) and refined by full-matrix least-squares on F2 (SHELXL97).",
+        "atom_refinement": "Non-hydrogen atoms were refined anisotropically, while hydrogen atoms were fixed at calculated positions and refined using a riding model."
+      }
+    }
+  ]
+}

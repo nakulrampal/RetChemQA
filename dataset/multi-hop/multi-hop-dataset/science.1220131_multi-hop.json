@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What is the synthesis condition for IRMOF-74-II?",
+      "answer": "80 mg of Mg(NO3)2·6H2O (0.31 mmol) and 26 mg of link II (0.095 mmol) were dissolved with 7.5 mL DMF in a 20 mL vial. The vial was sealed and sonicated for 30 minutes until the solid was completely dissolved. To this solution, 0.5 mL of ethanol followed by 0.5 mL of deionized water was added dropwise. The vial was then vigorously swirled and shortly sonicated resulting in a clear, colorless solution. This solution was heated in an isothermal oven at 120 °C and allowed to react solvothermally for 24 h yielding colorless needle crystals (90% yield based on organic link).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the difference in synthesis conditions between IRMOF-74-II and IRMOF-74-IX?",
+      "answer": "The synthesis condition for IRMOF-74-II involves dissolving Mg(NO3)2·6H2O and link II in DMF, adding ethanol and deionized water, and heating at 120 °C for 24 hours. For IRMOF-74-IX, MgCl2 and link XI are dissolved in DMF, heated until dissolved, ethanol and deionized water are added, and the solution is heated at 130 °C for 24 hours. If the solution does not become clear, concentrated HCl is added to dissolve any insoluble solid.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How is the activation of IRMOF-74-I to IV different from IRMOF-74-V to XI?",
+      "answer": "The activation of IRMOF-74-I to IV involves washing with DMF, exchanging with dry methanol, and heating at 130 °C to remove methanol and create open metal sites. For IRMOF-74-V to XI, the samples are immersed in dry methanol, exchanged with liquid CO2 in a critical point dryer, heated to around 40 °C under supercritical conditions, and then evacuated with a dynamic vacuum to remove methanol and create open metal sites.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method is used to confirm the complete removal of coordinating methanol in activated IRMOF-74 series?",
+      "answer": "The complete removal of coordinating methanol in activated IRMOF-74 series is confirmed by the absence of methanol peaks in solid-state 13C MAS NMR of the activated samples.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of ICP-OES in the inclusion studies of IRMOF-74 series?",
+      "answer": "ICP-OES is used in the inclusion studies of the IRMOF-74 series to determine the ratio of metal to guest molecule, which helps in quantifying the number of guest molecules included per unit cell of the IRMOF. For example, in the inclusion study of vitamin B12 into IRMOF-74-IV, ICP-OES was used to determine the ratio of [Mg]/[Co], indicating one molecule of vitamin B12 per two unit cells of IRMOF-74-IV.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The crystallinity of IRMOF-74 series is maintained after the inclusion of guest molecules such as vitamin B12, MOP-18, myoglobin, and GFP.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the BET surface area and pore volume change after the inclusion of guest molecules in IRMOF-74 series?",
+      "answer": "After the inclusion of guest molecules in the IRMOF-74 series, both the BET surface area and pore volume decrease. This is indicative of the guest molecules occupying space within the pores of the IRMOFs. For example, after the inclusion of vitamin B12 into IRMOF-74-IV, the BET surface area decreased from 2480 m2·g-1 to 1520 m2·g-1, and the pore volume decreased from 1.60 cm3·g-1 to 0.98 cm3·g-1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What evidence supports the inclusion of green fluorescent protein (GFP) into IRMOF-74-IX?",
+      "answer": "The inclusion of GFP into IRMOF-74-IX is supported by confocal microscopy images showing intense green luminescence from the IRMOF-74-IX particles, indicating that GFP retains its native folded conformation and fluorescence within the pores. Additionally, the PXRD pattern of GFP⊂IRMOF-74-IX confirms that the crystallinity of the framework is maintained after inclusion.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The inclusion of guest molecules into IRMOF-74 series results in a change in the crystal lattice of the IRMOFs.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the step pressure shift observed in the Ar adsorption isotherm after the inclusion of MOP-18 into IRMOF-74-V?",
+      "answer": "The significance of the step pressure shift observed in the Ar adsorption isotherm after the inclusion of MOP-18 into IRMOF-74-V is that it indicates a decrease in pore size, which further proves the inclusion of MOP-18 into the pore of IRMOF-74-V. The step pressure shifted from P/P0 = 0.33 to P/P0 = 0.30, demonstrating that the guest molecules occupy space within the pores and effectively reduce their size.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

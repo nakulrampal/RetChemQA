@@ -1,0 +1,141 @@
+{
+  "materials": [
+    {
+      "name": "Salen(Ni) Monomer H2-1a",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "pyridine",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ligand precursor LP 1a",
+            "amount": "40 mg, 59.3 µmol"
+          },
+          {
+            "name": "Ni(OAc)2·4H2O",
+            "amount": "15 mg, 60.3 µmol"
+          }
+        ],
+        "time": "6 h",
+        "washing_method": "methanol (3 x 10 mL)",
+        "drying_method": "under vacuum",
+        "yield": "42 mg, 97%"
+      }
+    },
+    {
+      "name": "Salen(Ni) Monomer H2-1b",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "pyridine",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ligand precursor LP 1b",
+            "amount": "40 mg, 59.3 µmol"
+          },
+          {
+            "name": "Ni(OAc)2·4H2O",
+            "amount": "15 mg, 60.3 µmol"
+          }
+        ],
+        "yield": "41 mg, 95%"
+      }
+    },
+    {
+      "name": "Microparticle 2a",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "pyridine",
+            "amount": "10 mL"
+          },
+          {
+            "name": "diethyl ether",
+            "diffusion_time": "2 days"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "salen ligand",
+            "amount": "26 mg, 38.5 µmol"
+          },
+          {
+            "name": "Ni(OAc)2⋅4H2O",
+            "amount": "20 mg, 80.3 µmol"
+          }
+        ],
+        "washing_method": "toluene via centrifugation and redispersion cycles",
+        "yield": "28 mg, ~ 90 %"
+      }
+    },
+    {
+      "name": "Microparticle 2b",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "pyridine/ether",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "LP 1b",
+            "amount": "20 mg, 29.6 µmol"
+          },
+          {
+            "name": "Ni(OAc)2⋅4H2O",
+            "amount": "15 mg, 60.3 µmol"
+          }
+        ],
+        "yield": "14 mg, ~ 60 %"
+      }
+    },
+    {
+      "name": "Crystalline rod 3a",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "MeOH",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Microparticle 2a",
+            "amount": "15 mg"
+          }
+        ],
+        "time": "1 h",
+        "temperature": "room temperature",
+        "drying_method": "in vacuo",
+        "yield": "14 mg"
+      }
+    },
+    {
+      "name": "Crystalline rod 3b",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "MeOH",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "particle 2b",
+            "amount": "not specified"
+          }
+        ],
+        "yield": "quantitative"
+      }
+    }
+  ]
+}

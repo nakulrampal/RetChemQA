@@ -1,0 +1,91 @@
+{
+  "materials": [
+    {
+      "name": "Co-TIB-NO3",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "130°C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "3 parts"
+            },
+            {
+              "name": "MeCN",
+              "amount": "1 part"
+            }
+          ],
+          "equipment": "Teflon lined Parr autoclave",
+          "chemicals_used": [
+            {
+              "name": "3,3′,5,5′-tetra(1H-imidazol-1-yl)-1,1′-biphenyl (TIB)",
+              "amount": "0.024 mmol, 10 mg"
+            },
+            {
+              "name": "Co(NO3)2·6H2O",
+              "amount": "0.052 mmol, 15 mg"
+            }
+          ],
+          "time": "3 days",
+          "yield": "80%",
+          "washing_method": "washed with excess of DMF"
+        }
+      ]
+    },
+    {
+      "name": "Co-TIB-Cl",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "chemicals_used": [
+            {
+              "name": "Co-TIB-NO3 crystals",
+              "amount": "20 mg"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "3 M NaCl solution",
+              "amount": "15 mL"
+            }
+          ],
+          "time": "24 h",
+          "temperature": "room temperature"
+        }
+      ]
+    },
+    {
+      "name": "Co-TIB-NO3-313",
+      "synthesis_conditions": [
+        {
+          "step": "Degassing",
+          "chemicals_used": [
+            {
+              "name": "Co-TIB-NO3 crystals"
+            }
+          ],
+          "temperature": "313 K",
+          "time": "24 h",
+          "equipment": "under vacuum"
+        }
+      ]
+    },
+    {
+      "name": "Co-TIB-Cl-313",
+      "synthesis_conditions": [
+        {
+          "step": "Degassing",
+          "chemicals_used": [
+            {
+              "name": "Co-TIB-Cl crystals"
+            }
+          ],
+          "temperature": "313 K",
+          "time": "24 h",
+          "equipment": "under vacuum"
+        }
+      ]
+    }
+  ]
+}

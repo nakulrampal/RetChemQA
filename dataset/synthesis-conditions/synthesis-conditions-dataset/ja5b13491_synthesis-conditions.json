@@ -1,0 +1,324 @@
+{
+  "materials": [
+    {
+      "name": "CPM-200-In",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "DMA",
+            "amount": "2.0 g"
+          },
+          {
+            "name": "CH3CN",
+            "amount": "1.0 g"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "In(NO3)3·xH2O",
+            "amount": "22.0 mg"
+          },
+          {
+            "name": "H4ABTC",
+            "amount": "16.0 mg"
+          },
+          {
+            "name": "HNO3",
+            "amount": "120.0 mg"
+          }
+        ],
+        "time": "3 days",
+        "yield": "about 56% based on In"
+      }
+    },
+    {
+      "name": "CPM-200-In/Mg",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "DMA",
+            "amount": "4.0 g"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.8 g"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "InCl3",
+            "amount": "22.1 mg"
+          },
+          {
+            "name": "Mg(OAc)2·4H2O",
+            "amount": "86.0 mg"
+          },
+          {
+            "name": "H4ABTC",
+            "amount": "35.6 mg"
+          },
+          {
+            "name": "HCl",
+            "amount": "120 mg"
+          }
+        ],
+        "time": "2 days",
+        "yield": "about 85% based on In"
+      }
+    },
+    {
+      "name": "CPM-200-In/Ni",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "DMA",
+            "amount": "4.0 g"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.8 g"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "InCl3",
+            "amount": "22.1 mg"
+          },
+          {
+            "name": "NiCl2·6H2O",
+            "amount": "95.2 mg"
+          },
+          {
+            "name": "H4ABTC",
+            "amount": "35.6 mg"
+          },
+          {
+            "name": "HCl",
+            "amount": "120 mg"
+          }
+        ],
+        "time": "2 days",
+        "yield": "about 85% based on In"
+      }
+    },
+    {
+      "name": "CPM-200-In/Co",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "DMA",
+            "amount": "4.0 g"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.8 g"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "InCl3",
+            "amount": "22.1 mg"
+          },
+          {
+            "name": "Co(OAc)2·4H2O",
+            "amount": "99.6 mg"
+          },
+          {
+            "name": "H4ABTC",
+            "amount": "35.6 mg"
+          },
+          {
+            "name": "HCl",
+            "amount": "120 mg"
+          }
+        ],
+        "time": "3 days",
+        "yield": "about 88% based on In"
+      }
+    },
+    {
+      "name": "CPM-200-In/Mn",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "DMA",
+            "amount": "4.0 g"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.8 g"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "InCl3",
+            "amount": "22.1 mg"
+          },
+          {
+            "name": "MnCl2·4H2O",
+            "amount": "79.2 mg"
+          },
+          {
+            "name": "H4ABTC",
+            "amount": "35.6 mg"
+          },
+          {
+            "name": "HCl",
+            "amount": "120 mg"
+          }
+        ],
+        "time": "1 day",
+        "yield": "about 78% based on In"
+      }
+    },
+    {
+      "name": "CPM-200-Ga/Mg",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "DMA",
+            "amount": "4.0 g"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.8 g"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Ga(NO3)3·xH2O",
+            "amount": "25.6 mg"
+          },
+          {
+            "name": "Mg(OAc)2·4H2O",
+            "amount": "86.0 mg"
+          },
+          {
+            "name": "H4ABTC",
+            "amount": "35.6 mg"
+          },
+          {
+            "name": "HCl",
+            "amount": "120 mg"
+          }
+        ],
+        "time": "3 days",
+        "yield": "about 52% based on Ga"
+      }
+    },
+    {
+      "name": "CPM-200-Fe/Mg",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "DEF",
+            "amount": "4.0 g"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.8 g"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "FeCl3·6H2O",
+            "amount": "27.0 mg"
+          },
+          {
+            "name": "Mg(OAc)2·4H2O",
+            "amount": "86.0 mg"
+          },
+          {
+            "name": "H4ABTC",
+            "amount": "35.6 mg"
+          },
+          {
+            "name": "HCl",
+            "amount": "120 mg"
+          }
+        ],
+        "time": "5 days",
+        "yield": "about 65% based on Fe"
+      }
+    },
+    {
+      "name": "CPM-200-V/Mg",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "DEF",
+            "amount": "4.0 g"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.8 g"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "VCl3",
+            "amount": "15.7 mg"
+          },
+          {
+            "name": "Mg(OAc)2·4H2O",
+            "amount": "86.0 mg"
+          },
+          {
+            "name": "H4ABTC",
+            "amount": "35.6 mg"
+          },
+          {
+            "name": "HCl",
+            "amount": "120 mg"
+          }
+        ],
+        "time": "5 days",
+        "yield": "about 45% based on V"
+      }
+    },
+    {
+      "name": "CPM-200-Sc/Mg",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "solvents": [
+          {
+            "name": "DEF",
+            "amount": "4.0 g"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.8 g"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Sc(OAc)3·xH2O",
+            "amount": "22.2 mg"
+          },
+          {
+            "name": "Mg(OAc)2·4H2O",
+            "amount": "86.0 mg"
+          },
+          {
+            "name": "H4ABTC",
+            "amount": "35.6 mg"
+          },
+          {
+            "name": "HCl",
+            "amount": "120 mg"
+          }
+        ],
+        "time": "5 days",
+        "yield": "about 40% based on Sc"
+      }
+    }
+  ]
+}

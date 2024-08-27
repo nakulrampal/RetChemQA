@@ -1,0 +1,70 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "solvents": "methanol/acetonitrile",
+        "chemicals_used": [
+          {
+            "name": "Cu(ClO4)2·6 H2O",
+            "amount": "185 mg, 0.5 mmol"
+          },
+          {
+            "name": "bzp",
+            "amount": "92 mg, 0.25 mmol"
+          },
+          {
+            "name": "NaN3",
+            "amount": "65 mg, 1 mmol"
+          }
+        ],
+        "solvent_amounts": [
+          "15 mL acetonitrile",
+          "15 mL methanol"
+        ],
+        "temperature": "room temperature",
+        "time": "several days",
+        "yield": "58 mg, 52 %",
+        "drying_method": "undisturbed",
+        "elemental_analysis": {
+          "calculated": "C 24.11, H 2.02, N 43.74",
+          "found": "C 23.73, H 2.14, N 43.14"
+        },
+        "IR": "2046, 2080, and 2089 (vs) for the azide group and 2262 and 2295 cm-1(w) for CH3CN"
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "solvents": "methanol",
+        "chemicals_used": [
+          {
+            "name": "Cu(ClO4)2·6 H2O",
+            "amount": "185 mg, 0.5 mmol"
+          },
+          {
+            "name": "bzp",
+            "amount": "92 mg, 0.5 mmol"
+          },
+          {
+            "name": "NaN3",
+            "amount": "45 mg, 0.7 mmol"
+          }
+        ],
+        "solvent_amounts": [
+          "15 mL methanol",
+          "15 mL methanol"
+        ],
+        "temperature": "room temperature",
+        "time": "2 weeks",
+        "yield": "18 mg, 24 %",
+        "drying_method": "undisturbed",
+        "elemental_analysis": {
+          "calculated": "C 26.10, H 1.64, N 40.59",
+          "found": "C 26.54, H 1.91, N 40.15"
+        },
+        "IR": "2052, 2076, 2095, and 2119 cm-1 (vs) for the azide group"
+      }
+    }
+  ]
+}

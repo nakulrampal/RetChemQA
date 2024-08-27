@@ -1,0 +1,89 @@
+{
+  "materials": [
+    {
+      "name": "UiO-68-BTMB",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "DMF",
+        "amount_of_solvent": "3 mL",
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "11.2 mg, 0.048 mmol"
+          },
+          {
+            "name": "BTMB",
+            "amount": "0.07 mmol"
+          },
+          {
+            "name": "benzoic acid",
+            "amount": "222.6 mg, 1.82 mmol"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": "washed using DMF several times",
+        "drying_method": "not specified",
+        "yield": "not specified",
+        "additional_information": "octahedral single crystals were obtained"
+      }
+    },
+    {
+      "name": "UiO-68-NTMB",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "DMF",
+        "amount_of_solvent": "3 mL",
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "11.2 mg, 0.048 mmol"
+          },
+          {
+            "name": "NTMB",
+            "amount": "0.07 mmol"
+          },
+          {
+            "name": "benzoic acid",
+            "amount": "222.6 mg, 1.82 mmol"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": "washed using DMF several times",
+        "drying_method": "not specified",
+        "yield": "not specified",
+        "additional_information": "octahedral single crystals were obtained"
+      }
+    },
+    {
+      "name": "UiO-68-L/dTPDC (L: MBTB, BTMB, BSMB, NTMB and NSMB)",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "DMF",
+        "amount_of_solvent": "3 mL",
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "11.2 mg"
+          },
+          {
+            "name": "benzoic acid",
+            "amount": "222.6 mg"
+          },
+          {
+            "name": "linkers",
+            "amount": "0.07 mmol"
+          },
+          {
+            "name": "dTPDC",
+            "amount": "varies (see Table S1 for ratios)"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": "washed using DMF several times",
+        "drying_method": "not specified",
+        "yield": "not specified",
+        "additional_information": "different ratios of L and dTPDC were used"
+      }
+    }
+  ]
+}

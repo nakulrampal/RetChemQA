@@ -1,0 +1,196 @@
+{
+  "materials": [
+    {
+      "material": "1a",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "chemical": "Zn(NO3)2·6H2O",
+              "amount": "29.7 mg, 0.10 mmol"
+            },
+            {
+              "chemical": "terephthalic acid",
+              "amount": "16.6 mg, 0.10 mmol"
+            },
+            {
+              "chemical": "L1 (1,4-Bis(4-pyridyl)benzene)",
+              "amount": "11.6 mg, 0.05 mmol"
+            },
+            {
+              "chemical": "DMF",
+              "amount": "3 mL"
+            }
+          ],
+          "equipment": "sealed tube with aluminum crimp cap and silicon septum",
+          "temperature": "115 °C",
+          "time": "30 min",
+          "atmosphere": "microwave irradiation",
+          "washing_method": "washed with DMF",
+          "drying_method": "centrifugation",
+          "yield": "not specified"
+        },
+        {
+          "step": 2,
+          "description": "Activation of 1a to produce 1b",
+          "temperature": "115 °C under vacuum",
+          "time": "6 h",
+          "yield": "not specified"
+        }
+      ]
+    },
+    {
+      "material": "2a",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "chemical": "Zn(NO3)2·6H2O",
+              "amount": "29.7 mg, 0.10 mmol"
+            },
+            {
+              "chemical": "terephthalic acid",
+              "amount": "16.6 mg, 0.10 mmol"
+            },
+            {
+              "chemical": "L2 (2,3-Difluoro-1,4-bis(4-pyridyl)benzene)",
+              "amount": "13.4 mg, 0.05 mmol"
+            },
+            {
+              "chemical": "DMF",
+              "amount": "3 mL"
+            }
+          ],
+          "equipment": "sealed tube",
+          "temperature": "115 °C",
+          "time": "48 h",
+          "washing_method": "washed with DMF",
+          "drying_method": "dried",
+          "yield": "not specified"
+        },
+        {
+          "step": 2,
+          "description": "Activation of 2a to produce 2d",
+          "temperature": "115 °C under vacuum",
+          "time": "6 h",
+          "yield": "not specified"
+        }
+      ]
+    },
+    {
+      "material": "2,3-Difluoro-1,4-bis(trimethylsilyl)benzene (B)",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            {
+              "chemical": "n-butyllithium",
+              "amount": "1.6 M in n-hexane, 5.7 mL, 40.3 mmol"
+            },
+            {
+              "chemical": "di-iso-propylamine",
+              "amount": "5.7 mL, 40.3 mmol"
+            },
+            {
+              "chemical": "1,2-difluorobenzene (A)",
+              "amount": "1.7 mL, 17.5 mmol"
+            },
+            {
+              "chemical": "chlorotrimethylsilane",
+              "amount": "4.9 mL, 38.5 mmol"
+            },
+            {
+              "chemical": "anhydrous THF",
+              "amount": "20 mL"
+            }
+          ],
+          "equipment": "reaction at −78 °C",
+          "temperature": "−78 °C to 58 °C",
+          "time": "2 h",
+          "atmosphere": "neat bromine added",
+          "washing_method": "extracted with diethyl ether, washed with brine",
+          "drying_method": "dried over MgSO4",
+          "yield": "98.8%"
+        }
+      ]
+    },
+    {
+      "material": "2,3-Difluoro-1,4-dibromobenzene (C)",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            {
+              "chemical": "bromine",
+              "amount": "2.3 mL, 43.8 mmol"
+            },
+            {
+              "chemical": "B",
+              "amount": "3.78 g, 14.6 mmol"
+            }
+          ],
+          "temperature": "0 °C to 58 °C",
+          "time": "2 h",
+          "washing_method": "poured into ice-cold saturated NaHCO3 solution, extracted with diethyl ether",
+          "drying_method": "dried over MgSO4",
+          "yield": "not specified"
+        }
+      ]
+    },
+    {
+      "material": "2,3-Difluoro-1,4-bis(4-pyridyl)benzene (L2)",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            {
+              "chemical": "2,3-Difluoro-1,4-dibromobenzene (C)",
+              "amount": "0.80 g, 2.94 mmol"
+            },
+            {
+              "chemical": "4-pyridineboronic acid",
+              "amount": "0.80 g, 6.47 mmol"
+            },
+            {
+              "chemical": "potassium phosphate",
+              "amount": "5.50 g, 25.9 mmol"
+            },
+            {
+              "chemical": "tris(dibenzylideneacetone)dipalladium",
+              "amount": "29.6 mg, 0.03 mmol"
+            },
+            {
+              "chemical": "tricyclohexylphosphine",
+              "amount": "25.2 mg, 0.09 mmol"
+            },
+            {
+              "chemical": "dimethylformamide",
+              "amount": "10 mL"
+            },
+            {
+              "chemical": "water",
+              "amount": "5 mL"
+            }
+          ],
+          "equipment": "sealed tube with aluminum crimp cap and silicon septum",
+          "temperature": "150 °C",
+          "time": "1 h",
+          "atmosphere": "microwave irradiation",
+          "washing_method": "poured into water, extracted with dichloromethane",
+          "drying_method": "dried over Na2SO4",
+          "yield": "35.0%"
+        }
+      ]
+    },
+    {
+      "material": "Gas Adsorption Measurements",
+      "synthesis_conditions": [
+        {
+          "description": "Gas adsorption measurements for N2, O2, Ar, and CO2 on activated samples.",
+          "equipment": "automatic volumetric adsorption apparatus (BELSORP-18Plus or BELSORP-max)",
+          "temperature": "varied per gas",
+          "preparation": "Sample was evacuated using the degas function of the analyzer for 3 h at 388 K before measurement."
+        }
+      ]
+    }
+  ]
+}

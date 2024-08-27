@@ -1,0 +1,160 @@
+{
+  "materials": [
+    {
+      "name": "Yb-NH2-TPDC",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "chemicals_used": [
+            {
+              "name": "H2-NH2-TPDC",
+              "amount": "0.05 M",
+              "solvent": "DMF"
+            },
+            {
+              "name": "YbCl3·6H2O",
+              "amount": "0.05 M",
+              "solvent": "DMF"
+            },
+            {
+              "name": "2,6-difluorobenzoic acid",
+              "amount": "1 M",
+              "solvent": "DMF"
+            },
+            {
+              "name": "concentrated hydrochloric acid/DMF",
+              "amount": "1/2.3 v/v"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "1.5 mL"
+            },
+            {
+              "name": "nanopure H2O",
+              "amount": "0.15 mL"
+            }
+          ],
+          "temperature": "120 °C",
+          "time": "14 h",
+          "equipment": "Pyrex vial",
+          "yield": "15 mg",
+          "washing_method": "washed with fresh DMF (3×, 2 mL each time)"
+        },
+        {
+          "step": "Activation",
+          "method": "evacuated under vacuum at room temperature",
+          "solvents_for_exchange": [
+            {
+              "name": "dichloromethane",
+              "cycles": "5"
+            },
+            {
+              "name": "n-pentane",
+              "cycles": "5"
+            }
+          ],
+          "time": "21 hours",
+          "equipment": "Micromeritics Smart VacPrep"
+        }
+      ]
+    },
+    {
+      "name": "Yb-NO2-TPDC",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "chemicals_used": [
+            {
+              "name": "H2-NO2-TPDC",
+              "amount": "0.05 M",
+              "solvent": "DMF"
+            },
+            {
+              "name": "YbCl3·6H2O",
+              "amount": "0.05 M",
+              "solvent": "DMF"
+            },
+            {
+              "name": "2,6-difluorobenzoic acid",
+              "amount": "1 M",
+              "solvent": "DMF"
+            }
+          ],
+          "temperature": "100 °C",
+          "time": "40 h",
+          "equipment": "Pyrex vial equipped with a PTFE cap",
+          "yield": "2.3 mg",
+          "washing_method": "washed with fresh DMF (3×, 1 mL each time)"
+        }
+      ]
+    },
+    {
+      "name": "YbCl3·6H2O",
+      "synthesis_conditions": [
+        {
+          "step": "Sensing Experiments",
+          "chemicals_used": [
+            {
+              "name": "YbCl3·6H2O",
+              "amount": "1 mg/mL",
+              "solvent": "DMF"
+            },
+            {
+              "name": "Gsp/acetone solution",
+              "concentration_range": "0, 0.5, 1, 3, 5, 7, 10, 25, 50 μg/mL"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "2 mL"
+            },
+            {
+              "name": "acetone",
+              "amount": "1 mL"
+            }
+          ],
+          "temperature": "room temperature",
+          "time": "5 min",
+          "equipment": "standard fluorescence macro cuvette",
+          "excitation_wavelength": "400 nm"
+        }
+      ]
+    },
+    {
+      "name": "NdCl3·6H2O",
+      "synthesis_conditions": [
+        {
+          "step": "Sensing Experiments",
+          "chemicals_used": [
+            {
+              "name": "NdCl3·6H2O",
+              "amount": "1 mg/mL",
+              "solvent": "DMF"
+            },
+            {
+              "name": "Gsp/acetone solution",
+              "concentration_range": "0, 1, 3, 5, 7, 10, 25, 50, 75, 100 μg/mL"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "2 mL"
+            },
+            {
+              "name": "acetone",
+              "amount": "1 mL"
+            }
+          ],
+          "temperature": "room temperature",
+          "time": "5 min",
+          "equipment": "standard fluorescence macro cuvette",
+          "excitation_wavelength": "400 nm"
+        }
+      ]
+    }
+  ]
+}

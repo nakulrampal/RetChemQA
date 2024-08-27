@@ -1,0 +1,214 @@
+{
+  "materials": [
+    {
+      "name": "Zn-SBU",
+      "synthesis_conditions": {
+        "temperature": "25 °C",
+        "solvents": [
+          {
+            "name": "MeCN",
+            "amount": "100 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ZnO",
+            "amount": "1.00 g, 12.28 mmol"
+          },
+          {
+            "name": "[NH2Me2][O2CNMe2]",
+            "amount": "20 mL, 156.5 mmol"
+          }
+        ],
+        "time": "overnight",
+        "washing_method": "filtration",
+        "drying_method": "vacuum at 25 °C",
+        "yield": "2.74 g, 92%"
+      }
+    },
+    {
+      "name": "[H4PZ][PZ(CO2)2] (PZ-CO2)",
+      "synthesis_conditions": {
+        "temperature": "25 °C",
+        "solvents": [
+          {
+            "name": "MeOH",
+            "amount": "5.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H2PZ",
+            "amount": "0.5 g, 5.80 mmol"
+          }
+        ],
+        "time": "2 hours",
+        "washing_method": "filtration with deoxidized MeOH",
+        "drying_method": "vacuum at 25 °C",
+        "yield": "15%"
+      }
+    },
+    {
+      "name": "[HDBU]2[PZ(CO2)2]·2MeCN (PZ-CO2-DBU)",
+      "synthesis_conditions": {
+        "temperature": "25 °C",
+        "solvents": [
+          {
+            "name": "MeCN",
+            "amount": "20 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H2PZ",
+            "amount": "344.6 mg, 4.00 mmol"
+          },
+          {
+            "name": "DBU",
+            "amount": "1.196 mL, 8.00 mmol"
+          }
+        ],
+        "time": "12 hours",
+        "washing_method": "filtration with anhydrous MeCN",
+        "drying_method": "vacuum at 25 °C",
+        "yield": "82%"
+      }
+    },
+    {
+      "name": "[Zn4O(PDC)3] (1)",
+      "synthesis_conditions": {
+        "temperature": "25 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "100 mL"
+          },
+          {
+            "name": "iPrOH",
+            "amount": "100 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zn(OAc)2·2H2O",
+            "amount": "878.0 mg, 4.00 mmol"
+          },
+          {
+            "name": "H2PZ",
+            "amount": "258.4 mg, 3.00 mmol"
+          },
+          {
+            "name": "DBU",
+            "amount": "1.795 mL, 12.0 mmol"
+          }
+        ],
+        "time": "overnight",
+        "washing_method": "filtration with DMF and iPrOH",
+        "drying_method": "vacuum at 25 °C",
+        "yield": "80%"
+      }
+    },
+    {
+      "name": "[Zn4O(S-mPDC)3] (2)",
+      "synthesis_conditions": {
+        "temperature": "25 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "30 mL"
+          },
+          {
+            "name": "iPrOH",
+            "amount": "30 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zn(OAc)2·2H2O",
+            "amount": "263.4 mg, 1.20 mmol"
+          },
+          {
+            "name": "(S)-(+)-2-methylpiperazine",
+            "amount": "90.2 mg, 0.90 mmol"
+          },
+          {
+            "name": "DBU",
+            "amount": "540 μL, 3.60 mmol"
+          }
+        ],
+        "time": "overnight",
+        "washing_method": "filtration with DMF and iPrOH",
+        "drying_method": "vacuum at 25 °C",
+        "yield": "80%"
+      }
+    },
+    {
+      "name": "[Zn4O(R-mPDC)3] (3)",
+      "synthesis_conditions": {
+        "temperature": "25 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "30 mL"
+          },
+          {
+            "name": "iPrOH",
+            "amount": "30 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zn(OAc)2·2H2O",
+            "amount": "263.4 mg, 1.20 mmol"
+          },
+          {
+            "name": "(R)-(−)-2-methylpiperazine",
+            "amount": "90.2 mg, 0.90 mmol"
+          },
+          {
+            "name": "DBU",
+            "amount": "540 μL, 3.60 mmol"
+          }
+        ],
+        "time": "overnight",
+        "washing_method": "filtration with DMF and iPrOH",
+        "drying_method": "vacuum at 25 °C",
+        "yield": "84%"
+      }
+    },
+    {
+      "name": "[Zn4O(dmPDC)3] (4)",
+      "synthesis_conditions": {
+        "temperature": "25 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "30 mL"
+          },
+          {
+            "name": "iPrOH",
+            "amount": "30 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zn(OAc)2·2H2O",
+            "amount": "263.4 mg, 1.20 mmol"
+          },
+          {
+            "name": "trans-2,5-dimethylpiperazine",
+            "amount": "90.2 mg, 0.90 mmol"
+          },
+          {
+            "name": "DBU",
+            "amount": "540 μL, 3.60 mmol"
+          }
+        ],
+        "time": "overnight",
+        "washing_method": "filtration with DMF and iPrOH",
+        "drying_method": "vacuum at 25 °C",
+        "yield": "59%"
+      }
+    }
+  ]
+}

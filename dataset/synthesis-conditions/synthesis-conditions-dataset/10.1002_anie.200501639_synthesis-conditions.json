@@ -1,0 +1,52 @@
+{
+  "materials": [
+    {
+      "name": "methyl-substituted pyrazine analogue [{RhII2(bza)4(2-mpyz)}n] (2)",
+      "synthesis_conditions": {
+        "method": "same method used to prepare 1",
+        "oxygen_inclusion_crystals_generation": {
+          "pressure": "about 1.0 MPa",
+          "temperature": "room temperature"
+        },
+        "yield": "60.7 %",
+        "elemental_analysis": {
+          "calculated": {
+            "C": "50.53 %",
+            "H": "3.34 %",
+            "N": "3.62 %"
+          },
+          "found": {
+            "C": "49.99 %",
+            "H": "3.31 %",
+            "N": "3.62 %"
+          }
+        }
+      }
+    },
+    {
+      "name": "single crystal of 2",
+      "synthesis_conditions": {
+        "equipment": "Bruker Smart APEX CCD area diffractometer with a helium-flow temperature controller (Japan Thermal Eng. TC-10 KCP) and graphite-monochromated MoKa radiation (l = 0.71073 C)",
+        "method": "sealed in a glass capillary containing liquid oxygen in a liquid-nitrogen bath",
+        "temperature": "room temperature",
+        "pressure_estimation": "1.0 MPa at room temperature",
+        "absorption_corrections": "SADABS program",
+        "structure_solution": "direct methods (SHELXS-97)",
+        "refinement": "full-matrix least-squares calculations on F2 (SHELXL-97) with the SHELX-TL program package",
+        "non-hydrogen_atoms_refinement": "anisotropically",
+        "hydrogen_atoms_refinement": "fixed at calculated positions and refined with a riding model"
+      }
+    },
+    {
+      "name": "crystals of 2 for magnetic measurements",
+      "synthesis_conditions": {
+        "equipment": "SQUID magnetometer (Quantum Design MPMS-XL)",
+        "method": "packed in a glass tube with pressurized oxygen gas",
+        "temperature": "room temperature",
+        "pressure": "2.0 MPa",
+        "additional_info": "The glass cell has a mechanism that can separate the condensed excess oxygen from the crystals of 2.",
+        "molar_magnetization_calculation_basis": "mass of 2 with the chemical composition of 2·3 O2 after deducting the trace background values of cell and host crystal 2"
+      }
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "Iron Phosphonates": {
+    "Compound 1": {
+      "temperature": "200 8C",
+      "solvent": "methanol",
+      "amount_of_solvent": "10 mL",
+      "equipment": "23-mL teflon-lined autoclave",
+      "chemicals_used": {
+        "anhydrous FeCl3": "0.25 g, 1.54 mmol",
+        "NaI": "2 g, 13.3 mmol",
+        "H2O3PCH2N(CH2CO2H)2 (PMIDA)": "0.440 g, 1.94 mmol",
+        "NaOH": "0.308 g, 7.7 mmol"
+      },
+      "time": "43 h",
+      "cooling_time": "5 h to room temperature",
+      "washing_method": "washed with methanol, sonicated",
+      "sieving": "63-micron sieve",
+      "drying_method": "dried under vacuum",
+      "yield": "94 mg (18 % based on Fe)",
+      "elemental_analysis": {
+        "calculated": {
+          "C": "17.1 %",
+          "H": "2.4 %",
+          "N": "4.1 %",
+          "P": "9.1 %"
+        },
+        "found": {
+          "C": "16.9 %",
+          "H": "2.3 %",
+          "N": "4.0 %",
+          "P": "8.9 %"
+        }
+      }
+    },
+    "Compound 2": {
+      "chemicals_used": {
+        "H2O3PCH2N(CH2CO2H)2": "0.440 g, 1.94 mmol",
+        "KOH": "0.425 g, 7.57 mmol",
+        "anhydrous FeCl3": "0.25 g, 1.54 mmol"
+      },
+      "yield": "253 mg (46 % based on Fe)",
+      "elemental_analysis": {
+        "calculated": {
+          "C": "16.8 %",
+          "H": "1.9 %",
+          "N": "3.9 %",
+          "P": "8.7 %"
+        },
+        "found": {
+          "C": "16.7 %",
+          "H": "1.9 %",
+          "N": "3.6 %",
+          "P": "8.4 %"
+        }
+      }
+    },
+    "Compound 3": {
+      "chemicals_used": {
+        "H2O3PCH2N(CH2CO2H)2": "0.440 g, 1.94 mmol",
+        "RbOH": "0.776 g, 7.57 mmol",
+        "anhydrous FeCl3": "0.25 g, 1.54 mmol"
+      },
+      "yield": "359 mg (54 % based on Fe)",
+      "elemental_analysis": {
+        "calculated": {
+          "C": "14.1 %",
+          "H": "1.6 %",
+          "N": "3.3 %",
+          "Fe": "13.1 %",
+          "Rb": "33.3 %"
+        },
+        "found": {
+          "C": "14.0 %",
+          "H": "1.7 %",
+          "N": "3.0 %",
+          "Fe": "14.7(±0.9) %",
+          "Rb": "30.1(±1.3) %"
+        }
+      }
+    }
+  }
+}

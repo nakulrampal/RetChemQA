@@ -1,0 +1,28 @@
+{
+  "materials": [
+    {
+      "material_id": "3",
+      "synthesis_conditions": {
+        "precursors": [
+          "Cl−Au-LL-Au−Cl",
+          "CF3CO2Ag",
+          "free diphosphine LL"
+        ],
+        "ligand": "trans-Ph2PCH=CHPPh2",
+        "product_form": "trifluoroacetate salt",
+        "description": "Complex 3 was prepared by reaction of Cl−Au-LL-Au−Cl with CF3CO2Ag in the presence of free diphosphine LL."
+      }
+    },
+    {
+      "material_id": "4",
+      "synthesis_conditions": {
+        "precursors": [
+          "Similar to complex 3"
+        ],
+        "ligand": "Ph2P(CH2)4PPh2",
+        "product_form": "dicyanoaurate(I) salt",
+        "description": "Complex 4 was prepared in a similar way to complex 3 but was crystallized, following anion exchange, as the dicyanoaurate(I) salt."
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "materials": [
+    {
+      "name": "ZJU-75a",
+      "synthesis_conditions": {
+        "temperature": "Room Temperature",
+        "solvents": [
+          {
+            "name": "MeOH/water",
+            "amount": "Not specified"
+          },
+          {
+            "name": "water/ethanol",
+            "amount": "Not specified"
+          }
+        ],
+        "equipment": "Not specified",
+        "chemicals_used": [
+          "Co(NO3)2·6 H2O",
+          "pyz-NH2",
+          "K2[Ni(CN)4]·n H2O"
+        ],
+        "time": [
+          "Two weeks for single-crystal X-ray analysis",
+          "Eight hours for bulk powder samples"
+        ],
+        "washing_method": "Filtration",
+        "drying_method": "Not specified",
+        "yield": "75%",
+        "additional_information": "Green and RT synthesis method, scalable up to kilogram-scale"
+      }
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "materials": [
+    {
+      "name": "Tecton 1",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "CH2Cl2",
+            "amount": "50 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "alcohol 4",
+            "amount": "2 mL, 22 mmol"
+          },
+          {
+            "name": "DMAP",
+            "amount": "0.1 eq"
+          },
+          {
+            "name": "Et3N",
+            "amount": "2 eq"
+          },
+          {
+            "name": "Tosyl Chloride",
+            "amount": "1 eq"
+          }
+        ],
+        "yield": "79%",
+        "washing_method": "water (100 ml) and aq.NaHCO3 (10%, 2 x 100mL)",
+        "drying_method": "MgSO4",
+        "purification_method": "column chromatography (SiO2, eluent: Cyclohexane/CH2Cl2 4/1 then 1/1)"
+      }
+    },
+    {
+      "name": "Tecton 2",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "CH2Cl2",
+            "amount": "50 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "alcohol 6",
+            "amount": "2 mL, 19 mmol"
+          },
+          {
+            "name": "DMAP",
+            "amount": "0.1 eq"
+          },
+          {
+            "name": "Et3N",
+            "amount": "2 eq"
+          },
+          {
+            "name": "Tosyl Chloride",
+            "amount": "1 eq"
+          }
+        ],
+        "yield": "98%",
+        "washing_method": "water (100 ml) and aq.NaHCO3 (10%, 2 x 100mL)",
+        "drying_method": "MgSO4",
+        "purification_method": "column chromatography (SiO2, eluent: Cyclohexane/CH2Cl2 4/1 then 1/1)"
+      }
+    },
+    {
+      "name": "Tecton 3",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "CH2Cl2",
+            "amount": "20 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "alcohol 8",
+            "amount": "3 g, 39 mmol"
+          },
+          {
+            "name": "Et3N",
+            "amount": "6.6 mL, 49 mmol, 1.2 eq"
+          },
+          {
+            "name": "Tosyl Chloride",
+            "amount": "7.52 g, 39 mmol, 1eq"
+          }
+        ],
+        "yield": "50%",
+        "washing_method": "HCl (1M, 50 mL), water (100 mL) and aq.NaHCO3 (sat., 100 mL)",
+        "drying_method": "MgSO4",
+        "purification_method": "column chromatography (SiO2, CH2Cl2)"
+      }
+    },
+    {
+      "name": "1-ZnSiF6",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "DMSO",
+            "amount": "0.1 mL"
+          },
+          {
+            "name": "EtOH",
+            "amount": "1 mL"
+          },
+          {
+            "name": "CHCl3",
+            "amount": "1 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ZnSiF6",
+            "amount": "5 mg"
+          },
+          {
+            "name": "Tecton 1",
+            "amount": "3 mg"
+          }
+        ],
+        "crystallization_method": "slow diffusion"
+      }
+    },
+    {
+      "name": "2-ZnSiF6",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "DMSO",
+            "amount": "0.1 mL"
+          },
+          {
+            "name": "EtOH",
+            "amount": "1 mL"
+          },
+          {
+            "name": "CHCl3",
+            "amount": "1 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ZnSiF6",
+            "amount": "5 mg"
+          },
+          {
+            "name": "Tecton 2",
+            "amount": "3 mg"
+          }
+        ],
+        "crystallization_method": "slow diffusion"
+      }
+    },
+    {
+      "name": "3-ZnSiF6",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "DMSO",
+            "amount": "0.1 mL"
+          },
+          {
+            "name": "EtOH",
+            "amount": "1 mL"
+          },
+          {
+            "name": "CHCl3/MeOH 9/1 mixture",
+            "amount": "1 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ZnSiF6",
+            "amount": "5 mg"
+          },
+          {
+            "name": "Tecton 3",
+            "amount": "3 mg"
+          }
+        ],
+        "crystallization_method": "slow diffusion"
+      }
+    }
+  ]
+}

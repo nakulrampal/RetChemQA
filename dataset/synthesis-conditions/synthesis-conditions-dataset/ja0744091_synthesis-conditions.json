@@ -1,0 +1,91 @@
+{
+  "materials": [
+    {
+      "name": "L(Et)3",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "1,3,5-Triethynylbenzene",
+          "azidoglycine ethyl ester",
+          "copper (II) sulphate",
+          "sodium ascorbate"
+        ],
+        "solvents": [
+          {
+            "name": "tert-butanol",
+            "amount": "250 mL"
+          },
+          {
+            "name": "water",
+            "amount": "50 mL"
+          }
+        ],
+        "temperature": "room temperature",
+        "time": "24h",
+        "yield": "94%",
+        "washing_method": "extracted four times with dichloromethane",
+        "drying_method": "dried with MgSO4"
+      }
+    },
+    {
+      "name": "LH3",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "triester (L(Et)3)"
+        ],
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "50 mL"
+          },
+          {
+            "name": "THF",
+            "amount": "50 mL"
+          },
+          {
+            "name": "water",
+            "amount": "10 mL"
+          }
+        ],
+        "temperature": "70°C",
+        "time": "overnight + 3 additional hours",
+        "yield": "99%",
+        "washing_method": "washed three times with water",
+        "drying_method": "dried by azeotropic distillation with ethanol"
+      }
+    },
+    {
+      "name": "La(L)(H2O)2·6H2O",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "LH3",
+          "La(NO3)·(H2O)6 or La(OH)3",
+          "HCl (for single crystals)"
+        ],
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "2.5 mL"
+          },
+          {
+            "name": "ethanol or cyclohexanol",
+            "amount": "2.5 mL"
+          }
+        ],
+        "temperature": "100°C",
+        "time": "3 days",
+        "yield": "55%",
+        "washing_method": "washed with water, ethanol, acetone",
+        "drying_method": "dried in air"
+      }
+    },
+    {
+      "name": "La(L)(H2O)2",
+      "synthesis_conditions": {
+        "preparation_method": "La(L)(H2O)2·6H2O was placed in an oven at 100°C for one hour, or outgassed under primary vacuum at room temperature for few hours, or washed with small amount of DMF or DMSO.",
+        "yield": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "materials": [
+    {
+      "name": "Zn1",
+      "synthesis_conditions": {
+        "method": "hydro-thermal method",
+        "precursors": [
+          {
+            "name": "Zn(CH3COO)2·2H2O",
+            "amount": "43.90 mg",
+            "molar_amount": "0.20 mmol"
+          },
+          {
+            "name": "H2tbia",
+            "amount": "33.90 mg",
+            "molar_amount": "0.10 mmol"
+          }
+        ],
+        "solvent": "deionized water",
+        "solvent_amount": "4 mL",
+        "equipment": "Teflon-lined stainless steel (20 mL)",
+        "temperature": "120 °C",
+        "time": "2 days",
+        "washing_solvent": "deionized water",
+        "drying_method": "heated at 85 °C overnight",
+        "yield": "65 % (based on H2tbia)",
+        "analytical_data": {
+          "FT-IR": "3057 (w), 1717 (vs), 1619 (m), 1561 (s), 1458 (m), 1407 (vs), 1383 (m), 1284 (vs), 1142 (s), 1045 (vs), 974 (s), 860 (m), 759 (s), 662 (vs), 538 (m), 458 (m)"
+        }
+      }
+    },
+    {
+      "name": "Zn2@ZIF-8@SA gel",
+      "synthesis_conditions": {
+        "method": "liquid phase epitaxy (LPE)",
+        "precursors": [
+          {
+            "name": "Zn(CH3COO)2·2H2O",
+            "amount": "65.85 mg",
+            "molar_amount": "0.30 mmol"
+          },
+          {
+            "name": "H2tbia",
+            "amount": "33.90 mg",
+            "molar_amount": "0.10 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2.0 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "4.0 mL"
+          }
+        ],
+        "equipment": "Teflon-lined stainless steel (20.0 mL)",
+        "temperature": "120 °C",
+        "time": "2 days",
+        "additional_steps": [
+          {
+            "description": "Zn2@ZIF-8 was alternately put in 2-methylimidazole solution and Zn(NO3)2·6H2O solution for 10 cycles",
+            "solvents": [
+              {
+                "name": "2-methylimidazole solution",
+                "concentration": "32.8 mg·mL−1"
+              },
+              {
+                "name": "Zn(NO3)2·6H2O solution",
+                "concentration": "29.7 mg·mL−1"
+              }
+            ]
+          },
+          {
+            "description": "Zn2@ZIF-8 (616 mg), SA powders (137 mg), CMC powders (22 mg) were dispersed in distilled water (3 mL) with continuous stirring for 60 min to form the white Zn2@ZIF-8@SA gel",
+            "solvent": "distilled water",
+            "solvent_amount": "3 mL",
+            "stirring_time": "60 min"
+          }
+        ],
+        "yield": "71 % (based on H2tbia)",
+        "analytical_data": {
+          "FT-IR": "3084 (m), 1622 (s), 1556 (vs), 1451 (s), 1383 (s), 1327 (m), 1287 (m), 1249 (m), 1145 (m), 1048 (vs), 971 (vs), 780 (vs), 718 (s), 667 (vs), 541 (w), 479 (w)"
+        }
+      }
+    }
+  ]
+}

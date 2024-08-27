@@ -1,0 +1,73 @@
+{
+  "materials": [
+    {
+      "name": "{[(Tp)Fe(CN)3]2Co(BIT)} · 2CH3OH (1)",
+      "synthesis_conditions": {
+        "method": "diffusion",
+        "precursors": [
+          "Co(ClO4)2 · 6 H2O",
+          "[Bu4N][(Tp)Fe(CN)3]",
+          "BIT"
+        ],
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "not specified"
+          },
+          {
+            "name": "water",
+            "amount": "not specified"
+          }
+        ],
+        "temperature": "not specified",
+        "equipment": "not specified",
+        "time": "not specified",
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "desolvated 1",
+      "synthesis_conditions": {
+        "method": "heating",
+        "temperature": "360 K to 380 K",
+        "time": "not specified",
+        "equipment": "not specified",
+        "chemicals_used": "1",
+        "solvents": "not specified",
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "HT* phase of 1",
+      "synthesis_conditions": {
+        "method": "photo-irradiation",
+        "equipment": "946 nm diode laser",
+        "temperature": "10 K",
+        "time": "30 minutes",
+        "chemicals_used": "1 in LT phase",
+        "solvents": "not specified",
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "HTsc phase of 1",
+      "synthesis_conditions": {
+        "method": "rapid cooling",
+        "temperature": "from ambient temperature to 30 K",
+        "equipment": "diffractometer",
+        "time": "not specified",
+        "chemicals_used": "1 in HT phase",
+        "solvents": "not specified",
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified"
+      }
+    }
+  ]
+}

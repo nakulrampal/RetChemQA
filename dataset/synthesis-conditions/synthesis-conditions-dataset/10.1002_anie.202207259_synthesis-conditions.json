@@ -1,0 +1,118 @@
+{
+  "materials": [
+    {
+      "name": "UiO-66",
+      "synthesis_conditions": {
+        "structure": "12-connected {Zr6(μ3-O)4(μ3-OH)4(OOCR)12} clusters bridged by dicarboxylates",
+        "topology": "fcu",
+        "cages": [
+          {
+            "type": "octahedral",
+            "diameter": "9–12 Å"
+          },
+          {
+            "type": "tetrahedral",
+            "diameter": "7.3 Å"
+          }
+        ],
+        "BET_surface_area": "1221 m2 g-1",
+        "SO2_uptake": {
+          "298K_1bar": "8.6 mmol g-1",
+          "273K_1bar": "Not provided"
+        }
+      }
+    },
+    {
+      "name": "UiO-66-NH2",
+      "synthesis_conditions": {
+        "structure": "Iso-structural with UiO-66, decorated with free NH2 sites",
+        "BET_surface_area": "1037 m2 g-1",
+        "SO2_uptake": {
+          "298K_1bar": "8.8 mmol g-1",
+          "273K_1bar": "Not provided"
+        }
+      }
+    },
+    {
+      "name": "UiO-66-CuII",
+      "synthesis_conditions": {
+        "structure": "Iso-structural with UiO-66, defect sites with free OH/OH2 sites decorated with open CuII sites",
+        "BET_surface_area": "1068 m2 g-1",
+        "SO2_uptake": {
+          "298K_1bar": "8.2 mmol g-1",
+          "273K_1bar": "Not provided"
+        }
+      }
+    },
+    {
+      "name": "Zr-DMTDC",
+      "synthesis_conditions": {
+        "structure": "Iso-structural with UiO-66, pores decorated with S sites",
+        "BET_surface_area": "1345 m2 g-1",
+        "SO2_uptake": {
+          "298K_1bar": "9.6 mmol g-1",
+          "273K_1bar": "Not provided"
+        }
+      }
+    },
+    {
+      "name": "Zr-bptc",
+      "synthesis_conditions": {
+        "structure": "{Zr6(μ3-O)4(μ3-OH)4(OOCR)12} clusters and tetracarboxylate ligands, ftw topology",
+        "cages": [
+          {
+            "type": "cubic",
+            "diameter": "12 Å"
+          },
+          {
+            "type": "tetrahedral",
+            "diameter": "4.5 Å"
+          }
+        ],
+        "BET_surface_area": "960 m2 g-1",
+        "SO2_uptake": {
+          "298K_1bar": "7.8 mmol g-1",
+          "273K_1bar": "Not provided",
+          "298K_0.1bar": "6.2 mmol g-1"
+        }
+      }
+    },
+    {
+      "name": "MFM-133",
+      "synthesis_conditions": {
+        "structure": "8-connected {Zr6(OH)8(OH)8(OOCR)8} clusters and thcb4 ligands, flu topology",
+        "cage": {
+          "type": "axially elongated octahedral",
+          "dimensions": "10.4 × 10.4 × 25.9 Å"
+        },
+        "BET_surface_area": "2156 m2 g-1",
+        "SO2_uptake": {
+          "298K_1bar": "8.9 mmol g-1",
+          "273K_1bar": "Not provided"
+        }
+      }
+    },
+    {
+      "name": "MFM-422",
+      "synthesis_conditions": {
+        "structure": "8-connected {Zr6(OH)8(OH)8(OOCR)8} clusters with tetratopic ligand, sqc topology",
+        "cages": [
+          {
+            "type": "trigonal",
+            "diameter": "7.7 Å"
+          },
+          {
+            "type": "hexagonal",
+            "diameter": "30 Å"
+          }
+        ],
+        "BET_surface_area": "3296 m2 g-1",
+        "thermal_stability": "up to 500 °C",
+        "SO2_uptake": {
+          "298K_1bar": "13.6 mmol g-1",
+          "273K_1bar": "31.3 mmol g-1"
+        }
+      }
+    }
+  ]
+}

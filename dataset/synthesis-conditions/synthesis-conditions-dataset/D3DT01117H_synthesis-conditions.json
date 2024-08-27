@@ -1,0 +1,108 @@
+{
+  "materials": [
+    {
+      "name": "Eu(H3L)(C2O4)·2H2O (1)",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": "H2O",
+        "amount_of_solvent": "8.0 mL",
+        "equipment": "Teflon-lined stainless steel autoclave (20.0 mL)",
+        "chemicals_used": [
+          {
+            "name": "EuCl3·6H2O",
+            "amount": "0.50 mmol"
+          },
+          {
+            "name": "H4L",
+            "amount": "0.50 mmol"
+          },
+          {
+            "name": "H2C2O4·2H2O",
+            "amount": "2.0 mmol"
+          }
+        ],
+        "time": "96 h",
+        "yield": "70.1%",
+        "drying_method": "room temperature"
+      }
+    },
+    {
+      "name": "Gd(H3L)(C2O4)·2H2O (2)",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": "H2O",
+        "amount_of_solvent": "8.0 mL",
+        "equipment": "Teflon-lined stainless steel autoclave (20.0 mL)",
+        "chemicals_used": [
+          {
+            "name": "GdCl3·6H2O",
+            "amount": "0.50 mmol"
+          },
+          {
+            "name": "H4L",
+            "amount": "0.50 mmol"
+          },
+          {
+            "name": "H2C2O4·2H2O",
+            "amount": "2.0 mmol"
+          }
+        ],
+        "time": "96 h",
+        "yield": "67.9%",
+        "drying_method": "room temperature"
+      }
+    },
+    {
+      "name": "Tb(H3L)(C2O4)·2H2O (3)",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": "H2O",
+        "amount_of_solvent": "8.0 mL",
+        "equipment": "Teflon-lined stainless steel autoclave (20.0 mL)",
+        "chemicals_used": [
+          {
+            "name": "TbCl3·6H2O",
+            "amount": "0.50 mmol"
+          },
+          {
+            "name": "H4L",
+            "amount": "0.50 mmol"
+          },
+          {
+            "name": "H2C2O4·2H2O",
+            "amount": "2.0 mmol"
+          }
+        ],
+        "time": "96 h",
+        "yield": "68.8%",
+        "drying_method": "room temperature"
+      }
+    },
+    {
+      "name": "Bimetallic or trimetallic doped Ln-MOFs (EuxTb1−x (x = 0.02 (4), 0.04 (5), and 0.06 (6)), Gd0.94Eu0.06 (7), Gd0.96Tb0.04 (8), and Gd0.95Tb0.03Eu0.02 (9))",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": "H2O",
+        "amount_of_solvent": "8.0 mL",
+        "equipment": "Teflon-lined stainless steel autoclave (20.0 mL)",
+        "chemicals_used": [
+          {
+            "name": "LnCl3·6H2O (EuCl3·6H2O, GdCl3·6H2O, and/or TbCl3·6H2O)",
+            "amount": "0.5 mmol total, with varying ratios for different compounds"
+          },
+          {
+            "name": "H4L",
+            "amount": "0.50 mmol"
+          },
+          {
+            "name": "H2C2O4·2H2O",
+            "amount": "2.0 mmol"
+          }
+        ],
+        "time": "96 h",
+        "drying_method": "room temperature",
+        "notes": "The total amount of pairwise metal ions remained 0.5 mmol."
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "materials": [
+    {
+      "name": "Zn(CN)(N03)(tpt)2/3.3/4C2H2Cl4.3/4CH30H",
+      "synthesis_conditions": {
+        "temperature": "295(1) K",
+        "radiation_wavelength": "MoKa, λ = 0.71069 A",
+        "instrument": "Enraf-Nonius CAD-4MachS Diffractometer",
+        "method": "ω/2θ scan",
+        "solvents": [
+          {
+            "name": "C2H2Cl4",
+            "amount": "3/4"
+          },
+          {
+            "name": "CH3OH",
+            "amount": "3/4"
+          }
+        ],
+        "crystal_system": "cubic",
+        "space_group": "Im3m (No. 229)",
+        "a": "23.448(4) A",
+        "U": "12892(4) A3",
+        "Z": "24",
+        "pc": "1.58 g cm-3",
+        "pm": "1.61(1) g cm-3",
+        "mu": "15.26 cm-1",
+        "F(000)": "6167.65",
+        "refinement_method": "full-matrix least-squares; function minimised ΣwΔ^2 (SHELX-76)",
+        "anisotropic_thermal_parameters_applied_to": "all non-hydrogen atoms except those of the disordered solvent structure",
+        "R": "0.0672",
+        "Rw": "0.0656",
+        "reflections_with_I_greater_than_3sigma(I)": "883",
+        "final_R": "Σ|ΔF|/Σ|Fol|",
+        "final_Rw": "Σw1/2|ΔF|/Σw1/2|Fol|"
+      }
+    }
+  ]
+}

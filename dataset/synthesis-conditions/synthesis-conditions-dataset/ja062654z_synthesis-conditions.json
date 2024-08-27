@@ -1,0 +1,117 @@
+{
+  "materials": [
+    {
+      "name": "2,2’-Bis(5,10,15-tris(pentafluorophenyl)corrole) 3",
+      "synthesis": {
+        "temperature": "70 °C",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "3 mL"
+          },
+          {
+            "name": "water",
+            "amount": "0.3 mL"
+          }
+        ],
+        "chemicals_used": [
+          "2-boryl corrole",
+          "Cs2CO3",
+          "Chloroacetone",
+          "[1,4-bis(diphenylphosphino)butane]dichloropalladium"
+        ],
+        "time": "5 h",
+        "yield": "82%",
+        "washing_method": "10% HCl aqueous solution, water, brine",
+        "drying_method": "anhydrous Na2SO4"
+      }
+    },
+    {
+      "name": "2,2’18,18’-Bis(5,10,15-tris(pentafluorophenyl)corrole) 1",
+      "synthesis": {
+        "temperature": "50 °C",
+        "solvents": [
+          {
+            "name": "toluene",
+            "amount": "not specified"
+          },
+          {
+            "name": "THF/MeOH",
+            "amount": "10/1, v/v"
+          }
+        ],
+        "chemicals_used": [
+          "3",
+          "DDQ",
+          "NaBH4"
+        ],
+        "time": "30 min",
+        "yield": "67%",
+        "washing_method": "water, brine",
+        "drying_method": "anhydrous Na2SO4"
+      }
+    },
+    {
+      "name": "2,2’18,18’-Bis(5,10,15-tris(pentafluorophenyl)corrole) oxidized form 4",
+      "synthesis": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "toluene",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          "3",
+          "DDQ"
+        ],
+        "time": "2 h",
+        "yield": "83%",
+        "washing_method": "silica plug with CH2Cl2",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "2,2’18,18’-Bis(5,10,15-tris(pentafluorophenyl)corrole) Co(III) triphenylphosphine complex 5",
+      "synthesis": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "EtOH",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          "1",
+          "NaOAc",
+          "Co(OAc)2",
+          "PPh3"
+        ],
+        "time": "1.5 h",
+        "yield": "78%",
+        "washing_method": "silica gel with CH2Cl2",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "2,2’18,18’-Bis(5,10,15-tris(pentafluorophenyl)corrole) Zn(II) biradical 6",
+      "synthesis": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "CHCl3",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          "4",
+          "Zn(OAc)2 in EtOH"
+        ],
+        "time": "1 h",
+        "yield": "54%",
+        "washing_method": "water, brine",
+        "drying_method": "anhydrous Na2SO4"
+      }
+    }
+  ]
+}

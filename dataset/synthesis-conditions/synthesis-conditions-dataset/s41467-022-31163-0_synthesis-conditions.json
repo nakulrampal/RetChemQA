@@ -1,0 +1,132 @@
+{
+  "materials": [
+    {
+      "name": "Zr-DPT",
+      "synthesis_conditions": {
+        "temperature": "120 °C for 22 hours, then activated at 130°C overnight under high vacuum",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "25 mL"
+          }
+        ],
+        "equipment": "100 mL glass vial",
+        "chemicals_used": [
+          {
+            "name": "Zirconium chloride",
+            "amount": "58.2 mg"
+          },
+          {
+            "name": "5,12-bis(4-carboxyphenyl) tetracene",
+            "amount": "117.1 mg"
+          },
+          {
+            "name": "Acetic acid",
+            "amount": "1.72 mL"
+          }
+        ],
+        "washing_method": "Repeatedly washed with a total amount of 50 mL DMF and 50 mL tetrahydrofuran",
+        "drying_method": "Activated at 130°C overnight under high vacuum"
+      }
+    },
+    {
+      "name": "Zr-DPA",
+      "synthesis_conditions": {
+        "temperature": "120 °C for 22 hours, then activated at 130°C overnight under high vacuum",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "50 mL"
+          },
+          {
+            "name": "Deionized water",
+            "amount": "50 µL"
+          }
+        ],
+        "equipment": "100 mL glass vial",
+        "chemicals_used": [
+          {
+            "name": "Zirconium chloride",
+            "amount": "116.5 mg"
+          },
+          {
+            "name": "9,10-bis(4-carboxyphenyl) anthracene",
+            "amount": "209 mg"
+          },
+          {
+            "name": "Acetic acid",
+            "amount": "1.43 mL"
+          }
+        ],
+        "washing_method": "Washed with DMF and tetrahydrofuran",
+        "drying_method": "Activated at 130 °C overnight under high vacuum"
+      }
+    },
+    {
+      "name": "Zr-DPT:DPA-x%",
+      "synthesis_conditions": {
+        "temperature": "120 °C for 22 hours, then activated at 130°C overnight under high vacuum",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "50 mL"
+          },
+          {
+            "name": "Deionized water",
+            "amount": "25 µL"
+          }
+        ],
+        "equipment": "100 mL glass vial",
+        "chemicals_used": [
+          {
+            "name": "Zirconium chloride",
+            "amount": "116.5 mg"
+          },
+          {
+            "name": "9,10-bis(4-carboxyphenyl) anthracene",
+            "amount": "varies"
+          },
+          {
+            "name": "5,12-bis(4-carboxyphenyl) tetracene",
+            "amount": "varies"
+          },
+          {
+            "name": "Acetic acid",
+            "amount": "varies"
+          }
+        ],
+        "washing_method": "Repeatedly washed with a total amount of 50 mL DMF and 50 mL tetrahydrofuran",
+        "drying_method": "Activated at 130°C overnight under high vacuum"
+      }
+    },
+    {
+      "name": "Zr-DPT:DPA-8%:PDMS nanocomposite",
+      "synthesis_conditions": {
+        "temperature": "60 °C for 16 hours under vacuum",
+        "solvents": [
+          {
+            "name": "Dry tetrahydrofuran",
+            "amount": "0.5 mL"
+          }
+        ],
+        "equipment": "Glass mold",
+        "chemicals_used": [
+          {
+            "name": "PDMS prepolymer RTV 615 base",
+            "amount": "3.0 g"
+          },
+          {
+            "name": "Zr-DPT:DPA-8% MOFs",
+            "amount": "16.5 mg"
+          },
+          {
+            "name": "RTV 615 curing agent",
+            "amount": "0.3 g"
+          }
+        ],
+        "washing_method": "Not applicable",
+        "drying_method": "Degassed under vacuum for 2 hours, then heated at 60 °C for 16 hours under vacuum"
+      }
+    }
+  ]
+}

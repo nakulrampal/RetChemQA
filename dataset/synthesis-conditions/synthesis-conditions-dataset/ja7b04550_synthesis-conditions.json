@@ -1,0 +1,255 @@
+{
+  "materials": [
+    {
+      "material": "1-Benzyl-1,4-diazabicyclo[2.2.2]octan-1-ium (bz-ted)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Ted",
+            "amount": "1.12 g, 10 mmol"
+          },
+          {
+            "chemical": "Benzyl bromide",
+            "amount": "1.71 g, 10 mmol"
+          }
+        ],
+        "solvent": "Acetone",
+        "solvent_amount": "50 mL",
+        "equipment": "Reaction vial",
+        "temperature": "Room temperature",
+        "time": "A few hours",
+        "yield": "87%"
+      }
+    },
+    {
+      "material": "1-(3-Chloropropyl)-1,4-diazabicyclo[2.2.2]octan-1-ium (3-Cl-pr-ted)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Ted",
+            "amount": "1.12 g, 10 mmol"
+          },
+          {
+            "chemical": "1-chloro-3-iodopropane",
+            "amount": "2.04 g, 10 mmol"
+          }
+        ],
+        "solvent": "Ethyl estate",
+        "solvent_amount": "40 mL",
+        "equipment": "Reaction vial",
+        "temperature": "Room temperature",
+        "time": "2 h",
+        "yield": "67%"
+      }
+    },
+    {
+      "material": "1-Propyl-1,4-diazabicyclo[2.2.2]octan-1-ium (pr-ted)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Ted",
+            "amount": "1.12g, 10 mmol"
+          },
+          {
+            "chemical": "1-bromopropane",
+            "amount": "1.23 g, 10 mmol"
+          }
+        ],
+        "solvent": "Acetone",
+        "solvent_amount": "50 mL",
+        "equipment": "Reaction vial",
+        "temperature": "Room temperature",
+        "time": "1 h",
+        "yield": "68%"
+      }
+    },
+    {
+      "material": "1-(2-Bromoethyl)-1,4-diazabicyclo[2.2.2]octan-1-ium (2-Br-et-ted)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "1-Bromo-2-iodoethane",
+            "amount": "2.34 g, 10 mmol"
+          },
+          {
+            "chemical": "Ted",
+            "amount": "1.12 g, 10 mmol"
+          }
+        ],
+        "solvent": "Acetone",
+        "solvent_amount": "50 mL",
+        "equipment": "Reaction vial",
+        "temperature": "Room temperature",
+        "time": "A few hours",
+        "yield": "70%"
+      }
+    },
+    {
+      "material": "1-Isopropyl-1,4-diazabicyclo[2.2.2]octan-1-ium (i-pr-ted)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Ted",
+            "amount": "1.12 g, 10 mmol"
+          },
+          {
+            "chemical": "2-bromopropane",
+            "amount": "1.23 g, 10 mmol"
+          }
+        ],
+        "solvent": "Acetone",
+        "solvent_amount": "50 mL",
+        "equipment": "Reaction vial",
+        "temperature": "Room temperature",
+        "time": "1 day",
+        "yield": "75%"
+      }
+    },
+    {
+      "material": "1-Butyl-1,4-diazabicyclo[2.2.2]octan-1-ium (bu-ted)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Ted",
+            "amount": "1.12 g, 10 mmol"
+          },
+          {
+            "chemical": "1-bromobutane",
+            "amount": "1.37 g, 10 mmol"
+          }
+        ],
+        "solvent": "Acetone",
+        "solvent_amount": "50 mL",
+        "equipment": "Reaction vial",
+        "temperature": "Room temperature",
+        "time": "Within an hour",
+        "yield": "80%"
+      }
+    },
+    {
+      "material": "(1H-Benzo[d][1,2,3]triazol-1-yl)methanol (btm)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Benzotriazole (bta)",
+            "amount": "3.4 g, 0.025 mol"
+          },
+          {
+            "chemical": "Formaldehyde solution",
+            "amount": "36%, 10 mL"
+          }
+        ],
+        "solvent": "Distilled water",
+        "solvent_amount": "50 mL",
+        "equipment": "Reaction vial",
+        "temperature": "Reflux for 1.5 h",
+        "time": "1.5 h",
+        "yield": "92%"
+      }
+    },
+    {
+      "material": "1-(Chloromethyl)-1H-benzo[d][1,2,3]triazole (Cl-mbt)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Btm",
+            "amount": "3.7 g, 0.025 mol"
+          },
+          {
+            "chemical": "Thionyl chloride",
+            "amount": "5 mL"
+          }
+        ],
+        "solvent": [
+          {
+            "name": "CH2Cl2",
+            "amount": "60 mL"
+          },
+          {
+            "name": "DMF",
+            "amount": "40 mL"
+          }
+        ],
+        "equipment": "Reaction vial",
+        "temperature": "Room temperature",
+        "time": "2 h",
+        "yield": "85%"
+      }
+    },
+    {
+      "material": "1-(1H-Benzo[d][1,2,3]triazol-1-yl)-N,N,N-trimethylmethanaminium (bttmm)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Cl-mbt",
+            "amount": "3.8 g, 0.025 mol"
+          },
+          {
+            "chemical": "Trimethylamine",
+            "amount": "2 mL"
+          },
+          {
+            "chemical": "KI",
+            "amount": "5 g"
+          }
+        ],
+        "solvent": "Acetone",
+        "solvent_amount": "20 mL",
+        "equipment": "Reaction vial",
+        "temperature": "Room temperature",
+        "time": "Overnight",
+        "yield": "62%"
+      }
+    },
+    {
+      "material": "N-((1H-Benzo[d][1,2,3]triazol-1-yl)methyl)-N,N-dimethyl ethanaminium (btmdme)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Cl-mbt",
+            "amount": "3.8 g, 0.025 mol"
+          },
+          {
+            "chemical": "N,N-dimethylethylamine",
+            "amount": "Not specified"
+          },
+          {
+            "chemical": "KI",
+            "amount": "5 g"
+          }
+        ],
+        "solvent": "Acetone",
+        "solvent_amount": "20 mL",
+        "equipment": "Reaction vial",
+        "temperature": "Room temperature",
+        "time": "Not specified",
+        "yield": "57%"
+      }
+    },
+    {
+      "material": "N-((1H-Benzo[d][1,2,3]triazol-1-yl)methyl)-N,N-dibutylbutan-1-aminium (btmdb)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Cl-mbt",
+            "amount": "3.8 g, 0.025 mol"
+          },
+          {
+            "chemical": "N,N-dimethylethylamine",
+            "amount": "Not specified"
+          },
+          {
+            "chemical": "KI",
+            "amount": "5 g"
+          }
+        ],
+        "solvent": "Acetone",
+        "solvent_amount": "20 mL",
+        "equipment": "Reaction vial",
+        "temperature": "Room temperature",
+        "time": "Not specified",
+        "yield": "69%"
+      }
+    }
+  ]
+}

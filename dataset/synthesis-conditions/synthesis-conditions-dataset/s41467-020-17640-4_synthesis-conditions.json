@@ -1,0 +1,72 @@
+{
+  "Materials": [
+    {
+      "Material": "MFM-300(In)",
+      "Synthesis_Conditions": {
+        "Chemicals_Used": [
+          "H4L (biphenyl-3,3′,5,5′-tetracarboxylic acid 1.12 g, 3.4 mmol)",
+          "In(NO3)3·9H2O (3.13 g, 7.6 mmol)"
+        ],
+        "Solvents": "DMF/MeCN mixture (100 mL,3:1 v/v)",
+        "Temperature": "90 °C",
+        "Time": "48 h",
+        "Equipment": "250 mL glass pressure reactor",
+        "Additional_Steps": [
+          "The white slurry was acidified with conc. nitric acid (65% 2.5 mL)",
+          "The resultant flaky white precipitate was collected, exchanged with acetone and dried in air"
+        ]
+      }
+    },
+    {
+      "Material": "MFM-300(V)",
+      "Synthesis_Conditions": {
+        "Chemicals_Used": [
+          "H4L (biphenyl-3,3′,5,5′-tetracarboxylic acid 0.14 g, 4.2 mmol)",
+          "VCl3 (0.4 g, 2.5 mmol)"
+        ],
+        "Solvents": "20 mL deionized water",
+        "Temperature": "210 °C",
+        "Time": "3 days",
+        "Equipment": "45 mL autoclave",
+        "Additional_Steps": [
+          "The slurry was acidified by adding 2 mL HCl (1% wt)",
+          "The resultant green precipitate was collected, exchanged with acetone and dried"
+        ]
+      }
+    },
+    {
+      "Material": "MFM-300(Al)",
+      "Synthesis_Conditions": {
+        "Chemicals_Used": [
+          "H4L (H4L = biphenyl-3,3′,5,5′-tetracarboxylic acid, 2.0 g, 6.1 mmol)",
+          "AlCl3·6H2O (4.0 g, 16.6 mmol)"
+        ],
+        "Solvents": "DMF (125 mL)",
+        "Temperature": "145 °C",
+        "Time": "2 days",
+        "Equipment": "300 mL autoclave",
+        "Additional_Steps": [
+          "HCl (10% wt, 25 mL) was added to the resultant white slurry",
+          "The resultant white microcrystalline product was separated by filtration, exchanged with acetone and dried in air"
+        ]
+      }
+    },
+    {
+      "Material": "MFM-300(Fe)",
+      "Synthesis_Conditions": {
+        "Chemicals_Used": [
+          "H4L (H4L = biphenyl-3,3′,5,5′-tetracarboxylic acid, 2.44 g, 7.4 mmol)",
+          "FeCl3·6H2O (8.0 g, 29.6 mmol)"
+        ],
+        "Solvents": "DMF (200 mL) solution",
+        "Temperature": "120 °C",
+        "Time": "3 days",
+        "Equipment": "500 mL round-bottom flask",
+        "Additional_Steps": [
+          "Conc. HCl (10 mL) was added to the resultant yellow slurry",
+          "The resultant yellow powder was collected, exchanged with acetone and dried in air"
+        ]
+      }
+    }
+  ]
+}

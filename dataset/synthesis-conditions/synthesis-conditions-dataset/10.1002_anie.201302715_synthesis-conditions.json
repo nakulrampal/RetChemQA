@@ -1,0 +1,41 @@
+{
+  "materials": [
+    {
+      "name": "NJU-Bai9",
+      "synthesis_conditions": {
+        "temperature": "room temperature for degassing after SCD treatment",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": [
+          {
+            "type": "high vacuum",
+            "details": "used for degassing"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "not specified"
+          },
+          {
+            "name": "BCP",
+            "amount": "not specified"
+          },
+          {
+            "name": "fluoroboric acid",
+            "amount": "not specified"
+          }
+        ],
+        "time": "12 h for degassing",
+        "washing_method": "not specified",
+        "drying_method": "supercritical carbon dioxide (SCD) treatment followed by degassing under high vacuum",
+        "yield": "not specified",
+        "additional_information": "The synthesis involves a solvothermal reaction."
+      }
+    }
+  ]
+}

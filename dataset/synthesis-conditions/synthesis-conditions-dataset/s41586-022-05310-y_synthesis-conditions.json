@@ -1,0 +1,77 @@
+{
+  "materials": [
+    {
+      "name": "FDC–1",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "DMA",
+            "amount": "50 ml"
+          },
+          {
+            "name": "water",
+            "amount": "50 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "DBAP-ipa",
+            "amount": "500 mg (1.40 mmol)"
+          },
+          {
+            "name": "Cu(NO3)2·3H2O",
+            "amount": "676 mg (2.80 mmol)"
+          }
+        ],
+        "temperature": "80 °C",
+        "time": "24 hours",
+        "yield": "78%",
+        "washing_method": "washed with DMA (50 ml three times) and water (50 ml, three times)",
+        "drying_method": "dried in air"
+      }
+    },
+    {
+      "name": "FDC–2",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "DMA",
+            "amount": "50 ml"
+          },
+          {
+            "name": "water",
+            "amount": "50 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "IDB-ipa",
+            "amount": "500 mg (1.40 mmol)"
+          },
+          {
+            "name": "Cu(NO3)2·3H2O",
+            "amount": "676 mg (2.80 mmol)"
+          }
+        ],
+        "temperature": "80 °C",
+        "time": "24 hours",
+        "yield": "80%",
+        "washing_method": "washed with DMA (50 ml three times) and water (50 ml, three times)",
+        "drying_method": "dried in air"
+      }
+    },
+    {
+      "name": "Activated FDC–1a and FDC–2a",
+      "synthesis_conditions": {
+        "solvent_exchange": "exchanged the guest and coordination solvents (DMA and water) with methanol by soaking at 60 °C for 7 days, every 8 hours, the methanol was replaced by a new one",
+        "activation": "dried under vacuum at 60 °C for 3 hours, then activated at 393 K under vacuum for 10 hours"
+      }
+    },
+    {
+      "name": "Water-adsorbed FDC–1a and FDC–2a",
+      "synthesis_conditions": {
+        "adsorption_process": "The temperature was decreased from 393 to 298 K (or 278, 288, 308, and 323 K) at a rate of 10 K min−1. Once the temperature reached 298 K, the He flow bubbled to a liquid mixture of H2O and D2O, and then the mixed vapour flowed at ambient pressure, and the temperature was kept at 298 K (or 278, 288, 308, and 323 K) for a certain period under flowing mixed vapour."
+      }
+    }
+  ]
+}

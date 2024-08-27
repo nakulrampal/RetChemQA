@@ -1,0 +1,84 @@
+{
+  "materials": [
+    {
+      "name": "[Ca(H2O)6][Ti(hida)2]·2H2O",
+      "synthesis_conditions": {
+        "precursors": [
+          {
+            "name": "[TiO(acac)2]",
+            "amount": "0.131 g",
+            "molarity": "0.5 mmol"
+          },
+          {
+            "name": "H4hida",
+            "amount": "0.148 g",
+            "molarity": "1 mmol"
+          },
+          {
+            "name": "CaCl2",
+            "amount": "0.055 g",
+            "molarity": "0.5 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "10 mL"
+          },
+          {
+            "name": "iPrOH",
+            "amount": "15 mL"
+          }
+        ],
+        "temperature": "22 °C",
+        "time": "16 h",
+        "additional_steps": [
+          {
+            "description": "Solution concentrated under reduced pressure to about 3 mL, filtered into a Schlenk tube, a layer of iPrOH carefully added, and left to stand."
+          }
+        ],
+        "yield": "0.159g, 65%"
+      }
+    },
+    {
+      "name": "[Ca(H2O)6][Zr(hida)2(H2O)]",
+      "synthesis_conditions": {
+        "precursors": [
+          {
+            "name": "[Zr(acac)4]",
+            "amount": "0.244 g",
+            "molarity": "0.5 mmol"
+          },
+          {
+            "name": "H4hida",
+            "amount": "0.148 g",
+            "molarity": "1 mmol"
+          },
+          {
+            "name": "CaCl2",
+            "amount": "0.055 g",
+            "molarity": "0.5 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "3 mL"
+          },
+          {
+            "name": "THF",
+            "amount": "15 mL"
+          }
+        ],
+        "temperature": "22 °C",
+        "time": "Several days",
+        "additional_steps": [
+          {
+            "description": "A layer of THF above the reaction solution produced colorless tabular crystals after several days."
+          }
+        ],
+        "yield": "0.127 g, 48%"
+      }
+    }
+  ]
+}

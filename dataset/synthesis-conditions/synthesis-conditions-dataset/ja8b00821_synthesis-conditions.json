@@ -1,0 +1,96 @@
+{
+  "materials": [
+    {
+      "name": "meso-3,7-dibromocyclohept-1-ene (1)",
+      "synthesis_conditions": {
+        "temperature": "-30 °C to -78 °C",
+        "solvents": [
+          {
+            "name": "pentane",
+            "amount": "1.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "1,3-cycloheptadiene",
+            "amount": "3.00 mL, 27.7 mmol"
+          },
+          {
+            "name": "bromine",
+            "amount": "1.41 mL, 27.7 mmol"
+          }
+        ],
+        "yield": "37%",
+        "characterization": {
+          "1H NMR": "(400 MHz, CDCl3) δH 5.95-5.83 (2H, m, H2), 4.97 (2H, d, J = 2.1 Hz, H3), 2.51-2.35 (3H, m, H4 and H5), 2.06-1.93 (2H, m, H4'), 1.90-1.78 (1H, m, H5)",
+          "13C NMR": "(101 MHz, CDCl3) δC 133.0, 51.0, 37.2, 22.0"
+        }
+      }
+    },
+    {
+      "name": "(3R,4R)-4-Bromo-3-methylcyclohept-1-ene (2a)",
+      "synthesis_conditions": {
+        "temperature": "-80 °C",
+        "solvents": [
+          {
+            "name": "CH2Cl2",
+            "amount": "2 mL"
+          },
+          {
+            "name": "n-hexane",
+            "amount": "1 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CuBr·SMe2",
+            "amount": "2.1 mg, 0.010 mmol"
+          },
+          {
+            "name": "L*",
+            "amount": "6.5 mg, 0.012 mmol"
+          },
+          {
+            "name": "meso-cyclic dibromoalkene 1",
+            "amount": "0.200 mmol"
+          },
+          {
+            "name": "alkyllithium reagent",
+            "amount": "1.2 equiv"
+          }
+        ],
+        "yield": "Used crude in the rearrangement reaction",
+        "characterization": {
+          "1H NMR": "(400 MHz, C6D6) δH 5.60 (1H, dddd, J = 11.2, 6.9, 5.7, 1.8 Hz, H1), 5.26 (1H, dddd, J = 11.2, 5.0, 1.7, 0.6 Hz, H2), 3.80 (1H, td, J = 8.8, 3.4 Hz, H4), 2.66-2.55 (1H, m, H3), 2.28 (1H, ddt, J = 14.5, 8.0, 3.1 Hz, H5), 2.00 (1H, dddd, J = 14.5, 9.8, 8.6, 2.9 Hz, H5), 1.84-1.68 (2H, m, H7), 1.56-1.48 (1H, m, H6), 1.16-1.08 (1H, m, H6), 1.12 (3H, d, J = 7.1 Hz, CH3)",
+          "13C NMR": "(101 MHz, C6D6) δC 134.0, 132.4, 61.1, 41.8, 41.0, 27.9, 25.5, 22.9"
+        }
+      }
+    },
+    {
+      "name": "(R)-3-((R)-1-Bromoethyl)cyclohex-1-ene (3a)",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "n-pentane",
+            "amount": "2 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "crude (3R,4R)-4-Bromo-3-methylcyclohept-1-ene (2a)"
+          },
+          {
+            "name": "silica",
+            "amount": "500% w/w"
+          }
+        ],
+        "yield": "57% over 2 steps",
+        "characterization": {
+          "1H NMR": "(400 MHz, CDCl3) δH 5.83 (1H, dq, J = 10.2, 3.4 Hz, H1), 5.71-5.56 (1H, m. H2), 4.20 (1H, qd, J = 6.8, 5.1 Hz, CHBrCH3), 2.50-2.38 (1H, m, H3), 2.06-1.93 (2H, m, H6), 1.91-1.73 (2H, m, H4 and H5), 1.69 (3H, d, J = 6.8 Hz, CH3), 1.62-1.44 (2H, m, H4 and H5)",
+          "13C NMR": "(101 MHz, CDCl3) δC 129.9, 128.5, 56.9, 43.8, 26.2, 25.5, 23.4, 21.6"
+        }
+      }
+    }
+  ]
+}

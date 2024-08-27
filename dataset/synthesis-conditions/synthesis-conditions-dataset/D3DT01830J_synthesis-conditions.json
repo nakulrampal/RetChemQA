@@ -1,0 +1,80 @@
+{
+  "materials": [
+    {
+      "name": "HNU-82",
+      "synthesis_conditions": {
+        "temperature": "95 °C",
+        "time": "72 h",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "1 mL"
+          },
+          {
+            "name": "deionized water",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H3TCA",
+            "amount": "0.0754 g (0.2 mmol)"
+          },
+          {
+            "name": "Tb(NO3)3·6H2O",
+            "amount": "0.0906 g (0.2 mmol)"
+          }
+        ],
+        "equipment": "10 mL glass bottles",
+        "washing_method": "deionized water and DMF",
+        "drying_method": "air drying",
+        "yield": "77.32% (based on Tb3+)"
+      }
+    },
+    {
+      "name": "HNU-83",
+      "synthesis_conditions": {
+        "note": "Same as HNU-82, changing only the lanthanide ion species."
+      }
+    },
+    {
+      "name": "HNU-84",
+      "synthesis_conditions": {
+        "note": "Same as HNU-82, changing only the lanthanide ion species."
+      }
+    },
+    {
+      "name": "EuxTbyLa1−x−y-TCA",
+      "synthesis_conditions": {
+        "temperature": "95 °C",
+        "time": "72 h",
+        "solvents": [
+          {
+            "name": "aqueous solution",
+            "amount": "5 mL"
+          },
+          {
+            "name": "H3TCA solution",
+            "amount": "1 mL (0.1 mol L−1)"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Eu(NO3)3·6H2O",
+            "amount": "0.1 mol L−1"
+          },
+          {
+            "name": "Tb(NO3)3·6H2O",
+            "amount": "0.1 mol L−1"
+          },
+          {
+            "name": "La(NO3)3·6H2O",
+            "amount": "0.1 mol L−1"
+          }
+        ],
+        "equipment": "10 mL glass bottles",
+        "procedure": "Lanthanide ionic aqueous solution was mixed in different proportions, diluted, and added H3TCA solution. After ultrasonic treatment, placed in an oven."
+      }
+    }
+  ]
+}

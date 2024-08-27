@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What are the empirical formulas for MOF-5_m_Zn, MOF-5_m_int_rt, and MOF-5_m_int_300c?",
+      "answer": "The empirical formula for all three is C24 H12 O13 Zn4.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What changes in the unit cell dimensions are observed when comparing MOF-5_m_Zn, MOF-5_m_int_rt, and MOF-5_m_int_300c?",
+      "answer": "The unit cell dimensions slightly change, with 'a' and 'c' dimensions increasing from MOF-5_m_Zn to MOF-5_m_int_300c, indicating a structural change due to temperature or interpenetration.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the crystal system for MOF-5_m_Zn, MOF-5_m_int_rt, and MOF-5_m_int_300c always trigonal?",
+      "answer": "True, all three structures are reported to have a trigonal crystal system.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the calculated density change from MOF-5_m_Zn to MOF-5_m_int_rt?",
+      "answer": "The calculated density doubles from MOF-5_m_Zn (0.584 Mg/m^3) to MOF-5_m_int_rt (1.166 Mg/m^3), likely due to the interpenetration of frameworks in MOF-5_m_int_rt.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the temperature treatment of MOF-5_m_int_300c at 573 K affect its crystal system compared to MOF-5_m_Zn?",
+      "answer": "False, despite the temperature treatment, the crystal system remains trigonal for both MOF-5_m_Zn and MOF-5_m_int_300c.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the relationship between the Zn and O bond lengths in MOF-5_m_Zn and MOF-5_m_int_300c?",
+      "answer": "The Zn-O bond lengths are similar across MOF-5_m_Zn and MOF-5_m_int_300c, indicating that the basic coordination environment around Zn remains consistent despite structural changes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the presence of Zn(OH)2 species in the pores of MOF-5_m_Zn be confirmed through EXAFS analysis?",
+      "answer": "True, the EXAFS analysis indicates the presence of extra-framework Zn species, which are compatible with Zn(OH)2 species occluded in the pores.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the presence of Zn(OH)2 species in MOF-5_m_Zn affect its symmetry compared to the original cubic MOF-5?",
+      "answer": "The presence of Zn(OH)2 species changes the symmetry from cubic to trigonal, as indicated by the splitting of the peak at 9.7° in the powder XRD pattern.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the thermal stability of MOF-5_n and MOF-5_m affected by the presence of organic and inorganic species in their nanocavities?",
+      "answer": "False, both MOF-5_n and MOF-5_m exhibit high thermal stability, which is not significantly affected by the presence of organic and inorganic species in their nanocavities.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does the interpenetration of frameworks play in the properties of MOF-5 materials?",
+      "answer": "Interpenetration of frameworks in MOF-5 materials, such as MOF-5_m_int, leads to a reduction in pore volume and adsorption capacity, as well as changes in crystal symmetry and unit cell dimensions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

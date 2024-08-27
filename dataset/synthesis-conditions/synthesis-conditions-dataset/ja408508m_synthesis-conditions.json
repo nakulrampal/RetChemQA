@@ -1,0 +1,145 @@
+{
+  "materials": [
+    {
+      "name": "1,4-dibromobenzene",
+      "conditions": {
+        "solvent": "THF",
+        "temperature": "-78 °C",
+        "reagents": [
+          {
+            "name": "n-BuLi",
+            "amount": "30.0 mmol"
+          }
+        ],
+        "time": "overnight",
+        "equipment": "250 cm3 round bottomed flask",
+        "yield": "64–87%"
+      }
+    },
+    {
+      "name": "tetra-p-brominated intermediate",
+      "conditions": {
+        "solvent": "THF",
+        "temperature": "-78 °C",
+        "reagents": [
+          {
+            "name": "n-butyllithium",
+            "amount": "5.9 mmol"
+          },
+          {
+            "name": "dry ice",
+            "amount": "ca. 200 g"
+          },
+          {
+            "name": "diethyl ether",
+            "amount": "40 cm3"
+          }
+        ],
+        "time": "at least 2 h",
+        "yield": "near-quantitative"
+      }
+    },
+    {
+      "name": "tetra-lithiated form",
+      "conditions": {
+        "solvent": "degassed H2O",
+        "temperature": "0 °C",
+        "reagents": [
+          {
+            "name": "degassed HCl",
+            "amount": "1.0 M"
+          }
+        ],
+        "yield": "94.6%"
+      }
+    },
+    {
+      "name": "[PdCl2(3)]",
+      "conditions": {
+        "solvent": "THF",
+        "temperature": "50 °C",
+        "reagents": [
+          {
+            "name": "(COD)PdCl2",
+            "amount": "0.88 mmol"
+          }
+        ],
+        "time": "overnight",
+        "yield": "98.5%"
+      }
+    },
+    {
+      "name": "[PtCl2(3)]",
+      "conditions": {
+        "solvent": "THF",
+        "temperature": "50 °C",
+        "reagents": [
+          {
+            "name": "(COD)PtCl2",
+            "amount": "0.88 mmol"
+          }
+        ],
+        "time": "overnight",
+        "yield": "98.0%"
+      }
+    },
+    {
+      "name": "Pd-PCM-18",
+      "conditions": {
+        "solvent": "ethanol/DMF",
+        "temperature": "45 °C",
+        "reagents": [
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "0.059 mmol"
+          }
+        ],
+        "time": "10 d",
+        "yield": "average isolated yield from 10 reactions = 40 mg"
+      }
+    },
+    {
+      "name": "Pt-PCM-18",
+      "conditions": {
+        "solvent": "ethanol/DMF",
+        "temperature": "45 °C",
+        "reagents": [
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "0.059 mmol"
+          }
+        ],
+        "time": "10 d",
+        "yield": "average isolated yield from 10 reactions = 40 mg"
+      }
+    },
+    {
+      "name": "[PtCl(CHClCO2CH2CH3)(3)]",
+      "conditions": {
+        "solvent": "CH2Cl2:ethanol",
+        "temperature": "room temperature",
+        "reagents": [
+          {
+            "name": "N2CHCO2C2H5",
+            "amount": "15 equiv."
+          }
+        ],
+        "time": "4 d",
+        "yield": "85.6%"
+      }
+    },
+    {
+      "name": "organometallic functionalized Pt-PCM-18",
+      "conditions": {
+        "solvent": "CH2Cl2",
+        "reagents": [
+          {
+            "name": "N2CHCO2C2H5",
+            "amount": "15 equiv."
+          }
+        ],
+        "time": "4 d"
+      }
+    }
+  ]
+}

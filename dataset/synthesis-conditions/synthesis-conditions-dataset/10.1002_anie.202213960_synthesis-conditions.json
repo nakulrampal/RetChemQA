@@ -1,0 +1,50 @@
+{
+  "materials": [
+    {
+      "name": "Fe3HOBP1.5(DMA)(H2O)2 (FeHOBP)",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation of HHBP",
+          "details": {
+            "method": "Two-step synthetic protocol",
+            "reference": "Section S2.1, Supporting Information"
+          }
+        },
+        {
+          "step": "Solvothermal treatment",
+          "details": {
+            "temperature": "Not specified",
+            "solvents": [
+              {
+                "name": "N,N-dimethylformamide",
+                "volume_ratio": "1 part"
+              },
+              {
+                "name": "water",
+                "volume_ratio": "4 parts"
+              }
+            ],
+            "chemicals_used": [
+              {
+                "name": "FeCl2",
+                "amount": "four equivalents"
+              },
+              {
+                "name": "HHBP",
+                "amount": "Not specified"
+              }
+            ],
+            "equipment": "Not specified",
+            "time": "Not specified",
+            "yield": "Not specified",
+            "additional_information": "Attempts to improve crystallinity included the addition of modulators such as triethylamine, pyrogallol, and nitric acid. The addition of up to 1.25 equivalents of nitric acid relative to HHBP led to slightly improved crystallinity.",
+            "reference": "Section S2.2, Supporting Information"
+          }
+        }
+      ],
+      "washing_method": "Not specified",
+      "drying_method": "Not specified",
+      "characterization_techniques_excluded": true
+    }
+  ]
+}

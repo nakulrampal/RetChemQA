@@ -1,0 +1,66 @@
+{
+  "materials": [
+    {
+      "name": "MOF-5",
+      "synthesis_conditions": {
+        "temperature": "85° to 105°C",
+        "solvents": "N,N'-diethylformamide (DEF)",
+        "amount_of_solvent": "Not specified",
+        "equipment": "closed vessel",
+        "chemicals_used": {
+          "Zn(NO3)2·4H2O": "Not specified",
+          "1,4-benzenedicarboxylate (BDC)": "acid form"
+        },
+        "time": "Not specified",
+        "yield": "90%",
+        "drying_method": "Not specified",
+        "washing_method": "Not specified"
+      }
+    },
+    {
+      "name": "IRMOF series (IRMOF-1 to IRMOF-16)",
+      "synthesis_conditions": {
+        "temperature": "Not specified",
+        "solvents": "N,N'-diethylformamide (DEF)",
+        "amount_of_solvent": "Not specified",
+        "equipment": "Not specified",
+        "chemicals_used": {
+          "Zn(NO3)2·4H2O": "Not specified",
+          "carboxylate links": [
+            "R2-BDC",
+            "R3-BDC",
+            "R4-BDC",
+            "R5-BDC",
+            "R6-BDC",
+            "R7-BDC",
+            "2,6-NDC",
+            "BPDC",
+            "HPDC",
+            "PDC",
+            "TPDC"
+          ]
+        },
+        "time": "Not specified",
+        "yield": "Not specified",
+        "drying_method": "Not specified",
+        "washing_method": "Not specified"
+      }
+    },
+    {
+      "name": "IRMOF-6",
+      "synthesis_conditions": {
+        "temperature": "100° to 400°C",
+        "solvents": "Chloroform",
+        "amount_of_solvent": "Not specified",
+        "equipment": "microbalance apparatus",
+        "chemicals_used": {
+          "Zn4O(R6-BDC)3(z(CHCl3)7": "Not specified"
+        },
+        "time": "Not specified",
+        "yield": "Not specified",
+        "drying_method": "Evacuated at room temperature and 1025 torr, heated to 150°C",
+        "washing_method": "Not specified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "materials": [
+    {
+      "name": "[Zr16]",
+      "synthesis_conditions": {
+        "temperature": "60 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.25 mL"
+          }
+        ],
+        "equipment": "Parr Teflon–lined autoclave",
+        "chemicals_used": [
+          {
+            "name": "Cp2ZrCl2",
+            "amount": "40 mg"
+          },
+          {
+            "name": "H2C4O4",
+            "amount": "20 mg"
+          }
+        ],
+        "time": "12 h",
+        "yield": "68%",
+        "washing_method": "washed with CH3OH"
+      }
+    },
+    {
+      "name": "[Zr16-BPDC]",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "4 mL"
+          }
+        ],
+        "equipment": "Parr Teflon–lined autoclave",
+        "chemicals_used": [
+          {
+            "name": "crystals of [Zr16]",
+            "amount": "20 mg"
+          },
+          {
+            "name": "H2BPDC",
+            "amount": "20 mg"
+          }
+        ],
+        "time": "12 h",
+        "washing_method": "washed with fresh DMF 3 times"
+      }
+    },
+    {
+      "name": "[Zr16-BPDC-Ln] (Ln = Eu, Tb)",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "4 mL"
+          }
+        ],
+        "equipment": "Parr Teflon–lined autoclave",
+        "chemicals_used": [
+          {
+            "name": "crystals of [Zr16-BPDC]",
+            "amount": "20 mg"
+          },
+          {
+            "name": "Eu(NO3)3·5H2O/Tb(NO3)3·5H2O",
+            "amount": "20 mg"
+          }
+        ],
+        "time": "12 h",
+        "washing_method": "washed with fresh DMF 3 times"
+      }
+    },
+    {
+      "name": "[Zr16-BPDC-Eu0.8Tb0.2]",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "4 mL"
+          }
+        ],
+        "equipment": "Parr Teflon–lined autoclave",
+        "chemicals_used": [
+          {
+            "name": "Eu(NO3)3·5H2O/Tb(NO3)3·5H2O mixture (mole ratio 4:1)",
+            "amount": "20 mg"
+          }
+        ],
+        "time": "12 h",
+        "washing_method": "washed with fresh DMF 3 times"
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "materials": [
+    {
+      "name": "PCP-N·4H2O",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            {
+              "chemical": "Hppt",
+              "amount": "0.024 g",
+              "molar_amount": "0.1 mmol"
+            },
+            {
+              "chemical": "FeSO4·7H2O",
+              "amount": "0.0278 g",
+              "molar_amount": "0.1 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "solvent": "H2O",
+              "amount": "1 mL"
+            },
+            {
+              "solvent": "CH3CN",
+              "amount": "1 mL"
+            }
+          ],
+          "temperature": "160 °C",
+          "time": "3 days",
+          "cooling_rate": "10 °C/h to room temperature",
+          "yield": "0.0373 g, 65%"
+        }
+      ]
+    },
+    {
+      "name": "PCP-C·4H2O",
+      "synthesis_conditions": [
+        {
+          "note": "Prepared with the same synthetic procedure of PCP-N·4H2O using Hdpt instead of Hppt."
+        }
+      ]
+    },
+    {
+      "name": "PCP-N",
+      "activation_conditions": [
+        {
+          "method": "Evacuated for 5 h at 120 °C under reduced pressure (<10−3 mbar)",
+          "gas_loading": [
+            {
+              "gas": "C2H2",
+              "pressure": "950 mbar",
+              "temperature": "293 K"
+            },
+            {
+              "gas": "CO2",
+              "pressure": "950 mbar",
+              "temperature": "293 K"
+            }
+          ],
+          "equilibration_time": "10 min before being flame-sealed",
+          "data_collection_temperature": "173 K"
+        }
+      ]
+    },
+    {
+      "name": "Gas Adsorption Measurement",
+      "conditions": [
+        {
+          "method": "Volumetric technique using Belsorp-max adsorption instrument",
+          "preparation": "Solvent-exchanged sample was prepared by immersing the as-synthesized samples in methanol for 3 days to remove nonvolatile solvents, decanted every 10 h, and fresh methanol was replaced.",
+          "activation": "Heated at 120 °C under reduced pressure (<10−2 Pa) for more than 20 h."
+        },
+        {
+          "method": "Coincident PXRD/adsorption measurements using Rigaku UltimaIV with CuKα radiation connected with BELSORP-18 volumetric adsorption equipment."
+        }
+      ]
+    },
+    {
+      "name": "Theoretical Calculation",
+      "conditions": [
+        {
+          "method": "DFT with M06-2X functional using Gaussian 09 program package",
+          "basis_set": [
+            {
+              "atom": "Fe",
+              "set": "LANL2DZ"
+            },
+            {
+              "atom": "Other atoms",
+              "set": "6-31G(d)"
+            }
+          ],
+          "additional_information": "One diffuse function was added to N atoms in the triazole moieties directly coordinated to Fe atoms."
+        }
+      ]
+    }
+  ]
+}

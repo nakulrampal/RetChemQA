@@ -1,0 +1,93 @@
+{
+  "materials": [
+    {
+      "name": "π-1",
+      "synthesis_conditions": {
+        "temperature": "105°C",
+        "time": "72 hours",
+        "solvents": [
+          {
+            "name": "CH3OH/H2O mixture",
+            "amount": "12 ml",
+            "ratio": "v:v = 1:1"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zn(Ac)2·2H2O",
+            "amount": "0.0439 g",
+            "molar_ratio": "0.2 mmol"
+          },
+          {
+            "name": "1,10-phenanthroline monohydrate (phen)",
+            "amount": "0.018 g",
+            "molar_ratio": "0.1 mmol"
+          },
+          {
+            "name": "1-(4-carboxyphenyl)-5-mercapto-1H-tetrazole (H2L)",
+            "amount": "0.022 g",
+            "molar_ratio": "0.1 mmol"
+          }
+        ],
+        "pH_adjustment": {
+          "method": "adding triethylamine",
+          "pH_value": "7.6"
+        },
+        "equipment": "Teflon-lined stainless steel autoclave",
+        "yield": "73%",
+        "washing_method": "Not specified",
+        "drying_method": "Dried in air"
+      }
+    },
+    {
+      "name": "π-1 for Hg2+ removal",
+      "synthesis_conditions": {
+        "initial_Hg2+_concentration": "100 mg/liter",
+        "amount_of_π-1_used": "10 mg",
+        "volume_of_HgCl2_solution": "10 ml",
+        "stirring_time": "12 hours",
+        "filtration": "Yes",
+        "residual_Hg2+_analysis_method": "ICP-MS/AFS",
+        "recycle_tests": {
+          "soaking_solution": "HCl solution (pH 5.6)",
+          "soaking_time": "6 hours",
+          "drying_temperature": "50°C",
+          "vacuum_condition": "Yes",
+          "number_of_cycles": "4"
+        }
+      }
+    },
+    {
+      "name": "π-1 for maximum Hg2+ uptake",
+      "synthesis_conditions": {
+        "initial_Hg2+_concentrations": [
+          "100",
+          "200",
+          "400",
+          "800",
+          "1000",
+          "1200",
+          "1600",
+          "2000 mg/liter"
+        ],
+        "amount_of_π-1_used": "10 mg",
+        "volume_of_HgCl2_solution": "10 ml",
+        "stirring_time": "12 hours",
+        "filtration": "Yes",
+        "residual_Hg2+_analysis_method": "ICP-MS"
+      }
+    },
+    {
+      "name": "π-1 for selective adsorption tests",
+      "synthesis_conditions": {
+        "solution_contents": "HgCl2, PbCl2, CdCl2, CuCl2, ZnCl2, CaCl2, MgCl2",
+        "initial_concentration_of_each_metal": "100 mg/liter",
+        "amount_of_π-1_used": "10 mg",
+        "volume_of_solution": "10 ml",
+        "stirring_time": "12 hours",
+        "filtration": "Yes",
+        "residual_metal_ion_analysis_method": "ICP-MS"
+      }
+    }
+  ]
+}

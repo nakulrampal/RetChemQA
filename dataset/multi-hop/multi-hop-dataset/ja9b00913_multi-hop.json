@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of MUF-15?",
+      "answer": "Co3(µ3-OH)(ipa)2.5(H2O)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to calculate the BET surface area from N2 adsorption isotherms at 77 K?",
+      "answer": "The BET surface area was calculated using the BET model applied to the N2 adsorption isotherms at 77 K.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the static binding energy for ethane and ethylene in MUF-15 framework calculated?",
+      "answer": "The static binding energy for ethane and ethylene in MUF-15 framework was calculated using density functional theory (DFT) with dispersion corrections implemented using the DFT-D3 method.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the relationship between the BET surface area and the geometric surface area calculated for MUF-15?",
+      "answer": "The BET surface area (1130 m2/g) measured from experimental N2 isotherms at 77 K is slightly lower than the geometric surface area (1260 m2/g) calculated from the crystallographic coordinates using RASPA2.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the purpose of using helium in the breakthrough experiments?",
+      "answer": "Helium was used as a carrier gas in the breakthrough experiments to ensure a consistent flow rate and to dilute the feed gas mixture, allowing for accurate measurement of the breakthrough curves for ethane and ethylene.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption isotherms for ethane and ethylene in MUF-15 exhibit type I character.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The productivity of MUF-15 for ethylene from an equimolar ethane/ethylene mixture is higher than that of IRMOF-8.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main advantage of using the DFT-D3 method for calculating static binding energies in MUF-15?",
+      "answer": "The main advantage of using the DFT-D3 method was its ability to accurately account for the long-range dispersion interactions between the framework and the bound gaseous adsorbates, which is crucial for precise calculation of static binding energies.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The separation performance of MUF-15 is solely based on its pore size.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does the BET surface area play in the performance of MUF-15 for gas separation?",
+      "answer": "The BET surface area is indicative of the available surface within MUF-15 for gas adsorption, which directly influences its capacity to adsorb gases and thus its performance in gas separation processes.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "materials": [
+    {
+      "name": "Cu(atrz)3(NO3)2",
+      "synthesis_conditions": {
+        "method": "hydrothermal reaction",
+        "reactants": [
+          "copper dinitrate pentahydrate",
+          "4,4’-azotriazole (atrz)"
+        ],
+        "solvent": "water",
+        "appearance": "Dark-blue needles",
+        "crystallization_time": "several days",
+        "stability": "air-stable for at least several weeks",
+        "solubility": "insoluble in DMSO, chloroform, methanol, ethanol, and acetone",
+        "space_group": "monoclinic P21/n",
+        "framework": "3D porous metal–organic",
+        "density": "1.68 g cm-3",
+        "nitrogen_content": "53.35 %",
+        "thermal_decomposition_temperature": "243 8C",
+        "impact_sensitivity": "22.5 J",
+        "friction_sensitivity": "0 %",
+        "electrostatic_discharge_sensitivity": "> 24.75 J",
+        "heat_of_detonation": "3.62 kcal g-1 (6.08 kcal cm-3)"
+      }
+    },
+    {
+      "name": "Ag(atrz)1.5(NO3)",
+      "synthesis_conditions": {
+        "method": "analogous to Cu(atrz)3(NO3)2 synthesis",
+        "appearance": "colorless plates",
+        "stability": "air-stable for at least several weeks",
+        "solubility": "insoluble in DMSO, chloroform, methanol, ethanol, and acetone",
+        "framework": "3D irregular porous metal–organic",
+        "density": "2.16 g cm-3",
+        "nitrogen_content": "43.76 %",
+        "thermal_decomposition_temperature": "257 8C",
+        "impact_sensitivity": "30 J",
+        "friction_sensitivity": "0 %",
+        "electrostatic_discharge_sensitivity": "> 24.75 J",
+        "heat_of_detonation": "Not explicitly mentioned"
+      }
+    }
+  ]
+}

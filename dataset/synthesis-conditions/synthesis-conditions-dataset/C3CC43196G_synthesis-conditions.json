@@ -1,0 +1,75 @@
+{
+  "materials": [
+    {
+      "name": "UTSA-62a",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylacetamide (DMA)",
+            "amount": "1.5 mL"
+          },
+          {
+            "name": "water",
+            "amount": "0.1 mL"
+          }
+        ],
+        "equipment": "disposable scintillation vial (20 mL)",
+        "chemicals_used": [
+          {
+            "name": "H6L",
+            "amount": "10.0 mg"
+          },
+          {
+            "name": "Yb(NO3)3·5H2O",
+            "amount": "25.0 mg"
+          }
+        ],
+        "time": "72 h",
+        "yield": "56%",
+        "washing_method": "guest-exchanged with dry acetone",
+        "drying_method": "supercritical CO2 drying method",
+        "activation": "activated UTSA-62a confirmed by N2 sorption isotherm"
+      }
+    },
+    {
+      "name": "H6L",
+      "synthesis_conditions": {
+        "temperature": "reflux",
+        "solvents": [
+          {
+            "name": "toluene-methanol-water mixed solvents",
+            "amounts": [
+              "120 mL",
+              "60 mL",
+              "60 mL"
+            ]
+          }
+        ],
+        "equipment": "N/A",
+        "chemicals_used": [
+          {
+            "name": "1,3,5-tri(3,5-dibromophenyl)benzene",
+            "amount": "2.00 g"
+          },
+          {
+            "name": "4-(methoxycarbonyl)phenylboronic acid",
+            "amount": "3.23 g"
+          },
+          {
+            "name": "anhydrous Na2CO3",
+            "amount": "6.52 g"
+          },
+          {
+            "name": "Pd(PPh3)4",
+            "amount": "0.89 g"
+          }
+        ],
+        "time": "72 h",
+        "yield": "77% for hexamethyl ester intermediate, quantitative for H6L after hydrolysis and acidification",
+        "washing_method": "extracted with CHCl3, washed with brine",
+        "drying_method": "dried over anhydrous MgSO4, concentrated in vacuum"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "materials": [
+    {
+      "name": "1⊃1.5H2O",
+      "synthesis_conditions": {
+        "temperature": "25 °C",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "1.0 ml"
+          },
+          {
+            "name": "water",
+            "amount": "2.5 ml"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "squaric acid",
+            "amount": "0.1 mmol"
+          },
+          {
+            "name": "NaOH",
+            "amount": "0.2 mmol"
+          },
+          {
+            "name": "CaCl2",
+            "amount": "0.5 mmol"
+          },
+          {
+            "name": "CH3COOH",
+            "amount": "1 mmol"
+          },
+          {
+            "name": "CH3COONa",
+            "amount": "2 mmol"
+          }
+        ],
+        "equipment": "glass vial",
+        "time": "a few days",
+        "drying_method": "air drying",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "1–LiCl⊃3.5H2O",
+      "synthesis_conditions": {
+        "temperature": "25 °C",
+        "solvents": "none (solid-phase reaction)",
+        "chemicals_used": [
+          {
+            "name": "1⊃1.5H2O",
+            "amount": "0.1g, 0.5 mmol"
+          },
+          {
+            "name": "LiCl",
+            "amount": "0.02g, 0.5 mmol"
+          }
+        ],
+        "equipment": "ball mill",
+        "time": "2 h",
+        "drying_method": "air drying",
+        "yield": "not specified"
+      }
+    }
+  ]
+}

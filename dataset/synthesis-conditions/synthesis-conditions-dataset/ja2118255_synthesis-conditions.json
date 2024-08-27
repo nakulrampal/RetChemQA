@@ -1,0 +1,127 @@
+{
+  "materials": [
+    {
+      "name": "CPM-18-Nd",
+      "synthesis_conditions": {
+        "temperature": "110 oC",
+        "solvents": [
+          {"name": "H2O", "amount": "1.0 g"},
+          {"name": "DMF", "amount": "4.0 g"}
+        ],
+        "equipment": "20 ml vial",
+        "chemicals_used": [
+          {"name": "In(NO3)3·5H2O", "amount": "0.200 g"},
+          {"name": "Nd(NO3)3·6H2O", "amount": "0.12 g"},
+          {"name": "1,3,5-benzenetricarboxylic acid", "amount": "0.100 g"}
+        ],
+        "time": "5 days",
+        "drying_method": "cooling to room-temperature"
+      }
+    },
+    {
+      "name": "CPM-18-Sm",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {"name": "Sm(NO3)3·6H2O", "note": "replacement of Nd(NO3)3·6H2O"}
+        ],
+        "note": "prepared by a similar procedure with that of CPM-18-Nd"
+      }
+    },
+    {
+      "name": "CPM-19-Nd",
+      "synthesis_conditions": {
+        "temperature": "100 oC",
+        "solvents": [
+          {"name": "H2O", "amount": "0.500 g"},
+          {"name": "DEF", "amount": "2.670 g"}
+        ],
+        "equipment": "20 ml vial",
+        "chemicals_used": [
+          {"name": "In(NO3)3·5H2O", "amount": "0.100 g"},
+          {"name": "Nd(NO3)3·6H2O", "amount": "0.063 g"},
+          {"name": "CaCl2", "amount": "0.018 g"},
+          {"name": "1,3,5-tri(4-carboxyphenyl)benzene", "amount": "0.108 g"}
+        ],
+        "time": "5 days",
+        "drying_method": "cooling to room-temperature"
+      }
+    },
+    {
+      "name": "CPM-19-Pr",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {"name": "Pr(NO3)3·6H2O", "note": "replacement of Nd(NO3)3·6H2O"}
+        ],
+        "note": "prepared by a similar procedure with that of CPM-19-Nd"
+      }
+    },
+    {
+      "name": "CPM-20",
+      "synthesis_conditions": {
+        "temperature": "100 oC",
+        "solvents": [
+          {"name": "H2O", "amount": "0.50 g"},
+          {"name": "DMA", "amount": "3.00 g"}
+        ],
+        "equipment": "20 ml vial",
+        "chemicals_used": [
+          {"name": "In(NO3)3·5H2O", "amount": "0.110 g"},
+          {"name": "Co(AC)2·6H2O", "amount": "0.078 g"},
+          {"name": "isonicotic acid", "amount": "0.042 g"},
+          {"name": "1,4-Benzenedicarboxylic acid", "amount": "0.043 g"},
+          {"name": "1,3,5-benzenetricarboxylic acid", "amount": "0.054 g"}
+        ],
+        "time": "5 days",
+        "drying_method": "cooling to room-temperature"
+      }
+    },
+    {
+      "name": "CPM-21-Co",
+      "synthesis_conditions": {
+        "temperature": "100 oC",
+        "solvents": [
+          {"name": "H2O", "amount": "0.500 g"},
+          {"name": "DMA", "amount": "2.500 g"}
+        ],
+        "equipment": "20 ml vial",
+        "chemicals_used": [
+          {"name": "In(NO3)3·5H2O", "amount": "0.027 g"},
+          {"name": "1,3,5-tri(4-carboxyphenyl)benzene", "amount": "0.045 g"},
+          {"name": "Co(NO3)3·6H2O", "amount": "0.048 g"}
+        ],
+        "time": "5 days",
+        "drying_method": "cooling to room-temperature"
+      }
+    },
+    {
+      "name": "CPM-21-Mn",
+      "synthesis_conditions": {
+        "note": "prepared by a similar procedure with that of CPM-21-Co, except for the replacement of Co(NO3)3·6H2O by Mn(NO3)3·6H2O"
+      }
+    },
+    {
+      "name": "CPM-21-Cu",
+      "synthesis_conditions": {
+        "note": "prepared by a similar procedure with that of CPM-21-Co, except for the replacement of Co(NO3)3·6H2O by Cu(NO3)3·6H2O"
+      }
+    },
+    {
+      "name": "CPM-23",
+      "synthesis_conditions": {
+        "temperature": "100 oC",
+        "solvents": [
+          {"name": "H2O", "amount": "0.50 g"},
+          {"name": "DMA", "amount": "2.50 g"}
+        ],
+        "equipment": "20 ml vial",
+        "chemicals_used": [
+          {"name": "In(NO3)3·5H2O", "amount": "0.025 g"},
+          {"name": "1,3,5-tri(4-carboxyphenyl)benzene", "amount": "0.045 g"},
+          {"name": "Mg(NO3)2·4H2O", "amount": "0.048 g"}
+        ],
+        "time": "5 days",
+        "drying_method": "cooling to room-temperature"
+      }
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "materials": [
+    {
+      "name": "NKU-1000",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "InCl3",
+            "amount": "0.2 mmol, 44 mg"
+          },
+          {
+            "name": "H3TATAB",
+            "amount": "0.2 mmol, 97 mg"
+          },
+          {
+            "solvents": [
+              {
+                "name": "DMF",
+                "amount": "3.5 mL"
+              },
+              {
+                "name": "CH3OH",
+                "amount": "3.5 mL"
+              },
+              {
+                "name": "HCl (3 M)",
+                "amount": "1 mL"
+              }
+            ]
+          }
+        ],
+        "temperature": "120 °C",
+        "time": "12 h",
+        "yield": "70.6%",
+        "elemental_analysis": {
+          "C": "50.31",
+          "H": "4.76",
+          "N": "15.65"
+        }
+      }
+    },
+    {
+      "name": "Li@NKU-1000",
+      "synthesis": {
+        "steps": [
+          {
+            "action": "immersing NKU-1000 in LiTFSI PC solution",
+            "conditions": {
+              "amount": "500 mg in 10 mL",
+              "concentration": "1 M",
+              "time": "24 h"
+            }
+          },
+          {
+            "action": "centrifugation, washing with PC, drying under vacuum",
+            "conditions": {
+              "temperature": "120 °C",
+              "time": "12 h"
+            }
+          }
+        ],
+        "elemental_analysis": {
+          "C": "49.14",
+          "H": "4.14",
+          "N": "11.40",
+          "In": "6.92",
+          "Li": "0.40"
+        }
+      }
+    },
+    {
+      "name": "SSE membrane",
+      "synthesis": {
+        "components": [
+          {
+            "name": "Li@NKU-1000",
+            "amount": "400 mg"
+          },
+          {
+            "name": "PVDF-HFP",
+            "amount": "100 mg"
+          },
+          {
+            "name": "LiTFSI",
+            "amount": "57 mg"
+          },
+          {
+            "solvent": "DMF",
+            "amount": "2 mL"
+          }
+        ],
+        "steps": [
+          {
+            "action": "stirring",
+            "time": "12 h"
+          },
+          {
+            "action": "heating at 80 °C under vacuum",
+            "time": "12 h"
+          },
+          {
+            "action": "immersing in 1 M LiTFSI PC solution",
+            "time": "12 h"
+          },
+          {
+            "action": "vacuum-drying"
+          }
+        ]
+      }
+    }
+  ]
+}

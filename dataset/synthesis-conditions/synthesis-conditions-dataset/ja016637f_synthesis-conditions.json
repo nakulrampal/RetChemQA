@@ -1,0 +1,32 @@
+{
+  "materials": [
+    {
+      "material_id": "1",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "hexamethylenetetramine (HMTA)",
+            "amount": "3 equiv"
+          },
+          {
+            "name": "Cu2(μ-O2CCH2CH3)4",
+            "amount": "5 equiv"
+          }
+        ],
+        "solvent": "MeOH",
+        "method": "slow diffusion",
+        "reaction_details": {
+          "description": "A solution of HMTA in MeOH was slowly diffused into a solution of Cu2(μ-O2CCH2CH3)4(MeOH)2 that was prepared in situ.",
+          "observation": "large blue crystals forming within days"
+        },
+        "design_elements": [
+          {
+            "acid_functionality": "ethyl",
+            "ratio_X": "3:5"
+          }
+        ],
+        "additional_information": "Other networks can be obtained by varying the conditions of acid functionality and the ratio X."
+      }
+    }
+  ]
+}

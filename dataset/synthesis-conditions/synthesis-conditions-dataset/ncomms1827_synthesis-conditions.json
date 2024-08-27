@@ -1,0 +1,71 @@
+{
+  "Compounds": {
+    "1": {
+      "Synthesis": {
+        "Temperature": "Ambient",
+        "Solvents": [
+          "Methanol"
+        ],
+        "Amount_of_each_solvent": [
+          "2 ml for CuCl2·2H2O",
+          "2 ml for pyimH"
+        ],
+        "Equipment": "H-tube",
+        "Chemicals_used": [
+          "CuCl2·2H2O (34 mg, 0.2 mmol)",
+          "2-(imidazol-2-yl)pyridine (pyimH) (29 mg, 0.2 mmol)",
+          "NEt3 (28 µl, 0.2 mmol)"
+        ],
+        "Time": "Several weeks",
+        "Yield": "Quantitative",
+        "Drying_method": "Not specified",
+        "Washing_method": "Not specified"
+      },
+      "Chemisorption/desorption_of_gaseous_HCl_molecules": {
+        "Conditions": "Exposed to an atmosphere of hydrochloric acid vapour in a sealed vessel",
+        "Time": "1 day",
+        "Yield": "100%",
+        "Temperature": "Ambient",
+        "Observations": [
+          "Color change from dark green to yellow within a few minutes"
+        ]
+      }
+    },
+    "2": {
+      "Formation_from_1": {
+        "Conditions": "Exposure of crystalline 1 to vapours of concentrated aqueous HCl (37%)",
+        "Time": "1 day",
+        "Yield": "100%",
+        "Temperature": "Ambient",
+        "Observations": [
+          "Color change from dark green to yellow"
+        ]
+      },
+      "Release_of_HCl_gas": {
+        "Conditions": "Left to stand in air at room temperature",
+        "Time": "1 day",
+        "Temperature": "Room temperature",
+        "Observations": [
+          "Color change from yellow to bright green"
+        ]
+      }
+    },
+    "3": {
+      "Formation_from_2": {
+        "Conditions": "Release of two equivalents of HCl gas from compound 2",
+        "Time": "1 day",
+        "Temperature": "Room temperature",
+        "Observations": [
+          "Color change from yellow to bright green"
+        ]
+      },
+      "Chemisorption_of_HCl_gas": {
+        "Conditions": "Subjected to an atmosphere of HCl vapour",
+        "Temperature": "Room temperature",
+        "Observations": [
+          "Conversion back to compound 2"
+        ]
+      }
+    }
+  }
+}

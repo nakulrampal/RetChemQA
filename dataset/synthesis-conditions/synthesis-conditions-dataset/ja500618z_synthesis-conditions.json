@@ -1,0 +1,64 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "chemicals_used": "[C(NH2)3][Mn(HCOO)3]",
+        "literature": "Wang, Z.; Zhang, B.; Otsuka, T; Inoue, K.; Kobayashi, H.; Kurmoo, M. Dalton Trans. 2004, 2209. (b) Hu, K.-L. Kurmoo, M.; Wang, Z.-M.; Gao, S. Chem. Eur. J., 2009, 15, 120050."
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "chemicals_used": "[(CH2)3NH2][Mn(HCOO)3]",
+        "literature": "Wang, Z.; Zhang, B.; Otsuka, T; Inoue, K.; Kobayashi, H.; Kurmoo, M. Dalton Trans. 2004, 2209. (b) Hu, K.-L. Kurmoo, M.; Wang, Z.-M.; Gao, S. Chem. Eur. J., 2009, 15, 120050."
+      }
+    },
+    {
+      "name": "3",
+      "synthesis_conditions": {
+        "chemicals_used": "[(CH3)2NH2][Mn(HCOO)3]",
+        "literature": "Wang, Z.; Zhang, B.; Otsuka, T; Inoue, K.; Kobayashi, H.; Kurmoo, M. Dalton Trans. 2004, 2209. (b) Hu, K.-L. Kurmoo, M.; Wang, Z.-M.; Gao, S. Chem. Eur. J., 2009, 15, 120050."
+      }
+    }
+  ],
+  "nanoindentation_methodology": {
+    "equipment": "MTS NanoIndenter® XP (MTS Corp., Eden Prairie, MN), equipped with the Continuous Stiffness Measurement (CSM) module",
+    "indenter": "three sided pyramidal Berkovich indenter with a sharp tip (end radius ~100 nm)",
+    "calibration": "fused silica standard, with elastic modulus (E=72 GPa) and hardness (H=9 GPa)",
+    "thermal_drifts": "< 0.05 nm s1",
+    "loading_unloading_strain_rates": "5×102 s1",
+    "preset_displacement": "1000 nm",
+    "hold_time": "30 seconds",
+    "purpose": "to minimize creep effects",
+    "references": [
+      "Tan, J. C.; Merrill, C. A.; Orton, J. B.; Cheetham, A. K. Acta Mater. 2009, 57, 3481.",
+      "Ramamurty. U.; Jang, J. CrystEngComm, 2014, 16, 12."
+    ]
+  },
+  "high_pressure_synchrotron_single_crystal_xray_study": {
+    "equipment": "Merrill-Bassett diamond anvil cell (DAC) equipped with 600 μm culet diamonds and a tungsten gasket",
+    "pressure_measurement": "ruby fluorescence",
+    "pressure_error": "ca. 0.08 GPa",
+    "medium": "paraffin as a hydrostatic medium",
+    "data_collection": "Rigaku Saturn 724 CCD detector using synchrotron radiation (λ = 0.48590 Å) on beamline I19 at the Diamond Light Source, Rutherford Appleton Laboratory",
+    "pressure_range": "ambient to 1.7 GPa for 1 and to 1.2 GPa for 2",
+    "data_reduction_software": "CrysAlisPro software package (version 1.171.36.32)",
+    "results": "only the unit cell parameters could be extracted",
+    "references": [
+      "Merrill, L.; Bassett, W. A. Review of Scientific Instruments 1974, 45, 290.",
+      "Piermarini, G. J.; Block, S.; Barnett, J. D.; Forman, R. A. J. Appl. Phys. 1975, 46, 2774."
+    ]
+  },
+  "density_functional_theory_calculations": {
+    "method": "plane-wave pseudopotential method implemented in the CASTEP package based on the density functional theory (DFT)",
+    "pseudopotentials": "Ultrasoft pseudopotentials with the 1s, 2s for C, N, and O treated as core electrons. For manganese, 3d and 4s electrons are chosen as the valence electrons.",
+    "functional": "Perdew-Burke-Ernzerhof GGA (generalized gradient approximation) functional",
+    "U_energy": "GGA+U method with the on-site orbital dependent Hubbard U energy of 4.0 eV for Mn",
+    "calculations": "The energy of hydrogen bonding between the A-site amine cations and the [Mn­(HCOO)3]− framework was obtained from the total energy of the whole structure by subtracting the contributions of the A-site amine cations and anionic frameworks.",
+    "references": [
+      "Payne, M. C.; Teter, M. P.; Allan, D. C.; Arias, T. A.; Joannopoulos, J. D. Rev. Mod. Phys. 1992, 64, 1045.",
+      "Clark, S. J.; Segall, M. D.; Pickard, C. J.; Hasnip, P. J.; Probert, M. J.; Refson, K.; Payne, M. C. Z. Krystallogr. 2005, 220, 567."
+    ]
+  }
+}

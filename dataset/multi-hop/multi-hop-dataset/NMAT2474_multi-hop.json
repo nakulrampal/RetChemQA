@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the melting temperature of PEO8:NaAsF6 as determined by DSC data?",
+      "answer": "71°C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Based on the synthesis conditions, what method was used to grow single crystals of PEO8:NaAsF6?",
+      "answer": "Mixing stoichiometric ratios of PEO and NaAsF6 salt in acetonitrile, followed by slow evaporation.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the linearity of the log(σ) versus 1/T plots for PEO8:NaAsF6?",
+      "answer": "It is consistent with ion hopping in a crystalline polymer electrolyte, as opposed to the curved Arrhenius plots typical of amorphous polymers.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the conductivity of PEO8:NaAsF6 compare to PEO6:LiAsF6 at 25°C?",
+      "answer": "PEO8:NaAsF6 has a conductivity 1.5 orders of magnitude higher than PEO6:LiAsF6.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the electrochemical stability window of PEO8:NaAsF6 based on linear sweep voltammetry?",
+      "answer": "Between 1 and 4.5 V.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What change in the crystal structure of PEO8:NaAsF6 is associated with the 'knee' in the conductivity plot?",
+      "answer": "The change in the crystal structure is associated with a phase transition between two conducting polymorphs.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the activation energy in the high-temperature region for PEO8:NaAsF6 and how does it compare to the 6:1 LiC complex?",
+      "answer": "The activation energy in the high-temperature region for PEO8:NaAsF6 is lower than for the 6:1 LiC complex, making it the lowest observed so far.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is only one semicircle observed in the a.c. impedance data for PEO8:NaAsF6?",
+      "answer": "Because the conductivity is dominated by conduction within the crystals with minimal contribution from grain boundary resistances.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the presence of a single activation energy in the Arrhenius plot for PEO8:NaAsF6 suggest about the conduction mechanism?",
+      "answer": "It suggests that the fundamental processes governing cation and anion transport are linked.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the coordination geometry of Na+ ions in PEO8:NaAsF6 compare to Li+ ions in PEO6:LiAsF6?",
+      "answer": "In PEO8:NaAsF6, Na+ ions are coordinated by eight ether oxygens forming a distorted hexagonal-based bi-pyramid, whereas in PEO6:LiAsF6, Li+ ions are coordinated by five ether oxygens.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role do local modes of the PEO chains play in ion transport within PEO8:NaAsF6?",
+      "answer": "Local modes of the PEO chains act as the gatekeeper for both cation motion inside the tunnels and anion motion between the tunnels.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental method was used to determine the transport number of Na+ in PEO8:NaAsF6?",
+      "answer": "The transport number was determined using the d.c. polarization method.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the polymer electrolyte PEO8:NaAsF6 composed of a single-phase material?",
+      "answer": "True, PXRD data demonstrate that PEO8:NaAsF6 is a single-phase material.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does PEO8:NaAsF6 exhibit higher conductivity than all previously reported crystalline polymer electrolytes?",
+      "answer": "True, PEO8:NaAsF6 exhibits the highest conductivity among the crystalline polymer electrolytes reported.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the anions in PEO8:NaAsF6 immobile?",
+      "answer": "False, both cations and anions are mobile in PEO8:NaAsF6.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the conductivity of PEO8:NaAsF6 independent of temperature?",
+      "answer": "False, the conductivity of PEO8:NaAsF6 changes with temperature, as indicated by the Arrhenius plot.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the crystal structure of PEO8:NaAsF6 remain unchanged across all temperatures?",
+      "answer": "False, the crystal structure of PEO8:NaAsF6 changes, as indicated by the presence of a 'knee' in the conductivity plot and supported by PXRD data.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the activation energy for ion transport in PEO8:NaAsF6 the same at all temperatures?",
+      "answer": "False, there is a change in the slope of the Arrhenius plot at around 25°C, indicating different activation energies at different temperature regions.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can PEO8:NaAsF6 be used in all-solid-state devices?",
+      "answer": "True, due to its ionic conductivity and solid yet flexible mechanical properties, PEO8:NaAsF6 is important for all-solid-state devices.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the electrochemical stability of PEO8:NaAsF6 limited to below 1 V?",
+      "answer": "False, the electrochemical stability window of PEO8:NaAsF6 is between 1 and 4.5 V.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

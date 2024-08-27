@@ -1,0 +1,50 @@
+{
+  "MFM-300(Al)": {
+    "synthesis_conditions": {
+      "temperature": "120 °C",
+      "equipment": "Xemis gravimetric adsorption apparatus",
+      "chemicals_used": "Research grade NO2 and He",
+      "time": "1 day",
+      "drying_method": "degassed at 120 °C and high dynamic vacuum (10-10 bar)"
+    },
+    "breakthrough_experiments_conditions": {
+      "equipment": "7 mm diameter fixed-bed tube of 120 mm length",
+      "amount_of_sample": "~3 g",
+      "solvents": "He and N2",
+      "temperature": "298 K",
+      "pressure": "1.0 bar",
+      "flow_rate": "40 mL/min",
+      "additional_conditions": [
+        "dry conditions",
+        "wet conditions with water vapour in the gas stream"
+      ]
+    },
+    "isotherm_measurements_conditions": {
+      "temperature_range": "298-333 K",
+      "pressure_range": "0-1 bar",
+      "gases_tested": "NO2, SO2, CO2, N2",
+      "analysis_method": "dual-site Langmuir-Freundlich model and IAST"
+    },
+    "desorption_conditions": {
+      "equipment": "flow of dry He",
+      "flow_rate": "13 mL/min",
+      "temperature": "298 K",
+      "pressure": "1 bar",
+      "additional_notes": "Desorption conditions are very mild and not directly comparable with practical processes via either temperature-swing or pressure-swing operations."
+    },
+    "regeneration_conditions": {
+      "method": "pressure-swing conditions",
+      "temperature": "298 K",
+      "pressure_reduction": "noted as effective for regeneration post adsorption of NO2"
+    },
+    "structural_characterization": {
+      "methods": [
+        "high resolution synchrotron X-ray powder diffraction (PXRD)",
+        "DFT calculations",
+        "in situ FTIR spectroscopy",
+        "EPR measurements"
+      ],
+      "findings": "Retention of crystal structure on NO2 adsorption and desorption, identification of NO2 and N2O4 binding sites, and confirmation of NO2 site I binding model."
+    }
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "TMOF-10-NH2(I)": {
+    "chemical_formula": "C18H18IN3O8Pb2",
+    "synthesis": {
+      "solvents": [
+        {
+          "name": "DMF",
+          "amount": "4 mL"
+        },
+        {
+          "name": "EtOH",
+          "amount": "part of 4 mL mixed solvent"
+        }
+      ],
+      "reactants": [
+        {
+          "name": "PbI2",
+          "amount": "0.2305 g"
+        },
+        {
+          "name": "2-aminoterephthalic acid",
+          "amount": "0.2715 g"
+        },
+        {
+          "name": "perchloric acid",
+          "amount": "200 μL"
+        }
+      ],
+      "temperature": "150 °C",
+      "time": "72 h",
+      "equipment": "Teﬂon-lined autoclave reactor",
+      "yield": "0.182 g (77%)"
+    },
+    "stability": {
+      "thermal": "up to 200 °C in air",
+      "moisture": "high in 50–90% RH"
+    },
+    "CO2_sorption": {
+      "273K": "21.47 cm3/g",
+      "298K": "11.12 cm3/g",
+      "Qst": "26.3 kJ mol−1"
+    },
+    "photocatalytic_CO2_reduction": {
+      "conditions": {
+        "catalyst_amount": "10 mg",
+        "light_source": "300 W Xe lamp",
+        "CO2_pressure": "1 atm",
+        "H2O_amount": "5 mL",
+        "temperature": "10 °C"
+      },
+      "products": {
+        "CO": {
+          "evolution_rate": "78 μmol h−1 g−1"
+        },
+        "CH4": {
+          "trace_amounts": true
+        }
+      },
+      "stability": "high, no Pb2+ leaching detected"
+    }
+  },
+  "TMOF-10-NH2(Br)": {
+    "chemical_formula": "C18H18BrN3O8Pb2",
+    "synthesis": {
+      "solvents": [
+        {
+          "name": "DMF",
+          "amount": "4 mL"
+        },
+        {
+          "name": "EtOH",
+          "amount": "part of 4 mL mixed solvent"
+        }
+      ],
+      "reactants": [
+        {
+          "name": "PbBr2",
+          "amount": "equivalent to PbI2 in TMOF-10-NH2(I)"
+        },
+        {
+          "name": "2-aminoterephthalic acid",
+          "amount": "equivalent to TMOF-10-NH2(I)"
+        },
+        {
+          "name": "perchloric acid",
+          "amount": "equivalent to TMOF-10-NH2(I)"
+        }
+      ],
+      "temperature": "150 °C",
+      "time": "72 h",
+      "equipment": "Teﬂon-lined autoclave reactor",
+      "yield": "0.175 g (78%)"
+    },
+    "stability": {
+      "thermal": "up to 200 °C in air",
+      "moisture": "high in 50–90% RH"
+    },
+    "CO2_sorption": {
+      "273K": "comparable to TMOF-10-NH2(I)",
+      "298K": "comparable to TMOF-10-NH2(I)",
+      "Qst": "31.38 kJ mol−1"
+    },
+    "photocatalytic_CO2_reduction": {
+      "conditions": {
+        "catalyst_amount": "10 mg",
+        "light_source": "300 W Xe lamp",
+        "CO2_pressure": "1 atm",
+        "H2O_amount": "5 mL",
+        "temperature": "10 °C"
+      },
+      "products": {
+        "CO": {
+          "evolution_rate": "52 μmol h−1 g−1"
+        },
+        "CH4": {
+          "trace_amounts": true
+        }
+      },
+      "stability": "high, no Pb2+ leaching detected"
+    }
+  },
+  "[Pb(NH2-bdc)]n": {
+    "chemical_formula": "C8H5NO4Pb",
+    "synthesis": {
+      "solvents": [
+        {
+          "name": "DMF",
+          "amount": "2 mL"
+        }
+      ],
+      "reactants": [
+        {
+          "name": "Pb(NO3)2",
+          "amount": "0.042 g"
+        },
+        {
+          "name": "2-aminoterephthalic acid",
+          "amount": "0.083 g"
+        }
+      ],
+      "temperature": "120 °C",
+      "time": "48 h",
+      "equipment": "Teﬂon-lined autoclave reactor",
+      "yield": "0.078 g (81%)"
+    },
+    "photocatalytic_CO2_reduction": {
+      "conditions": {
+        "catalyst_amount": "10 mg",
+        "light_source": "300 W Xe lamp",
+        "CO2_pressure": "1 atm",
+        "H2O_amount": "5 mL",
+        "temperature": "10 °C"
+      },
+      "products": {
+        "CO": {
+          "evolution_rate": "5.2 μmol h−1 g−1"
+        }
+      },
+      "stability": "high, no Pb2+ leaching detected"
+    }
+  }
+}

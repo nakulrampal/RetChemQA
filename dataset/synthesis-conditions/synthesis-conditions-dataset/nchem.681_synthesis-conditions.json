@@ -1,0 +1,138 @@
+{
+  "Re(diimine)(CO)3Cl": {
+    "synthesis_conditions": {
+      "temperature": "80ºC",
+      "solvents": [
+        {
+          "name": "ethanol/toluene",
+          "ratio": "1:1",
+          "amount": "10 ml"
+        }
+      ],
+      "chemicals_used": [
+        {
+          "name": "2,2'-bipyridine-5,5'-dicarboxylic acid",
+          "amount": "0.024 g",
+          "moles": "0.1 mmol"
+        },
+        {
+          "name": "Re(CO)5Cl",
+          "amount": "0.036 g",
+          "moles": "0.1 mmol"
+        }
+      ],
+      "time": "2 days",
+      "yield": "81%",
+      "drying_method": "evaporation at 80ºC",
+      "washing_method": "washed with toluene"
+    }
+  },
+  "Mn(diimine)(CO)3Br": {
+    "synthesis_conditions": {
+      "temperature": "90ºC",
+      "solvents": [
+        {
+          "name": "tetrahydrofuran and toluene",
+          "ratio": "1:1",
+          "amount": "100 ml"
+        }
+      ],
+      "chemicals_used": [
+        {
+          "name": "2,2'-bipyridine-5,5'-dicarboxylic acid",
+          "amount": "0.158 g",
+          "moles": "0.6 mmol"
+        },
+        {
+          "name": "Mn(CO)5Br",
+          "amount": "0.141 g",
+          "moles": "0.5 mmol"
+        }
+      ],
+      "time": "2 hours",
+      "yield": "57.2%",
+      "washing_method": "washed by toluene"
+    }
+  },
+  "{MnC12H6N2O4(DMF)2Re(CO)3Cl}": {
+    "synthesis_conditions": {
+      "temperature": "80ºC",
+      "solvents": [
+        {
+          "name": "DMF",
+          "amount": "10 ml"
+        }
+      ],
+      "chemicals_used": [
+        {
+          "name": "Re(2,2'-bipyridine-5,5'-dicarboxylic acid)(CO)3Cl",
+          "amount": "0.020 g",
+          "moles": "0.04 mmol"
+        },
+        {
+          "name": "MnCl2.2H2O",
+          "amount": "0.066 g",
+          "moles": "0.05 mmol"
+        }
+      ],
+      "time": "2 days",
+      "yield": "38%",
+      "drying_method": "dried",
+      "washing_method": "washed with DMF"
+    }
+  },
+  "{MnC12H6N2O4(DMF)2Mn(CO)3Br}": {
+    "synthesis_conditions": {
+      "temperature": "90ºC",
+      "solvents": [
+        {
+          "name": "DMF",
+          "amount": "50 ml"
+        }
+      ],
+      "chemicals_used": [
+        {
+          "name": "Mn(2,2'-bipyridine-5,5'-dicarboxylic acid)(CO)3Br",
+          "amount": "0.10 g",
+          "moles": "0.22 mmol"
+        },
+        {
+          "name": "Mn(acetate)2",
+          "amount": "0.37 g",
+          "moles": "2.2 mmol"
+        }
+      ],
+      "time": "3 hours",
+      "yield": "73%",
+      "drying_method": "dried",
+      "washing_method": "filtered hot to remove unreacted Mn(acetate)2"
+    }
+  },
+  "{MnC12H6N2O4(DMF)2Mn(CO)3X}": {
+    "synthesis_conditions": {
+      "temperature": "90ºC",
+      "solvents": [
+        {
+          "name": "DMF",
+          "amount": "40 ml"
+        }
+      ],
+      "chemicals_used": [
+        {
+          "name": "Mn(2,2'-bipyridine-5,5'-dicarboxylic acid)(CO)3Br",
+          "amount": "0.046 g",
+          "moles": "0.10 mmol"
+        },
+        {
+          "name": "MnCl2.2H2O",
+          "amount": "0.193 g",
+          "moles": "1.2 mmol"
+        }
+      ],
+      "time": "2 days",
+      "yield": "26%",
+      "drying_method": "dried",
+      "washing_method": "washed with DMF"
+    }
+  }
+}

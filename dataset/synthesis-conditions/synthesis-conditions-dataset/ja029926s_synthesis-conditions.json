@@ -1,0 +1,96 @@
+{
+  "materials": [
+    {
+      "name": "2,2’-Diethoxy-1,1’-binaphthalene-6,6’-bis(4-vinylpyridine) (L1)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "9 mL"
+          },
+          {
+            "name": "TEA",
+            "amount": "9 mL"
+          }
+        ],
+        "temperature": "reflux under N2 atmosphere",
+        "time": "72 hr",
+        "yield": "94%",
+        "chemicals_used": [
+          "6,6’-dibromo-2,2’-diethoxy-1,1’-binaphthalene",
+          "4-vinylpyridine",
+          "palladium acetate",
+          "tris-(o-tolyl)phosphine"
+        ]
+      }
+    },
+    {
+      "name": "2,2’-(Pentaethylene glycol)-1,1’-binaphthalene-6,6’-bis(4-vinylpyridine) (L2)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "4 mL"
+          },
+          {
+            "name": "TEA",
+            "amount": "4 mL"
+          }
+        ],
+        "temperature": "reflux under N2 atmosphere",
+        "time": "72 hr",
+        "yield": "72%",
+        "chemicals_used": [
+          "6,6’-dibromo-2,2’-(pentaethylene glycol)-1,1’-binaphthalene",
+          "4-vinylpyridine",
+          "palladium acetate",
+          "tris-(o-tolyl)phosphine"
+        ]
+      }
+    },
+    {
+      "name": "[Ni(acac)2(L1)]⋅3CH3CN⋅6H2O, 1",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "CH3CN",
+            "amount": "4 mL"
+          },
+          {
+            "name": "CH2Cl2",
+            "amount": "4 mL"
+          }
+        ],
+        "temperature": "70°C",
+        "time": "1 day",
+        "yield": "65%",
+        "chemicals_used": [
+          "Ni(acac)2(H2O)2",
+          "L1"
+        ]
+      }
+    },
+    {
+      "name": "[Ni(acac)2(L2)]⋅2CH3CN⋅5H2O, 2",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "CH3CN",
+            "amount": "2 mL"
+          },
+          {
+            "name": "CH2Cl2",
+            "amount": "2 mL"
+          }
+        ],
+        "temperature": "70°C",
+        "time": "2 days",
+        "yield": "35%",
+        "chemicals_used": [
+          "Ni(acac)2(H2O)2",
+          "L2"
+        ]
+      }
+    }
+  ]
+}

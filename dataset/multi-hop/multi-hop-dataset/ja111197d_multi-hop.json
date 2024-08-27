@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "question": "What is the diffusivity value of TEA in MOF-1 according to the study?",
+      "answer": "(1.1±0.2)×10^-13 m^2/s",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the size of DIPEA compare to 4-MeOPhNPh2 based on geometry optimization?",
+      "answer": "DIPEA is smaller than 4-MeOPhNPh2.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study provides a quantitative analysis of the diffusion of TEA, TPA, and TBA in MOF-1.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used for geometry optimization of DIPEA and 4-MeOPhNPh2?",
+      "answer": "DFT method using B3LYP functional",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "According to the study, what prevents DIPEA from entering MOF channels?",
+      "answer": "Its large size compared to the channel dimensions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The diffusivity values for TEA, TPA, and TBA were determined using a linear fitting method.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the β parameter introduced in the diffusion model?",
+      "answer": "It corrects for the equilibrium diffusant concentration in MOFs.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the study account for the interaction between diffusant molecules and MOF channels?",
+      "answer": "By introducing a diffusant dependent parameter β to represent the correction to equilibrium diffusant concentration in MOFs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study suggests that surface quenching can significantly contribute to the detected emission of the crystal.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental technique was used to measure the Stern-Volmer constant of the quenchers in a homogeneous system?",
+      "answer": "Emission measurement with excitation at 452 nm and emission maximum at 605 nm.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why was the data for the first 200 seconds excluded from the linear fitting for diffusivity calculation?",
+      "answer": "To minimize the truncation error by cutting off data points from the first 200 seconds.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study concludes that 4-MeOPhNPh2 enters the MOF channels via simple Fickian diffusion.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

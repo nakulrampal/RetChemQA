@@ -1,0 +1,67 @@
+{
+  "materials": [
+    {
+      "name": "MIL-88-as",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "description": "Synthesized as described previously.",
+          "reference": "Serre et al., Angew. Chem., Int. Ed. 2004, 43, 6285-6290."
+        }
+      ]
+    },
+    {
+      "name": "MIL-88-dried",
+      "synthesis_conditions": [
+        {
+          "step": "Drying",
+          "temperature": "423 K",
+          "atmosphere": "air",
+          "description": "MIL-88-as was dried at 423 K under air to evacuate the extraframework species such as methanol molecules."
+        }
+      ]
+    },
+    {
+      "name": "MIL-88-solvents",
+      "synthesis_conditions": [
+        {
+          "step": "Adsorption",
+          "solvents": ["C4H9OH", "C2H5OH", "CH3OH", "H2O"],
+          "description": "Adsorption of a variety of polar solvents was performed on the dried (423 K) form of MIL-88 by dispersing a powder sample on a glass sample holder in contact with several solvents."
+        }
+      ]
+    },
+    {
+      "name": "MIL-88-H2O",
+      "synthesis_conditions": [
+        {
+          "step": "Adsorption",
+          "solvent": "H2O",
+          "description": "A powder sample of MIL-88-as was dispersed in water and introduced in a low-absorbing 1 mm diameter glass capillary for X-ray diffraction data collection."
+        }
+      ]
+    },
+    {
+      "name": "MIL-88-H2O",
+      "synthesis_conditions": [
+        {
+          "chemical_formula": "Fe(III)3O(H2O)3{-O2C-C2H2-CO2-}3.{-O2C-CH3}.nH2O (n ~19)",
+          "crystal_system": "Hexagonal",
+          "space_group": "P c26",
+          "a": "13.871(1) Å",
+          "c": "12.663(2) Å",
+          "volume": "2110.0(2) Å3",
+          "Z": "2",
+          "radiation": "λ Cu (Å): Ka1, Ka2 = 1.5406, 1.5444",
+          "2θ_range": "5 - 50°",
+          "temperature": "295 K",
+          "RP": "0.02",
+          "RWP": "0.03",
+          "RB": "0.16",
+          "RF": "0.15",
+          "overall_isotropic_thermal_factor": "3.0"
+        }
+      ]
+    }
+  ]
+}

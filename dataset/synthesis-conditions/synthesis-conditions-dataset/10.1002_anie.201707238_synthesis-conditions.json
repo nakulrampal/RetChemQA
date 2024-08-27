@@ -1,0 +1,92 @@
+{
+  "materials": [
+    {
+      "name": "CTGU-5 and CTGU-6",
+      "synthesis_conditions": {
+        "solvents": "Not specified",
+        "surfactants": {
+          "CTGU-5": "anionic surfactant",
+          "CTGU-6": "neutral surfactant"
+        },
+        "system": "solvothermal",
+        "additional_information": "Two phases could be selected by using different surfactants under similar solvothermal systems."
+      }
+    },
+    {
+      "name": "AB&CTGU-5 (1:4)",
+      "synthesis_conditions": {
+        "stoichiometric_ratio": {
+          "AB_to_CTGU-5": "1:4"
+        },
+        "HER_properties": {
+          "onset_potential": "18 mV",
+          "Tafel_slope": "45 mV dec@1",
+          "exchange_current_density": "8.6 X 10@4 A cm@2",
+          "stability": "highly stable current density at a constant overpotential of 10 mV for at least 96 h"
+        },
+        "additional_information": "Integration with acetylene black (AB) leads to very efficient HER catalytic properties."
+      }
+    },
+    {
+      "name": "AB&CTGU-5 with different ratios",
+      "synthesis_conditions": {
+        "stoichiometric_ratios": [
+          "1:8",
+          "1:4",
+          "2:4",
+          "3:4",
+          "4:4",
+          "5:4"
+        ],
+        "HER_properties": {
+          "onset_potential": [
+            "181 mV",
+            "18 mV",
+            "21 mV",
+            "43 mV",
+            "26 mV",
+            "45 mV"
+          ],
+          "Tafel_slope": [
+            "98 mV dec@1",
+            "45 mV dec@1",
+            "51 mV dec@1",
+            "57 mV dec@1",
+            "61 mV dec@1",
+            "64 mV dec@1"
+          ],
+          "overpotential_h10": [
+            "280 mV",
+            "44 mV",
+            "62 mV",
+            "77 mV",
+            "67 mV",
+            "90 mV"
+          ],
+          "exchange_current_density_j0": [
+            "3.9 W 10@5 A cm@2",
+            "8.6 W 10@4 A cm@2",
+            "3.7 W 10@4 A cm@2",
+            "2.4 W 10@4 A cm@2",
+            "3.8 W 10@4 A cm@2",
+            "1.8 W 10@4 A cm@2"
+          ]
+        },
+        "additional_information": "The best-performing composite, AB:CTGU-5 (1:4), exhibits extraordinary catalytic behavior."
+      }
+    },
+    {
+      "name": "Graphene&CTGU-5",
+      "synthesis_conditions": {
+        "stoichiometric_ratio": {
+          "Graphene_to_CTGU-5": "6 wt %"
+        },
+        "HER_properties": {
+          "onset_overpotential": "23 mV",
+          "Tafel_slope": "88 mV dec@1"
+        },
+        "additional_information": "Graphene (6 wt %) in CTGU-5, the composite catalyst exhibits an optimal HER activity."
+      }
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "materials": [
+    {
+      "name": "PPF-18",
+      "synthesis_conditions": {
+        "temperature": "80°C",
+        "time": "24 h",
+        "solvents": [
+          {
+            "name": "N,N-diethyl formamide (DEF)",
+            "amount": "1.5 mL"
+          },
+          {
+            "name": "ethanol",
+            "amount": "0.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "5,10,15,20-tetrakis(4-carboxyl)-21H,23H-porphyrin (TCPP)",
+            "amount": "7.9 mg"
+          },
+          {
+            "name": "Zn(NO3)2•6H2O",
+            "amount": "8.9 mg"
+          },
+          {
+            "name": "N,N’-di-(4-pyridyl)-1,4,5,8-naphthalenetetracarboxydiimide (DPNI)",
+            "amount": "4.2 mg"
+          },
+          {
+            "name": "1.0 M HNO3 in ethanol",
+            "amount": "50 μL"
+          }
+        ],
+        "yield": "12.1 mg (79% based on porphyrin)"
+      }
+    },
+    {
+      "name": "PPF-20",
+      "synthesis_conditions": {
+        "temperature": "80°C",
+        "time": "24 h",
+        "solvents": [
+          {
+            "name": "N,N-dimethyl formamide (DMF)",
+            "amount": "1.5 mL"
+          },
+          {
+            "name": "ethanol",
+            "amount": "0.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "5,10,15,20-tetrakis(4-carboxyl)-21H,23H-porphyrin (TCPP)",
+            "amount": "7.9 mg"
+          },
+          {
+            "name": "Zn(NO3)2•6H2O",
+            "amount": "8.9 mg"
+          },
+          {
+            "name": "N,N’-di-(4-pyridyl)-1,4,5,8-naphthalenetetracarboxydiimide (DPNI)",
+            "amount": "16.8 mg"
+          },
+          {
+            "name": "1.0 M HNO3 in ethanol",
+            "amount": "30 μL"
+          }
+        ],
+        "yield": "15.1 mg (76% based on porphyrin)"
+      }
+    },
+    {
+      "name": "PPF-27 from PPF-18",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "time": "~3 h",
+        "solvents": [
+          {
+            "name": "DEF",
+            "amount": "1.5 mL"
+          },
+          {
+            "name": "ethanol",
+            "amount": "0.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "PPF-18",
+            "amount": "20.0 mg"
+          },
+          {
+            "name": "4,4’-bipyridine (BPY)",
+            "amount": "3.2 mg"
+          }
+        ],
+        "yield": "14.0 mg (93% based on porphyrin)"
+      }
+    },
+    {
+      "name": "PPF-4 from PPF-18",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "time": "~3 h",
+        "solvents": [
+          {
+            "name": "DEF",
+            "amount": "1.5 mL"
+          },
+          {
+            "name": "ethanol",
+            "amount": "0.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "PPF-18",
+            "amount": "20.0 mg"
+          },
+          {
+            "name": "4,4’-bipyridine (BPY)",
+            "amount": "8.0 mg"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PPF-4 from PPF-20",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "time": "~3 h",
+        "solvents": [
+          {
+            "name": "DEF",
+            "amount": "1.5 mL"
+          },
+          {
+            "name": "ethanol",
+            "amount": "0.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "PPF-20",
+            "amount": "19.9 mg"
+          },
+          {
+            "name": "4,4’-bipyridine (BPY)",
+            "amount": "6.4 mg"
+          }
+        ],
+        "yield": "13.7 mg (97% based on porphyrin)"
+      }
+    }
+  ]
+}

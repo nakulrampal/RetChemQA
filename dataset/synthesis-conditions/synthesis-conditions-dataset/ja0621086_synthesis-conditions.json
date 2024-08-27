@@ -1,0 +1,96 @@
+{
+  "materials": [
+    {
+      "name": "MIL-96",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "210 °C",
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "5 mL"
+            }
+          ],
+          "equipment": "23-mL Teflon-lined steel Parr autoclave",
+          "chemicals_used": [
+            {
+              "name": "aluminum nitrate",
+              "amount": "1.314 g",
+              "details": "Al(NO3)3·9H2O, Carlo Erba Regenti, 98%"
+            },
+            {
+              "name": "1,3,5-benzenetricarboxylic acid",
+              "amount": "0.105 g",
+              "details": "C6H3(CO2H)3, Aldrich, 95%"
+            }
+          ],
+          "time": "24 h",
+          "washing_method": "filtered off, washed with deionized water",
+          "drying_method": "dried in air at room temperature",
+          "yield": "mixture of a fine white powder (∼1 μm size) of the title compound and large parallelepiped-shaped crystals of recrystallized H3btc"
+        },
+        {
+          "step": 2,
+          "temperature": "210 °C",
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "5 mL"
+            }
+          ],
+          "equipment": "23-mL Teflon-lined steel Parr autoclave",
+          "chemicals_used": [
+            {
+              "name": "aluminum nitrate",
+              "amount": "1.314 g",
+              "details": "Al(NO3)3·9H2O, Carlo Erba Regenti, 98%"
+            },
+            {
+              "name": "trimethyl 1,3,5-benzenetricarboxylate",
+              "amount": "0.440 g",
+              "details": "C6H3(CO2CH3)3, 98%, Aldrich"
+            }
+          ],
+          "time": "24 h",
+          "yield": "pure phase of MIL-96 (Al)"
+        },
+        {
+          "step": 3,
+          "temperature": "210 °C",
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "20 mL"
+            },
+            {
+              "name": "diluted hydrofluoric acid",
+              "amount": "0.6 mL",
+              "details": "HF, Normapur, 4.8%"
+            },
+            {
+              "name": "tetraethylortho silicate",
+              "amount": "0.16 mL",
+              "details": "Si(OC2H5)4, TEOS, Merck, >98%"
+            }
+          ],
+          "equipment": "125-mL Teflon-lined steel Parr autoclave",
+          "chemicals_used": [
+            {
+              "name": "aluminum nitrate",
+              "amount": "1.314 g",
+              "details": "Al(NO3)3·9H2O, Carlo Erba Regenti, 98%"
+            },
+            {
+              "name": "trimethyl 1,3,5-benzenetricarboxylate",
+              "amount": "0.440 g",
+              "details": "C6H3(CO2CH3)3, 98%, Aldrich"
+            }
+          ],
+          "time": "24 h",
+          "yield": "flat hexagonal-shape crystals of 10−40 μm size in the absence of recrystallized H3btc"
+        }
+      ]
+    }
+  ]
+}

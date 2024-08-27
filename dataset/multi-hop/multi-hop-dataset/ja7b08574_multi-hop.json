@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of the compound 1′?",
+      "answer": "C18H28Co2N7NaO20.8P2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to obtain variable-pH dc magnetic susceptibility data for compound 1?",
+      "answer": "The Evans method",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the pH affect the CEST effects from application of presaturation at 64 ppm and 104 ppm for compound 1 in aqueous solutions?",
+      "answer": "The CEST effect at 64 ppm increases with pH, while the CEST effect at 104 ppm shows a different pH profile, with intensity remaining relatively constant between pH 6.50 and 7.60 and then increasing at higher pH.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the linear fit equation log10(CEST104 ppm/CEST64 ppm) = −0.99(7) × pH + 7.4(5) for compound 1?",
+      "answer": "This equation represents the pH calibration curve for compound 1, allowing for ratiometric pH quantitation in the physiological pH range using the ratio of CEST intensities at 104 and 64 ppm.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the outcome of the cell viability experiment with compound 1?",
+      "answer": "More than 50% of melanoma B16F10 cells remained viable after incubation with millimolar concentrations of compound 1 for 24 hours.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the pH calibration curve for compound 1 change with temperature?",
+      "answer": "The pH calibration curve for compound 1 is affected by temperature variations, especially below pH 7.0, due to temperature-induced shifts in CEST frequencies.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the purpose of synthesizing tetraisopropyl chloromethanediphosphonate?",
+      "answer": "Tetraisopropyl chloromethanediphosphonate was synthesized as an intermediate step in the preparation of chloromethanediphosphonic acid (H4CMDP), which is used in the synthesis of compound 2.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The CEST effect of compound 1 at 104 ppm decreases as the pH increases from 6.50 to 7.60.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The proton exchange rate constants (kex) for the CEST effects of compound 2 at 68–69 ppm and 102 ppm increase with pH.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The pH calibration curve for compound 1 is independent of the probe concentration.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the method used to estimate the proton exchange rate constants (kex) for the CEST effects of compounds 1, 2, and 3?",
+      "answer": "The Omega plot method",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the presence of a significant oxidation event at ca. 560 mV vs NHE in the cyclic voltammogram of compound 1 indicate?",
+      "answer": "It indicates that compound 1 is inert toward reaction with oxygen in solution, suggesting stability.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The CEST imaging of phantoms containing compound 1 demonstrates its potential for ratiometric pH mapping in the physiological range.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the linear fit equation log10(CEST104 ppm/CEST64 ppm) = −1.17(7) × pH + 8.6(5) represent in the context of phantom imaging with compound 1?",
+      "answer": "This equation represents the pH calibration curve derived from phantom imaging with compound 1, allowing for the calculation of pH values from CEST imaging data.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the pH calibration curve for compound 1 compare between experiments in FBS and buffer solutions?",
+      "answer": "The pH calibration curves for compound 1 in FBS and buffer solutions are essentially identical, demonstrating the stability and suitability of compound 1 for physiological environments.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

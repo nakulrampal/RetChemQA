@@ -1,0 +1,52 @@
+{
+  "materials": [
+    {
+      "name": "4,4’-(phenazine-5,10-diyl)dibenzoate anion (PZDB-Li2)",
+      "synthesis_conditions": {
+        "starting_material": "phenazine",
+        "yield": "acceptable",
+        "morphology": "plate-like",
+        "crystal_structure": "monoclinic single crystals",
+        "space_group": "P21",
+        "water_content_removal": {
+          "temperature": "60 88C",
+          "environment": "vacuum",
+          "water_molecules_per_PZDB-Li2": "3.3"
+        },
+        "thermal_stability": "up to ca. 400 88C in N2 and air",
+        "solubility": "insoluble in carbonate-based electrolytes",
+        "solvent_system": "ethyl carbonate (EC) / diethyl carbonate (DEC)",
+        "intermolecular_interactions": "stronger than intercalation between PZDB-Li2 and solvent molecules"
+      }
+    },
+    {
+      "name": "PZDB-Li2 symmetric cell",
+      "synthesis_conditions": {
+        "cell_type": "standard CR2032 coin cell",
+        "cathode_and_anode_weight": "approximately equal",
+        "current_rate": "1 C",
+        "discharge_capacity": "ca. 53 mA h g@1",
+        "coulombic_efficiency": "ca. 97 %",
+        "cycles_measured": "200 cycles",
+        "energy_density": "127 Wh kg@1 at 1 C",
+        "capacity_retention": "stable",
+        "polarity_reversal_experiment_capacity": "around 50 mA h g@1",
+        "rate_capability_test_current_rates": "0.5, 1, and 2 C",
+        "energy_and_power_densities": {
+          "0.5_C": {
+            "energy_density": "132 Wh kg@1",
+            "power_density": "155 W kg@1"
+          },
+          "1_C": {
+            "energy_density": "127 Wh kg@1",
+            "power_density": "308 W kg@1"
+          },
+          "2_C": {
+            "energy_density": "110 Wh kg@1",
+            "power_density": "617 W kg@1"
+          }
+        }
+      }
+    }
+  ]
+}

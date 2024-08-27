@@ -1,0 +1,84 @@
+{
+  "Calcium Amidotrihydroborate": {
+    "synthesis_conditions": {
+      "step_1": {
+        "chemicals_used": {
+          "NH3BH3": "0.20 g, 6.48 mmol",
+          "tetrahydrofuran (THF)": "30.0 mL",
+          "calcium hydride": "0.14 g, 3.24 mmol",
+          "tetrahydrofuran (THF) for suspension": "20.0 mL"
+        },
+        "equipment": "suspension stirred overnight",
+        "solvents": "tetrahydrofuran (THF)",
+        "amount_of_each_solvent": {
+          "initial_THF": "30.0 mL",
+          "suspension_THF": "20.0 mL"
+        },
+        "temperature": "room temperature",
+        "time": "overnight",
+        "drying_method": "vacuum drying",
+        "yield": "96 %",
+        "product": "Ca(NH2BH3)2 (0.31 g)"
+      },
+      "step_2": {
+        "description": "X-ray quality crystals of the THF adduct 2 obtained from a THF/hexane solution at -22 8C",
+        "solvents": {
+          "THF": "not specified",
+          "hexane": "not specified"
+        },
+        "temperature": "-22 8C"
+      },
+      "step_3": {
+        "description": "Compound 1 obtained by vacuum-drying 2 overnight at room temperature",
+        "temperature": "room temperature",
+        "time": "overnight",
+        "drying_method": "vacuum drying"
+      },
+      "thermal_properties_analysis": {
+        "initial_loss_of_THF": "begins at 70 8C",
+        "significant_mass_loss": "observed at 120 8C",
+        "hydrogen_release": {
+          "90_8C": "< 0.3 equivalents of H2",
+          "120_8C": "1.1 equivalents of H2",
+          "150_8C": "2.4 equivalents",
+          "170_8C": "3.6 ± 0.2 equivalents, 90 % yield based upon the four equivalents of H2 expected"
+        },
+        "gravimetric_concentration": "7.2 weight % H2 at 170 8C"
+      },
+      "high_temperature_decomposition": {
+        "temperature_range": "170–245 8C",
+        "observations": "more hydrogen release observed by mass spectrometry",
+        "elemental_analysis_post_heating": {
+          "170_8C": "CaN2B2H2C0.2",
+          ">245_8C": "steady loss of nitrogen"
+        }
+      }
+    }
+  },
+  "Crystal_Data_for_2": {
+    "details": {
+      "formula": "C8H26B2CaN2O2",
+      "Mr": "244.01",
+      "crystal_system": "orthorhombic",
+      "dimensions": {
+        "a": "7.910(2)",
+        "b": "17.570(4)",
+        "c": "4.6700(9) A",
+        "V": "649.0(2) A3"
+      },
+      "temperature": "120 K",
+      "space_group": "Pnnm (No. 58)",
+      "Z": "2",
+      "density_calcd": "1.249 g cm-3",
+      "absorption_coefficient": "0.47 mm-1",
+      "reflections_measured": "4461 (2qmax = 50.08)",
+      "unique_reflections": "681",
+      "Rint": "0.0889",
+      "final_residuals": {
+        "R": "0.0906; 0.1161",
+        "wR": "0.2729; 0.2835"
+      },
+      "residual_electron_density": "0.484 e A-3"
+    }
+  }
+}

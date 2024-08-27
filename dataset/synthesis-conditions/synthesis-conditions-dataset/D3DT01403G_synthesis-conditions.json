@@ -1,0 +1,107 @@
+{
+  "materials": [
+    {
+      "name": "V-Cd-MOF",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "9.5 mL"
+          },
+          {
+            "name": "DMF",
+            "amount": "0.5 mL"
+          }
+        ],
+        "equipment": "23 mL Teflon-lined autoclave reactor",
+        "chemicals_used": [
+          {
+            "name": "NaVO3",
+            "amount": "1 mmol, 122.0 mg"
+          },
+          {
+            "name": "Cd(OAc)2·2H2O",
+            "amount": "0.05 mmol, 11.5 mg"
+          },
+          {
+            "name": "H2N4·H2O",
+            "amount": "0.2 mmol, 12.4 μL"
+          },
+          {
+            "name": "1,4-bis(imidazol-1-ylmethyl)benzene (bix)",
+            "amount": "0.1 mmol, 24.0 mg"
+          }
+        ],
+        "time": "3 days",
+        "yield": "46.0 mg, 70.0%",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified"
+      }
+    },
+    {
+      "name": "Selective oxidation of alcohols",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "CH3CN",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "10 mL autoclave reactor with an internal Teflon insert",
+        "chemicals_used": [
+          {
+            "name": "Alcohol (e.g., Benzyl alcohol)",
+            "amount": "0.5 mmol"
+          },
+          {
+            "name": "V-Cd-MOF",
+            "amount": "0.005 mmol, 1% mol"
+          },
+          {
+            "name": "1-bromododecane (internal standard)",
+            "amount": "50.0 μL"
+          }
+        ],
+        "time": "10 hours",
+        "pressure": "0.8 MPa O2",
+        "yield": "Determined by GC analyses",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified"
+      }
+    },
+    {
+      "name": "Recycling of the V-Cd-MOF",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "CH3CN",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "10 mL autoclave reactor with an internal Teflon insert",
+        "chemicals_used": [
+          {
+            "name": "Benzyl alcohol",
+            "amount": "0.5 mmol"
+          },
+          {
+            "name": "V-Cd-MOF (recovered)",
+            "amount": "0.005 mmol, 1% mol"
+          },
+          {
+            "name": "1-bromododecane (internal standard)",
+            "amount": "50 μL"
+          }
+        ],
+        "time": "10 hours",
+        "pressure": "0.8 MPa O2",
+        "yield": "Determined by GC analyses",
+        "washing_method": "Washed three times with CH3CN, air-dried overnight",
+        "drying_method": "Air-dried overnight"
+      }
+    }
+  ]
+}

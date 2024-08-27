@@ -1,0 +1,92 @@
+{
+  "materials": [
+    {
+      "material": "3",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "EtOH",
+            "amount": "80 mL"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "2-Ethylpyrimidine-5-carbaldehyde",
+            "amount": "0.5 g, 3.67 mmol"
+          },
+          {
+            "name": "4-acetylpyridine",
+            "amount": "0.92 mL, 0.1 g, 8.07 mmol"
+          },
+          {
+            "name": "KOH",
+            "amount": "0.52 g, 9.18 mmol"
+          },
+          {
+            "name": "Aqueous NH3 (25%)",
+            "amount": "18.1 mL, 117 mmol"
+          }
+        ],
+        "yield": "0.21 g, 3.67 mmol, 16.8 %",
+        "melting_point": "275.3 °C",
+        "NMR": {
+          "1H": "500 MHz, CDCl3, δ / ppm 9.03 (s, 2H, HC4), 8.82 (m, 4H, HA2), 8.07 (m, 4H, HA3), 8.01 (s, 2H, HB3), 3.13 (q, J = 7.6 Hz, 2H, HEt), 1.45 (t, J = 7.6 Hz, 3H, HEt)",
+          "13C": "126 MHz, CDCl3, δ / ppm 173.6 (CC2), 156.1 (CA4), 155.3 (CC4), 150.9 (CA2), 145.5 (CB2), 145.3 (CB4), 128.8 (CC5), 121.3 (CA3), 118.5 (CB3), 32.7 (CEt), 12.8 (CMe)"
+        },
+        "ESI-MS": "m/z 340.23 [M+H]+ (calc. 340.16), High resolution ESI-MS m/z 340.1561 [M+H]+ (calc. 340.1557)"
+      }
+    },
+    {
+      "material": "[Cu2(OAc)4(3)]n",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "MeOH",
+            "amount": "8 mL"
+          },
+          {
+            "name": "CHCl3",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "Cu(OAc)2·H2O",
+            "amount": "4.11 mg, 0.021 mmol"
+          },
+          {
+            "name": "3",
+            "amount": "7.0 mg, 0.021 mmol"
+          }
+        ],
+        "yield": "0.9 mg, 0.00128 mmol, 12.2 % based on Cu(OAc)2"
+      }
+    },
+    {
+      "material": "{[Cu(3)(OMe)(MeOH)][CF3SO3].MeOH}n",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "MeOH",
+            "amount": "8 mL"
+          },
+          {
+            "name": "CHCl3",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "Cu2(CF3SO3)2·C7H8",
+            "amount": "10.7 mg, 0.021 mmol"
+          },
+          {
+            "name": "3",
+            "amount": "7.0 mg, 0.021 mmol"
+          }
+        ],
+        "yield": "5.4 mg, 0.00834 mmol, 39.7% based on 3"
+      }
+    }
+  ]
+}

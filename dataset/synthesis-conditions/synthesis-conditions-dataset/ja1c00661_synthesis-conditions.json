@@ -1,0 +1,78 @@
+{
+  "materials": [
+    {
+      "name": "bisZn",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "ZnII(hfac)2･2H2O",
+            "amount": "12.1 mg, 0.023 mmol"
+          },
+          {
+            "name": "bisPyTM",
+            "amount": "9.6 mg, 0.020 mmol"
+          },
+          {
+            "solvent": "dry CHCl3",
+            "amount": "12 mL"
+          }
+        ],
+        "procedure": "A solution of ZnII(hfac)2･2H2O and bisPyTM dissolved in dry CHCl3 was slowly evaporated under a n-hexane atmosphere. The obtained red crystals of bisZn were washed with n-hexane, dried in vacuo.",
+        "yield": "9.4 mg, 48%",
+        "characterization": {
+          "elemental_analysis": {
+            "calculated": "C 33.58, H 0.83, N 2.90",
+            "found": "C 33.38, H 1.08, N 3.13"
+          }
+        }
+      }
+    }
+  ],
+  "characterization_methods": {
+    "X-ray_diffraction": {
+      "bisZn": {
+        "crystal_system": "Monoclinic",
+        "space_group": "C2/c",
+        "temperature": "143 K",
+        "cell_parameters": {
+          "a": "15.3161(5) Å",
+          "b": "11.1292(3) Å",
+          "c": "20.9256(6) Å",
+          "alpha": "90°",
+          "beta": "101.841(3)°",
+          "gamma": "90°",
+          "volume": "3490.99(18) Å3"
+        },
+        "density_calculated": "1.838 g cm-3",
+        "wavelength": "0.71073 Å",
+        "absorption_coefficient": "1.342 mm-1",
+        "reflections_collected": "15042",
+        "independent_reflections": "4001",
+        "parameters": "243",
+        "R_int": "0.0388",
+        "R1": "0.0306",
+        "wR2": "0.1167",
+        "GoF": "0.947"
+      }
+    },
+    "luminescence_measurement": {
+      "under_magnetic_field": {
+        "system_description": "The system consists of a picosecond diode laser with the emission wavelength of 375 nm as light source, a single grating spectrometer, and a multichannel CCD detector combined with a solenoid type superconducting magnet, which can generate up to 15 or 18 T.",
+        "sample_preparation": "Optical fibers are used to lead a light from light sources to a sample at the center of the superconducting magnet and from the sample to the spectrometer."
+      }
+    },
+    "luminescent_quantum_yields_measurement": {
+      "method_description": "Absolute emission quantum yields of bisPyTM and bisZn at 79 K in the emission wavelength range of 500 to 800 nm was measured using a JASCO FP8500 spectrometer equipped with an ILFC-847 liquid N2 cooled integrating sphere.",
+      "results": {
+        "bisPyTM": "0.049",
+        "bisZn": "0.0004±0.0003"
+      }
+    },
+    "stability_under_light_irradiation": {
+      "trisZn": {
+        "procedure": "Emission spectra of trisZn was monitored with continuous excitation at 375 nm light (5MHz, tune value: 25%) for 12 hours.",
+        "results": "The emission intensity and spectra before and after irradiation showed that trisZn is stable under light irradiation at 4.2 K."
+      }
+    }
+  }
+}

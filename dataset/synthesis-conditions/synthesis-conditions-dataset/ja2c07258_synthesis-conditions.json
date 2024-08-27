@@ -1,0 +1,58 @@
+{
+  "materials": [
+    {
+      "material": "1",
+      "synthesis_conditions": {
+        "temperature": "70 °C",
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "200 mL"
+          }
+        ],
+        "equipment": "pressure-resistant vial",
+        "chemicals_used": [
+          {
+            "name": "2",
+            "amount": "124.4 mg"
+          },
+          {
+            "name": "TMSOTf",
+            "amount": "722.5 μL"
+          }
+        ],
+        "time": "overnight",
+        "yield": "40%",
+        "washing_method": "methanol",
+        "drying_method": "in vacuo"
+      }
+    },
+    {
+      "material": "(TTF)2(1-H6+δ)",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "166 mL"
+          }
+        ],
+        "equipment": "conventional chromatography tube",
+        "chemicals_used": [
+          {
+            "name": "(TTF)3(BF4)2",
+            "amount": "90.0 mg"
+          },
+          {
+            "name": "suspension of 1",
+            "amount": "30 mL"
+          }
+        ],
+        "time": "6 h",
+        "yield": "40%",
+        "washing_method": "methanol",
+        "drying_method": "in vacuo"
+      }
+    }
+  ]
+}

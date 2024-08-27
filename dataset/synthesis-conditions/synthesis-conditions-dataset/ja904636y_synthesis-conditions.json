@@ -1,0 +1,62 @@
+{
+  "materials": [
+    {
+      "name": "NaLa(H4L)",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "details": {
+            "solvents": "Water",
+            "amount_of_solvent_ml": "7.94",
+            "chemicals_used": [
+              "1.0 M NaOH",
+              "0.5 M aqueous solution of H8L",
+              "1 M La(NO3)3"
+            ],
+            "amount_of_chemicals_ml": [
+              "4.00",
+              "2.00",
+              "1.00"
+            ],
+            "temperature": "100 °C",
+            "time": "36 h",
+            "equipment": "Hydrothermal conditions",
+            "yield": "630 mg, 0.96 mmol, 96%",
+            "washing_method": "Water",
+            "drying_method": "Room temperature",
+            "pH": {
+              "before_heating": "1.0",
+              "after_heating": "1.5"
+            }
+          }
+        },
+        {
+          "step": "Dehydration",
+          "details": {
+            "temperature": "180 °C",
+            "time": "2 h",
+            "atmosphere": "Air",
+            "storage_conditions": "Vacuum, argon or nitrogen"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ion-exchanged NaLa(H4L)",
+      "synthesis_conditions": [
+        {
+          "step": "Ion-exchange",
+          "details": {
+            "solvents": "Saturated aqueous solutions of LiCl, KCl, RbCl, CsCl, MgCl2, CaCl2, Sr(NO3)2, BaCl2, NiCl2, CuCl2, ZnCl2, MnCl2, Fe(NO3)3",
+            "amount_of_solvent_ml": "10",
+            "amount_of_material_mg": "100",
+            "time": "Three days",
+            "temperature": "Room temperature",
+            "washing_method": "Water",
+            "drying_method": "Room temperature"
+          }
+        }
+      ]
+    }
+  ]
+}

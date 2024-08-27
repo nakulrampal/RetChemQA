@@ -1,0 +1,59 @@
+{
+  "materials": [
+    {
+      "name": "1-4DCE",
+      "synthesis_conditions": {
+        "temperature": "298 K for evacuation to produce 1-nDCE",
+        "solvents": "DCE (1,2-dichloroethane)",
+        "amount_of_solvent": "Four DCE molecules per formula unit",
+        "equipment": "Single-crystal structure analysis equipment, in situ powder X-ray diffraction (PXRD) measurements equipment",
+        "chemicals_used": "[{Ru2(m-FPhCO2)4}2TCNQ(OMe)2], m-fluorobenzoate, 2,5-dimethoxyl-7,7,8,8-tetracyanoquinodimethane",
+        "time": "24 h for exposure to DCE vapor",
+        "drying_method": "Evacuation at 298 K produces a partially desolvated species 1-nDCE",
+        "yield": "Not specified",
+        "additional_information": "Crystallizes in the triclinic P(1) space group. The oxidation state of each D/A unit was determined by comparing local bond lengths in the [Ru2] and TCNQ(OMe)2 moieties."
+      }
+    },
+    {
+      "name": "1-nDCE",
+      "synthesis_conditions": {
+        "temperature": "298 K for partial desolvation from 1-4DCE, 353 K for further evacuation to produce 1",
+        "solvents": "DCE (1,2-dichloroethane)",
+        "amount_of_solvent": "n & 0.4 (1-0.4DCE)",
+        "equipment": "Single-crystal structure analysis equipment, in situ powder X-ray diffraction (PXRD) measurements equipment",
+        "chemicals_used": "[{Ru2(m-FPhCO2)4}2TCNQ(OMe)2], m-fluorobenzoate, 2,5-dimethoxyl-7,7,8,8-tetracyanoquinodimethane",
+        "time": "Not specified",
+        "drying_method": "Evacuation at 353 K to remove all DCE, yielding 1",
+        "yield": "Not specified",
+        "additional_information": "Crystallizes in the triclinic P(1) space group. Characteristic differences in packing were found in the formation of inter-layer π–π stacks between m-FPhCO2@ ligands."
+      }
+    },
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "temperature": "353 K for evacuation from 1-0.4DCE",
+        "solvents": "None (solvent-free)",
+        "equipment": "Single-crystal structure analysis equipment, in situ powder X-ray diffraction (PXRD) measurements equipment",
+        "chemicals_used": "[{Ru2(m-FPhCO2)4}2TCNQ(OMe)2], m-fluorobenzoate, 2,5-dimethoxyl-7,7,8,8-tetracyanoquinodimethane",
+        "time": "Not specified",
+        "drying_method": "Evacuation at 353 K to remove all DCE",
+        "yield": "Not specified",
+        "additional_information": "Crystallizes in the triclinic P(1) space group. Isostructural features to 1-0.4DCE."
+      }
+    },
+    {
+      "name": "1-reDCE",
+      "synthesis_conditions": {
+        "temperature": "298 K for exposure to DCE vapor for 24 h",
+        "solvents": "DCE (1,2-dichloroethane)",
+        "amount_of_solvent": "Solvated by one DCE molecule",
+        "equipment": "Single-crystal X-ray diffraction (SCXRD) analysis equipment, PXRD analyses equipment",
+        "chemicals_used": "[{Ru2(m-FPhCO2)4}2TCNQ(OMe)2], m-fluorobenzoate, 2,5-dimethoxyl-7,7,8,8-tetracyanoquinodimethane",
+        "time": "24 h",
+        "drying_method": "Not applicable (resolvation process)",
+        "yield": "Not specified",
+        "additional_information": "Essentially the same as 1-0.4DCE, transiently found in the desolvation process of 1-4DCE."
+      }
+    }
+  ]
+}

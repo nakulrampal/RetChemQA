@@ -1,0 +1,121 @@
+{
+  "materials": [
+    {
+      "name": "H3-2",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Methyl-3,5-dibromobenzoate (1.00 g, 3.66 mmol)",
+          "Methyl-4-carboxyphenylboronic acid (1.38 g, 7.69 mmol)",
+          "K3PO4 (4.66 g, 22.0 mmol)",
+          "Pd(PPh3)4 (0.130 g, 0.112 mmol)"
+        ],
+        "solvents": "1,4-dioxane (40 mL)",
+        "temperature": "100 °C",
+        "equipment": "Pressure vessel",
+        "time": "20 h",
+        "atmosphere": "N2 gas",
+        "washing_method": "Water, CH2Cl2, KOH (1.5 M) in dioxane/H2O (4:1, 20 mL)",
+        "drying_method": "Vacuum",
+        "yield": "0.92 g, 69%"
+      }
+    },
+    {
+      "name": "H4-3",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Dimethyl 5'-bromo-[1,1':3',1''-terphenyl]-4,4''-dicarboxylate (0.69 g, 1.6 mmol)",
+          "Dimethyl isophthalate-5-pinacolboronate (0.63 g, 1.96 mmol)",
+          "K3PO4 (1.0 g, 4.8 mmol)",
+          "Pd(PPh3)4 (0.037 g, 0.036 mmol)"
+        ],
+        "solvents": "1,4-dioxane/H2O (9:1, 15 mL)",
+        "temperature": "100 °C",
+        "equipment": "Pressure vessel",
+        "time": "16 h",
+        "atmosphere": "N2 gas",
+        "washing_method": "Water, CH2Cl2, KOH (1 M) in dioxane/H2O (2:1, 20 mL)",
+        "drying_method": "Vacuum",
+        "yield": "0.54 g, 69%"
+      }
+    },
+    {
+      "name": "H5-4",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Dimethyl 5'-bromo-[1,1':3',1''-terphenyl]-4,4''-dicarboxylate (1.00 g, 2.70 mmol)",
+          "Dimethyl isophthalate-5-pinacolboronate (2.18 g, 6.49 mmol)",
+          "K3PO4 (3.45 g, 16.2 mmol)",
+          "Pd(PPh3)4 (0.125 g, 0.108 mmol)"
+        ],
+        "solvents": "1,4-dioxane/H2O (9:1, 35 mL)",
+        "temperature": "100 °C",
+        "equipment": "Pressure vessel",
+        "time": "8 h",
+        "atmosphere": "N2 gas",
+        "washing_method": "Water, CH2Cl2, KOH (1 M) in dioxane/H2O (2:1, 25 mL)",
+        "drying_method": "Vacuum",
+        "yield": "0.423 g, 31%"
+      }
+    },
+    {
+      "name": "UMCM-151",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Linker H2-2 (0.050 g, 0.14 mmol)",
+          "Cu(NO3)2·2.5H2O (0.096 g, 0.41 mmol)"
+        ],
+        "solvents": "DMF/dioxane/H2O (4:1:1, 10 mL)",
+        "temperature": "85 °C",
+        "time": "12 h",
+        "washing_method": "DMF, acetone",
+        "drying_method": "Vacuum at room temperature for 4 h",
+        "yield": "80% based upon H3-2"
+      }
+    },
+    {
+      "name": "UMCM-152",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Linker H4-3 (0.050 g, 0.10 mmol)",
+          "Cu(NO3)2·2.5H2O (0.096 g, 0.41 mmol)"
+        ],
+        "solvents": "0.005 M HCl in DMF/dioxane/H2O (4:1:1, 10 mL)",
+        "temperature": "85 °C",
+        "time": "12 h",
+        "washing_method": "DMF, acetone",
+        "drying_method": "Vacuum for 4 h and further dried at 100 °C for 18 h",
+        "yield": "82% based upon H4-3"
+      }
+    },
+    {
+      "name": "UMCM-153",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Linker H4-3 (0.050 g, 0.10 mmol)",
+          "Cu(NO3)2·2.5H2O (0.096 g, 0.41 mmol)"
+        ],
+        "solvents": "NMP/dioxane/H2O (4:1:1, 10 mL)",
+        "temperature": "85 °C",
+        "time": "24 h",
+        "washing_method": "DMF, acetone",
+        "drying_method": "Vacuum for 4 h and further dried at 100 °C for 18 h",
+        "yield": "55% based upon H4-3"
+      }
+    },
+    {
+      "name": "UMCM-154",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Linker H5-4 (0.050 g, 0.095 mmol)",
+          "Zn(NO3)2·6H2O (0.14 g, 0.47 mmol)"
+        ],
+        "solvents": "DMF (10 mL)",
+        "temperature": "85 °C",
+        "time": "24 h",
+        "washing_method": "DMF, CH2Cl2",
+        "drying_method": "Vacuum for 6 h",
+        "yield": "87% based upon H5-4"
+      }
+    }
+  ]
+}

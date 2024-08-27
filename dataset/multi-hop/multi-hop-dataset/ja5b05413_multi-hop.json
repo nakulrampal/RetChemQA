@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of deuterating the bpy ligand in the synthesis of CID-5/6⊃G?",
+      "answer": "The bpy ligand was deuterated to monitor the flip rotation via solid-state 2H NMR.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the solid-solution approach affect the rotational frequency of molecular rotors in PCPs?",
+      "answer": "The solid-solution approach allows for the continuous modulation of cell volume by changing the solid-solution ratio, which in turn controls the rotational frequency of the molecular rotors.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the cell volume in controlling the rotational frequency of PY2 in CID-5/6⊃G?",
+      "answer": "The differences in cell volumes for the isostructures induce a large change in the dynamics of PY2, allowing for the control of its rotational frequency through precise changes in cell volume.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Why were MOF-5 solid-solutions investigated in addition to CID-5/6⊃G?",
+      "answer": "MOF-5 solid-solutions with robust and cubic-type frameworks were investigated to understand the impact of framework flexibility on the control of rotational frequency.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What role does the fluctuation of the Zn2+-Zn2+ distance play in the rotation of molecular rotors within CID-5⊃G and CID-6⊃G?",
+      "answer": "The fluctuation of the Zn2+-Zn2+ distance, caused by thermal oscillation of the Zn2+-Zn2+ bonds, decreases the energy barrier for the rotation of PY2, facilitating its rotation.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of guest molecules in CID-5/6⊃G affect the rotational frequency of PY2?",
+      "answer": "The guest molecules in CID-5/6⊃G influence the steric hindrance for PY2 rotation and limit the flip frequency, as observed in the difference in maximum frequency between CID-5/6⊃G and CID-5/6.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the relationship between the solid-solution ratio x and the rotational frequency of PY2 in CID-5/6⊃G?",
+      "answer": "The rotational frequency of PY2 in CID-5/6⊃G increases as the solid-solution ratio x increases from 0 to 0.55, due to the decrease in barriers for PY2 rotation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why does the PY2 flip frequency remain nearly the same for solid-solution ratios of 0.55 ≤ x ≤ 1 in CID-5/6⊃G?",
+      "answer": "The PY2 flip frequency remains nearly the same for solid-solution ratios of 0.55 ≤ x ≤ 1 due to a structural change from open-pore to closed-pore form, which leaves no space for rotation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the change in solid-solution ratio x affect the activation energy for the rotation of PY2 in CID-5/6?",
+      "answer": "The change in solid-solution ratio x decreases the activation energy for the rotation of PY2, suggesting that modulation of the solid-solution ratio can control the rotational dynamics.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of the structural flexibility of PCPs on the control of molecular rotor dynamics?",
+      "answer": "The structural flexibility of PCPs, as demonstrated by the interdigitated and interpenetrated frameworks, is essential for controlling the molecular rotor dynamics by affecting the cell volume and steric hindrance.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the rotational behavior of the rotor in MOF-5 solid-solutions significantly affected by changes in the solid-solution ratio?",
+      "answer": "No, for MOF-5 solid-solutions, there is no clear difference in the rotational modes and frequencies due to minimal change in the steric hindrance around the rotor.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the solid-solution approach be applied to control the functional dynamics of molecular rotors in other flexible porous materials?",
+      "answer": "True, the solid-solution approach should be applicable for the control of the functional dynamics of molecular rotors in other flexible porous materials.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the solid-solution approach allow for thermal modulation in controlling the rotational frequency of molecular rotors?",
+      "answer": "True, it is expected that combining the solid-solution approach with thermal modulation will offer a wider range of capabilities for tuning molecular rotor dynamics.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the rotational frequency of molecular rotors in crystalline solids only controllable through chemical modifications?",
+      "answer": "False, the rotational frequency of molecular rotors in crystalline solids can also be controlled through the solid-solution approach, which modulates the cell volume without the need for chemical modifications.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of guest molecules always enhance the rotational frequency of molecular rotors in PCPs?",
+      "answer": "False, the presence of guest molecules can influence the steric hindrance for rotation and limit the flip frequency, as seen in the difference between CID-5/6⊃G and CID-5/6.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the control of molecular rotor rotational frequencies using a solid-solution approach limited to a specific type of PCP?",
+      "answer": "False, the approach is not limited to a specific type of PCP but can be applied to various PCPs with different structural characteristics to control the rotational frequencies.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the rotational frequencies of molecular rotors in PCPs only affected by the local environment and not by the overall crystal structure?",
+      "answer": "False, the rotational frequencies of molecular rotors in PCPs are affected by both the local environment around the rotors and the overall crystal structure, including cell volume and void spaces.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

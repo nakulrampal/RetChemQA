@@ -1,0 +1,36 @@
+{
+  "materials": [
+    {
+      "name": "[Fe(L)(TPPE)0.5]·3 CH3OH (1·3CH3OH)",
+      "synthesis_conditions": {
+        "solvents": [
+          "CH3OH",
+          "CH2Cl2/CH3OH (3:2 v/v)"
+        ],
+        "solvent_amounts": [
+          "5 mL",
+          "5 mL"
+        ],
+        "chemicals_used": [
+          "[FeL(CH3OH)2] (0.03 mmol, 15.2 mg)",
+          "TPPE (0.015 mmol, 9.6 mg)"
+        ],
+        "temperature": "room temperature",
+        "time": "6 days",
+        "yield": "65 % (based on TPPE)",
+        "equipment": "glass bottle for slow diffusion"
+      }
+    },
+    {
+      "name": "[Fe(L)(TPPE)0.5] (1)",
+      "synthesis_conditions": {
+        "starting_material": "1·3CH3OH",
+        "temperature": "77 88C",
+        "time": "half an hour",
+        "atmosphere": "flowing nitrogen",
+        "drying_method": "heating under flowing nitrogen",
+        "equipment": "glass bottle"
+      }
+    }
+  ]
+}

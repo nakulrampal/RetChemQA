@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of PCM-102?",
+      "answer": "C63H63Co3FN6O16P2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to calculate the binding energies for the various C2 hydrocarbons in PCM-102?",
+      "answer": "The Vienna ab-initio simulation package (VASP) was used to calculate the binding energies.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system and space group of Ag-PCM-102?",
+      "answer": "The crystal system of Ag-PCM-102 is orthorhombic and its space group is Pnma.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the gas sorption analysis for C2H6, C2H4, and C2H2 conducted?",
+      "answer": "The gas sorption analysis was conducted using a glass vacuum manifold equipped with a diffusion pump, utilizing Micromeritics Tristar 3020 for volumetric adsorption measurements.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the purpose of using the SQUEEZE utility in PLATON during the refinement of metalated PCM-102 structures?",
+      "answer": "The SQUEEZE utility in PLATON was applied to metalated PCM-102 structures post-refinement to remove residual peaks due to disordered solvent.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the observed trend in sorption selectivity for Ag- and Au-PCM-102 with C2 hydrocarbons?",
+      "answer": "The observed trend in sorption selectivity for Ag- and Au-PCM-102 with C2 hydrocarbons was C2H2 > C2H6 > C2H4.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the result of the Bader charge analysis on Ag-PCM-102 loaded with C2 gases?",
+      "answer": "The Bader charge analysis showed minimal interaction between the metal center and all three C2 hydrocarbons, with the strongest interactions occurring at the phenyl rings.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the Cu-PCM-102 material stable under the conditions used for gas sorption analysis?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the PXRD patterns confirm the successful exchange of Ag in Ag-PCM-102 with Cu and Au?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the Ag(0) contamination significant in the Ag-PCM-102 sample according to the PXRD analysis?",
+      "answer": "False, the PXRD patterns indicated no significant Ag(0) contamination in Ag-PCM-102.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

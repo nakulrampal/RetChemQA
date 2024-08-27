@@ -1,0 +1,66 @@
+{
+  "SIFSIX-2-Ni-i": {
+    "chemicals_used": [
+      "1,2-bis(4-pyridyl)acetylene (dpa)",
+      "NiSiF6·6H2O"
+    ],
+    "solvents": "methanol",
+    "amount_of_solvent": "10 ml",
+    "temperature": "85°C",
+    "time": "12 h",
+    "equipment": "30 ml Pyrex tube with a screw cap",
+    "activation_temperature": "60°C",
+    "activation_time": "12 h",
+    "activation_vacuum": "high vacuum (3 mtorr)"
+  },
+  "SIFSIX-3-Ni": {
+    "reference": "50"
+  },
+  "NbOFFIVE-1-Ni": {
+    "reference": "8, 46"
+  },
+  "AlFFIVE-1-Ni": {
+    "reference": "47"
+  },
+  "1,2-bis(4-pyridyl)acetylene (dpa)": {
+    "synthesis_reference": "49"
+  },
+  "Powder_X-ray_diffraction_(PXRD)": {
+    "equipment": "PANalytical X’Pert MPD-PRO diffractometer",
+    "radiation_type": "Cu Kα 1",
+    "radiation_wavelength": "1.5406 Å",
+    "voltage_current": "45 kV/40 mA"
+  },
+  "Single-crystal_X-ray_diffraction": {
+    "equipment": "Bruker X8 PROSPECTOR APEX2 CCD diffractometer",
+    "radiation_type": "Cu Kα",
+    "radiation_wavelength": "1.54178 Å"
+  },
+  "H2S_sorption_measurement": {
+    "method": "pressure decay method",
+    "temperature_range": "up to 423 K",
+    "pressure_range": "up to 20 MPa",
+    "activation_temperature": "200°C",
+    "activation_time": "24 h",
+    "activation_vacuum": "10−6 mbar"
+  },
+  "High-pressure_gas_adsorption": {
+    "equipment": "Rubotherm magnetic suspension balance",
+    "temperature_range": "77 K to 423 K",
+    "pressure_range": "0 to 20 MPa",
+    "activation_temperature": "333 K",
+    "activation_time": "24 h",
+    "activation_vacuum": "10−6 mbar"
+  },
+  "Column_breakthrough_test_set-up": {
+    "sample_amount": "300–500 mg",
+    "activation_gas": "helium",
+    "activation_flow_rate": "50 cm3 g−1",
+    "activation_time": "8 h"
+  },
+  "Computational_details": {
+    "method": "DFT",
+    "functional": "Perdew–Burke–Ernzerhof (PBE)",
+    "dispersion_corrections": "Grimme’s semi-empirical"
+  }
+}

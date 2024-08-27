@@ -1,0 +1,42 @@
+{
+  "materials": [
+    {
+      "name": "MAF-41 or 1·pX",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "Methanol",
+            "amount": "1.0 ml"
+          },
+          {
+            "name": "Aqueous ammonia/methanol (vol/vol = 1/1)",
+            "amount": "1 ml"
+          },
+          {
+            "name": "p-Xylene",
+            "amount": "2 ml"
+          }
+        ],
+        "chemicals_used": [
+          "2,6-ditrifluoromethyl-benzodiimidazole (H2fbdim)",
+          "[Cu(NH3)2]OH"
+        ],
+        "yield": "~35%",
+        "equipment": "N2 atmosphere",
+        "time": "12 h",
+        "washing_method": "Washed with MeOH (20 ml)",
+        "drying_method": "Dried in air",
+        "additional_notes": "For bulk microcrystalline 1·pX powder, a solution of H2fbdim (184 mg, 0.625 mol) in MeOH/pX (vol/vol = 1/1, 30 ml) was dropwise added into a solution of [Cu(NH3)2]OH (1.25 mol) in aqueous ammonia/methanol (vol/vol = 1/1, 50 ml) while stirring in a N2 atmosphere."
+      }
+    },
+    {
+      "name": "1'",
+      "synthesis_conditions": {
+        "temperature": "Below 150 °C",
+        "yield": "Weight loss of 19%",
+        "additional_notes": "After guest removal, the host transformed to a shrunken structure denoted as 1′ and collapsed above 500 °C. The crystal structure of 1′ was determined by Rietveld refinement of the PXRD pattern, revealing a 38% volume shrinkage compared to the as-synthesized one."
+      }
+    }
+  ]
+}

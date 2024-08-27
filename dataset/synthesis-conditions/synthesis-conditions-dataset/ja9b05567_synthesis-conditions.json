@@ -1,0 +1,113 @@
+{
+  "materials": [
+    {
+      "name": "2-ampd–Mg2(dobpdc)",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "toluene",
+            "amount": "4 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "1 mL"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "2-(aminomethyl)piperidine (2-ampd)",
+            "amount": "1 mL"
+          },
+          {
+            "name": "Mg2(dobpdc)",
+            "amount": "15 mg"
+          }
+        ],
+        "equipment": "20 mL scintillation vial",
+        "time": "at least 12 h",
+        "temperature": "room temperature",
+        "washing_method": {
+          "solvents": [
+            {
+              "name": "toluene",
+              "cycles": "3"
+            },
+            {
+              "name": "methanol",
+              "cycles": "3"
+            }
+          ],
+          "temperature": "60 °C"
+        },
+        "drying_method": {
+          "under": "flowing N2",
+          "temperature": "180 °C",
+          "time": "24 h"
+        },
+        "yield": "not specified"
+      },
+      "characterization": {
+        "PXRD": {
+          "conditions": [
+            {
+              "radiation": "Cu Kα",
+              "wavelength": "1.5418 Å"
+            }
+          ]
+        },
+        "N2_adsorption_isotherm": {
+          "temperature": "77 K",
+          "BET_surface_area": "618 ± 2 m2/g"
+        },
+        "TGA": {
+          "temperature_range": {
+            "initial": "<90 °C",
+            "second": "190–390 °C",
+            "third": ">400 °C"
+          },
+          "observations": [
+            "loss of water, toluene, and excess diamine",
+            "diamine volatilization from the metal sites",
+            "decomposition of the framework"
+          ],
+          "ramp_rate": "1.5 °C/min"
+        },
+        "IR_spectroscopy": {
+          "observations": [
+            "C(O)O− vibration at 1648 cm−1",
+            "C–N//N–C(O)O− vibrations at 1362 and 1342 cm−1"
+          ]
+        }
+      },
+      "properties": {
+        "CO2_adsorption_capacity": {
+          "at_40_mbar_CO2": "3.47 mmol/g",
+          "at_1_bar_CO2": "0.00 mmol/g",
+          "temperature": "40 °C"
+        },
+        "regeneration_energy": {
+          "without_water": "2.77 MJ/kg CO2",
+          "with_water": "4.33 MJ/kg CO2"
+        },
+        "thermal_stability": {
+          "under_humid_conditions": "up to 180 °C"
+        },
+        "oxidative_stability": {
+          "under_dry_air": "stable at 100 °C for 5 h"
+        },
+        "cycling_stability": {
+          "number_of_cycles": "750",
+          "conditions": [
+            {
+              "adsorption": "humid 4% CO2 in N2, 40 °C, 5 min"
+            },
+            {
+              "desorption": "humid pure CO2, 140 °C, 1 min"
+            }
+          ],
+          "capacity_after_final_cycle": "16.0 g/100 g"
+        }
+      }
+    }
+  ]
+}

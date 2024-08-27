@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "question": "What is the principle behind the net-clipping approach for deducing the topology of MOFs?",
+      "answer": "The net-clipping approach is based on the top-down deconstruction of edge-transitive nets by rational clipping of the connecting groups of more-symmetric MBBs in edge-transitive nets to predict the topologies of MOFs containing zigzag ligands.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How were the zigzag ligands derived from square-like MBBs?",
+      "answer": "Zigzag ligands were derived from 4-c square-like MBBs by first splitting the 4-c nodes into two 3-c nodes and then clipping their two diagonally connecting groups.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the outcome of applying net-clipping to the 17 edge-transitive nets containing square-like 4-c MBBs?",
+      "answer": "Applying net-clipping to the 17 edge-transitive nets containing square-like 4-c MBBs led to the generation of 10 nets with different underlying topologies.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the relationship between the nbo MOF PCN-10 and its derived net after net-clipping?",
+      "answer": "The nbo MOF PCN-10, when subjected to net-clipping, induced the formation of a 2D sql MOF topology.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the net-clipping approach validate the synthesis of MOFs with zigzag ligands?",
+      "answer": "The net-clipping approach validates the synthesis of MOFs with zigzag ligands by experimentally assessing MOFs assembled from combining a 4-c MBB with other MBBs and comparing their topologies with those deduced by net-clipping.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the result of net-clipping applied to the scu topology MOF?",
+      "answer": "Applying net-clipping to the scu topology MOF resulted in a clipped bcu MOF topology.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the hexanuclear cluster in Tb-fcu-3,3'-BPDC compared to the ftw-MOF-BPTC structure?",
+      "answer": "The significance lies in the coordination environment of the hexanuclear cluster; in Tb-fcu-3,3'-BPDC, 4 carboxylates in the horizontal plane of the cluster show chelating coordination to a single atom, whereas in ftw-MOF-BPTC, they are bridging two metal atoms.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The net-clipping approach can predict the topology of MOFs built with zigzag ligands by deconstructing edge-transitive nets.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: All edge-transitive nets containing square-like 4-c MBBs can be clipped into other nets using the net-clipping approach.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The presence of a 6-cycle in edge-transitive nets always frustrates the net clipping in a fully zigzag fashion.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The net-clipping approach was applied to synthesize a new acs-MOF built with a zigzag ligand.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The net-clipping approach cannot be applied to predict the topology of MOFs containing bent ligands.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The net-clipping approach led to the successful design and assembly of three novel MOFs based on MBBs with different connectivities.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

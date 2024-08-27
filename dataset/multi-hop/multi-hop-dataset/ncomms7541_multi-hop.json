@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "question": "What is the primary mechanism by which the photoredox catalyst switches between ON and OFF states?",
+      "answer": "The primary mechanism involves utilizing coordinating effectors that control the redox potential of the antennae relative to the structural metal centres, thus enabling or disabling photoinduced electron transfer (PeT) which is used to out-compete picosecond-range energy transfer from the excited antenna to the catalytically active reaction centre.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the incorporation of acetonitrile affect the photoredox catalytic activity of the system?",
+      "answer": "The incorporation of acetonitrile into the system by displacing the Bodipy hemilabile ligand expands the complex, shifts the oxidation potential of the antenna to more negative potentials, disables PeT from Rh(I), and results in an increase in energy transfer efficiency to the porphyrin, thus enhancing the photoredox catalytic activity.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What role does the zinc porphyrin play in the light-harvesting antenna/reaction centre mimic?",
+      "answer": "The zinc porphyrin serves as an energy acceptor from the Bodipy antenna, and upon excitation, it undergoes electron transfer to the fullerene moiety with high efficiency, leading to the formation of a charge-separated state that is crucial for the photoredox catalytic activity.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the photoredox catalytic activity of the system be regulated in situ and reversibly?",
+      "answer": "Yes, the photoredox catalytic activity of the system can be regulated in situ and reversibly by introducing and abstracting allosteric effectors of the proper charge, without appreciably affecting the intrinsic properties of the reactants themselves.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of chloride coordination on the system's photoredox catalytic activity?",
+      "answer": "The coordination of chloride lowers the Rh(I) oxidation potential more than it shifts Bodipy's, enhancing the thermodynamic driving force for PeT from Rh(I) to Bodipy, which results in minimal porphyrin-based emission upon excitation of the antenna and a decrease in the system's photoredox catalytic activity.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the system achieve substrate selectivity in its photoredox catalytic activity?",
+      "answer": "The system achieves substrate selectivity in its photoredox catalytic activity by ensuring that the activation of the central catalytic moiety only occurs when recognition of a targeted analyte provides the proper Rh(I) oxidation potential for light harvesting to occur.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the lifetime of the excited energy acceptor constant following excitation in different coordination modes of the system?",
+      "answer": "Yes, the lifetime of the excited energy acceptor (zinc porphyrin) is roughly constant following excitation in different coordination modes of the system, suggesting that photoinduced electron transfer from Rh(I) to Bodipy is the primary contributor to the toggling of energy transfer.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The system's ability to regulate photoredox catalytic activity is based on pH fluctuations.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The system utilizes a coordination-driven strategy based on the weak-link approach (WLA) to assemble a structurally switchable framework.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The system's regulatory mechanism is inspired by the photosynthetic machinery of biological systems.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The system can achieve light-harvesting switching ratios of up to 39-fold in a bulk sample.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The system's photoredox catalytic activity is enhanced by the coordination of chloride.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The system's design allows for the independent regulation of the light-harvesting array and the switching unit.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "materials": [
+    {
+      "material": "Compound 1",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "48 hours",
+        "solvents": ["DMF"],
+        "amount_of_solvents": ["2 mL"],
+        "chemicals_used": [
+          "Zn(NO3)2·6H2O (51 mg, 0.2 mmol)",
+          "5-sulfoisophthalic acid (5-sipH3) (49 mg, 0.2 mmol)",
+          "4,4'-bipyridine (bpy) (31 mg, 0.2 mmol)"
+        ],
+        "equipment": "teflon-lined autoclave",
+        "cooling_rate": "to room temperature over 12 hours",
+        "additional_information": "Colorless plate-shaped crystals obtained."
+      }
+    },
+    {
+      "material": "Compound 2",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "48 hours",
+        "solvents": ["DMF", "methanol"],
+        "amount_of_solvents": ["1 mL DMF", "1 mL methanol"],
+        "chemicals_used": [
+          "Zn(NO3)2·6H2O (51 mg, 0.2 mmol)",
+          "5-sulfoisophthalic acid (5-sipH3) (49 mg, 0.2 mmol)",
+          "trans-1,2-bis(4-pyridyl)ethylene (bpe) (36 mg, 0.2 mmol)"
+        ],
+        "equipment": "teflon-lined autoclave",
+        "cooling_rate": "to room temperature over 12 hours",
+        "additional_information": "Yellow needle-shaped crystals obtained."
+      }
+    },
+    {
+      "material": "Compound 3",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "48 hours",
+        "solvents": ["DMF", "methanol"],
+        "amount_of_solvents": ["1 mL DMF", "1 mL methanol"],
+        "chemicals_used": [
+          "Zn(NO3)2·6H2O (51 mg, 0.2 mmol)",
+          "5-sulfoisophthalic acid (5-sipH3) (49 mg, 0.2 mmol)",
+          "4,4'-bipyridine (bpy) (31 mg, 0.2 mmol)"
+        ],
+        "equipment": "teflon-lined autoclave",
+        "cooling_rate": "to room temperature over 12 hours",
+        "additional_information": "Colorless plate-shaped crystals obtained."
+      }
+    }
+  ]
+}

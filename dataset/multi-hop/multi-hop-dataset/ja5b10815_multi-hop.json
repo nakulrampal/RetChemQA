@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for the nanocage labeled as '1'?",
+      "answer": "[Cu24(L)24(H2O)16(DMA)8]·15MeOH·42DMA",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to synthesize the nanocage labeled '2'?",
+      "answer": "Solvothermal synthesis from a DMA/MeOH solution followed by the addition of DMSO.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the transition from a 2D to a 3D nanocage polymer achieved?",
+      "answer": "By increasing the reaction temperature and adjusting the DMSO:MeOH ratio.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of using DMSO in the synthesis of nanocage '2'?",
+      "answer": "DMSO reduces the steric hindrance around the metal sites, facilitating polymerization.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the BET surface area change from 0D nanocage '1' to 3D polymer '2'?",
+      "answer": "The BET surface area increases from 85 m2/g for '1' to 471 m2/g for '2'.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the CO2 adsorption behavior of nanocages '1', '2', and '3' indicative of microporous materials?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the 2D nanocage polymer '3' be directly synthesized without first creating nanocage '1'?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesis of nanocage '1' require a temperature of 75°C?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the CO2/N2 selectivity ratio for the 3D nanocage polymer '2' higher at 273 K than at 298 K?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does temperature play in the conversion of 2D polymer '3' to 3D polymer '2'?",
+      "answer": "Temperature facilitates the competition of phenolic hydroxyl groups with coordinated DMSO molecules on the Cu(II) sites, allowing the conversion.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of increasing the DMSO:MeOH ratio on the structure of the nanocages?",
+      "answer": "Increasing the DMSO:MeOH ratio first leads to the formation of a 3D structure, then a 2D structure, and finally reverts back to discrete cages.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the gas adsorption study indicative of an enhancement in properties with increased dimensionality of the nanocages?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesis of nanocage '2' involve a temperature-induced crystal transformation?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What analytical technique was used to confirm the structure of the synthesized nanocages?",
+      "answer": "Single crystal X-ray diffraction (SCXRD) studies.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of DMA in the synthesis of nanocage '1'?",
+      "answer": "DMA molecules occupy the outer vertices of Cu2(COO)4 paddlewheel, affecting the steric hindrance and polymerization potential.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the BET surface area directly proportional to the dimensionality of the nanocage structures?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the primary challenge in the assembly of supramolecular nanocages into ordered frameworks?",
+      "answer": "The controlled arrangement of the supramolecular nanocages into an ordered 2D or 3D framework structure.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the synthesis of nanocage '3' differ from that of '2'?",
+      "answer": "The synthesis of '3' involves a higher DMSO:MeOH ratio, leading to a 2D polymerization manner, unlike '2' which forms a 3D structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the discrete nanocage '1' directly polymerize without modification?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of the synthesis conditions on the properties of the nanocages?",
+      "answer": "The synthesis conditions, including solvent type and temperature, significantly impact the dimensionality and thus the properties of the nanocages.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

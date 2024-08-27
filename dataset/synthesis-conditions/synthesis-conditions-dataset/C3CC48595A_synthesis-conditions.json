@@ -1,0 +1,90 @@
+{
+  "materials": [
+    {
+      "name": "bis(4-pyridyl)butadiyne (bpb)",
+      "synthesis_conditions": {
+        "temperature": "40-45°C",
+        "solvents": [
+          {
+            "name": "pyridine",
+            "amount": "2-3 ml"
+          },
+          {
+            "name": "chloroform",
+            "purpose": "dissolving residual solid"
+          },
+          {
+            "name": "ethyl acetate",
+            "purpose": "recrystallization"
+          }
+        ],
+        "equipment": "stirring, reduced pressure for removing pyridine",
+        "chemicals_used": [
+          {
+            "name": "CuCl",
+            "amount": "130 mg, 0.96 mmol"
+          },
+          {
+            "name": "4-ethynylpyridine",
+            "amount": "600 mg, 5.81 mmol"
+          },
+          {
+            "name": "ammonium chloride solution",
+            "amount": "30 ml, 10%",
+            "purpose": "washing"
+          },
+          {
+            "name": "MgSO4",
+            "purpose": "drying organic layer"
+          }
+        ],
+        "time": "2 h",
+        "yield": "312 mg, 53%",
+        "washing_method": "aqueous solution of ammonium chloride",
+        "drying_method": "over MgSO4, filtered and dried"
+      }
+    },
+    {
+      "name": "[Fe(bpb)Pt(CN)4]·2naphthalene (1) and [Fe(bpb)Pt(CN)4]·2nitrobenzene (2)",
+      "synthesis_conditions": {
+        "technique": "slow diffusion",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "0.5 mL",
+            "purpose": "dissolving (NH4)2Fe(SO4)2·6H2O and K2Pt(CN)4·3H2O"
+          },
+          {
+            "name": "water/methanol solution",
+            "amount": "1:1",
+            "purpose": "filling the vessel"
+          }
+        ],
+        "equipment": "multi-arm shaped vessel",
+        "chemicals_used": [
+          {
+            "name": "(NH4)2Fe(SO4)2·6H2O",
+            "amount": "20 mg, 51 mmol"
+          },
+          {
+            "name": "bpb (solid)",
+            "amount": "11 mg, 49 mmol"
+          },
+          {
+            "name": "guest (naphthalene or nitrobenzene)",
+            "amount": "50 mg"
+          },
+          {
+            "name": "K2Pt(CN)4·3H2O",
+            "amount": "22 mg, 51 mmol"
+          }
+        ],
+        "time": "6 weeks",
+        "crystal_description": {
+          "1": "Square shaped yellow crystals",
+          "2": "Square shaped brown crystals"
+        }
+      }
+    }
+  ]
+}

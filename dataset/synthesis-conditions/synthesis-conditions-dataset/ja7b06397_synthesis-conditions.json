@@ -1,0 +1,66 @@
+{
+  "materials": [
+    {
+      "name": "Co2(m-dobdc) and Ni2(m-dobdc)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "310 mL"
+          },
+          {
+            "name": "DMF",
+            "amount": "310 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H4(m-dobdc)",
+            "amount": "2.00 g, 10.1 mmol"
+          },
+          {
+            "name": "CoCl2 or NiCl2",
+            "amount": "3.27 g, 25.2 mmol"
+          }
+        ],
+        "temperature": "120 °C",
+        "time": "18 h",
+        "washing_method": "rinsed with DMF, soaked in DMF at 120 °C for 24 h, rinsed with methanol, soaked in methanol at 60 °C for 12 h, repeated four times",
+        "drying_method": "heated at 180 °C under dynamic vacuum (<0.01 mbar) for 24 h",
+        "yield": "~54%",
+        "equipment": "1-L three-neck round-bottom flask equipped with a reflux condenser"
+      }
+    },
+    {
+      "name": "Mn2(m-dobdc) and Fe2(m-dobdc)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "12 mL"
+          },
+          {
+            "name": "DMF",
+            "amount": "68 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "MCl2 (M = Mn or Fe)",
+            "amount": "2.5 equiv, 3.0 mmol"
+          },
+          {
+            "name": "H4(m-dobdc)",
+            "amount": "240 mg, 1.0 equiv, 1.2 mmol"
+          }
+        ],
+        "temperature": "120 °C",
+        "time": "18 h",
+        "washing_method": "rinsed with DMF, soaked in DMF at 120 °C for 24 h, rinsed with methanol, soaked in methanol at 60 °C for 12 h, repeated four times",
+        "drying_method": "heated at 180 °C under dynamic vacuum (<0.01 mbar) for 24 h",
+        "yield": "~75% for Mn2(m-dobdc) and ~85% for Fe2(m-dobdc)",
+        "equipment": "200 mL Schlenk flask"
+      }
+    }
+  ]
+}

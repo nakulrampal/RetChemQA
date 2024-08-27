@@ -1,0 +1,40 @@
+{
+  "materials": [
+    {
+      "name": "Ni-TBAPy-SC",
+      "synthesis": {
+        "chemicals_used": "NiSO4·6H2O (5.7 mg), H4TBAPy (20 mg)",
+        "solvents": "DMF, dioxane, H2O",
+        "solvent_amounts": "2:1:1, 2 mL",
+        "equipment": "25 mL Teflon-lined stainless-steel autoclave",
+        "temperature": "120 °C",
+        "time": "72 h",
+        "cooling_rate": "2 °C h–1",
+        "washing_method": "washing with DMF four times",
+        "drying_method": "drying at room temperature"
+      }
+    },
+    {
+      "name": "Ni-TBAPy-NB Nanobelt",
+      "synthesis": {
+        "starting_material": "Ni-TBAPy-SC (20 mg)",
+        "solvents": "MeOH, H2O",
+        "solvent_amounts": "90 mL of MeOH, 10 mL of H2O",
+        "additives": "ascorbic acid (15 mM)",
+        "equipment": "ultrasonic treatment",
+        "temperature": "room temperature",
+        "time": "5 min"
+      }
+    },
+    {
+      "name": "H4TBAPy-NiOx",
+      "synthesis": {
+        "chemicals_used": "H4TBAPy (17.7 mg), NiOx (2.3 mg)",
+        "solvents": "MeOH, H2O",
+        "solvent_amounts": "90 mL of MeOH, 10 mL of H2O",
+        "mixing_method": "stirred",
+        "time": "3h"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "materials": [
+    {
+      "name": "bis(N-oxide) axle 12+",
+      "synthesis_conditions": {
+        "precursors": [
+          "4,4’-bipyridine mono-N-oxide",
+          "1,2-dibromoethane"
+        ],
+        "solvent": "Not specified",
+        "temperature": "Same as bis(4,4’bipyridinium)ethane axle",
+        "equipment": "Not specified",
+        "time": "Not specified",
+        "yield": "Not specified",
+        "additional_steps": [
+          {
+            "step": "Anion exchange to triflate"
+          }
+        ]
+      }
+    },
+    {
+      "name": "[M(H2O)(OTf)(2)3][Cl][OTf]7 (M = Sm, Eu, Gd, Tb)",
+      "synthesis_conditions": {
+        "precursors": [
+          "1[OTf]2",
+          "DB24C8",
+          "[M(OTf)3] (M = Sm, Eu, Gd, Tb)"
+        ],
+        "solvent": "MeCN",
+        "temperature": "Room temperature",
+        "equipment": "Not specified",
+        "time": "Not specified",
+        "yield": "Moderate (~50%)",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified"
+      }
+    },
+    {
+      "name": "[Yb(OTf)(2)3][Cl][OTf]7",
+      "synthesis_conditions": {
+        "precursors": [
+          "Yb(OTf)3",
+          "[2]pseudorotaxane ligand 2(OTf)2"
+        ],
+        "solvent": "Not specified",
+        "temperature": "Room temperature",
+        "method": "Slow diffusion",
+        "yield": "Moderate",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified"
+      }
+    }
+  ]
+}

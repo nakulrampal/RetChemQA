@@ -1,0 +1,78 @@
+{
+  "materials": [
+    {
+      "name": "6,6'-dihydroxy-2,2'-bipyridine (H2L)",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "33% HBr/HOAc solution",
+            "amount": "7 mL"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "6,6'-dimethoxy-2,2'-bipyridine",
+            "amount": "303 mg, 1.4 mmol"
+          }
+        ],
+        "temperature": "reflux for 72 h",
+        "yield": "199 mg, 76%",
+        "washing_method": "washed with acetone",
+        "drying_method": "dried",
+        "characterization": [
+          {
+            "technique": "1H NMR",
+            "solvent": "DMSO-d6",
+            "details": "11.05 (br s, 2H), 7.68 (t, 2H, J = 8.0 Hz), 7.27 (br s, 2H), 6.59 (d, 2H, J = 8.8 Hz)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "[Cu(HL)(µ2-OH)]n",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "methanol/water mixture",
+            "details": "1 equiv. of CuSO4 (aq) added"
+          }
+        ],
+        "method": "Solvent was evaporated slowly under ambient temperature to afford blue-green needle-like crystals."
+      }
+    },
+    {
+      "name": "Cu-L complex",
+      "recovery": {
+        "method": "Solution of Cu-L complex (1 mM × 5 mL, pH 12.4, 0.1 M NaOH/NaOAc buffer) was collected after electrolysis and acidified with 2M HCl. Silica-supported triamine tetraacetate (30 mg, 0.9 mmol/g, 5.5equiv.) was added to remove copper(II) ions. The mixture was sonicated for 10 min. The solid was then separated by centrifugation and dissolved in methanol-d4. The methanol-d4 solution was collected and 5 µmol of mesitylene was added as an internal standard. The NMR spectrum was recorded to quantify the recovered H2L (at a recovery rate of >90%) based on integrations of proton peaks.",
+        "characterization": [
+          {
+            "technique": "NMR",
+            "solvent": "methanol-d4",
+            "details": "Quantification of recovered H2L based on integrations of proton peaks."
+          }
+        ]
+      }
+    }
+  ],
+  "general_information": {
+    "equipment": [
+      {
+        "type": "Bruker SMART APEX II diffractometer",
+        "details": "Used for single-crystal X-ray diffraction and powder X-ray diffraction (PXRD) patterns collection using Cu radiation."
+      },
+      {
+        "type": "Shimadzu UV-2401PC spectrometer",
+        "details": "Used for recording UV-Vis spectra."
+      },
+      {
+        "type": "Varian 820-MS Inductively Coupled Plasma-Mass Spectrometer (ICP-MS)",
+        "details": "Used to determine the metal contents in the samples."
+      },
+      {
+        "type": "Bruker BioTOF Mass Spectrometer",
+        "details": "Used for mass spectrometric analyses conducted using positive-ion electrospray ionization."
+      }
+    ],
+    "chemicals": "All chemicals were used as received from various companies (Fisher, Sigma-Aldrich, etc.) without further purification."
+  }
+}

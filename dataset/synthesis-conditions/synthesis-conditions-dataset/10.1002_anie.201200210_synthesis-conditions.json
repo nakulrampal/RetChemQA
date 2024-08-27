@@ -1,0 +1,43 @@
+{
+  "materials": [
+    {
+      "material_id": "1",
+      "synthesis_conditions": {
+        "method": "Hydrothermal treatment",
+        "precursors": [
+          "V2O5",
+          "K2C2O4",
+          "H3PO4"
+        ],
+        "precursor_amounts": {
+          "V2O5": "0.590 g, 3.24 mmol",
+          "K2C2O4": "1.40 g, 7.6 mmol",
+          "H3PO4": "4.0 mL, 60.87 mmol"
+        },
+        "solvent": "H2O",
+        "solvent_amount": "10 mL",
+        "temperature": "120 8C",
+        "time": "35 h",
+        "cooling_time": "18 h",
+        "washing_method": "washed with water",
+        "drying_method": "dried under vacuum",
+        "yield": "1.3 g, 75 %",
+        "additional_information": "sonicated for about 5 min before sealing in a stainless steel autoclave"
+      }
+    },
+    {
+      "material_id": "2",
+      "synthesis_conditions": {
+        "method": "Modified procedure from 1",
+        "note": "Specific synthesis conditions for 2 are not detailed but it is mentioned that a modified procedure from 1 is used."
+      }
+    },
+    {
+      "material_id": "3",
+      "synthesis_conditions": {
+        "method": "Lithium exchange experiments",
+        "note": "Specific synthesis conditions for 3 are not detailed but it is mentioned that lithium exchange experiments using 1 at room temperature shows the formation of 3."
+      }
+    }
+  ]
+}

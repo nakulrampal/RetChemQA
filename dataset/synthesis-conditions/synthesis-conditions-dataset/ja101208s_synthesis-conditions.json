@@ -1,0 +1,106 @@
+{
+  "materials": [
+    {
+      "name": "Ce-MDIP1",
+      "synthesis_conditions": {
+        "temperature": "100ºC",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "screw capped vial",
+        "chemicals_used": [
+          {
+            "name": "methylenediisophthalicacid (H4MDIP)",
+            "amount": "86mg (0.25mmol)"
+          },
+          {
+            "name": "Ce(NO3)3⋅6H2O",
+            "amount": "217mg (0.5mmol)"
+          },
+          {
+            "name": "L-BCIP",
+            "amount": "125mg (0.5mmol)"
+          },
+          {
+            "name": "Et3N",
+            "amount": "pH = 6.0"
+          }
+        ],
+        "time": "3 days",
+        "yield": "60%",
+        "drying_method": "filtration"
+      }
+    },
+    {
+      "name": "Ce-MDIP2",
+      "synthesis_conditions": {
+        "temperature": "100ºC",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "screw capped vial",
+        "chemicals_used": [
+          {
+            "name": "methylenediisophthalicacid (H4MDIP)",
+            "amount": "86mg (0.25mmol)"
+          },
+          {
+            "name": "Ce(NO3)3⋅6H2O",
+            "amount": "217mg (0.5mmol)"
+          },
+          {
+            "name": "D-BCIP",
+            "amount": "125mg (0.5mmol)"
+          },
+          {
+            "name": "Et3N",
+            "amount": "pH = 6.0"
+          }
+        ],
+        "time": "3 days",
+        "yield": "56%",
+        "drying_method": "filtration"
+      }
+    },
+    {
+      "name": "Cd-TBT",
+      "synthesis_conditions": {
+        "temperature": "120ºC",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "50mL"
+          }
+        ],
+        "equipment": "screw capped vial",
+        "chemicals_used": [
+          {
+            "name": "1,3,5-tripbenzoic acid (H3TBT)",
+            "amount": "204mg (0.50mmol)"
+          },
+          {
+            "name": "Cd(ClO4)2·6H2O",
+            "amount": "209.7mg (0.50mmol)"
+          },
+          {
+            "name": "L-BCIP",
+            "amount": "125mg (0.50mmol)"
+          },
+          {
+            "name": "Et3N",
+            "amount": "145.8mg (1.44mmol)"
+          }
+        ],
+        "time": "3 days",
+        "yield": "65%",
+        "drying_method": "filtration"
+      }
+    }
+  ]
+}

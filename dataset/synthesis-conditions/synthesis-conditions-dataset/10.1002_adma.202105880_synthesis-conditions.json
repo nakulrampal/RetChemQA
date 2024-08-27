@@ -1,0 +1,41 @@
+{
+  "materials": [
+    {
+      "name": "Cu-F-pymo",
+      "synthesis_conditions": {
+        "temperature": "ambient temperature",
+        "solvents": "water",
+        "equipment": "not specified",
+        "chemicals_used": [
+          "copper nitrate",
+          "5-fluoropyrimidin-2-olate"
+        ],
+        "time": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified",
+        "activation_temperature": [
+          "room temperature",
+          "elevated temperature"
+        ],
+        "additional_information": "synthesized without using any harmful solvents and further heating"
+      }
+    },
+    {
+      "name": "Cu-F-pymo activated at 303 K",
+      "synthesis_conditions": {
+        "chemical_formula": "[Cu(F-pymo)2]·0.29H2O",
+        "comments": "The weight change between two activation temperatures is consistent with hydration in pore A [Cu(F-pymo)2]·0.25H2O."
+      }
+    },
+    {
+      "name": "Cu-F-pymo-b",
+      "synthesis_conditions": {
+        "activation_temperature": "elevated temperature",
+        "BET_surface_area": "133 m2 g−1",
+        "C2H2_uptake": "0.90 mmol g−1",
+        "comments": "Complete removal of the residual water molecules was achieved."
+      }
+    }
+  ]
+}

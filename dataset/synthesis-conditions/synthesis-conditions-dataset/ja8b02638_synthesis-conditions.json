@@ -1,0 +1,80 @@
+{
+  "materials": [
+    {
+      "name": "2,5-Bis­(4-(pyridin-4-yl)­phenyl)­thiazolo­[5,4-d]­thiazole (BPPTzTz)",
+      "synthesis": {
+        "step_1": {
+          "chemicals_used": {
+            "dithiooxamide": "0.130 g, 1.12 mmol",
+            "4-(4-formylphenyl)­pyridine": "0.270 g, 1.46 mmol",
+            "DMF": "1.5 mL"
+          },
+          "procedure": "Mixed and heated at reflux overnight to yield a dark yellow suspension. Cooled to room temperature, filtered, washed with water, and recrystallized with DMF.",
+          "yield": "190 mg, 58%",
+          "characterization": {
+            "1H_NMR": "CDCl3, 300 MHz: δ 9.62 (br s, 4H), 9.15 (br s, 4H), 9.05 (d, 3JH-H = 6.5 Hz, 4H), 8.85 (d, 3JH-H = 6.5 Hz, 4H) ppm",
+            "13C_NMR": "CDCl3, 75 MHz: δ 174.8 (Cq), 160.8 (Cq), 150.3 (Cq), 143.4 (CH), 140.1 (Cq), 136.0 (Cq), 131.4 (CH), 130.7 (CH), 127.1 (CH) ppm",
+            "Elemental_Analysis": "Found C, 69.50; H, 3.10; N, 12.25%. Calculated for C26H16N4S2: C, 69.62; H, 3.60; N, 12.49%",
+            "ESI_MS": "ESI+, CH3CN: 449.03 (Calculated [M + H]+ = 449.09, 100%) amu"
+          }
+        }
+      }
+    },
+    {
+      "name": "2,5-Bis­(3,5-dimethyl-4-(pyridine-4-yl)­phenyl)­thiazolo­[5,4-d]­thiazole (BDPPTzTz)",
+      "synthesis": {
+        "step_1": {
+          "chemicals_used": {
+            "dithiooxamide": "70.0 mg, 0.600 mmol",
+            "3,5-dimethyl-4-(4-pyridinyl)-benzaldehyde": "0.250 g, 1.18 mmol",
+            "DMF": "10.0 mL"
+          },
+          "procedure": "Mixed and heated at 120 °C for 3 days to yield a yellow suspension. Cooled to room temperature, filtered, washed with water, and recrystallized with DMF.",
+          "yield": "134 mg, 45%",
+          "characterization": {
+            "1H_NMR": "CDCl3, 200 MHz: δ 8.80 (d, 3JH-H = 5.8 Hz, 4H, phenyl), 7.82 (s, 4H, pyridyl), 7.44 (d, 3JH-H = 5.8 Hz, 4H, phenyl), 2.14 (s, 6H, CH3) ppm",
+            "13C_NMR": "CDCl3, 75 MHz: δ 169.3 (Cq), 162.9 (Cq), 151.3 (Cq), 150.5 (CH), 149.1 (Cq), 141.8 (Cq), 136.8 (CH), 133.7 (Cq), 125.9 (CH), 21.1 (CH3) ppm",
+            "Elemental_Analysis": "Found C, 71.69; H, 4.76; N, 11.60%. Calculated for C30H24N4S2: C, 71.40; H, 4.79; N, 11.10%",
+            "ESI_MS": "ESI+, CH3CN: 505.14 (Calculated [M + H]+ = 505.14, 100%) amu"
+          }
+        }
+      }
+    },
+    {
+      "name": "[Zn2(BPPTzTz)2(tdc)2]n Framework (1)",
+      "synthesis": {
+        "step_1": {
+          "chemicals_used": {
+            "Zn(NO3)2·6H2O": "33.3 mg, 0.112 mmol",
+            "BPPTzTz": "25 mg, 0.0557 mmol",
+            "2,5-thiophenedicarboxylic acid (tdc)": "19.2 mg, 0.112 mmol",
+            "DMF": "10.0 mL"
+          },
+          "procedure": "Mixed and heated at 120 °C for 15 h to yield an orange solid.",
+          "yield": "32.0 mg, 90%",
+          "characterization": {
+            "Elemental_Analysis": "Found C, 61.20; H, 3.33; N, 5.98; S, 13.23%. Calculated for C66H40O4N4S6Zn2·2DMF: C, 60.80; H, 3.83; N, 5.91; S, 13.52%"
+          }
+        }
+      }
+    },
+    {
+      "name": "[Zn4(BDPPTzTz)2(tdc)4]n Framework (2)",
+      "synthesis": {
+        "step_1": {
+          "chemicals_used": {
+            "Zn(NO3)2·6H2O": "11.8 mg, 0.0397 mmol",
+            "BDPPTzTz": "10.0 mg, 0.0198 mmol",
+            "2,5-thiophenedicarboxylic acid (tdc)": "6.82 mg, 0.0396 mmol",
+            "DMF": "6.0 mL"
+          },
+          "procedure": "Mixed and heated at 120 °C for 3 days to yield prismatic yellow crystals.",
+          "yield": "16 mg, 82%",
+          "characterization": {
+            "Elemental_Analysis": "Found C, 51.24; H, 4.37; N, 7.23; S, 9.87%. Calculated for C84H72O16N8S8Zn4·5DMF: C, 50.97; H, 4.62; N, 7.80; S, 10.99%"
+          }
+        }
+      }
+    }
+  ]
+}

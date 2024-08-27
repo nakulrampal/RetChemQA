@@ -1,0 +1,78 @@
+{
+  "materials": [
+    {
+      "name": "[Mg2(AcO)4(bpdo)]n (1)",
+      "synthesis_conditions": {
+        "temperature": "423 K",
+        "solvents": "DMF",
+        "amount_of_solvent": "5 ml",
+        "chemicals_used": [
+          {
+            "name": "Mg(AcO)2·4H2O",
+            "amount": "107 mg, 0.50 mmol"
+          },
+          {
+            "name": "bpdo",
+            "amount": "94 mg, 0.50 mmol"
+          }
+        ],
+        "time": "6 h",
+        "washing_method": "filtered, dispersed in DMF (20 ml), heated at 373 K for 10 min",
+        "drying_method": "dried at 298 K under vacuum for 2 h",
+        "yield": "97 mg, 82%"
+      }
+    },
+    {
+      "name": "{[Mg2(1,4-bdc)2(bpdo)]·2DMF}n (2* 2DMF)",
+      "synthesis_conditions": {
+        "temperature": "423 K",
+        "solvents": "DMF",
+        "amount_of_solvent": "5 ml",
+        "chemicals_used": [
+          {
+            "name": "MgCl2·6H2O",
+            "amount": "203 mg, 1.00 mmol"
+          },
+          {
+            "name": "1,4-H2bdc",
+            "amount": "166 mg, 1.0 mmol"
+          },
+          {
+            "name": "bpdo",
+            "amount": "94 mg, 0.50 mmol"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": "filtered, washed with DMF",
+        "drying_method": "dried at 298 K under vacuum for 2 h",
+        "yield": "292 mg, 41%"
+      }
+    },
+    {
+      "name": "{[Ca(1,4-bdc)(bpdo)]·0.5DMF}n (3* 0.5DMF)",
+      "synthesis_conditions": {
+        "temperature": "423 K",
+        "solvents": "DMF",
+        "amount_of_solvent": "40 ml",
+        "chemicals_used": [
+          {
+            "name": "Ca(NO3)2·4H2O",
+            "amount": "708 mg, 3.00 mmol"
+          },
+          {
+            "name": "1,4-H2bdc",
+            "amount": "498 mg, 3.00 mmol"
+          },
+          {
+            "name": "bpdo",
+            "amount": "1.13 g, 6.00 mmol"
+          }
+        ],
+        "time": "48 h",
+        "washing_method": "filtered, washed with DMF",
+        "drying_method": "dried at 298 K under vacuum for 2 h",
+        "yield": "1.20 g, 97%"
+      }
+    }
+  ]
+}

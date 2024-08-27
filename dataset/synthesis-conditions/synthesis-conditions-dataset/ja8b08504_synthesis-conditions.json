@@ -1,0 +1,215 @@
+{
+  "materials": [
+    {
+      "name": "H4L1",
+      "synthesis": {
+        "method": "Previously reported methods",
+        "reference": "1a"
+      }
+    },
+    {
+      "name": "H4L2",
+      "synthesis": {
+        "method": "Previously reported methods",
+        "reference": "1a"
+      }
+    },
+    {
+      "name": "H4L3",
+      "synthesis": {
+        "steps": [
+          {
+            "step_description": "Synthesis of 4,4'-dibromo-2,2'-dinitrobiphenyl",
+            "chemicals_used": [
+              "2,5-dibromonitrobenzene",
+              "activated copper powder",
+              "DMF"
+            ],
+            "solvents": [
+              "toluene",
+              "EtOH"
+            ],
+            "yield": "70%",
+            "characterization": {
+              "1H NMR": "Provided",
+              "13C NMR": "Provided",
+              "MS": "Provided",
+              "Elemental Analysis": "Provided"
+            }
+          },
+          {
+            "step_description": "Synthesis of 4,4'-dibromo-[1,1'-biphenyl]-2,2'-diamine",
+            "chemicals_used": [
+              "4,4'-dibromo-2,2'-dinitro-1,1'-biphenyl",
+              "anhydrous SnCl2",
+              "EtOH",
+              "concentrated HCl"
+            ],
+            "yield": "87%",
+            "characterization": {
+              "1H NMR": "Provided",
+              "13C NMR": "Provided",
+              "IR": "Provided",
+              "Elemental Analysis": "Provided"
+            }
+          },
+          {
+            "step_description": "Synthesis of 2'',3'-dinitro-[1,1':4',1'':4'',1'''-quaterphenyl]-3,3''',5,5'''-tetraethylcarboxylate ester",
+            "chemicals_used": [
+              "1,3-dicarboxylethylester-5-boronic acid",
+              "4,4’-dibromo-2,2’-dinitrobiphenyl",
+              "K2CO3",
+              "tri(tert-butyl)phosphine",
+              "Pd2(dba)3"
+            ],
+            "solvents": [
+              "toluene",
+              "water"
+            ],
+            "yield": "73%",
+            "characterization": {
+              "1H NMR": "Provided"
+            }
+          },
+          {
+            "step_description": "Synthesis of 2'',3'-dinitro-[1,1':4',1'':4'',1'''-quaterphenyl]-3,3''',5,5'''-tetracarboxylic acid",
+            "chemicals_used": [
+              "2'',3'-dinitro-[1,1':4',1'':4'',1'''-quaterphenyl]-3,3''',5,5'''-tetraethylcarboxylate ester",
+              "aqueous NaOH",
+              "EtOH",
+              "tetrahydrofuran"
+            ],
+            "yield": "Not specified",
+            "characterization": {
+              "1H NMR": "Provided",
+              "HRMS": "Provided",
+              "Elemental Analysis": "Provided"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "H4L4",
+      "synthesis": {
+        "steps": [
+          {
+            "step_description": "Synthesis of 4,4'-dibromo-[1,1'-biphenyl]-2,2'-diamine",
+            "chemicals_used": [
+              "4,4'-dibromo-2,2'-dinitro-1,1'-biphenyl",
+              "anhydrous SnCl2",
+              "EtOH",
+              "concentrated HCl"
+            ],
+            "yield": "87%",
+            "characterization": {
+              "1H NMR": "Provided",
+              "13C NMR": "Provided",
+              "IR": "Provided",
+              "Elemental Analysis": "Provided"
+            }
+          },
+          {
+            "step_description": "Synthesis of 2'',3'-diamino-[1,1':4',1'':4'',1'''-quaterphenyl]-3,3''',5,5'''-tetraethylcarboxylate ester",
+            "chemicals_used": [
+              "4,4'-dibromo-[1,1'-biphenyl]-2,2'-diamine",
+              "1,3-dicarboxylethylester-5-boronic acid",
+              "potassium triphosphate",
+              "Pd(dppf)Cl2"
+            ],
+            "solvents": [
+              "1,4 dioxane",
+              "water"
+            ],
+            "yield": "83%",
+            "characterization": {
+              "1H NMR": "Provided",
+              "Elemental Analysis": "Provided"
+            }
+          },
+          {
+            "step_description": "Synthesis of 2'',3'-diamino-[1,1':4',1'':4'',1'''-quaterphenyl]-3,3''',5,5'''-tetracarboxylic acid",
+            "chemicals_used": [
+              "Tetraethyl-2'',3'-diamino-[1,1':4',1'':4'',1'''-quaterphenyl]-3,3''',5,5'''-tetracarboxylic acid",
+              "NaOH solution",
+              "EtOH/THF"
+            ],
+            "yield": "81%",
+            "characterization": {
+              "1H NMR": "Provided",
+              "MS": "Provided",
+              "Elemental Analysis": "Provided"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "MFM-102-NO2",
+      "synthesis": {
+        "steps": [
+          {
+            "step_description": "Preparation of MFM-102-NO2: [Cu2(H2O)2(L3)]·7DMF·6H2O",
+            "chemicals_used": [
+              "H4L3",
+              "Cu(NO3)2.2.5H2O",
+              "DMF",
+              "DMSO",
+              "HCl in DMF"
+            ],
+            "conditions": {
+              "temperature": "90 oC",
+              "time": "24 h"
+            },
+            "yield": "Not specified",
+            "characterization": {
+              "FTIR": "Provided",
+              "Elemental Analysis": "Provided"
+            }
+          }
+        ],
+        "stability_tests": [
+          {
+            "test_description": "Air stability test",
+            "conditions": [
+              "72 hours in air",
+              "48 hours in air",
+              "24 hours in air"
+            ],
+            "results": "Moderate stability to air"
+          },
+          {
+            "test_description": "Water stability test",
+            "conditions": "Soaking in water for 15 mins",
+            "results": "PXRD pattern collected after soaking"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MFM-102-NH2",
+      "synthesis": {
+        "steps": [
+          {
+            "step_description": "Preparation of MFM-102-NH2: [Cu2(H2O)2(L4)]·6DMF·5H2O",
+            "chemicals_used": [
+              "H4L4",
+              "Cu(NO3)2.2.5H2O",
+              "DMF",
+              "HCl in DMF"
+            ],
+            "conditions": {
+              "temperature": "Not specified",
+              "time": "Not specified"
+            },
+            "yield": "70%",
+            "characterization": {
+              "FTIR": "Provided",
+              "Elemental Analysis": "Provided"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

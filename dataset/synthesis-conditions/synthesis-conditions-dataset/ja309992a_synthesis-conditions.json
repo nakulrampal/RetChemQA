@@ -1,0 +1,238 @@
+{
+  "materials": [
+    {
+      "name": "5-(pyridin-4-yl) isophthalic acid diethyl ester",
+      "synthesis_steps": [
+        {
+          "chemicals_used": [
+            {
+              "name": "pyridin-4-ylboronic acid",
+              "amount": "1.61 g",
+              "mmol": "13.06 mmol"
+            },
+            {
+              "name": "diethyl 5-iodoisophthalate",
+              "amount": "3.50 g",
+              "mmol": "10.05 mmol"
+            },
+            {
+              "name": "K3PO4",
+              "amount": "4.66 g",
+              "mmol": "17.05 mmol"
+            },
+            {
+              "name": "Tetrakis(triphenylphosphine)palladium(0)",
+              "amount": "0.466 g",
+              "mmol": "0.404 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "1,4-dioxane",
+              "amount": "60 mL"
+            },
+            {
+              "name": "CHCl3"
+            }
+          ],
+          "conditions": [
+            {
+              "temperature": "80°C",
+              "time": "3 days"
+            }
+          ],
+          "yield": "1.8 g (59.6%)"
+        }
+      ]
+    },
+    {
+      "name": "5-(pyridin-4-yl) isophthalic acid (L1)",
+      "synthesis_steps": [
+        {
+          "chemicals_used": [
+            {
+              "name": "potassium hydroxide",
+              "amount": "7.26 g",
+              "mmol": "129.3 mmol"
+            },
+            {
+              "name": "5-(pyridin-4-yl)isophthalic acid diethyl ester",
+              "amount": "1.8 g",
+              "mmol": "6.0 mmol"
+            },
+            {
+              "name": "1.0 M HCl"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "methanol",
+              "amount": "100 mL"
+            },
+            {
+              "name": "water",
+              "amount": "100 mL"
+            }
+          ],
+          "conditions": [
+            {
+              "temperature": "80°C",
+              "time": "24h"
+            }
+          ],
+          "yield": "1.36 g (93.8%)"
+        }
+      ]
+    },
+    {
+      "name": "SYSU, [Cu(L1)·2H2O·1.5DMF]∞",
+      "synthesis_steps": [
+        {
+          "chemicals_used": [
+            {
+              "name": "CuCl2·2H2O",
+              "amount": "6.8 mg",
+              "mmol": "0.04 mmol"
+            },
+            {
+              "name": "L1",
+              "amount": "10 mg",
+              "mmol": "0.04 mmol"
+            },
+            {
+              "name": "concentrated HCl",
+              "amount": "0.01 mL"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "methanol",
+              "amount": "0.5 mL"
+            },
+            {
+              "name": "N,N-dimethylformamide",
+              "amount": "1.5 mL"
+            }
+          ],
+          "conditions": [
+            {
+              "temperature": "85°C",
+              "time": "48h"
+            }
+          ],
+          "yield": "Not specified",
+          "analysis": [
+            {
+              "type": "IR",
+              "details": "2916, 1673, 1625, 1505, 1441, 1371, 1298, 1255, 1088, 919, 839, 777, 724, 644 cm–1"
+            },
+            {
+              "type": "Elemental analysis",
+              "details": "C, 50.56 (50.16) H, 4.66 (4.51) N, 9.3 (9.24)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "NJU-Bai7, [Cu(L2)·DMF]∞",
+      "synthesis_steps": [
+        {
+          "chemicals_used": [
+            {
+              "name": "CuCl2·2H2O",
+              "amount": "6.8 mg",
+              "mmol": "0.04 mmol"
+            },
+            {
+              "name": "L2",
+              "amount": "10 mg",
+              "mmol": "0.04 mmol"
+            },
+            {
+              "name": "concentrated HCl",
+              "amount": "0.01 mL"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "methanol",
+              "amount": "0.5 mL"
+            },
+            {
+              "name": "N,N-dimethylformamide",
+              "amount": "1.5 mL"
+            }
+          ],
+          "conditions": [
+            {
+              "temperature": "85°C",
+              "time": "48h"
+            }
+          ],
+          "yield": "Not specified",
+          "analysis": [
+            {
+              "type": "IR",
+              "details": "2946, 1670, 1622, 1592, 1508, 1453, 1412, 1380, 1299, 1250, 1192, 1093, 1045, 923, 906, 876, 779, 727, 705, 657, 634 cm–1"
+            },
+            {
+              "type": "Elemental analysis",
+              "details": "C, 50.82 (51.15) H, 3.71 (3.62) N, 7.41 (7.37)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "NJU-Bai8, [Cu(L3)·DMF·H2O]∞",
+      "synthesis_steps": [
+        {
+          "chemicals_used": [
+            {
+              "name": "CuCl2·2H2O",
+              "amount": "6.8 mg",
+              "mmol": "0.04 mmol"
+            },
+            {
+              "name": "L3",
+              "amount": "10 mg",
+              "mmol": "0.04 mmol"
+            },
+            {
+              "name": "concentrated HCl",
+              "amount": "0.01 mL"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "methanol",
+              "amount": "0.5 mL"
+            },
+            {
+              "name": "N,N-dimethylformamide",
+              "amount": "1.5 mL"
+            }
+          ],
+          "conditions": [
+            {
+              "temperature": "85°C",
+              "time": "48h"
+            }
+          ],
+          "yield": "Not specified",
+          "analysis": [
+            {
+              "type": "IR",
+              "details": "2918, 1668, 1625, 1593, 1555, 1457, 1407, 1379, 1092, 782, 729 cm–1"
+            },
+            {
+              "type": "Elemental analysis",
+              "details": "C, 51.69 (52.23) H, 2.17 (2.20) N, 7.53 (7.71)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

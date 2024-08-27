@@ -1,0 +1,62 @@
+{
+  "materials": [
+    {
+      "name": "{Fe(bpt)[Pt(CN)4]} · 0.5anth",
+      "synthesis_conditions": {
+        "solvents": "MeOH/H2O mixture",
+        "chemicals_used": [
+          "Fe(ClO4)2 · 6H2O",
+          "bidentate ligand bpt",
+          "guest molecule anthracene",
+          "K2[Pt(CN)4]·3H2O"
+        ],
+        "temperature_stability": "below 406 K",
+        "crystal_system": [
+          {
+            "temperature": "300 K",
+            "space_group": "orthorhombic Pbam",
+            "Fe-N_bpt_bond_length_range": "2.201–2.212 Å",
+            "Fe-N_cyanide_bond_length_range": "2.106–2.126 Å"
+          },
+          {
+            "temperature": "185 K to 125 K",
+            "space_group": "orthorhombic Pbam",
+            "average_Fe-N_bpt_bond_length": "2.207 to 2.109 Å",
+            "average_Fe-N_cyanide_bond_length": "2.116 to 2.027 Å"
+          },
+          {
+            "temperature": "100 K",
+            "space_group": "low-temperature phase C2/m",
+            "Fe-N_bpt_bond_length": "1.987 Å",
+            "Fe-N_cyanide_bond_length": "1.992 Å"
+          },
+          {
+            "temperature": "30 K",
+            "space_group": "C2/m",
+            "Fe-N_bpt_bond_length": "1.962 Å",
+            "Fe-N_cyanide_bond_length": "1.982 Å"
+          }
+        ],
+        "photo_irradiation_conditions": [
+          {
+            "temperature": "10 K",
+            "light_wavelength": "532 nm",
+            "resulting_phase": "HT* phase",
+            "space_group": "orthorhombic Pbam",
+            "unit_cell_volume_change": "increase by 5.31%",
+            "average_Fe-N_bond_length": "2.164 Å"
+          },
+          {
+            "temperature": "30 K",
+            "light_wavelength": "808 nm",
+            "resulting_phase": "LT* phase",
+            "space_group": "C2/m",
+            "unit_cell_volume_change": "decrease by 4.26%",
+            "average_Fe-N_bond_length": "1.958 Å"
+          }
+        ],
+        "yield": "Not specified"
+      }
+    }
+  ]
+}

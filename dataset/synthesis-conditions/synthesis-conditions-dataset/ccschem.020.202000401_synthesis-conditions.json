@@ -1,0 +1,76 @@
+{
+  "materials": [
+    {
+      "name": "Cu3L3",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": ["ethanol", "pyridine"],
+        "amount_of_each_solvent": ["4 mL ethanol", "0.1 mL pyridine"],
+        "equipment": "8 mL Pyrex tube",
+        "chemicals_used": ["1H-pyrazole-4-carbaldehyde (HL)", "Cu2O"],
+        "time": "72 h",
+        "cooling_rate": "-5 °C·h−1",
+        "yield": "75.8% (based on Cu2O)",
+        "chemical_formula": "C12H9Cu3N6O3",
+        "IR": ["3481 w", "3109 w", "2782 w", "1667 s", "1537 s", "1416 m", "1337 w", "1203 s", "1044 m", "872 w", "767 m", "625 w"],
+        "solid_state_13C_CP_MAS_NMR": ["124 ppm", "142 ppm", "184 ppm"]
+      }
+    },
+    {
+      "name": "JNM-1",
+      "synthesis_conditions": {
+        "stepwise_synthesis": {
+          "temperature": "120 °C",
+          "solvents": ["mesitylene", "dioxane"],
+          "amount_of_each_solvent": ["0.5 mL mesitylene", "0.5 mL dioxane"],
+          "equipment": "10 mL Schlenk tube",
+          "chemicals_used": ["Cu3L3", "1,3,5-tris(4-aminophenyl)benzene (1)"],
+          "time": "72 h",
+          "washing_method": "solvent exchanged with tetrahydrofuran (THF) and fresh dimethylformamide (DMF)",
+          "drying_method": "dried under vacuum at 100 °C for 8 h",
+          "yield": "73% (based on Cu3L3)",
+          "chemical_formula": "C36H24Cu3N9",
+          "IR": ["3355 w", "3112 w", "2872 w", "1667 m", "1617 s", "1539 m", "1490 m", "1375 w", "1199 m", "1050 w", "863 m", "748 w", "641 m"]
+        },
+        "one_pot_synthesis": {
+          "temperature": "120 °C",
+          "solvents": ["mesitylene", "dioxane"],
+          "amount_of_each_solvent": ["0.5 mL mesitylene", "0.5 mL dioxane"],
+          "equipment": "10 mL Schlenk tube",
+          "chemicals_used": ["Cu2O", "1H-pyrazole-4-carbaldehyde (HL)", "1,3,5-tris(4-aminophenyl)benzene (1)"],
+          "time": "72 h",
+          "washing_method": "solvent exchanged with tetrahydrofuran (THF) and fresh dimethylformamide (DMF)",
+          "drying_method": "dried under vacuum at 100 °C for 8 h"
+        }
+      }
+    },
+    {
+      "name": "JNM-2",
+      "synthesis_conditions": {
+        "stepwise_synthesis": {
+          "temperature": "120 °C",
+          "solvents": ["mesitylene", "dioxane"],
+          "amount_of_each_solvent": ["0.5 mL mesitylene", "0.5 mL dioxane"],
+          "equipment": "10 mL Schlenk tube",
+          "chemicals_used": ["Cu3L3", "4,4′,4″-(1,3,5-triazine-2,4,6-triyl)trianiline (2)"],
+          "time": "72 h",
+          "washing_method": "solvent exchanged with tetrahydrofuran (THF) and fresh dimethylformamide (DMF)",
+          "drying_method": "dried under vacuum at 100 °C for 8 h",
+          "yield": "76% (based on Cu3L3)",
+          "chemical_formula": "C33H21Cu3N12",
+          "IR": ["3369 w", "1667 m", "1591 m", "1507 s", "1417 w", "1369 m", "1309 w", "1246 w", "1203 m", "1144 w", "1071 w", "1013 w", "877 w", "814 w"]
+        },
+        "one_pot_synthesis": {
+          "temperature": "120 °C",
+          "solvents": ["mesitylene", "dioxane"],
+          "amount_of_each_solvent": ["0.5 mL mesitylene", "0.5 mL dioxane"],
+          "equipment": "10 mL Schlenk tube",
+          "chemicals_used": ["Cu2O", "1H-pyrazole-4-carbaldehyde (HL)", "4,4′,4″-(1,3,5-triazine-2,4,6-triyl)trianiline (2)"],
+          "time": "72 h",
+          "washing_method": "solvent exchanged with tetrahydrofuran (THF) and fresh dimethylformamide (DMF)",
+          "drying_method": "dried under vacuum at 100 °C for 8 h"
+        }
+      }
+    }
+  ]
+}

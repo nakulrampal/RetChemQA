@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the primary focus of the research article?",
+      "answer": "The primary focus of the research article is on demonstrating the use of a metal-organic framework (MOF) as a reaction vessel for site-selective 'click' chemistry, specifically for the transformation of dialkynes into alkyne-functionalized triazoles without the need for protecting groups.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What unique property of MOFs is utilized in the described research for conducting site-selective reactions?",
+      "answer": "The unique property of MOFs utilized in the described research for conducting site-selective reactions is their ability to spatially isolate reactive sites within their structure, allowing for precise control over chemical transformations.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the MOF environment influence the coordination of the triazolate complex in the study?",
+      "answer": "The MOF environment influences the coordination of the triazolate complex by restricting the rearrangement of products between coordination isomers and stabilizing unusual coordination through steric hindrance, leading to selective and unusual coordination of the triazolate complex.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What computational methods were used to support the experimental findings in the research?",
+      "answer": "Density Functional Theory (DFT) calculations were used to support the experimental findings, specifically to rationalize the formation of the N(1)-bound complex within the MOF, which contrasts with the formation of the N(2)-bound complex in the corresponding molecular species.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the energy barrier calculated for the interconversion of N(1)- and N(2)-bound complexes in the MOF?",
+      "answer": "The significance of the calculated energy barrier for the interconversion of N(1)- and N(2)-bound complexes in the MOF is that it indicates the pathway to interconvert these isomers is energetically inaccessible due to severe steric clashes, thus locking the triazolate ligand in the N(1) coordination and preventing rearrangement to the N(2)-bound isomer.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The research demonstrates that MOFs can act as physical protecting groups to facilitate site-selective and chemoselective transformations.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does steric hindrance play in the site-selective 'click' chemistry within the MOF?",
+      "answer": "Steric hindrance plays a crucial role in the site-selective 'click' chemistry within the MOF by preventing the rearrangement of the triazolate ligand from the N(1)-bound isomer to the N(2)-bound isomer, thus enabling selective coordination and reaction outcomes.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How do the authors validate the selective formation of the N(1)-bound triazolate complex within the MOF?",
+      "answer": "The authors validate the selective formation of the N(1)-bound triazolate complex within the MOF through a combination of experimental techniques, including single-crystal X-ray crystallography, and computational studies using Density Functional Theory (DFT) to analyze the steric effects and energy barriers.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What potential applications are suggested by the ability of MOFs to facilitate site-selective 'click' chemistry?",
+      "answer": "The ability of MOFs to facilitate site-selective 'click' chemistry suggests potential applications in synthesizing complex molecules with precise control over functional group placement, which could be beneficial in pharmaceuticals, materials science, and catalysis.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The research findings indicate that all coordination isomers within the MOF can easily interconvert under the studied conditions.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

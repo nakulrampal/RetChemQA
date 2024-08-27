@@ -1,0 +1,74 @@
+{
+  "materials": [
+    {
+      "name": "In(tcpp)",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "time": "48 h",
+        "solvents": [
+          {
+            "name": "DMA",
+            "amount": "5 mL"
+          },
+          {
+            "name": "water",
+            "amount": "2.5 mL"
+          },
+          {
+            "name": "formic acid",
+            "amount": "0.8 mL"
+          }
+        ],
+        "equipment": "25 mL glass vial",
+        "chemicals_used": [
+          {
+            "name": "InCl3",
+            "amount": "55 mg, 0.25 mmol"
+          },
+          {
+            "name": "H4tcpp",
+            "amount": "50 mg, 0.09 mmol"
+          }
+        ],
+        "washing_method": "washed with DMA",
+        "drying_method": "dried at 60 °C for 12 h",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "In(tcpb)",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "time": "48 h",
+        "solvents": [
+          {
+            "name": "DMA",
+            "amount": "5 mL"
+          },
+          {
+            "name": "water",
+            "amount": "2.5 mL"
+          },
+          {
+            "name": "formic acid",
+            "amount": "0.8 mL"
+          }
+        ],
+        "equipment": "25 mL glass vial",
+        "chemicals_used": [
+          {
+            "name": "InCl3",
+            "amount": "55 mg, 0.25 mmol"
+          },
+          {
+            "name": "H4tcpb",
+            "amount": "50 mg, 0.09 mmol"
+          }
+        ],
+        "washing_method": "washed with DMA",
+        "drying_method": "dried at 60 °C for 12 h",
+        "yield": "not specified"
+      }
+    }
+  ]
+}

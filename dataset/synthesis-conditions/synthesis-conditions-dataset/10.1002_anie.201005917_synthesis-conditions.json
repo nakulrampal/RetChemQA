@@ -1,0 +1,66 @@
+{
+  "materials": [
+    {
+      "name": "HZIF-1W",
+      "synthesis_conditions": {
+        "temperature": "160 8C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "4 mL"
+          }
+        ],
+        "equipment": "23 mL teflon-lined airtight reactor",
+        "chemicals_used": [
+          {
+            "name": "Zn(CH3COO)2·2 H2O",
+            "amount": "0.1760 g, 0.8 mmol"
+          },
+          {
+            "name": "2-methylimidazole (2-mim)",
+            "amount": "0.0960 g, 1.2 mmol"
+          },
+          {
+            "name": "tungstic acid (H2WO4)",
+            "amount": "0.0500 g, 0.2 mmol"
+          }
+        ],
+        "time": "6 days",
+        "washing_method": "washed with water and ethanol",
+        "drying_method": "dried at room temperature",
+        "yield": "Colorless transparent polyhedral crystals as a pure phase"
+      }
+    },
+    {
+      "name": "HZIF-1Mo",
+      "synthesis_conditions": {
+        "temperature": "160 8C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "4 mL"
+          }
+        ],
+        "equipment": "23 mL teflon-lined airtight reactor",
+        "chemicals_used": [
+          {
+            "name": "Zn(CH3COO)2·2 H2O",
+            "amount": "0.1760 g, 0.8 mmol"
+          },
+          {
+            "name": "2-methylimidazole (2-mim)",
+            "amount": "0.0960 g, 1.2 mmol"
+          },
+          {
+            "name": "molybdic acid",
+            "amount": "used instead of tungstic acid, amount not specified"
+          }
+        ],
+        "time": "6 days",
+        "washing_method": "Assumed similar to HZIF-1W: washed with water and ethanol",
+        "drying_method": "Assumed similar to HZIF-1W: dried at room temperature",
+        "yield": "Assumed similar to HZIF-1W: Colorless transparent polyhedral crystals as a pure phase"
+      }
+    }
+  ]
+}

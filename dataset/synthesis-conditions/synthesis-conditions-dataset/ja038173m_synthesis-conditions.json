@@ -1,0 +1,347 @@
+{
+  "materials": [
+    {
+      "material_name": "Ag[closo-1-H-CB11Me11] (1)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "Cs[closo-1-H-CB11Me11]",
+              "amount": "407 mg",
+              "moles": "0.95 mmol"
+            },
+            {
+              "name": "Et2O",
+              "amount": "30 cm3"
+            },
+            {
+              "name": "AgNO3 aqueous solution",
+              "amount": "10% w/v",
+              "details": "3 x 30 cm3 portions"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "Et2O",
+              "amount": "3 x 25 cm3 portions for extraction"
+            },
+            {
+              "name": "CH2Cl2",
+              "amount": "20 mL for redissolving solid"
+            }
+          ],
+          "equipment": [],
+          "time": "",
+          "temperature": "",
+          "yield": "303 mg, 79%",
+          "washing_method": "",
+          "drying_method": "",
+          "characterization": [
+            {
+              "technique": "1H NMR",
+              "solvent": "d6-acetone",
+              "details": "δ 1.09 (1H, s, Ccage-H), -0.16 (15H, s, B(2-6)CH3), -0.39 (15H, s, B(7-11)CH3), -0.51 (3H, s, B(12)CH3)"
+            },
+            {
+              "technique": "11B NMR",
+              "solvent": "d6-acetone",
+              "details": "δ -0.6 (1B, s, B(12)), -8.8 (5B, s, B(7)−B(11)), -12.2 (5B, s, B(2)−B(6))"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "material_name": "Ag(PPh3)(closo-1-H-CB11Me11) (2)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "PPh3",
+              "amount": "60 mg",
+              "moles": "0.23 mmol"
+            },
+            {
+              "name": "Ag[closo-1-H-CB11Me11]",
+              "amount": "92 mg",
+              "moles": "0.23 mmol"
+            },
+            {
+              "name": "CH2Cl2",
+              "amount": "5 cm3"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "CH2Cl2",
+              "amount": "for redissolving solid"
+            },
+            {
+              "name": "hexanes",
+              "details": "for layering"
+            }
+          ],
+          "equipment": [],
+          "time": "16 h",
+          "temperature": "",
+          "yield": "122 mg, 81%",
+          "washing_method": "",
+          "drying_method": "",
+          "characterization": [
+            {
+              "technique": "1H NMR",
+              "solvent": "CD2Cl2",
+              "details": "δ 7.66-7.36 (15H, m, Ph), 1.26 (1H, s, Ccage-H), -0.14 (15H, br s, B(7-11)CH3), -0.22 (3H, br s B(12)CH3), -0.28 (15H, br s, B(2-6)CH3)"
+            },
+            {
+              "technique": "11B NMR",
+              "solvent": "CD2Cl2",
+              "details": "δ -1.3 (1B, s B(12)), -9.0 (5B, s B(7-11)), -11.9 (5B, s, B(2-6)"
+            },
+            {
+              "technique": "31P NMR",
+              "solvent": "CD2Cl2",
+              "details": "δ 17.5 [dd, J(109AgP) 853, J(107AgP) 794]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "material_name": "Ag(P(C6H11)3)(closo-1-H-CB11Me11) (3)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "P(C6H11)3",
+              "amount": "60 mg",
+              "moles": "0.11 mmol"
+            },
+            {
+              "name": "Ag[closo-1-H-CB11Me11]",
+              "amount": "43 mg",
+              "moles": "0.11 mmol"
+            },
+            {
+              "name": "CH2Cl2",
+              "amount": "5 cm3"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "CH2Cl2",
+              "amount": "for redissolving solid"
+            },
+            {
+              "name": "pentane",
+              "details": "for recrystallization"
+            }
+          ],
+          "equipment": [],
+          "time": "",
+          "temperature": "",
+          "yield": "34 mg, 46%",
+          "washing_method": "",
+          "drying_method": "",
+          "characterization": [
+            {
+              "technique": "1H NMR",
+              "solvent": "CD2Cl2",
+              "details": "δ 2.01-1.75 (18H, m, (C6H11)), 1.37-1.21 (16H, m, (C6H11) and Ccage-H), -0.13 (15H, br s, B(2-6)CH3), -0.23 (18H, v br s B(12)CH3 and B(7-11)CH3)"
+            },
+            {
+              "technique": "31P NMR",
+              "solvent": "CD2Cl2",
+              "details": "δ 49.9 [dd, J(109AgP) 821, J(107AgP) 711]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "material_name": "Ag(P(3,5-Me2-C6H3)3)(closo-1-H-CB11Me11) (4)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "P(3,5-Me2-C6H3)3",
+              "amount": "39 mg",
+              "moles": "0.11 mmol"
+            },
+            {
+              "name": "Ag[closo-1-H-CB11Me11]",
+              "amount": "50 mg",
+              "moles": "0.12 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "CH2Cl2",
+              "amount": "for redissolving solid"
+            },
+            {
+              "name": "pentane",
+              "details": "for recrystallization"
+            }
+          ],
+          "equipment": [],
+          "time": "",
+          "temperature": "",
+          "yield": "53 mg, 63%",
+          "washing_method": "",
+          "drying_method": "",
+          "characterization": [
+            {
+              "technique": "1H NMR",
+              "solvent": "CD2Cl2",
+              "details": "δ 7.28-7.02 (9H, m, Ph), 2.39 (18H, s, Ph-CH3), 1.30 (1H, s, Ccage-H), -0.08 (15H, br s, BCH3(2-6)), -0.21 (3H, br s, BCH3(12)), and -0.23 (15H, br s, BCH3(7-11))"
+            },
+            {
+              "technique": "31P NMR",
+              "solvent": "CD2Cl2",
+              "details": "δ 19.14 [br d, J(109/107AgP) 731]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "material_name": "[(OEt2)2Ag(PPh3)][closo-1-H-CB11Me11] (5)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "PPh3Ag(closo-1-H-CB11Me11) (2)",
+              "amount": "30 mg"
+            },
+            {
+              "name": "Et2O",
+              "amount": "5 mL"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "pentane",
+              "details": "for layering"
+            }
+          ],
+          "equipment": [],
+          "time": "",
+          "temperature": "-30 °C",
+          "yield": "",
+          "washing_method": "",
+          "drying_method": "",
+          "characterization": [
+            {
+              "technique": "1H NMR",
+              "solvent": "CD2Cl2",
+              "details": "δ 7.65-7.37 (15H, m, Ph), 3.55 (8H, q, O-CH2), 1.24 (12H, t, CH3) 1.17 (1H, s, Ccage-H), -0.16 (15H, s, BCH3(2-6)), -0.38 (15H, s, BCH3(7-11)), -0.45 (3H, s, BCH3(12))"
+            },
+            {
+              "technique": "31P NMR",
+              "solvent": "CD2Cl2",
+              "details": "δ 18.95 [dd, J(109AgP) 858 Hz, J(107AgP) 774 Hz]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "material_name": "[Ag(PPh3)2][closo-1-H-CB11Me11] (6)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "PPh3",
+              "amount": "130 mg",
+              "moles": "0.50 mmol"
+            },
+            {
+              "name": "Ag[closo-1-H-CB11Me11]",
+              "amount": "100 mg",
+              "moles": "0.25 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "CH2Cl2",
+              "amount": "for redissolving solid"
+            },
+            {
+              "name": "hexanes",
+              "details": "for layering"
+            }
+          ],
+          "equipment": [],
+          "time": "16 h",
+          "temperature": "-30 °C",
+          "yield": "193 mg, 84%",
+          "washing_method": "",
+          "drying_method": "",
+          "characterization": [
+            {
+              "technique": "1H NMR",
+              "solvent": "CD2Cl2",
+              "details": "δ 7.62-7.43 (30H, m, Ph), 1.09 (1H, s, Ccage-H), -0.22 (15H, s, BCH3(2-6)), -0.46 (15H, s, BCH3(7-11)), -0.58 (3H, s, BCH3(12))"
+            },
+            {
+              "technique": "31P NMR",
+              "solvent": "CD2Cl2",
+              "details": "δ 15.80 [dd, J(109AgP) 580, J(107AgP) 541]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "material_name": "[NBu4][closo-1-H-CB11Me11]",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "Cs(closo-1-H-CB11Me11)",
+              "amount": "150 mg",
+              "moles": "0.35 mmol"
+            },
+            {
+              "name": "Et2O",
+              "amount": "30 cm3"
+            },
+            {
+              "name": "[NBu4N]Br",
+              "amount": "560 mg",
+              "moles": "1.75 mmol",
+              "details": "in 100 cm3 of H2O"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "Et2O",
+              "amount": "3 x 20 cm3 portions for extraction"
+            }
+          ],
+          "equipment": [],
+          "time": "",
+          "temperature": "",
+          "yield": "105 mg, 57%",
+          "washing_method": "",
+          "drying_method": "",
+          "characterization": [
+            {
+              "technique": "1H NMR",
+              "solvent": "CD2Cl2",
+              "details": "δ 3.10-3.04 (8H, m, N-CH2), 1.66-1.40 (16H, m, CH2), 1.14 (1H, s, Ccage-H) 1.04 (12H, t, CH3) -0.18 (15H, s, BCH3(2-6)), -0.43 (15H, s, BCH3(7-11)), -0.55 (3H, s, BCH3(12))"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "materials": [
+    {
+      "name": "[Cu(pyrimidine)4]BF4",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "nitrobenzene",
+            "amount": "3 mL"
+          },
+          {
+            "name": "acetonitrile",
+            "amount": "0.5 mL"
+          },
+          {
+            "name": "tetrahydrofuran",
+            "diffusion": "slow"
+          }
+        ],
+        "equipment": "not specified",
+        "chemicals_used": [
+          {
+            "name": "[Cu(CH3CN)4]BF4",
+            "amount": "0.032 g, 0.1 mmol"
+          },
+          {
+            "name": "pyrimidine",
+            "amount": "0.132 g, 1.7 mmol"
+          }
+        ],
+        "time": "several days",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified",
+        "additional_information": "Tetrahydrofuran was allowed to diffuse slowly into the solution, resulting in the formation of yellow needle-shaped crystals."
+      }
+    }
+  ]
+}

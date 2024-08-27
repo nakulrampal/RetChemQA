@@ -1,0 +1,126 @@
+{
+  "materials": [
+    {
+      "name": "Copper(II)–salen ligand [CuII(SalHImCy)](NO3)2",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "MeOH",
+            "amount": "100 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "1,2-cyclohexanediamine",
+            "amount": "0.924 g, 6 mmol"
+          },
+          {
+            "name": "1H-imidazole-4-carbaldehyde",
+            "amount": "1.27 g, 13.2 mmol"
+          },
+          {
+            "name": "CuII(NO3)2·3H2O",
+            "amount": "1.45 g, 6 mmol"
+          }
+        ],
+        "time": "13 h",
+        "yield": "80%",
+        "washing_method": "Washed with MeOH",
+        "drying_method": "Air-dried"
+      }
+    },
+    {
+      "name": "Coordination polymer (CP) 1",
+      "synthesis_conditions": {
+        "temperature": "373 K",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "3 mL"
+          },
+          {
+            "name": "EtOH",
+            "amount": "1.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[CuII(SalImCy)](NO3)2",
+            "amount": "0.0092 g, 0.02 mmol"
+          },
+          {
+            "name": "CuII",
+            "amount": "0.0095 g, 0.05 mmol"
+          }
+        ],
+        "time": "12 h",
+        "yield": "~50%",
+        "washing_method": "Washed repeatedly with CH3CN",
+        "drying_method": "Dried under vacuum at 343 K for 10 h"
+      }
+    },
+    {
+      "name": "Three-component Strecker reaction catalyzed by CP 1",
+      "synthesis_conditions": {
+        "temperature": "283 K",
+        "solvents": [
+          {
+            "name": "CD3CN",
+            "amount": "2 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Aromatic aldehydes",
+            "amount": "1 mmol"
+          },
+          {
+            "name": "(R)-(+)-1-phenylethylamine",
+            "amount": "1 mmol"
+          },
+          {
+            "name": "Trimethylsilyl cyanide (TMSCN)",
+            "amount": "1.5 mmol"
+          },
+          {
+            "name": "CP 1",
+            "amount": "0.5 mol%"
+          }
+        ],
+        "time": "1 h",
+        "yield": "Up to 99%",
+        "catalyst_reusability": "Can be re-used without a significant loss of catalytic activity"
+      }
+    },
+    {
+      "name": "Photocatalytic degradation of organic dyes by CP 1",
+      "synthesis_conditions": {
+        "temperature": "298 K",
+        "solvents": [
+          {
+            "name": "Aqueous solution",
+            "amount": "20 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Organic dyes (MB, MO, RhB)",
+            "amount": "12 mg L-1"
+          },
+          {
+            "name": "Hydrogen peroxide solution",
+            "amount": "Two drops"
+          },
+          {
+            "name": "CP 1",
+            "amount": "0.012 g"
+          }
+        ],
+        "light_source": "500 W xenon arc lamp",
+        "yield": "Up to 96% degradation under visible-light illumination",
+        "catalyst_reusability": "Retained similar photocatalytic efficiency after three cycles"
+      }
+    }
+  ]
+}

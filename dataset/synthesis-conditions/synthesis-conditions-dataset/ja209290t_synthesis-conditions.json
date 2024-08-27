@@ -1,0 +1,117 @@
+{
+  "materials": [
+    {
+      "material": "Network 1",
+      "synthesis_conditions": {
+        "precursors": [
+          "tris(4-pyridyl)triazine (TPT)",
+          "Co(NCS)2"
+        ],
+        "solvents": [
+          {
+            "name": "MeOH/o-dichlorobenzene mixture",
+            "amounts": "Not specified"
+          }
+        ],
+        "method": "According to previously reported procedure",
+        "reference": "Nat. Chem. 2010, 2, 780."
+      }
+    },
+    {
+      "material": "Inclusion complex 1⊃3",
+      "synthesis_conditions": {
+        "precursors": [
+          "Crystals of networked cages 1",
+          "4-hydroxydiphenylamine (3)"
+        ],
+        "solvents": [
+          {
+            "name": "Toluene",
+            "amounts": "5 mL (saturated solution)"
+          }
+        ],
+        "method": "Soaking",
+        "time": "24 h",
+        "temperature": "Room temperature",
+        "atmosphere": "Argon",
+        "washing_method": "Not specified",
+        "drying_method": "Vacuum dried at 1 mmHg for 20 min at room temperature",
+        "yield": "34.5 wt% of 4-hydroxydiphenylamine (3)"
+      }
+    },
+    {
+      "material": "Crystalline State Reaction Products (6 and 7)",
+      "synthesis_conditions": {
+        "precursors": [
+          "Inclusion complexes 1⊃3",
+          "Ethyl isocyanate (4)"
+        ],
+        "solvents": [
+          {
+            "name": "Decane",
+            "amounts": "1.15 M, 4.4 mL"
+          }
+        ],
+        "method": "Soaking",
+        "time": "12 h",
+        "temperature": "Room temperature",
+        "atmosphere": "Argon",
+        "washing_method": "Washed with decane",
+        "drying_method": "Not specified",
+        "yield": "38% of compound 6 and 55% of compound 7"
+      }
+    },
+    {
+      "material": "Control Experiment in Solution Products (5 and 7)",
+      "synthesis_conditions": {
+        "precursors": [
+          "4-hydroxydiphenylamine (3)",
+          "Ethyl isocyanate (4)"
+        ],
+        "solvents": [
+          {
+            "name": "Toluene",
+            "amounts": "Not specified"
+          }
+        ],
+        "method": "Syringe pump addition",
+        "time": "12 h",
+        "temperature": "Room temperature",
+        "yield": "77% of N-acylated product 5 and 23% of diacylated product 7"
+      }
+    },
+    {
+      "material": "Discrete Cage 2 Inclusion with 3",
+      "synthesis_conditions": {
+        "precursors": [
+          "Pd2+ cage 2",
+          "4-hydroxydiphenylamine (3)"
+        ],
+        "solvents": [
+          {
+            "name": "D2O",
+            "amounts": "Not specified"
+          }
+        ],
+        "method": "Stirring",
+        "time": "1 h",
+        "temperature": "Room temperature",
+        "yield": "Inclusion number n ~3 based on integration ratio"
+      }
+    },
+    {
+      "material": "Acylation Reaction between 2⊃3 and EtNCO",
+      "synthesis_conditions": {
+        "precursors": [
+          "Inclusion complex 2⊃3",
+          "Ethyl isocyanate (4)"
+        ],
+        "solvents": "Not specified",
+        "method": "Stirring",
+        "time": "1 h",
+        "temperature": "Room temperature",
+        "yield": "Not specified"
+      }
+    }
+  ]
+}
