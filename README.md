@@ -5,7 +5,7 @@
 
 ## Citation
 
-More details about the RetChemQA are given in the following preprint:
+More details about the RetChemQA dataset are given in the following preprint:
 
 > *Single and Multi-Hop Question-Answering Datasets for Reticular Chemistry with GPT-4-Turbo* <br/>
 > Nakul Rampal, Kaiyu Wang, Matthew Burigana, Lingxiang Hou, Juri Al-Johani, Anna Sackmann, Hanan S. Murayshid, Walaa A. AlSumari, Arwa M. AlAbdulkarim, Nahla E. AlHazmi, Majed O. Alawad, Christian Borgs[^1], Jennifer T. Chayes[^2], Omar M. Yaghi[^3] <br/>
